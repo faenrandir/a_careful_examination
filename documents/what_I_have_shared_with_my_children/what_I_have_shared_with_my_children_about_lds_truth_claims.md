@@ -20,7 +20,7 @@ In addition, we've discussed these somewhat broader-issues:
 1. The differences between [a totalistic and individual-growth mindset](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).
 2. The problematic issues with [indoctrinating children and youth](https://www.youtube.com/watch?v=RlbUw5hjeKI) (e.g., we've watched the Jehovah's Witness video "[Jehovah thinks magic is bad](https://www.youtube.com/watch?v=HM4hOusHrNM)")
 
-Finally, it should be noted that the tenor of my conversations are generally positive, and I am hope and goodness affirming (see [an outline of my beliefs](https://dl.dropboxusercontent.com/u/8812468/closet_exit/summary_of_my_beliefs.pdf)).  In addition, there are compelling arguments suggesting that [morality transcends religious belief](https://dl.dropboxusercontent.com/u/8812468/closet_exit/morality_transcends_religious_belief.pdf), so I speak freely about the merit and satisfaction of living a moral life.
+Finally, it should be noted that the tenor of my conversations are generally positive, and I am hope and goodness affirming (see [an outline of my beliefs](https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_journey/brief_sketch_of_my_journey.pdf)).  In addition, there are compelling arguments suggesting that [morality transcends religious belief](https://github.com/faenrandir/a_careful_examination/raw/master/documents/morality_transcends_religious_belief/morality_transcends_religious_belief.pdf), so I speak freely about the merit and satisfaction of living a moral life.
 
 ### Notes
 
