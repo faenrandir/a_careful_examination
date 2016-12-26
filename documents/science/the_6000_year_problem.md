@@ -1,4 +1,4 @@
-Summary: The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is completely incompatible with the archaeological record.
+Summary: The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.
 
 ---
 
@@ -12,7 +12,7 @@ Joseph Smith claimed to receive direct revelation from God on various topics, an
 
 > A. We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.
 
-According to this revelation, Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.  However, this date is virtually impossible to reconcile in any straightforward manner with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), or the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology).
+According to this direct revelation, Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.  This date is difficult to reconcile with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), or the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology).
 
 Note: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77 [as diagrammed here](http://ndbf.net/002m/Overview.jpg)).  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
 
