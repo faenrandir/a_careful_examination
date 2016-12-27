@@ -1,8 +1,6 @@
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between July 31, 2014 and August 24, 2014.
 
-**R. Gary**
-
-### [How to mix LDS theology and human evolution](https://ndbf.blogspot.com/2014/07/theology-and-science.html)
+### [How to mix LDS theology and human evolution](https://ndbf.blogspot.com/2014/07/theology-and-science.html) [original post by R. Gary]
 
 The Church of Jesus Christ of Latter-day Saints teaches that man is a dual being, with a body and a spirit, and that man is a child of God. None of this is based on science, in fact it contradicts science.
 
@@ -33,7 +31,7 @@ What Elder Packer is referring to is a "secular doctrine" and "philosophy", name
 
 What we have established then, is that the proposition that "we are children of God" is not a scientific proposition at all!  Science *does not* say that we are not children of God, and neither does it say that we are children of God.  The statement lies outside the domain of science as we know it!  At least in these quotes Elder Packer has issues with "secular doctrine", not science.
 
-> This is not science 
+> This is not science
 
 As discussed above, you are absolutely right that Peck is not talking science--he's talking about an event that lies outside the bounds of traditional science.  It's not testable/falsifiable (at least I can't think of how).
 
