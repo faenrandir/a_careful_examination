@@ -1,8 +1,8 @@
+## Exchange on man as animal and the 1910 Priesthood Quorum's table comment as a reflection of Joseph F. Smith's thinking on evolution
+
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between July 31, 2014 and August 24, 2014.
 
-**R. Gary**
-
-### [How to mix LDS theology and human evolution](https://ndbf.blogspot.com/2014/07/theology-and-science.html)
+##### [How to mix LDS theology and human evolution](https://ndbf.blogspot.com/2014/07/theology-and-science.html) [original post by R. Gary]
 
 The Church of Jesus Christ of Latter-day Saints teaches that man is a dual being, with a body and a spirit, and that man is a child of God. None of this is based on science, in fact it contradicts science.
 
@@ -22,7 +22,8 @@ So how do you mix LDS theology and human evolution? Simply modify them both unti
 
 Bruce R. McConkie said it this way: "There is no harmony between the [unmodified] truths of revealed religion and the [unmodified] theories of organic evolution."
 
-[Sicut-part 1 of 3]
+**[Sicut]**
+
 Thank you for sharing your thoughts.
 
 > These ideas, that man is basically an animal and that humans are only advanced animals, are both scientifically correct.
@@ -33,11 +34,10 @@ What Elder Packer is referring to is a "secular doctrine" and "philosophy", name
 
 What we have established then, is that the proposition that "we are children of God" is not a scientific proposition at all!  Science *does not* say that we are not children of God, and neither does it say that we are children of God.  The statement lies outside the domain of science as we know it!  At least in these quotes Elder Packer has issues with "secular doctrine", not science.
 
-> This is not science 
+> This is not science
 
 As discussed above, you are absolutely right that Peck is not talking science--he's talking about an event that lies outside the bounds of traditional science.  It's not testable/falsifiable (at least I can't think of how).
 
-[Sicut-part 2 of 3]
 > and it is definitely not LDS theology.
 
 Peck invokes a spirit/body duality that is very much in harmony with LDS theology and scripture (e.g. Jesus, "into thy hands I commend my spirit". Gen 2:7 "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.", D&C 93:15 "And the spirit and the body are the soul of man".)
@@ -50,7 +50,6 @@ The editor of the 1910 Improvement Era, Joseph F. Smith, saw fit to publish this
 
 Hence, it would appear that Joseph F. Smith did not rule out the possibility for evolutionary origins of Adam's body (although he clearly had a strong opinion about how it happened).
 
-[Sicut-part 3 of 3]
 The underlying implication of this post (and the few vocal anti-evolutionists in the church) is that Adam's body could not have been created through evolutionary means because, they believe, that Adam is the *physical* offspring of God the Father (I'll call it the "Adam begotten" theory).
 
 The irony is that *this* (that God is the physical father of Adam) is really terrible LDS theology!!  Here are just a few of the issues:
@@ -63,20 +62,19 @@ The irony is that *this* (that God is the physical father of Adam) is really ter
 
 4.) Abraham 5:7 "And the Gods formed man from the dust of the ground, and took his spirit (that is, the man’s spirit), and put it into him; and breathed into his nostrils the breath of life, and man became a living soul."  The Gods (plural) responsible for creating the earth are the same ones responsible for creating mankind.  Also, note that there is a distinct phase of creation detailed here (creating man from the dust and then, in a separate step, taking and putting his spirit into it).  Finally, the temple ceremony backs up this interpretation ("Is man found upon the earth?... Jehovah, Michael, then let *us* go down and form man in our own likeness and in our own image... and put into them their spirit..."  Again, the Adam begotten theory basically has to throw this verse and the temple ceremony in the trash can!
 
-To conclude, I will note that Peck's reconciliation is quote harmonious with all four of the above scriptures/concepts.  Your (implied) position is in direct contradiction with all of them.  I will leave it to the readers of this blog as to which position is "definitely not LDS theology".
+To conclude, I will note that Peck's reconciliation is quote [sic (meant "quite")] harmonious with all four of the above scriptures/concepts.  Your (implied) position is in direct contradiction with all of them.  I will leave it to the readers of this blog as to which position is "definitely not LDS theology".
 
+**[R. Gary]**
 
-    Sicut: Your comment has been published (click here). I have just two thoughts at this time.
+Sicut: Your comment has been published ([click here](http://ndbf.net/003h.htm)). I have just two thoughts at this time.
 
-    1. Eight years ago, there was lengthy discussion on this blog about the April 1910 Improvement Era comment you cite (click here). There is no evidence that the 1910 comment was published with Joseph F. Smith's approval and there is substantial evidence that it was not. Apparently, Joseph F. Smith's thinking on the subject is (to you) irrelevant.
+1. Eight years ago, there was lengthy discussion on this blog about the April 1910 Improvement Era comment you cite ([click here](http://ndbf.blogspot.com/2006/05/mormonism-and-evolution-authoritative.html)). There is no evidence that the 1910 comment was published with Joseph F. Smith's approval and there is substantial evidence that it was not. Apparently, Joseph F. Smith's thinking on the subject is (to you) irrelevant.
 
-    2. Nine years ago, there was a lengthy discussion on the Mormons and Evolution blog about Jesus being the only begotten in the flesh (click here). Your comment sidesteps the fact that today's prophets and apostles are authorized to interpret and expand on what is in the standard works.
+2. Nine years ago, there was a lengthy discussion on the Mormons and Evolution blog about Jesus being the only begotten in the flesh ([click here](http://mormonevolution.blogspot.com/2005/03/adam-and-eve-how.html#c111319943503168121)). Your comment sidesteps the fact that today's prophets and apostles are authorized to interpret and expand on what is in the standard works.
 
-    Thank you for taking time to share your thoughts.
+Thank you for taking time to share your thoughts.
 
-    1. Eight years ago, there was lengthy discussion on this blog about the April 1910 Improvement Era comment you cite (click here). There is no evidence that the 1910 comment was published with Joseph F. Smith's approval and there is substantial evidence that it was not. Apparently, Joseph F. Smith's thinking on the subject is (to you) irrelevant.
-
----
+**[Sicut]**
 
 Gary, thank you for pointing me back to these relevant posts.  I appreciate your research and perspective.
 
@@ -100,10 +98,13 @@ Of course I care about what he thinks, but--like you--I'm far more interested in
 
 I hope to respond to the second point when I get a chance.  Best regards.
 
-> Sicut: Your comment has been published (click here). But note that, in a formal 1909 statement, Joseph F. Smith's First Presidency did, in point of fact, rule out the possibility for evolutionary origins of Adam's body, and among the apostles and prophets since then, there has been vocal support for that interpretation of the 1909 statement.
+**[R. Gary]**
 
-> Furthermore, no Church President and no apostle is on record in official LDS media questioning or clarifying Joseph F. Smith's 1909 First Presidency statement regarding the "Origin of Man." As a matter of fact, that same 1909 statement has been republished by the Church twice in this century.
+Sicut: Your comment has been published ([click here](http://ndbf.net/003i.htm)). But note that, in a formal 1909 statement, Joseph F. Smith's First Presidency did, in point of fact, rule out the possibility for evolutionary origins of Adam's body, and among the apostles and prophets since then, there has been vocal support for that interpretation of the 1909 statement.
 
+Furthermore, no Church President and no apostle is on record in official LDS media questioning or clarifying Joseph F. Smith's 1909 First Presidency statement regarding the "Origin of Man." As a matter of fact, that same 1909 statement has been republished by the Church twice in this century.
+
+**[Sicut]**
 
 > note that, in a formal 1909 statement, Joseph F. Smith's First Presidency did, in point of fact, rule out the possibility for evolutionary origins of Adam's body
 
@@ -112,3 +113,23 @@ The 1909 statement clearly allows for an evolutionary origin for man's body.  Th
 "...whether we take this to mean the spirit or the body, or both..."
 
 It is difficult to imagine that the author of the April 1910 statement did not consult the 1909 statement when composing their response (since the 1909 statement was undoubtedly the *very reason* the several Quorums were seeking clarification).  Furthermore, if the 1909 statement clearly precluded the possibility for an evolutionary origin for Adam's body, then it is equally difficult to imagine that the First Presidency would not have sought to correct the "mis-interpretation" of the April 1910 statement.
+
+**[R. Gary]**
+
+Sicut: Your current comment has been appended to your comment from four days ago.
+
+1. God says: "Hearken to the words of my servants the prophets." (Jer. 26;5.)
+
+    Unfortunately, I have not been able to find the verse which says: "Hearken to the words of letters to the editor and anonymous comments if they appear in Church magazines, even if they disagree with what the prophets teach."
+
+2. Years ago a reader wrote to the Ensign as follows: "I saw the letter in the December Ensign on chocolate. No doubt some well-intentioned Saints will now feel that the Church is against chocolate since the letter appeared in the Ensign."
+
+    The Ensign responded: "The information was relayed so that the readership could make of it whatever their individual consciences desired."
+
+3. Similarly, Joseph F. Smith, as editor of the Improvement Era wrote: "It may be well to remind our readers that the Era is not responsible for the individual views or opinions expressed by contributors to its columns." (Editor's Table, Dec. 1915.) The April 1910 anonymous comment appeared in just such a column.
+
+4. Meanwhile, at BYU in April 1910, three instructors were teaching "theories on evolution as applied to the origin of man" along the lines of the April 1910 Priesthood Quorums' Table statement that "the mortal bodies of man [may have] evolved in natural processes to present perfection."
+
+    Upon investigation, it was discovered that whenever such ideas were found to be in conflict with scripture, "it required the modification of the latter to come into harmony with the former." When the investigation concluded, President Joseph F. Smith announced in the Improvement Era that it had been decided such ideas would no longer be taught at BYU by these instructors because: "Teachers in a Church school ... could not be given opportunity to inculcate theories that were out of harmony with the recognized doctrines of the Church, and hence that they be required to refrain from so doing."
+
+These events strongly support the conclusion that the April 1910 anonymous comment does not represent the thinking of Joseph F. Smith.

@@ -1,8 +1,8 @@
+## Exchange regarding evidence for evolution of humans
+
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between June 22, 2014 and June 27, 2014.
 
-**[R. Gary]**
-
-### [Adam, the first of all human beings](https://ndbf.blogspot.com/2014/06/first-humans.html)
+##### [Adam, the first of all human beings](https://ndbf.blogspot.com/2014/06/first-humans.html) [original post by R. Gary]
 
 Science insists that the first humans appeared in an already mortal world some 200,000 years ago. Conversely, the Church teaches that the first humans were Adam and Eve, who brought mortality to a previously non-mortal world about 6,000 years ago. There is no harmony between these views.
 
@@ -14,7 +14,7 @@ This scriptural view of man's origin was taught again in the April 2014 General 
 
 June 24, 2014. An anonymous comment this afternoon (see below) prompted the following addendum. It is from the 2013 edition of LDS Scripture.
 
-![Bible Chronology begins at 4000 B.C.](https://lh4.googleusercontent.com/proxy/-j3H6xq-3-vUkQJM0MmNNnkzt6wyshXKH_kZSvX4USLITwg8T7oZDIzLYs8=s0-d)
+![Bible Chronology begins at 4000 B.C.](http://i.imgur.com/CoUH5QU.jpg)
 
 **[Sicut]**
 
