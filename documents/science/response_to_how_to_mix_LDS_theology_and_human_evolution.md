@@ -1,6 +1,6 @@
 ## Exchange on man as animal and the 1910 Priesthood Quorum's table comment as a reflection of Joseph F. Smith's thinking on evolution
 
-The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between July 31, 2014 and August 24, 2014.
+The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between July 31, 2014 and August 24, 2014.  I've taken the liberty to correct a couple of very minor mistakes in the text.
 
 ##### [How to mix LDS theology and human evolution](https://ndbf.blogspot.com/2014/07/theology-and-science.html) [original post by R. Gary]
 
@@ -42,7 +42,7 @@ As discussed above, you are absolutely right that Peck is not talking science--h
 
 Peck invokes a spirit/body duality that is very much in harmony with LDS theology and scripture (e.g. Jesus, "into thy hands I commend my spirit". Gen 2:7 "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.", D&C 93:15 "And the spirit and the body are the soul of man".)
 
-Your post provides no evidence to that it is not in harmony with LDS theology.  The 1909 First Presidency statement says only that Adam is the primal parent of our *race*.  The statement declines to use scientific terminology (like species), so there is ambiguity in how we map Adam onto our ancestry.  The idea of Adam's body having been created is supported by lots of scripture and fits nicely within LDS theology.  Many simply choose to ignore the evidence supporting this reconciliation because a few brethren had/have strong opinions on the matter, not because it isn't a good fit.
+Your post provides no evidence that it is not in harmony with LDS theology.  The 1909 First Presidency statement says only that Adam is the primal parent of our *race*.  The statement declines to use scientific terminology (like species), so there is ambiguity in how we map Adam onto our ancestry.  The idea of Adam's body having been created is supported by lots of scripture and fits nicely within LDS theology.  Many simply choose to ignore the evidence supporting this reconciliation because a few brethren had/have strong opinions on the matter, not because it isn't a good fit.
 
 The editor of the 1910 Improvement Era, Joseph F. Smith, saw fit to publish this response to the question "In just what manner did the mortal bodies of Adam and Eve come into existence on this earth?"
 
