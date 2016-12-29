@@ -6,6 +6,14 @@ A core teaching of Price's was that there was no death on the Earth for any livi
 
 > Price's influence was at first mostly within his small Seventh-day Adventist group, and his arguments are the classic example of beginning with a specific interpretation of the Genesis account of Creation and then attempting to make science fit that interpretation (for example, **that there was no death of any organisms before the fall of Adam and Eve, which implies that all the organisms that became fossils lived after Adam and Eve**). (emphasis added)
 
+The book goes on to [summarize the interaction between Joseph Fielding Smith and George McCready Price](https://books.google.com/books?id=UaR6KXQncbwC&q=george+mccready+price+adam+eve+death+fall#v=onepage&q=%22Smith%20corresponded%20with%20Price%22&f=false):
+
+> Joseph Fielding Smith, who became an Apostle in 1910 at age thirty-three, was strongly opposed to the "theory of evolution," and even became enamored with the writings of George McCready Price who espoused and defended a young-earth flood geology (see Appendix A).  Smith corresponded with Price and based much of his thinking on Price's arguments.  Price held, based on Genesis, that there was no death of any organism before the Fall.  This was an old sectarian doctrine, but Smith found support for it in the Book of Mormon (2 Nephi 2:22), although that scripture is open to other interpretations.
+
+See also: [The Backstory to Elder Eyring’s Age of the Earth Comment and Creationism](http://www.patheos.com/blogs/benjaminthescribe/2016/10/the-backstory-to-elder-eyrings-age-of-the-earth-comment-and-creationism/) and ["We can see no advantage to a continuation of the discussion: The Roberts/Smith/Talmage affair"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V13N03_65.pdf)
+
+## Examples of Price's writing on death before the Fall
+
 Here are just a few examples from his books where he is either directly teaching or implying the doctrine of "no death before the Fall":
 
 #### Death is the result of sin on the part of man
@@ -49,3 +57,27 @@ Joseph F. Smith---Joseph Fielding Smith's father---never taught the doctrine of 
 > IF EVOLUTION IS TRUE, THE CHURCH IS FALSE. If life began on the earth, as advocated by Darwin, Huxley, Haeckel (who has been caught openhanded perpetrating a fraud), and others of this school, whether by chance or by some designing hand, then the doctrines of the Church are false. Then there was no Garden of Eden, no Adam and Eve, and no fall. If there was no fall; if death did not come into the world as the scriptures declared that it did---and to be consistent, if you are an evolutionist, this view you must assume---then there was no need for a redemption, and Jesus Christ is not the Son of God, and he did not die for the transgression of Adam, nor for the sins of the world. Then there has been no resurrection from the dead! Consistently, logically, there is no other view, no alternative that can be taken. Now, my brethren and sisters, are you prepared to take this view?
 
 > ---From [Doctrines of Salvation 1:143](https://archive.org/stream/Doctrines-of-Salvation-volume-1-joseph-fielding-smith/JFSDoctrinesofSalvationv1#page/n87/mode/2up)
+
+## No Adam, no Fall; no Fall, no Atonement ...
+
+George McCready Price [popularized the statement by Robert Blatchford](https://books.google.com/books?id=zPtIBQAAQBAJ&pg=PA24&lpg=PA24&dq=Price+no+adam,+no+fall+no+fall,+no+atonement+no+atonement+no+savior&source=bl&ots=v26Xy5uNgJ&sig=9i0FDoIUbW73hVBVe5lvejFhSIg&hl=en&sa=X&ved=0ahUKEwjvupWesZfRAhXjh1QKHcmCDzcQ6AEIIzAC#v=onepage&q=Price%20no%20adam%2C%20no%20fall%20no%20fall%2C%20no%20atonement%20no%20atonement%20no%20savior&f=false):
+
+> No Adam, no Fall; no Fall, no Atonement; no Atonement, no Savior
+
+Joseph Fielding Smith taught this same idea in articles he wrote for Church magazines.  For instance, in his article "The Origin and Destiny of Man" published in March of 1920 in the Improvement Era, [he wrote](https://books.google.com/books?id=5mowAQAAMAAJ&pg=PA466&lpg=PA466&dq=%22The+origin+and+destiny+of+man%22+joseph+fielding+smith&source=bl&ots=VGi3Jh1lhU&sig=YDx0Pm643mm2cgdzwacB5maKHiE&hl=en&sa=X&ved=0ahUKEwjS_PX2tJfRAhVjllQKHd7qCuIQ6AEIPTAG#v=snippet&q=%22no%20fall%22&f=false):
+
+> The first man, according to this hypothesis known as the "cave man," was a creature absolutely ignorant and devoid of any marked intelligence over the beasts of the field.  Then Adam, and by that I mean the first man, was not capable of sin.  He could not transgress, and by doing so bring death into the world; for, according to this theory, death had always been in the world.  If, therefore, there was no fall, there was no need of an atonement, hence the coming into the world of the Son of God as the Savior of the world is a contradiction, a thing impossible.  Are you prepared to believe such a thing as that?
+
+> I repeat, no man can consistently accept the doctrine of the evolutionist and also believe in the divine mission of our Redeemer.  The two thoughts are in absolute conflict.  You cannot harmonize them and serve both masters.  If life began on the earth, as advocated by Darwin ... and others of this school, whether by chance or by some designing hand, then the doctrines of the Church are false.  Then there was no Garden of Eden, no Adam and Eve, and no fall.  If there was no fall; if death did not come into the world as the scriptures declared that it did,---and to be consistent, if you are an evolutionist, this view you must assume,---then there was no need for a redemption, and Jesus Christ is not the Son of God, and he did not die for the transgression of Adam, nor for the sins of the world.
+
+## George McCready Price creationism is scientifically untenable
+
+The book The Case for Divine Design (a pro-creationist book) compares various creationist thoeries in its appendix.  Regarding George McCready Price's brand it says:
+
+> This brand of creationism, although it was by far the best known during the twentieth century, is so vulnerable to scientific examination that its widespread influence seems almost ludicrous.  The young-earth idea goes against all scientific methods used to date the earth, and the notion that earth's geology can be accounted for by a Noachian, worldwide flood requires numerous assumptions that are truly impossible to support scientifically.
+
+When Joseph Fielding Smith was attacking B.H. Roberts's ideas, James E. Talmage wrote to his son (a current professor of Geology) for his son's thoughts on Price's book "The New Geology".  [Here is a description of this exchange](http://signaturebookslibrary.org/the-b-h-robertsjoseph-fielding-smithjames-e-talmage-affair/):
+
+> After a quorum meeting in which Smith quoted extensively from Price’s The New Geology, Talmage decided to prepare himself more fully for a debate on the merits of this type of evidence. He wrote to his eldest son, Sterling, for an opinion of the book. Sterling was a professor of geology at the New Mexico School of Mines.
+
+> The younger Talmage responded by pointing out a number of technical errors in the specific passages quoted by Smith and then added: “You ask ‘how Price is held in the opinion of geologists in general.’ As far as I can tell (and it seems to be the unanimous opinion of those who know his book, at least as far as I have talked with them), he is considered as a theological fanatic, who has gone off on a tangent that most geologists seem to find funny. I never heard his book discussed … without the element of comedy being dragged in. All of Price’s arguments, in principle at least, were advanced and refuted from fifty to a hundred years ago. They are not ‘new.’ His ideas certainly are not ‘Geology.’ With these two corrections, the title remains the best part of the book.”

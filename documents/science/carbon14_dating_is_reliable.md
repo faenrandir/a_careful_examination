@@ -1,6 +1,6 @@
 ### Carbon-14 dating is generally reliable
 
-BYU Geology Professor and Associate Dean of the College of Physical and Mathematical Sciences, Bart Kowallis, was recently asked about the reliability of carbon 14 dating.  [Here is my transcript of the exchange](https://www.youtube.com/watch?v=gpx9nWuRZe4&t=24m10s):
+BYU Geology Professor and Associate Dean of the College of Physical and Mathematical Sciences, Bart Kowallis, was recently asked about the reliability of carbon 14 dating.  Here is my transcript of [the exchange](https://www.youtube.com/watch?v=gpx9nWuRZe4&t=24m10s):
 
 > **Question**: I have read a BYU Professor has proved the carbon dating process is inaccurate and false.  Is this true?
 
