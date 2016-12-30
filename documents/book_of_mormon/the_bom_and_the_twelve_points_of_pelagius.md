@@ -1,4 +1,6 @@
-## The Book of Mormon and the Twelve points of Pelagianism
+## The Book of Mormon, the twelve points of Pelagianism, and Protestant thought in the early 1800s
+
+by bwv549
 
 Summary: The Book of Mormon flatly contradicts or significantly modifies virtually every point espoused by Pelagius and does so in a manner consistent with standard Protestant discourse of the time.
 
@@ -8,7 +10,7 @@ Pelagius was known as a heretic to the early Christian Church who believed in a 
 
 Collier recorded the teachings of Pelagius in his [An Ecclesiastical History of Great Britain, Chiefly of England](https://books.google.com/books?id=9LcxAQAAMAAJ&pg=PA42&lpg=PA42&dq=pelagius+collier+%22ecclesiastical+history+of+great+britain%22&source=bl&ots=Qwpl28ZxlD&sig=LpNIO86pDFCreZ6teLYhS34FYhQ&hl=en&sa=X&ved=0ahUKEwiolaHAtpvRAhUM42MKHQfdAB4Q6AEIIjAC#v=snippet&q=%22That%20Adam%20had%20Mortality%22&f=false) in the early 1700s, and it was somewhat common for theologians to respond to Collier's twelve points summarizing Pelagianism.[^respondtotwelvepoints]
 
-Others have previously pointed out that teachings from the Book of Mormon can be seen as a response to Pelagian thought (e.g., [Are Mormons Pelagians?  Autonomy, Grace, and Freedom](https://www.uvu.edu/religiousstudies/docs/mormonevangelical/smpt_2010_are_mormons_pelagians.pdf)
+Others have previously pointed out that teachings from the Book of Mormon can be seen as a response to Pelagian thought (e.g., [Are Mormons Pelagians?  Autonomy, Grace, and Freedom](https://www.uvu.edu/religiousstudies/docs/mormonevangelical/smpt_2010_are_mormons_pelagians.pdf)).
 
 ### The Twelve Points of Pelagianism
 
@@ -16,7 +18,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 1. **That Adam had mortality in his nature, and that, whether he had sinned or not sinned, he would certainly have died.**
 
-    *All agree, Adam would not have died had he not transgressed.*
+    *All disagree in unison: Adam would not have died had he not transgressed.*
 
     **[BOM]** 2 Nephi 2:22 And now, behold, if Adam had not transgressed he would not have fallen, but he would have remained in the garden of Eden. And all things which were created must have remained in the same state in which they were after they were created; and they must have remained forever, and had no end.
 
@@ -26,7 +28,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 2. **That the consequences of Adam's sin were confined to his person and that the rest of mankind received no disadvantage from them.**
 
-    *All agree, the posterity of Adam suffered physical and (indirectly) spiritual death (separation from God) as a result of Adam's Fall.*
+    *All disagree in unison: the posterity of Adam suffered physical and (indirectly) spiritual death (separation from God) as a result of Adam's Fall.*
 
     **[BOM]** 2 Nephi 2:21,23,25 For he gave commandment that all men must repent; for he showed unto all men that they were lost, because of the transgression of their parents.... And they would have had no children; wherefore they would have remained in a state of innocence, having no joy, for they knew no misery; doing no good, for they knew no sin. ... Adam fell that men might be; and men are, that they might have joy.
 
@@ -36,7 +38,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 3. **That the law qualified for the kingdom of Heaven, and was founded upon equal promises with the Gospel.**
 
-    *The law itself does not justify man.*
+    *All disagree in unison: the law itself does not justify man.*
 
     **[BOM]** 2 Nephi 2:5--7  And men are instructed sufficiently that they know  good from evil. And the law is given unto men. And by the law no flesh is justified; or, by the law men are cut off. Yea, by the temporal law they were cut off; and also, by the spiritual law they perish from that which is good, and become miserable forever.  Wherefore, redemption cometh in and through the Holy Messiah; for he is full of grace and truth.  Behold, he offereth himself a sacrifice for sin, to answer the ends of the law, unto all those who have a broken heart and a contrite spirit; and unto none else can the ends of the law be answered.
 
@@ -46,7 +48,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 4. **That before the coming of our Savior some men lived without sin.**
 
-    *No men lived without sin before the Savior.*
+    *All disagree in unison: no men lived without sin before the Savior.*
 
     **[BOM]** 2 Nephi 2:5 And by the law no flesh is justified; and by the law no flesh is justified; or, by the law men are cut off. Yea, by the temporal law they were cut off; and also, by the spiritual law they perish from that which is good, and become miserable forever.
 
@@ -56,7 +58,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 5. **That new-born infants are in the same condition with Adam before his fall.**
 
-    *All mildly disagree or take no position.*
+    *All mildly disagree in unison (or take no position)*
 
     **[BOM]** 2 Nephi 2:22,25 And now, behold, if Adam had not transgressed he would not have fallen ... Adam fell that men might be ...
 
@@ -66,7 +68,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 6. **That the death and disobedience of Adam is not the necessary cause of death to all mankind, neither doth the general resurrection of the dead follow in virtue of our Saviour's resurreciton.**
 
-    *All agree, had Adam's Fall brought upon mankind death and Christ the imminent resurrection.*
+    *All disagree in unison: had Adam's Fall brought upon mankind death and Christ the imminent resurrection.*
 
     **[BOM]** 2 Nephi 2:8,10,22 ... that he may bring to pass the resurrection of the dead, being the first that should rise... And because of the intercession for all, all men come unto God; wherefore, they stand in the presence of him, to be judged of him according to the truth and holiness which is in him. ... if Adam had not transgressed he would not have fallen, but he would have remained in the garden of Eden.
 
@@ -76,7 +78,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 7. **That if a man will make the most of himself, he may keep the commands of God without difficulty, and preserve himself in a perfect state of innocence.**
 
-    *All agree, man is liable to sin.*
+    *All disagree in unison: man is liable to sin.*
 
     **[BOM]** 2 Nephi 2:5 And men are instructed sufficiently that they know  good from evil. And the law is given unto men. And by the law no flesh is justified; or, by the law men are cut off. Yea, by the temporal law they were cut off; and also, by the spiritual law they perish from that which is good, and become miserable forever.
 
@@ -86,8 +88,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 8. **That to rich men, notwithstanding the advantage of their baptism, unless they parted with all their estate, all other instances of virtue would be insignificant, neither could they be qualified for the kingdom of Heaven.**
 
-    *Either they are neutral on the question or agree with the Book of
-    Mormon.*
+    *One source disagrees in unison with the BOM, the other is neutral on the question.*
 
     **[BOM]** Jacob 2:19 And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted.
 
@@ -97,7 +98,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 9. **That the grace and assistance of God is not granted for the performance of every moral act; the liberty of the will, and information in the points of duty, being sufficient for this purpose.**
 
-    *All agree, the grace of Christ aids men in doing good.*
+    *All disagree in unison: the grace of Christ aids men in doing good.*
 
     **[BOM]** 2 Nephi 8--10,27  Wherefore, how great the importance to make these things known unto the inhabitants of the earth, that they may know that there is no flesh that can dwell in the presence of God, save it be through the merits, and mercy, and grace of the Holy Messiah, who layeth down his life according to the flesh, and taketh it again by the power of the Spirit, that he may bring to pass the resurrection of the dead, being the first that should rise.  Wherefore, he is the firstfruits unto God, inasmuch as he shall make intercession for all the children of men; and they that believe in him shall be saved. And because of the intercession for all, all men come unto God; wherefore, they stand in the presence of him, to be judged of him according to the truth and holiness which is in him. Wherefore, the ends of the law which the Holy One hath given, unto the inflicting of the punishment which is affixed, which punishment that is affixed is in opposition to that of the happiness which is affixed, to answer the ends of the atonement...  Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself.
 
@@ -117,7 +118,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 11. **That none can be called the sons of God unless they are perfectly without sin.**
 
-    *All strongly disagree.*
+    *All disagree in unison: men can be called the sons of God through Christ.*
 
     **[BOM]** 3 Nephi 9:17 (see also Moroni 7:26 and Moroni 7:48) And as many as have received me, to them have I given to **become the sons of God**; and even so will I to as many as shall believe on my name, for behold, by me redemption cometh, and in me is the law of Moses fulfilled.
 
@@ -127,7 +128,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 12. **That our victory over temptation is not gained by God's assistance, but by the liberty of the will.**
 
-    *All agree that victory over temptation is mediated through God.*
+    *All disagree in unison: the victory over temptation is mediated through God.*
 
     **[BOM]** 2 Nephi 2:27 Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself.
 
