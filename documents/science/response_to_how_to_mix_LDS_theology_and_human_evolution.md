@@ -54,15 +54,15 @@ The underlying implication of this post (and the few vocal anti-evolutionists in
 
 The irony is that *this* (that God is the physical father of Adam) is really terrible LDS theology!!  Here are just a few of the issues:
 
-1.) Jesus is "the only begotten Son":  The scriptures are replete with the phrase "Only Begotten Son" referring to Jesus Christ (dozens if not more instances).  Those who embrace the Adam begotten theory invented a new phrase to refer to Jesus Christ, calling him, "the only begotten in the Flesh".  That way, Adam be begotten in a Spiritual creation.  There's a big problem with this, though: The phrase "only begotten [of the Father] in the Flesh" is not found in the scriptures at all!
+1.) Jesus is "the only begotten Son":  The scriptures are replete with the phrase "Only Begotten Son" referring to Jesus Christ (dozens if not more instances).  Those who embrace the Adam begotten theory invented a new phrase to refer to Jesus Christ, calling him, "the only begotten in the Flesh".  That way, Adam could be begotten in a Spiritual creation.  There's a big problem with this, though: The phrase "only begotten [of the Father] in the Flesh" is not found in the scriptures at all!
 
-2.) Mosiah 26:23: "For it is I that taketh upon me the sins of the world; for it is I that hath created them; and it is I that granteth unto him that believeth unto the end a place at my right hand."  It cannot be made anymore clear that Jesus is speaking.  He distinctly claims to be the creator of mankind.  If God the Father is the father of our spirits, then Jesus *must* have participated in the creation of Adam's body ("formed of the dust").  This scripture makes no sense whatsoever with the Adam begotten theory.
+2.) Mosiah 26:23: "For it is I that taketh upon me the sins of the world; for it is I that hath created them; and it is I that granteth unto him that believeth unto the end a place at my right hand."  It cannot be made any more clear that Jesus is speaking.  He distinctly claims to be the creator of mankind.  If God the Father is the father of our spirits, then Jesus *must* have participated in the creation of Adam's body ("formed of the dust").  This scripture makes no sense whatsoever with the Adam begotten theory.
 
 3.) Luke 3:38 originally said: "Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God."  Joseph Smith rewrote this in the Inspired Version to read: "And of Enos, and of Seth, and of Adam, who was formed of God, and the first man upon the earth."  Here, Joseph Smith explicitly changes the phrase "which was the son of God" into "formed of God".  If the Adam begotten theory is true, why did God inspire Joseph to change this verse?
 
 4.) Abraham 5:7 "And the Gods formed man from the dust of the ground, and took his spirit (that is, the man’s spirit), and put it into him; and breathed into his nostrils the breath of life, and man became a living soul."  The Gods (plural) responsible for creating the earth are the same ones responsible for creating mankind.  Also, note that there is a distinct phase of creation detailed here (creating man from the dust and then, in a separate step, taking and putting his spirit into it).  Finally, the temple ceremony backs up this interpretation ("Is man found upon the earth?... Jehovah, Michael, then let *us* go down and form man in our own likeness and in our own image... and put into them their spirit..."  Again, the Adam begotten theory basically has to throw this verse and the temple ceremony in the trash can!
 
-To conclude, I will note that Peck's reconciliation is quote [sic (meant "quite")] harmonious with all four of the above scriptures/concepts.  Your (implied) position is in direct contradiction with all of them.  I will leave it to the readers of this blog as to which position is "definitely not LDS theology".
+To conclude, I will note that Peck's reconciliation is quite harmonious with all four of the above scriptures/concepts.  Your (implied) position is in direct contradiction with all of them.  I will leave it to the readers of this blog as to which position is "definitely not LDS theology".
 
 **[R. Gary]**
 
@@ -94,7 +94,7 @@ Hence, as far as I can tell, there is no record whatsoever of Joseph F. Smith ev
 
 > Apparently, Joseph F. Smith's thinking on the subject is (to you) irrelevant.
 
-Of course I care about what he thinks, but--like you--I'm far more interested in what he taught publicly as part of his prophetic station.
+Of course I care about what he thinks, but---like you---I'm far more interested in what he taught publicly as part of his prophetic station.
 
 I hope to respond to the second point when I get a chance.  Best regards.
 
