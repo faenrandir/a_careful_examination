@@ -20,7 +20,7 @@ If my beliefs are incorrect or based on insufficient or faulty data, please do n
 3. I believe that any time beings with properties of a moral agent exist, then morality exists also (i.e., if a silicon based life-form had all the properties of humans but had evolved or was created independently of biological life, then moral principles would apply equally to them).
 4. I believe that our ethical duty to other living entities is in some way proportional to the extent that they are conscious or have potential for consciousness (i.e., it is unethical to torture monkeys or dolphins, but it is not unethical to eat bacteria just for fun since they undoubtedly are not conscious and have no capacity for consciousness).
 5. I believe the core moral principles include: caring, fairness, liberty, and loyalty.
-6. I believe that acting morally tends to brings us and those around us happiness.  However, even if acting morally did not generate feelings of content, I believe we would still have a rational obligation to act morally.
+6. I believe that acting morally tends to bring us and those around us happiness.  However, even if acting morally did not generate feelings of content, I believe we would still have a rational obligation to act morally.
 
 If my actions are immoral or fail to align with the highest standards of morality, please do not hesitate to offer me correction or your perspective.
 
@@ -40,7 +40,7 @@ I share many basic beliefs with the conscientious, moral citizens of our world.
 
 ## The Universal Moral Code
 
-I believe in the Universal Moral Code which are a list of morals found throughout the world, compiled by Dr. Kent M. Keith.
+I believe in the Universal Moral Code which is a list of morals found throughout the world, compiled by Dr. Kent M. Keith.
 
 **Do no harm** (the proscriptive version of the code):
 
