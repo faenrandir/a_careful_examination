@@ -7,6 +7,7 @@ DIAGRAM_BOOKMARKS = [
   "Revelations contradicting the Brethren are not from God",
   "All answers to prayer are correct",
   "Follow Moroni's Promise to know that the Book of Mormon is true",
+  "Only the ignorant and proud disagree with accepted LDS doctrine",
 ]
 
 insertion_lines = DIAGRAM_BOOKMARKS.flat_map.with_index do |bookmark, index|
