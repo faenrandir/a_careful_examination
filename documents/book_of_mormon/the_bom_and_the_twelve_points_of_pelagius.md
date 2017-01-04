@@ -2,7 +2,7 @@
 
 by bwv549
 
-Summary: The Book of Mormon flatly contradicts or significantly modifies virtually every point espoused by Pelagius and does so in a manner consistent with standard Protestant discourse of the time.
+Summary: The Book of Mormon flatly contradicts or significantly modifies virtually every point espoused by Pelagius and does so in a manner similar to standard Protestant discourse of the time, although significant variance in justification, rationale, and presentation is certainly observed across the various works from the early 1800s.
 
 ### Introduction
 
