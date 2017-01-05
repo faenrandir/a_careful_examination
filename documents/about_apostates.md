@@ -16,7 +16,7 @@ The most positive thing a representative of the LDS Church has said (of which I 
 
 > In this Church that honors personal agency so strongly, that was restored by a young man who asked questions and sought answers, we respect those who honestly search for truth. It may break our hearts when their journey takes them away from the Church we love and the truth we have found, but we honor their right to worship Almighty God according to the dictates of their own conscience, just as we claim that privilege for ourselves.
 
-*Note: This statement has not be reproduced in any LDS teaching material, or echoed by any other leader, to date.*
+*Note: This statement has not been reproduced in any LDS teaching material, or echoed by any other leader, to date.*
 
 ## Negative statements about those who leave
 
@@ -36,7 +36,7 @@ Glenn L. Pace, [April General Conference 1989](https://www.lds.org/general-confe
 
 Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
 
-### Those who leave will be be burned and become darkened
+### Those who leave become darkened and will be burned
 
 > There is a superior intelligence bestowed upon such as obey the Gospel with full purpose of heart, which, if sinned against, the apostate is left naked and destitute of the Spirit of God, and he is, in truth, nigh unto cursing, and his end is to be burned. When once that light which was in them is taken from them they become as much darkened as they were previously enlightened, and then, no marvel, if all their power should be enlisted against the truth, and they, Judas-like, seek the destruction of those who were their greatest benefactors.
 
@@ -333,7 +333,7 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 ### May be called out if you are exmormon and write openly about it
 
-[Experience shared here](https://www.reddit.com/r/exmormon/comments/52fapa/tbm_stupidity_found_out_her_kids_teacher_was_exmo/) 
+[Experience shared here](https://www.reddit.com/r/exmormon/comments/52fapa/tbm_stupidity_found_out_her_kids_teacher_was_exmo/)
 
 ### Those who undergo faith crises are avoided
 
