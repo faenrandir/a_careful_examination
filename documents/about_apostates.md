@@ -337,7 +337,19 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 ### Those who undergo faith crises are avoided
 
-[Example](https://www.reddit.com/r/exmormon/comments/42maq5/that_time_i_reached_out_to_my_best_friends_during/).
+[Example 1](https://www.reddit.com/r/exmormon/comments/42maq5/that_time_i_reached_out_to_my_best_friends_during/).
+
+[Example 2](https://www.reddit.com/r/exmormon/comments/1n7d45/the_reason_why_i_was_able_to_forgive_my_mother/)
+
+### Those with a close relationship to former members may be disciplined
+
+>> Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+
+> Spent a few hours talking with my 65 yr old mother today and discovered that her Bishop and Stake president had agreed that she should be denied a temple recommend after she told them that even though I (her 44 year old son) had left the church, she still wanted to have a close relationship with me.
+
+> At the time I announced to my family that I no longer believed, my parents were serving as temple ordinance workers with my mother acting as a shift leader. They have been faithful members their entire lives, and continue to believe, but neither one was willing to commit to the Bishop's demands of breaking off contact with "their apostate son". After consulting with the Stake president, he pulled both of their recommends.
+
+[From here](https://www.reddit.com/r/exmormon/comments/4vjoqr/my_parents_temple_recommends_were_revoked_for_not/)
 
 ## Attitude towards those who stay but do not believe
 
