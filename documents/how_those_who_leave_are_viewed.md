@@ -1,12 +1,22 @@
+# How those who leave the LDS Church are viewed
+
 ## Introduction
 
-Those who leave the Church are generally considered by believing members to be morally weak (or outright followers of Satan), prone to taking offense, closely associating with those not firm in the faith (i.e., rubbing shoulders with unapproved ideas), neglecting spiritual maintenance behavior, and ignorant or mis-informed about the teachings of the Church.  Given this perception, it is not surprising that many feel a need to "defend their actions", 'disprove' the Church, or end up becoming hostile enemies: a person who determines that the Church is not true---regardless of how pure or noble their motives, the strength of their character, the level of their spirituality, or how comprehensively they understand the Gospel---cannot leave with their reputation and character intact.  If they leave without explanation, then it is assumed that they are deficient in character or understanding---if they attempt to exonerate themselves, then they have a "need to defend their actions" or "disprove the Church" and are "bitter".
+LDS Church leaders, lesson manuals, and other material published by the Church speak extensively about those who leave the Church and apostasize (leaving the Church is synonymous with apostasy).  Collectively, these writings emphasize that those who leave the Church are one or more of the following:
 
-While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, disparaging people who leave is a standard approach used by *all* totalistic groups (see 'Dispensing of Existence" in [Lifton's 8 Criteria of Thought Reform](http://www.exitsupportnetwork.com/artcls/mindctrl/lifton.htm)).  For instance both [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientologists](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s) describe apostates in similar language as Latter-day Saints.
+1. Morally weak (i.e., are sinning)
+2. Followers of Satan (explicitly or unawares)
+3. Prone to taking offense
+4. Too lazy to maintain their spirituality
+5. Ignorant and/or misinformed about the teachings of the Church.
+
+Given this characterization of those who leave, it is not surprising that many feel a need to "defend their actions", "disprove" the Church, or end up becoming hostile enemies: a person who determines that the Church is not true---regardless of how pure or noble their motives, the strength of their character, the level of their spirituality, or how comprehensively they understand the Gospel---cannot leave with their reputation and character intact.  If they leave without explanation, then it is assumed that they are deficient in character or understanding---if they attempt to exonerate themselves, then they have a "need to defend their actions" or "disprove the Church" and are considered "bitter".
+
+While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, virtually *all* totalistic groups [characterize those who leave in a similar negative light](https://www.youtube.com/watch?v=VdTWTeTkPn0) (see additional examples from [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientology](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s).  In addition, see "[The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)" for a longer discussion of the totalistic mindset and how it is manifest in the LDS Church.)
 
 ## Positive or neutral statements about those who leave
 
-The most positive thing a representative of the LDS Church has said (of which I am aware) about those who leave was probably Elder Uchtdorf ([GC 2013](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)):
+I am only aware of one positive or neutral statement about members who leave the Church.
 
 > One might ask, “If the gospel is so wonderful, why would anyone leave?”
 
@@ -18,15 +28,19 @@ The most positive thing a representative of the LDS Church has said (of which I 
 
 *Note: This statement has not been reproduced in any LDS teaching material, or echoed by any other leader, to date.*
 
+Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)
+
 ## Negative statements about those who leave
 
-### One only loses testimony by listening to the evil one
+*People who leave the LDS Church...*
+
+### have been listening to the promptings of Satan
 
 > One loses his testimony only by listening to the promptings of the evil one, and Satan’s goal is not complete when a person leaves the Church, but when he comes out in open rebellion against it.
 
 Glenn L. Pace, [April General Conference 1989](https://www.lds.org/general-conference/1989/04/follow-the-prophet?lang=eng&_r=1)
 
-### When you leave you do it because you are following Satan
+### become servants of Satan
 
 > Daniel Tyler recalled: "Soon after the Prophet's arrival in Commerce (afterwards Nauvoo) from Missouri prison, Brother Isaac Behunin and myself made him a visit at his residence. His persecutions were the topic of conversation. He repeated many false, inconsistent and contradictory statements made by apostates, frightened members of the Church and outsiders. He also told how most of the officials who would fain have taken his life, when he was arrested, turned in his favor on forming his acquaintance. He laid the burden of the blame on false brethren. ...
 
@@ -36,85 +50,79 @@ Glenn L. Pace, [April General Conference 1989](https://www.lds.org/general-confe
 
 Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
 
-### Those who leave become darkened and will be burned
+### become darkened and will be burned
 
 > There is a superior intelligence bestowed upon such as obey the Gospel with full purpose of heart, which, if sinned against, the apostate is left naked and destitute of the Spirit of God, and he is, in truth, nigh unto cursing, and his end is to be burned. When once that light which was in them is taken from them they become as much darkened as they were previously enlightened, and then, no marvel, if all their power should be enlisted against the truth, and they, Judas-like, seek the destruction of those who were their greatest benefactors.
 
 Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
 
-### The reasons people apostatize
-
-> The most frequent causes of apostasy are failure to maintain strict standards of morality, taking personal offense (real or perceived), marrying someone who is of another faith or who is irreligious, neglecting to pray and maintain spirituality, or misunderstanding of the teachings of the Church.
-
-Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
-
-### Those who leave did not know the truth or live in tune with the Spirit
+### did not know the truth or live in tune with the Spirit
 
 > Above all, the Church affirms that its members should seek personal revelation to know the truth and live in tune with the spirit of God. Those who have not done this may drop by the wayside when their faith is challenged or when difficulties arise.
 
 Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
-### Leaving the church results in guilt and bitterness
+### will feel guilt and bitterness
 
 > Apostates sometimes become enemies of the Church. Leaving the Church, which claims to be God's official church, containing the fulness of the gospel, often results in feelings of guilt. While many return, others develop a need to defend their actions, "disprove" the Church, or become hostile enemies. The fruits of apostasy are generally bitter.
 
 Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
-### People leave because they transgress
+### left because they transgressed
 
 > It was said here this morning that no person ever apostatized, without actual transgression. Omission of duty leads to commission.
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People leave because they get into darkness
+### left because they get into darkness
 
 > People do, however, leave this Church, but they leave it because they get into darkness...
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People leave because they listen to the enemy, listen to wisdom of man, and become confused
+### left because they listen to the enemy, listen to wisdom of man, and become confused
 
 > Men begin to apostatize by taking to themselves strength, by hearkening to the whisperings of the enemy who leads them astray little by little, until they gather to themselves that which they call the wisdom of man; then they begin to depart from God, and their minds become confused.
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People who leave experience darkness and unhappiness
+### will experience darkness and unhappiness
 
 > They experience darkness, ignorance, doubt, pain, sorrow, grief, mourning, unhappiness; no person to condole [lament] within the hour of trouble, no arm to lean upon in the day of calamity, no eye to pity when they are forlorn and cast down; and I comprehend it by saying death, hell and the grave. This is what they will get in exchange for their apostasy..."
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People who leave become darkened in their minds like a drunk
+### become darkened in their minds like a drunk
 
 "You have known men who, while in the Church, were active, quick and full of intelligence; but after they have left the Church, they have become contracted in their understandings, they have become darkened in their minds and everything has become a mystery to them, and in regard to the things of God... This is precisely the position of those who leave this Church; they go into the dark, they are not able to judge, conceive or comprehend things as they are. They are like the drunken man..."
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People who leave go into darkness like a blind person
+### go into darkness like a blind person
 
 > Let a man or woman who has received much of the power of God, visions and revelations, turn away from the holy commandments of the Lord, and it seems that their senses are taken from them, their understanding and judgment in righteousness are taken away, they go into darkness, and become like a blind person who gropes by the wall.
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### People who leave will go to final destruction
+### will go to final destruction
 
 > Whenever there is a disposition manifested in any of the members of this Church to question the right of the President of the whole Church to direct in all things, you see manifested evidences of apostasy—of a spirit which, if encouraged, will lead to a separation from the Church and to final destruction...
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### Those who leave are deceived by false prophets
+### may have been deceived by false prophets
 
 > Some members are deceived by false prophets. [tells account of Hiram Page]
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-### Questioning whether the Lord dictated it leads to apostasy
+### may have questioned whether the Lord really dictated it
 
 > When a man begins to find fault, inquiring in regard to this, that, and the other, saying, "Does this or that look as though the Lord dictated it?” you may know that that person has more or less of the spirit of apostasy.
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### Those who leave are deceived because of their pride
+### are deceived because of their pride
 
 > Some members are deceived because of their pride. The following story illustrates how pride led Thomas B. Marsh, who was President of the Quorum of the Twelve, and his wife, Elizabeth, into apostasy. ...What can we learn from this story? How have you seen pride lead people into deception and apostasy?
 
@@ -122,7 +130,7 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 Thomas B. Marsh did not actual leave for such trivial reasons (see [here](http://bycommonconsent.com/2013/06/29/gospel-doctrine-lesson-24-be-not-deceived-but-continue-in-steadfastness-guest-fmhlisa/) and [here](https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh?lang=eng))
 
-### Those who leave are deceived because they are critical of leaders' imperfections
+### are deceived because they are critical of leaders' imperfections
 
 > Some members are deceived because they become critical of Church leaders’ imperfections. The following story illustrates how Simonds Ryder was deceived in this way. ...What can we learn from this story? How does being critical of our Church leaders make us more susceptible to deception?"
 
@@ -132,105 +140,111 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
-### Those who leave were offended
+### were offended
 
 > Being offended Some Church members become offended by the actions of other members and allow an offense to fester until they are led into apostasy. ...How do we today allow ourselves to be offended by others? How can being offended lead to apostasy? How can we overcome feelings of being offended?
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-### Those who leave rationalize disobedience
+### rationalize disobedience
 
 > Rationalizing is excusing or defending unacceptable behavior. It is looking for a way to ease our consciences for doing something we know is wrong. How is rationalization a form of deception? How do we sometimes try to rationalize our behavior? Why is this dangerous?
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-### Those who leave are deceived by the false teachings of the world
+### are deceived by the false teachings of the world
 
 > What are some of the false teachings of the world that can deceive members and lead them into apostasy? (Examples could include the false ideas that the commandments of God are too restrictive, that immorality is acceptable, and that material possessions are more important than spiritual things.)
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-### Apostasy often results from unrepented sin
+### may have left because they had unrepented sin
 
 > Apostasy frequently results when a person commits serious sin but does not repent. To silence his conscience or justify his sinful actions, the individual moves away from the truth, looking for imperfections in others or questioning Church doctrine with which he no longer agrees.
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
-### People leave because a leader did not treat them well and they become offended
+### may have left because a leader did not treat them well and they become offended
 
 > Some individuals begin to think the Church is not true when they feel that a leader did not treat them well. They become offended and, without considering what they are losing, they stray from the Church.
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
-### People leave because of faultfinding
+### may have left because of faultfinding
 
 > Conflicts between Church members can also lead to apostasy.  Faultfinding can be another source of personal apostasy. When we look for faults in others or begin to think we could make better decisions than our leaders, we should remember the experience of Oliver Cowdery, the second elder of the Church...
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
-### People leave because of the mists of darkness
+### have become entangled in the mists of darkness
 
 > I testify that we can avoid the mists of darkness that lead to personal apostasy by repenting of our sins, overcoming offense, eliminating faultfinding, and following our Church leaders."
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
-### Better that those who leave had not known God or Jesus
+### were better off not ever having known God or Jesus
 
 > But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me. (2Ne 31:12)
 
-### More tolerable for the Lamanites than those who leave
+### will be viewed worse than the Lamanites
 
 > And now behold I say unto you, that if this people, who have received so many blessings from the hand of the Lord, should transgress contrary to the light and knowledge which they do have, I say unto you that if this be the case, that if they should fall into transgression, it would be far more tolerable for the Lamanites than for them. (Alma 9:23)
 
-### Those who leave take on Satanic premises which are poisonous
+### may have taken on Satanic premises which are poisonous
 
 > Enticing us to adopt the premises of Babylon is a subtle strategy Satan uses to sow tares. Individuals who take the premises of Babylon as their fundamental basis for solving the divergent problems of life, of business, or of everyday activity are tares. Their logic may be consistent, but at the root, the solutions are based on premises that Satan has provided. Though they may resemble wheat in the early years, their genetic code—their core premises for growth—yields a poisonous outcome.
 
 [Dennis Tolley, BYU Devotional](https://speeches.byu.edu/talks/h-dennis-tolley_business-babylon/)
 
-### Those who leave had an immature testimony and shallow committment to Jesus Christ
+### had an immature testimony and shallow committment to Jesus Christ (implied)
 
 > More than at any time in our history, your students also need to be blessed by learning doctrinal or historical context and context by study and faith accompanied by pure testimony so they can experience a mature and lasting conversion to the gospel and a lifelong commitment to Jesus Christ.  Mature and lasting conversion means they will 'stay in the boat and hold on' throughout their entire lives.
 
 M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in the 21st Century](https://www.lds.org/broadcasts/article/evening-with-a-general-authority/2016/02/the-opportunities-and-responsibilities-of-ces-teachers-in-the-21st-century?lang=eng)
 
-### Those whose teaching results in lost testimonies engaged in highest form of larceny
+### engage in the highest form of larceny if they cause others to lose testimony
 
 > And I pray for those who deal in the highest form of larceny—that of stripping people of their precious testimonies. Such action, if continued, will lead only to the futility and emptiness of the dream of a night vision. (See 2 Ne. 27:3; Acts 5:33–39.)
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
-### Those who tear down faith should be shunned
+### should be shunned if they tear down faith
 
 > Avoid those who would tear down your faith. Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit.
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
-### Disconnect from proselyting efforts of those who lost faith
+### should not be listened to if they attempt to proselytize
 
 > A few of you may have run into some who have ceased to hold fast to the iron rod, wandered off the straight and narrow path, and have become lost. They started sometimes with online tours of the territory of the faithless. This indiscretion is often accompanied by failing to earnestly study the Book of Mormon every day and by the companion problem of gradually becoming lax in keeping other commandments. This sometimes leads to listening to and then hearkening to those who mock the church, its leaders or its history. The faithless often promote themselves as the wise who can rescue the rest of us from our naiveté. One does not need to listen to assertive apostates for long to see the parallels between them and the ‘Korihors’ ‘Nehors’ and ‘Sherems’ of the book of Mormon. We should disconnect immediately and completely from listening to the proselytizing efforts of those who have lost their faith and instead reconnect promptly with the holy spirit. The adversary sees spiritual apathy and halfhearted obedience as opportunities to encircle us with his chains and bind us—and he hopes to destroy us. We escape his chains as we voluntarily choose to bind ourselves instead to God...
 
 From [L. Whitney Clayton's commencement speech at BYU](http://www.sltrib.com/news/3805769-155/byu-grads-encouraged-to-keep-an?fullpage=1), [quote from here](https://www.reddit.com/r/exmormon/comments/4g085q/the_money_quote_from_claytons_commencement_speech/)
 
-### Those who leave may be put out of existence
+### generally left for one of five reasons
+
+> The most frequent causes of apostasy are failure to maintain strict standards of morality, taking personal offense (real or perceived), marrying someone who is of another faith or who is irreligious, neglecting to pray and maintain spirituality, or misunderstanding of the teachings of the Church.
+
+Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
+
+### Those who leave may be put out of existence (implied)
 
 > With all my heart I implore those who are walking on the fringes of our faith to seek the safety of the center. This can be done best by counseling with your leaders and remaining within the fellowshipping circle of the Saints, and receiving nourishment from the good word of God. Do not permit faithless people to turn you out of the right way or to put you out of existence. (See Moro. 6.)
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
-### Those who leave should fear for their safety
+### Those who leave should fear for their safety (implied)
 
 > Keep your covenants and you will be safe.  Break them and you will not.
 
 Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
-### Those who leave are spiritually dead
+### Those who leave are spiritually dead (implied)
 
 > Like the dead sequoia, these Church members once received their spiritual nourishment from the well of living water offered by Jesus Christ, but having been disconnected for one reason or another from that source, their spirit was dulled, and they eventually died spiritually.
 
 [M. Russell Ballard](https://www.lds.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
 
-### Those who leave are not honest or sincere
+### Those who leave are not honest or sincere (implied)
 
 > For those who are honest and sincere in their search, it is not difficult to find out whether there has been a universal apostasy, and if so, where the truth is today.
 
@@ -353,19 +367,19 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 ## Attitude towards those who stay but do not believe
 
-Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.  These people are referred to as "wolves in sheeps clothing".
+Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.  These people are referred to as "wolves in sheeps clothing".  Most of these are from the blog post ["Wolves In Sheep's Clothing"](http://www.truthwillprevail.xyz/2016/04/wolves-in-sheeps-clothing.html) from the blog Truth Will Prevail.
 
 > No man or woman is a true member of the Church who does not fully accept the First Vision, just as no man is a Christian who does not accept, first, the Fall of Adam, and second, the Atonement of Jesus Christ. Any titular Church member who does not accept the First Vision but who continues to pose as a Church member, lacks not only moral courage but intellectual integrity and honor if he does not avow himself an apostate and discontinue going about the Church, and among the youth particularly, as a Churchman, teaching not only lack-faith but faith-destroying doctrines. He is a true wolf in sheep's clothing.
 
-"When Are the Writings or Sermons of Church Leaders Entitled to the Claim of Scripture?" second part of an address delivered 7 July 1954 at Brigham Young University; cited in David H. Yarn, ed., J. Reuben Clark: Selected Papers, vol. 3 [Provo, UT: BYU Press, 1984], 106.
+"[When Are the Writings or Sermons of Church Leaders Entitled to the Claim of Scripture?](http://emp.byui.edu/marrottr/ClarkWhenAreWritings.pdf)" part of an address delivered 7 July 1954 at Brigham Young University
 
 > Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures, attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted, and that therefore such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.
 
-> I hope none of our young people will be foolish enough to accept those sources as authority for what the scriptures mean….
+> I hope none of our young people will be foolish enough to accept those sources as authority for what the scriptures mean. ...
 
 > Some choose to reject the scriptures out of hand and forsake their covenants. But they cannot choose to avoid the consequences. That choice is not theirs or ours or anybody’s.
 
-The Things of the Soul.  Salt Lake City: Bookcraft, 1996, 84-85.
+Boyd K. Packer. General Conference, October 1990. [Covenants](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
 > The greatest and worst enemies we have of the Church are those within our ranks whom we haven’t caught up with yet.
 
@@ -383,4 +397,4 @@ The Things of the Soul.  Salt Lake City: Bookcraft, 1996, 84-85.
 
 > Unfortunately, some people within the Church subscribing to these views do not realize that they are falling into a trap themselves. They are giving aid and comfort to the foe; they are undermining their own testimonies and those of others, I warn the Church against them, and I warn them against themselves; and I plead with them to desist, to abandon their agnostic discussions, and to join with the faithful in promoting the cause which in their hearts they once loved, and I think they still love.
 
-Conference Report, October 1951, 116.
+Conference Report, October 1951, 116. [Awake, Ye Defenders of Zion](http://scriptures.byu.edu/gettalk.php?ID=551)
