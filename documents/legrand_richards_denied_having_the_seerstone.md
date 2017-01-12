@@ -8,7 +8,7 @@ Whether to prevaricate or from benign ignorance of the facts, LeGrand Richards d
 
 (from [The Legrand Richards Interview](http://thoughtsonthingsandstuff.com/the-legrand-richards-interview/))
 
-WALTERS: Well I thought somebody said that Joseph Fielding had had Joseph Smith’s seer stone.
+WALTERS: Well I thought somebody said that Joseph Fielding had Joseph Smith’s seer stone.
 
 RICHARDS: No. We don’t have that.
 
