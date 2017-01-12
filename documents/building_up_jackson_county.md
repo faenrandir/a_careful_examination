@@ -8,7 +8,7 @@ As discussed somewhat in [chapter 8 of Millenialism and the Anti-Polygamy Campai
 
 **Lorenzo Snow**, as President of the Quorum of the 12 ([Conference Report, April 10, 1898](http://scriptures.byu.edu/gc-historical/1898-A.pdf) pg 64 [pg 66 in pdf]):
 
-> We are not going tomorrow, nor next day, this week or next week; but we are going, and there are many---hundreds and hundreds within the sound of my voice that will live to go back to Jackson County and build a holy temple to the Lord our God."
+> We are not going tomorrow, nor next day, this week or next week; but we are going, and there are many---hundreds and hundreds within the sound of my voice that will live to go back to Jackson County and build a holy temple to the Lord our God.
 
 **Lorenzo Snow**, as President of the Church ([Conference Report, October 1900](http://scriptures.byu.edu/gc-historical/1900-o.pdf) pg 61 [pg 63 in pdf]):
 
