@@ -226,25 +226,25 @@ From [L. Whitney Clayton's commencement speech at BYU](http://www.sltrib.com/new
 
 Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
-### Those who leave may be put out of existence (implied)
+### may be put out of existence (implied)
 
 > With all my heart I implore those who are walking on the fringes of our faith to seek the safety of the center. This can be done best by counseling with your leaders and remaining within the fellowshipping circle of the Saints, and receiving nourishment from the good word of God. Do not permit faithless people to turn you out of the right way or to put you out of existence. (See Moro. 6.)
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
-### Those who leave should fear for their safety (implied)
+### should fear for their safety (implied)
 
 > Keep your covenants and you will be safe.  Break them and you will not.
 
 Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
-### Those who leave are spiritually dead (implied)
+### are spiritually dead (implied)
 
 > Like the dead sequoia, these Church members once received their spiritual nourishment from the well of living water offered by Jesus Christ, but having been disconnected for one reason or another from that source, their spirit was dulled, and they eventually died spiritually.
 
 [M. Russell Ballard](https://www.lds.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
 
-### Those who leave are not honest or sincere (implied)
+### are not honest or sincere (implied)
 
 > For those who are honest and sincere in their search, it is not difficult to find out whether there has been a universal apostasy, and if so, where the truth is today.
 
