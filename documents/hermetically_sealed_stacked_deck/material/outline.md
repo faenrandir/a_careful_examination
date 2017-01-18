@@ -37,9 +37,7 @@ Even the very elect will be deceived.
     "They love coffee more than Jesus"
 
 -- doubts vs. questions
-Does this line of reasoning cause you to lose faith in the Church?
-[Yes] - that was a doubt.  You should not doubt (doubt not fear not).
-[No] - that's a good question.
+[see dedicated document for this]
 
 Does it look like the prophet did something wrong?
 [Yes] - The prophet cannot lead you astray.  He may have made a mistake, that is all.

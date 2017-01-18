@@ -32,7 +32,7 @@ Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www
 
 ## Negative statements about those who leave
 
-*People who leave the LDS Church...*
+*Individuals who leave the LDS Church...*
 
 ### have been listening to the promptings of Satan
 
@@ -254,11 +254,21 @@ Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-co
 
 Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-11-follow-the-living-prophet?lang=eng)
 
+### may not have learned to listen to the Holy Ghost
+
+> "I know that when we pray for Erik, Heavenly Father does answer our prayers—every time. The problem is that Erik may not be listening right now. Erik gets to choose whether he listens to the Holy Ghost, just like you choose whether to listen to Mama about your backpack..."
+
+> They all bowed their heads while Liv said the prayer. She prayed that Erik would learn to listen to the Holy Ghost. While Liv was praying, Kari felt peaceful and warm. She knew that Heavenly Father was hearing their prayers.
+
+[Don't Forget to Pray for Erik](https://www.lds.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
+
 ## Examples of how people are treated who leave the Church
 
 Directly or implied, these indicate how members view leaving the Church or those who have left the Church.
 
-### Would rather have them die than leave
+*According to some believing members, individuals who leave the LDS Church...*
+
+### were better off dying than losing their faith
 
 > To say, as a parent, "I won’t force my kids to go to church. I’ll let them decide on their own." sounds so enlightened. But its the most dangerous thing a parent could say. It would be safer for you to let your children play on the highway in rush hour traffic than to let them decide whether or not they wanted to go to church. One of those options carries temporary consequences (if you let your child play on the highway in rush hour traffic they will die); and the other carries potential eternal consequences.
 
@@ -291,7 +301,7 @@ From [this discussion](https://www.reddit.com/r/exmormon/comments/430l7q/getting
 
 [From here](https://www.reddit.com/r/exmormon/comments/4cnrah/my_seminary_teacher_said_something_that_bugged_me/)
 
-### Those who leave are mourned as if they had died
+### are mourned as if they had died
 
 > When I told her I no longer believe in the truth offered by the Church of Jesus Christ of Latter-day Saints, my mother reacted by telling me she mourned me as if I had died.
 
@@ -301,7 +311,7 @@ Paul Walker. [Ex-Actly as I Thought: Failure and the Unbecoming Mormon Man](http
 
 [From here](https://www.reddit.com/r/exmormon/comments/5c9669/my_88_year_old_grandfather_couldnt_stop_crying/)
 
-### They will not receive any inheritance
+### should not receive any inheritance
 
 A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=xNRlg6O8ekU) suggested that it is appropriate to deny inheritance to children who leave the Church:
 
@@ -309,13 +319,13 @@ A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=xNRlg6O8
 
 Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids-arent-mormon-give-your-money-to-the-church-when-you-die/).
 
-### Those who leave will never find true happiness
+### will never find true happiness
 
 > When i finally told my parents they had never been more dissapointed. my father told me i broke my mothers heart. in the morning before school we would read scriptures and my parents (my own father!!) would just burst out crying and attempt to keep reading. the amount of guilt and shame i had to go through. my parents made me see the bishop and the stake president! when i spoke to the stake president he talked to me about what i hoped to accomplish and basically told me i would never be truly content and would incredibly regret it later if i did not go. I was forced to go to church every sunday and if i didnt my parents would kick me out of the house. and every single sunday at some point in the 3 hours someone will tell me the bishop wanted to see me. then i would be constantly berated by the bishop on what i should do to meet a goal to go on a mission. I was an incredibly quiet and frail person then and would simply say things like "maybe" or "i dont know ill see" this went on for probably 8 months before i got a job that required me to work on sundays so i had an excuse not to go. even after i stopped going the missionaries would make an effort to see me 1-3 times a week! one sister missionary went so far as to point to an old picture of me and say that she saw true happiness in that picture but no longer sees that in my eyes. she said that she knows that i will never achieve true happiness. after this i just about lost it, i didnt really say much, i dont remember the specifics but im sure i was very passive aggressive. after they said the closing prayer i said "thanks" and went straight to my room without dismissing or shaking hands.
 
 [From here](https://www.reddit.com/r/exmormon/comments/43gpix/what_did_you_go_through_when_you_decided_to_not/)
 
-### Those who leave are sometimes shunned
+### may be shunned to some degree
 
 > We were ultra TBM-All of us were presidents (primary, ym etc..) Then our family of 4 left. My best friend was our bishops wife. Our son is besties with one of their sons, our daughter is besties with one of the older sons. Our whole family left the church less than a year ago.
 
@@ -327,13 +337,13 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 
 [From here](https://www.reddit.com/r/exmormon/comments/493j1w/second_grader_at_my_kids_school_everybody_who/)
 
-### Worse to work with than adulterers
+### are thought to be worse to work with than adulterers
 
 > I have heard some very experienced and capable church leaders say that they would rather work with ten adulterers than one angry apostate.
 
 [From here](http://www.truthwillprevail.xyz/2016/04/personal-apostasy.html)
 
-### Told terrible things will happen to them
+### are told terrible things will happen to them
 
 > Year 2002, somewhere in Canada.  My LDS high school buddies and I had all received our mission calls around the same time. My friend went to the temple and came back scared. He showed me his temple clothes. I went home and googled info on the church. Down the rabbit hole. Testimony lost in a matter of days.  I told my parents I had to put my mission call on hold because I had lost my faith. I talked to the bishop, the SP, and even the mission president in the mission I was assigned to soon join. None of it helped, obviously. There are no answers for these questions. And back in 2002 everyone thought I had succumbed to anti-mormon lies (there were no LDS essays yet).  I was riding in the car with my dad (former bishop) when he told me he had a revelation that I would be taken from the earth shortly, if I went the route of apostasy.  I didn't know what to say, so I just said, "Ok..."
 
@@ -345,17 +355,17 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 [Read other stories here](https://www.reddit.com/r/exmormon/comments/4g5ity/the_time_my_dad_told_me_id_be_taken_from_the/).
 
-### May be called out if you are exmormon and write openly about it
+### may be called out for writing about their new understanding
 
 [Experience shared here](https://www.reddit.com/r/exmormon/comments/52fapa/tbm_stupidity_found_out_her_kids_teacher_was_exmo/)
 
-### Those who undergo faith crises are avoided
+### may be avoided during their faith crisis
 
 [Example 1](https://www.reddit.com/r/exmormon/comments/42maq5/that_time_i_reached_out_to_my_best_friends_during/).
 
 [Example 2](https://www.reddit.com/r/exmormon/comments/1n7d45/the_reason_why_i_was_able_to_forgive_my_mother/)
 
-### Those with a close relationship to former members may be disciplined
+### may have family members' temple recommends threatened
 
 >> Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
 
@@ -367,11 +377,17 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 ## Attitude towards those who stay but do not believe
 
-Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.  These people are referred to as "wolves in sheeps clothing".  Most of these are from the blog post ["Wolves In Sheep's Clothing"](http://www.truthwillprevail.xyz/2016/04/wolves-in-sheeps-clothing.html) from the blog Truth Will Prevail.
+Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.[^fromtruthwillprevail]  These people are referred to as "wolves in sheeps clothing".
+
+*Individuals who stay in the Church, doubt foundational truth-claims or current policies, and share these views with others...*
+
+### lack moral courage, intellectual integrity, and honor
 
 > No man or woman is a true member of the Church who does not fully accept the First Vision, just as no man is a Christian who does not accept, first, the Fall of Adam, and second, the Atonement of Jesus Christ. Any titular Church member who does not accept the First Vision but who continues to pose as a Church member, lacks not only moral courage but intellectual integrity and honor if he does not avow himself an apostate and discontinue going about the Church, and among the youth particularly, as a Churchman, teaching not only lack-faith but faith-destroying doctrines. He is a true wolf in sheep's clothing.
 
 "[When Are the Writings or Sermons of Church Leaders Entitled to the Claim of Scripture?](http://emp.byui.edu/marrottr/ClarkWhenAreWritings.pdf)" part of an address delivered 7 July 1954 at Brigham Young University
+
+### wrest the scriptures
 
 > Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures, attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted, and that therefore such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.
 
@@ -381,15 +397,21 @@ Church leaders have spoken openly and strongly about those who stay in the Churc
 
 Boyd K. Packer. General Conference, October 1990. [Covenants](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
+### are the worst enemies of the Church and poison minds
+
 > The greatest and worst enemies we have of the Church are those within our ranks whom we haven’t caught up with yet.
 
 > I sat in with one of our teachers who was rebelling. He’d written a text to be used in the institutes and when it was turned down and was not acceptable because it was not correct, he just campaigned. He now has such a rank apostate attitude that he declares that he doesn’t believe the Church was organized as section 20 of the Doctrine and Covenants says it was. He doesn’t believe that Joseph Smith had the Vision as he testified he had. He thinks the Book of Mormon was written by somebody, but he doesn’t know who. He is irritated by things that go on in the temple and the temple endowments and so on. Now all the spleen and the ugliness of his soul come out when he’s no longer retained as a teacher, but while he was there, how many minds he poisoned.
 
 “Viewpoint of a Giant,” Summer School Devotional Address, Department of Seminaries and Institutes of Religion, Brigham Young University, July 18, 1968, 5.
 
+### are worse than a den of serpents
+
 > May I speak boldly of a few of the dangers of today. There have been some institute teachers in the past who have sometimes been allowed to go too long unchallenged in their unorthodox teachings. We should have retired them long before they were released from service. We have today in the Church, some students who were under some of these teachers of that particular time who have lost the faith; and parents in tears have lamented the day they ever allowed their child to be under the influence of a teacher who had no testimony. It reminded me of what President Karl G. Maeser used to say. “I would rather a child of mine be in a den of serpents than under the influence of a teacher who has no faith in God.” And we have had some.
 
 “Viewpoint of a Giant,” Summer School Devotional Address, Department of Seminaries and Institutes of Religion, Brigham Young University, July 18, 1968, 5.
+
+### are acting as a Satanic trap for the faithful
 
 > One more item and I shall conclude. There is a worldly threat to our theological teaching and to the faith of youth. Sporadically it has always been so, but in recent years it is more pronounced. This is not a frontal attack by the foe. We have never had too much difficulty in meeting open charges or criticisms. The foe is striking from ambush, with snipers and fifth columnists, with traps for the unwary.
 
@@ -398,3 +420,9 @@ Boyd K. Packer. General Conference, October 1990. [Covenants](https://www.lds.or
 > Unfortunately, some people within the Church subscribing to these views do not realize that they are falling into a trap themselves. They are giving aid and comfort to the foe; they are undermining their own testimonies and those of others, I warn the Church against them, and I warn them against themselves; and I plead with them to desist, to abandon their agnostic discussions, and to join with the faithful in promoting the cause which in their hearts they once loved, and I think they still love.
 
 Conference Report, October 1951, 116. [Awake, Ye Defenders of Zion](http://scriptures.byu.edu/gettalk.php?ID=551)
+
+### Other resources
+
+* [25 Things NOT to Say to a Loved One Leaving the Church (& what to say instead)](https://bycommonconsent.com/2017/01/15/25-things-not-to-say-to-a-loved-one-leaving-the-church-what-to-say-instead/)
+
+[^fromtruthwillprevail]: Most (or all) of the statements about those who stay in the Church but do not believe are from the blog post ["Wolves In Sheep's Clothing"](http://www.truthwillprevail.xyz/2016/04/wolves-in-sheeps-clothing.html) from the blog "Truth Will Prevail".
