@@ -375,6 +375,12 @@ When I finally had enough of endless preaching and being told I was not good eno
 
 [From here](https://www.reddit.com/r/exmormon/comments/4vjoqr/my_parents_temple_recommends_were_revoked_for_not/)
 
+### may be working for Satan
+
+> Religion professor at BYU I claimed in class today that his exmo sibling is "working for Satan" because this sibling tries to engage in rational discussions about the veracity of the church
+
+[From here](https://www.reddit.com/r/exmormon/comments/5psdd3/religion_professor_at_byu_i_claimed_in_class/)
+
 ## Attitude towards those who stay but do not believe
 
 Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.[^fromtruthwillprevail]  These people are referred to as "wolves in sheeps clothing".
