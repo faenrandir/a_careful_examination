@@ -244,6 +244,12 @@ Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-co
 
 [M. Russell Ballard](https://www.lds.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
 
+### had a patty-cake, taffy-pull conviction (implied)
+
+> I am so furious with people who leave this church. I don’t know whether furious is a good apostolic word or not.  But I am. What on earth kind of conviction is that?  What kind of patty-cake, taffy-pulled experience is that?  As if, as if none of this ever mattered; as if nothing in our contemporary life mattered; as if this is all just supposed to be [near yelling] just exactly the way I want it? And answered every one of my questions – and pursue this and occupy that – and defy this -- and then maybe I’ll be a Latter-day Saint. Well, there’s too much Irish in me for that.
+
+Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College Avenue, April 26, 2016. ([audio](https://soundcloud.com/s) [31:37])
+
 ### are not honest or sincere (implied)
 
 > For those who are honest and sincere in their search, it is not difficult to find out whether there has been a universal apostasy, and if so, where the truth is today.
