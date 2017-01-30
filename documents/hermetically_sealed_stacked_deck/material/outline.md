@@ -131,12 +131,9 @@ Changes are always signficant (but do not indicate any *need* for change)
 
 the Lord will never allow the [Mormon] prophet to lead his church astray
 
-## Apostates
+https://www.reddit.com/r/exmormon/comments/5r2b5u/a_new_way_of_rationalizing_the_churchs_stance_on/
 
-lazy or prideful
+The Church is behind on social issues because the prophet can only teach what
+the membership is willing to bear (i.e., the members aren't righteous enough).
 
-Among the Latter-day Saints, the preaching of false doctrines disguised as truths of the gospel, may be expected from people of two classes, and practically from these only; they are:
-First—The hopelessly ignorant, whose lack of intelligence is due to their indolence and sloth, who make but feeble effort, if indeed any at all, to better themselves by reading and study; those who are afflicted with a dread disease that may develop into an incurable malady—laziness.
-Second—The proud and self-vaunting ones, who read by the lamp of their own conceit; who interpret by rules of their own contriving; who have become a law unto themselves, and so pose as the sole judges of their own doings. More dangerously ignorant than the first.
-Beware of the lazy and the proud."
-(Teachings of Presidents of the Church: Joseph F. Smith, Chapter 13: Stand by the Truth Lest You Be Deceived)
+"The church itself contradicts this line of thinking because they claim the prophet will always teach what is right, not what is popular."

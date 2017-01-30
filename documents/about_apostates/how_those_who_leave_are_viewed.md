@@ -317,6 +317,12 @@ Paul Walker. [Ex-Actly as I Thought: Failure and the Unbecoming Mormon Man](http
 
 [From here](https://www.reddit.com/r/exmormon/comments/5c9669/my_88_year_old_grandfather_couldnt_stop_crying/)
 
+Similar in flavor:
+
+> My faith transition has been a very long, slow process (13+months). I'm still closeted to most everyone, but DW knows that I no longer accept the church's truth claims. Today she asked me why I didn't say amen after she said a prayer this morning. I tried to very kindly and no[n] confrontationally share, "I'm not sure I believe in Jesus Christ anymore...". She went away crying. A few minutes later she told me, "being raped by Ted Bundy would be easier than this". Any suggestions on how to best navigate this?
+
+[From here](https://www.reddit.com/r/exmormon/comments/5r1vm0/seeking_more_experienced_advice/)
+
 ### should not receive any inheritance
 
 A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=xNRlg6O8ekU) suggested that it is appropriate to deny inheritance to children who leave the Church:
