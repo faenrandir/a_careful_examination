@@ -10,7 +10,7 @@ After receiving a number of letters informing them that "some local leaders [had
 
 The status of oral sex as "unnatural, impure, or unholy" (UIU) was not modified or clarified in the October 1982 letter, and it **has never been rescinded, modified, or clarified in any way** *since* the January 1982 letter.
 
-Hence, the position of the First Presidency is that oral sex constitutes an UIU, even though leaders are not counseled to ask this question specifically as part of worthiness interviews.  Still, if a member were to ask about it, the counsel is "suggest that if the member has enough anxiety about the propriety of the conduct to ask about it, the best course would be to discontinue it."
+Hence, the position of the First Presidency is that oral sex constitutes an UIU, even though leaders are not counseled to ask this question specifically as part of worthiness interviews.  Still, if a member were to ask about it, the counsel is "suggest that if the member has enough anxiety about the propriety of the conduct to ask about it, the best course would be to discontinue it."  The recently leaked Limited Use Temple Recommend Book (printed in 1999?) demonstrates that [this practice was continued](https://i.imgur.com/bjGeVEF.jpg), at least for some time.
 
 ## Temple Covenants and the Church Handbook
 
