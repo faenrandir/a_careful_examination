@@ -8,6 +8,7 @@ DIAGRAM_BOOKMARKS = [
   "All answers to prayer are correct",
   "Follow Moroni's Promise to know that the Book of Mormon is true",
   "Only the ignorant and proud disagree with accepted LDS doctrine",
+  "Ask the right questions and doubt your doubts",
 ]
 
 insertion_lines = DIAGRAM_BOOKMARKS.flat_map.with_index do |bookmark, index|

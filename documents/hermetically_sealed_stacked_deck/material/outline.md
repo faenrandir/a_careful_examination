@@ -137,3 +137,10 @@ The Church is behind on social issues because the prophet can only teach what
 the membership is willing to bear (i.e., the members aren't righteous enough).
 
 "The church itself contradicts this line of thinking because they claim the prophet will always teach what is right, not what is popular."
+
+
+# Association
+
+Temple recommend question: Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+
+[Similar to JWs]
