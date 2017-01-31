@@ -39,11 +39,9 @@ inkscape_files.each do |file|
   system final_cmd
 end
 
-IGNORE = "04b-supplement.odt"
-
-article = Dir['*.odt'].reject {|file| IGNORE.include?(file) }.first
-
-system "odf_to_pdf.rb #{article}"
+Dir['*.odt'].each do |odt_file|
+  system "odf_to_pdf.rb #{odt_file}"
+end
 
 pdfs = Dir["*.pdf"].sort
 
