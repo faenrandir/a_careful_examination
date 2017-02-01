@@ -9,13 +9,6 @@ Church will fill the whole earth (when growing)
 Enter ye in at the strait gate: for wide is the gate, and broad is  the way, that leadeth to destruction, and many there be which go in thereat:
 Even the very elect will be deceived.
 
-
-* You've always known
-    * https://www.lds.org/new-era/2015/09/what-you-knew-in-premortal-life?lang=eng
-    * https://www.lds.org/new-era/2006/06/instant-messages?lang=eng
-    * https://www.lds.org/new-era/1998/02/i-wanted-proof?lang=eng&_r=1
-    * what's the difference between stupor of thought and not being sincere enough or not being "worthy"? [source](https://www.reddit.com/r/exmormon/comments/4j1aek/i_always_knew_it_was_true_how_many_of_your/)
-
 1. Testimony
     * doubts vs. questions
     * sincerity
@@ -36,9 +29,6 @@ Even the very elect will be deceived.
     Ballard talk
     "They love coffee more than Jesus"
 
--- doubts vs. questions
-[see dedicated document for this]
-
 Does it look like the prophet did something wrong?
 [Yes] - The prophet cannot lead you astray.  He may have made a mistake, that is all.
 [No] - Nothing to worry about.
@@ -56,14 +46,6 @@ You are speaking with someone who is talking about Church leaders.
     [No] Carry on.  This will build your testimony.
     [cannot access] The actions of a Church leader should be criticized.
 
--- Joseph F. Smith quote
-Leave because they are lazy or prideful
-https://archive.org/stream/gospeldoctrine009956mbp#page/n391/mode/2up/search/beware+of+the+lazy
-    Did a person leave the Church?
-    [Yes] They are either lazy or prideful
-    [No] They are a good person.
-    [cannot access] A person left the Church because they were dedicated, motivated, informed, and humble.
-
 Faith is a reward of personal righteousness
     Do you doubt some Church doctrine?
     [Yes] You have not been righteous enough.
@@ -75,47 +57,6 @@ The purpose of life is to be tested to see if you will do what God wants.
     [Yes] You had one goal, and you failed it.
     [No] You're passing the most important test.
     [cannot access] You should figure out what you think is right and always do that.
-
-## Don't pray against what is already accepted by the Church
-
-New seminary statement
-
-https://www.reddit.com/r/exmormon/comments/594itv/only_pray_about_what_we_tell_you_is_okay/
-
-https://www.lds.org/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng
-
-## If you get a feeling that goes against the Church it is not of God
-
-1912 FP statement
-
-When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.
-
-(Gospel Doctrine Teacher’s Manual Lesson 6: “I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost”)
-https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng
-
-## Keep praying
-
-Didn't get a confirmation?  Keep praying!  If you didn't get an answer, then
-it is because
-
-* "we must have a sincere *desire* to believe" ("sustained effort")
-
-[Securing Our Testimonies](https://www.lds.org/general-conference/2004/10/securing-our-testimonies?lang=eng&_r=1)
-
-> To my young friend, and to all wherever you may be, never give up on the Lord. The answer to your prayers may not be as clear or as timely as you would like, but keep praying
-
-
-https://www.lds.org/ensign/2016/02/latter-day-saint-voices/praying-with-real-intent?lang=eng
-
-    “Have you prayed to find out if what we are teaching you is true?”
-
-    I told them I had but had not obtained any answer.
-
-    “You must pray with real intent,” they said.
-
-    ...
-
-    I told Him I needed to know if He had really manifested Himself to Joseph Smith. If He had, I promised Him I would be baptized into the Church and serve Him all my life.
 
 ## Criticism
 
