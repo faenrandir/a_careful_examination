@@ -12,7 +12,7 @@ I was guided by the idea that if the Gospel was really true then there was no re
 
 From my missionary experience I was very familiar with the tight relationship between spirituality and testimony, so I focused equally intensely on my spiritual development.  I consistently tried to live the most important aspects of the Gospel (love, service, and humility) while not neglecting all the other facets that seemed important (scripture study, prayer, fasting, Sabbath observance, magnify callings, do Home Teaching consistently and for the right reasons, etc.).[^nobodyperfect]
 
-So, for the past twenty years I remained firm in that pattern of intensely studying apologetics,[^apologetics] focusing on my spiritual development, and building my testimony.[^spiritualdeveloment]  Of course, even though mounting a defense against my close relative was an initial catalyst and continual motivator, I also enjoyed living the Gospel for its own sake and was happy to be doing the right things for their intrinsic value and not necessarily as a challenge to my close relative---with whom, funny enough, I have never actually had a discussion about the Church to this day!
+So, for the past twenty years I remained firm in that pattern of intensely studying apologetics,[^apologetics] focusing on my spiritual development, and building my testimony.[^spiritualdeveloment]  Of course, even though mounting a defense against my close relative was an initial catalyst and continual motivator, I also enjoyed living the Gospel for its own sake and was happy to be doing the right things for their intrinsic value and not necessarily as a challenge to my close relative.
 
 ### Investigating Other Models
 
