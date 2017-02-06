@@ -6,9 +6,9 @@ Provenance: Copied from History of the Church, [vol. 6 ch. 19](https://byustudie
 
 [FairMormon's contextualization](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)
 
----
+(emphasis added)
 
-(Emphasis added)
+---
 
 May 26, 1844
 
