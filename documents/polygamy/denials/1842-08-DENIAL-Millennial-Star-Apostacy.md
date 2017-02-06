@@ -10,22 +10,13 @@ Among the most conspicuous of these apostates, we would notice a young female wh
 
 ...
 
-However, we will do her the justice to say, that her letters have had some
-effect upon several of her relatives and three or four persons have left the
-church, perhaps, partly through the influence of these and other reports from
-apostates and murmerers; and if any such thing can turn any others from the
-faith, we shall be very happy to part with them, as
+However, we will do her the justice to say, that her letters have had some effect upon several of her relatives and three or four persons have left the church, perhaps, partly through the influence of these and other reports from apostates and murmerers; and if any such thing can turn any others from the faith, we shall be very happy to part with them, as
 
     " We want no cowards in our band,
     That will their colours fly;
     We call for valiant-hearted men,
     Who're not afraid to die."
 
-But, for the information of those who may be assailed by those foolish tales
-about the two wives, we would say that no such principle ever existed among
-the Latter-day Saints, and never will; this is well known to all who are
-acquainted with our books and actions, the Book of Mormon, Doctrine and
-Covenants; and also all our periodicals are very strict and explicit on that
-subject, indeed far more so than the bible.
+But, for the information of those who may be assailed by those foolish tales about the two wives, we would say that no such principle ever existed among the Latter-day Saints, and never will; this is well known to all who are acquainted with our books and actions, the Book of Mormon, Doctrine and Covenants; and also all our periodicals are very strict and explicit on that subject, indeed far more so than the bible.
 
 "Dear---, We arrived here three weeks ago; I thought I would not write until I had seen the prophet, and attended the meetings in Nauvoo. I have now been at the meetings three sabbaths, and have had the pleasure of attending the conference which continued for three days; and I have had the pleasure of hearing brother Joseph speak [this was the conference where Joseph and Hyrum refuted the stories Martha circulated].... I suppose, by this time, you will have heard that my parents and sister have apostatized. I know not what they have written to England, as they would not let me see their letters, but I can prove that my sister has told some of the greatest lies that ever were circulated.... My parents have turned their backs upon me, because I would not leave the Saints, and have told my elder sister not to own them until she abandoned "Mormonism"; but with all this she is unmoved, and is still contending for the faith once delivered to the Saints, for she and many other of the English Saints have proved that the statements made by my sister are falsehoods of the basest kind."
