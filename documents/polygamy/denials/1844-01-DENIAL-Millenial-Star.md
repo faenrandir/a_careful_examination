@@ -1,7 +1,7 @@
 ## 1844 Millenial Star polygamy denial
 
 Provenance: The [January 1844 Millenial Star magazine](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4) published this in its [editorial
-section](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/0ace0484438a18c06def2087937274c13b8c19e7/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):
+section](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/c4b23682f44f0f29aab0b923f4d28b4273736e19/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):
 
 (emphasis added)
 
