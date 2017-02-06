@@ -331,6 +331,13 @@ A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=xNRlg6O8
 
 Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids-arent-mormon-give-your-money-to-the-church-when-you-die/).
 
+### may be disowned until they repent
+
+> I posted a few times about leaving the Mormon church. My dad emailed me today. Im disowned. My phone number, email, and my social networking sites. I'm not supposed to try to contact any family unless I repent and return to the church. I'm an adult. I'm a veteran. And losing my family hurts. Maybe I should go for a commission.
+
+[From here](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/)
+([father is Stake President](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/ddek4ly/))
+
 ### will never find true happiness
 
 > When i finally told my parents they had never been more dissapointed. my father told me i broke my mothers heart. in the morning before school we would read scriptures and my parents (my own father!!) would just burst out crying and attempt to keep reading. the amount of guilt and shame i had to go through. my parents made me see the bishop and the stake president! when i spoke to the stake president he talked to me about what i hoped to accomplish and basically told me i would never be truly content and would incredibly regret it later if i did not go. I was forced to go to church every sunday and if i didnt my parents would kick me out of the house. and every single sunday at some point in the 3 hours someone will tell me the bishop wanted to see me. then i would be constantly berated by the bishop on what i should do to meet a goal to go on a mission. I was an incredibly quiet and frail person then and would simply say things like "maybe" or "i dont know ill see" this went on for probably 8 months before i got a job that required me to work on sundays so i had an excuse not to go. even after i stopped going the missionaries would make an effort to see me 1-3 times a week! one sister missionary went so far as to point to an old picture of me and say that she saw true happiness in that picture but no longer sees that in my eyes. she said that she knows that i will never achieve true happiness. after this i just about lost it, i didnt really say much, i dont remember the specifics but im sure i was very passive aggressive. after they said the closing prayer i said "thanks" and went straight to my room without dismissing or shaking hands.
