@@ -37,9 +37,9 @@ administering the ordinance, and we feel to say, in the name of the church,
 that no such feelings exist in the minds of any member of the same, who has
 come to a knowledge of the importance of the ordinance.
 
-**And on another subject we wish furthermore to add, that we, as a church,
+And on another subject we wish furthermore to add, that we, as a church,
 believe that all legal contracts of marriage, made before a person is baptized
-into this church, should be held sacred and be fulfilled.  Inasmuch as this
+into this church, should be held sacred and be fulfilled.  **Inasmuch as this
 church of Christ has been reproached with the crime of fornication and
 polygamy, we declare that we believe, that one man should have but one wife,
 and one woman but one husband, except in case of death, when either is at
