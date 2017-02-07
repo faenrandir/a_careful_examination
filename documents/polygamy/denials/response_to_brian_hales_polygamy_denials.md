@@ -1,3 +1,4 @@
+### A Critique of Joseph Smith's Polygamy: "Thou Shalt not Lie" and Denials of Polygamy
 
 > Despite criticisms charging that Joseph lied when denying polygamy, the fact is that under Illinois statute, he could truthfully answer negatively because state laws prevented any person from entering into more than one marriage. A second (or third or forth) marriage could not be certified with any legal document. Hence practicing legal polygamy was an impossibility.
 
@@ -25,4 +26,22 @@ John L. Brooke considered it "deceptive".
 
 We have no evidence that Joseph ever thought about Islamic polygamy in this manner.  Regardless, if he were answer with these "codes" in mind, he was equivocating (which is a type of lie) and clearly deceiving his listeners (a "lie" according to the Gospel Principles manual).
 
+> LDS scholar Danel Bachman observed: “Most of these denials stressed semantical and theological technicalities. That is, the language of the defense was carefully chosen to disavow practices that did not accurately represent Church doctrines.
 
+Virtual every denial claimed or strongly implied that nobody had more than one wife.  Yet, everyone involved in polygamy referred to themselves as married and husband and wife.
+
+> Todd Compton concurred: “Faced with the necessity of keeping polygamy secret, the Mormon authorities generally chose to disavow the practice, sometimes using language with coded double meanings.”
+
+Equivocation is the act of communicating with two meanings.  It is deception (and a lie) when the code is used with the intent to deceive.
+
+> Denying polygamy on a technicality may not satisfy some observers.
+
+Once a person has read all the denials, it is clear that they are deceptive, regardless of which tactics are being used.
+
+> Fawn Brodie affirmed: “The denials of polygamy uttered by the Mormon leaders between 1835 and 1852, when it was finally admitted, are a remarkable series of evasions and circumlocutions involving all sorts of verbal gymnastics.” In this, she is not incorrect.
+
+Verbal gymnastics is a synonym for doublespeak, which is equivocation.  It deceived the listeners (and was used with the intent to decieve the listeners, so they were lies).
+
+> However, Joseph knew from his experience in Kirtland, Ohio, in 1836 that plural marriage would not be easily accepted by even staunch believers and members of his own family. To divulge more details than absolutely required might risk provoking violent reactions. Apparently, that was not a risk he was willing to take.
+
+This is the final hedge---Joseph couldn't avoid deceiving everyone around him because he feared for his and everyone's safety.  Be that as it may, it does not alter that his (and other leaders') words were deceptive and therefore constituted a lie in their effect.
