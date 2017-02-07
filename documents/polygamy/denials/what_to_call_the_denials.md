@@ -45,7 +45,7 @@ So, lying is intentionally deceiving others, and it may be performed in a variet
 
 ### Wikipedia
 
-The wikipedia entry for lie (as of 2017-02-06) defines "lie" (emphasis added):
+The wikipedia [entry for lie](https://en.wikipedia.org/wiki/Lie) (as of 2017-02-06) defines "lie" (emphasis added):
 
 > A lie is a statement that the stating party believes to be false and that is made with the intention to deceive.
 
