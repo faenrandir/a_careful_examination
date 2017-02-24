@@ -1,93 +1,53 @@
-# What to call the denials of polygamy?
+## What to call the denials?
 
-To properly and precisely categorize Joseph Smith's communication, we will examine a few definitions around the word "lie".
+The denials of polygmay led people to believe one thing (Joseph and other leaders were *not* marrying more than one wife) while the exact opposite of that thing was occurring (Joseph and other leaders *were* marrying more than one wife).  But leaders made these denials, at times, using word definitions and codes that were only familiar to the Saints even though the leaders knew that others would interpret the *meaning* of those words very differently. 
 
-### Merriam-Webster
+What are the appropriate words to use when speaking of the deceptiveness of these denials?
 
-Merriam-Webster provides a disambiguation of three words: lie, prevaricate, and equivocate.  I will present the definitions and then the disambiguation.
+### Definitions
 
-#### Definitions
+I compiled a list of definitions from Merriam Webster (MW), Wikipedia's entry on lying (WK), and the Gospel Principles (GP) manual's discussion of lying [here]().
 
-##### lie (intransitive verb):
+Given these definitions, Joseph Smith and other leaders were, _at a minimum_ guilty of **deception** and **lying**---the denials easily fit within the usage of those terms as defined and used *by all three sources*.
 
-> **1** :  to make an untrue statement with intent to deceive \<She was lying when she said she didn't break the vase.\> \<He lied  about his past experience.\>
+In addition, the following words seem to be perfect descriptors of the denials:
 
-> **2** :  to create a false or misleading impression \<Statistics sometimes lie.\> \<The mirror never lies.\>
+* equivocation (MW)
+* prevarication (MW)
+* bullsh\*t (WK)
+* contextual lie (WK)
+* disinformation (WK)
+* half-truth (WK)
+* misleading (WK)
+* dissembling (WK)
+* weasel word (WK)
 
-##### equivocate (intransitive verb):
+### Evasions, mental gymnastics, circumlocations?
 
-> **1** :  to use equivocal language especially with intent to deceive
+Words and phrases that Hales references like "evasions", "mental gymnastics", "circumlocations", and "language with coded double meanings" capture the semantic process used, but not the intended effect on the audience of those denials.  Leaders, including Joseph Smith, did not *just* evade, did not *just* talk around issues, did not *just* use coded language---they used this language so as to leave the audience with the distinct impression that the *opposite* of the truth was the truth.  Because the intent was to mislead and the effect was highly misleading[^denialsmisleading] these denials are better referred to by the words "lie", "deception", or any number of the other words that happen similarly fit a particular denial ("equivocation", "prevarication", etc.).
 
-> **2** :  to avoid committing oneself in what one says
+### Are "Lies and deception" too harsh?
 
-The first (and only applicable) definition of equivocal, linked in the definition above, is:
+Though they are semantically exact, the terms "lie" and "deception" might be considered by some to be too harsh.  If there are less harsh words that capture the intent and effect then I welcome the suggestions.
 
-> **1** a :  subject to two or more interpretations and usually used to mislead or confuse \<an equivocal statement\>
+One way to determine if we've been too harsh is to consider the manner in which Church leaders characterized the statements of those who attempted to shed light on the practice of polygamy by early Church leaders.
 
-##### prevaricate (intransitive verb):
-
-> :  to deviate from the truth :  equivocate
-
-### Disambiguation
-
-Merriam-Webster disambiguates the terms thusly:
-
-> A LIE is the blunt term, imputing dishonesty \<_lied_ about where he had been \>.  PREVARICATE softens the bluntness of LIE by implying quibbling or confusing the issue \<during the hearings the witness did his best to prevaricate\>.  EQUIVOCATE implies using words having more than one sense so as to seem to say one thing but intend another \<equivocated endlessly in an attempt to mislead her inquisitors\>.
-
-### Gospel Principles
-
-The current Gospel Principles manual (as of 2017-02-06) defines lying and
-other forms of deception [in this paragraph](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng) (emphasis added):
-
-> **Lying is intentionally deceiving others.** Bearing false witness is one form of lying. The Lord gave this commandment to the children of Israel: “Thou shalt not bear false witness against thy neighbour” (Exodus 20:16). Jesus also taught this when He was on earth (see Matthew 19:18). **There are many other forms of lying.** When we speak untruths, we are guilty of lying. **We can also intentionally deceive others by a gesture or a look, by silence, or by telling only part of the truth.** Whenever we lead people in any way to believe something that is not true, we are not being honest.
-
-So, lying is intentionally deceiving others, and it may be performed in a variety of ways (silence, telling only part of the truth, etc.)
-
-### Wikipedia
-
-The wikipedia [entry for lie](https://en.wikipedia.org/wiki/Lie) (as of 2017-02-06) defines "lie" (emphasis added):
-
-> A lie is a statement that the stating party believes to be false and that is made with the intention to deceive.
-
-The article goes on to distinguish between types of lies.
-
-The ones that seem most applicable to Joseph Smith's words are these:
-
-> **Big lie**: A lie which attempts to trick the victim into believing something major which will likely be contradicted by some information the victim already possesses, or by their common sense. When the lie is of sufficient magnitude it may succeed, due to the victim's reluctance to believe that an untruth on such a grand scale would indeed be concocted.
-
-> **Bullshit**: Bullshit does not necessarily have to be a complete fabrication. While a lie is related by a speaker who believes what is said is false, bullshit is offered by a speaker who does not care whether what is said is true because the speaker is more concerned with giving the hearer some impression. Thus bullshit may be either true or false, but demonstrates a lack of concern for the truth which is likely to lead to falsehoods.
-
-> **Contextual lie**: One can state part of the truth out of context, knowing that without complete information, it gives a false impression. Likewise, one can actually state accurate facts, yet deceive with them. To say "Yeah, that's right, I ate all the white chocolate, by myself", using sarcasm, a form of assertion by ridiculing the fact(s) implying the liar believes it to be preposterous.
-
-> **Deception**: Deception is the act of propagating beliefs in things that are not true, or not the whole truth (as in half-truths] or lying by omission. Deception can involve dissimulation, propaganda, and sleight of hand, as well as distraction, camouflage, or concealment. There is also self-deception, as in bad faith.
-
-> **Disinformation**: Disinformation is intentionally false or misleading information that is spread in a calculated way to deceive target audiences.
-
-> **Half-truth**: A half-truth is a deceptive statement that includes some element of truth. The statement might be partly true, the statement may be totally true but only part of the whole truth, or it may employ some deceptive element, such as improper punctuation, or double meaning, especially if the intent is to deceive, evade, blame or misrepresent the truth.
-
-> **Misleading and dissembling**: A misleading statement is one where there is no outright lie, but still retains the purpose of getting someone to believe in an untruth.
-
-> **Weasel word**: A weasel word is an informal term[16] for words and phrases aimed at creating an impression that a specific and/or meaningful statement has been made, when in fact only a vague or ambiguous claim has been communicated, enabling the specific meaning to be denied if the statement is challenged. A more formal term is equivocation.
-
-Other types of lie which **do not** seem to apply to any of Joseph Smith's denials:
-
-> **Honest lie**: An honest lie (or confabulation) can be identified by verbal statements or actions that inaccurately describe history, background, and present situations. There is generally no intent to misinform and the individual is unaware that their information is false. Because of this, it is not technically a lie at all since by definition, there must be an intent to deceive for the statement to be considered a lie.
-
-> **Lying by omission**: Also known as a continuing misrepresentation, a lie by omission occurs when an important fact is left out in order to foster a misconception. Lying by omission includes failures to correct pre-existing misconceptions. For example, when the seller of a car declares it has been serviced regularly but does not tell that a fault was reported at the last service, the seller lies by omission. It can be compared to dissimulation.
-
-    An omission is when a person tells most of the truth, but leaves out a few key facts that therefore completely change the story.
-
-> **White lie**: White lies are minor lies which could be considered harmless, or even beneficial, in the long term. White lies are also considered to be used for greater good. White lies are often used to shield someone from a hurtful or emotionally damaging truth, especially when not knowing the truth is completely harmless.
-
-> **Minimisation**: Minimization is the opposite of exaggeration. It is a type of deception[10] involving denial coupled with rationalization in situations where complete denial is implausible.
-
-
-
-
-In August of 1842, the Millenial Star wrote:
+In August of 1842, the Millenial Star wrote of Martha Brotherton:
 
 > a young female who emigrated from Manchester in September last, after conducting herself in a manner unworthy the character of one professing godliness, at length conceived the plan of gaining friendship and extraordinary notoriety with the world, or rather with the enemies of truth, by striking a blow at the character of some of its worthiest champions. She well knew that this would be received as a sweet morsel by her old friends, the Methodists, and other enemies of the Saints. She accordingly selected president J. [Joseph] Smith, and elder B. [Brigham] Young for her victims, and **wrote to England that these men had been trying to seduce her, by making her believe that God had given a revelation that men might have two wives**; by these disreputable means she thought to overthrow the Saints here, or at least to bring a storm of persecution on them, and prevent others from joining them; but in this thing **she was completely deceived by Satan**.
 
-To discredit this young female, The Millenial Star then published letter from her sister claiming that "my sister has told some of the greatest lies that ever were circulated" and "she and many other of the English Saints have proved that the statements made by my sister are falsehoods of the basest kind".
+To discredit Martha, The Millenial Star then published a letter from her sister claiming that "my sister has told some of the **greatest lies** that ever were circulated" (emphasis added).  In fact, Martha was alost certainly right---others had been approached in similar fashion and.  Even Brian Hales treats Martha's story as [generally reliable](http://josephsmithspolygamy.org/history/changes-in-february-1842/#link_ajs-fn-id_7-68).
 
-If she had been mistaken, then the Saints felt it appropriate to publish that this young female was guilty of telling "some of the greatest lies that ever were circulated"
+If she had been mistaken (she was not), then the Saints felt it appropriate to publish that this young female was guilty of telling "some of the greatest lies that ever were circulated" and that "she was completely deceived by Satan."
+
+Finally 
+http://mit.irr.org/joseph-smith-statements-denying-polygamy [link original source]
+
+> 12th **Lie**—Joseph Smith taught a system of polygamy. (emphasis added)
+
+> 12th Refutation—The Revelations given through Joseph Smith, state the following . . . "We believe that one man should have one wife."Doctrine and Covenants, page 331.
+
+These sources suggest that LDS leaders of that era would be comfortable with
+labeling their denials of polygamy "lies" and "deception".
+
+[^denialsmisleading]: in fact, many individuals *were misled* so completely on this issue that people *still* believe Joseph Smith didn't practice polygamy over 150 years later *based almost exclusively on these denials*)

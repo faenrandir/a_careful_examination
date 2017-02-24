@@ -18,8 +18,36 @@ We have given the above rule of marriage as the only one practiced in this churc
 
 We the undersigned members of the church of Jesus Christ of Latter-Day Saints and residents of the city of Nauvoo, persons of families do hereby certify and declare that we know of no other rule or system of marriage than the one published from the Book of Doctrine and Covenants, and we give this certificate to show that Dr. J. C. Bennett's "secret wife system" is a creature of his own make as we know of no such society in this place nor never did.
 
-S. Bennett, N. K. Whitney, George Miller, Albert Pettey, Alpheus Cutler, Elias Higbee, Reynolds Cahoon, John Taylor, Wilson Law, E. Robinson, W. Woodruff, Aaron Johnson.
+    S. Bennett,
+    N. K. Whitney,
+    George Miller,
+    Albert Pettey,
+    Alpheus Cutler,
+    Elias Higbee,
+    Reynolds Cahoon,
+    John Taylor,
+    Wilson Law,
+    E. Robinson,
+    W. Woodruff,
+    Aaron Johnson.
 
 We the undersigned members of the ladies' relief society, and married females do certify and declare that we know of no system of marriage being practised [practiced] in the church of Jesus Christ of Latter Day Saints save the one contained in the Book of Doctrine and Covenants, and we give this certificate to the public to show that J. C. Bennett's "secret wife system" is a disclosure of his own make.
 
-Emma Smith, President, Elizabeth Ann Whitney, Counsellor [Counselor], Sarah M. Cleveland, Counsellor [Counselor], Eliza R. Snow, Secretary, Mary C. Miller, Catharine Pettey, Lois Cutler, Sarah Higbee, Thirza Cahoon, Phebe Woodruff Ann Hunter, Leonora Taylor, Jane Law, Sarah Hillman, Sophia R. Marks, Rosannah Marks, Polly Z. Johnson, Angeline Robinson, Abigail Works.
+    Emma Smith, President,
+    Elizabeth Ann Whitney, Counsellor [Counselor],
+    Sarah M. Cleveland, Counsellor [Counselor],
+    Eliza R. Snow, Secretary,
+    Mary C. Miller,
+    Catharine Pettey,
+    Lois Cutler,
+    Sarah Higbee,
+    Thirza Cahoon,
+    Phebe Woodruff Ann Hunter,
+    Leonora Taylor,
+    Jane Law,
+    Sarah Hillman,
+    Sophia R. Marks,
+    Rosannah Marks,
+    Polly Z. Johnson,
+    Angeline Robinson,
+    Abigail Works.

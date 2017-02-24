@@ -63,4 +63,3 @@ countenanced by the presidency in anywise**.
 people may know our faith respecting them, and also to correct the public mind
 in respect to the church; and we hope, that the Saints will hearken to this
 counsel for their own good, and for the prosperity of the cause of God.**
-
