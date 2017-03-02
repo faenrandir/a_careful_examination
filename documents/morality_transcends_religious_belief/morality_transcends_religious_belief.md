@@ -27,8 +27,11 @@ Atheist philosophers regularly argue for moral realism (i.e., morals are real) a
 * [The Case for Objective Morality](http://www.strongatheism.net/library/philosophy/case_for_objective_morality/
 )
 * [Morality without religion](http://www.qcc.cuny.edu/SocialSciences/ppecorino/INTRO_TEXT/Chapter%208%20Ethics/Reading-Morality-without-Religion.htm)
-* [Sam Harris arguments](https://www.youtube.com/watch?v=9CvCyMeAH8I) - even though a believer may strongly disagree with his arguments about religion, there is no doubt that he regularly uses moral arguments to defend his positions and he is very concerned with morality.
 * [Arguments about atheism and morality on Quora](https://www.quora.com/Why-do-atheists-believe-in-morality-Why-does-it-even-matter-to-them/answer/Kris-Johnson-13?srid=uJIq).
+* Sam Harris discussions:
+    * [What is moral progress](https://www.samharris.org/podcast/item/what-is-moral-progress)
+    * [Being good and doing good](https://www.samharris.org/podcast/item/being-good-and-doing-good)
+    * [The virtues of cold blood](https://www.samharris.org/podcast/item/the-virtues-of-cold-blood)
 
 ### Conclusion
 
