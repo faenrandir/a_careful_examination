@@ -1,5 +1,5 @@
 
-Martha Brotherton, who was maligned by Church leaders throughout the end of 1842 as being a prostitute, harlot, and liar, was sealed by proxy to Brigham Young in 1870.
+Martha Brotherton, who was maligned by Church leaders throughout the end of 1842 was sealed by proxy to Brigham Young in 1870.
 
 From George Smith's book 'Nauvoo Polygamy:"… but we called it celestial marriage"' pp 271-272:
 
