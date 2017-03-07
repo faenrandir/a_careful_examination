@@ -88,5 +88,11 @@ if __FILE__ == $0
     'count' => wives_on_or_before.size,
     'wives' => wives_on_or_before.map(&:to_s)
   }
-  puts output.to_yaml
+  puts "The most conservative estimate of the number of wives Joseph Smith had"
+  puts "either been married to or sealed to by #{comparison_date} based on established"
+  puts "dates given in josephsmithspolygamy.org is: **#{wives_on_or_before.size}**"
+  puts ""
+  puts output['wives'].to_yaml.split("\n")[1..-1].join("\n")
+
+  #puts output.to_yaml
 end
