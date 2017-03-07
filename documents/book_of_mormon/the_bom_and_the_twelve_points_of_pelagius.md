@@ -22,7 +22,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
     **[BOM]** 2 Nephi 2:22 And now, behold, if Adam had not transgressed he would not have fallen, but he would have remained in the garden of Eden. And all things which were created must have remained in the same state in which they were after they were created; and they must have remained forever, and had no end.
 
-    **[DST]** That Adam had mortality in his nature, so that he could not have existed one moment if not sustained by that power which called him into being , is indisputably true, for such is the dependent state of every creature; but that he would certainly have died, though he had not sinned, is directly contrary to the implied promise of God, as recorded by Moses.
+    **[DST]** That Adam had mortality in his nature, so that he could not have existed one moment if not sustained by that power which called him into being, is indisputably true, for such is the dependent state of every creature; but that he would certainly have died, though he had not sinned, is directly contrary to the implied promise of God, as recorded by Moses.
 
     **[AATI]** We do indeed think with Pelagius and as we apprehend with every man capable of reflection that Adam had mortality in his nature because it seems to be a truth as self evident as any geometrical axiom that the being whether man or angel who had not life of himself cannot of himself have eternal life and because St Paul hath assured us 1 Tim vi 15 16 that he who is the blessed and only potentate the King of Kings and Lord of Lords only hath immortality But so far have we been from asserting that whether Adam had sinned or not he would infallibly have died that we have shown that by the first covenant had he observed the terms of it he would not only have been preserved from death by the means provided for that purpose but have been also translated into heaven after a sufficient probation on earth.
 
@@ -68,7 +68,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 6. **That the death and disobedience of Adam is not the necessary cause of death to all mankind, neither doth the general resurrection of the dead follow in virtue of our Saviour's resurreciton.**
 
-    *All disagree in unison: had Adam's Fall brought upon mankind death and Christ the imminent resurrection.*
+    *All disagree in unison: Adam's Fall brought upon mankind death and Christ the imminent resurrection.*
 
     **[BOM]** 2 Nephi 2:8,10,22 ... that he may bring to pass the resurrection of the dead, being the first that should rise... And because of the intercession for all, all men come unto God; wherefore, they stand in the presence of him, to be judged of him according to the truth and holiness which is in him. ... if Adam had not transgressed he would not have fallen, but he would have remained in the garden of Eden.
 
