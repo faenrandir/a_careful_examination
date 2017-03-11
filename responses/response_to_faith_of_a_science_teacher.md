@@ -26,6 +26,8 @@ I do not think LDS theology actually answers this question.  Regardless, contras
 
 What seems abundantly clear, however, is that humankind did _not_ originate [6000 years ago](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/afa5b85f5a309c31f4f581035e75b554ca63dbd7/documents/science/the_6000_year_problem.pdf) (even though this is taught in virtually every Church manual) somewhere close to [Missouri, USA](http://en.fairmormon.org/Joseph_Smith/Garden_of_Eden_in_Missouri) (also [currently taught in lesson manuals](https://www.lds.org/manual/the-pearl-of-great-price-student-manual/the-book-of-moses?lang=eng&query=garden+of+eden+missouri)).
 
+This line of thinking (if we are the product of random chance then maybe we don't really matter) is similar to the reductionistic approach to looking at humans.  In its extreme form, the reductionist approach says, "because we are composed of atoms we don't really matter and there are no real morals."  In its extreme form, the spontaneous generation approach says, "because we came from random processes and will someday die, we don't really matter and there are no morals."  Both these approaches are highly flawed, IMHO, because they fail to acknowledge that meta-phenomena are "real" and that emergent "stuff" is as significant as fundamental "stuff" (even though emergent "stuff", to be sure, is contingent upon fundamental "stuff").  We *are* conscious creatures and we appear to have at least some measure of genuine agency (scientists are just at the beginning of being able to really analyze that process, so it's unclear exactly how much).  If we can consider how our actions might influence the well-being of another conscious creature and alter our behavior based on that realization, then morality *also exists* in that very realization.  And, given that we can directly influence the well-being of others and the fate of our planet now, we clearly are capable of creating meaning and purpose now, regardless of how we came to be or the fact that our consciousness is contingent upon the atoms of which we are composed.
+
 **[FST-4]** _How could intelligent life spring from a non-intelligent universe?  (Note: I am aware that many people answer this with the analogy that a team of monkeys writing on typewriters for an infinite amount of time will eventually recreate the works of Shakespeare. But that just opens up more questions, such as who gave them the typewriters and who identifies what Shakespeare's writings are. It seems that all intelligence must be preceded by intelligence.)_
 
 [Emergence](https://en.wikipedia.org/wiki/Emergence) appears to be a feature of the universe.
@@ -149,9 +151,11 @@ Again, this sermon is rich with similarities to works of its time.
 
 For instance, King Benjamin talks about actual blood coming from Jesus's pores, but that idea was common in Joseph's time (see, for instance, [A Selection of Hymns and Spiritual Songs. 1817. New York.](https://books.google.com/books?id=n1QXAAAAYAAJ&pg=PA303&dq=%22blood+from+every+pore%22&hl=en&sa=X&ved=0ahUKEwi84pTpuaDRAhWrrFQKHYwgBWkQ6AEIHDAA#v=onepage&q=%22blood%20from%20every%20pore%22&f=false)).
 
-And, to give just one more example, the description King Benjamin gives of Christ's suffering is similar to other works from the early 1800s.  [The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
+Also, the description King Benjamin gives of Christ's suffering is similar to other works from the early 1800s.  [The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
 
 > I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that 1 might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
+
+I'm currently working through the claims made by Tad Callister, so I hope to include more examples in the future on this point.
 
 **[FST-20]** _Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies._
 
@@ -229,7 +233,11 @@ My understanding is that, for its size, the [Seventh Day Adventists do far more 
 
 **[FST-36]** _Why are religious people more likely to donate to charity and give service?_
 
-Good question.  I'm not totally sure.  Why do the religious and non-religious perform moral and immoral acts of [the same quality and with the same frequency](http://science.sciencemag.org/content/345/6202/1340)?
+Good question.  I'm not totally sure.  What about these findings from recent studies:
+
+> Religious and nonreligious participants did not differ in the likelihood or quality of committed moral and immoral acts. ([Morality in everyday life. Science 2014](http://science.sciencemag.org/content/345/6202/1340))
+
+> Across all countries, parents in religious households reported that their children expressed more empathy and sensitivity for justice in everyday life than non-religious parents. However, religiousness was inversely predictive of children’s altruism and positively correlated with their punitive tendencies. (see [here](http://www.sciencemag.org/news/2015/11/nonreligious-children-are-more-generous) and [here](http://www.cell.com/current-biology/abstract/S0960-9822%2815%2901167-7))
 
 **[FST-37]** _What about my own experience? Why do I feel such power when I read the Book of Mormon, as if it were written by prophets who kept a record for future generations?_
 
@@ -241,13 +249,13 @@ Also, consider [the testimony of those who read other Holy Books](https://www.re
 
 I don't know, but I agree that it's wonderful.  Still, does religious music have a monopoly on "beautiful and inspiring"?
 
-Also, a lot of religious music preaches doctrines that are fundamentally contrary to LDS teachings.  Why doesn't the Spirit "turn off" [when false doctrine about the trinity is sung in the credo](https://www.reddit.com/r/mormondebate/comments/3srg9q/star_using_the_method_found_in_the_bom_for/cx2agav/) of Bach's B Minor Mass, for instance?
+Also, a lot of religious music preaches doctrines that are fundamentally contrary to LDS teachings.  Why doesn't the Spirit "turn off" [when false doctrine about the trinity is sung in the credo](https://www.reddit.com/r/mormondebate/comments/3srg9q/star_using_the_method_found_in_the_bom_for/cx2agav/) of Bach's B Minor Mass, for instance?  Or consider this beautiful song called ["Atheist Hallelujah"](https://www.youtube.com/watch?v=N4pjB7aDBcQ) which describes a person's realization that God may not exist.  This song, which is clearly atheistic in message, moves me as powerfully as any religious anthem ever did.  [note: given that it violates deeply held beliefs about God it may rub a theist the wrong way (likely related to the emotion of sanctity/degradation as described in [Moral Foundations Theory](http://moralfoundations.org/))].
 
 **[FST-39]** _Why has the doctrine of grace and the Atonement given me comfort and peace, helping me feel that I can change and be forgiven of any mistake?_
 
 The atonement is a very powerful concept.
 
-Still, we should consider the hypothetical scenario: What if the atonement had not *actually* been performed but the gospel writers merely asserted that it was properly performed.  How would you know?  Is there any proof of the atonement outside of you believing in it?  What if some aspect of the atonement wasn't really part of the atonement package (for instance, what if the atonement didn't really cover pain but only sin?)  How would you know?
+Still, we should consider this hypothetical scenario: What if the atonement had not *actually* been performed but the gospel writers merely asserted that it was properly performed.  How would you know?  Is there any proof of the atonement outside of you believing in it?  What if some aspect of the atonement wasn't really part of the atonement package (for instance, what if the atonement didn't really cover pain but only sin?)  How would you know?
 
 **[FST-40]** _Why does the gospel of Jesus Christ make so much sense and feel so true?_
 
@@ -275,7 +283,7 @@ Almost all models answer a few questions well.  Maybe the real test of a model i
 * Genesis and the temple ceremony suggests that it is "not good for man to be alone".  What are homosexual people really supposed to do with themselves?  Is the "plan of happiness" so happy for them?
 * Why do you not give other religions the same benefit of the doubt as Mormonism?  If you were raised in another religion and gave that religion the same benefit of the doubt as Mormonism, could you ever leave it?  If you hadn't been raised in Mormonism, would you seriously consider converting to it?
 
-Current biological and psychologyical models can give a highly complete answer to each of those questions, but the Mormon model seems so much less clear and precise on these kinds of questions.
+Current biological and psychological models can give a highly complete answer to each of those questions, but the Mormon model seems so much less clear and precise on these kinds of questions.
 
 ### Conclusion
 
