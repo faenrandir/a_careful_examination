@@ -1,4 +1,4 @@
-# Joseph Smith's Denials of Polygamy
+# Joseph Smith's Polygamy Denials
 
 Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasions.  In addition, he was directly responsible for the publication or distribution of several additional denials.
 
