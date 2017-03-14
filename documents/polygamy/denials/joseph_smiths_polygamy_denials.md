@@ -110,4 +110,4 @@ A few notes:
 
 [^wifecount]: Joseph Smith's wife count will comprise all those to whom he was married or sealed at the time of the statement and is derived from [the most conservative estimate of well-established dates](https://www.reddit.com/r/exmormon/comments/5vs93e/table_of_the_dates_of_joseph_smiths_marriages/) for his marriages/sealings taken from [josephsmithspolygamy.org](http://josephsmithspolygamy.org/plural-wives-overview/). 
 
-[^fannyalger]: Joseph never denied a relationship with Fanny Alger.  Later testimony indicates [a marriage ceremony had been performed by Levi Hancock](http://josephsmithspolygamy.org/common-questions/fanny-alger-2/).
+[^fannyalger]: Virtually all scholars agree that *some* kind of sexual relationship or marriage occurred between Joseph and Fanny Alger. The account of a marriage ceremony comes via [a later testimony from Levi Hancock](http://josephsmithspolygamy.org/common-questions/fanny-alger-2/).
