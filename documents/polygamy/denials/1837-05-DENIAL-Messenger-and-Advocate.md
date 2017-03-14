@@ -1,5 +1,7 @@
-Messenger and Advocate [vol. 3](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/7468)
-[Communication from Seventies](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/690e66134f87e27e3542f13506f0ceadafb4ad26/documents/polygamy/denials/original-1837-05-Messenger-and-Advocate-vol3-no8-Communication-from-Seventies.pdf)
+May 1837. Messenger and Advocate, vol. 3, no. 8
+
+* [Messenger and Advocate vol. 3 (hosted at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/7468)
+* [Communication from Seventies (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/690e66134f87e27e3542f13506f0ceadafb4ad26/documents/polygamy/denials/original-1837-05-Messenger-and-Advocate-vol3-no8-Communication-from-Seventies.pdf)
 
 (emphasis added)
 

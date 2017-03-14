@@ -1,3 +1,8 @@
+# How did Joseph Smith's wives refer to their unions?
+
+Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.
+
+## Merriam-Webster definition of "marry"
 
 Merriam-Webster dictionary's [first definition of the word "marry"](https://www.merriam-webster.com/dictionary/marry) (accessed 2017-02-05) is:
 
@@ -5,7 +10,7 @@ Merriam-Webster dictionary's [first definition of the word "marry"](https://www.
 
 (emphasis added)
 
----
+## Terminology used by Joseph's wives
 
 The following first-hand accounts are taken from Brian Hales site Joseph Smith's Polygamy ["Stories of Faith: Joseph Smith’s Plural Wives"](http://josephsmithspolygamy.org/stories-of-faith-joseph-smiths-plural-wives/) accessed 2017-02-05.
 
@@ -56,7 +61,7 @@ Here's how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (
 
 ### Summary
 
-* The women considered these marriages and they considered themself a **wife** of Joseph Smith.
+* The women considered these "marriages" and they considered themself a "wife" of Joseph Smith.
 * Lucey Walker's testimony establishes that the plural wives of Joseph Smith were living as husband and wife "within the meaning of all that word [wives] implies."
 * Both Eliza R. Snow and Almera Johnson's words establish that when they were using the word "wife" they were using it synonymously with the word "wife" used in describing a monogamous marriage.
 * None of the accounts distinguish in any way the usage of the word plural "wife" from a normal "wife" (except to say that it was in the Celestial order).

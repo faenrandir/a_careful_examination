@@ -1,10 +1,7 @@
 ## Address of the Prophet--His Testimony Against the Dissenters at Nauvoo.
 
-### Introduction
-
-Provenance: Copied from History of the Church, [vol. 6 ch. 19](https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.  Last accessed 2017-02-05.
-
-[FairMormon's contextualization](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)
+* Copied from History of the Church, [vol. 6 ch. 19](https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.  Last accessed 2017-02-05.
+* [FairMormon's contextualization](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)
 
 (emphasis added)
 

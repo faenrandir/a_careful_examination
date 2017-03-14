@@ -1,6 +1,6 @@
 ### Millenial Star denial, August 1842
 
-[The Latter-day Saints' Millennial Star Vol. 03, no. 4, August 1842.](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/20948/rec/3)
+* [The Latter-day Saints' Millennial Star Vol. 03, no. 4, August 1842 (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/20948/rec/3)
 
 ---
 

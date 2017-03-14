@@ -24,7 +24,7 @@ In addition, the following words seem to be perfect descriptors of the denials:
 
 ### Evasions, mental gymnastics, circumlocations?
 
-Words and phrases that Hales references like "evasions", "mental gymnastics", "circumlocations", and "language with coded double meanings" capture the semantic process used, but not the intended effect on the audience of those denials.  Leaders, including Joseph Smith, did not *just* evade, did not *just* talk around issues, did not *just* use coded language---they used this language so as to leave the audience with the distinct impression that the *opposite* of the truth was the truth.  Because the intent was to mislead and the effect was highly misleading[^denialsmisleading] these denials are better referred to by the words "lie", "deception", or any number of the other words that happen similarly fit a particular denial ("equivocation", "prevarication", etc.).
+Words and phrases that Hales references like "evasions", "mental gymnastics", "circumlocations", and "language with coded double meanings" capture the semantic process used, but not the intended effect on the audience of those denials.  Leaders, including Joseph Smith, did not *just* evade, did not *just* talk around issues, did not *just* use coded language---they used this language so as to leave the audience with the distinct impression that the *opposite* of the truth was the truth.  Because the intent was to mislead and the effect was highly misleading[^denialsmisleading] these denials are better referred to by the words "lie", "deception", or any number of the other words that happen to fit a particular denial ("equivocation", "prevarication", etc.).
 
 ### Are "Lies and deception" too harsh?
 
@@ -47,7 +47,6 @@ http://mit.irr.org/joseph-smith-statements-denying-polygamy [link original sourc
 
 > 12th Refutation—The Revelations given through Joseph Smith, state the following . . . "We believe that one man should have one wife."Doctrine and Covenants, page 331.
 
-These sources suggest that LDS leaders of that era would be comfortable with
-labeling their denials of polygamy "lies" and "deception".
+These sources suggest that LDS leaders of that era would be comfortable with labeling their denials of polygamy "lies" and "deception".
 
 [^denialsmisleading]: in fact, many individuals *were misled* so completely on this issue that people *still* believe Joseph Smith didn't practice polygamy over 150 years later *based almost exclusively on these denials*)

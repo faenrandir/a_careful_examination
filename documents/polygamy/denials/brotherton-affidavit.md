@@ -2,6 +2,8 @@
 
 Published in local newspapers like the [Quincy Whig, August 6, 1812](https://ia902608.us.archive.org/4/items/QuincyWhig06August1842/Quincy%20Whig%2006%20August%201842_text.pdf) and in [Bennett's History of the Saints expose](https://archive.org/stream/historysaints00benngoog#page/n247/mode/1up).
 
+[josephsmithspolygamy.org](http://josephsmithspolygamy.org/history/changes-in-february-1842/): "Martha H. Brotherton, Affidavit dated July 13, 1842, Native American Bulletin 1 (July 16, 1842), St. Louis. It was also republished in the Sangamo Journal 10 (July 22, 1842), Springfield, Illinois; the Warsaw Signal, July 23, 1842; New York Herald, 8 (July 25, 27, 1842); and John C. Bennett, The History of the Saints: Or an Exposé of Joe Smith and Mormonism (Boston: Leland & Whiting, 1842), 236–40."
+
 The below is taken from John C, Bennett, History of the Saints, 236–240.
 
 ---

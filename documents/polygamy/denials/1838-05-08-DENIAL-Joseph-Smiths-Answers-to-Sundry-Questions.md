@@ -1,8 +1,10 @@
 ### The Prophet's Answers to Sundry Questions
 
-[History of the Church vol 3, ch 3](https://byustudies.byu.edu/content/volume-3-chapter-3)
+* [History of the Church vol 3, ch 3](https://byustudies.byu.edu/content/volume-3-chapter-3)
 
 May 5, 1838
+
+---
 
 _Tuesday, 8.--I spent the day with Elder Rigdon in visiting Elder Cahoon at the place he had selected for his residence, and in attending to some of our private, personal affairs; also in the afternoon I answered the questions which were frequently asked me, while on my last journey but one from Kirtland to Missouri, as printed in the Elders' Journal, vol. I, Number 2, pages 28 and 29, as follows:_
 
