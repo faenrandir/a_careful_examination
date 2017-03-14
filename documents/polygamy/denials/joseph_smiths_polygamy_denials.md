@@ -6,7 +6,7 @@ A few notes:
 
 * Links to resources are provided *in-line* (these will not appear in a printed version of this document---use a PDF viewer that recognizes inline links).
 * Denials are tagged with "OWN WORDS" (4 occurrences) or "RESPONSIBLE FOR" (4 occurrences).[^explanationoftags]
-* Links to original source material may be found by clicking on the link found in each header.  These links point to a more complete transcript of each source and these transcripts also contains links to the original sources hosted by LDS affiliated sites.
+* Links to original source material may be found by clicking on the link found in each header.  These links point to a more complete transcript of each source and these transcripts also contain links to the original sources hosted by LDS affiliated sites.
 * Emphasis is sometimes added to highlight the most relevant parts of a statement.[^readthesources]
 * The wife count is compiled from LDS apologist Brian Hales' [Joseph Smith's Polygamy site](http://josephsmithspolygamy.org/plural-wives-overview/) and only uses *established* sealing/marriage dates (the actual wife count may be higher).[^wifecount]
 * Several denials refer to the [1835 Doctrine and Covenants statement on marriage](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1835-Doctrine-and-Covenants.pdf).
