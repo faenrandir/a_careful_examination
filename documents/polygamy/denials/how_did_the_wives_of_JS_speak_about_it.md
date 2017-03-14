@@ -8,8 +8,6 @@ Merriam-Webster dictionary's [first definition of the word "marry"](https://www.
 
 > 1. to become the husband or wife of (someone)
 
-(emphasis added)
-
 ## Terminology used by Joseph's wives
 
 The following first-hand accounts are taken from Brian Hales site Joseph Smith's Polygamy ["Stories of Faith: Joseph Smith’s Plural Wives"](http://josephsmithspolygamy.org/stories-of-faith-joseph-smiths-plural-wives/) accessed 2017-02-05.
