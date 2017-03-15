@@ -1,3 +1,5 @@
+# Definitions of terms related to Joseph Smith's Polygamy
+
 ### Merriam-Webster
 
 Merriam-Webster provides a disambiguation of three words: lie, prevaricate, and equivocate.  I will present the definitions and then the disambiguation.
