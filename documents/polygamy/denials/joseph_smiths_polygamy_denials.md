@@ -90,15 +90,15 @@ A few notes:
 
 ### Did Joseph Smith and other leaders lie or deceive?
 
-* [The verbiage used by Joseph Smith's wives to describe their unions](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/how_did_the_wives_of_JS_speak_about_it.pdf).
-* Definitions of words related to "lie" and "deceive" [from Merriam-Webster, the Gospel Principles Manual, and Wikipedia](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/definitions.pdf).
+* [The verbiage used by Joseph Smith's wives to describe their unions](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/f2840862c8f652ff73e5803e1785687c297ef951/documents/polygamy/denials/how_did_the_wives_of_JS_speak_about_it.pdf).
+* [Definitions of words related to "lie" and "deceive"](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/definitions.pdf) (from Merriam-Webster, the Gospel Principles Manual, and Wikipedia).
 
 #### Official and Apologetic explanations
 
-* (official) [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true)
-* ["Thou Shalt not Lie" and Denials of Polygamy](http://josephsmithspolygamy.org/common-questions/polygamy-denials/)
-* [Joseph hid polygamy from the general Church membership](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)
-* [Polygamy, Prophets, and Prevarication: Frequently and Rarely Asked Questions about the Initiation, Practice, and Cessation of Plural Marriage in The Church of Jesus Christ of Latter-day Saints.](http://www.fairmormon.org/archive/publications/polygamy-prophets-and-prevarication)
+* [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true) (lds.org)
+* ["Thou Shalt not Lie" and Denials of Polygamy](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) (Joseph Smith's Polygamy site)
+* [Joseph hid polygamy from the general Church membership](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth) (FairMormon)
+* [Polygamy, Prophets, and Prevarication: Frequently and Rarely Asked Questions about the Initiation, Practice, and Cessation of Plural Marriage in The Church of Jesus Christ of Latter-day Saints.](http://www.fairmormon.org/archive/publications/polygamy-prophets-and-prevarication) (FairMormon)
 
 [^polygamydenials]: Sometimes a denial was focused on his individual behavior (e.g., 1844) and sometimes it was focused on Church doctrine or practice.
 
