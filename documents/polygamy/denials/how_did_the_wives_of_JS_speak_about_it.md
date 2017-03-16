@@ -19,17 +19,15 @@ Special attention should be paid to these women's usage of the words "marry", "m
 
 > He told me then what he wanted to say to me, and he taught me this principle of **plural marriage called polygamy now**, but we called it celestial marriage, and he told me that this principle had been revealed to him but it was not generally known; and he went on and said that the Lord had given me to him, and he wanted to know if I would consent to a **marriage**, and I consented. . . . I was **married** to him on the 4th day of March, 1843.
 
-#### Mary Elizabeth Rollins
-
-> But on going to the office [the] next day, I received the interpretation for what to my astonishment, when Joseph made known to me that God had commanded him in July, 1834, **to take me for a wife**.
-
-Eliza Partridge wrote:
+#### Eliza Partridge
 
 > Times were not then as they are now in 1877 but a woman living in **polygamy** dare not let it be known and nothing but a firm desire to keep the commandments of the Lord could have **induced a girl to marry in that way**.
 
-She also wrote:
-
 > This was truly a great trial for me, but I had the most implicit confidence in him as a Prophet of the Lord and not but believe his word and as a matter of course accept of the privilege **of being sealed to him as a wife** for time and all eternity.
+
+#### Mary Elizabeth Rollins
+
+> But on going to the office [the] next day, I received the interpretation for what to my astonishment, when Joseph made known to me that God had commanded him in July, 1834, **to take me for a wife**.
 
 #### Lucy Walker
 
@@ -46,7 +44,7 @@ She also wrote:
 
 > That in the years 1842 and 1843, I resided most of the time at Macedonia, in the County of Hancock, State of Illinois, sometimes with my sister **who was the wife of Almon W. Babbitt**, and sometimes with my brother Benjamin F. Johnson. During that time the Prophet Joseph Smith taught me the principle of Celestial Marriage including **plurality of wives** and **asked me to become his wife**. He first spoke to me on this subject at the house of my brother Benjamin F. I also lived a portion of the time at Brother Joseph Smith’s in Nauvoo, when many conversations passed between him and myself on this subject. On a certain occasion in the spring of the year 1843, the exact date of/ which I do not now recollect, I went from Macedonia to Nauvoo to visit another of my sisters, the one who was the widow of Lyman R. Sherman, deceased, at which time I was sealed to the Prophet Joseph Smith. At the time this took place Hyrum Smith, Joseph’s brother, came to me and said, I need not be afraid. I had been fearing and doubting about the principle and so had he, but he now knew it was true. After this time **I lived with the Prophet Joseph Smith as his wife**, and he visited me at the home of my brother Benjamin F. at Macedonia.
 
-#### Fanny Alger
+#### Eliza Snow referring to Fanny Alger
 
 Here's how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (from [here](http://josephsmithspolygamy.org/andrew-jenson-papers-document-10/)):
 
@@ -58,4 +56,4 @@ Here's how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (
 * Lucey Walker's testimony establishes that the plural wives of Joseph Smith were living as husband and wife "within the meaning of all that word [wives] implies."
 * Both Eliza R. Snow and Almera Johnson's words establish that when they were using the word "wife" they were using it synonymously with the word "wife" used in describing a monogamous marriage.
 * None of the accounts distinguish in any way the usage of the word plural "wife" from a normal "wife" (except to say that it was in the Celestial order).
-* "Plural marriage" is considered synonymous with "polygamy".
+* "Celestial marriage" was used as a qualifier of a kind of "plural marriage" or "polygamy" (i.e., these women referred to their unions within the umbrella of "plural marriage" and "polygamy").
