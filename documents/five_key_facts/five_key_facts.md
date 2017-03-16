@@ -1,4 +1,4 @@
-This is a very short summary of what I view as the 5 most important facts in understanding alternative models for LDS truth claims.  To the best of my knowledge, every point made in this document is accepted as factual by both LDS and non-LDS scholars (please correct me if I am mistaken and I will alter the document).
+This is a very short summary of what I view as the 5 most important facts in understanding alternative models for LDS truth claims.  To the best of my knowledge, every point made in this document is accepted as factual by both LDS and non-LDS scholars (please correct me if I am mistaken and I will alter the document)[^hales].
 
 ## 1. The 3rd facsimile is incorrectly translated
 
@@ -54,14 +54,16 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 * [Race and the Priesthood](https://www.lds.org/topics/race-and-the-priesthood?lang=eng)
 * [Race and the Priesthood - Response to LDS.org](http://www.mormonthink.com/essays-race-priesthood.htm)
 
-## 5. Joseph Smith's polygamy violates ethical principles
+## 5. Joseph Smith's polygamy is ethically problematic
+
+The manner in which Joseph Smith practiced and spoke about polygamy [was deceptive](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/polygamy/denials/definitions.pdf) and at least some of his proposals involved [undue influence](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html).
 
 In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hales-polygamy-and-polyandry/), the most faithful LDS apologists on polygamy recounted the feelings of reviewers of their recent book on the topic: "At the end of the book [the book reviewer] didn't get a warm fuzzy feeling and that's not really something we think we can deliver with this topic."  And "[a book reviewer says] Joseph Smith has still practiced polygamy.  And that's something that we can't make go away.  We wish that we could."
 
-* Joseph frequently misled others about practicing polygamy.  Mormon apologist Brian Hales [agrees with Fawn Brody](http://josephsmithspolygamy.org/common-questions/polygamy-denials/): "The denials of polygamy uttered by the Mormon leaders between 1835 and 1852, when it was finally admitted, are a remarkable series of evasions and circumlocutions involving all sorts of verbal gymnastics." ([prevarication](http://www.dictionary.com/browse/prevaricate))
-* Joseph was [sealed twice to the Partridge sisters](https://imgur.com/a/oscY6) in order to hide the first sealing from Emma. ([deception](http://www.merriam-webster.com/dictionary/deception))
-* Joseph promised a 14 year old girl---one [who said](https://en.wikipedia.org/wiki/Helen_Mar_Kimball) "I hated polygamy with my heart"---that [marrying him would](https://rsc.byu.edu/archived/no-weapon-shall-prosper/subject-can-bear-investigation-anguish-faith-and-joseph-smiths) "secure salvation  and exaltation & that of your father’s household & all of your kindred". ([coercion](https://en.wikipedia.org/wiki/Coercion))
-* Joseph convinced a seven month pregnant mother, Zina Huntington (happily newlywed to Jacob Huntington) to marry him (Joseph) [by saying](https://en.wikipedia.org/wiki/Zina_D._H._Young) that he had "put it off till an angel with a drawn sword stood by me and told me if I did not establish that principle [plurality of wives] upon the earth I would lose my position and my life." ([coercion](https://en.wikipedia.org/wiki/Coercion))
+* Joseph [frequently misled others about practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).  Mormon apologist Brian Hales [agrees with Fawn Brody](http://josephsmithspolygamy.org/common-questions/polygamy-denials/): "The denials of polygamy uttered by the Mormon leaders between 1835 and 1852, when it was finally admitted, are a remarkable series of evasions and circumlocutions involving all sorts of verbal gymnastics."
+* Joseph was [sealed twice to the Partridge sisters](https://imgur.com/a/oscY6) in order to hide the first sealing from Emma.
+* Joseph promised a 14 year old girl---one [who said](https://en.wikipedia.org/wiki/Helen_Mar_Kimball) "I hated polygamy with my heart"---that [marrying him would](https://rsc.byu.edu/archived/no-weapon-shall-prosper/subject-can-bear-investigation-anguish-faith-and-joseph-smiths) "secure salvation  and exaltation & that of your father’s household & all of your kindred".
+* Joseph convinced a seven month pregnant mother, Zina Huntington (happily newlywed to Jacob Huntington) to marry him (Joseph) [by saying](https://en.wikipedia.org/wiki/Zina_D._H._Young) that he had "put it off till an angel with a drawn sword stood by me and told me if I did not establish that principle [plurality of wives] upon the earth I would lose my position and my life."
 
 **More**:
 
@@ -71,18 +73,14 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 * [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)
 * [Plural Marriage in Kirtland & Nauvoo - Response to LDS.org](http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm)
 
-## Additional Reading
-
-* [The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)
-
 ### More Complete Analyses
 
-* [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS
-  approved sources)
 * [For My Wife](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view?usp=sharing) (almost all LDS approved sources)
+* [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
 * [The CES Letter](http://cesletter.com/) (the most famous compilation)
-* [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (very
-  objective)
+* [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (very objective)
+
+[^hales]: Brian Hales very cursorily responded to this document; Here is [my response to his cursory thoughts](https://www.reddit.com/r/mormon/comments/5wp96c/my_response_to_brian_hales_comment_on_five_key/).  I have altered the presentation of a few points based on this and other exchanges and appreciate his feedback.
