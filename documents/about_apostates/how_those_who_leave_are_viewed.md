@@ -214,11 +214,31 @@ M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in t
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
+### should be shunned if they associate with subcultures
+
+> [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
+
+["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
+
 ### should not be listened to if they attempt to proselytize
 
 > A few of you may have run into some who have ceased to hold fast to the iron rod, wandered off the straight and narrow path, and have become lost. They started sometimes with online tours of the territory of the faithless. This indiscretion is often accompanied by failing to earnestly study the Book of Mormon every day and by the companion problem of gradually becoming lax in keeping other commandments. This sometimes leads to listening to and then hearkening to those who mock the church, its leaders or its history. The faithless often promote themselves as the wise who can rescue the rest of us from our naiveté. One does not need to listen to assertive apostates for long to see the parallels between them and the ‘Korihors’ ‘Nehors’ and ‘Sherems’ of the book of Mormon. We should disconnect immediately and completely from listening to the proselytizing efforts of those who have lost their faith and instead reconnect promptly with the holy spirit. The adversary sees spiritual apathy and halfhearted obedience as opportunities to encircle us with his chains and bind us—and he hopes to destroy us. We escape his chains as we voluntarily choose to bind ourselves instead to God...
 
 From [L. Whitney Clayton's commencement speech at BYU](http://www.sltrib.com/news/3805769-155/byu-grads-encouraged-to-keep-an?fullpage=1), [quote from here](https://www.reddit.com/r/exmormon/comments/4g085q/the_money_quote_from_claytons_commencement_speech/)
+
+### may cause members to need to cease relationship, support, and tolerance
+
+> The challenge we may confront is remaining loyal to the Savior and His Church in the face of parents, in-laws, brothers or sisters, or even our children whose conduct, beliefs, or choices make it impossible to support both Him and them. …the Lord reminds us, “He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.”So although familial love continues, relationships may be interrupted and, according to the circumstances, even support or tolerance at times suspended for the sake of our higher love.
+
+D. Todd Christofferson, [Finding Your Life](https://www.lds.org/ensign/2016/03/finding-your-life?lang=eng&_r=1), Ensign March, 2016.
+
+### may require adjustments to avoid endorsing behavior
+
+> QUESTION: At what point does showing that love cross the line into inadvertently endorsing behavior? If the son says, "Well, if you love me, can I bring my partner to our home to visit? Can we come for holidays? How do you balance that against, for example, concern for other children in the home?"
+
+> ANSWER - ELDER OAKS:…I can imagine that in most circumstances the parents would say, "Please don't do that. Don’t put us into that position." Surely if there are children in the home who would be influenced by this example, the answer would likely be that. …"Yes, come, but don’t expect to stay overnight. Don’t expect to be a lengthy house guest. Don’t expect us to take you out and introduce you to our friends, or to deal with you in a public situation that would imply our approval of your "partnership."
+
+["Interview With Elder Dallin H. Oaks and Elder Lance B. Wickman: 'Same-Gender Attraction,'" Newsroom, 2 September 2006](http://www.mormonnewsroom.org/article/interview-oaks-wickman-same-gender-attraction)
 
 ### generally left for one of five reasons
 
@@ -250,6 +270,12 @@ Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-co
 
 Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College Avenue, April 26, 2016. ([audio](https://soundcloud.com/s) [31:37])
 
+### may not have eternal objectives and hence shouldn't be associations (implied)
+
+> We should associate with those who, like us, are planning not for temporary convenience, shallow goals, or narrow ambition—but rather with those who value the things that matter most, even eternal objectives.
+
+["Be Thou an Example,"](https://www.lds.org/general-conference/2005/04/be-thou-an-example?lang=eng) Thomas S. Monson, First Counselor in the First Presidency, General Conference, April 2005.
+
 ### are not honest or sincere (implied)
 
 > For those who are honest and sincere in their search, it is not difficult to find out whether there has been a universal apostasy, and if so, where the truth is today.
@@ -274,7 +300,7 @@ Directly or implied, these indicate how members view leaving the Church or those
 
 *According to some believing members, individuals who leave the LDS Church...*
 
-### were better off dying than losing their faith
+### were better off dying or adulterating than losing their faith
 
 > To say, as a parent, "I won’t force my kids to go to church. I’ll let them decide on their own." sounds so enlightened. But its the most dangerous thing a parent could say. It would be safer for you to let your children play on the highway in rush hour traffic than to let them decide whether or not they wanted to go to church. One of those options carries temporary consequences (if you let your child play on the highway in rush hour traffic they will die); and the other carries potential eternal consequences.
 
@@ -306,6 +332,10 @@ From [this discussion](https://www.reddit.com/r/exmormon/comments/430l7q/getting
 > ... We were discussing Job, and his whole story about how God gave Satan permission to take away everything he has. Our teacher told us how his wife lost faith in God, and then she said "I don't know what would be worse: having a spouse die faithful or live and lose their faith." This basically is telling all members with exmo spouses that their spouses would be better off dead. ...
 
 [From here](https://www.reddit.com/r/exmormon/comments/4cnrah/my_seminary_teacher_said_something_that_bugged_me/)
+
+> Then she told me she wished I had had an affair rather than falling away from the church. I was floored. We both love and care for one another, but this is not something I think she will ever get over.
+
+[From here](https://www.reddit.com/r/exmormon/comments/60orpp/dw_rather_i_had_had_an_affair/)
 
 ### are mourned as if they had died
 
