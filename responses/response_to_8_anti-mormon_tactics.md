@@ -36,21 +36,11 @@ What if the evidence strongly suggests you ought to reconsider your testimony?  
 
 > Joseph Smith is a Prophet of God.” Then Satan or someone believing his anti, replies “But Joseph Smith did X, Y or Z!” Instead of addressing the question, “Is he or is he not a prophet?”
 
-How does one go about determining if a person is a Prophet of God (or if prophets of God even exist)?  I can think of various tests, but the most famous test of all was provided by Jesus himself:
+How does one go about determining if a person is a Prophet of God (or if prophets of God even exist)?  I can think of various tests, but the most famous test of all was provided by Jesus himself ([Matthew 7:15-20](https://www.lds.org/scriptures/nt/matt/7.15-20?lang=eng)):
 
-> 15 Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.
+> Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.  Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?  Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.  A good tree cannot bring forth evil fruit, neither can  a corrupt tree bring forth good fruit.  Every tree that bringeth not forth good fruit is hewn  down, and cast into the fire.  *Wherefore by their fruits ye shall know them.* (emphasis added)
 
-> 16 Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
-
-> 17 Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
-
-> 18 A good tree cannot bring forth evil fruit, neither can  a corrupt tree bring forth good fruit.
-
-> 19 Every tree that bringeth not forth good fruit is hewn  down, and cast into the fire.
-
-> 20 Wherefore by their fruits ye shall know them.
-
-Generally, an *ad hominem* argument is considered a logical fallacy when the discussion about the person is unrelated to a discussion about the topic.  However, discussion about Joseph Smith's character and actions is *highly relevant* to a discussion of the topic of whether or not he was a genuine prophet of God, so it's not necessarily a logical fallacy.
+Generally, an *ad hominem* argument is considered a logical fallacy when the discussion about the person is unrelated to a discussion about the topic.  However, discussion about Joseph Smith's character and actions is *relevant* to a discussion of whether or not he was a genuine prophet of God, so it's not necessarily a logical fallacy.
 
 ### 4. Argumentum Ad Lapidem (Appeals to the Stone)
 
@@ -60,7 +50,7 @@ I agree that some claims critical of the LDS Church sometimes fail to provide ju
 
 Wikipedia defines Argument from Authority like this:
 
-> An argument from authority (Latin: argumentum ad verecundiam), also called an appeal to authority, is a common type of argument which can be fallacious, such as when an authority is cited on a topic outside their area of expertise or when the authority cited is not a true expert.[1] On the other hand, a "true expert" can have valuable insight.
+> An argument from authority (Latin: argumentum ad verecundiam), also called an appeal to authority, is a common type of argument which can be fallacious, such as when an authority is cited on a topic outside their area of expertise or when the authority cited is not a true expert. On the other hand, a "true expert" can have valuable insight.
 
 M. Russell Ballard himself recently made just such an appeal to qualified academic authority:
 
