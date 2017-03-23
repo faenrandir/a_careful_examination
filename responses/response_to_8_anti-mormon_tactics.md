@@ -8,7 +8,7 @@ I am certainly no expert logician, but I have taken a couple philosophy courses,
 
 I agree wholeheartedly that we should avoid believing in half-truths and lies.
 
-I also agree that much literature critical of the LDS Church is not nearly careful enough in how it represents the data, and it often fails to present alternative interpretations.  The same can also be said for much pro-LDS literature and scholarship.  In general, when people engage in debate/dialogue over highly emotional and polarizing topics people tend to be especially biased in how they present their arguments (see, for example, [this discussion](http://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone) on the polarization of Christian pro-cult/anti-cult scholarship).
+I also agree that much literature critical of the LDS Church is not nearly careful enough in how it represents the data, and it often fails to present alternative interpretations.  The same can also be said for much pro-LDS literature and scholarship.  In general, when people engage in debate/dialogue over highly emotional and polarizing topics they tend to be especially biased in how they present their arguments (see, for example, [this discussion](http://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone) on the polarization of Christian pro-cult/anti-cult scholarship).
 
 While acknowledging that much anti-LDS literature engages in half-truths, LDS leaders themselves have also engaged in misleading and half-truths on various occasions.[^misleadingbyldsleaders]
 
@@ -34,7 +34,7 @@ What if the evidence strongly suggests you ought to reconsider your testimony?  
 
 ### 3.  Argumentum ad hominem (personal attacks)
 
-> Joseph Smith is a Prophet of God.” Then Satan or someone believing his anti, replies “But Joseph Smith did X, Y or Z!” Instead of addressing the question, “Is he or is he not a prophet?”
+> “Joseph Smith is a Prophet of God.” Then Satan or someone believing his anti, replies “But Joseph Smith did X, Y or Z!” Instead of addressing the question, “Is he or is he not a prophet?”
 
 How does one go about determining if a person is a Prophet of God (or if prophets of God even exist)?  I can think of various tests, but the most famous test of all was provided by Jesus himself ([Matthew 7:15-20](https://www.lds.org/scriptures/nt/matt/7.15-20?lang=eng)):
 
@@ -44,7 +44,7 @@ Generally, an *ad hominem* argument is considered a logical fallacy when the dis
 
 ### 4. Argumentum Ad Lapidem (Appeals to the Stone)
 
-I agree that some claims critical of the LDS Church sometimes fail to provide justification for why the absurd is also unlikely or untrue.
+I agree that sometimes those making critical claims regarding the LDS Church fail to provide justification for why the absurd is also unlikely or untrue.
 
 ### 5. Argumentum Ad Verecundiam (Appeals to Authority)
 
