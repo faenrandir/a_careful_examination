@@ -1,7 +1,8 @@
+# Finding Truth: Response to "8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints"
 
 In March of 2017, MyLifeByGogoGoff published a piece entitled [8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints](http://mylifebygogogoff.com/2017/03/8-anti-mormon-tactics-that-satan-uses-to-attack-the-latter-day-saints.html).  The piece was then [reblogged by LDS Living](http://www.ldsdaily.com/personal-lds-blog/8-anti-mormon-tactics-satan-uses-attack-latter-day-saints/).
 
-I am a former Mormon, and I also spent many years in the sciences and so have spent a fair bit of time in scholarly debate regarding the tenability of various conclusions and the manner in which a person may reason from various data points.  I am certainly no master logician, but I have taken a couple philosophy courses.  I hope to offer brief reflection on and some counterpoint to these 8 points.
+I am certainly no expert logician, but I have taken a couple philosophy courses, and I spent many years in the sciences attempting to avoid committing the logical fallacies the author discusses.  I offer brief reflection on and some counterpoint to these 8 points.
 
 ### 1. Half truths
 
@@ -13,21 +14,23 @@ While acknowledging that much anti-LDS literature engages in half-truths, LDS le
 
 Church leaders appeared to engage in telling half-truths when they felt it was for a higher cause.  Critics of the Church sometimes do the same thing in their haste to point out problems with the Church.  I think we can all agree that nothing less than *all* the facts---presented honestly, carefully, and as un-biasedly  as possible---is the standard both pro and anti LDS advocates should work to achieve.
 
-### 2. Irrelevant Appeals.
+Nobody is bound to accept a half-truth.
+
+### 2. Irrelevant Appeals
 
 > When someone testifies that the Book of Mormon is true, Satan will say “But Joseph used a seer stone in a hat!” And? What does that have to do with [whether] or not it is true? It is an irrelevant appeal.  It is a distraction.
 
-I agree that it is not the most important issue, but it is not irrelevant.  For one, it is easier to view the Book of Mormon as an extension of Joseph's treasure digging activities when we find that he used the same seer stone to translate the plates as he did to search for buried treasure years before.  In addition, the instrument Joseph claimed to have used is important because he appears to be telling a different story at different times (for example, inserting the phrase "by the means of the urim and thummim" [into previously revealed verses of the Book of Commandments](http://www.utlm.org/images/changingtherevelations/changingtherevelations_p145.gif) that made no mention of the instrument when first revealed).
+I agree that it is not the most important issue, but it is not irrelevant.  For one, it is easier to view the Book of Mormon as an extension of Joseph's treasure digging activities when we find that he used the same seer stone to translate the plates as he did to search for buried treasure years before.  In addition, the instrument Joseph claimed to have used is important because he appears to be telling a different story at different times.  For example, Joseph inserted the phrase "by the means of the Urim and Thummim" into [Doctrine & Covenants 10:1](https://www.lds.org/scriptures/dc-testament/dc/10.1?lang=eng), where it previously did not exist in the revelation as it was originally given (see the [1833 Book of Commandments chapter IX](http://www.josephsmithpapers.org/paper-summary/book-of-commandments-1833/26)).
 
 So his use of the seer stone *is* relevant to the translation of the Book of Mormon because it *may* point to a pattern of motivation and is central to evaluating the consistency of his message over time.
 
 > "The Church is true." "But Brigham Young said..." Once again, saying something that is true, but irrelevant, detracts from the truth and is a lie.
 
-One of the (few) ways we can determine that something is not true (in logical systems) is if it includes a [logical contradiction](https://en.wikipedia.org/wiki/Contradiction#In_formal_logic).  If Brigham Young said or did things that are genuinely irreconcilable with past or present leaders, then that is very relevant to those trying to evaluate whether the Church is true.
+One of the (few) ways we can determine that something is not true (at least in logical systems) is if it includes a [logical contradiction](https://en.wikipedia.org/wiki/Contradiction#In_formal_logic).  If Brigham Young said or did things that are genuinely irreconcilable with past or present leaders, then that is very relevant to those trying to evaluate whether the Church is true.[^byexample]
 
 > Never let something distract you from your own testimony!
 
-What if the evidence strongly suggests you ought to reconsider your testimony?  For instance, imagine if you tried to provide evidence to a member of the FLDS group that Warren Jeffs was not a prophet or they shouldn't be practicing polygamy and they responded: "never let something distract you from your own testimony!"
+What if the evidence strongly suggests you ought to reconsider your testimony?  For instance, imagine if you tried to provide evidence to a member of the FLDS group that Warren Jeffs was not a prophet or they shouldn't be practicing polygamy and they refused to consider your arguments by responding: "I should never let something distract me from my own testimony!"
 
 ### 3.  Argumentum ad hominem (personal attacks)
 
@@ -51,7 +54,7 @@ Generally, an *ad hominem* argument is considered a logical fallacy when the dis
 
 ### 4. Argumentum Ad Lapidem (Appeals to the Stone)
 
-I agree that some claims critical of the LDS Church occassional fail to provide justification for why the absurd is also unlikely or untrue.
+I agree that some claims critical of the LDS Church sometimes fail to provide justification for why the absurd is also unlikely or untrue.
 
 ### 5. Argumentum Ad Verecundiam (Appeals to Authority)
 
@@ -77,27 +80,23 @@ Regardless, Joseph Smith points to specific characters *on the facsimiles* and g
 
 If you have had a sit-down with the creator of the universe, then by all means, take their word on things.  However, most of us rely on [very imprecise spiritual impressions](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/), and these spiritual impressions tend to confirm to us whatever position we already hold and want to believe.
 
-For instance, a recent poll asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, every single person found that God agreed with their prior stance on same sex marriage—even though the stances were evenly divided and diametrically opposed among the collection of participants.
+For instance, [a recent poll](http://www.religioustolerance.org/god_pra6.htm) asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, every single person found that God agreed with their prior stance on same sex marriage—even though the stances were evenly divided and diametrically opposed among the collection of participants.
 
 Spiritual confirmation tends to track our familiarity and comfort with a given topic.  Consider, for instance, Marlin K. Jensen's frank discussion during the "Swedish Rescue" of [his daughter's experience with not feeling the Spirit in the temple](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/#fn24)
 
-Data like this call into question the objectivity of the "pray-feel" method for determining truth.
+Data like this call into question the reliability of the "pray-feel" method for determining objective truth (even if it is useful for personal reflection).
 
 > When we hear something "new" does it change the witness we already have from the Holy Ghost? NO! Nothing should ever trump what the Holy Ghost has told us!
 
-A member of The True and Living Church of Jesus Christ and Saints of the Last Days received a testimony that their Church is true (a Church that practices polygamy and claims a different prophet at its head).  Imagine trying to have a conversation with this individual and suggesting their spiritual feelings may not mean exactly what they originally thought (for instance, that Thomas S. Monson is the true prophet and not James Harmston and they shouldn't be practicing polygamy).  What if they were to respond as you did above, "Nothing should ever trump what the Holy Ghost has told us!"?
+A member of The True and Living Church of Jesus Christ and Saints of the Last Days [received a testimony](https://www.youtube.com/watch?v=ycUvC9s4VYA#t=311) that their Church is true (a Church that practices polygamy and claims a different prophet at its head).  Imagine trying to have a conversation with this individual and suggesting their spiritual feelings may not mean exactly what they originally thought (for instance, that Thomas S. Monson is the true prophet and not James Harmston and they shouldn't be practicing polygamy).  What if they were to respond as you did above, "Nothing should ever trump what the Holy Ghost has told me!"?
 
-This entire discussion about the witness of the Holy Ghost hinges on whether the receipt of powerful, elevating emotions should be interpreted to mean that God is speaking to the individual.  Members of different churches receive powerful witnesses of the truth of their Church (see [here](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and [here](http://mostcorrectreligionsurvey.weebly.com/)), suggesting spiritual feelings may not be as sure a guide to truth as we have been taught.
-
-A complete analysis of spiritual feelings may be found here:
-
-[Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/)
+This entire discussion about the witness of the Holy Ghost hinges on whether the receipt of powerful, elevating emotions should be interpreted to mean that God is speaking to the individual.  Members of different churches receive powerful witnesses of the truth of their Church (see [here](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and [here](http://mostcorrectreligionsurvey.weebly.com/)), suggesting spiritual feelings may not be as sure a guide to truth as we have been taught.[^testimony]
 
 ### 6. False Dilemma
 
 The author wisely urges us to avoid the false dilemma logical fallacy (humans commit this fallacy frequently).  However, given that we apparently have many of the words of God recorded in scripture, it seems fair to point out (apparent) contradictions and suggest that these inconsistencies might indicate, at the very least, that both sets of words were not written by God (this assumes that God won't contradict himself).  If God says, "A equals B" and then goes on to say "A is not equal to B" then merely stating that "God's ways are ... infinitely superior [to man's ways]" seems like a bit of a dodge.  Even if his ways are infinitely superior, we don't expect him to contradict himself.
 
-The main problem with the argument "we cannot fully understand God, therefore nobody can point out a genuine contradiction in scripture or a belief system", is that such logic can be used to defend *any* religious system of thought.  Try telling a Catholic that they don't have genuine apostolic authority ("Of course we do: God's ways are not man's ways!") or a Jehovah's Witness that they should question their beliefs because [their second coming predictions went unfulfilled](https://en.wikipedia.org/wiki/Watch_Tower_Society_unfulfilled_predictions) ("It's difficult to understand, but God's ways are not man's ways").  Such a defense clearly goes too far.
+The main problem with the argument "we cannot fully understand God, therefore nobody can point out a genuine contradiction in scripture or a belief system", is that such logic can be used to defend *any* religious system of thought.  Try telling a Catholic that they don't have genuine apostolic authority ("Of course we do: God's ways are not man's ways!") or a Jehovah's Witness that they should question their beliefs because [their second coming predictions went unfulfilled](https://en.wikipedia.org/wiki/Watch_Tower_Society_unfulfilled_predictions) ("It's difficult to understand, but God's ways are not man's ways").  Such a defense goes too far.
 
 ### 7. Argumentum Ad Populum (Appeals to the People)
 
@@ -111,22 +110,33 @@ We should also be careful of the reverse hasty generalization:  I had a good exp
 
 ### (9.) Conclusion
 
+> At the end of the day, the only way to detect and prevent Satan’s lies...
+
+This appears to by a false dilemma fallacy.
+
 > At the end of the day, the only way to detect and prevent Satan’s lies are to gain a testimony from God Himself that this work is true.
 
-Appeal to authority. appeal to population
+This appears to be [begging the question](https://en.wikipedia.org/wiki/Begging_the_question).  The belief in a Satan who is lying to us is preconditioned on knowing that the Church worldview is true.  If the Church worldview does not correspond with reality, then we need not concern ourselves with Satan or his lies (just the lies and half-truths spoken and written by humans which are plenty damaging enough).
 
 > doubt your doubts before you doubt your faith.
 
-> When someone gives you something that brings you darkness rather than light, ask yourself who is presenting this argument? Don’t let the words of apostate members shake your faith.
+As mentioned above, this kind of statement (if accepted universally) would encourage a person to continue in whatever faith tradition they were born into, without regard for the legitimacy of the truth-claims of their religion.  Imagine leaders of the Heaven's Gate cult, for instance, telling their followers "doubt your doubts."  Such a statement would only serve to maintain a person's prior faith position and doesn't seem to be a great guide in the quest to determine truth (see [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/)).
 
-This is an ad homenien [sp?]
+> When someone gives you something that brings you darkness rather than light
+
+We should seek for truth and goodness [as Joseph Smith encouraged](https://www.lds.org/search?lang=eng&query=%22receive+truth%2C+let+it+come+from+whence+it+may%22), "let it come from whence it may."  Humans are very prone, however, to dismiss data and arguments that contradict their worldview, so we should be careful to avoid rejecting truth merely because it makes us uncomfortable upon first exposure.
+
+> ask yourself who is presenting this argument? Don’t let the words of apostate members shake your faith.
+
+This is an *ad hominen* against former members.  The truth of what a former members speaks is (at least until someone presents good evidence this is not the case) independent of their membership status.
 
 > Apostates are not a trustworthy source!
 
-Hasty generalization.  Why can't apostates be a trustworthy source?  As an example, much of what was previously called an "anti-mormon lie" is now published on lds.org in the essays!
+This appears to be a hasty generalization.  Why can't apostates be a trustworthy source?  And, if an apostate is biased against the Church, doesn't it stand to reason that Church members are biased *for* the Church?  Perhaps the truth lies somewhere in-between?
 
-Also, if an apostate is biased against the Church, doesn't it stand to reason that Church members
-are biased *for* the Church?  Perhaps the truth lies somewhere in-between?
+
+
+[^byexample]: For instance, [according to FairMormon](http://en.fairmormon.org/Mormonism_and_doctrine/Repudiated_concepts/Adam-God_theory) (on 2017-03-23), "Brigham claimed to have received these beliefs [doctrines related to Adam-God theory] by revelation, and, on at least three occasions, claimed that he learned it from Joseph Smith."  For those who reject the validity of the Adam-God theory, this seems like the kind of contradiction that may call into question the validity of the claim that Brigham is a genuine prophet of God.
 
 [^misleadingbyldsleaders]: LDS leaders have misled or told half-truths on at least several occasions:
 
@@ -134,3 +144,5 @@ are biased *for* the Church?  Perhaps the truth lies somewhere in-between?
   * Joseph Smith, at least two of his wives, and several Church leaders misled others about polygamy [on multiple occasions](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).
   * The 1890 Manifesto (aka [Declaration 1](https://www.lds.org/scriptures/dc-testament/od/1)) states, "We are not teaching polygamy or plural marriage, nor permitting any person to enter into its practice ...", when in fact [plural marriages were being permitted and authorized by leaders](https://www.lds.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=eng&old=true) and would be for another 14 years.
   * When asked questions about the temple and the Strengthening Church Members Committee, both [Jeffery R. Holland](https://www.youtube.com/watch?v=0zE8JKDZazc) and [Michael Purdy](https://www.youtube.com/watch?v=uFSEgDtQfK0) attempted to mislead John Sweeney.
+
+[^testimony]: See [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/) for my complete analysis of spiritual feelings.
