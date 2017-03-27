@@ -78,12 +78,6 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 
 ### More Complete Analyses
 
-* [For My Wife](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view?usp=sharing) (almost all LDS approved sources)
-* [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
-* [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
-* [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
-* [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
-* [The CES Letter](http://cesletter.com/) (the most famous compilation)
-* [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (very objective)
+See [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/)
 
 [^hales]: Brian Hales very cursorily responded to this document; Here is [my response to his cursory thoughts](https://www.reddit.com/r/mormon/comments/5wp96c/my_response_to_brian_hales_comment_on_five_key/).  I have altered the presentation of a few points based on this and other exchanges and appreciate his feedback.

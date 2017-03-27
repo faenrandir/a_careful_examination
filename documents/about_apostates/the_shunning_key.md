@@ -75,21 +75,21 @@ A [recent survey](http://www.whymormonsquestion.org/wp-content/uploads/2012/05/S
 
 The majority of Mormons who leave do so *because* they do not believe in the core truth-claims of the Church any more.  In addition, the majority of those who disbelieve (53%) now consider themselves Agnostic, Atheist, or Humanist.
 
-Hence a typical former mormon, if they ever openly discuss their rationale for doubting the Church's truth-claims or write anything online, will *easily* qualify as a false prophet or false teacher.  At a minimum, they will likely be a tight fit for Ballard's criteria #2, #3, #5, #8, #9,  and they will likely meet *all* of Asay's list characterizing a faith-killer.
+Hence a typical former Latter-day Saint, if they ever openly discuss their rationale for doubting the Church's truth-claims or write anything online, will easily qualify as a false prophet or false teacher.  At a minimum, they will likely be a tight fit for Ballard's criteria #2, #3, #5, #8, #9,  and they will likely meet *all* of Asay's list characterizing a faith-killer.
 
-Hence, those who leave the Church because they grow tired of living the lifestyle ("lazy") or who would rather live a different lifestyle ("wanting to sin") are likely to be reached out to and fellowshipped, at least to a degree.  Those who left because they investigated the truth-claims and decided the truth-claims are not sustainable are likely to be classified---at least effectually---as "false prophets", "false teachers", or "faith-killers".  Those who are willing and able to share *why* they think the Church truth-claims do not hold up, *ought* to be shunned---according to Ballard and Asay---and these constitute the *majority* of those who leave the LDS Church.
+Hence, those who leave the Church because they grow tired of living the lifestyle ("lazy") or who would rather live a different lifestyle ("wanting to sin") are likely to be reached out to and fellowshipped, at least to a degree.  Those who left because they investigated the truth-claims and decided the truth-claims are not sustainable are susceptible to being classified as "false prophets", "false teachers", or "faith-killers" (or alternatively, "deceiver", "anti-Christ", or "apostate").  Those who are willing and able to share *why* they think the Church truth-claims do not hold up, *ought* to be shunned---according to Ballard and Asay---and these constitute the *majority* of those who leave the LDS Church.
 
 ## Shunning sleight of hand
 
-The quote from the introduction was actually from Elder Ballard's talk on false prophets and false teachers (I will reproduce it here):
+The quote from the introduction used as an example of inclusivity in LDS teachings was from Elder Ballard's General Conference address on false prophets and false teachers.  I will reproduce it here:
 
-> Let us reach out in friendship and love to our neighbors, **including those of other faiths**, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for **all** men, women, and children, **help them to understand and to feel accepted and appreciated**. (emphasis added) [source](https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng)
+> Let us reach out in friendship and love to our neighbors, including those of other faiths, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for **all** men, women, and children, **help them to understand and to feel accepted and appreciated**. (emphasis added)
 
-Again, this statement *sounds* incredibly inclusive and all-encompassing.  However, Ballard's entire talk was focused on *deciding* who is a false prophet or false teacher.  With a rubric in hand that fits the majority (but not all) of those who leave the Church, Ballard concludes his talk:
+But, what about "false prophets" and "false teachers"?  Do we reach out and help them feel accepted and appreciated?  Here's Elder Ballard's next paragraph:
 
-> Our safety, our peace, lies in working as hard as we can to live as the Father and Son would have us live, **in fleeing from false prophets and false teachers**, and in being anxiously engaged in good causes.
+> Let us remember that it is our duty to be faithful to the restored truths of the gospel of Jesus Christ. It takes faith—real faith, total and unreserved—to accept and strive to live prophetic counsel. Lucifer, the adversary of truth, does not want us to feel or exhibit that kind of faith. He encourages disobedience, planting defiance in the hearts of the unwary. If he is successful, they will turn away from the light into the darkness of the world. Our safety, our peace, lies in working as hard as we can to live as the Father and Son would have us live, **in fleeing from false prophets and false teachers**, and in being anxiously engaged in good causes. (emphasis added)
 
-So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" but to *flee* from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
+So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" but to "*flee*" from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
 
 ## Conclusions
 
