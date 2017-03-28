@@ -116,6 +116,12 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
+### began to stray because of trifling affairs
+
+> What is that which turns people away from this Church? Very trifling affairs are generally the commencement of their divergence from the right path. If we follow a compass, the needle of which does not point correctly, a very slight deviation in the beginning will lead us, when we have traveled some distance, far to one side of the true point for which we are aiming.  
+
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+
 ### may have questioned whether the Lord really dictated it
 
 > When a man begins to find fault, inquiring in regard to this, that, and the other, saying, "Does this or that look as though the Lord dictated it?” you may know that that person has more or less of the spirit of apostasy.
@@ -128,7 +134,7 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-Thomas B. Marsh did not actual leave for such trivial reasons (see [here](http://bycommonconsent.com/2013/06/29/gospel-doctrine-lesson-24-be-not-deceived-but-continue-in-steadfastness-guest-fmhlisa/) and [here](https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh?lang=eng))
+Thomas B. Marsh did not actually leave for such trivial reasons (see [here](http://bycommonconsent.com/2013/06/29/gospel-doctrine-lesson-24-be-not-deceived-but-continue-in-steadfastness-guest-fmhlisa/) and [here](https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh?lang=eng))
 
 ### are deceived because they are critical of leaders' imperfections
 
@@ -293,6 +299,12 @@ Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.
 > They all bowed their heads while Liv said the prayer. She prayed that Erik would learn to listen to the Holy Ghost. While Liv was praying, Kari felt peaceful and warm. She knew that Heavenly Father was hearing their prayers.
 
 [Don't Forget to Pray for Erik](https://www.lds.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
+
+### should not be supported, affiliated with, or agreed with (implied)
+
+> Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+
+Seventh [temple recommend question](http://lds4u.com/lesson5/templequestions.htm)
 
 ## Examples of how people are treated who leave the Church
 

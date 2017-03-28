@@ -85,23 +85,32 @@ The quote from the introduction used as an example of inclusivity in LDS teachin
 
 > Let us reach out in friendship and love to our neighbors, including those of other faiths, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for **all** men, women, and children, **help them to understand and to feel accepted and appreciated**. (emphasis added)
 
-But, what about "false prophets" and "false teachers"?  Do we reach out and help them feel accepted and appreciated?  Here's Elder Ballard's next paragraph:
+But, what about "false prophets" and "false teachers"?  Are members meant to reach out and help them feel accepted and appreciated?  Here's Elder Ballard's next paragraph:
 
 > Let us remember that it is our duty to be faithful to the restored truths of the gospel of Jesus Christ. It takes faith—real faith, total and unreserved—to accept and strive to live prophetic counsel. Lucifer, the adversary of truth, does not want us to feel or exhibit that kind of faith. He encourages disobedience, planting defiance in the hearts of the unwary. If he is successful, they will turn away from the light into the darkness of the world. Our safety, our peace, lies in working as hard as we can to live as the Father and Son would have us live, **in fleeing from false prophets and false teachers**, and in being anxiously engaged in good causes. (emphasis added)
 
-So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" but to "*flee*" from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
+So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" *but* to simultaneously "*flee*" from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
 
-## Conclusions
+## Penetrance in LDS thought and action
 
-As far as I can tell, this pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is strictly followed in all official LDS material.  I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).[^pleasesendmaterial]  Members are always taught to avoid these kinds of former members.  And, as presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.[^pleasesendmaterial2]
+### Complete alignment in official LDS material
 
-Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend I have described.  To the degree they speak out discussion with them is avoided (compare Bruce Holt's excommunication with John Dehlins and Jeremy Runnells)
+As far as I can tell, this pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is strictly followed in all official LDS material.[^templerecommend]  I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).[^pleasesendmaterial]  And, as presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.[^pleasesendmaterial2]
 
-##### ----WORKING HERER -----
+[need to include more examples above]
 
-To re-emphasize, this analysis predicts only the behavior of *some* believing members---many members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   As mentioned in the introduction there are a *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and many members will lean to these 
+### Spotty in practice
 
-And, some believing members do not shun former members and some may only shun to a minor degree. 
+Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend and rubrics described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned or their likelihood of excommunication.[^excommunicationexamples] 
+To be clear, this analysis only predicts/describes the behavior of *some* believing members---many members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   And, as mentioned in the introduction there are a *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and many members will lean towards these when deciding how to treat former members.[^threefold]
+
+## Moving Forward
+
+The mormon newsroom 
+
+How do members expect to avoid misunderstanding former members (and vice versa) if they are not communicating about these issues?  Is it possible for members to discuss the issues, why they view them differently, and then politely agree to disagree?
+
+
 
 [^shundefinition]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  The most extreme examples of shunning come from some religious communities (Amish, Jehovahs Witnesses) who *formally* avoid speaking with those who have left the faith.  Besides excommunication and disfellowshipment (which are far more mild than the formal shunning in these other faiths) Mormons do not *formally* shun anyone.  *General avoidance* and the avoidance of talking about truth-claim issues and/or a person's new beliefs is how I am using the word "shun" in this document.  The usage seems justified given how Asay uses the term "shun" and Ballard urges members to "flee".  Shunning need not be formally imposed to still qualify as shunning.
 
@@ -158,3 +167,9 @@ And, some believing members do not shun former members and some may only shun to
 [^outofexistence]: How can Elder Ballard reconcile these two contradicting statements?  Generally speaking, in-group/out-group psychology suggests that [a hated outgroup is frequently viewed as subhuman](https://books.google.com/books?id=WROLBQAAQBAJ&pg=PT496&lpg=PT496&dq=out-group+labeling+subhuman&source=bl&ots=Zb8-2Bx1fH&sig=Oyx8wzS71dHeE6lYpomqy_JVLi8&hl=en&sa=X&ved=0ahUKEwjakKSS7PLSAhUPHGMKHYFnBWQQ6AEIIDAB#v=onepage&q=out-group%20labeling%20subhuman&f=false); hence, "false prophets" and "false teachers" aren not readily viewed as *people* needing inclusion but as *enemies* to avoid (or fight).
 
     LDS doctrine provides some justification for (or at least resonance with) de-humanizing those who speak out against the Church.  Joseph Smith taught that those who leave the Church "left the neutral ground... [and] can [never] get back on to it" ([source](https://www.lds.org/search?lang=eng&query=%22you+left+the+neutral+ground%22)) and will inevitably [become servants of Satan](https://www.lds.org/search?lang=eng&query=%22follow+his+dictation+and+be+his+servant%22).  And, while exactly who becomes a son of perdition and goes to outer darkness [is not well defined](https://exploringmormonism.com/who-goes-to-outer-darkness-a-handy-guide/), Brigham Young taught that sons of perdition are [effectively annihilated](http://en.fairmormon.org/Plan_of_salvation/Sons_of_Perdition/Eventual_fate).  Note that Elder Asay uses the phrase "put them out of existence" several times [in his talk](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng) as if to allude to the eventual fate of apostates.
+
+[^excommunicationexamples]: Compare [Bruce Holt's excommunication](http://www.mormonthink.com/personalstories/bruce-holt.htm) with [Jeremy Runnells' excommunication](https://cesletter.org/resign/).
+
+[^threefold]: I explore the tension between shunning and including more fully in [The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).
+
+[^templerecommend]: For instance, the seventh temple recommend question [asks members](http://lds4u.com/lesson5/templequestions.htm): "Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?" which strongly implies that such affiliation is to be avoided.
