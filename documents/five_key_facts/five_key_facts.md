@@ -39,6 +39,8 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 **More**:
 
 * [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/) (bwv549)
+* [Testimonies of Other Faiths](https://testimoniesofotherfaiths.blogspot.co.uk/)
+* [Spiritual feelings appear to confirm contradictory positions](http://www.religioustolerance.org/god_pra6.htm)
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 
