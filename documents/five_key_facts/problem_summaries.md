@@ -17,16 +17,25 @@
 
 *Additional resources and discussion can be found at the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
-### Apologetic Responses
+### Apologetic Resources
 
-To date, almost all apologetic responses have been directed at [The CES Letter](http://cesletter.com/):
+* [Gospel Topics Essays](https://www.lds.org/topics/essays?lang=eng&old=true) (lds.org)
+* [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
+* [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html) (prolific apologist)
+* [Neal A. Maxwell Institute](http://mi.byu.edu/) (BYU affiliated institute for religious scholarship)
+
+*Additional apologetic discussion may be found at the [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/).*
+
+#### Responses to the CES Letter
+
+[The CES Letter](http://cesletter.com/) is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  Where he has responded, I've included a link to the response by Jeremy Runnells (author of The CES Letter).
 
 * [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic) ([Runnell's response](http://cesletter.com/debunking-fairmormon/))
+* [Letter to a CES Director: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
 * [Some Reflections On That Letter To a CES Director](http://www.fairmormon.org/fair-conferences/2014-fairmormon-conference/reflections-letter-ces-director) ([Runnell's response](http://cesletter.com/apologetics/a-zombies-reflections-on-that-mormon-apologists-reflections.html))
 * [Jeremy Runnells and the Book of Abraham](http://rationalfaiths.com/jeremy-runnells-book-abraham/) ([Runnell's response](http://cesletter.com/apologetics/the-book-of-abraham-except-for-those-willfully-blind-the-case-is-closed.html))
 * [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](http://www.mormoninterpreter.com/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) ([Runnell's response](http://cesletter.com/apologetics/the-sky-is-falling-part-1.html))
-
-*Additional apologetic discussion may be found at [the lds essays](https://www.lds.org/topics/essays?lang=eng&old=true), [FairMormon](http://www.fairmormon.org/) and the [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/).*
+* [A Reply from a Former CES Employee](http://stallioncornell.com/blog/2016/04/01/a-reply-from-a-former-ces-employee/) (by Stallion Cornell)
 
 ## General pros/cons of the LDS lifestyle
 
