@@ -75,7 +75,7 @@ Tom answered...
 
 > In the Church of Jesus Christ of Latter-day Saints we believe that each member is called to serve in some capacity in the Church. Some may be called to teach a class, or to lead music, etc. Members may also be called to leadership positions. The leaders each serve for a period of a few years and are then released from that position. While serving in any role members continue to hold a regular job outside of church. By giving a piece of the work to each person there is no need for a full-time cleric at any level. We share the work and therefore nobody is paid for their service.
 
-A side benefit of this is that we tend to willingly donate our time in other areas of our lives as well, offering to help others on a purely volunteer basis. This helps us to learn to serve as Jesus did during his ministry and to feel charity for others.
+> A side benefit of this is that we tend to willingly donate our time in other areas of our lives as well, offering to help others on a purely volunteer basis. This helps us to learn to serve as Jesus did during his ministry and to feel charity for others.
 
 Susie answered...
 
