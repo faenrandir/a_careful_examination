@@ -93,23 +93,32 @@ So, members are taught to help "*all* men, women, and children ... feel accepted
 
 ## Penetrance in LDS thought and action
 
-### Complete alignment in official LDS material
+The pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is followed in nearly all official LDS material.  I'm aware of only one exception:
 
-As far as I can tell, this pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is strictly followed in all official LDS material.[^templerecommend]  I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).[^pleasesendmaterial]  And, as presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.[^pleasesendmaterial2]
+In his October 2016 General Conference address entitled "[Learn from Alma and Amulek](https://www.lds.org/general-conference/2016/10/learn-from-alma-and-amulek?cid=HP_TH_16-3-2017_dPFD_fGC_xLIDyL2-2_&lang=eng)", Elder Uchtdorf tells the story of "David", a man who "came across some information about the Church that confused him." He became "unsettled" by the "negative material" and eventually resigned from the Church.  David spent time online debating with members of the Church, and one member, "Jacob", "was always kind and respectful to David, but ... also firm in his defense of the Church."  Eventually, despite finding it difficult to overcome his "pride", David was rebaptized into the Church.
 
-[need to include more examples above]
+Besides the story of "David" and "Jacob" given by Elder Uchtdorff, I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).[^pleasesendmaterial]  As presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.[^pleasesendmaterial2]
+
+The seventh temple recommend question is a good example of this attitude generally.  The question [asks members](http://lds4u.com/lesson5/templequestions.htm): "Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?" which strongly implies that such affiliation is to be avoided or one is not worthy of entrance into the temple.
 
 ### Spotty in practice
 
-Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend and rubrics described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned or their likelihood of excommunication.[^excommunicationexamples] 
-To be clear, this analysis only predicts/describes the behavior of *some* believing members---many members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   And, as mentioned in the introduction there are a *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and many members will lean towards these when deciding how to treat former members.[^threefold]
+Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend and rubrics described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned or their likelihood of excommunication for openly disagreeing with the Church.[^excommunicationexamples] 
+
+Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]
 
 ## Moving Forward
 
-The mormon newsroom 
+The Mormon Newsroom, in speaking about dialog with those of different religions and those without religion, [offer up this wisdom](http://www.mormonnewsroom.org/article/pew-study-faith-talk#prclt-R2XpUabP):
 
-How do members expect to avoid misunderstanding former members (and vice versa) if they are not communicating about these issues?  Is it possible for members to discuss the issues, why they view them differently, and then politely agree to disagree?
+> We generally avoid controversial topics (such as politics, money or religion) at the dinner table. But this can be problematic because if believers aren’t talking faith with family and friends — especially with those who aren’t religious — we leave the door of misunderstanding wide open..."
 
+Perhaps this counsel should be extended to _former members_, too---even those who left for intellectual reasons and speak openly about their rationale?  How do members expect to avoid misunderstanding former members (and vice versa) if they are not communicating about these issues?  Is it possible for members to discuss the issues openly, why they view them differently, and then, as needed, politely agree to disagree on some topics?  Is there still room to discuss the issues in order to find common ground?
+
+In another article [defending religious dialog](http://www.mormonnewsroom.org/article/voice-religious-conscience), the Mormon Newsroom offered perhaps the best counter to the counsel to flee or shun those who have left the Church
+because they no longer accept the truth-claims:
+
+> It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that ‘truth will cut its own way’ and love will eventually win out in the contest of ideals.
 
 
 [^shundefinition]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  The most extreme examples of shunning come from some religious communities (Amish, Jehovahs Witnesses) who *formally* avoid speaking with those who have left the faith.  Besides excommunication and disfellowshipment (which are far more mild than the formal shunning in these other faiths) Mormons do not *formally* shun anyone.  *General avoidance* and the avoidance of talking about truth-claim issues and/or a person's new beliefs is how I am using the word "shun" in this document.  The usage seems justified given how Asay uses the term "shun" and Ballard urges members to "flee".  Shunning need not be formally imposed to still qualify as shunning.
@@ -154,7 +163,7 @@ How do members expect to avoid misunderstanding former members (and vice versa) 
 
     > I've been so down the past few days because of this. I told her on the phone (we live in different states) in September, she didn't give me any response until December, an email. Her response was that I was lying, made her feel "dark and dirty", and that I was being judgemental. I told her I was so confused why she thought all that, asked her what I said to make her feel that way.  She's not even willing to talk to me at all anymore because she's worried she'll get defensive and make things worse. I told her the worst thing she could do is say nothing, but apparently she doesn't believe me because she still won't talk to me. It just really, really sucks.  I thought for sure she would take it well and she'd be understanding enough to where it wouldn't TOTALLY change our relationship but I could not have been more wrong.
 
-    Many similar anecdotes can be found on the [exmormon subreddit](https://www.reddit.com/r/exmormon).
+    More accounts may be found in the document [How those who leave the LDS Church are viewed](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/8759c795359252e9f11ff02063774e1bb8ff33cb/documents/about_apostates/how_those_who_leave_are_viewed.pdf) under the section "Examples of how people are treated who leave the Church".  Many other anecdotes can be found on the [exmormon subreddit](https://www.reddit.com/r/exmormon).
 
 [^taughtinmanuals]: The directive to shun faith-killers was repeated [in the 1995 Ensign](https://www.lds.org/ensign/1995/01/i-have-a-question?lang=eng) and is in the [current Book of Mormon Teacher Resource Manual](https://www.lds.org/manual/book-of-mormon-teacher-resource-manual/alma-30-35?lang=eng).
 
