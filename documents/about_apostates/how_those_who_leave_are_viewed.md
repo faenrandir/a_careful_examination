@@ -373,12 +373,23 @@ A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=xNRlg6O8
 
 Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids-arent-mormon-give-your-money-to-the-church-when-you-die/).
 
-### may be disowned until they repent
+### may be disowned
 
 > I posted a few times about leaving the Mormon church. My dad emailed me today. Im disowned. My phone number, email, and my social networking sites. I'm not supposed to try to contact any family unless I repent and return to the church. I'm an adult. I'm a veteran. And losing my family hurts. Maybe I should go for a commission.
 
 [From here](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/)
-([father is Stake President](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/ddek4ly/))
+
+(note that the [father is Stake President](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/ddek4ly/))
+
+> G-pa and I are SUPER CLOSE. He and my G-ma raised my siblings and I since I was 9 months old. I COMPLETELY see him as my Dad in every way that counts. We call each other several times a day and I tell him EVERYTHING!!!
+
+> Tonight I told him that I went to my husbands church (he is attending an Orthodox Christian Church). He said "Be careful or else he will convert you." I responded by saying "Maybe."
+
+> He immediately got mad and told me he would disown me and will have nothing to do with me if I leave the church. He continued by saying I won't go to heaven and I won't be with the family.
+
+> ...So it looks like I will be losing one of the top people I never want to be without. 
+
+[From here](https://www.reddit.com/r/exmormon/comments/64h4fd/my_gpa_is_disowning_me/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi)
 
 ### will never find true happiness
 
