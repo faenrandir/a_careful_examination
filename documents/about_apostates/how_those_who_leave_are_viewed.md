@@ -377,9 +377,7 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 
 > I posted a few times about leaving the Mormon church. My dad emailed me today. Im disowned. My phone number, email, and my social networking sites. I'm not supposed to try to contact any family unless I repent and return to the church. I'm an adult. I'm a veteran. And losing my family hurts. Maybe I should go for a commission.
 
-[From here](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/)
-
-(note that the [father is Stake President](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/ddek4ly/))
+[From here](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/) (note that the [father is Stake President](https://www.reddit.com/r/Christianity/comments/5s5kzz/disowned/ddek4ly/))
 
 > G-pa and I are SUPER CLOSE. He and my G-ma raised my siblings and I since I was 9 months old. I COMPLETELY see him as my Dad in every way that counts. We call each other several times a day and I tell him EVERYTHING!!!
 
