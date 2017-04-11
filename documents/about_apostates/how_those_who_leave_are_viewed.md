@@ -12,7 +12,7 @@ LDS Church leaders, lesson manuals, and other material published by the Church s
 
 Given this characterization of those who leave, it is not surprising that many feel a need to "defend their actions", "disprove" the Church, or end up becoming hostile enemies: a person who determines that the Church is not true---regardless of how pure or noble their motives, the strength of their character, the level of their spirituality, or how comprehensively they understand the Gospel---cannot leave with their reputation and character intact.  If they leave without explanation, then it is assumed that they are deficient in character or understanding---if they attempt to exonerate themselves, then they have a "need to defend their actions" or "disprove the Church" and are considered "bitter".
 
-While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, virtually *all* totalistic groups [characterize those who leave in a similar negative light](https://www.youtube.com/watch?v=VdTWTeTkPn0) (see additional examples from [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientology](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s).  In addition, see "[The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)" for a longer discussion of the totalistic mindset and how it is manifest in the LDS Church.)
+While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, virtually *all* totalistic groups [characterize those who leave in a similar negative light](https://www.youtube.com/watch?v=VdTWTeTkPn0) (see additional examples from [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientology](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s).  In addition, see "[The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)" for a longer discussion of the totalistic mindset and how it is manifest in the LDS Church.  Also [The Shunning Key: Whom Mormons shun and why](https://mormonbandwagon.com/bwv549/the-shunning-key/))
 
 ## Positive or neutral statements about those who leave
 
@@ -419,7 +419,7 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 
 [From here](https://www.reddit.com/r/exmormon/comments/4g5ity/the_time_my_dad_told_me_id_be_taken_from_the/)
 
-When I finally had enough of endless preaching and being told I was not good enough, I told my father that I did not believe anymore. His response was to write me a letter (something I rarely did) and told me that god was going to strike me dumb like he did Korihor. Shit like that from your dad hurts.
+> When I finally had enough of endless preaching and being told I was not good enough, I told my father that I did not believe anymore. His response was to write me a letter (something I rarely did) and told me that god was going to strike me dumb like he did Korihor. Shit like that from your dad hurts.
 
 [From here](https://www.reddit.com/r/exmormon/comments/4g5ity/the_time_my_dad_told_me_id_be_taken_from_the/d2f1pga)
 

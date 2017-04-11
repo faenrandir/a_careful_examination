@@ -73,7 +73,7 @@ A [recent survey](http://www.whymormonsquestion.org/wp-content/uploads/2012/05/S
 * I lost faith in the Book of Mormon (65%)
 * I lost confidence in the general authorities (50%)
 
-The majority of Mormons who leave do so *because* they do not believe in the core truth-claims of the Church any more.  In addition, the majority of those who disbelieve (53%) now consider themselves Agnostic, Atheist, or Humanist.
+If this survey is at all representative of former Mormons, the majority of Mormons who leave do so *because* they do not believe in the core truth-claims of the Church any more.  In addition, the majority of those who disbelieve (53%) now consider themselves Agnostic, Atheist, or Humanist.
 
 Hence a typical former Latter-day Saint, if they ever openly discuss their rationale for doubting the Church's truth-claims or write anything online, will easily qualify as a false prophet or false teacher.  At a minimum, they will likely be a tight fit for Ballard's criteria #2, #3, #5, #8, #9,  and they will likely meet *all* of Asay's list characterizing a faith-killer.
 
@@ -89,13 +89,11 @@ But, what about "false prophets" and "false teachers"?  Are members meant to rea
 
 > Let us remember that it is our duty to be faithful to the restored truths of the gospel of Jesus Christ. It takes faith—real faith, total and unreserved—to accept and strive to live prophetic counsel. Lucifer, the adversary of truth, does not want us to feel or exhibit that kind of faith. He encourages disobedience, planting defiance in the hearts of the unwary. If he is successful, they will turn away from the light into the darkness of the world. Our safety, our peace, lies in working as hard as we can to live as the Father and Son would have us live, **in fleeing from false prophets and false teachers**, and in being anxiously engaged in good causes. (emphasis added)
 
-So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" *but* to simultaneously "*flee*" from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
+So, members are taught to help "*all* men, women, and children ... feel accepted and appreciated" *but* to simultaneously "flee" from false prophets and false teachers---and most former members easily qualify as such.[^outofexistence]
 
 ## Penetrance in LDS thought and action
 
-The pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is followed in nearly all official LDS material.  I'm aware of only one exception:
-
-In his October 2016 General Conference address entitled "[Learn from Alma and Amulek](https://www.lds.org/general-conference/2016/10/learn-from-alma-and-amulek?cid=HP_TH_16-3-2017_dPFD_fGC_xLIDyL2-2_&lang=eng)", Elder Uchtdorf tells the story of "David", a man who "came across some information about the Church that confused him." He became "unsettled" by the "negative material" and eventually resigned from the Church.  David spent time online debating with members of the Church, and one member, "Jacob", "was always kind and respectful to David, but ... also firm in his defense of the Church."  Eventually, despite finding it difficult to overcome his "pride", David was rebaptized into the Church.
+The pattern of shunning those who speak openly about why they do not believe in the Church's truth claims is followed in nearly all official LDS material.  I'm aware of only one exception---a story by Elder Uchtdorf about an ex-member "David" who debated with members online and was converted through the patient efforts of "Jacob."[^davidandjacob]
 
 Besides the story of "David" and "Jacob" given by Elder Uchtdorff, I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).[^pleasesendmaterial]  As presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.[^pleasesendmaterial2]
 
@@ -103,7 +101,7 @@ The seventh temple recommend question is a good example of this attitude general
 
 ### Spotty in practice
 
-Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend and rubrics described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned or their likelihood of excommunication for openly disagreeing with the Church.[^excommunicationexamples] 
+Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned (or their likelihood of excommunication for openly disagreeing with the Church[^excommunicationexamples]). 
 
 Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]
 
@@ -133,7 +131,7 @@ because they no longer accept the truth-claims:
 
         > We should disconnect immediately and completely from listening to the proselytizing efforts of those who have lost their faith and instead reconnect promptly with the holy spirit.
 
-        Former members are often eager to discuss the reasons they left, but believing members should avoid these kinds of discussions.
+        Former members are often eager to discuss the reasons they left, but believing members should avoid these kinds of discussions, according to Clayton.
 
     * **Shun by lack of association**.  Shunning may also occur inadvertently merely because a member does not feel that a former member still shares their eternal perspective.  [Thomas S. Monson encouraged members](https://www.lds.org/general-conference/2005/04/be-thou-an-example?lang=eng):
 
@@ -179,6 +177,10 @@ because they no longer accept the truth-claims:
 
 [^excommunicationexamples]: Compare [Bruce Holt's excommunication](http://www.mormonthink.com/personalstories/bruce-holt.htm) with [Jeremy Runnells' excommunication](https://cesletter.org/resign/).
 
-[^threefold]: I explore the tension between shunning and including more fully in [The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).
+[^threefold]: The decision to shun because of differences in doctrine versus including others with dissimilar views and embracing differences of opinion is one manifestation of a deeper tension between the totalistic and individual-growth mindsets that are part of the fundamental fabric of the LDS Church.  See [the three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).
 
 [^templerecommend]: For instance, the seventh temple recommend question [asks members](http://lds4u.com/lesson5/templequestions.htm): "Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?" which strongly implies that such affiliation is to be avoided.
+
+[^davidandjacob]: In his October 2016 General Conference address entitled "[Learn from Alma and Amulek](https://www.lds.org/general-conference/2016/10/learn-from-alma-and-amulek?cid=HP_TH_16-3-2017_dPFD_fGC_xLIDyL2-2_&lang=eng)", Elder Uchtdorf tells the story of "David", a man who "came across some information about the Church that confused him." He became "unsettled" by the "negative material" and eventually resigned from the Church.  David spent time online debating with members of the Church, and one member, "Jacob", "was always kind and respectful to David, but ... also firm in his defense of the Church."  Eventually, despite finding it difficult to overcome his "pride", David was rebaptized into the Church.
+
+
