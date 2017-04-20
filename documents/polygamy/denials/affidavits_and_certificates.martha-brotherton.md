@@ -2,6 +2,8 @@
 
 * [source](https://ia902505.us.archive.org/1/items/AffidavitsCertificates/Affidavits%20And%20Certificates.pdf)
 
+These are the affidavits relating specifically to [Marth Brotheron's affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/a82f9840b58a5036eed81bf3dad45ca8aef7b30c/documents/polygamy/denials/brotherton-affidavit.pdf).  Many other topics are covered in the affidavits and certificates linked in 'source' above.
+
 ---
 
 TESTIMONY OF J. McILWRICK - I do know that the sister of my wife, Martha Brotherton, is a deliberate liar, and also a wilful inventor of lies; and that she has also to my certain knowledge at sundry times, circulated lies of a base kind, concerning those whom she knew to be innocent of what she alleged against them. She has also stooped to many actions which would be degrading to persons of common decency, such as lying on the top of a young man when he was in bed, and seeking Aristotle’s work from a young seaman’s box.  And I further state that I am acquainted with Gen. Joseph Smith, President Brigham Young, and Elder Heber C. Kimball, having had the privilege of being intimate with the latter gentleman for several months in England. And I believe them to be men who lead holy and virtuous lives, and men who exhibit a philanthropic spirit to all the human family without respect of persons; and I also know for a truth that the forenamed Martha Brotherton has wickedly endeavored to injure the character of these gentlemen; and many besides myself can testify that the statements which she has reported in different places, are quite contrary to those she related here.
