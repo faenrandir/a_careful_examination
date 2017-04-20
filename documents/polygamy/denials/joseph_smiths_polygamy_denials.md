@@ -7,7 +7,7 @@ Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasi
 A few notes:
 
 * Hyperlinks to original source material may be found by clicking on the link found in each header.  These links point to a more complete transcript of each source and that transcript also contains a link to the original source hosted by LDS affiliated sites where available.
-* Denials are tagged with **OWN WORDS** (4 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **LIKELY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
+* Denials are tagged with **OWN WORDS** (4 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **POSSIBLY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
 * Emphasis is sometimes added to highlight the most relevant parts of a statement.
 * The wife count is compiled from LDS apologist Brian Hales' [Joseph Smith's Polygamy site](http://josephsmithspolygamy.org/plural-wives-overview/) and only uses *established* sealing/marriage dates---the actual wife count may be higher.[^wifecount]
 * Several denials refer to the [1835 Doctrine and Covenants statement on marriage](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1835-Doctrine-and-Covenants.pdf).
