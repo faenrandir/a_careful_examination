@@ -7,7 +7,7 @@ Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasi
 A few notes:
 
 * Hyperlinks to original source material may be found by clicking on the link found in each header.  These links point to a more complete transcript of each source and that transcript also contains a link to the original source hosted by LDS affiliated sites where available.
-* Denials are tagged with **OWN WORDS** (4 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **POSSIBLY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
+* Denials are tagged with **OWN WORDS** (5 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **POSSIBLY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
 * Emphasis is sometimes added to highlight the most relevant parts of a statement.
 * The wife count is compiled from LDS apologist Brian Hales' [Joseph Smith's Polygamy site](http://josephsmithspolygamy.org/plural-wives-overview/) and only uses *established* sealing/marriage dates---the actual wife count may be higher.[^wifecount]
 * Several denials refer to the [1835 Doctrine and Covenants statement on marriage](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1835-Doctrine-and-Covenants.pdf).
@@ -32,7 +32,7 @@ A few notes:
 
 #### [August 31, 1842, Affidavits against Bennett](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf)---RESPONSIBLE FOR
 
-*The below affidavits by Kimball and Young refer to [Martha Brotherton's affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/brotherton-affidavit.pdf), which is [likely truthful, at least in its general outline](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).  Martha's affidavit primarily makes the claim that Joseph and Brigham attempted to persuade her that polygamy was approved of God and to become Brigham's wife.  Brigham swore to the below statement in August---two months prior [he had taken Lucy Ann Decker for his first polygamous wife](http://josephsmithspolygamy.org/history/changes-in-february-1842/).  Heber C. Kimball also took [his first polygamous wife in 1842](http://josephsmithspolygamy.org/history/changes-in-february-1842/) (the exact date is unknown).  Joseph Smith [called for volunteers](https://restorationbookstore.org/articles/nopoligamy/jsfp-vol2/2chp1.htm) to distribute the broadside containing these affidavits.  In 1870 [Brigham had Martha Brotherton sealed to him by proxy](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/brotherton_sealed_to_brigham_young_1870.pdf). Joseph Smith had at least 13 wives by this time.*
+*The below affidavits by Kimball and Young refer to [Martha Brotherton's affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/brotherton-affidavit.pdf), which is [likely truthful, at least in its general outline](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).  Martha's affidavit primarily makes the claim that Joseph and Brigham attempted to persuade her that polygamy was approved of God and to become Brigham's wife.  Brigham swore to the below statement in August---two months prior [he had taken Lucy Ann Decker for his first polygamous wife](http://josephsmithspolygamy.org/history/changes-in-february-1842/).  Heber C. Kimball also took his first polygamous wife [early in 1842](https://imgur.com/1ShyRKR).  Joseph Smith [called for volunteers](https://restorationbookstore.org/articles/nopoligamy/jsfp-vol2/2chp1.htm) to distribute the broadside containing these affidavits.  In 1870 [Brigham had Martha Brotherton sealed to him by proxy](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/brotherton_sealed_to_brigham_young_1870.pdf). Joseph Smith had at least 13 wives by this time.*
 
 > ... Heber C. Kimball, who being duly sworn according to law, deposeth and saith that the affidavit of Miss Martha Brotherton, which has been published in sundry newspapers, *is false and without foundation in truth*, and further this deponant saith not.
 
@@ -64,6 +64,14 @@ A few notes:
 
 > Evening at home and walked up and down the street with my scribe.  Gave inst[r]uction to try those who were preaching teaching or practicing the doctrine of plurality of wives. on this Law. Joseph forbids it. and the practice ther[e]of— No man shall have but one wife.
 
+#### [February 1, 1844, Times and Seasons](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/bd92c2fdda2ae217dfcdd3b89085809b77484283/documents/polygamy/denials/1844-02-01-DENIAL-Times-and-Seasons-Notice.pdf)---OWN WORDS
+
+*Joseph Smith had at least 30 wives by this time.  Hyrum Smith had [3](https://en.wikipedia.org/wiki/Hyrum_Smith) or [4](http://signaturebookslibrary.org/joseph-smith/) wives at this time.  Brown _was_ later excommunicated for preaching polygamy.*
+
+> ...an Elder of the Church of Jesus Christ, of Latter-day Saints, by the name of Hiram Brown, has been preaching Polygamy...he has been cut off from the church, for his iniquity
+
+[Signed by JOSEPH SMITH and HYRUM SMITH]
+
 #### [May 26, 1844, Testimony against Dissenters](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1844-05-26-DENIAL-Address-of-the-Prophet--His-Testimony-Against-the-Dissenters-at-Nauvoo.pdf)---OWN WORDS
 
 *Joseph Smith had at least 30 wives by this time.*
@@ -87,6 +95,10 @@ A few notes:
 *John Taylor was [editor of the Times and Seasons](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200), was in [Joseph's inner circle](https://en.wikipedia.org/wiki/Anointed_Quorum), and [had likely been taught about polygamy by this time](http://www.lds-mormon.com/quinn_dialogue.shtml). Taylor would take a plural wife [before the end of 1843](https://restorationbookstore.org/articles/nopoligamy/jsfp-vol2/2chp17.htm).  Joseph lived in Nauvoo when this statement was published in Nauvoo.  He had at least 17 wives at this time.*
 
 > *We are charged with advocating a plurality of wives*, and common property. *Now this is as false as the many other ridiculous charges which are brought against us*. No sect have a greater reverence for the laws of matrimony, or the rights of private property, and *we do what others do not, practice what we preach* ... I remain, sir, your obliged servant, H. R.
+
+#### [April 1, 1844, Times and Seasons]---POSSIBLY AWARE OF
+
+[Need to add 'TO THE ELDERS ABROAD' and source above]
 
 ### Did Joseph Smith and other leaders lie or deceive?
 
