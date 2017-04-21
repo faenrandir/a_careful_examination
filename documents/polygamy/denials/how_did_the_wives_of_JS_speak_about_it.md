@@ -53,7 +53,7 @@ Here's how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (
 ### Summary
 
 * The women considered these "marriages" and they considered themself a "wife" of Joseph Smith.
-* Lucey Walker's testimony establishes that the plural wives of Joseph Smith were living as husband and wife "within the meaning of all that word [wives] implies."
+* Lucy Walker's testimony establishes that the plural wives of Joseph Smith were living as husband and wife "within the meaning of all that word [wives] implies."
 * Both Eliza R. Snow and Almera Johnson's words establish that when they were using the word "wife" they were using it synonymously with the word "wife" used in describing a monogamous marriage.
 * None of the accounts distinguish in any way the usage of the word plural "wife" from a normal "wife" (except to say that it was in the Celestial order).
 * "Celestial marriage" was used as a qualifier of a kind of "plural marriage" or "polygamy" (i.e., these women referred to their unions within the umbrella of "plural marriage" and "polygamy").
