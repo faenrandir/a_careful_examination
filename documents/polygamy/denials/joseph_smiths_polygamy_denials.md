@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasions.  He was also responsible for the publication or distribution of several additional denials.
+Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasions.  He was also responsible for the publication or distribution of several additional denials.  A complete listing of early Church leader polygamy denials up to 1850 is [available here](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf).
 
 A few notes:
 
