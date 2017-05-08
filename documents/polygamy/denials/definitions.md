@@ -1,4 +1,4 @@
-# Definitions of terms related to Joseph Smith's Polygamy
+# Definitions of terms related to LDS Leaders' Polygamy Denials
 
 ### Merriam-Webster
 
@@ -39,6 +39,14 @@ The current Gospel Principles manual (as of 2017-02-06) defines lying and other 
 > **Lying is intentionally deceiving others.** Bearing false witness is one form of lying. The Lord gave this commandment to the children of Israel: “Thou shalt not bear false witness against thy neighbour” (Exodus 20:16). Jesus also taught this when He was on earth (see Matthew 19:18). **There are many other forms of lying.** When we speak untruths, we are guilty of lying. **We can also intentionally deceive others by a gesture or a look, by silence, or by telling only part of the truth.** Whenever we lead people in any way to believe something that is not true, we are not being honest.
 
 So, lying is intentionally deceiving others, and it may be performed in a variety of ways (silence, telling only part of the truth, etc.)
+
+### Definition given in General Conference
+
+Marvin J. Ashton defined lying [in his 1982 General Conference address](https://www.lds.org/general-conference/1982/04/this-is-no-harm?lang=eng):
+
+> [His wise schoolteacher had them recite] “A lie is any communication given to another with the intent to deceive.”
+
+> When I compare this definition with that found in the dictionary, which states, “A lie is an untrue statement made with the intent of deceiving,” I greatly appreciate her definition. A lie can be effectively communicated without words ever being spoken. Sometimes a nod of the head or silence can deceive. Recommending a questionable business investment, making a false entry in a ledger, devious use of flattery, or failure to divulge all pertinent facts are a few other ways to communicate the lie.
 
 ### Wikipedia
 
