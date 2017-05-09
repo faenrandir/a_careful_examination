@@ -28,7 +28,7 @@ FINAL_OUTPUT = FILE_OUTPUT_BASE + ".pdf"
   File.unlink(file) if File.exist?(file)
 end
 
-inkscape_files = Dir['*.svgz'].sort
+inkscape_files = Dir['*.svgz'].reject {|v| v =~ /standalone/}.sort
 
 base_cmd = ["svg_to_pxx.rb", "-t"]
 
@@ -43,7 +43,7 @@ Dir['*.odt'].each do |odt_file|
   system "odf_to_pdf.rb #{odt_file}"
 end
 
-pdfs = Dir["*.pdf"].sort
+pdfs = Dir["*.pdf"].reject {|v| v=~ /standalone/}.sort
 
 `pdftk #{pdfs.join(" ")} cat output #{TMP_FILE}`
 `pdftk #{TMP_FILE} dump_data_utf8 output #{DATA_FILE}`
