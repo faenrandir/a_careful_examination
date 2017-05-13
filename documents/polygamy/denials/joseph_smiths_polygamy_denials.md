@@ -88,7 +88,7 @@ A few notes:
 
 > *I am the same man, and as innocent as I was fourteen years ago; and I can prove them all perjurers.*
 
-### Appendix
+### Appendix-A Statements Joseph Smith may have been aware of
 
 #### [March 15, 1843, Times and Seasons](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/a5b54cc4cc35e8d269ce288841619d7f589857f5/documents/polygamy/denials/1843-03-15-DENIAL-Times-and-Seasons-letter-from-HR.pdf)---POSSIBLY AWARE OF
 
@@ -96,14 +96,23 @@ A few notes:
 
 > *We are charged with advocating a plurality of wives*, and common property. *Now this is as false as the many other ridiculous charges which are brought against us*. No sect have a greater reverence for the laws of matrimony, or the rights of private property, and *we do what others do not, practice what we preach* ... I remain, sir, your obliged servant, H. R.
 
-#### [April 1, 1844, Times and Seasons]---POSSIBLY AWARE OF
+### Appendix-B Denials discussed in lds.org essay
 
-[Need to add 'TO THE ELDERS ABROAD' and source above]
+The [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay on lds.org states the following about the denials (as of 2017-05-07):
+
+> The rumors prompted members and leaders to issue carefully worded denials that denounced spiritual wifery and polygamy but were silent about what Joseph Smith and others saw as divinely mandated “celestial” plural marriage.[22]  The statements emphasized that the Church practiced no marital law other than monogamy while implicitly leaving open the possibility that individuals, under direction of God’s living prophet, might do so.[23]
+
+They reference the following footnotes:
+
+> [22]: In the denials, “polygamy” was understood to mean the marriage of one man to more than one woman but without Church sanction.
+
+> [23]: See, for example, “On Marriage,” Times and Seasons, Oct. 1, 1842, 939–40; and Wilford Woodruff journal, Nov. 25, 1843, Church History Library, Salt Lake City; Parley P. Pratt, “This Number Closes the First Volume of the ‘Prophet,’” The Prophet, May 24, 1845, 2. George A. Smith explained, “Any one who will read carefully the denials, as they are termed, of plurality of wives in connection with the circumstances will see clearly that they denounce adultery, fornication, brutal lust and the teaching of plurality of wives by those who were not commanded to do so” (George A. Smith letter to Joseph Smith III, Oct. 9, 1869, in Journal History of The Church of Jesus Christ of Latter-day Saints, Oct. 9, 1869, Church History Library, Salt Lake City).
 
 ### Did Joseph Smith and other leaders lie or deceive?
 
 * [The verbiage used by Joseph Smith's wives to describe their unions](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/f2840862c8f652ff73e5803e1785687c297ef951/documents/polygamy/denials/how_did_the_wives_of_JS_speak_about_it.pdf).
-* [Definitions of words related to "lie" and "deceive"](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/definitions.pdf) (from Merriam-Webster, the Gospel Principles Manual, and Wikipedia).
+* [Definitions of words related to "lie" and "deceive"](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/7a042b77c021d226e05ec68c967053e2bffc4163/documents/polygamy/denials/definitions.pdf) (from Merriam-Webster, the Gospel Principles Manual, General Conference addresses, and Wikipedia).
+* [Response to Hales' challenge: "Please show me even one 'lie' by Joseph regarding plural marriage"](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/)
 
 #### Official and Apologetic explanations
 
