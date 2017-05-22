@@ -100,13 +100,13 @@ A few notes:
 
 The [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay on lds.org states the following about the denials (as of 2017-05-07):
 
-> The rumors prompted members and leaders to issue carefully worded denials that denounced spiritual wifery and polygamy but were silent about what Joseph Smith and others saw as divinely mandated “celestial” plural marriage.[22]  The statements emphasized that the Church practiced no marital law other than monogamy while implicitly leaving open the possibility that individuals, under direction of God’s living prophet, might do so.[23]
+> The rumors prompted members and leaders to issue carefully worded denials that denounced spiritual wifery and polygamy but were silent about what Joseph Smith and others saw as divinely mandated “celestial” plural marriage.\[22\]  The statements emphasized that the Church practiced no marital law other than monogamy while implicitly leaving open the possibility that individuals, under direction of God’s living prophet, might do so.\[23\]
 
 They reference the following footnotes:
 
-> [22]: In the denials, “polygamy” was understood to mean the marriage of one man to more than one woman but without Church sanction.
+> \[22\]: In the denials, “polygamy” was understood to mean the marriage of one man to more than one woman but without Church sanction.
 
-> [23]: See, for example, “On Marriage,” Times and Seasons, Oct. 1, 1842, 939–40; and Wilford Woodruff journal, Nov. 25, 1843, Church History Library, Salt Lake City; Parley P. Pratt, “This Number Closes the First Volume of the ‘Prophet,’” The Prophet, May 24, 1845, 2. George A. Smith explained, “Any one who will read carefully the denials, as they are termed, of plurality of wives in connection with the circumstances will see clearly that they denounce adultery, fornication, brutal lust and the teaching of plurality of wives by those who were not commanded to do so” (George A. Smith letter to Joseph Smith III, Oct. 9, 1869, in Journal History of The Church of Jesus Christ of Latter-day Saints, Oct. 9, 1869, Church History Library, Salt Lake City).
+> \[23\]: See, for example, “On Marriage,” Times and Seasons, Oct. 1, 1842, 939–40; and Wilford Woodruff journal, Nov. 25, 1843, Church History Library, Salt Lake City; Parley P. Pratt, “This Number Closes the First Volume of the ‘Prophet,’” The Prophet, May 24, 1845, 2. George A. Smith explained, “Any one who will read carefully the denials, as they are termed, of plurality of wives in connection with the circumstances will see clearly that they denounce adultery, fornication, brutal lust and the teaching of plurality of wives by those who were not commanded to do so” (George A. Smith letter to Joseph Smith III, Oct. 9, 1869, in Journal History of The Church of Jesus Christ of Latter-day Saints, Oct. 9, 1869, Church History Library, Salt Lake City).
 
 ### Did Joseph Smith and other leaders lie or deceive?
 
