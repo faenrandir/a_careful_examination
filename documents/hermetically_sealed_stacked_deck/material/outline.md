@@ -9,10 +9,6 @@ Church will fill the whole earth (when growing)
 Enter ye in at the strait gate: for wide is the gate, and broad is  the way, that leadeth to destruction, and many there be which go in thereat:
 Even the very elect will be deceived.
 
-1. Testimony
-    * doubts vs. questions
-    * sincerity
-        http://www.crustaceansingles.com/2016/10/the-one-true-joke.html
 1. Evidence
     * Sign seekers
 1. Leaders
@@ -85,3 +81,7 @@ the membership is willing to bear (i.e., the members aren't righteous enough).
 Temple recommend question: Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
 
 [Similar to JWs]
+
+# recovery from illness
+
+See https://www.reddit.com/r/exmormon/comments/6c4eyv/ever_wonder_how_tbms_always_have_the_perfect/
