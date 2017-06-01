@@ -15,11 +15,11 @@ Joseph refers to Egyptian characters in specific locations on facsimile 3 and [h
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
-The well-known Mormon historian Richard Bushman [recently observed](http://www.wheatandtares.org/17915/richard-bushman-on-mormonism/):
+[In a recent interview](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4812adc830b40ee2956065e7d7363aa0fbc9c5c4/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf), the well-known Mormon historian Richard Bushman stated:
 
-> The Book of Mormon has a lot of nineteenth-century Protestant material in it, both in terms of theology and of wording. I am looking for an explanation of how and why it is there.
+> ... there is phrasing everywhere [in the Book of Mormon], long phrases, that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible ...
 
-The Book of Mormon is similar to books of its time, and it addresses concerns specific to 1830 Protestant America.  By any measure it contains an immense number ideas, phrases, and theology common to the early nineteenth century.  Here are two examples of many:
+By any measure the Book of Mormon contains an immense number of ideas, phrases, and theology common to the early nineteenth century.  Here are two examples of many:
 
 * There are many points of similarity [with the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO)
 * The book "The Late War", by Gilbert Hunt, is [very similar to the Book of Mormon in style and content](https://wordtreefoundation.github.io/thelatewar/).  It contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), like the Book of Mormon, and it also contains many [similar Hebraisms](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
