@@ -2,6 +2,18 @@
 
 These are primary resources on the Black Priesthood/Temple ban.
 
+## The 1940 First Presidency Statement
+
+A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) declared:
+
+> The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
+
+## The 1969 First Presidency Letter
+
+A [1969 First Presidency letter](https://archive.org/stream/improvementera7302unse#page/n71/mode/2up) stated:
+
+> Our living prophet, President David O. McKay, has said, "The seeming discrimination by the Church toward the Negro is not something which originated with man; but goes back into the beginning with God...Revelation assures us that this plan antedates man's mortal existence, extending back to man's preexistent state."
+
 ## The 1964 Stapley-Romney Letter
 
 A letter that George Romney received in 1964 (when Romney was governor of Michigan) from Elder Delbert L. Stapley.  Incidentally, in the months after receiving this letter, Romney stepped up his support for civil rights.
