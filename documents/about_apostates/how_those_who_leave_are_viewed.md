@@ -451,6 +451,12 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 
 [From here](https://www.reddit.com/r/exmormon/comments/5psdd3/religion_professor_at_byu_i_claimed_in_class/)
 
+### are literally possessed by Satan and may try to cast him out
+
+> When we told my wife's family that we were leaving the Mormon church, my father-in-law raised his arm to the square and used his ... priesthood to cast Satan out of me ... Didn't work...
+
+[From here](https://www.reddit.com/r/exmormon/comments/6go6zx/when_we_told_my_wifes_family_that_we_were_leaving/)
+
 ## Attitude towards those who stay but do not believe
 
 Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.[^fromtruthwillprevail]  These people are referred to as "wolves in sheeps clothing".
