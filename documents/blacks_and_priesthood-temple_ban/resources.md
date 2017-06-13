@@ -2,7 +2,7 @@
 
 These are primary resources on the Black Priesthood/Temple ban.
 
-## The 1940 First Presidency Statement
+## The 1949 First Presidency Statement
 
 A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) declared:
 
