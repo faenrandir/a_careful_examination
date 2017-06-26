@@ -24,6 +24,6 @@ I assert that _every_ theological doctrine and motif advanced in the Book of Mor
 11. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
 12. [The Book of Mormon and 12 points of Pelagius](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf)
 13. [Echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/echoes/echos_of_1800s.pdf)
-14. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/), [15](https://mormonmemo.com/key-topics/book-of-mormon/#Part 4) (see FST-15--FST-21)
+14. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
 15. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part 4)
 16. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
