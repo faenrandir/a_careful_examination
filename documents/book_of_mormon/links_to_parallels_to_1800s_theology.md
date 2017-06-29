@@ -28,3 +28,4 @@ I assert that _every_ theological doctrine and motif advanced in the Book of Mor
 1. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part+4)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
+1. [Digging in Cumorah (Mark D. Thomas)](http://signaturebookslibrary.org/digging-in-cumorah/)
