@@ -58,17 +58,18 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 
 * [LDS Essay - "Race and the Priesthood"](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) (lds.org)
 * [Race and the Priesthood - Response to LDS.org](http://www.mormonthink.com/essays-race-priesthood.htm)
+* [thoughtsonthingsandstuff.com response to 3 Mormons "Blacks and the Priesthood"](http://thoughtsonthingsandstuff.com/response-to-3-mormons-on-blacks-and-the-priesthood/)
 
 ## 5. Joseph Smith's polygamy is ethically problematic
 
-The manner in which Joseph Smith practiced and spoke about polygamy [was deceptive](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/polygamy/denials/definitions.pdf) and at least some of his proposals involved [undue influence](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html).
+The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals involved undue influence.[^undueinfluence]
 
 In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hales-polygamy-and-polyandry/), the most faithful LDS apologists on polygamy recounted the feelings of reviewers of their recent book on the topic: "At the end of the book [the book reviewer] didn't get a warm fuzzy feeling and that's not really something we think we can deliver with this topic."
 
 * Joseph [frequently misled others about practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).
 * Joseph was [sealed twice to the Partridge sisters](https://imgur.com/a/oscY6) in order to hide the first sealing from Emma.
 * Joseph promised a 14 year old girl---one [who said](https://en.wikipedia.org/wiki/Helen_Mar_Kimball) "I hated polygamy with my heart"---that, [in her own words](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/b7b8c5ae69bc11c1171ccc7c94517b537b9656c5/documents/polygamy/HMK-1881-Autobiography/Helen-Mar-Kimball-Whitney-1881-Autobiography.pdf), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
-* After other failed proposals to Zina Huntington, Joseph messaged the [seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young)---happily newlywed to Jacob Huntington---the he (Joseph) had "put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
+* After other failed marriage proposals to Zina Huntington, Joseph Smith proposed again to the [happily newlywed, seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young): "I [Joseph] have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
 
 **More**:
 
@@ -83,3 +84,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 See [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/)
 
 [^hales]: Brian Hales very cursorily responded to this document; Here is [my response to his cursory thoughts](https://www.reddit.com/r/mormon/comments/5wp96c/my_response_to_brian_hales_comment_on_five_key/).  I have altered the presentation of a few points based on this and other exchanges and appreciate his feedback.
+
+[^deception]: The word "deceptive" was chosen because [it is the most precise word to describe Joseph Smith's polygamy denials](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
+
+[^undueinfluence]: See [The Belmont Report on Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) for a discussion of what typically constitutes "undue influence."

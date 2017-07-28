@@ -7,6 +7,7 @@
 
 ### More significant summaries
 
+* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive)
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
