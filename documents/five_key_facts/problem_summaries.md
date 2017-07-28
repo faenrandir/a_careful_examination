@@ -7,7 +7,7 @@
 
 ### More significant summaries
 
-* [For My Wife and Children](https://drive.google.com/file/d/0B18W3AgWXw6zLXNkRjE3Z3drLWM/view) (almost all LDS approved sources)
+* [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
