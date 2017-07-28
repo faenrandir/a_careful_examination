@@ -103,7 +103,7 @@ The seventh temple recommend question is a good example of this attitude general
 
 Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned (or their likelihood of excommunication for openly disagreeing with the Church[^excommunicationexamples]). 
 
-Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]
+Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]  The tension between avoiding those who speak openly about their disbelief (and protecting others from their influence) and loving and accepting those individuals is demonstrated in the 2017 FairMormon panel discussion [Family Members Who Left](https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left).
 
 ## Moving Forward
 
@@ -117,6 +117,16 @@ In another article [defending religious dialog](http://www.mormonnewsroom.org/ar
 because they no longer accept the truth-claims:
 
 > It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that ‘truth will cut its own way’ and love will eventually win out in the contest of ideals.
+
+## Other relevant perspectives
+
+These resources address---from a variety of viewpoints---the question of how Latter-day Saints should treat or respond to former or dis-believing members or otherwise discuss the topic of shunning in the LDS Church.
+
+* [Do Mormons “Shun” Former Members of the Church?](https://reallywanttoknow.wordpress.com/2012/07/03/do-mormons-shun-former-members-of-the-church/)
+* [LDSLiving Commentary: To Mormons - Is shunning something we still do in 2012?](http://www.ldsliving.com/Commentary-To-Mormons-Is-shunning-something-we-still-do-in-2012-/s/68027)
+* FairMormon 2014 Panel Discussion: [Family Members Who Left](https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left)
+* Rex Pinegar's 2015 FairMormon presentation: [How to help young Latter-day Saints deal with criticisms against the Church and the doubts they cause while remaining faithful](https://www.fairmormon.org/conference/august-2015/how-to-help-young-latter-day-saints)
+* Patrick Mason's 2016 FairMormon presentation: [The Courage of Our Convictions: Embracing Mormonism in a Secular Age](https://www.fairmormon.org/conference/august-2016/courage-convictions)    
 
 
 [^shundefinition]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  The most extreme examples of shunning come from some religious communities (Amish, Jehovahs Witnesses) who *formally* avoid speaking with those who have left the faith.  Besides excommunication and disfellowshipment (which are far more mild than the formal shunning in these other faiths) Mormons do not *formally* shun anyone.  *General avoidance* and the avoidance of talking about truth-claim issues and/or a person's new beliefs is how I am using the word "shun" in this document.  The usage seems justified given how Asay uses the term "shun" and Ballard urges members to "flee".  Shunning need not be formally imposed to still qualify as shunning.
