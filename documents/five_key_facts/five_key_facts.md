@@ -11,7 +11,8 @@ Joseph refers to Egyptian characters in specific locations on facsimile 3 and [h
 * [The Joseph Smith Papyri](https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be) (youtube)
 * [The Book of Abraham: Criticisms, Defenses, and Implications](https://www.dropbox.com/s/tz1iy4q7w39wvor/The%20Book%20of%20Abraham%20Criticisms%20Defenses%20and%20Implications.pdf)
 * [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
-* [A response to "Translation and Historicity of the Book of Abraham"](http://signaturebooks.com/a-response-to-translation-and-historicity-of-the-book-of-abraham-by-dr-robert-ritner/) (Dr. Robert Ritner)
+* [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
+
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
