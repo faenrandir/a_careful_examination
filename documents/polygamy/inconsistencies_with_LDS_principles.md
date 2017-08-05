@@ -10,7 +10,7 @@ There appear to be major inconsistencies between how Joseph Smith practiced poly
 
 4. Why did Joseph Smith get sealed to other righteous men's wives? (Jacob Huntington, Orson Hyde)
 
-5. If Joseph was pressured into polygamy by an angel with a drawn sword, why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?
+5. If Joseph was pressured into polygamy by an angel with a drawn sword, why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?  Also, it seems like there were many more pressing points in the history of the Church where divine direction was warranted--why did this angel only intervene with polygamy?
 
 6. What justified Joseph's sealing to a _happily_ newlywed, pregnant mother from a theological standpoint?
 
@@ -22,7 +22,7 @@ There appear to be major inconsistencies between how Joseph Smith practiced poly
 
 10. Why did Joseph threaten other leaders that they would lose their apostleship if they didn't take plural wives?
 
-11. After being sealed to Patty Sessions, whose husband was a faithful Latter-day Saint, Joseph Smith was later sealed to her daughter, Sylvia Sessions, whose husband was also a faithful Latter-day Saint.  Why did Joseph need to be sealed to the daughter if he was already sealed to the mother?
+11. After being sealed to Patty Sessions, Joseph Smith was later sealed to her daughter, Sylvia Sessions.  Why did Joseph need to be sealed to the daughter if he was already sealed to the mother?
 
 12. What made it okay for Joseph Smith (and other early leaders) to repeatedly lie about their practice of polygamy (JS directly or implicitly denied practicing polygamy 5 times in his own words, and was responsible for 3 additional direct denials).
 

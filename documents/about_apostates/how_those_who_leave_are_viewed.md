@@ -252,6 +252,18 @@ D. Todd Christofferson, [Finding Your Life](https://www.lds.org/ensign/2016/03/f
 
 Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
+### are not loved by the Lord, Angels, or Saints and are despised by Satan
+
+> I heard of one man who came here twenty years ago, who stayed a few years and got more property than he ever had before, then sold it, and went to California, feeling and believing that he had worked long enough for the Lord, and that henceforth he would work for himself. The last I heard of him he was in poverty, distress, and disgrace. Loved of the Lord? No; if the Lord did not hate him, he did not love him. Angels did not love him, Saints did not love him, and the devil despised him, as he does all apostates.
+
+Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.byu.edu/jod/jodhtml.php?vol=12&disc=20)
+
+### are despicable, are traitors, are not respected, have little honesty, and betrayed their friends
+
+> If there is a despicable character on the face of the earth, it is an apostate from this Church. He is a traitor who has deceived his best friends, betrayed his trust, and forfeited every principle of honor that God placed within him. They may think they are respected, but they are not. They are disgraced in their own eyes. There is not much honesty within them; they have forfeited their heaven, sold their birthright, and betrayed their friends.
+
+Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.byu.edu/jod/jodhtml.php?vol=12&disc=20)
+
 ### may be put out of existence (implied)
 
 > With all my heart I implore those who are walking on the fringes of our faith to seek the safety of the center. This can be done best by counseling with your leaders and remaining within the fellowshipping circle of the Saints, and receiving nourishment from the good word of God. Do not permit faithless people to turn you out of the right way or to put you out of existence. (See Moro. 6.)
