@@ -32,7 +32,7 @@ Luna Lindsey [provides an excellent introduction to thought-reform](http://recov
 > * the creation of dependency on the group for social and psychological fulfillment
 > * the instillment of emotions like fear and guilt to keep members from leaving.
 
-To draw a distinction from more overt methods of influence (i.e., "brainwashing"), the kind of influence engaged in by totalistic groups (those with powerful and sweeping ideologies) is often referred to as "thought-reform".
+Researchers generally use the term "thought-reform" when speaking about the kind of influence engaged in by totalistic groups (those with powerful and sweeping ideologies), and that is the term I will use in the remainder of this document make clear the _type_ of brainwashing to which I am referring.
 
 ## Lifton's 8 thought-reform themes 
 
@@ -53,7 +53,7 @@ The 8 themes [outlined by Lifton](https://archive.org/stream/ThoughtReformAndThe
 
 ## LDS teachings or practices evidencing Lifton's themes
 
-Below are teachings and/or cultural practices of the LDS Church which may be considered as fulfilling one or more of Lifton's 8 themes.  Note that counter-examples and [alternative mindsets also exist within the LDS Church](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/), so these examples should also be weighed in their broader context when possible.  The list is non-exhaustive (many additional examples exist), but should adequately demonstrate the themes:
+Below are teachings and/or cultural practices of the LDS Church which may be considered as fulfilling one or more of Lifton's 8 themes.  Note that counter-examples and [alternative mindsets also exist within the LDS Church](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/), so these examples should be weighed in their broader context when possible.  The list is non-exhaustive (many additional examples exist), but should adequately demonstrate the themes:
 
 1. [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/) (demand for purity, milieu control)
 1. Bishops may ask very probing questions about sexuality, particularly to those about to serve a mission ([example](https://www.reddit.com/r/exmormon/comments/6aotgt/list_of_questions_a_bishop_asks_premissionaries/)). (demand for purity, milieu control)
@@ -109,13 +109,13 @@ Below are teachings and/or cultural practices of the LDS Church which may be con
 1. Misleading members about the connection [between Lorenzo Snow, tithing, and rainfall](http://mormonarts.lib.byu.edu/works/windows-of-heaven). (milieu control)
 1. Secrecy with and surrounding the temple ceremony ([example1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq)) (milieu control)
 
-The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Control](http://recoveringagency.com/), gives additional examples and perspective on the topic.  In addition, [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/) offers perspective on how a practitioner of any religion may ensure they are not succumbing to thought-reform / brainwashing.
+The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Control](http://recoveringagency.com/), gives additional examples and perspective on the topic.  In addition, [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/) offers perspective on how a practitioner of any religion may ensure they are not succumbing to thought-reform.
 
 ## Some cautions
 
 Several caveats and some aditional perspective ought to be rehearsed:
 
-1. Admittedly, more extreme examples of thought-reform methods are present in more extreme totalistic groups.  However, the question I was addressing was not "Are LDS followers subjected to _extreme_ brainwashing?" but rather are they subjected to it _at all_?
+1. Admittedly, more extreme examples of thought-reform methods are present in more extreme totalistic groups.  However, the question I was addressing was not "Are LDS followers subjected to _extreme_ thought-reform?" but rather are they subjected to it _at all_?
 2. Comparing LDS teachings or practices to those of the early Church (i.e., that practiced by Jesus and the apostles) does not necessarily exonerate the LDS Church because the early Church itself may have been using some of the same techniques or themes associated with thought-reform (see, for example, [2 John 1:7-11](https://www.biblegateway.com/passage/?search=2+John+7-11&version=KJV)).
 3. A person's LDS experience may differ depending on when they joined the LDS Church and in which unit(s) they experienced LDS living.
 4. It is unlikely that any of these practices or attitudes were "designed" with thought-reform in mind---thought reform techniques evolve in tandem with strong totalistic missions and tend to be effective so they are naturally selected for within high-demand and totalistic groups.  In addition, these themes or techniques are often implemented and encouraged by the members themselves (not necessarily imposed in a top-down fashion).
