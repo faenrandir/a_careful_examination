@@ -57,7 +57,7 @@ Below are teachings and/or cultural practices of the LDS Church which may be con
 
 1. [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/) (demand for purity, milieu control)
 1. Bishops may ask very probing questions about sexuality, particularly to those about to serve a mission ([example](https://www.reddit.com/r/exmormon/comments/6aotgt/list_of_questions_a_bishop_asks_premissionaries/)). (demand for purity, milieu control)
-1. Bishops may ask children as young as 8 years old if they touch themselves ([example](https://bishopsinterview.blogspot.com/?view=classic&m=1)). (demand for purity, milieu control)
+1. Bishops may ask children as young as 8 years old if they touch themselves ([example](https://bishopsinterview.blogspot.com/?view=classic&m=1), [recording](https://www.youtube.com/watch?v=GHdw10y8ABM&t=3s)). (demand for purity, milieu control, doctrine over person)
 1. Bishops may conduct frequent and invasive interviews at their discretion and may use social media to find evidence of indiscretion ([example](https://github.com/faenrandir/a_careful_examination/blob/dd4835cb764c1bc66327645831172705a472684e/documents/threefold-nature-of-the-church/supporting_material/invasive_interviews.md)).
 1. In his [talk to CES teachers](https://si.lds.org/bc/seminary/content/library/talks/ces-symposium-addresses/the-mantle-is-far-far-greater-than-the-intellect_eng.pdf) Boyd K. Packer instructed (milieu control):
 
@@ -84,7 +84,12 @@ Below are teachings and/or cultural practices of the LDS Church which may be con
 1. Members are taught to pray morning and night individually, with their family, and with their spouses, and study their scriptures daily. (milieu control)
 1. Members attend a minimum of 3 hours of Church each Sunday (not counting other meetings like nightly "firesides"), and youth attend a mid-week activity every week. (milieu control)
 1. Members are to listen to 10 hours of instruction from Church leadership each half year and carefully review that instruction. (milieu control)
-1. Leaders regularly attribute supernatural influence to events others would likely view as natural.  See examples from [Thinker of Thoughts](https://www.youtube.com/watch?v=Ph98bvd_DMU). (mystical manipulation)
+1. Examples and discussion of [milieu control](https://www.youtube.com/watch?v=D7HFSClydA0).
+1. Examples of [blame reversal](https://www.youtube.com/watch?v=SoSyBBBtZgY). (doctrine over person)
+1. Examples of [shunning and indirect directives](https://www.youtube.com/watch?v=Oay00rMcIWI&list=PLevx2DAlF-YBazPpn-110Ft0AsC01MrkY&index=8). (doctrine over person, dispensing of existence)
+1. Examples of being [bound by eternal covenants](https://www.youtube.com/watch?v=W989ZgIaD3g). (doctrine over person, demand for purity)
+1. [Discussion of the General Conference talk "Whatsoever he saith unto you, Do it."](https://www.youtube.com/watch?v=CaqRgMqvie8) (doctrine over person, sacred science)
+1. Leaders regularly attribute supernatural influence [to events others would likely view as natural](https://www.youtube.com/watch?v=Ph98bvd_DMU). (mystical manipulation)
 1. Members regularly attribute natural phenomena to the efficacy of prayer ([example](https://imgur.com/m8UmESh)) (mystical manipulation)
 1. The importance of keeping the commandments is repeatedly emphasized in Latter-day Saint culture, and there is an [extensive list of do's and do not's](http://recoveringagency.com/articles/list-of-lds-commandments/) that members are expected to always be striving to achieve.  Members fall short in various ways and hence are often made to feel [perpetually inadequate](http://recoveringagency.com/articles/the-methods-of-thought-reform/demand-for-purity-perpetual-inadequacy/) (demand for purity)
 1. All major sins [must be confessed to one's LDS leader](https://www.lds.org/new-era/2013/10/why-and-what-do-i-need-to-confess-to-my-bishop?lang=eng).  A leader, at their discretion, _may_ ask an individual to reconfess _all_ past sins to whatever previous point in time they deem relevant ([for example](https://brettsbigbadblog.blogspot.com/2017/06/lds-temple-cancellation-and-clearance.html), "'all transgressions' committed since your first sealing, even those that have already been resolved by church authorities"). (confession)
@@ -109,7 +114,7 @@ Below are teachings and/or cultural practices of the LDS Church which may be con
 1. Misleading members about the connection [between Lorenzo Snow, tithing, and rainfall](http://mormonarts.lib.byu.edu/works/windows-of-heaven). (milieu control, mystical manipulation)
 1. Aspects of the temple are obfuscated or kept secret from the uninitiated.([example 1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example 2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq)) (milieu control)
 
-The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Control](http://recoveringagency.com/), gives additional examples and perspective on the topic.  In addition, [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/) offers perspective on how a practitioner of any religion may ensure they are not succumbing to thought-reform.
+The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Control](http://recoveringagency.com/), gives additional examples and perspective on the topic.  "Thinker of Thoughts" has produced many videos (some with Luna Linsey) exploring aspects of thought-reform and undue influence within the LDS Church (for example, [parallel concepts with scientology](https://www.youtube.com/playlist?list=PLevx2DAlF-YBazPpn-110Ft0AsC01MrkY) and [undue influence in Oct 2015 General Conference](https://www.youtube.com/playlist?list=PLevx2DAlF-YDCOcCRWFWDmZesrQe5K0zJ)).  Finally, [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/) offers perspective on how a practitioner of any religion may ensure they are not succumbing to thought-reform.
 
 ## Some cautions
 
