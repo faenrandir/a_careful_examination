@@ -1,5 +1,7 @@
 # Does the LDS Church brainwash?
 
+_NOTE: I'm still researching the acceptance of Lifton's theory and other potential models for studying persuasion.  The field is highly polar and little consensus exists ([example 1](https://en.wikipedia.org/wiki/APA_Task_Force_on_Deceptive_and_Indirect_Methods_of_Persuasion_and_Control), [example 2](https://web.archive.org/web/20001203192600/http://linguafranca.com/9812/allen.html)).  Until the legitimacy and suitability of this model can be verified, this document is merely a draft, and I may trash it in the future._
+
 ## Introduction
 
 In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/), Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) (emphasis added):
