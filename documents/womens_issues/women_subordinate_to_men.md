@@ -29,6 +29,10 @@ Elder Ballard [recently taught](https://www.youtube.com/watch?v=WSWPrzICnlQ) in 
 
 This was originally posted on lds.org at this address: "https://www.lds.org/broadcasts/watch/europe-area-sisters-meeting/2014/09?lang=eng" but it was subsequently pulled.
 
+### Storm relief
+
+Women were [excluded from at least some hurricane Harvey cleanup efforts](https://www.reddit.com/r/exmormon/comments/6wrq0b/women_not_welcome/), even though males as young as 16 were included.
+
 ### Measuring equality
 
 Measurements of equality confirm that women are considered subordinates in the LDS Church.  Kate Kelly [articulated](http://www.dovesandserpents.org/wp/2013/10/equality-is-not-a-feeling/) the difference between feelings of equality and measurements of equality:
