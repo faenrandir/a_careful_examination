@@ -94,7 +94,7 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 ### become darkened in their minds like a drunk
 
-"You have known men who, while in the Church, were active, quick and full of intelligence; but after they have left the Church, they have become contracted in their understandings, they have become darkened in their minds and everything has become a mystery to them, and in regard to the things of God... This is precisely the position of those who leave this Church; they go into the dark, they are not able to judge, conceive or comprehend things as they are. They are like the drunken man..."
+> You have known men who, while in the Church, were active, quick and full of intelligence; but after they have left the Church, they have become contracted in their understandings, they have become darkened in their minds and everything has become a mystery to them, and in regard to the things of God... This is precisely the position of those who leave this Church; they go into the dark, they are not able to judge, conceive or comprehend things as they are. They are like the drunken man...
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
