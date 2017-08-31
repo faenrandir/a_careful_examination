@@ -25,7 +25,7 @@ If any question contains incorrect information or is misleading in any way, plea
 
 ### Polyandry
 
-1. For what purpose did Joseph Smith get sealed to other righteous men's wives? (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/), [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/))
+1. For what purpose did Joseph Smith get sealed to other righteous men's wives? (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/), [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/marinda-nancy-johnson/))
 
 1. What justified Joseph's sealing to a _happily_ newlywed, pregnant mother from a theological standpoint (referring to Zina Huntington)? ([wiki: Zina DH Young](https://en.wikipedia.org/wiki/Zina_D._H._Young))
 
