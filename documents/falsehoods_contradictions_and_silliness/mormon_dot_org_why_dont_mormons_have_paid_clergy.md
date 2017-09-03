@@ -86,3 +86,39 @@ Susie answered...
 > We each try to follow the teachings of an ancient prophet who taught that when we are baptized we "are willing to bear one another's burdens, and comfort those that stand in need of comfort." (Book of Mormon, Mosiah 18:8-9).
 
 > Through our volunteer service, members lift one another's burdens and express our love to one another.
+
+## Other profiles that answered the question
+
+
+Other mormon.org profiles answered the question "Why don't Mormons have paid clergy?"  As many answers to the question I could find were reproduced below. (Retrieved 2017-09-02)
+
+[Eric](https://www.reddit.com/r/exmormon/comments/5n85oo/i_asked_the_mormon_chat_missionaries_if_any/)
+
+> Again the simplest answer is that we do not have a paid clergy because god told us we should not have a paid clergy. Beyond that I see real drawbacks in a church having a paid clergy. here are some that have concerned me ofer the years:
+
+> When there is no paid clergy everyone is required to atain a levelof doctrinal understanding sufficient to preach the sunday sermon or teach the various lessons at church, with a paid clergy the congregants are allowed to neglect this relationship with God as they know they have a preacher to do this work for them. 
+
+> We received the gospel from Christ and his prophets free of charge to sell what they gave us to make a living seems like stealing, or at least defrauding. Everyone is a child of God and as such has a right to the gospel that he freely gave us. Did not the profet refuse Namon's payment for makeing him clean?
+
+> If we are not allowed to work on behalf of the Lord, to serve him how will we be his servants? Did he not send all his disciples unto all the world, not just the 12 apostles? Doesn't a paid clergy rob me and the other congregants of the opportunity to serve God with all our hearts, mights, minds and strengths?
+
+> If it was not wise for Moses to judge all of israel by himself, why would it be wise for the paid clergy to serve the congregation by themselves?
+
+> It seems to me that the paid clergy through their common educational experience, of neccessity, have a lack of diversity of perspective on the gospel and this leads to dogma
+
+[Caleb](https://www.mormon.org/me/3QPY/Caleb)
+
+> Our lives are enriched greatly by not having a paid clergy. Because we do not have paid clergy, each member of the church has opportunities to learn and serve. It's true that we are able to build friendships through this interaction, but there's a more important aspect to this as well.
+
+> Because we take turns teaching, we have greater reason to study and apply the scriptures in our lives. As we do this we gain a clearer understanding of our Heavenly Father and our relationship with Him. 
+Along these same lines, we are able to have spiritual experiences through our service and ministering to each other that we would miss out on were we to rely on a paid clergy.
+
+[Zachary](https://www.mormon.org/me/CQFC/ZacharySeanRychlik)
+
+> Latter Day Saints, or Mormons, do not have paid clergy for one particular reason. We don't have paid clergy because that is not the way that Christ set up His Church during his Ministry. When the Apostles were called, they had jobs as common people, whether it be bankers or fishermen. Christ did not set up a way to pay these men and women, due to the fact that He did not want them to be paid. In the modern day church, we do not have paid clergy for that same exact reason. Furthermore, we do not pay them because everything in the Church is volunteer and people learn to willingly serve their fellow man.
+
+[Jesse](https://www.mormon.org/me/4MX4/Jesse)
+
+> Our Church has no paid clergy because Christ never intended His Church to have a paid clergy. When he was on the earth, in Jerusalem, he received no pay for his ministry, and expected his Apostles to do the same. In the restored Church of Jesus Christ, it is the same organization as when Christ was on the earth 2000 years ago.
+
+[working to scrape other profiles]

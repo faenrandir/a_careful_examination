@@ -75,9 +75,9 @@ At least to this point, I have found that the contours of life and friendship re
 
     > The honest investigator must be prepared to follow wherever the search of truth may lead. Truth is often found in the most unexpected places. He must, with fearless and open mind 'insist that facts are far more important than any cherished, mistaken beliefs.'
 
-[^makingsense]: For instance, now that I'm outside the Church, I feel like I better understand [the main motivating mindsets](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/) at play in the Church.
-
 [^relationshipcommonground]:  The Church provides a huge swath of common ground upon which many relationships are built.  Hence, it makes sense that the disruption of this common ground (at least in some part) results in the unsettling of many relationships in proportion to the importance of it to the relationship (which is often not appreciated beforehand).  In addition, the manner in which a faith transition influences a relationship is highly contingent upon [the mindset of the Church member](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)---those with an individual growth mindset will likely view the change favorably or at least in neutral terms, while those with more of a totalistic mindset will be inclined to sever the relationship to avoid risking loss of testimony due to association.  The relationship outcome is, of course, also dependent on the posture/attitude of the person transitioning (e.g., do they present a threat to testimony?).
+
+[^makingsense]: For instance, now that I'm outside the Church, I feel like I better understand [the main motivating mindsets](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/) at play in the Church. [I am bwv549]
 
 [^dedicated]:  An example of my level of devotion was that I had my brother at home throw away my entire "secular" music collection (which I had greatly valued before) because I did not want any distractions to my spiritual development.  I also convinced all my younger siblings to throw away all (well, most) of their "secular" music.
 

@@ -1,22 +1,14 @@
-[very rough draft form]
-
-**I'm looking for feedback and help fleshing this out.  This is probably biased towards statements suggesting unpaid clergy (which is why I performed the search analysis).  Even that is probably biased, so I am seeking quotes and search terms which would support the position that living allowances were commonly disclosed and/or openly discussed.**
-
-edit: 2017-03-12 - shuffled order and reworked several sections.  Linked to /u/curious_mormon 's anlaysis, added many of the quotes he gathered, re-raised the key point he made from that post.  Corrected Mormon Doctrine -> Encyclopedia of Mormonism and added mission president entry.
-
----
-
 ## Introduction
 
-As part of its effort to bring a certain level of transparency to the LDS Church, MormonLeaks may be dealing in information that was acquired unethically (i.e., a person may have broken non-disclosure agreements or taken documents they did not have permission to take or approval to disclose).  In large part, an [ethical analysis of MormonLeaks](https://www.reddit.com/r/mormonscholar/comments/5yfhi7/mormonleaks_seeking_ethical_analysis/) hinges on determining to what extent harm is being inflicted on Church members or investigators by not being aware of certain operating procedures and information which LDS leaders do not disclose to its membership.  Analyzing the impact of the information that has been leaked thus far seems to be an important component in determining if MormonLeaks[^and_similar_efforts] is ethically justified.
-
-In early 2017, the salary/stipend of General Authorities was leaked.  The Church owned [Deseret News stated](http://www.deseretnews.com/article/865670786/MormonLeaks-dumps-four-new-documents-about-LDS-Church.html):
+In early 2017, the salary/stipend amount of LDS General Authorities (GAs) [was leaked](https://mormonleaks.io/newsroom/2017-01-09-mormonleaks-releases-4-documents/).  The Church owned [Deseret News stated](http://www.deseretnews.com/article/865670786/MormonLeaks-dumps-four-new-documents-about-LDS-Church.html):
 
 > The church long has been transparent about providing living allowances to General Authorities
 
-I am interested in establishing the extent to which the above statement is true and the extent to which members believed, before the leak, that GAs received a living allowance.  Part of that analysis involves examining statements made by the Church and it's leaders on the topic.  I begin by seeking to gather every statement made by the Church or leaders that seems relevant to perceptions about General Authority living allowances.  Then, I perform searches on lds.org to determine the extent to which particular phrases are used in Church publications/materials.
+While technically accurate (the practice of compensating GAs _was_ disclosed in 1985 in the male-only Priesthood session of General Conference), the question remains as to how broadly transparent the LDS Church has been with leadership compensation.  How often are members or journalists led to believe that the Church pays no one, and how often is GA compensation explicitly mentioned?
 
-## Comprehensive collection of statements
+This document seeks to establish the extent to which the LDS Church has been transparent in providing living allowances to General Authorities.  First, I present every statement made by the Church or leaders that seems relevant to perceptions about General Authority living allowances.  Second, I conduct several searches on lds.org using relevant phrases to determine the extent to which the search results provide transparency.  Next, I examine a series of linked LDS Newsroom articles discussing the LDS Church's unpaid clergy to show the extent to which, in practice, the LDS Church is transparent with GA compensation.  Finally, I reference anecdotes demonstrating that members themselves frequently taught that no one (including the General Authorities) were paid.
+
+## Statements by LDS leaders and official sources
 
 ### Explanation *after* the salary/stipden leak
 
@@ -58,7 +50,7 @@ I am interested in establishing the extent to which the above statement is true 
 
 *As noted [by reddit user curious_mormon](https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/), many of these statements are particularly problematic since the person making them was receiving a stipend at the time they made the statement.*
 
-> In the Church of Jesus Christ of Latter-day Saints there is no paid ministry, no professional clergy , as is common in other churches.
+> In the Church of Jesus Christ of Latter-day Saints there is no paid ministry, no professional clergy, as is common in other churches.
 
 ---Boyd K. Packer, March 23, 1965, BYU Speeches of the Year, reprinted in September 1979 Ensign. ["Follow the Brethren"](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng)
 
@@ -228,11 +220,12 @@ I am interested in establishing the extent to which the above statement is true 
 
 ---Mormon Newsroom, August 2012. [Mormon Lay Ministry: An Opportunity to Serve](http://www.mormonnewsroom.org/article/mormon-lay-leadership)
 
-*The following article, "intended to help journalists, opinion leaders and the public better understand the structure of local ministration" talks explicitly about unpaid local clergy and directs visitors to other articles on General Authorities; however, those articles do not mention GA living allowances.*
 
 > He chose Peter, a fisherman, and Matthew, a tax collector, and later Paul, a tentmaker. Each was chosen from the rank and file—in essence, it was a lay ministry.
 
 ---Tad R. Callister, CES Devotional, January 2014. [What Is the Blueprint of Christ's Church?](https://www.lds.org/broadcasts/article/ces-devotionals/2014/01/what-is-the-blueprint-of-christs-church?lang=eng)
+
+*The following article, "intended to help journalists, opinion leaders and the public better understand the structure of local ministration" talks explicitly about unpaid local clergy and directs visitors to other articles on General Authorities; however, those articles do not mention GA living allowances.*
 
 > The Church of Jesus Christ of Latter-day Saints functions in large measure because of the unpaid volunteer ministry of its members. In fact, this lay ministry is one of the Church's most defining characteristics. In thousands of local congregations...
 
@@ -246,7 +239,7 @@ I am interested in establishing the extent to which the above statement is true 
 
 I performed searches of various terms relevant to General Authority living allowances to see how widely and in what manner the Church disburses information on GA allowances.
 
-*Searches were performed in the lds.org search bar on 2017-03-09 and 2017-03-10*
+_Searches were performed in the lds.org search bar on 2017-03-09 and 2017-03-10_
 
 * **"living allowance" or "living allowances"** --- 5 distinct sources: 1) The D&C and Church History Seminary Teacher Manual [two quotes] 2) The home study lesson manual, 3) the quote about new mission presidents (mission presidents), and 4) the story in a BYU speech by Derrick (mission presidents). 5) Questions and Answers (living allowance given the GAs)
 * **"living stipend"** --- zero hits related to GA allowances.
@@ -263,23 +256,56 @@ From a search of the 4 phrases shown above, we can sum up the relative disbursem
 * **One** makes the proper technical distinction about local leaders salaries but may also be mis-construed that all leaders are unpaid.
 * **One** clearly indicates that a Bishop is unpaid.
 
+### LDS Newsroom obfuscation
+
+Statements on the LDS Newsroom about the lay, unpaid ministry appear to be carefully worded so as to lead readers unfamiliar with the compensation of General Authorities to mistakenly assume that LDS General Authorities are unpaid.[^newsroomretrievaldate]
+
+When visiting the page [The Church's Unpaid Clergy](http://www.mormonnewsroom.org/blog/the-church-s-unpaid-clergy) we find this nominally accurate---but somewhat misleading---verbiage:
+
+> [members'] service is critical at the local level because the Church has no full-time paid clergy.
+
+This phrase is interesting because it _begins_ with the qualifying condition that "service is critical at the local level" but it ends with the all-inclusive and leading phrase "because the Church has no full-time paid clergy."
+
+Later, the article states:
+
+> Elder M. Russell Ballard of the Church's Quorum of Twelve Apostles spoke on the concept of an unpaid volunteer ministry:
+
+> "The Lord in His infinite wisdom has designed His Church to operate with a lay ministry. That means we have been charged to watch over one another and to serve one another..."
+
+If we click on the link "[no] full-time paid clergy" we find [an article on Lay Priesthood](http://www.mormonnewsroom.org/topic/lay-priesthood) where we learn the "local congregational leader... earns his own living and receives no pay of any kind for his service in the Church."  Below that, we find a link to the article [Lay Leadership: Volunteer Ministry of the Church](http://www.mormonnewsroom.org/article/mormon-lay-ministry).  This article is "intended to help journalists, opinion leaders and the public better understand the structure of local ministration and leadership within The Church of Jesus Christ of Latter-day Saints." and includes a very nice infographic entitled "Lay Leadership: Volunteer Ministry of The Church of Jesus Christ of Latter-day Saints" summarizing duties of the Stake Presidency on down to ward auxiliaries and individuals.  The article states:
+
+> The Church of Jesus Christ of Latter-day Saints functions in large measure because of the unpaid volunteer ministry of its members. In fact, this lay ministry is one of the Church’s most defining characteristics.
+
+The end of the article has a link to learn more about global general authorities:
+
+> The Church also has global general authorities and general auxiliary leaders. Read more about their various offices and responsibilities.
+
+Clicking on that link takes the reader to [a bulleted list of links to visit information pages of various General Authority and Auxiliary offices](http://www.mormonnewsroom.org/article/general-authorities-of-the-church).  Working through all 12 links provided and searching for the phrases "stipend", "allowance", "paid", "compensated", or "salary" yields no results---these pages completely avoid the topic of compensation.  So, whether deliberately or through oversight, the LDS Newsroom:
+
+* states that the LDS Church "has no full-time paid clergy"
+* quotes Elder Ballard saying "The Lord ... has designed His Church to operate with a lay ministry"
+* and states that the Church "functions in large measure because of the unpaid volunteer ministry of its members"
+
+but it never divulges that global leadership receives a significant "allowance" associated with their service. The qualifier "local" is sometimes used, but never in a manner to exclude the possibility that GAs are paid.  A member or journalist who is unaware of GA allowances would not likely conclude that GAs are paid based on their traversal of these pages---many of which are dedicated exclusively to the topic of (un-)paid clergy.
+
+## Member teachings and beliefs
+
+[Represented through ~900 mormon.org member profiles containing an answer to the question "Why don't Mormons have paid clergy?" and a few other off-hand anecdotes, for example online chats with missionaries]
+
 ## Discussion
 
-[still need to highlight quotes that are directly contradictory]
+[need to highlight quotes that are directly contradictory; need to present percentages]
 
-Based on a comprehensive analysis of statements related to GA living allowances and a search results analysis performed on lds.org, it seems that *many* members were likely to have concluded that all General Authorities receive a living allowance.
-
-Several anecdotes exist that appear to confirm that at least *some* missionaries were unaware that General Authorities are given a stipend ([Jan 10, 2017 conversation with missionaries](https://www.reddit.com/r/exmormon/comments/5n85oo/i_asked_the_mormon_chat_missionaries_if_any/), example2 (screenshot that I haven't been able to relocate)).
-
-Given a member's likely access to source material (i.e., most members will either not have been exposed to or will not remember an off-hand statement from their seminary teacher; only males older than 44 years old would have been present in the 1985 Priesthood Session), I conclude that in the past 30 years, a member was more likely to stumble on material suggesting all leaders are unpaid than material suggesting they all are paid.  Still, once a person understands that GAs are given a living allowance then all other statements will likely be interpreted in that light, and this makes the analysis more complex and suggests that even with limited statements indicating a living allowance, many members were likely aware of the living allowance.  Still, it stands to reason that a substantial number of members were not aware of that all General Authorities are given a salary/stipend.
+[initial discussion, needs work] Given a member's likely access to source material (i.e., most members will either not have been exposed to or will not remember an off-hand statement from their seminary teacher; only males older than 44 years old would have been present in the 1985 Priesthood Session), I conclude that in the past 30 years, a member was more likely to stumble on material suggesting all leaders are unpaid than material suggesting they all are paid.  Still, once a person understands that GAs are given a living allowance then all other statements will likely be interpreted in that light, and this makes the analysis more complex and suggests that even with limited statements indicating a living allowance, many members were likely aware of the living allowance.  Still, it stands to reason that a substantial number of members were not aware that all General Authorities are given a salary/stipend.
 
 ## Conclusions
 
 Survey data of individuals in the U.S. and in other countries would be helpful to better undestand the percentage of members who know that GAs receive a living allowance.
 
-A separate question that needs further investigation: "is an understanding of the *amount* GAs receive in living allowance an important disclosure for members in making membership and tithing choices?"
+[other conclusions]
 
-[^and_similar_efforts]: MormonLeaks is the most well-known and organized of several efforts to leak information about the operations of the Church to the public.  Ethical analysis of MormonLeaks seems to apply similarly to other
-  efforts.
+---
 
-*attribution: besides searching lds.org, many quotes were compiled from [IntellectualPreserve](http://intellectualpreserve.org/ifm_yes_paid_clergy.html), [this post by __Shawn](https://www.reddit.com/r/exmormon/comments/5n7i1y/collection_of_quotes_about_no_paid_ministry/), and especially [this post by curious_mormon](https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/)*
+*Attribution: besides searching lds.org, many quotes were compiled from [IntellectualPreserve](http://intellectualpreserve.org/ifm_yes_paid_clergy.html), [this post by __Shawn](https://www.reddit.com/r/exmormon/comments/5n7i1y/collection_of_quotes_about_no_paid_ministry/), and especially [this post by curious_mormon](https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/).*
+
+[^newsroomretrievaldate]: All pages retrieved in the LDS Newsroom analysis were last retrieved September 2, 2017.

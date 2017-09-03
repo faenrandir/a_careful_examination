@@ -152,6 +152,7 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 1. A good reason not to marry someone [is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/)
 
 
+Creation of contracts to ensure continued activity: https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/
 
 
 1. Examples of [blame reversal](https://www.youtube.com/watch?v=SoSyBBBtZgY).
