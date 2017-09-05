@@ -1,0 +1,3 @@
+1. If sealing is so important, why was Joseph Smith likely never sealed to Fanny Alger?  What was the point of that union? (see [Brian Hales' appendix](http://josephsmithspolygamy.org/wordpress/wp-content/uploads/2017/03/Fanny-Alger-Appendix-D.pdf)).
+
+1. What strength of evidence exists for an 1831 revelation authorizing plural marriage (see [footnote #4 in the Nauvoo Polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng#4))?  Approximately how many years passed before _anyone_ recounted such a revelation?  (see [The 1830s](http://josephsmithspolygamy.org/history/polygamy-early-1830s/))
