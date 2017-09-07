@@ -1,1 +1,0 @@
-1. Why did Joseph command other leaders (e.g., Heber C. Kimball) to take plural wives secretly? (referenced in [year of polygamy](http://www.yearofpolygamy.com/) and elsewhere).  Doesn't this also contradict [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61)?
