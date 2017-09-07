@@ -10,23 +10,46 @@ In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonl
 
 > “Never. They would never do it.’
 
-In a variety of ways, LDS practice, teachings, and culture work to retain members.  "Brainwashing" is not a term used by most modern psychologists, but psychologists 
+This document attempts to address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the motivation behind this kind of event), but they both are the recipients of a signficant level of soclialization that encourages such behavior---and similarly discourages _not_ going on a mission.
 
+## Socialization
+
+The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA43&lpg=PA43&dq=we+take+it+for+granted+benjamin+beit-hallahmi&source=bl&ots=Tgq6kGK3_5&sig=SdRbPV6WkxQBtF0pPubciSq2B60&hl=en&sa=X&ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&f=false):
+
+> Social learning, despite its seeming simplicity...remains **the best explanation for most religious actions**.  It is the best explanation for the overall prevalence of religion, for individual religiosity, and for ... the most dramatic of religious acts and movements. ... The variety of religious traditions and the correspondence between the dominant tradition in the social environment and the religious beliefs of the individual are the most obvious proofs to the validity of the social learning approach, which is also able to explain what are considered intense religious experiences.  Supernaturalism is inherently accessible, and children learn just one local version of it and in most cases become inexorably attached to it.
+
+The rest of this document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for two years to share their religion with others.
 
 ### Confession and Accountability
 
-1. [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/).
-1. Bishops _may_ ask very probing questions about sexuality, particularly to those about to serve a mission ([example](https://www.reddit.com/r/exmormon/comments/6aotgt/list_of_questions_a_bishop_asks_premissionaries/)).  Probing questions are not necessarily typical, but they are not necessarily discouraged, either.
-1. Bishops _may_ ask children as young as 8 years old if they touch themselves ([example](https://bishopsinterview.blogspot.com/?view=classic&m=1), [recording](https://www.youtube.com/watch?v=GHdw10y8ABM&t=3s)).  This line of inquiry is not likely typical, but nor is it explicitly discouraged.
-1. Bishops may conduct frequent and invasive interviews at their discretion and may use social media to find evidence of indiscretion ([example](https://github.com/faenrandir/a_careful_examination/blob/dd4835cb764c1bc66327645831172705a472684e/documents/threefold-nature-of-the-church/supporting_material/invasive_interviews.md)).  Using social media to find indiscretions is not likely typical, but nor is such an act discouraged.
-1. All major sins [must be confessed to one's LDS leader](https://www.lds.org/new-era/2013/10/why-and-what-do-i-need-to-confess-to-my-bishop?lang=eng).  A leader, at their discretion, _may_ ask an individual to reconfess _all_ past sins to whatever previous point in time they deem relevant ([for example](https://brettsbigbadblog.blogspot.com/2017/06/lds-temple-cancellation-and-clearance.html), "'all transgressions' committed since your first sealing, even those that have already been resolved by church authorities"). (confession)
-1. The association between worthiness and missionary success is frequently taught in the MTC and missionaries frequently confess and reconfess all their sins in an effort to become worthy ([example](https://www.reddit.com/r/exmormon/comments/2fdcgt/one_of_the_worst_aspects_of_mormon_culture_imo/)).
-1. Some leaders ask youth and adults about their orgasms and sexual positions as they probe regarding masturbation and past sexual transgressions. ([testimonials](https://invisiblescubit.wordpress.com/2017/07/04/did-you-orgasm/))  This behavior is not likely typical but nor is it discouraged.
-1. LDS leaders may have intercepted private email communication in the past to implicate those communicating with apostate organizations. ([example](https://www.reddit.com/r/exmormon/comments/6wfv72/the_strengthening_church_members_committee/))  This is likely atypical behavior.
+1. [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/).  Those considered unworthy on some level may not be allowed to participate in ordinances, and this may carry some social stigma.  Others may notice if a person does not pass or take the sacrament, for instance.
 
 ### Follow the leadership
 
 1. Members are Encouraged to follow leaders, even if they are wrong: "My boy, you always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it." ([Aaronic Priesthood Manual 3](https://www.lds.org/search?lang=eng&query=%22you+always+keep+your+eye+on+the+President+of+the+Church%22))
+
+1. From an early age, children are taught to [Follow the Prophet](https://www.lds.org/youth/video/follow-the-prophet?lang=eng):
+
+    > At times, following the prophet may be unpopular, but following the prophet is always right. 
+
+    [Videos](https://www.lds.org/youth/video/follow-the-prophet?lang=eng) and [lessons](https://www.lds.org/youth/learn/yw/prophets-revelation/listen?lang=eng) demonstrate the consequences of following or not following the prophet.
+
+    Children often sing the song [Follow the Prophet](https://www.youtube.com/watch?v=ZcFks_graPQ).
+
+### All life events are tied into the Church
+
+For instance, consider how Church Handbook 2 refers to [a funeral service](https://www.lds.org/handbook/handbook-2-administering-the-church/meetings-in-the-church/18.6?lang=eng&_r=1#186):
+
+> Funerals provide an important opportunity to teach the gospel and testify of the plan of salvation. They also provide an opportunity to pay tribute to the deceased. However, such tributes should not dominate a funeral service.
+
+And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20of%20Things%20--%20Boyd%20K.%20Packer.htm):
+
+> When the family insists that several family members speak in a funeral, we hear about the deceased instead of about the Atonement, the Resurrection, and the comforting promises revealed in the scriptures. Now it’s all right to have a family member speak at a funeral, but if they do, their remarks should be in keeping with the spirit of the meeting.
+
+> I have told my Brethren in that day when my funeral is held, if any of them who speak talk about me, I will raise up and correct them. The gospel is to be preached.
+
+Missions, in particular, are considered a "coming of age" experience.  [A mission] bond 
+http://www.pbs.org/mormons/themes/mission.html
 
 ### Consulting unapproved sources is considered risky
 
@@ -36,19 +59,31 @@ In a variety of ways, LDS practice, teachings, and culture work to retain member
 
 ### Encouraged to sacrifice anything to the cause
 
-1. Members often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng)) (demand for purity, doctrine over person)
+1. Members often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
 
-### Somewhat strict rules dictating dress and appearance
+### Members are expected to date and marry other members
 
-1. Beards are not allowed for Church employees, at Church owned universities, and for those working in the temple.  Until recently, even those students/employees at BYU of another religious faith who wished to wear a beard for religious reasons [were not allowed to do so](http://www.freebyu.org/byu-adds-religious-exemption-to-beard-policy/).
-1. Members [discouraged from getting a tattoo](https://www.lds.org/youth/article/tattoos-and-your-mission?lang=eng).
+Ezra Taft Benson [taught](https://www.lds.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng):
 
-### Monitoring for orthodoxy occurs
+> Our Heavenly Father wants you to date young men who are faithful members of the Church, who will be worthy to take you to the temple and be married the Lord’s way. There will be a new spirit in Zion when the young women will say to their boyfriends, “If you cannot get a temple recommend, then I am not about to tie my life to you, even for mortality!” And the young returned missionary will say to his girlfriend, “I am sorry, but as much as I love you, I will not marry out of the holy temple.”
+
+Following the Church program is seen as far more important than love, friendship, or spiritual compatibility.
+
+And, young women are consistently taught [that they should marry a returned missionary](http://www.ldsliving.com/Why-I-Didn-t-Marry-an-RM-After-All/s/75872):
+
+> Back when I was in the Young Women program, I remember being told that RM needed to be at the top of my dating criteria list.
+
+The very thought of dating a non-RM is [considered jaw-dropping](http://www.ldsliving.com/Would-You-Date-a-Non-RM/s/71905).
+
+Whom does a young man expect to date and marry if he did not serve a mission, especially given that the majority of his close friends will be LDS?  What kind of social stigma is attached to _not_ serving a mission?
+
+### Some monitoring for orthodoxy occurs
 
 1. Files kept on students at BYU [cataloging activities that may not be in line with LDS thought](http://www.freebyu.org/wp-content/uploads/2016/05/Brad-Carmack-Honor-Code-File.pdf).
 1. Existence of a [Strengthening Church Members Committee](https://en.wikipedia.org/wiki/Strengthening_Church_Members_Committee).
 1. Leaders may be screened for agreement with the status quo.  For instance, the recently leaked [Utah Area Seventies Correlation Meeting](https://mormonleaks.io/wiki/documents/a/a7/Utah_Area_Seventies_Correlation_Meeting-2015-11-11.pdf) states "Stake presidents may want to review this policy [the November 2015 policy excluding children of same-sex married couples] with prospective bishops to determine their willingness to support this policy before extending a call."
 1. Leaders may scan social media looking to see if members are properly wearing garments (anecdote [here](https://www.reddit.com/r/exmormon/comments/6e8guv/in_case_you_dont_believe_they_are_watching_us/)).  Not likely typical, but nor is such behavior discouraged.
+1. LDS leaders may have intercepted private email communication in the past to implicate those communicating with apostate organizations. ([example](https://www.reddit.com/r/exmormon/comments/6wfv72/the_strengthening_church_members_committee/))  This is likely atypical behavior.
 
 ### Expression of ideas countering orthodoxy may be suppressed
 
@@ -85,7 +120,6 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 
     > Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.
 
-
 ### Attributing causation to God
 
 1. Leaders regularly attribute supernatural influence [to events others would likely view as natural](https://www.youtube.com/watch?v=Ph98bvd_DMU).
@@ -112,6 +146,9 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 
     > Adherence to the Word of Wisdom is often a mark of a committed Latter-day Saint and is an outward sign of their separation from the world and their participation in the fellowship of God’s covenant people. Non-observance or observance of the Word of Wisdom often reflects one’s commitment (or lack thereof) to their covenants with God as well as a possible indicator as to how one might approach other commandments.
 
+1. Beards are not allowed for Church employees, at Church owned universities, and for those working in the temple.  Until recently, even those students/employees at BYU of another religious faith who wished to wear a beard for religious reasons [were not allowed to do so](http://www.freebyu.org/byu-adds-religious-exemption-to-beard-policy/).
+1. Members [discouraged from getting a tattoo](https://www.lds.org/youth/article/tattoos-and-your-mission?lang=eng).
+
 ### Doctrine of "eternal families" encourages in-group association
 
 1. If a family member chooses another religion they will not be with their
@@ -134,25 +171,22 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 1. The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf). (milieu control)
 1. Father [denied contact information for son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
 
-### Strongly discourages dissent
+### Strongly discourages and stigmatizes dissent
 
 1. Those who disagree with orthodox doctrine [are considered either ignorant or proud](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/false-teachings?lang=eng).
 1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/manual/aaronic-priesthood-manual-1/lesson-12-following-the-living-prophet?lang=eng&_r=1)
 1. Those who "sin against the Holy Ghost" may be [wiped from existence](https://www.fairmormon.org/answers/Plan_of_salvation/Sons_of_Perdition/Eventual_fate) as a Son of Perdition.  This is typically downplayed, but the possibility may act to discourage those who have had the strongest spiritual confirmations from considering alternative models of LDS truth-claims.
 1. As [taught in recent manuals and official Church material](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ff97a00079dc519d16807bcaef105a2a03102334/documents/about_apostates/how_those_who_leave_are_viewed.pdf), those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.
-
-### Discourages associating with intellectual apostates
-
 1. Members are taught to "shun" and "flee" from those who openly disagree with accepted Church doctrine (see [The Shunning Key](https://mormonbandwagon.com/bwv549/the-shunning-key/))
-1. Examples of [shunning and indirect directives](https://www.youtube.com/watch?v=Oay00rMcIWI&list=PLevx2DAlF-YBazPpn-110Ft0AsC01MrkY&index=8).
 
 ### Orthodoxy tends to trump other considerations
 
 1. [Short engagement/dating times relative to the rest of society](http://byuiscroll.org/long-vs-short-engagements-what-is-the-way-to-go/) suggests that religious affiliation often trumps other considerations of personality and personality compatibility.
 1. A good reason not to marry someone [is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/)
 
-
 Creation of contracts to ensure continued activity: https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/
+
+
 
 
 1. Examples of [blame reversal](https://www.youtube.com/watch?v=SoSyBBBtZgY).
@@ -168,6 +202,9 @@ Creation of contracts to ensure continued activity: https://www.reddit.com/r/exm
 
 
 
+> Mysical experiences, considered unique and individual, are totally culture-dpendent.  We know that the specific content of visions, the most intense and personal of religious acts, is wholly predictable from exposure to certain ideas, which are always learned.  Visions of the Holy Virgin occur exclusively among Catholics or those exposed to Catholic ideas.  They have never occurred among Orthodox Jews...
+
+
 
 The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Control](http://recoveringagency.com/), gives additional examples and perspective on the topic.  "Thinker of Thoughts" has produced many videos (some with Luna Linsey) exploring aspects of thought-reform and undue influence within the LDS Church (for example, [parallel concepts with scientology](https://www.youtube.com/playlist?list=PLevx2DAlF-YBazPpn-110Ft0AsC01MrkY) and [undue influence in Oct 2015 General Conference](https://www.youtube.com/playlist?list=PLevx2DAlF-YDCOcCRWFWDmZesrQe5K0zJ)).  Finally, [Fix your faith crisis with this one weird trick!](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/) offers perspective on how a practitioner of any religion may ensure they are not succumbing to thought-reform.
 
@@ -175,19 +212,10 @@ The book by Luna Lindsey, [Recovering Agency: Lifting the Veil of Mormon Mind Co
 
 Several caveats and some aditional perspective ought to be rehearsed:
 
-1. Admittedly, more extreme examples of thought-reform methods are present in more extreme totalistic groups.  However, the question I was addressing was not "Are LDS followers subjected to _extreme_ thought-reform?" but rather are they subjected to it _at all_?
-2. A person's LDS experience may differ depending on when they joined the LDS Church and in which unit(s) they experienced LDS living.  In addition, a single individual is unlikely to have experienced all the above examples.
-3. It is unlikely that any of these practices or attitudes were "designed" with thought-reform in mind---thought reform techniques evolve in tandem with strong totalistic missions and tend to be effective so they are naturally selected for within high-demand and totalistic groups.  In addition, these themes or techniques are often implemented and encouraged by the members themselves (not necessarily imposed in a top-down fashion).
-4. One may view the primary mindsets of the LDS Church as [the corporate, the individual growth, and the totalistic](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).  In particular, the individual growth and totalistic mindsets are in some [tension with one another](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/efb593d5c2ee37bc3e4638976331668a33367131/documents/threefold-nature-of-the-church/examples-of-tension-between-individual-growth-and-totalistic-mindsets.pdf).  As alluded to earlier, this means that much of the totalistic/thought-reform behavior documented above is softened in practice by an individual growth mindset, and sometimes the corporate mindset.
+4. One may view the primary mindsets of the LDS Church as [the corporate, the individual growth, and the totalistic](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).  In particular, the individual growth and totalistic mindsets are in some [tension with one another](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/efb593d5c2ee37bc3e4638976331668a33367131/documents/threefold-nature-of-the-church/examples-of-tension-between-individual-growth-and-totalistic-mindsets.pdf).  This means that much of the strong, retentive socialization documented above is softened by the individual growth mindset, and sometimes the corporate mindset.
 
 ## Response to typical objections
 
 Some believing members may deny that _any_ level of thought-reform takes place using these kinds of justifications (to which I'll pre-emptively respond):
-
-1. Examples may not be considered extreme enough to be classified as "thought-reform" (it's just "teaching").  _Response:_ teachings and practices need not be extreme to promote thought-reform.
-2. Extreme examples may be dismissed as merely _mistakes in the implementation_ of nearly perfect Church programs.  _Response:_ there are often underlying doctrines and teachings justifying the extreme examples (i.e., the behaviors may be extreme but they were fostered by the Church's teachings, practices, or structure).  Extreme examples were chosen because they _exemplify_ or cast relief on core Church attitudes, not because they run counter to them.
-3. The LDS Church operates in a manner similar to Jesus Christ's early Church, so how can these practices be called "thought-reform"?  _Response:_ Comparing LDS teachings or practices to those of the early Church does not necessarily exonerate the LDS Church because the early Church itself may have been using some of the same techniques or themes associated with thought-reform (see, for example, [2 John 1:7-11](https://www.biblegateway.com/passage/?search=2+John+7-11&version=KJV)).
-4. The level of influence being exerted is the appropriate level given the importance of the topic (e.g., everyone would act in that manner if they knew how important "xyz" really was).  _Response:_ Lifton is responding to specific kinds of behavior which rob people of the full latitude of choice and these may be evaluated independently of the mission's importance.  In fact, those who engage in thought-reform tend to feel they have missions of great importance and that provides justification for their behavior.
-5. Compliance in small things is a necessary part in becoming obedient to the more significant commandments.  _Response:_ These kinds of defenses are a _manifestation_ of typical thought-reform attitudes, not a defense against them.
 
 [^insufficientjustification]: The practice of bearing a testimony to find it may take advantage of the phenomenon of "insufficient justification". [From the 1959 study](http://psychclassics.yorku.ca/Festinger/) on insufficient justification: "If a person is induced to do or say something which is contrary to his private opinion, there will be a tendency for him to change his opinion so as to bring it into correspondence with what he has done or said." ([video which details the experiment](https://www.youtube.com/watch?v=CkJc6c3nKMw) and more on [insufficient justification](https://en.wikipedia.org/wiki/Insufficient_justification))
