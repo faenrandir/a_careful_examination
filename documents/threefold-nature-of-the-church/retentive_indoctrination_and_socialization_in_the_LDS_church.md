@@ -10,7 +10,7 @@ In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonl
 
 > “Never. They would never do it.’
 
-This document attempts to address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the motivation behind this kind of event), but they both are the recipients of a signficant level of soclialization that encourages such behavior---and similarly discourages _not_ going on a mission.
+This document attempts to address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a signficant level of soclialization that encourages such behavior---and similarly discourages _not_ going on a mission.
 
 ## Socialization
 
