@@ -6,7 +6,7 @@
 
 ## Other Holy Books
 
-1. What is [the Book of Jeranek](https://www.latterdaymormon.co.uk/book-of-jeraneck)?  What is [The Sealed Portion](http://www.marvelousworkandawonder.com/tsp/index.htm)?  What is [the Urantia Book](https://en.wikipedia.org/wiki/The_Urantia_Book)?  How would a person go about determining if those books (or a book like the Quran) are true?  Is this the same process members are taught to follow with the Book of Mormon?  Should a person give those books as much time, study, and prayer as they did the Book of Mormon before dismissing them as fraudulent?  Should those who who point out possible contradictions and anachronisms in these books be labeled "anti"?
+1. What is [the Book of Jeraneck](https://www.latterdaymormon.co.uk/book-of-jeraneck)?  What is [The Sealed Portion](http://www.marvelousworkandawonder.com/tsp/index.htm)?  What is [the Urantia Book](https://en.wikipedia.org/wiki/The_Urantia_Book)?  How would a person go about determining if those books (or a book like the Quran) are true?  Is this the same process members are taught to follow with the Book of Mormon?  Should a person give those books as much time, study, and prayer as they did the Book of Mormon before dismissing them as fraudulent?  Should those who who point out possible contradictions and anachronisms in these books be labeled "anti"?
 
 ## DNA and the Book of Mormon
 
