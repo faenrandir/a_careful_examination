@@ -12,6 +12,10 @@ In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonl
 
 This document attempts to address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a signficant level of soclialization that encourages such behavior---and similarly discourages _not_ going on a mission.
 
+Children and parents, over the course of decades---in many cases an
+entire lifetime---have listened to, participated in, or delivered countless
+messages to reinforce the idea 
+
 ## Socialization
 
 The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA43&lpg=PA43&dq=we+take+it+for+granted+benjamin+beit-hallahmi&source=bl&ots=Tgq6kGK3_5&sig=SdRbPV6WkxQBtF0pPubciSq2B60&hl=en&sa=X&ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&f=false):
@@ -23,6 +27,26 @@ The rest of this document outlines the practices and teachings that contribute t
 ### Confession and Accountability
 
 1. [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/).  Those considered unworthy on some level may not be allowed to participate in ordinances, and this may carry some social stigma.  Others may notice if a person does not pass or take the sacrament, for instance.
+
+### No viable alternative
+
+1. Jeffery R. Holland [taught](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng): "We board the Good Ship Zion and sail with her wherever she goes until she comes into that millennial port. We stay in the boat, through squalls and stills, through storms and sunburn, because that is the only way to the promised land." Also captured [in this meme](https://i.redd.it/clkz8lb9uukz.jpg).
+
+1. M Russell Ballard [taught](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng): "If you choose to become inactive or to leave the restored Church of Jesus Christ of Latter-day Saints, where will you go? What will you do? The decision to 'walk no more' with Church members and the Lord’s chosen leaders will have a long-term impact that cannot always be seen right now."
+
+1. M Russell Ballard [taught](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng): 
+
+### Tragic, disastrous consequences for leaving
+
+Although the consequences are often unnamed, the implication is that they are
+always tragic.
+
+1. they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
+
+### Leadership speaks for God
+
+Although 
+
 
 ### Follow the leadership
 
@@ -186,6 +210,9 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 
 Creation of contracts to ensure continued activity: https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/
 
+## Analysis
+
+A tremendous number of cultural factors align to encourage 
 
 
 
