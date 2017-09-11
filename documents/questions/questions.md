@@ -8,11 +8,15 @@ The majority of links provided are to [LDS approved sources](https://www.lds.org
 
 _If any question contains incorrect information or is misleading in any way, please contact me, and I will fix it._
 
-## A House of Order
+## Approaches to difficult questions
 
-Perhaps answers to these questions should be measured by the yardstick set forth [in scripture](https://www.lds.org/scriptures/dc-testament/dc/132.8):
+One general way to deal with difficult questions is to suggest that God has been dispensing information "line upon line, precept upon precept, here a little and there a little" ([2 Nephi 28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30)).  On the other hand, we expect to see consistency in the unfolding of God's handiwork because God "is the same yesterday and today and forever" ([1 Nephi 10:18](https://www.lds.org/scriptures/bofm/1-ne/10.18)), "truth is knowledge of things as they are, and as they were, and as they are to come" ([D&C 93:24](https://www.lds.org/scriptures/dc-testament/dc/93.24)), and his house "...is a house of order, saith the Lord God, and not a house of confusion." ([D&C 132:8](https://www.lds.org/scriptures/dc-testament/dc/132.8)).
 
-> Behold, mine house is a house of order, saith the Lord God, and not a house of confusion.
+Inconsistencies and difficulties may also be chalked up to the shortcomings and mistakes of men.  On the one hand, the Lord (apparently) declared, through Joseph Smith:
+
+> What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.
+
+Joseph Smith also emphasized "there is no error in the revelations which I have taught."[^no_error]  On the other hand, he reminded us "I never told you I was perfect" and "a prophet was a prophet only when he was acting as such."[^mistakes_of_men]  With caveats in place (i.e., revelation from God is perfect and all mistakes are from men), it is trivial, then, to take any event, doctrine, or teaching that is problematic and attribute it to the failures of men while attributing everything faith-promoting and wonderful to God's divine influence.  This is a tremendously powerful partitioning algorithm.[^partition_algorithm]  Its only weakness may be that it is too powerful---such an algorithm seems capable of divinizing any organization or individual to which it may be applied.
 
 ## Joseph Smith's Polygamy
 
@@ -92,6 +96,8 @@ However, many data points [support a migration out of Africa beginning about 70,
 
 [^other_questions]: The LDS Church is capable of answering many questions about its history and truth-claims, and many of the answers cast the Church in a positive light.  Questions that frame the Church in a positive light are important---and missionaries and ecclesiastical leaders will be quick to ask and answer those questions---but difficult questions are similarly important for exploring the boundaries and potential contradictions found within LDS theology, history, and epistemology.  In science, at least, it is the question that is not easily answered that often motivates truth-seekers to find new---or refine existing---models describing reality.
 
+
+
 [^importance_of_sealing]: Latter-day Saints view the temple sealing ceremony as having the utmost significance.  Here are some examples: [The sealing ordinance links families eternally](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [Marriage in the Lord's Way](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), ["The Sealing Power"](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
 
 [^hales_no_sealing]: In [a reddit comment](https://www.reddit.com/r/mormon/comments/5quvd8/questions_for_brian_and_laura_hales_upcoming_ama/dd7jbbq/), Brian Hales, LDS Historian (and likely primary author of the [Nauvoo Polygamy lds.org essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)), stated: "Keep in mind Joseph died without being sealed to his children or parents."
@@ -125,3 +131,22 @@ However, many data points [support a migration out of Africa beginning about 70,
     > 33 Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.
 
 [^polygamy_justification]: Verses 7, 18, and 19 of section 132 emphasize the importance of the person holding Priesthood keys for the justification of any covenant.  Apologists have suggested that these may override the requirements outlined in verse 61.  However, verses 18 and 19 also emphasize the importance of following the words of the Lord: "if that covenant is not by me or by my word, which is my law" and "if a man marry a wife by my word, which is my law".  Do verses 7, 18, and 19 override the requirements outlined in verse 61, or do they underscore the importance of verse 61 (i.e., the coventant must be by His word)?
+
+[^partition_algorithm]: The algorithm members often use for dealing with difficult problems with history or doctrine is that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of the ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't"). It’s an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---_by algorithmic definition_.
+
+    The problem with this algorithm is that it may be too powerful---any institution to which we apply it will also suddenly appear divine.  A Jehovah's Witness defends their organization in similar terms:
+
+    > Every person in this organization---every one of Jehovah’s Witnesses including the governing body---we're all imperfect and thus we are subject to making mistakes. Which means that if you look hard enough, all you will see instead of seeing these amazing things that Jehovah is accomplishing and our tremendous privilege of being part of it, all we are going to see is the errors of men. But when we focus on the good, on the guidance and loving support that we’ve received, aren’t we moved with appreciation to cleave to this body of fellow worshipers. And just look at what Jehovah is accomplishing by means of his imperfect servants. There is no other organization on earth providing spiritual food like the one that we belong to. When we look at all of this, how could we possibly let the failings of just a few people undermine this overwhelming proof of Jehova’s backing? [2016 “remain loyal to jehovah” regional conference](https://www.youtube.com/watch?v=c7GYXS5lhPc)
+
+    And a Catholic speaking about her Bishops as she defends the Catholic doctrine of forbidding birth control:
+
+    > Bishops are not CEO’s; they are stand-ins for Christ. The relation of a bishop to the people is not analogous to any ‘power’ relationships in the secular world. They are human and prone to mistakes, but they are also a way that God speaks to the world. Bishops serve lay Catholics by standing up for our beliefs, as they are doing now. I am glad that when the world wants to know “what Catholics think” there is a clear way to find out. I am grateful for the leadership of our bishops in these recent weeks. [source](https://www.onfaith.co/onfaith/2012/02/22/in-defense-of-the-catholic-church/11150)
+
+[^no_error]:  The idea that there is no error in the revelations taught by a prophet or that we ought to follow what a prophet teaches regardless of its accuracy is suggested frequently in the LDS Church.
+
+    * “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture” ([Brigham Young](https://www.lds.org/manual/teachings-of-the-living-prophets-student-manual/chapter-2-the-living-prophet-the-president-of-the-church?lang=eng))
+    * "Sometimes there are those who haggle over words. They might say the prophet gave us counsel but that we are not obligated to follow it unless he says it is a commandment. But the Lord says of the Prophet Joseph, 'Thou shalt give heed unto all his words and commandments which he shall give unto you'" ([Ezra Taft Benson](https://www.lds.org/manual/teachings-of-the-living-prophets-student-manual/chapter-2-the-living-prophet-the-president-of-the-church?lang=eng))
+    * As an Apostle of the Lord Jesus Christ and as one who has seen firsthand the councils and workings of this Church, I bear solemn witness that no decision of significance affecting this Church or its members is ever made without earnestly seeking the inspiration, guidance, and approbation of our Eternal Father. This is the Church of Jesus Christ. God will not allow His Church to drift from its appointed course or fail to fulfill its divine destiny. ([Dieter F. Uchtdorf](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng))
+    * "I do not acknowledge that I designedly lead this people astray one hair’s breadth from the truth, and I do not knowingly do a wrong" ([Brigham Young](https://www.fairmormon.org/answers/Mormonism_and_doctrine/Prophets_are_not_infallible))
+    * "...We will not and ... cannot lead you astray." ([M. Russell Ballard](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng))
+    * "There is no error in the revelations Joseph taught!" - Apostle Neal A. Maxwell, Sermons Not Spoken, p.6
