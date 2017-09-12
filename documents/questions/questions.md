@@ -1,5 +1,3 @@
-# Questions to Ask
-
 ## Introduction
 
 These questions are designed to probe various aspects of the LDS Church's history and truth-claims.[^other_questions]  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders.
@@ -8,7 +6,7 @@ The majority of links provided are to [LDS approved sources](https://www.lds.org
 
 _If any question contains incorrect information or is misleading in any way, please contact me, and I will fix it._
 
-## Approaches to difficult questions
+#### Approaches to difficult questions
 
 One general way to deal with difficult questions is to suggest that God has been dispensing information "line upon line, precept upon precept, here a little and there a little" ([2 Nephi 28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30)).  On the other hand, we expect to see consistency in the unfolding of God's handiwork because God "is the same yesterday and today and forever" ([1 Nephi 10:18](https://www.lds.org/scriptures/bofm/1-ne/10.18)), "truth is knowledge of things as they are, and as they were, and as they are to come" ([D&C 93:24](https://www.lds.org/scriptures/dc-testament/dc/93.24)), and his house "...is a house of order, saith the Lord God, and not a house of confusion." ([D&C 132:8](https://www.lds.org/scriptures/dc-testament/dc/132.8)).
 
@@ -17,6 +15,8 @@ Inconsistencies and difficulties may also be chalked up to the shortcomings and 
 > What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.
 
 Joseph Smith also emphasized "there is no error in the revelations which I have taught."[^no_error]  On the other hand, he reminded us "I never told you I was perfect" and "a prophet was a prophet only when he was acting as such."[^mistakes_of_men]  With caveats in place (i.e., revelation from God is perfect and all mistakes are from men), it is trivial, then, to take any event, doctrine, or teaching that is problematic and attribute it to the failures of men while attributing everything faith-promoting and wonderful to God's divine influence.  This is a tremendously powerful partitioning algorithm.[^partition_algorithm]  Its only weakness may be that it is too powerful---such an algorithm seems capable of divinizing any organization or individual to which it may be applied.
+
+# Questions
 
 ## Joseph Smith's Polygamy
 
@@ -150,3 +150,8 @@ However, many data points [support a migration out of Africa beginning about 70,
     * "I do not acknowledge that I designedly lead this people astray one hair’s breadth from the truth, and I do not knowingly do a wrong" ([Brigham Young](https://www.fairmormon.org/answers/Mormonism_and_doctrine/Prophets_are_not_infallible))
     * "...We will not and ... cannot lead you astray." ([M. Russell Ballard](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng))
     * "There is no error in the revelations Joseph taught!" - Apostle Neal A. Maxwell, Sermons Not Spoken, p.6
+
+[^mistakes_of_men]: The idea that God's leaders are fallible is occasionally emphasized, particularly when dealing with difficult issues.  Some examples:
+
+    * "God is perfect, and His doctrine is pure. But He works through us—His imperfect children—and imperfect people make mistakes." ([Dieter F. Uchtdorf](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng))
+    * "Can a Prophet or an Apostle be mistaken? Do not ask me any such question, for I will acknowledge that all the time..." ([Brigham Young](https://www.fairmormon.org/answers/Mormonism_and_doctrine/Prophets_are_not_infallible))
