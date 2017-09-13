@@ -26,11 +26,11 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."  Why did Joseph (apparently) not get permission for his relationship with Fanny as suggested by [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61)?
 
-1. For what purpose did Joseph Smith get sealed to other righteous men's wives (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) and [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/marinda-nancy-johnson/))?  In particular, what justified Joseph's sealing to [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young), a happily newlywed, pregnant mother?
+1. For what purpose did Joseph Smith get sealed to other righteous men's wives (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) and [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/marinda-nancy-johnson/))?  In particular, what justified Joseph's marriage to [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young), a happily newlywed, pregnant mother?
 
-1.  To whom will [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/)'s first children (those fathered by her first husband, Jacob) belong in the eternities?
+1.  To whom was Zina Huntington married when her second child was born?  Who fathered her third child?  To whom will [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/)'s children (those fathered by her first husband, Henry Jacobs, and the one fathered by Brigham Young) belong in the eternities?
 
-1. Why did [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young) become Brigham Young's wife after Joseph died and not Jacob's wife (especially considering that Jacob already had children with Zina)?
+1. Why did [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young) become Brigham Young's wife after Joseph died and not Henry Jacob's wife (especially considering that Henry already had children with Zina)?
 
 1. What made it okay for Joseph Smith to re-seal himself to the Partridge sisters [in order to hide the first sealings from Emma](https://imgur.com/a/oscY6)?
 
@@ -80,7 +80,7 @@ The number of [similarities with early 1800s thought is _extensive_](https://doc
 
 1. The Joseph Smith Papers Project [historical introduction to the 1832 First Vision](http://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1#historical-intro) states, "In the early 1830s, when this history was written, it appears that Joseph Smith had not broadcast the details of his first vision of Deity. The history of the church, as it was then generally understood, began with the gold plates."  Why does it appear that Joseph Smith did not tell anyone about the First Vision until well after the founding of the Church?
 
-1. Why does it appear that Joseph Smith did not tell anyone about the restoration of the Melchizedek Priesthood [for several years](https://www.fairmormon.org/answers/Mormonism_and_priesthood/Restoration/Melchizedek/Date)?  And why did Joseph Smith [retro-fit Book of Commandment revelations with Priesthood restoration stories](https://en.wikipedia.org/wiki/Book_of_Commandments#Content_of_the_Book_of_Commandments)?
+1. Why does it appear that Joseph Smith did not tell anyone about the restoration of the Melchizedek Priesthood [for several years](https://www.fairmormon.org/answers/Mormonism_and_priesthood/Restoration/Melchizedek/Date)?  And why did Joseph Smith [retro-fit Book of Commandment revelations with Priesthood restoration stories](https://en.wikipedia.org/wiki/Book_of_Commandments#Content_of_the_Book_of_Commandments)? (see [full side-by-side BoC and D&C comparison](https://drive.google.com/file/d/0B6ItuDdVWOO8X2JqTlVCb3E5dTg/view))
 
 ## Adam and Eve
 

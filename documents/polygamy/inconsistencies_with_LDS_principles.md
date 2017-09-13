@@ -8,13 +8,13 @@ There appear to be major inconsistencies between how Joseph Smith practiced poly
 
 3. If sealing was so important, why was he never sealed to Fanny Alger?  What was the point of that "union"?
 
-4. Why did Joseph Smith get sealed to other righteous men's wives? (Jacob Huntington, Orson Hyde)
+4. Why did Joseph Smith get sealed to other righteous men's wives? (Henry Jacobs, Orson Hyde)
 
 5. If Joseph was pressured into polygamy by an angel with a drawn sword, why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?  Also, it seems like there were many more pressing points in the history of the Church where divine direction was warranted--why did this angel only intervene with polygamy?
 
 6. What justified Joseph's sealing to a _happily_ newlywed, pregnant mother from a theological standpoint?
 
-7. Why did Zina Huntington become Brigham Young's wife after Joseph died and not Jacob's wife?
+7. Why did Zina Huntington become Brigham Young's wife after Joseph died and not Henry Jacob's wife?
 
 8. What was the point of a union with 14 year old Helen Mar Kimball?  If polyandrous unions were non-sexual, why couldn't Heber C. Kimball and his family have been sealed to Joseph via a polyandrous sealing to Vilate?
 
