@@ -126,7 +126,7 @@ Finally, there is also the question of why the author of Alma 13 [repeatedly all
 
 **[FST-17]** _and to a postmortal spirit world in Alma 40 (see Alma 40:11–14). Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?_
 
-The discussion in Alma 40 on the spirit world matches closely the discussion in Matthew Earbery's book "Of the state of the dead and of those that are to rise", including suspiciously similar phraseology:
+The discussion in Alma 40 on the spirit world matches closely the discussion in Matthias Earbery's book "Of the state of the dead and of those that are to rise", including suspiciously similar phraseology:
 
 > What the future State of the Soul is after the Corporeal Dissolution; or concerning the middle **State of Souls betwixt Death and the Resurrection, as to the Degrees of Happiness and Misery**. [emphasis added]
 

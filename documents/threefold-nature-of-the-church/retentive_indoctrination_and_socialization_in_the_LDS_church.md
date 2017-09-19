@@ -190,9 +190,10 @@ Andersen -- "This is Joseph’s own testimony of what actually occurred. Read it
 1. Handbook 1 not publicly available.
 1. Finances not public since 1959.
 
-### Missions are highly controlled environments
+### Missions are highly controlled, socializing environments
 
-1. The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf). (milieu control)
+1. The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).
+1. Mission presidents may use an extraordinary number of tactics and gates (~21) to prevent homesick or discouraged missionaries from returning home.[^avoid_early_release_tactics]  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
 1. Father [denied contact information for son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
 
 ### Strongly discourages and stigmatizes dissent
@@ -246,3 +247,22 @@ Several caveats and some aditional perspective ought to be rehearsed:
 Some believing members may deny that _any_ level of thought-reform takes place using these kinds of justifications (to which I'll pre-emptively respond):
 
 [^insufficientjustification]: The practice of bearing a testimony to find it may take advantage of the phenomenon of "insufficient justification". [From the 1959 study](http://psychclassics.yorku.ca/Festinger/) on insufficient justification: "If a person is induced to do or say something which is contrary to his private opinion, there will be a tendency for him to change his opinion so as to bring it into correspondence with what he has done or said." ([video which details the experiment](https://www.youtube.com/watch?v=CkJc6c3nKMw) and more on [insufficient justification](https://en.wikipedia.org/wiki/Insufficient_justification))
+
+[^avoid_early_release_tactics]: Twenty-one methods and gates a Mission President may employ before allowing a missionary to return home (h/t reddit user [curious_mormon](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/)) from the [2006 Missionary Handbook](https://archive.org/details/MissionPresidentsHandbook2006):
+
+    > Some missionaries suffer from homesickness or discouragement. Others suffer from a lack of confidence. Some may have difficulty leaving the cares of the world behind. Such missionaries might ask to go home. These concerns are generally most acute during the first 90 days of a missionary's service.
+
+    > You can identify and resolve many of these concerns during your initial interviews with missionaries. [1] Explain that such feelings are common in the early weeks, especially on weekends or holidays, and may recur at other times. Help them understand how to combat negative feelings, and make sure they know that you are always ready to give encouragement and counsel.
+
+    > If a missionary is determined to return home, seek counsel from the Area Presidency and discuss the situation with your Missionary Department In-Field Services representative. To help a struggling missionary, [2]you may invite him or her to visit the mission home, or [3]you may arrange for a visit to the home of a priesthood leader in the area where the missionary is serving. The atmosphere there, plus [4]a personal interview and [5]a priesthood blessing, often can re- store sagging spirits. [6]Your wife can often have an influence in strengthening a missionary.
+
+    > [7]Help the missionary understand that deciding to return home is a very serious matter but that the final decision is his or hers.
+
+    > Ask the missionary to talk with [8]his or her parents, [9]bishop, or [10]stake president. You should learn what they say so that you can build on it. [11]If the home priesthood leaders know that the family wants the missionary to continue serving, make sure the missionary calls home. Even if the parents were not originally in favor of the mission, they may want their missionary to finish what he or she has started. Parents or priesthood leaders may recommend other people who can help, [12]such as a friend (including a girlfriend if she will be supportive), [13]a youth leader, a [14]seminary teacher, or a [15]returned missionary.
+
+    > [16]Some struggling missionaries respond well to a "test period." You might give a missionary [17]an assignment suited to his or her needs. Then you could say, "Try it for three months. If you feel the same way, we'll call the Area Presidency (or Church headquarters) about your request." [18]You might also ask the missionary to stay at least until the next transfer so that the work will not be disrupted and his or her companion will not need to be transferred.
+
+    > [19]Explain that if the missionary returns home at his or her own insistence, the missionary and the family are to reimburse the Church for the cost of the return trip home.
+If after [20]counseling with the Area Presidency, all efforts fail and a missionary insists on going home, [21]ask your Missionary Department In-Field Services representative for further instructions. You should not feel personally responsible when a missionary goes home early after you have done all you can.
+
+[^passports]: Passports are held in the mission home of many missions.  This was the practice in my mission, and has [been reported by many others](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/).
