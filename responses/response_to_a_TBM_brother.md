@@ -1,4 +1,6 @@
-[brother's list of why the church is true for him- many holes, could use some help](https://www.reddit.com/r/exmormon/comments/713n8k/brothers_list_of_why_the_church_is_true_for_him/)
+My response to: [brother's list of why the church is true for him- many holes, could use some help](https://www.reddit.com/r/exmormon/comments/713n8k/brothers_list_of_why_the_church_is_true_for_him/)
+
+---
 
 > Joseph Smith got too many thing right for it to be an accident.
 
@@ -141,7 +143,7 @@ The way Joseph Smith practiced polygamy was highly problematic, both theological
 
 1. What made it okay for Joseph Smith to re-seal himself to the Partridge sisters [in order to hide the first sealings from Emma](https://imgur.com/a/oscY6)?
 
-1. Joseph Smith directly or implicitly [denied practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/) 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly lie about their practice of polygamy?[^lie_rebuttal]
+1. Joseph Smith directly or implicitly [denied practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/) 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly lie about their practice of polygamy?
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Huntington and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
@@ -149,7 +151,7 @@ The way Joseph Smith practiced polygamy was highly problematic, both theological
 
 1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?
 
-1. As alluded to before, [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...they are virgins", and 3) "have vowed to no other man."  Why didn't Joseph follow these guidelines?  Does the breaking of all of these guidelines mean that some or all of his relationships were adulterous in whole or in part?[^polygamy_justification]
+1. As alluded to before, [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...they are virgins", and 3) "have vowed to no other man."  Why didn't Joseph follow these guidelines?  Does the breaking of all of these guidelines mean that some or all of his relationships were adulterous in whole or in part?
 
 > The Pre-earth life of mankind....Makes sense, is biblical, and the LDS church is the absolutely only church on the earth that teaches that one....HUGE!!!!
 
@@ -234,7 +236,7 @@ There are, however, good reasons to question the reliability of spiritual feelin
 
 1. Given [how missionaries instruct members to pray about the Book of Mormon](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4f3ac030a39f9e572b7a1835e93e8c30a2c2f9fa/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf), in what fashion could a person arrive at the conclusion that the Book of Mormon is _not_ true?  If a person persistently followed Moroni's promise with any sufficiently inspiring book, what would be the end result?
 
-1. Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others,[^shared_by_others] who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Is it possible for a person to have received a similar witness of the "truth" of the Book of Mormon and for it to be factually flawed?
+1. Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others, who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Is it possible for a person to have received a similar witness of the "truth" of the Book of Mormon and for it to be factually flawed?
 
 > Most mormons who leave the church will turn atheist or agnostic because there is nothing better out there!!!
 
