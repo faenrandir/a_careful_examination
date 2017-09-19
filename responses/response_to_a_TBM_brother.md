@@ -4,7 +4,7 @@ My response to: [brother's list of why the church is true for him- many holes, c
 
 > Joseph Smith got too many thing right for it to be an accident.
 
-The vast majority of things Joseph Smith revealed were amalgamations of thoughts from his time.  Several responses below are worth considering.
+Joseph Smith definitely organized an impressive amount of religious thought from his time.  Still, the vast majority of things Joseph Smith revealed can also be viewed as amalgamations of thoughts from his time.  Several responses below get into this in more detail.
 
 > Ancient writing on metal plates..it was unheard of...ridiculed for it, but was proved correct years later...same with the stone box it was stored in Plates hidden in a stone box---
 
