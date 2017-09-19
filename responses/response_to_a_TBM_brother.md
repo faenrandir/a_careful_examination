@@ -173,9 +173,9 @@ Cholera was [the leading known cause of death among the early Pioneers](https://
 
 > Compounding the problem was the fact that the cause of cholera was a mystery to the pioneers. They didn't know how to defend themselves from cholera bacteria, which secrete a toxin that inflames the large intestine, causing diarrhea and rapid dehydration. In severe cases, cholera can kill within hours.
 
-Literally **hundreds** of Mormon Pioneers would have survived their trek if they would have merely boiled their water before drinking--i.e., if they had been drinking _hot drinks_.  The "destroying angel" descended upon them in fury because they didn't boil their water.
+Hundreds of Mormon Pioneers would have survived their trek if they would have merely boiled their water before drinking--i.e., if they had been drinking hot drinks.
 
-Or, God could have merely said something like, "don't drink water downstream from where people are pooping."  Something that simple would have also saved them, but why would Mormon God have actually revealed something in advance of science?  No, it took a bunch of godless, liberal scientists to finally figure out "germs".
+Or, God could have merely said something like, "don't drink water downstream from where people are pooping."  Something that simple would have also saved so many of them.
 
 And, the Word of Wisdom seems to be wrong about tea and coffee, [for example](https://www.escardio.org/The-ESC/Press-Office/Press-releases/higher-coffee-consumption-associated-with-lower-risk-of-death).
 
