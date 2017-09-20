@@ -36,7 +36,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. Joseph Smith directly or implicitly [denied practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/) 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly lie about their practice of polygamy?[^lie_rebuttal]
 
-1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Huntington and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
+1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Jacobs and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
 1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Why did [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) not apply to this union?
 
