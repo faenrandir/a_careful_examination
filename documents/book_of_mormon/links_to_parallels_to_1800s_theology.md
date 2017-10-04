@@ -31,6 +31,7 @@ The following are more extensive compilations or analyses:
 1. [Rick Grunder's Mormon Parallels](http://www.rickgrunder.com/parallels.htm)
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
+1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [The Book of Mormon and 12 points of Pelagius](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf)
 1. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part%204)
