@@ -11,7 +11,7 @@ And Blake Ostler, another well-known Mormon scholar, [has noted](https://www.dia
 
 It appears that many, if not all, theological doctrines and themes advanced in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s.
 
-The following document a few intriguing, parallels:
+### Shorter documents with more narrow focus
 
 1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
 1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
@@ -21,7 +21,7 @@ The following document a few intriguing, parallels:
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [Echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/echoes/echos_of_1800s.pdf)
 
-The following are more extensive compilations or analyses:
+### Extensive compilations or analyses
 
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
 1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3)

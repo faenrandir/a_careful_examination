@@ -230,7 +230,7 @@ A tremendous number of cultural factors align to encourage
 
 
 
-> Mysical experiences, considered unique and individual, are totally culture-dpendent.  We know that the specific content of visions, the most intense and personal of religious acts, is wholly predictable from exposure to certain ideas, which are always learned.  Visions of the Holy Virgin occur exclusively among Catholics or those exposed to Catholic ideas.  They have never occurred among Orthodox Jews...
+> Mystical experiences, considered unique and individual, are totally culture-dpendent.  We know that the specific content of visions, the most intense and personal of religious acts, is wholly predictable from exposure to certain ideas, which are always learned.  Visions of the Holy Virgin occur exclusively among Catholics or those exposed to Catholic ideas.  They have never occurred among Orthodox Jews...
 
 
 
