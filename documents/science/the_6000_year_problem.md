@@ -88,6 +88,10 @@ The LDS Church *currently* teaches the idea that the earth began its temporal ex
 
 13. Currently taught in LDS Scriptures as part of [the Bible Chronology](https://www.lds.org/scriptures/bible-chron?lang=eng)
 
+### Other current teaching
+
+1. Elder Holland speaks about Adam existing roughly 4000 years before Christ [here](https://www.youtube.com/watch?v=K4_LcENySzQ&feature=youtu.be&t=4m11s).
+
 ### This idea has been repeatedly taught by leaders in the past.
 
 1. Searching the LDS [General Conference Corpus](http://www.lds-general-conference.org/) for "six thousand years" and "seven thousand years" yields nearly 100 references in General Conference to this teaching.

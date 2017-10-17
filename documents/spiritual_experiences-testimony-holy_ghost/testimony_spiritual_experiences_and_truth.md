@@ -45,7 +45,7 @@ The process by which members confirm their beliefs is not unique to the LDS chur
 
 Marshall Applewhite, former leader of [Heaven's Gate](https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29), said this about testing the group's truth claims:
 
-> ... At least ponder this, that you go into the privacy of your closet.  Don't ask your neighbors, your friends what they think of this.  You go see if you can connect with the purest, highest source, that you might consider God and say, "What about this? Is it for real?" ([~11:19](https://www.youtube.com/watch?v=ycUvC9s4VYA#t=679))
+> ... At least ponder this, that you go into the privacy of your closet.  Don't ask your neighbors, your friends what they think of this.  You go see if you can connect with the purest, highest source, that you might consider God and say, "What about this? Is this for real?" ([~11:19](https://www.youtube.com/watch?v=ycUvC9s4VYA#t=679))
 
 A.J. Miller, leader of the [Divine Truth movement](https://en.wikipedia.org/wiki/Divine_Truth), encourages his followers to determine truth in this manner:
 
