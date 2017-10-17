@@ -7,3 +7,35 @@ Believe it or not, this is the ONLY run-in I've had with him. He is a very gener
 https://www.reddit.com/r/exmormon/comments/67dpv6/lost_a_friend_today/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi
 
 Saturday I had a friend who used to live in my ward come back and visit. Her and I used to be GREAT friends and still are to this day. She's always had a hard time fitting in everywhere she went, even though she was a gorgeous girl, and doesn't have very many friends. Saturday her and I went out to Sonic. I then laid down the truth to her that " I had quit the church and that I had left over church history" ... I never had any intentions of shelf-breaking but she asked me further about what I had problems with, so I simply stated "Joseph Smith Translation, Polygamy/Polyandry, and Brigham Young "revelation". Nothing more, nothing less. She then asks her father a little about it and he proceeds to call my father (Extremely TBM) and tell him that her and I can no longer be friends... After our visit she told me she had no harsh feelings towards me, respected me, and loved me, as did I tell her. Yet, she has one friend back where she lives now and her father just took away one of her friends down here. Sad, very sad. I've been about three months into this journey, I'll say today I admit, probably one of the worst days out of all of this, and I do admit a little defeat in my soul, but there are better ahead. I'd also like to take this time to say fuck Joseph Smith. Never said that before, feels liberating.
+
+https://www.reddit.com/r/exmormon/comments/76yodg/things_my_tbm_parents_said_as_i_transitioned_out/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi
+
+"A light has left your countenance."
+
+"Do you even want a testimony?"
+
+"Are you reading your scriptures? Praying?"
+
+"Are you wearing your garments?"
+
+"I would just die if you ever left the church."
+
+"We've always told people how you have such a strong inner compass. What is happening?"
+
+"Do you think you are agnostic because [your husband] is agnostic?"
+
+"Satan is real. Don't be led astray."
+
+"[Your husband] is so silver-tongued."
+
+"Stop focusing on the negative. Have your read this conference talk by...?."
+
+"My 'mother heart' is breaking."
+
+"Did you start questioning the church because of your miscarriages?"
+
+"[Your husband] is very persuasive. Be strong."
+
+"Think about your children, what this means for them!"
+
+And more. Suffice it to say, things were a bit rocky with them for awhile. We don't talk about religion any more. Everything is pretty surface level. Exiting a cult sucks
