@@ -33,6 +33,12 @@ This was originally posted on lds.org at this address: "https://www.lds.org/broa
 
 Women were [excluded from at least some hurricane Harvey cleanup efforts](https://www.reddit.com/r/exmormon/comments/6wrq0b/women_not_welcome/), even though males as young as 16 were included.
 
+### God does not reveal any great principle through women
+
+Joseph F. Smith [taught in the Oneida Stake Conference, January 20th 1895](https://books.google.com/books?id=ombUAAAAMAAJ&pg=PA257&lpg=PA259#v=onepage&q&f=false):
+
+> **Our Heavenly Father has never yet to my knowledge revealed to this Church any great principle through a woman**. Now, sisters, do not cast me off nor deny the faith, because I tell you that god has never revealed any great and essential truth for the guidance of the Latter-day Saints through any woman. "Oh! but," says one, "what about Eliza Snow's beautiful hymn, 'O my Father, Thou that dwellest,' etc? Did not the Lord reveal through her that great and glorious principle that we have a mother as well as a father in heaven? No. God revealed that principle to Joseph Smith; Joseph Smith revealed it to Eliza Snow Smith, his wife; and Eliza Snow was inspired, being a poet, to put it into verse. If we give anybody on earth credit for that, we give it to the Prophet Joseph Smith. But first of all we give it to God, who revealed it to His servant the Prophet. **God reveals Himself and His truths through the channels of the Priesthood**.
+
 ### Measuring equality
 
 Measurements of equality confirm that women are considered subordinates in the LDS Church.  Kate Kelly [articulated](http://www.dovesandserpents.org/wp/2013/10/equality-is-not-a-feeling/) the difference between feelings of equality and measurements of equality:
