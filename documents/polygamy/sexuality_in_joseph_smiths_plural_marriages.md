@@ -29,11 +29,17 @@ Some have pointed out that Mary Elizabeth Rollins Lightner said in 1905, “I �
 Zina Huntington Young also had a polyandrous relationship with Smith and her first husband, Henry Jacobs. Some point out that she gave an interview in which she referred to her marriage to Smith as “eternal,” not for “time.” However, in the same interview she emphasized that she was married to the Mormon leader for time, as well:
 
 > [Zina:] … he [Joseph Smith] married me … When Brigham Young returned from England, he repeated the ceremony for time and eternity. … I was sealed to Joseph Smith for eternity.
+
 > [Question:] Mrs. Young, you claim, I believe, that you were not married to him “for time?”
+
 > [Zina:] “For eternity.” I was married to Mr. Jacobs, but the marriage was unhappy and we parted …
+
 > [Q:] Is it a fact then, Mrs. Young, that Joseph was not married to you only in the sense of being sealed “for eternity?”
+
 > [Zina:] As his wife for time and eternity.
+
 > [Q:] Mrs. Young, you have answered that question in two ways; for time, and for time and eternity.
+
 > [Zina:] I meant for eternity.
 
 Some interpreters place great weight on these statements, as showing that Zina’s marriage was “spiritual” only. But the interview is so contradictory on this issue, as the elderly Zina sounds defensive and confused while answering an RLDS judge’s harsh questions, that it cannot be used as solid evidence. One even wonders if early Mormons did not use the term “marriage for eternity” to encompass “time and eternity,” as Mormons do today.
