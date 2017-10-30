@@ -85,6 +85,15 @@ http://www.pbs.org/mormons/themes/mission.html
 
 1. Members often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
 
+May be discouraged from any activity that would disrupt Church duties:
+
+https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/
+
+> I planned for years on going for a solo backpacking & hitchhiking adventure around the country. Finally one summer, the conditions were right, I had nothing else I needed to do, and I realized it was then or never. It was time to accomplish a dream.
+
+> When my bishop at the time found out, he sat me down for the most intense church interview I'd had up to that point in my life. His core question was how I intended to fulfill my home teaching and other priesthood duties if I went on my adventure.
+
+
 ### Members are expected to date and marry other members
 
 Ezra Taft Benson [taught](https://www.lds.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng):
