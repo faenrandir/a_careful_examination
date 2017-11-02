@@ -40,7 +40,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Why did [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) not apply to this union?
 
-1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?
+1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?[^detailed_revelation]
 
 1. As alluded to before, [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...are virgins", and 3) "[the second] have vowed to no other man."  Why didn't Joseph follow these guidelines?  What was the point of these guidelines if they were not meant to be adhered to?  To whom were they written?[^polygamy_justification]
 
@@ -130,7 +130,7 @@ However, many data points [support a migration out of Africa beginning about 70,
 
     > 33 Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.
 
-[^polygamy_justification]: Verses 7, 18, and 19 of section 132 emphasize the importance of the person holding Priesthood keys for the justification of any covenant.  Apologists have suggested that these may override the requirements outlined in verse 61.  However, verses 18 and 19 also emphasize the importance of following the words of the Lord: "if that covenant is not by me or by my word, which is my law" and "if a man marry a wife by my word, which is my law".  Do verses 7, 18, and 19 override the requirements outlined in verse 61, or do they underscore the importance of verse 61 (i.e., the coventant must be by His word)?
+[^polygamy_justification]: Verses 7, 18, and 19 of section 132 emphasize the importance of the person holding Priesthood keys for the justification of any covenant.  Apologists have suggested that these may override the requirements outlined in verse 61.  However, verses 18 and 19 also emphasize the importance of following the words of the Lord: "if that covenant is not by me or by my word, which is my law" and "if a man marry a wife by my word, which is my law".  Do verses 7, 18, and 19 override the requirements outlined in verse 61, or do they underscore the importance of verse 61 (i.e., the covenant must be by His word)?
 
 [^partition_algorithm]: The algorithm members often use for dealing with difficult problems with history or doctrine is that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of the ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't"). It’s an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---_by algorithmic definition_.
 
@@ -142,6 +142,14 @@ However, many data points [support a migration out of Africa beginning about 70,
 
     > Bishops are not CEO’s; they are stand-ins for Christ. The relation of a bishop to the people is not analogous to any ‘power’ relationships in the secular world. They are human and prone to mistakes, but they are also a way that God speaks to the world. Bishops serve lay Catholics by standing up for our beliefs, as they are doing now. I am glad that when the world wants to know “what Catholics think” there is a clear way to find out. I am grateful for the leadership of our bishops in these recent weeks. [source](https://www.onfaith.co/onfaith/2012/02/22/in-defense-of-the-catholic-church/11150)
 
+[^detailed_revelation]: Joseph Smith apparently received precise dimensions for the construction of, for example, a printing house ([D&C 94:10-11](https://www.lds.org/scriptures/dc-testament/dc/94.10-11)):
+
+    > 10 And again, verily I say unto you, the second lot on the south shall be dedicated unto me for the building of a house unto me, for the work of the printing of the translation of my scriptures, and all things whatsoever I shall command you.
+
+    > 11 And it shall be fifty-five by sixty-five feet in the width thereof and the length thereof, in the inner court; and there shall be a lower and a higher court.
+
+    The [messiness](https://www.mormoninterpreter.com/opportunity-lost/) of Joseph Smith's polygamy contrasts with such precise instruction.  We might expect more detail to be given for something like polygamy---which had such a tremendous impact on its participants---and less for printing buildings.  If D&C 132:61 constitutes those details, we are then left wondering why those instructions were rarely followed.  What would Joseph Smith's polygamy have looked like had he followed the instructions in D&C 132:61 all along?
+    
 [^no_error]:  The idea that there is no error in the revelations taught by a prophet or that we ought to follow what a prophet teaches regardless of its accuracy is suggested frequently in the LDS Church.
 
     * “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture” ([Brigham Young](https://www.lds.org/manual/teachings-of-the-living-prophets-student-manual/chapter-2-the-living-prophet-the-president-of-the-church?lang=eng))
