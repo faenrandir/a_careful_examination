@@ -68,7 +68,7 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
 [Videos](https://www.lds.org/youth/video/follow-the-prophet?lang=eng) and [lessons](https://www.lds.org/youth/learn/yw/prophets-revelation/listen?lang=eng) demonstrate the consequences of following or not following the prophet, and the message is typically taught in [absolute terms](https://www.lds.org/youth/video/follow-the-prophet?lang=eng):
 
-    > At times, following the prophet may be unpopular, but following the prophet is always right. 
+> At times, following the prophet may be unpopular, but following the prophet is always right. 
 
 ### Most major life events are tied into the Church
 
@@ -96,7 +96,7 @@ And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20
 
 Members are warned against seeking information from unapproved sources:
 
-    > As seekers of truth, our safety lies in asking the right questions, in faith, and of the right sources—meaning those who only speak truth: such as the scriptures, prophets, and the Lord through the Holy Ghost." ([Will You Engage in the Wrestle](http://www.byui.edu/devotionals/sheri-dew))
+> As seekers of truth, our safety lies in asking the right questions, in faith, and of the right sources—meaning those who only speak truth: such as the scriptures, prophets, and the Lord through the Holy Ghost." ([Will You Engage in the Wrestle](http://www.byui.edu/devotionals/sheri-dew))
 
 ### Encouraged to sacrifice anything to the cause
 
