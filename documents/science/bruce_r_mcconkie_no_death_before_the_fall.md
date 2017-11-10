@@ -40,3 +40,21 @@ https://www.lds.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
 > But in the providences of the Lord, “Adam fell that men might be; and men are, that they might have joy.” (2 Ne. 2:25.)
 
 > By his fall, Adam introduced temporal and spiritual death into the world and caused this earth life to become a probationary estate.
+
+---
+
+There is no question about what Bruce R. McConkie personally believed on the
+topic.
+
+In his CES Symposium on the New Testament he discussed how the sealed portion
+of the Book of Mormon would destroy the entire theory of evolution:
+
+> As of now, the world is not ready to receive these truths [found in the yet to be revealed sealed portion]. For one thing, these added doctrines will **completely destroy the whole theory of organic evolution as it is now almost universally taught in the halls of academia**. For another, they will set forth an entirely different concept and time frame of the creation, both of this earth and all forms of life and of the sidereal heavens themselves, than is postulated in all the theories of men. And sadly, there are those who, if forced to make a choice at this time, would select Darwin over Deity. (emphasis added)
+
+In his speech at BYU entitled [The Seven Deadly Heresies](http://emp.byui.edu/marrottr/sevendeadlyanderson.pdf), he stated:
+
+> Heresy number two. There are those who say that revealed religion and organic evolution can be harmonized. This is both false and devilish....
+
+> Try as you may, you cannot harmonize these things with the evolutionary postulate that death has always existed and that the various forms of life have evolved from preceding forms over astronomically long periods of time. ...
+
+Note that after giving the speech, Bruce R. McConkie was [forced by Spencer W.  Kimball to soften his rhetoric](https://utahvalley360.com/2014/05/27/10-great-pre-2004-general-conference-talks/) somewhat, resulting in [the speech](https://speeches.byu.edu/talks/bruce-r-mcconkie_seven-deadly-heresies/) that has now been [officially published by the Church](http://exmormon.org/phorum/read.php?2,485303).
