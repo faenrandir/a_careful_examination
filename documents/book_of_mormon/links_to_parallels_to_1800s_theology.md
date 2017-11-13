@@ -13,22 +13,25 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 
 ### Shorter documents with more narrow focus
 
+*Each of these analyses is significant in its own right, but these are comparatively minor compilations and analyses.  Please consult the extensive compilations to fully appreciate the _extent_ of the parallels.*
+
 1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
-1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
-1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
-1. [Anachronistic Christian doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/)
+1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/) and [Anachronistic Christian doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [Echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/echoes/echos_of_1800s.pdf)
+1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
+1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
+1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
 
 ### Extensive compilations or analyses
 
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
-1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3)
-1. [The Book of Mormon: A Voice from 19th Century Dust (Ray Anderson)](http://www.exmormonfoundation.org/files/BookofMormon07.PDF)
-1. [Historical Influences on the Book of Mormon (Donofrio)](http://www.mormonthink.com/influences.htm#part2)
+1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
+1. [Historical Influences on the Book of Mormon](http://www.mormonthink.com/influences.htm#part2) (Thomas Donofrio)
+1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
-1. [Rick Grunder's Mormon Parallels](http://www.rickgrunder.com/parallels.htm)
+1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
@@ -36,5 +39,5 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part%204)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
-1. [Digging in Cumorah (Mark D. Thomas)](http://signaturebookslibrary.org/digging-in-cumorah/)
+1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas)
 1. [realbookofmormon.org Likely Sources](http://realbookofmormon.org/likely-sources/)

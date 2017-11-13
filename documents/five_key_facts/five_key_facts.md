@@ -27,11 +27,7 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 
 **More**:
 
-* [Religious](http://mormonthink.com/influences.htm#part3) and [Historical](http://mormonthink.com/influences.htm#part2) influences on the Book of Mormon (Thomas Donofrio)
-* [Anachronistic Christian Doctrine in the Book of Mormon](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (LDS Church is True Blog)
-* [Protestant material in the book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/) (my compilation)
-* [Anachronistic Biblical phrasing derived from the 19th century](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/) (exmormon subreddit)
-* [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/) (signature books)
+See [Book of Mormon parallels to 1800s thought](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/)
 
 ## 3. Spiritual confirmations are common to members of many religions
 
@@ -63,10 +59,12 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 
 ## 5. Joseph Smith's polygamy is ethically problematic
 
-The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals involved undue influence.[^undueinfluence]
+Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 33 wives](https://i.imgur.com/kSqAl.jpg), 11 of whom were already legally married to other men.  The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals would likely be viewed as involving undue influence according to modern ethical standards.[^undueinfluence]
 
 In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hales-polygamy-and-polyandry/), the most faithful LDS apologists on polygamy recounted the feelings of reviewers of their recent book on the topic: "At the end of the book [the book reviewer] didn't get a warm fuzzy feeling and that's not really something we think we can deliver with this topic."
 
+* [According to Brian Hales](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/), Joseph's first polygamous relationship (with the teenage maid, Fanny Alger) was viewed as adulterous by his first wife, Emma, and close friend Oliver Cowdery.
+* After the death of the Walker family's mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, [encouraging the father to leave on a two year mission to the eastern states](http://www.wivesofjosephsmith.org/23-LucyWalker.htm).  While the father was away, [he married the 17 year old, Lucy](http://josephsmithspolygamy.org/plural-wives-overview/lucy-walker/).
 * Joseph [frequently misled others about practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).
 * Joseph was [sealed twice to the Partridge sisters](https://imgur.com/a/oscY6) in order to hide the first sealing from Emma.
 * Joseph promised a 14 year old girl---one [who said](https://en.wikipedia.org/wiki/Helen_Mar_Kimball) "I hated polygamy with my heart"---that, [in her own words](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/b7b8c5ae69bc11c1171ccc7c94517b537b9656c5/documents/polygamy/HMK-1881-Autobiography/Helen-Mar-Kimball-Whitney-1881-Autobiography.pdf), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."

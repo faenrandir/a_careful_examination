@@ -1,5 +1,7 @@
 ## Problems with LDS truth-claims
 
+*Before reading about the problems, you may want to first consider [the pros and cons of investigating the truth-claim data](https://mormonbandwagon.com/bwv549/to-peak-behind-the-curtain/).*
+
 ### Very short summaries
 
 * [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) (~ 1 page)
@@ -15,7 +17,12 @@
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
 * [The CES Letter](http://cesletter.com/) (the most famous compilation, by Jeremy Runnells)
+* [A Letter to an Apostle](https://lettertoanapostle.org/) ([FairMormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/A_Letter_to_an_Apostle); [author response](https://lettertoanapostle.org/my-reply-to-fairmormons-response/))
+
+#### Other summaries
+
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
+* [Questions to Ask](https://mormonbandwagon.com/bwv549/questions-to-ask/)
 
 *Additional resources and discussion can be found at [MormonThink](http://www.mormonthink.com/)[^mormonthink] and the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
