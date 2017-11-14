@@ -37,8 +37,7 @@ Special attention should be paid to these women's usage of the words "marry", "m
 
 > The first day of May, 1843, **I consented to become the Prophet’s wife**, and was sealed to him for time and all eternity, at his own house by Elder William Clayton.
 
-> Shortly afterwards **I consented to become the Prophet’s wife**, and was **married** to him May 1, 1843, Elder William Clayton officiating. I am also able to testify that Emma Smith, **the Prophet’s first wife**, gave her consent to the **marriage** of at least four other girls to her husband,
- and that **she was well aware that he associated with them as wives within the meaning of all that word implies**.
+> Shortly afterwards **I consented to become the Prophet’s wife**, and was **married** to him May 1, 1843, Elder William Clayton officiating. I am also able to testify that Emma Smith, **the Prophet’s first wife**, gave her consent to the **marriage** of at least four other girls to her husband, and that **she was well aware that he associated with them as wives within the meaning of all that word implies**.
 
 #### Alemera Johnson
 

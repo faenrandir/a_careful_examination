@@ -21,6 +21,12 @@ Women are subordinate to men in the temple in the following ways:
 
 [With correction and some modification, from [here](http://exmormon.org/phorum/read.php?2,1305696,1305696,quote=1)]
 
+### Submission to a really righteous husband in everything
+
+> A woman would have no fears of being imposed upon, nor of any dictatorial measures, nor of improper demands if the husband were self-sacrificing and worthy. **Certainly no sane woman would hesitate to give submission to her own really righteous husband in everything.** (emphasis added)
+
+Doctrines of the Gospel Student Manual, [ch. 29 The Importance of the Family](https://www.lds.org/manual/doctrines-of-the-gospel-student-manual/chapter-29-the-importance-of-the-family?lang=eng) [quoting Spencer W. Kimball, in Stockholm Sweden Area Conference Report 1974, 46–47]
+
 ### Don't talk too much
 
 Elder Ballard [recently taught](https://www.youtube.com/watch?v=WSWPrzICnlQ) in the Europe Area Sisters' Meeting:
