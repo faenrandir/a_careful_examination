@@ -22,15 +22,25 @@ This document outlines the practices and teachings that contribute to the social
 
 ### Tragic, disastrous consequences for not following
 
-Although the consequences are often unnamed, the implication is that not following the LDS program results in tragic consequences they are always tragic.  For instance, M Russell Ballard [taught](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng): 
+Although the consequences are [often unnamed](https://youtu.be/mmErOV9oQZ8?t=222), the implication is that not following the LDS program results in consequences that are always tragic.  For instance, M. Russell Ballard [taught](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng): 
 
 > they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
 
-Following every part of the LDS program is seen as vitally important for safety.  For instance, Julie Beck tells the story of how drinking coffee was the primary reason her family fell away from the LDS Church (even though they were following the other prescribed activities of paying tithing and Sunday worship):
+Following every part of the LDS program is seen as vitally important for safety.  For instance, Julie Beck tells the story of how drinking coffee was the primary reason her family fell away from the LDS Church even though they were following the other prescribed activities of paying tithing and Sunday worship:
 
 > My next story is about a woman I will call Mary. She was the daughter of faithful pioneer parents who had sacrificed much for the gospel. She had been married in the temple and was the mother of 10 children. She was a talented woman who taught her children how to pray, to work hard, and to love each other. She paid her tithing, and the family rode to church together on Sunday in their wagon.
 
 > Though she knew it was contrary to the Word of Wisdom, she developed the habit of drinking coffee and kept a coffee pot on the back of her stove. She claimed that “the Lord will not keep me out of heaven for a little cup of coffee.” But, because of that little cup of coffee, she could not qualify for a temple recommend, and neither could those of her children who drank coffee with her. Though she lived to a good old age and did eventually qualify to reenter and serve in the temple, only one of her 10 children had a worthy temple marriage, and a great number of her posterity, which is now in its fifth generation, live outside of the blessings of the restored gospel she believed in and her forefathers sacrificed so much for.
+
+D&C 84:41 reminds all those with the Melchizedek Priesthood (which virtually all male members receive at the age of 18):
+
+> But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.
+
+And members are reminded that those who break the marriage covenant will experience "eternal misery" (Eternal Marraige Student Manual: [Covenants and Ordinances](https://www.lds.org/manual/eternal-marriage-student-manual/covenants-and-ordinances?lang=eng)).
+
+The Covenants and Ordinances chapter of the Eternal Marriage Student manual [begins with this quote](https://www.lds.org/manual/eternal-marriage-student-manual/covenants-and-ordinances?lang=eng) by Boyd K. Packer:
+
+> Keep your covenants and you will be safe. Break them and you will not.
 
 ### Confession and Accountability
 
@@ -227,6 +237,8 @@ Hence, a Latter-day Saint persistently sees God's hand influencing their life in
 1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/manual/aaronic-priesthood-manual-1/lesson-12-following-the-living-prophet?lang=eng&_r=1)
 1. Those who "sin against the Holy Ghost" may be [wiped from existence](https://www.fairmormon.org/answers/Plan_of_salvation/Sons_of_Perdition/Eventual_fate) as a Son of Perdition.  This is typically downplayed, but the possibility may act to discourage those who have had the strongest spiritual confirmations from considering alternative models of LDS truth-claims.
 1. As [taught in recent manuals and official Church material](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ff97a00079dc519d16807bcaef105a2a03102334/documents/about_apostates/how_those_who_leave_are_viewed.pdf), those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.
+   
+
 1. Members are taught to "shun" and "flee" from those who openly disagree with accepted Church doctrine (see [The Shunning Key](https://mormonbandwagon.com/bwv549/the-shunning-key/))
 
 ### Orthodoxy tends to trump other considerations
