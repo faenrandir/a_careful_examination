@@ -1,6 +1,6 @@
-% The 1832 First Vision account was suppressed for at least 11 years.
+% The 1832 First Vision account was suppressed for between 11 and 30 years
 
-Summary: The 1832 account of Joseph Smith's First Vision was suppressed by Church leaders for at least 11 years.
+Summary: The 1832 account of Joseph Smith's First Vision was suppressed by Church leaders for at least 11 years and as many as about 30.
 
 ## The evidence
 
@@ -10,7 +10,7 @@ LaMar Petersen, an amateur Mormon historian, met with Levi Young (senior Preside
 
 The "strange" account referred to is the [the 1832 First Vision account](http://josephsmithpapers.org/paperSummary/letterbook-1?dm=image-and-text&zm=zoom-inner&tm=expanded&p=9&s=undefined&sm=none#!/paperSummary/letterbook-1&p=9) (the identity of the document he saw is beyond dispute, as will be obvious from the following sequence of events).
 
-LaMar Peterson later recounted:
+LaMar Petersen later recounted:
 
 >  ... He told us of a “strange account” (Young’s own term) of the First Vision, which he thought was written in Joseph’s own hand and which had been concealed for 120 years in a locked vault. He declined to tell us details, but stated that it did not agree entirely with the offcial version. Jesus was the center of the vision, but God was not mentioned. I respected Young’s wish that the information be withheld until after his death.
 
@@ -22,6 +22,20 @@ After Levi Young's death in December, 1963, Petersen mentioned the account to Je
 * LDS leaders knew what was contained in it, at least as early as 1953 and possibly as early as 1935, about the earliest the account could have been excised from the journal in which it was found.[^excision]
 * LDS leaders forbid people from copying the account or talking about it (although they granted access to at least one LDS historian [Petersen] to privately see it).
 * LDS leaders suppressed[^suppressed] the account from at least 1953 until 1964.
+
+## Why not an earlier dating?
+
+We know that Levi Edgar Young was shown the account before LaMar Petersen.  Stan Larson, probably inferring from the Petersen account, surmises:
+
+> Some time during the 1940s or early 1950s, Joseph Fielding Smith showed Levi Edgar Young (who was then the senior president of the First Council of the Seventy) this 1832 account of the First Vision.
+
+The statement is given the following footnote:
+
+> 8. When Joseph Fielding Smith became president of the LDS Church in 1970, the personal safe in his office was moved into the First Presidency’s walk-in vault. The exact time that the 1832 account was put into the Joseph Fielding Smith office safe and the date that he showed the history to Levi Edgar Young would probably be found in the Joseph Fielding Smith Collection, catalogued as Ms 4250 at the Church History Library Archives. On December 11, 2012 the writer sent to Richard E. Turley a written request for permission to read the diaries (either photocopies or microfilm) of Joseph Fielding Smith from 1930 to 1954, **but this request was denied**. (emphasis added)
+
+So, dating exactly when Joseph Fielding Smith put the document in the vault and dating when he showed the document to Levi Edgar Young are currently unknown because the the LDS Church won't allow historians to read Joseph Fielding Smith's diaries from the time period.
+
+If Joseph Fielding Smith understood the significance of the document when he excised it (which seems highly probable), then the suppression of the document began anywhere from the 1930s until 1964.  If we assume the mid 1930's for the date of widespread use of cellophane tape (say 1934) then we can bracket the time of suppression: The 1832 First Vision account was suppressed somewhere between 11 and 30 years.
 
 ## Additional reflections
 
