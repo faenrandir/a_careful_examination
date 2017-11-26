@@ -24,7 +24,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. If sealing is such an important principle, why was Emma sealed to Joseph after so many others ([more than 16 well documented sealings](http://josephsmithspolygamy.org/plural-wives-overview/))?
 
-1. LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."  Why did Joseph (apparently) not get permission for his relationship with Fanny as suggested by [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61)?
+1. LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."  Why did Joseph (apparently) not get permission for his relationship with Fanny?
 
 1. For what purpose did Joseph Smith get sealed to other righteous men's wives (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) and [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/marinda-nancy-johnson/))?  In particular, what justified Joseph's marriage to [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young), a happily newlywed, pregnant mother?
 
@@ -38,11 +38,9 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Jacobs and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
-1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Why did [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) not apply to this union?
+1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Should Vilate have been consulted before Heber took a second wife?
 
-1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?[^detailed_revelation]
-
-1. As alluded to before, [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...are virgins", and 3) "[the second] have vowed to no other man."  Why didn't Joseph follow these guidelines?  What was the point of these guidelines if they were not meant to be adhered to?  To whom were they written?[^polygamy_justification]
+1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly" (for instance, consistent with the principles suggested by [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61))?[^detailed_revelation]
 
 ## The Book of Abraham
 
@@ -82,6 +80,8 @@ The number of [similarities with early 1800s thought is _extensive_](https://mor
 
 1. Why does it appear that Joseph Smith did not tell anyone about the restoration of the Melchizedek Priesthood [for several years](https://www.fairmormon.org/answers/Mormonism_and_priesthood/Restoration/Melchizedek/Date)?  And why did Joseph Smith [retro-fit Book of Commandment revelations with Priesthood restoration stories](https://en.wikipedia.org/wiki/Book_of_Commandments#Content_of_the_Book_of_Commandments)? (see [full side-by-side BoC and D&C comparison](https://drive.google.com/file/d/0B6ItuDdVWOO8X2JqTlVCb3E5dTg/view))
 
+1. Given their separation by 800 miles, the Saints in Kirtland were unaware of events as they occurred in Jackson County Missouri.  Given [his omniscience](https://www.lds.org/scriptures/tg/god-omniscience-of?lang=eng), however, God should be aware of events as they occur.  Unbeknownst to the Saints in Kirtland, the Saints in Missouri (aka 'Zion') had just had their businesses looted, their printing press destroyed, their farms and houses burned, and had just been forced to sign an agreement to leave Jackson County when [D&C 97](https://www.lds.org/scriptures/dc-testament/dc/97?lang=eng) was revealed to Joseph Smith in Kirtland.  Why did God appear to be fairly [unaware of the events that had just transpired in Jackson County](http://www.116pages.com/2017/11/doctrine-and-covenants-section-97.html?m=1) as indicated by the various concerns discussed in section 97?
+
 ## Adam and Eve
 
 The Church teaches [in 8 current manuals](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/397ebf7846fb325dbaa6fe3714131e2f07268777/documents/science/the_6000_year_problem.pdf) that Adam lived at approximately 4000 BC; Joseph Smith claimed that [Adam and Eve walked out of the Garden of Eden into Missouri, USA](http://en.fairmormon.org/Joseph_Smith/Garden_of_Eden_in_Missouri),[^eden_in_missiour] and modern leaders [affirm the physical, literal reality of Adam and Eve](https://www.lds.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=eng).  In addition, restored LDS scripture describes Adam and Eve tilling the ground immediately upon their explusion from the Garden of Eden (see [Moses 4:29](https://www.lds.org/scriptures/pgp/moses/4.29)).  Given that agriculture was not invented [until about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution), it appears that all accounts of Adam and Eve from LDS prophetic sources place them somewhere between 4,000 BCE and 10,000 BCE (in Missouri, USA).
@@ -116,8 +116,6 @@ However, many data points [support a migration out of Africa beginning about 70,
 
 [^dating]: The various methods used to date these events are accepted as generally accurate by every BYU scientist who operates within these domains ([for example](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4f3ac030a39f9e572b7a1835e93e8c30a2c2f9fa/documents/science/carbon14_dating_is_reliable.pdf)).  In part, that's because these methods are verified and calibrated by highly orthogonal measures of the passage of time (position of the stars relative to stonehenge, varve layers, speleothem deposition, tree-rings, etc).
 
-[^written_to_lamanites]: The [title page](https://www.lds.org/topics/book-of-mormon-and-dna-studies?lang=eng) of the Book of Mormon states that it was written to the Lamanites.
-
 [^blood]: Confidence in the underlying teaching about the curse of Cain and "black" blood is also manifest in the practice of LDS hospitals segregating "black" blood from "white" blood [for many years](https://books.google.com/books?id=JaZn25Uv6XwC&pg=PA197&lpg=PA197#v=onepage&q&f=false).
 
 [^bryce_cook]: Additionally, consider [the arguments outlined by Bryce Cook](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/).
@@ -129,8 +127,6 @@ However, many data points [support a migration out of Africa beginning about 70,
     > 32 And, behold, they will publish this, and Satan will harden the hearts of the people to stir them up to anger against you, that they will not believe my words.
 
     > 33 Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.
-
-[^polygamy_justification]: Verses 7, 18, and 19 of section 132 emphasize the importance of the person holding Priesthood keys for the justification of any covenant.  Apologists have suggested that these may override the requirements outlined in verse 61.  However, verses 18 and 19 also emphasize the importance of following the words of the Lord: "if that covenant is not by me or by my word, which is my law" and "if a man marry a wife by my word, which is my law".  Do verses 7, 18, and 19 override the requirements outlined in verse 61, or do they underscore the importance of verse 61 (i.e., the covenant must be by His word)?
 
 [^partition_algorithm]: The algorithm members often use for dealing with difficult problems with history or doctrine is that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of the ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't"). It’s an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---_by algorithmic definition_.
 
@@ -148,7 +144,9 @@ However, many data points [support a migration out of Africa beginning about 70,
 
     > 11 And it shall be fifty-five by sixty-five feet in the width thereof and the length thereof, in the inner court; and there shall be a lower and a higher court.
 
-    The [messiness](https://www.mormoninterpreter.com/opportunity-lost/) of Joseph Smith's polygamy contrasts with such precise instruction.  We might expect more detail to be given for something like polygamy---which had such a tremendous impact on its participants---and less for printing buildings.  If D&C 132:61 constitutes those details, we are then left wondering why those instructions were rarely followed.  What would Joseph Smith's polygamy have looked like had he followed the instructions in D&C 132:61 all along?
+    The [messiness](https://www.mormoninterpreter.com/opportunity-lost/) of Joseph Smith's polygamy contrasts with such precise instruction.  We might expect more detail to be given for something like polygamy---which had such a tremendous impact on all its participants---and perhaps less detail for printing buildings.
+    
+    We cannot be certain when the principles given in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) were first revealed, but we know the full revelation was recorded [by July 7, 1843](https://www.lds.org/scriptures/dc-testament/dc/132).  If these principles were revealed late, we are left wondering why these principles were not revealed earlier. For instance, had the angel delivered these principles at the same time as threats of death were he not to move ahead with polygamy, then perhaps Joseph would not have pressured Zina Huntington, the 7 month pregnant newlyewed, into being sealed to him.  On the other hand, if the [D&C 132:61 principles](https://www.lds.org/scriptures/dc-testament/dc/132.61) were, in fact, revealed earlier to Joseph, we are left wondering why Joseph rarely, if ever, followed those principles.  What would Joseph Smith's polygamy have looked like had he followed the principles in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) from the beginning?
     
 [^no_error]:  The idea that there is no error in the revelations taught by a prophet or that we ought to follow what a prophet teaches regardless of its accuracy is suggested frequently in the LDS Church.
 

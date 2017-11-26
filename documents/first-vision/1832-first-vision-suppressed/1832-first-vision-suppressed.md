@@ -1,6 +1,4 @@
-% The 1832 First Vision account was suppressed for between 11 and 30 years
-
-Summary: The 1832 account of Joseph Smith's First Vision was suppressed by Church leaders for at least 11 years and as many as about 30.
+% The 1832 First Vision account was suppressed between 11 and ~30 years
 
 ## The evidence
 
@@ -35,7 +33,7 @@ The statement is given the following footnote:
 
 So, dating exactly when Joseph Fielding Smith put the document in the vault and dating when he showed the document to Levi Edgar Young are currently unknown because the the LDS Church won't allow historians to read Joseph Fielding Smith's diaries from the time period.
 
-If Joseph Fielding Smith understood the significance of the document when he excised it (which seems highly probable), then the suppression of the document began anywhere from the 1930s until 1964.  If we assume the mid 1930's for the date of widespread use of cellophane tape (say 1934) then we can bracket the time of suppression: The 1832 First Vision account was suppressed somewhere between 11 and 30 years.
+If Joseph Fielding Smith understood the significance of the document when he excised it (which seems highly probable), then the suppression of the document began anywhere from the 1930s until 1964.  If we assume the mid 1930's for the date of widespread use of cellophane tape (say 1934) then we can bracket the time of suppression: The 1832 First Vision account was suppressed somewhere between 11 and about 30 years.
 
 ## Additional reflections
 
