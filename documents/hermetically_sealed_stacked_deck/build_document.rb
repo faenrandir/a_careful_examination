@@ -52,6 +52,8 @@ lines = IO.readlines(DATA_FILE).map(&:chomp)
 insert_after = lines.index {|line| line == INSERT_AFTER } + 1
 lines.insert(insert_after, *insertion_lines)
 
+#### This is breaking!  Just move hermetically-sealed-systems-in-lds-thought-tmp.pdf to hermetically-sealed-systems-in-lds-thought.pdf for a quick fix (basically an outline-less pdf that is still functional).
+
 File.write(INSERTED_DATA_FILE, lines.join("\n"))
 
 `pdftk #{TMP_FILE} update_info_utf8 #{INSERTED_DATA_FILE} output #{FINAL_OUTPUT}`
