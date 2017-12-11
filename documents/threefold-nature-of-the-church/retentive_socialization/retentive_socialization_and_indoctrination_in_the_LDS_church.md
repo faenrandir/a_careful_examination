@@ -26,10 +26,12 @@ Socializing forces have been organized from those which tend to initialize indoc
 
 ### Program involves extensive time learning doctrine
 
+1. Members attend a minimum of 3 hours of Church each Sunday (not counting other meetings like nightly "firesides").
+1. Members are taught to pray morning and night individually, with their family, and with their spouses, pray over every meal, and study their scriptures daily.
+1. Boys and girls begin bi-monthly activities with their respective gender at age 8.  Some of the lessons indirectly support LDS doctrine.
+1. Youth from the age of 12 to 18 attend a weekly activity.  Many activities directly involve learning or acting out LDS teachings.
 1. All high-school youth attend roughly one hour of study in the doctrines and beliefs of the Church nearly every single day of high school.
 1. All males are expected to serve a 2 year full-time mission and many females serve a 1.5 year mission.  During this time, missionaries study LDS scripture and related material almost exclusively.
-1. Members are taught to pray morning and night individually, with their family, and with their spouses, and study their scriptures daily.
-1. Members attend a minimum of 3 hours of Church each Sunday (not counting other meetings like nightly "firesides"), and youth attend a mid-week activity every week.
 1. Members are to listen to 10 hours of instruction from Church leadership each half year and carefully review that instruction.
 
 ### Members taught to condition themselves into belief
@@ -50,7 +52,7 @@ Socializing forces have been organized from those which tend to initialize indoc
 
 1. Members often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
 
-May be discouraged from any activity that would disrupt Church duties:
+They may be discouraged from any activity that would disrupt Church duties:
 
 https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/
 
