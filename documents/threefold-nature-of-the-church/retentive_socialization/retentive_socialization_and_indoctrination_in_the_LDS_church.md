@@ -18,7 +18,7 @@ The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained]
 
 > Social learning, despite its seeming simplicity...remains **the best explanation for most religious actions**.  It is the best explanation for the overall prevalence of religion, for individual religiosity, and for ... the most dramatic of religious acts and movements. ... The variety of religious traditions and the correspondence between the dominant tradition in the social environment and the religious beliefs of the individual are the most obvious proofs to the validity of the social learning approach, which is also able to explain what are considered intense religious experiences.  Supernaturalism is inherently accessible, and children learn just one local version of it and in most cases become inexorably attached to it.
 
-This document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for roughly two years to share their religion with others.  Positive desires to share and to serve motivate many young Latter-day Saints to serve, but the negative repurcussions a young person might experience by _not_ serving a mission is likely woven into the motivation many experience.  Both the positive and negative drives may be considered "two sides" of the same socializing-influence "coin".
+This document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for roughly two years to share their religion with others.  Positive desires to share and to serve motivate many young Latter-day Saints to serve, but the negative repurcussions a young person might experience by _not_ serving a mission is likely woven into their motivation.  Both the positive and negative drives may be considered "two sides" of the same socializing-influence "coin".
 
 Socializing forces have been organized from those which tend to initialize indoctrination, proceeding through those which sustain and deepen committment, and followed by both passive and then active forces designed to prevent apostasy (i.e., retentive socialization).[^order]
 
@@ -26,41 +26,41 @@ Socializing forces have been organized from those which tend to initialize indoc
 
 ### Program involves extensive time learning doctrine
 
-1. Members attend a minimum of 3 hours of Church each Sunday (not counting other meetings like nightly "firesides").
-1. Members are taught to pray morning and night individually, with their family, and with their spouses, pray over every meal, and study their scriptures daily.
-1. Boys and girls begin bi-monthly activities with their respective gender at age 8.  Some of the lessons indirectly support LDS doctrine.
-1. Youth from the age of 12 to 18 attend a weekly activity.  Many activities directly involve learning or acting out LDS teachings.
-1. All high-school youth attend roughly one hour of study in the doctrines and beliefs of the Church nearly every single day of high school.
-1. All males are expected to serve a 2 year full-time mission and many females serve a 1.5 year mission.  During this time, missionaries study LDS scripture and related material almost exclusively.
-1. Members are to listen to 10 hours of instruction from Church leadership each half year and carefully review that instruction.
+LDS members spend a considerable amount of time in meetings teaching or learning LDS doctrine:
+
+1. Members attend [a minimum of 3 hours of Church each Sunday](https://www.lds.org/ensign/1980/03/news-of-the-church/church-consolidates-meeting-schedules?lang=eng&_r=1) (not counting other meetings like nightly "firesides").
+1. Members are taught to pray [morning and night individually](https://www.lds.org/new-era/2017/01/morning-and-evening-prayers?lang=eng), [with their family](https://www.lds.org/ensign/2001/02/no-substitute-for-family-prayer?lang=eng), and [with their spouses](https://www.lds.org/manual/marriage-and-family-relations-instructors-manual/part-a-strengthening-marriages/lesson-6-strengthening-marriages-through-faith-and-prayer?lang=eng), [pray over every meal](http://eom.byu.edu/index.php/Blessing_on_Food), and [study their scriptures daily](https://www.lds.org/media-library/video/2013-02-1360-231-i-love-my-daily-scripture-study?lang=eng).
+1. Boys and girls begin [bi-monthly activities with their respective gender at age 8](https://www.lds.org/callings/primary/leader-resources/activity-days?lang=eng).  Some of the lessons directly or indirectly support LDS doctrine.
+1. Youth from the age of 12 to 18 attend [a weekly activity](https://www.lds.org/youth/activities/training/how-to-plan-effective-activities?lang=eng).  Many activities directly involve learning or acting out LDS teachings.
+1. All high-school youth attend roughly one hour of [study in the doctrines and beliefs of the Church](https://www.mormonnewsroom.org/topic/seminary) nearly every single day of high school.
+1. [All males are expected to serve a 2 year full-time mission](https://www.lds.org/new-era/1981/05/president-kimball-speaks-out-on-being-a-missionary?lang=eng) and [many females serve a 1.5 year mission](https://www.pri.org/stories/2014-08-25/mormon-women-are-flocking-mission-inequalities-remain).  During this time, missionaries engage in daily individual and companion study of LDS material ([at least 1 hour total daily](https://www.lds.org/church/news/changes-to-missionaries-daily-schedule-allows-more-time-to-teach-gospel?lang=eng)) and they will spend most of their day discussing LDS doctrine within their companionship and with investigators.
+1. Members are to listen to [10 hours of instruction](https://www.lds.org/church/events/october-2017-general-conference?lang=eng) from Church leadership each half year and [carefully review those teachings](https://www.lds.org/prophets-and-apostles/unto-all-the-world/conference-participation-brings-blessings-first-presidency-says?lang=eng) between conferences.
 
 ### Members taught to condition themselves into belief
 
-1.  Members are taught that testifying that they know the Church is true is one way to discover their testimony.  Boyd K. Packer [taught](https://www.lds.org/ensign/1983/01/the-candle-of-the-lord?lang=eng):
-
-    > It is not unusual to have a missionary say, “How can I bear testimony until I get one? How can I testify that God lives, that Jesus is the Christ, and that the gospel is true? If I do not have such a testimony, would that not be dishonest?” Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it![^insufficientjustification]
-
-    And Dallin H. Oaks [taught](April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng):
-
-    > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.
-
-1. Members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Niel L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
+Members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Niel L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
 
     > Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.
 
+Members are instructed that testifying that they know the Church is true is one way to discover their testimony.  Boyd K. Packer [taught](https://www.lds.org/ensign/1983/01/the-candle-of-the-lord?lang=eng):
+
+    > It is not unusual to have a missionary say, “How can I bear testimony until I get one? How can I testify that God lives, that Jesus is the Christ, and that the gospel is true? If I do not have such a testimony, would that not be dishonest?” Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it![^insufficientjustification]
+
+And Dallin H. Oaks [taught](April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng):
+
+    > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.
+
 ### Encouraged to sacrifice anything to the cause
 
-1. Members often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
+1. Members are often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
 
-They may be discouraged from any activity that would disrupt Church duties:
-
-https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/
+They may be discouraged from participating in any activity that would disrupt Church duties.  One individual [recounted](https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/):
 
 > I planned for years on going for a solo backpacking & hitchhiking adventure around the country. Finally one summer, the conditions were right, I had nothing else I needed to do, and I realized it was then or never. It was time to accomplish a dream.
 
 > When my bishop at the time found out, he sat me down for the most intense church interview I'd had up to that point in my life. His core question was how I intended to fulfill my home teaching and other priesthood duties if I went on my adventure.
 
-Every LDS person marrying in the temple or serving a mission _must_ receive their endowment.  In this ceremony they promise to:
+Every LDS person marrying in the temple or serving a mission must receive their endowment, and all adults are encouraged to receive their endowment.  In this ceremony they promise to:
 
 > observe and keep the Law of Sacrifice, as contained in the Old and New Testament [as Jesus Christ has laid down his life for the redemption of mankind, so we should covenant to sacrifice all that we possess, even our own lives if necessary, in sustaining and defending the Kingdom of God]
 
@@ -68,7 +68,7 @@ and to:
 
 > consecrate yourselves, your time, talents, and everything with which the Lord has blessed you, or with which he may bless you, to the Church of Jesus Christ of Latter-day Saints, for the building up of the Kingdom of God on the earth and for the establishment of Zion
 
-Consider example: [bound by eternal covenants](https://www.youtube.com/watch?v=W989ZgIaD3g).
+Thinker of Thoughts discusses how members [covenant and are reminded of their covenants](https://www.youtube.com/watch?v=W989ZgIaD3g) in the LDS Church.
 
 ## Deepening Indoctrination
 
