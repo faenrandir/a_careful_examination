@@ -301,6 +301,6 @@ A significant number of teachings, cultural factors, and practices align to enco
 
 [^alternative_sources]: LDS members are reluctant to consult unapproved sources on LDS truth-claims.  For instance, I have compiled a list of problem summaries of LDS truth claims: [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/), and it includes all the rebuttals to the problems that I'm aware of.  For balance it includes [an official link pointing to every apologetic resource approved or "blessed" by lds.org](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) and points directly to other apologetic resources.  Even though it is balanced in its approach to potential problems, LDS members would be highly reluctant to visit or publicly share such a link with other Latter-day Saints.
 
-[^secondwife_secret]: Legally, the person may only be married to one person at a time, but a man may be sealed to more than one living woman at a time.
+[^secondwife_secret]: According to current Church policy, a person may only be legally married to one person at a time, but a man may be _sealed_ to more than one living woman at a time.
 
 [^exceptions_to_communication]: Exceptions to the communication policy are rare---for instance, a father was [denied contact information for a son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
