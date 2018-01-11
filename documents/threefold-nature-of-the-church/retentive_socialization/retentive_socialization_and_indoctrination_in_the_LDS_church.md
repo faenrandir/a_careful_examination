@@ -1,4 +1,4 @@
-# Indoctrination and Retentive Socialization
+# LDS Indoctrination and Retentive Socialization
 
 ## Introduction
 
@@ -6,11 +6,11 @@ In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonl
 
 > “I wish I could go to those who have walked away from the Church, and those who are its ardent critics, and say, “Come with me to the MTC on a Wednesday morning and let’s just watch. Let’s stand together and watch these families say goodbye to their sons and daughters.”
 
-> “**You mean to tell me you think these people are brainwashed?** These individuals and families who in all other walks of life, in their education, in their careers, and in their communities are successful, smart, and industrious – **you mean to tell me in this one area they are so ignorant and brainwashed that they would send away their sons and daughters?**”[^arkellcomment]
+> “**You mean to tell me you think these people are brainwashed?** These individuals and families who in all other walks of life, in their education, in their careers, and in their communities are successful, smart, and industrious – **you mean to tell me in this one area they are so ignorant and brainwashed that they would send away their sons and daughters?**”
 
 > “Never. They would never do it.’
 
-This document attempts to _broadly_ address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a signficant level of socialization, and socialization is a powerful force for encouraging and discouraging certain kinds of behavior.
+This document attempts to _broadly_ address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a significant level of socialization, and socialization is a powerful force for encouraging and discouraging certain kinds of behavior.
 
 ## Socialization
 
@@ -18,9 +18,9 @@ The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained]
 
 > Social learning, despite its seeming simplicity...remains **the best explanation for most religious actions**.  It is the best explanation for the overall prevalence of religion, for individual religiosity, and for ... the most dramatic of religious acts and movements. ... The variety of religious traditions and the correspondence between the dominant tradition in the social environment and the religious beliefs of the individual are the most obvious proofs to the validity of the social learning approach, which is also able to explain what are considered intense religious experiences.  Supernaturalism is inherently accessible, and children learn just one local version of it and in most cases become inexorably attached to it.
 
-This document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for roughly two years to share their religion with others.  Positive desires to share and to serve motivate many young Latter-day Saints to serve, but the negative repurcussions a young person might experience by _not_ serving a mission is likely woven into their motivation.  Both the positive and negative drives may be considered "two sides" of the same socializing-influence "coin".
+This document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for roughly two years to share their religion with others.  Positive desires to share and to serve motivate many young Latter-day Saints to serve, but the negative repercussions a young person might experience by _not_ serving a mission is likely woven into their motivation.  Both the positive and negative drives may be considered two sides of the same socializing-influence coin.
 
-Socializing forces have been organized from those which tend to initialize indoctrination, proceeding through those which sustain and deepen committment, and followed by both passive and then active forces designed to prevent apostasy (i.e., retentive socialization).[^order]
+Socializing forces have been organized from those which tend to initialize indoctrination, proceeding through those which sustain and deepen commitment, and followed by both passive and then active forces designed to prevent apostasy (i.e., retentive socialization).[^order]
 
 ## Initial Indoctrination
 
@@ -38,21 +38,21 @@ LDS members spend a considerable amount of time in meetings teaching or learning
 
 ### Members taught to condition themselves into belief
 
-Members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Niel L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
+Members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Neil L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
 
-    > Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.
+> Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.
 
 Members are instructed that testifying that they know the Church is true is one way to discover their testimony.  Boyd K. Packer [taught](https://www.lds.org/ensign/1983/01/the-candle-of-the-lord?lang=eng):
 
-    > It is not unusual to have a missionary say, “How can I bear testimony until I get one? How can I testify that God lives, that Jesus is the Christ, and that the gospel is true? If I do not have such a testimony, would that not be dishonest?” Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it![^insufficientjustification]
+> It is not unusual to have a missionary say, “How can I bear testimony until I get one? How can I testify that God lives, that Jesus is the Christ, and that the gospel is true? If I do not have such a testimony, would that not be dishonest?” Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it![^insufficientjustification]
 
-And Dallin H. Oaks [taught](April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng):
+And Dallin H. Oaks taught ([April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng)):
 
-    > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.
+> Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.
 
 ### Encouraged to sacrifice anything to the cause
 
-1. Members are often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
+Members are often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
 
 They may be discouraged from participating in any activity that would disrupt Church duties.  One individual [recounted](https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/):
 
@@ -64,7 +64,7 @@ Every LDS person marrying in the temple or serving a mission must receive their 
 
 > observe and keep the Law of Sacrifice, as contained in the Old and New Testament [as Jesus Christ has laid down his life for the redemption of mankind, so we should covenant to sacrifice all that we possess, even our own lives if necessary, in sustaining and defending the Kingdom of God]
 
-and to:
+In the temple, members also make a solemn covenant to:
 
 > consecrate yourselves, your time, talents, and everything with which the Lord has blessed you, or with which he may bless you, to the Church of Jesus Christ of Latter-day Saints, for the building up of the Kingdom of God on the earth and for the establishment of Zion
 
@@ -75,7 +75,7 @@ Thinker of Thoughts discusses how members [covenant and are reminded of their co
 ### Missions are highly controlled, socializing environments
 
 1. The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).
-1. Mission presidents may use an extraordinary number of tactics and gates (~21) to prevent homesick or discouraged missionaries from returning home.[^avoid_early_release_tactics]  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
+1. Mission presidents may use [an extraordinary number of tactics and gates](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/) to prevent homesick or discouraged missionaries from returning home.  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
 1. Father [denied contact information for son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
 
 ### Members are expected to date and marry other members
@@ -136,9 +136,11 @@ And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20
 
 ### Compartmentalization of information
 
-1. Aspects of the temple are obfuscated or kept secret from the uninitiated.([example 1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example 2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq))
-1. Handbook 1 not publicly available.
-1. Finances not public since 1959.
+The compartmentalization of information hinders a lay member's ability to fairly criticize administrative actions or policy.
+
+1. Aspects of the temple are obfuscated or kept secret from the uninitiated ([example 1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example 2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq)).
+1. Handbook 1, the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions, is not publicly available and not available to the lay member to consult.
+1. Finances [not public since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
 1. Permission for being sealed to a second wife in the temple [is handled in secret](https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=exmormon). [Legally, the person may only be married to one person at a time, but a man may be sealed to more than one living woman at a time]
 
 ### Expression of ideas countering orthodoxy may be suppressed
@@ -154,7 +156,7 @@ And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20
 
     > There is a temptation for the writer or the teacher of Church history to want to tell everything, whether it is worthy or faith promoting or not.  Some things that are true are not very useful...In an effort to be objective, impartial, and scholarly, a writer or a teacher may unwittingly be giving equal time to the adversary...The idea that we must be neutral and argue quite as much in favor of the adversary as we do in favor of righteousness is neither reasonable nor safe...It is neither expected nor necessary for us to accommodate those who seek to retrieve references from our sources, distort them, and use them against us."
 
-1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/manual/aaronic-priesthood-manual-1/lesson-12-following-the-living-prophet?lang=eng&_r=1)
+1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng))
 
 ### Doctrine of "eternal families" encourages in-group association
 
@@ -188,11 +190,31 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
 > At times, following the prophet may be unpopular, but following the prophet is always right. 
 
-### Consulting unapproved sources is considered risky
+### Familiarity with unapproved sources is considered risky
 
-Members are warned against seeking information from unapproved sources:
+1. Members are warned against seeking information from unapproved sources:
 
-> As seekers of truth, our safety lies in asking the right questions, in faith, and of the right sources—meaning those who only speak truth: such as the scriptures, prophets, and the Lord through the Holy Ghost." ([Will You Engage in the Wrestle](http://www.byui.edu/devotionals/sheri-dew))
+    > As seekers of truth, our safety lies in asking the right questions, in faith, and of the right sources—meaning those who only speak truth: such as the scriptures, prophets, and the Lord through the Holy Ghost." (Sheri Dew, [Will You Engage in the Wrestle](http://www.byui.edu/devotionals/sheri-dew))
+
+2. The 7th temple recommend question strongly implies that agreement with those who have contrary teachings is frowned upon.  Potential loss of a temple recommend is a deterrent to critical investigation:
+
+    > Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+
+3. Do not attend symposia that include presentations that ...could...detract from [the Church's] mission (General Handbook of Instruction 1999)
+
+    > The Church warns its members against symposia and other similar gatherings that include presentations that (1) disparage, ridicule, make light of, or are otherwise inappropriate in their treatment of sacred matters or (2) could injure the Church, detract from its mission, or jeopardize its members' well-being. Members should not allow their position or standing in the Church to be used to promote or imply endorsement of such gatherings.
+
+4. Disconnect from proselyting of those who have lost their faith
+
+    > We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith and instead reconnect promptly with the Holy Spirit. (April 2016 BYU Commencement Address, L. Whitney Clayton, [Getting and Staying Connected](https://www.lds.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng))
+
+5. Faith-killers should be shunned
+
+    > Avoid those who would teardown your faith. Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit.  (Oct 1981 GC, Carlos E. Asay, [Opposition to the Work of God](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng))
+
+    The example Asay gives of a "faith-killer" is a person who pointed out contradictions in the historical record to a new convert.
+
+One simple way to demonstrate that LDS members are generally reluctant to consult unapproved sources is to merely ask a member to read or share links discussing alternative models of LDS truth-claims, even if they include links to faithful responses.[^alternative_sources]  Few will do so and even fewer would be willing to share such critiques with others.
 
 ### No viable alternative
 
@@ -216,7 +238,7 @@ M Russell Ballard [taught](https://www.lds.org/general-conference/2016/10/to-who
 
 Interviews occur at expected intervals and can lead to intense pressure to conform to the LDS program.  Consider, for instance, the pressure to conform felt by [Kip Eliason](http://thoughtsonthingsandstuff.com/a-latter-day-tragedy-suicide-over-masturbation/) and Steven ([as related by NewNameNoah](https://www.youtube.com/watch?v=Xliwswh4GGU) [warning: last half contains explicit temple references]).  NewNameNoah took [hidden-camera footage of his adult worthiness interview](https://youtu.be/4DCeAK6vUb8?t=260) [warning: video may be offensive to LDS members].
 
-Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf)):
+Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf):
 
 > Worthiness interviews need to be **specific** and **explicit** (emphasis added)
 
@@ -236,7 +258,7 @@ Although questions are prescribed and must be asked word-for-word, ecclesiastica
 ### Strongly discourages and stigmatizes dissent
 
 1. Those who disagree with orthodox doctrine [are considered either ignorant or proud](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/false-teachings?lang=eng).
-1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/manual/aaronic-priesthood-manual-1/lesson-12-following-the-living-prophet?lang=eng&_r=1)
+1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng))
 1. Those who "sin against the Holy Ghost" may be [wiped from existence](https://www.fairmormon.org/answers/Plan_of_salvation/Sons_of_Perdition/Eventual_fate) as a Son of Perdition.  This is typically downplayed, but the possibility may act to discourage those who have had the strongest spiritual confirmations from considering alternative models of LDS truth-claims.
 1. As [taught in recent manuals and official Church material](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ff97a00079dc519d16807bcaef105a2a03102334/documents/about_apostates/how_those_who_leave_are_viewed.pdf), those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.
 
@@ -258,7 +280,7 @@ D&C 84:41 reminds all those with the Melchizedek Priesthood (which virtually all
 
 > But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.
 
-And members are reminded that those who break the marriage covenant will experience "eternal misery" (Eternal Marraige Student Manual: [Covenants and Ordinances](https://www.lds.org/manual/eternal-marriage-student-manual/covenants-and-ordinances?lang=eng)).
+And members are reminded that those who break the marriage covenant will experience "eternal misery" (Eternal Marriage Student Manual: [Covenants and Ordinances](https://www.lds.org/manual/eternal-marriage-student-manual/covenants-and-ordinances?lang=eng)).
 
 The Covenants and Ordinances chapter of the Eternal Marriage Student manual [begins with this quote](https://www.lds.org/manual/eternal-marriage-student-manual/covenants-and-ordinances?lang=eng) by Boyd K. Packer:
 
@@ -268,37 +290,12 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 
 A tremendous number of cultural factors and practices align to encourage members to stay members and help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
 
----
-
 [^order]: Socializing forces are difficult to organize because the forces permeate the life of a Latter-day Saint and may occur in somewhat different order and flavors depending on individual circumstances.  So, any particular categorization should be considered very loose, and a given example may apply to some extent to other categories.
 
 [^insufficientjustification]: The practice of bearing a testimony to find it may take advantage of the phenomenon of "insufficient justification". [From the 1959 study](http://psychclassics.yorku.ca/Festinger/) on insufficient justification: "If a person is induced to do or say something which is contrary to his private opinion, there will be a tendency for him to change his opinion so as to bring it into correspondence with what he has done or said." ([video which details the experiment](https://www.youtube.com/watch?v=CkJc6c3nKMw) and more on [insufficient justification](https://en.wikipedia.org/wiki/Insufficient_justification))
 
-[^avoid_early_release_tactics]: Twenty-one methods and gates a Mission President may employ before allowing a missionary to return home (h/t reddit user [curious_mormon](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/)) from the [2006 Missionary Handbook](https://archive.org/details/MissionPresidentsHandbook2006):
-
-    > Some missionaries suffer from homesickness or discouragement. Others suffer from a lack of confidence. Some may have difficulty leaving the cares of the world behind. Such missionaries might ask to go home. These concerns are generally most acute during the first 90 days of a missionary's service.
-
-    > You can identify and resolve many of these concerns during your initial interviews with missionaries. [1] Explain that such feelings are common in the early weeks, especially on weekends or holidays, and may recur at other times. Help them understand how to combat negative feelings, and make sure they know that you are always ready to give encouragement and counsel.
-
-    > If a missionary is determined to return home, seek counsel from the Area Presidency and discuss the situation with your Missionary Department In-Field Services representative. To help a struggling missionary, [2]you may invite him or her to visit the mission home, or [3]you may arrange for a visit to the home of a priesthood leader in the area where the missionary is serving. The atmosphere there, plus [4]a personal interview and [5]a priesthood blessing, often can re- store sagging spirits. [6]Your wife can often have an influence in strengthening a missionary.
-
-    > [7]Help the missionary understand that deciding to return home is a very serious matter but that the final decision is his or hers.
-
-    > Ask the missionary to talk with [8]his or her parents, [9]bishop, or [10]stake president. You should learn what they say so that you can build on it. [11]If the home priesthood leaders know that the family wants the missionary to continue serving, make sure the missionary calls home. Even if the parents were not originally in favor of the mission, they may want their missionary to finish what he or she has started. Parents or priesthood leaders may recommend other people who can help, [12]such as a friend (including a girlfriend if she will be supportive), [13]a youth leader, a [14]seminary teacher, or a [15]returned missionary.
-
-    > [16]Some struggling missionaries respond well to a "test period." You might give a missionary [17]an assignment suited to his or her needs. Then you could say, "Try it for three months. If you feel the same way, we'll call the Area Presidency (or Church headquarters) about your request." [18]You might also ask the missionary to stay at least until the next transfer so that the work will not be disrupted and his or her companion will not need to be transferred.
-
-    > [19]Explain that if the missionary returns home at his or her own insistence, the missionary and the family are to reimburse the Church for the cost of the return trip home.
-If after [20]counseling with the Area Presidency, all efforts fail and a missionary insists on going home, [21]ask your Missionary Department In-Field Services representative for further instructions. You should not feel personally responsible when a missionary goes home early after you have done all you can.
-
 [^passports]: Passports are held in the mission home of many missions.  This was the practice in my mission, and has [been reported by many others](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/).
 
-[^invasive_interviews]: Worthiness interviews may vary depending on the leader, but some of them appear to be more invasive than others:
+[^invasive_interviews]: Worthiness interviews may vary depending on the leader, but some of them appear to be more invasive than others.  The subreddit [/r/WorthinessInterviews](https://www.reddit.com/r/WorthinessInterviews/) catalogs invasive examples.
 
-    * Bishops may ask very probing questions about sexuality, particularly to those about to serve a mission ([example](https://www.reddit.com/r/exmormon/comments/6aotgt/list_of_questions_a_bishop_asks_premissionaries/))
-    * Bishops may ask children as young as 8 years old if they touch themselves ([example](https://bishopsinterview.blogspot.com/?view=classic&m=1), [recording](https://www.youtube.com/watch?v=GHdw10y8ABM&t=3s)).
-    * Some leaders ask youth and adults about their orgasms and sexual positions as they probe regarding masturbation and past sexual transgressions. [testimonials](https://invisiblescubit.wordpress.com/2017/07/04/did-you-orgasm/)
-    * A leader, at their discretion, _may_ ask an individual to reconfess _all_ past sins to whatever previous point in time they deem relevant ([example 1](https://brettsbigbadblog.blogspot.com/2017/06/lds-temple-cancellation-and-clearance.html), "'all transgressions' committed since your first sealing, even those that have already been resolved by church authorities", [example 2](https://www.reddit.com/r/exmormon/comments/7fnya4/before_i_was_able_to_submit_my_mission_papers_i/))
-    * Missionaries frequently confess and reconfess all their sins in an effort to become worthy ([example](https://www.reddit.com/r/exmormon/comments/2fdcgt/one_of_the_worst_aspects_of_mormon_culture_imo/))
-    * Bishops may use social media to find evidence of indiscretion ([example](https://github.com/faenrandir/a_careful_examination/blob/dd4835cb764c1bc66327645831172705a472684e/documents/threefold-nature-of-the-church/supporting_material/invasive_interviews.md))
-
+[^alternative_sources]: LDS members are reluctant to consult unapproved sources on LDS truth-claims.  For instance, I have compiled a list of problem summaries of LDS truth claims: [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/), and it includes all the rebuttals to the problems that I'm aware of.  For balance it includes [an official link pointing to every apologetic resource approved or "blessed" by lds.org](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) and points directly to other apologetic resources.  Even though it is balanced in its approach to potential problems, LDS members would be highly reluctant to visit or publicly share such a link with other Latter-day Saints.
