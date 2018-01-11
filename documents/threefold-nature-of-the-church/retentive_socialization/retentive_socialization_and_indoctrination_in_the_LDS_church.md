@@ -96,7 +96,7 @@ The very thought of dating a non-RM is [considered jaw-dropping](http://www.ldsl
 
 ### 7. LDS doctrine trumps other ways of knowing
 
-1. All spiritual feelings that contradict the accepted revelations or authorities is not considered revelation from God, [by definition](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
+1. All spiritual feelings that contradict the accepted revelations or authorities is not considered revelation from God, [by definition](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng):
 
     > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.
 
@@ -108,9 +108,9 @@ The very thought of dating a non-RM is [considered jaw-dropping](http://www.ldsl
 
 Given that religions offer a scaffold of meaning, it makes sense that they would be involved in most major life events.  However, in the LDS Church the manner in which these events are gated by [declarations of worthiness and belief](http://www.mormonthink.com/glossary/templerecommend.htm) means that orthodoxy in belief and practice is frequently re-emphasized among [those administering](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings?lang=eng#20.1.2) and [those receiving](http://forum.staylds.com/viewtopic.php?f=5&t=2211) each ordinance or advancement.
 
-1. Newborn babies are typically blessed in front of the congregation by their Father.
-1. Children are baptized members at age eight (again, typically by the Father) at what is considered the "age of accountability".
-1. Young men receive the priesthood (typically conferred by the Father) at age 12, advance in Priesthood rank at 14, again at 16 and typically receive the higher Priesthood at age 18.
+1. Newborn babies are typically blessed in front of the congregation by their father.
+1. Children are baptized members at age eight (again, typically by the father) at what is considered the "age of accountability".
+1. Young men receive the priesthood (typically conferred by the father) at age 12, advance in Priesthood rank at 14, again at 16 and typically receive the higher Priesthood at age 18.
 1. Fathers typically give a school blessing [before the start of each school year and when their children are sick](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings/20.8?lang=eng&_r=1#208).
 
 The father must be [considered worthy by the Bishop](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings?lang=eng#20.1.2) to perform these ordinances, and there is some communal shame imparted or at least implied if they are unable to perform these ordinances due to unworthiness.
@@ -138,8 +138,8 @@ Additional life events tied closely into the LDS program include missions, marri
 The compartmentalization of information hinders a lay member's ability to fairly criticize administrative actions or policy.
 
 1. Aspects of the temple are obfuscated or kept secret from the uninitiated ([example 1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example 2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq)).
-1. Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---is not publicly available and not available to the lay member to consult.
-1. Finances [not public since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
+1. Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---is not available to the lay member.
+1. Finances have [not been disclosed to the membership since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
 1. Permission for being sealed to a second wife in the temple [is handled in secret](https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=exmormon).[^secondwife_secret]
 
 ### 10. Expression of ideas countering orthodoxy may be suppressed
@@ -192,15 +192,15 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
     > Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
 
-3. Do not attend symposia that include presentations that ...could...detract from [the Church's] mission (General Handbook of Instruction 1999)
+3. Members have been instructed to not attend symposia that include presentations that ...could...detract from [the Church's] mission (General Handbook of Instruction 1999):
 
     > The Church warns its members against symposia and other similar gatherings that include presentations that (1) disparage, ridicule, make light of, or are otherwise inappropriate in their treatment of sacred matters or (2) could injure the Church, detract from its mission, or jeopardize its members' well-being. Members should not allow their position or standing in the Church to be used to promote or imply endorsement of such gatherings.
 
-4. Disconnect from proselyting of those who have lost their faith
+4. Members are to "disconnect" from proselyting of those who have lost their faith:
 
     > We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith and instead reconnect promptly with the Holy Spirit. (April 2016 BYU Commencement Address, L. Whitney Clayton, [Getting and Staying Connected](https://www.lds.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng))
 
-5. Faith-killers should be shunned
+5. Faith-killers should be shunned:
 
     > Avoid those who would teardown your faith. Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit.  (Oct 1981 GC, Carlos E. Asay, [Opposition to the Work of God](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng))
 
@@ -209,6 +209,8 @@ Following the prophet is repeatedly and emphatically taught to young children an
 One simple way to demonstrate that LDS members are generally reluctant to consult unapproved sources is to merely ask a member to read or share links discussing alternative models of LDS truth-claims, even if they include links to faithful responses.[^alternative_sources]  Few will do so and even fewer would be willing to share such critiques with others.
 
 ### 14. No viable alternative
+
+Leaders repeatedly emphasize that there is no viable alternative to life within the LDS Church:
 
 Elder Jeffery R. Holland [taught](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng):
 
@@ -230,7 +232,7 @@ And Elder M Russell Ballard recently [taught](https://www.lds.org/general-confer
 
 [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/).  Those considered unworthy on some level may not be allowed to participate in ordinances, and this may carry some social stigma.  Others may notice if a person does not pass or take the sacrament, for instance.
 
-Interviews occur at expected intervals and can lead to intense pressure to conform to the LDS program.  Consider, for instance, the pressure to conform felt by [Kip Eliason](http://thoughtsonthingsandstuff.com/a-latter-day-tragedy-suicide-over-masturbation/) and Steven ([as related by NewNameNoah](https://www.youtube.com/watch?v=Xliwswh4GGU) [warning: last half contains explicit temple references]).  NewNameNoah took [hidden-camera footage of his adult worthiness interview](https://youtu.be/4DCeAK6vUb8?t=260) [warning: video may be offensive to LDS members].
+Interviews occur at expected intervals and can lead to intense pressure to conform to the LDS program.  Consider, for instance, the pressure to conform felt by [Kip Eliason](http://thoughtsonthingsandstuff.com/a-latter-day-tragedy-suicide-over-masturbation/) and Steven [as related by NewNameNoah](https://www.youtube.com/watch?v=Xliwswh4GGU) [warning: last half contains explicit temple references].  A typical adult worthiness interview where the interviewee responds with all the "correct" answers may be found in this [hidden-camera footage](https://youtu.be/4DCeAK6vUb8?t=260) [warning: this video is likely to be offensive to many LDS members].
 
 Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf):
 
@@ -246,8 +248,8 @@ Although questions are prescribed and must be asked word-for-word, ecclesiastica
     > Adherence to the Word of Wisdom is often a mark of a committed Latter-day Saint and is an outward sign of their separation from the world and their participation in the fellowship of God’s covenant people. Non-observance or observance of the Word of Wisdom often reflects one’s commitment (or lack thereof) to their covenants with God as well as a possible indicator as to how one might approach other commandments.
 
 1. Beards are not allowed for Church employees, at Church owned universities, and for those working in the temple.  Until recently, even those students/employees at BYU of another religious faith who wished to wear a beard for religious reasons [were not allowed to do so](http://www.freebyu.org/byu-adds-religious-exemption-to-beard-policy/).
-1. Members [discouraged from getting a tattoo](https://www.lds.org/youth/article/tattoos-and-your-mission?lang=eng).
-1. Members use [insider and loaded language](http://www.rationalrevelation.com/tr/loadlang.html): "Court of Love" (disciplinary councils where members may be excommunicated from the Church); "active/less-active"; "apostate" (one who has left the religion for intellectual reasons); "Word of Wisdom" (cannot disobey without being foolish).
+1. Members are [discouraged from getting a tattoo](https://www.lds.org/youth/article/tattoos-and-your-mission?lang=eng).
+1. Members use [insider and loaded language](http://www.rationalrevelation.com/tr/loadlang.html). Consider the terms: "Court of Love" (disciplinary councils where members may be excommunicated from the Church); "active/less-active"; "apostate" (one who has left the religion for intellectual reasons).
 
 In particular, the doctrine of "eternal families" strongly encourages an in-group/out-group mentality:
 
