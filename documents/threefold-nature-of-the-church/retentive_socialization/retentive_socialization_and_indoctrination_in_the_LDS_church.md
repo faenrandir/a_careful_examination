@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/), Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) (emphasis added):
+In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/), Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) of the Church of Jesus Christ of Latter-day Saints (emphasis added):
 
 > “I wish I could go to those who have walked away from the Church, and those who are its ardent critics, and say, “Come with me to the MTC on a Wednesday morning and let’s just watch. Let’s stand together and watch these families say goodbye to their sons and daughters.”
 
@@ -10,21 +10,17 @@ In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonl
 
 > “Never. They would never do it.’
 
-This document attempts to _broadly_ address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a significant level of socialization, and socialization is a powerful force for encouraging and discouraging certain kinds of behavior.
+This document attempts to _broadly_ address the question of _why_ many parents are willing to send their children off as LDS missionaries for two years.  Neither parents or their children are "brainwashed" ("brainwashing" wouldn't be the term most psychologists would use to describe the processes motivating this kind of action), but they both are the recipients of a significant level of socialization---and socialization is a powerful force for encouraging some behavior and discouraging other behavior.
 
-## Socialization
+## Indoctrination and Socialization
 
-The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA43&lpg=PA43&dq=we+take+it+for+granted+benjamin+beit-hallahmi&source=bl&ots=Tgq6kGK3_5&sig=SdRbPV6WkxQBtF0pPubciSq2B60&hl=en&sa=X&ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&f=false):
+The well-respected psychologist of religion, Benjamin Beit-Hallahmi, [explained](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA43&lpg=PA43&dq=we+take+it+for+granted+benjamin+beit-hallahmi&source=bl&ots=Tgq6kGK3_5&sig=SdRbPV6WkxQBtF0pPubciSq2B60&hl=en&sa=X&ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&f=false) (emphasis added):
 
 > Social learning, despite its seeming simplicity...remains **the best explanation for most religious actions**.  It is the best explanation for the overall prevalence of religion, for individual religiosity, and for ... the most dramatic of religious acts and movements. ... The variety of religious traditions and the correspondence between the dominant tradition in the social environment and the religious beliefs of the individual are the most obvious proofs to the validity of the social learning approach, which is also able to explain what are considered intense religious experiences.  Supernaturalism is inherently accessible, and children learn just one local version of it and in most cases become inexorably attached to it.
 
-This document outlines the practices and teachings that contribute to the socialization of Latter-day Saints and would help explain why Latter-day Saint parents are willing to send their 18 and 19 year old children away---and why those young adults are willing to go---for roughly two years to share their religion with others.  Positive desires to share and to serve motivate many young Latter-day Saints to serve, but the negative repercussions a young person might experience by _not_ serving a mission is likely woven into their motivation.  Both the positive and negative drives may be considered two sides of the same socializing-influence coin.
+Below are 19 main sources of socializing influence which drive members towards activity and discourage them from activities which might diminish their belief and participation in the LDS Church.  I acknowledge that counter-examples within Church approved resources exist which moderate some of the more extreme material and examples discussed below, even though I have not included them for the sake of brevity.  In addition, the level of emphasis on retentive doctrine and practices that any given member of the LDS Church experiences will vary significantly from family-to-family, location-to-location, and which era in time a person experienced a particular LDS program.  Still, I have attempted to focus on examples which will likely resonate with _most_ active members' experiences and constitute the threads which most strongly encourage devotion and retention.
 
-Socializing forces have been organized from those which tend to initialize indoctrination, proceeding through those which sustain and deepen commitment, and followed by both passive and then active forces designed to prevent apostasy (i.e., retentive socialization).[^order]
-
-## Initial Indoctrination
-
-### Program involves extensive time learning doctrine
+### 1. Program involves extensive time learning doctrine
 
 LDS members spend a considerable amount of time in meetings teaching or learning LDS doctrine:
 
@@ -36,9 +32,11 @@ LDS members spend a considerable amount of time in meetings teaching or learning
 1. [All males are expected to serve a 2 year full-time mission](https://www.lds.org/new-era/1981/05/president-kimball-speaks-out-on-being-a-missionary?lang=eng) and [many females serve a 1.5 year mission](https://www.pri.org/stories/2014-08-25/mormon-women-are-flocking-mission-inequalities-remain).  During this time, missionaries engage in daily individual and companion study of LDS material ([at least 1 hour total daily](https://www.lds.org/church/news/changes-to-missionaries-daily-schedule-allows-more-time-to-teach-gospel?lang=eng)) and they will spend most of their day discussing LDS doctrine within their companionship and with investigators.
 1. Members are to listen to [10 hours of instruction](https://www.lds.org/church/events/october-2017-general-conference?lang=eng) from Church leadership each half year and [carefully review those teachings](https://www.lds.org/prophets-and-apostles/unto-all-the-world/conference-participation-brings-blessings-first-presidency-says?lang=eng) between conferences.
 
-### Members taught to condition themselves into belief
+### 2. Members taught to condition themselves into belief
 
-Members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Neil L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
+Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see [Moroni 10:4--5](https://www.lds.org/scriptures/bofm/moro/10.4-5)).  Other recommended methods border on self-conditioning:
+
+For instance, members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Neil L. Andersen [taught](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng):
 
 > Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.
 
@@ -50,11 +48,11 @@ And Dallin H. Oaks taught ([April 2008 Conference](https://www.lds.org/general-c
 
 > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.
 
-### Encouraged to sacrifice anything to the cause
+### 3. Encouraged to sacrifice anything to the cause
 
-Members are often taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng))
+Members may be taught to "never turn down a calling" ([example 1](https://www.lds.org/search?lang=eng&query=%22turn+down+a+calling%22), [example 2](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng)).
 
-They may be discouraged from participating in any activity that would disrupt Church duties.  One individual [recounted](https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/):
+They may also be discouraged from participating in any activity that would disrupt Church duties.  One individual [recounted](https://www.reddit.com/r/exmormon/comments/78nkbr/but_while_youre_on_your_dream_adventure_how_will/):
 
 > I planned for years on going for a solo backpacking & hitchhiking adventure around the country. Finally one summer, the conditions were right, I had nothing else I needed to do, and I realized it was then or never. It was time to accomplish a dream.
 
@@ -70,37 +68,33 @@ In the temple, members also make a solemn covenant to:
 
 Thinker of Thoughts discusses how members [covenant and are reminded of their covenants](https://www.youtube.com/watch?v=W989ZgIaD3g) in the LDS Church.
 
-## Deepening Indoctrination
+### 4. Missions are highly controlled, socializing environments
 
-### Missions are highly controlled, socializing environments
+All able males are expected to serve a 2 year LDS mission, and they typically serve at the age of 18 or 19.  Females are encouraged to consider service and many females leave at 19 years of age to serve a 1.5 year mission.  The mission is a time of complete focus on learning and teaching LDS doctrine and provides a strong socializing experience.
 
-1. The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).
-1. Mission presidents may use [an extraordinary number of tactics and gates](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/) to prevent homesick or discouraged missionaries from returning home.  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
-1. Father [denied contact information for son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
+The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).  All communication to the missionary flows through Church controlled resources, and families must use LDS controlled email to write to their missionary.  Anecdotes suggest that faith-disturbing content may be filtered before delivery to the missionary, and missionaries may only write home once per week.[^exceptions_to_communication]  
 
-### Members are expected to date and marry other members
+Leaving a mission can be extremely difficult.  For instance, Mission Presidents may use [an extraordinary number of tactics and gates](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/) to prevent homesick or discouraged missionaries from returning home.  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
+
+### 5. Members are expected to date and marry other members
 
 Ezra Taft Benson [taught](https://www.lds.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng):
 
 > Our Heavenly Father wants you to date young men who are faithful members of the Church, who will be worthy to take you to the temple and be married the Lord’s way. There will be a new spirit in Zion when the young women will say to their boyfriends, “If you cannot get a temple recommend, then I am not about to tie my life to you, even for mortality!” And the young returned missionary will say to his girlfriend, “I am sorry, but as much as I love you, I will not marry out of the holy temple.”
 
-Following the Church program is seen as far more important than love, friendship, or spiritual compatibility.
-
-And, young women are consistently taught [that they should marry a returned missionary](http://www.ldsliving.com/Why-I-Didn-t-Marry-an-RM-After-All/s/75872):
+Following the Church program is seen as far more important than love, friendship, or spiritual compatibility, and young women are consistently taught [that they should marry a returned missionary](http://www.ldsliving.com/Why-I-Didn-t-Marry-an-RM-After-All/s/75872):
 
 > Back when I was in the Young Women program, I remember being told that RM needed to be at the top of my dating criteria list.
 
 The very thought of dating a non-RM is [considered jaw-dropping](http://www.ldsliving.com/Would-You-Date-a-Non-RM/s/71905).
 
-Whom does a young man expect to date and marry if he did not serve a mission, especially given that the majority of his close friends will be LDS?  What kind of social stigma is attached to _not_ serving a mission?
-
-### Orthodoxy tends to trump other considerations
+### 6. Orthodoxy tends to trump other considerations
 
 1. [Short engagement/dating times relative to the rest of society](http://byuiscroll.org/long-vs-short-engagements-what-is-the-way-to-go/) suggests that religious affiliation often trumps other considerations of personality and personality compatibility.
-1. A good reason not to marry someone [is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/)
-1. Some Leaders create [contracts to ensure continued activity](https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/).
+1. A good reason not to marry someone [is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/).
+1. Some leaders create [contracts to ensure continued activity](https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/).
 
-### LDS doctrine trumps other ways of knowing
+### 7. LDS doctrine trumps other ways of knowing
 
 1. All spiritual feelings that contradict the accepted revelations or authorities is not considered revelation from God, [by definition](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
 
@@ -110,40 +104,45 @@ Whom does a young man expect to date and marry if he did not serve a mission, es
 1. In general, logic is carefully arranged [to support belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ff97a00079dc519d16807bcaef105a2a03102334/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf).
 1. [BYU's Academic Freedom Policy](https://policy.byu.edu/view/index.php?p=9) explains how human reason is subordinate to divine revelation: "Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation."  Hence, when ways of knowing clash, the authorities win.
 
-### Most major life events are tied into the Church
+### 8. Most major life events are tied into the Church
 
-Given that religions offer a scaffold of meaning, it makes sense that they would be involved in most major life events.
+Given that religions offer a scaffold of meaning, it makes sense that they would be involved in most major life events.  However, in the LDS Church the manner in which these events are gated by [declarations of worthiness and belief](http://www.mormonthink.com/glossary/templerecommend.htm) means that orthodoxy in belief and practice is frequently re-emphasized among [those administering](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings?lang=eng#20.1.2) and [those receiving](http://forum.staylds.com/viewtopic.php?f=5&t=2211) each ordinance or advancement.
 
-Newborn babies are typically blessed in front of the congregation.  Children are baptized members at age eight (again, typically by the Father) at what is considered the "age of accountability".  Young men receive the priesthood (typically conferred by the Father) at age 12, advance in Priesthood rank at 14, again at 16 and typically receive the higher Priesthood at age 18.  The father must be [considered worthy by the Bishop](http://www.mormonthink.com/glossary/templerecommend.htm) to perform these ordinances, and there is some communal shame imparted or at least implied if they are unable to do so.  Fathers typically give a school blessing before the start of each school year.
+1. Newborn babies are typically blessed in front of the congregation by their Father.
+1. Children are baptized members at age eight (again, typically by the Father) at what is considered the "age of accountability".
+1. Young men receive the priesthood (typically conferred by the Father) at age 12, advance in Priesthood rank at 14, again at 16 and typically receive the higher Priesthood at age 18.
+1. Fathers typically give a school blessing [before the start of each school year and when their children are sick](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings/20.8?lang=eng&_r=1#208).
 
-In each of these cases, the Father is expected to perform the ordinance, but he must be [considered worthy by the Bishop](http://www.mormonthink.com/glossary/templerecommend.htm) in order to do so.  Some sense of shame is usually imparted or imagined by the father if they are unable to perform the ordinance because of lack of worthiness.
+The father must be [considered worthy by the Bishop](https://www.lds.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings?lang=eng#20.1.2) to perform these ordinances, and there is some communal shame imparted or at least implied if they are unable to perform these ordinances due to unworthiness.
 
-LDS missions themselves are considered [a "coming of age" experience](http://www.pbs.org/mormons/themes/mission.html) (see answer by D. Michael Quinn).
+Additional life events tied closely into the LDS program include missions, marriage, and funerals.
 
-Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as counterfeit, at least to some degree.
+1. LDS missions are considered [a "coming of age" experience](http://www.pbs.org/mormons/themes/mission.html) (see answer by D. Michael Quinn).
 
-Funerals are considered a time to teach the Gospel and reinforce the LDS conception of life's purpose.  For instance, [Church Handbook 2 instructs](https://www.lds.org/handbook/handbook-2-administering-the-church/meetings-in-the-church/18.6?lang=eng&_r=1#186):
+1. Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as counterfeit, at least to some degree.
 
-> Funerals provide an important opportunity to teach the gospel and testify of the plan of salvation. They also provide an opportunity to pay tribute to the deceased. However, such tributes should not dominate a funeral service.
+1. Funerals are considered a time to teach the Gospel and reinforce the LDS conception of life's purpose.
 
-And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20of%20Things%20--%20Boyd%20K.%20Packer.htm):
+    [Church Handbook 2 instructs](https://www.lds.org/handbook/handbook-2-administering-the-church/meetings-in-the-church/18.6?lang=eng&_r=1#186):
 
-> When the family insists that several family members speak in a funeral, we hear about the deceased instead of about the Atonement, the Resurrection, and the comforting promises revealed in the scriptures. Now it’s all right to have a family member speak at a funeral, but if they do, their remarks should be in keeping with the spirit of the meeting.
+    > Funerals provide an important opportunity to teach the gospel and testify of the plan of salvation. They also provide an opportunity to pay tribute to the deceased. However, such tributes should not dominate a funeral service.
 
-> I have told my Brethren in that day when my funeral is held, if any of them who speak talk about me, I will raise up and correct them. The gospel is to be preached.
+    And Boyd K. Packer [taught](http://emp.byui.edu/huffr/The%20Unwritten%20Order%20of%20Things%20--%20Boyd%20K.%20Packer.htm):
 
-## Discouraging Apostasy
+    > When the family insists that several family members speak in a funeral, we hear about the deceased instead of about the Atonement, the Resurrection, and the comforting promises revealed in the scriptures. Now it’s all right to have a family member speak at a funeral, but if they do, their remarks should be in keeping with the spirit of the meeting.
 
-### Compartmentalization of information
+    > I have told my Brethren in that day when my funeral is held, if any of them who speak talk about me, I will raise up and correct them. The gospel is to be preached.
+
+### 9. Compartmentalization of information
 
 The compartmentalization of information hinders a lay member's ability to fairly criticize administrative actions or policy.
 
 1. Aspects of the temple are obfuscated or kept secret from the uninitiated ([example 1](https://www.youtube.com/watch?v=0zE8JKDZazc), [example 2](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple/answer/John-T-Prince?srid=uJIq)).
-1. Handbook 1, the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions, is not publicly available and not available to the lay member to consult.
+1. Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---is not publicly available and not available to the lay member to consult.
 1. Finances [not public since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
-1. Permission for being sealed to a second wife in the temple [is handled in secret](https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=exmormon). [Legally, the person may only be married to one person at a time, but a man may be sealed to more than one living woman at a time]
+1. Permission for being sealed to a second wife in the temple [is handled in secret](https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=exmormon).[^secondwife_secret]
 
-### Expression of ideas countering orthodoxy may be suppressed
+### 10. Expression of ideas countering orthodoxy may be suppressed
 
 1. Expression of thoughts that run counter to teachings may be silenced in open microphone meetings ([example](https://github.com/faenrandir/a_careful_examination/blob/dd4835cb764c1bc66327645831172705a472684e/documents/threefold-nature-of-the-church/supporting_material/milieu_control/savannahs_testimony.md)).
 1. Members who publicly express reasoned opposition to specific activities of the Church may be asked to remove the video or face loss of their temple recommend (recommends confer upon the holder a number of benefits and publicly signal the faithfulness of the member to others at family events such as temple weddings) or face Church disciplinary action.
@@ -156,21 +155,14 @@ The compartmentalization of information hinders a lay member's ability to fairly
 
     > There is a temptation for the writer or the teacher of Church history to want to tell everything, whether it is worthy or faith promoting or not.  Some things that are true are not very useful...In an effort to be objective, impartial, and scholarly, a writer or a teacher may unwittingly be giving equal time to the adversary...The idea that we must be neutral and argue quite as much in favor of the adversary as we do in favor of righteousness is neither reasonable nor safe...It is neither expected nor necessary for us to accommodate those who seek to retrieve references from our sources, distort them, and use them against us."
 
-1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng))
+### 11. Attributing causation to God
 
-### Doctrine of "eternal families" encourages in-group association
-
-1. If a family member chooses another religion they will not be with their family in the eternities.
-1. If a member marries a person of another faith tradition and that person never becomes Mormon, the relationships will be split in heaven.
-
-### Attributing causation to God
+Latter-day Saint are encouraged to look for God's hand influencing their life in significant and insignificant ways.  Hence, causation of many events are attributed to God or seen as influenced by their own level of righteousness or devotion.
 
 1. Leaders regularly attribute supernatural influence [to events others would likely view as natural](https://www.youtube.com/watch?v=Ph98bvd_DMU).
-1. Members regularly attribute natural phenomena to the efficacy of prayer ([example](https://imgur.com/m8UmESh))
+1. Members regularly attribute what others would view as natural phenomena to the efficacy of prayer ([example](https://imgur.com/m8UmESh)).
 
-Hence, a Latter-day Saint persistently sees God's hand influencing their life in significant and insignificant ways.
-
-### Always follow the leadership
+### 12. Always follow the leadership
 
 Members are taught that their eternal safety lies in always following their LDS leadership and that their leadership represents God to them.  [D&C 1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38f?lang=eng) emphasizes this equivalency:
 
@@ -190,7 +182,7 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
 > At times, following the prophet may be unpopular, but following the prophet is always right. 
 
-### Familiarity with unapproved sources is considered risky
+### 13. Familiarity with unapproved sources is considered risky
 
 1. Members are warned against seeking information from unapproved sources:
 
@@ -216,15 +208,17 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
 One simple way to demonstrate that LDS members are generally reluctant to consult unapproved sources is to merely ask a member to read or share links discussing alternative models of LDS truth-claims, even if they include links to faithful responses.[^alternative_sources]  Few will do so and even fewer would be willing to share such critiques with others.
 
-### No viable alternative
+### 14. No viable alternative
 
-Jeffery R. Holland [taught](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng): "We board the Good Ship Zion and sail with her wherever she goes until she comes into that millennial port. We stay in the boat, through squalls and stills, through storms and sunburn, because that is the only way to the promised land." Also captured [in this meme](https://i.redd.it/clkz8lb9uukz.jpg).
+Elder Jeffery R. Holland [taught](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng):
 
-M Russell Ballard [taught](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng): "If you choose to become inactive or to leave the restored Church of Jesus Christ of Latter-day Saints, where will you go? What will you do? The decision to 'walk no more' with Church members and the Lord’s chosen leaders will have a long-term impact that cannot always be seen right now."
+> We board the Good Ship Zion and sail with her wherever she goes until she comes into that millennial port. We stay in the boat, through squalls and stills, through storms and sunburn, because that is the only way to the promised land. (Also captured [in this meme](https://i.redd.it/clkz8lb9uukz.jpg))
 
-## Preventing Apostasy
+And Elder M Russell Ballard recently [taught](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng):
 
-### Some monitoring for orthodoxy occurs
+> If you choose to become inactive or to leave the restored Church of Jesus Christ of Latter-day Saints, where will you go? What will you do? The decision to 'walk no more' with Church members and the Lord’s chosen leaders will have a long-term impact that cannot always be seen right now.
+
+### 15. Some monitoring for orthodoxy occurs
 
 1. Files kept on students at BYU [cataloging activities that may not be in line with LDS thought](http://www.freebyu.org/wp-content/uploads/2016/05/Brad-Carmack-Honor-Code-File.pdf).
 1. Existence of a [Strengthening Church Members Committee](https://en.wikipedia.org/wiki/Strengthening_Church_Members_Committee).
@@ -232,7 +226,7 @@ M Russell Ballard [taught](https://www.lds.org/general-conference/2016/10/to-who
 1. Leaders may scan social media looking to see if members are properly wearing garments (anecdote [here](https://www.reddit.com/r/exmormon/comments/6e8guv/in_case_you_dont_believe_they_are_watching_us/)).  Not likely typical, but nor is such behavior discouraged.
 1. LDS leaders may have intercepted private email communication in the past to implicate those communicating with apostate organizations. ([example](https://www.reddit.com/r/exmormon/comments/6wfv72/the_strengthening_church_members_committee/))  This is likely atypical behavior.
 
-### Confession and Accountability
+### 16. Confession and Accountability
 
 [Worthiness interviews are regularly conducted](https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/).  Those considered unworthy on some level may not be allowed to participate in ordinances, and this may carry some social stigma.  Others may notice if a person does not pass or take the sacrament, for instance.
 
@@ -244,7 +238,7 @@ Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=F
 
 Although questions are prescribed and must be asked word-for-word, ecclesiastical leaders are given some latitude in how to conduct the interview, particularly when the answer runs counter to the approved answer.[^invasive_interviews]
 
-## Significant in-group / out-group emphasis
+### 17. Significant in-group / out-group emphasis
 
 1. Employment with the Church or a Church owned school, visiting the temple, witnessing marriage/sealing ceremonies, all leadership callings, and other temple service is conditioned on [worthiness interviews](http://www.mormonthink.com/glossary/templerecommend.htm).
 1. The Word of Wisdom prohibits the use of drinks that are integral to sociality in most cultures.  FairMormon [writes](https://www.fairmormon.org/answers/Question:_How_is_the_Word_of_Wisdom_observed_in_the_modern_Church%3F#Question:_How_is_the_Word_of_Wisdom_observed_in_the_modern_Church.3F) (2017-08-28):
@@ -253,9 +247,16 @@ Although questions are prescribed and must be asked word-for-word, ecclesiastica
 
 1. Beards are not allowed for Church employees, at Church owned universities, and for those working in the temple.  Until recently, even those students/employees at BYU of another religious faith who wished to wear a beard for religious reasons [were not allowed to do so](http://www.freebyu.org/byu-adds-religious-exemption-to-beard-policy/).
 1. Members [discouraged from getting a tattoo](https://www.lds.org/youth/article/tattoos-and-your-mission?lang=eng).
-1. Members use [insider and loaded language](http://www.rationalrevelation.com/tr/loadlang.html): "Court of Love" (disciplinary councils where members may be excommunicated from the Church); "active/less-active"; "apostate" (one who has left the religion for intellectual reasons); "agency" is crucial in LDS thought, but one becomes "captive" by choosing anything other than the LDS path.  "Word of Wisdom" (cannot disobey without being foolish).
+1. Members use [insider and loaded language](http://www.rationalrevelation.com/tr/loadlang.html): "Court of Love" (disciplinary councils where members may be excommunicated from the Church); "active/less-active"; "apostate" (one who has left the religion for intellectual reasons); "Word of Wisdom" (cannot disobey without being foolish).
 
-### Strongly discourages and stigmatizes dissent
+In particular, the doctrine of "eternal families" strongly encourages an in-group/out-group mentality:
+
+1. If a family member chooses another religion [they may not be with their family in the eternities](https://www.lds.org/ensign/2014/03/faithful-parents-and-wayward-children-sustaining-hope-while-overcoming-misunderstanding?lang=eng).
+1. If a member marries a person of another faith tradition and that person never becomes Mormon, the relationships will be viewed as terminating at death (unlike marriages of members in the LDS temple which are [considered the only ones which can persist](https://www.lds.org/temples/what-happens-in-a-temple-sealing?lang=eng)).
+
+Other examples of the pressure that some feel may be found in the video [Families, Eternity, & Collateral Damage](https://www.youtube.com/watch?v=opGwPHWvp5I) (LDS examples begin at 2:53).
+
+### 18. Strongly discourages and stigmatizes dissent
 
 1. Those who disagree with orthodox doctrine [are considered either ignorant or proud](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/false-teachings?lang=eng).
 1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.lds.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng))
@@ -264,7 +265,7 @@ Although questions are prescribed and must be asked word-for-word, ecclesiastica
 
 1. Members are taught to "shun" and "flee" from those who openly disagree with accepted Church doctrine (see [The Shunning Key](https://mormonbandwagon.com/bwv549/the-shunning-key/))
 
-### Tragic, disastrous consequences for not following
+### 19. Tragic, disastrous consequences for not following
 
 Although the consequences are [often unnamed](https://youtu.be/mmErOV9oQZ8?t=222), the implication is that not following the LDS program results in consequences that are always tragic.  For instance, M. Russell Ballard [taught](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng): 
 
@@ -288,9 +289,7 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 
 ## Conclusion
 
-A tremendous number of cultural factors and practices align to encourage members to stay members and help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
-
-[^order]: Socializing forces are difficult to organize because the forces permeate the life of a Latter-day Saint and may occur in somewhat different order and flavors depending on individual circumstances.  So, any particular categorization should be considered very loose, and a given example may apply to some extent to other categories.
+A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
 
 [^insufficientjustification]: The practice of bearing a testimony to find it may take advantage of the phenomenon of "insufficient justification". [From the 1959 study](http://psychclassics.yorku.ca/Festinger/) on insufficient justification: "If a person is induced to do or say something which is contrary to his private opinion, there will be a tendency for him to change his opinion so as to bring it into correspondence with what he has done or said." ([video which details the experiment](https://www.youtube.com/watch?v=CkJc6c3nKMw) and more on [insufficient justification](https://en.wikipedia.org/wiki/Insufficient_justification))
 
@@ -299,3 +298,7 @@ A tremendous number of cultural factors and practices align to encourage members
 [^invasive_interviews]: Worthiness interviews may vary depending on the leader, but some of them appear to be more invasive than others.  The subreddit [/r/WorthinessInterviews](https://www.reddit.com/r/WorthinessInterviews/) catalogs invasive examples.
 
 [^alternative_sources]: LDS members are reluctant to consult unapproved sources on LDS truth-claims.  For instance, I have compiled a list of problem summaries of LDS truth claims: [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/), and it includes all the rebuttals to the problems that I'm aware of.  For balance it includes [an official link pointing to every apologetic resource approved or "blessed" by lds.org](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) and points directly to other apologetic resources.  Even though it is balanced in its approach to potential problems, LDS members would be highly reluctant to visit or publicly share such a link with other Latter-day Saints.
+
+[^secondwife_secret]: Legally, the person may only be married to one person at a time, but a man may be sealed to more than one living woman at a time.
+
+[^exceptions_to_communication]: Exceptions to the communication policy are rare---for instance, a father was [denied contact information for a son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
