@@ -51,12 +51,7 @@ described for olive trees.
 
 ### Steel
 
-Gordon writes that early critics scoffed at the idea that steel would have
-existed when Nephi mentions breaking his bow of "fine steel".  Later, Gordon
-reports, archaeologists found "that various combinations of iron and steel existed near
-Jerusalem as early as 600 B.C."  This is clearly a win for viewing the Book of
-Mormon as an ancient record.  However, other mentions of steel in the Book of
-Mormon run counter to available archaeological evidence.
+Gordon writes that early critics scoffed at the idea that steel would have existed when Nephi mentions breaking his bow of "fine steel".  Later, Gordon reports, archaeologists found "that various combinations of iron and steel existed near Jerusalem as early as 600 B.C."  This is clearly a win for viewing the Book of Mormon as an ancient record.  [edit: It's possible that these were not actually steel swords, as originally presumed by some apologists.  See [this analysis](https://www.reddit.com/r/exmormon/comments/7r2fs5/this_is_why_lds_believing_mormons_struggle_when/)].  However, other mentions of steel in the Book of Mormon run counter to available archaeological evidence.
 
 Steel is mentioned five times in the Book of Mormon (Ether 7:9, 1 Ne 4:9, 1 Ne 16:18, 2 Ne 5:15 and Jar 1:8).  The discovery of steel being used in the ancient Middle East makes 1 Ne 4:9 and 1 Ne 16:18 historically plausible in that regard.  However, we have two references to the Nephites in the new world working in steel---and they exist 180 years apart:
 
