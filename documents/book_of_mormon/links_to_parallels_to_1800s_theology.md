@@ -19,7 +19,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/) and [Anachronistic Christian doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
-1. [Echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/echoes/echos_of_1800s.pdf)
+1. [Echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)
 1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
