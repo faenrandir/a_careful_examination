@@ -3,15 +3,9 @@ distinct purpose:
 
 > I wanted to determine how many evidences were found in the Book of Mormon itself supporting the fact that it was translated from an ancient document and not written by Joseph Smith in the early 19th century.
 
-She documented her findings in [3 Examples of Evidence That Support the Book
-of
-Mormon](http://www.ldsliving.com/3-Examples-of-Evidence-That-Support-the-Book-of-Mormon/s/81117),
-an article posted recently in LDSLiving.
+She documented her findings in [3 Examples of Evidence That Support the Book of Mormon](http://www.ldsliving.com/3-Examples-of-Evidence-That-Support-the-Book-of-Mormon/s/81117), an article posted recently in LDSLiving.
 
-Generally, I think she did a great job of summarizing interesting evidence that
-is consistent with the idea that the Book of Mormon is an ancient record
-(Although I think she misunderstood or significantly overstated the evidence
-for horses in Book of Mormon times---but I'll address that in turn.)
+Generally, I think she did a great job of summarizing interesting evidence that is consistent with the idea that the Book of Mormon is an ancient record (Although I think she misunderstood or significantly overstated the evidence for horses in Book of Mormon times---but I'll address that in turn.)
 
 About a year and a half ago I read through [Mormon's Codex](http://www.amazon.com/Mormons-Codex-Ancient-American-Book-ebook/dp/B00F64T8SA), John Sorenson's magnum opus, which meticulously details all the correspondences between mesoamerica and the Book of Mormon.  And, like Gordon, I was impressed by the number of correspondences that existed between the Book of Mormon and the ancient world.
 
@@ -22,16 +16,11 @@ ideas floating around Joseph Smith's milieu.
 
 I am not the first to notice these correspondences with Joseph's environment.
 For instance, Richard Bushman---a devout member and emeritus Professor of History at Columbia
-University---[recently observed](http://www.wheatandtares.org/17915/richard-bushman-on-mormonism/):
+University---[recently observed](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/49dfa3ec8b053e283fcd0643764907e3ccdf112c/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf):
 
-> The Book of Mormon has a lot of nineteenth-century Protestant material in it, both in terms of theology and of wording. I am looking for an explanation of how and why it is there.
+> … there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …
 
-I will address each of the evidences that Gordon presented and show how Joseph
-Smith may have been able to glean such ideas from his environment (most often
-the Bible, with which [Joseph was arguably very
-familiar](https://mit.irr.org/files/did_young_joseph_smith_study_the_bible.pdf)).
-Finally, I'll wrap up by pointing to some of the parallels between the Book of
-Mormon and other ideas common to the early 1800s.
+I will address each of the evidences that Gordon presented and show how Joseph Smith may have been able to glean such ideas from his environment (most often the Bible, with which [Joseph was arguably very familiar](https://mit.irr.org/files/did_young_joseph_smith_study_the_bible.pdf)).  Finally, I'll wrap up by pointing to some of the parallels between the Book of Mormon and other ideas common to the early 1800s.
 
 ## Olives, Steel, and Horses
 
@@ -45,17 +34,15 @@ The parable of the Olive Tree may be viewed as an amalgamation and embellishment
 
 Halfway through the parable, the Jacob 5 author shifts from a focus on *the olive tree* to a focus on *the whole vineyard* (in Jacob 5:41).  As Curt van den Heuvel has pointed out "the break appears at the same point that the Book of Mormon quotes a passage from Isaiah."  From then on, the the author of Jacob 5 "refers exclusively to the 'fruit of the vineyard', apparently forgetting that vineyards yield grapes, not olives." (source: Curt van den Heuvel, [here](http://mormonthink.com/book-of-mormon-problems.htm#Bible), and [here](https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/)).
 
-In addition, Joseph grew up in a farming community and was undoubtedly
-familiar with apple cultivation and grafting, which is similar to that
-described for olive trees.
+In addition, Joseph grew up in a farming community and was undoubtedly familiar with apple cultivation and grafting, which is similar to that described for olive trees.
 
 ### Steel
 
-Gordon writes that early critics scoffed at the idea that steel would have existed when Nephi mentions breaking his bow of "fine steel".  Later, Gordon reports, archaeologists found "that various combinations of iron and steel existed near Jerusalem as early as 600 B.C."  This is clearly a win for viewing the Book of Mormon as an ancient record.  [edit: It's possible that these were not actually steel swords, as originally presumed by some apologists.  See [this analysis](https://www.reddit.com/r/exmormon/comments/7r2fs5/this_is_why_lds_believing_mormons_struggle_when/)].  However, other mentions of steel in the Book of Mormon run counter to available archaeological evidence.
+Gordon writes that early critics scoffed at the idea that steel would have existed when Nephi mentions breaking his bow of "fine steel".  Later, Gordon reports, archaeologists found "that various combinations of iron and steel existed near Jerusalem as early as 600 B.C."  This is clearly a win for viewing the Book of Mormon as an ancient record.  [edit: It's possible that these were not actually steel swords, as originally presumed by some apologists.  See [this analysis](https://www.reddit.com/r/exmormon/comments/7r2fs5/this_is_why_lds_believing_mormons_struggle_when/) which suggests that the original claim may have been baseless].  However, other mentions of steel in the Book of Mormon run counter to available archaeological evidence.
 
-Steel is mentioned five times in the Book of Mormon (Ether 7:9, 1 Ne 4:9, 1 Ne 16:18, 2 Ne 5:15 and Jar 1:8).  The discovery of steel being used in the ancient Middle East makes 1 Ne 4:9 and 1 Ne 16:18 historically plausible in that regard.  However, we have two references to the Nephites in the new world working in steel---and they exist 180 years apart:
+Steel is mentioned five times in the Book of Mormon (Ether 7:9, 1 Nephi 4:9, 1 Nephi 16:18, 2 Nephi 5:15 and Jar 1:8).  The discovery of steel being used in the ancient Middle East makes 1 Nephi 4:9 and 1 Nephi 16:18 historically plausible in that regard.  However, we have two references to the Nephites in the new world working in steel---and they exist 180 years apart:
 
-> 2Ne 5:15 - "work in all manner of wood, and of iron, and of copper, and of brass, and of
+> 2 Nephi 5:15 - "work in all manner of wood, and of iron, and of copper, and of brass, and of
 steel, and of gold, and of silver, and of precious ores" (~580 BC)
 
 And again:
@@ -92,7 +79,7 @@ Gordon says:
 
 The problem is that there is no indisputable evidence that horses existed by the time that Nephi arrived (~600 BC) as described in 1 Nephi:
 
-> 1Ne 18:25 - "And it came to pass that we did find upon the land of promise, as
+> 1 Nephi 18:25 - "And it came to pass that we did find upon the land of promise, as
 we journeyed in the wilderness, that there were beasts in the forests of every
 kind, both the cow and the ox, and the ass and the horse..."
 
@@ -211,10 +198,7 @@ testimony.  She says:
 
 > Testimony comes only from reading with real intent, pondering, and praying. If you haven't yet done so, apply the formula found in Moroni 10:3--5. Rely on the Holy Ghost to teach and testify to you. It works every time.
 
-Even though Moroni's promise is viewed by members as a silver bullet, there are
-legitimate problems with this approach, as detailed in [Testimony, Spiritual
-Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/).  The primary issues with using Moroni's promise to determine the Book of
-Mormon's truthfulness are:
+Even though Moroni's promise is viewed by members as a silver bullet, there are legitimate problems with this approach, as detailed in [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/).  The primary issues with using Moroni's promise to determine the Book of Mormon's truthfulness are:
 
 1. There are many other religious and quasi-religious groups---each with many
    mutually exclusive truth claims---who rely on this method for convincing
@@ -229,7 +213,7 @@ Mormon's truthfulness are:
 
 ## Correspondences with early 1800s Protestant America
 
-The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century.  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
+The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see [Book of Mormon parallels to 1800s thought](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/) for a comprehensive list).  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
 
 [The Mormon Challenge](http://www.themormonchallenge.com/) presents many additional religious influences, and Thomas Donofrio has written extensively on modern [historical](http://mormonthink.com/influences.htm#part2) and [religious influences](http://mormonthink.com/influences.htm#part3) on the Book of Mormon.
 
