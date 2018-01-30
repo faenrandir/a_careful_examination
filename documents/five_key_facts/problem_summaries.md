@@ -17,7 +17,6 @@
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
 * [The CES Letter](http://cesletter.com/) (the most famous compilation, by Jeremy Runnells)
-* [A Letter to an Apostle](https://lettertoanapostle.org/) ([FairMormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/A_Letter_to_an_Apostle); [author response](https://lettertoanapostle.org/my-reply-to-fairmormons-response/))
 
 #### Other summaries
 
