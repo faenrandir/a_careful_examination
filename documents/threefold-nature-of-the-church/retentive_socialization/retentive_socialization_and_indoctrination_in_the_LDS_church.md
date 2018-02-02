@@ -72,7 +72,13 @@ Thinker of Thoughts discusses how members [covenant and are reminded of their co
 
 All able males are expected to serve a 2 year LDS mission, and they typically serve at the age of 18 or 19.  Females are encouraged to consider service and many females leave at 19 years of age to serve a 1.5 year mission.  The mission is a time of complete focus on learning and teaching LDS doctrine and provides a strong socializing experience.
 
-The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).  All communication to the missionary flows through Church controlled resources, and families must use LDS controlled email to write to their missionary.  Anecdotes suggest that faith-disturbing content may be filtered before delivery to the missionary, and missionaries may only write home once per week.[^exceptions_to_communication]  
+The missionary environment, from reading material to schedule, is [_very_ tightly controlled](https://www.lds.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf).  All communication to the missionary flows through Church controlled resources, and families must use LDS controlled email to write to their missionary.  [2017 Mobile Device Standards](https://mormonleaks.io/wiki/documents/b/b6/2017-Mobile_Device_Standards.pdf) for LDS missionaries outline the following expectations:
+
+> Always sit or stand so that you and your companion can see each other’s screen when using devices. Be aware of your companion’s contacts, messages, and communication.  Also make sure that your companion reviews anything you plan to email, post, comment, or message except for letters to your mission president and emails home. ...
+
+> With your companion, create a culture of helping each other be safe by regularly and thoroughly reviewing each other’s devices. In reviewing your companion’s device, look at his or her app histories, recent contacts, photos, notes, usage information, and so on. Do not reset your device or erase your online history. As directed by your mission president, missionary leaders may also conduct device reviews. ...
+
+Anecdotes suggest that faith-disturbing content may be filtered before delivery to the missionary, and missionaries may only write home once per week.[^exceptions_to_communication]  
 
 Leaving a mission can be extremely difficult.  For instance, Mission Presidents may use [an extraordinary number of tactics and gates](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/) to prevent homesick or discouraged missionaries from returning home.  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries' passports so the missionary may not leave without their permission.[^passports]  Missionaries must also sign a document stating their intention to serve, [which may be used against them](https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/) if they decide to return home (i.e., "you signed up for this.")
 
@@ -292,6 +298,20 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 ## Conclusion
 
 A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
+
+---
+
+**Acknowledgements:**
+
+* Some personal communication with Benjamin Beit-Hallahmi influenced the general approach of this document.
+* Reddit user JohnH2 provided valuable critique's of an early draft of this work which eventually prompted me to write this draft (he also provided useful critique of this draft).
+* Some examples were drawn from Luna Lindsay's work (see [Recovering Agency: Lifting the Veil of Mormon Mind Control](https://www.amazon.com/Recovering-Agency-Lifting-Mormon-Control/dp/1489595937))
+* Some examples and thoughts on approach were drawn from [thoughtsonthingsandstuff](http://thoughtsonthingsandstuff.com/) by Jonathon Streeter.
+* Mormonism101 was helpful in considering ways to frame [the psychological influence of the LDS Church](http://www.mormonism101.com/2015/06/psychological-effects-mormonism-members.html).
+* Reddit user MaxSTX pointed out [the 2017 mobile device standards](https://www.reddit.com/r/exmormon/comments/7uu490/because_missionaries_need_to_spy_on_their/dtn6nzo/?context=3).
+* Reddit user TracingWoodgrains provided some valuable suggestions (which I still need to implement!!!!)
+* Discussion and examples from /r/mormon and /r/exmormon were helpful in formulating this document.  I did not give enough specific credit to all those who pointed out good/interesting socializing influences which this document benefited from.
+* Reddit user we-were-gods provided useful feedback and general encouragement to continue documenting my thinking on LDS topics.
 
 [^insufficientjustification]: The practice of bearing a testimony to find it may take advantage of the phenomenon of "insufficient justification". [From the 1959 study](http://psychclassics.yorku.ca/Festinger/) on insufficient justification: "If a person is induced to do or say something which is contrary to his private opinion, there will be a tendency for him to change his opinion so as to bring it into correspondence with what he has done or said." ([video which details the experiment](https://www.youtube.com/watch?v=CkJc6c3nKMw) and more on [insufficient justification](https://en.wikipedia.org/wiki/Insufficient_justification))
 
