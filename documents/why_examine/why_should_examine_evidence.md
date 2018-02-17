@@ -36,6 +36,25 @@ Virtually all Latter-day Saints have experienced friendships that were lost or d
 
 Similarly, a faith transition can strain existing family relationships with active members of the Church.  To investigate may mean to face a loss in the closeness of some family relationships for an indeterminate length of time.
 
+One member who had recently investigated the truth-claim data in an effort to understand why his son had left the LDS Church listed out [the kinds of losses his wife might experience](https://www.reddit.com/r/exmormon/comments/7j2ij9/i_told_my_tbm_wife_that_i_have_no_interest_in/) were she to investigate and lose her faith in LDS truth-claims.  Nearly all of these emphasize a loss/damage to past and future meaning or loss/damage to important relationships:
+
+* Her connection with her Father in Heaven she has known her whole life.
+* Her connection with Jesus, the Savior of the world.
+* Her connection with her 3 siblings (and their spouses) all of whom she adores.
+* Her connection with her parents who are lovely amazing parents.
+* Her understanding that she has been a good mother by teaching our kids the gospel as priority one.
+* Her connection with all of her friends and their children.
+* Her sense of self-worth through serving in callings and attending church.
+* Her connection with her wonderful past (a near picture-perfect upbringing completely defined by Mormonism.)
+* Her sense of identity as primarily a wife and a mother, which is God's divine design for her.
+* Her sweet connection with all of her nieces and nephews.
+* Her beautiful connection with the youth of the ward/stake.
+* Her understanding of the heavens and the earth.
+* Her promise of an eternal family and celestial reward
+* The loss of her spiritual gifts as identified in her patriarchal blessing.
+* The loss of going to the temple for special occasions for her, her kids, her extended family.
+* ...and more.
+
 ### Fear of becoming an apostate or a wolf in sheep's clothing
 
 Members know that investigating is the first step to potentially becoming an "apostate", and apostates are generally portrayed in the Church in the worst possible light.[^apostatesworstpossible]
