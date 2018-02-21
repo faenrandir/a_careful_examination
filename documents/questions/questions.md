@@ -20,7 +20,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 ## Joseph Smith's Polygamy
 
-1. If sealing is such an important principle,[^importance_of_sealing] why did Joseph never seal himself to his parents or children during his lifetime?[^hales_no_sealing]
+1. If sealing is such an important principle[^importance_of_sealing], why did Joseph never seal himself to his parents or children during his lifetime?[^hales_no_sealing]
 
 1. If sealing is such an important principle, why was Emma sealed to Joseph after so many others ([more than 16 well documented sealings](http://josephsmithspolygamy.org/plural-wives-overview/))?
 
@@ -60,6 +60,10 @@ The number of [similarities with early 1800s thought is _extensive_](https://mor
 
 1. Why are there errors in the Book of Mormon [unique to the 1769 King James edition of the Bible](https://www.fairmormon.org/answers/Book_of_Mormon/Translation_Errors_from_the_KJV) that Joseph Smith's family owned?
 
+1. Why does the Book of Mormon [closely quote deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/) which likely wasn't written (at least in its current form) [until _after_ Lehi and his family would have left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/)?
+
+1. Why would Moroni have quoted Jesus speaking the precise words found at the end of the book of Mark when the section he was quoting is almost certainly of [dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)?
+
 1. If the book is ancient in origin, why did the author of the Book of Mormon [quote or paraphrase New Testament scripture more often than Old Testament scripture](http://bookofmormondepot.com/kjv-verses/), even before the New Testament was written?
 
 ## Spiritual Confirmation and Priesthood Guidance
@@ -94,60 +98,9 @@ However, many data points [support a migration out of Africa beginning about 70,
 
 1. FairMormon acknowledges that there [was likely not a global flood 4,400 years ago](https://www.fairmormon.org/answers/Mormonism_and_science/Global_or_local_Flood#Question:_How_do_Latter-day_Saints_reconcile_scriptural_accounts_of_the_Flood_of_Noah_with_scientific_evidence_of_continuous_human_habitation_on_the_earth.3F).  If the Garden of Eden really was in Missouri, how did Adam and Eve migrate to the Middle East?  If Adam never actually lived in Missouri, then what are we to make of [Adam-ondi-Ahman](http://emp.byui.edu/satterfieldb/quotes/Adam-ondi-Ahman.html)?
 
+
 [^other_questions]: The LDS Church is capable of answering many questions about its history and truth-claims, and many of the answers cast the Church in a positive light.  Questions that frame the Church in a positive light are important---and missionaries and ecclesiastical leaders will be quick to ask and answer those questions---but difficult questions are similarly important for exploring the boundaries and potential contradictions found within LDS theology, history, and epistemology.  In science, at least, it is the question that is not easily answered that often motivates truth-seekers to find new---or refine existing---models describing reality.
 
-
-
-[^importance_of_sealing]: Latter-day Saints view the temple sealing ceremony as having the utmost significance.  Here are some examples: [The sealing ordinance links families eternally](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [Marriage in the Lord's Way](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), ["The Sealing Power"](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
-
-[^hales_no_sealing]: In [a reddit comment](https://www.reddit.com/r/mormon/comments/5quvd8/questions_for_brian_and_laura_hales_upcoming_ama/dd7jbbq/), Brian Hales, LDS Historian (and likely primary author of the [Nauvoo Polygamy lds.org essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)), stated: "Keep in mind Joseph died without being sealed to his children or parents."
-
-[^lie_rebuttal]:  LDS apologist Brian Hales has attempted to argue that Joseph Smith wasn't lying about polygamy but using "carefully worded denials" instead (so he was "technically" honest).  I have examined that argument in great depth [here](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
-
-[^dead_as_far_as_aware]: All these individuals are now dead as far as I'm aware---these are all from patriarchal blessings given before the 1900s, and I'm assuming we would likely know if any of them had somehow escaped death.
-
-[^shared_by_others]: Elder Holland's story (also told by Kim B. Clark) was shared by many others (all last retrieved 2017-09-06): [1](http://rogerwilco-ldsreport.blogspot.com/), [2](https://web.archive.org/web/20170801050830/http://www.texashoustonsouthmission.com/weekly-presidents-pen/2016/4/25/presidents-pen-4-25-16), [3](https://eldercowansouthafrica.blogspot.com/2017/07/zone-conference.html) [4](http://savvysmissionaryblog.blogspot.com/2015/11/carry-on.html), [5](http://hermanaalisonknight.blogspot.com/2015/11/one-month-down-17-to-go.html), and [6](http://eldergideonbenge.blogspot.com/2017/07/an-invitation-to-come-home.html).  The story profoundly influenced many hearers:
-
-    * "The most powerful message to my heart was a story from Elder Jeffrey R. Holland addressed to new mission presidents and their wives."
-    * "really awesome story"
-    * "then he ended with a powerful story...This was a powerful story for me. One about love and about how God shows his love. There are no lost causes, we are all of infinite worth to God and He will put us exactly where he needs us to be."
-    * "I want to tell an amazing story we were told at the devotional last night...HOW AMAZING IS THAT?! God sure works in mysterious and amazing ways."
-    * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
-
-[^dating]: The various methods used to date these events are accepted as generally accurate by every BYU scientist who operates within these domains ([for example](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4f3ac030a39f9e572b7a1835e93e8c30a2c2f9fa/documents/science/carbon14_dating_is_reliable.pdf)).  In part, that's because these methods are verified and calibrated by highly orthogonal measures of the passage of time (position of the stars relative to stonehenge, varve layers, speleothem deposition, tree-rings, etc).
-
-[^blood]: Confidence in the underlying teaching about the curse of Cain and "black" blood is also manifest in the practice of LDS hospitals segregating "black" blood from "white" blood [for many years](https://books.google.com/books?id=JaZn25Uv6XwC&pg=PA197&lpg=PA197#v=onepage&q&f=false).
-
-[^bryce_cook]: Additionally, consider [the arguments outlined by Bryce Cook](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/).
-
-[^consider_section_10]: Consider that God apparently guided prophets thousands of years in advance to prepare additional records to go with the golden plates in order to prevent people from losing faith over minor translation errors were Joseph to have re-translated the lost 116 pages and his initial translation were altered.  [D&C 10:31-33](https://www.lds.org/scriptures/dc-testament/dc/10.31-33) makes this clear:
-
-    > 31 For, behold, if you should bring forth the same words they will say that you have lied and that you have pretended to translate, but that you have contradicted yourself.
-
-    > 32 And, behold, they will publish this, and Satan will harden the hearts of the people to stir them up to anger against you, that they will not believe my words.
-
-    > 33 Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.
-
-[^partition_algorithm]: The algorithm members often use for dealing with difficult problems with history or doctrine is that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of the ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't"). It’s an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---_by algorithmic definition_.
-
-    The problem with this algorithm is that it may be too powerful---any institution to which we apply it will also suddenly appear divine.  A Jehovah's Witness defends their organization in similar terms:
-
-    > Every person in this organization---every one of Jehovah’s Witnesses including the governing body---we're all imperfect and thus we are subject to making mistakes. Which means that if you look hard enough, all you will see instead of seeing these amazing things that Jehovah is accomplishing and our tremendous privilege of being part of it, all we are going to see is the errors of men. But when we focus on the good, on the guidance and loving support that we’ve received, aren’t we moved with appreciation to cleave to this body of fellow worshipers. And just look at what Jehovah is accomplishing by means of his imperfect servants. There is no other organization on earth providing spiritual food like the one that we belong to. When we look at all of this, how could we possibly let the failings of just a few people undermine this overwhelming proof of Jehova’s backing? [2016 “remain loyal to jehovah” regional conference](https://www.youtube.com/watch?v=c7GYXS5lhPc)
-
-    And a Catholic speaking about her Bishops as she defends the Catholic doctrine of forbidding birth control:
-
-    > Bishops are not CEO’s; they are stand-ins for Christ. The relation of a bishop to the people is not analogous to any ‘power’ relationships in the secular world. They are human and prone to mistakes, but they are also a way that God speaks to the world. Bishops serve lay Catholics by standing up for our beliefs, as they are doing now. I am glad that when the world wants to know “what Catholics think” there is a clear way to find out. I am grateful for the leadership of our bishops in these recent weeks. [source](https://www.onfaith.co/onfaith/2012/02/22/in-defense-of-the-catholic-church/11150)
-
-[^detailed_revelation]: Joseph Smith apparently received precise dimensions for the construction of, for example, a printing house ([D&C 94:10-11](https://www.lds.org/scriptures/dc-testament/dc/94.10-11)):
-
-    > 10 And again, verily I say unto you, the second lot on the south shall be dedicated unto me for the building of a house unto me, for the work of the printing of the translation of my scriptures, and all things whatsoever I shall command you.
-
-    > 11 And it shall be fifty-five by sixty-five feet in the width thereof and the length thereof, in the inner court; and there shall be a lower and a higher court.
-
-    The [messiness](https://www.mormoninterpreter.com/opportunity-lost/) of Joseph Smith's polygamy contrasts with such precise instruction.  We might expect more detail to be given for something like polygamy---which had such a tremendous impact on all its participants---and perhaps less detail for printing buildings.
-    
-    We cannot be certain when the principles given in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) were first revealed, but we know the full revelation was recorded [by July 7, 1843](https://www.lds.org/scriptures/dc-testament/dc/132).  If these principles were revealed late, we are left wondering why these principles were not revealed earlier. For instance, had the angel delivered these principles at the same time as threats of death were he not to move ahead with polygamy, then perhaps Joseph would not have pressured Zina Huntington, the 7 month pregnant newlyewed, into being sealed to him.  On the other hand, if the [D&C 132:61 principles](https://www.lds.org/scriptures/dc-testament/dc/132.61) were, in fact, revealed earlier to Joseph, we are left wondering why Joseph rarely, if ever, followed those principles.  What would Joseph Smith's polygamy have looked like had he followed the principles in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) from the beginning?
-    
 [^no_error]:  The idea that there is no error in the revelations taught by a prophet or that we ought to follow what a prophet teaches regardless of its accuracy is suggested frequently in the LDS Church.
 
     * “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture” ([Brigham Young](https://www.lds.org/manual/teachings-of-the-living-prophets-student-manual/chapter-2-the-living-prophet-the-president-of-the-church?lang=eng))
@@ -162,6 +115,56 @@ However, many data points [support a migration out of Africa beginning about 70,
     * "God is perfect, and His doctrine is pure. But He works through us—His imperfect children—and imperfect people make mistakes." ([Dieter F. Uchtdorf](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng))
     * "Can a Prophet or an Apostle be mistaken? Do not ask me any such question, for I will acknowledge that all the time..." ([Brigham Young](https://www.fairmormon.org/answers/Mormonism_and_doctrine/Prophets_are_not_infallible))
 
+[^partition_algorithm]: The algorithm members often use for dealing with difficult problems with history or doctrine is that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of the ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't"). It’s an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---_by algorithmic definition_.
+
+    The problem with this algorithm is that it may be too powerful---any institution to which we apply it will also suddenly appear divine.  A Jehovah's Witness defends their organization in similar terms:
+
+    > Every person in this organization---every one of Jehovah’s Witnesses including the governing body---we're all imperfect and thus we are subject to making mistakes. Which means that if you look hard enough, all you will see instead of seeing these amazing things that Jehovah is accomplishing and our tremendous privilege of being part of it, all we are going to see is the errors of men. But when we focus on the good, on the guidance and loving support that we’ve received, aren’t we moved with appreciation to cleave to this body of fellow worshipers. And just look at what Jehovah is accomplishing by means of his imperfect servants. There is no other organization on earth providing spiritual food like the one that we belong to. When we look at all of this, how could we possibly let the failings of just a few people undermine this overwhelming proof of Jehova’s backing? [2016 “remain loyal to jehovah” regional conference](https://www.youtube.com/watch?v=c7GYXS5lhPc)
+
+    And a Catholic speaking about her Bishops as she defends the Catholic doctrine of forbidding birth control:
+
+    > Bishops are not CEO’s; they are stand-ins for Christ. The relation of a bishop to the people is not analogous to any ‘power’ relationships in the secular world. They are human and prone to mistakes, but they are also a way that God speaks to the world. Bishops serve lay Catholics by standing up for our beliefs, as they are doing now. I am glad that when the world wants to know “what Catholics think” there is a clear way to find out. I am grateful for the leadership of our bishops in these recent weeks. [source](https://www.onfaith.co/onfaith/2012/02/22/in-defense-of-the-catholic-church/11150)
+
+[^importance_of_sealing]: Latter-day Saints view the temple sealing ceremony as having the utmost significance.  Here are some examples: [The sealing ordinance links families eternally](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [Marriage in the Lord's Way](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), ["The Sealing Power"](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
+
+[^hales_no_sealing]: In [a reddit comment](https://www.reddit.com/r/mormon/comments/5quvd8/questions_for_brian_and_laura_hales_upcoming_ama/dd7jbbq/), Brian Hales, LDS Historian (and likely primary author of the [Nauvoo Polygamy lds.org essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)), stated: "Keep in mind Joseph died without being sealed to his children or parents."
+
+[^lie_rebuttal]:  LDS apologist Brian Hales has attempted to argue that Joseph Smith wasn't lying about polygamy but using "carefully worded denials" instead (so he was "technically" honest).  I have examined that argument in great depth [here](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
+
+[^detailed_revelation]: Joseph Smith apparently received precise dimensions for the construction of, for example, a printing house ([D&C 94:10-11](https://www.lds.org/scriptures/dc-testament/dc/94.10-11)):
+
+    > 10 And again, verily I say unto you, the second lot on the south shall be dedicated unto me for the building of a house unto me, for the work of the printing of the translation of my scriptures, and all things whatsoever I shall command you.
+
+    > 11 And it shall be fifty-five by sixty-five feet in the width thereof and the length thereof, in the inner court; and there shall be a lower and a higher court.
+
+    The [messiness](https://www.mormoninterpreter.com/opportunity-lost/) of Joseph Smith's polygamy contrasts with such precise instruction.  We might expect more detail to be given for something like polygamy---which had such a tremendous impact on all its participants---and perhaps less detail for printing buildings.
+    
+    We cannot be certain when the principles given in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) were first revealed, but we know the full revelation was recorded [by July 7, 1843](https://www.lds.org/scriptures/dc-testament/dc/132).  If these principles were revealed late, we are left wondering why these principles were not revealed earlier. For instance, had the angel delivered these principles at the same time as threats of death were he not to move ahead with polygamy, then perhaps Joseph would not have pressured Zina Huntington, the 7 month pregnant newlyewed, into being sealed to him.  On the other hand, if the [D&C 132:61 principles](https://www.lds.org/scriptures/dc-testament/dc/132.61) were, in fact, revealed earlier to Joseph, we are left wondering why Joseph rarely, if ever, followed those principles.  What would Joseph Smith's polygamy have looked like had he followed the principles in [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) from the beginning?
+
+[^consider_section_10]: Consider that God apparently guided prophets thousands of years in advance to prepare additional records to go with the golden plates in order to prevent people from losing faith over minor translation errors were Joseph to have re-translated the lost 116 pages and his initial translation were altered.  [D&C 10:31-33](https://www.lds.org/scriptures/dc-testament/dc/10.31-33) makes this clear:
+
+    > 31 For, behold, if you should bring forth the same words they will say that you have lied and that you have pretended to translate, but that you have contradicted yourself.
+
+    > 32 And, behold, they will publish this, and Satan will harden the hearts of the people to stir them up to anger against you, that they will not believe my words.
+
+    > 33 Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.
+
+[^shared_by_others]: Elder Holland's story (also told by Kim B. Clark) was shared by many others (all last retrieved 2017-09-06): [1](http://rogerwilco-ldsreport.blogspot.com/), [2](https://web.archive.org/web/20170801050830/http://www.texashoustonsouthmission.com/weekly-presidents-pen/2016/4/25/presidents-pen-4-25-16), [3](https://eldercowansouthafrica.blogspot.com/2017/07/zone-conference.html) [4](http://savvysmissionaryblog.blogspot.com/2015/11/carry-on.html), [5](http://hermanaalisonknight.blogspot.com/2015/11/one-month-down-17-to-go.html), and [6](http://eldergideonbenge.blogspot.com/2017/07/an-invitation-to-come-home.html).  The story profoundly influenced many hearers:
+
+[^dead_as_far_as_aware]: All these individuals are now dead as far as I'm aware---these are all from patriarchal blessings given before the 1900s, and I'm assuming we would likely know if any of them had somehow escaped death.
+
+    * "The most powerful message to my heart was a story from Elder Jeffrey R. Holland addressed to new mission presidents and their wives."
+    * "really awesome story"
+    * "then he ended with a powerful story...This was a powerful story for me. One about love and about how God shows his love. There are no lost causes, we are all of infinite worth to God and He will put us exactly where he needs us to be."
+    * "I want to tell an amazing story we were told at the devotional last night...HOW AMAZING IS THAT?! God sure works in mysterious and amazing ways."
+    * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
+
+[^blood]: Confidence in the underlying teaching about the curse of Cain and "black" blood is also manifest in the practice of LDS hospitals segregating "black" blood from "white" blood [for many years](https://books.google.com/books?id=JaZn25Uv6XwC&pg=PA197&lpg=PA197#v=onepage&q&f=false).
+
+[^bryce_cook]: Additionally, consider [the arguments outlined by Bryce Cook](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/).
+
 [^eden_in_missiour]: The recently leaked [Guideline Responses to Common Questions](https://mormonleaks.io/wiki/index.php?title=File:Guideline_Responses_to_Common_Questions.pdf) is given to all General Authorities upon accepting their assignment.  It contains the following response to the question "Was the Garden of Eden in Missouri?"
 
     > Strictly speaking, we do not know where the Garden of Eden was.  Joseph Smith established a settlement called Adam-ondi-Ahman in Daviess County, Missouri.  While not an important or foundational doctrine, **Latter-day Saints believe that Adam and Eve dwelt in that area after being expelled from the Garden of Eden**. (emphasis added)
+
+[^dating]: The various methods used to date these events are accepted as generally accurate by every BYU scientist who operates within these domains ([for example](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4f3ac030a39f9e572b7a1835e93e8c30a2c2f9fa/documents/science/carbon14_dating_is_reliable.pdf)).  In part, that's because these methods are verified and calibrated by highly orthogonal measures of the passage of time (position of the stars relative to stonehenge, varve layers, speleothem deposition, tree-rings, etc).

@@ -23,6 +23,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
+1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
 
 ### Extensive compilations or analyses
 
