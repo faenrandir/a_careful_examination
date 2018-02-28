@@ -121,8 +121,8 @@ The very thought of dating a non-return missionary (non-RM) is [considered jaw-d
 
     > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.
 
-1. In general, logic is carefully arranged [to support belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ff97a00079dc519d16807bcaef105a2a03102334/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf).
-1. [BYU's Academic Freedom Policy](https://policy.byu.edu/view/index.php?p=9) explains how human reason is subordinate to divine revelation: "Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation."  Hence, when ways of knowing clash, the authorities win.
+1. In general, logic is carefully arranged [to support belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/bdaa6582447ca0adbbd8c4aa36cc4f2ee5105a08/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf).
+1. [BYU's Academic Freedom Policy](https://policy.byu.edu/view/index.php?p=9) explains how human reason is subordinate to divine revelation: "Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation."  Hence, when ways of knowing clash, LDS authorities always win.
 
 #### LDS Orthodoxy
 
@@ -310,6 +310,12 @@ And Elder M Russell Ballard recently [taught](https://www.lds.org/general-confer
 Although the consequences are [often unnamed](https://youtu.be/mmErOV9oQZ8?t=222), the implication is that not following the LDS program results in consequences that are always tragic.  For instance, M. Russell Ballard [taught](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng): 
 
 > they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
+
+As an example, [a father-in-law recently wrote to his unbelieving son-in-law](https://www.reddit.com/r/exmormon/comments/80qinx/letter_from_tbm_fil_last_night/duxhu64/):
+
+> If you remove your name from the church records while you are on this journey of discovery, your eternal family blessings are at risk. They can be restored, but if something happens before then. Just saying.....
+
+> ... be warned, sometimes if he is having a hard time getting through, he may send a tragedy your way, to help break down the wall that you may have unknowingly built ...
 
 Following every part of the LDS program is seen as vitally important for safety.  For instance, Julie Beck tells the story of how drinking coffee was the primary reason her family fell away from the LDS Church even though they were following the other prescribed activities of paying tithing and Sunday worship:
 
