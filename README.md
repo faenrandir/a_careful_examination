@@ -1,4 +1,4 @@
-# A Careful Examination: investigating LDS truth-claims and thinking
+## A Careful Examination: investigating LDS truth-claims and thinking
 
 This repo contains a collection of my writing and thinking on LDS truth claims and the consequences of Church membership.  I have undertaken this investigation carefully and with as much objectivity as I was capable.[1]  If I am mistaken in what I have written or the conclusions I have drawn, then please do not hesitate to offer me correction.
 
@@ -16,7 +16,7 @@ My investigation has been motivated by the idea that if the claims of the Church
 
 * My LDS related bookmarks [here](https://htmlpreview.github.io/?https://github.com/faenrandir/a_careful_examination/blob/master/consulted.html)
 
-[My Conclusion](https://github.com/faenrandir/a_careful_examination/blob/master/conclusion.md)
+#### [My Conclusion](https://github.com/faenrandir/a_careful_examination/blob/master/conclusion.md)
 
 ---
 
