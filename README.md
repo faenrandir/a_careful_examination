@@ -19,6 +19,8 @@ My investigation has been motivated by the idea that if the claims of the Church
 
 * My LDS related bookmarks [here](https://htmlpreview.github.io/?https://github.com/faenrandir/a_careful_examination/blob/master/consulted.html)
 
+* Much of the relevant truth-claim data is summarized (though not often contextualized) at [missedinsunday.com](http://www.missedinsunday.com/).  Please note that clicking on a given image will pull up citations.
+
 #### [My Conclusion](https://github.com/faenrandir/a_careful_examination/blob/master/conclusion.md)
 
 ---
