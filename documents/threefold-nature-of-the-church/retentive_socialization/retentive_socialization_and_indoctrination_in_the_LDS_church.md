@@ -252,9 +252,7 @@ The compartmentalization of information may hinder a lay member's ability to fai
 
 Interviews occur at expected intervals and can lead to intense pressure to conform to the LDS program.  Consider, for instance, the pressure to conform felt by [Kip Eliason](http://thoughtsonthingsandstuff.com/a-latter-day-tragedy-suicide-over-masturbation/) and Steven [as related by NewNameNoah](https://www.youtube.com/watch?v=Xliwswh4GGU) [warning: last half contains explicit temple references].  A typical adult worthiness interview where the interviewee responds with all the "correct" answers may be found in this [hidden-camera footage](https://youtu.be/4DCeAK6vUb8?t=260) [warning: this video is likely to be offensive to many LDS members].
 
-Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf):
-
-> Worthiness interviews need to be **specific** and **explicit** (emphasis added)
+Leaders [were recently instructed](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf) that worthiness interviews for prospective missionaries "need to be specific and explicit".
 
 Although questions are prescribed and must be asked word-for-word, ecclesiastical leaders are given some latitude in how to conduct the interview, particularly when the answer runs counter to the approved answer.[^invasive_interviews]
 
