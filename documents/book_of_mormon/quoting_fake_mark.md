@@ -1,3 +1,14 @@
+---
+# default font misses most of the greek/hebrew letters
+# cm-unicode only supports Greek :/
+# use FreeSerif font because it supports both greek and hebrew letters
+mainfont: FreeSerif.otf
+mainfontoptions: 
+- BoldFont=FreeSerifBold.otf
+- ItalicFont=FreeSerifItalic.otf
+- BoldItalicFont=FreeSerifBoldItalic.otf
+---
+
 # Moroni quotes sections of Mark that are of dubious origin
 
 Many [theological anachronisms exist in the Book of Mormon](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/), but among the most problematic is the quotation of the end of the book of Mark by Moroni.
