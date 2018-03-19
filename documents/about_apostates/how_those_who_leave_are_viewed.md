@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LDS Church leaders, lesson manuals, and other material published by the Church speak extensively about those who leave the Church and apostasize (leaving the Church is synonymous with apostasy).  Collectively, these writings emphasize that those who leave the Church are one or more of the following:
+LDS scripture, leaders, lesson manuals, and other material published by the Church speak extensively about those who leave the Church and apostasize (leaving the Church is synonymous with apostasy).  Collectively, these writings emphasize that those who leave the Church are one or more of the following:
 
 1. Morally weak (i.e., are sinning)
 2. Followers of Satan (explicitly or unawares)
@@ -13,6 +13,72 @@ LDS Church leaders, lesson manuals, and other material published by the Church s
 Given this characterization of those who leave, it is not surprising that many feel a need to "defend their actions", "disprove" the Church, or end up becoming hostile enemies: a person who determines that the Church is not true---regardless of how pure or noble their motives, the strength of their character, the level of their spirituality, or how comprehensively they understand the Gospel---cannot leave with their reputation and character intact.  If they leave without explanation, then it is assumed that they are deficient in character or understanding---if they attempt to exonerate themselves, then they have a "need to defend their actions" or "disprove the Church" and are considered "bitter".
 
 While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, virtually *all* totalistic groups [characterize those who leave in a similar negative light](https://www.youtube.com/watch?v=VdTWTeTkPn0) (see additional examples from [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientology](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s).  In addition, see "[The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/)" for a longer discussion of the totalistic mindset and how it is manifest in the LDS Church.  Also [The Shunning Key: Whom Mormons shun and why](https://mormonbandwagon.com/bwv549/the-shunning-key/))
+
+## The Scriptural Precedent
+
+As suggested by the LDS scriptural canon, *Individuals who leave the LDS Church...*
+
+### were better off not ever having known God or Jesus
+
+> 12 But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me.
+
+[2 Nephi 31:12](https://www.lds.org/scriptures/bofm/2-ne/31.12)
+
+### will be viewed worse than the Lamanites
+
+> 23 And now behold I say unto you, that if this people, who have received so many blessings from the hand of the Lord, should transgress contrary to the light and knowledge which they do have, I say unto you that if this be the case, that if they should fall into transgression, it would be far more tolerable for the Lamanites than for them.
+
+[Alma 9:23](https://www.lds.org/scriptures/bofm/alma/9.23)
+
+### lost light and truth through disobedience
+
+> 37 Light and truth forsake that evil one.
+
+> 38 Every spirit of man was innocent in the beginning; and God having redeemed man from the fall, men became again, in their infant state, innocent before God.
+
+> 39 And that wicked one cometh and taketh away light and truth, **through disobedience**, from the children of men, and because of the tradition of their fathers. (emphasis added)
+
+> 40 But I have commanded you to bring up your children in light and truth.
+
+[Doctrine and Covenants 93:37--40](https://www.lds.org/scriptures/dc-testament/dc/93.37-40)
+
+### are servants of sin and children of disobedience
+
+Most of those who leave the LDS Church over truth-claim issues are at least implying the possibility that Joseph Smith was being deceitful about his translation abilities (e.g., [with the Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)) and that the manner in which he implemented polygamy is ethically problematic---for example, lying about polygamy publicly, performing duplicate ceremonies to hide first sealings from his wife, proposing to a seven month pregnant newlywed woman, and marrying a 14 year old who was reluctant to do so (see [five key facts for credible references](https://mormonbandwagon.com/bwv549/five-key-facts/)).  Doctrine and Covenants 121 suggests these individuals are the "servants of sin" and "children of disobedience" themselves:
+
+> 11 And they who do charge thee with transgression, their hope shall be blasted, and their prospects shall melt away as the hoar frost melteth before the burning rays of the rising sun;
+
+> 12 And also that God hath set his hand and seal to change the times and seasons, and to blind their minds, that they may not understand his marvelous workings; that he may prove them also and take them in their own craftiness;
+
+> 13 Also because their hearts are corrupted, and the things which they are willing to bring upon others, and love to have others suffer, may come upon themselves to the very uttermost;
+
+> 14 That they may be disappointed also, and their hopes may be cut off;
+
+> 15 And not many years hence, that they and their posterity shall be swept from under heaven, saith God, that not one of them is left to stand by the wall.
+
+> 16 Cursed are all those that shall lift up the heel against mine anointed, saith the Lord, and cry they have sinned when they have not sinned before me, saith the Lord, but have done that which was meet in mine eyes, and which I commanded them.
+
+> 17 But **those who cry transgression do it because they are the servants of sin, and are the children of disobedience themselves**. (emphasis added)
+
+### may not have forgiveness of sins here or in the world to come
+
+Many men who leave the LDS Church do so after receiving the Melchizedek Priesthood:
+
+> 40 Therefore, all those who receive the priesthood, receive this oath and covenant of my Father, which he cannot break, neither can it be moved.
+
+> 41 But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.
+
+[Doctrine and Covenants 84:40--41](https://www.lds.org/scriptures/dc-testament/dc/84.40-41)
+
+### may be fools or traitors
+
+Doctrine and Covenants 122 ([verses 1--3](https://www.lds.org/scriptures/dc-testament/dc/122.1-3)) emphasizes that those who express contempt or ridicule Joseph Smith are fools and traitors:
+
+> 1 The ends of the earth shall inquire after thy name, and **fools shall have thee in derision**, and hell shall rage against thee; (emphasis added)
+
+> 2 While the pure in heart, and the wise, and the noble, and the virtuous, shall seek counsel, and authority, and blessings constantly from under thy hand.
+
+> 3 And thy people shall never be turned against thee **by the testimony of traitors**. (emphasis added)
 
 ## Positive or neutral statements about those who leave
 
@@ -188,19 +254,17 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
-### were better off not ever having known God or Jesus
-
-> But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me. (2Ne 31:12)
-
-### will be viewed worse than the Lamanites
-
-> And now behold I say unto you, that if this people, who have received so many blessings from the hand of the Lord, should transgress contrary to the light and knowledge which they do have, I say unto you that if this be the case, that if they should fall into transgression, it would be far more tolerable for the Lamanites than for them. (Alma 9:23)
-
 ### may have taken on Satanic premises which are poisonous
 
 > Enticing us to adopt the premises of Babylon is a subtle strategy Satan uses to sow tares. Individuals who take the premises of Babylon as their fundamental basis for solving the divergent problems of life, of business, or of everyday activity are tares. Their logic may be consistent, but at the root, the solutions are based on premises that Satan has provided. Though they may resemble wheat in the early years, their genetic code—their core premises for growth—yields a poisonous outcome.
 
 [Dennis Tolley, BYU Devotional](https://speeches.byu.edu/talks/h-dennis-tolley_business-babylon/)
+
+### were not righteous (implied)
+
+> Faith is a gift of God bestowed as a reward for personal righteousness. It is always given when righteousness is present, and the greater the measure of obedience to God’s laws the greater will be the endowment of faith.
+
+Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.lds.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
 
 ### had an immature testimony and shallow committment to Jesus Christ (implied)
 
