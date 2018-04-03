@@ -20,3 +20,11 @@ One letter of [a transitioning member trying to explain](https://www.reddit.com/
 > Now that I have discovered the truth, I am triggered every time I see the church misleading it’s members. I am triggered whenever I feel it’s tentacles still wrapped around my personal choices. I am triggered by knowing that it is still deceiving the people that I love and there is nothing that I can do about it.
 
 > Feeling angry at this stage is normal and expected. I just lost a core part of my identity, of course it will take some time to work through. Even though I feel my anger is justified, I can’t wait for the day where I am able to move passed it.
+
+---
+
+[Sometimes anger is all I got](https://www.reddit.com/r/exmormon/comments/87g4lt/recent_comments_on_anger_and_coming_across_the/)
+
+> Sometimes anger is all I got. Not because I’m crazy or a bad person. Because I’ve lost many intimate and close relationships. Because one of my children in particular wouldn’t even hug me for quite a while after I left the church; do you know what that feels like?!? Because my marriage is over except on paper. Because some of my kids thought I wouldn’t be their dad anymore. Because my elderly parents and other family see me as a cancer now. Because the Mormon church is actively creating a wedge between me and my family now. I wish my transition had been easy. Yet the pain of lying to myself till I die was greater so I left Mormonism knowing it may harm some relationships I cared deeply about. I hope to one day not care about Mormonism. But right now I’m angry. If there is a righteous anger, this is it.
+
+> To our new visitors, this is why some exmormons are angry. We’re very good people and care deeply about those we love. Yet some of those we love no longer love us back simply because we chose to not be Mormon anymore.
