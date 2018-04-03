@@ -19,7 +19,7 @@ If my beliefs are incorrect or based on insufficient or faulty data, please do n
 2. I believe that moral agents (all beings with certain properties of self-reflection, awareness, and agency) are duty bound to act according to basic moral principles in their relationships with other conscious life.
 3. I believe that any time beings with properties of a moral agent exist, then morality exists also (e.g., if a silicon based life-form had all the properties of humans but had evolved or was created independently of biological life, then moral principles would apply equally to them).
 4. I believe that our ethical duty to other living entities is in some way proportional to the extent that they are conscious or have potential for consciousness (i.e., it is unethical to torture monkeys or dolphins, but it is not unethical to eat bacteria just for fun since they undoubtedly are not conscious and have no capacity for consciousness).
-5. I believe the core moral principles include: caring, fairness, liberty, and loyalty.
+5. I believe the core moral principles include: caring, fairness, and liberty.
 6. I believe that acting morally tends to bring us and those around us happiness.  However, even if acting morally did not generate feelings of content, I believe we would still have a rational obligation to act morally.
 
 If my actions are immoral or fail to align with the highest standards of morality, please do not hesitate to offer me correction or your perspective.
@@ -31,6 +31,7 @@ If my actions are immoral or fail to align with the highest standards of moralit
 3. I believe that expressions of love (in word and deed) bring us (those giving and receiving) happiness and joy.  Even if these acts did not generate a biological reaction in us, I believe they would still be satisfying and worthwhile to beings capable of rational self-reflection.
 4. I believe that individuals in positions of power have a duty to defend weaker individuals insofar as they are able and to wield that power in fair and responsible ways.
 5. I believe that when we make mistakes that we ought to communicate our regret, make amends insofar as is possible, and alter our behavior in order to avoid inflicting harm on others (or avoid shirking our duty) in the future.
+6. I believe that rather than living to be happy, we should live so as to deserve to be happy.
 
 If I am living poorly or failing to live well, please do not hesitate to share your perspective with me of how to live a good life.
 
