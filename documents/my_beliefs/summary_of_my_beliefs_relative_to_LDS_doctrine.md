@@ -2,13 +2,13 @@
 
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:
 
-[summary_of_my_beliefs.pdf](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/28fb88ab88fa324c9adc1c18cca8cec1a1074e28/documents/my_beliefs/summary_of_my_beliefs.pdf)
+[summary_of_my_beliefs.pdf](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_beliefs/summary_of_my_beliefs.pdf)
 
 Here is a brief summary of my beliefs relative to core LDS doctrine:
 
 1. I hope that a benevolent, all-knowning, all-powerful God exists and that we will continue to exist forever.  The marvel of the known universe and the complexity and beauty of earth and human life provide an indirect basis for this hope.
 1. I believe we are biologically related to all living organisms on this earth.
-1. I believe that what LDS culture considers 'spirit' or 'a Spirit' is likely a person's mind or conciousness.
+1. I believe that what LDS culture considers communication via 'spirit' or 'a Spirit' is likely restricted to the person's own mind or conciousness.
 1. I believe that my nearly 40 years of consistent, sincere prayer represent an internal dialog and was not likely communication with a being other than myself.  As far as I am able to distinguish, there is no difference between the insight and communication I have when I am thinking aloud or thinking deeply to myself than when I was praying intently, and this internal dialog has not changed since I resigned from the Church or experienced a faith transition.  I believe that admitting to myself that I am likely just talking to myself when I pray is morally sound and acting in humility.
 1. I believe that the feelings of peace and joy in my heart should be cultivated.  The feelings of peace and joy that I experience on a daily basis have not changed significantly since before and after my resignation or faith transition.  Hence, at least for myself, I believe that my access to feelings of peace and joy are not modulated by ordinances administered by the Church but rather by my actions and mindfulness.  I believe it is morally sound and acting in humility to admit that my feelings of peace and joy are likely self-generated (but generally when my actions and thoughts are aligned with moral principles).
 1. I believe that most of those who express their spiritual feelings do so in sincerity.  Hence, given the [contradictory beliefs of those who believe in spiritual truth](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/), I am left believing that spiritual feelings are inadequate tools to illuminate spiritual truth with any precision.  I believe that skepticism in the ability of spiritual feelings to accurately communicate objective reality is morally sound and acting in humility.
