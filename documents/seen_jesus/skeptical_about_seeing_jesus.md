@@ -1,6 +1,6 @@
 ## Why be skeptical of reports of LDS Apostles seeing Jesus?
 
-[Many accounts](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F#cite_note-7) are interpreted by Latter-day Saints that their leaders have seen and/or spoken with Jesus.
+[Many accounts](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F) are interpreted by Latter-day Saints that their leaders have seen and/or spoken with Jesus.
 
 1. 5% of the general population (_non-schizophrenic_) have experienced hallucinations ([summary](https://www.livescience.com/50999-hallucinations-delusions-common.html), [article](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2298236))
 1. Many Church leaders, particular Apostles, probably spend significant time ruminating on a potential visit with Jesus.  So, if they hallucinate something, Jesus seems like a good candidate.
@@ -14,7 +14,7 @@ And here's an interesting skeptical discussion on apostolic visitations with Jes
 
 ## Why so vague
 
-Why are suggestions by modern leaders that they have seen or been visited by Jesus typically [so vague in nature](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F#cite_note-7)?
+Why are suggestions by modern leaders that they have seen or been visited by Jesus typically [so vague in nature](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F)?
 
 By comparison, Paul's descriptions of his visitations were detailed and bold.  Other early accounts of visits with the risen Jesus are rich in detail.
 
