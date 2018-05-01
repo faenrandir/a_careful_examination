@@ -21,4 +21,6 @@ Clayton, William. Journals, 1842–1845. CHL.
 
 Pratt, Parley P. Letters, 1838–1839. CHL. [MS 5828](https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE1319915).
 
-h/t /u/Gileriodekel [here](https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
+---
+
+_h/t /u/Gileriodekel [here](https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)_
