@@ -1,6 +1,6 @@
 https://www.reddit.com/r/exmormon/comments/6526jy/fil_to_me_no_forgiveness_in_this_life_nor_the_next/
 
-I wasn't going to share this here, but I will anyway. I took the night off work to attend my TBM MIL's 70th b-day party. My SIL was kinda shaken when it came up that I had left the church (over 1 year ago). That prompted my FIL to go off on me in front of a house full of people. He said things like how I would not have forgiveness in this life nor the next and how I wouldn't be able to baptize my kids when they're 8 and they'd have to grow up with no priesthood in the home. He also said he talked to my mom and that I had broken her heart. My SIL who started the conversation told him he was being unchristlike and unkind to me and that he's lucky I don't punch him in his mouth. I kept my cool. I told him I didn't appreciate being called out publicly and that it was pretty low of him to resort to fear tactics and manipulation. I told him the conversation was unfair because if I told my side it would create a huge riff in the family, but he's allowed to say whatever he wants. I wasn't about to unleash the messed up stuff with someone else's kids in the room. My TBM wife sat by my side until she had to leave to go cry in the next room. I did fine until he stood up and tried to get in my face where I was sitting. People were physically trying to stop him from approaching me. At that point, I stood up and left the house without saying a word. As I was walking out he continued to yell at me about how I knew what I was doing was wrong and that I served a mission and knew the church was true. All my nieces and nephews heard that part of the conversion....
+> I wasn't going to share this here, but I will anyway. I took the night off work to attend my TBM MIL's 70th b-day party. My SIL was kinda shaken when it came up that I had left the church (over 1 year ago). That prompted my FIL to go off on me in front of a house full of people. He said things like how I would not have forgiveness in this life nor the next and how I wouldn't be able to baptize my kids when they're 8 and they'd have to grow up with no priesthood in the home. He also said he talked to my mom and that I had broken her heart. My SIL who started the conversation told him he was being unchristlike and unkind to me and that he's lucky I don't punch him in his mouth. I kept my cool. I told him I didn't appreciate being called out publicly and that it was pretty low of him to resort to fear tactics and manipulation. I told him the conversation was unfair because if I told my side it would create a huge riff in the family, but he's allowed to say whatever he wants. I wasn't about to unleash the messed up stuff with someone else's kids in the room. My TBM wife sat by my side until she had to leave to go cry in the next room. I did fine until he stood up and tried to get in my face where I was sitting. People were physically trying to stop him from approaching me. At that point, I stood up and left the house without saying a word. As I was walking out he continued to yell at me about how I knew what I was doing was wrong and that I served a mission and knew the church was true. All my nieces and nephews heard that part of the conversion....
 
 Believe it or not, this is the ONLY run-in I've had with him. He is a very generous, loving and kind person....
 
@@ -39,3 +39,13 @@ https://www.reddit.com/r/exmormon/comments/76yodg/things_my_tbm_parents_said_as_
 "Think about your children, what this means for them!"
 
 And more. Suffice it to say, things were a bit rocky with them for awhile. We don't talk about religion any more. Everything is pretty surface level. Exiting a cult sucks
+
+
+https://www.reddit.com/r/exmormon/comments/8f49yg/this_is_so_unreal_what_my_sister_is_doing/
+
+> When I left the church Feb 2016, she texted me simply to tell my I was now
+in outer darkness with Satan. Never to hear a word again from her, nor
+Christmas card or anything at all. NOTHING. (Although we had been close
+close before I left)
+
+

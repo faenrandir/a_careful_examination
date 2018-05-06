@@ -9,7 +9,7 @@ My investigation has been motivated by the idea that if the claims of the Church
 
 ### Additional resources
 
-* My formal compositions are currently hosted at Mormon Bandwagon [here](https://mormonbandwagon.com/user/bwv549/).
+* My formal compositions are currently hosted at Mormon Bandwagon [here](https://mormonbandwagon.com/author/bwv549/).
 * The complete collection of my public online religious interactions may be found here:
 
     * [bwv549](https://www.reddit.com/user/bwv549) (by far the most comprehensive collection)
