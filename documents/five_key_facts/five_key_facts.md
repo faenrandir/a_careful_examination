@@ -41,7 +41,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 
-A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) declared:
+A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) declared[^fp1949]:
 
 > The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
 
@@ -87,3 +87,10 @@ See [Problem Summaries: resources discussing LDS-truth claims](https://mormonban
 [^deception]: The word "deceptive" was chosen because [it is the most precise word to describe Joseph Smith's polygamy denials](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
 
 [^undueinfluence]: See [The Belmont Report on Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) for a discussion of what typically constitutes "undue influence."
+
+[^fp1949]: For documentation on the promulgation of the 1949 First Presidency letter, see PhD dissertation by Douglas Marty Trank, "A Rhetorical Analysis of the Rhetoric Emerging from the Mormon - Black Controversy" (August 1973), p.110-111:
+
+    The First Presidency of the LDS Church set forth the position of the Church in a statement in August of 1949. The same statement was re-issued in 1951 after the accession of David O. McKay as President. After the surge of interest in civil rights in the 1960's, the Church issued a modified and expanded statement on December 15, 1969. This statement is presently the only official statement of the position of the Church with regard to the Negro. [21]
+
+    [21] Interview with Henry Smith, spokesman for the LDS Church Offices, Salt Lake City, July 13, 1972.
+    [22] The statement issued in 1949 and again in 1951 was issued prior to any serious criticism of the Negro policy of the Church and is assumed to have been directed primarily for instruction within the Church.

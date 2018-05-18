@@ -3,7 +3,6 @@
 
 Marion G. Romney. General Conference, April, 1973. [Man---A Child of God](https://www.lds.org/general-conference/1973/04/man-a-child-of-god?lang=eng)
 
-
 > It is held by some that Adam was not the first man upon this earth, and that the original human being was a development from lower orders of the animal creation. These, however, are the theories of men. The word of the Lord declares that Adam was ‘the first man of all men’ (Moses 1:34), and we are therefore in duty bound to regard him as the primal parent of our race.
 
 Ensign. 2002. [The Origin of Man](https://www.lds.org/ensign/2002/02/the-origin-of-man?lang=eng). By the First Presidency of the Church. From Improvement Era, Nov. 1909, 75–81

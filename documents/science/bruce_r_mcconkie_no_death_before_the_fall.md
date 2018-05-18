@@ -46,8 +46,7 @@ https://www.lds.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
 There is no question about what Bruce R. McConkie personally believed on the
 topic.
 
-In his CES Symposium on the New Testament he discussed how the sealed portion
-of the Book of Mormon would destroy the entire theory of evolution:
+In his CES Symposium on the New Testament he discussed how the sealed portion of the Book of Mormon would destroy the entire theory of evolution:
 
 > As of now, the world is not ready to receive these truths [found in the yet to be revealed sealed portion]. For one thing, these added doctrines will **completely destroy the whole theory of organic evolution as it is now almost universally taught in the halls of academia**. For another, they will set forth an entirely different concept and time frame of the creation, both of this earth and all forms of life and of the sidereal heavens themselves, than is postulated in all the theories of men. And sadly, there are those who, if forced to make a choice at this time, would select Darwin over Deity. (emphasis added)
 
