@@ -9,6 +9,20 @@ Church will fill the whole earth (when growing)
 Enter ye in at the strait gate: for wide is the gate, and broad is  the way, that leadeth to destruction, and many there be which go in thereat:
 Even the very elect will be deceived.
 
+1. People not believing in Satan is what Satan wants them to believe.
+2 Nephi 28:21
+
+2. God's promises are always fulfilled -- if they fail it is because they did
+   not obey and their "reward lurketh beneath".
+
+30 Who am I that made man, saith the Lord, that will hold him guiltless that obeys not my commandments?
+
+31 Who am I, saith the Lord, that have promised and have not fulfilled?
+
+32 I command and men obey not; I revoke and they receive not the blessing.
+
+33 Then they say in their hearts: This is not the work of the Lord, for his promises are not fulfilled. But wo unto such, for their reward lurketh beneath, and not from above.
+
 1. Evidence
     * Sign seekers
 1. Leaders
@@ -26,6 +40,7 @@ Even the very elect will be deceived.
     "They love coffee more than Jesus"
 
 Does it look like the prophet did something wrong?
+
 [Yes] - The prophet cannot lead you astray.  He may have made a mistake, that is all.
 [No] - Nothing to worry about.
 [cannot access] The prophet led the Church astray.
