@@ -11,7 +11,7 @@ LDS scholars and critics alike have also noticed that the the Book of Mormon con
 
 Further, the idea that Joseph may have been referring to specific blocks of text (or aids to bring to his mind blocks of text) are suggested in the following:
 
-1. The inclusion of Deutero-Isaiah [assumes that Joseph referenced the relevant KJV chapters and dictated them to his scribe](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah).  Grant Hardy explains:
+1. The inclusion of Deutero-Isaiah [assumes that Joseph referenced the relevant KJV chapters and dictated them to his scribe](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah).  Grant Hardy [explains](https://github.com/faenrandir/a_careful_examination/blob/c7a4bddc06ad83c3543850f13146592435a24cc5/documents/book_of_mormon/the_puzzle_of_the_King_James_Version__Grant_Hardy.md):
 
     > Latter-day Saints sometimes brush [deutero-Isaiah] criticism aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
 
@@ -56,7 +56,7 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
     * 93.5 square inches on a sheet of letter paper
     * A hat 6 to 8 inches in diameter would have yielded between 28 and 50 square inches, or between 1/3 to 1/2 the area of a standard sheet of paper.
     * 531 pages in the BoM and [273,725 words](https://www.reddit.com/r/exmormon/comments/60afwe/book_of_mormon_word_count/), so about 515.5 words per page.
-    * Assume 80 working days, with two sessions per day (each session would have provided him the opportunity to swap out material, as explained below.  This means that 3.3 pages, or 1700 words, needed to be dictated per session.
+    * Assume 80 working days, with two sessions per day (each session would have provided him the opportunity to swap out material, as explained below).  This means that 3.3 pages, or 1700 words, needed to be dictated per session.
     * A single hat-sized fragment could have held somewhere between [between 100 and 150 words](https://www.quora.com/How-many-handwritten-words-fit-on-an-adage-8-5x11-page).
     * There are 6604 verses in the Book of Mormon and about 41.4 words per verse.  1700 words / 41 words/verse = 41 verses per session.
     * Assuming the above, he had space on his manuscript for roughly 1 to 2 English written words per verse.
@@ -97,25 +97,21 @@ This theory may explain why:
 
 1. Joseph Smith deflected discussion on the mechanism of translation
 
-    The hat method would easily draw attention to the actual method of translation.
+    Explaining the particulars about using a stone in a hat (besides drawing attention to the occult nature of using seer-stones) might have also suggested that material was being hid in the hat for Joseph to refer to.
 
-    Hyrum directed interest in how the Book of Mormon was translated to Joseph
-    Smith ("he thought best that the information of the coming forth of the
-book of Mormon be related by Joseph himself"), and Joseph only responded:
+    For instance, Hyrum directed interest in how the Book of Mormon was translated to Joseph Smith ("he thought best that the information of the coming forth of the book of Mormon be related by Joseph himself"), and Joseph responded:
 
-    > it was not intended to tell the world all the particulars of the coming forth of the book of Mormon, & also said that it was not expedient for him to relate these things &c" (Cannon and Cook, Far West Record, 23). [from McConkie](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf)
+    > it was not intended to tell the world all the particulars of the coming forth of the book of Mormon, & also said that it was not expedient for him to relate these things &c" (Cannon and Cook, Far West Record, 23). ([from JF McConkie](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf))
 
 1. Oliver Cowdery could not translate using the seer stone
 
-    Joseph Fielding Smith and Craig Ostler, in their work attempting to
-    discount the seer-stone in a hat translation method 
+    Joseph Fielding Smith and Craig Ostler [explain](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf):
 
+    > if the process of translation was simply a matter of reading from a seer stone in a hat, surely Oliver Cowdery could do that as well, if not better, than Joseph Smith. After all, Oliver was a schoolteacher. How then do we account for Oliver's inability to translate?
 
-    The next passages translated by Joseph Smith in the Book of Mormon, in what "seems more than coincidence", would immediately lend plausibility to the idea that only certain people have the gift to be able to "look, and translate ... records ... of ancient date; and it is a gift from God"
+    And, note that after Cowdery fails in his translation, the next passages translated by Joseph Smith in the Book of Mormon, in what "seems more than coincidence", immediately lend plausibility to the idea that only certain people have the gift to be able to "look, and translate ... records ... of ancient date; and it is a gift from God":
 
-    Joseph Fielding McConkie and Craig Ostler [note](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf):
-
-    >  It seems more than coincidence that one of the first things translated by Joseph Smith after Oliver Cowdery became his scribe was the story of King Limhi asking Ammon if he could translate the records in his possession.
+    >  It seems more than coincidence that one of the first things translated by Joseph Smith after Oliver Cowdery became his scribe was the story of King Limhi asking Ammon if he could translate the records in his possession. (see [JF McConkie](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf))
 
 1. The plates themselves were never used
 
@@ -131,7 +127,7 @@ book of Mormon be related by Joseph himself"), and Joseph only responded:
 
 1. Isaiah is transmitted in essence but often not with exactness.
 
-    Grant Hardy [notes](https://github.com/faenrandir/a_careful_examination/blob/74bb5e5e97e569d351ea269d502ebfca9958792a/documents/book_of_mormon/the_puzzle_of_the_King_James_Version__Grant_Hardy.md):
+    Grant Hardy [notes](https://github.com/faenrandir/a_careful_examination/blob/c7a4bddc06ad83c3543850f13146592435a24cc5/documents/book_of_mormon/the_puzzle_of_the_King_James_Version__Grant_Hardy.md):
 
     > It is possible that when Joseph Smith felt the need to quote Isaiah, he opened his Bible and read the chapters aloud, making whatever changes he deemed necessary. Yet this explanation does not account for the irregularities that we see—some of the alterations increase parallelism or make Isaiah easier to understand, while others fragment the text or make it more obscure.
 
