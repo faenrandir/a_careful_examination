@@ -12,32 +12,7 @@ accurate than anything else available today.[16] Yet there are puzzling features
 
 In the first place, unlike nearly everyone else in his religious environment, Joseph Smith is not simply quoting Isaiah from the Authorized Version; rather, he presents a modified form of the text. About half the quoted verses read differently from the King James Bible. However, it does not appear that these changes are always the result of intentional revision. Some are indeed inserted clauses or substituted phrases that clarify or expand Isaiah’s words, but there are also a great number of variants that make little or no difference to the meaning. These include substituted relative pronouns, transposed words, changes in number, alternative verb forms, omitted articles, and added conjunctions (such as _for_ and _yea_).[17] For instance, both significant and trivia] changes can be seen in comparing Isaiah 13:15--18 with 2 Nephi 23:15--18 (following Royal Skousen’s reconstruction of the original text).[18]  (Underlining indicates substituted phrases, bold type marks insertions, and the italics are those occurring in the King James Bible that indicate phrases added by the translators.)
 
----
-
-#### ISAIAH 13 (KING JAMES VERSION)
-
-15. Every one that is __found__ shall be thrust through; and every one that is joined _unto them_ shall fall by the sword.
-
-16. Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
-
-17. Behold, I will stir up the Medes against them, which shall not regard silver; and _as for_ __gold__, they shall not delight in it.
-
-18. _Their_ bows __also shall__ dash the young men to pieces; and they shall have no pity on the fruit of the womb; their __eye__ shall not spare children.
-
----
-
-#### 2 NEPHI 23
-
-15. Every one that is __proud__ shall be thrust through; **yea**, and every one that is joined __to__ __the wicked__ shall fall by the sword.
-
-16. Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
-
-17. Behold, I will stir up the Medes against them, which shall not regard silver __or gold__, **nor** they shall not delight in it.
-
-18. Their bows __shall also__ dash the young men to pieces; and they shall have no pity on the fruit of
-the womb; their __eyes__ shall not spare children.
-
----
+[refer to table in the original]
 
 It is difficult to know what to make of all this. Some of the changes appear to be deliberate revisions (as in verse 15, where the two changes work in tandem, equating the “proud” and the “wicked,” making it less likely that proud for found is a copying error), others seem to he the sorts of changes that might occur when citing a text from memory, and there are sentences such as verse 17 that have been rendered less grammatical. It is also significant that a large percentage of the changes (Skousen estimates about one-third) are associated with the italicized words of the King James Version.[19]
 
