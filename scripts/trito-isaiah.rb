@@ -30,6 +30,45 @@
 # Isaiah 53	Mosiah 14
 # Isaiah 54	3 Nephi 22
 
+if ARGV && ['--verbose', '-v'].include?(ARGV[0])
+  $VERBOSE = true
+end
+
+def putsv(*args)
+  if $VERBOSE
+    puts(*args)
+  end
+end
+
+def display_label(label, outline_length=78)
+  puts "-" * outline_length
+  puts label
+  puts "-" * outline_length
+end
+
+def display_results(label, results)
+  in_trito, not_in_trito = results.values_at(:in_trito, :not_in_trito)
+  total_possible = in_trito + not_in_trito
+  prob_in_trito = (in_trito.to_f / total_possible).round(3)
+  prob_not_in_trito = (not_in_trito.to_f / total_possible).round(3)
+
+  display_label(label)
+  puts <<~HEREDOC
+    probability in trito: #{prob_in_trito} (#{in_trito} / #{total_possible})
+    probability not in trito: #{prob_not_in_trito} (#{not_in_trito} / #{total_possible})
+  HEREDOC
+  puts
+end
+
+def display_simple_results(label, prob_in, prob_out)
+  display_label(label)
+  puts <<~HEREDOC
+    probability in trito: #{prob_in}
+    probability not in trito: #{prob_out}
+  HEREDOC
+  puts
+end
+
 ALL_ISAIAH_CHAPTERS = (1..66)
 TRITO_ISAIAH = (55..66)
 
@@ -71,7 +110,7 @@ class Chunk
   end
 end
 
-CHUNK1_LENGTH = 14
+CHUNK1_LENGTH = 13
 CHUNK2_LENGTH = 7
 
 in_trito = 0
@@ -84,13 +123,13 @@ ALL_ISAIAH_CHAPTERS.each do |chunk1_start|
     if [chunk1, chunk2].all?(&:valid?)
       if chunk1.overlap?(chunk2)
         overlapping += 1
-        puts "OVERLAPPING: #{chunk1} #{chunk2}"
+        putsv "OVERLAPPING: #{chunk1} #{chunk2}"
       elsif [chunk1, chunk2].any?(&:in_trito_isaiah?)
         in_trito += 1
-        puts "IN TRITO: #{chunk1} #{chunk2}"
+        putsv "IN TRITO: #{chunk1} #{chunk2}"
       else
         not_in_trito += 1
-        puts "NOT IN TRITO: #{chunk1} #{chunk2}"
+        putsv "NOT IN TRITO: #{chunk1} #{chunk2}"
       end
     end
   end
@@ -98,19 +137,58 @@ end
 
 total_possibilities = in_trito + not_in_trito
 
-puts "overlapping: #{overlapping}"
-puts "IN TRITO: #{in_trito}"
-puts "NOT IN TRITO: #{not_in_trito}"
-puts "total possibilities: #{total_possibilities}"
-puts "probability in trito: #{in_trito.to_f / total_possibilities}"
-puts "probability not in trito: #{not_in_trito.to_f / total_possibilities}"
+results = {
+  in_trito: in_trito,
+  not_in_trito: not_in_trito,
+}
+putsv "overlapping: #{overlapping}"
+display_results("two chunks, one 13 chapters and the other 7", results)
 
-__END__
-(overlapping): 1018
+# ---
 
-IN TRITO: 972
-NOT IN TRITO: 1190
-total possibilities: 2162
+# probability of second chunk being trito Isaiah assume the first chunk can be
+# accounted for as merely starting towards the very beginning of Isaiah.
 
-probability of a chapter in trito: 0.4495837187789084
-probability of a chapter not in trito: 0.5504162812210915
+REMAINING_ISAIAH_CHAPTERS = (15..66)
+
+in_trito = 0
+not_in_trito = 0
+
+chunk1 = Chunk.new(2, CHUNK1_LENGTH)
+REMAINING_ISAIAH_CHAPTERS.each do |chunk2_start|
+  chunk2 = Chunk.new(chunk2_start, CHUNK2_LENGTH)
+  if chunk2.valid?
+    if chunk2.in_trito_isaiah?
+      in_trito += 1
+      putsv "IN TRITO: #{chunk1} #{chunk2}"
+    else
+      not_in_trito += 1
+      putsv "NOT IN TRITO: #{chunk1} #{chunk2}"
+    end
+  end
+end
+
+results = {
+  in_trito: in_trito,
+  not_in_trito: not_in_trito,
+}
+display_results("7 chapter chunk assuming first chunk at beginning", results)
+
+
+# http://stattrek.com/online-calculator/hypergeometric.aspx
+# 66 chapters of Isaiah
+# 54 of them are NOT trito-Isaiah
+# 20 chapters inserted into the BoM
+# what is the probability that 20 chapters will not be in trito-Isaiah?
+display_simple_results("hyperg. dist; pop:66, successes:54, sample:20, >= 20 required", 0.992095964, 0.007904036)
+
+# http://stattrek.com/online-calculator/hypergeometric.aspx
+# If we assume that chapters 1-14 are accounted for by the BoM manuscript creator
+# merely taking from the beginning of the book, then what is the probability
+# that a trito-Isaiah chapter would be included in the next 7 chapters, chosen
+# at random (without replacement)?
+# 51 remaining chapters of Isaiah (after removing first 14)
+# 40 of the remaining chapters are NOT trito-Isaiah
+# 7 chapters to be inserted into the BoM
+# what is the probability that 7 chapters will not be in trito-Isaiah?
+display_simple_results("hyperg. dist (only 7 chapters); pop:51, successes:40, sample:7, >= 7 required", 0.838967446, 0.161032554)
