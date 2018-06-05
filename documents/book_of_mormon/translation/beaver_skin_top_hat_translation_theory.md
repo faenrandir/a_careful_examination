@@ -7,30 +7,25 @@ The [current orthodox/apologetic model](https://www.lds.org/topics/book-of-mormo
 
 LDS members [and scholars](http://criticaltext.byustudies.byu.edu/biblio) have demonstrated that a high level of [consistency and complexity](https://www.reddit.com/r/mormonscholar/comments/8nnsr4/what_would_joseph_smith_have_to_keep_track_of_in/) may be found in the Book of Mormon.  At least on its face, this seems to cast doubt on the idea that Joseph Smith dictated the Book of Mormon on the fly and without aid of any kind, regardless of any prodigious story-telling and doctrinal-generating abilities he may have possessed.  In addition, LDS leaders have pointed to doctrinal and narrative complexity paired with a relatively short translation time period as evidence of a miraculous translation event (e.g. [here](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/) and [here](https://www.lds.org/general-conference/2017/10/gods-compelling-witness-the-book-of-mormon?lang=eng)).
 
-LDS scholars and critics alike have also noticed that the the Book of Mormon contains an enormous amount of material which closely parallel existing texts from the early 1800s.  It seems to stretch the imagination that an individual could---on the fly---weave together so many ideas with little or no forethought.  Furthermore, The idea that Joseph may have been referring to specific blocks of text (or aids to bring to his mind blocks of text) are suggested in the following:
+LDS scholars and critics alike have also noticed that the the Book of Mormon contains an enormous amount of material which [closely parallels existing texts from the early 1800s](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/).  It seems to stretch the imagination that an individual could—on the fly—weave together so many ideas with little or no forethought.
 
-1. The primary FairMormon apologetic for the inclusion of Deutero-Isaiah [assumes that Joseph referenced the relevant KJV chapters and dictated them to his scribe](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah) (also discussed [here](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)).
+Further, the idea that Joseph may have been referring to specific blocks of text (or aids to bring to his mind blocks of text) are suggested in the following:
 
-2. There are at least a handful of [KJV translation errors which are included in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/8ip30l/top_10_book_of_mormon_evidences_by_gently_hew/dyxn3wb/) (i.e., the original Hebrew would not have been understood that way and so the translation reflects copying from the KJV Bible rather than a fresh translation of an ancient source).  I recently went through these meticulously and had [Jan Joosten](https://www.theology.ox.ac.uk/people/professor-jan-joosten) weigh in on these (but I didn't tell him my purpose, just asking for his opinion on the translation of the verses).  There are translation errors in these verses (preserved in the BoM) that he rated as "Completely Inaccurate (KJV is in error)"
-    * Isaiah 2:16
-    * Isaiah 3:3
-    * Isaiah 9:1
-    * Isaiah 11:3
-    * Isaiah 13:22
-    * Isaiah 49:5
+1. The inclusion of Deutero-Isaiah [assumes that Joseph referenced the relevant KJV chapters and dictated them to his scribe](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah).  Grant Hardy explains:
 
-    It seems highly unlikely that JS would have trasmitted these verses in the way that he did (remember, the original Hebrew does _not_ convey the message encapsulated in the KJV translation) unless he were referring to notes, somehow.
+    > Latter-day Saints sometimes brush [deutero-Isaiah] criticism aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
 
-3. The Book of Mormon copies verbatim from [Mark 16](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/) which is highly likely to be a _later_ invention.  In other words, we have Nephite scribes recording Jesus saying things preserved in the NT that JS had access to, but were almost certainly _not_ transmitted by Jesus in the manner recorded in the NT.
+2. There are at least a handful of [KJV translation errors which are included in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/8ip30l/top_10_book_of_mormon_evidences_by_gently_hew/dyxn3wb/) (i.e., the original Hebrew would not have been understood that way and so the translation reflects copying from the KJV Bible rather than a fresh translation of an ancient source).  It seems highly unlikely that JS would have transmitted or understood these verses in the way that he did (remember, the original Hebrew does _not_ convey the message encapsulated in the KJV translation) unless he were referring to notes, somehow.
 
+3. The Book of Mormon copies a few verses verbatim from [Mark 16](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/) but these verse are highly likely to be a _later_ invention.  In other words, we have Nephite scribes recording Jesus saying words found in the New Testament that Joseph Smith had access to, but these words were almost certainly _not_ transmitted by Jesus in the manner recorded in the New Testament.
 
-The two most compelling and comprehensive theories that exist today for the creation of the Book of Mormon rely on a manuscript prepared in advance.  However, eyewitness accounts of the dictation process do not indicate that Smith was referring to a manuscript, and Emma's account explicitly rules out the use of a manuscript.
+Most well-supported theories that exist today for the creation of the Book of Mormon rely on a manuscript prepared in advance (e.g. [Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3), [Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6), [Trebas](https://www.youtube.com/watch?v=wf3MluItWQE&t=35s)).  However, eyewitness accounts of the dictation process do not indicate that Smith was referring to a manuscript, and Emma's account explicitly rules out the use of a manuscript.
 
 Besides invoking a conspiracy on a grand scale (i.e., everyone was in on it), what possible method(s) could allow Smith access to a manuscript or manuscript sections without detection of his scribes or passive observers (so, assuming that dictation proceeded as witnesses indicated)?
 
 This document explores the possibility that Joseph hid material in his hat which he was able to draw upon during the dictation process.
 
-## The Model Requirements
+#### The Model Requirements
 
 The model whereby Joseph hides material in his hat to aid him during the dictation process depends upon 6 main elements in order to be viable.  If any one of these were found to _not_ be viable, the model may be considered falsified.  If all 6 of these elements can be demonstrated viable, then the model as a whole may also be viewed as viable, it would seem.
 
@@ -49,7 +44,7 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 2. The hat would need to be deep enough to hide a manuscript from casual observation.
 
     * David Whitmer [described the hat](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) as "a deep hat."
-    * Pat Chiu apparently [determined that Joseph owned a beaver-skin hat with a "top hat" profile](https://www.millennialstar.org/the-beaver-skin-hat-how-joseph-interpreted-the-plates/).  These hats are typically [fairly deep](https://github.com/faenrandir/a_careful_examination/blob/b2c80f8321fe53ef44e9f98c29a886d6634781ff/documents/book_of_mormon/translation/hats_1815-1840.jpg)---deep enough that a casual observer from the side would not be able to detect a paper or cardstock fragment in the bottom.
+    * Pat Chiu apparently [determined that Joseph owned a beaver-skin hat with a "top hat" profile](https://www.millennialstar.org/the-beaver-skin-hat-how-joseph-interpreted-the-plates/).  These hats are typically [fairly deep](https://github.com/faenrandir/a_careful_examination/blob/b2c80f8321fe53ef44e9f98c29a886d6634781ff/documents/book_of_mormon/translation/hats_1815-1840.jpg)—deep enough that a casual observer from the side would not be able to detect a paper or cardstock fragment in the bottom.
 
 3. The hat would need to be wide enough to hold roughly a half-day's worth of dictation material.
 
@@ -88,7 +83,7 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
     Even if we preference Emma's description over Whitmer's, some possibilities still present themselves:
 
-    * Presumably, Joseph would pull his head away from the hat in order to dictate the words---it is difficult to imagine that his speech would be clear enough were he to dictate _into_ the hat.  So, each verbal communication afforded a chance for light to enter the hat and for him to gaze down into the hat before sealing his face to it.
+    * Presumably, Joseph would pull his head away from the hat in order to dictate the words—it is difficult to imagine that his speech would be clear enough were he to dictate _into_ the hat.  So, each verbal communication afforded a chance for light to enter the hat and for him to gaze down into the hat before sealing his face to it.
     * It is very difficult to perfectly seal one's face to the mouth of a circular hat (try it!).  By simply tilting his head slightly, he could catch streams of light coming from almost any angle.
     * Most of the top hats of the era had ribbons running around them.  Perhaps a slit or two could have been prepared below the ribbon.  Then, when translation was to proceed, the ribbon could be slid slightly down while fingers could simultaneously obscure the slit from observers.  The slit could allow in light.
     * The seams around the top of the hat (so the bottom of the hat during translation) may have been somewhat loose.  The rock could have helped to open the seams to allow in some light.
@@ -138,9 +133,9 @@ book of Mormon be related by Joseph himself"), and Joseph only responded:
 
     Grant Hardy [notes](https://github.com/faenrandir/a_careful_examination/blob/74bb5e5e97e569d351ea269d502ebfca9958792a/documents/book_of_mormon/the_puzzle_of_the_King_James_Version__Grant_Hardy.md):
 
-    > It is possible that when Joseph Smith felt the need to quote Isaiah, he opened his Bible and read the chapters aloud, making whatever changes he deemed necessary. Yet this explanation does not account for the irregularities that we see---some of the alterations increase parallelism or make Isaiah easier to understand, while others fragment the text or make it more obscure.
+    > It is possible that when Joseph Smith felt the need to quote Isaiah, he opened his Bible and read the chapters aloud, making whatever changes he deemed necessary. Yet this explanation does not account for the irregularities that we see—some of the alterations increase parallelism or make Isaiah easier to understand, while others fragment the text or make it more obscure.
 
-    The manuscript likely couldn't hold the entirety of the Isaiah text, so Joseph would have needed to fill in some of the verbiage from memory, and this could help to account for a close---but not exact---transmission.
+    The manuscript likely couldn't hold the entirety of the Isaiah text, so Joseph would have needed to fill in some of the verbiage from memory, and this could help to account for a close—but not exact—transmission.
 
 1. Older English constructs appear in the book
 
