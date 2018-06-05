@@ -55,17 +55,17 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
     * 93.5 square inches on a sheet of letter paper
     * A hat 6 to 8 inches in diameter would have yielded between 28 and 50 square inches, or between 1/3 to 1/2 the area of a standard sheet of paper.
-    * 531 pages in the BoM and [273,725 words](https://www.reddit.com/r/exmormon/comments/60afwe/book_of_mormon_word_count/), so about 515.5 words per page.
+    * 531 pages in the Book of Mormon and [273,725 words](https://www.reddit.com/r/exmormon/comments/60afwe/book_of_mormon_word_count/), so about 515.5 words per page.
     * Assume 80 working days, with two sessions per day (each session would have provided him the opportunity to swap out material, as explained below).  This means that 3.3 pages, or 1700 words, needed to be dictated per session.
-    * A single hat-sized fragment could have held somewhere between [between 100 and 150 words](https://www.quora.com/How-many-handwritten-words-fit-on-an-adage-8-5x11-page).
-    * There are 6604 verses in the Book of Mormon and about 41.4 words per verse.  1700 words / 41 words/verse = 41 verses per session.
+    * A single hat-sized fragment could have held somewhere [between 100 and 150 words](https://www.quora.com/How-many-handwritten-words-fit-on-an-adage-8-5x11-page).
+    * There are 6604 verses in the Book of Mormon and about 41.4 words per verse.  1700 words / 41 words/verse => **41 verses per session**.
     * Assuming the above, he had space on his manuscript for roughly 1 to 2 English written words per verse.
 
-    This corresponds roughly to the compression ratio we see between individual characters and the associated verbiage found in the Book of Abraham in [the Grammar and Alphabet of the Egyptian Language](http://www.josephsmithpapers.org/paper-summary/grammar-and-alphabet-of-the-egyptian-language-circa-july-circa-november-1835/10).  On average, we see very roughly 40 words associated with each Egyptian character.  (And please consider Vogel's arguments demonstrating that [the GAEL indeed represents the dictation event of the Book of Abraham](https://www.youtube.com/watch?v=AtJT_xjIgdM) contrary to what some LDS scholars have argued.)
+    This compression ratio (1–2 hidden manuscript words to 41 verses) corresponds roughly to the compression ratio we see between individual characters and the associated verbiage found in the Book of Abraham in [the Grammar and Alphabet of the Egyptian Language](http://www.josephsmithpapers.org/paper-summary/grammar-and-alphabet-of-the-egyptian-language-circa-july-circa-november-1835/10) where, on average, we see about 40 words associated with each Egyptian character.  (Please consider Vogel's arguments demonstrating that [the GAEL indeed represents the dictation event of the Book of Abraham](https://www.youtube.com/watch?v=AtJT_xjIgdM) contrary to what some LDS scholars have argued.)
 
     In other words, under the naturalist model, Joseph Smith seems capable of embellishing scripture associated with representations that could have easily been contained on a fragment that would have fit neatly inside his hat.
 
-    Perhaps this would have been more difficult to do with extended sections of Isaiah, but remember that only a subset of the Isaiah verses are word for word.  In addition, Joseph would only need to request higher frequency of dictation sessions in order to increase the hat-manuscript to BoM-original-handwritten-manuscript ratio.
+    Perhaps this would have been more difficult to do with extended sections of Isaiah, but remember that only a subset of the Isaiah verses are word for word.  In addition, Joseph would only need to request more breaks and shorter sessions in order to increase the amount of text he could refer to for a given section in the Book of Mormon.
 
     Finally, the Quran has about the same number of verses in it as the Book of Mormon and [the Quran can be memorized in between 8 months to 1.5 years](https://www.quora.com/How-much-time-does-it-take-an-average-to-memorize-the-Quran).  So, given that the dictation process was spread out over time, it is also seems possible that Joseph could commit verses to short term memory (or become very familiar with them) between dictation sessions (particularly if aided by a fragment).
 
@@ -117,7 +117,7 @@ This theory may explain why:
 
     Even though the plates contained the characters apparently displayed on the seer stone, the plates themselves were not ever needed and were never actually referred to.
 
-1. A break in translation was needed as described in [D&C 5:30](https://www.lds.org/scriptures/dc-testament/dc/5.30)
+1. An unexplained break in translation was needed as described in [D&C 5:30](https://www.lds.org/scriptures/dc-testament/dc/5.30)
 
     D&C 5:30 and 5:31 are adamant that Joseph stop translating "for a season":
 
