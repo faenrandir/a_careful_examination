@@ -8,7 +8,9 @@ The [current orthodox/apologetic model](https://www.lds.org/topics/book-of-mormo
 Two main data points converge to suggest that a pre-written text of some kind was used for the dictation of the Book of Mormon.
 
 1. The Book of Mormon text demonstrates a high level of [consistency and complexity](https://www.reddit.com/r/mormonscholar/comments/8nnsr4/what_would_joseph_smith_have_to_keep_track_of_in/)  (also see the work of [Royal Skousen](http://criticaltext.byustudies.byu.edu/biblio)).
-2. The dictation of the manuscript appears to have occurred during relatively few working days (perhaps around 65) 
+2. The dictation of the manuscript appears to have occurred during relatively few working days (perhaps [around 65](https://www.lds.org/ensign/1988/01/i-have-a-question/how-long-did-it-take-joseph-smith-to-translate-the-book-of-mormon?lang=eng)).  Welch [writes](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf):
+
+    > nearly all the 590 pages printed in the 1830 edition of the Book of Mormon were translated, dictated, and written within an extremely short and intensely busy period of time, from April 7 to the last week of June 1829. Virtually no excess time existed during those three months for Joseph Smith to plan, to ponder about, to research, to hunt for sources, to organize data, to draft, to revise, or to polish the pages of the original manuscript of this book. Although Joseph became aware of and began contemplating this assignment in September 1823, and while he translated the 116 pages containing the book of Lehi from April 12, 1828, to June 14, 1828, which were sadly lost that summer, once Joseph and Oliver set to work on April 7, 1829, the pages of the Book of Mormon flowed forth in rapid succession.  The text of the Book of Mormon was dictated one time through, essentially in final form. This was done despite significant interruptions and distractions. Such a feat, in and of itself, constitutes a considerable achievement, given the length, quality, and complexity of the Book of Mormon alone.
 
 LDS leaders have argued that the relatively short translation time period coupled with the complexity of the text (including doctrinal richness) is indicative of divine intervention (e.g. [here](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/) and [here](https://www.lds.org/general-conference/2017/10/gods-compelling-witness-the-book-of-mormon?lang=eng)).
 
@@ -34,11 +36,15 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
 1. Observers and scribes would need to be discouraged from examining the hat too closely both while Joseph was translating and if he merely left the hat on the table in order to leave the room (otherwise they might observe the material Joseph was using).
 
-    In a statement which seems to be viewed as reliable [even by those attempting to discount the seer-stone-in-a-hat method](http://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf)), Josiah Jones wrote about how Cowdery described the translation:
+    Joseph and Oliver referred to translation with the Urim and Thummim but
+    this is contradicted by other accounts (for instance, Emma notes that
+    after the loss of the 116 pages, Joseph began translating with the seer
+    stone).  Regardless, Oliver's account stresses the need to _not_ look into
+    the stones (could he be referring to the hat?):
 
     > I then asked him [Cowdery] if he had ever looked through the stones to see what he could see in them; his reply was that **he was not permitted to look into them**. I asked him who debarred him from looking into them; he remained sometime in silence, then said that he had so much confidence in his friend Smith, **who told him that he must not look into them, that he did not presume to do so lest he should tempt God and be struck dead**. (emphasis added)
 
-    Although Cowdery did attempt to translate with the hat and seer stone, it would have been trivial for Smith to simply _not_ deposit a fragment before Cowdery's attempt. 
+    Although Cowdery did attempt to translate (with the hat and seer stone?), it would have been trivial for Smith to simply _not_ deposit a fragment before Cowdery's attempt.
 
     Although the early part of the translation process may not have proceeded with the seer stone in a hat, a similar level of concealment is indicated here, too.  John A. Clark [spoke with Martin Harris and conveyed](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon): 
 
