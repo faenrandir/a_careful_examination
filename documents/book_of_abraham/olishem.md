@@ -25,3 +25,15 @@ Gee states "Oylum Höyük is the largest site in the Kilis plain and clearly dom
 However, the ancient city-state of Ur was located 745 miles away from Oylum Höyük.  Is Gee proposing that Abraham's Ur is actually much closer to Olishem?  Either way, some tension in this putative location seems to exist with the standard location of Ur.
 
 [Map of the walk between Ur and Oylum Höyük (Olishem)](https://www.google.com/maps/dir/Unnamed+Road,+Iraq/Oylum+H%C3%B6y%C3%BCk,+Syria/@33.5254851,32.6296588,5z/data=!4m14!4m13!1m5!1m1!1s0x3fde0f1ba4552eb5:0xbe61ada2b8887178!2m2!1d46.1067544!2d30.9653979!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2) (745 miles or 1200 km)
+
+### Abraham as a historical figure
+
+All of the above discussion assumes that Abraham was an actual historical figure, which most scholars today doubt.  To begin with:
+
+> we have no extrabiblical information about prominent biblical figures such as Abraham and Moses, or even David and Solomon. [source](https://books.google.com/books?id=hd28MdGNyTYC&q=Abraham#v=snippet&q=Abraham&f=false)
+
+Textual analysis of the Abraham story itself shows evidence of later composition (see [here](https://books.google.com/books?id=7cdy67ZvzdkC&q=Abraham#v=snippet&q=Abraham&f=false) and also fits a needed narrative of some later Israelites:
+
+> A common hypothesis among scholars is that it [the Abraham story] was composed in the early Persian period (late 6th century BCE) as a result of tensions between Jewish landowners who had stayed in Judah during the Babylonian captivity and traced their right to the land through their "father Abraham", and the returning exiles who based their counter-claim on Moses and the Exodus tradition.  (from [Abraham](https://en.wikipedia.org/wiki/Abraham) in Wikipedia)
+
+Of course, for a beliving member the existence of the Book of Abraham _is_ evidence for a literal Abraham.  Perhaps God facilitated its translation in order to buttress wavering faith in the historicity of Abraham?  Needless to say, the skepticism of scholars in a historical Abraham weighs at least somewhat against the legitimacy of the BoA in total---especially if we grant that findings for the historical Abraham would increase our confidence that the BoA is a legitimate record translated by divine means.
