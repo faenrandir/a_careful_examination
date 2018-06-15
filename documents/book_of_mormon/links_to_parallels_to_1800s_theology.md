@@ -41,4 +41,5 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part%204)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
 1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas)
+1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
 1. [realbookofmormon.org Likely Sources](http://realbookofmormon.org/likely-sources/)
