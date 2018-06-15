@@ -27,9 +27,14 @@
 1. Joseph was likely not having much sex with his plural wives in comparison to Emma.
 
     * Some of his wives were kicked out of his home by Emma (Fanny Alger, Eliza Partridge, Emily Partridge) thus likely terminating any potential sexual relationships with these women.
-    * Emma was a limiting factor in access to Joseph (Emily Partridge [stated](http://josephsmithspolygamy.org/common-questions/plural-marriages-sexual/emily-dow-partridge-evidence-of-sexuality/): "Emma knew that we were married to him, but she never allowed us to live with him" and the [letter to Sarah Ann Whitney](http://josephsmithspolygamy.org/plural-wives-overview/sarah-ann-whitney/): "the only thing to be careful of; is to find out when Emma [Smith] comes then you cannot be safe, but when she is not here, there is the most perfect safty") * Since polygamy was not widely acknowledged, Joseph had to keep liasons secretive in general, and this was described as difficult (e.g., Sarah Ann Whitney letter: "only be careful to escape observation, as much as possible")
+    * Emma was a limiting factor in access to Joseph (Emily Partridge [stated](http://josephsmithspolygamy.org/common-questions/plural-marriages-sexual/emily-dow-partridge-evidence-of-sexuality/): "Emma knew that we were married to him, but she never allowed us to live with him" and the [letter to Sarah Ann Whitney](http://josephsmithspolygamy.org/plural-wives-overview/sarah-ann-whitney/): "the only thing to be careful of; is to find out when Emma [Smith] comes then you cannot be safe, but when she is not here, there is the most perfect safty")
+    * Since polygamy was not widely acknowledged, Joseph had to keep liasons secretive in general, and this was described as difficult (e.g., [Sarah Ann Whitney letter](http://josephsmithspolygamy.org/plural-wives-overview/sarah-ann-whitney/): "only be careful to escape observation, as much as possible")
     * Emily Partridge [testified](http://josephsmithspolygamy.org/common-questions/plural-marriages-sexual/emily-dow-partridge-evidence-of-sexuality/) that she slept in the same bed with Joseph "Only one night" although her testimony seems to indicate sexual intercourse on some other occasions.
     * An examination of [his marriage timeline](https://en.wikipedia.org/wiki/List_of_Joseph_Smith%27s_wives) suggests that, at times, he was marrying one or more new plural wives every few weeks.  It is difficult to imagine anyone having sustained sexual relationships with any given wife under such circumstances.
+
+        Brian Hales [wrote](http://josephsmithspolygamy.org/common-questions/plural-marriages-sexual/):
+
+        > An important consideration is the phenomenon of diminishing returns. After a certain point, the addition of new plural wives did not necessarily increase Joseph’s opportunity for additional sexual encounters with each plural wife. **Such a dynamic would, inevitably, have curtailed chances for conception on the part of his plural wives.**
 
 1. For the polyandrous unions, Joseph may have been competing for fertilization with an existing married partner
 
