@@ -1,7 +1,12 @@
 
 ### Introduction
 
-Bronze age documents recently discovered contain an inscription from the ruler Naram-Sin saying that he conquired Ebla and "Ulišim".  The city Ulišim is taken to be synonymous with the city Oylum Höyük, and its location (west of Haran) seems to make it a putative source for the phrase "plains of Olishem" in the Book of Abraham (so, the idea would be that the plains were named after the city, which may have been impressive in its time).
+The [Ebla tablets](https://en.wikipedia.org/wiki/Ebla_tablets) contain an inscription boasting that the ruler Naram-Sin had slain the cities Arman and Ibla and from the Euphrates river to an "Ulisim" (alternatively Ulišim, Ulisum, Ulisu, or Ullis) (see [here pg 76 Col. II](http://www.etana.org/sites/default/files/coretexts/20361.pdf).  The ancient city or land referred to, Ulisim, [may correspond to new ruins found at Oylum Höyük](http://www.hurriyetdailynews.com/prophet-abrahams-lost-city-found-in-turkeys-kilis-52591).
+
+The Book of Abraham discusses a hill on which human sacrifices were performed in the land of Ur "at the head of the plain of Olishem."  The existence of a city named Ulisim somewhere near Haran (another city in which Abraham apparently lived) mentioned in approximately the time period in which Abraham is conjectured to have lived according to standard biblical chronology
+
+
+Ur adjacent to the plains of Olishem and its location (west of Haran) seems to make it a putative source for the phrase "plains of Olishem" in the Book of Abraham (so, the idea would be that the plains were named after the city, which may have been impressive in its time).
 
 The idea that the existence of "Ulisum" provides evidence for the Book of Abraham (BoA) was recently mentioned [here](https://np.reddit.com/r/latterdaysaints/comments/8oyb98/i_need_some_clarification/e07y53w/) and this comment points to a chapter from [No Weapon Shall Prosper: New Light on Sensitive Issues](https://rsc.byu.edu/award-winning/no-weapon-shall-prosper-new-light-sensitive-issues) called [Egyptian Papyri and the Book of Abraham: A Faithful, Egyptological Point of View](https://rsc.byu.edu/archived/no-weapon-shall-prosper/egyptian-papyri-and-book-abraham-faithful-egyptological-point-view).
 
@@ -21,11 +26,11 @@ Problems with this potential match have been discussed at [RFM](https://www.exmo
 
 The plains of Olishem appear to be adjacent to Abraham's Ur (Abraham 1:10, 20):
 
-> Even the thank-offering of a child did the apriest of Pharaoh offer upon the altar which stood by the hill called Potiphar’s Hill, at the head of the plain of Olishem.
+> Even the thank-offering of a child did the priest of Pharaoh offer upon the altar which stood by the hill called Potiphar’s Hill, at the head of the plain of Olishem.
 
 > Behold, Potiphar’s Hill was in the land of Ur, of Chaldea ...
 
-Based primarily on internal evidence from the BoA, LDS scholars abandon the traditional location of Ur [for one much closer to Haran](https://rsc.byu.edu/archived/pearl-great-price-revelations-god/where-was-ur-chaldees).  
+Based largely on internal evidence from the BoA, LDS scholars abandon the traditional location of Ur [for one much closer to Haran](https://rsc.byu.edu/archived/pearl-great-price-revelations-god/where-was-ur-chaldees).  
 
 This explains Gee's discussion of the location of Ur:
 
@@ -74,10 +79,13 @@ I have no information at present about how accessible or widespread the "Accurat
 
 ### Conclusion
 
-In conclusion, I agree with the tenor of John Gee's conclusion about a potential link between Ulišu
- and Olishem when he stated:
+In conclusion, I agree with the tenor of John Gee's conclusion about a potential link between Ulišu and Olishem when he stated:
 
 > At present, given the many uncertainties, we can regard this identification as promising but not proven.
+
+And we can also agree with [the editor of the Journal of Book of Mormon Studies](https://publications.mi.byu.edu/publications/jbms/22/2/9Gee_Olishem%20Discovered.pdf), who cautioned that the association between Olishem and the ruins found at Oylum Höyük are:
+
+> tenuous and no doubt premature
 
 The linkage between Ulišu and Olishem would be consistent with the Book of Abraham, and may be considered evidence in favor of the historicity of the Book of Abraham, especially if we are willing to abandon existing positionings for the city-state Ur.
 
