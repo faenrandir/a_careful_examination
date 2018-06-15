@@ -1,5 +1,5 @@
 
-### Why did Joseph not get his plural wives pregnant?
+### Why did Joseph not sire children with his plural wives?
 
 1. All of the various possible descendants have not been tested for paternity yet.
 
