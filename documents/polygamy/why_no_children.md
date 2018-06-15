@@ -38,3 +38,7 @@
 1. For the polyandrous unions, if a woman is already pregnant, then she cannot cannot become pregnant again.
 
     For instance, Zina Huntington Jacobs was [7 months pregnant](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) when she was sealed to Joseph Smith.  If they consummated their sealing at that time, then she could not have become pregnant.
+
+### Conclusion
+
+A variety of possibilities exist to help to potentially account for Joseph Smith not impregnating his plural wives.  Regardless, [significant evidence exists that Joseph did have sex with many of his wives](https://github.com/faenrandir/a_careful_examination/blob/27159d5d2cf14aa7da733e78e201951f8ca6865d/documents/polygamy/evidence_of_sex.md).  And, other early practices of polygamy were impregnating their wives (e.g., Brigham Young), so it seems odd to claim that Joseph's polygamy was somehow radically different (i.e., asexual).
