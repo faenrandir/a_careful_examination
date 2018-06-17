@@ -1,0 +1,8 @@
+
+It [has been claimed](https://www.reddit.com/r/mormon/comments/8nts0v/a_response_to_the_recently_posted_document_on_the/e02105x/) that the absence of Trito-Isaiah in the Book of Mormon supports a claim for the historicity of the Book of Mormon:
+
+> We can probably agree that there is no way JS could have known about deutero and trito Isaiah. If he knew about it, he certainly would be careful with quoting anything beyond first Isaiah, but we know he did. The thing is, critics only talk about deutero-Isaiah, but the absence of trito-Isaiah strongly supports JS as prophet. If JS didn't know about these Isaiah issues he had nothing to guide his choices of which chapters to include. 21 Isaiah chapters are quoted in the BoM. If you randomly choose 21 Isaiah chapters, there is a less than 1% probability that you will not choose any of the chapters 56-66 (trito-Isaiah)!
+
+> Let's compare that with deutero-Isaiah. Would you say it's less than 1% probability that a version of deutero-Isaiah was written initially sometime between Isaiah and Lehi? I certainly wouldn't. We know little about the origins of specific bible texts, but scholars know a bit about the general process. It's not someone sitting down and writing a text, never to be altered. There are initial oral versions, preliminary written versions, redaction, translations back and forth, etc. For instance, there could have been a text at Lehi's time, slightly altered in the exile period (like including "Cyrus"). We know very little about this, so I would not place a bet on this with the less than 1% odds. My conclusion is that the deutero/trito-Isaiah issue combined supports my belief.
+
+
