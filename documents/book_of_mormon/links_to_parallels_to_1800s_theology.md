@@ -38,7 +38,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [The Book of Mormon and 12 points of Pelagius](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/dfdd066be4aff52545bda25f16246f5ae9e648b8/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf)
 1. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
-1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/book-of-mormon/#Part%204)
+1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
 1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas)
 1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
