@@ -16,7 +16,9 @@ Since the early 1990's, it has been written and published that the April 1910 Pr
 
     Beneath the statement, Perego includes the names of the First Presidency (which indicates that they signed the statement).
 
-Was the April 1910 statement issued by the First Presidency?  Does the statement even reflect the views of the First Presidency at that time?
+    [*update: In personal communication, Ugo said his slide was based on information from [Evolution and Mormonism](http://www.signaturebooks.com/product/evolution-and-mormonism-a-quest-for-understanding/) by Meldrum, Jeffery, and Peterson.  Before my communication with him, he said he had already altered his slide and presentation, mostly focusing on the counterargument presented after the evidence section for why the 1910 PQT statement should be seen as a qualifier for the 1909 First Presidency Statement.*]
+
+**Was the April 1910 statement issued by the First Presidency?  Does the statement even reflect the views of the First Presidency at that time?**
 
 I will present a summary of the evidence (with some personal extensions), first compiled by R. Gary Shapiro [here](https://ndbf.blogspot.com/2006/05/mormonism-and-evolution-authoritative.html).  Please read Shapiro's complete post for a few details which I have left out here.
 
@@ -60,8 +62,23 @@ Several data points cast doubt on whether the statement had any First Presidency
 
     So, given that Joseph F. Smith was dismissing professors from BYU for teaching evolution shortly after the 1910 Statement was issued, and given his explicit verbiage detailing the tension between the theory of evolution and LDS doctrine, it is difficult to view the 1910 PQT Statement as reflecting First Presidency countenance of the theory of evolution as a legitimate means for the creation of man's body.
 
-### Conclusion
+### The Counterargument
 
-The evidence suggests that the April 1910 PQT statement should not be presented as a statement issued by the First Presidency and that the April 1910 PQT statement poorly reflects the actual views of Joseph F. Smith during that time.
+The basic counterargument, which I articulated in some part a few years ago [in a conversation with Shapiro](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/aa94b82ae8d0292dec0cf15c7451b07f9ff32dcd/documents/science/response_to_how_to_mix_LDS_theology_and_human_evolution.pdf) and which Ugo Perego expressed to me in private communication, is that it seems unreasonable that Joseph F. Smith would have been unaware of the "Origin of Man" response in the PQT.  There are a few, related arguments:
+
+1. The response followed closely in time to the 1909 statement, so the potential need to clarify seems germane chronologically.
+1. The response itself indicates that the question came "from several High Priests' quorums."  The fact that it was a question from several quorums suggests a potential for elevated awareness of the issue.
+1. It seems unreasonable that a member of the First Presidency wasn't consulted when writing a response seeking clarification of their statement.
+1. Redactions and clarifications by the editor of the Improvement Era (Joseph F. Smith) were frequently made.  If the initial PQT statement was incongruent with LDS doctrine or the 1909 FP Statement , then Joseph F. Smith _could_ have made a redaction or further clarifying statement.
+
+Perego also noted in private correspondence that he corresponded directly with the office of the New Era asking about statements there and was told that "nothing ends up published in Church magazines without the approval of a priesthood committee that acts under the direct supervision of the Brethern [sic]" and that "nothing is published that would not be in line with their teachings."  An open question is how far back such a policy extended, especially in light of Joseph F. Smith's December 1915 statement presented in #4 of "The Evidence" above.
+
+### Discussion and Conclusions
+
+The cumulative evidence points to one definitive conclusion: the April 1910 PQT statement should not be presented as a statement issued by the First Presidency.
+
+Whether or not a person views the April 1910 PQT statement as a reflection of Joseph F. Smith's thinking on the topic depends on whether they preference his own direct words (i.e., the signed 1911 editorial comment), or those from an anonymous Priesthood Quorums' Table entry (which may be countenanced by him but is mostly an argument from silence).  It also seems possible that Joseph F. Smith _personally_ disagreed with the PQT statement but did not see it in enough tension with the 1909 statement to require modification or redaction.  So, in some significant sense, the 1910 PQT statement seems to stand as an _unofficial_ (or perhaps quasi-official) modifier of the 1909 statement.  Regardless, some tension seems to exist between the various statements.  Still, LDS leaders seem to make or tacitly countenance statements which leave a topic in some tension at times, so such tension does not necessarily indicate leadership ignorance.  Perhaps the resulting ambiguity may be the desired goal of leadership in some cases?
+
+In conclusion, the 1909 statement remains _officially_ unmodified and unclarified; however, reasonable arguments exist that the April 1910 PQT statement _unofficially_ clarifies the 1909 First Presidency Statement---this despite its anonymous nature and despite the tension in which it exists with Joseph F. Smith's signed 1911 editorial comments.  Hence, one who is committed to the preponderance of statements made by LDS leaders (near-comprehensively documented at [ndbf.blogspot.com](https://ndbf.blogspot.com/)) which seem to undermine the possibility for an evolutionary origin of man will reject the significance of the 1910 PQT statement while a person committed to an evolutionary possibility is likely to continue defending the PQT statement's significance, even if it may not be tied conclusively with the First Presidency.
 
 _Posted at the [mormonscholar subreddit](https://www.reddit.com/r/mormonscholar/comments/8sbras/the_april_1910_priesthood_quorums_table_entry/)_
