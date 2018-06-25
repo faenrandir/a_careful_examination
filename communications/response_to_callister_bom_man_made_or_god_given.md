@@ -1,3 +1,8 @@
+
+First of all, I enjoyed listening and reading Tad Callister's talk.  I think
+he does well in pointing out some of the tension in the historical record with the
+stated translation process.
+
 > It is good to be with you today. I love BYU. It is where I attended school, where I met my wonderful wife, and where all six of our children have attended.
 
 I also love BYU.  As either a professor or a student I spent about a quarter of my life there.  I also met my wife there!
@@ -35,11 +40,7 @@ Billions will testify of the truthfulness of the Quran.  Millions will testify o
 
 > Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.
 
-I will present a viable alternative.
-
-> What then are those alternative arguments presented by our critics for the origin of the Book of Mormon, and what is the truth?
-
-Prepare yourself for the strawmen.
+I will present a few viable alternatives which are consistent with much of the historical data and which are the best explanations for the resonance of the book with early 1800s thought.
 
 > ARGUMENT 1: JOSEPH SMITH, ALLEGED TO BE AN IGNORANT MAN, WROTE THE BOOK OF MORMON
 
@@ -47,9 +48,9 @@ I agree.  I do not think Joseph Smith alone wrote the book.
 
 > ARGUMENT 2: SOMEONE ELSE WROTE IT
 
-> Accordingly, some critics proposed the theory that Joseph Smith conspired with someone who had the education, intelligence, and skills to write the Book of Mormon.6 One candidate for its authorship was Oliver Cowdery. After all, he was a schoolteacher, a scribe, and later a lawyer. But a major problem arose for the critics: Oliver never claimed to have written any portion of the book; in fact, he testified to the contrary:
+> Accordingly, some critics proposed the theory that Joseph Smith conspired with someone who had the education, intelligence, and skills to write the Book of Mormon.[6] One candidate for its authorship was Oliver Cowdery. After all, he was a schoolteacher, a scribe, and later a lawyer. But a major problem arose for the critics: Oliver never claimed to have written any portion of the book; in fact, he testified to the contrary:
 
-> I wrote, with my own pen, the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet Joseph Smith, as he translated it by the gift and power of God. . . . That book is true.7
+> I wrote, with my own pen, the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet Joseph Smith, as he translated it by the gift and power of God. . . . That book is true.[7]
 
 The first argument presented seems very weak: if Oliver Cowdery were a conspirator, then we would expect him to lie about Joseph's abilities.  If he were one of those duped by process, then he would testify that it was true.
 
@@ -57,81 +58,133 @@ The possibility that Cowdery was a co-conspirator must be considered, particular
 
 The fact that Cowdery never speaks of the translation in similar terms to other witnesses suggests the possibility of co-conspiracy.  In addition, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mormonthink.com/witnessesweb.htm#didoliver).
 
-> Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.8
+> Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]
 
 If Oliver were duped, then we would not expect him to deny his testimony, even if he were excommunicated.  On the other hand, if it were a conspiracy, then blowing the whistle on the whole thing would also undermine his own credibility (i.e., he had been part of a conspiracy for many years) and arguably a person has much more to lose in blowing the whistle than they would have to gain.  So, this argument underestimates the cost to a whistleblower who may be in on the conspiracy.
 
 > Another candidate for authorship of the Book of Mormon was Sidney Rigdon. He was a Protestant minister and theologian. The supreme irony of this argument, however, is that he was converted by the very book he was supposed to have written. Parley P. Pratt, a former member of Rigdon’s congregation, introduced him to the Book of Mormon in October 1830—about six months after the Book of Mormon had already been published.
 
-Were Rigdon and Smith conspiring together to produce the BoM it would
-undermine their plan to be seen together, so it is not unreasonable that the
-two would make efforts to avoid being seen together.  Still, a reasonable
-amount of historical evidence [links Rigdon to the BoM before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21).
+Were Rigdon and Smith conspiring together to produce the BoM it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to avoid being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the BoM before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21).
 
-> Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.9
+> Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.[9]
 
-Footnote nine points to an intervie
+Footnote nine points to an interview of Emma Smith by her son Joseph Smith III.  We have two options here: Emma was in on things, or she was being fooled, too.  Support for either option comes from the historical data.  In favor of the idea that Emma may have been lying comes from the fact that she clearly lied about polygamy during this [same interview only a few questions from the Rigdon question](http://www.mormonthink.com/files/emma-interview-1879.pdf).  The lds.org Nauvoo Polygamy Essay states:
+
+> Emma approved, at least for a time, of four of Joseph Smith’s plural marriages in Nauvoo, and she accepted all four of those wives into her household. She may have approved of other marriages as well.
+
+But if that is true (which there is abundant evidence it is the case) then she clearly lied in this same interview to her son:
+
+> Q—What about the revelation on polygamy? Did Joseph Smith have anything like it? What of spiritual wifery?
+
+> A.—There was no revelation on either polygamy, or spiritual wives. There were some rumors of something of the sort, of which I asked my husband. He assured me that all there was of it was, that, in a chat about plural wives, he had said, "Well, such a system might possibly be, if everybody was agreed to it, and would behave as they should; but they would not; and, besides, it was contrary to the will of heaven."
+
+> No such thing as polygamy, or spiritual wifery, was taught, publicly or privately, before my husband's death, that I have now, or ever had any knowledge of.
+
+> Q.—Did he not have other wives than yourself?
+
+> A.—He had no other wife but me; nor did he to my knowledge ever have.
+
+> Q—Did he not hold marital relation with women other than yourself?
+
+> A.—He did not have improper relations with any woman that ever came to my knowledge.
+
+> Q.—Was there nothing about spiritual wives that you recollect?
+
+> A.—At one time my husband came to me and asked me if I had heard certain rumors about spiritual marriages, or anything of the kind; and assured me that if I had, that they were without foundation; that there was no such doctrine, and never should be with his knowledge, or consent. I know that he had no other wife or wives than myself, in any sense, either spiritual or otherwise.
+
+The other option is that Emma was being fooled during the translation process by her husband.  Could Joseph have been fooling Emma, too, on the translation of the BoM?  The historical record gives indicates that at least on some matters Joseph had no problem keeping things from Emma.  The Nauvoo polygamy essay states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  This suggests that Joseph was not above performing an elaborate ritual for the purposes of deceiving his wife.
+
+> First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:
+
+> I saw them hand [my father] the book, and I am as positive as can be that he never saw it before. He read it and examined it for about an hour and then threw it down and said he did not believe a word in it.[10]
+
+> Later, however, he did accept the Book of Mormon, joined the Church, and became one of its leaders.
+
+If Rigdon were co-conspiring with Joseph, how would his daughter know what manuscripts Rigdon was reading or working on?  First off, she would have been 6 or 7 during the manuscript creation process, and secondly, the manuscript would not have been bound in book form.  How many 6 or 7 year olds would know the provenance of unmarked documents their preacher father is reading or writing?  Thirdly, if Rigdon were willing to co-conspire to create the BoM, then it makes sense that he would have wanted to misdirect those around him into thinking he was encountering the book for the first time when it was presented to him.
+
+> Second, Sidney Rigdon’s son John spoke to his father as he lay on his deathbed: “[Father], you owe it to me and to your family to tell [the truth about the Book of Mormon].”
+
+> In other words, this is the day of reckoning; be totally honest before you go to the judgment bar.
+
+> The son then recounted his father’s response: “My father looked at me a moment, raised his hand above his head and slowly said, with tears glistening in his eyes: ‘My son, I can swear before high heaven that what I have told you about the origin of that book is true.’”
+
+> After this tender moment, the son said, “I believed him.”[11]
+
+> Later, John joined the Church, and thus another argument fell by the wayside.
+
+This statement must be balanced by the fact that [Ridgon instructed his wife to burn all of his writings upon his death](http://www.mormonthink.com/mormonstudiesrigdon.htm#34).  If Rigdon had nothing to hide, then why have his writings all burned?  Also, a co-conspirator stands to lose much by admitting to being part of a significant conspiracy, even on their death-bed (we are creatures who seek meaning, so admitting to a lie on one's deathbed would be a horrible way to undermine the meaning of one's life).  Finally, some theories for the creation of the book (e.g., [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)) do not involve Rigdon in the manuscript creation.
+
+> ARGUMENT 3: THE BOOK OF MORMON WAS PLAGIARIZED FROM OTHER BOOKS
+
+> Other critics offered a different line of attack; namely, that Joseph Smith plagiarized the Book of Mormon (at least its historical content) from other existing books.
 
 
+> One such theory alleged that Joseph Smith copied from the Solomon Spaulding manuscript—an unpublished manuscript written about 1812 by a man named Solomon Spaulding, who had once been a Protestant minister. It is a fictional account of ancient Romans who were sailing for England but were blown off course and landed in North America. When the critics were asked to produce the manuscript for comparison with the Book of Mormon, they conveniently claimed it was lost.[12]
 
-First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:
+I will note here that if Joseph were using the seer stone in the hat process for translation, then it would have been trivial for him to duplicate the lost 116 pages, or merely gaze into the stone and have God reveal to him the location of the lost 116 pages so they could be retrieved.  Lost manuscripts are more problematic to the orthodox story of the origin of the Book of Mormon than to Spaulding theories.
 
-I saw them hand [my father] the book, and I am as positive as can be that he never saw it before. He read it and examined it for about an hour and then threw it down and said he did not believe a word in it.10
+> However, with the passage of time, the manuscript was found in 1884 by a Mr. L. L. Rice. He found the alleged smoking gun in the personal historical papers of one of the very critics who had claimed the manuscript was lost. Knowing of its alleged connection to the Book of Mormon, Mr. Rice, Mr. James Fairchild, and others (none of whom were members of the LDS Church), reviewed it and concluded, “[We] compared it with the Book of Mormon and could detect no resemblance between the two, in general or in detail.[13]
 
-Later, however, he did accept the Book of Mormon, joined the Church, and became one of its leaders.
+> When I was in my twenties, I saw a notice from the Church History Department that stated that a copy of the Solomon Spaulding manuscript could be purchased for a dollar. I ordered a copy and likewise found no meaningful relationship whatsoever between the two books.[14]
 
-Second, Sidney Rigdon’s son John spoke to his father as he lay on his deathbed: “[Father], you owe it to me and to your family to tell [the truth about the Book of Mormon].”
+Manuscript Story may not have corresponded with "Manuscript Found".  Search "Manuscript Found" [in Criddle's essay](http://www.mormonthink.com/mormonstudiesrigdon.htm).  Other hypotheses (i.e., [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)) do not rely on any Spaulding manuscript.
 
-In other words, this is the day of reckoning; be totally honest before you go to the judgment bar.
+> With the demise of this argument, critics alleged that the supposed source for the Book of Mormon was another book titled View of the Hebrews, written by Ethan Smith in 1823. This book was an attempt to prove that the Native Americans were descendants of the lost ten tribes of Israel.[15] In essence, the critics claimed that this was the historical basis for the Book of Mormon.
 
-The son then recounted his father’s response: “My father looked at me a moment, raised his hand above his head and slowly said, with tears glistening in his eyes: ‘My son, I can swear before high heaven that what I have told you about the origin of that book is true.’”
+There is a simple test to determine if the Book of Mormon was copied from View of the Hebrews: simply compare the two books and decide for yourself. With complete academic honesty, B. H. Roberts, one of the leading scholars of the Church, listed some possible parallels[16] between the two books, but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”[17] Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”18
 
-After this tender moment, the son said, “I believed him.”11
+I too have read View of the Hebrews and the Book of Mormon. Suffice it to say, these two books have totally different objectives and writing styles. For example, the Book of Mormon’s principal focus is to testify of Jesus Christ and His doctrine. Accordingly, the historical setting is not the focus, but it is rather the background music that gives context and emphasis to the doctrine. The principal focus, however, for View of the Hebrews is to historically connect the Native Americans to the ancient Hebrews. In addition, View of the Hebrews is a series of independent quotes and purported evidences to prove its theory. On the other hand, the Book of Mormon is a cohesive narrative—a story of families and prophets who struggled to live God’s word. The purpose and style of these two books is most disparate.[19] Any honest reader can determine that for himself.
 
-Later, John joined the Church, and thus another argument fell by the wayside.
+> ARGUMENT 4: JOSEPH SUFFERED FROM A MENTAL ILLNESS
 
-ARGUMENT 3: THE BOOK OF MORMON WAS PLAGIARIZED FROM OTHER BOOKS
-Other critics offered a different line of attack; namely, that Joseph Smith plagiarized the Book of Mormon (at least its historical content) from other existing books. One such theory alleged that Joseph Smith copied from the Solomon Spaulding manuscript—an unpublished manuscript written about 1812 by a man named Solomon Spaulding, who had once been a Protestant minister. It is a fictional account of ancient Romans who were sailing for England but were blown off course and landed in North America. When the critics were asked to produce the manuscript for comparison with the Book of Mormon, they conveniently claimed it was lost.12
+Argument 4 is nearly 100 years old at this point.  No BoM generation theories I'm aware of today focus on this, so this boils down to--there once was a theory for how the Book of Mormon came to be that is no longer .
 
-However, with the passage of time, the manuscript was found in 1884 by a Mr. L. L. Rice. He found the alleged smoking gun in the personal historical papers of one of the very critics who had claimed the manuscript was lost. Knowing of its alleged connection to the Book of Mormon, Mr. Rice, Mr. James Fairchild, and others (none of whom were members of the LDS Church), reviewed it and concluded, “[We] compared it with the Book of Mormon and could detect no resemblance between the two, in general or in detail.13
+The fact that numerous theories have been advanced to explain the advent of the Book of Mormon suggests that there a several _possible_ ways in which the book could have been constructed which would reasonably fit the data.  After all, [numerous holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) have been constructed over the past (none of which Callister accepts as fully genuine) and nothing about the Book of Mormon ties us irrevocably to the conclusion that the Book of Mormon required the intervention of an omnipotent being for its creation (presumably God could have, if he had wanted, produced a work of such monumental intelligence that all rational people were compelled to acknowledge that only an omniscient being could have produced it, but that cannot be said for the BoM).  Relatively uneducated people have created complex and coherent books in relatively short periods of time before and after the BoM.  The fact that some naturalistic explanations have fallen into disfavor over time mostly confirms that naturalists care about how well their models fit the data and are unafraid to discount theories based on evidence.  Some models fit the data better than others.
 
-When I was in my twenties, I saw a notice from the Church History Department that stated that a copy of the Solomon Spaulding manuscript could be purchased for a dollar. I ordered a copy and likewise found no meaningful relationship whatsoever between the two books.14
+> ARGUMENT 5: JOSEPH SMITH WAS A CREATIVE GENIUS WHO, SHAPED BY HIS ENVIRONMENT, WROTE THE BOOK OF MORMON
 
-With the demise of this argument, critics alleged that the supposed source for the Book of Mormon was another book titled View of the Hebrews, written by Ethan Smith in 1823. This book was an attempt to prove that the Native Americans were descendants of the lost ten tribes of Israel.15 In essence, the critics claimed that this was the historical basis for the Book of Mormon.
+> This argument has become a principal one used by many if not most critics today.
 
-There is a simple test to determine if the Book of Mormon was copied from View of the Hebrews: simply compare the two books and decide for yourself. With complete academic honesty, B. H. Roberts, one of the leading scholars of the Church, listed some possible parallels16 between the two books, but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”17 Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”18
+This theory is definitely bandied about at times, however, I am only aware of two major theories being presented today about the creation of the BoM ([Ridgdon theory](http://www.mormonthink.com/mormonstudiesrigdon.htm) and [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)) and both maintain that others were the primary authors of an original BoM proto-manuscript.
 
-I too have read View of the Hebrews and the Book of Mormon. Suffice it to say, these two books have totally different objectives and writing styles. For example, the Book of Mormon’s principal focus is to testify of Jesus Christ and His doctrine. Accordingly, the historical setting is not the focus, but it is rather the background music that gives context and emphasis to the doctrine. The principal focus, however, for View of the Hebrews is to historically connect the Native Americans to the ancient Hebrews. In addition, View of the Hebrews is a series of independent quotes and purported evidences to prove its theory. On the other hand, the Book of Mormon is a cohesive narrative—a story of families and prophets who struggled to live God’s word. The purpose and style of these two books is most disparate.19 Any honest reader can determine that for himself.
+> It is a 180-degree turnabout from the premise of earlier critics; namely, that Joseph was illiterate, ignorant, and incapable of writing such a work on his own. In fact, we have come full circle, back to the same argument originally made by Alexander Campbell in 1831, except that now Joseph Smith is considered brilliant rather than ignorant.
 
-ARGUMENT 4: JOSEPH SUFFERED FROM A MENTAL ILLNESS
-Those who advanced this argument alleged that such mental disorders bestowed upon Joseph Smith additional powers and skills that enabled him to write what he could not otherwise have written on his own.20
+Naturalists form theories to fit the data, and some ideas fall into disfavor.  How much data was available to Campbell in 1831 when forming his first theory about the creation of the BoM?
 
-In 1931 Harry M. Beardsley wrote, “The Book of Mormon is a product of . . . a mind characterized by the symptoms of the most prevalent of mental diseases of adolescence—dementia praecox,”21 sometimes referred to as schizophrenia.
+> Fawn Brodie, perhaps the chief proponent of this argument, opined that Joseph Smith, the unschooled farm boy, was a creative genius who, fashioned by his environment and the influence of local history books and resources, personally wrote the Book of Mormon. Remarkably, Fawn Brodie wrote:
 
-There are fatal defects, however, with such an argument. First, there is no credible evidence that Joseph had any form of mental illness. Second, there is no substantiating evidence that such physical or mental conditions magically bestow upon an untrained writer, such as Joseph Smith, the ability to instantly become a skilled writer. And third, the book is not characteristic of the mentally ill. Even Fawn M. Brodie, an avid critic of Joseph Smith, acknowledged this latter fact:
+> Never having written a line of fiction, [Joseph Smith] laid out for himself a task that would have given the most experienced novelist pause. But possibly because of this very inexperience he plunged into the story.[24]
 
-Recent critics who insist that Joseph Smith suffered from delusions have ignored in the Book of Mormon contrary evidence difficult to override. Its very coherence belies their claims. . . .
+> When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.
 
-. . . Its structure shows elaborate design, its narrative is spun coherently, and it demonstrates throughout a unity of purpose.22
+While most theories today posit that others helped in or produced a proto-manuscript, several data points [suggest that Joseph _might_ have been capable of producing the BoM](https://github.com/faenrandir/a_careful_examination/blob/285a45e5c99e5abf41c6910aad4419737cc57fc8/documents/book_of_mormon/translation/joseph_smith_uneducated.md).  So, while I agree that Joseph as sole author is a stretch, it does not seem wholly impossible, particularly if Joseph had been working on a manuscript for the years before the actual dictation event (which the timeline leaves room for, [especially considering the purported 4 years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F)).  LDS leaders often emphasize Joseph's unlearnedness, but they conveniently ignore the fact that he grew up in a home that emphasized personal educational and that he had an incredible mind.  John Taylor [said of him](https://www.lds.org/manual/teachings-joseph-smith/chapter-47?lang=eng):
 
-As you would expect, these arguments that Joseph Smith suffered from a mental illness never got much traction.23
+> He was ignorant of letters as the world has it, but the most profoundly learned and intelligent man that I ever met in my life, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet I have never met a man so intelligent as he was.
 
-ARGUMENT 5: JOSEPH SMITH WAS A CREATIVE GENIUS WHO, SHAPED BY HIS ENVIRONMENT, WROTE THE BOOK OF MORMON
-This argument has become a principal one used by many if not most critics today. It is a 180-degree turnabout from the premise of earlier critics; namely, that Joseph was illiterate, ignorant, and incapable of writing such a work on his own. In fact, we have come full circle, back to the same argument originally made by Alexander Campbell in 1831, except that now Joseph Smith is considered brilliant rather than ignorant.
+And William E. McLellin [described his experience teaching Smith](http://www.deseretnews.com/article/705280695/Inside-the-lost-McLellin-notebook.html) when Joseph attended schooling as an adult:
 
-Fawn Brodie, perhaps the chief proponent of this argument, opined that Joseph Smith, the unschooled farm boy, was a creative genius who, fashioned by his environment and the influence of local history books and resources, personally wrote the Book of Mormon. Remarkably, Fawn Brodie wrote:
+> He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him. And I here say that he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance, among the thousands of my observation. Although when I took him into my school, he was without scientific knowledge or attainments.
 
-Never having written a line of fiction, [Joseph Smith] laid out for himself a task that would have given the most experienced novelist pause. But possibly because of this very inexperience he plunged into the story.24
+If we are to believe Taylor and McLellin, then we are not dealing with typical intelligence.  Further, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, this theory does not necessarily exceed the realm of naturalistic possibility.
 
-When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.
+> Nonetheless, others have bought into this ­argument—lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God—a place they desperately do not want to go.
 
-Nonetheless, others have bought into this ­argument—lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God—a place they desperately do not want to go. These latter critics have added one more ingredient to the mix. Joseph Smith, they said, besides being a genius, was suffering from narcissistic personality disorder or dissociative disorder or depression.25 Here we are back again to the mental disorder theories that proved so ineffective in the past.26
+This statement overstates the tightness of the case for the orthodox narrative of the coming forth of the BoM and completely ignores the strong case for viewing the BoM as a modern work (which will be discussed in more depth below).  In addition, this assumes that those who reject the BoM do so for some ulterior motive besides the fact that the BoM does not seem to them to be an ancient, historical document (i.e., the case for divine intervention and historical authenticity seems less compelling to them than the case that it was _somehow_ composed in the early 1800s).  Does Callister reject the authenticity of the Quran, the Bhagavad Gita, Dianetics, The Urantia Book, of The Book of Jaranek out of desperation, even though he likely has no other theory in mind for their creation than that the authors somehow made it up?
 
-In order to account for the history of the Book of Mormon, these critics claim that Joseph must have read or been conversant with a staggering number of books or ideas related to them. In fact, one author has suggested that Joseph may have read or gleaned information from more than thirty books in nearby libraries in order to gather necessary information about the early Americans.27 The claim is then made that these books—or discussions of the same in newspapers or conversations—became the basis for the historical narrative in the Book of Mormon.28
+> These latter critics have added one more ingredient to the mix. Joseph Smith, they said, besides being a genius, was suffering from narcissistic personality disorder or dissociative disorder or depression.[25] Here we are back again to the mental disorder theories that proved so ineffective in the past.[26]
+
+I'm not sure these are especially relevant to this analysis, but it is interesting that others have argued that Ellen White, another visionary in Joseph's relative time and vicinity, [may have also suffered from some similar symptoms](https://www.nonegw.org/egw33.shtml).  Callister apparently wants us to view these ideas as indicative of desperation, but I view them as naturalists covering potential explanatory ground.  Naturalists have no problem dropping theories if the data poorly support them, but it is to their credit that they are willing to genuinely consider the merit of various possibilities.
+
+> In order to account for the history of the Book of Mormon, these critics claim that Joseph must have read or been conversant with a staggering number of books or ideas related to them. In fact, **one author has suggested that Joseph may have read or gleaned information from more than thirty books in nearby libraries in order to gather necessary information about the early Americans**.[27] The claim is then made that these books—or discussions of the same in newspapers or conversations—became the basis for the historical narrative in the Book of Mormon.[28] (emphasis added)
+
+In the emboldened text above, Callister is quoting from Vogel's [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/), but he apparently failed to read the introduction where Vogel clearly explains how he views the relationship of the various sources with Joseph Smith.  I think it is worth quoting Vogel at length so it may be appreciated how poorly Callister conveys Vogel's very thoughtful research.
+
+> For the most part I have explored two broad categories of writings: books motivated by theological issues—as is obviously the case with Ethan Smith’s View of the Hebrews (1823 and 1825)[16]—and those motivated by concerns more antiquarian than religious—such as John Yates’s and Joseph Moulton’s History of the State of New York (1824). I have looked in these sources for arguments, stories, and questions which persisted over time and were thus picked up and repeatedly reworked. I have also explored those sources which reached a broad audience–books reprinted again and again, for example, or excerpted or written about in popular periodicals and newspapers.
+
 
 How might one counter this argument? Here is a list of questions that an honest seeker of truth might raise:
 
-• Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning any of these historical sources before translating the Book of Mormon? No.29
+• Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning any of these historical sources before translating the Book of Mormon? No.[29]
 
 • Is there any evidence he visited the libraries where these books were supposedly located? No.
 
@@ -141,7 +194,7 @@ How might one counter this argument? Here is a list of questions that an honest 
 
 How many nos does it take to expose the critics’ arguments as pure speculation—nothing more than sand castles that come crashing down when the first waves of honest questions appear on the scene.
 
-Do the critics expect us to believe that Joseph searched out and studied all these resources on Native American life; inhaled the related conversations on the topic; winnowed out the irrelevant; organized the remainder into an intricate story involving hundreds of characters, numerous locations, and detailed war strategies; and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?30 And during it all, no one remembered him going to these libraries, bringing any such books home, having any conversations concerning this research, or making any diary entries to the same. Where, I ask you, is the hard evidence?
+Do the critics expect us to believe that Joseph searched out and studied all these resources on Native American life; inhaled the related conversations on the topic; winnowed out the irrelevant; organized the remainder into an intricate story involving hundreds of characters, numerous locations, and detailed war strategies; and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30] And during it all, no one remembered him going to these libraries, bringing any such books home, having any conversations concerning this research, or making any diary entries to the same. Where, I ask you, is the hard evidence?
 
 WHERE DID JOSEPH GET THE DOCTRINE?
 Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time? For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
@@ -168,41 +221,45 @@ d. Alma 7 explains that the Savior suffered not only for our sins but also for o
 
 e. 3 Nephi 11 is the most powerful witness we have of the resurrected Lord, as 2,500 believers, consisting of men, women, and children (see 3 Nephi 17:25) came forth and “thrust their hands into his side,” felt “the prints of the nails in his hands and in his feet,” and “did know of a surety and did bear record” (3 Nephi 11:15) that He was the Son of God. Who can read that account and not feel the witness of the Spirit testifying of its truthfulness?
 
-f. The Bible teaches us that, through the Atone­ment, Christ can make us clean; the Book of Mormon teaches us that, through the Atonement, Christ can also make us perfect (see Moroni 10:32–33).31
+f. The Bible teaches us that, through the Atone­ment, Christ can make us clean; the Book of Mormon teaches us that, through the Atonement, Christ can also make us perfect (see Moroni 10:32–33).[31]
 
 Does anyone honestly believe that Joseph Smith somehow invented these profound doctrines with their compelling powers of reason, their mind-expanding insights, and their language, which is divinely eloquent? If these doctrines were the product of Joseph’s creative mind, one might ask, “Were there no other creative geniuses in the 1,800 years following Christ’s ministry who could produce similar doctrines?”
 
-The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life. It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days. Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”32
+The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life. It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days. Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
 
 A PARABLE THAT COUNTERS THE ARGUMENTS PROPOSED BY CRITICS
 In response to critics’ arguments as to the origin of the Book of Mormon, Hugh Nibley published the following parable:
 
 A young man once long ago claimed he had found a large diamond in his field as he was ploughing. He put the stone on display to the public free of charge, and everyone took sides. A psychologist showed, by citing some famous case studies, that the young man was suffering from a well-known form of delusion. An historian showed that other men have also claimed to have found diamonds in fields and been deceived. A geologist proved that there were no diamonds in the area but only quartz. . . . When asked to inspect the stone itself, the geologist declined with a weary, tolerant smile and a kindly shake of the head. . . . A sociologist showed that only three out of 177 florists’ assistants in four major cities believed the stone was genuine. A clergyman wrote a book to show that it was not the young man but someone else who had found the stone.
 
-Finally an indigent jeweler . . . pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick . . . , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skilfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.33
+Finally an indigent jeweler . . . pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick . . . , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skilfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.[33]
 
 To suggest that Joseph Smith, a farm boy with little formal education, produced a synthetic work of God in 1829 that has baffled the brightest of critics for almost two centuries would be a more remarkable feat than the simple fact that he obtained the gold plates from an angel of God and translated them by the gift and power of God.
 
 OTHER EVIDENCES THAT THE BOOK OF MORMON IS NOT MAN-MADE
 What other evidence do we have that the Book of Mormon was a God-given translation and not a man-made creation? There are many evidences, but for the sake of time I refer to but one, because it is personal to me. Emma Smith gave the following testimony, as reported by her son Joseph Smith III:
 
-My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.34
+My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.[34]
 
 This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”
 
 But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”
 
-When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.35
+When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]
 
 HOW WE CAN DISCOVER THE TRUTH OF A DIVINE WORK
-If I were to ask my good Christian friends how they unquestionably know the Bible is the word of God, I do not believe they would cite archaeological discoveries or linguistic connections with ancient Hebrew or Greek as their prime evidence; rather, they would make reference to the Spirit. It always comes back to the Spirit. The Spirit that helps me know the Bible is true is the very same Spirit that helps me know the Book of Mormon is true.36
+If I were to ask my good Christian friends how they unquestionably know the Bible is the word of God, I do not believe they would cite archaeological discoveries or linguistic connections with ancient Hebrew or Greek as their prime evidence; rather, they would make reference to the Spirit. It always comes back to the Spirit. The Spirit that helps me know the Bible is true is the very same Spirit that helps me know the Book of Mormon is true.[36]
 
 The Spirit is the decisive, determining factor—not archaeology, not linguistics, not DNA, and certainly not the theories of man. The Spirit is the only witness that is sure and certain and infallible.
 
-As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.37
+As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.[37]
 
 Why is it so important for you individually to gain a testimony of the Book of Mormon? Because if you do, it will become your personal iron rod. The mists of darkness may come and the unanswered questions may arise, but through it all you will have your iron rod to cling to—to keep you on the straight and narrow path that leads to eternal life.
 
 The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.
 
 By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.
+
+
+[add in /u/we were gods point about it still not being the case that it's a
+historical record.]
