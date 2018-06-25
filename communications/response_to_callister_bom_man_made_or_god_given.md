@@ -23,7 +23,7 @@ Many of us who no longer believe the truth-claims of the LDS Church are merely t
 
 > If, after a rigid examination, it [the Book of Mormon] be found an imposition, should be extensively published to the world as such; **the evidences and arguments upon which the imposture was detected, should be clearly and logically stated**, that those who have been sincerely yet unfortunately deceived, may perceive the nature of the deception, and be reclaimed, - and that those who continue to publish the delusion, may be exposed and silenced, not by physical force, neither by persecutions, bare assertions, nor ridicule, **but by strong and powerful arguments — by evidences adduced from scripture and reason**.
 
-> But this is no easy task—in fact, it is impossible, because the Book of Mormon is true.
+> But this is no easy task---in fact, it is impossible, because the Book of Mormon is true.
 
 Callister is about to present evidence to bolster testimonies of the BoM, but he seems to have begun with the conclusion in mind.  Perhaps our belief in the truth of the BoM should be conditioned on the totality of evidence for and against its authenticity?  Nonetheless, I do not begrudge him statements like these in a devotional address to believing members.
 
@@ -41,9 +41,7 @@ I will present a few viable alternatives which are consistent with much of the h
 
 > ARGUMENT 1: JOSEPH SMITH, ALLEGED TO BE AN IGNORANT MAN, WROTE THE BOOK OF MORMON
 
-> ...
-
-I agree.  I do not think Joseph Smith alone wrote the book.
+This argument is really a subset of argument 5, and 
 
 > ARGUMENT 2: SOMEONE ELSE WROTE IT
 
@@ -127,11 +125,13 @@ I will note here that if Joseph were using the seer stone in the hat process for
 
 > When I was in my twenties, I saw a notice from the Church History Department that stated that a copy of the Solomon Spaulding manuscript could be purchased for a dollar. I ordered a copy and likewise found no meaningful relationship whatsoever between the two books.[14]
 
-Manuscript Story may not have corresponded with "Manuscript Found".  Search "Manuscript Found" [in Criddle's essay](http://www.mormonthink.com/mormonstudiesrigdon.htm).  Other hypotheses (i.e., [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)) do not rely on any Spaulding manuscript.
+Manuscript Story probably [did not correspond with "Manuscript Found"](https://en.wikipedia.org/wiki/Spalding%E2%80%93Rigdon_theory_of_Book_of_Mormon_authorship#Hypothetical_lost_manuscript).  Also, search "Manuscript Found" [in Criddle's essay](http://www.mormonthink.com/mormonstudiesrigdon.htm).  Other hypotheses (i.e., [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)) do not rely on any Spaulding manuscript.
 
 > With the demise of this argument, critics alleged that the supposed source for the Book of Mormon was another book titled View of the Hebrews, written by Ethan Smith in 1823. This book was an attempt to prove that the Native Americans were descendants of the lost ten tribes of Israel.[15] In essence, the critics claimed that this was the historical basis for the Book of Mormon.
 
 > There is a simple test to determine if the Book of Mormon was copied from View of the Hebrews: simply compare the two books and decide for yourself.
+
+I'm unware of any scholar who has ever argued that the Book of Mormon was "copied from" the View of the Hebrews (VOH), even though most believe the similarities in certain themes are self-evident.
 
 You can access the book online [here](https://archive.org/stream/viewhebrewsexhi00smitgoog#page/n4/mode/2up).  Please note [the following similarities](https://i.redd.it/hiv3nejpu2611.png) (image from pgs. 17-20 of the CES Letter, version 2.0).  Regardless of B.H. Roberts' ultimate conclusion and belief (which is [debated by scholars](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon#Controversy_about_Roberts's_ultimate_beliefs)), the similarities were enough for Roberts to note:
 
@@ -145,11 +145,11 @@ It is interesting that Callister points out Roberts' "complete academic honesty"
 
 > but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”[17] Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”[18]
 
-The fact that Roberts' testimony must be defended is, perhaps, worth commenting on.  This historical record is clear that at least on some level Roberts struggled with the implications of his studies into potential criticism of the Book of Mormon (see Brigham Madsen's work [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V30N03_97.pdf) and [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_87.pdf)).  Roberts' studies were performed in the 1920s and only scratch the surface of the total scholarship available today which clearly situates the Book of Mormon in the context of the early 1800s American milieu (see XXXXXXXXXXXXXXX).  If Roberts testimony was shaken then (even if only for a time), how much more devastating to belief in a historical BoM would unbiased investigation result in today?  Regardless, Callister and I both agree that a person should handle the primary evidence themselves in order to help them ascertain the potential authenticity of the BoM.
+The fact that Roberts' testimony must be defended is, perhaps, worth commenting on.  This historical record is clear that at least on some level Roberts struggled with the implications of his studies into potential criticism of the Book of Mormon (see Brigham Madsen's work [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V30N03_97.pdf) and [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_87.pdf)).  Roberts' studies were performed in the 1920s and only scratch the surface of the total scholarship available today which far more convincingly situates the Book of Mormon in the context of the early 1800s American milieu (see XXXXXXXXXXXXXXX).  If Roberts testimony was shaken then (even if only for a time), how much more devastating to belief in a historical BoM would unbiased investigation result in today?  Regardless, Callister and I both agree that a person should handle the primary evidence themselves in order to help them ascertain the potential authenticity of the BoM.
 
 > I too have read View of the Hebrews and the Book of Mormon. Suffice it to say, these two books have totally different objectives and writing styles. For example, the Book of Mormon’s principal focus is to testify of Jesus Christ and His doctrine. Accordingly, the historical setting is not the focus, but it is rather the background music that gives context and emphasis to the doctrine. The principal focus, however, for View of the Hebrews is to historically connect the Native Americans to the ancient Hebrews. In addition, View of the Hebrews is a series of independent quotes and purported evidences to prove its theory. On the other hand, the Book of Mormon is a cohesive narrative—a story of families and prophets who struggled to live God’s word. The purpose and style of these two books is most disparate.[19]
 
-It should be self-evident from the manner in which influence spreads among works of literature that a work may show possible influence from ideas in other books without necessarily duplicating the style or purpose of the influential book.
+It should be self-evident from the manner in which influence spreads among works of literature that a work may show possible influence from ideas in other books without necessarily duplicating the style or purpose of the influential book.  For instance, [numerous literary works are thought to have influenced Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien%27s_influences), but few of his books are mere copies of the influential works.
 
 > Any honest reader can determine that for himself.
 
@@ -209,13 +209,13 @@ In the emboldened text above, Callister is citing (#29) Vogel's [Indian Origins 
 
 Hence, Callister seems to have misinterpreted Vogel's near-exhaustive demonstration of the penetrance of certain ideas in the psyche of Joseph Smith's time and place as a strawman which would require Joseph to have had direct contact with these books in order to have generated the BoM.  And, here again, Callister has failed to grapple with other multiple authorship theories which increases the likelihood that a given individual would have been exposed to a given idea about the Native Americans.
 
-> The claim is then made that these books—or discussions of the same in newspapers or conversations—became the basis for the historical narrative in the Book of Mormon.[28] (emphasis added)
+> The claim is then made that these books—or discussions of the same in newspapers or conversations—became the basis for the historical narrative in the Book of Mormon.[28]
 
 Footnote 28 reads:
 
 > Joseph Smith referred to View of the Hebrews in Times and Seasons in June 1842 (twelve years after the Book of Mormon was published); see Joseph Smith, “From Priest’s American Antiquities,” Times and Seasons 3, no. 15 (1 June 1842): 814.
 
-The fact that Joseph referred to View of the Hebrews in 1842 merely confirms that these ideas were penetrating that environment.  The multi-author model does not require that Joseph had direct contact with View of the Hebrews (another author may have).  And the fact that he referenced the book later in his life does not preclude its direct or indirect influence on him earlier.
+The fact that Joseph referred to View of the Hebrews in 1842 merely confirms that these ideas were penetrating that environment.  The multi-author model does not require that Joseph had direct contact with View of the Hebrews (another author may have).  And the fact that he referenced the book later in his life does not preclude its direct or indirect influence on him (or another author) earlier.
 
 > How might one counter this argument? Here is a list of questions that an honest seeker of truth might raise:
 
@@ -227,9 +227,40 @@ The fact that Joseph referred to View of the Hebrews in 1842 merely confirms tha
 
 > • Is there any record that he had any of these books present when he translated the Book of Mormon? No.
 
-> How many nos does it take to expose the critics’ arguments as pure speculation—nothing more than sand castles that come crashing down when the first waves of honest questions appear on the scene.
+Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was published originally in eight volumes between 1810 and 1826 and was "extensively circulated".  BYU Scholars recently concluded that [Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation](http://jur.byu.edu/?p=21296) (aka, the JST).  Let's ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
 
-> Do the critics expect us to believe that Joseph searched out and studied all these resources on Native American life; inhaled the related conversations on the topic; winnowed out the irrelevant; organized the remainder into an intricate story involving hundreds of characters, numerous locations, and detailed war strategies; and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30] And during it all, no one remembered him going to these libraries, bringing any such books home, having any conversations concerning this research, or making any diary entries to the same. Where, I ask you, is the hard evidence?
+> • Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning Clarke's Commentary before working on the JST? **[No](http://www.josephsmithpapers.org/search?query=Clarke&sort=relevance&page=1&perpage=50&startdate=&enddate=&transcripts=false&issuggestion=false&types=documents-papers|documents-papers-documents|documents-papers-administrative|documents-papers-legal|documents-papers-histories|documents-papers-journals|related-materials|biographical-directory|geographical-directory|glossary|event)**.
+
+> • Is there any evidence he visited the libraries where Clarke's commentary was supposedly located? **No**.
+
+> • Did Emma Smith, who was married to him, (or any other scribe who helped with the JST) ever comment that he referred to Clarke's commentary before or during the production of the JST? **No**.
+
+> • Is there any record that he had Clarke's commentary present when he produced the JST? **No**.
+
+This thought experiment demonstrates that sources may be consulted without leaving the kind of record Callister demands.  It suggests a paucity of the historical record as it pertains to what people were reading and consulting and says little about the likelihood that individuals at the time were reading various books and engaging in various discussions on topics of relevance to the BoM.
+
+The historical record strongly suggests that Palmyra and its immediate vicinity [were rich in available literature](https://github.com/faenrandir/a_careful_examination/blob/ae94be0575fe50127e95f3deb5b63926a3e8441f/documents/book_of_mormon/palmyra_rich_in_books.md) on the kinds of topics (e.g., [indians](http://signaturebookslibrary.org/scripture-test/), [war and liberty](http://www.mormonthink.com/influences.htm#part2), and [religion](http://www.mormonthink.com/influences.htm#part3)) that may have influenced Joseph Smith _or other authors_.
+
+Especially as it pertains to theological matters, we should remember that [Joseph Smith himself states](https://www.lds.org/scriptures/pgp/js-h/1?lang=eng&country=ca) that _as a young teenager_ he was attending "their several meetings as often as occasion would permit") perhaps daily (?) studying the Bible ("I was one day reading the Epistle of James"), and then bold enough to converse with the local preachers about religion ("I happened to be in company with one of the Methodist preachers, who was very active in the before mentioned religious excitement; and, conversing with him on the subject of religion").  How much could Joseph have gleaned on the topic of religion had he maintained such a trajectory over the next decade, particularly if he began reading other sources besides the Bible?
+
+If we include other potential authors, then the sourcing problem seems to disappear since it seems at least highly plausible that these authors would have owned or would have read the kinds of sources that might have informed the creation of the BoM:
+
+* Rigdon had been a Baptist pastor/preacher for nearly a decade by the time the BoM was published.
+* Joseph's parents were both well educated---his father had "been a merchant and a teacher", his grandmother had been a schoolteacher and had taught Joseph's mother---and Hyrum had attended Dartmouth College as a teen. (respective sources: [father](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng), [grandmother and mother](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false), [Hyrum](https://en.wikipedia.org/wiki/Hyrum_Smith#Early_life))
+
+> How many "no"s does it take to expose the critics’ arguments as pure speculation—nothing more than sand castles that come crashing down when the first waves of honest questions appear on the scene.
+
+As I just outlined, there seem to be some good reasons why "no"s to these questions would not immediately cause an honest investigator to believe the standard narrative.
+
+> Do the critics expect us to believe that Joseph searched out and studied all these resources on Native American life; inhaled the related conversations on the topic; 
+
+As Vogel demonstrated, many of these ideas _saturated_ that environment.  It seems more unbelievable to suggest that Smith (or other potential authors) somehow remained _unexposed_ to at least many of these ideas.
+
+> ... winnowed out the irrelevant; organized the remainder into an intricate story involving hundreds of characters, numerous locations, and detailed war strategies; and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30]
+
+This claim hinges on  ..XCVASDFASDFASGFASDFGA
+
+> And during it all, no one remembered him going to these libraries, bringing any such books home, having any conversations concerning this research, or making any diary entries to the same. Where, I ask you, is the hard evidence?
 
 > WHERE DID JOSEPH GET THE DOCTRINE?
 
