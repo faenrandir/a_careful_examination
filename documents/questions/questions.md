@@ -151,13 +151,13 @@ However, many data points [support a migration out of Africa beginning about 70,
 
 [^shared_by_others]: Elder Holland's story (also told by Kim B. Clark) was shared by many others (all last retrieved 2017-09-06): [1](http://rogerwilco-ldsreport.blogspot.com/), [2](https://web.archive.org/web/20170801050830/http://www.texashoustonsouthmission.com/weekly-presidents-pen/2016/4/25/presidents-pen-4-25-16), [3](https://eldercowansouthafrica.blogspot.com/2017/07/zone-conference.html) [4](http://savvysmissionaryblog.blogspot.com/2015/11/carry-on.html), [5](http://hermanaalisonknight.blogspot.com/2015/11/one-month-down-17-to-go.html), and [6](http://eldergideonbenge.blogspot.com/2017/07/an-invitation-to-come-home.html).  The story profoundly influenced many hearers:
 
-[^dead_as_far_as_aware]: All these individuals are now dead as far as I'm aware---these are all from patriarchal blessings given before the 1900s, and I'm assuming we would likely know if any of them had somehow escaped death.
-
     * "The most powerful message to my heart was a story from Elder Jeffrey R. Holland addressed to new mission presidents and their wives."
     * "really awesome story"
     * "then he ended with a powerful story...This was a powerful story for me. One about love and about how God shows his love. There are no lost causes, we are all of infinite worth to God and He will put us exactly where he needs us to be."
     * "I want to tell an amazing story we were told at the devotional last night...HOW AMAZING IS THAT?! God sure works in mysterious and amazing ways."
     * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
+
+[^dead_as_far_as_aware]: All these individuals are now dead as far as I'm aware---these are all from patriarchal blessings given before the 1900s, and I'm assuming we would likely know if any of them had somehow escaped death.
 
 [^blood]: Confidence in the underlying teaching about the curse of Cain and "black" blood is also manifest in the practice of LDS hospitals segregating "black" blood from "white" blood [for many years](https://books.google.com/books?id=JaZn25Uv6XwC&pg=PA197&lpg=PA197#v=onepage&q&f=false).
 

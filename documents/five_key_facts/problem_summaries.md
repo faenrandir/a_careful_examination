@@ -5,6 +5,7 @@
 ### Very short summaries
 
 * [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) (~ 1 page)
+* [Just One Page](https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
 * [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (~10 minute youtube video)
 
 ### More significant summaries
