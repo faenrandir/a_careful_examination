@@ -1,4 +1,22 @@
 
+### Responses to GC talk
+
+* [Cody L. Anderson](https://spiritualwellnesstheory.com/2017/10/15/off-by-just-a-tad/)
+* [Response by 12th_Tribe](https://drive.google.com/file/d/1naIxrtrDrCBXRgMASMrkenjCvyxA-H0e/view)
+* [Response by MosiasH](http://www.mormonapologies.com/book-of-mormon/october-2017-conference-tad-callisters-talk/)
+
+#### Rebuttals to the responses
+
+* Believing member [rebuttal to Christian apologist response](https://scripturalmormonism.blogspot.com/2017/10/responding-to-critique-of-tad.html)
+
+### Responses to BYU Speech
+
+* Response to [The Book of Mormon: Man-Made or God-Given](https://www.docdroid.net/NT0LCsR/response-to-tad-callister-bom-talk.pdf) ([by /u/animatorcollin](https://www.reddit.com/r/exmormon/comments/7438jq/response_to_tad_callisters_the_book_of_mormon/))
+* [churchistrue response](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/)
+* [Robert John Stevens response](http://www.sonsofliberty.co/a-response-the-byu-devotional-the-book-of-mormon-man-made-or-god-given/)
+
+
+
 On many levels I enjoyed listening to and studying Tad Callister's talk.  I think he does well in pointing out failures in some (mostly older) naturalist theories to account for data relevant to the creation of the Book of Mormon (BoM).  And, although I don't find it as compelling as he might, I also think his case for the unique doctrines and perspective of the Book of Mormon is an important defense for believing members to make of the BoM.  Most of his points are clearly cited, and that is commendable and aids in meaningful scholarly dialogue.  At the very least, even though I will present some counterpoints and may conclude differently than Callister on this topic, I think the _kind_ of introspection and investigation his talk represents is important for LDS leaders and members to engage in.
 
 > It is good to be with you today. I love BYU. It is where I attended school, where I met my wonderful wife, and where all six of our children have attended.
@@ -264,9 +282,57 @@ This claim hinges on  ..XCVASDFASDFASGFASDFGA
 
 > WHERE DID JOSEPH GET THE DOCTRINE?
 
-> Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time? For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
+> Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?
 
-> Likewise, contrary to contemporary beliefs, the Book of Mormon refers to a premortal existence in Alma 13 (see Alma 13:1–11) and to a postmortal spirit world in Alma 40 (see Alma 40:11–14). Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time? Where did he get the stunning sermon on faith in Alma 32? Or one of the greatest sermons ever recorded in all scripture on the Savior’s Atonement as delivered by King Benjamin (see Mosiah 2–5)? Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies. Are we supposed to believe that Joseph Smith just dictated these sermons off the top of his head with no notes whatsoever?
+It has been demonstrated that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/596260f90433378fc4015baa98db3252fd5f6df8/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  My responses to specific doctrines Callister advances will also help to demonstrate this.
+
+[[???? include this ???? ]] I will also mention ways in which these doctrines fail to approximate the kind of doctrine we'd expect ancient Israelites to be thinking about and how they fail to anticipate the ubiquitous conversations that would begin taking place within the next few decades after the BoM was published.  Collectively, these three together (1. parallel to early 1800s thought, 2. poor approximation of ancient Israelite thought, and 3. absence of awareness of upcoming conversations of huge import) make a strong case that the book was the product of an early 1800s mind and not ancient Israelites peering into the world at the end of the 2nd millenium.
+
+> For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
+
+As [pointed out by churchistrue](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/), the theological concept of [felix culpa](https://en.wikipedia.org/wiki/Felix_culpa) (or "blessed fall") was embodied in the ancient Catholic Paschal Vigil Mass [Exsultet](https://en.wikipedia.org/wiki/Exsultet) and favored by Ambrose, Augustine, and Aquinas.  John Wycliffe, often [doted upon by LDS scholars](https://www.lds.org/search?lang=eng&query=wycliffe), spoke of the fortunate fall in multiple sermons, and wrote:
+
+> it was a fortunate sin that Adam sinned and his descendants; therefore as a result of this the world was made better
+
+Leibniz refers to felix culpa in his well-known work Theodicy, and John Milton includes a stanza clearly articulating a fortunate fall in Paradise Lost ([included in an Ensign article in 1976](https://www.lds.org/new-era/1976/01/john-milton-an-inspired-man?lang=eng)):
+
+> The Fortunate Fall
+
+> The poem is overridingly positive. In spite of the rebellion of angels, the evil designs of Satan against man, Adam’s disobedience, mankind’s foreseen history of bloodshed and sin, good triumphs over evil. In fact, more good will eventually result from the Fall than could have been possible without it. Realizing this near the end of the poem, Adam cries:
+
+>    O goodness infinite, goodness immense!
+
+>    That all this good of evil shall produce,
+
+>    And evil turn to good; more wonderful
+
+>    Than that which by creation first brought forth
+
+>    Light out of darkness! full of doubt I stand,
+
+>    Whether I should repent me now of sin
+
+>    By mee done and occasion’d, or rejoice
+
+>    Much more, that much more good thereof shall spring.
+
+>    To God more glory; more good will to Men
+
+>    From God, and over wrath grace shall abound.
+
+>    (XII. 469–478)
+
+Needless to say, Paradise Lost was hugely influential before and after Joseph Smith's time.  
+
+
+> Likewise, contrary to contemporary beliefs, the Book of Mormon refers to a premortal existence in Alma 13 (see Alma 13:1--11)
+
+
+> [a postmortal spirit world in Alma 40 (see Alma 40:11–14). Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?
+
+
+
+> Where did he get the stunning sermon on faith in Alma 32? Or one of the greatest sermons ever recorded in all scripture on the Savior’s Atonement as delivered by King Benjamin (see Mosiah 2–5)? Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies. Are we supposed to believe that Joseph Smith just dictated these sermons off the top of his head with no notes whatsoever?
 
 > The doctrinal truths taught in the Book of Mormon are overwhelming evidence of its divine authenticity. Nephi prophesied that in our day an exceeding great many would stumble in finding the truth. Why? “Because of the many plain and precious things which have been taken out of the [Bible]” (1 Nephi 13:29). Here are but two examples of plain and precious doctrinal truths that were clarified or restored in the Book of Mormon:
 
@@ -276,15 +342,158 @@ This claim hinges on  ..XCVASDFASDFASGFASDFGA
 
 > Again and again the Book of Mormon comes to the rescue, giving answers and restoring many plain and precious truths about baptism that were distorted or lost during the Apostasy. How did Joseph Smith know all these answers when the rest of the Christian world was so confused? Because he received them by revelation from God as he translated the Book of Mormon.
 
-> 2. What about Christ’s Atonement—the central doctrine of all Christianity? The clarity and expansiveness of this doctrine as taught in the Book of Mormon is beyond honest dispute. The Old and New Testaments have some scattered doctrinal gems on the Atonement (which we greatly appreciate and benefit from), but the Book of Mormon has numerous sermons—entire master­pieces—on the subject. For example:
+> 2. What about Christ’s Atonement—the central doctrine of all Christianity? The clarity and expansiveness of this doctrine as taught in the Book of Mormon is beyond honest dispute. The Old and New Testaments have some scattered doctrinal gems on the Atonement (which we greatly appreciate and benefit from), but the Book of Mormon has numerous sermons---entire masterpiece---on the subject.  For example:
 
-> a. 2 Nephi 2 is a mind-expanding sermon on the relationship between the Fall and Christ’s Atonement. While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.
+> a. 2 Nephi 2 is a mind-expanding sermon on the relationship between the Fall and Christ’s Atonement. 
 
-> b. 2 Nephi 9:7 introduces for the first time the phrase “an infinite atonement,” revealing the expansiveness, scope, and depth of Christ’s saving power.
+2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/afa5b85f5a309c31f4f581035e75b554ca63dbd7/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf).  Viewing the fall in a positive light was not original to the BoM.
 
-> c. Mosiah 2–5 is King Benjamin’s sermon. It gives insights about the depth of Christ’s suffering, the retroactive as well as prospective nature of Christ’s Atonement, and the power of the Atonement to remove our guilt as well as our sins.
+In addition, [the poetry of David Hitchcock](https://archive.org/stream/poeticalworksda00hitcgoog#page/n30/mode/2up/search/Why+did+he+not+prevent+the+fall) (first brought to my attention [by Rick Grunder](http://www.rickgrunder.com/parallels.htm)) discusses the Fall in very similar terms as 2 Nephi (emphasis added):
+
+    Could not the Almighty's power, display'd,
+    Of man a different being made?
+    **Why did he not prevent the fall,
+    And thus immortalize us all**?
+    Then man in uncorrupted state**,
+    Had shun'd these desperate shafts of fate;
+    **And free from every human wo,
+    Had liv'd forever, here below**.
+    ...        
+    Could he, if all his art were spent,
+    A being like himself invent?
+    Or can his boasted skill create
+    An insect of the smallest rate?
+    And when created has he power
+    To furnish life, or breath an hour?
+    If not, why then attempt to scan
+    The wisdom of that God who can?
+    It so falls out, that death and sin
+    Have since the fall of Adam been:
+    That all the human race must die:
+    For what? the universal cry.
+    ...
+    **Say not, that but for Adam's sin,
+    Your race had all immortal been;
+    And ever shun'd life's dreadful curse;
+    But say perhaps your lot were worse
+    Than now it is**: for 'tis inferr'd,
+    That this event had ne'er occurr'd,
+    Had not the Great Eternal All,
+    **Foreseen it best that man should fall**:
+    How then were men a happier race,
+    Had no derangement e'er took place. [p. 33 ends]
+    Knows man what would of course befel,
+    Were he not suffer'd to rebel?
+    Knows he, that earth's stupenduous [sic] frame,
+    Had ever in existence came?
+    Or that his now important rank,
+    Were not an everlasting blank?
+
+Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The BoM deals with the fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas are at some odds, and as the theory of evolution became more widespread it diverted a huge amount of theological focus from questions about the fall and infinite atonement to how to reconcile the bible with evolution (consider 
+
+compare infinite atonement, fall of Adam, with Charles Darwin, evolution, origin of species
+https://books.google.com/ngrams/graph?content=infinite+atonement%2CFall+of+Adam&case_insensitive=on&year_start=1650&year_end=2000&corpus=15&smoothing=4&share=&direct_url=t4%3B%2Cinfinite%20atonement%3B%2Cc0%3B%2Cs0%3B%3Binfinite%20atonement%3B%2Cc0%3B%3BInfinite%20atonement%3B%2Cc0%3B%3Binfinite%20Atonement%3B%2Cc0%3B%3BInfinite%20Atonement%3B%2Cc0%3B.t4%3B%2CFall%20of%20Adam%3B%2Cc0%3B%2Cs0%3B%3Bfall%20of%20Adam%3B%2Cc0%3B%3BFall%20of%20Adam%3B%2Cc0
+
+Later scientific studies would suggest the allegorical nature of the Tower of Babel and of a literal flood, yet the BoM treats these as literal events integral to the story arc.  Were the book written "for our day" we would expect Mormon at least a nod to the science that would undermine the literalness of these events.
+
+> While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.
+
+_The idea of felix culpa was already addressed above._
+
+> b. 2 Nephi 9:7 introduces for the first time the phrase "an infinite atonement," revealing the expansiveness, scope, and depth of Christ’s saving power.
+
+The phrase "infinite atonement" [was at least somewhat commonplace](https://www.google.com/search?q=%22infinite+atonement%22&lr=lang_en&biw=956&bih=936&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F31%2F1830&tbm=bks) as were discussions similar to those found in the BoM on the nature of the atonement.
+
+[The blogger churchistrue explained](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/):
+
+> In Joseph Smith’s day, we see a very mature dialogue on Christian subjects.  We have centuries of prior debate on topics such as original sin, free agency, infinite or finite nature of sin, infinite or finite nature of sacrifice of Jesus Christ, depravity of man, predestination, irresistible grace.  This discussion came naturally, with arguments being founded in the New Testament, and then added on.  Then someone adds on that.  Then someone combines a few different theories and adds something unique to it.  This is how ideas evolve.  We can trace ideas back through time to see the progression.   The Book of Mormon is beautiful in the sense that it distills these arguments in a masterful and logical way, taking the best of what was available and adding a few original concepts.  But it’s very difficult to assert that these Book of Mormon phrases and ideas could have come anciently and independently, without the body of work of centuries of Christian theologians to build upon.
+
+Here are some good examples of the discussion occuring just previous to the Book of
+Mormon (see [here](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) for more examples):
+
+> The inference that you draw from my saying, that "I did not believe an **infinite atonement** necessary in order for God to be just in the pardon of sin," I think, wants propriety.  If it be my belief that the Son of God is not the eternal infinite God, still I think you have no right to declare it from any thing that I have written to you. You say, "that in order to support" my "favourite system," I "find it *necessary*."  How so?  If it require an **infinite atonement** made by an infinite God to save a part of the human family is it necessary to have a **finite atonement** by a finite person to save the whole? ([A Correspondence, by letters, between Samuel C. Loveland, Preacher of the Doctrine of Universal Salvation, and Rev. Joseph Laberee, Pastor of the Congregational Church and Society in Jerico, Vermont.  1818. Windsor, Vermont. pg 51](https://books.google.com/books?id=DmuvUwk2J1MC&pg=PA32&dq=%22infinite+atonement%22&hl=en&sa=X&ved=0ahUKEwjmx9ntr6DRAhXKzVQKHekVAE0Q6AEIIzAA#v=onepage&q=%22infinite%20atonement%22&f=false))
+
+> I do not consider the necessity of an atonement as arising from the number of sins, but from the nature of them.  As the same *sun* which is necessary to enlighten the present inhabitants of the earth is sufficient to enlighten many millions more; and as the same perfect *obedience* of Christ which was necessary for the justification of one sinner, is sufficient to justify the millions that are saved; so, I apprehend the same **infinite atonement** would have been necessary for the salvation of one soul, consistently with justice, as for the salvation of a world. ([The Works of the Rev. Andrew Fuller, vol I. 1820. Philadelphi. pg 391](https://books.google.com/books?id=R2E3AAAAMAAJ&pg=PA391&dq=%22infinite+atonement%22&hl=en&sa=X&ved=0ahUKEwiG6POusqDRAhUkwFQKHQeCBFo4ChDoAQgzMAM#v=onepage&q=%22infinite%20atonement%22&f=false))
+
+> We maintain, that man is not created in a condition which makes an **infinite atonement** necessary; nor do we believe that any creature can fail into a condition, from which God may not deliver him, without this rigid expedient. [The Christian Pioneer. 1827. Glasgow](https://books.google.com/books?id=i4YVAAAAYAAJ&printsec=frontcover#v=onepage&q&f=false)
+
+>  But say the advocates of this doctrine, Jesus must be God and have made an **infinite atonement** for our sins, or our case is hopeless.  Why, what need for an **infinite atonement**?  If the sin of one man requires an infinite sacrifice, then there will be needed, just as many **infinite atonements** as there have been, or shall be sinners in the world; and just as many infinite Gods must become incarnate, and suffer in man's stead, as there will be sinners saved from infinite and endless wrath!!  Moreover if Christ have made an **infinite atonement** for the satisfaction of Divine justice, why will not all be saved?  Will God be unjust to himself?  Can he punish himself for no purpose?  O ye christians, when will ye admit the understanding God has given you, to vindicate the Divine character from such unhallowed aspersions? [A Course of Critical Lectures: Or, Systematical Theology, in Four Parts. John Samuel Thompson. 1825. Rochester, NY](https://books.google.com/books?id=BiY_AAAAYAAJ&pg=PR1&lpg=PR1&dq=course+of+critical+lectures+john+samuel+thompson&source=bl&ots=DE2bGg6o12&sig=nUZA8tSOgnGxgUMrRtPXtf_h54o&hl=en&sa=X&ved=2ahUKEwiwv7ma8oHcAhUIRa0KHYgSCmQQ6AEwAHoECAEQKg#v=onepage&q=%22infinite%20atonement%22&f=false)
+
+
+> c. Mosiah 2–5 is King Benjamin’s sermon. It gives insights about the depth of Christ’s suffering ...
+
+King Benjamin talks about actual blood coming from Jesus's pores, but that idea was [common in Joseph's time](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/).  Also note that the authenticity of the verses from Luke that seem to imply Jesus sweat blood is contested by many scholars (see [Blumell](http://rosetta.reltech.org/TC/v19/TC-2014-Blumell.pdf) and [Ehrman & Plunkett](https://www.jstor.org/stable/43716463?seq=1#page_scan_tab_contents)).
+
+> [King Benjamin's sermon gives insights about] the retroactive as well as prospective nature of Christ’s Atonement ...
+
+> [King Benjamin's sermon gives insights about] the power of the Atonement to remove our guilt as well as our sins ...
+
+The interplay between obedience, devotion and guilt seems to have been a topic
+of interest at the time.  For instance, consider John Gother's [Instructions
+and Devotions for the Afflicted and Sick](https://books.google.com/books?id=eV1gAAAAcAAJ&pg=PA49&dq=In+this+one+Point+consists+the+Sum+of+Christian+Perfection&hl=en&sa=X&ved=0ahUKEwjp2JfVxoHcAhUvja0KHdf1B6UQ6AEIKTAA#v=onepage&q=%22In%20this%20one%20Point%20consists%20the%20Sum%20of%20Christian%20Perfection%22&f=false) (pg 49):
+
+> In this one Point consists the Sum of Christian Perfection, to receive whatever happens with a peaceable Mind, as coming from the Hand of God; to cast all our Care on him, because he watches over us, and nothing befalls us but according to his Appointment.  In this Will of God is grounded all the Quiet and Peace of a Christian.  And tho' it be Sin from ourselves and not from him, yet in our Repentance ought we to be very careful not to fall into any Anxiety or Disquiet of Mind.  We are to be heartily sorry indeed for having offended our God, and even with Tears strive to wash away our Guilt, but this Sorrow must not destroy our inward Peace; we must earnestly beg God's Mercy, who has permitted us to fall that so we might be sensible of our Weakness, that so we may ever go on with Fear, and not deceive ourselves in taking that to be ours which is only the Gift of God.  We must wait with Patience, and a contrite Heart, the Grace of Amendment;for he is our Lord, and will come when he pleases.  The faithful and prudent Servant desires nothing, but the Will of his Master; and in every thing that happens he says from his Heart, _It is so, Father, because thus it has seemed good to thee: Thy will be done._  I am ready to submit to all thy Decrees: Wilt thou that I be in Health, or in Sickness?  Wilt thou refresh me with thy Comforts, or cover me with Darkness?  Wilt thou that I abound, or be in Want?  What thou wilt, that I will: Do with me as thou pleasest:  This is the Temper of a Mind indifferent to all the Appointments of God, that makes a Christian ever cheerful and constant, and secures him against all Disquiets.
+
+> Let my Soul be subject to my God; for who is there that resists him, and has Peace within?  If I am to keep Peace with all, let me in the first Place study to preserve my Peace with God; for I am but Dust and Ashes, and what can be sufficient to make me rebel against my Maker? Be thou my Help, O my God, and my Strength; support me in all Evils, and give me Patience; direct me in my Repentance, and whil I distrust myself, let me ever confide in thee; for thus only can I preserve my Peace with God.
+
+#### King Benjamin's speech similar to other early 1800s ideas
+
+A table?
+
+Mosiah 2:37 he dwelleth not in unholy temples
+compare with [Selections from the Works of Isaac Penington, New-Bedford, Massachusetts: 1818](https://books.google.com/books?id=BEgRAAAAIAAJ&pg=PA105&dq=%22unholy+temple%22&hl=en&sa=X&ved=0ahUKEwi9xqjg0bjJAhXPK4gKHV0vBTwQ6AEIIjAB#v=onepage&q=%22unholy%20temple%22&f=false)
+
+Mosiah 2:21 ... unprofitable servants
+Luke 17:9--10 ... unprofitable servants
+
+Mosiah 3:5 ...the Lord Omnipotent who reigneth
+Revelation 19:6 the Lord God omnipotent reigneth
+
+Mosiah 3:13 ... to every kinred, nation, and tongue ...
+Revelation 14:6 ... to every nation, and kindred, and tongue, and people ...
+
+Mosiah 3:17 salvation can come unto the children of men, only in and through the name of Christ the Lord Omnipotent.
+Acts 4:12 ...salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+
+Mosiah 3:18 become as little children
+Matthew 18:3 become as little children
+
+Mosiah 3:20 every nation, kindred, tongue, and people.
+Revelation 14:6 ... to every nation, and kindred, and tongue, and people ...
+
+Mosiah 3:21 the Lord God Omnipotent.
+Revelation 19:6 ...the Lord God omnipotent reigneth.
+
+Mosiah 3:27 their torment is as a lake of fire and brimstone whose flames are unquenchable and whose smoke ascendeth up forever and ever.
+Revelation 14:10--11 ...he shall be tormented with fire and brimstone in the presence of the holy angels... And the smoke of their torment ascendeth up for ever and ever
+
+Mosiah 4:6 prepared from the foundation of the world
+Matthew 25:34 ... prepared for you from the foundation of the world...
+
+Mosiah 4:9 Believe that he is
+Hebrews 11:6 ...believe that he is ...
+
+Mosiah 5:8 there is no other head whereby ye can be made free; there is no
+other name given whereby salvation cometh
+Acts 4:12 ...there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. 
+
+Mosiah 5:13 the thoughts and intents of his heart?
+Hebrews 4:12 ...the thoughts and intents of the heart.  
+
+Mosiah 5:15 be steadfast and immovable, always abounding in good works
+be ye stedfast, unmoveable, always abounding in the work of the Lord... 1
+Corinthians 15:58
+
+Mosiah 5:15 ...the Lord God Omnipotent...
+Revelation 19:6 the Lord God omnipotent 
+
 
 > d. Alma 7 explains that the Savior suffered not only for our sins but also for our “pains and afflictions and temptations of every kind” (Alma 7:11).
+
+  [The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
+
+> I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that I might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
+
 
 > e. 3 Nephi 11 is the most powerful witness we have of the resurrected Lord, as 2,500 believers, consisting of men, women, and children (see 3 Nephi 17:25) came forth and “thrust their hands into his side,” felt “the prints of the nails in his hands and in his feet,” and “did know of a surety and did bear record” (3 Nephi 11:15) that He was the Son of God. Who can read that account and not feel the witness of the Spirit testifying of its truthfulness?
 

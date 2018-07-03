@@ -14,3 +14,11 @@ As counselor in the First Presidency, Joseph Fielding Smith responded to a reque
     The doctrine concerning Adam has been distorted.  You may accept what has been given us by revelation, and I call your attention to the Doctrine and Covenants.  In Section 29, verses 23 to 34, you will find some interesting information in relation to Adam.  It is also true that Adam being the first man, will eventually preside over his posterity as outlined in the Doctrine and Covenants, Section 107, verses 53 to 56, and in Section 78: 15-16, which are as follows:
 
     "Who hath appointed Michael (Adam) your prince, and established his feet, and set him upon high, and given unto him the keys of salvation under the counsel and direction of the Holy One (Jesus Christ), who is without beginning of days or end of life." (Verse 16.)
+
+### Eve is the Mother of All Living
+
+> Consider Eve, the mother of all living. ...
+
+[Daughters in the Covenant](https://www.lds.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng)
+
+> Of all the words they could have chosen to define her role and her essence, both God the Father and Adam called Eve " the mother of all living " -- and they did so before she ever bore a child
