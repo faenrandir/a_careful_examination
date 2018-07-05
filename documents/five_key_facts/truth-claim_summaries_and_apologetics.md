@@ -1,17 +1,15 @@
-## Problems with LDS truth-claims
+# Summaries
 
-*Before reading about the problems, you may want to first consider [the pros and cons of investigating the truth-claim data](https://mormonbandwagon.com/bwv549/to-peak-behind-the-curtain/).*
-
-### Very short summaries
+## Very short
 
 * [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) (~ 1 page)
 * [Just One Page](https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
 * [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (~10 minute youtube video)
 
-### More significant summaries
+## More significant
 
 * [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive)
-* [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources)
+* [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
@@ -19,14 +17,14 @@
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
 * [The CES Letter](http://cesletter.com/) (the most famous compilation, by Jeremy Runnells)
 
-#### Other summaries
+## Other
 
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
 * [Questions to Ask](https://mormonbandwagon.com/bwv549/questions-to-ask/)
 
 *Additional resources and discussion can be found at [MormonThink](http://www.mormonthink.com/)[^mormonthink] and the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
-### Official and Apologetic Resources
+# Official LDS and Apologetic Resources
 
 * [Gospel Topics Essays](https://www.lds.org/topics/essays?lang=eng&old=true) (lds.org)
 * [Gospel Topics, Essays, and Other Resources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (lds.org)
@@ -36,11 +34,11 @@
 
 *Additional apologetic discussion may be found at the [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/).*
 
-#### Responses to the CES Letter
+## Responses to the CES Letter
 
 [The CES Letter](http://cesletter.com/) is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  Where he has responded, I've included a link to the response by Jeremy Runnells (author of The CES Letter).
 
-##### With responses by Runnells
+### With responses by Runnells
 
 * [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic) ([Runnell's response](http://cesletter.com/debunking-fairmormon/))
 * [Letter to a CES Director: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
@@ -49,12 +47,12 @@
 * [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](http://www.mormoninterpreter.com/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) ([Runnell's response](http://cesletter.com/apologetics/the-sky-is-falling-part-1.html))
 * ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/) ([Runnell's response](https://cesletter.org/apologetics/influential-anti-mormon-liar-debunks.html))
 
-##### Without responses by Runnells
+### Without responses by Runnells
 
 * [A Reply from a Former CES Employee](http://stallioncornell.com/blog/2016/04/01/a-reply-from-a-former-ces-employee/) (by Stallion Cornell)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
-## General pros/cons of the LDS lifestyle
+# General pros/cons of the LDS lifestyle
 
 * [Helps and Harms](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/852010ca825193b8e3e2913795f7f1a29a1963bd/documents/helps_and_harms/Helps_and_Harms.pdf) (1 page)
 * [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (in-depth analysis)
