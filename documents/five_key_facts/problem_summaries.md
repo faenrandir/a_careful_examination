@@ -40,13 +40,19 @@
 
 [The CES Letter](http://cesletter.com/) is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  Where he has responded, I've included a link to the response by Jeremy Runnells (author of The CES Letter).
 
+##### With responses by Runnells
+
 * [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic) ([Runnell's response](http://cesletter.com/debunking-fairmormon/))
 * [Letter to a CES Director: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
 * [Some Reflections On That Letter To a CES Director](http://www.fairmormon.org/fair-conferences/2014-fairmormon-conference/reflections-letter-ces-director) ([Runnell's response](http://cesletter.com/apologetics/a-zombies-reflections-on-that-mormon-apologists-reflections.html))
 * [Jeremy Runnells and the Book of Abraham](http://rationalfaiths.com/jeremy-runnells-book-abraham/) ([Runnell's response](http://cesletter.com/apologetics/the-book-of-abraham-except-for-those-willfully-blind-the-case-is-closed.html))
 * [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](http://www.mormoninterpreter.com/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) ([Runnell's response](http://cesletter.com/apologetics/the-sky-is-falling-part-1.html))
-* [A Reply from a Former CES Employee](http://stallioncornell.com/blog/2016/04/01/a-reply-from-a-former-ces-employee/) (by Stallion Cornell)
 * ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/) ([Runnell's response](https://cesletter.org/apologetics/influential-anti-mormon-liar-debunks.html))
+
+##### Without responses by Runnells
+
+* [A Reply from a Former CES Employee](http://stallioncornell.com/blog/2016/04/01/a-reply-from-a-former-ces-employee/) (by Stallion Cornell)
+* [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
 ## General pros/cons of the LDS lifestyle
 

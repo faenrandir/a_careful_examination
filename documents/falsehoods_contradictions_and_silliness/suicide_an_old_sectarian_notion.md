@@ -42,7 +42,7 @@ Apostle George Q. Cannon wrote in The Juvenile Instructor ([Volume 28, Pg. 352](
 
 > No encouragement of this kind should be given to anyone who has an inclination to commit suicide. For this reason a person who commits suicide should be buried privately and without ostentation, and certainly the funeral services should be conducted without the authorities of the Church lending their presence to the funeral. All should be taught that **it is a sin of great magnitude to take the life which the Creator has given them.**"
 
-Cannon also wrote ([Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false)) (and was quoted in the October 1984 General Conference by M. Russell Ballard):
+Cannon also wrote ([Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false)) (and was quoted in the [October 1987 Ensign article](https://www.lds.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
 
 > Man did not create himself. He did not furnish his spirit with a human dwelling place. It is God who created man, both body and spirit. Man has no right, therefore, to destroy that which he had no agency in creating. **They who do so are guilty of murder, self-murder it is true; but they are no more justified in killing themselves than they are in killing others**. What difference of punishment there is for the two crimes, I do not know; but it is clear that no one can destroy so precious a gift as that of life **without incurring a severe penalty**.
 
@@ -91,7 +91,7 @@ The logic that a person who commits suicide cannot be exalted based on having ki
 1. Those who commit suicide have killed (i.e., they killed themselves).
 2. Those who kill will not receive forgiveness in the life to come
 
-Is suicide killing?  The Apostle George Q. Cannon in [The Juvenile Instructor, Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false) taught (also quoted in the October 1984 General Conference by M. Russell Ballard):
+Is suicide killing?  The Apostle George Q. Cannon in [The Juvenile Instructor, Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false) taught (also quoted in the [October 1987 Ensign article](https://www.lds.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
 
 > Man did not create himself. He did not furnish his spirit with a human dwelling place. It is God who created man, both body and spirit. Man has no right, therefore, to destroy that which he had no agency in creating. **They who do so are guilty of murder, self-murder it is true; but they are no more justified in killing themselves than they are in killing others**. What difference of punishment there is for the two crimes, I do not know; but it is clear that no one can destroy so precious a gift as that of life **without incurring a severe penalty**.
 
