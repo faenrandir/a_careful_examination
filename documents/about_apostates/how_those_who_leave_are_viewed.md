@@ -158,6 +158,12 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
+###  will become grayhaired, wrinkled, and black, just like the Devil
+
+> I feel to bless this people, and they are a God-blessed people. Look at them, and see the difference from their condition a few years ago! Brethren who have been on missions, can you see any difference in this people from the time you went away until your return? [Voices: “Yes.“] You can see men and women who are sixty or seventy years of age looking young and handsome; but let them apostatize, and they will become grayhaired, wrinkled, and black, just like the Devil.
+
+Brigham Young, [Journal of Discourses, vol 5](http://jod.mrm.org/5/327), pg 332
+
 ### become darkened in their minds like a drunk
 
 > You have known men who, while in the Church, were active, quick and full of intelligence; but after they have left the Church, they have become contracted in their understandings, they have become darkened in their minds and everything has become a mystery to them, and in regard to the things of God... This is precisely the position of those who leave this Church; they go into the dark, they are not able to judge, conceive or comprehend things as they are. They are like the drunken man...
