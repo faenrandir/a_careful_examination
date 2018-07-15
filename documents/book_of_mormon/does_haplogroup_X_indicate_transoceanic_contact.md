@@ -13,3 +13,8 @@ Despite---or perhaps because of---this gap in the phylogeographic record for hap
 
 Thus, X2a does not provide any evidence for an ancient Hebrew migration from the Middle East to North America.
 
+---
+
+Ugo Perego, a believing LDS member, current institute director, and the foremost LDS expert on DNA markers and evolutionary genetics (author of 3 of the 5 papers on pubmed associated with haplogroup X2a), cites the above paper and also demonstrates why the data so convincingly suggests the X2a marker is best associated with a land-bridge migration and not any kind of direct Israel to the Americas transoceanic migration.
+
+[Ugo Perego: DNA and the Book of Mormon](https://vimeo.com/202998094) (Start at 1:24:00 and pay particular attention at 1:33:00)
