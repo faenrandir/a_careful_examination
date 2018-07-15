@@ -1,8 +1,8 @@
-## The Five Ironies of the Brotherton Affidavit
+## Martha Brotherton and the Five Ironies
 
 ### Introduction
 
-This document explores how five individuals---Joseph Smith, Elizabeth Brotherton, Parley P. Pratt, Heber C. Kimball, and Brigham Young---each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young.  However, the actions of these five individuals---who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy---would ultimately vindicate Martha's story.
+Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley P. Pratt, and Brigham Young---each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young, aided by Heber C. Kimball and Joseph Smith.  However, the actions of these five individuals---who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy---would ultimately vindicate the substance of Martha's story and hence her character.  This document presents the denunciations and the well-documented events which would later prove those denunciations misinformed, hollow, or even highly ironic.
 
 ### Background
 
