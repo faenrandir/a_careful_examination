@@ -2,11 +2,42 @@
 
 ### Introduction
 
-Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley P. Pratt, and Brigham Young---each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young, aided by Heber C. Kimball and Joseph Smith.  However, the actions of these five individuals---who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy---would ultimately vindicate the substance of Martha's story and hence her character.  This document presents the denunciations and the well-documented events which would later prove those denunciations misinformed, hollow, or even highly ironic.
+Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley P. Pratt, and Brigham Young---each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young, aided by Heber C. Kimball and Joseph Smith.  However, the actions of these five individuals---who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy---would ultimately vindicate the substance of Martha's story and hence her character.  This document presents the denunciations and the events which would later prove those denunciations misinformed, hollow, or even highly ironic.
 
 ### Background
 
-Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf), propositioned for marriage by Brigham Young with the help of Joseph Smith.  Sometime after the proposition event, a rumor began circulating that Martha had been "shut in a room for several days" and that "[various brethren of the 12] had endeavored to induce her to believe in having two wives...".
+Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf), propositioned for marriage by Brigham Young.
+
+The affidavit laid out the series of events leading up to and comprising the
+proposition.  The following key points are made:
+
+1. Heber C. Kimball and Brigham Young were acting in concert with Joseph Smith to arrange Young's proposition of Martha.
+2. Before sharing the nature of the proposition, Martha was made to promise that she would not share the nature of the questions (regarding the proposed marriage and polygamy) that she would be presented with.
+3. She was informed that Joseph Smith had received a revelation from God justifying a man in taking two wives, and that "as it was in the days of Abraham, so it shall be in these last days".
+4. Accepting the offer to be made a plural wife secured one's place in the celestial kingdom.
+5. The marriage would be performed without the knowledge of her parents (Fanny Alger, Partridges, Lucy Walker, etc..??).
+6. Pressure was applied to accept the proposition immediately.
+
+Potentially controversial aspects:
+
+* The purported statement of Brigham Young "I will have a kiss, any how".
+* The idea that Martha was locked into the room by Brigham Young as he went to get Joseph.
+
+Neither of these seem beyond the general character of Brigham Young.
+
+> I say, woe to you Eves if you proclaim or entertain feelings against this doctrine! Woe to every female in this Church who says, “I will not submit to the doctrine that God has revealed.” You will wake up by and by and say, “I have lost the crown and exaltation I might have gained had I only been faithful to my covenants and the revelations which God gave. I might have been crowned as well as you, but now I must go to another kingdom.” Be careful, O, ye mothers in Israel, and do not teach your daughters in future, as many of them have been taught, to marry out of Israel. Woe to you who do it; you will lose your crowns as sure as God lives. Be careful! [JOD](http://jod.mrm.org/12/93)
+
+
+> Emily, if you will not betray me, I will tell you something for your benefit.’ Of course I would keep his secret...he asked me if I would burn it if he would write me a letter. I began to think that was not the proper thing for me to do and I was about as miserable as I ever would wish to be...I went to my room and knelt down and asked my father in heaven to direct me...[At Joseph’s insistence] I could not speak to any one on earth...I received no comfort till I went back...to say I could not take a private letter from him. [EmilyAndEliza](http://www.wivesofjosephsmith.org/2021-EmilyandElizaPartridge.htm)
+
+Of the marriages, Emily said, “neither of us knew about the other at the time, everything was so secret.” [](http://www.wivesofjosephsmith.org/2021-EmilyandElizaPartridge.htm)
+
+"in early 1842 Heber C. Kimball apparently married his first plural wife." [Hales, The Prophet Secretly Teaches Polygamy](http://josephsmithspolygamy.org/history/nauvoo-polygamy-secretly/) (accessed 2018-07-15)
+"Heber C. Kimball was likely the second authorized polygamist in Nauvoo"
+[Hales, Other Mormon Leaders Practice Polygamy](http://josephsmithspolygamy.org/history/mormon-leaders-polygamy/)
+
+
+Sometime after the proposition event, a rumor began circulating that Martha had been "shut in a room for several days" and that "[various brethren of the 12] had endeavored to induce her to believe in having two wives...".
 
 Joseph Smith would [denounce the rumors](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf):
 
