@@ -306,7 +306,7 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
     > ... when one person purports to receive revelation for another person outside his or her own area of responsibility---such as a Church member who claims to have revelation to guide the entire Church or a person who claims to have a revelation to guide another person over whom he or she has no presiding authority according to the order of the Church---you can be sure that such revelations are not from the Lord. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 
-[^larsen_exchange]: A First Presidency Statement from 1912 canonized *a priori* rejection of spiritual communication not in harmony with accepted Church doctrine:
+[^larsen_exchange]: A First Presidency Statement from 1913 canonized *a priori* rejection of spiritual communication not in harmony with accepted Church doctrine:
 
     > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 

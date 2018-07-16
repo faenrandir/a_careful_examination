@@ -7,7 +7,7 @@ Steven E. Jones has compiled a list of horse bones and data [which suggest the e
 
 Book of Mormon Central points to a later fossil (~2540 YBP) discovered and dated by Wade Miller.  This find [has been published in BYU Studies](https://www.reddit.com/r/exmormon/comments/8dovks/an_attempt_to_account_for_the_use_of_horse_in_the/dxoyvsk/), but not in a scientific journal, yet.
 
-For additional discussion, see the bibliography associated with this Book of Mormon central article [here](http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf) and the Interpreter article [here](http://interpreterfoundation.org/animals-in-the-book-of-mormon-challenges-and-perspectives/).
+For additional discussion, see the bibliography associated with this Book of Mormon central article [here](https://bookofmormoncentral.org/qa/why-does-the-book-of-mormon-mention-horses) and the Interpreter article [here](http://interpreterfoundation.org/animals-in-the-book-of-mormon-challenges-and-perspectives/).
 
 Taken collectively, these findings suggest the possibility that horses may have existed on the American continent close to or during Book of Mormon times.  It is safe to say that the overwhelming scientific consensus remains that horses did not exist in the Americas during this time, but consenses tend to track well-validated data.  Only time and additional scrutiny will bring full resolution to this question.
 
