@@ -47,3 +47,7 @@ The prevailing thought in Joseph Smith's time was that horses were brought to th
 3. [along with "wheel carriage" tracks](https://archive.org/stream/naturalaborigina00hayw#page/162/mode/2up/search/horse) (which calls to mind the episode with horses and chariots in Alma 18 and later).
 
 So, while the book affirms the presupposition that the Europeans introduced horses it frequently presents evidence favoring the existence of pre-Columbian horses, and it does so in ways which parallel the usage of horses in the Book of Mormon.  Of course, if these various tracks of ancient appearance could be validated to the right time-frame then they could be used as evidence of a historical Book of Mormon, but as it stands these stories seem to lend greater plausibility to the modern origin model over the historical one.
+
+---
+
+acknowledgements: /u/JohnH2 offered useful critiques

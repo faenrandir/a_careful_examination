@@ -48,4 +48,31 @@ in outer darkness with Satan. Never to hear a word again from her, nor
 Christmas card or anything at all. NOTHING. (Although we had been close
 close before I left)
 
+https://www.reddit.com/r/exmormon/comments/8zrkzj/you_absolutely_will_become_an_enemy_to_the_very/
+
+During the peak of my so-called "faith crisis" as a TBM 6 years ago, I mistakenly confided in a local Priesthood leader. I ran across an old Facebook message that he had sent me. It's actually making me sick with anger as I re-read this. It reeks of astounding arrogance and disgusting shame and scare tactics - but at the time, I thought it was "inspired":
+
+"Let me begin by telling you that I love you and I genuinely care about you and the seriousness of your situation. I want to remind you that I am grateful for the discussions we have had and for the increase in my testimony because of those discussions.
+
+Now, the blatant truth is… I can’t help you. Actually, no one will be able to at this point. You have had more tender mercies, more spiritual witnesses, and more than enough answers that you were seeking - if you really wanted those answers. But, you don’t want those answers.
+
+Make no mistake about the fact that this has simply become a decision… not a trial. You’ve had the trial, received the answers, had many, many personal witnesses and now have decided to deny it all, in front of God, Angles (your ancestors) and Witnesses.
+
+My biggest concern for you has always been simply… you. I know that you are a bright, articulate, intelligent young lady, but for all of that I’m constantly amazed that rather than accept the miracles you have received, somehow it makes more sense to dismiss them as a figment of your imagination. But, that is what you have to do to allow yourself to walk away and convince yourself that the truths that you do indeed know to be true are in fact not true at all. I hear all of your arguments and they are vein repetitions of many before you who have left and eased the transition by ignoring a loving Father and the things they have “felt”.
+
+It isn’t that the soil isn’t good. It’s that even when you’ve planted and even when you seen the fruits of that faith, you’ve pulled the very plant out that is growing and tossed it in the trash because somehow the growing plant is not at all what you actually wanted to have happen.
+
+You read the scriptures with venom in your heart and though they are the voice of a Father who loves you - you reject them as a rebellious child who will not hear.
+
+Now, I would like you to read this final part very carefully. I don’t usually make any prophetic statements, but I prayed for you many, many times and I feel impressed now to tell you what the results of your decision will be.
+
+I’m not sure what direction your life will take without God and His counsel. But, it won’t be the life that it should have been. What I do know is that you will never be content to simply leave this church or to walk away from your Father. At some point, simply being passive about the decision you now make will not suffice. You will fight the very things you once embraced. You will mock the covenants which were once sacred to you. You already demean some of the sacred ordinances of the temple.
+
+The very gifts that you have been endowed with, that should be used to stand with you Father, will be used to fight Him like a defiant child.
+
+We will all have to pick a side as this world becomes increasingly wicked. Good will be touted as evil. God’s laws will be set aside as a suppression of our human “rights”. You will, in the end, stand with the very enemies of those that care for you and you will persecute those that love you. You absolutely will become an enemy to the very God you choose to deny.
+
+I’m sorry if this letter seems harsh, but it was written with all the love and concern I have. Remember, Alma the younger also fought God and denied him and still became a great and worthy witness.
+
+I will never give up my hope for you. I will hope you somehow decide to make a different choice – to become humble and use the gifts you have been given to serve the Father who loves you… who has told you and showed you His love."
 
