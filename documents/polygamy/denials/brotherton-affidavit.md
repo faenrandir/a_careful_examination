@@ -1,8 +1,26 @@
 ## Martha Brotherton Affidavit
 
-Published in local newspapers like the [Quincy Whig, August 6, 1842](https://ia902608.us.archive.org/4/items/QuincyWhig06August1842/Quincy%20Whig%2006%20August%201842_text.pdf) and in [Bennett's History of the Saints expose](https://archive.org/stream/historysaints00benngoog#page/n247/mode/1up).
+### Background
 
-[josephsmithspolygamy.org](http://josephsmithspolygamy.org/history/changes-in-february-1842/): "Martha H. Brotherton, Affidavit dated July 13, 1842, Native American Bulletin 1 (July 16, 1842), St. Louis. It was also republished in the Sangamo Journal 10 (July 22, 1842), Springfield, Illinois; the Warsaw Signal, July 23, 1842; New York Herald, 8 (July 25, 27, 1842); and John C. Bennett, The History of the Saints: Or an Exposé of Joe Smith and Mormonism (Boston: Leland & Whiting, 1842), 236–40."
+First published [in the St. Louis American Bulletin on July 16th](http://www.sidneyrigdon.com/dbroadhu/MO/miscstl2.htm#071642), Martha's affidavit would go on to be published in other local newspapers like the [Quincy Whig, August 6, 1842](https://ia902608.us.archive.org/4/items/QuincyWhig06August1842/Quincy%20Whig%2006%20August%201842_text.pdf) and finally in [Bennett's History of the Saints expose](https://archive.org/stream/historysaints00benngoog#page/n247/mode/1up).[^jspolygamy]
+
+The account in the St. Louis American Bulletin is prefaced by a salutation to Bennett and an explanation of the context behind the affidavit:
+
+> Gen. John C. Bennett. 
+
+> DEAR SIR: -- I left Warsaw a short time since for this city, and having been called upon by you, through the "Sangamo Journal," to come out and disclose to the world the facts of the case in relation to certain propositions made to me at Nauvoo, by some of the Mormon leaders, I now proceed to respond to the call, and discharge what I consider to be a duty devolving upon me as an innocent, but insulted and abused female. [the affidavit text follows]
+
+The rest of the text in the St. Louis American Bulletin is exactly the same as the one published in Bennett's with only minor spelling and punctuation differences between the versions.
+
+Persuitte notes that after the proposition ([pg 246](https://books.google.com/books?id=5Zx9qOay304C&q=Martha+Brotherton#v=onepage&q=%22She%20reported%20the%20matter%20to%20her%20parents%22&f=false)):
+
+> She [Martha] reported the matter to her parents, who angrily spread the story around Nauvoo before they and Martha left for St. Louis in a huff. 
+
+"Uncle Dale" (from Uncle Dale's readings in Early Mormon History) notes:
+
+> John C. Bennett solicited the statement of Miss Martha Brotherton during the second week of July, while he was visiting St. Louis. Miss Brotherton's statement was originally intended for publication in the prestigious, high-circulation Missouri Republican. In its issue of [July 15, 1842](http://www.sidneyrigdon.com/dbroadhu/MO/Misr1841.htm#071542) the Republican stated that Bennett's expose materials were not printed, due to lack of space. They were instead published in the July 14 and 16, 1842 issues of the Native American Bulletin. The Brotherton statement was widely reprinted in many other U. S. newspapers; see, for example, the Warsaw Signal of [July 23, 1842](http://www.sidneyrigdon.com/dbroadhu/IL/sign1842.htm). the Louisville Journal of [July, 25, 1842](http://www.sidneyrigdon.com/dbroadhu/SO/miscsout.htm#072542); the New York Herald of [July 25, 1842](http://www.sidneyrigdon.com/dbroadhu/NY/miscNYC2.htm#072542); the Alton Telegraph of [July 30, 1842](http://www.sidneyrigdon.com/dbroadhu/IL/altn1838.htm#063042), and the Quincy Whig of [Aug. 6, 1842](http://www.sidneyrigdon.com/dbroadhu/IL/whig1842.htm#0806). It was through the wide circulation of this statement that the secret Mormon polygamy at Nauvoo first received nation-wide attention. Bennett supplies essentially the same information from Brotherton on pp. 236-240 of his 1842 book, History of the Saints.
+
+### Affidavit
 
 The below is taken from John C, Bennett, History of the Saints, 236–240.
 
@@ -43,3 +61,7 @@ Sworn to and subscribed before me, this 13th day of July, A. D. 1842.
 Du Bouffay Fremon,
 
 Justice of the Peace for St. Louis County.
+
+---
+
+[^jspolygamy]: [josephsmithspolygamy.org](http://josephsmithspolygamy.org/history/changes-in-february-1842/): "Martha H. Brotherton, Affidavit dated July 13, 1842, Native American Bulletin 1 (July 16, 1842), St. Louis. It was also republished in the Sangamo Journal 10 (July 22, 1842), Springfield, Illinois; the Warsaw Signal, July 23, 1842; New York Herald, 8 (July 25, 27, 1842); and John C. Bennett, The History of the Saints: Or an Exposé of Joe Smith and Mormonism (Boston: Leland & Whiting, 1842), 236–40."
