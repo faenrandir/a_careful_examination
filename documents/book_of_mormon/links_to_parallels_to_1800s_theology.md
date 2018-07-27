@@ -30,6 +30,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
 1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
 1. [Historical Influences on the Book of Mormon](http://www.mormonthink.com/influences.htm#part2) (Thomas Donofrio)
+1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
