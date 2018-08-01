@@ -33,7 +33,7 @@ As published in Kathleen Kimball Melonakos, Secret Combinations: Evidence of Ear
 
 Reddit user /u/astronautsaurus has been transcribing the writings of John Smith and pointing out similarities between his writings and the Book of Mormon (and LDS theology generally).
 
-_Note: I've slightly abridged and compiled the work below as well as made some minor adjustments for clarity and tone, softening some of the commentary (e.g., "undoubtedly -> "seems to be"), etc.  Consult the originals (which I linked to for each heading) for astronautsaurus's exact verbiage_
+_Note: I've slightly abridged and compiled the work below as well as made some minor adjustments for clarity and tone, softening some of the commentary (e.g., "undoubtedly -> "seems to be"), and correction of some mistakes (this John Smith was not JS's uncle) etc.  Consult the originals (which I linked to for each heading) for astronautsaurus's exact verbiage_
 
 ### [Pt 1 - planetary motion indicates God](https://www.reddit.com/r/exmormon/comments/8kdop7/rev_john_smith_v_the_bom_pt1/)
 
@@ -236,7 +236,7 @@ The Book of Mormon quotes 30% of Isaiah, most of which is found in 2 Nephi. Thes
 
 Summary: John Smith's favorite OT prophet to quote was Isaiah.
 
-In the manuscripts of John Smith (Joseph's uncle), written 30 years prior, Isaiah is the most quoted Old Testament prophet (I've seen Isaiah 40,42,49,53 quoted so far, up to Ch.9), used to support the veracity of the scriptures. To prove that the prophecies of Isaiah have been fulfilled,
+In the manuscripts of John Smith written 30 years prior, Isaiah is the most quoted Old Testament prophet (I've seen Isaiah 40,42,49,53 quoted so far, up to Ch.9), used to support the veracity of the scriptures. To prove that the prophecies of Isaiah have been fulfilled,
 
 > These predictions have been exactly fulfilled. (Ch9.Pt1).
 
@@ -259,13 +259,3 @@ Next in 2 Nephi 25:24-25, Nephi says:
 Previous to John Smith's single largest quotation of Isaiah (Ch.53), he writes this about the purpose of scriptures:
 
 > **They endeavour to convince men of the insufficiency of forms and ceremonies, without unfeined love to God and man, and that obedience to the moral law which is of more importance than "sacrifices and burnt offerings.**
-
----
-
-Give the previous cross points between John Smith's writings and the BoM, this has to be more than serendipity. 
-
-Please correct me if I'm wrong, but most of 2 Nephi is a riff on the chord of quoting Isaiah, anachronistic usage of the name Jesus Christ, how awesome Christ is, and the downplaying of the Law of Moses in favour of the higher moral law that Christ would come deliver. All of which comes from the OG chord played by John Smith.
-
-Imagine a frustrated Joseph, having lost the 116 pages, returning to write the beginning chapters again. Pressed for time, he takes a page from his old uncle's favorite prophet to pad content, or buy time to think up the next story beats. 
-
-John Smith's theology seems to be the kernel around which Mormonism is built.

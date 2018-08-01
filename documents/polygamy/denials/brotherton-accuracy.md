@@ -1,12 +1,24 @@
+title: How accurate was Martha Brotherton's affidavit?
+---
 
-
-The possibility exists given that Bennett was in St. Louis while she was there.
-No direct evidence exists that Bennett ever met Brotherton or influenced her
-affidavit.  
 
 Bennett is a complicated source.  On some level, it is clear that he had access to inside information that has been verified by scholars over time (for instance, he was able to indicate by initials many of Joseph's early polygamous wives).  At the same time, [he was a serial adulterer](http://mormonpolygamydocuments.org/john-c-bennett-joseph-smiths-polygamy-addressing-question-reliability/), and [it is difficult to interpret many of his statements as anything but lies](https://archive.org/stream/jmormhist.42.3.0094#page/n1/mode/1up).  So, there are very good reasons to consider Bennett a compromised and untrustworthy source, generally.
 
 Martha had been a faithful Saint, emigrating from England with her family to settle in Nauvoo.  There can be little doubt that a genuine proposition event triggered Martha to tell her parents, causing them to spread news of the proposition among the Saints and that would convince them to leave Nauvoo even though they would leave two sisters behind.
+
+
+### No evidence for a meeting
+
+Though they may have both been in St. Louis at the same time, there is no evidence to suggest that Bennett ever met with Martha or helped her prepare her affidavit.
+
+### Correspondence was via newspaper published letters
+
+The only record we have of Bennett influencing Martha comes from Martha's letter published in the St. Louis Bulletin.  Martha explains (emphasis added):
+
+> DEAR SIR [to Bennett]: -- I left Warsaw a short time since for this city, and having been called upon by you, **through the "Sangamo Journal,"** to come out and disclose to the world the facts of the case in relation to certain propositions made to me at Nauvoo, by some of the Mormon leaders, I now proceed to respond to the call, and discharge what I consider to be a duty devolving upon me as an innocent, but insulted and abused female. 
+
+So, the evidence suggests that Martha read the paper and then corresponded with Bennett via letter to the St. Louis American Bulletin.  The evidence does not rule out a direct meeting or additional collusion, but _prima facia_, Brotherton did not meet with Bennett.
+
 
 Restoration of OT polygamy?
 
