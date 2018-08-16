@@ -162,7 +162,7 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 > I feel to bless this people, and they are a God-blessed people. Look at them, and see the difference from their condition a few years ago! Brethren who have been on missions, can you see any difference in this people from the time you went away until your return? [Voices: “Yes.“] You can see men and women who are sixty or seventy years of age looking young and handsome; but let them apostatize, and they will become grayhaired, wrinkled, and black, just like the Devil.
 
-Brigham Young, [Journal of Discourses, vol 5](http://jod.mrm.org/5/327), pg 332
+Brigham Young, [JOD, vol 5](http://jod.mrm.org/5/327), pg 332
 
 ### become darkened in their minds like a drunk
 
@@ -182,11 +182,25 @@ Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Per
 
 Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
+### make friends with the wicked and are Anti-Christ
+
+> What is proved by people's leaving us, before the heavens, before the angels, and all the Prophets and holy men who ever lived upon the earth? You will see every man and woman, when they once consent to leave here, I don't care what name they are known by, whether Morrisites, Gladden Bishopites, Josephites, or any other ite, they make friends with the wicked—with those who blaspheme the holy name we have been commemorating here this afternoon, and they are full of malice and evil. Whenever any person wants to leave here, the thread is broken that bound him to the truth, and he seeks the society of the wicked; and it proves to everybody who has the light of truth within them, that this is the kingdom of God, and that those who leave are of Anti-Christ.
+
+Brigham Young, [JOD vol 10](http://jod.mrm.org/10/289), pg 297
+
 ### may have been deceived by false prophets
 
 > Some members are deceived by false prophets. [tells account of Hiram Page]
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+
+### will have no forgivenss and seek or consent to shed innocent blood
+
+Those who had the Gospel in the former dispensations, and were made partakers of its spirit, its knowledge, and its powers, and then turned away, and became the enemies of God, and of his saints, the malicious and wilful opposers of that which they knew to be true, have no forgiveness in this world, neither in the spirit world, which is the world next to come.
+
+Such apostates seek, in all dispensations, to bring destruction on the innocent and to shed innocent blood, or consent thereto. For such, I again repeat, I know no forgiveness.
+
+Parley P. Pratt, [Journal of Discourses, vol 1, pg. 11](http://jod.mrm.org/1/6)
 
 ### began to stray because of trifling affairs
 
@@ -259,6 +273,12 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 > I testify that we can avoid the mists of darkness that lead to personal apostasy by repenting of our sins, overcoming offense, eliminating faultfinding, and following our Church leaders."
 
 [Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
+
+### if bitter, have a presence of darkness
+
+> Remember: when you see the bitter apostate, you do not see only an absence of light, you see also the presence of darkness. Do not spread disease germs.
+
+Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Seminary: Preservice Readings](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-mantle-is-far-far-greater-than-the-intellect?lang=eng)
 
 ### may have taken on Satanic premises which are poisonous
 
@@ -334,11 +354,37 @@ Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
 Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.byu.edu/jod/jodhtml.php?vol=12&disc=20)
 
+### should clear out or risk being knifed
+
+Brigham Young recounted a dream where apostates claimed to be Mormon, and then to have been Mormon.  Young recounted his feelings in his dream, "I felt ashamed of them, for they were in my eyes a disgrace to 'mormonism.'"  Young then dreams that two ruffians were jumping into bed with one of Young's wives and children [sexual license may be implied?] and being supported in this by the apostates.  In the dream, Young then recounts cutting the throats of two ruffians (one "ear to ear") and then threatened others with the same fate.  Finally, Young exclaims to the crowd:
+
+> I say, rather than that apostates should flourish here, I will unsheath my bowie knife, and conquer or die. [Great commotion in the congregation, and a simultaneous burst of feeling, assenting to the declaration.] Now, you nasty apostates, clear out, or judgment will be put to the line, and righteousness to the plummet. [Voices, generally, “go it, go it.“] If you say it is right, raise your hands. [All hands up.] Let us call upon the Lord to assist us in this, and every good work.
+
+Brigham Young, [JOD vol 1](http://jod.mrm.org/1/81), pg 83
+
 ### are despicable, are traitors, are not respected, have little honesty, and betrayed their friends
 
 > If there is a despicable character on the face of the earth, it is an apostate from this Church. He is a traitor who has deceived his best friends, betrayed his trust, and forfeited every principle of honor that God placed within him. They may think they are respected, but they are not. They are disgraced in their own eyes. There is not much honesty within them; they have forfeited their heaven, sold their birthright, and betrayed their friends.
 
 Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.byu.edu/jod/jodhtml.php?vol=12&disc=20)
+
+### will never reach the promised land (implied)
+
+> We board the Good Ship Zion and sail with her wher­ev­er she goes until she comes into that mil­len­ni­al port. We stay in the boat, through squalls and stills, through storms and sun­burn, because that is the only way to the promised land.
+
+Jeffrey R. Holland, [April General Conference 2004](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng)
+
+### have no place to go and will incur an unforseen impact (implied)
+
+> If you choose to become inac­tive or to leave the restored Church of Jesus Christ of Lat­ter-day Saints, where will you go? What will you do? The deci­sion to ‘walk no more’ with Church mem­bers and the Lord’s cho­sen lead­ers will have a long-term impact that can­not always be seen right now.
+
+M. Russell Ballard, [October General Conference 2016](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng)
+
+### experience negative long-term consequences (implied)
+
+> they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
+
+M Russell Ballard, [October General Conference 2014](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng)
 
 ### may be put out of existence (implied)
 
@@ -352,7 +398,7 @@ Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.b
 
 Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
-### are spiritually dead (implied)
+### will die spiritually (implied)
 
 > Like the dead sequoia, these Church members once received their spiritual nourishment from the well of living water offered by Jesus Christ, but having been disconnected for one reason or another from that source, their spirit was dulled, and they eventually died spiritually.
 
