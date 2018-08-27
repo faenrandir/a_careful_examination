@@ -19,7 +19,7 @@ email: faenrandir@gmail.com
 description: >-
   Research and thoughts on truth-claims related to and consequences of
   membership in The Church of Jesus Christ of Latter-day Saints (aka Mormons).
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/a_careful_examination" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
