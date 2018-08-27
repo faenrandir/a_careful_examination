@@ -1,5 +1,11 @@
+---
+title: Book of Mormon parallels to 1800s thought
+permalink: BoM-parallels-to-1800s-thought
+categories: [Book of Mormon, Truth-Claims]
+layout: page
+---
 
-# Book of Mormon parallels to 1800s thought
+### Introduction
 
 Richard Bushman, well-known Mormon historian, [recently stated](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/49dfa3ec8b053e283fcd0643764907e3ccdf112c/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf):
 
