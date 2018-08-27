@@ -1,4 +1,7 @@
-## Familiarity with LDS scholarship
+---
+title: Familiarity with LDS scholarship
+permalink: /familiarity-with-lds-scholarship/
+---
 
 For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, I've studied fairly extensively:
 

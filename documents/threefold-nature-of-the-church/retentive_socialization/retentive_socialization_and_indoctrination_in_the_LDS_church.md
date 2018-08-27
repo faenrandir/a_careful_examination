@@ -1,7 +1,8 @@
 ---
 title: LDS Indoctrination and Retentive Socialization 
-permalink: LDS-indoctrination-and-retentive-socialization
+permalink: /lds-indoctrination-and-retentive-socialization/
 categories: [Psychology, Consequences]
+resource: true
 layout: page
 ---
 

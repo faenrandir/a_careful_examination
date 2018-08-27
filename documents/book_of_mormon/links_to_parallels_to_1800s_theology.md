@@ -1,8 +1,9 @@
 ---
 title: Book of Mormon parallels to 1800s thought
-permalink: BoM-parallels-to-1800s-thought
+permalink: /bom-parallels-to-1800s-thought/
 categories: [Book of Mormon, Truth-Claims]
 layout: page
+resource: true
 ---
 
 ### Introduction

@@ -1,4 +1,8 @@
-## Brief Sketch of Events Surrounding My Resignation
+---
+title: Brief Sketch of Events Surrounding My Resignation
+permalink: /sketch-of-my-faith-journey/
+layout: page
+---
 
 ### My Spiritual and Apologetic Background
 
@@ -49,7 +53,7 @@ At least to this point, I have found that the contours of life and friendship re
 
 [^antimormon]: Mormon apologist and scholar Grant Hardy [recommends retiring the term "anti-mormon."](http://www.fairmormon.org/fair-conferences/2016-fairmormon-conference/more-effective-apologetics)  I only use it because readers are likely to easily understand the label, not because I feel it is especially accurate.
 
-[^apologetics]:  I studied the LDS apologetic arguments intensely [for the last 20 years](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38eb9c6550e3eadbb32073ad8cbf79091a0f3431/documents/my_journey/familiarity_with_lds_apologetics.pdf).
+[^apologetics]:  I studied the LDS apologetic arguments intensely [for the last 20 years]({{ site.baseurl }}{% link documents/my_journey/familiarity_with_lds_apologetics.md %}).
 
 [^majorpoints]: Many of the issues that piled up for me revolved around actively trying to *harmonize* the Gospel with the scientific record (e.g., evolution, no death before the fall, the Garden of Eden in Missouri, a global flood, etc.).  In addition, three exceptional individuals I associated with during my time at BYU exposed me to alternative models and perspectives:
 

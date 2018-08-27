@@ -14,15 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Careful Examination
+author: bwv549
 email: faenrandir@gmail.com
+category-list: [Book of Mormon, Truth-Claims, Psychology, Consequences]
 
 description: >-
-  Research and thoughts on truth-claims related to and consequences of
-  membership in The Church of Jesus Christ of Latter-day Saints (aka Mormons).
+  Research and thoughts on truth-claims related to, and consequences of
+  membership in, The Church of Jesus Christ of Latter-day Saints ("Mormon Church).
 baseurl: "/a_careful_examination" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+# instead of _site
+destination: docs
 
 header_pages:
   - about.md
