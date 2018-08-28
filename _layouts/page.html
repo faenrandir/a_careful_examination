@@ -4,7 +4,15 @@ layout: default
 <article class="post">
 
   <header class="post-header">
+    {% if page.resource %}
+    <h1 class="resource-post-title">{{ page.title | escape }}</h1>
+    {% else %}
     <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endif %}
+
+    {% if page.featuredimage %}
+    <img class="featuredimage" src="{{ page.featuredimage | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
+    {% endif %}
   </header>
 
   <div class="post-content">

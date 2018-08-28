@@ -1,9 +1,10 @@
 ---
 title: LDS Indoctrination and Retentive Socialization 
 permalink: /lds-indoctrination-and-retentive-socialization/
-categories: [Psychology, Consequences]
+categories: [Sociology and Psychology]
 resource: true
 layout: page
+featuredimage: /media/a-crater-lake.jpg
 ---
 
 ## Introduction
@@ -341,9 +342,7 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 
 A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and, outside of the veridicalness of LDS truth-claims, might help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
 
----
-
-**Acknowledgements:**
+### Acknowledgements
 
 * Some personal communication with Benjamin Beit-Hallahmi influenced the general approach of this document.
 * Reddit user JohnH2 provided valuable critique's of an early draft of this work which eventually prompted me to write this draft (he also provided useful critique of this draft).
