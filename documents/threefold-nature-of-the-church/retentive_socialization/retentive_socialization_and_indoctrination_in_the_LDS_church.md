@@ -6,8 +6,6 @@ resource: true
 layout: page
 ---
 
-# LDS Indoctrination and Retentive Socialization
-
 ## Introduction
 
 In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/), Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) of the Church of Jesus Christ of Latter-day Saints (emphasis added):
