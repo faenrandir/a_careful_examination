@@ -345,7 +345,7 @@ Needless to say, Paradise Lost was hugely influential before and after Joseph Sm
 
 > a. 2 Nephi 2 is a mind-expanding sermon on the relationship between the Fall and Christ’s Atonement. 
 
-2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/afa5b85f5a309c31f4f581035e75b554ca63dbd7/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf).  Viewing the fall in a positive light was not original to the BoM.
+2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf).  Viewing the fall in a positive light was not original to the BoM.
 
 In addition, [the poetry of David Hitchcock](https://archive.org/stream/poeticalworksda00hitcgoog#page/n30/mode/2up/search/Why+did+he+not+prevent+the+fall) (first brought to my attention [by Rick Grunder](http://www.rickgrunder.com/parallels.htm)) discusses the Fall in very similar terms as 2 Nephi (emphasis added):
 

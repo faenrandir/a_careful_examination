@@ -42,7 +42,7 @@ Richard Bushman, a well-known Mormon historian, [recently stated](https://docs.g
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
-The number of [similarities with early 1800s thought is _extensive_](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/d0b5325a2456a55ac2748109a9719346b5a292b5/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  All of those teachings were in JS's milieu (also see [echoes](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/539a20a74e3b4138648955aa6ece2aecdb791197/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)).
+The number of [similarities with early 1800s thought is _extensive_](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/d0b5325a2456a55ac2748109a9719346b5a292b5/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  All of those teachings were in JS's milieu (also see [echoes](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)).
 
 > Baptism by immersion...yep
 
