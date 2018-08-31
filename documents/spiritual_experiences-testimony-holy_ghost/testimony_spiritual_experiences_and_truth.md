@@ -1,8 +1,10 @@
-% Testimony, spiritual experiences, and truth: A careful examination
-% bwv549
-% Last updated 2016-05-24
-
-(note: This article is an updated version of my original [Rational Faiths article](http://rationalfaiths.com/testimony-spiritual-experiences-and-truth-a-careful-examination/))
+---
+title: Testimony, spiritual experiences, and truth: A careful examination
+permalink: /testimony-spiritual-experiences-truth/
+layout: page
+resource: true
+categories: [Truth Claims]
+---
 
 # Introduction
 

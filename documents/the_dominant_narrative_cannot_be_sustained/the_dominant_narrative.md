@@ -1,3 +1,8 @@
+---
+title: The Dominant Narrative and Apologetic Fallback
+layout: page
+---
+
 # The Dominant Narrative
 
 Many apologists admit that the standard Mormon narrative we are taught to believe in Church is difficult to sustain given the data:
