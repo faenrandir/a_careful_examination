@@ -1,7 +1,9 @@
 ---
 title: How those who leave the LDS Church are viewed
-layout: page
 permalink: /how-those-who-leave-are-viewed/
+doctype: listing
+categories: [Faith Transitions]
+layout: page
 ---
 
 ## Introduction

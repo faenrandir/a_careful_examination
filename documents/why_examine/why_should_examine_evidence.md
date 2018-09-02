@@ -1,6 +1,10 @@
-% To peek behind the curtain: the decision to critically investigate LDS truth-claims
-% bwv549
-% 2016-11-01
+---
+title: "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
+permalink: /to-peak-behind-the-curtain/
+categories: [Questioning]
+doctype: resource
+layout: page
+---
 
 # Why *not* investigate?
 

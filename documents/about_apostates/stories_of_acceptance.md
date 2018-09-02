@@ -1,4 +1,8 @@
-## Stories of acceptance
+---
+titles: Stories of Acceptance
+categories: [Faith Transitions]
+layout: page
+---
 
 Many believing members are supportive of those who decide to leave the LDS Church.
 

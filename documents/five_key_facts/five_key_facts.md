@@ -1,3 +1,11 @@
+---
+title: Five Key Facts
+permalink: /five-key-facts/
+categories: [Truth-Claims]
+doctype: resource
+layout: page
+---
+
 This is a very short summary of what I view as the 5 most important facts in understanding alternative models for LDS truth claims.  To the best of my knowledge, every point made in this document is accepted as factual by both LDS and non-LDS scholars (please correct me if I am mistaken and I will alter the document).[^hales]
 
 ## 1. The 3rd facsimile is incorrectly translated

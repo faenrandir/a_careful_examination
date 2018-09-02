@@ -1,5 +1,6 @@
 ---
 title: Never love your wives one hair's breadth further than they adorn the Gospel
+doctype: snippet
 layout: page
 ---
 
