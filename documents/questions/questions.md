@@ -1,3 +1,11 @@
+---
+title: Questions to Ask
+permalink: /questions-to-ask/
+categories: [Truth-Claims]
+resource: true
+layout: page
+---
+
 ## Introduction
 
 These questions are designed to probe various aspects of the LDS Church's history and truth-claims.[^other_questions]  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders.

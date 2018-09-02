@@ -1,4 +1,10 @@
-# The Shunning Key: *Whom* Mormons shun and *why*
+---
+title: "The Shunning Key: Whom Mormons shun and why"
+permalink: /the-shunning-key/
+categories: [Faith transitions]
+resource: true
+layout: page
+---
 
 ## Introduction
 
