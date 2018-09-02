@@ -1,7 +1,7 @@
 ---
 title: The 50/50 Scenario
 categories: [Neo-Apologetics]
-resource: true
+doctype: resource
 layout: page
 ---
 

@@ -2,7 +2,7 @@
 title: Testimony, spiritual experiences, and truth: A careful examination
 permalink: /testimony-spiritual-experiences-truth/
 layout: page
-resource: true
+doctype: resource
 categories: [Truth Claims]
 ---
 

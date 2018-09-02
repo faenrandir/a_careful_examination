@@ -2,7 +2,7 @@
 title: LDS Indoctrination and Retentive Socialization 
 permalink: /lds-indoctrination-and-retentive-socialization/
 categories: [Sociology and Psychology]
-resource: true
+doctype: resource
 layout: page
 featuredimage: /media/a-crater-lake.jpg
 ---

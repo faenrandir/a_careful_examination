@@ -1,3 +1,12 @@
+---
+title: Faith of a naturalist: response to “Faith of a Science Teacher” questions
+permalink: /faith-naturalist-response-faith-science-teacher-questions/
+categories: [Truth-Claims]
+doctype: communication
+layout:page
+---
+
+
 ### Introduction
 
 On February 12, 2017, [The Faith of a Science Teacher](https://thefaithofascienceteacher.blogspot.com/) published a post entitled "[Questions about the Church and Gospel of Jesus Christ](https://thefaithofascienceteacher.blogspot.com/2017/02/questions-about-church-and-gospel-of.html)".  I think many of these questions are very poignant.  Having thought for many years about these same kinds of questions, I decided to offer up some responses.

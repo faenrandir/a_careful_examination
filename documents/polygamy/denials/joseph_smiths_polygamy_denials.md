@@ -1,4 +1,10 @@
-# Joseph Smith's Polygamy Denials
+---
+title: Joseph Smith's Polygamy Denials
+permalink: /joseph-smith-polygamy-denials/
+resources: true
+categories: [Polygamy]
+layout: page
+---
 
 ### Introduction
 

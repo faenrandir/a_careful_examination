@@ -2,7 +2,7 @@
 title: Questions to Ask
 permalink: /questions-to-ask/
 categories: [Truth-Claims]
-resource: true
+doctype: resource
 layout: page
 ---
 

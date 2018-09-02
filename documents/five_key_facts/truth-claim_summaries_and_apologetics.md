@@ -1,3 +1,10 @@
+---
+title: Truth-claim summaries and apologetics
+permalink: /truth-claim-summaries/
+categories: [Truth-Claims]
+doctype: resource
+layout: page
+---
 # Summaries
 
 ## Very short
