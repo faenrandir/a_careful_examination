@@ -1,5 +1,5 @@
 ---
-title: Testimony, spiritual experiences, and truth: A careful examination
+title: "Testimony, spiritual experiences, and truth: A careful examination"
 permalink: /testimony-spiritual-experiences-truth/
 layout: page
 doctype: resource

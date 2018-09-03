@@ -2,17 +2,22 @@
 layout: home
 ---
 
-{% for cat in site.category-list %}
-### {{ cat }}
+## Pages
+
 <ul>
   {% for page in site.pages %}
-    {% if page.resource == true %}
-      {% for pc in page.categories %}
-        {% if pc == cat %}
-          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- page-category -->
-    {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
+     {% if page.doctype %}
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+     {% endif %}
+  {% endfor %}
 </ul>
-{% endfor %}  <!-- cat -->
+
+## Other junk
+
+<ul>
+  {% for page in site.pages %}
+     {% if page.doctype == null %}
+      <li>{{ page.title }} ==> {{ page.url }} </li>
+     {% endif %}
+  {% endfor %}
+</ul>

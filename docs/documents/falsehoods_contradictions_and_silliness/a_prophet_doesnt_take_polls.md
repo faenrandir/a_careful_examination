@@ -12,6 +12,7 @@ https://drive.google.com/file/d/0B3IkLXv-jPlVTHJBeEFRNXN3RWc/view) or [here](htt
 5. Poll from the Presidency of the Seventy to monitor the impact of the focus on Sabbath day observance [here](https://www.reddit.com/r/exmormon/comments/46n0xq/yet_another_poll_from_the_people_who_dont_take_a/)
 6. A survey inquiring about members' experiences visiting the Washington DC Temple Visitors’ Center. [here](https://mormonleaks.io/wiki/documents/5/55/Survey_DC_Temple_Visitors_Center.pdf)
 7. A survey regarding the perceived influence of the LDS Church in Utah politics. [here](https://mormonleaks.io/wiki/documents/1/1b/The_LDS_Church_In_Utah_Politics_Survey_Results.pdf)
+8. A survey on perceptions and attitudes regarding religion and spirituality.  [here](https://www.reddit.com/r/exmormon/comments/9bv8pb/my_wife_just_received_this_email_from_the_church/)
 
 ---
 

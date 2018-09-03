@@ -1,5 +1,5 @@
 ---
-title: Faith of a naturalist: response to “Faith of a Science Teacher” questions
+title: "Faith of a naturalist: response to “Faith of a Science Teacher” questions"
 permalink: /faith-naturalist-response-faith-science-teacher-questions/
 categories: [Truth-Claims]
 doctype: communication
