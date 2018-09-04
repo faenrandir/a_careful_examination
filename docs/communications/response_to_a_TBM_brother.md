@@ -240,6 +240,6 @@ There are, however, good reasons to question the reliability of spiritual feelin
 
 > Most mormons who leave the church will turn atheist or agnostic because there is nothing better out there!!!
 
-If the data best fit an agnostic/athiest model, why shouldn't it be adopted?  [Morality transcends religious belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/539a20a74e3b4138648955aa6ece2aecdb791197/documents/morality_transcends_religious_belief/morality_transcends_religious_belief.pdf).  Here's one person's formulation of their beliefs after leaving the LDS Church: [my beliefs](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/539a20a74e3b4138648955aa6ece2aecdb791197/documents/my_beliefs/summary_of_my_beliefs.pdf).  What do you find objectionable in that belief system?
+If the data best fit an agnostic/athiest model, why shouldn't it be adopted?  [Morality transcends religious belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/539a20a74e3b4138648955aa6ece2aecdb791197/documents/morality_transcends_religious_belief/morality_transcends_religious_belief.pdf).  Here's one person's formulation of their beliefs after leaving the LDS Church: [my beliefs]({{ "/summary-of-my-beliefs/" | relative_url }}).  What do you find objectionable in that belief system?
 
 

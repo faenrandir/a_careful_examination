@@ -40,7 +40,7 @@ This transition has also influenced many of my relationships with friends and fa
 
 This time of viewing life from outside the Gospel/Church perspective---which is the only perspective I've ever really known---has been one of the most enlightening phases of my life (similar to the major enlightenment I experienced on my mission).  Many things that never quite made sense suddenly have an explanation to my mind, and that's extremely satisfying.[^makingsense]  And, as far as my own sense of moral obligation goes, I feel confident that [morality transcends religious belief](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/morality_transcends_religious_belief/morality_transcends_religious_belief.pdf) and is still central to living a good life.
 
-A general outline of my current beliefs about life and morality, including the resonance my beliefs share with other belief systems, may be found [here](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_beliefs/summary_of_my_beliefs.pdf).
+A general outline of my current beliefs about life and morality, including the resonance my beliefs share with other belief systems, may be found [here]({{ "/summary-of-my-beliefs/" | relative_url }}).
 
 At least to this point, I have found that the contours of life and friendship remain mostly the same: life is meaningful as we serve, love, and try to understand one another.  We feel good about ourselves as we try to remain humble, to stretch ourselves to do better, and to become more.  And life is intrinsically wonderful, especially as we focus on all that is good and the common threads that bind us together on our journey.
 

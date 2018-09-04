@@ -5,7 +5,7 @@ This repo contains a collection of my writing and thinking on LDS truth claims a
 My investigation has been motivated by the idea that if the claims of the Church are indeed true, then comprehensive investigation should bear that out.  The fundamental spirit of Mormonism is to seek goodness and [truth](http://ldstruthquotes.tumblr.com/), and I offer this work to others in that spirit.
 
 * [my journey](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_journey/brief_sketch_of_my_journey.pdf)
-* [my current beliefs](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_beliefs/summary_of_my_beliefs.pdf)
+* [my current beliefs]({{ "/summary-of-my-beliefs/" | relative_url }})
 
 ### Additional resources
 

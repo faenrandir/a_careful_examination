@@ -16,7 +16,7 @@ The author indicates that the absence of a satisfying answer outside the general
 
 I agree with the author that a reasonable way to begin analyzing a model's usefulness and correspondence with reality is to determine how well it fields answers to various questions---particularly questions with satisfying responses in competing models.  In the spirit of subjecting models to analysis, I have attempted to answer the blog author's questions, or offer counter-questions, using a [naturalist](https://en.wikipedia.org/wiki/Naturalism_(philosophy)) or [deist](https://en.wikipedia.org/wiki/Deism) framework.
 
-I hope my response may contribute to others' efforts to form accurate models and to follow goodness and truth (see [my beliefs](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/afa5b85f5a309c31f4f581035e75b554ca63dbd7/documents/my_beliefs/summary_of_my_beliefs.pdf)).
+I hope my response may contribute to others' efforts to form accurate models and to follow goodness and truth (see [my beliefs]({{ "/summary-of-my-beliefs/" | relative_url }})).
 
 [Questions from Faith of a Science Teacher are prefixed "FST" and numbered for reference.]
 

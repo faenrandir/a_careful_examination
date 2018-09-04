@@ -2,7 +2,7 @@
 
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:
 
-[summary_of_my_beliefs.pdf](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/my_beliefs/summary_of_my_beliefs.pdf)
+[summary_of_my_beliefs.pdf]({{ "/summary-of-my-beliefs/" | relative_url }})
 
 Here is a brief summary of my beliefs relative to core LDS doctrine:
 
@@ -20,7 +20,7 @@ Here is a brief summary of my beliefs relative to core LDS doctrine:
 
 ## Beliefs expressed parallel to the Articles of Faith
 
-My beliefs (again, see [summary_of_my_beliefs.pdf](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/28fb88ab88fa324c9adc1c18cca8cec1a1074e28/documents/my_beliefs/summary_of_my_beliefs.pdf)) can also be expressed in similar form to the Articles of Faith:
+My beliefs (again, see [summary_of_my_beliefs.pdf]({{ "/summary-of-my-beliefs/" | relative_url }})) can also be expressed in similar form to the Articles of Faith:
 
 1. I believe in love, wisdom, and hope.
 2. I believe that rational beings are responsible for their own behavior.
