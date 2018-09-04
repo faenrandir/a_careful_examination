@@ -1,3 +1,10 @@
+---
+title: "Lamport on homeophathic automobile repair shops"
+permalink: /lamport-on-homeophathic-automobile-repair/
+doctype: snippet
+layout: page
+---
+
 Leslie Lamport, an early Computer Scientist, [said](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf):
 
 > Superstitions arise because people (and other animals) are naturally inclined to interpret coincidence as causality. If someone handles a frog and then develops a wart, he will naturally assume that touching the frog caused the wart. Especially if he does not understand what causes warts. Since a person will tend to forget all the times he has touched frogs without getting warts, it’s easy to see how people came to believe that touching frogs caused warts. And since the human body is so complicated and not well understood, people have come to believe in a number of medical superstitions like homeopathy and faith healing.

@@ -1,6 +1,7 @@
 ---
-title: Attitude towards those who do not believe but stay
+title: "Attitude towards those who do not believe but stay"
 permalink: /how-those-who-stay-are-viewed/
+doctype: snippet
 layout: page
 ---
 

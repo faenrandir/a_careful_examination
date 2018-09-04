@@ -1,6 +1,11 @@
-My response to: [brother's list of why the church is true for him- many holes, could use some help](https://www.reddit.com/r/exmormon/comments/713n8k/brothers_list_of_why_the_church_is_true_for_him/)
-
 ---
+title: "Response to a brother's list of why church is true"
+permalink: /response-to-a brothers-list-of-why-church-true/
+doctype: response
+layout: page
+---
+
+This is my response to: [brother's list of why the church is true for him- many holes, could use some help](https://www.reddit.com/r/exmormon/comments/713n8k/brothers_list_of_why_the_church_is_true_for_him/).
 
 > Joseph Smith got too many thing right for it to be an accident.
 

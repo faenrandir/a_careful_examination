@@ -1,3 +1,10 @@
+---
+title: "Beit-Hallahmi on the lessons of history argument"
+permalink: /beit-hallahmi-on-the-lessons-of-history-argument/
+doctype: snippet
+layout: page
+---
+
 Quoting Bejamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.amazon.com/Psychological-Perspectives-Religion-Religiosity-Beit-Hallahmi/dp/0415682878), pages 131-132.
 
 ### The lessons of history argument

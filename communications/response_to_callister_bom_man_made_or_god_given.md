@@ -1,3 +1,9 @@
+---
+title: "Response to Tad Callister's talk 'The Book of Mormon: Man-Made or God-Given?'"
+permalink: /response-to-callister-bom-manmade-or-godgiven/
+doctype: response
+layout: page
+---
 
 ### Responses to GC talk
 
@@ -15,6 +21,9 @@
 * [churchistrue response](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/)
 * [Robert John Stevens response](http://www.sonsofliberty.co/a-response-the-byu-devotional-the-book-of-mormon-man-made-or-god-given/)
 
+---
+
+[still in rough draft form; needs to be completed]
 
 On many levels I enjoyed listening to and studying Tad Callister's talk.  I think he does well in pointing out failures in some (mostly older) naturalist theories to account for data relevant to the creation of the Book of Mormon (BoM).  And, although I don't find it as compelling as he might, I also think his case for the unique doctrines and perspective of the Book of Mormon is an important defense for believing members to make of the BoM.  Most of his points are clearly cited, and that is commendable and aids in meaningful scholarly dialogue.  At the very least, even though I will present some counterpoints and may conclude differently than Callister on this topic, I think the _kind_ of introspection and investigation his talk represents is important for LDS leaders and members to engage in.
 
@@ -539,5 +548,4 @@ In response to critics’ arguments as to the origin of the Book of Mormon, Hugh
 
 > By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.
 
-[add in /u/we were gods point about it still not being the case that it's a
-historical record.]
+[add in /u/we were gods point about it still not being the case that it's a historical record.]

@@ -16,9 +16,9 @@ Preview changes:
 
     bundle exec jekyll serve
 
-Finally, build the docs (and commit any changes):
+Finally, build the docs for production (and commit any changes):
 
-    bundle exec jekyll build
+    JEKYLL_ENV=production bundle exec jekyll build
 
 ## LICENSE
 

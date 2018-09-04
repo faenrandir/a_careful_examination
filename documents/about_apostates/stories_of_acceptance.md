@@ -1,6 +1,7 @@
 ---
 titles: Stories of Acceptance
 categories: [Faith Transitions]
+doctype: snippet
 layout: page
 ---
 

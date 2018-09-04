@@ -1,3 +1,10 @@
+---
+title: "Subtle discrimination as harmful as overt"
+permalink: /subtle-discrimination-as-harmful-as-overt/
+doctype: snippet
+layout: page
+---
+
 [Probably applies to how former Mormons feel around Mormon friends and family.] 
 
 [Not So Subtle: A Meta-Analytic Investigation of the Correlates of Subtle and Overt Discrimination](https://www.researchgate.net/publication/274064738_Not_So_Subtle_A_Meta-Analytic_Investigation_of_the_Correlates_of_Subtle_and_Overt_Discrimination) DOI: 10.1177/0149206313506466   Kristen P. Jones, Chad I. Peddie, Veronica L. Gilrane, Eden B. King and Alexis L. Gray.  published online 11 October 2013Journal of Management

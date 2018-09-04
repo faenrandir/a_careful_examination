@@ -1,5 +1,7 @@
 ---
 title: The Dominant Narrative and Apologetic Fallback
+permalink: /the-dominant-narrative/
+doctype: snippet
 layout: page
 ---
 

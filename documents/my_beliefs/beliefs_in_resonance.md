@@ -1,6 +1,7 @@
 ---
-title: Beliefs in Resonance
-permalink: /beliefs-in-resonance/
+title: "Beliefs in Resonance"
+permalink: "/beliefs-in-resonance/"
+doctype: resource
 layout: page
 ---
 

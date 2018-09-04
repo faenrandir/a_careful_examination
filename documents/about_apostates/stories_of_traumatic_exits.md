@@ -1,8 +1,9 @@
 ---
 title: Stories of Traumatic Faith Transitions
+permalink: /stories-of-traumatic-faith-transitions/
+doctype: snippet
 layout: page
 ---
-
 
 https://www.reddit.com/r/exmormon/comments/6526jy/fil_to_me_no_forgiveness_in_this_life_nor_the_next/
 

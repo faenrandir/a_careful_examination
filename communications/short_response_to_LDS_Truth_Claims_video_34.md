@@ -1,3 +1,10 @@
+---
+title: "Response to LDS Truth Claims video #34"
+permalink: /response-to-lds-truth-claims-video-34/
+doctype: response
+layout: page
+---
+
 McDonald mis-characterizes Runnell's argument, which he attempts to outline at the beginning of the lecture:
 
 > The LDS Church **requires** members to believe that there was "no death" of any kind on the earth prior to 7,000 years ago and that Adam and Eve are the first "humans"

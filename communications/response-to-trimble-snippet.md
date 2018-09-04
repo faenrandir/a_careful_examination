@@ -1,3 +1,12 @@
+---
+title: "Response to Greg Trimble's 11 questions"
+permalink: /response-to-trimble-11-questions/
+doctype: response
+layout: page
+---
+
+This is a partial response to the issues brought up in a reddit forum.  At some point I should probably just respond to all 11 questions, but this covers a lot of it.
+
 > Could an uneducated boy
 
 [Joseph Smith was not uneducated](https://github.com/faenrandir/a_careful_examination/blob/dfca560eafb2f1ec7921dd18cf85a5c3d2300d47/documents/book_of_mormon/translation/joseph_smith_uneducated.md).  Regardless, most of the theories being tossed around exmo circles these days involve other co-conspirators who had been preachers (Rigdon) or educated at Dartmouth (so, Hyrum Smith, where he probably heard [John Smith's lectures](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)).  See the intro [here](https://www.reddit.com/r/mormonscholar/comments/8roksu/could_joseph_have_hidden_material_in_his_hat_to/)

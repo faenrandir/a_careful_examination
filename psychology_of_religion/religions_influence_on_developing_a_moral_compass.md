@@ -1,3 +1,10 @@
+---
+title: "Beit-Hallahmi on developing a moral compass"
+permalink: /beit-hallahmi-on-developing-a-moral-compass/
+doctype: snippet
+layout: page
+---
+
 From Beit-Hallahmi's book "Psychological perspectives on religion and religiosity" [(pgs 132-133)](https://books.google.com/books?id=EfNTBAAAQBAJ&q=%22Human+brains+look+at+the+environment%22#v=snippet&q=%22The%20panhuman%20experience%22&f=false)
 
 ---

@@ -1,4 +1,9 @@
-# The religious engagement paradox
+---
+title: "Beit-Hallahmi on the religious engagement paradox"
+permalink: /beit-hallahmi-on-the-religious-engagement-paradox/
+doctype: snippet
+layout: page
+---
 
 Quoting Bejamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.amazon.com/Psychological-Perspectives-Religion-Religiosity-Beit-Hallahmi/dp/0415682878), pages 123-125.
 

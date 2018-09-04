@@ -53,5 +53,7 @@ I hope that helps.
 Sincerely,
 
 Marie Erickson
+
 Reference Librarian
+
 Church History Library

@@ -1,5 +1,8 @@
 ---
-title: Early LDS testimony may be unreliable
+title: "Early LDS testimony may be unreliable"
+permalink: /early-lds-testimony-may-be-unreliable/
+doctype: snippet
+layout: page
 ---
 
 From the [Improvement Era vol 1:1](https://books.google.com/books?id=UJ_tAAAAMAAJ&pg=PA372&lpg=PA372&dq=%22shall+we+record+testimony%22+%22accuracy%22+%22a+correspondent%22&source=bl&ots=_JXrlL4SQ8&sig=DYas-7v3CcymgPJ6xPkgt_nPaYI&hl=en&sa=X&ved=2ahUKEwjcuMaSspDdAhVC7FMKHchyBcYQ6AEwAHoECAAQAQ#v=onepage&q=%22unwarranted%20additions%20have%20sometimes%20been%20made%20to%20the%20original%20facts%22&f=false)

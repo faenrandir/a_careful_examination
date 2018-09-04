@@ -1,6 +1,5 @@
 Playing with a hermetically sealed stacked deck
 
-
 1. The growth (or lack thereof) is always according to prophecy and gods plan.
 
 Is the Church experiencing rapid growth?

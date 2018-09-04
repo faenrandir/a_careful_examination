@@ -1,3 +1,10 @@
+---
+title: "Faith transition coming out letter to family"
+permalink: /faith-transition-coming-out-letter/
+doctype: snippet
+layout: page
+---
+
 Dear family,
 
 As many (all?) of you are likely aware, I have recently adopted a somewhat different set of beliefs regarding the Church.  Given that the family cherishes its beliefs in the Church and Gospel, this has naturally led to some apprehension and discomfort in knowing how to interact with me and my family.
