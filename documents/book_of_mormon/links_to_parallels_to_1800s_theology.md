@@ -2,8 +2,9 @@
 title: Book of Mormon parallels to 1800s thought
 permalink: /bom-parallels-to-1800s-thought/
 categories: [Book of Mormon, Truth-Claims]
-layout: page
+featuredimage: /media/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.smaller.jpg
 doctype: resource
+layout: page
 ---
 
 ### Introduction

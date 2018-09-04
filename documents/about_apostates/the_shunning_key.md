@@ -2,6 +2,7 @@
 title: "The Shunning Key: Whom Mormons shun and why"
 permalink: /the-shunning-key/
 categories: [Faith transitions]
+featuredimage: "/media/Kernel_Machine.half2_.png"
 doctype: resource
 layout: page
 ---

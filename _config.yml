@@ -16,6 +16,7 @@
 title: A Careful Examination
 author: bwv549
 email: faenrandir@gmail.com
+reddit_username: bwv549
 category-list: [Truth-Claims, Sociology and Psychology, Neo-Apologetics]
 
 description: >-
@@ -23,8 +24,7 @@ description: >-
   and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).
 baseurl: "/a_careful_examination" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  faenrandir
 
 # instead of _site
 destination: docs

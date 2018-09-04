@@ -3,6 +3,7 @@ title: The 1832 First Vision account was suppressed between 11 and ~30 years
 permalink: /1832-first-vision-account-suppressed/
 categories: [Church History]
 doctype: resource
+featuredimage: /media/1832-first-vision-text.png
 layout: page
 ---
 

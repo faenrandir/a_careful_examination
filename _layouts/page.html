@@ -11,7 +11,9 @@ layout: default
     {% endif %}
 
     {% if page.featuredimage %}
-    <img class="featuredimage" src="{{ page.featuredimage | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
+    <figure class="featured-image-figure-div">
+      <img class="featured-image" src="{{ page.featuredimage | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
+    </figure>
     {% endif %}
   </header>
 

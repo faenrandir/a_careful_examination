@@ -1,8 +1,9 @@
 ---
 title: Joseph Smith's Polygamy Denials
 permalink: /joseph-smith-polygamy-denials/
-resources: true
+doctype: resource
 categories: [Polygamy]
+featuredimage: /media/1835-marriage-doc.png
 layout: page
 ---
 

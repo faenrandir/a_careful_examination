@@ -1,9 +1,10 @@
 ---
 title: "Testimony, spiritual experiences, and truth: A careful examination"
 permalink: /testimony-spiritual-experiences-truth/
-layout: page
 doctype: resource
 categories: [Truth Claims]
+featuredimage: /media/a-crater-lake.jpg
+layout: page
 ---
 
 # Introduction

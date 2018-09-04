@@ -2,6 +2,7 @@
 title: Questions to Ask
 permalink: /questions-to-ask/
 categories: [Truth-Claims]
+featuredimage: /media/Dunnottar_castle.jpg
 doctype: resource
 layout: page
 ---

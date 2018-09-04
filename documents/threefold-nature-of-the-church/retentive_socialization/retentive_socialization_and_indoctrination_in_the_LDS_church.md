@@ -4,7 +4,7 @@ permalink: /lds-indoctrination-and-retentive-socialization/
 categories: [Sociology and Psychology]
 doctype: resource
 layout: page
-featuredimage: /media/a-crater-lake.jpg
+featuredimage: /media/Naruto_Whirlpools_taken_4-21-2008.jpg
 ---
 
 ## Introduction
