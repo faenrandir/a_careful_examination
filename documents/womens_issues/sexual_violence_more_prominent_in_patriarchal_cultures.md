@@ -1,3 +1,9 @@
+---
+title: "Sexual violence more prominent in patriarchal cultures"
+permalink: /sexual-violence-more-prominent-in-patriarchal-cultures/
+doctype: snippet
+layout: page
+---
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777345/
 

@@ -1,4 +1,9 @@
-## Statements on building up Jackson county
+---
+title: "Statements on building up Jackson county"
+permalink: /statements-on-building-up-jackson-county/
+doctype: snippet
+layout: page
+---
 
 As discussed somewhat in [chapter 8 of Millenialism and the Anti-Polygamy Campaign](http://signaturebookslibrary.org/as-a-thief-in-the-night-08/#111), leaders made promises that arguably went unfulfilled.  I've tracked down some regarding the building up of Jackson county:
 

@@ -1,4 +1,9 @@
-# Subordination of women to men in the LDS Church
+---
+title: "Subordination of women to men in the LDS Church"
+permalink: /subordination-of-women-to-men-in-the-lds-church/
+doctype: snippet
+layout: page
+---
 
 In many ways, women in the LDS Church are subordinate to men.  A few formal and informal examples follow.
 

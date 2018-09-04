@@ -1,3 +1,10 @@
+---
+title: "Savannah's testimony"
+permalink: /savannahs-testimony/
+doctype: snippet
+layout: page
+---
+
 On May 7, 2017, in a ward somewhere in Eagle Mountain, Utah, a girl named Savannah got up and bore her testimony.  Before she could finish [she was asked/told to sit down](https://www.youtube.com/watch?v=o_0nhyP6dU4).  She explains her motivation [here](http://iliketolookforrainbows.com/2017/05/30/episode-2-savannahs-story-the-transcript/).
 
 Here was what she said (statements are numbered for reference):

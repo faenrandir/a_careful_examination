@@ -1,3 +1,9 @@
+---
+title: "Example of totalistic attitude: accomplishments only important if building kingdom"
+permalink: /accomplishments-only-important-if-building-kingdom/
+doctype: snippet
+layout: page
+---
 
 An example of totalistic attitude
 

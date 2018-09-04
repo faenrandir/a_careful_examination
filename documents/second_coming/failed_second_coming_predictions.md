@@ -1,3 +1,10 @@
+---
+title: "Failed second coming predictions in early LDS Church"
+permalink: /failed-second-coming-predictions-in-early-lds-church/
+doctype: snippet
+layout: page
+---
+
 *Note: these references to failed second coming predictions were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  I've gone back to find links to original documents and Church hosted content wherever possible.*
 
 Emphasis added.

@@ -1,3 +1,10 @@
+---
+title: "Five Key Facts: my conclusions"
+permalink: /five-key-facts-my-conclusions/
+doctype: snippet
+layout: page
+---
+
 1. Joseph claimed he could translate ancient documents.  He could not.
 2. The Book of Mormon, regardless of its status as an ancient or partially ancient document, bears a strong imprint of being a modern document.
 3. The manner in which Mormons ask people to confirm their truthfulness is not unique, suggesting that the feel/pray method could be used to confirm almost anything with the proper pre-conditioning.

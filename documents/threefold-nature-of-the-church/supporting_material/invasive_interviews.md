@@ -1,3 +1,9 @@
+---
+title: "Example of invasive interview: facebook stalking"
+permalink: /example-of-invasive-interview-facebook-stalking/
+doctype: snippet
+layout: page
+---
 
 Some interviews in the LDS Church may become highly invasive.
 

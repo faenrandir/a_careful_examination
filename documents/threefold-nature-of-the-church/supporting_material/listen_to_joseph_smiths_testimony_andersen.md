@@ -1,3 +1,9 @@
+---
+title: "Listen to a recording of your testimony"
+permalink: /listen-to-a-recording-of-your-testimony/
+doctype: snippet
+layout: page
+---
 
 In his [October 2014 Conference Address](https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng) on Joseph Smith, Neil L. Andersen stated:
 

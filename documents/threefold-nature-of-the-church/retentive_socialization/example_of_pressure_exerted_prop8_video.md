@@ -1,3 +1,10 @@
+---
+title: "Pressure against expression of beliefs counter to LDS position - Wally's Mom"
+permalink: /pressure-against-beliefs-counter-to-lds-position-wallys-mom/
+doctype: snippet
+layout: page
+---
+
 [Playing Valentine](http://www.dovesandserpents.org/wp/2011/02/first-comes-love-then-comes-marriage/) [posted February 14, 2011]
 
 Legend has it that one of the roots of Valentine’s Day stem from a third century ban on marriage passed by Roman emperor Claudius II who thought married men made poor soldiers. A priest named Valentine continued the marriage tradition by marrying couples in secret, but was tragically caught and jailed, then put to death.

@@ -1,4 +1,11 @@
-[from here](https://www.reddit.com/r/exmormon/comments/6ipikx/after_leaving_the_church_was_anyone_else/)
+---
+title: "Most members don't seem to care about Church issues"
+permalink: /most-members-dont-seem-to-care-about-church-issues/
+doctype: snippet
+layout: page
+---
+
+From [here](https://www.reddit.com/r/exmormon/comments/6ipikx/after_leaving_the_church_was_anyone_else/)
 
 > After leaving the church, was anyone else completely shocked to discover that most TBM's really don't care about church issues?
 

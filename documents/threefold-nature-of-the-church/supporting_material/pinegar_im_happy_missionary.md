@@ -1,3 +1,10 @@
+---
+title: "Pinegar deals with unhappy missionary"
+permalink: /pinegar-deals-with-unhappy-missionary/
+doctype: snippet
+layout: page
+---
+
 An Emeritus Member of the Presidency of the Seventy, Rex D. Pinegar, told this
 story in his [BYU-Idaho Devotional on November 1, 2011](http://www2.byui.edu/Presentations/Transcripts/Devotionals/2011_11_01_Pinegar.htm) (the story is also told in his [BYU-I devotional given on September 12th, 2000](https://video.byui.edu/media/Rex+D.+Pinegar+%22Happiness+-+the+Lord's+Plan%22/0_wtcuy2w9/13946512)):
 
