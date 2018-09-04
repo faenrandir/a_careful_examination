@@ -1,4 +1,9 @@
-# Believing in God based on miracles
+---
+title: "Believing in God based on miracles"
+permalink: /believing-in-god-based-on-miracles/
+doctype: snippet
+layout: page
+---
 
 ## Abstract
 

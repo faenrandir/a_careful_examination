@@ -1,3 +1,10 @@
+---
+title: "The logic of our family interview policy"
+permalink: /logic-family-interview-policy/
+doctype: snippet
+layout: page
+---
+
 Our family policy, which I think should be adopted at a church-wide level is:
 
 > Unless our children ask to speak with a leader in private (which they know they can do and which we'd fully support), one of us should always be present at their worthiness interviews.

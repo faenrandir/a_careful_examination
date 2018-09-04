@@ -1,3 +1,14 @@
+---
+title: "Why former members are angry"
+permalink: /why-former-members-are-angry/
+doctype: snippet
+layout: page
+---
+
+Here are some former members trying to explain why they are angry after leaving the LDS Church.
+
+---
+
 [Abusers stigmatize anger, so that their victims won't protest when they are abused.](https://www.reddit.com/r/exmormon/comments/74a9kz/abusers_stigmatize_anger_so_that_their_victims/)
 
 I'm reading Pete Walker's book, "Complex PTSD: From Surviving to Thriving," and this is something I've learned from the book and have been pondering the last couple of days. Here are some things I've learned about anger from this book:

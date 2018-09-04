@@ -1,4 +1,9 @@
-## My Family's Dedication to the Gospel
+---
+title: "My Family's Dedication to the Gospel"
+permalink: /my-familys-dedication-to-gospel/
+doctype: snippet
+layout: page
+---
 
 The family I grew up in was highly faithful to the Church way of life (not perfect, of course, but actively striving).  A few examples:
 

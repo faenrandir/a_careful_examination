@@ -1,4 +1,9 @@
-### Laundry List of Issues Regarding Moroni's Promise
+---
+title: "Laundry List of Issues Regarding Moroni's Promise"
+permalink: /list-of-issues-regarding-moronis-promise/
+doctype: snippet
+layout: page
+---
 
 _From [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html)_
 

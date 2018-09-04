@@ -1,3 +1,9 @@
+---
+title: "Scriptural instructions for practicing polygamy"
+permalink: /scriptural-instructions-for-practicing-polygamy/
+doctype: snippet
+layout: page
+---
 
 *Modified from [here](https://www.reddit.com/r/exmormon/comments/7xfo3i/although_the_lord_commanded_the_adoption_of/)*
 

@@ -1,4 +1,8 @@
-title: How accurate was Martha Brotherton's affidavit?
+---
+title: "How accurate was Martha Brotherton's affidavit?"
+permalink: /how-accurate-was-brothertons-affidavit/
+doctype: snippet
+layout: page
 ---
 
 Bennett is a complicated source.  On some level, it is clear that he had access to inside information that has been verified by scholars over time (for instance, he was able to indicate by initials many of Joseph's early polygamous wives).  At the same time, [he was a serial adulterer](http://mormonpolygamydocuments.org/john-c-bennett-joseph-smiths-polygamy-addressing-question-reliability/), and [it is difficult to interpret many of his statements as anything but lies](https://archive.org/stream/jmormhist.42.3.0094#page/n1/mode/1up).  So, there are very good reasons to consider Bennett a compromised and untrustworthy source, generally.

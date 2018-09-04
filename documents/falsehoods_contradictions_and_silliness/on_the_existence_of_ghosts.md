@@ -1,3 +1,10 @@
+---
+title: "On the existence of ghosts"
+permalink: /on-the-existence-of-ghosts/
+doctype: snippet
+layout: page
+---
+
 ### Ghosts do not seem to be objective phenomena
 
 1. Ghosts, if they are real, do not seem to emit or reflect light in the visual spectrum.

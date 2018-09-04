@@ -1,3 +1,10 @@
+---
+title: "Conclusion: God and the LDS Church as surrogate parent"
+permalink: /conclusion-surrogate-parent-hypothesis/
+doctype: snippet
+layout: page
+---
+
 _March 3, 2018_
 
 ## Conclusion

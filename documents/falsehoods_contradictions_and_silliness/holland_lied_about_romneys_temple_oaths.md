@@ -1,8 +1,13 @@
-# Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths
+---
+title: "Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths"
+permalink: /semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/
+doctype: snippet
+layout: page
+---
 
 In the 2008 BBC Documentary "The Mormon Candidate" [John Sweeney interviews Jeffrey Holland about the nature of the oaths Mitt Romney would have performed in the temple](https://www.youtube.com/watch?v=0zE8JKDZazc) (among other topics).  Given the nature of the presidential office and potential conflicts of interest such oaths might entail, a frank discussion of the topic seems relevant for the time.
 
-Members online often assert that Holland did not lie in this interview.† Below is a transcript and semantic analysis of the conversation.  The key phrase (#2) is emboldened below:
+Members online often assert that Holland did not lie in this interview.[^membersassert] Below is a transcript and semantic analysis of the conversation.  The key phrase (#2) is emboldened below:
 
 1. SWEENEY: Let's talk about Mitt Romney, the man who may well become the most powerful man on earth.  As a Mormon, in the temple, I've been told, he would have sworn an oath to say that he would not pass on what happens in the temple lest he slit his throat.  Is that true?
 
@@ -16,7 +21,7 @@ Members online often assert that Holland did not lie in this interview.† Below
 
 6. HOLLAND: Well, the vow that was made was regarding the ordinance--the ordinance--of the temple. \<conversation continues\>
 
-**Summary of the discussion**: Sweeney asks if Romney swore an oath "to say that he would not pass on what happens in the temple lest he slit his throat."  Holland replies (2a) "That's not true.  That's not true."  Then, he qualifies his response by stating a true fact (2b) "we do not have penalties in the temple", but said in such a way as to mislead Sweeney from concluding that #1 was true.  Had Holland said nothing else and Sweeney hadn't known any better (i.e., if the conversation had ended with statement #2), then Sweeney would have been left with the impression that Romney had _not_ sworn such an oath.  But Romney _had_ sworn such an oath.‡  As it turns out, Sweeney had done his homework and was able to push back in the appropriate manner in which to receive some confirmation of statement #1.  Holland's statement (#6) ultimately acts to confirm that Holland understood the general truth of #1 (i.e., "vow" is used to refer to the "oath" from #2).
+**Summary of the discussion**: Sweeney asks if Romney swore an oath "to say that he would not pass on what happens in the temple lest he slit his throat."  Holland replies (2a) "That's not true.  That's not true."  Then, he qualifies his response by stating a true fact (2b) "we do not have penalties in the temple", but said in such a way as to mislead Sweeney from concluding that #1 was true.  Had Holland said nothing else and Sweeney hadn't known any better (i.e., if the conversation had ended with statement #2), then Sweeney would have been left with the impression that Romney had _not_ sworn such an oath.  But Romney _had_ sworn such an oath.[^romneysworeanoath]  As it turns out, Sweeney had done his homework and was able to push back in the appropriate manner in which to receive some confirmation of statement #1.  Holland's statement (#6) ultimately acts to confirm that Holland understood the general truth of #1 (i.e., "vow" is used to refer to the "oath" from #2).
 
 ### Semantic Analysis
 
@@ -59,11 +64,7 @@ Regardless of whether a person chooses to accept either of the above justificati
 
 > These excuses and many more are given as reasons for dishonesty. To the Lord, there are no acceptable reasons. ...
 
----
-
-##### Footnotes
-
-**†** Members online state or argue that Holland did not lie:
+[^membersassert]: Members online state or argue that Holland did not lie:
 
 * "I did not hear the the discussion you are talking about but I do not find it to be a lie or prevarication." [source](https://www.quora.com/Why-did-the-Mormon-leader-Jeffrey-Holland-lie-on-television-about-Mitt-Romney-executing-the-signs-of-the-penalty-in-the-Mormon-temple/answer/R-Lynn-Thomas?srid=uJIq)
 * "How did he lie? He stated that we do not have penalties in the temple. Which is true. Then when the interviewer stated that you used to he acknowledges that and said that the oath is about the ordinance. How is that a lie?" [source](https://www.quora.com/Why-did-the-Mormon-leader-Jeffrey-Holland-lie-on-television-about-Mitt-Romney-executing-the-signs-of-the-penalty-in-the-Mormon-temple/answer/Andrew-McLean-11?srid=uJIq)
@@ -73,4 +74,4 @@ Or refer to his actions as obfuscation:
 
 * "...He had several potential reasons to want to obfuscate here..." [source](https://www.quora.com/Why-did-Jeffrey-R-Holland-lie-to-the-media-about-the-temple-oath-relating-to-slitting-our-throats/answer/Craig-Good?srid=uJIq)
 
-**‡** We can firmly conclude that Romney swore such an oath based on deductive logic: All individuals who received their LDS endowment [before 1990 swore such an oath as part of the temple ceremony](https://en.wikipedia.org/wiki/Penalty_(Mormonism)); [After at least the early 1900s] All individuals who are sealed in an LDS temple are first endowed; Romney was sealed in the LDS temple after 1900 and before 1990; ∴ Romney swore such an oath.
+[^romneysworeanoath]: We can firmly conclude that Romney swore such an oath based on deductive logic: All individuals who received their LDS endowment [before 1990 swore such an oath as part of the temple ceremony](https://en.wikipedia.org/wiki/Penalty_(Mormonism)); [After at least the early 1900s] All individuals who are sealed in an LDS temple are first endowed; Romney was sealed in the LDS temple after 1900 and before 1990; ∴ Romney swore such an oath.

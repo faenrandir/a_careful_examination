@@ -1,5 +1,11 @@
+---
+title: "Wicca and confirmation bias"
+permalink: /wicca-and-confirmation-bias/
+doctype: snippet
+layout: page
+---
 
-https://www.reddit.com/r/exmormon/comments/8zwnoe/explain_this_tbms_aka_how_i_became_a_witch/
+From [here](https://www.reddit.com/r/exmormon/comments/8zwnoe/explain_this_tbms_aka_how_i_became_a_witch/)
 
 > Hi! First a bit of background: I'm BIC, seminary graduate, RM, married in temple, yada, yada. I've been out 10 years, resigned about 2 years ago. Anyway, I'm an agnostic atheist and very nerdy. I am into sci-fi and fantasy and the idea of Wicca appeals to me, even though I don't believe in literal magic spells. I do believe in following my own path and letting others do the same, positive thinking, meditation and focusing on what you want to achieve. So, I got a book on how to be a witch to read for fun. It had some good advice in there about positivity and I decided to try it.
 

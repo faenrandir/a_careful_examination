@@ -1,4 +1,9 @@
-# 1835 Doctrine and Covenants 101:4
+---
+title: "1835 Doctrine and Covenants 101:4"
+permalink: /1835-doctrine-and-covenants-101-4/
+doctype: snippet
+layout: page
+---
 
 * [Joseph Smith Papers](http://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/259)
 

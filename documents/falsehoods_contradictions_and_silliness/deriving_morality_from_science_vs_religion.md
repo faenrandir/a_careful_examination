@@ -1,4 +1,9 @@
-[posted here](https://www.reddit.com/r/mormon/comments/7yy5mt/science_is_as_substantive_as_religion_in_helping/)
+---
+title: "Science is as substantive as religion in helping us to derive morality's ought"
+permalink: /science-vs-religion-in-deriving-moralitys-ought/
+doctype: snippet
+layout: page
+---
 
 Science seems to be every bit as substantive as religion when it comes to deriving the _ought_ in morality.
 
@@ -37,3 +42,7 @@ So, what makes religion's _ought_ superior to science's _ought_?
 What am I missing?
 
 edit: minor clarifications and some embellisment on the final #4
+
+---
+
+[posted here](https://www.reddit.com/r/mormon/comments/7yy5mt/science_is_as_substantive_as_religion_in_helping/)

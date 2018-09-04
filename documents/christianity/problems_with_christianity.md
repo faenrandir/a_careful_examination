@@ -1,3 +1,9 @@
+---
+title: "Problems with Christianity"
+doctype: snippet
+layout: page
+---
+
 [rough draft -- in progress]
 
 ## Believing in Jesus promotes good

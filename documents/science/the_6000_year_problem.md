@@ -1,3 +1,10 @@
+---
+title: "The 6000 year problem"
+permalink: /the-6000-year-problem/
+doctype: resource
+layout: page
+---
+
 Summary: The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.
 
 ---

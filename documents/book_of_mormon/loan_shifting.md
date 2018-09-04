@@ -1,6 +1,11 @@
+---
+title: "Who is doing the loan shifting?"
+permalink: /exerpt-who-is-doing-the-loan-shifting/
+doctype: snippet
+layout: page
+---
 
-
-From http://shamelesspopery.com/animals-in-the-book-of-mormon/
+Exerpt from [here](http://shamelesspopery.com/animals-in-the-book-of-mormon/)
 
 ---
 

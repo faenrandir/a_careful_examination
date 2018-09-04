@@ -1,3 +1,10 @@
+---
+title: "Affidavits against Bennett's letters: focus on Martha Brotherton"
+permalink: /affidavits-against-bennets-letters-brotherton-focus/
+doctype: snippet
+layout: page
+---
+
 ## AFFIDAVITS AND CERTIFICATES, DISPROVING THE STATEMENTS AND AFFIDAVITS CONTAINED IN JOHN C. BENNETT’S LETTERS. NAUVOO AUG. 31, 1842.
 
 * [source](https://ia902505.us.archive.org/1/items/AffidavitsCertificates/Affidavits%20And%20Certificates.pdf)

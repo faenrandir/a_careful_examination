@@ -1,3 +1,9 @@
+---
+title: "Ether 13:2 implies a worldwide flood"
+permalink: /ether-13-2-implies-a-worldwide-flood/
+doctype: snippet
+layout: page
+---
 
 In the August 2017 article by Michael Ash, [After the Manner of Their Language: The Key to Wisdom](https://www.fairmormon.org/conference/august-2017/after-the-manner-of-their-language), he writes:
 

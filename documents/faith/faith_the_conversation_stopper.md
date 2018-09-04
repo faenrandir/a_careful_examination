@@ -1,3 +1,9 @@
+---
+title: "Faith, the conversation stopper"
+permalink: /faith-the-conversation-stopper/
+doctype: snippet
+layout: page
+---
 
 > The problem with faith, is that it really is a conversation stopper. Faith is a declaration of immunity to the powers of conversation. It is a reason, why you do not have to give reasons, for what you believe.
 

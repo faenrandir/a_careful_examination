@@ -1,4 +1,9 @@
-## Why do people leave the LDS Church?
+---
+title: "Why do people leave the LDS Church?"
+permalink: /why-do-people-leave-the-lds-church/
+doctype: snippet
+layout: page
+---
 
 * [Why are people leaving the Mormon Church](http://www.churchistrue.com/blog/why-are-people-leaving-the-mormon-church/) (churchistrue blog)
 * [Do Mormons leave the Church because they got offended?](https://religionnews.com/2017/01/27/do-mormons-leave-the-church-because-they-got-offended/) (Jana Riess)

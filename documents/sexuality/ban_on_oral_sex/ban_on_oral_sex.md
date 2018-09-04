@@ -1,4 +1,9 @@
-# The LDS Church ban on oral sex
+---
+title: "The LDS Church ban on oral sex"
+permalink: /lds-church-ban-on-oral-sex/
+doctype: snippet
+layout: page
+---
 
 ## The 1982 First Presidency Letter
 

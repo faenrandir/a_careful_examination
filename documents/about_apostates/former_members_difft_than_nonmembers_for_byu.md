@@ -1,3 +1,10 @@
+---
+title: "Former members treated differently than members at BYU"
+permalink: /former-members-treated-differently-than-members-at-byu/
+doctype: snippet
+layout: page
+---
+
 [posted by I_Am_An_ExMormon on /r/exmormon May 9, 2017]
 
 https://www.reddit.com/r/exmormon/comments/6a7g4p/exmormons_and_byu_the_epitome_of_it_would_have/

@@ -1,3 +1,10 @@
+---
+title: "Exerpt: Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation"
+permalink: /bolnick-exerpt-mitochondrial-haplogroup-x-trans-atlantic-migration/
+doctype: snippet
+layout: page
+---
+
 [Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation](https://doi.org/10.1179/2055556315Z.00000000040) by Jennifer A. Raff and Deborah A. Bolnick.
 
 _quoting from the document below, with minor formatting (I added bullets)_

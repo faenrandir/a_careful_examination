@@ -1,3 +1,10 @@
+---
+title: "The parts of an LDS spiritual experience"
+permalink: /parts-of-an-lds-spiritual-experience/
+doctype: snippet
+layout: page
+---
+
 #### The LDS Spiritual Experience
 
 I believe that the archetypal LDS spiritual experience involves a _mixture_ of these 4 things:

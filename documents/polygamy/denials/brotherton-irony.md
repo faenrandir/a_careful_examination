@@ -1,4 +1,9 @@
-## Martha Brotherton and the Five Ironies
+---
+title: "Martha Brotherton and the Five Ironies"
+permalink: /martha-brotherton-and-the-five-ironies/
+doctype: snippet
+layout: page
+---
 
 ### Introduction
 

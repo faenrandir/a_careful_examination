@@ -1,4 +1,9 @@
-## George McCready Price inspired the "No death before the Fall" teachings of Joseph Fielding Smith
+---
+title: "George McCready Price inspired the 'No death before the Fall' teachings of Joseph Fielding Smith"
+permalink: /george-mccready-price-inspired-ndbf/
+doctype: snippet
+layout: page
+---
 
 [George McCready Price](https://en.wikipedia.org/wiki/George_McCready_Price) was a Seventh Day Adventist "scientist" and [an inspiration for many of the teachings of Joseph Fielding Smith](http://signaturebookslibrary.org/the-b-h-robertsjoseph-fielding-smithjames-e-talmage-affair/).
 

@@ -1,4 +1,9 @@
-## The April 1910 Priesthood Quorums' Table entry "Origin of Man" is likely misconstrued to be a First Presidency Statement
+---
+title: "The April 1910 Priesthood Quorums' Table entry 'Origin of Man' is likely misconstrued to be a First Presidency Statement"
+permalink: /april-1910-table-not-likely-fp-statement/
+doctype: snippet
+layout: page
+---
 
 ### Introduction
 

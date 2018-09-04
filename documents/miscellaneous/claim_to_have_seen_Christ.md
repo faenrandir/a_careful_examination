@@ -1,4 +1,9 @@
-# Individuals who claim to have seen Jesus Christ
+---
+title: "Individuals who claim to have seen Jesus Christ"
+permalink: /individuals-claim-to-seen-christ/
+doctype: snippet
+layout: page
+---
 
 Draft originally posted [here](https://www.reddit.com/r/mormondebate/comments/4g68ev/when_was_the_last_time_a_mormon_credibly_saw/d2g63n2/).
 

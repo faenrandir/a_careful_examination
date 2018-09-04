@@ -1,3 +1,10 @@
+---
+title: "Discussion on a global at 2348 BCE"
+permalink: /discussion-global-flood-at-2348-bc/
+doctype: snippet
+layout: page
+---
+
 A discussion in the spring of 2015 between me ("bwv549") and "tmgproductions", a pastor(?) and blogger for the Grace with Salt site on the global flood.
 
 I'll include all relevant comments leading to and following the discussion on the global flood for completeness.

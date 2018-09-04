@@ -1,3 +1,10 @@
+---
+title: "Summarizing the best arguments against chiasmus as evidence of ancientness"
+permalink: /best-arguments-against-chiasmus-as-evidence-of-ancientness/
+doctype: snippet
+layout: page
+---
+
 Chiasmus in the Book of Mormon is often advanced as evidence of the ancient origin of the book.  However, the argument may not be as strong as when originally conceived:
 
 1. **Chiastic structure was described in a popular Bible commentary of the day.**

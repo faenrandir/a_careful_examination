@@ -1,5 +1,9 @@
-
-### Commentary on Joseph Smith's Translation of the Kinderhook Plates
+---
+title: "JS Papers commentary on Joseph Smith's Translation of the Kinderhook Plates"
+permalink: /jspapers-kinderhook-plates-commentary/
+doctype: snippet
+layout: page
+---
 
 As part of [Willard Richard's JS journal](http://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-2-10-march-1843-14-july-1843/201#full-transcript), LDS Scholars from the Joseph Smith Papers Project discuss Joseph Smith's translation of the Kinderhook plates.
 

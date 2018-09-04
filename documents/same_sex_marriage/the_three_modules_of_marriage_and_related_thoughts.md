@@ -1,4 +1,9 @@
-# Musings on Same Sex Marriage
+---
+title: "Musings on Same Sex Marriage"
+permalink: /musings-on-same-sex-marriage/
+doctype: snippet
+layout: page
+---
 
 ### The 3 "modules" of marriage
 

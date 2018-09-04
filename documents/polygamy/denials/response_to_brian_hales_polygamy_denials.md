@@ -1,4 +1,9 @@
-# A Critique of Joseph Smith's Polygamy: "Thou Shalt not Lie" and Denials of Polygamy
+---
+title: "A Critique of Joseph Smith's Polygamy: 'Thou Shalt not Lie' and Denials of Polygamy"
+permalink: /critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/
+doctype: snippet
+layout: page
+---
 
 ## Introduction
 

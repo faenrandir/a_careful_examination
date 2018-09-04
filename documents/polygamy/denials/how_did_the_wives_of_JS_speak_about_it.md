@@ -1,4 +1,9 @@
-# How did Joseph Smith's wives refer to their unions?
+---
+title: "How did Joseph Smith's wives refer to their unions?"
+permalink: /how-did-js-wives-refer-to-unions/
+doctype: snippet
+layout: page
+---
 
 Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.
 

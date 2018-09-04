@@ -1,4 +1,9 @@
-## Address of the Prophet--His Testimony Against the Dissenters at Nauvoo.
+---
+title: "Address of the Prophet: His Testimony Against the Dissenters at Nauvoo."
+permalink: /joseph-smith-testimony-against-dissenters-at-nauvoo/
+doctype: snippet
+layout: page
+---
 
 * Copied from History of the Church, [vol. 6 ch. 19](https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.  Last accessed 2017-02-05.
 * [FairMormon's contextualization](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)

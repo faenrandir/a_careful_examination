@@ -1,3 +1,9 @@
+---
+title: "Most LDS service inwardly focused"
+permalink: /most-lds-service-inwardly-focused/
+doctype: snippet
+layout: page
+---
 
 From [Without faith-based work, Provo and Utah not so high in volunteerism, study says](http://www.heraldextra.com/news/local/central/provo/without-faith-based-work-provo-and-utah-not-so-high/article_c823734f-ce16-5cc5-96af-487174ebc7ac.html)
 

@@ -1,5 +1,9 @@
-
-### The Apologetic Slide
+---
+title: "The Apologetic Slide"
+permalink: /the-apologetic-slide/
+doctype: snippet
+layout: page
+---
 
 * No prophet or apostle ever taught that.
 * If they did, they didn't mean it.

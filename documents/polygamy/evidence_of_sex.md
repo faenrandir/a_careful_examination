@@ -1,9 +1,15 @@
+---
+title: "Evidence of sex within Joseph Smith's polygamy"
+permalink: /evidence-of-sex-in-joseph-smith-polygamy/
+doctype: snippet
+layout: page
+---
 
-# Compton's assessment
+## Compton's assessment
 
 [Todd Compton's assessment of the evidence for sexuality](https://github.com/faenrandir/a_careful_examination/blob/23b6f786fd15db31837e3bf269d74ecfe5068f6e/documents/polygamy/compton-sexuality_in_joseph_smiths_plural_marriages.md)
 
-# Short analysis of the testimony evidence
+## Short analysis of the testimony evidence
 
 *This is my cursory analysis of some testimony evidence.*
 
@@ -22,7 +28,7 @@ Mormon Enigma identifies the 4 individuals Emma consented to as Emily and Eliza 
 
 The ages of the women we suspect he had sex with from this analysis were: 17 (2), 19 (3), 22 (1).
 
-# What is the evidence for polyandrous sex?
+## What is the evidence for polyandrous sex?
 
 *Below taken from /u/curious\_mormon's post [here](https://old.reddit.com/r/exmormon/comments/3oa7ev/on_josephs_polyandrous_marriages_6_have/).  Note: I am aware of the tenuousness of the Eli Johnson source, so all of these sources should be taken with a grain of salt until I can check them for reliability.*
 

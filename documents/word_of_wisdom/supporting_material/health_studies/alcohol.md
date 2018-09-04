@@ -1,7 +1,15 @@
-Drinking alcohol (moderately or heavily) is good for heart health, and since
-heart disease is the number one cause of death in America, drinking makes you
-live longer.  Here's a synopsis from a [recent article in
-Time](http://content.time.com/time/magazine/article/0,9171,2017200,00.html):
+---
+title: "Health studies on alcohol consumption"
+permalink: /health-studies-alcohol-consumption/
+doctype: snippet
+layout: page
+---
+
+Note: two recent, very comprehensive studies suggest that alcohol [isn't as great for protecting against heart disease as previously thought](https://www.jsad.com/doi/abs/10.15288/jsad.2017.78.375?journalCode=jsad) and that [no level of alcohol was beneficial for overall health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31571-X/fulltext).  I believe these studies supercede the research discussed below.
+
+---
+
+Drinking alcohol (moderately or heavily) is good for heart health, and since heart disease is the number one cause of death in America, drinking makes you live longer.  Here's a synopsis from a [recent article in Time](http://content.time.com/time/magazine/article/0,9171,2017200,00.html):
 
 > But even after controlling for nearly all imaginable variables — socioeconomic status, level of physical activity, number of close friends, quality of social support and so on — the researchers (a six-member team led by psychologist Charles Holahan of the University of Texas at Austin) found that over a 20-year period, mortality rates were highest for those who were not current drinkers, regardless of whether they used to be alcoholics, second highest for heavy drinkers and lowest for moderate drinkers.
 

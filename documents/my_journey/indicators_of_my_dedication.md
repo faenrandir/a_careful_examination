@@ -1,4 +1,9 @@
-## Indicators of my dedication and spiritual development
+---
+title: "Indicators of my dedication and spiritual development"
+permalink: /indicators-of-dedication-and-spiritual-development/
+doctype: snippet
+layout: page
+---
 
 It's difficult to quantify spiritual development and dedication.  Nonetheless, here are some indicators that I took the Gospel and my spiritual development very seriously:
 

@@ -1,3 +1,10 @@
+---
+title: "Thank you R. Gary"
+permalink: /thank-you-r-gary/
+doctype: snippet
+layout: page
+---
+
 [note: Ultimately, I've decided no good can come of this exchange, so I will not send him this note.  R. Gary is not going to change his mind about the Church and hearing that his efforts contributed to people leaving the Church (no matter how happy they claim to be) will not bring him any additional peace and joy.  My goal is to help others, and I do not think that can be accomplished by sending this to him.  My thoughts below are all sincere---I genuinely appreciate that he was meticulous and dogged enough to document all that he has.  He was a big part of my faith transition, and I am glad for it (at this point).]
 
 # next draft
@@ -17,7 +24,7 @@ I was then able to re-examine the connection between spiritual experiences, test
 
 I understand that your intent is merely to espouse truth and follow the words of those who you believe have the Truth, and your intent is not to drive people from what you believe is True.  Nonetheless, I wanted to express my gratitude to you for helping me to make the mental jump to question my beliefs.  I have experienced great peace and joy in coming to my current understanding[^my_beliefs], and your tireless research and integrity were a significant part of that process for me.  In all sincerity, thank you.
 
-[^repeating_pattern]: <need to write>
+[^repeating_pattern]: X
 [^five_key_facts]: X
 [^testimony]: X
 [^my_journey]: X

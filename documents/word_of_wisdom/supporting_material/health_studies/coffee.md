@@ -1,3 +1,10 @@
+---
+title: "Health studies on coffee"
+permalink: /health-studies-on-coffee/
+doctype: snippet
+layout: page
+---
+
 ## Caffeine is not formally "addictive"
 
 Coffee and/or tea use are not addictive in the same way that tobacco use, drugs or heavy alcohol use are considered addictive.  Prolonged use of caffeine will typically create a physical dependency, but that does not constitute an *addiction*, formally speaking.

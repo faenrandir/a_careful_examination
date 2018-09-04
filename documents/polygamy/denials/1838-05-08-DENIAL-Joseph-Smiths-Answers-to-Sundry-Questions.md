@@ -1,4 +1,9 @@
-### The Prophet's Answers to Sundry Questions
+---
+title: "The Prophet's Answers to Sundry Questions"
+permalink: /prophets-answers-to-sundry-questions-1838/
+doctype: snippet
+layout: page
+---
 
 * [History of the Church vol 3, ch 3](https://byustudies.byu.edu/content/volume-3-chapter-3)
 

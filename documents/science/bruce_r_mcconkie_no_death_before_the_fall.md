@@ -1,3 +1,9 @@
+---
+title: "Bruce R. McConkie taught 'No Death Before the Fall'"
+permalink: /brm-taught-ndbf/
+doctype: snippet
+layout: page
+---
 
 https://www.lds.org/general-conference/1977/04/come-know-the-lord-jesus?lang=eng
 
@@ -43,8 +49,7 @@ https://www.lds.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
 
 ---
 
-There is no question about what Bruce R. McConkie personally believed on the
-topic.
+There is no question about what Bruce R. McConkie personally believed on the topic.
 
 In his CES Symposium on the New Testament he discussed how the sealed portion of the Book of Mormon would destroy the entire theory of evolution:
 

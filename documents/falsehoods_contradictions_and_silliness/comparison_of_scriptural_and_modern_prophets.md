@@ -1,5 +1,9 @@
-
-## Comparing scriptural and modern prophets
+---
+title: "Comparing scriptural and modern prophets"
+permalink: /comparing-scriptural-and-modern-prophets/
+doctype: snippet
+layout: page
+---
 
 1. Scriptural prophets generally go out and preach to groups of people who don’t believe in their teachings or may outright hate the prophet or group of believers. They put their lives in danger and face criticism to their arguments.
 

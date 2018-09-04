@@ -1,3 +1,9 @@
+---
+title: "LDS Church wrong on moral issues of the day"
+permalink: /wrong-on-moral-issues-of-the-day/
+doctype: snippet
+layout: page
+---
 
 > The LDS church has always been behind the times on the social issues.
 

@@ -1,3 +1,10 @@
+---
+title: "How transparent was LDS Church with living allowances"
+permalink: /how-transparent-was-lds-church-with-living-allowances/
+doctype: snippet
+layout: page
+---
+
 ## Introduction
 
 In early 2017, the salary/stipend amount of LDS General Authorities (GAs) [was leaked](https://mormonleaks.io/newsroom/2017-01-09-mormonleaks-releases-4-documents/).  The Church owned [Deseret News stated](http://www.deseretnews.com/article/865670786/MormonLeaks-dumps-four-new-documents-about-LDS-Church.html):

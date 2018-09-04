@@ -1,3 +1,10 @@
+---
+title: "The Missouri Garden of Eden Problem"
+permalink: /missiour-garden-of-eden-problem/
+doctype: snippet
+layout: page
+---
+
 The Church teaches that Adam and Eve walked out of the Garden of Eden into what is present day Missouri, USA.
 
 ### Current teachings

@@ -1,6 +1,13 @@
-[From Todd Compton's book "In Sacred Loneliness"]
+---
+title: "Exerpt: Sexuality in Joseph Smith's Plural Marriages"
+permalink: /compton-sexuality-in-joseph-smiths-plural-marriages/
+doctype: snippet
+layout: page
+---
 
-## Sexuality in Joseph Smith's Plural Marriages
+[Quoting from Todd Compton's book "In Sacred Loneliness"]
+
+---
 
 Joseph Smith’s first wife, Emma, allegedly told the wife of Apostle George A. Smith, Lucy, that Joseph Smith’s plural wives were “celestial” only, that he had no earthly marital relations with them. “They were only sealed for eternity they were not to live with him and have children.” Lucy later wrote that when she told this to her husband:
 

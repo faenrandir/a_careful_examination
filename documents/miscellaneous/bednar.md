@@ -1,3 +1,9 @@
+---
+title: "Behavior or teachings of David Bednar that some former Mormons find objectionable"
+permalink: /bednar-objectionable-to-former-mormons/
+doctype: snippet
+layout: page
+---
 
 Here are some examples of the behavior or teaching of David Bednar that some former mormons find objectionable:
 
@@ -13,4 +19,18 @@ Here are some examples of the behavior or teaching of David Bednar that some for
 
 1. [Do not date a girl with more than one earring](http://www.deseretnews.com/article/600132928/Apostle-counsels-Y-students-to-observe.html)
 
-\*\*originally compiled by [hasbrochem](https://www.reddit.com/r/exmormon/comments/6zdgyc/what_is_it_with_bednar/dmuhajx/)
+1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
+
+1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
+
+1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
+
+\*\* some points originally compiled by [hasbrochem](https://www.reddit.com/r/exmormon/comments/6zdgyc/what_is_it_with_bednar/dmuhajx/)
+
+---
+
+Some accounts of Bednar by former Mormons are favorable or somewhat favorable:
+
+[here](https://www.reddit.com/r/exmormon/comments/8ppkm3/return_report_david_a_bednar_visit/)
+
+[I also remember one account where a former member praised him for his focus, commitment and dedication, etc... need to find source]

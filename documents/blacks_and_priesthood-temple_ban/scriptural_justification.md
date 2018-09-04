@@ -1,4 +1,11 @@
-A simplistic reading of the Book of Moses and the Book of Abraham together lends apparent justification for the priesthood ban:
+---
+title: "The Pearl of Great Price provided justification for the priesthood ban"
+permalink: /pogp-justification-for-priesthood-ban/
+doctype: snippet
+layout: page
+---
+
+A simplistic reading of the Book of Moses and the Book of Abraham together lends apparent justification for the priesthood ban.
 
 [Moses 5:36-41](https://www.lds.org/scriptures/pgp/moses/5.36-41?lang=eng) (emphasis added):
 
@@ -13,7 +20,6 @@ A simplistic reading of the Book of Moses and the Book of Abraham together lends
 > 40 And I the Lord said unto him: Whosoever slayeth thee, vengeance shall be taken on him sevenfold. And **I the Lord set a mark upon Cain**, lest any finding him should kill him.
 
 > 41 And Cain was shut out from the presence of the Lord, and with his wife and many of his brethren dwelt in the land of Nod, on the east of Eden.
-
 
 [Moses 7:22](https://www.lds.org/scriptures/pgp/moses/7.22) (emphasis added):
 

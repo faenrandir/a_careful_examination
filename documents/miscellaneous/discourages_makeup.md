@@ -1,6 +1,11 @@
-I came from a family where my sisters were strongly encouraged to only use a
-very light amount of makeup.  This advice (i.e., use some makeup but only a light
-amount) is explicit and implicit throughout the Church.
+---
+title: "LDS Church discourages make-up"
+permalink: /discouraging-makeup/
+doctype: snippet
+layout: page
+---
+
+I came from a family where my sisters were strongly encouraged to only use a very light amount of makeup.  This advice (i.e., use some makeup but only a light amount) is explicit and implicit throughout the Church.
 
 Here are just a few examples (with emphasis added):
 

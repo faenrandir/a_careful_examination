@@ -1,4 +1,9 @@
-# Blacks and the Priesthood/Temple Ban
+---
+title: "Primary resources on the Priesthood/Temple Ban"
+permalink: /primary-resources-on-the-priesthood-ban/
+doctype: snippet
+layout: page
+---
 
 These are primary resources on the Black Priesthood/Temple ban.
 

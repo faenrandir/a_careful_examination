@@ -1,3 +1,9 @@
+---
+title: "McConkie and Ostler argue against the seer stone"
+permalink: /mcconkie-and-ostler-argue-against-the-seer-stone/
+doctype: snippet
+layout: page
+---
 
 Compare [the Book of Mormon Translation Essay](https://www.lds.org/topics/book-of-mormon-translation?lang=eng) with
 [Joseph Fielding McConkie and Craig J. Ostler's analysis](https://deseretbook.com/p/revelations-restoration-commentary-doctrine-covenants-other-modern-joseph-fielding-mcconkie-2703?variant_id=108775-ebook):

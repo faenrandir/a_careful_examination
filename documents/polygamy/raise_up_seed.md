@@ -1,3 +1,9 @@
+---
+title: "Polygamy for raising up seed?"
+permalink: /was-polygamy-to-raise-up-seed/
+doctype: snippet
+layout: page
+---
 
 From /u/pipesBcallin
 

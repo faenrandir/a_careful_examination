@@ -1,4 +1,9 @@
-# Why don't Mormons have paid clergy page removed
+---
+title: "Why don't Mormons have paid clergy page removed"
+permalink: /why-dont-mormons-have-paid-clergy-page-removed/
+doctype: snippet
+layout: page
+---
 
 mormon.org used to have a page entitled "Why don't Mormons have paid clergy?"
 

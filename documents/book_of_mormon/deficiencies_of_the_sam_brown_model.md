@@ -1,3 +1,10 @@
+---
+title: "Deficiencies in the Sam Brown model"
+permalink: /deficiencies-in-the-sam-brown-model/
+doctype: snippet
+layout: page
+---
+
 Rough draft thoughts from my original comment [here](https://www.reddit.com/r/mormondebate/comments/6x4gkh/i_am_very_curious_to_know_what_active_mormons/dmdxs4h/)
 
 Sam Brown would argue "we expect to see anachronisms" in the book (because of Joseph's imprint).  But this model has some significant deficiencies:

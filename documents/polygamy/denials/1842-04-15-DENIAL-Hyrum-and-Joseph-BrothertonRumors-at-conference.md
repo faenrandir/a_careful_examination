@@ -1,4 +1,9 @@
-### Times and Seasons, April 15, 1842
+---
+title: "Conference Minutes from April 6, 1842"
+permalink: /times-and-seasons-apr-15-1842-conference-minutes/
+doctype: snippet
+layout: page
+---
 
 * [Times and Seasons April 15, 1842 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200)
 * [pg. 763 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/73ec26aef1bb810069e954893f2ed3e6cf1759d8/documents/polygamy/denials/originals/1842-04-15-TimesAndSeasons-vol3-pg763.pdf)

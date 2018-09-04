@@ -1,4 +1,9 @@
-## Unpaid clergy anecdotes
+---
+title: "Unpaid clergy anecdotes"
+permalink: /unpaid-clergy-anecdotes/
+doctype: snippet
+layout: page
+---
 
 ### LDS Living Article
 

@@ -1,4 +1,9 @@
-## Rational for the Word of Wisdom
+---
+title: "Rationale for the Word of Wisdom"
+permalink: /rationale-for-word-of-wisdom/
+doctype: snippet
+layout: page
+---
 
 It appears that _any_ rationale that may be given for why tea and coffee are forbidden but other drinks are not---besides that God commanded it to be that way---cannot be sustained logically:
 

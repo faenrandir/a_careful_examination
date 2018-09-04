@@ -1,3 +1,9 @@
+---
+title: "Logic behind the sealing ceremony"
+permalink: /logic-behind-the-sealing-ceremony/
+doctype: snippet
+layout: page
+---
 
 The LDS Church today views the sealing ceremony---the means by which family relationships may be secured beyond the grave---as one of the most important doctrines revealed in this dispensation (e.g., [1](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [2](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), [2](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
 

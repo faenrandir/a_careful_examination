@@ -1,4 +1,10 @@
-# Summary of my beliefs relative to core LDS doctrine
+---
+title: "Summary of my beliefs relative to core LDS doctrine"
+permalink: /summary-of-beliefs-relative-to-LDS-doctrine/
+categories: [Beliefs]
+doctype: snippet
+layout: page
+---
 
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:
 

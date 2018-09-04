@@ -1,4 +1,11 @@
-https://www.reddit.com/r/exmormon/comments/97vswk/i_was_taught_that_those_who_left_the_church_were/
+---
+title: "Not believing is worse than Hitler"
+permalink: /not-believing-is-worse-than-hitler/
+doctype: snippet
+layout: page
+---
+
+From [here](https://www.reddit.com/r/exmormon/comments/97vswk/i_was_taught_that_those_who_left_the_church_were/)
 
 I was essentially closeted at the time but this was one of the last days I would attend seminary before deciding I couldn't play along anymore.
 

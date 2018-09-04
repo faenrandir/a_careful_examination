@@ -2,7 +2,7 @@
 title: "Testimony, spiritual experiences, and truth: A careful examination"
 permalink: /testimony-spiritual-experiences-truth/
 doctype: resource
-categories: [Truth Claims]
+categories: [Truth-Claims]
 featuredimage: /media/a-crater-lake.jpg
 layout: page
 ---

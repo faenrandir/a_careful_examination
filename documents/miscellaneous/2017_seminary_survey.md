@@ -1,3 +1,10 @@
+---
+title: "2017 Seminary end-of-year survey"
+permalink: /seminary-2017-end-of-year-survey/
+doctype: snippet
+layout: page
+---
+
 At the end of the LDS Seminary 2017 Student Learning Assessment Packet (New Testament), students were surveyed:
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "Influences on the Word of Wisdom"
+permalink: /influences-on-word-of-wisdom/
+doctype: snippet
+layout: page
+---
 
 We have heard considerable of late, especially since twelve months today, on the subject of the Word of Wisdom. Almost every elder who has spoken from this stand has felt the necessity and importance of calling the attention of the people to this subject. We are told, and very plainly too, that hot drinks—tea, coffee, chocolate, cocoa, and all drinks of this kind are not good for man. (Elder George Q. Cannon, 1868 [Journal of Discourses vol. 12, pg 221](http://jod.mrm.org/12/221))
 

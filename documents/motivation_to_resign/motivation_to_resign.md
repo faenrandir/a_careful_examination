@@ -1,4 +1,9 @@
-## Motivation to resign from the LDS Church
+---
+title: "Motivation to resign from the LDS Church"
+permalink: /motivation-to-resign/
+doctype: snippet
+layout: page
+---
 
 After having carefully and near-comprehensively analyzed the source data and both apologetic and antagonistic explanations of the foundational truth claims of the Church, I am convinced that the foundational truth claims of the Church do not stand up to scrutiny.
 
@@ -19,7 +24,7 @@ With all due humility, I am resigning so that:
 * I can freely support and affiliate with all groups and individuals who are striving to do good and be good, regardless of whether their teachings or practices contradict or oppose those currently accepted by the Church.
 * I might be a true brother and equal to all of humanity (neither above nor below) regardless of religious affiliation. To mourn with all those that mourn. And celebrate the good with all who rejoice.
 
-## Appendix---All or Nothing
+### Appendix---All or Nothing
 
 One of the mistakes we often make as humans is to grossly simplify complex issues.  Whether or not to stay in the Church after a person disbelieves in its truth claims can be a complex issue because there are often interpersonal relationships in place that should mitigate a person’s response (e.g., mixed faith marriage).  Similarly, I think that a member can continue believing in facets of the Church even while disagreeing with other substantial portions of it (e.g., believing in human evolution or that there wasn’t a global flood 4000 years ago can be made to be compatible with the Church on some level as long as a person is willing to tolerate the ensuing tension that such a reconciliation still must suffer from).
 

@@ -1,3 +1,9 @@
+---
+title: "Adam and Eve the first couple"
+permalink: /adam-and-eve-the-first-couple/
+doctype: snippet
+layout: page
+---
 
 > Adam, the first man, knew that he was a son of God.
 

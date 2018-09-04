@@ -1,4 +1,9 @@
-# Major sources of beliefs, light and knowledge
+---
+title: "Major sources of beliefs, light and knowledge"
+permalink: /sources-of-beliefs-light-knowledge/
+doctype: snippet
+layout: page
+---
 
 I find spiritual insight and inspiration in the following (even though I also tend to disagree with aspects of each):
 

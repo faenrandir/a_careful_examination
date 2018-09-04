@@ -1,8 +1,11 @@
+---
+title: "Charles Anthon's Proper Names and the Book of Mormon"
+permalink: /charles-anthon-proper-names-and-the-bom/
+doctype: snippet
+layout: page
+---
 
-The likelihood of matches like these _at random_ between a work as large as
-Anthon's and the Book of Mormon is high.  Still, this provides one reasonable
-source at the right time and place for many of the 'kinds' of names that
-appear in the Book of Mormon.
+The likelihood of matches like these _at random_ between a work as large as Anthon's and the Book of Mormon is high.  Still, this provides one reasonable source at the right time and place for many of the 'kinds' of names that appear in the Book of Mormon.
 
 1. [Memnon](https://archive.org/stream/1827classicaldic00lempuoft#page/n3/mode/2up/search/Memnon) → Mormon?
 

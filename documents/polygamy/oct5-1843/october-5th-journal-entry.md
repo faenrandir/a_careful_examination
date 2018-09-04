@@ -1,4 +1,9 @@
-### The October 5, 1843 Journal Entry
+---
+title: "The October 5, 1843 Journal Entry"
+permalink: /oct-5-1843-journal-entry/
+doctype: snippet
+layout: page
+---
 
 Summary: The original journal entry that had Joseph forbidding polygamy and wanting to try people for practicing or teaching it was drastically altered by later Church historians to countenance polygamy.
 

@@ -1,10 +1,15 @@
-## Archaeology of Cumorah
+---
+title: "Archaeology of Cumorah"
+permalink: /archaeology-of-cumorah/
+doctype: snippet
+layout: page
+---
 
 [Archaeology and Cumorah Questions](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1369&context=jbms). Journal of Book of Mormon Studies 13:1, article 15.
 
 > In summary, the archaeology of New York is persuasive evidence that Book of Mormon peoples did not live in that region. By implication, the Cumorah of the golden plates is not the Cumorah of the final battles. These conclusions follow from a few basic points and assumptions. First, I presume that the archaeology of New York State, as currently published (2004), is a fair representation and adequate sample of what is there, and particularly that the evidence for some periods has not been systematically destroyed. Second, I presume that the evidence published for the various regions and time periods is accurate—that is, that the majority of archaeologists working in this region are competent and academically honest in terms of their archaeology.  Third, I assume that additional research and discoveries will not significantly alter current understandings of the times or places of prehistoric occupation nor of the cultural practices involved; rather, such data will lead to minor adjustments to some of the details of prehistory. Fourth, the archaeological record lacks evidence for cities, sedentism, corn agriculture, fortifications, and dense populations during Archaic, Early Woodland, and Middle Woodland times. In accord with these general observations about New York and Pennsylvania, we come to our principal object—the Hill Cumorah. **Archaeologically speaking, it is a clean hill. No artifacts, no walls, no trenches, no arrowheads.  The area immediately surrounding the hill is similarly clean. Pre-Columbian people did not settle or build here. This is not the place of Mormon’s last stand**....
 
-## Statements of Church leaders
+## Statements of Church leaders on Cumorah
 
 I borrowed most of these from a compilation by NewNameNoah [here](https://web.archive.org/web/20070629160718/http://www.josephlied.com:80/cumorah.html).
 

@@ -1,4 +1,9 @@
-# The Proclamation on the Family: Scripture or Revelation?
+---
+title: "The Proclamation on the Family: Scripture or Revelation?"
+permalink: /proclamation-on-the-family-scripture-or-revelation/
+doctype: snippet
+layout: page
+---
 
 Sometimes a member will claim that "The Family: A Proclamation to the World" is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view it in that way, but close inspection suggests it is wrong to refer to the proclamation as scripture or revelation.
 
@@ -78,5 +83,3 @@ The circumstantial evidence strongly suggests that the Proclamation was written 
 
 * [exmormon](https://www.reddit.com/r/exmormon/comments/4c41ax/why_the_family_proclamation_should_not_be_called/)
 * [mormon](https://www.reddit.com/r/mormon/comments/4c41n1/why_the_family_proclamation_should_not_be_called/)
-
-

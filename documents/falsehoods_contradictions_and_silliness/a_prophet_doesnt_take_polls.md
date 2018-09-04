@@ -1,3 +1,10 @@
+---
+title: "A Prophet doesn't poll to see wind of public opinion"
+permalink: /a-prophet-does-not-poll-to-see-wind-of-public-opinion/
+doctype: snippet
+layout: page
+---
+
 According to Glenn L. Pace, Second Counselor in the Presiding Bishopric in the April 1989 General Conference:
 
 > A prophet doesn’t take a poll to see which way the wind of public opinion is blowing.

@@ -1,4 +1,10 @@
-Are members breaking promises when they leave the LDS Church?
+---
+title: "Are members breaking promises when they leave the LDS Church?"
+permalink: /is-leaving-breaking-promises/
+doctype: resource
+categories: [Faith Transitions]
+layout: page
+---
 
 ### Introduction
 

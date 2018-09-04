@@ -1,3 +1,9 @@
+---
+title: "Links to Hales's footnoted denials"
+permalink: /links-to-hales-footnoted-denials/
+doctype: snippet
+layout: page
+---
 
 I've provided each of the denials which Hales lists in footnote #1 below, with a link to the text of each denial:
 
@@ -14,4 +20,3 @@ I've provided each of the denials which Hales lists in footnote #1 below, with a
 11. [E. M. Webb, “Mormonism Unveiled,” Times and Seasons 6 (May 1, 1845): 893–94.](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e43ec69c68aea2e9b40d8ce0a684b798f332d21f/documents/polygamy/denials/1845-05-01-DENIAL-Times-and-Seasons-Mormonism-Unveiled.pdf)
 
 Hales includes several of the denials that I use (T&S Sept 1, 1842; "On Marriage" T&S Oct 1, 1842; May 26, 1844 Sermon).  However, he is missing the May 5, 1838 "Answers to Sundry Questions"; T&S April 15, 1842 Conference denial; August 31, 1842 Affidavits against Bennett; and the Oct 5, 1843 Journal entry.
-

@@ -1,3 +1,9 @@
+---
+title: "Izapa Stela 5 does not support the Book of Mormon"
+permalink: /izapa-stela-5-and-bom/
+doctype: snippet
+layout: page
+---
 
 From [A New Artistic Rendering of Izapa Stela 5: A Step toward Improved Interpretation](https://scholarsarchive.byu.edu/jbms/vol8/iss1/6/) by John E. Clark:
 

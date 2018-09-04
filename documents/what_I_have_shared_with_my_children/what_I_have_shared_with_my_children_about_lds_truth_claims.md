@@ -1,4 +1,9 @@
-## What I've taught my older children about LDS truth claims
+---
+title: "What I've taught my older children about LDS truth claims"
+permalink: /what-i-taught-older-children-lds-truth-claims/
+doctype: snippet
+layout: page
+---
 
 I have talked a few times with my older children about the evidence that suggests the Church might not be what it claims.  These talks are in proportion with their interest and age but typically have not been particularly long or in great depth.  I have tried to strike a balance between explaining my decision to leave the Church and simultaneously respecting the right of my children to form/develop their own beliefs.  I believe I have a moral obligation to discuss problematic issues with my children who are old enough to grasp the import of these issues so that they can fully exercise their agency in choosing what they want to believe and with what religious organizations they want to affiliate, if any.
 

@@ -1,4 +1,9 @@
-### Joseph Smith's polygamy and current LDS principles of marriage and honesty
+---
+title: "Joseph Smith's polygamy and current LDS principles of marriage and honesty"
+permalink: /joseph-smith-polygamy-lds-marriage-and-honesty/
+doctype: snippet
+layout: page
+---
 
 There appear to be major inconsistencies between how Joseph Smith practiced polygamy and the modern LDS teachings of these principles.
 
@@ -26,4 +31,4 @@ There appear to be major inconsistencies between how Joseph Smith practiced poly
 
 12. What made it okay for Joseph Smith (and other early leaders) to repeatedly lie about their practice of polygamy (JS directly or implicitly denied practicing polygamy 5 times in his own words, and was responsible for 3 additional direct denials).
 
-13. Why was it okay for Joseph Smith to re-seal himself to the Partridge sisters in order to hide the first sealings from Emma?
+13. Why was it okay for Joseph Smith to re-seal himself to the Partridge sisters in order to hide the first sealings from Emma?  [Note: the re-sealing ceremony may have been a fabrication which the Partridge sisters were pressured into making, but that still leaves JS performing the initial sealings behind Emma's back]

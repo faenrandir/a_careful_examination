@@ -1,4 +1,9 @@
-## Joseph Smith's Marriage/Sealing Dates
+---
+title: "Joseph Smith's Marriage/Sealing Dates"
+permalink: /joseph-smith-marriage-sealing-dates/
+doctype: snippet
+layout: page
+---
 
 I compiled a list of dates from Brian and Laura Hales (LDS apologists) Joseph Smith's Polygamy [Biographies of Joseph’s Plural Wives](http://josephsmithspolygamy.org/plural-wives-overview/) page and extracted sealing or marriage dates from each biography (extraction performed February 23, 2017).
 

@@ -1,4 +1,9 @@
-## Martha Brotherton Affidavit
+---
+title: "Martha Brotherton Affidavit"
+permalink: /martha-brotherton-affidavit/
+doctype: snippet
+layout: page
+---
 
 ### Background
 

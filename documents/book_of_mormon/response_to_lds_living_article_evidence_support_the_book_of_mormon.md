@@ -1,5 +1,11 @@
-Kathryn Jenkins Gordon recently read through the Book of Mormon with a
-distinct purpose:
+----
+title: "Response to LDS Living article on Evidence supporting the Book of Mormon"
+permalink: /response-to-lds-living-article-supporting-the-bom/
+doctype: snippet
+layout: page
+---
+
+Kathryn Jenkins Gordon recently read through the Book of Mormon with a distinct purpose:
 
 > I wanted to determine how many evidences were found in the Book of Mormon itself supporting the fact that it was translated from an ancient document and not written by Joseph Smith in the early 19th century.
 

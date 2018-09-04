@@ -1,4 +1,9 @@
-### Earth's fossils did not come from chunks of other planets
+---
+title: "Earth's fossils did not come from chunks of other planets"
+permalink: /fossils-not-from-chunks-of-other-planets/
+doctype: snippet
+layout: page
+---
 
 BYU Geology Professor and Associate Dean of the College of Physical and Mathematical Sciences, Bart Kowallis, recently gave a presentation where he addressed the idea that the fossils in the earth can be accounted for by the theory that the earth was made from chunks of other planets. [Here is the relevant discussion](https://www.youtube.com/watch?v=gpx9nWuRZe4&t=18m52s) (he elaborates and provides evidence for his position in the link):
 

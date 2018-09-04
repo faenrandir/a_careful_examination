@@ -1,5 +1,9 @@
-
-## How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?
+---
+title: "How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?"
+permalink: /how-likely-trito-isaiah-avoided-in-bom/
+doctype: snippet
+layout: page
+---
 
 ### Introduction
 

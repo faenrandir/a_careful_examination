@@ -1,3 +1,14 @@
+---
+title: "Letter to parents: Thoughts on the Word of Wisdom"
+permalink: /letter-thoughts-on-the-word-of-wisdom/
+doctype: snippet
+layout: page
+---
+
+_Note: Recent studies like [this one](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2931571-X/fulltext) call into question the idea that alcohol consumption may be neutral or beneficial to health.  I have yet to work these findings into an overall philosophy on alcohol consumption, although it is enough to discourage me personally from drinking any alcohol except in very limited ways._
+
+---
+
 Context: This is a letter I wrote to my mother and father about my current approach to the Word of Wisdom.  I recently resigned from the Church, and I have other siblings who have left and who I suspect will leave, so I wanted to establish some common ground and explain my current thinking as a way to build bridges of understanding.  I've added a few headers, simplified some of the wording, changed some formatting to make it more readable, and added a few thoughts that weren't in the original.
 
 ---

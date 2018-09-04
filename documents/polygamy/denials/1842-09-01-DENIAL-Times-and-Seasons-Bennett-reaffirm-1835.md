@@ -1,4 +1,9 @@
-### Time and Seasons Sept 1842 Notice
+---
+title: "Time and Seasons Sept 1842 Notice"
+permalink: /times-and-seasons-sep-1842-notice/
+doctype: snippet
+layout: page
+---
 
 * [Times and Seasons Vol 3 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200) no 21.
 * [pg 909 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/99dafe725c6e8d69e3d779eb90a33d337204cc91/documents/polygamy/denials/original-1842-09-01-Times-and-Seasons-Notice.pdf)

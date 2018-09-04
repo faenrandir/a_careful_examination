@@ -1,5 +1,9 @@
-
-### Why did Joseph not sire children with his plural wives?
+---
+title: "Why did Joseph not sire children with his plural wives?"
+permalink: /why-joseph-not-sire-children-plural-wives/
+doctype: snippet
+layout: page
+---
 
 1. All of the various possible descendants have not been tested for paternity yet.
 

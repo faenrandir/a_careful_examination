@@ -1,5 +1,9 @@
-
-### Time and Seasons March 15, 1844
+---
+title: "Time and Seasons March 15, 1844"
+permalink: /times-and-seasons-march-15-1844/
+doctype: snippet
+layout: page
+---
 
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 6.
 * [pg 474 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/f95a370b57ae8530ffc8891104bf944bf0edbfeb/documents/polygamy/denials/originals/1843-03-15-Times-and-Seasons-Letter-to-Editor.pdf)

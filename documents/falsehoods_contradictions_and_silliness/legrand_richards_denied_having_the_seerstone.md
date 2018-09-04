@@ -1,4 +1,9 @@
-## Legrand Richards denied the existence of the seerstone
+---
+title: "Legrand Richards denied the existence of the seerstone"
+permalink: /legrand-richards-denied-existence-of-seerstone/
+doctype: snippet
+layout: page
+---
 
 Whether to prevaricate or from benign ignorance of the facts, LeGrand Richards denied the existence of the seerstone:
 

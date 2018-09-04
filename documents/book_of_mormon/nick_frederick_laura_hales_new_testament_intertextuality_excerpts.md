@@ -1,3 +1,9 @@
+---
+title: "The New Testament in the Book of Mormon: Excerpts from Laura Hales's interview of BYU Religion Professor Nick Frederick"
+permalink: /nt-in-bom-lhales-interview-frederick/
+doctype: snippet
+layout: page
+---
 
 Excerpts from [Laura Hales's interview of BYU Religion Professor Nick Frederick](https://secure-hwcdn.libsyn.com/p/0/7/1/071b742fffedb4b4/LDSP_Nick_Frederick_Intertextuality.pdf?c_id=22467694&cs_id=22467694&expiration=1535077122&hwt=006d6fe5e116088a72c49cc1d0ee690b) (retrieved 2018-08-23).
 

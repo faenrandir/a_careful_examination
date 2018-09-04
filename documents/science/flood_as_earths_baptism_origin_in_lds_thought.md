@@ -1,4 +1,9 @@
-## The Flood as the Earth's Baptism: origin in LDS thought
+---
+title: "The Flood as the Earth's Baptism: origin in LDS thought"
+permalink: /flood-as-baptism-origin-in-LDS-thought/
+doctype: resource
+layout: page
+---
 
 ### Abstract
 

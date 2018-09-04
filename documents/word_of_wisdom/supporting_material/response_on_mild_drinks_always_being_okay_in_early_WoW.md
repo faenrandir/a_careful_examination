@@ -1,3 +1,11 @@
+---
+title: "Notes on mild drinks always being okay for early Word of Wisdom"
+permalink: /notes-on-mild-drinks-always-okay-early/
+doctype: snippet
+layout: page
+---
+
+[rough notes]
 
 http://onthisdayinmormonhistory.blogspot.com/2008/10/july-11th.html
 

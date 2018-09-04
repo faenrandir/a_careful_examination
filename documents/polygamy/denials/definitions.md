@@ -1,4 +1,9 @@
-# Definitions of terms related to LDS Leaders' Polygamy Denials
+---
+title: "Definitions of terms related to LDS Leaders' Polygamy Denials"
+permalink: /definitions-of-terms-polygamy-denials/
+doctype: snippet
+layout: page
+---
 
 ### Merriam-Webster
 
