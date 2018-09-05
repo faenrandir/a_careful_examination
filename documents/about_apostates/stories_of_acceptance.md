@@ -1,5 +1,5 @@
 ---
-titles: Stories of Acceptance
+title: Stories of Acceptance
 categories: [Faith Transitions]
 doctype: snippet
 layout: page

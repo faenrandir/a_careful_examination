@@ -1,7 +1,7 @@
 ---
 title: How those who leave the LDS Church are viewed
 permalink: /how-those-who-leave-are-viewed/
-doctype: compilation
+doctype: resource
 categories: [Faith Transitions]
 layout: page
 ---
@@ -600,5 +600,4 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 ### Other resources
 
 * [25 Things NOT to Say to a Loved One Leaving the Church (& what to say instead)](https://bycommonconsent.com/2017/01/15/25-things-not-to-say-to-a-loved-one-leaving-the-church-what-to-say-instead/)
-
 * [How those who stay are viewed]({{ "/how-those-who-stay-are-viewed/" | relative_url }})

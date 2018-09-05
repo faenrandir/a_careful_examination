@@ -171,11 +171,15 @@
 }
 
 
+p {
+    line-height: 1.3;
+}
 
 /**
  * Page content
  */
 .page-content {
+  line-height: $base-line-height;
   padding: $spacing-unit 0;
   flex: 1;
 }
@@ -242,6 +246,17 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  line-height: 1;
+
+  h1 {
+    @include relative-font-size(2.0);
+    font-weight: bold;
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.8);
+    }
+    margin-top: $spacing-unit;
+  }
 
   h2 {
     @include relative-font-size(1.9);

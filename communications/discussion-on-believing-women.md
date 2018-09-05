@@ -7,6 +7,8 @@ layout: page
 
 On March 23, 2018, Stephen Smoot published an article entitled [“Believing Women” Includes Believing Joseph Smith’s Plural Wives](https://www.plonialmonimormon.com/2018/03/believing-women-includes-believing-joseph-smiths-plural-wives.html).
 
+_I've since embedded some bare links into hyperlinks and used proper footnotes to make this more readable_
+
 ---
 
 [comment by bwv549]
@@ -15,54 +17,45 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
 1. Many of those who disagreed most about polygamy likely felt immense social pressure to not speak up/out about their experiences. For instance, we have almost no words on the matter from Nancy Marinda Johnson Hyde. Those who did speak out about polygamy likely felt immense social pressure to speak of it in favorable terms.
 
-2. Since it is related to how women’s stories were received during the polygamy era, we probably shouldn’t neglect Marth Brotherton’s experience with polygamy and how she was treated after refusing to enter the institution. Her experience offers a window into the kind of choice the brides had that accepted polygamy (i.e., what kinds of consequences might befall someone who did not accept an offer of polygamy?).
+2. Since it is related to how women’s stories were received during the polygamy era, we probably shouldn’t neglect Martha Brotherton’s experience with polygamy and how she was treated after refusing to enter the institution. Her experience offers a window into the kind of choice the brides had that accepted polygamy (i.e., what kinds of consequences might befall someone who did not accept an offer of polygamy?).
 
-https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/polygamy/denials/brotherton-affidavit.pdf
+    [Martha Brotherton's Affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/polygamy/denials/brotherton-affidavit.pdf)
 
-We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least in its general outline.[1]
+    We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least in its general outline.[^brothertonfactual]
 
-Joseph Smith referred to her story as “lies”[2]:
+    Joseph Smith referred to her story as “lies”[^smithsaidlies]:
 
-> Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for *there is no person that is acquainted with our principles would believe such lies*, except Sharp the editor of the “Warsaw Signal.”
+    > Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for *there is no person that is acquainted with our principles would believe such lies*, except Sharp the editor of the “Warsaw Signal.”
 
-Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett[3] which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
+    Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett[^smithspreadaffidavits] which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
 
-Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to defame Brotherton[4] in the most vigorous terms for daring to suggest the these brothers were practicing polygamy.
+    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to defame Brotherton[^pppdefamedher] in the most vigorous terms for daring to suggest the these brothers were practicing polygamy.
 
-The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
+    The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
 
-* BY would eventually have Brotherton sealed to him[5]
-* PPP would eventually take Elizabeth Brotherton as a polygamous wife.[6]
-* JS lied repeatedly about practicing polygamy,[7] but he was doing it nonetheless!
-* HCK ended up marrying a total of 43 women[8]
-
-[1]: https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/
-[2]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
-[3]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
-[4]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/originals/1842-08-Millenial-Star-Apostasy.pdf
-[5]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/brotherton_sealed_to_brigham_young_1870.pdf
-[6]: https://history.lds.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt
-[7]: https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/
-[8]: https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children
+    * BY would eventually have Brotherton sealed to him[^bysealed]
+    * PPP would eventually take Elizabeth Brotherton as a polygamous wife.[^pppelizabeth]
+    * JS lied repeatedly about practicing polygamy,[^jslied] but he was doing it nonetheless!
+    * HCK ended up marrying a total of 43 women[^hckmarriedmany]
 
 3. Most of your statements are later recollections that fail to capture the horror some of these women felt as it was playing out. Consider how HMK describes how she felt during the arrangement:
 
-> Just previous to my father’s starting upon his last mission but one, to the Eastern States, he taught me the principle [p. 1] of Celestial marriage, & having a great desire to be connected with the Prophet, Joseph, he offered me to him; this I afterwards learned from the Prophet’s own mouth. My father had but one Ewe Lamb, but willingly laid her upon the alter: how cruel this seamed to the mother whose heartstrings were already stretched untill they were ready to snap asunder, for he had taken Sarah Noon to wife & she thought she had made sufficient sacrafise, but the Lord required more. I will pass over the temptations which I had during the twenty four hours after my father introduced to me this principle & asked me if I would be sealed to Joseph, who came next morning & with my parents I heard him teach & explain the principle of [p. 1] Celestial marrage-after which he said to me, “If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred.
+    > Just previous to my father’s starting upon his last mission but one, to the Eastern States, he taught me the principle [p. 1] of Celestial marriage, & having a great desire to be connected with the Prophet, Joseph, he offered me to him; this I afterwards learned from the Prophet’s own mouth. My father had but one Ewe Lamb, but willingly laid her upon the alter: how cruel this seamed to the mother whose heartstrings were already stretched untill they were ready to snap asunder, for he had taken Sarah Noon to wife & she thought she had made sufficient sacrafise, but the Lord required more. I will pass over the temptations which I had during the twenty four hours after my father introduced to me this principle & asked me if I would be sealed to Joseph, who came next morning & with my parents I heard him teach & explain the principle of [p. 1] Celestial marrage-after which he said to me, “If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred.
 
-> This promise was so great that I will-ingly gave myself to purchase so glorious a reward. None but God & his angels could see my mother’s bleeding heart—when Joseph asked her if she was willing, she replied “If Helen is willing I have nothing more to say.” She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had scarcely seen her fifteenth summer, following in the same thorny path, in her mind she saw the misery which was as sure to come as the sun was to rise and set; but it was all hidden from me.
+    > This promise was so great that I will-ingly gave myself to purchase so glorious a reward. None but God & his angels could see my mother’s bleeding heart—when Joseph asked her if she was willing, she replied “If Helen is willing I have nothing more to say.” She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had scarcely seen her fifteenth summer, following in the same thorny path, in her mind she saw the misery which was as sure to come as the sun was to rise and set; but it was all hidden from me.
 
-https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one
+    [Helen Mar Kimball Whitney 1881 Autobiography](https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one)
 
-Which feelings are more relevant when asking about potential abuse: the horror many of these women felt when being pressured to enter into these arrangements, or their later reflections after they have come to peace about the situation and when they are living in a society where defense of polygamy was socially rewarded and polygamy had become an ideological battleground of existential proportion?
+    Which feelings are more relevant when asking about potential abuse: the horror many of these women felt when being pressured to enter into these arrangements, or their later reflections after they have come to peace about the situation and when they are living in a society where defense of polygamy was socially rewarded and polygamy had become an ideological battleground of existential proportion?
 
 4. _Regardless_ of how participants may have felt about polygamy, many of Joseph Smith’s actions are ethically problematic. Later acceptance of polygamy does nothing to address the ethical problems with how Joseph enacted polygamy.
 
-* Joseph had a second sealing performed to the Partridge sisters in order to hide the first sealings from Emma. Does it matter, ethically speaking, that the Partridge sisters were okay going along with this deception?
-* Joseph’s 3rd proposal to Zina came when she was a 7 month preganant newlywed. Under what ethical system is okay to proposition a 7 month pregnant newlywed for sealing? Her eventual acceptance that this was God’s will does nothing to absolve Smith. In that situation, there is immense pressure to generate spiritual experiences validating the proposal because, otherwise, the proposal is abominable and invalidates the woman’s entire worldview.
-* Emma viewed Joseph’s relationship with Fanny as adulterous, suggesting that Joseph didn’t get adequate buy-in from Emma. This is ethically problematic.
-* After the death of the Walker family’s mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, encouraging the father to leave on a two year mission to the eastern states. While the father was away, he married the 17 year old, Lucy. Under these circumstances, she should not have been made to feel pressured into this situation, regardless of her later disposition towards polygamy.
+    * Joseph had a second sealing performed to the Partridge sisters in order to hide the first sealings from Emma. Does it matter, ethically speaking, that the Partridge sisters were okay going along with this deception?
+    * Joseph’s 3rd proposal to Zina came when she was a 7 month preganant newlywed. Under what ethical system is okay to proposition a 7 month pregnant newlywed for sealing? Her eventual acceptance that this was God’s will does nothing to absolve Smith. In that situation, there is immense pressure to generate spiritual experiences validating the proposal because, otherwise, the proposal is abominable and invalidates the woman’s entire worldview.
+    * Emma viewed Joseph’s relationship with Fanny as adulterous, suggesting that Joseph didn’t get adequate buy-in from Emma. This is ethically problematic.
+    * After the death of the Walker family’s mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, encouraging the father to leave on a two year mission to the eastern states. While the father was away, he married the 17 year old, Lucy. Under these circumstances, she should not have been made to feel pressured into this situation, regardless of her later disposition towards polygamy.
 
-See https://mormonbandwagon.com/bwv549/five-key-facts/ for sources.
+    See [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) for sources.
 
 ---
 
@@ -108,33 +101,30 @@ BWV549 brings up some very good points. Stephen asked me to offer some observati
 
 Thank you for the thoughtful response, Brian. I respect your contributions to LDS scholarship, and, I think that in pursuit of truth the faithful perspective should be vigorously defended, and you’ve done an excellent job of defending that narrative given the available data.
 
-1.	I concede the point that the women who engaged in polygamy with JS viewed it as a religious practice. Minor pushback: Polygamy was viewed unfavorably by society at large, so leaving the institution and then calling attention to the fact that a person had engaged in polygamy would not have necessarily seemed wise, even if they had wanted to criticize the practice. Still, the point stands.
+1. I concede the point that the women who engaged in polygamy with JS viewed it as a religious practice. Minor pushback: Polygamy was viewed unfavorably by society at large, so leaving the institution and then calling attention to the fact that a person had engaged in polygamy would not have necessarily seemed wise, even if they had wanted to criticize the practice. Still, the point stands.
 
 2. > JCB’s fingerprints are all over the affidavit.
 
-What, in Brotherton’s affidavit do you believe was influenced by Bennett? What aspects of her affidavit do you believe may be inaccurate? More importantly, do those innacuracies undermine the primary claim of the affidavit (i.e., she was propositioned by BY with the help of JS and told to keep it secret)? What prevented LDS leadership from correcting the inaccuracies specifically, rather than throwing Brotherton under the bus completely? Aren’t LDS priesthood leaders expected to reprove with sharpness (aka “precision”) per D&C 121.
+    What, in Brotherton’s affidavit do you believe was influenced by Bennett? What aspects of her affidavit do you believe may be inaccurate? More importantly, do those innacuracies undermine the primary claim of the affidavit (i.e., she was propositioned by BY with the help of JS and told to keep it secret)? What prevented LDS leadership from correcting the inaccuracies specifically, rather than throwing Brotherton under the bus completely? Aren’t LDS priesthood leaders expected to reprove with sharpness (aka “precision”) per D&C 121.
 
-> it came months later after JCB helped her write the affidavit and publish it.
+    > it came months later after JCB helped her write the affidavit and publish it.
 
-Joseph Smith and Hyrum both discredited Martha in GC (April, I think) before her affidavit was published (August, if I remember correctly). It _was_ after rumors had spread, so this is a point of minor clarification. Your main point stands: the data suggest that women were not discredited publicly until their story became public.
+    Joseph Smith and Hyrum both discredited Martha in GC (April, I think) before her affidavit was published (August, if I remember correctly). It _was_ after rumors had spread, so this is a point of minor clarification. Your main point stands: the data suggest that women were not discredited publicly until their story became public.
 
-Finally, are you okay that women were libelled by early LDS leaders for publicly sharing that they were propositioned? From Martha’s standpoint, she was clearly standing for truth and to be a voice of warning (i.e., “LDS leaders say they aren’t practicing polygamy, but they are! Beware.”).
+    Finally, are you okay that women were libelled by early LDS leaders for publicly sharing that they were propositioned? From Martha’s standpoint, she was clearly standing for truth and to be a voice of warning (i.e., “LDS leaders say they aren’t practicing polygamy, but they are! Beware.”).
 
 3. I concede this point, although, in general, I have no interest in trying to defend Bennett’s claims (too many inaccuracies and wild exaggerations). I will note that a deeper examination of these spurned proposals hardly redeems the character of Joseph Smith (https://thoughtsonthingsandstuff.com/defending-the-expositor-joseph-and-the-women-who-said-nope-a-response-to-brian-hales-part-2/) and another analysis of the consequences women faced when attempting to reject a proposal is worth consideration (https://thoughtsonthingsandstuff.com/defending-the-expositor-indecent-proposals-pt1/)
 
 4. > As in the case of Brotherton and also Sarah Pratt (and to a lesser extent Jane Law), JS aggressively defended himself, which included attacking claims he considered to be untrue (please see my trilogy vol. 1-2 for more discussion).
 
-I am happy to engage with any documentation that is publicly available. I’ve read most everything you have posted online and have spent a while digging in mormonpolygamydocuments, so I am comfortable suggesting that you have not directly addressed these problems yet:
+    I am happy to engage with any documentation that is publicly available. I’ve read most everything you have posted online and have spent a while digging in mormonpolygamydocuments, so I am comfortable suggesting that you have not directly addressed these problems yet:
 
-A. Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and besmirched Brotherton in doing so).[1]
-B. Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith would have known those statements were false and misleading.[2]
+    * Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and besmirched Brotherton in doing so).[^jsbesmirchedmartha]
+    * Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith would have known those statements were false and misleading.[^jsknewmisleading]
 
-[1]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
-[2]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
+    > I maintain if these women had stayed silent, JS would have stayed silent too.
 
-> I maintain if these women had stayed silent, JS would have stayed silent too.
-
-Do you believe that a woman deserves to be publicly called a liar if they accurately report a private proposition in order to shed light on a system of dishonesty (e.g., they say they aren’t doing polygamy but they are)? Even if they felt compelled by the circumstances initiated by the propositioner to promise that they would keep the proposition a secret?
+    Do you believe that a woman deserves to be publicly called a liar if they accurately report a private proposition in order to shed light on a system of dishonesty (e.g., they say they aren’t doing polygamy but they are)? Even if they felt compelled by the circumstances initiated by the propositioner to promise that they would keep the proposition a secret?
 
 5. Agreed.
 
@@ -144,23 +134,23 @@ Do you believe that a woman deserves to be publicly called a liar if they accura
 
 8. > Zina Huntington was according to her brothers, sealed to JS “for eternity” in a nonsexual sealing. Her legal husband remained true to JS as did she.
 
-What impact did this sealing have on the relationship between Zina and Henry Jacobs? To whom will Zina’s children (2 from Henry and one from BY) belong in the eternities? What moral goods were brought about as a result of this sealing? What moral harms were experienced?
+    What impact did this sealing have on the relationship between Zina and Henry Jacobs? To whom will Zina’s children (2 from Henry and one from BY) belong in the eternities? What moral goods were brought about as a result of this sealing? What moral harms were experienced?
 
-Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/
+    Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See [primary focus of early sealing ceremonies](https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/)
 
-So, in its first 2 years, the “sealing” was not focused on linking families together, but linking polygamous wives to priesthood leaders. (This changed in the spring of 1843, perhaps related to when PPP was introduced to the practice)
+    So, in its first 2 years, the “sealing” was not focused on linking families together, but linking polygamous wives to priesthood leaders. (This changed in the spring of 1843, perhaps related to when PPP was introduced to the practice)
 
 9. Agreed.
 
 10. I’m aware that permission was granted by the older brother. I don’t think brotherly permission fully exculpates JS in his duties as foster parent. It’s hard to imagine anyone objectively analyzing JS’s conduct in this case and agreeing that this arrangement was in Lucy’s best interest (even if polygamy were a true principle). Again, the feelings Lucy had upon receiving this proposal are a good indicator of how ethically problematic this proposal was in its structure. JS may have executed it as a perfect gentleman, but it was the proposal itself, under those circumstances, that makes it ethically problematic.
 
-Also, was JS equally concerned that the Walker brothers receive their sealing?
+    Also, was JS equally concerned that the Walker brothers receive their sealing?
 
 11. This is a great point in defense of polygamy and JS. And, while I think it will hold much water for believing members, I think it does not go far enough because:
 
-A) statements of these women about their _initial_ experience, thoughts, and feelings are more germane to the question of undue influence than later acceptance of the practice. To restate, undue influence is more about power dynamics and the manner in which decisions are presented to participants hence statements detailing the proposition experience itself are more relevant than later statements showing support of polygamy (I concede these are still relevant, just less so, IMO).
+    A) statements of these women about their _initial_ experience, thoughts, and feelings are more germane to the question of undue influence than later acceptance of the practice. To restate, undue influence is more about power dynamics and the manner in which decisions are presented to participants hence statements detailing the proposition experience itself are more relevant than later statements showing support of polygamy (I concede these are still relevant, just less so, IMO).
 
-B) We can point to other groups whose adherents fully bought into an ethically problematic system (e.g., scientology, heaven’s gate, Jonestown, Branch Davidians, FLDS, etc). Adherent acceptance of a practice does not necessarily mean it was ethical.
+    B) We can point to other groups whose adherents fully bought into an ethically problematic system (e.g., scientology, heaven’s gate, Jonestown, Branch Davidians, FLDS, etc). Adherent acceptance of a practice does not necessarily mean it was ethical.
 
 Thank you again for the discussion and for considering these points.
 
@@ -207,3 +197,24 @@ If Gina Colvin and John Dehlin and Zelph on the Shelf want us to “believe wome
 ([table](https://i1.wp.com/www.plonialmonimormon.com/wp-content/uploads/2018/03/Chap-33-Table-3.jpg?ssl=1)) (for JTP copy, see images/Chap-33-Table-3.jpg)
 
 1. Brian C. Hales, Joseph Smith’s Polygamy: History and Theology (Salt Lake City: Greg Kofford Books, 2013), 390.
+
+[^brothertonfactual]: https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/
+
+[^smithsaidlies]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
+
+[^smithspreadaffidavits]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
+
+[^pppdefamedher]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/originals/1842-08-Millenial-Star-Apostasy.pdf
+
+[^bysealed]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/brotherton_sealed_to_brigham_young_1870.pdf
+
+[^pppelizabeth]: https://history.lds.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt
+
+[^jslied]: https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/
+
+[^hckmarriedmany]: https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children
+
+[^jsbesmirchedmartha]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
+
+[^jsknewmisleading]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
+

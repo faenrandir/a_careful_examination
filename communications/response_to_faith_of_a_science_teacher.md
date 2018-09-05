@@ -3,7 +3,7 @@ title: "Faith of a naturalist: response to “Faith of a Science Teacher” ques
 permalink: /faith-naturalist-response-faith-science-teacher-questions/
 categories: [Truth-Claims]
 featuredimage: /media/sun_over_earth.5091372229_ebca868ffd_o.jpg
-doctype: communication
+doctype: response
 layout: page
 ---
 

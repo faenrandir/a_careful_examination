@@ -1,8 +1,9 @@
 ---
 title: "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
-permalink: /to-peak-behind-the-curtain/
+permalink: "/to-peak-behind-the-curtain/"
 categories: [Questioning]
-doctype: resource
+doctype: introductory-resource
+featuredimage: "/media/o-WOMAN-WINDOW-facebook.half_.jpg"
 layout: page
 ---
 
@@ -20,7 +21,7 @@ Other members may feel that a thorough investigation is too far outside their ab
 
 Some members may be so committed to particular facets of the Gospel (say, the Book of Mormon or the happiness they feel in a community of Saints) that the question of whether the truth-claims stand up to scrutiny feels completely irrelevant to them.[^pointbyantimormonmoroni]
 
-For example, some feel that their initial examination of the Church is enough to merit their lifelong devotion.  They know that living the Church lifestyle generally makes people happy and that is enough for them.  They would rather focus on *living* the Church than on finding information that might detract from their happiness and the happiness of those around them.
+For example, some feel that their initial examination of the Church is enough to merit their lifelong devotion.  They also know that living the Church lifestyle generally makes people happy and many experience significant resonance between their actions and the principles upon which they are basing their decisions, ultimately confirming the LDS position to their mind.  They would rather focus on *living* the Church than on finding information that might detract from their happiness and the happiness of those around them.
 
 ### Become vulnerable to loss or change
 
@@ -30,7 +31,7 @@ To investigate is to open oneself up to potential loss or change in at least two
 
 The following are the major ways in which a person's entire understanding of their past and present purpose and meaning may be altered through investigation:
 
-![Major consequences of critical investigation of the LDS Church's truth-claims](http://i.imgur.com/oNgakMX.png)
+![Major consequences of critical investigation of the LDS Church's truth-claims](http://i.imgur.com/oNgakMX.png){:class="img-responsive"}
 
 Some examples might include a re-assessment of the value of having paid large amounts of tithing and the manner in which a person treated "wayward" family members.[^examplesofchangedmeaning]
 

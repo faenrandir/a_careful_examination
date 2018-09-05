@@ -9,6 +9,13 @@ dl, dd, ol, ul, figure {
 }
 
 
+hr {
+    margin-top: 3px;
+    margin-bottom: 5px;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+
 
 /**
  * Basic styling
@@ -42,6 +49,7 @@ ul, ol, dl, figure,
 
 p {
   margin-left: $spacing-unit;
+  line-height: $base-line-height;
 }
 
 
@@ -82,12 +90,15 @@ figcaption {
  */
 ul, ol {
   margin-left: ($spacing-unit * 2.25);
+  margin-bottom: $spacing-unit / 2;
+  line-height: $base-line-height;
 }
 
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: $spacing-unit / 2;
+    line-height: $base-line-height;
   }
 }
 
