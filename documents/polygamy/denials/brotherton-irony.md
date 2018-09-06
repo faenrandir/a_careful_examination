@@ -5,6 +5,8 @@ doctype: snippet
 layout: page
 ---
 
+[**VERY ROUGH DRAFT**]
+
 ### Introduction
 
 Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley P. Pratt, and Brigham Young---each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young, aided by Heber C. Kimball and Joseph Smith.  However, the actions of these five individuals---who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy---would ultimately vindicate the substance of Martha's story and hence her character.  This document presents the denunciations and the events which would later prove those denunciations misinformed, hollow, or even highly ironic.
@@ -23,6 +25,8 @@ proposition.  The following key points are made:
 5. The marriage would be performed without the knowledge of her parents (Fanny Alger, Partridges, Lucy Walker, etc..??).
 6. Pressure was applied to accept the proposition immediately.
 
+Every one of these six points is consistent with the general nature of others of Joseph Smith and other leaders' propositions.
+
 Potentially controversial aspects:
 
 * The purported statement of Brigham Young "I will have a kiss, any how".
@@ -31,7 +35,6 @@ Potentially controversial aspects:
 Neither of these seem beyond the general character of Brigham Young.
 
 > I say, woe to you Eves if you proclaim or entertain feelings against this doctrine! Woe to every female in this Church who says, “I will not submit to the doctrine that God has revealed.” You will wake up by and by and say, “I have lost the crown and exaltation I might have gained had I only been faithful to my covenants and the revelations which God gave. I might have been crowned as well as you, but now I must go to another kingdom.” Be careful, O, ye mothers in Israel, and do not teach your daughters in future, as many of them have been taught, to marry out of Israel. Woe to you who do it; you will lose your crowns as sure as God lives. Be careful! [JOD](http://jod.mrm.org/12/93)
-
 
 > Emily, if you will not betray me, I will tell you something for your benefit.’ Of course I would keep his secret...he asked me if I would burn it if he would write me a letter. I began to think that was not the proper thing for me to do and I was about as miserable as I ever would wish to be...I went to my room and knelt down and asked my father in heaven to direct me...[At Joseph’s insistence] I could not speak to any one on earth...I received no comfort till I went back...to say I could not take a private letter from him. [EmilyAndEliza](http://www.wivesofjosephsmith.org/2021-EmilyandElizaPartridge.htm)
 
@@ -52,6 +55,12 @@ With the help of John C. Bennett (initiated by him?), Martha prepared [an affida
 
 ### The Character Assasination
 
+[detail the affidavit against Bennett focusing on Brotherton]
+
+#### Heber C. Kimball
+
+[need to discuss]
+
 #### Elizabeth Brotherton
 
 To counteract the material that would be published in Bennet's Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered [and published](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/12e1a31745c0bc3f2d45f0b53ca7d5e5f813d9fb/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf).
@@ -62,15 +71,21 @@ Among those whose testimony was enlisted to besmirch Martha's character was Eliz
 
 Of course, the various LDS leaders had vigorously denied accusations of polygamy and seemed to have completely dismissed the rumors spread about the Brotherton proposition, so it seems reasonable for Elizabeth to side with Church leaders in calling Martha a liar.
 
+#### Parley P. Pratt
+
+Later in the same year Parley P. Pratt would write a scathing article condemning Brotherton in the Millenial Star (he doesn't mention her by name, but it's clearly referring to her) as a liar and talking about how it was such a lie that the Brethren would be practicing polygamy. Within 2 years, Elizabeth would become PPP's plural wife, and in 1870 Elizabeth would stand in proxy for Martha to be sealed to BY as a plural wife for eternity. So, Martha was the only person who had been telling the truth, but her name had been dragged through the mud by everyone, including her sister who, at least at the time, didn't know any better. Eventually her sister and PPP had to eat major crow in both entering into a polygamous marriage with one another. And BY comes off looking like a liar and a long-distance sexual predator when he ends up sealing himself to Brotherton in the end anyway. You couldn't make this stuff up. [I have links to all the first hand sources on all this if needed]
+
+#### Joseph Smith
+
+As mentioned, Smith denounced the rumours and then was responsible for the spreading of the affidavits against Brotherton's character.  Smith had [X] wives by the time the affidavits against Bennett were published.
+
 #### Brigham Young
 
 Brigham Young would testify in [the affidavits against Bennett](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/12e1a31745c0bc3f2d45f0b53ca7d5e5f813d9fb/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf) (emphasis added):
 
 > I do hereby testify that the affidavit of Miss Martha Brotherton that is going the rounds in the political and religious papers, **is a base falsehood, with regard to any private intercourse or unlawful conduct or conversation with me**.
 
-#### Parley P. Pratt
-
-Later in the same year Parley P. Pratt would write a scathing article condemning Brotherton in the Millenial Star (he doesn't mention her by name, but it's clearly referring to her) as a liar and talking about how it was such a lie that the Brethren would be practicing polygamy. Within 2 years, Elizabeth would become PPP's plural wife, and in 1870 Elizabeth would stand in proxy for Martha to be sealed to BY as a plural wife for eternity. So, Martha was the only person who had been telling the truth, but her name had been dragged through the mud by everyone, including her sister who, at least at the time, didn't know any better. Eventually her sister and PPP had to eat major crow in both entering into a polygamous marriage with one another. And BY comes off looking like a liar and a long-distance sexual predator when he ends up sealing himself to Brotherton in the end anyway. You couldn't make this stuff up. [I have links to all the first hand sources on all this if needed]
+[would eventually seal Brotherton to himself]
 
 ### Vindication
 

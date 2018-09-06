@@ -5,6 +5,8 @@ doctype: snippet
 layout: page
 ---
 
+[**VERY ROUGH DRAFT**]
+
 Bennett is a complicated source.  On some level, it is clear that he had access to inside information that has been verified by scholars over time (for instance, he was able to indicate by initials many of Joseph's early polygamous wives).  At the same time, [he was a serial adulterer](http://mormonpolygamydocuments.org/john-c-bennett-joseph-smiths-polygamy-addressing-question-reliability/), and [it is difficult to interpret many of his statements as anything but lies](https://archive.org/stream/jmormhist.42.3.0094#page/n1/mode/1up).  So, there are very good reasons to consider Bennett a compromised and untrustworthy source, generally.
 
 Martha had been a faithful Saint, emigrating from England with her family ([arriving in Nauvoo the 25th of November, 1841](http://restorationbookstore.org/articles/nopolygamy/jsfp-vol2/2chp1.htm)) to settle in Nauvoo.  All modern scholars (including those who deny that Joseph Smith himself was involved) agree that a proposition event took place.  This event then triggered Martha to tell her parents, causing them to spread news of the proposition among the Saints and that would convince them to leave Nauvoo even though they would leave two sisters and a brother-in-law behind.
