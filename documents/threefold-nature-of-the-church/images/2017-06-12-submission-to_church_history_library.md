@@ -37,7 +37,7 @@ Response to CH73849
 
 Our response is:
 
-John,
+[bwv549],
 
 I apologize for the delay in responding to your request. The question you are asking may not have been answered in the past, not because the department was trying to hide anything, but because there is no easy way to answer it. A report could be run easily enough to produce the numbers of collections currently coded to "open" and the number coded to "closed," but that would not give you accurate information. There are a few reasons why.
 
@@ -52,8 +52,6 @@ I hope that helps.
 
 Sincerely,
 
-Marie Erickson
-
-Reference Librarian
-
-Church History Library
+    [Librarian's Name]
+    Reference Librarian
+    Church History Library
