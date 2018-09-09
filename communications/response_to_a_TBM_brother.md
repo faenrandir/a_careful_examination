@@ -1,6 +1,6 @@
 ---
 title: "Response to a brother's list of why church is true"
-permalink: /response-to-a brothers-list-of-why-church-true/
+permalink: /response-to-a-brothers-list-of-why-church-true/
 doctype: response
 layout: page
 ---

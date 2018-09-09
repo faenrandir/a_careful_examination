@@ -1,4 +1,4 @@
-----
+---
 title: "Response to LDS Living article on Evidence supporting the Book of Mormon"
 permalink: /response-to-lds-living-article-supporting-the-bom/
 doctype: response
