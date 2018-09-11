@@ -1,7 +1,8 @@
 ---
 title: "Assessing the accuracy of Martha Brotherton's affidavit"
 permalink: /assessing-accuracy-brotherton-affidavit/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

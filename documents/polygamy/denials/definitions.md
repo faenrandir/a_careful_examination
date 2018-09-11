@@ -1,7 +1,8 @@
 ---
 title: "Definitions of terms related to LDS Leaders' Polygamy Denials"
 permalink: /definitions-of-terms-polygamy-denials/
-doctype: snippet
+maintopic: polygamy
+doctype: definitions
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Stories of Traumatic Faith Transitions
 permalink: /stories-of-traumatic-faith-transitions/
-doctype: snippet
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

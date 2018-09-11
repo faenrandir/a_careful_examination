@@ -249,6 +249,10 @@ table {
   min-height: 55.95px;
   position: relative; }
 
+.resource-type-listing {
+  color: #363636;
+  font-size: 60%; }
+
 .site-title {
   font-size: 26px;
   font-weight: 300;

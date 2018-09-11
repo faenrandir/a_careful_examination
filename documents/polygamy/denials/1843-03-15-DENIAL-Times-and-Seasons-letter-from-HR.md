@@ -1,7 +1,8 @@
 ---
 title: "Letter to editor from 'H. R.' - Times and Seasons, 15 March 1843"
 permalink: /letter-to-ed-from-hr-times-and-seasons-1843/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

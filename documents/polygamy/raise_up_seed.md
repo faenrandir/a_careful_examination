@@ -1,7 +1,8 @@
 ---
 title: "Polygamy for raising up seed?"
 permalink: /was-polygamy-to-raise-up-seed/
-doctype: snippet
+maintopic: polygamy
+doctype: resource-transcription
 layout: page
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Evidence suggesting Emma approved of some marriages"
 permalink: /evidence-suggesting-emmas-approval/
+maintopic: polygamy
+doctype: resource
 layout: page
-doctype: snippet
 ---
 
 #### lds.org Nauvoo Plural Marriage essay

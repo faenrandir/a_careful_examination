@@ -1,7 +1,8 @@
 ---
 title: "Martha Brotherton and the Five Ironies"
 permalink: /martha-brotherton-and-the-five-ironies/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

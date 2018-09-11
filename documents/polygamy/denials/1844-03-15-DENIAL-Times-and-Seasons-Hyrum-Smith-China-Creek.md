@@ -1,7 +1,8 @@
 ---
 title: "Time and Seasons March 15, 1844"
 permalink: /times-and-seasons-march-15-1844/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

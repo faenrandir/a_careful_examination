@@ -1,7 +1,8 @@
 ---
 title: "1844 Millenial Star polygamy denial"
 permalink: /1844-millenial-star-polygamy-denial/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

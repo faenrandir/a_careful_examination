@@ -1,7 +1,8 @@
 ---
 title: "Address of the Prophet: His Testimony Against the Dissenters at Nauvoo."
 permalink: /joseph-smith-testimony-against-dissenters-at-nauvoo/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

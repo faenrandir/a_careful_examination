@@ -1,7 +1,8 @@
 ---
 title: "The October 5, 1843 Journal Entry"
 permalink: /oct-5-1843-journal-entry/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

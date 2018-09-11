@@ -1,7 +1,8 @@
 ---
 title: "1837. Messenger and Advocate, vol. 3, no. 8"
 permalink: /messenger-and-advocate-1837-vol3no8/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

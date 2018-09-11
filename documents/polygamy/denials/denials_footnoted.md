@@ -1,6 +1,7 @@
 ---
 title: "Links to Hales's footnoted denials"
 permalink: /links-to-hales-footnoted-denials/
+maintopic: polygamy
 doctype: snippet
 layout: page
 ---

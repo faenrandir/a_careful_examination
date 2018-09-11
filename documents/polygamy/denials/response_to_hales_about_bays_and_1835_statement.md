@@ -1,11 +1,12 @@
 ---
 title: "Response to Brian Hales about Bays and the 1835 statement on marriage"
 permalink: /response-to-hales-on-bays-1835/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 
-[posted [here](https://www.reddit.com/r/mormon/comments/7mz62z/response_to_brian_hales_bays_defense_of_the_1835/)]
+posted [here](https://www.reddit.com/r/mormon/comments/7mz62z/response_to_brian_hales_bays_defense_of_the_1835/)
 
 Brian Hales responded to [this infographic](https://i.imgur.com/kSqAl.jpg) and his response was reproduced [here](https://www.reddit.com/r/exmormon/comments/7mygfk/fresh_bullshit_from_hales_have_at_it_heathens/) and [here](https://www.reddit.com/r/mormon/comments/7myr6q/love_this_history_from_ubrianhales/).  I may respond to other parts, but I want to focus on one defense for now:
 

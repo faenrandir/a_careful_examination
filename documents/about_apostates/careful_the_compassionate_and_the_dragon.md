@@ -1,7 +1,7 @@
 ---
 title: Careful the Compassionate and the Dragon over the Mountain
 permalink: /careful-the-compassionate-and-the-dragon-over-the-mountain/
-categories: [Faith Transitions]
+maintopic: faith-transitions
 doctype: resource
 layout: page
 ---

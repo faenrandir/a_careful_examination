@@ -1,7 +1,8 @@
 ---
 title: "1835 Doctrine and Covenants 101:4"
 permalink: /1835-doctrine-and-covenants-101-4/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source 
 layout: page
 ---
 

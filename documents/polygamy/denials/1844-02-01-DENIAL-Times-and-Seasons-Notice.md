@@ -1,7 +1,8 @@
 ---
 title: "Time and Seasons February 1, 1844 Notice"
 permalink: /times-and-seasons-feb1-1844-notice/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

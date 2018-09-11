@@ -1,7 +1,8 @@
 ---
 title: "The Prophet's Answers to Sundry Questions"
 permalink: /prophets-answers-to-sundry-questions-1838/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

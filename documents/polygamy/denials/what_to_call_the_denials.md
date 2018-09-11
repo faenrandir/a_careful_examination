@@ -1,7 +1,8 @@
 ---
 title: "What to call the polygamy denials?"
 permalink: /what-to-call-polygamy-denials/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

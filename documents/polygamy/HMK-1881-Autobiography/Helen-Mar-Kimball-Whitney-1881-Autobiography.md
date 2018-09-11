@@ -1,7 +1,8 @@
 ---
 title: "Helen Mar Kimball Whitney 1881 Autobiography"
 permalink: /helen-mar-kimball-whitney-1881-autobiography/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "On Marriage - 1842 Times and Seasons vol 3, no 23"
 permalink: /on-marriage-1842-times-and-seasons/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

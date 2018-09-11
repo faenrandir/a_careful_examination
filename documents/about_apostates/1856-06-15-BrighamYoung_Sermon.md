@@ -1,6 +1,8 @@
 ---
 title: Never love your wives one hair's breadth further than they adorn the Gospel
-doctype: snippet
+permalink: /never-love-wives-more-than-they-adorn-gospel/
+maintopic: faith-transitions
+doctype: historical-resource
 layout: page
 ---
 

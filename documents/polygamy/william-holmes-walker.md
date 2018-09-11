@@ -1,7 +1,8 @@
 ---
 title: "William Holmes Walker not sealed by JS to Olive Hovey Farr"
 permalink: /william-holmes-walker-and-olive-hovey-farr/
-doctype: snippet
+maintopic: polygamy
+doctype: resource-snippet
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Millenial Star - Who is the Liar?"
 permalink: /millenial-star-1850-who-is-the-liar/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Former members treated differently than members at BYU"
 permalink: /former-members-treated-differently-than-members-at-byu/
-doctype: snippet
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

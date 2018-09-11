@@ -1,7 +1,8 @@
 ---
 title: "Why did Joseph not sire children with his plural wives?"
 permalink: /why-joseph-not-sire-children-plural-wives/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

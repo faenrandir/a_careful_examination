@@ -1,7 +1,8 @@
 ---
 title: "Why do people leave the LDS Church?"
 permalink: /why-do-people-leave-the-lds-church/
-doctype: snippet
+maintopic: faith-transitions
+doctype: links
 layout: page
 ---
 

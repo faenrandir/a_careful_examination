@@ -1,7 +1,8 @@
 ---
 title: "Joseph Smith's Marriage/Sealing Dates"
 permalink: /joseph-smith-marriage-sealing-dates/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-resource
 layout: page
 ---
 

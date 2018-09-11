@@ -1,7 +1,8 @@
 ---
 title: "Brigham Young sealed Martha Brotherton to himself with proxy"
 permalink: /brigham-young-sealed-to-martha-brotherton/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Time and Seasons May 1, 1845 'Mormonism Unveiled'"
 permalink: /times-and-seasons-may-1-1845-mormonism-unveiled/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exerpt: Sexuality in Joseph Smith's Plural Marriages"
 permalink: /compton-sexuality-in-joseph-smiths-plural-marriages/
-doctype: snippet
+doctype: book-excerpt
+maintopic: polygamy
 layout: page
 ---
 

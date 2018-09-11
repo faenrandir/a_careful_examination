@@ -1,7 +1,8 @@
 ---
 title: "The primary focus of the sealing ceremony in its first 2 years was to enable polygamy"
 permalink: /primary-focus-of-sealing-for-polygamy/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

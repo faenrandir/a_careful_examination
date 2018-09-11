@@ -1,7 +1,8 @@
 ---
 title: "Logic behind the sealing ceremony"
 permalink: /logic-behind-the-sealing-ceremony/
-doctype: snippet
+maintopic: polygamy
+doctype: resource
 layout: page
 ---
 

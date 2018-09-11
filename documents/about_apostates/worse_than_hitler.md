@@ -1,7 +1,8 @@
 ---
 title: "Not believing is worse than Hitler"
 permalink: /not-believing-is-worse-than-hitler/
-doctype: snippet
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

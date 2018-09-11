@@ -1,7 +1,8 @@
 ---
 title: "Scriptural instructions for practicing polygamy"
 permalink: /scriptural-instructions-for-practicing-polygamy/
-doctype: snippet
+maintopic: polygamy
+doctype: resource-transcription
 layout: page
 ---
 

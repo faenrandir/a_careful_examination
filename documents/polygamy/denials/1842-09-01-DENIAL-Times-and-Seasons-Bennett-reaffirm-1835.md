@@ -1,7 +1,8 @@
 ---
 title: "Time and Seasons Sept 1842 Notice"
 permalink: /times-and-seasons-sep-1842-notice/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

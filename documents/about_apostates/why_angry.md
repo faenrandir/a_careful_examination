@@ -1,7 +1,8 @@
 ---
 title: "Why former members are angry"
 permalink: /why-former-members-are-angry/
-doctype: snippet
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

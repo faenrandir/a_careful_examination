@@ -1,7 +1,8 @@
 ---
 title: "Affidavits against Bennett's letters: focus on Martha Brotherton"
 permalink: /affidavits-against-bennets-letters-brotherton-focus/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

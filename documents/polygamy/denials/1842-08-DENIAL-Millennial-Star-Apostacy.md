@@ -1,7 +1,8 @@
 ---
 title: "Millenial Star denial, August 1842"
 permalink: /millenial-star-denial-aug-1842/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

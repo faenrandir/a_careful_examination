@@ -1,7 +1,8 @@
 ---
 title: "Conference Minutes from April 6, 1842"
 permalink: /times-and-seasons-apr-15-1842-conference-minutes/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

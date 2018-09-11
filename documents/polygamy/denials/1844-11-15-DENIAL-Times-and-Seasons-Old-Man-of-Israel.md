@@ -1,7 +1,8 @@
 ---
 title: "Time and Seasons November 15, 1844 - An Old Man of Israel"
 permalink: /times-and-seasons-nov-15-1844-an-old-man-of-israel/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Stories of Acceptance
-categories: [Faith Transitions]
-doctype: snippet
+permalink: /faith-transition-stories-of-acceptance/
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

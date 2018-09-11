@@ -1,8 +1,8 @@
 ---
 title: "Example Letter from Grandma: 'so much you could accomplish for good'"
 permalink: /example-letter-from-grandma-so-much-could-accomplish-for-good/
-categories: [Faith Transitions]
-doctype: snippet
+maintopic: faith-transitions
+doctype: anecdotal
 layout: page
 ---
 

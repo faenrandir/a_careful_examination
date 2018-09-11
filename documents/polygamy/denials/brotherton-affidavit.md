@@ -1,7 +1,8 @@
 ---
 title: "Martha Brotherton Affidavit"
 permalink: /martha-brotherton-affidavit/
-doctype: snippet
+maintopic: polygamy
+doctype: historical-source
 layout: page
 ---
 
