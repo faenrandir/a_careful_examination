@@ -17,8 +17,9 @@ Given testimony and evidence, with which women can we reasonably infer that Jose
 
 The list follows with the age at marriage and the evidence indicating a sexual relationship.
 
-* (17) Lucy Walker: "Shortly afterwards I consented to become the Prophet’s wife, and was married to him May 1, 1843, Elder William Clayton officiating. I am also able to testify that Emma Smith, the Prophet’s first wife, gave her consent to the marriage of at least four other girls to her husband, and that she was well aware that he associated with them as wives within the meaning of all that word implies."
-* (19) Emily Partridge: "said she 'roomed' with Joseph the night following her marriage to him, and said that she had 'carnal intercourse' with him. (also from Lucy Walker's statement)
+* (17) Lucy Walker (later Lucy Kimball): "Shortly afterwards I consented to become the Prophet’s wife, and was married to him May 1, 1843, Elder William Clayton officiating. I am also able to testify that Emma Smith, the Prophet’s first wife, gave her consent to the marriage of at least four other girls to her husband, and that she was well aware that he associated with them as wives within the meaning of all that word implies.  This is proven by the fact that she herself, on several occasions, kept guard at the door to prevent disinterested persons from intruding, when these ladies were in the house." [Jenson, “Historical Record,” 229–30](https://archive.org/stream/historicalrecord06jens#page/230)
+* (19) Emily Partridge: said she 'roomed' with Joseph the night following her marriage to him, and said that she had 'carnal intercourse' with him. (also based on deduction from Lucy Walker's statement)
+[Jenson, “Historical Record,” 240](https://archive.org/stream/historicalrecord06jens#page/240)
 * (22) Eliza Partridge: based on deduction from Lucy Walker's statement.
 * (17) Sarah Lawrence: based on deduction from Lucy Walker's statement.
 * (19) Maria Lawrence: based on deduction from Lucy Walker's statement.
@@ -27,6 +28,18 @@ The list follows with the age at marriage and the evidence indicating a sexual r
 Mormon Enigma identifies the 4 individuals Emma consented to as Emily and Eliza Partridge and Sarah and Maria Lawrence. ([source](http://www.mrm.org/did-emma-smith-ever-approve-of-polygamy))
 
 The ages of the women we suspect he had sex with from this analysis were: 17 (2), 19 (3), 22 (1).
+
+## Temple lot Case evidence
+
+`curious_mormon` compiled [data from the Temple Lot case indicating sexual relationships between some of his wives](https://www.reddit.com/r/exmormon/comments/3obrqk/testimonies_from_the_temple_lot_trial_on_joseph/), based on their testimony.  
+
+## Wives reported to have been beautiful
+
+From Emily Dow Partridge Diary, 1880-1893 (typescript) taken from the Emily Dow Partridge Young Collection Marriott Library, MS 113, [as transcribed by Brian Hales](http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0412.doc)
+
+> Jan. 8th.  Attended Mary V. Young's funeral.  [This was a sister wife in the Brigham Young family.]  Remarks were made by Br. Cannon Br. J. F. Smith and Br. Taylor.  He spoke a few words of comfort to Pres Young's widows.  He said that in the early days of polygamy, when it was first taught to the Bretheren [sic] in Nauvoo, it was a little hard to receive in consequence of their traditionated ideas.  He received a testimony that the principle was true.  **He saw Joseph surrounded with a number of the most beautiful women that he ever saw in his life and he knew they were his wives.**
+
+While this is a second-hand account, the fact that the wives were "the most beautiful women that he ever saw in his life" may suggest that sex was part of the appeal.
 
 ## What is the evidence for polyandrous sex?
 
