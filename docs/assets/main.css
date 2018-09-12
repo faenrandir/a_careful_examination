@@ -417,14 +417,14 @@ p {
     .post-title {
       font-size: 40px; } }
 
+.doctype-annotation {
+  color: #363636;
+  font-size: 60%; }
+
 .doctype-display {
   margin-top: -1em;
   text-align: right;
   color: #363636; }
-
-.doctype-annotation {
-  color: #363636;
-  font-size: 60%; }
 
 .post-content {
   margin-bottom: 30px;
