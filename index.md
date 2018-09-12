@@ -7,7 +7,7 @@ A collection of resources, research, and thoughts on the truth-claims, teachings
 ## For your initial consideration
 
 {% for page in site.pages %}
- {% if page.doctype == 'introductory-resource' %}
+ {% if page.doctype == 'resource' and page.introductory %}
 <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
  {% endif %}
 {% endfor %}
@@ -56,11 +56,13 @@ A collection of resources, research, and thoughts on the truth-claims, teachings
 
 ## Miscellaneous
 
+{% assign sortedpages = site.pages | sort:"doctype" %}
+
 <ul>
-  {% for page in site.pages %}
+  {% for page in sortedpages %}
     {% if page.doctype and page.doctype != 'resource' %}
       {% if page.maintopic != 'polygamy' and page.maintopic != 'faith-transitions' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a><span class="doctype-annotation"> {{ page.doctype }}</span></li>
       {% endif %}
     {% endif %}
   {% endfor %}

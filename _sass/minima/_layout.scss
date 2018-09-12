@@ -10,11 +10,6 @@
   position: relative;
 }
 
-.resource-type-listing {
-    color: $grey-color-dark;
-    font-size: 60%;
-}
-
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -251,6 +246,11 @@ p {
     margin-top: -1em;
     text-align: right;
     color: $grey-color-dark;
+}
+
+.doctype-annotation {
+    color: $grey-color-dark;
+    font-size: 60%;
 }
 
 .post-content {
