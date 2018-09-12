@@ -2,6 +2,7 @@
 title: The 50/50 Scenario
 maintopic: truth-claims
 doctype: resource
+featuredimage: /media/800px-Half_Dome_with_Eastern_Yosemite_Valley.jpg
 layout: page
 ---
 

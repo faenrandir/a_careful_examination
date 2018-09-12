@@ -1,7 +1,7 @@
 ---
 title: "Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)"
 permalink: /similarities-between-john-smiths-writings-and-bom/
-doctype: resource
+doctype: compilation
 layout: page
 ---
 

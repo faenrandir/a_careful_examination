@@ -2,6 +2,7 @@
 title: "The 6000 year problem"
 permalink: /the-6000-year-problem/
 doctype: resource
+featuredimage: /media/Faed_Expulsion_of_Adam_and_Eve.jpg
 layout: page
 ---
 

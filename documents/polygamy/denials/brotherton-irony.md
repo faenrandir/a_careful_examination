@@ -3,6 +3,7 @@ title: "Martha Brotherton and the Five Ironies"
 permalink: /martha-brotherton-and-the-five-ironies/
 maintopic: polygamy
 doctype: resource
+featuredimage: /media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg
 layout: page
 ---
 

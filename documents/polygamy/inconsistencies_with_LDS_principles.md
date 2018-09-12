@@ -2,7 +2,7 @@
 title: "Joseph Smith's polygamy and current LDS principles of marriage and honesty"
 permalink: /joseph-smith-polygamy-lds-marriage-and-honesty/
 maintopic: polygamy
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

@@ -2,6 +2,7 @@
 title: Truth-claim summaries and apologetics
 permalink: /truth-claim-summaries/
 maintopic: truth-claims
+featuredimage: /media/thomas_cole_hb_03.27.jpg
 doctype: resource
 layout: page
 ---

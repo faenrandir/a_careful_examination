@@ -2,7 +2,7 @@
 title: "Evidence of sex within Joseph Smith's polygamy"
 permalink: /evidence-of-sex-in-joseph-smith-polygamy/
 maintopic: polygamy
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

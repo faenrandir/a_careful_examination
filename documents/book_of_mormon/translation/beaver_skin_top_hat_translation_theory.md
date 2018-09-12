@@ -2,6 +2,7 @@
 title: "Could Joseph have hidden material in his hat to draw upon during the dictation process?"
 permalink: /hidden-material-in-hat-hypothesis/
 doctype: resource
+featuredimage: /media/anthony-sweat-hat-1024x694.jpg
 layout: page
 ---
 

@@ -2,7 +2,7 @@
 title: "Evidence suggesting Emma approved of some marriages"
 permalink: /evidence-suggesting-emmas-approval/
 maintopic: polygamy
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

@@ -2,7 +2,7 @@
 title: "Attitude towards those who do not believe but stay"
 permalink: /how-those-who-stay-are-viewed/
 maintopic: faith-transitions
-doctype: resource
+doctype: compliation
 layout: page
 ---
 

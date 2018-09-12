@@ -2,7 +2,7 @@
 title: "What to call the polygamy denials?"
 permalink: /what-to-call-polygamy-denials/
 maintopic: polygamy
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

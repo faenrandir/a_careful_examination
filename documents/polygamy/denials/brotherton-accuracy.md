@@ -3,6 +3,7 @@ title: "Assessing the accuracy of Martha Brotherton's affidavit"
 permalink: /assessing-accuracy-brotherton-affidavit/
 maintopic: polygamy
 doctype: resource
+featuredimage: /media/800px-Saints_Innocents_1550_Hoffbauer.jpg
 layout: page
 ---
 

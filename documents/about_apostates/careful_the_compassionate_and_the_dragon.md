@@ -2,6 +2,7 @@
 title: Careful the Compassionate and the Dragon over the Mountain
 permalink: /careful-the-compassionate-and-the-dragon-over-the-mountain/
 maintopic: faith-transitions
+featuredimage: /media/driftwood-dragon-sculptures-james-doran-webb-4.jpg
 doctype: resource
 layout: page
 ---

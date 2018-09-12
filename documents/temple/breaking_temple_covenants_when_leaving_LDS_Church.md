@@ -3,6 +3,7 @@ title: "Are members breaking promises when they leave the LDS Church?"
 permalink: /is-leaving-breaking-promises/
 doctype: resource
 maintopic: faith-transitions
+featuredimage: /media/Schwarzenberg_Pfarrkirche_-_Altar_Franz_Xaver_4.jpg
 layout: page
 ---
 
