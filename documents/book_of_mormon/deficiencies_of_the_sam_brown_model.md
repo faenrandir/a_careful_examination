@@ -1,7 +1,7 @@
 ---
 title: "Deficiencies in the Sam Brown model"
 permalink: /deficiencies-in-the-sam-brown-model/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

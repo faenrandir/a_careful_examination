@@ -1,7 +1,7 @@
 ---
 title: "Legrand Richards denied the existence of the seerstone"
 permalink: /legrand-richards-denied-existence-of-seerstone/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

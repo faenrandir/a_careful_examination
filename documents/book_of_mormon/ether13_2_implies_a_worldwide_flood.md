@@ -1,7 +1,7 @@
 ---
 title: "Ether 13:2 implies a worldwide flood"
 permalink: /ether-13-2-implies-a-worldwide-flood/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

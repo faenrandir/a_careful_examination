@@ -1,7 +1,7 @@
 ---
 title: "The LDS Endowment and Freemasonry "
-doctype: snippet
-categories: [Truth-Claims]
+doctype: notes
+maintopic: truth-claims
 layout: page
 ---
 

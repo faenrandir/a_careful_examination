@@ -1,7 +1,7 @@
 ----
 title: "Exerpt on Isaiah from Hardy's Reader's Guide"
 permalink: /exerpt-on-isaiah-from-hardys-readers-guide/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

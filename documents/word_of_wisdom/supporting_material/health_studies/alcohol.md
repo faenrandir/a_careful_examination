@@ -1,7 +1,8 @@
 ---
 title: "Health studies on alcohol consumption"
 permalink: /health-studies-alcohol-consumption/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Familiarity with LDS scholarship"
 permalink: /familiarity-with-lds-scholarship/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

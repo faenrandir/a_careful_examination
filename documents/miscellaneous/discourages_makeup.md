@@ -1,7 +1,7 @@
 ---
 title: "LDS Church discourages make-up"
 permalink: /discouraging-makeup/
-doctype: snippet
+doctype: compilation
 layout: page
 ---
 

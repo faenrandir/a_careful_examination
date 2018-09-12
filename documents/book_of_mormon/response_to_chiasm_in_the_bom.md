@@ -1,7 +1,7 @@
 ---
 title: "Summarizing the best arguments against chiasmus as evidence of ancientness"
 permalink: /best-arguments-against-chiasmus-as-evidence-of-ancientness/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

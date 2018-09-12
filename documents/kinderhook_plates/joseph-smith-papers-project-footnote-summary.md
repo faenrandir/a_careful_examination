@@ -1,7 +1,7 @@
 ---
 title: "JS Papers commentary on Joseph Smith's Translation of the Kinderhook Plates"
 permalink: /jspapers-kinderhook-plates-commentary/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

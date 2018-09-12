@@ -1,7 +1,7 @@
 ---
 title: "Motivation to resign from the LDS Church"
 permalink: /motivation-to-resign/
-doctype: snippet
+doctype: personal-history
 layout: page
 ---
 

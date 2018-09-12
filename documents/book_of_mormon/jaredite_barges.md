@@ -1,7 +1,7 @@
 ---
 title: "Jaredite barges and submarines in the early 1800s"
 permalink: /jaredite-barges-and-submarines-in-the-early-1800s/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Flood as the Earth's Baptism: origin in LDS thought"
 permalink: /flood-as-baptism-origin-in-LDS-thought/
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: The Dominant Narrative and Apologetic Fallback
 permalink: /the-dominant-narrative/
-doctype: snippet
+maintopic: truth-claims
+doctype: short-analysis
 layout: page
 ---
 

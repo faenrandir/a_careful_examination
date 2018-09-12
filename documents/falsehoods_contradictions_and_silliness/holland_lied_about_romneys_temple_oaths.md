@@ -1,7 +1,7 @@
 ---
 title: "Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths"
 permalink: /semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

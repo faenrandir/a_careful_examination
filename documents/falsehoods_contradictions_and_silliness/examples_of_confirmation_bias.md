@@ -1,7 +1,7 @@
 ---
 title: "Wicca and confirmation bias"
 permalink: /wicca-and-confirmation-bias/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

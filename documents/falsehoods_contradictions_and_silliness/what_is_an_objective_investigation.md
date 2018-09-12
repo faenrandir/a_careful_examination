@@ -1,7 +1,7 @@
 ---
 title: An objective investigation
 permalink: /an-objective-investigation/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 
@@ -25,9 +25,9 @@ Objectively weighing models against one another is of equal concern with merely 
 
 In general, I strongly recommend that readers understand comprehensively the LDS model---officially represented at [lds.org](https://lds.org/)---and that they comprehensively study the LDS apologetic model, which is discussed in [these additional Church approved and suggested resources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng).  I hope that the reader will fact-check every point I make, and---where I have failed to do so---I expect them to weigh the best apologetic and orthodox LDS arguments against any I present from alternative models.  
 
-I have made an effort to capture the best LDS arguments.  For instance, I have posted many of the documents on this site to forums visited by active, believing Latter-day Saints asking for critical feedback in order to ensure that my work fairly and accurately represents the believing LDS viewpoint and I have not failed to represent the best of the LDS position.
+I have made an effort to capture the best LDS arguments.  For instance, I have posted many of the documents on this site to forums visited by active, believing Latter-day Saints asking for critical feedback in order to ensure that my work fairly and accurately represents the believing LDS viewpoint and that I have not failed to represent the best of the LDS position.
 
-Regardless of these past efforts, _please notify me if you feel that I have_:
+Regardless of these past efforts, _please do not hesitate to notify me if you feel that I have_:
 
 * neglected any of the best LDS data or arguments relevant to a document
 * misrepresented or misunderstood the official---or best apologetic---LDS position

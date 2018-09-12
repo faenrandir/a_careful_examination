@@ -1,7 +1,7 @@
 ---
 title: "The demand for certainty"
 permalink: /the-demand-for-certainty-intellectual-vice/
-doctype: snippet
+doctype: quotation
 layout: page
 ---
 

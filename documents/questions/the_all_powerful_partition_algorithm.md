@@ -1,7 +1,7 @@
 ---
 title: "The All Powerful Partition Algorithm"
 permalink: /the-all-powerful-partition-algorithm/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

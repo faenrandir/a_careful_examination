@@ -1,7 +1,7 @@
 ---
 title: "2017 Seminary end-of-year survey"
 permalink: /seminary-2017-end-of-year-survey/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

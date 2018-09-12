@@ -1,7 +1,7 @@
 ---
 title: "Example of totalistic attitude: accomplishments only important if building kingdom"
 permalink: /accomplishments-only-important-if-building-kingdom/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

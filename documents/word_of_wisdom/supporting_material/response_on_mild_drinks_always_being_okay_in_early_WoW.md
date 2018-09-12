@@ -1,7 +1,8 @@
 ---
 title: "Notes on mild drinks always being okay for early Word of Wisdom"
 permalink: /notes-on-mild-drinks-always-okay-early/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

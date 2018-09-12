@@ -1,7 +1,7 @@
 ---
 title: "Pressure against expression of beliefs counter to LDS position - Wally's Mom"
 permalink: /pressure-against-beliefs-counter-to-lds-position-wallys-mom/
-doctype: snippet
+doctype: anecdotal
 layout: page
 ---
 

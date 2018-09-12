@@ -1,7 +1,8 @@
 ---
 title: "Exerpt from 'A Social History of the Nation's Favourite Drink'"
 permalink: /exerpt-from-social-history-of-tea/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: exerpt
 layout: page
 ---
 

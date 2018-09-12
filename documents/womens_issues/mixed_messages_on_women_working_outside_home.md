@@ -1,7 +1,7 @@
 ---
 title: "Mixed messages on working outside the home"
 permalink: /mixed-messages-on-working-outside-the-home/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

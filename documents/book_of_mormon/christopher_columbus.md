@@ -1,7 +1,7 @@
 ---
 title: "Columbus was mythologized in a popular 1828 biography"
 permalink: /columbus-mythologized-in-1828-biography/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

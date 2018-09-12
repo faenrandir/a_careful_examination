@@ -1,7 +1,7 @@
 ---
 title: "Why won't God stop Mike Norton?"
 permalink: /why-wont-god-stop-mike-norton/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

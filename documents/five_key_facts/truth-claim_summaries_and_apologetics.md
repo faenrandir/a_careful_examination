@@ -1,7 +1,7 @@
 ---
 title: Truth-claim summaries and apologetics
 permalink: /truth-claim-summaries/
-categories: [Truth-Claims]
+maintopic: truth-claims
 doctype: resource
 layout: page
 ---

@@ -1,7 +1,7 @@
 ---
 title: "BYU-I dresses cheerleaders modestly"
 permalink: /byui-dresses-cheerleaders-modestly/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Failed second coming predictions in early LDS Church"
 permalink: /failed-second-coming-predictions-in-early-lds-church/
-doctype: snippet
+doctype: compilation
 layout: page
 ---
 

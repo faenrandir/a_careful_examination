@@ -1,7 +1,7 @@
 ---
 title: "LDS Church wrong on moral issues of the day"
 permalink: /wrong-on-moral-issues-of-the-day/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Conclusion: God and the LDS Church as surrogate parent"
 permalink: /conclusion-surrogate-parent-hypothesis/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

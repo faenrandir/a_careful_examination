@@ -1,7 +1,7 @@
 ---
 title: "Discussion on a global at 2348 BCE"
 permalink: /discussion-global-flood-at-2348-bc/
-doctype: snippet
+doctype: discussion
 layout: page
 ---
 

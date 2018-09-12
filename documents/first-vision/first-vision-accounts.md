@@ -1,7 +1,7 @@
 ---
 title: "Links to First Vision accounts, essay, and responses"
 permalink: /links-first-vision-accounts/
-doctype: snippet
+doctype: links
 layout: page
 ---
 

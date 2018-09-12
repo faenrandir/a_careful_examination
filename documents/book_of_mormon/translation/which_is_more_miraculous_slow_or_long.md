@@ -1,7 +1,7 @@
 ---
 title: "The BOM is true because it was written so quickly - VS - The Quran is true because it took so long to write"
 permalink: /bom-written-quickly-vs-quran-took-so-long/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

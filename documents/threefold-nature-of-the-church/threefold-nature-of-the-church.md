@@ -1,7 +1,7 @@
 ---
 title: "The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth"
 permalink: /three-fold-nature-lds-church-corporate-totalistic-individual-growth/
-categories: [Sociology and Psychology]
+maintopic: sociology-and-psychology
 doctype: resource
 featuredimage: "/media/australia-1040062_960_720.jpg"
 layout: page

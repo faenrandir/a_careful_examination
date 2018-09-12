@@ -421,6 +421,11 @@ p {
     .post-title {
       font-size: 40px; } }
 
+.doctype-display {
+  margin-top: -1em;
+  text-align: right;
+  color: #363636; }
+
 .post-content {
   margin-bottom: 30px;
   line-height: 1; }

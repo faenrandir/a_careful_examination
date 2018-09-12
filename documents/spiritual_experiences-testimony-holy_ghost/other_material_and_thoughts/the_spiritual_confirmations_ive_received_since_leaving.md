@@ -1,7 +1,7 @@
 ---
 title: "Spiritual confirmations received since leaving the LDS Church"
 permalink: /spiritual-confirmation-since-resignation/
-doctype: snippet
+doctype: anecdotal
 layout: page
 ---
 
@@ -19,14 +19,14 @@ Even now as I write these out, I feel extremely peaceful and serene (nigh unto j
 
 Of course, I firmly believe that our impression of God communicating with us is self-derived (we are essentially talking to ourselves).  If we consider how contradictory these results are with normal LDS prayers, and the results from surveys of people of different faiths getting confirmatory answers about their faith (http://mostcorrectreligionsurvey.weebly.com/), we must conclude that our preconception dictates the feelings and "communication" we "receive".
 
----John T. Prince
+---[bwv549]
 
 ---
 
 http://mostcorrectreligionsurvey.weebly.com/
 
-Quick and Dirty Numbers:
-------------------------
+### Quick and Dirty Numbers:
+
 * 114 usable responses
 * 82% received an answer
 * 73% were "very sure" they received an answer

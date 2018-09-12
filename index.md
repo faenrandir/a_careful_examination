@@ -12,15 +12,13 @@ A collection of resources, research, and thoughts on the truth-claims, teachings
  {% endif %}
 {% endfor %}
 
-## Pages
-
-I'm working on organizing these pages.
+## General Resources
 
 <ul>
   {% for page in site.pages %}
-    {% if page.doctype %}
+    {% if page.doctype == 'resource' %}
       {% if page.maintopic != 'polygamy' and page.maintopic != 'faith-transitions' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> <span class="resource-type-listing">{{ page.doctype }}</span></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
@@ -31,7 +29,7 @@ I'm working on organizing these pages.
 <ul>
   {% for page in site.pages %}
      {% if page.maintopic == 'faith-transitions' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>  <span class="resource-type-listing">{{ page.doctype }}</span></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
      {% endif %}
   {% endfor %}
 </ul>
@@ -41,7 +39,7 @@ I'm working on organizing these pages.
 <ul>
   {% for page in site.pages %}
      {% if page.maintopic == 'polygamy' and page.doctype != 'historical-resource' and page.doctype != 'historical-source' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>  <span class="resource-type-listing">{{ page.doctype }}</span></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
      {% endif %}
   {% endfor %}
 </ul>
@@ -56,29 +54,14 @@ I'm working on organizing these pages.
   {% endfor %}
 </ul>
 
-
-<!--
-
-## Truth-claims
+## Miscellaneous
 
 <ul>
   {% for page in site.pages %}
-     {% if page.maintopic == 'truth-claims' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> [{{ page.doctype }}]</li>
-     {% endif %}
+    {% if page.doctype and page.doctype != 'resource' %}
+      {% if page.maintopic != 'polygamy' and page.maintopic != 'faith-transitions' %}
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
-
-
-## Uncategorized
-
-<ul>
-  {% for page in site.pages %}
-     {% unless page.maintopic %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> [{{ page.doctype }}]</li>
-     {% endunless %}
-  {% endfor %}
-</ul>
-
-
--->

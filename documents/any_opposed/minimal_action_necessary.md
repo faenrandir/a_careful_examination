@@ -1,7 +1,7 @@
 ---
 title: "Any Opposed took the minimal action necessary"
 permalink: /any-opposed-minimal-action-necessary/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Does Haplogroup T indicate transoceanic contact?"
 permalink: /does-haplogroup-t-indicate-transoceanic-contact/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

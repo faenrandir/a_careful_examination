@@ -1,7 +1,7 @@
 ---
 title: "The Proclamation on the Family: Scripture or Revelation?"
 permalink: /proclamation-on-the-family-scripture-or-revelation/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

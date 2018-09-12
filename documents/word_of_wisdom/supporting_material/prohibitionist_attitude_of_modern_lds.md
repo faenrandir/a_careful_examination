@@ -1,7 +1,8 @@
 ---
 title: "Current prohibitionist attitude of LDS Church"
 permalink: /prohibitionist-attitude-of-modern-lds-church/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

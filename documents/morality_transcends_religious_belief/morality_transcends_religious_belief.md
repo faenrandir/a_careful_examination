@@ -1,7 +1,7 @@
 ---
 title: "Morality Transcends Religious Belief"
 permalink: /morality-transcends-religious-belief/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pinegar deals with unhappy missionary"
 permalink: /pinegar-deals-with-unhappy-missionary/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

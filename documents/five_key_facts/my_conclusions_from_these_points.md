@@ -1,7 +1,7 @@
 ---
 title: "Five Key Facts: my conclusions"
 permalink: /five-key-facts-my-conclusions/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

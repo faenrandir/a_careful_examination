@@ -2,9 +2,11 @@
 title: "Links to Hales's footnoted denials"
 permalink: /links-to-hales-footnoted-denials/
 maintopic: polygamy
-doctype: snippet
+doctype: links
 layout: page
 ---
+
+_note: I've recently stumbled upon [Hales's compilation at mormonpolygamydocuments.org](http://mormonpolygamydocuments.org/chart-twenty-three-polygamy-denials/) which probably supercedes the below one, although my links are still very useful since Hales's doesn't provide many links to resources.  This should be redone with that list in mind._
 
 I've provided each of the denials which Hales lists in footnote #1 below, with a link to the text of each denial:
 

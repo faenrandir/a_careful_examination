@@ -1,7 +1,7 @@
 ---
 title: "Key principles to building bridges of understanding"
 permalink: /building-bridges-of-understanding/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

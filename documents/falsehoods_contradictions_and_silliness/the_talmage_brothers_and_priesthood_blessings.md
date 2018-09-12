@@ -1,7 +1,7 @@
 ---
 title: "Healings: Comparing James and Albert Talmage's stories"
 permalink: /healings-comparing-james-and-albert-talmage-stories/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

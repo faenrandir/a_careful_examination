@@ -1,7 +1,7 @@
 ---
 title: "Earth's fossils did not come from chunks of other planets"
 permalink: /fossils-not-from-chunks-of-other-planets/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

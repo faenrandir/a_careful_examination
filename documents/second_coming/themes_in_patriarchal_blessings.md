@@ -1,7 +1,7 @@
 ---
 title: "Irene Bates patriarchal blessing theme table"
 permalink: /irene-bates-patriarchal-blessing-theme-table/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

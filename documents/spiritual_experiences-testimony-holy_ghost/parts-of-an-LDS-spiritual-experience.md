@@ -1,7 +1,7 @@
 ---
 title: "The parts of an LDS spiritual experience"
 permalink: /parts-of-an-lds-spiritual-experience/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

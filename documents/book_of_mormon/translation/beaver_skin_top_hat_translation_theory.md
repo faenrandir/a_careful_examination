@@ -1,7 +1,7 @@
 ---
 title: "Could Joseph have hidden material in his hat to draw upon during the dictation process?"
 permalink: /hidden-material-in-hat-hypothesis/
-doctype: snippet
+doctype: resource
 layout: page
 ---
 

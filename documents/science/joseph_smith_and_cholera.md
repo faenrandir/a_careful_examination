@@ -1,7 +1,7 @@
 ---
 title: "Joseph Smith's cure for cholera"
 permalink: /joseph-smith-cure-for-cholera/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Most LDS service inwardly focused"
 permalink: /most-lds-service-inwardly-focused/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

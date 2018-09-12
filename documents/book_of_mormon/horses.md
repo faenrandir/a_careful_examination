@@ -1,7 +1,7 @@
 ---
 title: A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon
 permalink: /short-critique-horses-bom/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Science is as substantive as religion in helping us to derive morality's ought"
 permalink: /science-vs-religion-in-deriving-moralitys-ought/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

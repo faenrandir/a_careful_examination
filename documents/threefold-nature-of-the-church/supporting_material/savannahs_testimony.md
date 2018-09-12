@@ -1,7 +1,7 @@
 ---
 title: "Savannah's testimony"
 permalink: /savannahs-testimony/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Exchange on man as animal and the 1910 Priesthood Quorum's table comment as a reflection of Joseph F. Smith's thinking on evolution"
 permalink: /1910-priesthood-quorums-table-r-gary-exchange/
-doctype: snippet
+doctype: discussion
 layout: page
 ---
 

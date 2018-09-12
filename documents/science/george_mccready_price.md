@@ -1,7 +1,7 @@
 ---
 title: "George McCready Price inspired the 'No death before the Fall' teachings of Joseph Fielding Smith"
 permalink: /george-mccready-price-inspired-ndbf/
-doctype: snippet
+doctype: analysis
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Alcohol usage among Latter-day Saint Prophets"
 permalink: /alcohol-usage-of-lds-prophets/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: short-compilation
 layout: page
 ---
 

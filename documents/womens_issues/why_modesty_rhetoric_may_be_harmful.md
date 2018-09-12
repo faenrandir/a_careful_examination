@@ -1,7 +1,7 @@
 ---
 title: "Why modesty rhetoric may be harmful"
 permalink: /why-modesty-rhetoric-may-be-harmful/
-doctype: snippet
+doctype: links
 layout: page
 ---
 

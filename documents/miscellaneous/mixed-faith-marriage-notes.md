@@ -1,7 +1,7 @@
 ---
 title: "Notes on LDS mixed-faith marriages"
 permalink: /notes-on-lds-mixed-faith-marriages/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

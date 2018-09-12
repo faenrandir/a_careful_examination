@@ -1,7 +1,7 @@
 ---
 title: "The Church does not apologize"
 permalink: /the-church-does-not-apologize/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

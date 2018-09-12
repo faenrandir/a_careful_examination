@@ -1,7 +1,7 @@
 ---
 title: "Early LDS testimony may be unreliable"
 permalink: /early-lds-testimony-may-be-unreliable/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

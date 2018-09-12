@@ -1,7 +1,7 @@
 ---
 title: "A Prophet doesn't poll to see wind of public opinion"
 permalink: /a-prophet-does-not-poll-to-see-wind-of-public-opinion/
-doctype: snippet
+doctype: short-compilation
 layout: page
 ---
 

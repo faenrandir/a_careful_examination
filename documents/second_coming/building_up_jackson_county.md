@@ -1,7 +1,7 @@
 ---
 title: "Statements on building up Jackson county"
 permalink: /statements-on-building-up-jackson-county/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

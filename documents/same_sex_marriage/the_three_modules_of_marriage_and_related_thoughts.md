@@ -1,7 +1,7 @@
 ---
 title: "Musings on Same Sex Marriage"
 permalink: /musings-on-same-sex-marriage/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

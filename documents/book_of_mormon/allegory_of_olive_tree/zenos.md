@@ -1,7 +1,7 @@
 ---
 title: "Zenos and the Allegory of the Olive Tree"
 permalink: /examination-of-zenos/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

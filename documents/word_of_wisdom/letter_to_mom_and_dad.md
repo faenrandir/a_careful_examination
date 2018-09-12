@@ -1,7 +1,8 @@
 ---
 title: "Letter to parents: Thoughts on the Word of Wisdom"
 permalink: /letter-thoughts-on-the-word-of-wisdom/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: personal-letter
 layout: page
 ---
 

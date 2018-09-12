@@ -1,7 +1,7 @@
 ---
 title: "Thank you R. Gary"
 permalink: /thank-you-r-gary/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The LDS Church ban on oral sex"
 permalink: /lds-church-ban-on-oral-sex/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

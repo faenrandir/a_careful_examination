@@ -1,7 +1,7 @@
 ---
 title: "Kara Cooney on Muhlestein"
 permalink: /cooney-on-muhlestein/
-doctype: snippet
+doctype: email-communication-transcript
 layout: page
 ---
 

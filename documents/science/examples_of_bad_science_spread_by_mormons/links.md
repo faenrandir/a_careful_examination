@@ -1,7 +1,7 @@
 ---
 title: "Examples of bad science spread by Mormons"
 permalink: /bad-science-spread-by-mormons/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

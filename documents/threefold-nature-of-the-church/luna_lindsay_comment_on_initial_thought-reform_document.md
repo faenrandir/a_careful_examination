@@ -1,7 +1,7 @@
 ---
 title: "Luna Lindsey on polarization of cultic studies"
 permalink: /luna-lindsey-on-polarization-of-cultic-studies/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

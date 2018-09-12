@@ -1,7 +1,7 @@
 ---
 title: "Palmyra was rich in books"
 permalink: /palmyra-was-rich-in-books/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

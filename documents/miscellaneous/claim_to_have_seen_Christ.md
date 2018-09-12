@@ -1,7 +1,7 @@
 ---
 title: "Individuals who claim to have seen Jesus Christ"
 permalink: /individuals-claim-to-seen-christ/
-doctype: snippet
+doctype: compilation
 layout: page
 ---
 

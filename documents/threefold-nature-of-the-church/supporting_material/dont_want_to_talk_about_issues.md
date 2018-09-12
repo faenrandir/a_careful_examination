@@ -1,7 +1,7 @@
 ---
 title: "Most members don't seem to care about Church issues"
 permalink: /most-members-dont-seem-to-care-about-church-issues/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

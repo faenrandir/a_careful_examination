@@ -1,7 +1,7 @@
 ---
 title: "Potential sources for the Allegory of the Olive Tree"
 permalink: /potential-sources-allegory-olive-tree/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

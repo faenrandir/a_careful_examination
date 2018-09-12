@@ -1,7 +1,7 @@
 ---
 title: "Comparing scriptural and modern prophets"
 permalink: /comparing-scriptural-and-modern-prophets/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

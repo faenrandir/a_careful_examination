@@ -1,7 +1,7 @@
 ---
 title: "Believing in God based on miracles"
 permalink: /believing-in-god-based-on-miracles/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

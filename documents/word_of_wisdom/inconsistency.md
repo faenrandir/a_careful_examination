@@ -1,7 +1,7 @@
 ---
 title: "Rationale for the Word of Wisdom"
 permalink: /rationale-for-word-of-wisdom/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

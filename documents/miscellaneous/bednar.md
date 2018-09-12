@@ -1,7 +1,7 @@
 ---
 title: "Behavior or teachings of David Bednar that some former Mormons find objectionable"
 permalink: /bednar-objectionable-to-former-mormons/
-doctype: snippet
+doctype: short-compilation
 layout: page
 ---
 

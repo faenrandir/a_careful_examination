@@ -1,7 +1,7 @@
 ---
 title: "Major sources of beliefs, light and knowledge"
 permalink: /sources-of-beliefs-light-knowledge/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

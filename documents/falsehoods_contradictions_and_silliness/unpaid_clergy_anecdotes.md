@@ -1,7 +1,7 @@
 ---
 title: "Unpaid clergy anecdotes"
 permalink: /unpaid-clergy-anecdotes/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

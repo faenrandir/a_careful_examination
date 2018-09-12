@@ -1,7 +1,7 @@
 ---
 title: "Adam and Eve the first couple"
 permalink: /adam-and-eve-the-first-couple/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

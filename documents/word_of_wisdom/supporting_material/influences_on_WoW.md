@@ -1,7 +1,8 @@
 ---
 title: "Influences on the Word of Wisdom"
 permalink: /influences-on-word-of-wisdom/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

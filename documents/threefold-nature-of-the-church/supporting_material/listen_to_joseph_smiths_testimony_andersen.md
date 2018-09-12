@@ -1,7 +1,7 @@
 ---
 title: "Listen to a recording of your testimony"
 permalink: /listen-to-a-recording-of-your-testimony/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "On the existence of ghosts"
 permalink: /on-the-existence-of-ghosts/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

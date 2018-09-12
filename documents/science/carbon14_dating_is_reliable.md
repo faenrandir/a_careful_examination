@@ -1,7 +1,7 @@
 ---
 title: "Carbon-14 dating is generally reliable"
 permalink: /carbon-14-dating-generally-reliable/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

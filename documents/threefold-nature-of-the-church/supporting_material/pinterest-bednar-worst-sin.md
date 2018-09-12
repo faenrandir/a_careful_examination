@@ -1,7 +1,7 @@
 ---
 title: "Example of totalistic attitude: The worst sin"
 permalink: /example-of-totalistic-attitude-the-worst-sin/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

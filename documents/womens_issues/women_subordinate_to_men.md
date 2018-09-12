@@ -1,7 +1,7 @@
 ---
 title: "Subordination of women to men in the LDS Church"
 permalink: /subordination-of-women-to-men-in-the-lds-church/
-doctype: snippet
+doctype: short-compilation
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Archaeology of Cumorah"
 permalink: /archaeology-of-cumorah/
-doctype: snippet
+doctype: short-compilation
 layout: page
 ---
 

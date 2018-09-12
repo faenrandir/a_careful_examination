@@ -1,7 +1,7 @@
 ---
 title: "Who is doing the loan shifting?"
 permalink: /exerpt-who-is-doing-the-loan-shifting/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

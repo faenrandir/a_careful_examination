@@ -1,7 +1,7 @@
 ---
 title: "Asking: What is the complete list of books held in the the vault?"
 permalink: /asking-what-is-the-complete-list-of-books-held-in-the-the-vault/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

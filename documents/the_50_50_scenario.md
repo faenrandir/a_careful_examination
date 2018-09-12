@@ -1,6 +1,6 @@
 ---
 title: The 50/50 Scenario
-categories: [Neo-Apologetics]
+maintopic: truth-claims
 doctype: resource
 layout: page
 ---

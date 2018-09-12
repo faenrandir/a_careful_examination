@@ -1,7 +1,7 @@
 ---
 title: LDS Indoctrination and Retentive Socialization 
 permalink: /lds-indoctrination-and-retentive-socialization/
-categories: [Sociology and Psychology]
+maintopic: sociology-and-psychology
 doctype: resource
 layout: page
 featuredimage: /media/Naruto_Whirlpools_taken_4-21-2008.jpg

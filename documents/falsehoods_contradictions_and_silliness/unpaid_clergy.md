@@ -1,7 +1,7 @@
 ---
 title: "How transparent was LDS Church with living allowances"
 permalink: /how-transparent-was-lds-church-with-living-allowances/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

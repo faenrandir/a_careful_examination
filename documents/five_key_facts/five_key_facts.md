@@ -1,7 +1,7 @@
 ---
 title: Five Key Facts
 permalink: /five-key-facts/
-categories: [Truth-Claims]
+maintopic: truth-claims
 featuredimage: /media/old-key-1463663104cis.jpg
 doctype: resource
 layout: page

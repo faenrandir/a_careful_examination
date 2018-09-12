@@ -1,7 +1,7 @@
 ---
 title: "McConkie and Ostler argue against the seer stone"
 permalink: /mcconkie-and-ostler-argue-against-the-seer-stone/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

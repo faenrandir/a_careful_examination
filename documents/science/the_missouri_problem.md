@@ -1,7 +1,7 @@
 ---
 title: "The Missouri Garden of Eden Problem"
 permalink: /missiour-garden-of-eden-problem/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

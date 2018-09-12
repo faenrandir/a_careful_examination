@@ -247,7 +247,11 @@ p {
   }
 }
 
-
+.doctype-display {
+    margin-top: -1em;
+    text-align: right;
+    color: $grey-color-dark;
+}
 
 .post-content {
   margin-bottom: $spacing-unit;

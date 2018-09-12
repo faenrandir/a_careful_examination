@@ -1,7 +1,7 @@
 ---
 title: "Laundry List of Issues Regarding Moroni's Promise"
 permalink: /list-of-issues-regarding-moronis-promise/
-doctype: snippet
+doctype: transcription-of-analysis
 layout: page
 ---
 

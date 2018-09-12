@@ -2,9 +2,11 @@
 title: The Wholehearted Parenting Manifesto
 permalink: /the-wholehearted-parenting-manifesto/
 categories: [My beliefs]
-doctype: snippet
+doctype: notes
 layout: page
 ---
+
+From Brené Brown's book, Daring Greatly ([pdf](http://brenebrown.com/wp-content/uploads/2017/10/Wholehearted_ParentingManifesto.pdf)):
 
 * Above all else, I want you to know that you are loved and lovable. You will learn this from my words and actions--the lessons on love are in how I treat you and how I treat myself.
 * I want you to engage with the world from a place of worthiness. You will learn that you are worthy of love, belonging, and joy every time you see me practice self-compassion and embrace my own imperfections.
@@ -19,4 +21,3 @@ layout: page
 * As you begin your Wholehearted journey, the greatest gift that I can give to you is to live and love with my whole heart and to dare greatly.
 * I will not teach or love or show you anything perfectly, but I will let you see me, and I will always hold sacred the gift of seeing you. Truly, deeply, seeing you.
 
-From Brené Brown's book, Daring Greatly. ([pdf](http://brenebrown.com/wp-content/uploads/2017/10/Wholehearted_ParentingManifesto.pdf))

@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Olishem as evidence for the antiquity of the Book of Abraham"
 permalink: /olishem-as-evidence-for-boa/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

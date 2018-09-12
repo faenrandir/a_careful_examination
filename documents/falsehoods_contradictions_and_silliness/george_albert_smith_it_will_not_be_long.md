@@ -1,7 +1,7 @@
 ---
 title: "Prophecy: Not long until calamities overtake human family"
 permalink: /prophecy-calamities-overtake-human-family/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Example of masturbation shame"
 permalink: /example-of-masturbation-shame/
-doctype: snippet
+doctype: anecdotal
 layout: page
 ---
 

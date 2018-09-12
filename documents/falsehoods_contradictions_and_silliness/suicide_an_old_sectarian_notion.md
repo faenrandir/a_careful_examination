@@ -1,7 +1,7 @@
 ---
 title: "Suicide: an old sectarian notion"
 permalink: /suicide-an-old-sectarian-notion/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

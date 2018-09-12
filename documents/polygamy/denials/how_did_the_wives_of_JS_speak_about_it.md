@@ -2,7 +2,7 @@
 title: "How did Joseph Smith's wives refer to their unions?"
 permalink: /how-did-js-wives-refer-to-unions/
 maintopic: polygamy
-doctype: resource
+doctype: short-analysis
 layout: page
 ---
 

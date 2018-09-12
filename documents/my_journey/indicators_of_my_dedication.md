@@ -1,7 +1,7 @@
 ---
 title: "Indicators of my dedication and spiritual development"
 permalink: /indicators-of-dedication-and-spiritual-development/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

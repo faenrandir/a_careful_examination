@@ -1,7 +1,7 @@
 ---
 title: "Why be skeptical of reports of LDS Apostles seeing Jesus?"
 permalink: /why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/
-doctype: snippet
+doctype: short-analysis
 layout: page
 ---
 

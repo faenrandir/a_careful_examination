@@ -1,7 +1,8 @@
 ---
 title: "Faith transition coming out letter to family"
 permalink: /faith-transition-coming-out-letter/
-doctype: snippet
+maintopic: faith-transitions
+doctype: personal-letter
 layout: page
 ---
 

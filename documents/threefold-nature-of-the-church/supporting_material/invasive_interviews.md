@@ -1,7 +1,7 @@
 ---
 title: "Example of invasive interview: facebook stalking"
 permalink: /example-of-invasive-interview-facebook-stalking/
-doctype: snippet
+doctype: anecdotal
 layout: page
 ---
 

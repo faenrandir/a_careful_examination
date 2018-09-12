@@ -1,7 +1,7 @@
 ---
 title: "Primary resources on the Priesthood/Temple Ban"
 permalink: /primary-resources-on-the-priesthood-ban/
-doctype: snippet
+doctype: list-of-resources
 layout: page
 ---
 

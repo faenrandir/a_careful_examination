@@ -2,7 +2,7 @@
 title: "Response to Brian Hales about Bays and the 1835 statement on marriage"
 permalink: /response-to-hales-on-bays-1835/
 maintopic: polygamy
-doctype: resource
+doctype: response
 layout: page
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Health studies on coffee"
 permalink: /health-studies-on-coffee/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

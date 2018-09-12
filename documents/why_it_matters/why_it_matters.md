@@ -1,7 +1,7 @@
 ---
 title: "Why does it matter?"
-doctype: snippet
-categories: [Truth-Claims]
+doctype: notes
+maintopic: truth-claims
 layout: page
 ---
 

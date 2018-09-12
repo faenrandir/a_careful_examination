@@ -1,7 +1,7 @@
 ---
 title: "What I've taught my older children about LDS truth claims"
 permalink: /what-i-taught-older-children-lds-truth-claims/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

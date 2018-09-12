@@ -1,7 +1,7 @@
 ---
 title: "Beliefs in Resonance"
 permalink: "/beliefs-in-resonance/"
-doctype: resource
+doctype: notes
 layout: page
 ---
 

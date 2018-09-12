@@ -1,7 +1,7 @@
 ---
 title: "Bruce R. McConkie taught 'No Death Before the Fall'"
 permalink: /brm-taught-ndbf/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

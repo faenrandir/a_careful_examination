@@ -1,7 +1,7 @@
 ---
 title: "The Apologetic Slide"
 permalink: /the-apologetic-slide/
-doctype: snippet
+doctype: shower-thought
 layout: page
 ---
 

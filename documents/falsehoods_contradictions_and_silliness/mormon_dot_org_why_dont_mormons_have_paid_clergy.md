@@ -1,7 +1,7 @@
 ---
 title: "Why don't Mormons have paid clergy page removed"
 permalink: /why-dont-mormons-have-paid-clergy-page-removed/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

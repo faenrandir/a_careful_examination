@@ -1,7 +1,7 @@
 ---
 title: "Faith, the conversation stopper"
 permalink: /faith-the-conversation-stopper/
-doctype: snippet
+doctype: quotation
 layout: page
 ---
 

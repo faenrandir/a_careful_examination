@@ -1,7 +1,7 @@
 ---
 title: "Sexual violence more prominent in patriarchal cultures"
 permalink: /sexual-violence-more-prominent-in-patriarchal-cultures/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

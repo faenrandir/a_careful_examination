@@ -1,7 +1,8 @@
 ---
 title: "Health studies on tea"
 permalink: /health-studies-on-tea/
-doctype: snippet
+maintopic: word-of-wisdom
+doctype: notes
 layout: page
 ---
 

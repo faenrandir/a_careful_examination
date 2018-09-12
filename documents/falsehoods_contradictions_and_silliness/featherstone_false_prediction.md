@@ -1,7 +1,7 @@
 ---
 title: "Featherstone's vision of the South"
 permalink: /featherstones-vision-of-the-south/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

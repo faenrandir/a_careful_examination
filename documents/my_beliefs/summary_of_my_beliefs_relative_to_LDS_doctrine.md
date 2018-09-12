@@ -1,8 +1,8 @@
 ---
 title: "Summary of my beliefs relative to core LDS doctrine"
 permalink: /summary-of-beliefs-relative-to-LDS-doctrine/
-categories: [Beliefs]
-doctype: snippet
+maintopic: my-beliefs
+doctype: simple-outline
 layout: page
 ---
 

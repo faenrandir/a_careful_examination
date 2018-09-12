@@ -1,7 +1,7 @@
 ---
 title: "My Family's Dedication to the Gospel"
 permalink: /my-familys-dedication-to-gospel/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

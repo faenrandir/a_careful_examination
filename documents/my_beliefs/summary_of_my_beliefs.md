@@ -1,8 +1,8 @@
 ---
 title: Outline of my beliefs
 permalink: /summary-of-my-beliefs/
-categories: [Beliefs]
-doctype: snippet
+maintopic: my-beliefs
+doctype: simple-outline
 layout: page
 ---
 

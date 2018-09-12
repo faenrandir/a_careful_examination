@@ -1,7 +1,7 @@
 ---
 title: "Exchange regarding evidence for evolution of humans" 
 permalink: /evidence-of-humans-r-gary-exchange/
-doctype: snippet
+doctype: discussion
 layout: page
 ---
 

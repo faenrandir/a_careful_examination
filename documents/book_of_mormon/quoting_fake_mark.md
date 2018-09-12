@@ -1,7 +1,7 @@
 ---
 title: "Moroni quotes sections of Mark that are of dubious origin"
 permalink: /moroni-quotes-sections-of-mark-dubious-origin/
-doctype: snippet
+doctype: resource
 layout: page
 # default font misses most of the greek/hebrew letters
 # cm-unicode only supports Greek :/

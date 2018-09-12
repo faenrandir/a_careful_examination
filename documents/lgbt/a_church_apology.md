@@ -1,7 +1,7 @@
 ---
 title: "Mennonite apology for treatment of LGBTQ people"
 permalink: /mennonite-apology-for-treatment-of-lgbtq-people/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

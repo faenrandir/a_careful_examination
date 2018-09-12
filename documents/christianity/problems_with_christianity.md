@@ -1,6 +1,6 @@
 ---
 title: "Problems with Christianity"
-doctype: snippet
+doctype: rough-notes
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Major factors in LDS leadership selection"
 permalink: /factors-in-lds-leadership-selection/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

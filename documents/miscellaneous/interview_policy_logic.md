@@ -1,7 +1,7 @@
 ---
 title: "The logic of our family interview policy"
 permalink: /logic-family-interview-policy/
-doctype: snippet
+doctype: analysis
 layout: page
 ---
 
