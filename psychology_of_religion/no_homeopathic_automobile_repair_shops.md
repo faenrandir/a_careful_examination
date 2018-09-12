@@ -1,7 +1,7 @@
 ---
 title: "Lamport on homeophathic automobile repair shops"
 permalink: /lamport-on-homeophathic-automobile-repair/
-doctype: snippet
+doctype: quotation
 layout: page
 ---
 

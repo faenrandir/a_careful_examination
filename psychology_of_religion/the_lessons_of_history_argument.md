@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on the lessons of history argument"
 permalink: /beit-hallahmi-on-the-lessons-of-history-argument/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

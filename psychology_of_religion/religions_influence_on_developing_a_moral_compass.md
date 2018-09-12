@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on developing a moral compass"
 permalink: /beit-hallahmi-on-developing-a-moral-compass/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

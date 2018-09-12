@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on mystical experiences"
 permalink: /beit-hallahmi-on-mystical-experiences/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

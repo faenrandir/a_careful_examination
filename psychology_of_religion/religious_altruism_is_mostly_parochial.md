@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on religiously inspired altruism"
 permalink: /beit-hallahmi-on-religiously-inspired-altruism/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

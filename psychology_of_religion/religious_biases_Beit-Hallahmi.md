@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on religious biases"
 permalink: /beit-hallahmi-on-religious-biases/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 

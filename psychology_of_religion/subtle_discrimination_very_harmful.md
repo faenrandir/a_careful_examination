@@ -1,7 +1,7 @@
 ---
 title: "Subtle discrimination as harmful as overt"
 permalink: /subtle-discrimination-as-harmful-as-overt/
-doctype: snippet
+doctype: notes
 layout: page
 ---
 

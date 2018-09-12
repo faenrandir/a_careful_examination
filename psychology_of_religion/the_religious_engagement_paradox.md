@@ -1,7 +1,7 @@
 ---
 title: "Beit-Hallahmi on the religious engagement paradox"
 permalink: /beit-hallahmi-on-the-religious-engagement-paradox/
-doctype: snippet
+doctype: book-exerpt
 layout: page
 ---
 
