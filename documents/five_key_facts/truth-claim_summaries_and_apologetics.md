@@ -10,7 +10,7 @@ layout: page
 
 ## Very short
 
-* [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) (~ 1 page)
+* [Five Key Facts]({{ "/five-key-facts/" | relative_url }}) (~ 1 page)
 * [Just One Page](https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
 * [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (~10 minute youtube video)
 
@@ -28,7 +28,7 @@ layout: page
 ## Other
 
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
-* [Questions to Ask](https://mormonbandwagon.com/bwv549/questions-to-ask/)
+* [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
 
 *Additional resources and discussion can be found at [MormonThink](http://www.mormonthink.com/)[^mormonthink] and the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
