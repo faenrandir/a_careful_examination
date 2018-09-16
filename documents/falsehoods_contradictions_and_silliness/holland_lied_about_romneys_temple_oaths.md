@@ -47,7 +47,7 @@ In the LDS canon, [Moses 1:42](https://www.lds.org/scriptures/pgp/moses/1.42) st
 
 > (These words were spoken unto Moses in the mount, the name of which shall not be known among the children of men. And now they are spoken unto you. **Show them not unto any except them that believe.** Even so. Amen.) [emphasis added]
 
-Early LDS leaders persistently [lied about the practice of polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/) with such justification.
+Early LDS leaders persistently [lied about the practice of polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}) with such justification.
 
 And, in general, Latter-day Saints avoid talking about specifics of the temple ceremonies because of their perceived sacredness.
 

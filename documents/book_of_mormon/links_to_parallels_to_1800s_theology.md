@@ -9,7 +9,7 @@ layout: page
 
 ### Introduction
 
-Richard Bushman, well-known Mormon historian, [recently stated](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/49dfa3ec8b053e283fcd0643764907e3ccdf112c/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf):
+Richard Bushman, well-known Mormon historian, [recently stated](https://faenrandir.github.io/a_careful_examination/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
@@ -32,7 +32,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
 1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
-1. [650 phrases from the New Testament in the BoM](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/) (BYU Prof Nick Frederick)
+1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Prof Nick Frederick)
 
 ### Extensive compilations or analyses
 
@@ -47,7 +47,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [The Book of Mormon and 12 points of Pelagius](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf)
-1. [Faith of a naturalist](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/) (see FST-15--FST-21)
+1. [Faith of a naturalist]({{ "/faith-naturalist-response-faith-science-teacher-questions/" | relative_url }}) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
 1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas)

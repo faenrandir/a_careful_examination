@@ -43,7 +43,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 1. Joseph Smith was sealed a second time to each of the Partridge sisters ([Emily](http://josephsmithspolygamy.org/plural-wives-overview/emily-dow-partridge/) and [Eliza](http://josephsmithspolygamy.org/plural-wives-overview/eliza-partridge/)) in Emma's presence in order to hide the first sealings---which had occurred 3 months prior---from Emma.  [According to Emily](https://imgur.com/a/oscY6), "To save the [Smith] family trouble Brother Joseph thought it best to have another ceremony performed."  Is that [sufficient justification](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng#p17) for [duplicity](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng#p9)?  Did the concealment save the family trouble?
 
-1. Joseph Smith directly or implicitly [denied practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/) 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly lie about their practice of polygamy?[^lie_rebuttal]
+1. Joseph Smith directly or implicitly [denied practicing polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}) 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly lie about their practice of polygamy?[^lie_rebuttal]
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Jacobs and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
@@ -63,7 +63,7 @@ Richard Bushman, a well-known Mormon historian, [recently stated](https://docs.g
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
-The number of [similarities with early 1800s thought is _extensive_](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/).
+The number of [similarities with early 1800s thought is _extensive_]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}).
 
 1. If the Book of Mormon is a historical record, and if we accept as accurate the stories of how it was translated (i.e., [words appeared on the stone in a hat until they were written correctly](https://www.lds.org/ensign/1993/07/a-treasured-testament?lang=eng)) why does it bear such a strong imprint of having been composed in the early 19th century?
 
@@ -77,7 +77,7 @@ The number of [similarities with early 1800s thought is _extensive_](https://mor
 
 ## Spiritual Confirmation and Priesthood Guidance
 
-1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/))
+1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }})
 
 1. Given [how missionaries instruct members to pray about the Book of Mormon](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4f3ac030a39f9e572b7a1835e93e8c30a2c2f9fa/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf), in what fashion could a person arrive at the conclusion that the Book of Mormon is _not_ true?  If a person persistently followed Moroni's promise with any sufficiently inspiring book, what would be the end result?
 

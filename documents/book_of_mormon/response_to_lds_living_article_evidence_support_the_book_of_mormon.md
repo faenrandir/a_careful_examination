@@ -204,7 +204,7 @@ testimony.  She says:
 
 > Testimony comes only from reading with real intent, pondering, and praying. If you haven't yet done so, apply the formula found in Moroni 10:3--5. Rely on the Holy Ghost to teach and testify to you. It works every time.
 
-Even though Moroni's promise is viewed by members as a silver bullet, there are legitimate problems with this approach, as detailed in [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/).  The primary issues with using Moroni's promise to determine the Book of Mormon's truthfulness are:
+Even though Moroni's promise is viewed by members as a silver bullet, there are legitimate problems with this approach, as detailed in [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}).  The primary issues with using Moroni's promise to determine the Book of Mormon's truthfulness are:
 
 1. There are many other religious and quasi-religious groups---each with many
    mutually exclusive truth claims---who rely on this method for convincing
@@ -219,7 +219,7 @@ Even though Moroni's promise is viewed by members as a silver bullet, there are 
 
 ## Correspondences with early 1800s Protestant America
 
-The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see [Book of Mormon parallels to 1800s thought](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/) for a comprehensive list).  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
+The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}) for a comprehensive list).  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
 
 [The Mormon Challenge](http://www.themormonchallenge.com/) presents many additional religious influences, and Thomas Donofrio has written extensively on modern [historical](http://mormonthink.com/influences.htm#part2) and [religious influences](http://mormonthink.com/influences.htm#part3) on the Book of Mormon.
 

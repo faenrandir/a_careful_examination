@@ -36,7 +36,7 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 
 **More**:
 
-See [Book of Mormon parallels to 1800s thought](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/)
+See [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
 ## 3. Spiritual confirmations are common to members of many religions
 
@@ -44,7 +44,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 **More**:
 
-* [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/) (bwv549)
+* [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}) (bwv549)
 * [Testimonies of Other Faiths](https://testimoniesofotherfaiths.blogspot.co.uk/)
 * [Spiritual feelings appear to confirm contradictory positions](http://www.religioustolerance.org/god_pra6.htm)
 
@@ -74,7 +74,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 
 * [According to Brian Hales](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/), Joseph's first polygamous relationship (with the teenage maid, Fanny Alger) was viewed as adulterous by his first wife, Emma, and close friend Oliver Cowdery.
 * After the death of the Walker family's mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, [encouraging the father to leave on a two year mission to the eastern states](http://www.wivesofjosephsmith.org/23-LucyWalker.htm).  While the father was away, [he married the 17 year old, Lucy](http://josephsmithspolygamy.org/plural-wives-overview/lucy-walker/).
-* Joseph [frequently misled others about practicing polygamy](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).
+* Joseph [frequently misled others about practicing polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}).
 * Joseph promised a 14 year old girl---one [who said](https://en.wikipedia.org/wiki/Helen_Mar_Kimball) "I hated polygamy with my heart"---that, [in her own words](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/b7b8c5ae69bc11c1171ccc7c94517b537b9656c5/documents/polygamy/HMK-1881-Autobiography/Helen-Mar-Kimball-Whitney-1881-Autobiography.pdf), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
 * After other failed marriage proposals to Zina Huntington, Joseph Smith proposed again to the [happily newlywed, seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young): "I [Joseph] have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
 
@@ -88,7 +88,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 
 ### More Complete Analyses
 
-See [Problem Summaries: resources discussing LDS-truth claims](https://mormonbandwagon.com/bwv549/problem-summaries-resources-discussing-lds-truth-claims/)
+See [Problem Summaries: resources discussing LDS-truth claims]({{ "/truth-claim-summaries/" | relative_url }})
 
 [^hales]: Brian Hales very cursorily responded to this document; Here is [my response to his cursory thoughts](https://www.reddit.com/r/mormon/comments/5wp96c/my_response_to_brian_hales_comment_on_five_key/).  I have altered the presentation of a few points based on this and other exchanges and appreciate his feedback.
 

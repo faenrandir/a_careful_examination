@@ -14,7 +14,7 @@ mainfontoptions:
 - BoldItalicFont=FreeSerifBoldItalic.otf
 ---
 
-Many [theological anachronisms exist in the Book of Mormon](https://mormonbandwagon.com/bwv549/book-mormon-parallels-1800s-thought/), but among the most problematic is the quotation of the end of the book of Mark by Moroni.
+Many [theological anachronisms exist in the Book of Mormon]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), but among the most problematic is the quotation of the end of the book of Mark by Moroni.
 
 ### The verses in question
 

@@ -58,7 +58,7 @@ Totalistic behaviors are endemic to human groups and emphasize the community foc
 
 Totalistic groups are attractive to humans because they offer: 1) the opportunity to lead a meaningful, spiritual life; 2) a parental-like authority figure (in one form or another); and 3) sibling-like relationships within the group.  However, they may also [cause psychological harm](https://valerietarico.com/2013/03/26/religious-trauma-syndrome-is-it-real/).
 
-Totalistic groups tend to socialize in such a manner as to [discourage members from evaluating alternative worldviews](https://mormonbandwagon.com/bwv549/lds-indoctrination-retentive-socialization/). And, virtually all totalistic groups justify whatever level of influence they exert (on one another or from the top-down) as the appropriate level of influence given the importance of their mission.[^sweeping]
+Totalistic groups tend to socialize in such a manner as to [discourage members from evaluating alternative worldviews]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}). And, virtually all totalistic groups justify whatever level of influence they exert (on one another or from the top-down) as the appropriate level of influence given the importance of their mission.[^sweeping]
 
 The totalistic mindset is manifest to some extent in these principles or teachings (inexhaustive list):
 
@@ -77,7 +77,7 @@ The totalistic mindset is manifest to some extent in these principles or teachin
     * Policing members' thoughts/expressions (see [wikipedia: Strengthening Church Members Committee (SCMC)](https://en.wikipedia.org/wiki/Strengthening_Church_Members_Committee), [Leonard Arrington's diary](http://www.sltrib.com/blogs/faithblog/3991307-155/mormon-historian-leonard-arringtons-wish-list), and [Bradley Carmack's honor code file](http://www.freebyu.org/wp-content/uploads/2016/05/Brad-Carmack-Honor-Code-File.pdf))
     * Handbook 1, the handbook that all ecclesiastical leaders refer to for managing local units and dealing with Church discipline, [is not publicly available](https://en.wikipedia.org/wiki/Handbook_%28LDS_Church%29#Handbook_1)
     * [Finances not disclosed since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/4804_taxdaysb.pdf) and [leaders' compensation not disclosed](http://en.fairmormon.org/Mormonism_and_church_finances/No_paid_ministry/General_Authorities_living_stipend) (it was [recently leaked](http://www.sltrib.com/home/4800350-155/how-much-do-top-mormon-leaders)).
-    * General concealment/suppression of [the 1832 First vision account](https://mormonbandwagon.com/bwv549/1832-first-vision-account-suppressed-least-11-years/) and (*Critical Source*) [use of the seer stone](http://thoughtsonthingsandstuff.com/seer-stones-milieu-control-and-the-sacred-science-of-mormonism/)
+    * General concealment/suppression of [the 1832 First vision account]({{ "/1832-first-vision-account-suppressed/" | relative_url }}) and (*Critical Source*) [use of the seer stone](http://thoughtsonthingsandstuff.com/seer-stones-milieu-control-and-the-sacred-science-of-mormonism/)
 * (*Critical Source*) [Opposition is from Satan](https://www.youtube.com/watch?v=e4mH-2W5nbg) (strong emphasis on dualism)
 
 # Individual Growth

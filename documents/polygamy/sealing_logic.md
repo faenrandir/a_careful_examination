@@ -18,7 +18,7 @@ However, if the _raison d'être_ of the sealing ceremony is to extend the family
 The following are facts which contradict our expectation:
 
 1.  *Two years, one month, and twenty-three days elapsed* between Joseph Smith's first sealing (Louisa Beaman April 5, 1841) and his sealing to Emma (May 28, 1843). Before his sealing to Emma, Joseph would be sealed first to approximately *twenty other women* (["23rd"](http://www.mormonstories.org/new-lds-org-polygamy-essays-part-1-with-lindsay-hansen-park-john-hamer-and-j-nelson-seawright/) and [16 well documented sealings](http://josephsmithspolygamy.org/plural-wives-overview/)).
-1. Joseph *never sealed himself to his parents or children* during his lifetime (see [footnote #6](https://mormonbandwagon.com/bwv549/questions-to-ask/#fn6))
+1. Joseph *never sealed himself to his parents or children* during his lifetime (see [footnote #6]({{ "/questions-to-ask/#fn:hales_no_sealing" | relative_url }}))
 1. Joseph Smith's first polygamous relationship was viewed as adulterous by both Emma and Oliver Cowdery, the two individuals closest to him at the time.  LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."
 
 Given the above statements and data, one or both of the following are likely to be true:

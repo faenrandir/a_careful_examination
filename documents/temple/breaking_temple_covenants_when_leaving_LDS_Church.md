@@ -37,7 +37,7 @@ There are three compelling reasons to think that former members should be excuse
 
     Traditional jurisprudence states that [a person is not bound to keep a promise made under duress](https://books.google.com/books?id=m1qPDDJLYUMC&pg=PA55&lpg=PA55&dq=should+I+keep+a+promise+made+under+duress&source=bl&ots=bvB5wi7gy3&sig=3FKyEFp_WdsWY1QNnpt4RIFeEDk&hl=en&sa=X&ved=0ahUKEwjl2YHir7TMAhWinIMKHeq_Ay4Q6AEIHTAA#v=onepage&q=should%20I%20keep%20a%20promise%20made%20under%20duress&f=false).
 
-    The request for a promise was performed under [totalistic conditions](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).  In the LDS worldview, members _cannot be married in honor_, cannot serve an LDS mission, and members are told that they cannot live with God in eternal happiness _unless_ they go through the ceremony.  Faithful members have effectively little choice in the matter of whether or not to go through the temple ceremony.
+    The request for a promise was performed under [totalistic conditions]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}).  In the LDS worldview, members _cannot be married in honor_, cannot serve an LDS mission, and members are told that they cannot live with God in eternal happiness _unless_ they go through the ceremony.  Faithful members have effectively little choice in the matter of whether or not to go through the temple ceremony.
 
 3. **The opportunity to withdraw is only offered _before_ the conditions of the promises to be made are disclosed.**
 

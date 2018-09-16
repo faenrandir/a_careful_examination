@@ -43,6 +43,6 @@ Dehlin reported Hollands response: "Maybe when the Church is more mature maybe w
 
 ## Justification
 
-Leaving a non-believing spouse seems perfectly justified under [a totalistic mindset](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).  In addition, members are taught to [flee and shun those who openly share their disbelief](https://mormonbandwagon.com/bwv549/the-shunning-key/).
+Leaving a non-believing spouse seems perfectly justified under [a totalistic mindset]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}).  In addition, members are taught to [flee and shun those who openly share their disbelief]({{ "/the-shunning-key/" | relative_url }}).
 
 [Originally posted [here](https://www.reddit.com/r/exmormon/comments/4ooj6y/fun_fact_the_church_has_never_quoted_1corinthians/)]

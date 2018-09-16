@@ -194,7 +194,7 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
 [^excommunicationexamples]: Compare [Bruce Holt's excommunication](http://www.mormonthink.com/personalstories/bruce-holt.htm) with [Jeremy Runnells' excommunication](https://cesletter.org/resign/).
 
-[^threefold]: The decision to shun because of differences in doctrine versus including others with dissimilar views and embracing differences of opinion is one manifestation of a deeper tension between the totalistic and individual-growth mindsets that are part of the fundamental fabric of the LDS Church.  See [the three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](https://mormonbandwagon.com/bwv549/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).
+[^threefold]: The decision to shun because of differences in doctrine versus including others with dissimilar views and embracing differences of opinion is one manifestation of a deeper tension between the totalistic and individual-growth mindsets that are part of the fundamental fabric of the LDS Church.  See [the three-fold nature of the LDS Church: corporate, totalistic, and individual-growth]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}).
 
 [^templerecommend]: For instance, the seventh temple recommend question [asks members](http://lds4u.com/lesson5/templequestions.htm): "Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?" which strongly implies that such affiliation is to be avoided.
 
