@@ -32,13 +32,14 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
 1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
+1. [650 phrases from the New Testament in the BoM](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/) (BYU Prof Nick Frederick)
 
 ### Extensive compilations or analyses
 
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
 1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
 1. [Historical Influences on the Book of Mormon](http://www.mormonthink.com/influences.htm#part2) (Thomas Donofrio)
-1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
+1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
