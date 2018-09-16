@@ -1,8 +1,8 @@
 ---
 title: "Exerpt from 'A Social History of the Nation's Favourite Drink'"
-permalink: /exerpt-from-social-history-of-tea/
+permalink: /excerpt-from-social-history-of-tea/
 maintopic: word-of-wisdom
-doctype: exerpt
+doctype: excerpt
 layout: page
 ---
 

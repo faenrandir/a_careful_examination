@@ -1,6 +1,6 @@
 ---
 title: "Exerpt: Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation"
-permalink: /bolnick-exerpt-mitochondrial-haplogroup-x-trans-atlantic-migration/
+permalink: /bolnick-excerpt-mitochondrial-haplogroup-x-trans-atlantic-migration/
 doctype: notes
 layout: page
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Exerpt on Isaiah from Hardy's Reader's Guide"
-permalink: /exerpt-on-isaiah-from-hardys-readers-guide/
-doctype: book-exerpt
+permalink: /excerpt-on-isaiah-from-hardys-readers-guide/
+doctype: book-excerpt
 layout: page
 ---
 
