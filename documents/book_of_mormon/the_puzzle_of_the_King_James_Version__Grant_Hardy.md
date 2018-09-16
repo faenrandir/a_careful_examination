@@ -1,5 +1,5 @@
 ---
-title: "Exerpt on Isaiah from Hardy's Reader's Guide"
+title: "Excerpt on Isaiah from Hardy's Reader's Guide"
 permalink: /excerpt-on-isaiah-from-hardys-readers-guide/
 doctype: book-excerpt
 layout: page

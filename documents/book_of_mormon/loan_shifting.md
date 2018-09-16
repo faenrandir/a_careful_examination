@@ -5,7 +5,7 @@ doctype: notes
 layout: page
 ---
 
-Exerpt from [here](http://shamelesspopery.com/animals-in-the-book-of-mormon/)
+Excerpt from [here](http://shamelesspopery.com/animals-in-the-book-of-mormon/)
 
 ---
 
