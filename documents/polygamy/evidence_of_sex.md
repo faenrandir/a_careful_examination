@@ -64,18 +64,15 @@ If sex didn't happen with some, and it may not have, then it has nothing to do w
 
 * [Elvira Cowles Holmes - Affidavit](https://archive.org/stream/AffidavitsOnCelestialMarriage/MS_3423_5-6#page/n86/mode/1up) shows that she was sealed to Joseph for time and all eternity in 1843. Her daughter [Phebe Welling](http://mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm) also reported, "I heard my mother testify that she was indeed the Prophet's plural wife in life and lived with him as such during his lifetime."
 
-**Accusations of sex prior to marriage**:
-----
+### **Accusations of sex prior to marriage**:
 
 * Marinda Johnson Hyde - [Eli Johnson, her uncle](http://mormonthink.com/grant6.htm) is quoted as being "furious because he suspected Joseph of being intimate with his sister [actually she was his sixteen year old niece[20]], Nancy Marinda Johnson, and he was screaming for Joseph's castration"
 
-**Ambiguous**:
-----
+### **Ambiguous**:
 
 * Mary Rollins Lightner - [ambiguous at best](https://books.google.com/books?id=nGgSuTW-dgIC&pg=PA134&lpg=PA134&dq=mary+lightner+sealed+for+time+and+eternity+brigham+young&source=bl&ots=1SfCE8b_lT&sig=h_RFbcEpT1MQG0Vrn9rtNdsiMp8&hl=en&sa=X&ved=0CEIQ6AEwB2oVChMIsaCVnJO5yAIVTTqICh3PiQ2v#v=onepage&q=mary%20lightner%20sealed%20for%20time%20and%20eternity%20brigham%20young&f=false).  She claimed that she was sealed to Joseph Smith (while living) for "time and eternity" which even apologists accept included the potential for sex. Likewise, after Joseph's death, she was sealed to Joseph for Eternity by proxy and to Brigham for time despite continuing to bear her legal husband's children.   It should be noted that /u/mithryn stated she may have believed [her child could have belonged to Joseph](https://www.reddit.com/r/exmormon/comments/1far2e/13_wives_swore_court_affidavits/ca8fujy).  I would love to see a source for this.
 
-**Unknowns**:
-----
+### **Unknowns**:
 
 * Patty Bartlett Sessions - unknown.  While [her affidavit](https://archive.org/stream/AffidavitsOnCelestialMarriage/MS_3423_1-4#page/n189/mode/1up) does ask for secrecy,  the reason why is unclear.
 

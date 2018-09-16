@@ -259,7 +259,7 @@ Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1
 
 > • Is there any evidence he visited the libraries where Clarke's commentary was supposedly located? **No**.
 
-> • Did Emma Smith, who was married to him, (or any other scribe who helped with the JST) ever comment that he referred to Clarke's commentary before or during the production of the JST? **No**.
+> • Did [any ... scribe who helped with the JST] ever comment that he referred to Clarke's commentary before or during the production of the JST? **No**.
 
 > • Is there any record that he had Clarke's commentary present when he produced the JST? **No**.
 
@@ -298,39 +298,7 @@ It has been demonstrated that the vast majority of the doctrine taught in the Bo
 
 > For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
 
-As [pointed out by churchistrue](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/), the theological concept of [felix culpa](https://en.wikipedia.org/wiki/Felix_culpa) (or "blessed fall") was embodied in the ancient Catholic Paschal Vigil Mass [Exsultet](https://en.wikipedia.org/wiki/Exsultet) and favored by Ambrose, Augustine, and Aquinas.  John Wycliffe, often [doted upon by LDS scholars](https://www.lds.org/search?lang=eng&query=wycliffe), spoke of the fortunate fall in multiple sermons, and wrote:
-
-> it was a fortunate sin that Adam sinned and his descendants; therefore as a result of this the world was made better
-
-Leibniz refers to felix culpa in his well-known work Theodicy, and John Milton includes a stanza clearly articulating a fortunate fall in Paradise Lost ([included in an Ensign article in 1976](https://www.lds.org/new-era/1976/01/john-milton-an-inspired-man?lang=eng)):
-
-> The Fortunate Fall
-
-> The poem is overridingly positive. In spite of the rebellion of angels, the evil designs of Satan against man, Adam’s disobedience, mankind’s foreseen history of bloodshed and sin, good triumphs over evil. In fact, more good will eventually result from the Fall than could have been possible without it. Realizing this near the end of the poem, Adam cries:
-
->    O goodness infinite, goodness immense!
-
->    That all this good of evil shall produce,
-
->    And evil turn to good; more wonderful
-
->    Than that which by creation first brought forth
-
->    Light out of darkness! full of doubt I stand,
-
->    Whether I should repent me now of sin
-
->    By mee done and occasion’d, or rejoice
-
->    Much more, that much more good thereof shall spring.
-
->    To God more glory; more good will to Men
-
->    From God, and over wrath grace shall abound.
-
->    (XII. 469–478)
-
-Needless to say, Paradise Lost was hugely influential before and after Joseph Smith's time.  
+The concept of felix culpa was widely taught and expressed by many Christian thinkers, [including Ambrose, Augustine, Aquinas, Wycliffe, Leibniz, and John Milton]({{ "/pre-1830-felix-cupa-fortunate-fall/" | relative_url }}), before the time of Joseph Smith.
 
 > Likewise, contrary to contemporary beliefs, the Book of Mormon refers to a premortal existence in Alma 13 (see Alma 13:1--11)
 
