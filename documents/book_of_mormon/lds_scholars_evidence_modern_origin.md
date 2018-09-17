@@ -13,9 +13,9 @@ While most of these are likely to explain their individual observations in other
 
     > other times the sequence of those proximity phrases will **follow the same sequence in both the New Testament and in the Book of Mormon**, which, again, suggests to me that we have a conscious attempt to draw upon the language of the New Testament in the Book of Mormon.
 
-    **Significance**: We do not expect ancient authors to be pulling extensively from New Testament phraseology and themes in such a manner since the book had not even been written at the time ancient authors were first engraving the plates and the books being pulled from were not transmitted by Jesus in the New World, at least based on the record of what was transmitted.
+    **Significance**: We do not expect ancient authors to be pulling extensively from New Testament phraseology and themes in such a manner since the NT had not even been written at the time ancient authors were first engraving the plates and the books being pulled from were not transmitted by Jesus in the New World, at least based on the record of what was transmitted.
 
-1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith plagiarised from Adam Clarke's famous commentary on the Bible in producing the JST.
+1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith [plagiarised from Adam Clarke's famous commentary on the Bible](http://jur.byu.edu/?p=21296) in producing the JST.
 
     > Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
 
@@ -41,7 +41,7 @@ While most of these are likely to explain their individual observations in other
 
     > ... others [of the early Christian fathers] seem not to have known about them [Mark 16:9–20] or were unsure of their authenticity ...
 
-    Significance: Moroni states that Jesus spoke to the disciples in the New World using [the exact verbiage from a section of Mark that is almost certainly a later addition]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) to the book of Mark.
+    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using [the exact verbiage from a section of Mark that is almost certainly a later addition]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) to the book of Mark.
 
 1. Royal Skousen, [BYU linguistics and English Professor](https://humanities.byu.edu/person/royal-j-skousen-2/) --- the BoM grapples with [nuances in late 1600s theology](https://www.mormoninterpreter.com/tyndale-versus-more-in-the-book-of-mormon/).
 
@@ -64,3 +64,5 @@ Regardless, anyone who parses the early 1800s literature will observe that many,
 ### See also
 
 [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+
+_posted [here](https://www.reddit.com/r/exmormon/comments/9gm1vt/recent_lds_scholar_observations_favoring_a_modern/) and [here](https://www.reddit.com/r/mormon/comments/9gm3ho/recent_lds_scholar_observations_favoring_a_modern/)

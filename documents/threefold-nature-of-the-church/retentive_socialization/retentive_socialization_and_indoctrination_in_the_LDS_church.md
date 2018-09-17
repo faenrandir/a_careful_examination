@@ -342,6 +342,10 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 
 A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and, outside of the veridicalness of LDS truth-claims, might help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
 
+## See Also
+
+[Methods used by the LDS church to maintain belief in its members](http://mormonscholar.org/methods-used-by-the-lds-church-to-maintain-belief-in-its-members/) (mormonscholar.org)
+
 ### Acknowledgements
 
 * Some personal communication with Benjamin Beit-Hallahmi influenced the general approach of this document.
