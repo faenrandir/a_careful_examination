@@ -58,6 +58,7 @@ layout: page
 ### Without responses by Runnells
 
 * [A Reply from a Former CES Employee](http://stallioncornell.com/blog/2016/04/01/a-reply-from-a-former-ces-employee/) (by Stallion Cornell)
+* [Conflict of Justice #CES Letter Fail](http://www.conflictofjustice.com/category/cesletter-fail/)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
 # General pros/cons of the LDS lifestyle
