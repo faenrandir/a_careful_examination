@@ -8,4 +8,6 @@ git add -u
 # git add untracked
 git add $(git ls-files -o --exclude-standard)
 
+git commit -m "new or modified"
+
 git push
