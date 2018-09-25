@@ -69,7 +69,7 @@ A person may remain in the Church after investigation but the investigation may 
 
 ### Damage to ego
 
-Investigating the truth-claims of the Church my require self-negation of one's own ego in these ways:
+Investigating the truth-claims of the Church may require self-negation of one's own ego in these ways:
 
 * The mere act of investigation may imply that the spiritual experiences a person had are insufficient or their faith is somehow lacking.
 * If investigating were to result in a loss or damage to faith, then a person might have to admit:
