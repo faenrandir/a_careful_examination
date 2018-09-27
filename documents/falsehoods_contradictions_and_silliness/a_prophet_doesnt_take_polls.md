@@ -20,10 +20,10 @@ https://drive.google.com/file/d/0B3IkLXv-jPlVTHJBeEFRNXN3RWc/view) or [here](htt
 1. Poll from the Presidency of the Seventy to monitor the impact of the focus on Sabbath day observance [here](https://www.reddit.com/r/exmormon/comments/46n0xq/yet_another_poll_from_the_people_who_dont_take_a/)
 1. A survey inquiring about members' experiences visiting the Washington DC Temple Visitors’ Center. [here](https://mormonleaks.io/wiki/documents/5/55/Survey_DC_Temple_Visitors_Center.pdf)
 1. A survey regarding the perceived influence of the LDS Church in Utah politics. [here](https://mormonleaks.io/wiki/documents/1/1b/The_LDS_Church_In_Utah_Politics_Survey_Results.pdf)
-1. A survey on perceptions and attitudes regarding religion and spirituality.  [here](https://www.reddit.com/r/exmormon/comments/9bv8pb/my_wife_just_received_this_email_from_the_church/)
+1. A survey on perceptions and attitudes regarding religion and spirituality.  [here](https://www.reddit.com/r/exmormon/comments/9bv8pb/my_wife_just_received_this_email_from_the_church/) and [here](https://www.reddit.com/r/exmormon/comments/99r7o7/anyone_else_get_this_church_survey_emailed_to_them/), with [questions](https://imgur.com/a/P06h2FO).
 
 ---
 
 *note*: [Shared here](https://www.reddit.com/r/exmormon/comments/3lzsn2/a_prophet_doesnt_take_a_poll_to_see_which_way_the/)
 
-*acknowledgement*: 1963 survey h/t [No_Engineering](https://www.reddit.com/r/exmormon/comments/9j6ziv/my_brother_a_high_ranking_byu_professor_just_told/e6p55b9/)
+*acknowledgements*: 1963 survey h/t [No_Engineering](https://www.reddit.com/r/exmormon/comments/9j6ziv/my_brother_a_high_ranking_byu_professor_just_told/e6p55b9/); questions on perceptions and attitudes regarding religion and spirituality h/t [Stuart98](https://www.reddit.com/r/exmormon/comments/99r7o7/anyone_else_get_this_church_survey_emailed_to_them/)
