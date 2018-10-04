@@ -5,17 +5,15 @@ doctype: notes
 layout: page
 ---
 
-For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, I've studied fairly extensively:
+For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, the books I had been reading/studyign prior to my faith transition on the Book of Mormon were:
 
 * [Mormon's Codex](http://www.fairmormon.org/perspectives/fair-conferences/2012-fair-conference/2012-reading-mormons-codex)
-* [All the parallelisms in the Book of Mormon](http://www.amazon.com/Mormon-reformatted-according-parallelistic-patterns/dp/B001JMKB70)
+* [The Book of Mormon reformatted according to parallestic patterns](http://www.amazon.com/Mormon-reformatted-according-parallelistic-patterns/dp/B001JMKB70)
 * [The ancient festival interpretations for King Benjamin's Speech](http://publications.maxwellinstitute.byu.edu/book/king-benjamin-s-speech-that-ye-may-learn-wisdom/)
-
-I've examined [the data on the Hopewell Indians](https://mormonbandwagon.com/user/david.mckane/).
 
 I've read through most every issue of the Journal of Book of Mormon Studies and FARMS review of books, and most everything John Welch, Dan Peterson, Hugh Nibley, and other prominent apologists have written.
 
-I had a subscription to BYU Studies and generally read all of each issue.  I had GospeLink2001 and the LDS InfoBase and read through very many books and articles there.
+I had a subscription to BYU Studies for some time and generally read all of each issue during that time.  I had GospeLink2001 and the LDS InfoBase and read through very many books and articles there.  I would frequently skim or read other biographies or LDS books like Couseling with our Councils, the Holy Temple. I have read all the standard books like Jesus the Christ, The Articles of Faith, A Marvelous Work and a Wonder, Mormon Doctrine, etc.  I read most of CS Lewis's religious books (Mere Christianity, Screwtape Letters, The Great Divorce, The Abolition of Man, etc).
 
 I am familiar most of the arguments of those who've written on polygamy from an apologetic perspective (e.g., [Meg Stout](http://www.millennialstar.org/free-book-or-what-i-learned-at-mha/), [Brian Hales](http://josephsmithspolygamy.org/), and am familiar with much of [the primary data](http://mormonpolygamydocuments.org/)).
 

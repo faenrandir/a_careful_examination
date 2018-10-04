@@ -41,6 +41,8 @@ layout: page
 
 1. Expansions don't explain many kinds of major anachronisms very well in the text. When Joseph writes "baptism" what else could Nephi have mean't other than "baptism". A transoceanic voyage means a transoceanic voyage. The tower of babel means the tower of babel.  So, some kinds of issues seem resilient to expansionistic explanation.
 
-Acknowledgements: reddit user [Y_chromosomalAdam](https://www.reddit.com/user/Y_chromosomalAdam) contributed several points
+1. The expansionist model is one more step towards unfalsifiability (see [Falsifiability](https://rationalwiki.org/wiki/Falsifiability), [The Dragon in my Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage), and comments [1](https://www.reddit.com/r/mormon/comments/9kikqc/nonbelieving_but_outwardly_active_mormon_says_hes/e6zzeqc/), [2](https://www.reddit.com/r/mormon/comments/9fjx91/moronis_promise_experiences/e5x9n06/), and [3](https://www.reddit.com/r/mormon/comments/96i4zz/the_grammar_and_alphabet_of_the_spanish_language/e40mjn6/))
+
+Acknowledgements: reddit user [Y_chromosomalAdam](https://www.reddit.com/user/Y_chromosomalAdam) contributed several points.  reddit user [fuzzy_thoughts](https://www.reddit.com/u/fuzzy_thoughts) pointed out the unfalsifiability issue and wrote the linked to comments.
 
 [^ironclad_and_tight]: See Royal Skousen's work [here](https://scholarsarchive.byu.edu/jbms/vol7/iss1/4/) and [here](http://criticaltext.byustudies.byu.edu/translating-book-mormon-evidence-original-manuscript).
