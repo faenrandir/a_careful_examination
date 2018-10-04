@@ -34,6 +34,8 @@ As the years have passed, I have become disillusioned with LDS epistemology. One
 
     Members, leaders, and missionaries of the Church believe that we ought to follow Moroni’s imperative, and pray to discover whether the Book of Mormon is true. However, if we “liken the scriptures unto ourselves” (1st Nephi 19:23) and presume that Moroni’s Promise applies to non-Lamanites, we are interpolating something into the Book of Mormon that is not warranted by the actual text.
 
+    *[Note by bwv549: BKHJH has offered what I view as some valid pushback on this point [here](https://www.reddit.com/r/mormon/comments/9k4whi/curius_about_mormon_beliefs/e72gqyp/)]*
+
 2. There is no reason to accept the promise as legitimate unless you already accept the BoM as legit. It requires “begging the question.”
 
     There is a logical fallacy referred to as “begging the question.” The term is widely misunderstood and is misapplied to mean “implying the question…” or “leading us to ask.” The actual meaning of “begging the question” is that an argument already assumes the truth of the conclusion in its premisses. 
