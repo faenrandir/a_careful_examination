@@ -91,7 +91,7 @@ For various reasons, it is difficult to say definitively that these are "errors"
 
 ## Conclusion
 
-At least 6 verses seem, based on scholarly consensus, to contain significant translation errors, as judged by two eminent and what appear to be competent biblical scholars.  Two additional verses may contain significant errors, but these seem more debatable.  Based mostly on more archaic meanings of words used in King James translations, a few verses that appear to be translation errors to many scholars may not, in fact, be errors.
+At least 6 verses seem---based on scholarly consensus---to contain significant translation errors, as judged by at least two eminent scholars and additional biblical scholars who appear competent.  Two additional verses may contain significant errors, but these seem more debatable.  Based mostly on more archaic meanings of words used in King James translations, a few verses that appear to be translation errors to many scholars may not, in fact, be errors.
 
 What does this mean for modern and ancient origin theories of the Book of Mormon?  We might expect Joseph Smith to have pulled from an available Bible in trying to convey the *essence* of the plates in language that would be familiar to his audience.  We do *not* expect Joseph to rely on his Bible when the *meaning* on the plates would be incorrectly and inadequately expressed.  The repeated one-for-one reliance on a faulty translation for particular words and phrases suggests either that no ancient text was being referred to, or---more generously---no ancient text was being closely referred to during that portion of the translation.
 
