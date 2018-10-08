@@ -2,6 +2,7 @@
  * Syntax highlighting styles
  */
 .highlight {
+  margin-left: $spacing-unit;
   background: #fff;
   @extend %vertical-rhythm;
 

@@ -456,6 +456,7 @@ p {
  * Syntax highlighting styles
  */
 .highlight {
+  margin-left: 30px;
   background: #fff; }
   .highlighter-rouge .highlight {
     background: #eef; }
