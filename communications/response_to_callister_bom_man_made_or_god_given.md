@@ -504,7 +504,26 @@ Compare with the entire section [III. The State of Grace, or Begun Recovery](htt
 
 > Does anyone honestly believe that Joseph Smith somehow invented these profound doctrines with their compelling powers of reason, their mind-expanding insights, and their language, which is divinely eloquent? If these doctrines were the product of Joseph’s creative mind, one might ask, “Were there no other creative geniuses in the 1,800 years following Christ’s ministry who could produce similar doctrines?”
 
+As demonstrated above, the doctrines found in the Book of Mormon were rather typical for their time.
+
+Short list of doctrines which seem to be attested in the literature (and
+sources):
+
+[pull from echoes.pdf]
+
+1. Compare 2 Ne 2:11 with The Necessity of Belief of Christianity:  If there be moral good in any of those tempers or actions, there must be moral evil in the directly opposite.
+
+...
+
+Royal Skousen also notes a number of other doctrines that spoke especially to controversies that had been occurring over the past several centuries before the Book of Mormon.
+
+[quote from his latest BYU article that I have a pre-print of]
+
 > The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life. It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days. Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
+
+I think I've responded to these (point to specific arguments above).
+
+The Emma quote ignores several possibilities: Emma was duped (Joseph Smith with hat or with collaborators).  Emma lying (easy to suggest since appears to be lying about polygamy)
 
 > A PARABLE THAT COUNTERS THE ARGUMENTS PROPOSED BY CRITICS
 In response to critics’ arguments as to the origin of the Book of Mormon, Hugh Nibley published the following parable:
@@ -515,17 +534,34 @@ In response to critics’ arguments as to the origin of the Book of Mormon, Hugh
 
 > To suggest that Joseph Smith, a farm boy with little formal education, produced a synthetic work of God in 1829 that has baffled the brightest of critics for almost two centuries would be a more remarkable feat than the simple fact that he obtained the gold plates from an angel of God and translated them by the gift and power of God.
 
+Let us extend the analogy even further, we know that the farmer in the story, Joseph Smith, was prone to "finding artifacts" in his field (discuss treasure digging, copyright, and 1826 trial and Nibley's statements on it; plus JST translation errors [it was known that he produced synthetic rubies]; plus book of Abraham [emeralds]).
+
+A number of scientists actually have carefully analyzed the diamond, and they find that it contains the exact same kinds of contaminants as diamonds from the next county over.  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then by the land from him in search of diamonds.
+
+Of course, those who had wasted their fortune buying the land from the farmer refused to acknowledge the careful research of those who had adequately demonstrated that the diamond was a fake.  They tried to discredit them, and they warned all the others who had bought into the field to avoid reading their work [sapiens post about truth-sources would work well here] 
+
 > OTHER EVIDENCES THAT THE BOOK OF MORMON IS NOT MAN-MADE
 
 > What other evidence do we have that the Book of Mormon was a God-given translation and not a man-made creation? There are many evidences, but for the sake of time I refer to but one, because it is personal to me. Emma Smith gave the following testimony, as reported by her son Joseph Smith III:
 
 > My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.[34]
 
+manuscript in hat theory or emma lying
+
 > This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”
 
 > But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”
 
+translation errors in the book of Mormon [and other things pointing to faulty
+
+https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_text_because_the_god/
+
 > When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]
+
+In almost every way we can test the book we can demonstrate that it does not
+match our expectations as an ancient book:
+
+https://faenrandir.github.io/a_careful_examination/lds-scholars-modern-origin-evidence/
 
 > HOW WE CAN DISCOVER THE TRUTH OF A DIVINE WORK
 
@@ -533,16 +569,21 @@ In response to critics’ arguments as to the origin of the Book of Mormon, Hugh
 
 > The Spirit is the decisive, determining factor—not archaeology, not linguistics, not DNA, and certainly not the theories of man. The Spirit is the only witness that is sure and certain and infallible.
 
+[testimony and holy ghost]
+
 > As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.[37]
+
+[story of holland missionary]
 
 > Why is it so important for you individually to gain a testimony of the Book of Mormon? Because if you do, it will become your personal iron rod. The mists of darkness may come and the unanswered questions may arise, but through it all you will have your iron rod to cling to—to keep you on the straight and narrow path that leads to eternal life.
 
 > The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.
 
+discuss issues with moroni's promise and epistemology generally.
+
 > By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.
 
 [add in /u/we were gods point about it still not being the case that it's a historical record.]
-
 
 [^shared_by_others]: Elder Holland's story (also told by Kim B. Clark) was shared by many others (all last retrieved 2017-09-06): [1](http://rogerwilco-ldsreport.blogspot.com/), [2](https://web.archive.org/web/20170801050830/http://www.texashoustonsouthmission.com/weekly-presidents-pen/2016/4/25/presidents-pen-4-25-16), [3](https://eldercowansouthafrica.blogspot.com/2017/07/zone-conference.html) [4](http://savvysmissionaryblog.blogspot.com/2015/11/carry-on.html), [5](http://hermanaalisonknight.blogspot.com/2015/11/one-month-down-17-to-go.html), and [6](http://eldergideonbenge.blogspot.com/2017/07/an-invitation-to-come-home.html).  The story profoundly influenced many hearers:
 
