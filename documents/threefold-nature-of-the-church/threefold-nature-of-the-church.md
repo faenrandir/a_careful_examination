@@ -9,8 +9,7 @@ layout: page
 
 Teachings and actions of the Church, its leaders, and its members may be categorized into three prominent mindsets: **corporate**, **totalistic**, and **individual-growth** (aka "growth-mindset"):
 
-<img src="http://i.imgur.com/TnFoLup.png?1" alt="Venn diagram of the 3
-mindsets: corporate, totalistic, and individual growth"/>
+<img src="http://i.imgur.com/TnFoLup.png?1" alt="Venn diagram of the 3 mindsets: corporate, totalistic, and individual growth" width="400px"/>
 
 There is certainly overlap and interplay between these mindsets, but many of the Church's teachings and actions may be best understood as an emphasis of a particular mindset.
 
