@@ -1,6 +1,7 @@
 ---
 title: "Errors represented across both 1611 and 1769 KJV"
 permalink: /errors-represented-across-both-1611-and-1769-kjv/
+doctype: short-analysis
 maintopic: book-of-mormon
 layout: page
 ---

@@ -1,3 +1,10 @@
+---
+title: "Highlights from recently leaked documents (2017)"
+permalink: /highlights-from-recently-leaked-documents-2017/
+layout: page
+doctype: summary
+---
+
 ## No SSA missionaries allowed 
 
 From [Jan 8, 2016 Area Council Meeting Minutes](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf):
