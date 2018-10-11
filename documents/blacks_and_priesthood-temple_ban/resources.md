@@ -35,6 +35,8 @@ The letter indicates that he was including the pamphlet [Mormonism and the Negro
 
 [The Stewart Udall letters](https://archive.org/stream/StewartUdallConscienceOfAJackMormon/StuartUdall-OpenLetterOnRaceAndConsequencesOfConscience#page/n0/mode/1up)
 
+Additional historical context for the letters: ["Do Not Lecture the Brethren": Stewart L. Udall's Pro-Civil Rights Stance, 1967](https://archive.org/details/DoNotLectureTheBrethren/page/n0).
+
 ## Dehlin's summary of facts from 100% Church-friendly Sources
 
 [Facts about the LDS Church, Blacks & the Priesthood that Cause Some to Struggle](http://www.mormonstories.org/top10toughissues/blacks.html) includes many first-hand material from Church-friendly sources.
