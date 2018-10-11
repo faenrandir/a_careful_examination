@@ -11,6 +11,8 @@ Summary: people and groups have attempted to catalyze change in the LDS Church u
 
 The following methods have been pursued by active or semi-active LDS members seeking substantive and well-thought-out changes to the Church or its culture.  I briefly describe the main efforts of the group or individual and then the current outcome of those efforts, where available.
 
+## Methods to effect change
+
 ### Activist campaigns
 
 OrdainWomen (OW) organized around the idea that ordination of women to the Priesthood was likely the only way women would achieve full equality within the LDS Church system.  OW members documented [inequity between men and women in the Church](http://www.dovesandserpents.org/wp/category/columns/equality-is-not-feeling/) and produced [a series of discussions](http://ordainwomen.org/six-conversations/) aimed at educating LDS members about gender inequality and doctrinal and historical precedent that potentially pave the way for women ordination.  Their [stated purpose](http://ordainwomen.org/faq/) was to "sincerely ask our leaders to take this matter [the possibility of granting women the Priesthood] to the Lord in prayer."
@@ -96,13 +98,15 @@ Members have voted "opposed" in general conference, publicly state why they vote
 
 Every issue these individuals have raised (that I'm aware of) has not been addressed by leaders to date.
 
-### Conclusion
+## Conclusion
 
 The above methods for informing or persuading LDS leaders from within the Church are varied, running the gamut from small personal efforts to large organized ones and extremely meek to very vocal and agitating (and everything in-between).  Each approach was (or continues to be) met either with a wall of silence and inaction or, conversely, disciplinary action that included very little discussion (essentially, the proponent was told to self-censor or be excommunicated).  The data strongly suggest that those inside the Church are incapable of effecting substantive change---if they raise a sharp voice they will be excommunicated; if they raise a mild voice they will be ignored.  I am unaware of any efforts to effect substantive change by an individual member or group that were met with success.
 
 Ultimately, I think that Elder Lynn Robbins best summarized the relationship LDS Church leaders have with their members as he [quoted Boyd K. Packer's instruction](https://www.lds.org/general-conference/2014/10/which-way-do-you-face?lang=eng):
 
 > “A Seventy does not represent the people to the prophet but the prophet to the people. Never forget which way you face!”
+
+## Appendix
 
 ### Appendix A -- Why the resistance to bottom-up change?
 
