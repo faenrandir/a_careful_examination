@@ -7,18 +7,7 @@ layout: page
 
 Summary: people and groups have attempted to catalyze change in the LDS Church using a wide variety of methods.  To date, it appears that most of them have failed to bring about substantive changes.
 
-### Informal Introduction
-
-I decided to go through and catalog the efforts of those who have tried to effect change in the LDS Church in an effort to demonstrate what I already felt intuitively--the LDS Church does not appear to respond to petitions for change from its membership, regardless of the approach used.
-
-I hope to update this post as I gather new information, so please help me out:
-
-* Did I miss any examples? (particularly examples demonstrating change based on the efforts of general LDS Church members)
-* Did I properly use effect/affect? (I taught technical writing for several years [hard to tell, I know] but I still goof on these at times).  edit: my Nazi Grammar friend tells me I got the title right, but I still may have goofed in the article...
-* Other thoughts?
-
----
-# Can LDS members effect change from within?
+## Introduction
 
 The following methods have been pursued by active or semi-active LDS members seeking substantive and well-thought-out changes to the Church or its culture.  I briefly describe the main efforts of the group or individual and then the current outcome of those efforts, where available.
 
