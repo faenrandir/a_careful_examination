@@ -29,4 +29,12 @@ layout: page
 * [Faith vs. religious faith](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/) (also discusses an issue with Alma 32)
 * [What are the goods of "elective faith"](https://www.reddit.com/r/mormon/comments/81bn53/what_are_the_goods_of_elective_faith_serious/)
 
-*acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/)*
+## Street Epistemology
+
+[Street epistemology](https://streetepistemology.com/) sessions with Latter-day Saints:
+
+* [Street Epistemology with Missionaries](https://www.youtube.com/watch?v=SniF1xG_Iso)
+* [Street Epistemology with Missionaries | I know the Book of Mormon is true](https://www.youtube.com/watch?time_continue=16&v=DhKGiw0ZVBM) 
+* [Anthony Magnabosco with Jenny and Anthony](https://www.youtube.com/watch?v=bh9IYjRYBx4)
+
+*acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/).  He also alerted me to one of the street epistemology videos.*
