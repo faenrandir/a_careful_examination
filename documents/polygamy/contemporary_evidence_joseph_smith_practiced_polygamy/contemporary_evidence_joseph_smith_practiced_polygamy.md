@@ -2,6 +2,7 @@
 title: "Contemporary evidence that Joseph Smith practiced polygamy"
 permalink: /contemporary-evidence-that-joseph-smith-practiced-polygamy/
 doctype: short-analysis
+maintopic: polygamy
 layout: page
 ---
 
