@@ -34,7 +34,7 @@ layout: page
 [Street epistemology](https://streetepistemology.com/) sessions with Latter-day Saints:
 
 * [Street Epistemology with Missionaries](https://www.youtube.com/watch?v=SniF1xG_Iso)
-* [Street Epistemology with Missionaries | I know the Book of Mormon is true](https://www.youtube.com/watch?time_continue=16&v=DhKGiw0ZVBM) 
+* [Street Epistemology with Missionaries \| I know the Book of Mormon is true](https://www.youtube.com/watch?time_continue=16&v=DhKGiw0ZVBM) 
 * [Anthony Magnabosco with Jenny and Anthony](https://www.youtube.com/watch?v=bh9IYjRYBx4)
 
 *acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/).  He also alerted me to one of the street epistemology videos.*
