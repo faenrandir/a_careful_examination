@@ -134,7 +134,7 @@ The very thought of dating a non-return missionary (non-RM) is [considered jaw-d
 #### LDS Orthodoxy
 
 1. [Short engagement/dating times relative to the rest of society](http://byuiscroll.org/long-vs-short-engagements-what-is-the-way-to-go/) suggests that religious affiliation often trumps other considerations of personality and personality compatibility.
-1. A good reason not to marry someone [is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/).
+1. A good reason not to marry someone is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/) ([short vidoe clip](https://www.youtube.com/watch?v=fqhK8fB9m-Q))
 1. Some leaders create [contracts to ensure continued activity](https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/).
 
 ### 7. Most major life events are tied into the Church

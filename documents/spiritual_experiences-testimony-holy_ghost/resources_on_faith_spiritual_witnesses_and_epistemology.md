@@ -1,5 +1,5 @@
 ---
-title: "Resources on faith, spiritual wintesses, and epistemology"
+title: "Resources on faith, spiritual witnesses, and epistemology"
 permalink: /resources-on-faith-spiritual-witnesses-and-epistemology/
 doctype: resource
 maintopic: truth-claims
