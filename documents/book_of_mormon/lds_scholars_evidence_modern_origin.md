@@ -65,4 +65,4 @@ Regardless, anyone who parses the early 1800s literature will observe that many,
 
 [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
-_posted [here](https://www.reddit.com/r/exmormon/comments/9gm1vt/recent_lds_scholar_observations_favoring_a_modern/) and [here](https://www.reddit.com/r/mormon/comments/9gm3ho/recent_lds_scholar_observations_favoring_a_modern/)
+*posted [here](https://www.reddit.com/r/exmormon/comments/9gm1vt/recent_lds_scholar_observations_favoring_a_modern/) and [here](https://www.reddit.com/r/mormon/comments/9gm3ho/recent_lds_scholar_observations_favoring_a_modern/)*
