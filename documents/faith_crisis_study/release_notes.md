@@ -18,7 +18,7 @@ Report prepared for Dieter Uchtdorf in 2013, presented to him by Marlin Jensen. 
 
 [Faith_Crisis_Accounts_R3.pdf]({{ "/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf" | relative_url }})
 
-Includes a number of qualitative narratives Case collected in 2013 as part of a separate survey they did (some of these inputs were included in the Uchtdorf report).  Dieter later indicated that he read each of these narratives.
+Includes a number of qualitative narratives collected in 2013 as part of a separate survey (some of these inputs were included in the Uchtdorf report).  Dieter later indicated that he read each of these narratives.
 
 ### BYU-H Symposium Presentation
 
