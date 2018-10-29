@@ -1,5 +1,5 @@
 ---
-title: "Report, account, and presentation on LDS Faith Crises"
+title: "Report, chronicles, and presentation on LDS faith crises"
 permalink: /2013-faith-crisis-study/
 layout: page
 maintopic: faith-transitions
