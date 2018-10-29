@@ -5,7 +5,7 @@ doctype: short-analysis
 layout: page
 ---
 
-[Emma Smith's last testimony]{{ "/last-testimony-of-sister-emma/" | relative_url }}) is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]
+[Emma Smith's last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]
 
 > *Question*. What of the truth of Mormonism?
 
