@@ -25,3 +25,5 @@ Includes a number of qualitative narratives collected in 2013 as part of a separ
 [BYU_H_Social+Faith_R5.pdf]({{ "/documents/faith_crisis_study/BYU_H_Social+Faith_R5.pdf" | relative_url }})
 
 Part of this presentation focused on “user generated content” in the post-Mormon community and included a site-traffic analysis and growth projection for the r/exmormon subreddit. Back in Oct 2016, there were 34K registered members of that community. Today there are almost 97K registered members, which is more or less on target per the projection to reach 200K in 2020. And while the number of registered users is impressive, the number of “lurkers” and level of engagement per user is especially fascinating. See Slides 17–31 for more info.
+
+Finally, please note that this project was pro-bono work (conducted without pay and without being commissioned by Church leadership).
