@@ -46,7 +46,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
-1. [The Book of Mormon and 12 points of Pelagius](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf)
+1. [The Book of Mormon and 12 points of Pelagius]({{ "/bom-and-twelve-points-of-pelagianism-in-early-1800s/" | relative_url }})
 1. [Faith of a naturalist]({{ "/faith-naturalist-response-faith-science-teacher-questions/" | relative_url }}) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
