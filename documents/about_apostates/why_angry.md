@@ -6,9 +6,24 @@ doctype: anecdotal
 layout: page
 ---
 
+## Anger as a part of grieving loss
+
+Grieving is a mult
+
+Those experiencing faith transitions experience a huge loss of meaning in their life.  Loss of belief in LDS truth-claims
+
+Grief trajectories are 
+
+
+
+
+### Former member explanations
+
 Here are some former members trying to explain why they are angry after leaving the LDS Church.
 
 ---
+
+*Note: many former members begin to view LDS culture or leaders as somewhat abusive, so they may interpret anger in terms of this kind of relationship*
 
 [Abusers stigmatize anger, so that their victims won't protest when they are abused.](https://www.reddit.com/r/exmormon/comments/74a9kz/abusers_stigmatize_anger_so_that_their_victims/)
 
@@ -40,3 +55,53 @@ One letter of [a transitioning member trying to explain](https://www.reddit.com/
 > Sometimes anger is all I got. Not because I’m crazy or a bad person. Because I’ve lost many intimate and close relationships. Because one of my children in particular wouldn’t even hug me for quite a while after I left the church; do you know what that feels like?!? Because my marriage is over except on paper. Because some of my kids thought I wouldn’t be their dad anymore. Because my elderly parents and other family see me as a cancer now. Because the Mormon church is actively creating a wedge between me and my family now. I wish my transition had been easy. Yet the pain of lying to myself till I die was greater so I left Mormonism knowing it may harm some relationships I cared deeply about. I hope to one day not care about Mormonism. But right now I’m angry. If there is a righteous anger, this is it.
 
 > To our new visitors, this is why some exmormons are angry. We’re very good people and care deeply about those we love. Yet some of those we love no longer love us back simply because we chose to not be Mormon anymore.
+
+---
+
+[Why Am I Angry?](https://www.reddit.com/r/exmormon/comments/3e5gt9/why_am_i_angry/)
+
+In my experience it seems that, in the eyes of a member of the LDS faith, the words “ex-mormon” and “angry” go hand in hand. For many people, including myself, that generalization is true. However, I don’t think that many people find my anger just. That upsets me. So these are some of the reasons why I feel anger toward the LDS church. I hope that in saying this, I’ll help to create a mutual respect between the two parties that seems to be lacking.
+
+I’m angry because I have been lied to by an organization that preached honesty. 
+
+I’m angry because I had to be exposed to the truth about the church by some random guy on the internet.
+
+I’m angry because I alienated myself from dear friends with differing opinions because that’s what the church told me to do.
+
+I’m angry because I’m constantly battling between what I think is right and what my family and friends want me to think is right.
+
+I'm angry because homosexual Mormons are forced to choose between never having real love their entire life, leaving the church, or committing suicide. And, sadly, too many choose the latter. 
+
+I'm angry because my decision to leave the church segregates myself from my family. 
+
+I'm angry because I'll be "the uncle that didn't go on a mission" or "the son that fell away". 
+
+I'm angry because my heart breaks every time I tell a Mormon I respect that I no longer believe the church's truth claims and am forced to watch the disappointment flood their face and voice. 
+
+I'm angry because no one believes I can be happy without the church. 
+
+I'm angry because I'm vilified.
+
+And most of all, I'm angry because I shouldn’t have to be. 
+
+I shouldn’t have to feel lied to by an organization I was prepared to give my life to.
+
+I shouldn’t have to be exposed to the truth about the church by searching the internet.
+
+I shouldn’t have to lose friends over disagreements in beliefs.
+
+I shouldn’t have to choose between what I believe and what my family believes.
+
+Homosexual Mormons shouldn’t be forced into committing suicide because they feel they’re a walking sin.
+
+I shouldn’t have to feel segregated from my family.
+
+I shouldn’t have to feel like a disappointment to my family.
+
+I shouldn’t have to constantly feel like I’m letting someone down.
+
+I shouldn’t have to explain how I can be happy without the church.
+
+I shouldn’t have to feel vilified.
+
+I shouldn’t have to.  

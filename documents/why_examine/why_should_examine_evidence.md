@@ -36,7 +36,7 @@ The following are the major ways in which a person's entire understanding of the
 
 Some examples might include a re-assessment of the value of having paid large amounts of tithing and the manner in which a person treated "wayward" family members.[^examplesofchangedmeaning]
 
-#### Possible loss/damange of important relationships.
+#### Possible loss/damage of important relationships.
 
 Virtually all Latter-day Saints have experienced friendships that were lost or damaged when a friend or family member underwent a faith transition.  In some cases, those who change faith can end up being shunned or viewed as an enemy by members who they once considered their close friends.
 
