@@ -24,6 +24,7 @@ layout: page
 * [Comment on "salt"](https://www.reddit.com/r/exmormon/comments/1rj0l1/in_case_you_ever_sit_by_boyd_k_packer_on_a_plane/cdnvt29/)
 * [On epistemology from DebateAnAtheist](https://www.reddit.com/r/DebateAnAtheist/comments/9caiv8/on_epistemology/)
 * [Another circularity](https://www.reddit.com/r/exmormon/comments/9eq1ym/seminary_circular_reasoning/)
+* [5 Questions about spiritual experiences and real intent]({{ "/5-questions-about-spiritual-experiences-and-real-intent/" | relative_url }})
 * [Appeals to Personal Experience](https://www.youtube.com/watch?v=4rOvxshInuc)
 * [Dealing with "Inner Witness" claims](https://www.youtube.com/watch?v=D-Xa4WBzBwc)
 * [Faith vs. religious faith](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/) (also discusses an issue with Alma 32)
