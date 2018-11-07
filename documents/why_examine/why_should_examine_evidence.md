@@ -1,6 +1,6 @@
 ---
 title: "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
-permalink: "/to-peak-behind-the-curtain/"
+permalink: "/to-peek-behind-the-curtain/"
 maintopic: questioning
 doctype: resource
 introductory: true
