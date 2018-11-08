@@ -6,8 +6,10 @@ layout: default
   <header class="post-header">
     {% if page.doctype == 'resource' %}
       <h1 class="resource-post-title">{{ page.title | escape }}</h1>
+      <div class="last-update">last update: {{ page.last_modified_at | date: '%Y-%m-%d' }}</div>
     {% else %}
       <h1 class="post-title">{{ page.title | escape }}</h1>
+      <div class="last-update">last update: {{ page.last_modified_at | date: '%Y-%m-%d' }}</div>
       {% if page.doctype %}
       <div class="doctype-display">({{ page.doctype  }})</div>
       {% endif %}
