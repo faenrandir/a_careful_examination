@@ -31,7 +31,7 @@ A few notes:
 
 #### [Conference Minutes from April 6, 1842]({{ "/times-and-seasons-apr-15-1842-conference-minutes/" | relative_url }}) (April 15 Times and Seasons)---OWN WORDS
 
-*The rumor about being shut in a room for **several days** is almost certainly false, but the general outline of Martha Brotherton's story [as contained in her affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf) is [likely truthful](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).  Joseph Smith had at least 8 wives when these words were spoken.*
+*The rumor about being shut in a room for **several days** is almost certainly false, but the general outline of Martha Brotherton's story [as contained in her affidavit]({{ "/martha-brotherton-affidavit/" | relative_url }}) is [likely truthful](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).  Joseph Smith had at least 8 wives when these words were spoken.*
 
 > He [Hyrum Smith] then spoke in contradiction of a report in circulation about Elder Kimball, B. Young, himself, and others of the Twelve, alleging that a sister had been shut in a room for several days, *and that they had endeavored to induce her to believe in having two wives* ...
 
