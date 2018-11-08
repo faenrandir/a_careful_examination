@@ -53,6 +53,7 @@ p {
 }
 
 
+
 /**
  * `main` element
  */
@@ -95,10 +96,19 @@ ul, ol {
 }
 
 li {
-  > ul,
+  > ul {
+    margin-bottom: $spacing-unit / 2;
+    line-height: $base-line-height;
+  }
   > ol {
     margin-bottom: $spacing-unit / 2;
     line-height: $base-line-height;
+  }
+  > p {
+      margin-left: 0px;
+  }
+  > blockquote {
+      margin-left: 0px;
   }
 }
 
