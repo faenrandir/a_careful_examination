@@ -2,106 +2,49 @@
 title: "Why former members are angry"
 permalink: /why-former-members-are-angry/
 maintopic: faith-transitions
-doctype: anecdotal
+doctype: short-analysis
 layout: page
 ---
 
+[very rough draft]
+
+## Introduction
+
+Those who leave the LDS faith (or other high-demand organizations) are often characterized as angry.  Are they angry?  If so, why are they angry?
+
+### Anger as a stage?
+
+There's an abundance of anectdotal evidence (e.g., [this survey](https://www.reddit.com/r/mormonscholar/comments/9sgdvt/release_of_report_chronicles_and_presentation_on/) and [this collection]({{ "/former-members-discuss-their-anger/" | relative_url }})) to suggest that many former Mormons experience anger as part of their faith transition.  This document explores *why* some former Mormons are angry, at least for a time.[^notangry]
+
+[more discussion]
+
+## Moral Foundations Theory analysis
+
+[all of this needs better documentation and specific examples]
+
+Transitioning and former Mormon anger can be understood in terms of innate moral impulses/emotions.  [Moral Foundations Theory](https://www-bcf.usc.edu/~jessegra/papers/GHKMIWD.inpress.MFT.AESP.pdf) gives us a framework to explore why some former members might act the way they do:
+
+1. **Caring**: former members know that having all the data available is important to making an informed decision about how a person should live their religious life (argued [here](https://faenrandir.github.io/a_careful_examination/to-peek-behind-the-curtain/)).  They don't want others to have to suffer the way they did.  Those who experienced the most harm often speak out the most.
+2. **Fairness**: former members are viewed in [the worst possible light in LDS theology](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/) and [sometimes culturally](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/#examples-of-how-people-are-treated-who-leave-the-church).  They know they are decent individuals, so the treatment and attitude they encounter with some family members and friends seems unfair to them.  Demonstrating the problems with the truth-claims is one of the few ways they can achieve equanimity (i.e., once a believing member understands the problems with the truth-claims they can admit that the person who left was justified).  Those in mixed-faith marriages are reminded of these attitudes towards dis-believing or former members the most, so they tend to speak out about the truth-claims the most and for the longest time.
+3. **Loyalty**: Many former members were fiercely loyal to the organization and sacrificed massive portions of their lives living out LDS narratives (for instance, ending relationships with non-members or women foregoing careers).  Then, when they found out that LDS leaders had [actively suppressed information](https://faenrandir.github.io/a_careful_examination/1832-first-vision-account-suppressed/), [were lying](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/), or were [minimizing the problems with the truth-claims](https://proveallthingsholdfasttogood.wordpress.com/the-hiding-of-church-history/), they feel betrayed.  Their loyalty instincts now compel them to point out the behavior of LDS leadership that was not consistent with the high values the group claimed to possess.
+4. **Authority/subversion**: Most former members were happy to acquiesce to the authority of the Brethren.  Once they found evidence that the Brethren were unworthy of following (again, because leaders are viewed as having failed to live up to the high ideals of the group), they seek to subvert the authority structure.
+5. **Sanctity/Degradation**: LDS leaders sometimes act in a manner that degrades certain ideals that former members hold sacred.  For instance, former members frequently emphasize the dignity of each person, so when leadership [acts in ways that de-value LGBT people](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/), former members feel like something sacred has been violated.  Similar feelings of degradation are experienced when former members hear about [sexual shaming of youth](https://protectldschildren.org/read-the-stories-2/).  On the flip side, former members are often no longer compelled by the sanctity of the temple or the deference typically offered to LDS leadership.  That means they may insensitively or ignorantly defile the sacred mores of members when dealing with the temple or in how they discuss LDS leadership.  In the xtreme case they may even seek to violate a member's sense of the sacred in a retaliatory way.
+
 ## Anger as a part of grieving loss
 
-Grieving is a mult
+[basic idea good; needs reworking]
 
-Those experiencing faith transitions experience a huge loss of meaning in their life.  Loss of belief in LDS truth-claims
+Typical grief trajectories are probably best described by [Bonanno](https://en.wikipedia.org/wiki/George_Bonanno#Four_trajectories_of_grief_and_trauma_reactions).  But a faith-transition in many ways is more similar to diagnosis of a terminal illness (typical grief is characterized by the loss of another, while a terminal illness is characterized by facing loss of oneself---in a faith transition a person essentially grieves their own death within the LDS worldview), so the Kübler-Ross model stages of grief (not necessarily linear) that many go through during this time seems relevant.  
 
-Grief trajectories are 
+Those experiencing faith transitions experience a huge loss of meaning in their life.  Loss of belief in LDS truth-claims undermines a person's entire worldview.
 
+[way more discussion]
 
+## Conclusion
 
+Moral Foundations Theory and the Kübler-Ross model of emotional states the terminally ill experience after diagnosis are both helpful in understanding the anger experienced by former Mormons.
 
-### Former member explanations
+[more]
 
-Here are some former members trying to explain why they are angry after leaving the LDS Church.
+[^notangry]: Former members that don't demonstrate an angry or defensive attitude or have passed beyond that phase are probably not drawing the attention of our pattern matching abilities.  It seems very possible that many or most former Mormons are not especially angry for most of the time after their transition.  This can be true even if there is some substance to the stereotype that former Mormons are "angry".
 
----
-
-*Note: many former members begin to view LDS culture or leaders as somewhat abusive, so they may interpret anger in terms of this kind of relationship*
-
-[Abusers stigmatize anger, so that their victims won't protest when they are abused.](https://www.reddit.com/r/exmormon/comments/74a9kz/abusers_stigmatize_anger_so_that_their_victims/)
-
-I'm reading Pete Walker's book, "Complex PTSD: From Surviving to Thriving," and this is something I've learned from the book and have been pondering the last couple of days. Here are some things I've learned about anger from this book:
-
-* Anger is a normal and healthy emotion when expressed appropriately.
-* Anger is expressed appropriately when it is expressed without hurting yourself or others.
-* Anger is a sign of abuse. It is a natural feeling of indignation when one's boundaries are crossed.
-* Sometimes people have to get angry before they will stand up for themselves.
-* People will put up with a lot of bullshit if they aren't angry. Therefore, abusers teach their victims that being angry is wrong.
-* An additional insight from my husband: abusers get angry at you for getting angry. It's a double hypocritical mindfuck.
-
----
-
-One letter of [a transitioning member trying to explain](https://www.reddit.com/r/exmormon/comments/7ia4s7/how_do_i_help_my_super_tbm_wife_understand_why_i/):
-
-> One thing you know about me is I tend to be an all or nothing type of person. This is certainly true of me in the aspect of the church. For 30+ years I was all in on the church. I was never inactive for any point in my life. I paid tithing on the gross of every dime I ever made (over $100,000!), I never broke the word of wisdom, I spent 2 years of my life on a mission, I spent 4 years in seminary. I gave it all I could and I did it because it was true. I knew the church was true based on what I was taught at home, church, and seminary. It was my life and a core part of my identity.
-
-> After giving my all for 30+ years, I found out I was wrong. What I was taught was a lie. I am angry at myself for being deceived for so long. But I am mostly angry at the church. I’m not angry that it is false, I am angry that the church has very deliberately and intentionally crafted a false narrative and sold it to me as true. They set up a structure where they were the only valid source of information. (Beware of anti-mormon literature, the devil will deceive you.) Then hid any information that didn’t fit the their narrative regardless of truth.
-
-> Now that I have discovered the truth, I am triggered every time I see the church misleading it’s members. I am triggered whenever I feel it’s tentacles still wrapped around my personal choices. I am triggered by knowing that it is still deceiving the people that I love and there is nothing that I can do about it.
-
-> Feeling angry at this stage is normal and expected. I just lost a core part of my identity, of course it will take some time to work through. Even though I feel my anger is justified, I can’t wait for the day where I am able to move passed it.
-
----
-
-[Sometimes anger is all I got](https://www.reddit.com/r/exmormon/comments/87g4lt/recent_comments_on_anger_and_coming_across_the/)
-
-> Sometimes anger is all I got. Not because I’m crazy or a bad person. Because I’ve lost many intimate and close relationships. Because one of my children in particular wouldn’t even hug me for quite a while after I left the church; do you know what that feels like?!? Because my marriage is over except on paper. Because some of my kids thought I wouldn’t be their dad anymore. Because my elderly parents and other family see me as a cancer now. Because the Mormon church is actively creating a wedge between me and my family now. I wish my transition had been easy. Yet the pain of lying to myself till I die was greater so I left Mormonism knowing it may harm some relationships I cared deeply about. I hope to one day not care about Mormonism. But right now I’m angry. If there is a righteous anger, this is it.
-
-> To our new visitors, this is why some exmormons are angry. We’re very good people and care deeply about those we love. Yet some of those we love no longer love us back simply because we chose to not be Mormon anymore.
-
----
-
-[Why Am I Angry?](https://www.reddit.com/r/exmormon/comments/3e5gt9/why_am_i_angry/)
-
-In my experience it seems that, in the eyes of a member of the LDS faith, the words “ex-mormon” and “angry” go hand in hand. For many people, including myself, that generalization is true. However, I don’t think that many people find my anger just. That upsets me. So these are some of the reasons why I feel anger toward the LDS church. I hope that in saying this, I’ll help to create a mutual respect between the two parties that seems to be lacking.
-
-I’m angry because I have been lied to by an organization that preached honesty. 
-
-I’m angry because I had to be exposed to the truth about the church by some random guy on the internet.
-
-I’m angry because I alienated myself from dear friends with differing opinions because that’s what the church told me to do.
-
-I’m angry because I’m constantly battling between what I think is right and what my family and friends want me to think is right.
-
-I'm angry because homosexual Mormons are forced to choose between never having real love their entire life, leaving the church, or committing suicide. And, sadly, too many choose the latter. 
-
-I'm angry because my decision to leave the church segregates myself from my family. 
-
-I'm angry because I'll be "the uncle that didn't go on a mission" or "the son that fell away". 
-
-I'm angry because my heart breaks every time I tell a Mormon I respect that I no longer believe the church's truth claims and am forced to watch the disappointment flood their face and voice. 
-
-I'm angry because no one believes I can be happy without the church. 
-
-I'm angry because I'm vilified.
-
-And most of all, I'm angry because I shouldn’t have to be. 
-
-I shouldn’t have to feel lied to by an organization I was prepared to give my life to.
-
-I shouldn’t have to be exposed to the truth about the church by searching the internet.
-
-I shouldn’t have to lose friends over disagreements in beliefs.
-
-I shouldn’t have to choose between what I believe and what my family believes.
-
-Homosexual Mormons shouldn’t be forced into committing suicide because they feel they’re a walking sin.
-
-I shouldn’t have to feel segregated from my family.
-
-I shouldn’t have to feel like a disappointment to my family.
-
-I shouldn’t have to constantly feel like I’m letting someone down.
-
-I shouldn’t have to explain how I can be happy without the church.
-
-I shouldn’t have to feel vilified.
-
-I shouldn’t have to.  
