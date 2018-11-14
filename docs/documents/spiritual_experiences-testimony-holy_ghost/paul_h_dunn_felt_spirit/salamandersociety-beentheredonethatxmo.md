@@ -1,0 +1,8 @@
+
+[salamandersociety.com: Paul H. Dunn](http://www.salamandersociety.com/foyer/prophets/paulhdunn/) (last retrieved 2018-11-13)
+
+> Buying Dunn's material - BeenThereDoneThatXMO
+
+> I Bought All Of Dunn's Stories Hook, Line & Sinker...Gag!
+
+> I personally saw him speak numerous times at youth conferences, stake conferences and even as a prelude to a "Saturday's Warrior" performance where I had invited some friends to. I bought all his stories at the time and "felt the spirit" tell me they were true...I bought it all...just like I bought everything else about the Church. It took 25 years and a mission to finally grow a brain and realize that I had been duped by all of those around me who I trusted. Mormons make the best liars because of how they are raised. Joseph Smith was a liar on down the line to Gordon B.Hinckley. It is just one of the many pervasive problems in the Church from the top - down. GBH knows deep down inside he is not a "prophet" just as everyone down the hierarchy from apostles, seventies, regional reps, stake presidents, bishops etc know they are nothing special. Why this fraud is allowed to be perpetrated is beyond me. Do they do it for the money and power (upper echelons) or for some other reason. Who knows why? Perhaps it is the one way and only way they can make their relatively insignificant selves/personal lives take on some sort of meaning. It is a travesty to all. I keep a wide berth from known liars in my professional, business and personal life, and that is why I have distanced myself from the church. Why should I pander to or accommodate those of questionable mores. Why should I lower my standards to fit into a "social club" as is the church.
