@@ -2,6 +2,7 @@
 title: Those who knew about plural marriage but not sealed
 permalink: /knew-about-plural-marriage-but-not-sealed/
 doctype: short-compilation
+maintopic: polygamy
 layout: page
 ---
 
