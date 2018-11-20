@@ -1,5 +1,5 @@
 ---
-title: "Protestant concerns in the Book of Mormon"
+title: "Royal Skousen: Protestant concerns in the Book of Mormon"
 permalink: /skousen-protestant-concerns-in-bom/
 doctype: excerpt
 layout: page
