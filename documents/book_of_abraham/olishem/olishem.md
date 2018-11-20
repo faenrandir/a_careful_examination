@@ -22,7 +22,7 @@ The Ulisum/Olishem connection is also discussed in depth by John Gee [here](http
 
 Problems with this potential match have been discussed at [RFM](https://www.exmormon.org/phorum/read.php?2,513409):
 
-1. The name is close, but is not really an exact match (compare "Ulišum" and "Olishem").  This may seem like nitpicking, but loose matches are far more likely to occur by random chance than exact matches.
+1. The name is close, but is not really an exact match (compare "Ulišum" and "Olishem").  This may seem like nitpicking, but loose matches are far more likely to occur by random chance than exact matches. [note: I've read an analysis (Gee or Muhlstein?) arguing that the Akkadian shift (??) makes Ulisem and Olishem an exact match; need to dig this up]
 2. The location isn't a good fit relative to the ancient city-state of Ur (but note that LDS scholars postulate that the Ur identified by most scholars as Ur was not the Ur discussed in the BoA---they claim Abraham's Ur was [somewhere not far to the east of Haran](https://rsc.byu.edu/archived/pearl-great-price-revelations-god/where-was-ur-chaldees)).
 3. A possible scenario for how Joseph Smith could have derived the name from his study of the Hebrew language has been advanced:
 
