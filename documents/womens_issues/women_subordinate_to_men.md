@@ -24,7 +24,7 @@ Women are subordinate to men in the temple in the following ways:
 11. When women die, their faces are veiled, symbolizing their inability to have direct access to God’s presence. Instead, their husbands must bring them into God’s presence by knowing their secret new name.
 12. In the sealing, [only women give themselves to their husband](https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple) (men and women both receive one another).
 
-[With correction and some modification, from [here](http://exmormon.org/phorum/read.php?2,1305696,1305696,quote=1)]
+*With correction and some modification, from [here](http://exmormon.org/phorum/read.php?2,1305696,1305696,quote=1)*
 
 ### Submission to a really righteous husband in everything
 
@@ -49,6 +49,26 @@ Women were [excluded from at least some hurricane Harvey cleanup efforts](https:
 Joseph F. Smith [taught in the Oneida Stake Conference, January 20th 1895](https://books.google.com/books?id=ombUAAAAMAAJ&pg=PA257&lpg=PA259#v=onepage&q&f=false):
 
 > **Our Heavenly Father has never yet to my knowledge revealed to this Church any great principle through a woman**. Now, sisters, do not cast me off nor deny the faith, because I tell you that god has never revealed any great and essential truth for the guidance of the Latter-day Saints through any woman. "Oh! but," says one, "what about Eliza Snow's beautiful hymn, 'O my Father, Thou that dwellest,' etc? Did not the Lord reveal through her that great and glorious principle that we have a mother as well as a father in heaven? No. God revealed that principle to Joseph Smith; Joseph Smith revealed it to Eliza Snow Smith, his wife; and Eliza Snow was inspired, being a poet, to put it into verse. If we give anybody on earth credit for that, we give it to the Prophet Joseph Smith. But first of all we give it to God, who revealed it to His servant the Prophet. **God reveals Himself and His truths through the channels of the Priesthood**.
+
+### Chieko N. Okazaki's experiences
+
+Chieko Okazaki was the first woman to serve on the general level of all three LDS women's auxiliaries (Primary, YW, and RS).  After serving on the Primary General Board she became First Counselor of the Relief Society presidency, serving from 1990 to 1997.
+
+An interview of her by Greg Prince was published in [Dialogue: A Journal of Mormon Thought, 45, no. 1, 2012](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V45N01_CO.pdf#23).
+
+*h/t Deepythoughts [here](https://www.reddit.com/r/exmormon/comments/a0dgqw/searching_for_ostracizing_quotes_toward_women/)*
+
+#### On writing a Relief Society manual
+
+> I had written a general outline, and the Relief Society presidency approved it. So I talked about it to a man on the Curriculum Committee. He went to his boss, and the boss said, “We don’t need a new manual for the Relief Society.” “Why don’t we need a new manual?” “We already are writing a manual for them.” So he came back and told me that a new manual was already being prepared. I asked what it was, and he said, “Well, it’s the manual on Harold B. Lee.” It was the first one in that series of teachings of the Church presidents. I asked, “Why are they writing a manual for us on Harold B. Lee?” He didn’t know. I told the presidency, so we went and asked the Curriculum Committee, “What is this all about?” They said, “Well, we’re already almost finished with the first book.” We said, “You’re almost finished with the first book, and you didn’t tell us that you were doing this? Why is this is the first time we have heard about it? Chieko has been writing an outline in relation to what women need.” So I asked, “Who is writing this manual?” It turned out to be five men, and the Melchizedek Priesthood quorums and Relief Society would have the same lessons.
+
+#### On exclusion from committees
+
+> We asked one time if we could be on the building committee and the temple committee, because sometimes we think, “Why did they build it this way?”because it doesn’t work very well for the women’s needs. And we wanted to be on the temple committee, because there are many things that affect women in the temple. But we were never allowed to be a part of those committees.
+
+#### On the Proclamation to the World
+
+> In contrast, in 1995 when “The Family: A Proclamation to the World” was written, the Relief Society presidency was asked to come to a meeting. We did, and they read this proclamation. It was all finished. The only question was whether they should present it at the priesthood meeting or at the Relief Society meeting. It didn’t matter to me where it was presented. What I wanted to know was, “How come we weren’t consulted?” Greg Prince: You didn’t even know it was in the works? Chieko Okazaki: No. They just asked us which meeting to present it in, and we said, “Whatever President Hinckley decides is fine with us.” He decided to do it at the Relief Society meeting. The apostle who was our liaison said, “Isn’t it wonderful that he made the choice to present it at the Relief Society meeting?” Well, that was fine, but as I read it I thought that we could have made a few changes in it. Sometimes I think they get so busy that they forget that we are there.
 
 ### Measuring equality
 
