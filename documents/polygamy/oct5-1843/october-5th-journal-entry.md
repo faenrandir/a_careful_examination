@@ -8,7 +8,7 @@ layout: page
 
 ### Summary
 
-Joseph Smith's original journal entry for October 5, 1843 records him forbidding polygamy and trying those who were preaching or teaching polygamy.  The entry was altered by later Church historians or leaders in order to countenance polygamy.  Joseph Fielding Smith testified that the altered statement was what was recorded in 
+Joseph Smith's original journal entry for October 5, 1843 records him forbidding polygamy and instructing to try those who were preaching or teaching polygamy.  The entry was altered by later Church historians or leaders in order to countenance polygamy.
 
 ### Original Entry
 
@@ -48,7 +48,7 @@ In the book [Blood Atonement and the Origin of Plural Marriage](https://www.gute
 
 > > "Gave instructions to try those persons who were preaching, teaching or practicing the doctrine of plurality of wives; for according to the law, I hold the keys of this power in the last days; for there is never but one on earth at a time on whom this power and its keys are conferred; and I have constantly said no man shall have but one wife at a time unless the Lord directs otherwise."
 
-It seems possible that Joseph Fielding Smith was copying from the Final Manuscript History Draft, in which case he was misled about the nature of the original entry by earlier historians and perhaps overstated attribution or didn't realize the manner in which the final draft came to be and how it was sometimes altered.  Were he referring to the original journal entry or the initial draft (with corrections), then it would be reasonable to conclude that he was guilty of duplicity.  Without more information about which sources Joseph Fielding Smith had at his disposal, the ambiguity inherent in the meaning of the phrase "Prophet's manuscript record" cautions us against a hasty judgement.
+It seems possible that Joseph Fielding Smith was referring to the Final Manuscript History Draft, in which case he himself was misled about the nature of the original entry by earlier historians and perhaps overstated attribution or didn't realize the manner in which the final draft came to be and how it was sometimes altered.  Were he referring to the original journal entry or the initial draft (with corrections), then it would be reasonable to conclude that he was guilty of duplicity.  Without more information about which sources Joseph Fielding Smith had at his disposal, the ambiguity inherent in the meaning of the phrase "Prophet's manuscript record" cautions us against a hasty judgement in this instance.
 
 *The Joseph Fielding Smith attestation h/t kinderhookandzelph and ThomasTTEngine [here](https://www.reddit.com/r/mormon/comments/a0b4ii/the_handwritten_nauvoo_diary_of_joseph_smith_for/)*
 
