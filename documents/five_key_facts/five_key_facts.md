@@ -36,7 +36,8 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 
 **More**:
 
-See [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon](https://faenrandir.github.io/a_careful_examination/lds-scholars-modern-origin-evidence/)
+* [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
 ## 3. Spiritual confirmations are common to members of many religions
 
