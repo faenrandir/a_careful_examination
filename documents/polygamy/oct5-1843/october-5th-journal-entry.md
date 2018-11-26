@@ -38,7 +38,7 @@ The final print version, found in [History of the Church 6:2 as published at BYU
 
 There are many ways to interpret the original entry and the later changes (some involving dishonesty of one or more parties).  Meg Stout has advanced the [tactical mandate hypothesis](http://www.millennialstar.org/commentary-on-joseph-smiths-monogamy/).
 
-### Joseph Fielding Smith attestation
+### Joseph Fielding Smith attestation[^jfsheardthrough]
 
 In the book [Blood Atonement and the Origin of Plural Marriage](https://www.gutenberg.org/ebooks/50535), Joseph Fielding Smith (JFS) corresponded with Richard G. Evans, second counselor in the Presidency of the RLDS Church:
 
@@ -52,6 +52,6 @@ The Manuscript History Draft and Final Manuscript History Draft differ in two pl
 
 If JFS was referring to the Final Manuscript History Draft then he may have been acting in ignorance of the nature of the original entry and its alteration by earlier historians.  To some extent, then, he may have overstated attribution ("such evidence being recorded during his [Joseph Smith's] lifetime, for I have seen it").  Were he referring to the initial draft (with corrections) or were he aware of the original journal entry, then it would be reasonable to conclude that he was guilty of duplicity to some degree.  At the very least, JFS overstated the significance of the evidence to which he referred.
 
-*The JFS attestation h/t kinderhookandzelph and ThomasTTEngine [here](https://www.reddit.com/r/mormon/comments/a0b4ii/the_handwritten_nauvoo_diary_of_joseph_smith_for/)*
+[^jfsheardthrough]: The JFS attestation h/t kinderhookandzelph and ThomasTTEngine [here](https://www.reddit.com/r/mormon/comments/a0b4ii/the_handwritten_nauvoo_diary_of_joseph_smith_for/).
 
 [^alterations]: George A. Smith, the person responsible for dictating this portion of the manuscript history from original source material [noted](https://www.josephsmithpapers.org/intro/introduction-to-history-drafts-1844-1856) "The History has been compiled to the day of his [JS’s] death and the principal part of it has been revised by the Council of the First Presidency almost without any alteration. ..."  I did my own cursory analysis of the handwriting and think it may match up to John L. Smith's?  Benjamin G. Bistline [attributes the change to George A. Smith](https://books.google.com/books?id=xKz-wcizZXEC&lpg=PA163&ots=GfsIXUIKvS&dq=%22Joseph%20forbids%20it%22%20No%20man%20shall%20have%20but%20one%20wife&pg=PA163#v=onepage&q=%22Joseph%20forbids%20it%22%20No%20man%20shall%20have%20but%20one%20wife&f=false).
