@@ -2,6 +2,7 @@
 title: "The context of Emma Smith's Book of Mormon witness"
 permalink: /context-of-emma-smiths-bom-witness/
 doctype: short-analysis
+maintopic: book-of-mormon
 layout: page
 ---
 
