@@ -1,5 +1,5 @@
 ---
-title: "Poor justifications for the Black Priesthood/Temple ban"
+title: "Paul Reeve: New justifications for the Black Priesthood/Temple ban"
 permalink: /reeve-poor-justifications-for-black-priesthood-ban/
 doctype: notes
 maintopic: race-and-priesthood
@@ -18,7 +18,7 @@ Paul Reeve was responsible for writing the initial draft that became [the Race a
 
 > Paul:  Well the Church History Department invited me to write an extended essay. It ended up being about 55 pages long with footnotes and everything like I would produce as an academic essay.  Once they were satisfied with that it was sent up the line, several layers of approval process and then the Church History Department actually boiled down that longer essay to what got posted online so I had no say over what got posted online, what eventually appeared as Race and the Priesthood, but it was a condensed version of the longer piece that I produced for them.
 
-### New Justifications for Priesthood and Temple 
+### New Justifications for the ban
 
 At the "Black, White, & Mormon II Conference Panel 2: Getting Past the Racial Past" ([original video](https://www.youtube.com/watch?v=RPWb5xj9jO8)), Paul Reeve counters new justifications for the priesthood ban that have arisen since the disavowal in the LDS essay.
 
