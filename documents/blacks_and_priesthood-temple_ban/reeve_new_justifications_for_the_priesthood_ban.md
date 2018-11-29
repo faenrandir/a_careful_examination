@@ -18,9 +18,11 @@ Paul Reeve was responsible for writing the initial draft that became [the Race a
 
 > Paul:  Well the Church History Department invited me to write an extended essay. It ended up being about 55 pages long with footnotes and everything like I would produce as an academic essay.  Once they were satisfied with that it was sent up the line, several layers of approval process and then the Church History Department actually boiled down that longer essay to what got posted online so I had no say over what got posted online, what eventually appeared as Race and the Priesthood, but it was a condensed version of the longer piece that I produced for them.
 
-### New Justifications for the ban
+### New Justifications for the Priesthood/Temple Ban
 
 At the "Black, White, & Mormon II Conference Panel 2: Getting Past the Racial Past" ([original video](https://www.youtube.com/watch?v=RPWb5xj9jO8)), Paul Reeve counters new justifications for the priesthood ban that have arisen since the disavowal in the LDS essay.
+
+> If we don't understand our racial history we will continue to try these kinds of justifications.  That's why the history matters.
 
 [New Justifications (with some introduction, starting roughly at 12:24)](https://youtu.be/rysqsCMAIwc?t=744)
 
@@ -38,11 +40,11 @@ At the "Black, White, & Mormon II Conference Panel 2: Getting Past the Racial Pa
 
 4. A revelation removed the restrictions therefore a revelation must have started them
 
-    > This idea suggests that the ending of the restrictions explain the beginnings.  I do not have to first tell my children to touch a hot stove before I tell them "don't touch that, it's hot."  If there was a revelation to begin the restriction can we read it?  Will someone show it to us?  Can anyone point to it?  Where is it?  There is a total of one revelation on race and the priesthood in the LDS scriptural canon and it came in June of 1978 and it returned Mormonism to its racially universal roots.
+    > This idea suggests that the ending of the restrictions explain the beginnings.  I do not have to first tell my children to touch a hot stove before I tell them "don't touch that, it's hot."  If there was a revelation to begin the restriction can we read it?  Will someone show it to us?  Can anyone point to it?  Where is it?  There is a total of one revelation on race and the priesthood in the LDS scriptural canon and it came in June of 1978, and it returned Mormonism to its racially universal roots.
 
 5. God will not let his prophet lead the church astray
 
-    > Taken within its proper context, this comes out of Wilford Woodruff in 1890 who was defending the manifesto ending polygamy as a revelation in the face of accusations from fellow Mormons that he was a fallen prophet and had merely bowed to political pressure when he issued the manifesto.  Within this proper context Woodruff was saying God will not give me a revelation to lead the Church astray. Assuming that a prophet is infallible is a violation of a central Mormon tenet of agency.  If a prophet has agency, a prophet can make mistakes.  
+    > Taken within its proper context, this comes out of Wilford Woodruff in 1890 who was defending the manifesto ending polygamy as a revelation in the face of accusations from fellow Mormons that he was a fallen prophet and had merely bowed to political pressure when he issued the manifesto.  Within this proper context Woodruff was saying God will not *give me a revelation* to lead the Church astray. Assuming that a prophet is infallible is a violation of a central Mormon tenet of agency.  If a prophet has agency, a prophet can make mistakes.  
 
 6. Mormon leaders were trapped by historical circumstances: everyone was racist "back then"
 
