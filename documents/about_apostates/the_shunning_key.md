@@ -125,6 +125,14 @@ because they no longer accept the truth-claims:
 
 > It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that ‘truth will cut its own way’ and love will eventually win out in the contest of ideals.
 
+Elder Ballard, in a recent BYU devotional, gave [counsel on dealing with less actives](https://speeches.byu.edu/talks/m-russell-ballard_questions-and-answers/) that was very generous in nature (emphasis added):
+
+> Question: If I have family or friends who are **less active**, how far do I go in my attempts to bring them back?
+
+> My answer is please do not preach to them! Your family members or friends already know the Church’s teachings. They don’t need another lecture! What they need—what we all need—is love and understanding, not judging. Share your positive experiences of living the gospel. The most powerful thing you can do is share your spiritual experiences with family and friends. Also, **be genuinely interested in their lives, their successes, and their challenges. Always be warm, gentle, loving, and kind**.
+
+Although the question was narrowly posed (applies to "less actives"), perhaps this signals a general shift in attitude towards those who have left and openly share their rationale for doing so?
+
 ## Other relevant perspectives
 
 These resources address---from a variety of viewpoints---the question of how Latter-day Saints should treat or respond to former or dis-believing members or otherwise discuss the topic of shunning in the LDS Church.
@@ -180,9 +188,9 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
     More accounts may be found in the document [How those who leave the LDS Church are viewed](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38add16337d40ad79fd89272c65df57cee254854/documents/about_apostates/how_those_who_leave_are_viewed.pdf) under the section "Examples of how people are treated who leave the Church".  Many other anecdotes can be found on the [exmormon subreddit](https://www.reddit.com/r/exmormon).
 
-[^taughtinmanuals]: The directive to shun faith-killers was repeated [in the 1995 Ensign](https://www.lds.org/ensign/1995/01/i-have-a-question?lang=eng) and is in the [current Book of Mormon Teacher Resource Manual](https://www.lds.org/manual/book-of-mormon-teacher-resource-manual/alma-30-35?lang=eng).
+[^taughtinmanuals]: The directive to shun faith-killers was repeated [in the 1995 Ensign](https://www.lds.org/ensign/1995/01/i-have-a-question?lang=eng) and is in the [2000 Book of Mormon Teacher Resource Manual]({{ "/documents/about_apostates/shun_faith_killers/2000-bom-teacher-resource-manual-shun-faith-killers.pdf" | relative_url }}) which was [the official seminary manual](https://web.archive.org/web/20130523181426/https://www.lds.org/manual/book-of-mormon-teacher-resource-manual/) until [October 2017](https://www.lds.org/bc/content/ldsorg/seminary-institute/PDFs/manuals/book-of-mormon-seminary-teacher-manual-2017_lessons%201-42.pdf)
 
-[^synonymous]: The [New Testament Student Manual](https://www.lds.org/manual/new-testament-student-manual/1-john-2-john-3-john-and-jude/chapter-52-1-john-2-john-3-john-and-jude?lang=eng) uses the terms "antichrist" and "deceiver" somewhat synonymously with those described by Elder Ballard in his talk on false prophets and false teachers in its discussion of 2 John 1:7-10.
+[^synonymous]: The current [New Testament Student Manual](https://www.lds.org/manual/new-testament-student-manual/1-john-2-john-3-john-and-jude/chapter-52-1-john-2-john-3-john-and-jude?lang=eng), uses the terms "antichrist" and "deceiver" somewhat synonymously with those described by Elder Ballard in his talk on false prophets and false teachers in its discussion of 2 John 1:7-10.
 
 [^pleasesendmaterial]: If you are aware of any material that contradicts this claim, please notify me so I can update this article.
 
