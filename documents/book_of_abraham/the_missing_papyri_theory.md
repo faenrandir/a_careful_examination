@@ -20,7 +20,7 @@ Brian recently said (at [52:46](https://youtu.be/y3-SKjlNOCQ?t=3166)):
 
 > There's also an argument that the Book of Abraham was on papyri that we no longer have--it's called the missing paypri theory--at least from my perspective, anyway, I've found evidence that argues against that [the missing paypri theory] that they were working off of the papyri that we actually have in the Church today.
 
-Dan Vogel and many other non-LDS scholars have been making this argument for a long time (although it's not clear if they are basing their conclusion on the same data since Hauglid has not yet discussed his data or rationale, to my knowledge).  Vogel's [latest video series](https://www.youtube.com/watch?v=AtJT_xjIgdM) lays out the evidence very clearly, and he makes a very persuasive case.
+Dan Vogel and many other non-LDS scholars have been making this argument for a long time (although it's not clear if they are basing their conclusion on the same data since Hauglid has not yet discussed his data or rationale, to my knowledge).  Vogel's latest video series (particularly [part 1](https://www.youtube.com/watch?v=AtJT_xjIgdM) and [part 7](https://www.youtube.com/watch?v=K_7haq-PdjU)) lays out the evidence that we can assume (at least until Hauglid reveals more specifics) was also convincing to Hauglid 
 
 Dan Vogel also recently noted[^2000shift] (in the info notes on [part 6 of his Truth of the Book of Abraham series](https://www.youtube.com/watch?v=I47ibkJ4QrE)):
 
