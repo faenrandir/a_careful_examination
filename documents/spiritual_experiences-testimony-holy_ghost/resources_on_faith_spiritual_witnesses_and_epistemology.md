@@ -29,18 +29,18 @@ layout: page
 1. [What are the goods of "elective faith"](https://www.reddit.com/r/mormon/comments/81bn53/what_are_the_goods_of_elective_faith_serious/) (reddit post)
 1. [The Triple Path](http://triplepath.org) (especially chapter 5)
 1. [MormonThink - Testimony & Spiritual Witnesses](http://www.mormonthink.com/testimonyweb.htm)
+1. [Brian Dunning - Principles of Curiosity](https://www.youtube.com/watch?v=NKY6jJbyCo0) (youtube)
 
 ## Discussions
 
-1. [Fuzzy Thoughts and Craytun1 discuss witnesses and epistemology](https://www.reddit.com/r/mormon/comments/a5jw5f/relieving_the_burden_on_the_shoulders_of_believers/ebpbb17/)
+1. [Fuzzy_Thoughts and Craytun1 discuss witnesses and epistemology](https://www.reddit.com/r/mormon/comments/a5jw5f/relieving_the_burden_on_the_shoulders_of_believers/ebpbb17/)
 1. [Example of reinterpreting spiritual experiences](https://www.reddit.com/r/mormon/comments/9sphcv/when_confronted_by_difficult_questions_many/e8uonhi/) (reddit discussion)
 1. [Discussion on evidence](https://www.reddit.com/r/mormon/comments/7dyni3/the_story_of_my_faith_crisis_and_my_return_to_the/dq2fnwj/) (reddit discussion)
 1. [Critique of "Faith is NOT belief" by Mormonado](https://www.reddit.com/r/mormon/comments/9c74gq/faith_is_not_belief_faith_crisis_and_what_sam/e59621g/)
 
-## Special experiences and unlikely coincidences
+## Special insight and amazing coincidences
 
 1. [Brian Dunning - Precognition](https://www.youtube.com/watch?v=752V173e31o&t=1195) (youtube, beginning at ~19:55) [Original analysis by Charpak and Broch](https://books.google.com/books?id=DpnWcMzeh8oC&q=dying#v=onepage&q=%22Premonition%3F%22&f=false)
-1. [Brian Dunning - Principles of Curiosity](https://www.youtube.com/watch?v=NKY6jJbyCo0) (youtube)
 1. [Derren Brown - Cold Readings](https://www.youtube.com/watch?v=I6uj1ruTmGQ) (youtube, relates to patriarchal and priesthood blessings)
 1. [Derren Brown - "Intervention" experiment](https://www.youtube.com/watch?v=ust-pJC-9j8&feature=youtu.be&t=1931) (youtube, demonstrates that we see intervention if we look for it regardless of whether an agent is responsible).
 
@@ -59,4 +59,4 @@ layout: page
 1. [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies) (relevant apologetic response)
 1. [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories) (relevant apologetic response)
 
-*acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/) including several posts and videos that I wasn't previously aware of.  He also alerted me to one of the street epistemology videos and the Dunning video.*
+*acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/) including several posts and videos that I wasn't previously aware of.  He also alerted me to one of the street epistemology videos and the Dunning videos.*
