@@ -30,13 +30,13 @@ layout: page
 1. [The Triple Path](http://triplepath.org) (especially chapter 5)
 1. [MormonThink - Testimony & Spiritual Witnesses](http://www.mormonthink.com/testimonyweb.htm)
 1. [Brian Dunning - Principles of Curiosity](https://www.youtube.com/watch?v=NKY6jJbyCo0) (youtube)
+1. [Comment on evidence](https://www.reddit.com/r/mormon/comments/7dyni3/the_story_of_my_faith_crisis_and_my_return_to_the/dq2fnwj/)
 
 ## Discussions
 
 1. [Fuzzy_Thoughts and Craytun1 discuss witnesses and epistemology](https://www.reddit.com/r/mormon/comments/a5jw5f/relieving_the_burden_on_the_shoulders_of_believers/ebpbb17/)
-1. [Example of reinterpreting spiritual experiences](https://www.reddit.com/r/mormon/comments/9sphcv/when_confronted_by_difficult_questions_many/e8uonhi/) (reddit discussion)
-1. [Discussion on evidence](https://www.reddit.com/r/mormon/comments/7dyni3/the_story_of_my_faith_crisis_and_my_return_to_the/dq2fnwj/) (reddit discussion)
-1. [Critique of "Faith is NOT belief" by Mormonado](https://www.reddit.com/r/mormon/comments/9c74gq/faith_is_not_belief_faith_crisis_and_what_sam/e59621g/)
+1. [Reinterpreting spiritual experiences](https://www.reddit.com/r/mormon/comments/9sphcv/when_confronted_by_difficult_questions_many/e8uonhi/)
+1. [Critique of Mormonado's "Faith is NOT belief" episode](https://www.reddit.com/r/mormon/comments/9c74gq/faith_is_not_belief_faith_crisis_and_what_sam/e59621g/)
 
 ## Special insight and amazing coincidences
 
