@@ -13,6 +13,8 @@ A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racia
 
 > The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
 
+*Note: This statement was again issued in 1951.  Many members are unaware of these (the 1949, 1951, and 1969 [below]) official First Presidency statements because they were excluded from James R. Clark's set of First Presidency statements at the request of Joseph Fielding Smith.  See [here](https://www.reddit.com/r/mormonscholar/comments/8nlncf/perhaps_the_main_reason_the_1949_first_presidency/) for documentation on the 1951 re-issue and the history of the James Clark Messages of the First Presidency multi-volume set.*
+
 ## The 1969 First Presidency Letter
 
 A [1969 First Presidency letter](https://archive.org/stream/improvementera7302unse#page/n71/mode/2up) stated:
@@ -29,7 +31,8 @@ The letter indicates that he was including the pamphlet [Mormonism and the Negro
 
 ## The Lowry Nelson Letters
 
-[The Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_Presidency_Exchange.pdf)
+* [The Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_Presidency_Exchange.pdf)
+* [Mormons and the Negro](https://archive.org/details/NelsonMormonismAndTheNegro) (written for "The Nation", 24 May 1952)
 
 ## The Stewart Udall Letters
 
@@ -40,3 +43,5 @@ Additional historical context for the letters: ["Do Not Lecture the Brethren": S
 ## Dehlin's summary of facts from 100% Church-friendly Sources
 
 [Facts about the LDS Church, Blacks & the Priesthood that Cause Some to Struggle](http://www.mormonstories.org/top10toughissues/blacks.html) includes many first-hand material from Church-friendly sources.
+
+*acknowledgements: Lowry Nelson opinion piece h/t /u/TheLastDarden*

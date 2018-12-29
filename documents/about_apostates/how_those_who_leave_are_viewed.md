@@ -291,7 +291,13 @@ Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Semina
 
 > Enticing us to adopt the premises of Babylon is a subtle strategy Satan uses to sow tares. Individuals who take the premises of Babylon as their fundamental basis for solving the divergent problems of life, of business, or of everyday activity are tares. Their logic may be consistent, but at the root, the solutions are based on premises that Satan has provided. Though they may resemble wheat in the early years, their genetic code—their core premises for growth—yields a poisonous outcome.
 
-[Dennis Tolley, BYU Devotional](https://speeches.byu.edu/talks/h-dennis-tolley_business-babylon/)
+[Dennis Tolley, May 13, 2003 BYU Devotional](https://speeches.byu.edu/talks/h-dennis-tolley_business-babylon/)
+
+### trying to abandon God and become comfortable with sin
+
+> Think of your friends and family members who have chosen to live without faith and without repentance. They don’t want to change. They are not trying to abandon sin and become comfortable with God. Rather, they are trying to abandon God and become comfortable with sin.
+
+[Brad Wilcox, July 12, 2011 BYU Devotional](https://speeches.byu.edu/talks/brad-wilcox_his-grace-is-sufficient/)
 
 ### were not righteous (implied)
 
