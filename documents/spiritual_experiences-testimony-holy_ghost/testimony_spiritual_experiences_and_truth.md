@@ -399,12 +399,7 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
     > Question: My first kill as a deer hunter was terrible, but I learned to love it. You know, I know it's an extreme, but the spirit should testify, I think, about the truth, whenever it is the truth. Do you know what I mean? I mean, I shouldn't need to go there 20 times to feel good. You know what I mean?
 
-
 # Additional reading
 
-* [The Triple Path](http://triplepath.org) - a profound synthesis of religious and scientific ideals which discusses truth and spiritual experiences in significant depth in chapter 5. (note: I am not the author of the book, although it has clearly influenced several points in this essay.)
-* [MormonThink - Testimony & Spiritual Witnesses](http://www.mormonthink.com/testimonyweb.htm) - additional data and perspectives worthy of consideration (note: MormonThink is generally critical of the LDS viewpoint even though it sometimes presents itself as unbiased).
-* [FairMormon - Can We Trust Our Feelings](http://www.fairmormon.org/perspectives/publications/can-we-trust-our-feelings) (relevant apologetic response)
-* [FairMormon -  Is the "burning in the bosom" a reliable method of determining truth?](http://en.fairmormon.org/Holy_Ghost/Burning_in_the_bosom) (relevant apologetic response)
-* [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies) (relevant apologetic response)
-* [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories) (relevant apologetic response)
+See [Resources on faith, spiritual witnesses, and epistemology]({{"/resources-on-faith-spiritual-witnesses-and-epistemology/" |
+relative_url}}) 

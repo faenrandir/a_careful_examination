@@ -5,6 +5,10 @@ doctype: response
 layout: page
 ---
 
+A response to [The Book of Mormon: Man-Made or
+God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)
+by Tad R. Callister, given as a BYU devotional Nov. 1, 2016.  
+
 ### Responses to GC talk
 
 * [Cody L. Anderson](https://spiritualwellnesstheory.com/2017/10/15/off-by-just-a-tad/)
@@ -25,49 +29,55 @@ layout: page
 
 [still in rough draft form; needs to be completed]
 
+## Introduction
+
+[better intro]
+
 On many levels I enjoyed listening to and studying Tad Callister's talk.  I think he does well in pointing out failures in some (mostly older) naturalist theories to account for data relevant to the creation of the Book of Mormon (BoM).  And, although I don't find it as compelling as he might, I also think his case for the unique doctrines and perspective of the Book of Mormon is an important defense for believing members to make of the BoM.  Most of his points are clearly cited, and that is commendable and aids in meaningful scholarly dialogue.  At the very least, even though I will present some counterpoints and may conclude differently than Callister on this topic, I think the _kind_ of introspection and investigation his talk represents is important for LDS leaders and members to engage in.
 
-> It is good to be with you today. I love BYU. It is where I attended school, where I met my wonderful wife, and where all six of our children have attended.
-
-While it's neither here nor there, I also love BYU.  All eight of my siblings and I (so nine in total) graduated from BYU.  As either a professor or a student I spent close to a quarter of my life there.  I also met my wife there, and like Callister, I have six children.
+## "The Book of Mormon is the Keystone of our Religion"
 
 > ... Because the Book of Mormon is “the keystone of our religion,” as described by Joseph Smith, **the Church rises or falls on the truth of it.** (emphasis added)
 
-I agree.  If you finish the end of this discussion and you are confident that the BoM is the product of an early 1800s mind, then the Church is likewise not veridical in the manner in which it is often suggested by members.
-
 > As a result, if the Book of Mormon can be proved to be man-made, then the Church is man-made. On the other hand, if its origin is God-given, then Joseph Smith was a prophet, and if he was a prophet, then The Church of Jesus Christ of Latter-day Saints is true. It is that simple.
 
-I agree.
+Most members and former members of the LDS Church agree on these points.[^smoot]
 
 > Once we have a foundational testimony of the Book of Mormon, then any question or challenge we confront in life, however difficult it may seem, can be approached with faith, not doubt. Why? Because the keystone of our religion—the Book of Mormon and its witness of Jesus Christ—has also become the keystone of our testimony, which keystone holds our testimony securely in place.
 
-Other faiths (e.g., [FLDS](https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints), [AUB](https://en.wikipedia.org/wiki/Apostolic_United_Brethren)) also hold the Book of Mormon to be the word of God, so perhaps it is not as trivial as Callister makes it out to be?
+Other faiths (e.g., [FLDS](https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints), [AUB](https://en.wikipedia.org/wiki/Apostolic_United_Brethren)) also hold the Book of Mormon to be the word of God, so perhaps the belief in the Book of Mormon alone is not sufficient to resolve questions of authority?
 
 > Thus the Book of Mormon has become the focal point of attack by many of our critics: disprove the Book of Mormon and you disprove the Church and undermine testimonies.
 
-Many of us who no longer believe the truth-claims of the LDS Church are merely taking to heart the advice of Orson Pratt:
+If a person believes that the data best support the modern origin model for the Book of Mormon, then it seems reasonable to consider Orson Pratt's imperatives:
 
 > If, after a rigid examination, it [the Book of Mormon] be found an imposition, should be extensively published to the world as such; **the evidences and arguments upon which the imposture was detected, should be clearly and logically stated**, that those who have been sincerely yet unfortunately deceived, may perceive the nature of the deception, and be reclaimed, - and that those who continue to publish the delusion, may be exposed and silenced, not by physical force, neither by persecutions, bare assertions, nor ridicule, **but by strong and powerful arguments — by evidences adduced from scripture and reason**.
 
-> But this is no easy task---in fact, it is impossible, because the Book of Mormon is true.
+Perhaps a discussion of data and models, even if you disagree with the orthodox narrative, is an act of good-will?
 
-Callister is about to present evidence to bolster testimonies of the BoM, but he seems to have begun with the conclusion in mind.  Perhaps our belief in the truth of the BoM should be conditioned on the totality of evidence for and against its authenticity?  Nonetheless, I do not begrudge him statements like these in a devotional address to believing members.
+> But this [disproving the historical Book of Mormon] is no easy task---in fact, it is impossible, because the Book of Mormon is true.
+
+Callister is about to present evidence to bolster testimonies of the BoM, but this kind of statement suggests he began his investigation with a firm conclusion already in mind---"impossible" suggests that no data or evidence could persuade him otherwise. [religious faith vs. confidence faith here??]
 
 > Eleven witnesses, in addition to Joseph Smith, saw the gold plates
 
-The witnesses and the two statements included in the BoM are not without significant credibility problems (see [here](http://www.mormonthink.com/witnessesweb.htm) and [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf)).
+The witnesses and the two statements included in the BoM are not without substantial credibility problems (see [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf) and [here](http://www.mormonthink.com/witnessesweb.htm)).
 
-> millions of believers have testified of its truthfulness, and the book is readily available for examination.
+> millions of believers have testified of its truthfulness, 
 
-Billions will testify of the truthfulness of the Quran.  Millions will testify of the truthfulness of Ellen White's revelations, the truthfulness of Dianetics, and there are many devout followers ready to swear by [many other holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) (consider [these video testimonies](https://www.youtube.com/watch?v=l3EfXz5VzR8)).
+Billions will testify of the truthfulness of the Quran.  Millions will testify of the truthfulness of Ellen White's revelations, the truthfulness of Dianetics, and there are many devout followers ready to swear by [many other holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) (also consider [these video testimonies](https://www.youtube.com/watch?v=l3EfXz5VzR8)). 
+
+> and the book is readily available for examination
+
+Of course, almost all religious books (such as those mentioned above) are readily available for examination.  Still, we note that the Gold Plates, which could far more definitively settle issues of historical provenance, are unavailable for examination.
 
 > Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.
 
-I will present a few viable alternatives which are consistent with much of the historical data and which may be the best explanations for the resonance of the book with early 1800s thought.  The reader may then judge whether the BoM is best viewed as a book translated with the help of an omniscient being or if it seems to represent the product of an early 1800s mind.
+What follows are a few viable alternatives which are consistent with much of the historical data and which may be the best explanations for the resonance of the book with early 1800s thought.  The reader may judge whether the BoM is best viewed as a book translated with the help of an omniscient being or if it seems to represent the product of an early 1800s mind.
 
-> ARGUMENT 1: JOSEPH SMITH, ALLEGED TO BE AN IGNORANT MAN, WROTE THE BOOK OF MORMON
+## Argument 1: Joseph Smith, Alleged to be an Ignorant Man, Wrote The Book Of Mormon
 
-This argument is really a subset of argument 5, and 
+[Consider addressing with #5]
 
 > ARGUMENT 2: SOMEONE ELSE WROTE IT
 
@@ -203,7 +213,7 @@ Naturalists form theories to fit the data, and some ideas fall into disfavor.  H
 
 > When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.
 
-While most theories today posit that others helped in or produced a proto-manuscript, several data points [suggest that Joseph _might_ have been capable of producing the BoM](https://github.com/faenrandir/a_careful_examination/blob/285a45e5c99e5abf41c6910aad4419737cc57fc8/documents/book_of_mormon/translation/joseph_smith_uneducated.md).  So, while I agree that Joseph as sole author is a stretch, it does not seem wholly impossible, particularly if Joseph had been working on a manuscript for the years before the actual dictation event (which the timeline leaves room for, [especially considering the purported 4 years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F)).  LDS leaders often emphasize Joseph's unlearnedness, but they conveniently ignore the fact that he grew up in a home that emphasized personal educational and that he seems to have had an incredible mind.  Notice his command of rhetoric and repetition in his [letter to James Arlington Bennet in 1843](http://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript).
+While most theories today posit that others helped in or produced a proto-manuscript, several data points [suggest that Joseph _might_ have been capable of producing the BoM]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }}).  So, while I agree that Joseph as sole author is a stretch, it does not seem wholly impossible, particularly if Joseph had been working on a manuscript for the years before the actual dictation event (which the timeline leaves room for, [especially considering the purported 4 years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F)).  LDS leaders often emphasize Joseph's unlearnedness, but they conveniently ignore the fact that he grew up in a home that emphasized personal educational and that he seems to have had an incredible mind.  Notice his command of rhetoric and repetition in his [letter to James Arlington Bennet in 1843](http://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript).
 
 John Taylor [said of him](https://www.lds.org/manual/teachings-joseph-smith/chapter-47?lang=eng):
 
@@ -213,7 +223,7 @@ And William E. McLellin [described his experience teaching Smith](http://www.des
 
 > He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him. And I here say that he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance, among the thousands of my observation. Although when I took him into my school, he was without scientific knowledge or attainments.
 
-If we are to believe Taylor and McLellin, then we are not dealing with typical intelligence.  Further, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, this theory does not necessarily exceed the realm of naturalistic possibility.
+If we are to believe Taylor and McLellin, then we are not dealing with a typical intelligence.  Further, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, this theory does not necessarily exceed the realm of naturalistic possibility.
 
 > Nonetheless, others have bought into this ­argument—lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God—a place they desperately do not want to go.
 
@@ -594,3 +604,5 @@ discuss issues with moroni's promise and epistemology generally.
     * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
 
 [^fourfold_state]: The book was popular enough that it is still considered a classic and reprinted today (e.g., [here](https://banneroftruth.org/us/store/theology-books/human-nature-in-its-fourfold-state/) and [here](https://www.heritagebooks.org/products/human-nature-in-its-fourfold-state-boston.html)).  Reformation Heritage Books noted its popularity "It is evident why Boston's work enjoyed such popularity. ..." and John Macleod, [the well known theologian](https://en.wikipedia.org/wiki/John_Macleod_%28theologian%29) listed the book as [one of 22 of his favorite](https://reformedbooksonline.com/suggested-reading/) classic reformed, Christian works, [noting](https://www.goodreads.com/book/show/19194212-human-nature-in-its-fourfold-state) that it "more than any other stands out as representative of the best of our Scottish religious classics".
+
+[^smoot]: Stephen Smoot recently discussed why an inspired fiction theory [undermines all the other LDS truth-claims](https://www.mormoninterpreter.com/et-incarnatus-est-the-imperative-for-book-of-mormon-historicity/).

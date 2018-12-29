@@ -17,11 +17,7 @@ Joseph refers to Egyptian characters in specific locations on facsimile 3 and [h
 
 **More**:
 
-* [The Joseph Smith Papyri](https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be) (youtube)
-* [The Book of Abraham: Criticisms, Defenses, and Implications](https://www.dropbox.com/s/tz1iy4q7w39wvor/The%20Book%20of%20Abraham%20Criticisms%20Defenses%20and%20Implications.pdf)
-* [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
-* [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
-
+[Resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url}})
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
@@ -45,9 +41,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 **More**:
 
-* [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}) (bwv549)
-* [Testimonies of Other Faiths](https://testimoniesofotherfaiths.blogspot.co.uk/)
-* [Spiritual feelings appear to confirm contradictory positions](http://www.religioustolerance.org/god_pra6.htm)
+[Resources on faith, spiritual witnesses, and epistemology]({{ "/resources-on-faith-spiritual-witnesses-and-epistemology/" | relative_url }})
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 

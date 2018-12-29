@@ -3,7 +3,7 @@ title: Brief Sketch of Events Surrounding My Resignation
 permalink: /sketch-of-my-faith-journey/
 doctype: resource
 maintopic: faith-transitions
-featuredimage: /media/bierstadt-sierra-1024-768.jpg
+featuredimage: /media/mountain-941501_640.jpg
 layout: page
 ---
 

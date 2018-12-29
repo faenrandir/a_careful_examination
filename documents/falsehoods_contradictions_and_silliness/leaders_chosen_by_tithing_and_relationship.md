@@ -1,9 +1,15 @@
 ---
-title: "Major factors in LDS leadership selection"
+title: "Factors in LDS leadership selection"
 permalink: /factors-in-lds-leadership-selection/
 doctype: notes
 layout: page
 ---
+
+Leadership selection will likely always be at least somewhat idiosyncratic,
+and there can be little doubt that those doing the selection are trying their
+best to select the very best leaders.
+
+Still, there is some data arguing that these factors receive weight (or act as a filter) in the leadership selection process.  
 
 1. "Highest tithe payers"
 
@@ -13,4 +19,4 @@ layout: page
 
 2. Relationship to current leadership
 
-The data suggest that one's [relationship with an existing general authority](https://www.mormonmatters.org/nepotism-in-the-church/) seems to be a major factor in leadership callings.
+    One's [relationship with an existing general authority](https://www.mormonmatters.org/nepotism-in-the-church/) may influence higher leadership callings.
