@@ -16,26 +16,37 @@ Footnote 32 points to a source written by Hauglid:
 
 ### Recent reversal
 
-Brian recently said (at [52:46](https://youtu.be/y3-SKjlNOCQ?t=3166)):
+Hauglid recently[^2000shift] said (at [52:46](https://youtu.be/y3-SKjlNOCQ?t=3166)):
 
 > There's also an argument that the Book of Abraham was on papyri that we no longer have--it's called the missing paypri theory--at least from my perspective, anyway, I've found evidence that argues against that [the missing paypri theory] that they were working off of the papyri that we actually have in the Church today.
 
-Dan Vogel and many other non-LDS scholars have been making this argument for a long time (although it's not clear if they are basing their conclusion on the same data since Hauglid has not yet discussed his data or rationale, to my knowledge).  Vogel's latest video series (particularly [part 1](https://www.youtube.com/watch?v=AtJT_xjIgdM) and [part 7](https://www.youtube.com/watch?v=K_7haq-PdjU)) lays out the evidence that we can assume (at least until Hauglid reveals more specifics) was also convincing to Hauglid 
+And in [a recent facebook comment](https://www.facebook.com/dan.vogel.35/posts/1398006876998582)[^also_shared_by_vogel] (formatted with bullets for greater clarity):
 
-Dan Vogel also recently noted[^2000shift] (in the info notes on [part 6 of his Truth of the Book of Abraham series](https://www.youtube.com/watch?v=I47ibkJ4QrE)):
+> For the record, I no longer hold the views that have been quoted from my 2010 book in these videos. I have moved on from my days as an "outrageous" apologist. In fact, I'm no longer interested or involved in apologetics in any way. I wholeheartedly agree with Dan's [Dan Vogel's] excellent assessment of the Abraham/Egyptian documents in these videos.[^vogels_explanation_of_the_data]
 
-> In a recent Facebook response, Brian Hauglid, one of the BYU “apologists” featured in my Book of Abraham videos, clarified his current position and now wishes to disassociate himself from the views of John Gee and Kerry Muhlestein. As an endorsement of these videos and a service to Hauglid, I post a portion of his statement here:
+> * I now reject a missing Abraham manuscript.
+> * I agree that two of the Abraham manuscripts were simultaneously dictated.
+> * I agree that the Egyptian papers were used to produce the BoA.
+> * I agree that only Abr. 1:1-2:18 were produced in 1835 and that Abr. 2:19-5:21 were produced in Nauvoo.
+> * And on and on.
 
-> “For the record, I no longer hold the views that have been quoted from my 2010 book in these videos. ... In fact, I'm no longer interested or involved in apologetics in any way. I wholeheartedly agree with Dan’s excellent assessment of the Abraham/Egyptian documents in these videos. ... One can find that I've changed my mind in my recent and forthcoming publications. The most recent JSP Revelations and Translation vol. 4, The Book of Abraham and Related Manuscripts (now on the shelves) is much more open to Dan’s thinking on the origin of the Book of Abraham.” (Brian Hauglid, Facebook, 8 Nov. 2018)
+> I no longer agree with Gee or Mulhestein. I find their apologetic "scholarship" on the BoA abhorrent. One can find that I've changed my mind in my recent and forthcoming publications. The most recent JSP Revelations and Translation vol. 4, The Book of Abraham and Related Manuscripts (now on the shelves) is much more open to Dan's thinking on the origin of the Book of Abraham. My friend Brent Metcalfe can attest to my transformative journey.
+
+### Additional reading
 
 A visual demonstrating (at a superficial level) the documentary evidence that the Book of Abraham characters associated with the translation were pulled from the papyri now in the Church's possession may be found [here](https://www.reddit.com/r/mormon/comments/9yt977/the_book_of_abraham_11218_graphic/).
 
-[General resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url }}).
+Also see [General resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url }}).
 
 **Acknowledgements**: Reddit user `fuzzy_thoughts` pointed out Hauglid in Vogel's video info section and the connection to Hauglid in the gospel topics essay.
+
+
+[^vogels_explanation_of_the_data]: Dan Vogel and many other non-LDS scholars have been making this argument for a long time. See Vogel lay out the kinds of evidence that likely persuaded Hauglid in Vogel's latest video series (particularly [part 1](https://www.youtube.com/watch?v=AtJT_xjIgdM) and [part 7](https://www.youtube.com/watch?v=K_7haq-PdjU)).
+
+[^also_shared_by_vogel]: A slightly abridged version of this comment was also shared [in the info notes of part 6](https://www.youtube.com/watch?v=I47ibkJ4QrE) of Dan Vogel's Book of Abraham video series.
 
 [^2000shift]: Reddit user admiraldjibouti noted that Hauglid has held a nuanced view of the Book of Abraham for perhaps a very long time:
 
     > I took a class at BYU on the Pearl of Great Price from Hauglid back in 2000 or 2001 and he was pretty much saying the papyri was the Book of the Dead and we needed a more nuanced view of the Book of Abraham already.
 
-    I'm not certain how to reconcile this with what seems like his more recent shift.  Perhaps Hauglid is merely more convinced against the missing papyri theory.
+    I'm not certain how to reconcile this with what seems like the more recent shift noted above.  Perhaps Hauglid is merely more convinced against the missing papyri theory?  Or perhaps admiraldjibouti is overstating how progressive Hauglid was previously?
