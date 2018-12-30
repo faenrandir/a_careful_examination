@@ -73,11 +73,11 @@ Regardless, Joseph Smith points to specific characters *on the facsimiles* and g
 
 > When someone tries to appeal to the authority or knowledge of man rely upon the testimony of the Deity!
 
-If you have had a sit-down with the creator of the universe, then by all means, take their word on things.  However, most of us rely on [very imprecise spiritual impressions](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/), and these spiritual impressions tend to confirm to us whatever position we already hold and want to believe.
+If you have had a sit-down with the creator of the universe, then by all means, take their word on things.  However, most of us rely on [very imprecise spiritual impressions]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}), and these spiritual impressions tend to confirm to us whatever position we already hold and want to believe.
 
 For instance, [a recent poll](http://www.religioustolerance.org/god_pra6.htm) asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, every single person found that God agreed with their prior stance on same sex marriage—even though the stances were evenly divided and diametrically opposed among the collection of participants.
 
-Spiritual confirmation tends to track our familiarity and comfort with a given topic.  Consider, for instance, Marlin K. Jensen's frank discussion during the "Swedish Rescue" of [his daughter's experience with not feeling the Spirit in the temple](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/#fn24)
+Spiritual confirmation tends to track our familiarity and comfort with a given topic.  Consider, for instance, Marlin K. Jensen's frank discussion during the "Swedish Rescue" of [his daughter's experience with not feeling the Spirit in the temple]({{ "/testimony-spiritual-experiences-truth/#fn:jensendaughter" | relative_url }})
 
 Data like this call into question the reliability of the "pray-feel" method for determining objective truth (even if it is useful for personal reflection).
 
@@ -130,14 +130,14 @@ This is an *ad hominen* against former members.  The truth of what a former memb
 This appears to be a hasty generalization.  Why can't apostates be a trustworthy source?  And, if an apostate is biased against the Church, doesn't it stand to reason that Church members are biased *for* the Church?  Perhaps the truth lies somewhere in-between?
 
 
-
 [^byexample]: For instance, [according to FairMormon](http://en.fairmormon.org/Mormonism_and_doctrine/Repudiated_concepts/Adam-God_theory) (on 2017-03-23), "Brigham claimed to have received these beliefs [doctrines related to Adam-God theory] by revelation, and, on at least three occasions, claimed that he learned it from Joseph Smith."  For those who reject the validity of the Adam-God theory, this seems like the kind of contradiction that may call into question the validity of the claim that Brigham is a genuine prophet of God.
 
 [^misleadingbyldsleaders]: LDS leaders have misled or told half-truths on at least several occasions:
+    * Joseph Smith, at least two of his wives, and several Church leaders misled others about polygamy [on multiple occasions]({{ "/joseph-smith-polygamy-denials/" | relative_url }}).
+    * The 1890 Manifesto (aka [Declaration 1](https://www.lds.org/scriptures/dc-testament/od/1)) states, "We are not teaching polygamy or plural marriage, nor permitting any person to enter into its practice ...", when in fact [plural marriages were being permitted and authorized by leaders](https://www.lds.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=eng&old=true) and would be for another 14 years.
+    * [Bruce R. McConkie misled the public about the teaching of the Adam God theory]({{ "/bruce-r-mcconkie-misled-on-adam-god/" | relative_url }})
+    * When asked questions about the temple and the Strengthening Church Members Committee, both [Jeffery R. Holland](https://www.youtube.com/watch?v=lX-S4Nu2qd8) and [Michael Purdy](https://www.youtube.com/watch?v=KgKVCyGf-Ak) attempted to mislead John Sweeney.
 
-  * Joseph Smith was [sealed twice to the Partridge sisters](https://imgur.com/a/oscY6) to mislead Emma.
-  * Joseph Smith, at least two of his wives, and several Church leaders misled others about polygamy [on multiple occasions](https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/).
-  * The 1890 Manifesto (aka [Declaration 1](https://www.lds.org/scriptures/dc-testament/od/1)) states, "We are not teaching polygamy or plural marriage, nor permitting any person to enter into its practice ...", when in fact [plural marriages were being permitted and authorized by leaders](https://www.lds.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=eng&old=true) and would be for another 14 years.
-  * When asked questions about the temple and the Strengthening Church Members Committee, both [Jeffery R. Holland](https://www.youtube.com/watch?v=0zE8JKDZazc) and [Michael Purdy](https://www.youtube.com/watch?v=uFSEgDtQfK0) attempted to mislead John Sweeney.
+    Consider many other examples [here](https://proveallthingsholdfasttogood.wordpress.com/the-hiding-of-church-history/)
 
-[^testimony]: See [Testimony, Spiritual Experiences, and Truth: A Careful Examination](https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/) for my complete analysis of spiritual feelings.
+[^testimony]: See [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}) for my complete analysis of spiritual feelings.
