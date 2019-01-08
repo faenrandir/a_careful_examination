@@ -45,4 +45,4 @@ If we accept that Joseph Smith practiced polygamy (and there is [good contempora
 
 Both of these condition our confidence in Emma as a reliable witness on the creation of the Book of Mormon.  From the above statements on polygamy we can be reasonably confident that Emma was either capable of lying or, alternatively, that she was naive about her husband's actions or that Joseph was adept at hiding information from her.  All possibilities call into question her testimony on the Book of Mormon.
 
-[^examples]: The youth video "Compelling Witness" (at about 4:50) presents a courtroom scenario where Emma Smith is called as witness and she quotes from her last testimony.
+[^examples]: The youth video [Compelling Witness](https://www.lds.org/youth/video/compelling-witness?lang=eng) (at about 4:50) presents a courtroom scenario where Emma Smith is called as witness and she quotes from her last testimony.
