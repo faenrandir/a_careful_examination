@@ -9,7 +9,7 @@ In many ways, women in the LDS Church are subordinate to men.  A few formal and 
 
 ### In the Temple
 
-Women are subordinate to men in the temple in the following ways:
+Until January 1, 2019, women were subordinate to men in the temple in the following ways:
 
 1. Adam helps make the earth; Eve does not.
 2. Adam is made directly by Christ; Eve is made through a piece of Adam.
