@@ -1,5 +1,5 @@
 ---
-title: "Discussion on a global at 2348 BCE"
+title: "Discussion on a global flood at 2348 BCE"
 permalink: /discussion-global-flood-at-2348-bc/
 doctype: discussion
 layout: page
