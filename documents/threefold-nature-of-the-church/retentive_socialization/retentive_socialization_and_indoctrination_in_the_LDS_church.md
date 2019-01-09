@@ -43,7 +43,7 @@ Below are listed what I view as the main sources of socializing influence which 
 
 LDS members spend a considerable amount of time in meetings teaching one another and learning LDS doctrine:
 
-1. Members attend [a minimum of 3 hours of Church each Sunday](https://www.lds.org/ensign/1980/03/news-of-the-church/church-consolidates-meeting-schedules?lang=eng&_r=1) (not counting other meetings like monthly or quarterly "firesides" [a meeting held in the evening]) where they teach one another LDS doctrine.
+1. Members attend [a minimum of 2 hours of Church each Sunday](https://universe.byu.edu/2018/10/06/two-hour-church-block-announced-in-general-conference-1/) (not counting other meetings like monthly or quarterly "firesides" [a meeting held in the evening]) where they teach one another LDS doctrine.  In addition, members are expected to engage in personal and family study at home using the [Come, Follow Me curricula](https://www.lds.org/study/video/videos/2018-06-0010-introduction-to-come-follow-me-for-individuals-and-families?lang=eng), which is [re-inforced in classes during the 2 hour block](https://www.ldsdaily.com/home-and-family/10-tips-on-using-come-follow-me-for-sunday-school-teachers/).
 1. Members are taught to pray [morning and night individually](https://www.lds.org/new-era/2017/01/morning-and-evening-prayers?lang=eng), [with their family](https://www.lds.org/ensign/2001/02/no-substitute-for-family-prayer?lang=eng), and [with their spouses](https://www.lds.org/manual/marriage-and-family-relations-instructors-manual/part-a-strengthening-marriages/lesson-6-strengthening-marriages-through-faith-and-prayer?lang=eng), [pray over every meal](http://eom.byu.edu/index.php/Blessing_on_Food), and [study their scriptures daily](https://www.lds.org/media-library/video/2013-02-1360-231-i-love-my-daily-scripture-study?lang=eng).
 1. Boys and girls begin [bi-monthly activities with their respective gender at age 8](https://www.lds.org/callings/primary/leader-resources/activity-days?lang=eng).  Some of the lessons directly or indirectly support LDS doctrine.
 1. Youth from the age of 12 to 18 attend [a weekly activity](https://www.lds.org/youth/activities/training/how-to-plan-effective-activities?lang=eng).  Many activities directly involve learning or acting out LDS teachings.
@@ -134,7 +134,7 @@ The very thought of dating a non-return missionary (non-RM) is [considered jaw-d
 #### LDS Orthodoxy
 
 1. [Short engagement/dating times relative to the rest of society](http://byuiscroll.org/long-vs-short-engagements-what-is-the-way-to-go/) suggests that religious affiliation often trumps other considerations of personality and personality compatibility.
-1. A good reason not to marry someone is because they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/) ([short vidoe clip](https://www.youtube.com/watch?v=fqhK8fB9m-Q))
+1. A good reason not to marry someone is because [they didn't immediately remove extra earrings when the Prophet said to only have one pair](https://speeches.byu.edu/talks/david-a-bednar_quick-observe/) ([short video clip](https://www.youtube.com/watch?v=fqhK8fB9m-Q))
 1. Some leaders create [contracts to ensure continued activity](https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/).
 
 ### 7. Most major life events are tied into the Church
@@ -267,6 +267,7 @@ Although questions are prescribed and must be asked word-for-word, ecclesiastica
 
 Besides worthiness interviews themselves, some other kinds of monitoring for orthodoxy may occur:
 
+1. Youth and adult members are assigned to visit and/or fellowship with one another in the ["Ministering" program](https://www.lds.org/ministering/resources-for-ministering?lang=eng).  In an effort to collectively help those they visit, the status and needs of those they visit are [reported to senior ward leaders in quarterly interviews](https://www.lds.org/church/news/ministering-to-replace-home-and-visiting-teaching?lang=eng).
 1. Files may be kept on students at BYU [cataloging activities that may not be in line with LDS thought](http://www.freebyu.org/wp-content/uploads/2016/05/Brad-Carmack-Honor-Code-File.pdf).
 1. The [Strengthening Church Members Committee](https://en.wikipedia.org/wiki/Strengthening_Church_Members_Committee) appears to monitor for threats to orthodoxy.
 1. Leaders may be screened for agreement with the status quo in the leadership selection process (above and beyond worthiness interviews).  For instance, the recently leaked [Utah Area Seventies Correlation Meeting](https://mormonleaks.io/wiki/documents/a/a7/Utah_Area_Seventies_Correlation_Meeting-2015-11-11.pdf) states "Stake presidents may want to review this policy [the November 2015 policy excluding children of same-sex married couples] with prospective bishops to determine their willingness to support this policy before extending a call."

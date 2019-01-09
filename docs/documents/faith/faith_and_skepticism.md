@@ -1,0 +1,2 @@
+
+1. Roughly 400 people invested in Gaylen Rust's silver investments.  Most of them "knew each other through church or were family members", so they had some reason for their trust.  [Many lost their entire retirement](https://kutv.com/news/local/class-action-lawsuit-says-zions-bank-assisted-in-scheme-that-stole-200m-from-victims).  Should those individuals have had more or less faith in Gaylen Rust?  Would greater skepticism in this case have been a virtue?
