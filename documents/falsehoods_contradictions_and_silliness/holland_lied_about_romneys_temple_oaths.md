@@ -64,6 +64,8 @@ Regardless of whether a person chooses to accept either of the above justificati
 
 > These excuses and many more are given as reasons for dishonesty. To the Lord, there are no acceptable reasons. ...
 
+*Posted online [here](https://www.reddit.com/r/mormon/comments/7c2tuq/did_holland_lie_semantic_analysis_of_jeffrey_r/); The most interesting and informed rebuttal is from `everything_is_free` [here](https://www.reddit.com/r/mormon/comments/7c2tuq/did_holland_lie_semantic_analysis_of_jeffrey_r/dpmxeru/).  There is some merit to his analysis.  Still, Holland has plenty of time initially, it seems, to have focused on that part of the argument.  Instead, he misdirected Sweeney and only circled around after-the-fact to focus on a technicality.  I do not think the argument is enough to fully exculpate Holland here.*
+
 [^membersassert]: Members online state or argue that Holland did not lie:
 
 * "I did not hear the the discussion you are talking about but I do not find it to be a lie or prevarication." [source](https://www.quora.com/Why-did-the-Mormon-leader-Jeffrey-Holland-lie-on-television-about-Mitt-Romney-executing-the-signs-of-the-penalty-in-the-Mormon-temple/answer/R-Lynn-Thomas?srid=uJIq)
