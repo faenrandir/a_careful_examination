@@ -157,7 +157,18 @@ In any case, Rigdon is not an essential component of several other modern origin
 
 > Other critics offered a different line of attack; namely, that Joseph Smith plagiarized the Book of Mormon (at least its historical content) from other existing books.
 
-Most today hypothesize that the book was [a remix of ideas](https://www.bookofmormonorigins.com/) from Smith's milieu (whether synthesized by him or other authors).  Nonetheless, plagiarism from, or at least strong influence by, modern sources can be demonstrated:
+Callister is about to discuss "Manuscript Found", by Solomon Spaulding, and
+View of the Hebrews, by Ethan Smith.  Virtually no scholars today assert
+direct influence between "Manuscript Found" and the Book of Mormon.  And
+neither do scholars assert that the Book of Mormon *plagiarized* from View of
+the Hebrews---rather they view the book as indicative of the *kinds* of
+thoughts about origin stories of the Native Americans which were flowing
+through the early 1800s cultural milieu and which seem likely to have also informed
+the creation of the Book of Mormon.
+
+In general, most researchers today hypothesize that the BoM was mostly [a remix of ideas](https://www.bookofmormonorigins.com/) from Smith's milieu (whether synthesized by him or other authors) rather than an act of direct plagiarism, for the most part.
+
+Nonetheless, plagiarism (both the deposition of intact passages and the insertion of passages with some alteration) from some modern sources is an excellent explanation for 
 
 [bullet this out]
 
