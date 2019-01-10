@@ -157,30 +157,31 @@ In any case, Rigdon is not an essential component of several other modern origin
 
 > Other critics offered a different line of attack; namely, that Joseph Smith plagiarized the Book of Mormon (at least its historical content) from other existing books.
 
-Callister is about to discuss "Manuscript Found", by Solomon Spaulding, and
-View of the Hebrews, by Ethan Smith.  Virtually no scholars today assert
-direct influence between "Manuscript Found" and the Book of Mormon.  And
-neither do scholars assert that the Book of Mormon *plagiarized* from View of
-the Hebrews---rather they view the book as indicative of the *kinds* of
-thoughts about origin stories of the Native Americans which were flowing
-through the early 1800s cultural milieu and which seem likely to have also informed
-the creation of the Book of Mormon.
+Callister is about to discuss "Manuscript Found", by Solomon Spaulding, and View of the Hebrews, by Ethan Smith.  Virtually no scholars today assert direct influence between "Manuscript Found" and the Book of Mormon.  And neither do scholars assert that the Book of Mormon *plagiarized* from View of the Hebrews---rather they view the book as indicative of the *kinds* of origin stories about the Native Americans that were flowing through the early 1800s cultural milieu and which seem likely to have informed the creation of the Book of Mormon (directly or indirectly).
 
-In general, most researchers today hypothesize that the BoM was mostly [a remix of ideas](https://www.bookofmormonorigins.com/) from Smith's milieu (whether synthesized by him or other authors) rather than an act of direct plagiarism, for the most part.
+In general, most researchers today hypothesize that the BoM was [a remix of ideas](https://www.bookofmormonorigins.com/) from the early 1800s cultural milieu rather than an act of direct plagiarism, at least for the most part.
 
-Nonetheless, plagiarism (both the deposition of intact passages and the insertion of passages with some alteration) from some modern sources is an excellent explanation for 
+Still, it is reasonable to suggest plagiarism (both the deposition of intact passages and the insertion of passages with some alteration) given the data.
 
-[bullet this out]
+First off, we have good evidence that Joseph plagiarized from Adam Clarke's Bible Commentary in creating the Joseph Smith Translation of the Bible (JST).  Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) wrote (http://jur.byu.edu/?p=21296):
 
-We can deduce that Joseph followed after the 1769 King James version *specifically* when injecting those passages into the Book of Mormon.
+> Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
 
-* OT: Grant Hardy and 1769 scholar survey on Isaiah
-* NT: Frederick; end of Mark
-* General milieu: Skousen - Protestant concerns; all the other protestant phrases (point out 10 word phrase).
+A variety of data points to plagiarism of the Bible itself:
+
+1. BYU religion professor Nick Frederick [recently stated](https://hwcdn.libsyn.com/p/0/7/1/071b742fffedb4b4/LDSP_Nick_Frederick_Intertextuality.pdf?c_id=22467694&cs_id=22467694&expiration=1547109039&hwt=1155dee2e25c3a314e5d330a77e73220) that there are "650 phrases that I think you can demonstrate pretty clearly are from the New Testament". (See [here](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/))
+
+1. FairMormon defends the existence of deutero-Isaiah in the Book of Mormon[^deuteroIsaiah] by [invoking plagiarism](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah):
+
+    > As Joseph was translating the text of the Book of Mormon, he would find himself translating something that he recognized as being roughly similar to texts from the Bible. ...  Instead of translating Nephi's quotations of Isaiah, Joseph deferred to the KJV translation of those chapters.  This may have been done to save time and to respect the quality of the KJV Bible. ... The version of Isaiah 48-52 that we have now in the Book of Mormon **is not taken from Nephi's plates**, but rather **copied from the KJV Bible** for reasons suggested above.
+
+1. Specific [translation errors preserved in the 1769 King James Bible](https://faenrandir.github.io/a_careful_examination/scholar-survey-kjv-translation-errors-in-bom-isaiah/) suggest that the BoM's author was consulting the 1769 King James Bible and not an ancient source (which likely would have conveyed the concepts differently).
+
+1. The inclusion of a chunk of Mark 16 that follows after the 1769 King James bible that had a dubious, later origin in the New Testament tradition. ([source](https://faenrandir.github.io/a_careful_examination/moroni-quotes-sections-of-mark-dubious-origin/))
 
 > One such theory alleged that Joseph Smith copied from the Solomon Spaulding manuscript—an unpublished manuscript written about 1812 by a man named Solomon Spaulding, who had once been a Protestant minister. It is a fictional account of ancient Romans who were sailing for England but were blown off course and landed in North America. When the critics were asked to produce the manuscript for comparison with the Book of Mormon, they conveniently claimed it was lost.[12]
 
-Callister pokes at the convenience of a missing manuscript.  However, it is worth noting that if Joseph were using the seer stone in the hat process for translation, then it would have been trivial for him to duplicate the lost 116 pages, or merely gaze into the stone and have God reveal to him the location of the lost 116 pages so they could be retrieved.
+Callister pokes at the convenience of a missing manuscript.  However, since we are comparing models, it is worth noting that if Joseph were using the seer stone in the hat process for translation, then it would have been trivial for him to duplicate the lost 116 pages or merely gaze into the stone and have God reveal to him the location of the lost 116 pages so they could be retrieved.
 
 > However, with the passage of time, the manuscript was found in 1884 by a Mr. L. L. Rice. He found the alleged smoking gun in the personal historical papers of one of the very critics who had claimed the manuscript was lost. Knowing of its alleged connection to the Book of Mormon, Mr. Rice, Mr. James Fairchild, and others (none of whom were members of the LDS Church), reviewed it and concluded, “[We] compared it with the Book of Mormon and could detect no resemblance between the two, in general or in detail.[13]
 
@@ -695,5 +696,9 @@ discuss issues with moroni's promise and epistemology generally.
     > Q.—Was there nothing about spiritual wives that you recollect?
 
     > A.—At one time my husband came to me and asked me if I had heard certain rumors about spiritual marriages, or anything of the kind; and assured me that if I had, that they were without foundation; that there was no such doctrine, and never should be with his knowledge, or consent. I know that he had no other wife or wives than myself, in any sense, either spiritual or otherwise.
+
+[^deuteroIsaiah]: There is very good evidence suggesting that the deutero Isaiah found in the Book of Mormon (Isaiah chapters 48--52) [was written _after_ Lehi left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/).  Some scholars have hypothesized that deutero-Isaiah was based on some kind of proto-text, and Latter-day Saints have latched onto this possibility.  At the very least, it is likely that the deutero-Isaiah chapters in the Book of Mormon were not equivalent to modern versions, such as that from the King James Bible.  LDS scholar Grant Hardy summarizes and also points to the fact that the Proto-Isaiah text would not have looked similar to what is preserved in the modern Bible ([source](https://faenrandir.github.io/a_careful_examination/excerpt-on-isaiah-from-hardys-readers-guide/)):
+
+    > Latter-day Saints sometimes brush such criticism aside [that "scholarly consensus for more than a century has attributed (Isa. 40--55) to the time of the Exile or even later"], asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
 
 
