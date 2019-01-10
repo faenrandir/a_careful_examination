@@ -12,6 +12,10 @@ Three Nights' Public Discussion between the Revds. C.W. Cleeve, James Robertson,
 * [Complete transcription](http://www.olivercowdery.com/texts/1850Tayl.htm) at Oliver's Bookshelf
 * [pg 8 (standalone PDF)]({{ "/documents/polygamy/denials/originals/1850-Three-Nights-Public-Discussion-JohnTaylor-pg8-from-OrsonPratt-A-Series-Of-Pamphlets.pdf" | relative_url }})
 
+According to the D. Michael Quinn article "LDS Church Authority and New Plural Marriages, 1890-1904" in [Dialogue, vol 18, no. 1, Spring 1985](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V18N01.pdf), "By this date in 1850, John Taylor had married twelve polygamous wives who had already borne him eight children.[63]"
+
+Quinn also notes that just previous to this time, Orson Pratt, the editor/publisher of the series of pamphlets that Taylor's pamphlet appears in, had married "four plural wives and fathered two polygamous children."
+
 ---
 
 [For complete context, this begins with Mr. Robertson's query on pg 7; emphasis added]
