@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# ensure that there are no outstanding commits that are missing
+git pull
+
 JEKYLL_ENV=production bundle exec jekyll build
 
 # git add modified
