@@ -69,7 +69,7 @@ Several data points cast doubt on whether the statement had any First Presidency
 
 ### The Counterargument
 
-The basic counterargument, which I articulated in some part a few years ago [in a conversation with Shapiro](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/aa94b82ae8d0292dec0cf15c7451b07f9ff32dcd/documents/science/response_to_how_to_mix_LDS_theology_and_human_evolution.pdf) and which Ugo Perego expressed to me in private communication, is that it seems unreasonable that Joseph F. Smith would have been unaware of the "Origin of Man" response in the PQT.  There are a few, related arguments:
+The basic counterargument, which I articulated in some part a few years ago [in a conversation with Shapiro]({{ "/1910-priesthood-quorums-table-r-gary-exchange/" | relative_url }}) and which Ugo Perego expressed to me in private communication, is that it seems unreasonable that Joseph F. Smith would have been unaware of the "Origin of Man" response in the PQT.  There are a few, related arguments:
 
 1. The response followed closely in time to the 1909 statement, so the potential need to clarify seems germane chronologically.
 1. The response itself indicates that the question came "from several High Priests' quorums."  The fact that it was a question from several quorums suggests a potential for elevated awareness of the issue.

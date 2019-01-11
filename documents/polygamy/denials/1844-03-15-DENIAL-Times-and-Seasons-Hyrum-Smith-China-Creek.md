@@ -7,7 +7,7 @@ layout: page
 ---
 
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 6.
-* [pg 474 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/f95a370b57ae8530ffc8891104bf944bf0edbfeb/documents/polygamy/denials/originals/1843-03-15-Times-and-Seasons-Letter-to-Editor.pdf)
+* [pg 474 (standalone PDF)]({{ "/documents/polygamy/denials/originals/1843-03-15-Times-and-Seasons-Letter-to-Editor.pdf" | relative_url }})
 
 Hyrum Smith [had two polygamous wives by this time](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V38N03_13.pdf) (see pgs 25-27).
 

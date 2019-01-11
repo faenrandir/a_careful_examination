@@ -70,14 +70,14 @@ Of course, for a believing member the existence of the Book of Abraham _is_ evid
 
 Two older maps of the Saudi Arabian peninsula also contain word variants similar to Olishem and which are located on the map in roughly the position Joseph Smith might have expected Olishem to have been.
 
-A map located in Allegheny College (in Pennsylvania), a few hundred miles from where Joseph Smith lived during the Book of Mormon translation, also [contains the words 'Barrai-al Sham'](https://github.com/faenrandir/a_careful_examination/raw/5aa4bfdd683471d1619294ac5f38a5793b238f75/documents/book_of_abraham/olishem/barrai-alSham.png) right where the plains of Olishem would be located.  Next to the name is written: "In this Desert are found the Ruins of several ancient Cities".  Not far below is written the text "Beled Shemer".  Someone seeing this map could easily notice the last part of Barrai-al Sham ("al Sham") and convolute it with the "Shem" from Shemer right below to form "Olishem".
+A map located in Allegheny College (in Pennsylvania), a few hundred miles from where Joseph Smith lived during the Book of Mormon translation, also [contains the words 'Barrai-al Sham']({{ "/documents/book_of_abraham/olishem/barrai-alSham.png" | relative_url }}) right where the plains of Olishem would be located.  Next to the name is written: "In this Desert are found the Ruins of several ancient Cities".  Not far below is written the text "Beled Shemer".  Someone seeing this map could easily notice the last part of Barrai-al Sham ("al Sham") and convolute it with the "Shem" from Shemer right below to form "Olishem".
 
     -al Sham + Shem => Olishem
 
 Note that "al Sham" preserves all of the consonants of "Olishem", while Ulišu
-Note that the same map [also contains "Nehem"](https://github.com/faenrandir/a_careful_examination/raw/5aa4bfdd683471d1619294ac5f38a5793b238f75/documents/book_of_abraham/olishem/barrai-alSham_and_Nehem.png) in its approximate location.
+Note that the same map [also contains "Nehem"]({{ "/documents/book_of_abraham/olishem/barrai-alSham_and_Nehem.png" | relative_url }}) in its approximate location.
 
-Another old map of the Arabian Peninsula, "Accuratissima et Maxima Totius Turcici Imperii Tabula", [has the word "Olim"](https://github.com/faenrandir/a_careful_examination/raw/94faa49f147c2ae8137c58e111ee400bdac490e2/documents/book_of_abraham/olishem/Accuratissima_et_Maxima_Totius_Turcici_Imperii_Tabula.png) right in the middle of the top part of the peninsula roughly where we'd expect the plains of Olishem to be located.  Adjacent to the word "Olim" is written "Meschel Ocem" which could have easily provided the 'sh' sound for "Olishem".
+Another old map of the Arabian Peninsula, "Accuratissima et Maxima Totius Turcici Imperii Tabula", [has the word "Olim"]({{ "/documents/book_of_abraham/olishem/Accuratissima_et_Maxima_Totius_Turcici_Imperii_Tabula.png" | relative_url }}) right in the middle of the top part of the peninsula roughly where we'd expect the plains of Olishem to be located.  Adjacent to the word "Olim" is written "Meschel Ocem" which could have easily provided the 'sh' sound for "Olishem".
 
     Olim + "sh" sound from "Meschel Ocem" => Olishem
 

@@ -15,7 +15,7 @@ Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley 
 
 ### Background
 
-Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf), propositioned for marriage by Brigham Young.
+Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842]({{ "/documents/polygamy/denials/brotherton-affidavit.pdf" | relative_url }}), propositioned for marriage by Brigham Young.
 
 The affidavit laid out the series of events leading up to and comprising the
 proposition.  The following key points are made:
@@ -49,11 +49,11 @@ Of the marriages, Emily said, “neither of us knew about the other at the time,
 
 Sometime after the proposition event, a rumor began circulating that Martha had been "shut in a room for several days" and that "[various brethren of the 12] had endeavored to induce her to believe in having two wives...".
 
-Joseph Smith would [denounce the rumors](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf):
+Joseph Smith would [denounce the rumors]({{ "/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf" | relative_url }}):
 
 > Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for *there is no person that is acquainted with our principles would believe such lies*, except Sharp the editor of the “Warsaw Signal.”
 
-With the help of John C. Bennett (initiated by him?), Martha prepared [an affidavit which would be published in a number of newspapers](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf).  Although the affidavit was prepared with the help of John C. Bennett, it seems to have been a truthful telling, [at least in contour](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/)[^hales]
+With the help of John C. Bennett (initiated by him?), Martha prepared [an affidavit which would be published in a number of newspapers]({{ "/documents/polygamy/denials/brotherton-affidavit.pdf" | relative_url }}).  Although the affidavit was prepared with the help of John C. Bennett, it seems to have been a truthful telling, [at least in contour](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/)[^hales]
 
 ### The Character Assasination
 
@@ -65,7 +65,7 @@ With the help of John C. Bennett (initiated by him?), Martha prepared [an affida
 
 #### Elizabeth Brotherton
 
-To counteract the material that would be published in Bennet's Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered [and published](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/12e1a31745c0bc3f2d45f0b53ca7d5e5f813d9fb/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf).
+To counteract the material that would be published in Bennet's Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered [and published]({{ "/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf" | relative_url }}).
 
 Among those whose testimony was enlisted to besmirch Martha's character was Elizabeth Brotherton.  Elizabeth would sign her name to the testimony of John McIlwrick, husband of Martha and Elizabeth's other sister, Mary (emphasis added):
 
@@ -83,7 +83,7 @@ As mentioned, Smith denounced the rumours and then was responsible for the sprea
 
 #### Brigham Young
 
-Brigham Young would testify in [the affidavits against Bennett](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/12e1a31745c0bc3f2d45f0b53ca7d5e5f813d9fb/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf) (emphasis added):
+Brigham Young would testify in [the affidavits against Bennett]({{ "/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf" | relative_url }}) (emphasis added):
 
 > I do hereby testify that the affidavit of Miss Martha Brotherton that is going the rounds in the political and religious papers, **is a base falsehood, with regard to any private intercourse or unlawful conduct or conversation with me**.
 
@@ -93,4 +93,4 @@ Brigham Young would testify in [the affidavits against Bennett](https://docs.goo
 
 I'm unaware of anyone ever apologizing to Martha Brotherton.
 
-[^hales]: Hales indicated that at least the general contours of the affidavit were believable since it was consistent with the proposition pattern that would emerge.  In another communication he indicated that we don't know how much of Brotherton's affidavit is accurate (which seems fair to say) but [he did not respond for clarification](https://github.com/faenrandir/a_careful_examination/blob/12e1a31745c0bc3f2d45f0b53ca7d5e5f813d9fb/communications/discussion-on-believing-women.md) on _how_ Martha's affidavit may have been inaccurate.  In general, Martha's affidavit exhibits a level of restraint and lack of embellishment that is not consistent with much of the rest of Bennett's work, so I also think we have little reason to doubt the basic outline of the story.  Regardless, the main point of her affidavit was that she was propositioned to take part in a polygamous marriage, and there is little reason to doubt that this actually occurred.
+[^hales]: Hales indicated that at least the general contours of the affidavit were believable since it was consistent with the proposition pattern that would emerge.  In another communication he indicated that we don't know how much of Brotherton's affidavit is accurate (which seems fair to say) but [he did not respond for clarification]({{ "/response-to-smoot-believing-women/" | relative_url }}) on _how_ Martha's affidavit may have been inaccurate.  In general, Martha's affidavit exhibits a level of restraint and lack of embellishment that is not consistent with much of the rest of Bennett's work, so I also think we have little reason to doubt the basic outline of the story.  Regardless, the main point of her affidavit was that she was propositioned to take part in a polygamous marriage, and there is little reason to doubt that this actually occurred.

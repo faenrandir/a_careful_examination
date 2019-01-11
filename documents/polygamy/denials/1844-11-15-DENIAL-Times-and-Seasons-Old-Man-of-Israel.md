@@ -7,9 +7,9 @@ layout: page
 ---
 
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 21.
-* [pg 715 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/f95a370b57ae8530ffc8891104bf944bf0edbfeb/documents/polygamy/denials/originals/1844-11-15-Times-and-Seasons-Old-Man-of-Israel.pdf)
+* [pg 715 (standalone PDF)]({{ "/documents/polygamy/denials/originals/1844-11-15-Times-and-Seasons-Old-Man-of-Israel.pdf" | relative_url }})
 
-Note that on [pg. 711](https://raw.githubusercontent.com/faenrandir/a_careful_examination/f95a370b57ae8530ffc8891104bf944bf0edbfeb/documents/polygamy/denials/originals/1844-11-15-Times-and-Seasons-genuine-pg711.png), John Taylor, editor of the Times and Seasons, certifies the letter from the Old Man of Israel:
+Note that on [pg. 711]({{ "/documents/polygamy/denials/originals/1844-11-15-Times-and-Seasons-genuine-pg711.png" | relative_url }}), John Taylor, editor of the Times and Seasons, certifies the letter from the Old Man of Israel:
 
 > For the communication of an "Old man of Israel," and the letter of Elder Addison Pratt from the islands of the Pacific Ocean, we bespeak a hearty welcome.  They are genuine.
 
