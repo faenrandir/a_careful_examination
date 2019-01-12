@@ -119,7 +119,7 @@ If Oliver were duped, then we would not expect him to deny his testimony, even i
 
 > Another candidate for authorship of the Book of Mormon was Sidney Rigdon. He was a Protestant minister and theologian. The supreme irony of this argument, however, is that he was converted by the very book he was supposed to have written. Parley P. Pratt, a former member of Rigdon’s congregation, introduced him to the Book of Mormon in October 1830—about six months after the Book of Mormon had already been published.
 
-Were Rigdon and Smith conspiring together to produce the BoM it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to avoid being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the BoM before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21), so this still seems to still be a model worth considering.
+Were Rigdon and Smith conspiring together to produce the BoM it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to avoid being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the BoM before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21), so this still seems to be a model worth considering.
 
 > Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.[9]
 
@@ -281,7 +281,7 @@ The fact that Joseph referred to View of the Hebrews in 1842 merely confirms tha
 
 Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was published originally in eight volumes between 1810 and 1826 and was "extensively circulated".  BYU Scholars recently concluded that [Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation](http://jur.byu.edu/?p=21296) (aka, the JST).  Let's ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
 
-> • Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning Clarke's Commentary before working on the JST? **[No](http://www.josephsmithpapers.org/search?query=Clarke&sort=relevance&page=1&perpage=50&startdate=&enddate=&transcripts=false&issuggestion=false&types=documents-papers|documents-papers-documents|documents-papers-administrative|documents-papers-legal|documents-papers-histories|documents-papers-journals|related-materials|biographical-directory|geographical-directory|glossary|event)**.
+> • Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning Clarke's Commentary before working on the JST? **[No](http://www.josephsmithpapers.org/search?query=Clarke&sort=relevance&page=1&perpage=50&startdate=&enddate=&transcripts=false&issuggestion=false&types=documents-papers%7Cdocuments-papers-documents%7Cdocuments-papers-administrative%7Cdocuments-papers-legal%7Cdocuments-papers-histories%7Cdocuments-papers-journals%7Crelated-materials%7Cbiographical-directory%7Cgeographical-directory%7Cglossary%7Cevent)**.
 
 > • Is there any evidence he visited the libraries where Clarke's commentary was supposedly located? **No**.
 
@@ -314,7 +314,7 @@ As noted before, were Joseph the author, he had at least four years to develop s
 
 > ... and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30]
 
-Joseph may have hid notes in his hat, as explained [here](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/).  Alternatively, if Cowdery may have been a co-conspirator, as explained above.
+Joseph may have hid notes in his hat, as explained [here](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/).  Alternatively, Cowdery may have been a co-conspirator, as explained above.
 
 > And during it all, no one remembered him going to these libraries, bringing any such books home, ...
 
