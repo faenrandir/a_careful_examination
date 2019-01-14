@@ -49,21 +49,23 @@ Callister likely has in mind the "tight" model of translation, so this is the mo
 
 I quote Callister's devotional in full except for the omission of a few relatively small chunks of text that are mostly tangential to his primary arguments.  I also duplicate Callister's headings below to help orient the reader.
 
+To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are prefaced "[Callister-<Argument#>-<ParagraphNumber>]".  A short abbreviation is used if the section is not an argument number.  "Intro" is used for "The Book of Mormon is the Keystone of our Religion".
+
 ## "The Book of Mormon is the Keystone of our Religion"
 
-> ... Because the Book of Mormon is “the keystone of our religion,” as described by Joseph Smith, **the Church rises or falls on the truth of it.** (emphasis added)
+> [Callister-Intro-2] ... Because the Book of Mormon is “the keystone of our religion,” as described by Joseph Smith, **the Church rises or falls on the truth of it.** (emphasis added)
 
-> As a result, if the Book of Mormon can be proved to be man-made, then the Church is man-made. On the other hand, if its origin is God-given, then Joseph Smith was a prophet, and if he was a prophet, then The Church of Jesus Christ of Latter-day Saints is true. It is that simple.
+> [Callister-Intro-3] As a result, if the Book of Mormon can be proved to be man-made, then the Church is man-made. On the other hand, if its origin is God-given, then Joseph Smith was a prophet, and if he was a prophet, then The Church of Jesus Christ of Latter-day Saints is true. It is that simple.
 
 Most members and former members of the LDS Church agree on these points.[^smoot]
 
-> Once we have a foundational testimony of the Book of Mormon, then any question or challenge we confront in life, however difficult it may seem, can be approached with faith, not doubt. Why? Because the keystone of our religion—the Book of Mormon and its witness of Jesus Christ—has also become the keystone of our testimony, which keystone holds our testimony securely in place.
+> [Callister-Intro-4] Once we have a foundational testimony of the Book of Mormon, then any question or challenge we confront in life, however difficult it may seem, can be approached with faith, not doubt. Why? Because the keystone of our religion—the Book of Mormon and its witness of Jesus Christ—has also become the keystone of our testimony, which keystone holds our testimony securely in place.
 
 Although other kinds of supernatural scenarios *could* account for the transmission of the Book of Mormon from an ancient source, it seems fairly reasonable to conclude that if the ancient model is correct, then the Book of Mormon is from God and some form of Mormonism is divinely inspired.
 
 Still, because other faiths (e.g., [FLDS](https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints), [AUB](https://en.wikipedia.org/wiki/Apostolic_United_Brethren)) also hold the Book of Mormon to be the word of God, belief in the Book of Mormon alone does [not seem sufficient to resolve questions of authority](https://www.academia.edu/2971395/Mormonism_and_the_Problem_of_Heterodoxy), for instance.
 
-> Thus the Book of Mormon has become the focal point of attack by many of our critics: disprove the Book of Mormon and you disprove the Church and undermine testimonies.
+> [Callister:Intro:5] Thus the Book of Mormon has become the focal point of attack by many of our critics: disprove the Book of Mormon and you disprove the Church and undermine testimonies.
 
 Although Callister paints work by scholars to support the modern origin theory and demonstrate flaws or contradictions in the ancient model an "attack", if a person genuinely believes that the data best support the modern origin model, then it does seem reasonable to follow after Orson Pratt:
 
@@ -71,35 +73,37 @@ Although Callister paints work by scholars to support the modern origin theory a
 
 Hence, many of those who research, discuss, and weigh these models---even if they do not subscribe to the ancient origin model---view such research, discussions, and publication an act of good-will.
 
-> But this [disproving the historical Book of Mormon] is no easy task---in fact, it is impossible, because the Book of Mormon is true.
+> [Callister:Intro:6a] But this [disproving the historical Book of Mormon] is no easy task---in fact, it is impossible, because the Book of Mormon is true.
 
 Callister is about to present evidence to bolster confidence in the BoM, but this kind of statement suggests that he began his investigation with a firm conclusion already in mind---"impossible" seems to suggest that no data or evidence could persuade him otherwise.  However, what if the modern origin model is well-supported and can explain all or most of the data?  Would such an attitude close a person off to fairly evaluating another model?
 
-> Eleven witnesses, in addition to Joseph Smith, saw the gold plates
+> [Callister:Intro:6b] Eleven witnesses, in addition to Joseph Smith, saw the gold plates
 
 The witnesses and the two statements included in the BoM are not without substantial credibility problems (see [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf) and [here](http://www.mormonthink.com/witnessesweb.htm)).
 
-> millions of believers have testified of its truthfulness, 
+> [Callister:Intro:6c] millions of believers have testified of its truthfulness, 
 
 Billions will testify of the truthfulness of the Quran.  Millions will testify of the truthfulness of Ellen White's revelations, millions the truthfulness of Dianetics, and there are many devout followers ready to swear by [many other holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) (also consider [these video testimonies](https://www.youtube.com/watch?v=l3EfXz5VzR8)). 
 
-> and the book is readily available for examination
+> [Callister:Intro:6d] and the book is readily available for examination
 
 Of course, almost all religious books (such as those mentioned above) are readily available for examination.  Still, we note that the Golden Plates, which could far more definitively settle issues of historical provenance,[^settling_provenance] are unavailable for examination.
 
-> Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.
+> [Callister:Intro:6e] Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.
 
 What follows are a few alternatives which are consistent with much of the historical data.  After considering these alternative points of view, the reader is then equipped to decide which model, modern or ancient, fits the data best.
 
 ## Argument 1: Joseph Smith, Alleged to be an Ignorant Man, Wrote The Book Of Mormon
 
+> [Callister:Arg1:1–4] ...
+
 As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the JSCI model: Joseph was a [fairly educated, religiously and scripturally proficient young man](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  The JSCI model will be considered in greater detail along with argument #5 below.
 
 ## Argument 2: Someone else wrote it
 
-> Accordingly, some critics proposed the theory that Joseph Smith conspired with someone who had the education, intelligence, and skills to write the Book of Mormon.[6] One candidate for its authorship was Oliver Cowdery. After all, he was a schoolteacher, a scribe, and later a lawyer. But a major problem arose for the critics: Oliver never claimed to have written any portion of the book; in fact, he testified to the contrary:
+> [Callister:Arg2:1] Accordingly, some critics proposed the theory that Joseph Smith conspired with someone who had the education, intelligence, and skills to write the Book of Mormon.[6] One candidate for its authorship was Oliver Cowdery. After all, he was a schoolteacher, a scribe, and later a lawyer. But a major problem arose for the critics: Oliver never claimed to have written any portion of the book; in fact, he testified to the contrary:
 
-> I wrote, with my own pen, the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet Joseph Smith, as he translated it by the gift and power of God. ... That book is true.[7]
+>> [Callister:Arg2:2] [Quoting Cowdery] I wrote, with my own pen, the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet Joseph Smith, as he translated it by the gift and power of God. ... That book is true.[7]
 
 Callister's first argument is problematic: if Oliver Cowdery were a conspirator, then we would expect him to lie about Joseph's abilities, but if he were one of those fooled during the production of the book, then he would testify that it was true.  So, Cowdery's testimony is not difficult to reconcile with the modern origin hypothesis and is no strong evidence, by itself, for the ancient origin model.
 
@@ -113,15 +117,15 @@ Finally, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mo
 
 Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/)), then we would expect him to testify of the truthfulness of the book, not realizing that he had been fooled.
 
-> Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]
+> [Callister:Arg2:3] Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]
 
 If Oliver were duped, then we would not expect him to deny his testimony, even if he were excommunicated.  On the other hand, if it were a conspiracy, then blowing the whistle on the whole thing would also undermine his own credibility (i.e., he had been part of a conspiracy for many years) and arguably a person has much more to lose in blowing the whistle than they would have to gain.  So, perhaps this argument underestimates the cost to a whistleblower who is in on a conspiracy?
 
-> Another candidate for authorship of the Book of Mormon was Sidney Rigdon. He was a Protestant minister and theologian. The supreme irony of this argument, however, is that he was converted by the very book he was supposed to have written. Parley P. Pratt, a former member of Rigdon’s congregation, introduced him to the Book of Mormon in October 1830—about six months after the Book of Mormon had already been published.
+> [Callister:Arg2:4a] Another candidate for authorship of the Book of Mormon was Sidney Rigdon. He was a Protestant minister and theologian. The supreme irony of this argument, however, is that he was converted by the very book he was supposed to have written. Parley P. Pratt, a former member of Rigdon’s congregation, introduced him to the Book of Mormon in October 1830—about six months after the Book of Mormon had already been published.
 
 Were Rigdon and Smith conspiring together to produce the BoM it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to avoid being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the BoM before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21), so this still seems to be a model worth considering.
 
-> Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.[9]
+> [Callister:Arg2:4b] Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.[9]
 
 To be clear, only one of the several modern origin models necessitates Rigdon as co-author.  Still, it seems worth examining the evidence Callister presents that argues against Rigdon's participation.  Footnote nine points to an interview of Emma Smith by her son Joseph Smith III where she states that the Book of Mormon had already been published "some time before" she knew Sidney Rigdon or had heard of him.  Is there any reason to doubt her testimony?
 
@@ -131,23 +135,23 @@ In that very same interview, her "last testimony", Emma emphatically [denies tha
 
 The other option is that Emma was being fooled during the translation process by her husband.  Could Joseph have been fooling Emma, too, on the translation of the BoM?  The historical record indicates that at least on some matters Joseph had no problem keeping things from Emma.  [The Nauvoo polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, if the Partridge sisters testimony can be believed, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  Either Joseph completely hid the sealings from Emma, or if the Partridge sisters' testimony is correct, then Joseph was not above performing an elaborate ritual for the purposes of deliberately deceiving his wife.  By any estimation, Joseph was not being up-front with Emma about his sealings/marriages, so it is reasonable to be suspicious of her level of knowledge with the creation of the Book of Mormon, also.
 
-> First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:
+> [Callister:Arg2:5] First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:
 
-> I saw them hand [my father] the book, and I am as positive as can be that he never saw it before. He read it and examined it for about an hour and then threw it down and said he did not believe a word in it.[10]
+>> [Callister:Arg2:6] [Quoting Rigdon's daughter] I saw them hand [my father] the book, and I am as positive as can be that he never saw it before. He read it and examined it for about an hour and then threw it down and said he did not believe a word in it.[10]
 
-> Later, however, he did accept the Book of Mormon, joined the Church, and became one of its leaders.
+> [Callister:Arg2:7] Later, however, he did accept the Book of Mormon, joined the Church, and became one of its leaders.
 
 If Rigdon were co-conspiring with Joseph, how would his daughter know what manuscripts Rigdon was reading or working on?  First off, she would have been 6 or 7 during the manuscript creation process, and secondly, the manuscript would not have been bound in book form.  How many 6 or 7 year olds would know the provenance of unmarked documents their preacher father is reading or writing?  Thirdly, if Rigdon were willing to co-conspire to create the BoM, then it makes sense that he would have wanted to misdirect those around him into thinking he was encountering the book for the first time when it was presented to him.
 
-> Second, Sidney Rigdon’s son John spoke to his father as he lay on his deathbed: “[Father], you owe it to me and to your family to tell [the truth about the Book of Mormon].”
+> [Callister:Arg2:7] Second, Sidney Rigdon’s son John spoke to his father as he lay on his deathbed: “[Father], you owe it to me and to your family to tell [the truth about the Book of Mormon].”
 
-> In other words, this is the day of reckoning; be totally honest before you go to the judgment bar.
+> [Callister:Arg2:8] In other words, this is the day of reckoning; be totally honest before you go to the judgment bar.
 
-> The son then recounted his father’s response: “My father looked at me a moment, raised his hand above his head and slowly said, with tears glistening in his eyes: ‘My son, I can swear before high heaven that what I have told you about the origin of that book is true.’”
+> [Callister:Arg2:9] The son then recounted his father’s response: “My father looked at me a moment, raised his hand above his head and slowly said, with tears glistening in his eyes: ‘My son, I can swear before high heaven that what I have told you about the origin of that book is true.’”
 
-> After this tender moment, the son said, “I believed him.”[11]
+> [Callister:Arg2:10] After this tender moment, the son said, “I believed him.”[11]
 
-> Later, John joined the Church, and thus another argument fell by the wayside.
+> [Callister:Arg2:11] Later, John joined the Church, and thus another argument fell by the wayside.
 
 This statement must be balanced by the fact that [Ridgon instructed his wife to burn all of his writings upon his death](http://www.mormonthink.com/mormonstudiesrigdon.htm#34).  If Rigdon had nothing to hide, then why have his writings all burned?  Also, a co-conspirator stands to lose much by admitting to being part of a significant conspiracy, even on their death-bed (we are creatures who seek meaning, so admitting to a lie on one's deathbed would be a horrible way to undermine the meaning of one's life).
 
@@ -322,9 +326,9 @@ As discussed with the Adam Clarke commentary, it is clearly possible for sources
 
 Regarless, as we have already demonstrated [link to it!]:
 
-1. Palmyra was rich in books.
-1. Joseph Smith lived in an educationally and religiously rich environment.
-1. Potential co-authors were also well-equipped with the kind of exposure necessary to write such a book.
+1. Palmyra was [rich in books](https://faenrandir.github.io/a_careful_examination/palmyra-was-rich-in-books/).
+1. Joseph Smith lived in [an educationally and religiously rich environment](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).
+1. Potential co-authors were also well-equipped with the kind of exposure necessary to write such a book (see above).
 
 So, exposure to such material (e.g., [John Smith lectures](https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/)) may note have been noteworthy in such an environment.
 
@@ -346,7 +350,7 @@ Finally, there is ample evidence to demonstrate that the Book of Mormon came fro
 
 > Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?
 
-It has been demonstrated that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/596260f90433378fc4015baa98db3252fd5f6df8/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  My responses to specific doctrines Callister advances will also help to demonstrate this.
+We can demonstrate that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/596260f90433378fc4015baa98db3252fd5f6df8/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  Specific responses to the doctrines Callister advances below will help to demonstrate how easily these supposedly unique doctrines may find representation int the early 1800s cultural milieu.
 
 [[???? include this ???? ]] I will also mention ways in which these doctrines fail to approximate the kind of doctrine we'd expect ancient Israelites to be thinking about and how they fail to anticipate the ubiquitous conversations that would begin taking place within the next few decades after the BoM was published.  Collectively, these three together (1. parallel to early 1800s thought, 2. poor approximation of ancient Israelite thought, and 3. absence of awareness of upcoming conversations of huge import) make a strong case that the book was the product of an early 1800s mind and not ancient Israelites peering into the world at the end of the 2nd millenium.
 
@@ -578,6 +582,19 @@ Royal Skousen also notes a number of other doctrines that spoke especially to co
 I think I've responded to these (point to specific arguments above).
 
 The Emma quote ignores several possibilities: Emma was duped (Joseph Smith with hat or with collaborators).  Emma lying (easy to suggest since appears to be lying about polygamy)
+
+### Comparing models
+
+What is the significance of the presence of so many parallels to [the culture and theology of the early 1800s](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/)?
+
+Did God merely influence the religious community with the kinds of ideas that would come forth in the Book of Mormon, perhaps to prepare the way before it?  Was Joseph merely expressing ancient ideas in the language of modernity?
+
+To some extent we cannot easily distinguish between these models.  However,
+certain data points _strongly_ suggest that Joseph was merely borrowing from
+the culture of his time.
+
+[pull/revamp that comment that Fuzzy linked to]
+
 
 ## A Parable That Counters The Arguments Proposed By Critics
 
