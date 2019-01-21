@@ -26,7 +26,12 @@ Ugo Perego, a believing LDS member, current institute director, and the foremost
 
 [Ugo Perego: DNA and the Book of Mormon](https://vimeo.com/202998094) (Start at 1:24:00 and pay particular attention at 1:33:00)
 
+## FairMormon argues against haplogroup X2a
+
+[Question: Is DNA Haplogroup X2a proof that the Book of Mormon fits best in a geography located in the Great Lakes region?](https://www.fairmormon.org/answers/Question:_Is_DNA_Haplogroup_X2a_proof_that_the_Book_of_Mormon_fits_best_in_a_geography_located_in_the_Great_Lakes_region%3F)
+
+> ... While interesting, at present it does not seem that haplogroup X can serve as good evidence of the Book of Mormon's antiquity given the problems of dating and the failure of the model to come to grips with textual issues from the Book of Mormon. Doing so would require us to misrepresent the current state of scientific evidence. This claim also fails to interact responsibly with a fairly large body of literature which has led most LDS scholars to reject the Great Lakes region as a feasible match to the Book of Mormon's requirements. ...
+
 ## See Also
 
 [Rodney Meldrum's Haplogroup X Debunked](https://www.youtube.com/watch?v=FUBQeAf6Lbc) (youtube video summary by The Mormon Informant)
-
