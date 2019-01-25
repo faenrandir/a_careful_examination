@@ -5,18 +5,11 @@ doctype: response
 layout: page
 ---
 
-*A response to [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/) by Tad R. Callister, given as a BYU devotional Nov. 1, 2016.*
----
-
 [still in rough draft form; needs to be completed]
 
 ## Introduction
 
-[better intro]
-
-On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/).  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion---including 37 footnotes, often with detail---various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.
-
-In October of 2017, Callister delivered a conference address, [God’s Compelling Witness: The Book of Mormon](https://www.lds.org/general-conference/2017/10/gods-compelling-witness-the-book-of-mormon?lang=eng) which was mostly an abridgement of the arguments presented in his 2016 Devotional.
+On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion[^37footnotes] various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.[^followedupwithgctalk]
 
 Although some responses were made to his conference address, and some responses have addressed portions of his devotional, none have yet responded to his Devotional address in full.  Given that Callister carefully and emphatically lays out a case in defense of the orthodox LDS position, and given his status as a general officer of the Church and the forum where the address was delivered, it seems appropriate to offer up a detailed counter-response.
 
@@ -25,7 +18,7 @@ Although some responses were made to his conference address, and some responses 
 In discussing Callister's talk, I will primarily be comparing two models: 
 
 * The **modern origin model** suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
-    * Joseph Smith was primarily responsible for the creation of the text (Brodie) with perhaps some help from Oliver (Metcalfe). I will refer to this as the "Joseph Smith composed it" (JSCI) model.
+    * Joseph Smith was primarily responsible for the creation of the text (Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), and Brent Metcalfe[^metcalfejsci]). I will refer to this as the "Joseph Smith composed it" (JSCI) model.
     * Some other group of people were responsible (e.g., Lucy Mack, Joseph Smith Sr., and Hyrum Smith, or Oliver Cowdery, and Sidney Rigdon).  I will refer to this as the "others mainly composed it" (OMCI) model.  Joseph may have helped or played a role in dictation, but others were primarily responsible for the content.
 * The **ancient origin model** (AKA **divine intervention model**) suggests that Joseph Smith was able to convey the meaning of an ancient American source into English.  And, if ancient information were somehow being transmitted through Smith, then this strongly implies supernatural intervention since nobody knew ancient American languages at the time.  Four main theories have been advanced for the translation:
     * An **ironclad** translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  Some witness accounts seem to support this model, but enough data contradicts this model that few, if any, scholars support it today.
@@ -35,20 +28,13 @@ In discussing Callister's talk, I will primarily be comparing two models:
 
 The models may be arranged in order of increasing modern influence:
 
-```
-[all ancient] ============================> [all modern]
-
-ironclad -> tight -> loose -> expansionist -> modern origin model
-|_________________________________________|   |_________________|
-           "ancient origin model"              no ancient source
-    (an ancient source is transmitted)         (all ideas modern)
-```
+![models for the Book of Mormon]({{ "/communications/images/bom_origin_models.png" | relative_url }})
 
 Callister likely has in mind the "tight" model of translation, so this is the model that I have in mind, typically, when referring to the "ancient origin" or "divine intervention" model.
 
 # Response
 
-I quote Callister's devotional in full except for the omission of a few relatively small chunks of text that are mostly tangential to his primary arguments.  I also duplicate Callister's headings below to help orient the reader.
+I quote Callister's devotional in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  I also duplicate Callister's headings below to help orient the reader.
 
 To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).  
 
@@ -76,11 +62,11 @@ Hence, many of those who research, discuss, and weigh these models---even if the
 
 > [Keystone:6a] But this [disproving the historical Book of Mormon] is no easy task---in fact, it is impossible, because the Book of Mormon is true.
 
-Callister is about to present evidence to bolster confidence in the Book of Mormon, but this kind of statement suggests that he began his investigation with a firm conclusion already in mind---"impossible" seems to suggest that no data or evidence could persuade him otherwise.  However, what if the modern origin model is well-supported and can explain all or most of the data?  Would such an attitude close a person off to fairly evaluating another model?
+Callister is about to present evidence to bolster confidence in the Book of Mormon, but this kind of statement suggests that he began his investigation with a firm conclusion already in mind---"impossible" seems to suggest that no data or evidence could persuade him otherwise.  However, what if the modern origin model is well-supported and can explain all or most of the data?  Would Callister's attitude close a person off to fairly evaluating another model?
 
 > [Keystone:6b] Eleven witnesses, in addition to Joseph Smith, saw the gold plates
 
-The witnesses and the two statements included in the Book of Mormon are not without substantial credibility problems (see [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf) and [here](http://www.mormonthink.com/witnessesweb.htm)).
+Naturalist explanations for the witnesses' experiences and statements also seem consistent with the data (see [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf) and [here](http://www.mormonthink.com/witnessesweb.htm)).
 
 > [Keystone:6c] millions of believers have testified of its truthfulness, 
 
@@ -92,11 +78,11 @@ Of course, almost all religious books (such as those mentioned above) are readil
 
 > [Keystone:6e] Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.
 
-What follows are a few alternatives which are consistent with much of the historical data.  After considering these alternative points of view, the reader is then equipped to decide which model, modern or ancient, fits the data best.
+What follows are a few alternatives which are consistent with much of the historical data.  After considering these alternative points of view, the reader is then better equipped to decide which model---modern or ancient---fits the data best.
 
 ## Argument 1: Joseph Smith, Alleged to be an Ignorant Man, Wrote The Book Of Mormon
 
-> [Arg1:1–4] ...
+> [Arg1:1–4] In 1831 a clergyman named Alexander Campbell proposed that Joseph Smith wrote rather than translated the Book of Mormon ... the early critics concluded there must be some other explanation for the origin of the Book of Mormon than the unlikely possibility that Joseph wrote it.
 
 As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the JSCI model: Joseph was a [fairly educated, religiously and scripturally proficient young man](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  The JSCI model will be considered in greater detail along with argument #5 below.
 
@@ -116,7 +102,7 @@ Second, before the translation of the Book of Mormon was complete, Oliver Cowder
 
 Finally, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mormonthink.com/witnessesweb.htm#didoliver).
 
-Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/)), then we would expect him to testify of the truthfulness of the book, not realizing that he had been fooled.
+Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/), or Joseph generating the text ad hoc), then we would expect him to testify of the truthfulness of the book, not realizing that he had been fooled.
 
 > [Arg2:3] Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]
 
@@ -724,3 +710,8 @@ discuss issues with moroni's promise and epistemology generally.
     > Latter-day Saints sometimes brush such criticism aside [that "scholarly consensus for more than a century has attributed (Isa. 40--55) to the time of the Exile or even later"], asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
 
 
+[^37footnotes]: Callister's devotional was published with 37 footnotes, some of which are fairly extensive.
+
+[^followedupwithgctalk]: Callister followed up his devotion with an October 2017 conference address, [God’s Compelling Witness: The Book of Mormon](https://www.lds.org/general-conference/2017/10/gods-compelling-witness-the-book-of-mormon?lang=eng) which was mostly an abridgement of the arguments presented in his 2016 Devotional.
+
+[^metcalfejsci]: Brent defended the idea that Joseph Smith was the primary author of the Book of Mormon in a private Mormon Historians facebook group in comments to a post from June 27, 2018.  In regards to the idea that Joseph was reading from a manuscript, Brent wrote: "This is unnecessary speculation ... [Joseph Smith] was a creative sould and gifted storyteller" and a later comment "There is strong evidence that JS et al. were reading the BoMor manuscript during the dictation (e.g., Oliver Cowdery issued a revelation in June 1829 that heavily borrows from the BoMor text)... such readings would account for both the consistencies and discontinuities."
