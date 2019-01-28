@@ -1,5 +1,5 @@
 ---
-title: "'God made them that way': It is blasphemy"
+title: "\"'God made them that way'—It is blasphemy\" LDS Statements on the causes and cure for homosexuality"
 permalink: /lds-statements-on-cause-and-cure-for-homosexuality/
 doctype: short-analysis
 maintopic: lgbt
