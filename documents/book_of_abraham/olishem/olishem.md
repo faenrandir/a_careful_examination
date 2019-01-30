@@ -5,6 +5,8 @@ doctype: short-analysis
 layout: page
 ---
 
+[still in draft form]
+
 ### Introduction
 
 The [Ebla tablets](https://en.wikipedia.org/wiki/Ebla_tablets) contain an inscription boasting that the ruler Naram-Sin had slain the cities Arman and Ibla and from the Euphrates river to an "Ulisim" (alternatively Ulišim, Ulisum, Ulisu, or Ullis) (see [here pg 76 Col. II](http://www.etana.org/sites/default/files/coretexts/20361.pdf).  The ancient city or land referred to, Ulisim, [may correspond to new ruins found at Oylum Höyük](http://www.hurriyetdailynews.com/prophet-abrahams-lost-city-found-in-turkeys-kilis-52591).

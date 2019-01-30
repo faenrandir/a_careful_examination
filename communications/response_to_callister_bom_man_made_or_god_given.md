@@ -98,7 +98,7 @@ The possibility that Cowdery was a co-conspirator must be given real considerati
 
 First, Cowdery appears to have used the same kind of story of translation as Joseph used and not the mechanism that other witnesses observed.  Several third party observers, including Emma, are adamant that Joseph used his seer-stone in a hat as the primary translation method ([employed for nearly the entirety of the Book of Mormon as it exists today](https://www.lds.org/topics/book-of-mormon-translation?lang=eng)), but Cowdery always uses the same phrases as Joseph did and never mentions the seer stone or the hat.  [For instance](https://www.lds.org/topics/book-of-mormon-translation?lang=eng#21), Cowdery testified under oath in 1831 that he "found with the plates, from which he translated his book, two transparent stones, resembling glass, set in silver bows. That by looking through these, he was able to read in English, the reformed Egyptian characters, which were engraved on the plates." And in an interview in 1830 that the translation was performed with "two transparent stones in the form of spectacles thro which the translator looked on the engraving." (See [Welch](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) for other examples of Cowdery's testimony).
 
-Second, before the translation of the Book of Mormon was complete, Oliver Cowdery [received a revelation](https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1#foot-notes) which contained verbiage from the Book of Mormon (see [footnotes](https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1#foot-notes)).  From the naturalist perspective, this argues that he was quite familiar with the manuscript of the Book of Mormon, even before its completion, and hence argues for possible collaboration in its creation (beyond that of mere scribe).
+Second, before the translation of the Book of Mormon was complete, Oliver Cowdery [received a revelation](https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1#foot-notes) which contained verbiage from the Book of Mormon (see [footnotes](https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1#foot-notes)).  From the naturalist perspective, this argues that he was quite familiar with the manuscript of the Book of Mormon, even before its completion, and hence argues for *possible* collaboration in its creation (beyond that of mere scribe).
 
 Finally, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mormonthink.com/witnessesweb.htm#didoliver).
 
@@ -118,7 +118,7 @@ To be clear, only one of the several modern origin models necessitates Rigdon as
 
 If Rigdon were involved, two possibilities might account for her statement about Rigdon: Emma was in on the production of the Book of Mormon (a co-conspirator to some extent), or she was being fooled by Joseph Smith, too (i.e., he kept his association with Rigdon hidden from her until after publication).  Some support for either option comes from the very interview Callister cites.
 
-In that very same interview, her "last testimony", Emma emphatically [denies that Joseph Smith practiced polygamy](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), but the data strongly suggest that she did, in fact, know about his polygamy.[^emma_lied_about_polygamy]  Emma may have felt pressure to sustain the narrative that was supporting her son and her livelihood, to some extent.  In any event, if she was willing to lie about polygamy, then we must also be skeptical of other statements delivered in the exact same context.
+In that very same interview, her "last testimony", Emma emphatically [denies that Joseph Smith practiced polygamy](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), but the data strongly suggest that she did, in fact, know about his polygamy.[^emma_lied_about_polygamy]  Emma may have felt pressure to sustain the narrative that was supporting her son and her livelihood, to some extent.  In any event, if she was willing to lie about polygamy, then that is some reason to be skeptical of other statements delivered in the same context.
 
 The other option is that Emma was being fooled during the translation process by her husband.  Could Joseph have been fooling Emma, too, on the translation of the Book of Mormon?  The historical record indicates that at least on some matters Joseph had no problem keeping things from Emma.  [The Nauvoo polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, if the Partridge sisters testimony can be believed, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  Either Joseph completely hid the sealings from Emma, or if the Partridge sisters' testimony is correct, then Joseph was not above performing an elaborate ritual for the purposes of deliberately deceiving his wife.  By any estimation, Joseph was not being up-front with Emma about his sealings/marriages, so it is reasonable to be suspicious of her level of knowledge with the creation of the Book of Mormon, also.
 
@@ -182,7 +182,7 @@ Manuscript Story probably [did not correspond with "Manuscript Found"](https://e
 
 > [Arg3:4] With the demise of this argument, critics alleged that the supposed source for the Book of Mormon was another book titled View of the Hebrews, written by Ethan Smith in 1823. This book was an attempt to prove that the Native Americans were descendants of the lost ten tribes of Israel.[15] In essence, the critics claimed that this was the historical basis for the Book of Mormon.
 
-> [Arg3:5] There is a simple test to determine if the Book of Mormon was copied from View of the Hebrews: simply compare the two books and decide for yourself.
+> [Arg3:5a] There is a simple test to determine if the Book of Mormon was copied from View of the Hebrews: simply compare the two books and decide for yourself.
 
 I'm unware of any scholar who has ever argued that the Book of Mormon was "copied from" the View of the Hebrews (VOH), even though most believe the similarities in certain themes are self-evident.
 
@@ -192,13 +192,13 @@ You can access the book online [here](https://archive.org/stream/viewhebrewsexhi
 
 Callister goes on:
 
-> With complete academic honesty, B. H. Roberts, one of the leading scholars of the Church, listed some possible parallels[16] between the two books,
+> [Arg3:5b] With complete academic honesty, B. H. Roberts, one of the leading scholars of the Church, listed some possible parallels[16] between the two books,
 
 It is interesting that Callister points out Roberts' "complete academic honesty" when the book containing these parallels, [Studies of the Book of Mormon](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon), was commissioned by the First Presidency for internal consumption only.  Were complete academic honesty a prime consideration for LDS leaders in general, then perhaps the LDS Church would have not waited for over 60 years to publish Roberts' work, and when they released it they would have also made his work easily accessible.  As it stands, his [Studies of the Book of Mormon](http://www.signaturebooks.com/product/studies-of-the-book-of-mormon/) is only available in a publication by Signature Books (a clearinghouse known for its critical stance).  Why prevent Latter-day Saints from accessing his academically honest work for so long, and why make his research so difficult for the average LDS reader to happen upon?
 
-> but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”[17] Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”[18]
+> [Arg3:5c] but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”[17] Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”[18]
 
-The fact that Roberts' testimony must be defended is, perhaps, worth commenting on.  The historical record is clear that at least on some level Roberts struggled with the implications of his studies into potential criticism of the Book of Mormon (see Brigham Madsen's work [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V30N03_97.pdf) and [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_87.pdf)).  Roberts' studies were performed in the 1920s and only scratch the surface of the total scholarship available today which far more convincingly argues for the modern origin theory (see XXXXXXXXXXXXXXX).  If Roberts testimony was shaken then (even if only for a time), how much more devastating to belief in the ancient model would unbiased investigation result in today?  In any event, Callister and I both agree that a person should handle the primary evidence themselves in order to help them ascertain the potential authenticity of the Book of Mormon.
+The fact that Roberts' testimony must be defended is, perhaps, worth commenting on.  The historical record is clear that at least on some level Roberts struggled with the implications of his studies into potential criticism of the Book of Mormon (see Brigham Madsen's work [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V30N03_97.pdf) and [here](http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_87.pdf)).  Roberts' studies were performed in the 1920s and only scratch the surface of the [total scholarship available today](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/) which far more convincingly argues for the modern origin theory.  If Roberts testimony was shaken then (even if only for a time), how much more devastating to belief in the ancient model would unbiased investigation result in today?  In any event, Callister and I both agree that a person should handle the primary evidence themselves in order to help them ascertain the potential authenticity of the Book of Mormon.
 
 > [Arg3:6a] I too have read View of the Hebrews and the Book of Mormon. Suffice it to say, these two books have totally different objectives and writing styles. For example, the Book of Mormon’s principal focus is to testify of Jesus Christ and His doctrine. Accordingly, the historical setting is not the focus, but it is rather the background music that gives context and emphasis to the doctrine. The principal focus, however, for View of the Hebrews is to historically connect the Native Americans to the ancient Hebrews. In addition, View of the Hebrews is a series of independent quotes and purported evidences to prove its theory. On the other hand, the Book of Mormon is a cohesive narrative—a story of families and prophets who struggled to live God’s word. The purpose and style of these two books is most disparate.[19]
 
@@ -206,7 +206,7 @@ It should be self-evident from the manner in which influence spreads among works
 
 > [Arg3:6b] Any honest reader can determine that for himself.
 
-The implication here is that those who still see a potential _influence_ of View of the Hebrews in the Book of Mormon, even though they acknowledge differences in purpose of style, lack honesty.  Given [the number of similarities](https://i.redd.it/hiv3nejpu2611.png), such a conclusion seems hasty.
+The implication here is that those who still see a potential _influence_ of View of the Hebrews in the Book of Mormon, even though they acknowledge differences in purpose of style, lack honesty.  Given [the number of similarities](https://i.redd.it/hiv3nejpu2611.png), such insinuation seems hasty.
 
 ## Argument 4: Joseph Suffered From A Mental Illness
 
@@ -301,23 +301,23 @@ As Vogel demonstrated, many of these ideas *saturated* that environment.  It see
 
 > [Arg5:13b] ... winnowed out the irrelevant; organized the remainder into an intricate story involving hundreds of characters, numerous locations, and detailed war strategies; ...
 
-As noted before, were Joseph the author, he had at least four years to develop some kind of proto-manuscript.  A typical feat by human authors is to generate intricate storylines, invent characters and locations, and even war strategies.
+As noted before, were Joseph the author, he had at least four years to develop some kind of proto-manuscript.  A typical feat by human authors is to generate intricate storylines, invent characters and locations, and even war strategies.  We also know from Oliver Cowdery's revelation mentioned above that he (and Joseph) were going back and consulting the manuscript before its completion.  This can account for consistencies in the text.
 
 > [Arg5:13c] ... and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30]
 
-Joseph may have hid notes in his hat, as explained [here](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/).  Alternatively, Cowdery may have been a co-conspirator, as explained above.
+Joseph may have hid notes in his hat, as explained [here](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/).  Cowdery may have been a co-conspirator, as explained above.  Or, it is worth considering Joseph's extemporizing abilities.  We know, for instance, that he extemporaneously delivered many of the revelations in the Doctrine and Covenants.  The modern origin theory also sees Joseph extemporaneously filling in material to account for the lost 116 pages, such as Words of Mormon 1:3--9.
 
 > [Arg5:13d] And during it all, no one remembered him going to these libraries, bringing any such books home, ...
 
 As discussed with the Adam Clarke commentary, it is clearly possible for sources to be utitilized without mention.  In addition, if family members were contributors, they would have good reason to downplay such activities.
 
-Regarless, as we have already demonstrated [link to it!]:
+Regarless, as we have already demonstrated:
 
 1. Palmyra was [rich in books](https://faenrandir.github.io/a_careful_examination/palmyra-was-rich-in-books/).
 1. Joseph Smith lived in [an educationally and religiously rich environment](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).
 1. Potential co-authors were also well-equipped with the kind of exposure necessary to write such a book (see above).
 
-So, exposure to such material (e.g., [John Smith lectures](https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/)) may note have been noteworthy in such an environment.
+So, exposure to such material (e.g., [John Smith lectures](https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/)) may not have been noteworthy in such an environment.
 
 > [Arg5:13e] ... having any conversations concerning this research, ...
 
@@ -331,13 +331,15 @@ Joseph did not start writing in a diary until after the publication of the Book 
 
 Hard data is inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  For instance, very few first-hand, contemporary documents survive implicating Joseph Smith in polygamy.  Of the two documents written in Joseph Smith's hand that I am aware of, [one of them](https://www.josephsmithpapers.org/paper-summary/letter-to-the-whitneys-18-august-1842/1#full-transcript) instructs the recipient to "burn this letter as soon as you read it", suggesting that destruction of primary evidence is not inconsistent with Joseph Smith's character.
 
+We know that Joseph was capable of generating scripture ad hoc (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), but we don't necessarily expect to see a trail during the generation process.
+
 Finally, there is ample evidence to demonstrate that the Book of Mormon came from the mind of someone in the early 1800s, as will be demonstrated in the next section on doctrine.
 
 ## Where Did Joseph Get The Doctrine? ("Doctrine")
 
 > [Doctrine:1a] Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?
 
-We can demonstrate that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/596260f90433378fc4015baa98db3252fd5f6df8/documents/book_of_mormon/links_to_parallels_to_1800s_theology.pdf).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
+We can demonstrate that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
 
 > [Doctrine:1b] For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
 
@@ -345,21 +347,81 @@ The concept of felix culpa was widely taught and expressed by many Christian thi
 
 > [Doctrine:2a] Likewise, contrary to contemporary beliefs, the Book of Mormon refers to a premortal existence in Alma 13 (see Alma 13:1--11)
 
->  [Doctrine:2b] ... and to a postmortal spirit world in Alma 40 (see Alma 40:11–14). Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?
+The author of the Book of Mormon refers to the premortal existence in almost [exactly the same fashion as preachers from that time]({{ "/premortal-existence-pre-1830s/" | relative_url }}).
 
-> [Doctrine:2c] Where did he get the stunning sermon on faith in Alma 32? Or one of the greatest sermons ever recorded in all scripture on the Savior’s Atonement as delivered by King Benjamin (see Mosiah 2–5)?
+> And this is the manner after which they were ordained—being called and prepared **from the foundation of the world according to the foreknowledge of God**, on account of their exceeding faith and good works ...
 
-> [Doctrine:2d] Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies.
+>  [Doctrine:2b] ... and to a postmortal spirit world in Alma 40 (see Alma 40:11–14).
 
-> [Doctrine:2e] Are we supposed to believe that Joseph Smith just dictated these sermons off the top of his head with no notes whatsoever?
+Matthias Earbery discussed the spirit world using [very similar verbiage and reasoning as Alma 40](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/).
+
+> [Doctrine:2c] Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?
+
+As demonstrated above, the doctrines Callister points to are represented in sermons and literature of the early 1800s.  On each of these points, the Book of Mormon reads *precisely* as if it were produced from that theological milieu.
+
+> [Doctrine:2d] Where did he get the stunning sermon on faith in Alma 32?
+
+The doctrine on faith in Alma 32 appears to mostly be an extension of the parable of the sower found in Matthew 13:
+
+> [Matthew 13:6](https://www.lds.org/scriptures/nt/matt/13.6) And when the sun was up, they were scorched; and because they had no root, they withered away.
+
+> [Alma 32:38](https://www.lds.org/scriptures/bofm/alma/32.38) ... and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.
+
+And, if the sermon were of ancient origin, we are left wondering why the author of frequently quotes New Testament verses and phrases but not Old Testament verses and phrases (see [book of mormon origins project on Alma 32](https://www.bookofmormonorigins.com/content/alma/chapter_32.html)).
+
+> [Doctrine:2e] Or one of the greatest sermons ever recorded in all scripture on the Savior’s Atonement as delivered by King Benjamin (see Mosiah 2–5)?
+
+This sermon is rich with similarities to works of its time.  For instance, King Benjamin talks about actual blood coming from Jesus's pores, but that idea was common in Joseph's time (see, for instance, [A Selection of Hymns and Spiritual Songs. 1817. New York.](https://books.google.com/books?id=n1QXAAAAYAAJ&pg=PA303&dq=%22blood+from+every+pore%22&hl=en&sa=X&ved=0ahUKEwi84pTpuaDRAhWrrFQKHYwgBWkQ6AEIHDAA#v=onepage&q=%22blood%20from%20every%20pore%22&f=false)).
+
+Also, the description King Benjamin gives of Christ's suffering is similar to other works from the early 1800s.  [The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
+
+> I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that 1 might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
+
+In general, King Benjamin's speech may be viewed as [typical of revival conference speeches from the early 1800s](https://truthisrestoredagain.wordpress.com/2014/02/01/revival-sermons-in-the-book-of-mormon/).
+
+> [Doctrine:2f] Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies.
+
+The parable of the Olive Tree may be viewed primarily as an amalgamation and embellishment of Romans 11 and Isaiah 5.  Paul, in Romans 11, uses an olive tree as a metaphor and Isaiah uses a vinyard.  They are similar, but also somewhat distinct, and the slight difference is apparent in Jacob 5---in fact [the patchwork is still evident](https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/).
+
+Halfway through the parable, the Jacob 5 author shifts from a focus on *the olive tree* to a focus on *the whole vineyard* (in Jacob 5:41).  As Curt van den Heuvel has pointed out "the break appears at the same point that the Book of Mormon quotes a passage from Isaiah."  From then on, the the author of Jacob 5 "refers exclusively to the 'fruit of the vineyard', apparently forgetting that vineyards yield grapes, not olives." (source: Curt van den Heuvel, [here](http://mormonthink.com/book-of-mormon-problems.htm#Bible), and [here](https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/)).
+
+Consider other possible influences and sources discussed [here]({{ "/potential-sources-allegory-olive-tree/" | relative_url }})
+
+> [Doctrine:2g] Are we supposed to believe that Joseph Smith just dictated these sermons off the top of his head with no notes whatsoever?
+
+As discussed above, these sermons in the Book of Mormon were drawing upon ideas which were present in that cultural milieu.  And, throughout his life, Joseph demonstrated a capacity for extemporaneously delivering rich theological sermons (particularly if we assume Joseph generated the scripture found in the Doctrine and Covenants), so the fact that these occur in the Book of Mormon is consistent with the modern origin hypothesis.
 
 > [Doctrine:3] The doctrinal truths taught in the Book of Mormon are overwhelming evidence of its divine authenticity. Nephi prophesied that in our day an exceeding great many would stumble in finding the truth. Why? “Because of the many plain and precious things which have been taken out of the [Bible]” (1 Nephi 13:29). Here are but two examples of plain and precious doctrinal truths that were clarified or restored in the Book of Mormon:
 
 > [Doctrine:4] 1. Baptism. Much of the Christian world debates whether or not baptism is essential for salvation; they stumble over this issue. Let me read just one of many scriptures on this subject from the Book of Mormon: “[God] commandeth all men that they must repent, and be baptized in his name, . . . or they cannot be saved in the kingdom of God” (2 Nephi 9:23). Should there be any debate about the necessity of baptism after that scripture? The Book of Mormon makes clear that which is unclear to much of the Christian world.
 
-> [Doctrine:5] The majority of the Christian world embraces sprinkling and pouring as legitimate modes of baptism. The Savior Himself addressed this issue in the Book of Mormon: “Then shall ye immerse them in the water, and come forth again out of the water” (3 Nephi 11:26; emphasis added). What is ambiguous for many is crystal clear in the Book of Mormon. Must one be baptized by authority, or is sincerity sufficient? Do we make covenants at the time of baptism, and, if so, what are those covenants? Should infants be baptized?
+This kind of clear stance on the necessity of baptism was pronounced in many sects from that time.  Here's one example [from New York, 1825](https://books.google.com/books?id=0XhAAQAAMAAJ&pg=PA340&dq=%22must+be+baptised%22&hl=en&sa=X&ved=0ahUKEwjG1o-38ZPgAhXVHzQIHWR3AdgQ6AEIMDAB#v=onepage&q=%22must%20be%20baptised%22&f=false) (emphasis added):
+
+> Baptism is not required of any who have never heard the Gospel.  But those who hear the Gospel preached by them whom Christ has commissioned, viz: his Apostles and their successors to the end of the world, **must be baptised with water** (**unto repentance for the remission of sins**) in the name of the Father, and of the Son, and of the Holy Ghost: or they are left without excuse, as having wilfully neglected the first duty incumbent on them **as a mark of their obedience**.
+
+> [Doctrine:5a] The majority of the Christian world embraces sprinkling and pouring as legitimate modes of baptism. The Savior Himself addressed this issue in the Book of Mormon: “Then shall ye immerse them in the water, and come forth again out of the water” (3 Nephi 11:26; emphasis added). What is ambiguous for many is crystal clear in the Book of Mormon.
+
+Whether baptism required immersion was hotly debated at that time. Consider [this lengthy exchange from 1805 in Massachussetts](https://books.google.com/books?id=Fk6nv04PGRkC&dq=%22immersion%22&pg=PA19#v=onepage&q=%22immersion%22&f=false).
+
+> [Doctrine:5b] Must one be baptized by authority, or is sincerity sufficient?
+
+[ TODO ]
+
+> [Doctrine:5c] Do we make covenants at the time of baptism, 
+
+[ TODO ]
+
+> [Doctrine:5d] and, if so, what are those covenants?
+
+[ TODO ]
+
+> [Doctrine:5e] Should infants be baptized?
+
+The idea that infant baptism was an abomination was being discussed at that time.  For instance, in the introduction to [Four Sermons: On the Mode and Subjects of Christian Baptism](https://books.google.com/books?id=xFwrAAAAYAAJ&dq=Four%20Sermons%20on%20the%20Modes%20and%20Subjects%20of%20Christian%20Baptism%201811&pg=RA2-PA4#v=onepage&q=%22infant%20baptism%20is%20an%20abomination%22&f=false), published in 1811 in Utica, New York, Joseph Buckminster, a pastor in New Hampshire, wrote to defend infant baptism "at a time when it is not only said, but preached; and not only preached, but printed, that infant baptism is an abomination to the Lord..."
 
 > [Doctrine:6] Again and again the Book of Mormon comes to the rescue, giving answers and restoring many plain and precious truths about baptism that were distorted or lost during the Apostasy. How did Joseph Smith know all these answers when the rest of the Christian world was so confused? Because he received them by revelation from God as he translated the Book of Mormon.
+
+Or, perhaps the author of the Book of Mormon had opinions on the correct mode and manner of baptism, like so many religious participants of the day?
 
 > [Doctrine:7] 2. What about Christ’s Atonement—the central doctrine of all Christianity? The clarity and expansiveness of this doctrine as taught in the Book of Mormon is beyond honest dispute. The Old and New Testaments have some scattered doctrinal gems on the Atonement (which we greatly appreciate and benefit from), but the Book of Mormon has numerous sermons---entire masterpiece---on the subject.  For example:
 
@@ -408,27 +470,21 @@ In addition, [the poetry of David Hitchcock](https://archive.org/stream/poetical
     Or that his now important rank,
     Were not an everlasting blank?
 
-Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas are at some odds, and as the theory of evolution became more widespread it diverted a huge amount of theological focus from questions about the fall and infinite atonement to how to reconcile the bible with evolution (consider 
-
-compare infinite atonement, fall of Adam, with Charles Darwin, evolution, origin of species
-https://books.google.com/ngrams/graph?content=infinite+atonement%2CFall+of+Adam&case_insensitive=on&year_start=1650&year_end=2000&corpus=15&smoothing=4&share=&direct_url=t4%3B%2Cinfinite%20atonement%3B%2Cc0%3B%2Cs0%3B%3Binfinite%20atonement%3B%2Cc0%3B%3BInfinite%20atonement%3B%2Cc0%3B%3Binfinite%20Atonement%3B%2Cc0%3B%3BInfinite%20Atonement%3B%2Cc0%3B.t4%3B%2CFall%20of%20Adam%3B%2Cc0%3B%2Cs0%3B%3Bfall%20of%20Adam%3B%2Cc0%3B%3BFall%20of%20Adam%3B%2Cc0
-
-Later scientific studies would suggest the allegorical nature of the Tower of Babel and of a literal flood, yet the Book of Mormon treats these as literal events integral to the story arc.  Were the book written "for our day" we would expect Mormon at least a nod to the science that would undermine the literalness of these events.
+Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas are at some odds.
 
 > [Doctrine:8b] While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.
 
-_The idea of felix culpa was already addressed above._
+As previously discussed, the concept of felix culpa was widely taught and expressed by many Christian thinkers, [including Ambrose, Augustine, Aquinas, Wycliffe, Leibniz, and John Milton]({{ "/pre-1830-felix-cupa-fortunate-fall/" | relative_url }})
 
 > [Doctrine:9] b. 2 Nephi 9:7 introduces for the first time the phrase "an infinite atonement," revealing the expansiveness, scope, and depth of Christ’s saving power.
 
 The phrase "infinite atonement" [was at least somewhat commonplace](https://www.google.com/search?q=%22infinite+atonement%22&lr=lang_en&biw=956&bih=936&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F31%2F1830&tbm=bks) as were discussions similar to those found in the Book of Mormon on the nature of the atonement.
 
-[The blogger churchistrue explained](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/):
+[The blogger churchistrue explains](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/):
 
 > In Joseph Smith’s day, we see a very mature dialogue on Christian subjects.  We have centuries of prior debate on topics such as original sin, free agency, infinite or finite nature of sin, infinite or finite nature of sacrifice of Jesus Christ, depravity of man, predestination, irresistible grace.  This discussion came naturally, with arguments being founded in the New Testament, and then added on.  Then someone adds on that.  Then someone combines a few different theories and adds something unique to it.  This is how ideas evolve.  We can trace ideas back through time to see the progression.   The Book of Mormon is beautiful in the sense that it distills these arguments in a masterful and logical way, taking the best of what was available and adding a few original concepts.  But it’s very difficult to assert that these Book of Mormon phrases and ideas could have come anciently and independently, without the body of work of centuries of Christian theologians to build upon.
 
-Here are some good examples of the discussion occuring just previous to the Book of
-Mormon (see [here](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) for more examples):
+Here are some good examples of the discussion occuring just previous to the Book of Mormon (see [here](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) for more examples): 
 
 > The inference that you draw from my saying, that "I did not believe an **infinite atonement** necessary in order for God to be just in the pardon of sin," I think, wants propriety.  If it be my belief that the Son of God is not the eternal infinite God, still I think you have no right to declare it from any thing that I have written to you. You say, "that in order to support" my "favourite system," I "find it *necessary*."  How so?  If it require an **infinite atonement** made by an infinite God to save a part of the human family is it necessary to have a **finite atonement** by a finite person to save the whole? ([A Correspondence, by letters, between Samuel C. Loveland, Preacher of the Doctrine of Universal Salvation, and Rev. Joseph Laberee, Pastor of the Congregational Church and Society in Jerico, Vermont.  1818. Windsor, Vermont. pg 51](https://books.google.com/books?id=DmuvUwk2J1MC&pg=PA32&dq=%22infinite+atonement%22&hl=en&sa=X&ved=0ahUKEwjmx9ntr6DRAhXKzVQKHekVAE0Q6AEIIzAA#v=onepage&q=%22infinite%20atonement%22&f=false))
 
@@ -438,24 +494,31 @@ Mormon (see [here](http://www.churchistrue.com/blog/anachronistic-christian-doct
 
 >  But say the advocates of this doctrine, Jesus must be God and have made an **infinite atonement** for our sins, or our case is hopeless.  Why, what need for an **infinite atonement**?  If the sin of one man requires an infinite sacrifice, then there will be needed, just as many **infinite atonements** as there have been, or shall be sinners in the world; and just as many infinite Gods must become incarnate, and suffer in man's stead, as there will be sinners saved from infinite and endless wrath!!  Moreover if Christ have made an **infinite atonement** for the satisfaction of Divine justice, why will not all be saved?  Will God be unjust to himself?  Can he punish himself for no purpose?  O ye christians, when will ye admit the understanding God has given you, to vindicate the Divine character from such unhallowed aspersions? [A Course of Critical Lectures: Or, Systematical Theology, in Four Parts. John Samuel Thompson. 1825. Rochester, NY](https://books.google.com/books?id=BiY_AAAAYAAJ&pg=PR1&lpg=PR1&dq=course+of+critical+lectures+john+samuel+thompson&source=bl&ots=DE2bGg6o12&sig=nUZA8tSOgnGxgUMrRtPXtf_h54o&hl=en&sa=X&ved=2ahUKEwiwv7ma8oHcAhUIRa0KHYgSCmQQ6AEwAHoECAEQKg#v=onepage&q=%22infinite%20atonement%22&f=false)
 
+Callister continues:
 
 > [Doctrine:10a] c. Mosiah 2–5 is King Benjamin’s sermon. It gives insights about the depth of Christ’s suffering ...
 
-King Benjamin talks about actual blood coming from Jesus's pores, but that idea was [common in Joseph's time](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/).  Also note that the authenticity of the verses from Luke that seem to imply Jesus sweat blood is contested by many scholars (see [Blumell](http://rosetta.reltech.org/TC/v19/TC-2014-Blumell.pdf) and [Ehrman & Plunkett](https://www.jstor.org/stable/43716463?seq=1#page_scan_tab_contents)).
+King Benjamin talks about actual blood coming from Jesus's pores, but that idea was [common in Joseph's time](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/).  Also note that the authenticity of the verses from Luke that seem to imply Jesus sweat blood is contested by scholars today (see [Blumell](http://rosetta.reltech.org/TC/v19/TC-2014-Blumell.pdf) and [Ehrman & Plunkett](https://www.jstor.org/stable/43716463?seq=1#page_scan_tab_contents)).
 
 > [Doctrine:10b] [King Benjamin's sermon gives insights about] the retroactive as well as prospective nature of Christ’s Atonement ...
 
+[ TODO ]
+
 > [Doctrine:10c] [King Benjamin's sermon gives insights about] the power of the Atonement to remove our guilt as well as our sins ...
 
-The interplay between obedience, devotion and guilt seems to have been a topic
-of interest at the time.  For instance, consider John Gother's [Instructions
-and Devotions for the Afflicted and Sick](https://books.google.com/books?id=eV1gAAAAcAAJ&pg=PA49&dq=In+this+one+Point+consists+the+Sum+of+Christian+Perfection&hl=en&sa=X&ved=0ahUKEwjp2JfVxoHcAhUvja0KHdf1B6UQ6AEIKTAA#v=onepage&q=%22In%20this%20one%20Point%20consists%20the%20Sum%20of%20Christian%20Perfection%22&f=false) (pg 49):
+The interplay between obedience, devotion and guilt seems to have been a topic of interest at the time.  For instance, consider John Gother's [Instructions and Devotions for the Afflicted and Sick](https://books.google.com/books?id=eV1gAAAAcAAJ&pg=PA49&dq=In+this+one+Point+consists+the+Sum+of+Christian+Perfection&hl=en&sa=X&ved=0ahUKEwjp2JfVxoHcAhUvja0KHdf1B6UQ6AEIKTAA#v=onepage&q=%22In%20this%20one%20Point%20consists%20the%20Sum%20of%20Christian%20Perfection%22&f=false) (pg 49):
 
 > In this one Point consists the Sum of Christian Perfection, to receive whatever happens with a peaceable Mind, as coming from the Hand of God; to cast all our Care on him, because he watches over us, and nothing befalls us but according to his Appointment.  In this Will of God is grounded all the Quiet and Peace of a Christian.  And tho' it be Sin from ourselves and not from him, yet in our Repentance ought we to be very careful not to fall into any Anxiety or Disquiet of Mind.  We are to be heartily sorry indeed for having offended our God, and even with Tears strive to wash away our Guilt, but this Sorrow must not destroy our inward Peace; we must earnestly beg God's Mercy, who has permitted us to fall that so we might be sensible of our Weakness, that so we may ever go on with Fear, and not deceive ourselves in taking that to be ours which is only the Gift of God.  We must wait with Patience, and a contrite Heart, the Grace of Amendment;for he is our Lord, and will come when he pleases.  The faithful and prudent Servant desires nothing, but the Will of his Master; and in every thing that happens he says from his Heart, _It is so, Father, because thus it has seemed good to thee: Thy will be done._  I am ready to submit to all thy Decrees: Wilt thou that I be in Health, or in Sickness?  Wilt thou refresh me with thy Comforts, or cover me with Darkness?  Wilt thou that I abound, or be in Want?  What thou wilt, that I will: Do with me as thou pleasest:  This is the Temper of a Mind indifferent to all the Appointments of God, that makes a Christian ever cheerful and constant, and secures him against all Disquiets.
 
 > Let my Soul be subject to my God; for who is there that resists him, and has Peace within?  If I am to keep Peace with all, let me in the first Place study to preserve my Peace with God; for I am but Dust and Ashes, and what can be sufficient to make me rebel against my Maker? Be thou my Help, O my God, and my Strength; support me in all Evils, and give me Patience; direct me in my Repentance, and whil I distrust myself, let me ever confide in thee; for thus only can I preserve my Peace with God.
 
-[[Search google n-gram for "wash away our guilt"]]
+In a [collection of prayers published in London in 1824](https://books.google.com/books?id=v0RgAAAAcAAJ&pg=PA194&dq=%22wash+away+our+guilt%22&hl=en&sa=X&ved=0ahUKEwi5vajdgZTgAhXI5lQKHcSRDKwQ6AEIKjAA#v=onepage&q=%22wash%20away%20our%20guilt%22&f=false) we read:
+
+> ... Wash away our guilt with the precious blood of they dear Son ...
+
+And [The Assistant of Education: Religious and Literary, vol2](https://books.google.com/books?id=4e8KAAAAIAAJ&pg=PA336&dq=%22wash+away+our+guilt%22&hl=en&sa=X&ved=0ahUKEwi5vajdgZTgAhXI5lQKHcSRDKwQ6AEILzAB#v=onepage&q=%22wash%20away%20our%20guilt%22&f=false), also published in London in 1824, we read a hymn containing the lines:
+
+> By faith we wash away our guilt in Jesu's precious blood ...
 
 #### King Benjamin's speech similar to other early 1800s ideas
 
@@ -510,13 +573,13 @@ Revelation 19:6 the Lord God omnipotent
 
 > [Doctrine:11] d. Alma 7 explains that the Savior suffered not only for our sins but also for our “pains and afflictions and temptations of every kind” (Alma 7:11).
 
-  [The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
+[The Book of Wonders, Marvellous and True. 1813. London.](https://books.google.com/books?id=vOgQAAAAIAAJ&pg=RA2-PA61&dq=%22suffer+temptations%22&hl=en&sa=X&ved=0ahUKEwjFnfOdvaDRAhWJxFQKHQIFAWsQ6AEIHDAA#v=onepage&q=%22suffer%20temptations%22&f=false) states:
 
 > I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that I might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
 
 > [Doctrine:12] e. 3 Nephi 11 is the most powerful witness we have of the resurrected Lord, as 2,500 believers, consisting of men, women, and children (see 3 Nephi 17:25) came forth and “thrust their hands into his side,” felt “the prints of the nails in his hands and in his feet,” and “did know of a surety and did bear record” (3 Nephi 11:15) that He was the Son of God. Who can read that account and not feel the witness of the Spirit testifying of its truthfulness?
 
-Stories have been demonstrated to evoke powerful, confirmatory feelings, but which were later discovered to be almost completely fabricated.  For instance, Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others,[^shared_by_others] who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Given this, might a person be impacted by the transcendent and uplifting aspects of 3 Neph 11 and the story still remain a fabrication?
+Stories have been demonstrated to evoke powerful, confirmatory feelings, but which were later discovered to be almost completely fabricated.  For instance, Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others,[^shared_by_others] who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Given this, might a person be impacted by the transcendent and uplifting aspects of 3 Nephi 11 and the story still remain a fabrication?
 
 > [Doctrine:13] f. The Bible teaches us that, through the Atone­ment, Christ can make us clean; the Book of Mormon teaches us that, through the Atonement, Christ can also make us perfect (see Moroni 10:32–33).[31]
 
@@ -526,7 +589,7 @@ The teachings on the atonement in Moroni 10:32–33 are stated with great eloque
 
 > And again, if ye by the grace of God are perfect in Christ and deny not his power, then are ye sanctified in Christ by the grace of God through the shedding of the blood of Christ, which is in the covenant of the Father, unto the remission of your sins, that ye become holy, without spot.
 
-Compare with the entire section [III. The State of Grace, or Begun Recovery](https://archive.org/stream/humannatureinit02bostgoog#page/n142) from [Human Nature in its Fourfold State](https://archive.org/stream/humannatureinit02bostgoog#page/n6) () by Thomas Boston, published in Scotland in 1787[^fourfold_state], especially the section [The benefits flowing to believers from union with Christ](https://archive.org/stream/humannatureinit02bostgoog#page/n192). I will highlight a few phrases which indicate a similar perspective on the atonement as the Book of Mormon, especially in Moroni 10:32--33.
+Compare with the entire section [III. The State of Grace, or Begun Recovery](https://archive.org/stream/humannatureinit02bostgoog#page/n142) from [Human Nature in its Fourfold State](https://archive.org/stream/humannatureinit02bostgoog#page/n6) by Thomas Boston, published in Scotland in 1787[^fourfold_state], especially the section [The benefits flowing to believers from union with Christ](https://archive.org/stream/humannatureinit02bostgoog#page/n192). I will highlight a few phrases which indicate a similar perspective on the atonement as the Book of Mormon, especially in Moroni 10:32--33.
 
 * The first particular benefit that a sinner has by his union with Christ, is JUSTIFICATION; for, being united to Christ, he has communion with him in his righteousness
 * His sins are pardoned, the guilt of them is removed.
@@ -551,39 +614,76 @@ Compare with the entire section [III. The State of Grace, or Begun Recovery](htt
 
 > [Doctrine:14] Does anyone honestly believe that Joseph Smith somehow invented these profound doctrines with their compelling powers of reason, their mind-expanding insights, and their language, which is divinely eloquent? If these doctrines were the product of Joseph’s creative mind, one might ask, “Were there no other creative geniuses in the 1,800 years following Christ’s ministry who could produce similar doctrines?”
 
-As demonstrated above, the doctrines found in the Book of Mormon were rather typical for their time.
+As demonstrated above, the doctrines found in the Book of Mormon appear to be typical for their time.
 
-Short list of doctrines which seem to be attested in the literature (and
-sources):
+The well-known Book of Mormon scholar Royal Skousen argues that many concerns in the Book of Mormon are resonant with Protestant concerns [from the few centuries preceding Joseph Smith's time](https://byustudies.byu.edu/content/language-original-text-book-mormon):
 
-[pull from echoes.pdf]
+> ... if one looks at the text from the perspective of Early Modern English and Reformed Protestantism (including what has been called Radical Protestantism, that is, a Protestantism that attempts to restore an original Christianity based solely upon New Testament practice), there are numerous issues which show that the Book of Mormon is concerned with what the Protestants dealt with and argued over during the 1500s and 1600s:
 
-1. Compare 2 Ne 2:11 with The Necessity of Belief of Christianity:  If there be moral good in any of those tempers or actions, there must be moral evil in the directly opposite.
+>1. People are burnt at the stake for heresy (especially in the 1530s and the 1550s in England).
 
-...
+>    There is also evidence for burning their scriptures (especially in the 1520s in England).
 
-Royal Skousen also notes a number of other doctrines that spoke especially to controversies that had been occurring over the past several centuries before the Book of Mormon.
+>2. Judgment day will occur at the bar of God (each person will stand at the bar when their case is tried before the Lord).
 
-[quote from his latest BYU article that I have a pre-print of]
+>    There is no bar of justice in the New Testament. Rather, the judicial bar dates from medieval times. Moreover, we have the term pleading bar dating from the 1600s (the bar at which a person makes their pleading or plea). On the other hand, there is no independent evidence for “the pleasing bar of God”. 
 
-> [Doctrine:15] The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life. It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days. Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
+>3. The term secret combinations is used to refer to secret conspiracies against the government and the state church throughout the 1600s and the 1700s.
 
-I think I've responded to these (point to specific arguments above).
+>    The earliest citation for secret combination(s) dates from 1602.  Shortly thereafter, the phrase was commonly used in reference to the 1605 attempt by Guy Faux and other Catholics to blow up Parliament. The first reference of secret combination(s) to masons dates from 1796, but this refers to a union of brick layers attempting to control the price of labor.
 
-The Emma quote ignores several possibilities: Emma was duped (Joseph Smith with hat or with collaborators).  Emma lying (easy to suggest since appears to be lying about polygamy)
+>4. There are four pairs of ecclesiastical words that William Tyndale and Thomas More debated in the late 1520s (congregation versus church; elder versus priest; love versus charity; and repent versus do penance); translators of the English Bible from 1526 to 1611 were forced to deal with these terms in their biblical translations.
 
-### Comparing models
+>    The Book of Mormon text is informed by this debate: church is used with its dual meaning (the word congregation is ignored except in biblical phraseology); the church has both elders and priests; the word charity means ‘love’; and the word penance is completely ignored since the practice does not occur in the Book of Mormon.
 
-What is the significance of the presence of so many parallels to [the culture and theology of the early 1800s](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/)?
+>5. The true church does not permit child and infant baptism, thus accepting the position of the Anabaptists (who were considered radical and were murdered by both Catholics and Reformed Protestants).
 
-Did God merely influence the religious community with the kinds of ideas that would come forth in the Book of Mormon, perhaps to prepare the way before it?  Was Joseph merely expressing ancient ideas in the language of modernity?
+>    The prophet Mormon provides a very strong discourse against child baptism. Note his severe condemnation of those who advocated or even believed in child baptism (Moroni 8:14–16).
 
-To some extent we cannot easily distinguish between these models.  However,
-certain data points _strongly_ suggest that Joseph was merely borrowing from
-the culture of his time.
+>6. There is a strong preference for piety in living and worship (the Puritan lifestyle).
 
-[pull/revamp that comment that Fuzzy linked to]
+>7. The Lord’s sacrament is “a symbolic memorial” (Zwingli, 1484–1531) but includes a spiritual renewal (Bullinger, 1504–1575).
 
+>    These two concepts characterize the essence of the sacrament prayers, first given by Jesus in 3 Nephi 18:11 and 20:8–9 and then later by Moroni in Moroni 4–5. Any question of transubstantiation or any variant of it, such as consubstantiation, is ignored.
+
+>    There is also a secondary issue relating to the sacrament, the reference in Moroni 4:2 to the congregation kneeling down with the elder or priest when he blesses the sacrament. In 1552, during the reprinting of the Book of Common Prayer under King Edward VI, the issue of the church kneeling with the priest was resolved in favor of the traditional kneeling. This practice had been criticized by the Presbyterian John Knox as an unnecessary Catholic practice that the Church of England had continued using.
+
+>8. The Catholic practice of secret confession to church leaders and required works of penance never shows up in the text.
+
+>    Only once does the Book of Mormon refer to people going to an ecclesiastical authority (in Helaman 16:1, when Nephites converted by the preaching of Samuel the Lamanite go to Nephi for confession of sins and then baptism). In every case, repentance before God is required, and repentant souls must always be willing to publicly declare their repentance.
+
+>9. The Trinitarianism of the Book of Mormon is most clearly expressed by Abinadi in Mosiah 15 and best matches the Trinitarianism found in the Gospel of John.
+
+>    God will come down among the children of men and take upon himself a body of flesh and be sacrificed for mankind.  This was the heresy that led to the death of Abinadi (or at least it was the official accusation against him, described in Mosiah 17:7–8). This characterization of the Trinity is not the current LDS view of the Godhead.
+
+>10. The church is separated from the state and will act independently in dealing with questions of church discipline and excommunication.
+
+>    In Mosiah 26, King Mosiah refuses, as the secular leader of the state, to intervene in the disciplining of church members and leaves that to Alma, the leader of the church. The Lord then instructs Alma that he is limited in his disciplining of church members to excommunicating them rather than physically punishing them. The separation of the church from governmental control is more significant than replacing hereditary kings with elected judges since in the Book of Mormon those judges end up acting much like kings. Ultimately, Campbell is wrong to assume that Mosiah’s change in governance was a good example of republican government. It should also be noted that the issue of separation of church and state is an important one in the development of American constitutional law, but it also played a significant role in debates between Reformed and Radical Protestants in Europe in the mid-1500s.
+
+And a vast number of themes and doctrines found in the Book of Mormon find close analogues to the sermons and writings of the early 1800s:
+
+1. Compare [2 Nephi 2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng) with Jonathon Edwards sermon [The Necessity of Belief of Christianity](https://www.consource.org/document/the-necessity-of-the-belief-of-christianity-by-jonathan-edwards-1794-5-8/) delivered in Hartford Connecticut in 1794: "If there be moral good in any of those tempers or actions, there must be moral evil in the directly opposite."
+
+2. Compare [Alma 13:27](https://www.lds.org/scriptures/bofm/alma/13.27?lang=eng) with [A Treatise on The Millennium, or LatterDay Glory of the Church ...](https://books.google.com/books?id=KczfGcGsQYMC&pg=PA293&dq=%22day+of+repentance%22&hl=en&sa=X&ved=0ahUKEwip3pSN0rjJAhWVLogKHeX4BMYQ6AEINTAF#v=onepage&q=%22day%20of%20repentance%22&f=false), published in Providence, RI, 1824: "So we see the folly of **procrastinating the day of repentance** and of turning to the Lord.  The present time and opportunity should be most diligently **improved**."
+
+3. Compare [Mosiah 15:8--9](https://www.lds.org/scriptures/bofm/mosiah/15.8-9?lang=eng) with [The Christian Observer, Vol 15](https://books.google.com/books?id=SdZGAQAAMAAJ&pg=PA149&dq=%22satisfy+the+demands+of+justice%22&hl=en&sa=X&ved=0ahUKEwjclfbezrjJAhUXzGMKHebXCUsQ6AEIHDAA#v=onepage&q=%22satisfy%20the%20demands%20of%20justice%22&f=false), published in Boston in 1816: "To **satisfy the demands of justice**, it pleased the Father to send his own Son in the likeness of sinful man, to take upon him our nature, and to suffer in our stead."
+
+4. Compare this *exact 10-gram match* from [Alma 45:16](https://www.lds.org/scriptures/bofm/alma/45.16?lang=eng) with [A compendium of the travels of the children of Israel](https://books.google.com/books?id=IMU2AAAAMAAJ&pg=PA11&dq="the+least+degree+of+allowance"&hl=en&sa=X&ved=0ahUKEwjvtI-gzrjJAhVN3mMKHWkuAEsQ6AEIIjAB#v=onepage&q="the%20least%20degree%20of%20allowance"&f=false) published in Albany, NY 1823: "when he looks forward, he beholds an angry God that **cannot look upon sin with the least degree of allowance**"
+
+See many more [here]({{ "/documents/book_of_mormon/echoes/echoes_of_1800s.pdf" | relative_url }}), [here](https://www.reddit.com/r/exmormon/comments/3uvm9j/nineteenthcentury_protestant_material_in_the_book/) and the entire collection of parallels with the early 1800s literature [here]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+
+> [Doctrine:15a] The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life.  It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days.
+
+Humans write an [extraordinary number](https://en.wikipedia.org/wiki/Books_published_per_country_per_year) of complex, coherent books every single year.  And, many complex books are composed [in less time](https://bookstr.com/article/10-novels-written-in-about-a-month/) than it took the Book of Mormon to be created.  And, as demonstrated above, the doctrine found in the Book of Mormon was rather typical for its time.
+
+> Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
+
+As discussed above:
+
+*  Emma's was lying about polygamy in this very testimony (giving us some reason to doubt the veracity of her other statements).  Alternatively, Joseph may have been fooling Emma, which is not inconsistent with his behavior towards her.
+* Joseph was steeped in the religious conversations of his day and had an extraordinary intellect.
+* Joseph dictated a large amount of other scripture, sometimes [incorporating other sources](http://jur.byu.edu/?p=21296).
+* It is possible that others collaborated in the creation of the book.
 
 ## A Parable That Counters The Arguments Proposed By Critics ("Parable")
 
@@ -591,15 +691,19 @@ the culture of his time.
 
 >> [Parable:2] A young man once long ago claimed he had found a large diamond in his field as he was ploughing. He put the stone on display to the public free of charge, and everyone took sides. A psychologist showed, by citing some famous case studies, that the young man was suffering from a well-known form of delusion. An historian showed that other men have also claimed to have found diamonds in fields and been deceived. A geologist proved that there were no diamonds in the area but only quartz. . . . When asked to inspect the stone itself, the geologist declined with a weary, tolerant smile and a kindly shake of the head. . . . A sociologist showed that only three out of 177 florists’ assistants in four major cities believed the stone was genuine. A clergyman wrote a book to show that it was not the young man but someone else who had found the stone.
 
-> [Parable:3] Finally an indigent jeweler . . . pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick . . . , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skilfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.[33]
+> [Parable:3] Finally an indigent jeweler . . . pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick . . . , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skillfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.[33]
 
 > [Parable:4] To suggest that Joseph Smith, a farm boy with little formal education, produced a synthetic work of God in 1829 that has baffled the brightest of critics for almost two centuries would be a more remarkable feat than the simple fact that he obtained the gold plates from an angel of God and translated them by the gift and power of God.
 
-Let us extend the analogy even further, we know that the farmer in the story, Joseph Smith, was prone to "finding artifacts" in his field (discuss treasure digging, copyright, and 1826 trial and Nibley's statements on it; plus JST translation errors [it was known that he produced synthetic rubies]; plus book of Abraham [emeralds]).
+Perhaps the best response to this parable is to extend the analogy further:  Imagine that we know that the farmer in the story, Joseph Smith, was prone to "finding" artifacts in his field:
 
-A number of scientists actually have carefully analyzed the diamond, and they find that it contains the exact same kinds of contaminants as diamonds from the next county over.  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then buy the land from him in search of diamonds.
+* We know that he would [frequently claim to find treasure](https://www.mormonstories.org/truth-claims/joseph-smith/treasure/) but its existence was never verified (also see [here](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1504&context=byusq))
+* We know that he could synthesize rubies from other material (consider how he [generated the Book of Abraham text from Egyptian papyri](https://www.youtube.com/watch?v=tznpRR0Fos8))
+* We know he was capable of [synthesizing emeralds](http://jur.byu.edu/?p=21296)
 
-Of course, those who had wasted their fortune buying the land from the farmer refused to acknowledge the careful research of those who had adequately demonstrated that the diamond was a fake.  They tried to discredit them, and they warned all the others who had bought into the field to avoid reading their work [sapiens post about truth-sources would work well here] 
+And, a number of scientists actually have [carefully analyzed the diamond](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/), and they find that it contains [the exact same kinds of contaminants as diamonds from the next county over](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/).  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then buy the land from him in search of diamonds.
+
+It comes as no suprise that those who had lost their fortune buying land from the farmer refused to acknowledge the careful research of those who had [adequately demonstrated that the diamond was a fake](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/).  Those who had invested in the land tried to [discredit and belittle the researchers](https://www.youtube.com/watch?v=HkcS-v_DolQ), and they warned others to avoid their work because if it were true [it would only bring the investors feelings of darkness and gloom](https://www.youtube.com/watch?v=NSEsLtwKzvw) to think of all they had lost for misplacing trust in a synthetic diamond.
 
 ## Other Evidences That The Book Of Mormon Is Not Man-Made ("OtherEvidences")
 
@@ -607,12 +711,19 @@ Of course, those who had wasted their fortune buying the land from the farmer re
 
 > [OtherEvidences:2] My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.[34]
 
-manuscript in hat theory or emma lying
+As discussed previously, Emma's emphatic testimony is coupled with dishonesty about polygamy, so we have reason to doubt her reliability as a witness.  And, as part of the Reorganized Church of Jesus Christ of Latter-day Saints, her livelihood depended on others' continued belief in the authenticity of the Book of Mormon---she may have been motivated to stretch the truth.  Finally, we must balance her testimony with the testimony of others suggesting that Joseph had a powerful mind and the data suggesting he was not ignorant or unlearned.  And, even if she were accurate, it remains possible that the manuscript was produced in collaboration with others.
 
 > [OtherEvidences:3] This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”
 
+First, the book itself is often very modular in its construction.  There are not that many dependencies between sections, and Joseph looking back over the developing manuscript could account for the existing consistencies and dependencies.
+
+Emma did not receive much of the book by dictation.  It remains entirely
+possible that Joseph was trying to 
+
 > [OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”
 
+There are numerous indicators that Joseph was _not_ receiving by revelation
+any kind of ancient text.
 translation errors in the book of Mormon [and other things pointing to faulty
 
 https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_text_because_the_god/
