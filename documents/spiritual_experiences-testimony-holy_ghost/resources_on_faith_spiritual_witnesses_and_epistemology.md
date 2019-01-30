@@ -25,6 +25,7 @@ layout: page
 1. [5 Questions about spiritual experiences and real intent]({{ "/5-questions-about-spiritual-experiences-and-real-intent/" | relative_url }})
 1. [Appeals to Personal Experience](https://www.youtube.com/watch?v=4rOvxshInuc) (Matt Dillahunty lecture)
 1. [Dealing with "Inner Witness" claims](https://www.youtube.com/watch?v=D-Xa4WBzBwc) (Matt Dillahunty)
+1. [Counter apologetics: CA42 Argument From Personal Experience](http://counterapologetics.blubrry.net/2018/11/17/ca42-argument-from-personal-experience/) (podcast)
 1. [Faith vs. religious faith](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/) (also discusses an issue with Alma 32)
 1. [What are the goods of "elective faith"](https://www.reddit.com/r/mormon/comments/81bn53/what_are_the_goods_of_elective_faith_serious/) (reddit post)
 1. [The Triple Path](http://triplepath.org) (especially chapter 5)
