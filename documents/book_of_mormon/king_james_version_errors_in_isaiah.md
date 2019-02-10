@@ -95,6 +95,10 @@ At least 6 verses seem---based on scholarly consensus---to contain significant t
 
 What does this mean for modern and ancient origin theories of the Book of Mormon?  We might expect Joseph Smith to have pulled from an available Bible in trying to convey the *essence* of the plates in language that would be familiar to his audience.  We do *not* expect Joseph to rely on his Bible when the *meaning* on the plates would be incorrectly and inadequately expressed.  The repeated one-for-one reliance on a faulty translation for particular words and phrases suggests either that no ancient text was being referred to, or---more generously---no ancient text was being closely referred to during that portion of the translation.
 
+## Afterword
+
+After I made him aware, Conflict of Justice [defended the essential accuracy of each verse I discuss above](http://www.conflictofjustice.com/14-bible-verses-mistranslated-book-of-mormon/).  The next step in discussing these verses should be to subject his defenses to scrutiny from modern Bible scholars.  Are the defenses sound?
+
 [^1769kingjames]: The reliance of the Book of Mormon on the 1769 King James version as opposed to the 1611 King James version may be easily demonstrated by lining up Book of Mormon verses pulled from the Bible using [the original manuscript](https://github.com/wordtreefoundation/bomdb) or first printer's edition (where the original manuscript is not extant) and comparing them to the [1611 King James](https://www.kingjamesbibleonline.org/1611-Bible/) and [the 1769 King James Bibles](https://www.kingjamesbibleonline.org/).  I give one typical example in the introduction [here]({{ "/errors-represented-across-both-1611-and-1769-kjv/" | relative_url }}).
 
 [^errorclaim]: For instance, see [this comment on mormonscholar](https://www.reddit.com/r/mormonscholar/comments/8ip30l/top_10_book_of_mormon_evidences_by_gently_hew/dyx8qfu/)

@@ -15,6 +15,7 @@ layout: page
 ## Analyses, interpretations, or questions
 
 1. [Testimony, spiritual experiences, and truth: A careful examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}) (analysis)
+1. [Testimony / Feeling the Spirit](https://www.mormonstories.org/truth-claims/mormon-culture/testimony-feeling-the-spirit/) (Mormon Stories resource page)
 1. [Questions to Ask: section on Spiritual Confirmation and Priesthood Guidance]({{ "/questions-to-ask/#spiritual-confirmation-and-priesthood-guidance" | relative_url }})
 1. [The parts of an LDS spiritual experience]({{ "/parts-of-an-lds-spiritual-experience/" | relative_url }}) (short analysis)
 1. [Hermetically Sealed Systems in LDS Thought]({{ "/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf" | relative_url}}) (pdf)

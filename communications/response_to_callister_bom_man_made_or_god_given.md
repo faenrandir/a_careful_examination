@@ -403,24 +403,47 @@ Whether baptism required immersion was hotly debated at that time. Consider [thi
 
 > <span style="color:red">[Doctrine:5b] Must one be baptized by authority, or is sincerity sufficient?</span>
 
-[ TODO ]
+After a discussion on the evils of baptism, Stephen Blanchard, in an letter published in 1817 to Ethan Smith (the congregationalist minister in Hopkinton, NH), states:
 
-> <span style="color:red">[Doctrine:5c] Do we make covenants at the time of baptism, </span>
+> There is no doubt, but that the order of the gospel was much perverted in the dark ages; and it is not probable, that, since the reformation, the true apostolic order is restored in any of the Protestant churches. Therefore we may conclude, that the visible church is in an imperfect state.
 
-[ TODO ]
+[ ^ This isn't as specific as I would like ]
 
-> <span style="color:red">[Doctrine:5d] and, if so, what are those
-> covenants?</span>
+[ TODO: more? ]
 
-[ TODO ]
+> <span style="color:red">[Doctrine:5c] Do we make covenants at the time of baptism, and, if so, what are those covenants?</span>
 
-> <span style="color:red">[Doctrine:5e] Should infants be baptized?</span>
+The idea that baptism constituted a covenant was common in that era.  For instance, in a work published in Albany, New York in 1815, [the Reverend Thomas Gouge taught](https://books.google.com/books?id=wCxOAAAAYAAJ&printsec=frontcover#v=onepage&q&f=false) (pg 470):
 
-The idea that infant baptism was an abomination was being discussed at that time.  For instance, in the introduction to [Four Sermons: On the Mode and Subjects of Christian Baptism](https://books.google.com/books?id=xFwrAAAAYAAJ&dq=Four%20Sermons%20on%20the%20Modes%20and%20Subjects%20of%20Christian%20Baptism%201811&pg=RA2-PA4#v=onepage&q=%22infant%20baptism%20is%20an%20abomination%22&f=false), published in 1811 in Utica, New York, Joseph Buckminster, a pastor in New Hampshire, wrote to defend infant baptism "at a time when it is not only said, but preached; and not only preached, but printed, that infant baptism is an abomination to the Lord..."
+> Though baptism once administered be not to be repeated, yet the baptismal covenant ought to be renewed.  
+
+> Consider therefore thy baptismal covenant, and examine thine own heart, whether thou art resolved to stand to that covenant; whether thou find a willingness in thyself to renounce the service of the devil, the world, and the flesh, and to resign up thyself to God and his service: and if this be thy mind in earnest then, renew thy covenant with God.
+
+> And whereas there is a two fold covenanting with God,
+
+> 1. 'One inward in the soul;' which consisteth in a sincere closing with God, and hearty devoting ourselves to him and his service.
+
+> 2. 'The other outward, with the tongue and hand:' When having written down thy covenant thou dost with all seriousness and sincerity on thy bended knees, read it as in the presence of God, and then subscribe thy name thereunto. This latter way of express covenanting, I would commend unto you.
+
+And covenants similar to that found in Mosiah 18 were tied to baptism for many early settlers.  [Bushman writes](https://books.google.com/books?id=8raNwgaxvRIC&pg=PA26&lpg=PA26&dq=Bushman+%22That+degree+of+commitment+allowed+them+to+present+Jesse%22&source=bl&ots=uJG6p-L9Ss&sig=ACfU3U2SWrw5Dt_Mm8VATlbV4V5ai2HGpw&hl=en&sa=X&ved=2ahUKEwjJvdz_hpngAhV9FjQIHbFVAY4Q6AEwAHoECAAQAQ#v=onepage&q=Bushman%20%22That%20degree%20of%20commitment%20allowed%20them%20to%20present%20Jesse%22&f=false):
+
+> At eighteen Asael was assigned a seat in the meetinghouse, and in 1772 husband and wife owned the convenant.[56] Owning the convenant did not make them full members of the church. One had to show evidence of supenatural grace and have an assurance of salvation before becoming a voting member. Owning the church covenant meant that they believed the doctrines outlined in the covenant and promised to live an upright and moral life. That degree of commitment allowed them to present Jesse, Joseph, and Priscilla for baptism.
+
+> <span style="color:red">[Doctrine:5d] Should infants be baptized?</span>
+
+The idea that infant baptism was an abomination was being discussed widely at that time.  For instance, Stephen Blanchard, in a letter to Ethan Smith, the congregationalist minister in Hopkinton NH, [argues]({{ "/letter-from-stephen-blanchard-to-ethan-smith/" | relative_url }}):
+
+> To me it seems strange, that you can see . . . absurdities in the Episcopal plan relative to *infant baptism* and *confirmation* . . . and not see, that the *doctrine* of *infant baptism* itself is the very foundation of all those inconsistencies . . . I contend, that no one can have a right to the *outward* and *visible* sign, unless he possess the *inward* and *spiritual* grace. 
+
+And, in the course of his writing on the topic, Blanchard gives [an informal bibliography of all those writing against infant baptism at the time]({{ "/letter-from-stephen-blanchard-to-ethan-smith/#informal-bibliography-against-infant-baptism" | relative_url }}):
+
+> Without going into the elaborate productions of Dr. Gill against Clarke, Booth's pedo-baptism examined, Baldwin against Worcester, or Merrill's seven sermons; if we take a candid survey of Foot's letters to bishop Hoadly, P. Chapin's letter to N. Worcester, and Baldwin's letter to a Friend; we find, these short essays contain the sum of the arguments, and are sufficient to convince every rational and unprejudiced enquirer of the futility of all, that has been said in favor of infant sprinkling And these had been entirely unnecessary, if nothing had been published attempting to establish that, which is not found in the bible.
+
+One additional example: in the introduction to [Four Sermons: On the Mode and Subjects of Christian Baptism](https://books.google.com/books?id=xFwrAAAAYAAJ&dq=Four%20Sermons%20on%20the%20Modes%20and%20Subjects%20of%20Christian%20Baptism%201811&pg=RA2-PA4#v=onepage&q=%22infant%20baptism%20is%20an%20abomination%22&f=false), published in 1811 in Utica, New York, Joseph Buckminster, a pastor in New Hampshire, wrote to defend infant baptism "at a time when it is not only said, but preached; and not only preached, but printed, that infant baptism is an abomination to the Lord..."
 
 > <span style="color:red">[Doctrine:6] Again and again the Book of Mormon comes to the rescue, giving answers and restoring many plain and precious truths about baptism that were distorted or lost during the Apostasy. How did Joseph Smith know all these answers when the rest of the Christian world was so confused? Because he received them by revelation from God as he translated the Book of Mormon.</span>
 
-Or, perhaps the author of the Book of Mormon had opinions on the correct mode and manner of baptism, like so many religious participants of the day?
+As I have already demonstrated, Joseph Smith was immersed in the religious discussions of his day, and perhaps the author of the Book of Mormon merely had strong opinions on the correct mode and manner of baptism just like so many other religious participants of that time?  What is striking is to think that ancient Israelites, after migrating to the Americans, would have been obssessed with exactly the same doctrinal minutia regarding ordinances like baptism as American settlers in the early 1800s.
 
 > <span style="color:red">[Doctrine:7] 2. What about Christ’s Atonement—the central doctrine of all Christianity? The clarity and expansiveness of this doctrine as taught in the Book of Mormon is beyond honest dispute. The Old and New Testaments have some scattered doctrinal gems on the Atonement (which we greatly appreciate and benefit from), but the Book of Mormon has numerous sermons---entire masterpiece---on the subject.  For example:</span>
 
@@ -469,7 +492,7 @@ In addition, [the poetry of David Hitchcock](https://archive.org/stream/poetical
     Or that his now important rank,
     Were not an everlasting blank?
 
-Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas are at some odds.
+Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas [are at some odds](https://faenrandir.github.io/a_careful_examination/questions-to-ask/#adam-and-eve).
 
 > <span style="color:red">[Doctrine:8b] While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.</span>
 
@@ -580,40 +603,13 @@ Stories have been demonstrated to evoke powerful, confirmatory feelings, but whi
 
 > <span style="color:red">[Doctrine:13] f. The Bible teaches us that, through the Atone­ment, Christ can make us clean; the Book of Mormon teaches us that, through the Atonement, Christ can also make us perfect (see Moroni 10:32–33).[31]</span>
 
-The teachings on the atonement in Moroni 10:32–33 are stated with great eloquence, but they also were fairly ubiquitous in Joseph Smith's era:
-
-> Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ. And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
-
-> And again, if ye by the grace of God are perfect in Christ and deny not his power, then are ye sanctified in Christ by the grace of God through the shedding of the blood of Christ, which is in the covenant of the Father, unto the remission of your sins, that ye become holy, without spot.
-
-Compare with the entire section [III. The State of Grace, or Begun Recovery](https://archive.org/stream/humannatureinit02bostgoog#page/n142) from [Human Nature in its Fourfold State](https://archive.org/stream/humannatureinit02bostgoog#page/n6) by Thomas Boston, published in Scotland in 1787[^fourfold_state], especially the section [The benefits flowing to believers from union with Christ](https://archive.org/stream/humannatureinit02bostgoog#page/n192). I will highlight a few phrases which indicate a similar perspective on the atonement as the Book of Mormon, especially in Moroni 10:32--33.
-
-* The first particular benefit that a sinner has by his union with Christ, is JUSTIFICATION; for, being united to Christ, he has communion with him in his righteousness
-* His sins are pardoned, the guilt of them is removed.
-* Thus the person united to Christ is justified. You may conceive of the whole proceeding herein, in this manner. The avenger of blood pursuing the criminal; Christ, as the Savior of lost sinners, does by the Spirit apprehend him, and draw him to himself; and he, by faith, lays hold on Christ: so the Lord our righteousness, and the unrighteous creature, unite. From this union with Christ results a communion with him in his unsearchable riches, and consequently in his righteousness, that white raiment which he has for clothing of the naked, Rev.  3:18. Thus the righteousness of Christ becomes his; and because it is by his unquestionable title, it is imputed to him; it is reckoned his in the judgment of God, which is always according to truth. And so the believing sinner, having a righteousness which fully answers the demands of the law, he is pardoned and accepted as righteous. See Isaiah 45:22-24; Romans 3:24; and chapter 5:1.
-* The second benefit flowing from the same spring of union with Christ, and coming by the way of justification, is PEACE; peace with God, and peace of conscience, according to the measure of the sense the justified have of their peace with God ... Their CONSCIENCES are purged of that guilt and filthiness which lay upon them: his conscience-purifying blood streams through their souls, by virtue of their union with him
-* Believers, being united to Christ, become children of God, and members of the family of heaven.
-* As when a branch is cut off from one tree, and grafted in the branch of another, the engrafted branch, by means of its union with the adopting branch, is made a branch of the same stock with that into which it is engrafted: so sinners, being engrafted into Jesus Christ, whose name is the Branch, his Father is their Father, his God their God, John 20:17. And thus they, who are by nature children of the devil, become the children of God.
-* A fourth benefit is SANCTIFICATION, 1 Cor. 1:30, "But of him are you in Christ Jesus, who is made unto us wisdom, and righteousness, and sanctification." Being united to Christ, they partake of his Spirit, who is the Spirit of holiness.
-* [Speaking by analogy to one who has been regenerated in Christ] A tree, that has life and nourishment, grows to its perfection ...
-* They grow inward, growing into Christ, Eph. 4:15, uniting more closely with him; and cleaving more firmly to him, as the head of influences, which is the spring of all other true Christian growth. They grow outward in good works, in their life and conversation. They not only, with Naphtali, give goodly words; but, like Joseph, they are fruitful boughs. They grow upward in heavenly-mindedness, and contempt of the world; for their conversation is in heaven, Phil. 3:20. And finally, they grow downward in humility and self-loathing.
-* Whoever are united to Christ, bring forth the fruit of gospel-obedience and true holiness.  Faith is always followed with good works. The believer is not only come out of the grave of his natural state; but he has put off his grave-clothes, namely, reigning lusts, in which he walked, like a spirit; being dead while he lived in them...
-* Labor to be steadfast in the truths and way of God.  Endeavor to cut off the suckers, as gardeners do, that their trees may thrive.  These are unmortified lusts ...
-* Improve, for these ends, the ordinances of God. It is in the courts of our God where the trees of righteousness flourish, Psalm 92:13. The waters of the sanctuary are the means appointed of God, to cause his people to grow as willows by the water courses. Therefore, drink in with "desire, the sincere milk of the word, that you may grow thereby," 1 Pet. 2:2. Come to these wells of salvation: not to look at them only—but to draw water out of them. The sacrament of the Lord's supper is in a special manner appointed for these ends.  It is not only a solemn public profession, and a seal of our union and communion with Christ; but it is a means of most intimate communion with him, and strengthens our union with him, our faith, love, repentance, and other graces,...
-* The Christian cannot fall away—but must persevere unto the end
-* Christ supports believers in him, under a weight of outward troubles.
-* Christ supports his people under a weight of inward troubles and discouragements.
-* There is a certain pleasure and sweetness in the cross, to those who have their senses exercised to discern, and to find it out. There is a certain sweetness in a man's seeing himself upon his trial for heaven, and standing candidate for glory.  There is a pleasure in traveling over those mountains, where the Christian can see the prints of Christ's own feet, and the footsteps of the flock, who have been there before him.
-* Strive to obtain and keep up sincere communion and fellowship with Jesus Christ; that is, to be still deriving fresh supplies of grace from the fountain which is in him, by faith: and making suitable returns of them, in the exercise of grace and holy obedience.
-* Whatever lusts come to gain your hearts, deny them, seeing the grace of God has appeared, teaching us so to do, and you are joined to the Lord.
-* Be of a humble disposition, as being united to the meek Jesus.
-* And now, SINNERS, what shall I say to you? I have given you some view of the privileges of those in the state of grace. You have seen them afar off; but alas!  they are not yours, because you are not Christ's. The sinfulness of an unregenerate state is yours; and the misery of it is yours also: you have neither part nor lot in this matter. The guilt of all your sins lies upon you; you have no part in the righteousness of Christ. There is no peace to you, no peace with God, no true peace of conscience; for you have no saving interest in the great peace- maker. You are none of God's family; the adoption we spoke of, belongs not to you. You have no part in the Spirit of sanctification; and, in one word, you have no inheritance among those who are sanctified. All I can say to you in this matter, is, that the case is not desperate; these choice blessings may yet be yours, Rev. 3:20, "Behold, I stand at the door and knock; if any man hears my voice, and opens the door, I will come into him, and will sup with him, and he with me." Heaven is proposing a union with earth still! The potter is making suit to his own clay! The gates of the city of refuge are not yet closed! O, that we could compel you to come in!
+As documented [here]({{ "/human-nature-in-its-fourfold-state-compared-with-moroni-10-32-33/" | relative_url }}), Human Nature in its Fourfold State, published originally in Scotland in 1787, deals with the same themes as Moroni 10:32–33 in very similar fashion, arguing for a similar interplay between our own efforts and Christ's enabling atonement.
 
 > <span style="color:red">[Doctrine:14] Does anyone honestly believe that Joseph Smith somehow invented these profound doctrines with their compelling powers of reason, their mind-expanding insights, and their language, which is divinely eloquent? If these doctrines were the product of Joseph’s creative mind, one might ask, “Were there no other creative geniuses in the 1,800 years following Christ’s ministry who could produce similar doctrines?”</span>
 
-As demonstrated above, the doctrines found in the Book of Mormon appear to be typical for their time.
+As demonstrated above, the doctrines found in the Book of Mormon appear to be fairly well-represented for their time.
 
-The well-known Book of Mormon scholar Royal Skousen argues that many concerns in the Book of Mormon are resonant with Protestant concerns [from the few centuries preceding Joseph Smith's time](https://byustudies.byu.edu/content/language-original-text-book-mormon):
+Further, the well-known Book of Mormon scholar Royal Skousen argues that many concerns in the Book of Mormon are resonant with Protestant concerns [from the few centuries preceding Joseph Smith's time](https://byustudies.byu.edu/content/language-original-text-book-mormon):
 
 > ... if one looks at the text from the perspective of Early Modern English and Reformed Protestantism (including what has been called Radical Protestantism, that is, a Protestantism that attempts to restore an original Christianity based solely upon New Testament practice), there are numerous issues which show that the Book of Mormon is concerned with what the Protestants dealt with and argued over during the 1500s and 1600s:
 
@@ -671,16 +667,16 @@ See many more [here]({{ "/documents/book_of_mormon/echoes/echoes_of_1800s.pdf" |
 
 > <span style="color:red">[Doctrine:15a] The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life.  It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days.</span>
 
-Humans write an [extraordinary number](https://en.wikipedia.org/wiki/Books_published_per_country_per_year) of complex, coherent books every single year.  And, many complex books are composed [in less time](https://bookstr.com/article/10-novels-written-in-about-a-month/) than it took the Book of Mormon to be created.  And, as demonstrated above, the doctrine found in the Book of Mormon was rather typical for its time.
+Humans write an [extraordinary number](https://en.wikipedia.org/wiki/Books_published_per_country_per_year) of complex, coherent books every single year.  Many complex books are composed [in less time](https://bookstr.com/article/10-novels-written-in-about-a-month/) than it took the Book of Mormon to be created.  Many notable books are composed [by those who are young](https://en.wikipedia.org/wiki/List_of_books_written_by_children_or_teenagers) (many far younger than Joseph Smith).  And, as demonstrated above, the doctrine found in the Book of Mormon was rather typical for its time.
 
 > Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
 
-As discussed above:
+As discussed in detail above:
 
 *  Emma's was lying about polygamy in this very testimony (giving us some reason to doubt the veracity of her other statements).  Alternatively, Joseph may have been fooling Emma, which is not inconsistent with his behavior towards her.
 * Joseph was steeped in the religious conversations of his day and had an extraordinary intellect.
 * Joseph dictated a large amount of other scripture, sometimes [incorporating other sources](http://jur.byu.edu/?p=21296).
-* It is possible that others collaborated in the creation of the book.
+* It is possible that others, equally or more acquainted with the religious arguments of the day, collaborated in the creation of the book.
 
 ## A Parable That Counters The Arguments Proposed By Critics ("Parable")
 
@@ -714,8 +710,9 @@ As discussed previously, Emma's emphatic testimony is coupled with dishonesty ab
 
 First, the book itself is often very modular in its construction.  There are not that many dependencies between sections, and Joseph looking back over the developing manuscript could account for the existing consistencies and dependencies.
 
-Emma did not receive much of the book by dictation.  It remains entirely
-possible that Joseph was trying to 
+Emma did not receive much of the book by dictation.  It remains entirely possible that Joseph was trying to  [TODO: finish section]
+
+[ TODO ]
 
 > <span style="color:red">[OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”</span>
 
@@ -727,8 +724,7 @@ https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_tex
 
 > <span style="color:red">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
-In almost every way we can test the book we can demonstrate that it does not
-match our expectations as an ancient book:
+In almost every way we can test the book we can demonstrate that it does not match our expectations as an ancient book:
 
 https://faenrandir.github.io/a_careful_examination/lds-scholars-modern-origin-evidence/
 
@@ -782,8 +778,6 @@ discuss issues with moroni's promise and epistemology generally.
     * "then he ended with a powerful story...This was a powerful story for me. One about love and about how God shows his love. There are no lost causes, we are all of infinite worth to God and He will put us exactly where he needs us to be."
     * "I want to tell an amazing story we were told at the devotional last night...HOW AMAZING IS THAT?! God sure works in mysterious and amazing ways."
     * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
-
-[^fourfold_state]: The book was popular enough that it is still considered a classic and reprinted today (e.g., [here](https://banneroftruth.org/us/store/theology-books/human-nature-in-its-fourfold-state/) and [here](https://www.heritagebooks.org/products/human-nature-in-its-fourfold-state-boston.html)).  Reformation Heritage Books noted its popularity "It is evident why Boston's work enjoyed such popularity. ..." and John Macleod, [the well known theologian](https://en.wikipedia.org/wiki/John_Macleod_%28theologian%29) listed the book as [one of 22 of his favorite](https://reformedbooksonline.com/suggested-reading/) classic reformed, Christian works, [noting](https://www.goodreads.com/book/show/19194212-human-nature-in-its-fourfold-state) that it "more than any other stands out as representative of the best of our Scottish religious classics".
 
 [^smoot]: Stephen Smoot recently discussed why an inspired fiction theory [undermines all the other LDS truth-claims](https://www.mormoninterpreter.com/et-incarnatus-est-the-imperative-for-book-of-mormon-historicity/).
 
