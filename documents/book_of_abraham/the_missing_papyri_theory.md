@@ -6,6 +6,8 @@ doctype: notes
 layout: page
 ---
 
+### Introduction
+
 Brian Hauglid is a leading LDS Scholar (see [his FairMormon bio](https://web.archive.org/web/20181013215341/https://www.fairmormon.org/testimonies/scholars/brian-m-hauglid), his Maxwell Institute [bio](https://web.archive.org/web/20181106214354/https://mi.byu.edu/people/brian-hauglid/) and [publication list](https://web.archive.org/web/20170126055340/https://publications.mi.byu.edu/people/brian-m-hauglid/)).
 
 Among his other specialities, he is also a leading scholar on the history and translation of the Book of Abraham.  For example, Hauglid's work is cited in seven of the 46 footnotes from the Church'[s Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) essay, and he is one of two editors responsible for [The Joseph Smith Papers, Revelations and Translations, Vol. 4: Book of Abraham and Related Manuscripts](https://www.bookofmormoncentral.org/blog/new-joseph-smith-papers-volume-published), a massive effort which compiles and analyzes all the original source material related to the Book of Abraham translation effort.
@@ -35,6 +37,12 @@ And in [a recent facebook comment](https://www.facebook.com/dan.vogel.35/posts/1
 > * And on and on.
 
 > I no longer agree with Gee or Mulhestein. I find their apologetic "scholarship" on the BoA abhorrent. One can find that I've changed my mind in my recent and forthcoming publications. The most recent JSP Revelations and Translation vol. 4, The Book of Abraham and Related Manuscripts (now on the shelves) is much more open to Dan's thinking on the origin of the Book of Abraham. My friend Brent Metcalfe can attest to my transformative journey.
+
+### What data convinced him?
+
+At least some of the kinds of data informing Hauglid’s opinion were recently presented by Hauglid and Robin Jensen at [a Maxwell Institute lecture](https://www.youtube.com/watch?v=tznpRR0Fos8)(especially [this point](https://www.youtube.com/watch?v=tznpRR0Fos8&t=2851) made by Robin Jensen). Although Hauglid and Jensen do not present these as counterarguments to the idea that the Egyptian Alphabet was a retro-active effort, Hauglid’s (and Jensen’s) presentation clearly lays out the basic data suggesting that the various alphabet documents were almost certainly meant to associate characters on the papryus with the BoA text and at least in part were associated with the translation (not a retro-fit) effort.
+
+Hauglid also refers to [Vogel's analysis](https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw) which persuasively makes the case for the connection between the existing fragments/characters and the Book of Abraham.
 
 ### Additional reading
 
