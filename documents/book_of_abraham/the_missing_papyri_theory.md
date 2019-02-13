@@ -6,7 +6,11 @@ doctype: notes
 layout: page
 ---
 
-Brian Hauglid is a leading LDS Scholar on the history of the Book of Abraham and one of two editors responsible for [The Joseph Smith Papers, Revelations and Translations, Vol. 4: Book of Abraham and Related Manuscripts](https://www.bookofmormoncentral.org/blog/new-joseph-smith-papers-volume-published).  The Book of Abraham gospel topics essay references Hauglid when it [describes the missing papryi theory](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng):
+Brian Hauglid is a leading LDS Scholar (see [his FairMormon bio](https://web.archive.org/web/20181013215341/https://www.fairmormon.org/testimonies/scholars/brian-m-hauglid), his Maxwell Institute [bio](https://web.archive.org/web/20181106214354/https://mi.byu.edu/people/brian-hauglid/) and [publication list](https://web.archive.org/web/20170126055340/https://publications.mi.byu.edu/people/brian-m-hauglid/)).
+
+Among his other specialities, he is also a leading scholar on the history and translation of the Book of Abraham.  For example, Hauglid's work is cited in seven of the 46 footnotes from the Church'[s Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) essay, and he is one of two editors responsible for [The Joseph Smith Papers, Revelations and Translations, Vol. 4: Book of Abraham and Related Manuscripts](https://www.bookofmormoncentral.org/blog/new-joseph-smith-papers-volume-published), a massive effort which compiles and analyzes all the original source material related to the Book of Abraham translation effort.
+
+The Book of Abraham gospel topics essay references Hauglid specifically when it [describes the missing papryi theory](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng):
 
 > It is likely futile to assess Joseph’s ability to translate papyri when we now have only a fraction of the papyri he had in his possession. Eyewitnesses spoke of “a long roll” or multiple “rolls” of papyrus. [32] Since only fragments survive, it is likely that much of the papyri accessible to Joseph when he translated the book of Abraham is not among these fragments. The loss of a significant portion of the papyri means the relationship of the papyri to the published text cannot be settled conclusively by reference to the papyri.
 
@@ -36,10 +40,12 @@ And in [a recent facebook comment](https://www.facebook.com/dan.vogel.35/posts/1
 
 A visual demonstrating (at a superficial level) the documentary evidence that the Book of Abraham characters associated with the translation were pulled from the papyri now in the Church's possession may be found [here](https://www.reddit.com/r/mormon/comments/9yt977/the_book_of_abraham_11218_graphic/).
 
-Also see [General resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url }}).
+Also see:
 
-**Acknowledgements**: Reddit user `fuzzy_thoughts` pointed out Hauglid in Vogel's video info section and the connection to Hauglid in the gospel topics essay.
+* [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/) ("Prove All Things; Hold Fast to Good" blog)
+* [General resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url }}).
 
+**Acknowledgements**: Reddit user `fuzzy_thoughts` pointed out Hauglid in Vogel's video info section and the connection to Hauglid in the gospel topics essay. The number of Hauglid citations in the Book of Abraham essay was originally h/t the "Prove All Things" article and was verified to be the case on 2019-02-13.
 
 [^vogels_explanation_of_the_data]: Dan Vogel and many other non-LDS scholars have been making this argument for a long time. See Vogel lay out the kinds of evidence that likely persuaded Hauglid in Vogel's latest video series (particularly [part 1](https://www.youtube.com/watch?v=AtJT_xjIgdM) and [part 7](https://www.youtube.com/watch?v=K_7haq-PdjU)).
 
