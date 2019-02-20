@@ -5,7 +5,7 @@ doctype: short-analysis
 layout: page
 ---
 
-Some theories for Book of Mormon authorship invoke co-authors instead of Joseph (e.g. [Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3), [Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6), [Trebas](https://www.youtube.com/watch?v=wf3MluItWQE&t=35s)), but other scholars (e.g., Brent Metcalfe [facebook communication]) maintain that Joseph Smith was primarily responsible for creating the Book of Mormon.
+Some theories for Book of Mormon authorship invoke co-authors instead of Joseph (e.g. [Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3), [Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6), [Trebas](https://www.youtube.com/watch?v=wf3MluItWQE&t=35s)), but other scholars (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and Brent Metcalfe [facebook communication]) maintain that Joseph Smith was primarily responsible for creating the Book of Mormon.
 
 Was Joseph Smith capable of such a feat?
 
