@@ -11,4 +11,4 @@ George Albert Smith, in the [1950 Conference Report, pg 169](https://archive.org
 
 > Our Heavenly Father has told us how it can be avoided, and that is our mission, in part, to go into the world and explain to people how it may be avoided, and that people need not be unhappy as they are everywhere but that happiness may be in their lives—because when the Spirit of God burns in your soul, you cannot be otherwise than happy.
 
-h/t [this post](https://archive.org/stream/conferencereport1950a#page/n169/mode/2up)
+[Lost the source where this was originally pointed out.]
