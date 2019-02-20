@@ -41,7 +41,7 @@ Even though this has been a positive experience in general, it's still very chal
 
 This transition has also influenced many of my relationships with friends and family.[^relationshipcommonground]  The process of rebuilding those relationships has been quite challenging but has generally gone well.
 
-This time of viewing life from outside the Gospel/Church perspective---which is the only perspective I've ever really known---has been one of the most enlightening phases of my life (similar to the major enlightenment I experienced on my mission).  Many things that never quite made sense suddenly have an explanation to my mind, and that's extremely satisfying.[^makingsense]  And, as far as my own sense of moral obligation goes, I feel confident that [morality transcends religious belief]({{ "/morality-transcends-religious-belief/" | relative_url }})) and is still central to living a good life.
+This time of viewing life from outside the Gospel/Church perspective---which is the only perspective I've ever really known---has been one of the most enlightening phases of my life (similar to the major enlightenment I experienced on my mission).  Many things that never quite made sense suddenly have an explanation to my mind, and that's extremely satisfying.[^makingsense]  And, as far as my own sense of moral obligation goes, I feel confident that [morality transcends religious belief]({{ "/morality-transcends-religious-belief/" | relative_url }}) and is still central to living a good life.
 
 A general outline of my current beliefs about life and morality, including the resonance my beliefs share with other belief systems, may be found [here]({{ "/summary-of-my-beliefs/" | relative_url }}).
 
