@@ -19,6 +19,7 @@ layout: page
 1. [Questions to Ask: section on Spiritual Confirmation and Priesthood Guidance]({{ "/questions-to-ask/#spiritual-confirmation-and-priesthood-guidance" | relative_url }})
 1. [The parts of an LDS spiritual experience]({{ "/parts-of-an-lds-spiritual-experience/" | relative_url }}) (short analysis)
 1. [Hermetically Sealed Systems in LDS Thought]({{ "/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf" | relative_url}}) (pdf)
+1. ["A Different Way of Knowing": The uses of irrationality ... and its limitations"]({{ "/different-way-of-knowing-uses-limitations-irrationality/" | relative_url }}) (Greta Christina essay)
 1. [How do you know?](https://sapiencuriosus.wordpress.com/2018/03/29/how-do-you-know/)
 1. [Comment on "salt"](https://www.reddit.com/r/exmormon/comments/1rj0l1/in_case_you_ever_sit_by_boyd_k_packer_on_a_plane/cdnvt29/) (reddit post)
 1. [On epistemology from DebateAnAtheist](https://www.reddit.com/r/DebateAnAtheist/comments/9caiv8/on_epistemology/) (reddit post)

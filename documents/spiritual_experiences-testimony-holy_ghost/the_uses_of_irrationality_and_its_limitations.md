@@ -1,5 +1,5 @@
 ---
-title: "A Different Way of Knowing": The uses of irrationality... and its limitations
+title: "\"A Different Way of Knowing\": The uses of irrationality ... and its limitations"
 permalink: /different-way-of-knowing-uses-limitations-irrationality/
 doctype: short-essay
 maintopic: epistemology
@@ -8,7 +8,7 @@ layout: page
 
 *The following is a short essay written by Greta Christina, published May 18, 2008 on [her blog](https://gretachristina.typepad.com/greta_christinas_weblog/2008/05/a-different-way.html).  Her arguments also seem relevant to facets of LDS epistemology.*
 
-*I've made one minor grammatical change and added some topic headings.*
+*I've made a minor grammatical change and added topic headings which represent my own judgement on natural subdivisions and topics.*
 
 ---
 
@@ -92,7 +92,7 @@ The rational, scientific may of knowing the world? Big success. Wildly positive 
 
 Yes, of course there are unanswered questions and ongoing debates on the frontiers of science. No scientist would argue otherwise. But there are basic fundamental realities about the world that we now know -- as well as we can possibly know anything -- that we didn't know, say, five hundred years ago, or even a hundred. Science doesn't tell us the absolute truth about reality... but it gives us a better and better approximation of it all the time.
 
-### Squabbling
+### The intuitive world: divided
 
 Now. The intuitive, religious way of knowing the world? How has that worked out? How has that increased our information and understanding of the real, external world?
 
@@ -101,6 +101,8 @@ Not so much.
 What we have now is pretty much what we've had for thousands of years of human history. We have different people squabbling, with greater or lesser degrees of hostility, over which religious intuition is the right one. And none of them are able to support their claim with anything other than the circular, self-defining "evidence" of their own religious texts and authorities... and, of course, their own intuitions. We are not moving towards general agreement and consensus on certain basic issues, the way science is. When it comes to religious beliefs, we are every bit as divided now as we have ever been in all of human history.
 
 You'd think that, after thousands of years of religions intuitively gathering knowledge about the world, we'd have... well, more knowledge. Better techniques for praying; more accurate prophecies; something. At the very least, you'd think we'd have come up with a method for determining which religious claims are more likely to be correct. We don't. All we have is a different set of opinions than we used to, modified to suit the culture or sub-culture that holds them.
+
+### Not completely beyond evidence or reason
 
 And here's the thing. That whole trope about how religious beliefs are completely beyond evidence or reason? I don't think that's really true. I mean, if you're talking about the extremely abstract, "God is love" God of much modern liberal theology, the one that's been abstracted so far out of the real world that it barely deserves the name "God"... then sure. But if you're talking about a God who acts on the physical world in any way whatsoever, then that is a hypothesis that is absolutely not beyond evidence or reason. Sure, we might not be able to see God directly; but we can't see quarks directly either, and we know they exist... because we can see and document their effects in the physical world. If God acts on the physical world, we should be able to see and document that effect.
 
@@ -116,7 +118,7 @@ The "God's existence or non-existence is a question beyond evidence or reason" t
 
 The reality is that we do not see the effects of God on the physical world, in any way that we can recognize and document and agree on. And the best explanation for that is not that God is unknowable, or abstract, or in hiding. The best explanation for that is that God does not exist.
 
-###  Respect for intuition and the Middle Ages
+### Vulcan or the Middle Ages?
 
 I have great respect for irrational intuition. I've made some of the most important decisions of my life on a sudden, strong impulse: the rushing together of all my instincts into one clear, quiet voice telling me what my next move should be. And most of the time, those decisions have been right.
 
