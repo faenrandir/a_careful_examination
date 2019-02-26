@@ -5,7 +5,7 @@ doctype: transcription-of-analysis
 layout: page
 ---
 
-_From [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html)_
+*The remainder of this page is taken directly from [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html) blog.  Some of these points are stronger than others, I think.*
 
 If there is a hub around which LDS epistemology revolves, surely it is to be found in Moroni’s Promise:
 
