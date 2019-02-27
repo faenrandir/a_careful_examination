@@ -21,7 +21,7 @@ Joseph refers to Egyptian characters in specific locations on facsimile 3 and [h
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
-[In a recent interview](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/4812adc830b40ee2956065e7d7363aa0fbc9c5c4/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf), the well-known Mormon historian Richard Bushman stated:
+[In a recent interview]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}), the well-known Mormon historian Richard Bushman stated:
 
 > ... there is phrasing everywhere [in the Book of Mormon], long phrases, that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible ...
 
@@ -32,7 +32,7 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 
 **More**:
 
-* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon](https://faenrandir.github.io/a_careful_examination/lds-scholars-modern-origin-evidence/)
+* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})
 * [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
 ## 3. Spiritual confirmations are common to members of many religions
@@ -70,7 +70,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 * [According to Brian Hales](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/), Joseph's first polygamous relationship (with the teenage maid, Fanny Alger) was viewed as adulterous by his first wife, Emma, and close friend Oliver Cowdery.
 * After the death of the Walker family's mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, [encouraging the father to leave on a two year mission to the eastern states](http://www.wivesofjosephsmith.org/23-LucyWalker.htm).  While the father was away, [he married the 17 year old, Lucy](http://josephsmithspolygamy.org/plural-wives-overview/lucy-walker/).
 * Joseph [frequently misled others about practicing polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}).
-* Joseph promised a 14 year old girl---one [who said](https://archive.org/stream/representativewo00crocrich#page/112/search/hated+polygamy) "I hated polygamy with my heart"---that, [in her own words](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/b7b8c5ae69bc11c1171ccc7c94517b537b9656c5/documents/polygamy/HMK-1881-Autobiography/Helen-Mar-Kimball-Whitney-1881-Autobiography.pdf), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
+* Joseph promised a 14 year old girl---one [who said](https://archive.org/stream/representativewo00crocrich#page/112/search/hated+polygamy) "I hated polygamy in my heart"---that, [in her own words]({{ "/helen-mar-kimball-whitney-1881-autobiography/" | relative_url }}), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
 * After other failed marriage proposals to Zina Huntington, Joseph Smith proposed again to the [happily newlywed, seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young): "I [Joseph] have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
 
 **More**:
