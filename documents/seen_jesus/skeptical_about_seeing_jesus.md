@@ -32,20 +32,20 @@ Perhaps these men know that their visitation was at least somewhat "in their min
 If a person _actually_ spoke with an omniscient, omnipotent being, this is hugely important to humankind.  Such an experience should be related in great detail so that we may at least begin to evaluate its reliability and objectivity.  For all those that claim to have seen God or Jesus, please relate the following detail:
 
 1. Did you touch the visitor?  What did they feel like?  What was the feel of the fabric?
-2. What kind of clothing did they wear?  How was it cut?  Was it hemmed?  Did it hang loosely or was it tight?
-3. In what manner did the being enter and exit from your presence?
-4. In what physical state were you?  Waking from sleep?
-5. What food or other substances had you consumed in the days/hours before the event?
-6. What was your mental state at the time?
-7. What activities had you engaged in within the previous 24 hours?
-8. With what accent did the being speak?  High or low pitch?  Raspiness / lisp?
-9. Any distinctive vocal attributes?
-10. Was the communication discerned through the ears or in one's mind?
-11. Did the being open their mouth while they spoke?  In what manner did they enunciate their words? (e.g., Brits hardly open their mouths).
-12. Were handprint and footprint scars plainly visible?  Raised or recessed?
-13. What was the shade of skin?  Was hair visible on the hands, feet, neck?  What color of eyes?  Slant of eyes?  Shape of nose?  Size of nose?  Size of lips?  Color of hair?  Hair style?  Hair thickness?  Any visible veins or arteries?  Facial hair?  Trimmed beard or flowing beard?  Trimmed to what length?  Trimmed to exactness? etc., etc.
-14. Do you think another person in the room would have observed the being?
-15. Did the being say anything that extended beyond one's preconceived notion of the kinds of things Jesus/God ought to say? (i.e., love each other)
+1. What kind of clothing did they wear?  How was it cut?  Was it hemmed?  Did it hang loosely or was it tight?
+1. In what manner did the being enter and exit from your presence?
+1. With what accent did the being speak?  High or low pitch?  Raspiness / lisp?
+1. Any distinctive vocal attributes?
+1. Was the communication discerned through the ears or in one's mind?
+1. Did the being open their mouth while they spoke?  In what manner did they enunciate their words? (e.g., Brits hardly open their mouths).
+1. Were handprint and footprint scars plainly visible?  Raised or recessed?
+1. What was the shade of skin?  Was hair visible on the hands, feet, neck?  What color of eyes?  Slant of eyes?  Shape of nose?  Size of nose?  Size of lips?  Color of hair?  Hair style?  Hair thickness?  Any visible veins or arteries?  Facial hair?  Trimmed beard or flowing beard?  Trimmed to what length?  Trimmed to exactness? etc., etc.
+1. Do you think another person in the room would have observed the being?
+1. Did the being say anything that extended beyond one's preconceived notion of the kinds of things Jesus/God ought to say? (i.e., love each other)
+1. In what physical state were you?  Waking from sleep?
+1. What food or other substances had you consumed in the days/hours before the event?
+1. What was your mental state at the time?
+1. What activities had you engaged in within the previous 24 hours?
 
 * How well would the details of the various accounts of these visitations match across accounts?
 * If Jesus/God merely appears to a person in whatever form they _think_ Jesus/God should appear to them in, how can we distinguish an objectively real visitation from an imagined visitation?
