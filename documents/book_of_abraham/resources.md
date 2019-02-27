@@ -7,7 +7,7 @@ maintopic: book-of-abraham
 ---
 
 * [The Joseph Smith Papyri](https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be) (youtube)
-* [The Book of Abraham: Criticisms, Defenses, and Implications](https://www.dropbox.com/s/tz1iy4q7w39wvor/The%20Book%20of%20Abraham%20Criticisms%20Defenses%20and%20Implications.pdf)
+* [The Book of Abraham: Criticisms, Defenses, and Implications]({{ "/documents/book_of_abraham/The_Book_of_Abraham_Criticisms_Defenses_and_Implications.pdf" | relative_url }})
 * [Truth of the Book of Abraham](https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw) (Dan Vogel)
 * [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
 * Radio Free Mormon and Bill Reel: The Book of Abraham [part 1](https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-049-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-1/) and [part 2](https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-050-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-2/)
