@@ -361,9 +361,9 @@ As demonstrated above, the doctrines Callister points to are represented in serm
 
 The doctrine on faith in Alma 32 appears to mostly be an extension of the parable of the sower found in Matthew 13:
 
-> <span style="color:red">[Matthew 13:6](https://www.lds.org/scriptures/nt/matt/13.6) And when the sun was up, they were scorched; and because they had no root, they withered away.</span>
+> [Matthew 13:6](https://www.lds.org/scriptures/nt/matt/13.6) And when the sun was up, they were scorched; and because they had no root, they withered away.
 
-> <span style="color:red">[Alma 32:38](https://www.lds.org/scriptures/bofm/alma/32.38) ... and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.</span>
+> [Alma 32:38](https://www.lds.org/scriptures/bofm/alma/32.38) ... and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.
 
 And, if the sermon were of ancient origin, we are left wondering why the author of frequently quotes New Testament verses and phrases but not Old Testament verses and phrases (see [book of mormon origins project on Alma 32](https://www.bookofmormonorigins.com/content/alma/chapter_32.html)).
 
