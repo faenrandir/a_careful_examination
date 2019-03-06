@@ -323,7 +323,7 @@ As an example, [a father-in-law recently wrote to his unbelieving son-in-law](ht
 
 > ... be warned, sometimes if he is having a hard time getting through, he may send a tragedy your way, to help break down the wall that you may have unknowingly built ...
 
-Following every part of the LDS program is seen as vitally important for safety.  For instance, Julie Beck tells the story of how drinking coffee was the primary reason her family fell away from the LDS Church even though they were following the other prescribed activities of paying tithing and Sunday worship:
+Following every part of the LDS program is seen as vitally important for safety.  For instance, in her [2007 General Conference address](https://www.lds.org/general-conference/2007/04/remembering-repenting-and-changing?lang=eng),[^coffee_repeated] Julie Beck tells the story of how drinking coffee was the primary reason a family largely fell away from the LDS Church even though they were following the other prescribed activities of paying tithing and Sunday worship:
 
 > My next story is about a woman I will call Mary. She was the daughter of faithful pioneer parents who had sacrificed much for the gospel. She had been married in the temple and was the mother of 10 children. She was a talented woman who taught her children how to pray, to work hard, and to love each other. She paid her tithing, and the family rode to church together on Sunday in their wagon.
 
@@ -374,3 +374,5 @@ A significant number of teachings, cultural factors, and practices align to enco
 [^secondwife_secret]: According to current Church policy, a person may only be legally married to one person at a time, but a man may be _sealed_ to more than one living woman at a time.
 
 [^exceptions_to_communication]: Exceptions to the communication policy are rare---for instance, a father was [denied contact information for a son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
+
+[^coffee_repeated]: The story of Mary and her coffee was repeated [on an lds radio episode](https://broadcast-portal.lds.org/ldsradio/pdf/stories-general-conference/stories-young-women-ep-03.pdf?download=true).

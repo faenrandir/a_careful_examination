@@ -7,7 +7,7 @@ layout: page
 
 While most of these are likely to explain their individual observations in other ways, the following work or observations by believing LDS scholars---especially when viewed collectively---appear to lend weight to the modern origin hypothesis for the existence of the Book of Mormon:
 
-1. Nick Frederick, [BYU Religion Professor](https://religion.byu.edu/nick_frederick) --- The Book of Mormon [contains at least 650 phrases that can be convincingly be shown to be from the New Testament]({{ "/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (i.e., not accidental).  Language and themes from the New Testament are deliberately used in the Book of Mormon.
+1. Nick Frederick, [BYU Religion Professor](https://religion.byu.edu/nick_frederick) --- The Book of Mormon [contains at least 650 phrases that can convincingly be shown to be from the New Testament]({{ "/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (i.e., not accidental).  Language and themes from the New Testament are deliberately used in the Book of Mormon.
 
     > what we have here is **a conscious attempt to bring the language of the Book of Revelation into the Book of Mormon**.
 
