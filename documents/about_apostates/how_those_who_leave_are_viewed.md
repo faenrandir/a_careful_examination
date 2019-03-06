@@ -99,8 +99,6 @@ I am only aware of one positive or neutral statement about members who leave the
 
 > In this Church that honors personal agency so strongly, that was restored by a young man who asked questions and sought answers, we respect those who honestly search for truth. It may break our hearts when their journey takes them away from the Church we love and the truth we have found, but we honor their right to worship Almighty God according to the dictates of their own conscience, just as we claim that privilege for ourselves.
 
-*Note: This statement has not been reproduced in any LDS teaching material, or echoed by any other leader, to date.*
-
 Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)
 
 ## Negative statements about those who leave
