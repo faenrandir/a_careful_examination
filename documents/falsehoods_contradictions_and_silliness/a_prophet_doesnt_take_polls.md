@@ -38,10 +38,11 @@ Here are the surveys the Church was performing previous to and those it has cond
 1. Survey on single members' concerns
 1. Mission age change focus group (anecdotal) [here](http://www.jrganymede.com/2013/11/18/the-research-information-division/)
 1. Survey on the new Gospel Topics essays, September 2014, [here](https://mormonleaks.io/wiki/documents/8/85/The_New_Gospel_Topics_Articles_on_LDS.org_that_Deal_with_Challenging_Information-2014-09.pdf)
-1. Survey on gays in the Church, Nov 2017 [here](https://www.reddit.com/r/exmormon/comments/7a7jih/so_i_got_a_random_survey_from_tscc_why_are_they/)
+1. Survey on gays in the Church, Nov 2017, [here](https://www.reddit.com/r/exmormon/comments/7a7jih/so_i_got_a_random_survey_from_tscc_why_are_they/)
+1. Correlation Research Division Youth Survey on youth committment to and engagement in the church, 56 pages, 2018, [here](https://web.archive.org/web/20190308140839/https://lds.qualtrics.com/CP/File.php?F=F_0CEgbODHeuqVV3f)
 
 ---
 
 *note*: very small list originally shared [here](https://www.reddit.com/r/exmormon/comments/3lzsn2/a_prophet_doesnt_take_a_poll_to_see_which_way_the/)
 
-*acknowledgements*: About 10 of these were taken from a list made by /u/japanesepiano, and other bullets were supplemented with some of their info.  1963 survey h/t [No_Engineering](https://www.reddit.com/r/exmormon/comments/9j6ziv/my_brother_a_high_ranking_byu_professor_just_told/e6p55b9/); questions on perceptions and attitudes regarding religion and spirituality h/t [Stuart98](https://www.reddit.com/r/exmormon/comments/99r7o7/anyone_else_get_this_church_survey_emailed_to_them/).  
+*acknowledgements*: About 10 of these were taken from a list made by /u/japanesepiano, and other bullets were supplemented with some of their info.  1963 survey h/t [No_Engineering](https://www.reddit.com/r/exmormon/comments/9j6ziv/my_brother_a_high_ranking_byu_professor_just_told/e6p55b9/); questions on perceptions and attitudes regarding religion and spirituality h/t [Stuart98](https://www.reddit.com/r/exmormon/comments/99r7o7/anyone_else_get_this_church_survey_emailed_to_them/); 2018 Correlation survey h/t [formermormer](https://www.reddit.com/r/exmormon/comments/ayqnk7/2018_youth_survey_56_page_survey_from_the/).
