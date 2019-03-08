@@ -3,7 +3,7 @@ title: "Open thy mouth, and it shall be filled"
 permalink: /book-of-enoch-open-thy-mouth-and-it-shall-be-filled/
 doctype: short-analysis
 maintopic: book-of-enoch
-layout:page
+layout: page
 ---
 
 ### "Open thy mouth, and it shall be filled"
