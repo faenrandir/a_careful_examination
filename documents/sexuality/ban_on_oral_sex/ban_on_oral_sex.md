@@ -63,3 +63,14 @@ I asked (via email) practicing sex therapists in Utah who see many LDS clients:
 > The education I have received has taught that the LDS Church wants the couple to determine what is sexually okay within the boundaries of their sexual relationship along with the direction of God. If the couple feels uneasy or unsure of a particular practice, they are counseled to talk to their bishop.
 
 *Note: After receiving this communication, I sent this therapist links to the documents they referenced and my above analysis but received no reply back.*
+
+## See also
+
+Originally posted at:
+
+* /r/mormon [here](https://www.reddit.com/r/mormon/comments/5ln2o8/oral_sex_gospel_hobbies_and_the_consequences_of/)
+* /r/ldssexuality [here](https://www.reddit.com/r/ldssexuality/comments/5lftrk/the_lds_church_ban_on_oral_sex/)
+
+Follow up post:
+
+[Oral sex, gospel hobbies, and the consequences of (the lack of) policy clarification](https://www.reddit.com/r/mormon/comments/5ln2o8/oral_sex_gospel_hobbies_and_the_consequences_of/)

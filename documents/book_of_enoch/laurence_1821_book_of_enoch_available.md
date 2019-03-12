@@ -18,6 +18,12 @@ So, while the book may have been difficult to come by in Germany, it did sell ou
 
 In general, export of books from Britain to the US was very significant (as discussed by Gilreath, in [American Book Distribution](https://www.americanantiquarian.org/proceedings/44539364.pdf)), and Botein in 1776 noted that "London booksellers relegated North America as a convenient dumping ground for books whose sales had slowed in London, thus making them too expensive to keep in inventory." (quoting [Gilreath](https://www.americanantiquarian.org/proceedings/44539364.pdf)).  Oxford was close to London---perhaps by the late 1820s it was one of those titles being dumped on North America?
 
+## James Bruce translated the first 18 chapters
+
+In the preliminary dissertation to his 1821 translation, on page ix, [Laurence noted](https://books.google.com/books?id=IFM7AQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=war&f=false):
+
+> And I heard from them every thing, and I understood what I saw. ---After this follows the history of the angels, of their having descended from heaven, and produced giants with the daughters of men; of their having instructed these in the arts of war and peace, and luxury.  The names of the leading spirits are mentioned, which appear to be of Hebrew original, but corrupted by Greek pronunciation.  The resolution of God to destroy them is then revealed to Enoch.  These topics occupy about eighteen chapters, which Mr. Bruce had translated into English, but weary of the subject proceeded no further. ...
+
 ## No direct evidence to date
 
 Nibley notes that the book was [not found listed in Thomas Jefferson's library](https://www.lds.org/study/ensign/1975/12/a-strange-thing-in-the-land-the-return-of-the-book-of-enoch-part-2?lang=eng) which was continued until 1826.  Regardless, finding a copy that existed or was listed to have existed before 1830 in the region Joseph lived (or even in the U.S.) would strengthen the case that Joseph had stumbled or found the book.  Even without such a discovery, it is not unreasonable to believe that copies existed in the U.S. before 1830 based on extrapolation of the circumstantial evidence.
