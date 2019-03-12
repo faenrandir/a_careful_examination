@@ -19,34 +19,34 @@ My great Grandfather Kimball and his brother came from England and both assisted
 
 This promise was so great that I will-ingly gave myself to purchase so glorious a reward. None but God & his angels could see my mother’s bleeding heart—when Joseph asked her if she was willing, she replied “If Helen is willing I have nothing more to say.” She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had scarcely seen her fifteenth summer, following in the same thorny path, in her mind she saw the misery which was as sure to come as the sun was to rise and set; but it was all hidden from me.
 
-> I thought through this life my time will be my own
-> The step I now am taking’s for eternity alone,
-> No one need be the wiser, through time I shall be free,
-> And as the past hath been the future still will be.
-> To my guileless heart all free from worldly care
-> And full of blissful hopes—and youthful visions rare
-> The world seamed bright the thret’ning clouds were kept
-> From sight, and all looked fair but pitying angels wept.
-> They saw my youthful friends grow shy and cold.
-> And poisonous darts from sland’rous tongues were hurled,
-> Untutor’d heart in thy gen’rous sacrafise,
-> Thou dids’t not weigh the cost nor know the bitter price;
-> Thy happy dreems all o’er thou’rt doom’d alas to be
-> Bar’d out from social scenes by this thy destiny,
-> And o’er thy sad’nd mem’ries of sweet departed joys
-> Thy sicken’d heart will brood and imagine future woes,
-> And like a fetter’d bird with wild and longing heart,
-> Thou’lt dayly pine for freedom and murmor at thy lot;
-> But could’st thou see the future & view that glorious crown,
-> Awaiting you in Heaven you would not weep nor mourn, [p. 2]
-> Pure and exalted was thy father’s aim, he saw
-> A glory in obeying this high celestial law,
-> For to thousands who’ve died without the light
-> I will bring eternal joy & make thy crown more bright.
-> I’d been taught to receive the Prophet of God
-> And receive every word as the word of the Lord.
-> But had this not come through my dear father’s mouth,
-> I should ne’r have received it as God’s sacred truth.
+    I thought through this life my time will be my own
+    The step I now am taking’s for eternity alone,
+    No one need be the wiser, through time I shall be free,
+    And as the past hath been the future still will be.
+    To my guileless heart all free from worldly care
+    And full of blissful hopes—and youthful visions rare
+    The world seamed bright the thret’ning clouds were kept
+    From sight, and all looked fair but pitying angels wept.
+    They saw my youthful friends grow shy and cold.
+    And poisonous darts from sland’rous tongues were hurled,
+    Untutor’d heart in thy gen’rous sacrafise,
+    Thou dids’t not weigh the cost nor know the bitter price;
+    Thy happy dreems all o’er thou’rt doom’d alas to be
+    Bar’d out from social scenes by this thy destiny,
+    And o’er thy sad’nd mem’ries of sweet departed joys
+    Thy sicken’d heart will brood and imagine future woes,
+    And like a fetter’d bird with wild and longing heart,
+    Thou’lt dayly pine for freedom and murmor at thy lot;
+    But could’st thou see the future & view that glorious crown,
+    Awaiting you in Heaven you would not weep nor mourn, [p. 2]
+    Pure and exalted was thy father’s aim, he saw
+    A glory in obeying this high celestial law,
+    For to thousands who’ve died without the light
+    I will bring eternal joy & make thy crown more bright.
+    I’d been taught to receive the Prophet of God
+    And receive every word as the word of the Lord.
+    But had this not come through my dear father’s mouth,
+    I should ne’r have received it as God’s sacred truth.
 
 Two years after the martyrdom of Joseph and Hyrum I loved and married your father, Horace Kimball Whitney, eldest son of Bishop Newel K. and Elizabeth Ann Whitney. He stood proxy for Joseph & I stood for Elizabeth Sikes. We were sealed in the Nauvoo Temple over the alter on the 3d of Feb. 1846. & we soon after crossed the
 
