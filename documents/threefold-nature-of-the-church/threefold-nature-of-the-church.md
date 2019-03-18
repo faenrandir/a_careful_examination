@@ -65,8 +65,8 @@ The totalistic mindset is manifest to some extent in these principles or teachin
     * Abrahamic tests of faith like (*Critical Source*) [requiring a man's wife](http://thoughtsonthingsandstuff.com/heber-c-kimball-passing-the-abrahamic-test-of-polygamy/).
     * Requiring the "[sacrifice of all things](https://www.lds.org/scriptures/gs/sacrifice?lang=eng)".
 * Obedience to authority
-    * Follow the leaders [even if they ask you to do something wrong](https://www.lds.org/manual/aaronic-priesthood-manual-3/lesson-24-follow-the-prophet?lang=eng).
-    * [Obedience is the first law of heaven.](https://www.lds.org/manual/preparing-for-exaltation-teachers-manual/lesson-23-obedience-the-first-law-of-heaven?lang=eng)
+    * Follow the leaders [even if they ask you to do something wrong](https://www.lds.org/search?lang=eng&query=%22and%20it%20is%20wrong%2C%20and%20you%20do%20it%2C%20the%20Lord%20will%20bless%20you%20for%20it%22) (e.g., [Aaronic Priesthood Manual 3](https://www.lds.org/bc/content/shared/content/english/pdf/34822_AaronicPriesthood3/AP_Manual_3_34822_eng.pdf), pg 92, "Elder Marion G. Romney recalled ...")
+    * [Obedience is the first law of heaven.](https://www.lds.org/search?lang=eng&query=obedience%20is%20the%20first%20law%20of%20heaven) (e.g., [Preparing For Exaltation Teacher's Manual](https://www.lds.org/bc/content/shared/content/english/pdf/31384_PreparingforExaltation/PreparingForExaltation_31384_eng.pdf) lesson 23)
 * Attitude towards those who leave
     * "Faith-killers are to be shunned" ([Asay 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng))
     * "When you joined this Church you enlisted to serve God. When you did that you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant." [Teachings of Presidents of the Church: Joseph Smith](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
