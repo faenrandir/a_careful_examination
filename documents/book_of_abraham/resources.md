@@ -18,7 +18,7 @@ maintopic: book-of-abraham
 ## Apologetic
 
 * [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
-* [The Principles of Book of Abraham and Kirtland Egyptian Papers Symbolism](https://www.reddit.com/r/mormonscholar/comments/8eeaeh/rough_draft_the_principles_of_book_of_abraham_and/) (Edwin Goble argues for deeper symbolism)
+* [The Principles of Book of Abraham and Kirtland Egyptian Papers Symbolism](https://www.reddit.com/r/mormonscholar/comments/b3xrwi/the_principles_of_book_of_abraham_and_kirtland/) (Edwin Goble argues for "disconnected symbolism, where these symbols are both section markers, as well as pointers/references like bookmarks to content in an unavailable, non-extant Egyptian manuscript from antiquity")
 * [FairMormon - Book of Abraham](https://www.fairmormon.org/answers/Book_of_Abraham)
 * [The Joseph Smith Papyrus Was Never The Basis For The Book of Abraham](http://www.conflictofjustice.com/joseph-smith-papyrus-basis-book-of-abraham/) (conflict of justice)
 * [41 Evidences For Joseph Smith’s Book of Abraham In Archaeology](http://www.conflictofjustice.com/evidences-joseph-smiths-book-of-abraham-egyptology-archaeology/) (conflict of justice)
