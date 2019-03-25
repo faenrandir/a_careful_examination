@@ -8,10 +8,14 @@ layout: page
 
 Many believing members are supportive of those who decide to leave the LDS Church.
 
+### Supported her
+
 https://www.reddit.com/r/exmormon/comments/6fjg3i/just_came_clean_to_my_first_tbm_friend_and_it/
 
 > Her parents attended the same student ward as my parents when they all went to ucla together. We've known each other since birth and I've been hella afraid at how a tbm would react - especially that tbm. She said she supported me, doesn't understand the churches policy on 'ssa' (I'm gay) and would be there as I go through the process of ending my mission early. It turns out better than you'd think :')
 > Edit: she just competed her mission on temple square and is preparing to be married in the temple!
+
+### Thank you so much for being kind, good, honest, caring people. Thank you for never abandoning me
 
 https://www.reddit.com/r/exmormon/comments/76zcb3/after_reading_so_many_stories_herei_have/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi
 
@@ -25,8 +29,12 @@ https://www.reddit.com/r/exmormon/comments/76zcb3/after_reading_so_many_stories_
 
 > So, to my family that will never see this post, thank you so much for being kind, good, honest, caring people. Thank you for never abandoning me. Thank you for always loving me, even when I was an insufferable ass. I'm so happy I have such a strong relationship with you all, despite our varying beliefs.  And to everyone else out there, if your paradigm was/is the complete opposite, I hope your families come around and bonds can be rebuilt.
 
-TracingWoodgrains
+### TracingWoodgrains --- Unhesitatingtly supportive reactions
 
 https://www.reddit.com/r/exmormon/comments/79vn12/update_my_family_and_friends_didnt_reject_me_when/
 
 https://imgur.com/a/VLIxR
+
+###  Really nice email back from ... ward member
+
+https://www.reddit.com/r/exmormon/comments/b5eohl/update_really_nice_email_back_from_tbm_ward_member/
