@@ -19,9 +19,9 @@ Provided the data upon which the following reports were based, at least in large
 
 ### Faith Crisis Report 
 
-[Faith_Crisis_Report_R24B.pdf]({{ "/documents/faith_crisis_study/Faith_Crisis_Report_R24B.pdf" | relative_url }})
+[Faith_Crisis_R28b.pdf]({{ "/documents/faith_crisis_study/Faith_Crisis_Report_R28b.pdf" | relative_url }})
 
-Report prepared for Dieter Uchtdorf in 2013 [meaning that he was the target audience, **not** that he or any other Church leader commissioned the report], presented to him by Marlin Jensen. The report includes a recap of the 2011 research and was meant to inform him and other general authorities so they could better understand what is happening (and take appropriate measures to compassionately address it).
+For context, please see the Prologue on page iii (pdf pg. 3) and Project Impetus & Background on pages 135–139 (pdf pgs. 68–70).
 
 ### Faith Crisis Chronicles
 
@@ -40,3 +40,5 @@ Part of this presentation focused on “user generated content” in the post-Mo
 Finally, please note that this project was pro-bono work (conducted without pay and without being commissioned by Church leadership).  These are NOT official LDS reports, internal or otherwise.
 
 edit: Clarification about target audience and the non-official nature of the work.  Also, added the Initial Report section and included mention of John Dehlin as co-lead on the project.
+
+edit2: Travis and Greg sent me an updated report which provides complete context for the genesis of the report, so I now link to that report and reference the pages that provide that context.
