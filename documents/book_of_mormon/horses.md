@@ -46,7 +46,7 @@ Regardless, the idea that Joseph would have shifted the concept of deer to horse
 
 Linguistically, then, the most improbable loan shift seems to be from "deer" to "horse".  None of the preconditions are present which would make this a viable solution.
 
-### Joseph Smith's milieu?
+## Joseph Smith's milieu?
 
 The prevailing thought in Joseph Smith's time was that horses were brought to the Americas by the Europeans.  However, the popular book "The Natural and Aboriginal History of Tennessee" published in 1823 interprets horse tracks as potentially ancient.  These potentially ancient horse tracks were found:
 
