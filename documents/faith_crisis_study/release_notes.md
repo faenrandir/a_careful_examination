@@ -42,3 +42,5 @@ Finally, please note that this project was pro-bono work (conducted without pay 
 edit: Clarification about target audience and the non-official nature of the work.  Also, added the Initial Report section and included mention of John Dehlin as co-lead on the project.
 
 edit2: Travis and Greg sent me an updated report which provides complete context for the genesis of the report, so I now link to that report and reference the pages that provide that context.
+
+Also posted to the [mormonscholar](https://www.reddit.com/r/mormonscholar/comments/9sgdvt/release_of_report_chronicles_and_presentation_on/) and [exmormon](https://www.reddit.com/r/exmormon/comments/9sgh3k/release_of_report_chronicles_and_presentation_on/) subreddits.
