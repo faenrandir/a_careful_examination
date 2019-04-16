@@ -1,5 +1,5 @@
 ---
-title: "How could Joseph Smith have composed the Book of Mormon?
+title: "How could Joseph Smith have composed the Book of Mormon?"
 permalink: /how-could-joseph-smith-composed-bom/
 maintopic: book-of-mormon
 doctype: short-analysis
