@@ -6,6 +6,10 @@ featuredimage: /media/anthony-sweat-hat-1024x694.jpg
 layout: page
 ---
 
+### Foreword
+
+The most compelling model for the creation of the Book of Mormon is that [Joseph Smith primarily composed the book orally]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }}).  Still, the following is an interesting counter-theory to the "Joseph primarily authored it" model.
+
 ### Introduction
 
 Two main data points converge to suggest that a pre-written text of some kind was used for the dictation of the Book of Mormon.
