@@ -8,7 +8,7 @@ layout: page
 
 ### Foreword
 
-The most compelling model for the creation of the Book of Mormon is that [Joseph Smith primarily composed the book orally]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }}).  Still, the following is an interesting counter-theory to the "Joseph primarily authored it" model.
+The most compelling model for the creation of the Book of Mormon is that [Joseph Smith primarily composed the book orally]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }}).  Still, the following is an interesting counter-theory to that model.
 
 ### Introduction
 
