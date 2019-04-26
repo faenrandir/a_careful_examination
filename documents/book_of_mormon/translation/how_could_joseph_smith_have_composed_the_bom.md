@@ -29,3 +29,6 @@ While other models exist (discussed in the introduction [here]({{ "/hidden-mater
 
 * [Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }})
 * [The context of Emma Smith's Book of Mormon witness]({{ "/context-of-emma-smiths-bom-witness/" | relative_url }})
+* [Mosiah Priority](https://www.reddit.com/r/mormon/comments/bgjm60/mosiah_priority/) (post by ImTheMarmotKing)
+* [Evidence of Oral Composition](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4l5gu/) (comment by ImTheMarmotKing)
+* [Explaining Consistencies](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4u158/) (comment by ImTheMarmotKing)
