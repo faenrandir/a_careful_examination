@@ -32,3 +32,4 @@ While other models exist (discussed in the introduction [here]({{ "/hidden-mater
 * [Mosiah Priority](https://www.reddit.com/r/mormon/comments/bgjm60/mosiah_priority/) (post by ImTheMarmotKing)
 * [Evidence of Oral Composition](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4l5gu/) (comment by ImTheMarmotKing)
 * [Explaining Consistencies](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4u158/) (comment by ImTheMarmotKing)
+* [Rebuttal to Hamer](https://www.reddit.com/r/mormon/comments/bm4v4p/an_open_response_to_john_hamers_claims_about_the/) (post by stisa79)
