@@ -22,6 +22,8 @@ And the website [Mormon and Gay](https://mormonandgay.lds.org/articles/frequentl
 
 The following statements were all published by the Church of Jesus Christ of Latter-day Saints.  I am not aware that any apology or redaction exists for any of these statements. Statements are listed in chronological order.
 
+A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not "born that way" and in various ways suggest that homosexual *orientation* may be overcome (i.e., that the orientation may be reversed or significantly diminished).
+
 ### They can overcome and return to normal ... living
 
 > homosexuals can be assured that in spite of all they may have heard from other sources, they can overcome and return to normal, happy living.
@@ -40,7 +42,13 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 [New Horizons for Homosexuals](http://www.mormonthink.com/files/New-Horizons-for-Homosexuals-by-Apostle-Spencer-W-Kimball.pdf), published by the church in 1971
 
-### Homosexuality is curable
+### born with an attraction a malicious lie
+
+> There is a falsehood that some are born with an attraction to their own kind, with nothing they can do about it. They are just "that way" and can only yield to those desires. That is a malicious and destructive lie.  While it is a convincing idea to some, it is of the devil. No one is locked into that kind of life. From our premortal life we were directed into a physical body. There is no mismatching of bodies and spirits. Boys are to become men---masculine, manly men---ultimately to become husbands and fathers. No one is predestined to a perverted use of these powers.
+
+[To Young Men Only](https://archive.org/details/ToYoungMenOnly/page/n15) which is based on Boyd K. Packer's [1976 General Conference address Message to Young Men](https://www.lds.org/general-conference/1976/10/media/session_5_talk_1/2680671857001?lang=eng) (begin 11:51).
+
+### homosexuality is curable
 
 > After consideration of the evil aspects, the ugliness and prevalence of the evil of homosexuality, the glorious thing to remember is that it [homosexuality] is curable and forgiveable.  ... Certainly it can be overcome, for there are numerous happy people who were once involved in its clutches and who have since completely transformed their lives.  Therefore to those who say that this practice or any other evil is incurable, I respond: "How can you say the door cannot be opened until your knuckles are bloody, till your head is bruised, till your muscles are sore?"
 
@@ -48,7 +56,7 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321)  pg 317 (quoting Spencer W. Kimball's The Miracle of Forgiveness) (The manual was copyrighted in [1978 and 1979](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1) and was superceded by [a new manual in 2014](https://www.lds.org/manual/new-testament-student-manual/title-page?lang=eng), I believe)
 
-### Some suppose that they were preset
+### some suppose that they were preset
 
 > Some suppose that they were preset and cannot overcome what they feel are inborn temptations toward the impure and unnatural. Not so! [Why would our Heavenly Father do that to anyone?] Remember, God is our Heavenly Father.  (bracketed text in audio/video only)
 
