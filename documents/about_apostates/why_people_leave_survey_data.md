@@ -19,7 +19,7 @@ layout: page
 
 ### Who is leaving?
 
-* [Who Is Leaving the Church? Demographic Predictors of Ex–Latter-day Saint Status in the Pew Religious Landscape Survey](https://byustudies.byu.edu/content/who-leaving-church-demographic-predictors-ex-latter-day-saint-status-pew-religious-landscape) (cranney BYU Studiesa 2019 analysis of 2014 Pew data)
+* [Who Is Leaving the Church? Demographic Predictors of Ex–Latter-day Saint Status in the Pew Religious Landscape Survey](https://byustudies.byu.edu/content/who-leaving-church-demographic-predictors-ex-latter-day-saint-status-pew-religious-landscape) (Cranney BYU Studiesa 2019 analysis of 2014 Pew data)
 
 ### Discussion
 
