@@ -5,6 +5,8 @@ doctype: list-of-resources
 layout: page
 ---
 
+# Primary Resources
+
 These are primary resources on the Black Priesthood/Temple ban.
 
 ## The 1949 First Presidency Statement
@@ -45,3 +47,7 @@ Additional historical context for the letters: ["Do Not Lecture the Brethren": S
 [Facts about the LDS Church, Blacks & the Priesthood that Cause Some to Struggle](http://www.mormonstories.org/top10toughissues/blacks.html) includes many first-hand material from Church-friendly sources.
 
 *acknowledgements: Lowry Nelson opinion piece h/t /u/TheLastDarden*
+
+# Insightful Commentary
+
+[Race and the Priesthood Essay - Footnote 9](https://drive.google.com/file/d/1uGbG1kvsluwiKvqrkQP7h7RocsrWC4cb/view) (Fuzzy_Thoughts)
