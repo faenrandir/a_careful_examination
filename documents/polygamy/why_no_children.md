@@ -24,6 +24,8 @@ layout: page
     
     LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, the fact that he was sealed to a 7 month pregnant woman strongly suggests that raising up seed was not a huge practical concern for Joseph.
 
+    Also note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/).
+
 1. Various birth control methods may have been used, including withdrawal.
 
     * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
