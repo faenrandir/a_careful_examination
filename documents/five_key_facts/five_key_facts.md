@@ -13,7 +13,9 @@ This is a very short summary of what I view as the 5 most important facts in und
 
 Joseph Smith mis-translated [the characters above the heads of the figures](https://i.imgur.com/2a5sban.png) in the third facsimile.
 
-Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).  The [Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
+Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).
+
+[According to LDS scholars Hauglid and Jensen]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}), Joseph Smith and his scribes "were working off of the papyri that we actually have in the Church today."  However, [the Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
 
 **More**:
 
