@@ -10,3 +10,18 @@
     * Scriptural prophets generally gave up all their worldly wealth to preach the gospel. They often come from humble circumstances, but if they didn’t they may have given up their wealth when they go to preach.  Modern prophets get paid a stipend of at least 120,000 USD a year (along with other substantial financial benefits).  Most modern day prophets come from wealthy families, and most modern day prophets themselves are fairly well-to-do.  None of them sacrifice financial wealth in order to preach the Gospel.
     * Scriptural prophets sometimes prophesy of future events. When they speak directly with God they tell the public that God spoke directly with them and that they are delivering God's message to them.  Modern prophets don’t seem to ever prophesy of future events. They sometimes hint that they speak with God but it is difficult to say for sure.  Virtually any stories of them seeing God come from third party accounts.  One is never certain if the message they are delivering came from God or is their own opinion based on their reading of scripture.
 
+1. Earlier thinking emphasized need not to found ideas on corruptions, while
+   later thinking justified thinking based on widespread (corrupt) ideas:
+    
+    > But we do not wish to sustain our own position upon the corruptions of others - our own position, as it is in the mind and revelations of God. God forbid that our faith should be founded upon the corruptions of the world. Our faith is founded upon the purity of the word of life, and there let it be grounded.  (Orson Hyde JOD 2:76-79 1854)
+
+    > The justifications for this restriction echoed the widespread ideas about racial inferiority that had been used to argue for the legalization of black “servitude” in the Territory of Utah. (Race and the Priesthood Topics Essay)
+
+1. Earlier thinking emphasized that revelations always come with a reason for it while later thinking emphasized that revelation was given without reasons:
+
+    > Whenever truth is manifested by revelation to the servants of God, it never comes without a reason for it. (Orson Hyde 1854 JOD 2:76-79)
+
+    > If you read the scriptures with this question in mind, ‘Why did the Lord command this or why did he command that’ you find that in less than one in a hundred commands was any reason given. It's not the pattern of the Lord to give reasons. (Oaks The Times-News, 09 Jun 1988, Page 15)
+
+
+Acknowledgements: Two of these from a [post](https://www.reddit.com/r/exmormon/comments/bwsm4l/just_two_more_examples_of_contradictions_in/) by [/u/watchinthesunbake](https://www.reddit.com/user/watchinthesunbake)
