@@ -7,7 +7,7 @@ layout: page
 
 ## Some evidence for recent Pre-Columbian Horses exists
 
-Steven E. Jones has compiled a list of horse bones and data [which suggest the existence of some pre-Columbian horses](https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus) and his work has been amplified by Craig Downer [here](http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf).
+Steven E. Jones has compiled a list of horse bones and data [which suggest the existence of some pre-Columbian horses](https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus) and his work has been amplified by Craig Downer [here](http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf).  A skeptical view of these findings is presented by a person with some significant archeological training and practice at Archaeological Fantasies in [this post](https://archyfantasies.com/a-horse-is-a-horse/).
 
 Book of Mormon Central points to a later fossil (~2540 YBP) discovered and dated by Wade Miller.  This find [has been published in BYU Studies](https://www.reddit.com/r/exmormon/comments/8dovks/an_attempt_to_account_for_the_use_of_horse_in_the/dxoyvsk/), but not in a scientific journal, yet.
 
