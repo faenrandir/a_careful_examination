@@ -13,3 +13,5 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x030796251&view=1up&seq=674
 https://catalog.hathitrust.org/Record/101916314?type%5B%5D=all&lookfor%5B%5D=clarke%20commentary&ft=
 New York : J. Emory & B. Waugh, for the Methodist Episcopal Church, 1829.
 https://babel.hathitrust.org/cgi/pt?id=uva.x030796202&view=1up&seq=674
+
+"Rev. Dr. John Smith of Cambleton"
