@@ -7,6 +7,10 @@ From footnote 16 of BoM Central article [How Much Could Joseph Smith Have Known 
 
 > In 1825, Horne published the 4th edition of his three-volume Introduction to the Critical Study and Knowledge of the Holy Scriptures (Philadelphia, PA: Littell, 1825). It seems to have been the first American publication to mention Jebb’s work on chiasmus. A 6th edition of this biblical encyclopedia was published in 1828, with changes mostly to its typesetting. In 1827, Horne published the 2nd edition of a condensed version of his encyclopedia, called Compendious Introduction to the Study of the Bible (New York, NW: Arthur), and in 1829 he published a 3rd edition. These works contained an even briefer mention of Jebb’s chiasmus-related writings (p. 191 in the 1827 edition and p. 144 in the 1829 edition). These encyclopedic volumes never discussed Boys’ research on chiasmus in the Psalms and in the New Testament, and it appears that only Horne’s 1825 edition was published in America. This information corrects and expands what was known in the 1960s and 1970s about these obscure sources. See Welch, “How Much Was Known about Chiasmus in 1829?” 63–68.
 
+1825. Philadelphia. 4th edition [Introduction to the Critical Study and Knowledge of the Holy Scriptures](https://ia802303.us.archive.org/15/items/compendiousin00horn/compendiousin00horn.pdf)
+
+Along with numerous re-publications in London after 1825 until 1829, the book would be [republished in New York in 1833](https://ia802303.us.archive.org/15/items/compendiousin00horn/compendiousin00horn.pdf) suggesting the book was popular in the U.S. as well as abroad.
+
 ### Grammar books teaching similar principles
 
 * [1786. John Holmes. A System of Rhetoric and the Art of Rhetoric made easy](https://books.google.com/books?id=OXtaAAAAcAAJ&pg=PR8&dq=%22epanodos%22&hl=en&sa=X&ved=0ahUKEwiZppn6uuniAhVSHqwKHYgHBiAQ6AEIPzAE#v=onepage&q=%22epanodos%22&f=false) ([pdf excerpts](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/chiasmus/1786_a_system_of_rhetoric_and_the_art_of_rhetoric_made_easy_holmes.pdf))
