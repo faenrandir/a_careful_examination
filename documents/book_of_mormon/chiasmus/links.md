@@ -11,6 +11,8 @@ From footnote 16 of BoM Central article [How Much Could Joseph Smith Have Known 
 
 Along with numerous re-publications in London after 1825 until 1829, the book would be [republished in New York in 1833](https://ia802303.us.archive.org/15/items/compendiousin00horn/compendiousin00horn.pdf) suggesting the book was popular in the U.S. as well as abroad.
 
+1827  ... The body of the volume is constituted by 459 pages of fairly large typescript text framed with liberal margins.  The author himself introduces the work as "The little Manual"
+
 ### Grammar books teaching similar principles
 
 * [1786. John Holmes. A System of Rhetoric and the Art of Rhetoric made easy](https://books.google.com/books?id=OXtaAAAAcAAJ&pg=PR8&dq=%22epanodos%22&hl=en&sa=X&ved=0ahUKEwiZppn6uuniAhVSHqwKHYgHBiAQ6AEIPzAE#v=onepage&q=%22epanodos%22&f=false) ([pdf excerpts](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/chiasmus/1786_a_system_of_rhetoric_and_the_art_of_rhetoric_made_easy_holmes.pdf))
