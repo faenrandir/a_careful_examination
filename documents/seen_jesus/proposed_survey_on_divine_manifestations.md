@@ -26,34 +26,34 @@ If you have had multiple visitations, please answer the questions regarding your
 
 1. How old were you at the time of the visitation?
 
-```
-A. 1-19 years of age
-B. 20-29 years of age
-C. 30-39 years of age
-D. 40-49 years of age
-E. 50-59 years of age
-F. 60-69 years of age
-G. 70-79 years of age
-H. 80 years of age or older
-```
+    ```
+    A. 1-19 years of age
+    B. 20-29 years of age
+    C. 30-39 years of age
+    D. 40-49 years of age
+    E. 50-59 years of age
+    F. 60-69 years of age
+    G. 70-79 years of age
+    H. 80 years of age or older
+    ```
 
 1. Roughly how many years have lapsed since this visitation?
 
-```
-A. 0-5 years
-B. 6-10 years
-C. 11-20 years
-D. more than 20 years
-```
+    ```
+    A. 0-5 years
+    B. 6-10 years
+    C. 11-20 years
+    D. more than 20 years
+    ```
 
 1. What was your gender at the time of the visitation?
 
-```
-A. Female
-B. Male
-C. Prefer not to say
-D. Other
-```
+    ```
+    A. Female
+    B. Male
+    C. Prefer not to say
+    D. Other
+    ```
 
 ## Details regarding the Visitor
 
@@ -70,13 +70,13 @@ D. Other
 
 1. On what was the visitor standing?
 
-```
-A. The ground
-B. Floating just above the ground
-C. Floating high above the ground
-D. Do not remember or could not tell
-E. Other
-```
+    ```
+    A. The ground
+    B. Floating just above the ground
+    C. Floating high above the ground
+    D. Do not remember or could not tell
+    E. Other
+    ```
 
 1. In what manner did the visitor enter and exit from your presence?  Please describe in detail.
 
@@ -84,95 +84,95 @@ E. Other
 
 1. Which color matches most closely the eye color of the visitor?
 
-```
-A. Blue
-B. Brown
-C. Amber, light brown, or hazel
-D. Gray
-E. Green
-F. White
-G. Red
-H. Clear or transparent
-I. Could not tell or do not remember
-J. Other...
-```
+    ```
+    A. Blue
+    B. Brown
+    C. Amber, light brown, or hazel
+    D. Gray
+    E. Green
+    F. White
+    G. Red
+    H. Clear or transparent
+    I. Could not tell or do not remember
+    J. Other...
+    ```
 
 1. Which color most closely matches the visitor's hair color?
 
-```
-A. Black
-B. Brown
-C. Light Brown
-D. Blond
-E. White
-F. Reddish
-G. Could not tell or do not remember
-```
+    ```
+    A. Black
+    B. Brown
+    C. Light Brown
+    D. Blond
+    E. White
+    F. Reddish
+    G. Could not tell or do not remember
+    ```
 
 1. Which accent most closely matches that of the visitor's speech?
 
-```
-A. American
-B. English/British/Australian
-C. Scottish/Irish
-D. Boston/New York
-```
+    ```
+    A. American
+    B. English/British/Australian
+    C. Scottish/Irish
+    D. Boston/New York
+    ```
 
 1. In what manner did the communication enter your mind?
 
-```
-A. The being spoke words by moving their mouth, and I heard the words with my ears, much like normal speech.
-B. The being spoke directly into my mind while their mouth moved.
-C. The being spoke directly into my mind WITHOUT their mouth moving.
-D. Other ...
-```
+    ```
+    A. The being spoke words by moving their mouth, and I heard the words with my ears, much like normal speech.
+    B. The being spoke directly into my mind while their mouth moved.
+    C. The being spoke directly into my mind WITHOUT their mouth moving.
+    D. Other ...
+    ```
 
 1. How highly pitched was the voice?
 
-```
-1 Very Low pitch (bass)
-2
-3
-4
-5 Very High pitch (soprano)
-```
+    ```
+    1 Very Low pitch (bass)
+    2
+    3
+    4
+    5 Very High pitch (soprano)
+    ```
 
 1. Please describe any other traits of the voice or communication (was the voice raspy?, lisp?, unique enunciations?, was the tone varied or flat?, close mouth or exaggerated mouth enunciation, very loud or very soft, etc.)
 
 1. If you observed scars from the nails on the hands, were the scars:
 
-```
-A. Raised
-B. Recessed
-C. A distinct hole
-D. No scars
-E. Could not tell or did not notice
-F. Not applicable
-G. Other ...
-```
+    ```
+    A. Raised
+    B. Recessed
+    C. A distinct hole
+    D. No scars
+    E. Could not tell or did not notice
+    F. Not applicable
+    G. Other ...
+    ```
 
 1. Which skin color best describes the visitor's skin color?
 
-```
-A. Brown
-B. Tan
-C. White or pale 
-D. Emanating light
-E. Could not tell or do not remember
-```
+    ```
+    A. Brown
+    B. Tan
+    C. White or pale 
+    D. Emanating light
+    E. Could not tell or do not remember
+    ```
 
 1. Please describe the body hair of the visitor (was chest hair showing, peach fuzz, arm or hair on the hands, feet or toes, shaved, etc.)
 
 1. Which most closely describes the visitor's facial hair?
 
-```
-A. clean-shaven (or no facial hair)
-B. very short bear (< 6 mm in hairlength)
-C. medium length bear (Chuck Norris)
-D. bushy beard (modern hipsters)
-E. long beard (ZZ top or Lorenzo Snow)
-F. Could not tell or do not remember
-```
+    ```
+    A. clean-shaven (or no facial hair)
+    B. very short bear (< 6 mm in hairlength)
+    C. medium length bear (Chuck Norris)
+    D. bushy beard (modern hipsters)
+    E. long beard (ZZ top or Lorenzo Snow)
+    F. Could not tell or do not remember
+    ```
 
 1. Please describe the skin of the visitor (could you seen skin pores?  skin creases? freckles? moles?)
 
@@ -182,22 +182,22 @@ F. Could not tell or do not remember
 
 1. How closely did the visitor match this representation?  [red-robe Jesus picture]
 
-```
-1 Complete dissimilar
-2
-3
-4
-5 Virtually Identical
-```
+    ```
+    1 Complete dissimilar
+    2
+    3
+    4
+    5 Virtually Identical
+    ```
 
 1. Please share as much of the communication between yourself and the visitor as you are willing.
 
 1. Was the message you received different from the kinds of things your main religion at the time typically teaches?
 
-```
-Yes
-No
-```
+    ```
+    Yes
+    No
+    ```
 
 1. What else about the visitation would you like others to know?
 
@@ -207,50 +207,50 @@ These questions ask about your state of being leading up to and during your most
 
 1. Which best describes your mental state in the time before the visitation
 
-```
-A. Calm and serene
-B. Agitated
-C. Depressed or sorrowful
-D. Normal
-```
+    ```
+    A. Calm and serene
+    B. Agitated
+    C. Depressed or sorrowful
+    D. Normal
+    ```
 
 1. Please list any substances you may have consumed within the previous 24 hours that might have influenced your mental state (alcohol, prescription medication, psychedelics, significant amounts of caffeine)
 
 1. Were you fasting during or just prior to the visitation?
 
-```
-Yes
-No
-Other...
-```
+    ```
+    Yes
+    No
+    Other...
+    ```
 
 1. In the 2 to 3 days leading up to the visitation, how much prayer had you been engaging in? (choose the closest)
 
-```
-A. 0 minutes or a negligible amount
-B. a few minutes to a half hour a day
-C. an hour or more a day
-D. Other...
-```
+    ```
+    A. 0 minutes or a negligible amount
+    B. a few minutes to a half hour a day
+    C. an hour or more a day
+    D. Other...
+    ```
 
 1. What activities had you been engaged in within the previous 24 hours?
 
 1. Was the visitation best described as an event mediated in your mind or as a physical event that a third party in the room could have observed?
 
-```
-A. The event was mediated through or by my mind
-B. The event was a physically real event, observable by a third party (or could have been recorded by a cell-phone)
-C. Other
-```
+    ```
+    A. The event was mediated through or by my mind
+    B. The event was a physically real event, observable by a third party (or could have been recorded by a cell-phone)
+    C. Other
+    ```
 
 1. Please rate your level of confidence that the event was physical in nature
 
-```
-1 Not at all confident
-2
-3
-4
-5 Very confident (a 3rd party could have observed it or I could have recorded it with my cell-phone)
-```
+    ```
+    1 Not at all confident
+    2
+    3
+    4
+    5 Very confident (a 3rd party could have observed it or I could have recorded it with my cell-phone)
+    ```
 
 1. Please discuss the reasons for your level of confidence that the visitation was physical (or not) in nature.  For example, did you touch the visitor?
