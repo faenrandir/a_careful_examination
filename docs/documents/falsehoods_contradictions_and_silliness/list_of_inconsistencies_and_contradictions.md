@@ -25,3 +25,7 @@
 
 
 Acknowledgements: Two of these from a [post](https://www.reddit.com/r/exmormon/comments/bwsm4l/just_two_more_examples_of_contradictions_in/) by [/u/watchinthesunbake](https://www.reddit.com/user/watchinthesunbake)
+
+1. Stone cut out of a mountain vs. numbers would be small
+
+[Image](https://i.redd.it/nf7615hofr531.png)
