@@ -21,7 +21,7 @@ Here are some examples of the behavior or teaching of David Bednar that some for
 
 ---
 
-Some accounts of Bednar by former Mormons are favorable or somewhat favorable:
+Some accounts of Bednar by former or questioning Mormons are favorable or somewhat favorable:
 
 * "[Honest, direct, and even a little self-deprecating](https://www.reddit.com/r/exmormon/comments/8ppkm3/return_report_david_a_bednar_visit/)"
 *  "[he appeared to be anything but [pharisaical] ... when he spoke with us](https://www.reddit.com/r/mormon/comments/ca6w4x/mormon_pharisees_be_like_add_your_own/et9cehf/)"
