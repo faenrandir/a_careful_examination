@@ -44,6 +44,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Historical Influences on the Book of Mormon](http://www.mormonthink.com/influences.htm#part2) (Thomas Donofrio)
 1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
+1. [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/) (Dan Vogel)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
