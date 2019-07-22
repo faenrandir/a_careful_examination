@@ -5,7 +5,7 @@ doctype: transcription-of-analysis
 layout: page
 ---
 
-*The remainder of this page is taken directly from [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html) blog.  Some of these points are stronger than others, I think.*
+*The remainder of this page is taken directly from [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html) blog.  Some of these points are stronger than others, I think.  (Minor spelling changes have been made)*
 
 If there is a hub around which LDS epistemology revolves, surely it is to be found in Moroni’s Promise:
 
@@ -38,10 +38,10 @@ As the years have passed, I have become disillusioned with LDS epistemology. One
 
 2. There is no reason to accept the promise as legitimate unless you already accept the BoM as legit. It requires “begging the question.”
 
-    There is a logical fallacy referred to as “begging the question.” The term is widely misunderstood and is misapplied to mean “implying the question…” or “leading us to ask.” The actual meaning of “begging the question” is that an argument already assumes the truth of the conclusion in its premisses. 
+    There is a logical fallacy referred to as “begging the question.” The term is widely misunderstood and is misapplied to mean “implying the question…” or “leading us to ask.” The actual meaning of “begging the question” is that an argument already assumes the truth of the conclusion in its premises. 
     In other words, the reason that I offer in order to convince you of a conclusion is only believable if you already accept the conclusion.
 
-    If, for example, I am trying to convince you to trust me, you might ask me why you should trust me. A fair question. If I answer that you should trust me because I never lie, is that a convincing reason? For most of us it would not be a good enough reason to extend trust because in order to accept that I never lie (the premiss) you have to have already accepted the conclusion (that I am trustworthy). You cannot accept the premiss unless you have already accepted the conclusion.
+    If, for example, I am trying to convince you to trust me, you might ask me why you should trust me. A fair question. If I answer that you should trust me because I never lie, is that a convincing reason? For most of us it would not be a good enough reason to extend trust because in order to accept that I never lie (the premise) you have to have already accepted the conclusion (that I am trustworthy). You cannot accept the premise unless you have already accepted the conclusion.
 
     If upon reaching the final chapter of the final book of the Harry Potter series you found a passage that claimed that if you prayed about the Harry Potter books, the spirit of Dumbledore would let you know that it’s true, would you do it?
 
