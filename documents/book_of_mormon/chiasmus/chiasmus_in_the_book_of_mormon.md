@@ -6,6 +6,10 @@ doctype: analysis
 layout: page
 ---
 
+*NOTE: These are just rough notes ATM.  For where I'm going with this, see [footnote 108](https://faenrandir.github.io/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/) in Quinn's Early Mormonism and the Magic Worldview.*
+
+---
+
 https://commonpaine.blogspot.com/2010/12/does-chiasmus-prove-book-of-mormon-is.html
 
 > In his book, Early Mormonism and the Magic World View, D. Michael Quinn obliterates Welch's claims in a footnote. Quinn points out that Robert Lowth's study of chiasmus in the Bible from 1787 was available in an American edition by 1815, well before the 1830 publication of the Book of Mormon. Welch himself admits this in his 1970 master's thesis, although he hasn't acknowledged it since.
