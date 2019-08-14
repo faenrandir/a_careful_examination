@@ -18,7 +18,7 @@ https://books.google.com/books?id=5Zx9qOay304C&pg=PA306&lpg=PA306&dq=early+mormo
 
 Joseph Smith and the Origins of The Book of Mormon, 2d ed. (pg 306)
 
-Early Mormonism and the Magic World View, 1998, pgs. 499-504
+Early Mormonism and the Magic World View, 1998, revised and enlarged edition, pgs. 499-504
 
 
 https://www.reddit.com/r/exmormon/comments/ycpk3/someone_please_debunk_chiasmus_for_me/c5ut7zh/
