@@ -8,7 +8,7 @@ layout: page
 
 ## Compton's assessment
 
-[Todd Compton's assessment of the evidence for sexuality](https://github.com/faenrandir/a_careful_examination/blob/23b6f786fd15db31837e3bf269d74ecfe5068f6e/documents/polygamy/compton-sexuality_in_joseph_smiths_plural_marriages.md)
+[Todd Compton's assessment of the evidence for sexuality]({{ "/compton-sexuality-in-joseph-smiths-plural-marriages/" | relative_url }})
 
 ## Short analysis of the testimony evidence
 
