@@ -14,7 +14,7 @@ layout: page
 
     Hales assembled a list of potential progeny and those who have been tested for paternity: [Allegations of Joseph's Paternity](http://josephsmithspolygamy.org/wordpress/wp-content/uploads/2016/06/Possible-Children-chart.jpg).  Although Hales discounts the possibility that Joseph was father in most of these, they have not yet been eliminated with genetic testing.
 
-    So, perhaps he has progeny from his plural wives out there yet.
+    In fact, Don Bradley recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) and is currently doing Y-chromosomal testing to confirm or falsify his hypothesis.
 
 1. Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him.
 
@@ -24,9 +24,9 @@ layout: page
     
     LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, the fact that he was sealed to a 7 month pregnant woman strongly suggests that raising up seed was not a huge practical concern for Joseph.
 
-    Also note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/).
+    Finally, it is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/).
 
-1. Various birth control methods may have been used, including withdrawal.
+1. Various birth control methods, including withdrawal, may have been used.
 
     * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
     * A variety of birth control methods [were being published in the early 1800s](http://artsci.case.edu/dittrick/online-exhibits/history-of-birth-control/contraception-in-america-1800-1900/early-literature/), including withdrawal.
@@ -51,6 +51,6 @@ layout: page
 
     For instance, Zina Huntington Jacobs was [7 months pregnant](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) when she was sealed to Joseph Smith.  If they consummated their sealing at that time, then she could not have become pregnant.
 
-### Conclusion
+### Discussion
 
-A variety of possibilities exist to help to potentially account for Joseph Smith not impregnating his plural wives.  Regardless, [significant evidence exists that Joseph did have sex with many of his wives](https://github.com/faenrandir/a_careful_examination/blob/27159d5d2cf14aa7da733e78e201951f8ca6865d/documents/polygamy/evidence_of_sex.md).  And, other early practices of polygamy were impregnating their wives (e.g., Brigham Young), so it seems odd to claim that Joseph's polygamy was somehow radically different (i.e., asexual).
+Until/unless progeny via a polygamous reliationship is discovered, it is difficult to know with absolute certainty that Joseph Smith was having sex with anyone except Emma.  Still, as discussed above, a variety of possibilities exist to help potentially account for Joseph Smith not impregnating his plural wives.  Regardless of direct DNA evidence from progeny, [significant first-hand testimony exists that Joseph did have sex with many of his wives](https://github.com/faenrandir/a_careful_examination/blob/27159d5d2cf14aa7da733e78e201951f8ca6865d/documents/polygamy/evidence_of_sex.md).  In addition, other early practioners of polygamy---who were introduced to the practice by Joseph Smith---were impregnating their wives (e.g., Brigham Young), so we have good reason to believe that Joseph's polygamy was not practiced in radically different terms (i.e., completely asexual).
