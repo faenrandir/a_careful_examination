@@ -8,7 +8,7 @@ layout: page
 
 ## Compton's assessment
 
-[Todd Compton's assessment of the evidence for sexuality](https://github.com/faenrandir/a_careful_examination/blob/23b6f786fd15db31837e3bf269d74ecfe5068f6e/documents/polygamy/compton-sexuality_in_joseph_smiths_plural_marriages.md)
+[Todd Compton's assessment of the evidence for sexuality]({{ "/compton-sexuality-in-joseph-smiths-plural-marriages/" | relative_url }})
 
 ## Short analysis of the testimony evidence
 
@@ -24,7 +24,7 @@ The list follows with the age at marriage and the evidence indicating a sexual r
 * (22) Eliza Partridge: based on deduction from Lucy Walker's statement.
 * (17) Sarah Lawrence: based on deduction from Lucy Walker's statement.
 * (19) Maria Lawrence: based on deduction from Lucy Walker's statement.
-* (19) Melissa Lott Willes: "had been Smith's wife 'in very deed'" (ISL)
+* (19) Melissa Lott Willes: After admitting to rooming with Joseph Smith in the Nauvoo Mansion "more than twice" she was asked "Q. Did you ever at any other place room with him?  A. In what way?  Q. Of course I mean as his wife?  A. Yes sir.  Q. At what places?  A. In my father’s house." (see Temple Lot Transcript, part 3, pp. 97, 105–6, questions 87–93, 224–60 and [footnote 5 on Malissa Lott's josephsmithspolygamy.org page](https://web.archive.org/web/20190824204850/http://josephsmithspolygamy.org/plural-wives-overview/malissa-lott/)).  Shortly after she was interviewed by Joseph Smith III: "Q. Were you married to my father?  A. Yes. … Q. Was you a wife in very deed?  A. Yes." (from a notarized statement in possession of Myrtle Willes Bailey [granddaughter of Malissa Lott Smith Willes], from [footnote 6 of Malissa Lott's josephsmithspolygamy.org page](https://web.archive.org/web/20190824204850/http://josephsmithspolygamy.org/plural-wives-overview/malissa-lott/))
 
 Mormon Enigma identifies the 4 individuals Emma consented to as Emily and Eliza Partridge and Sarah and Maria Lawrence. ([source](http://www.mrm.org/did-emma-smith-ever-approve-of-polygamy))
 
