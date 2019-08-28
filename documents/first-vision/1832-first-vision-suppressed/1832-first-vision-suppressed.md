@@ -36,7 +36,7 @@ We know that Levi Edgar Young was shown the account before LaMar Petersen.  Stan
 
 The statement is given the following footnote:
 
-> 8. When Joseph Fielding Smith became president of the LDS Church in 1970, the personal safe in his office was moved into the First Presidency’s walk-in vault. The exact time that the 1832 account was put into the Joseph Fielding Smith office safe and the date that he showed the history to Levi Edgar Young would probably be found in the Joseph Fielding Smith Collection, catalogued as Ms 4250 at the Church History Library Archives. On December 11, 2012 the writer sent to Richard E. Turley a written request for permission to read the diaries (either photocopies or microfilm) of Joseph Fielding Smith from 1930 to 1954, **but this request was denied**. (emphasis added)
+> 8\. When Joseph Fielding Smith became president of the LDS Church in 1970, the personal safe in his office was moved into the First Presidency’s walk-in vault. The exact time that the 1832 account was put into the Joseph Fielding Smith office safe and the date that he showed the history to Levi Edgar Young would probably be found in the Joseph Fielding Smith Collection, catalogued as Ms 4250 at the Church History Library Archives. On December 11, 2012 the writer sent to Richard E. Turley a written request for permission to read the diaries (either photocopies or microfilm) of Joseph Fielding Smith from 1930 to 1954, **but this request was denied**. (emphasis added)
 
 So, dating exactly when Joseph Fielding Smith put the document in the vault and dating when he showed the document to Levi Edgar Young are currently unknown because the the LDS Church won't allow historians to read Joseph Fielding Smith's diaries from the time period.
 
