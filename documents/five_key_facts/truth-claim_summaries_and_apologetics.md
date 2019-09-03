@@ -16,7 +16,7 @@ layout: page
 
 ## More significant
 
-* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive)
+* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive) ([backup link](https://archive.org/details/MormonPrimer))
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
