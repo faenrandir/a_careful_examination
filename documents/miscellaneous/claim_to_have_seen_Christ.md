@@ -1,5 +1,5 @@
 ---
-title: "Individuals who claim to have seen Jesus Christ"
+title: "Individuals in the past 100 years who claim to have seen Jesus Christ"
 permalink: /individuals-claim-to-seen-christ/
 doctype: compilation
 layout: page
@@ -7,11 +7,13 @@ layout: page
 
 Draft originally posted [here](https://www.reddit.com/r/mormondebate/comments/4g68ev/when_was_the_last_time_a_mormon_credibly_saw/d2g63n2/).
 
+Note: this analysis does not include those who claim to have been visited by Jesus while in a dream (like many of these from [a 2019 LDS Living article](http://www.ldsliving.com/8-Divine-Accounts-of-Prophets-and-Apostles-Seeing-the-Savior/s/86605?page=1#story-content)).
+
 ## LDS Leaders claiming to have seen/experience Christ
 
 ### Kimball echoed George Q. Cannon's testimony
 
-In 1974, Spencer W. Kimball mis-attributed a quote to John Taylor that was actually given by George Q. Cannon.  Elder/President (not bothering to look it up atm) Kimball said this:
+In 1974, Spencer W. Kimball mis-attributed a quote to John Taylor that was actually given by George Q. Cannon.  The newly called Church President Kimball said this:
 
 > "I know the God lives. I know that Jesus Christ lives," said John Taylor my predecessor, "for I have seen him." I bear his testimony to you brethren in the name of Jesus Christ, Amen.
 
