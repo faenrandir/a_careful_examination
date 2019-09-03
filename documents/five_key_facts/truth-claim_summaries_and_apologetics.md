@@ -27,6 +27,7 @@ layout: page
 
 ## Other
 
+* [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims)
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
 

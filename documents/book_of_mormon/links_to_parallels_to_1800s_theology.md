@@ -21,39 +21,31 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 
 ### Shorter documents with more narrow focus
 
-*Each of these analyses is significant in its own right, but these are comparatively minor compilations and analyses.  Please consult the extensive compilations to fully appreciate the _extent_ of the parallels.*
+*Each of these analyses is significant in its own right, but these are comparatively minor compilations and analyses.  Please consult the extensive compilations to fully appreciate the extent of the parallels.*
 
-1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
-1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/)
-1. [Anachronistic Christian doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
-1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) (churchistrue)
-1. [Arminianism in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/e359nrd/) (comment by [FuzzyThoughts](https://www.reddit.com/user/Fuzzy_Thoughts))
-1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
-1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [Echoes](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)
-1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
-1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
+1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) (churchistrue) ([text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/))
+1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/)
+1. [Anachronistic Christian Doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
+1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
 1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
-1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
-1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Prof Nick Frederick)
+1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Professor Nick Frederick)
 
 ### Extensive compilations or analyses
 
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
-1. [Similarities with McClintock, Keteltas, Sherwood, Dwight, Whitefield, and Edwards Sr/Jr (Donofrio)](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
-1. [Historical Influences on the Book of Mormon](http://www.mormonthink.com/influences.htm#part2) (Thomas Donofrio)
-1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
-1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
+1. [Historical Influences](http://www.mormonthink.com/influences.htm#part2) and [Religious Influences](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
 1. [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/) (Dan Vogel)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
+1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
-1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
-1. [The Book of Mormon and 12 points of Pelagius]({{ "/bom-and-twelve-points-of-pelagianism-in-early-1800s/" | relative_url }})
-1. [Faith of a naturalist]({{ "/faith-naturalist-response-faith-science-teacher-questions/" | relative_url }}) (see FST-15--FST-21)
-1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)
 1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
-1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas)
-1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
-1. [realbookofmormon.org Likely Sources](http://realbookofmormon.org/likely-sources/)
+1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas) ([review](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1460&context=msr) by Grant Hardy)
+
+### See also
+
+Above are a few of the most important sources and analyses, but many more can be found here:
+
+[Other pre-1830 sources reminiscent of the Book of Mormon]({{ "/other-pre-1830-sources-reminiscent-of-bom/" | relative_url }})
