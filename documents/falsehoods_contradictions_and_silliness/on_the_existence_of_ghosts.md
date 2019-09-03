@@ -10,7 +10,7 @@ layout: page
 1. Ghosts, if they are real, do not seem to emit or reflect light in the visual spectrum.
 
     1. There's no good reason to suspect that people who claim to see ghosts are detecting light with their eyes from anything other than the visual spectrum.
-    2. Security camera's and cell phones pick up approximately the same spectrum of light as our eyes (the visible spectrum) and they are roughly as sensitive.
+    2. Security cameras and cell phones pick up approximately the same spectrum of light as our eyes (the visible spectrum) and they are roughly as sensitive.
     3. If ghosts were an objective phenomena emitting or reflecting light from the visible spectrum, then countless cell phone videos would have been made and countless numbers of security camera footage would indicate their objective existence.
     4. We can conclude that ghosts are not light-emitting/reflecting visual phenomena.
 
