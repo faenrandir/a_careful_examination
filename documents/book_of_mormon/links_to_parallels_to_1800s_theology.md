@@ -23,12 +23,12 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 
 *Each of these analyses is significant in its own right, but these are comparatively minor compilations and analyses.  Please consult the extensive compilations to fully appreciate the extent of the parallels.*
 
-1. [Echoes](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)
-1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) (churchistrue) ([text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/))
-1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/)
+1. [Echoes](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf) (pdf)
+1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) [relevant text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/) (churchistrue)
+1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/) (churchistrue)
 1. [Anachronistic Christian Doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
 1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
-1. [Moroni quotes sections of Mark that are of dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)
+1. [Moroni quotes sections of Mark that are of dubious origin]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) (bwv549)
 1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Professor Nick Frederick)
 
 ### Extensive compilations or analyses
@@ -41,7 +41,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
 1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
-1. [Anti-universalist Rhetoric in the Book of Mormon (Vogel)](https://www.youtube.com/watch?v=wm7t7pNUWAM)
+1. [Anti-universalist Rhetoric in the Book of Mormon](https://www.youtube.com/watch?v=wm7t7pNUWAM) (Dan Vogel)
 1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas) ([review](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1460&context=msr) by Grant Hardy)
 
 ### See also
