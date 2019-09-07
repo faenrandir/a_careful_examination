@@ -23,6 +23,7 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Arminianism in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/e359nrd/) (comment by [FuzzyThoughts](https://www.reddit.com/user/Fuzzy_Thoughts))
 1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
 1. [The Glory of America](https://wallbuilders.com/sermon-century-1801/) 1801 sermon by Rev. Timothy Alden Jr delivered in New Hampshire (discussion [here](https://www.reddit.com/r/exmormon/comments/cyepfk/do_joseph_smiths_revelations_and_preaching_mimic/))
+1. [Joshua 8 as a potential source for military tactics](https://www.reddit.com/r/mormon/comments/d12wzt/sources_for_military_tactics_found_in_the_book_of/) (Y_chromosomalAdam)
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
 
 ## Other compilations or analyses
