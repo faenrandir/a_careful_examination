@@ -37,6 +37,11 @@ header_pages:
 markdown: kramdown
 theme: minima
 
+kramdown:
+  # add anchor links with this
+  # https://milanaryal.com.np/adding-hover-anchor-links-to-header-on-github-pages-using-jekyll/
+  auto_ids: true
+
 plugins:
   - jekyll-last-modified-at
 #  - jekyll-feed
