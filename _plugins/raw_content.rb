@@ -4,8 +4,8 @@ module Jekyll
   class RawContent < Generator
 
     def generate(site)
-      site.posts.each do |post|
-        post.data['raw_content'] = post.content
+      site.posts.docs.each do |doc|
+        doc.data['raw_content'] = post.content
       end
     end
   end

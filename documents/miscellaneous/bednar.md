@@ -16,6 +16,7 @@ Here are some examples of the behavior or teaching of David Bednar that some for
 1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
+1. [Abruptness at hotel room](https://www.reddit.com/r/exmormon/comments/d2axrq/found_this_gem_on_fb_this_morning/)
 
 \*\* some points originally compiled by [hasbrochem](https://www.reddit.com/r/exmormon/comments/6zdgyc/what_is_it_with_bednar/dmuhajx/)
 
