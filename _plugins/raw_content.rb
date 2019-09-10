@@ -5,7 +5,7 @@ module Jekyll
 
     def generate(site)
       site.posts.docs.each do |doc|
-        doc.data['raw_content'] = post.content
+        doc.data['raw_content'] = doc.content
       end
     end
   end
