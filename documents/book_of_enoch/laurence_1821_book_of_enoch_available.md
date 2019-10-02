@@ -35,3 +35,10 @@ Nibley notes that the book was [not found listed in Thomas Jefferson's library](
     > The Book of Enoch excited more interest on the Continent than in England. It was translated into German by Dr. Hoffman in 1838, into Latin by Gfrörer in 1840 ...
 
     The book was apparently scarce in mainland Europe, but given that its original printing had been exhausted by 1833, we can infer that, perhaps, more books were being sold in the U.S.  
+
+## Other sources for ideas from book of Enoch
+
+The Book of Enoch was being discussed in other sources (books published in London regularly made their way to the US).
+
+* John Marten Butt. 1827. London. [The Genuineness of the Book of Enoch Investigated](https://books.google.com/books?id=oDpVAAAAcAAJ&pg=PA35&dq="enoch"&hl=en&sa=X&ved=2ahUKEwiPpMbo1vzkAhVGgp4KHc7BDDgQ6AEwA3oECAUQAg)
+* John Overton. 1822. London. [Inquire into the truth and use of the Book of Enoch as to its prophecies, visions, and account of fallen angels](https://books.google.com/books?id=fYRhAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false)
