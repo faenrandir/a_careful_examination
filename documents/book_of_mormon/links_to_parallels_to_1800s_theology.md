@@ -39,7 +39,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
-1. [King James Verses in the Book of Mormon](http://bookofmormondepot.com/kjv-verses/)
+1. [King James Verses in the Book of Mormon](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/)
 1. [Book of Mormon Origins project](https://www.bookofmormonorigins.com/)
 1. [Anti-universalist Rhetoric in the Book of Mormon](https://www.youtube.com/watch?v=wm7t7pNUWAM) (Dan Vogel)
 1. [Digging in Cumorah](http://signaturebookslibrary.org/digging-in-cumorah/) (Mark D. Thomas) ([review](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1460&context=msr) by Grant Hardy)
