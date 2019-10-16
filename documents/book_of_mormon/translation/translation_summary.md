@@ -40,13 +40,19 @@ David Whitmer 1885, as interviewed by Zenas H. Gurley
 
 > but he was allowed to go on and translate by the use of a “Seers stone” which he had, and which he placed in a hat into which he buried his face, stating to me and others that the original Character appeared upon parchment and under it the translation in english which [enabled him?] to read it readily.
 
-> David Whitmer 1885, as interviewed by the Chicago Tribune
+David Whitmer 1885, as interviewed by the Chicago Tribune
 
-> This seer’s stone he was instructed to place in his hat, and on covering his face with the hat the character and transla- tion would appear on the stone.
+> This seer’s stone he was instructed to place in his hat, and on covering his face with the hat the character and translation would appear on the stone.
+
+
+William Smith (1883)
+
+> The manner in which this was done was by looking into the Urim and Thummim, which was placed in a hat to exclude the light, (the plates lying near by covered up), and reading off the translation, which appeared in the stone by the power of God.
+
+William Smith (1884)
+
+> When Joseph received the plates he a[l]so received the Urim and Thummim, which he would place in a hat to exclude all light, and with the plates by his side he translated the characters
 
 #### Close to the hat
 
-[Search "close to" for Whitmer's statement]
-
-
-
+[Search Welch for "close to" for Whitmer's statement]
