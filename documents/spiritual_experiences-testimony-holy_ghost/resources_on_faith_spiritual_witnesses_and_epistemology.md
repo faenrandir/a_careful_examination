@@ -57,9 +57,9 @@ layout: page
 
 ## Apologetic
 
-1. [FairMormon - Can We Trust Our Feelings](http://www.fairmormon.org/perspectives/publications/can-we-trust-our-feelings) (relevant apologetic response)
-1. [FairMormon -  Is the "burning in the bosom" a reliable method of determining truth?](http://en.fairmormon.org/Holy_Ghost/Burning_in_the_bosom) (relevant apologetic response)
-1. [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies) (relevant apologetic response)
-1. [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories) (relevant apologetic response)
+1. [FairMormon - Can We Trust Our Feelings](http://www.fairmormon.org/perspectives/publications/can-we-trust-our-feelings)
+1. [FairMormon -  Is the "burning in the bosom" a reliable method of determining truth?](http://en.fairmormon.org/Holy_Ghost/Burning_in_the_bosom)
+1. [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies)
+1. [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories)
 
 *acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/) including several posts and videos that I wasn't previously aware of.  He also alerted me to one of the street epistemology videos and the Dunning videos.*

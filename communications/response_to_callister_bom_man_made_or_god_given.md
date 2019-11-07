@@ -447,7 +447,7 @@ As I have already demonstrated, Joseph Smith was immersed in the religious discu
 
 > <span style="color:red">[Doctrine:8a] 2a. 2 Nephi 2 is a mind-expanding sermon on the relationship between the Fall and Christ’s Atonement. </span>
 
-2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/the_bom_and_the_twelve_points_of_pelagius.pdf).  And, as has been mentioned, viewing the fall in a positive light was not original to the Book of Mormon.
+2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time]({{ "/bom-and-twelve-points-of-pelagianism-in-early-1800s/" | relative_url }}).  And, as has been mentioned, viewing the fall in a positive light was not original to the Book of Mormon.
 
 In addition, [the poetry of David Hitchcock](https://archive.org/stream/poeticalworksda00hitcgoog#page/n30/mode/2up/search/Why+did+he+not+prevent+the+fall) (first brought to my attention [by Rick Grunder](http://www.rickgrunder.com/parallels.htm)) discusses the Fall in very similar terms as 2 Nephi (emphasis added):
 
