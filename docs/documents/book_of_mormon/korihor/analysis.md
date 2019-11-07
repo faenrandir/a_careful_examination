@@ -194,7 +194,7 @@ But many people have had entheogenic experiences.  Korihor is too confident--we 
 ## Korihor as caricature
 
 1. Repeatedly makes strong, unfounded assertions without justification.
-1. Ridicules religions positions which seem unfalsifiable (and hence are outside his ability to falsify).
+1. Ridicules religious positions which seem unfalsifiable (and hence are outside his ability to falsify).
 1. Supports end-justifies-the means aggression
 1. Seems to condone unrestrained and morally problematic sexuality
 1. Appears to lie or mislead about priests earning wages
