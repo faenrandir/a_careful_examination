@@ -15,7 +15,7 @@ Emboldened text is my emphasis.
 
 [The Telegraph, November 16, 1830](http://sidneyrigdon.com/dbroadhu/OH/painetel.htm)
 
-### Rigdon's flock (world would come to an end in two or three years) [indirect, non-LDS source]
+### 1831 Rigdon's flock (world would come to an end in two or three years) [indirect, non-LDS source]
 
 > First of November last, Oliver Cowdery...and three others arrived at the village with the "New Bible," on a mission to the notorious Sidney Rigdon, who resides in the adjoining town.  Rigdon received them graciously - took the book under advisement, and in a few days declared it to be of 'heavenly origin.'
 
@@ -97,4 +97,4 @@ Also reported in Establishing Zion by Eugene Campbell (faithful scholar) on pg 1
 
 > On 8 March (1857), Woodruff attended a meeting during which Young alluded to the city of Enoch and its inhabitants, which Mormons believe was physically removed from the earth because of righteousness. Young suggested that within 125 years the Saints along with the portion of the earth they occupied would be separated from the wicked.
 
-originally h/t [this post](https://www.reddit.com/r/mormon/comments/d71f6n/brigham_youngs_prophecy_about_the_saints_being/)
+*This 1857 statement originally h/t [this post](https://www.reddit.com/r/mormon/comments/d71f6n/brigham_youngs_prophecy_about_the_saints_being/)*
