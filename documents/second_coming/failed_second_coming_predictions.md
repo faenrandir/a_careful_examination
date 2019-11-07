@@ -5,9 +5,25 @@ doctype: compilation
 layout: page
 ---
 
-*Note: these references to failed second coming predictions were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  I've gone back to find links to original documents and Church hosted content wherever possible.*
+*Note: several of these references to failed second coming predictions were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  I've gone back to find links to original documents and Church hosted content wherever possible.  Others were brought to my attention by reddit user japanesepiano*
 
-Emphasis added.
+Emboldened text is my emphasis.
+
+### 1830 Oliver Cowdery (destruction upon the world within a few years) [indirect, non-LDS source]
+
+> About two weeks since some persons came along here with the book, one of whom pretends to have seen Angels, and assisted in translating the plates.  **He [Cowdery] proclaims destruction upon the world within a few years**, -- holds forth that the ordinances of the gospel, have not been regularly administered since the days of the Apostles ...
+
+[The Telegraph, November 16, 1830](http://sidneyrigdon.com/dbroadhu/OH/painetel.htm)
+
+### Rigdon's flock (world would come to an end in two or three years) [indirect, non-LDS source]
+
+> First of November last, Oliver Cowdery...and three others arrived at the village with the "New Bible," on a mission to the notorious Sidney Rigdon, who resides in the adjoining town.  Rigdon received them graciously - took the book under advisement, and in a few days declared it to be of 'heavenly origin.'
+
+> Rigdon, with about twenty of his flock, were dipped immediately.  They then proclaimed that there had been no religion in the world for 1500 years, --that no one had been authorized to preach and for that period, --that Joe Smith had now received a commission from God for that purpose, and **that all such as did not submit to his authority would speedily be destroyed.  The world (except the New Jerusalem) would come to an end in two or three years.  The state of New York would (probably) be sunk**:...They pretend to heal the sick and work miracles, and had made a number of unsuccessful attempts to do so.  The indians were the ten lost tribes --- some of them had already been dipped.
+
+> ...Indians followed Cowdery daily, and finally saw him enter the promised land, where he placed a pole in the ground, with a light on its top, to designate the site of the New Jerusalem.
+
+[Palmyra Reflector, Feb 14, 1831](http://sidneyrigdon.com/dbroadhu/NY/wayn1830.htm)
 
 ### 1831-03-15 Martin Harris (within 15 years)
 
@@ -70,3 +86,15 @@ To Henry Harmon, 1837-04-23 "The destroyer shall not have power over thee to tak
 > And now I am prepared to say by the authority of Jesus Christ, that not many years shall pass away before the United States shall present such a scene of bloodshed as has not a parallel in the history of our nation; **pestilence, hail, famine, and earthquake will sweep the wicked of this generation from off the face of the land**, to open and prepare the way for the return of the lost tribes of Israel from the north country. The people of the Lord, those who have complied with the requirements of the new covenant, have already commenced gathering together to Zion, which is in the state of Missouri, therefore I declare unto you the warning which the Lord has commanded to declare unto this generation, remembering that the eyes of my Maker are upon me and that to him I am accountable for every word I say wishing nothing worse to my fellow-men than their eternal salvation; therefore, "Fear God, and give glory to Him, for the hour of His judgment is come." Repent ye, repent ye, and embrace the everlasting covenant, and flee to Zion, before the overflowing scourge overtake you, **for there are those now living upon the earth whose eyes shall not be closed in death until they see all these things, which I have spoken, fulfilled**. Remember these things; call upon the Lord while He is near, and seek Him while He may be found, is the exhortation of your unworthy servant. [Signed] JOSEPH SMITH, JUN.
 
 [Times and Seasons Nov 15, 1844](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) ([image](https://github.com/faenrandir/a_careful_examination/blob/3db09e5d92d9d0f9c2fb0ba10047d7546fb4ead7/documents/second_coming/images/original-1844-11-15-TimesAndSeasons-JosephSmith-SecondComingProphecy.png))
+
+### 1857 Brigham Young (not be 120 years until Saints separated from wicked)
+
+> ...this people are a good people & they are advancing faster than any other ~~people~~ that ever lived it would not be 120 years instead of 365 before ~~this people~~ would with a portion of the Earth which they occupy be separated from the wicked.  The Lord will bless this people if you will do as well...
+
+From [the Journal of Wilford Woodruff](https://catalog.churchofjesuschrist.org/assets?id=ed47e448-2936-4a1d-a4d8-4b5f96a8d1ac&crate=0&index=206) [Transcription by /u/japanesepiano]
+
+Also reported in Establishing Zion by Eugene Campbell (faithful scholar) on pg 194:
+
+> On 8 March (1857), Woodruff attended a meeting during which Young alluded to the city of Enoch and its inhabitants, which Mormons believe was physically removed from the earth because of righteousness. Young suggested that within 125 years the Saints along with the portion of the earth they occupied would be separated from the wicked.
+
+originally h/t [this post](https://www.reddit.com/r/mormon/comments/d71f6n/brigham_youngs_prophecy_about_the_saints_being/)
