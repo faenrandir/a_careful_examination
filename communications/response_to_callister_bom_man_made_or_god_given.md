@@ -152,17 +152,11 @@ Callister is about to focus discussion on "Manuscript Found", by Solomon Spauldi
 
 In general, most researchers today hypothesize that the Book of Mormon was [a remix of ideas](https://www.bookofmormonorigins.com/) from the early 1800s cultural milieu rather than an act of direct plagiarism.
 
-Still, we should not completey ignore the ways in which Book of Mormon data point to plagiarism on some level (both the deposition of intact passages and the insertion of passages with some alteration).
-
-First off, we have good evidence that Joseph plagiarized to a significant extent from Adam Clarke's Bible Commentary in creating the Joseph Smith Translation of the Bible (JST).  [Thomas Wayment](https://rsc.byu.edu/authors/wayment-thomas), BYU Religion Professor [wrote](http://jur.byu.edu/?p=21296):
-
-> Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
-
-This is not plagiarism in the Book of Mormon, but the extensive plagiarism involved in the creation of the JST increases the likelihood that plagiarism was also part of the production of other scripture, and plenty of data points to plagiarism in the Book of Mormon itself, particularly of the Bible:
+Still, we should not completey ignore the ways in which Book of Mormon data exhibits potential literary dependence on existing works from that time.  For instance:
 
 1. BYU religion professor Nick Frederick [recently stated](https://hwcdn.libsyn.com/p/0/7/1/071b742fffedb4b4/LDSP_Nick_Frederick_Intertextuality.pdf?c_id=22467694&cs_id=22467694&expiration=1547109039&hwt=1155dee2e25c3a314e5d330a77e73220) that there are "650 phrases that I think you can demonstrate pretty clearly are from the New Testament". (See [here](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/)).
 
-1. FairMormon defends the existence of deutero-Isaiah in the Book of Mormon[^deuteroIsaiah] by [invoking plagiarism](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah) (emphasis added):
+1. FairMormon defends the existence of deutero-Isaiah in the Book of Mormon[^deuteroIsaiah] by [invoking direct dependence on the Bible](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah) (emphasis added):
 
     > As Joseph was translating the text of the Book of Mormon, he would find himself translating something that he recognized as being roughly similar to texts from the Bible. ...  Instead of translating Nephi's quotations of Isaiah, Joseph deferred to the KJV translation of those chapters.  This may have been done to save time and to respect the quality of the KJV Bible. ... The version of Isaiah 48-52 that we have now in the Book of Mormon **is not taken from Nephi's plates**, but rather **copied from the KJV Bible** for reasons suggested above.
 
