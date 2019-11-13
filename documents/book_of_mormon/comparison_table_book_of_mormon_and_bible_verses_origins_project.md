@@ -1,0 +1,507 @@
+---
+title: "Comparison of the Book of Mormon and 1769 King James Bible"
+permalink: /comparison-table-book-of-mormon-and-bible-verses-origins-project/
+doctype: table
+layout: page
+---
+
+The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally generated (mostly? entirely?) by automated textual analysis as part of the [Book of Mormon Origins project](https://www.bookofmormonorigins.com/).  The below table borrows the formatting of footnote #1 from [this post](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu) by [missedinsunday.com](https://www.missedinsunday.com/).
+
+## 1 Nephi (600-570 BC)
+
+<table>
+<tr><td>1 Nephi 1:14 “…Great and marvelous are thy works, O Lord God Almighty!”</td><td>Revelation 15:3 “Great and marvellous are thy works, Lord God Almighty”</td></tr>
+<tr><td>1 Nephi 2:16 “…the mysteries of God…”</td><td>1 Cor. 4:1 “…the mysteries of God…”</td></tr>
+<tr><td>1 Nephi 2:24 “…to stir them up in the ways of remembrance.”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance…”</td></tr>
+<tr><td>1 Nephi 3:2 “…Behold I have dreamed a dream…”</td><td>Judges 7:13 “Behold, I dreamed a dream…”</td></tr>
+<tr><td>1 Nephi 3:20 “…spoken by the mouth of all the holy prophets… since the world began…”</td><td>Acts 3:21 “…spoken by the mouth of all his holy prophets since the world began.”</td></tr>
+<tr><td>1 Nephi 4:13 “…It is better that one man should perish than that a nation should dwindle and perish in unbelief.”</td><td>John 11:50 “…it is expedient for us, that one man should die for the people, and that the whole nation perish not.”</td></tr>
+<tr><td>1 Nephi 5:8 “…Now I know of a surety that the Lord hath…”</td><td>Acts 12:11 “…Now I know of a surety, that the LORD hath…”</td></tr>
+<tr><td>1 Nephi 5:18, 11:36, 14:11, 19:17, 22:28 “…all nations, kindreds, tongues, and people…”</td><td>Revelation 14:6 “…to every nation, and kindred, and tongue, and people…”</td></tr>
+<tr><td>1 Nephi 6:5 “…those who are not of the world.”</td><td>John 17:14 “…they are not of the world…”</td></tr>
+<tr><td>1 Nephi 7:8, 15:4 “…being grieved for the hardness of their hearts…”</td><td>Mark 3:5 “…being grieved for the hardness of their hearts…”</td></tr>
+<tr><td>1 Nephi 10:8 “…go forth and cry in the wilderness: Prepare ye the way of the Lord, and make his paths straight…”</td><td>John 1:23 “…I am the voice of one crying in the wilderness, Make straight the way of the Lord…”</td></tr>
+<tr><td>1 Nephi 10:8 “…there standeth one among you whom ye know not; and he is mightier than I, whose shoe’s latchet I am not worthy to unloose.”</td><td>John 1:26-27 “…there standeth one among you, whom ye know not…whose shoe’s latchet I am not worthy to unloose.”</td></tr>
+<tr><td>1 Nephi 10:9 “…in Bethabara, beyond Jordan…”</td><td>John 1:28 “…in Bethabara beyond Jordan…”</td></tr>
+<tr><td>1 Nephi 10:10 “…the Lamb of God, who should take away the sins of the world.”</td><td>John 1:29 “…Behold the Lamb of God, which taketh away the sin of the world.”</td></tr>
+<tr><td>1 Nephi 10:18 “…he is the same yesterday, to-day, and forever…”</td><td>Hebrews 13:8 “…Jesus Christ the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>1 Nephi 10:18 “…the way is prepared for all men from the foundation of the world…”</td><td>Matthew 25:34 “…the kingdom prepared for you from the foundation of the world…”</td></tr>
+<tr><td>1 Nephi 11:7 “…bear record that it is the Son of God.”</td><td>John 1:34 “…bare record that this is the Son of God.”</td></tr>
+<tr><td>1 Nephi 11:22 “…it is the love of God, which sheddeth itself abroad in the hearts…”</td><td>Romans 5:5 “…the love of God is shed abroad in our hearts…”</td></tr>
+<tr><td>1 Nephi 11:35, 12:9, 13:41, 14:20, 24, 25, 27 “…the twelve apostles of the Lamb.”</td><td>Revelation 21:14 “…the twelve apostles of the Lamb.”</td></tr>
+<tr><td>1 Nephi 12:2, 12:21, 14:15 “…wars, and rumors of wars…”</td><td>Matthew 24:6 “…wars and rumours of wars…”</td></tr>
+<tr><td>1 Nephi 12:10 “…their garments are made white in his blood.”</td><td>Revelation 7:14 “…their robes, and made them white in the blood of the Lamb.”</td></tr>
+<tr><td>1 Nephi 13:27 “…pervert the right ways of the Lord…”</td><td>Acts 13:10 “…pervert the right ways of the Lord?”</td></tr>
+<tr><td>1 Nephi 13:42 “…the last shall be first, and the first shall be last.”</td><td>Matthew 19:30 “…first shall be last; and the last shall be first.”</td></tr>
+<tr><td>1 Nephi 14:10 “…the mother of abominations; and she is the whore of all the earth.”</td><td>Revelation 17:5 “…THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.”</td></tr>
+<tr><td>1 Nephi 14:11 “…the whore of all the earth, and she sat upon many waters…”</td><td>Revelation 17:1 “…the great whore that sitteth upon many waters…”</td></tr>
+<tr><td>1 Nephi 15:15 “…the true vine…”</td><td>John 15:1 “…I am the true vine…”</td></tr>
+<tr><td>1 Nephi 15:24 “…the fiery darts of the adversary…”</td><td>Ephesians 6:16 “…the fiery darts of the wicked.”</td></tr>
+<tr><td>1 Nephi 15:30 “…ascendeth up unto God forever and ever…”</td><td>Revelation 14:11 “…the smoke of their torment ascendeth up for ever and ever…”</td></tr>
+<tr><td>1 Nephi 16:2 “…lifted up at the last day…”</td><td>John 6:40 “…I will raise him up at the last day.”</td></tr>
+<tr><td>1 Nephi 17:39 “He ruleth high in the heavens, for it is his throne, and this earth is his footstool.”</td><td>Isaiah 66:1 “Thus saith the LORD, The heaven is my throne, and the earth is my footstool…”</td></tr>
+<tr><td>1 Nephi 17:55 “…honor thy father and thy mother, that thy days may be long in the land which the Lord thy God shall give thee.”</td><td>Exodus 20:12 “Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.”</td></tr>
+<tr><td>1 Nephi 20, 21</td><td>Isaiah 48, 49</td></tr>
+<tr><td>1 Nephi 22:15 “For behold…the day soon cometh that all the proud and they who do wickedly shall be as stubble; and the day cometh that they must be burned.”</td><td>Malachi 4:1 “For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up…”</td></tr>
+<tr><td>1 Nephi 22:17 “…they shall be saved, even if it so be as by fire.”</td><td>1 Corinthians 3:15 “…but he himself shall be saved; yet so as by fire.”</td></tr>
+<tr><td>1 Nephi 22:18 “…blood, and fire, and vapor of smoke…”</td><td>Acts 2:19 “…blood, and fire, and vapour of smoke…”</td></tr>
+<tr><td>1 Nephi 22:20 “…A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all those who will not hear that prophet shall be cut off from among the people.”</td><td>Acts 3:22-23 “…A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.”</td></tr>
+<tr><td>1 Nephi 22:25 “…there shall be one fold and one shepherd…”</td><td>John 10:16 “…there shall be one fold, and one shepherd.”</td></tr>
+<tr><td>1 Nephi 22:31 “…endure to the end, ye shall be saved…”</td><td>Matthew 24:13 “…endure unto the end, the same shall be saved.”</td></tr>
+</table>
+
+## 2 Nephi (588-545 BC)
+
+<table>
+<tr><td>2 Nephi 2:4 “…the same, yesterday, today, and forever.”</td><td>Hebrews 13:8 “…the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>2 Nephi 2:6 “…full of grace and truth.”</td><td>John 1:14 “…full of grace and truth.”</td></tr>
+<tr><td>2 Nephi 2:9 “…the first-fruits unto God…”</td><td>Revelation 14:4 “…the firstfruits unto God…”</td></tr>
+<tr><td>2 Nephi 4:17 “…O wretched man that I am!”</td><td>Romans 7:24 “O wretched man that I am!”</td></tr>
+<tr><td>2 Nephi 4:18 “I am encompassed about, because of the temptations and the sins which do so easily beset me.”</td><td>Hebrews 12:1 “…seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us…”</td></tr>
+<tr><td>2 Nephi 5:25 “…to stir them up in remembrance of me…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance…”</td></tr>
+<tr><td>2 Nephi 6:6, 16-18</td><td>Isaiah 49:22, 24-26</td></tr>
+<tr><td>2 Nephi 6:9 “…manifest himself unto them in the flesh…”</td><td>1 Timothy 3:16 “…God was manifest in the flesh…”</td></tr>
+<tr><td>2 Nephi 7</td><td>Isaiah 50</td></tr>
+<tr><td>2 Nephi 8</td><td>Isaiah 51-52</td></tr>
+<tr><td>2 Nephi 9:6 “…death hath passed upon all men…”</td><td>Romans 5:12 “…death passed upon all men…”</td></tr>
+<tr><td>2 Nephi 9:7 “…this corruption could not put on incorruption.”</td><td>1 Corinthians 15:53 “…this corruptible must put on incorruption…”</td></tr>
+<tr><td>2 Nephi 9:12 “…death and hell must deliver up their dead…”</td><td>Revelation 20:13“…death and hell delivered up the dead…”</td></tr>
+<tr><td>2 Nephi 9:15 “…must appear before the judgment-seat of the Holy One of Israel…”</td><td>2 Corinthians 5:10 “For we must all appear before the judgment seat of Christ…”</td></tr>
+<tr><td>2 Nephi 9:16 “…they who are righteous shall be righteous still, and they who are filthy shall be filthy still…”</td><td>Revelation 22:11 “…he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still…”</td></tr>
+<tr><td>2 Nephi 9:18 “…endured the crosses of the world, and despised the shame…”</td><td>Hebrews 12:2 “…endured the cross, despising the shame…”</td></tr>
+<tr><td>2 Nephi 9:18 “…inherit the kingdom of God, which was prepared for them from the foundation of the world…”</td><td>Matthew 25:34 “…inherit the kingdom prepared for you from the foundation of the world…”</td></tr>
+<tr><td>2 Nephi 9:18 “…their joy shall be full…”</td><td>John 15:11 “…that your joy might be full.”</td></tr>
+<tr><td>2 Nephi 9:30 “But wo unto the rich…”</td><td>Luke 6:24 “But woe unto you that are rich!”</td></tr>
+<tr><td>2 Nephi 9:33 “Wo unto the uncircumcised of heart…”</td><td>Acts 7:51 “…uncircumcised in heart…”</td></tr>
+<tr><td>2 Nephi 9:34, 36 “…shall be thrust down to hell.”</td><td>Luke 10:15 “…shalt be thrust down to hell.”</td></tr>
+<tr><td>2 Nephi 9:39 “…to be carnally-minded is death, and to be spiritually-minded is life…”</td><td>Romans 8:6 “…to be carnally minded is death; but to be spiritually minded is life…”</td></tr>
+<tr><td>2 Nephi 9:42 “…whoso knocketh, to him will he open…”</td><td>Matthew 7:8 “…to him that knocketh it shall be opened.”</td></tr>
+<tr><td>2 Nephi 9:50, 51</td><td>Isaiah 55:1, 2</td></tr>
+<tr><td>2 Nephi 10:9</td><td>Isaiah 49:23</td></tr>
+<tr><td>2 Nephi 10:16 “…both Jew and Gentile, both bond and free, both male and female…”</td><td>Galatians 3:28 “…neither Jew nor Greek, there is neither bond nor free, there is neither male nor female…”</td></tr>
+<tr><td>2 Nephi 10:16 “…they who are not for me are against me…”</td><td>Matthew 12:30 “He that is not with me is against me…”</td></tr>
+<tr><td>2 Nephi 12</td><td>Isaiah 2</td></tr>
+<tr><td>2 Nephi 13</td><td>Isaiah 3</td></tr>
+<tr><td>2 Nephi 14</td><td>Isaiah 4</td></tr>
+<tr><td>2 Nephi 15</td><td>Isaiah 5</td></tr>
+<tr><td>2 Nephi 16</td><td>Isaiah 6</td></tr>
+<tr><td>2 Nephi 17</td><td>Isaiah 7</td></tr>
+<tr><td>2 Nephi 18</td><td>Isaiah 8</td></tr>
+<tr><td>2 Nephi 19</td><td>Isaiah 9</td></tr>
+<tr><td>2 Nephi 20</td><td>Isaiah 10</td></tr>
+<tr><td>2 Nephi 21</td><td>Isaiah 11</td></tr>
+<tr><td>2 Nephi 22</td><td>Isaiah 12</td></tr>
+<tr><td>2 Nephi 23</td><td>Isaiah 13</td></tr>
+<tr><td>2 Nephi 24</td><td>Isaiah 14</td></tr>
+<tr><td>2 Nephi 25:12 “…wars, and rumors of wars…”</td><td>Matthew 24:6 “…wars and rumours of wars…”</td></tr>
+<tr><td>2 Nephi 25:12 “…the Only Begotten of the Father…”</td><td>John 1:14 “…the only begotten of the Father…”</td></tr>
+<tr><td>2 Nephi 25:13 “…rise from the dead, with healing in his wings…”</td><td>Malachi 4:2 “…arise with healing in his wings…”</td></tr>
+<tr><td>2 Nephi 25:20 “…there is none other name given under heaven…whereby man can be saved.”</td><td>Acts 4:12 “…there is none other name under heaven given among men, whereby we must be saved.”</td></tr>
+<tr><td>2 Nephi 25:29 “..shall in nowise be cast out.”</td><td>John 6:37 “…I will in no wise cast out.”</td></tr>
+<tr><td>2 Nephi 26:9 “…the Son of righteousness shall appear…”</td><td>Malachi 4:2 “…shall the Sun of righteousness arise…”</td></tr>
+<tr><td>2 Nephi 26:11 “…the Spirit of the Lord will not always strive with man.”</td><td>Genesis 6:3 “…My spirit shall not always strive with man…”</td></tr>
+<tr><td>2 Nephi 26:12 “…Jesus is the very Christ…”</td><td>John 7:26 “…that this is the very Christ?”</td></tr>
+<tr><td>2 Nephi 26:13, 30:8 “…every nation, kindred, tongue, and people…”</td><td>Revelation 14:6 “…to every nation, and kindred, and tongue, and people…”</td></tr>
+<tr><td>2 Nephi 26:16 “…shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit…that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.”</td><td>Isaiah 29:4 “And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.”</td></tr>
+<tr><td>2 Nephi 26:25 “…buy milk and honey, without money and without price.”</td><td>Isaiah 55:1 “…buy wine and milk without money and without price.”</td></tr>
+<tr><td>2 Nephi 26:30 “…except they should have charity they were nothing.”</td><td>1 Corinthians 13:2 “…and have not charity, I am nothing.”</td></tr>
+<tr><td>2 Nephi 26:33 “…bond and free, male and female…both Jew and Gentile.”</td><td>Galatians 3:28 “There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female…”</td></tr>
+<tr><td>2 Nephi 27:2 “…they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest, and with the flame of devouring fire.”</td><td>Isaiah 29:6 “Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.”</td></tr>
+<tr><td>2 Nephi 27:4 “…stay yourselves and wonder, for ye shall cry out, and cry; yea, ye shall be drunken but not with wine, ye shall stagger but not with strong drink.”</td><td>Isaiah 29:9 “Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.”</td></tr>
+<tr><td>2 Nephi 27:5 “For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes, and ye have rejected the prophets; and your rulers, and the seers hath he covered…”</td><td>Isaiah 29:10 “For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.”</td></tr>
+<tr><td>2 Nephi 27:15, 17 “…Read this, I pray thee…And the man shall say: I cannot bring the book, for it is sealed.”</td><td>Isaiah 29:11 “…Read this, I pray thee: and he saith, I cannot; for it is sealed…”</td></tr>
+<tr><td>2 Nephi 27:19 “…deliver again the book and the words thereof to him that is not learned; and the man that is not learned shall say: I am not learned.”</td><td>Isaiah 29:12 “And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.”</td></tr>
+<tr><td>2 Nephi 27:23 “…the same yesterday, today, and forever…”</td><td>Hebrews 13:8 “…the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>2 Nephi 27:25-34</td><td> Isaiah 29:13-23</td></tr>
+<tr><td>2 Nephi 28:15 “…pervert the right way of the Lord…”</td><td>Acts 13:10 “…wilt thou not cease to pervert the right ways of the Lord?”</td></tr>
+<tr><td>2 Nephi 28:15 “…they shall be thrust down to hell!”</td><td>Luke 10:15 “And thou…shalt be thrust down to hell.”</td></tr>
+<tr><td>2 Nephi 28:23 “…even a lake of fire and brimstone, which is endless torment.”</td><td>Revelation 20:10 “…into the lake of fire and brimstone…tormented day and night for ever and ever.”</td></tr>
+<tr><td>2 Nephi 28:30 “…line upon line, precept upon precept, here a little and there a little…”</td><td>Isaiah 28:10 “For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:”</td></tr>
+<tr><td>2 Nephi 28:30 “…unto him that receiveth I will give more; and from them that shall say, We have enough, from them shall be taken away even that which they have.”</td><td>Matthew 13:12 “For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.”</td></tr>
+<tr><td>2 Nephi 29:9 “…the same yesterday, today, and forever…”</td><td>Hebrews 13:8 “…the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>2 Nephi 29:11 “…out of the books which shall be written I will judge the world, every man according to their works…”</td><td>Revelation 20:12 “…the dead were judged out of those things which were written in the books, according to their works.”</td></tr>
+<tr><td>2 Nephi 30:9</td><td>Isaiah 11:4</td></tr>
+<tr><td>2 Nephi 30:11-15</td><td>Isaiah 11:5-9</td></tr>
+<tr><td>2 Nephi 31:4 “…the Lamb of God, which should take away the sins of the world.”</td><td>John 1:29 “…the Lamb of God, which taketh away the sin of the world.”</td></tr>
+<tr><td>2 Nephi 31:5 “…to fulfil all righteousness…”</td><td>Matthew 3:15 “…to fulfil all righteousness…”</td></tr>
+<tr><td>2 Nephi 31:9 “…the straightness of the path, and the narrowness of the gate…”</td><td>Matthew 7:14 “…strait is the gate, and narrow is the way…”</td></tr>
+<tr><td>2 Nephi 31:10 “…Follow thou me.”</td><td>John 21:22 “…follow thou
+me.”</td></tr>
+<tr><td>2 Nephi 31:11 “…repent ye, and be baptized in the name of my Beloved Son.”</td><td>Acts 2:38 “…Repent, and be baptized every one of you in the name of Jesus Christ…”</td></tr>
+<tr><td>2 Nephi 31:13 “…speak with the tongue of angels…”</td><td>1 Corinthians 13:1 “…I speak with the tongues of men and of angels…”</td></tr>
+<tr><td>2 Nephi 31:14 “…can speak with a new tongue…”</td><td>Mark 16:17 “…they shall speak with new tongues…”</td></tr>
+<tr><td>2 Nephi 31:15 “…He that endureth to the end, the same shall be saved.”</td><td>Matthew 24:13 “…he that shall endure unto the end, the same shall be saved.”</td></tr>
+<tr><td>2 Nephi 31:18 “…strait and narrow path which leads to eternal life…”</td><td>Matthew 7:14 “…strait is the gate, and narrow is the way, which leadeth unto life…”</td></tr>
+<tr><td>2 Nephi 31:21 “…there is none other way nor name given under heaven whereby man can be saved…”</td><td>Acts 4:12 “…for there is none other name under heaven given among men, whereby we must be saved.”</td></tr>
+<tr><td>2 Nephi 32:2 “…speak with the tongue of angels…”</td><td>1 Corinthians 13:1 “…speak with the tongues of men and of angels…”</td></tr>
+<tr><td>2 Nephi 32:9 “…pray always, and not faint…”</td><td>Luke 18:1 “…always to pray, and not to faint…”</td></tr>
+<tr><td>2 Nephi 33:9 “…enter into the narrow gate, and walk in the strait path which leads to life…”</td><td>Matthew 7:13, 14 “Enter ye in at the strait gate…Because strait is the gate, and narrow is the way, which leadeth unto life…”</td></tr>
+</table>
+
+## Jacob (544-421 BC)
+
+<table>
+<tr><td>Jacob 3:11 “…that lake of fire and brimstone which is the second death.”</td><td>Revelation 21:8 “…in the lake which burneth with fire and brimstone: which is the second death.”</td></tr>
+<tr><td>Jacob 5:42 “…these which have once brought forth good fruit…are good for nothing save it be to be hewn down and cast into the fire.”</td><td>Matthew 3:10 “…every tree which bringeth not forth good fruit is hewn down, and cast into the fire.”</td></tr>
+<tr><td>Jacob 5:47 “…what could I have done more in my vineyard?”</td><td>Isaiah 5:4 “What could have been done more to my vineyard…”</td></tr>
+<tr><td>Jacob 5:47 “…I have digged about it… and I have dunged it…”</td><td>Luke 13:8 “…I shall dig about it, and dung it:”</td></tr>
+<tr><td>Jacob 5:49 “…they shall not cumber the ground…”</td><td>Luke 13:7 “…why cumbereth it the ground?”</td></tr>
+<tr><td>Jacob 5:63 “…the last that they may be first, and that the first may be last…”</td><td>Matthew 19:30 “…first shall be last; and the last shall be first.”</td></tr>
+<tr><td>Jacob 6:4 “…he stretches forth his hands unto them all the day long; and they are a stiffnecked and a gainsaying people;”</td><td>Romans 10:21 “…All day long I have stretched forth my hands unto a disobedient and gainsaying people.”</td></tr>
+<tr><td>Jacob 6:6 “…today, if ye will hear his voice, harden not your hearts…”</td><td>Hebrews 3:7, 8 “…To day if ye will hear his voice, Harden not your hearts…”</td></tr>
+<tr><td>Jacob 6:10 “…whose smoke ascendeth up forever and ever…endless torment.”</td><td>Revelation 14:11 “And the smoke of their torment ascendeth up for ever and ever…”</td></tr>
+<tr><td>Jacob 6:11 “…enter in at the strait gate, and continue in the way which is narrow, until ye shall obtain eternal life.”</td><td>Matthew 7:13, 14 “Enter ye in at the strait gate…narrow is the way, which leadeth unto life…”</td></tr>
+</table>
+
+## Enos (544-420 BC)
+
+<table>
+<tr><td>Enos 1:1 “…in the nurture and admonition of the Lord…”</td><td>Ephesians 6:4 “…in the nurture and admonition of the Lord.”</td></tr>
+<tr><td>Enos 1:8 “…thy faith hath made thee whole.”</td><td>Matthew 9:22 “…thy faith hath made thee whole.”</td></tr>
+<tr><td>Enos 1:15 “…Whatsoever thing ye shall ask in faith, believing that ye shall receive in the name of Christ, ye shall receive it.”</td><td>Matthew 21:22 “And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.”</td></tr>
+<tr><td>Enos 1:27 “…my mortal shall put on immortality…”</td><td>1 Corinthians 15:53 “…this mortal must put on immortality.”</td></tr>
+<tr><td>Enos 1:27 “…Come unto me, ye blessed…of my Father.”</td><td>Matthew 25:34 “…Come, ye blessed of my Father…”</td></tr>
+<tr><td>Enos 1:27 “…there is a place prepared for you in the mansions of my Father.”</td><td>John 14:2 “In my Father’s house are many mansions…I go to prepare a place for you.”</td></tr>
+</table>
+
+## Omni (361-130 BC)
+
+<table>
+<tr><td>Omni 1:26 “…endure to the end…ye will be saved.”</td><td>Matthew 24:13 “…endure unto the end, the same shall be saved.”</td></tr>
+</table>
+
+## Mosiah (130-91 BC)
+
+<table>
+<tr><td>Mosiah 1:12 “…name that never shall be blotted out…”</td><td>Revelation 3:5 “…I will not blot out his name out of the book of life…”</td></tr>
+<tr><td>Mosiah 1:17 “…to stir them up in remembrance…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance;”</td></tr>
+<tr><td>Mosiah 3:5 “…the Lord Omnipotent who reigneth…”</td><td>Revelation 19:6 “…the Lord God omnipotent reigneth.”</td></tr>
+<tr><td>Mosiah 3:13 “…to every kindred, nation, and tongue…”</td><td>Revelation 14:6 “…to every nation, and kindred, and tongue, and people…”</td></tr>
+<tr><td>Mosiah 3:17 “…there shall be no other name given nor any other way nor means whereby salvation can come…”</td><td>Acts 4:12 “…salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.”</td></tr>
+<tr><td>Mosiah 3:18 “…become as little children…”</td><td>Matthew 18:3 “…become as little children…”</td></tr>
+<tr><td>Mosiah 3:27 “…their torment is as a lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever.”</td><td>Revelation 14:10, 11 “…he shall be tormented with fire and brimstone in the presence of the holy angels…And the smoke of their torment ascendeth up for ever and ever…”</td></tr>
+<tr><td>Mosiah 4:6 “…prepared from the foundation of the world…”</td><td>Matthew 25:34 “…prepared for you from the foundation of the world…”</td></tr>
+<tr><td>Mosiah 4:9 “…believe that he is…”</td><td>Hebrews 11:6 “…believe that he is…”</td></tr>
+<tr><td>Mosiah 5:8 “…There is no other name given whereby salvation cometh;”</td><td>Acts 4:12 “…there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.”</td></tr>
+<tr><td>Mosiah 5:13 “…the thoughts and intents of his heart…”</td><td>Hebrews 4:12 “…the thoughts and intents of the heart.”</td></tr>
+<tr><td>Mosiah 5:15 “…ye should be steadfast and immovable, always abounding in good works…”</td><td>1 Corinthians 15:58 “…be ye stedfast, unmoveable, always abounding in the work of the Lord…”</td></tr>
+<tr><td>Mosiah 5:15 “…the Lord God Omnipotent…”</td><td>Revelation 19:6 “…the Lord God omnipotent…”</td></tr>
+<tr><td>Mosiah 6:3 “…to stir them up in remembrance…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance;”</td></tr>
+<tr><td>Mosiah 7:30 “…they shall reap the chaff thereof in the whirlwind…”</td><td>Hosea 8:7 “…they have sown the wind, and they shall reap the whirlwind…”</td></tr>
+<tr><td>Mosiah 10:8 “…a leathern girdle about their loins.”</td><td>Matthew 3:4 “…a leathern girdle about his loins…”</td></tr>
+<tr><td>Mosiah 12:21-24</td><td>Isaiah 52:7-10</td></tr>
+<tr><td>Mosiah 12:34-36</td><td>Exodus 20:2-4</td></tr>
+<tr><td>Mosiah 13:12-24</td><td>Exodus 20:4-17</td></tr>
+<tr><td>Mosiah 14:1-12</td><td>Isaiah 53:1-12</td></tr>
+<tr><td>Mosiah 15:4 “…who have brought good tidings of good, who have published salvation; and said unto Zion: Thy God reigneth!”</td><td>Isaiah 52:7 “…him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!”</td></tr>
+<tr><td>Mosiah 15:29-31</td><td>Isaiah 52:8-10</td></tr>
+<tr><td>Mosiah 16:2 “…the wicked be cast out…and weep, and wail, and gnash their teeth…”</td><td>Matthew 22:13 “…cast him into outer darkness, there shall be weeping and gnashing of teeth.”</td></tr>
+<tr><td>Mosiah 16:3 “…that old serpent…”</td><td>Revelation 20:2 “…that old serpent…”</td></tr>
+<tr><td>Mosiah 16:3 “…serpent that did beguile our first parents…”</td><td>2 Corinthians 11:3 “…the serpent beguiled Eve…”</td></tr>
+<tr><td>Mosiah 16:3 “…carnal, sensual, devilish…”</td><td>James 3:15 “…earthly, sensual, devilish.”</td></tr>
+<tr><td>Mosiah 16:7 “…that death should have no sting…”</td><td>1 Corinthians 15:55 “O death, where is thy sting?”</td></tr>
+<tr><td>Mosiah 16:8 “…death is swallowed up in Christ.”</td><td>1 Corinthians 15:54 “…Death is swallowed up in victory.”</td></tr>
+<tr><td>Mosiah 16:9 “He is the light and the life of the world…”</td><td>John 8:12 “…I am the light of the world…”</td></tr>
+<tr><td>Mosiah 16:10 “…this mortal shall put on immortality, and this corruption shall put on incorruption…”</td><td>1 Corinthians 15:53 “…this corruptible must put on incorruption, and this mortal must put on immortality.”</td></tr>
+<tr><td>Mosiah 16:11 “If they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation…”</td><td>John 5:29 “And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.”</td></tr>
+<tr><td>Mosiah 16:14 “…it is a shadow of those things which are to come…”</td><td>Colossians 2:17 “Which are a shadow of things to come…”</td></tr>
+<tr><td>Mosiah 18:13 “…prepared from the foundation of the world.”</td><td>Matthew 25:34 “…the kingdom prepared for you from the foundation of the world:”</td></tr>
+<tr><td>Mosiah 18:21 “…one faith and one baptism…”</td><td>Ephesians 4:5 “…one faith, one baptism,”</td></tr>
+<tr><td>Mosiah 18:21 “…their hearts knit together in unity and in love…”</td><td>Colossians 2:2 “That their hearts might be comforted, being knit together in love…”</td></tr>
+<tr><td>Mosiah 23:13 “…stand fast in this liberty wherewith ye have been made free…”</td><td>Galatians 5:1 “Stand fast therefore in the liberty wherewith Christ hath made us free…”</td></tr>
+<tr><td>Mosiah 26:27 “And then I will confess unto them that I never knew them…”</td><td>Matthew 7:23 “And then will I profess unto them, I never knew you…”</td></tr>
+<tr><td>Mosiah 26:27 “…depart into everlasting fire prepared for the devil and his angels.”</td><td>Matthew 25:41 “…Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:”</td></tr>
+<tr><td>Mosiah 26:37 “…walking circumspectly…”</td><td>Ephesians 5:15 “…walk circumspectly…”</td></tr>
+<tr><td>Mosiah 26:39 “…pray without ceasing, and to give thanks in all things.”</td><td>1 Thessalonians 5:17, 18 “Pray without ceasing.  In every thing give thanks…”</td></tr>
+<tr><td>Mosiah 27:29 “…the gall of bitterness and bonds of iniquity.”</td><td>Acts 8:23 “…in the gall of bitterness, and in the bond of iniquity.”</td></tr>
+<tr><td>Mosiah 27:31 “…every knee shall bow, and every tongue confess…”</td><td>Philippians 2:10, 11 “…at the name of Jesus every knee should bow…And that every tongue should confess…”</td></tr>
+</table>
+
+## Alma (91-53 BC)
+
+<table>
+<tr><td>Alma 1:25 “…stand fast in the faith…”</td><td>1 Corinthians 16:13 “…stand fast in the faith…”</td></tr>
+<tr><td>Alma 1:25 “…they were steadfast and immovable…”</td><td>1 Corinthians 15:58 “…be ye stedfast, unmoveable…”</td></tr>
+<tr><td>Alma 4:19 “…to stir them up in remembrance…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance;”</td></tr>
+<tr><td>Alma 5:15 “…this corruption raised in incorruption…”</td><td>1 Corinthians 15:42 “It is sown in corruption; it is raised in incorruption:”</td></tr>
+<tr><td>Alma 5:24 “…sit down in the kingdom of God, with Abraham, with Isaac, and with Jacob…”</td><td>Matthew 8:11 “…sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.”</td></tr>
+<tr><td>Alma 5:27 “…garments have been cleansed and made white through the blood of Christ…”</td><td>Revelation 7:14 “…have washed their robes, and made them white in the blood of the Lamb.”</td></tr>
+<tr><td>Alma 5:50 “…Repent…for the kingdom of heaven is soon at hand…”</td><td>Matthew 3:2 “…Repent ye: for the kingdom of heaven is at hand.”</td></tr>
+<tr><td>Alma 5:35 “…hewn down and cast into the fire…”</td><td>Matthew 3:10 “…hewn down, and cast into the fire.”</td></tr>
+<tr><td>Alma 5:48 “…the Only Begotten of the Father, full of grace, and mercy, and truth.”</td><td>John 1:14 “…the only begotten of the Father,) full of grace and truth.”</td></tr>
+<tr><td>Alma 9:26 “…the Only Begotten of the Father, full of grace, equity, and truth…”</td><td>John 1:14 “…the only begotten of the Father,) full of grace and truth.”</td></tr>
+<tr><td>Alma 5:48 “…it is he that cometh to take away the sins of the world…”</td><td>John 1:29 “…the Lamb of God, which taketh away the sin of the world.”</td></tr>
+<tr><td>Alma 5:48 “…believeth on his name.”</td><td>John 1:12 “…believe on his name:”</td></tr>
+<tr><td>Alma 5:54 “…bring forth works which are meet for repentance—“</td><td>Matthew 3:8 “Bring forth therefore fruits meet for repentance:”</td></tr>
+<tr><td>Alma 12:15 “…bringeth forth fruit meet for repentance.”</td><td>Matthew 3:8 “Bring forth therefore fruits meet for repentance:”</td></tr>
+<tr><td>Alma 5:57 “…come ye out from the wicked, and be ye separate, and touch not their unclean things…”</td><td>2 Corinthians 6:17 “…come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.”</td></tr>
+<tr><td>Alma 7:9 “…Repent ye…the kingdom of heaven is at hand…”</td><td>Matthew 3:2 “…Repent ye: for the kingdom of heaven is at hand.”</td></tr>
+<tr><td>Alma 7:14 “…if ye are not born again ye cannot inherit the kingdom of heaven…”</td><td>John 3:3 “…Except a man be born again, he cannot see the kingdom of God.”</td></tr>
+<tr><td>Alma 7:14 “…the Lamb of God, who taketh away the sins of the world…”</td><td>John 1:29 “…the Lamb of God, which taketh away the sin of the world.”</td></tr>
+<tr><td>Alma 7:14 “…to cleanse from all unrighteousness.”</td><td>1 John 1:9 “…to cleanse us from all unrighteousness.”</td></tr>
+<tr><td>Alma 7:15 “…lay aside every sin, which easily doth beset you…”</td><td>Hebrews 12:1 “…let us lay aside…the sin which doth so easily beset us…”</td></tr>
+<tr><td>Alma 7:20 “…neither doth he vary from that which he hath said; neither hath he a shadow of turning…”</td><td>James 1:17 “…the Father of lights, with whom is no variableness, neither shadow of turning.”</td></tr>
+<tr><td>Alma 7:21 “…he who is filthy shall remain in his filthiness.”</td><td>Revelation 22:11 “…he which is filthy, let him be filthy still…”</td></tr>
+<tr><td>Alma 7:24 “…see that ye have faith, hope, and charity…”</td><td>1 Corinthians 13:13 “…now abideth faith, hope, charity…”</td></tr>
+<tr><td>Alma 7:24 “…ye will always abound in good works.”</td><td>2 Corinthians 9:8 “…ye… may abound to every good work:”</td></tr>
+<tr><td>Alma 7:25 “…sit down with Abraham, Isaac, and Jacob…in the kingdom of heaven…”</td><td>Matthew 8:11 “…sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.”</td></tr>
+<tr><td>Alma 9:20 “…every other nation, kindred, tongue, or people…”</td><td>Revelation 14:6 “…every nation, and kindred, and tongue, and people,”</td></tr>
+<tr><td>Alma 37:4 “…every nation, kindred, tongue, and people…”</td><td>Revelation 14:6 “…every nation, and kindred, and tongue, and people,”</td></tr>
+<tr><td>Alma 9:25 “…Repent ye, for the kingdom of heaven is nigh at hand;”</td><td>Matthew 4:17 “…Repent: for the kingdom of heaven is at hand.”</td></tr>
+<tr><td>Alma 10:20 “…repent, for the kingdom of heaven is at hand.”</td><td>Matthew 4:17 “…Repent: for the kingdom of heaven is at hand.”</td></tr>
+<tr><td>Alma 9:26 “…his glory; and his glory shall be the glory of the Only Begotten of the Father, full of grace, equity, and truth…”</td><td>John 1:14 “…(and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.”</td></tr>
+<tr><td>Alma 10:17 “…O ye wicked and perverse generation…”</td><td>Matthew 17:17 “…O faithless and perverse generation…”</td></tr>
+<tr><td>Alma 11:39 “…he is the beginning and the end, the first and the last;”</td><td>Revelation 22:13 “…the beginning and the end, the first and the last.”</td></tr>
+<tr><td>Alma 12:8 “…resurrection of the dead…both the just and the unjust…”</td><td>Acts 24:15 “…resurrection of the dead, both of the just and unjust.”</td></tr>
+<tr><td>Alma 12:16 “…a second death…”</td><td>Revelation 20:14 “…the second death.”</td></tr>
+<tr><td>Alma 12:17 “…their torments shall be as a lake of fire and brimstone, whose flame ascendeth up forever and ever…”</td><td>Revelation 14:10, 11 “…he shall be tormented with fire and brimstone…And the smoke of their torment ascendeth up for ever and ever…”</td></tr>
+<tr><td>Alma 12:27 “…it was appointed unto men that they must die; and after death, they must come to judgment…”</td><td>Hebrews 9:27 “…it is appointed unto men once to die, but after this the judgment:”</td></tr>
+<tr><td>Alma 12:35 “…I swear in my wrath that he shall not enter into my rest.”</td><td>Hebrews 3:11 “So I sware in my wrath, They shall not enter into my rest.)”</td></tr>
+<tr><td>Alma 13:9 “…priests forever, after the order of the Son…”</td><td>Hebrews 5:6 “…Thou art a priest for ever after the order of Melchisedec.”</td></tr>
+<tr><td>Alma 13:9 “…full of grace, equity, and truth…”</td><td>John 1:14 “…full of grace and truth.”</td></tr>
+<tr><td>Alma 13:13 “…bring forth fruit meet for repentance…”</td><td>Matthew 3:8 “Bring forth therefore fruits meet for repentance:”</td></tr>
+<tr><td>Alma 13:15 “…this same Melchizedek to whom Abraham paid tithes…”</td><td>Hebrews 7:1, 2 “…this Melchisedec…To whom also Abraham gave a tenth part of all…”</td></tr>
+<tr><td>Alma 13:20 “…the scriptures are before you; if ye will wrest them it shall be to your own destruction.”</td><td>2 Peter 3:16 “…they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.”</td></tr>
+<tr><td>Alma 13:22 “…glad tidings of great joy…among all his people…”</td><td>Luke 2:10 “…good tidings of great joy, which shall be to all people.”</td></tr>
+<tr><td>Alma 13:28 “…watch and pray continually, that ye may not be tempted…”</td><td>Matthew 26:41 “Watch and pray, that ye enter not into temptation…”</td></tr>
+<tr><td>Alma 13:28 “…tempted above that which ye can bear…”</td><td>1 Corinthians 10:13 “…tempted above that ye are able…to bear…”</td></tr>
+<tr><td>Alma 18:13 “…said unto him, Rabbanah, which is, being interpreted, powerful or great king…”</td><td>John 1:38 “…said unto him, Rabbi, (which is to say, being interpreted, Master…”</td></tr>
+<tr><td>Alma 18:32 “…the thoughts and intents of the heart…”</td><td>Hebrews 4:12 “…the thoughts and intents of the heart.”</td></tr>
+<tr><td>Alma 19:9 “…Believest thou this?…”</td><td>John 11:26 “…Believest thou this?”</td></tr>
+<tr><td>Alma 19:10 “…there has not been such great faith among all the people of the Nephites.”</td><td>Luke 7:9 “…I have not found so great faith, no, not in Israel.”</td></tr>
+<tr><td>Alma 21:6 “…except we repent we shall perish…”</td><td>Luke 13:3 “…except ye repent, ye shall all likewise perish.”</td></tr>
+<tr><td>Alma 25:6 “…to be stirred up in remembrance…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance;”</td></tr>
+<tr><td>Alma 26:5 “…thrust in the sickle, and did reap…”</td><td>Revelation 14:15 “…Thrust in thy sickle, and reap…”</td></tr>
+<tr><td>Alma 26:7 “…he will raise them up at the last day.”</td><td>John 6:40 “…I will raise him up at the last day.”</td></tr>
+<tr><td>Alma 30:46 “…grieved because of the hardness of your heart…”</td><td>Mark 3:5 “…being grieved for the hardness of their hearts…”</td></tr>
+<tr><td>Alma 31:11 “…they did pervert the ways of the Lord…”</td><td>Acts 13:10 “…cease to pervert the right ways of the Lord?”</td></tr>
+<tr><td>Alma 31:17 “…the same yesterday, today, and forever…”</td><td>Hebrews 13:8 “Jesus Christ the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>Alma 31:37 “…taking no thought for themselves what they should eat, or what they should drink, or what they should put on.”</td><td>Matthew 6:25 “…Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on…”</td></tr>
+<tr><td>Alma 32:13 “…he that findeth mercy and endureth to the end the same shall be saved.”</td><td>Matthew 24:13 “But he that shall endure unto the end, the same shall be saved.”</td></tr>
+<tr><td>Alma 32:21 “…if ye have faith ye hope for things which are not seen…”</td><td>Hebrews 11:1 “…faith is the substance of things hoped for, the evidence of things not seen.”</td></tr>
+<tr><td>Alma 32:38 “…and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away…”</td><td>Matthew 13:6 “And when the sun was up, they were scorched; and because they had no root, they withered away.”</td></tr>
+<tr><td>Alma 32:41 “…springing up unto everlasting life.”</td><td>John 4:14 “…springing up into everlasting life.”</td></tr>
+<tr><td>Alma 34:13 “…yea, it shall be all fulfilled, every jot and tittle…”</td><td>Matthew 5:18 “…one jot or one tittle shall in no wise pass from the law, till all be fulfilled.”</td></tr>
+<tr><td>Alma 34:29 “…cast out, (it being of no worth) and is trodden under foot of men.”</td><td>Matthew 5:13 “…good for nothing, but to be cast out, and to be trodden under foot of men.”</td></tr>
+<tr><td>Alma 34:38 “…worship God…in spirit and in truth…”</td><td>John 4:24 “God is a Spirit: and they that worship him must worship him in spirit and in truth.”</td></tr>
+<tr><td>Alma 36:18 “…who am in the gall of bitterness…”</td><td>Acts 8:23 “…thou art in the gall of bitterness…”</td></tr>
+<tr><td>Alma 37:15 “…delivered up unto Satan, that he may sift you as chaff before the wind.”</td><td>Luke 22:31 “…Satan hath desired to have you, that he may sift you as wheat:”</td></tr>
+<tr><td>Alma 37:34 “…be meek and lowly in heart; for such shall find rest to their souls.”</td><td>Matthew 11:29 “…I am meek and lowly in heart: and ye shall find rest unto your souls.”</td></tr>
+<tr><td>Alma 38:9 “…he is the life and the light of the world…”</td><td>John 1:4 “In him was life; and the life was the light of men.”</td></tr>
+<tr><td>Alma 39:9 “…the lusts of your eyes…”</td><td>1 John 2:16 “…the lust of the eyes…”</td></tr>
+<tr><td>Alma 40:2 “…this mortal does not put on immortality, this corruption does not put on incorruption…”</td><td>1 Corinthians 15:53 “…this corruptible must put on incorruption, and this mortal must put on immortality.”</td></tr>
+<tr><td>Alma 41:4 “…mortality raised to immortality, corruption to incorruption…”</td><td>1 Corinthians 15:53 “…this corruptible must put on incorruption, and this mortal must put on immortality.”</td></tr>
+<tr><td>Alma 40:13 “…cast out into outer darkness; there shall be weeping, and wailing, and gnashing of teeth…”</td><td>Matthew 22:13 “…cast him into outer darkness, there shall be weeping and gnashing of teeth.”</td></tr>
+<tr><td>Alma 40:14 “…fearful looking for the fiery indignation…”</td><td>Hebrews 10:27 “…fearful looking for of judgment and fiery indignation…”</td></tr>
+<tr><td>Alma 40:25 “…then shall the righteous shine forth…”</td><td>Matthew 13:43 “Then shall the righteous shine forth…”</td></tr>
+<tr><td>Alma 41:11 “…are in the gall of bitterness and in the bonds of iniquity…”</td><td>Acts 8:23 “…art in the gall of bitterness, and in the bond of iniquity.”</td></tr>
+<tr><td>Alma 41:11 “…without God in the world…”</td><td>Ephesians 2:12 “…without God in the world:”</td></tr>
+<tr><td>Alma 42:2</td><td>Genesis 3:23, 24</td></tr>
+<tr><td>Alma 42:27 “…whosoever will come may come and partake of the waters of life freely…”</td><td>Revelation 22:17 “…whosoever will, let him take the water of life freely.”</td></tr>
+<tr><td>Alma 43:10 “…worship God in spirit and in truth…”</td><td>John 4:24 “…worship him in spirit and in truth.”</td></tr>
+<tr><td>Alma 58:40 “…stand fast in that liberty wherewith God has made them free…”</td><td>Galatians 5:1 “Stand fast therefore in the liberty wherewith Christ hath made us free…”</td></tr>
+</table>
+
+## Helaman (52-1 BC)
+
+<table>
+<tr><td>Helaman 3:29 “…the word of God, which is quick and powerful, which shall divide asunder…”</td><td>Hebrews 4:12 “…the word of God is quick, and powerful…even to the dividing asunder of soul and spirit…”</td></tr>
+<tr><td>Helaman 3:30 “…at the right hand of God in the kingdom of heaven, to sit down with Abraham, and Isaac, and with Jacob…”</td><td>Matthew 8:11 “…shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.”</td></tr>
+<tr><td>Helaman 5:8 “…lay up for yourselves a treasure in heaven…”</td><td>Matthew 6:20 “…lay up for yourselves treasures in heaven…”</td></tr>
+<tr><td>Helaman 5:32 “…Repent ye, repent ye, for the kingdom of heaven is at hand…”</td><td>Matthew 3:2 “…Repent ye: for the kingdom of heaven is at hand.”</td></tr>
+<tr><td>Helaman 5:44 “…that joy which is unspeakable and full of glory.”</td><td>1 Peter 1:8 “…with joy unspeakable and full of glory:”</td></tr>
+<tr><td>Helaman 7:28 “…except ye repent ye shall perish…”</td><td>Luke 13:3 “…except ye repent, ye shall all likewise perish.”</td></tr>
+<tr><td>Helaman 8:14 “…as he lifted up the brazen serpent in the wilderness, even so shall he be lifted up who should come.”</td><td>John 3:14 “…as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:”</td></tr>
+<tr><td>Helaman 8:25 “…laying up for yourselves treasures in heaven, where nothing doth corrupt…”</td><td>Matthew 6:20 “…lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt…”</td></tr>
+<tr><td>Helaman 9:21 “…ye uncircumcised of heart, ye blind, and ye stiffnecked people…”</td><td>Acts 7:51 “Ye stiffnecked and uncircumcised in heart and ears…”</td></tr>
+<tr><td>Helaman 10:7 “…whatsoever ye shall seal on earth shall be sealed in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven…”</td><td>Matthew 16:19 “…whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.”</td></tr>
+<tr><td>Helaman 10:8 “…say unto this temple it shall be rent in twain…”</td><td>Matthew 27:51 “…the veil of the temple was rent in twain…”</td></tr>
+<tr><td>Helaman 10:9 “…ye shall say unto this mountain…”</td><td>Matthew 17:20 “…ye shall say unto this mountain…”</td></tr>
+<tr><td>Helaman 11:4 “…to stir them up in remembrance…”</td><td>2 Peter 1:13 “…to stir you up by putting you in remembrance;”</td></tr>
+<tr><td>Helaman 12:26 “…They that have done good shall have everlasting life; and they that have done evil shall have everlasting damnation…”</td><td>John 5:29 “…they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.”</td></tr>
+<tr><td>Helaman 13:25 “…If our days had been in the days of our fathers of old, we would not have slain the prophets…”</td><td>Matthew 23:30 “…If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.”</td></tr>
+<tr><td>Helaman 13:29 “O ye wicked and ye perverse generation…”</td><td>Matthew 17:17 “…O faithless and perverse generation…”</td></tr>
+<tr><td>Helaman 13:29 “…foolish and blind guides…”</td><td>Matthew 23:16 “…ye blind guides…”</td></tr>
+<tr><td>Helaman 13:29 “…ye choose darkness rather than light?”</td><td>John 3:19 “…men loved darkness rather than light…”</td></tr>
+<tr><td>Helaman 14:25 “And many graves shall be opened, and shall yield up many of their dead; and many saints shall appear unto many.”</td><td>Matthew 27:52, 53 “And the graves were opened; and many bodies of the saints which slept arose, And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.”</td></tr>
+<tr><td>Helaman 15:1 “…your houses shall be left unto you desolate.”</td><td>Matthew 23:38 “…your house is left unto you desolate.”</td></tr>
+<tr><td>Helaman 15:2 “…wo unto them which are with child…”</td><td>Matthew 24:19 “…woe unto them that are with child…”</td></tr>
+<tr><td>Helaman 15:5 “…and they do walk circumspectly…”</td><td>Ephesians 5:15 “See then that ye walk circumspectly…”</td></tr>
+<tr><td>Helaman 16:14 “And angels did appear unto men, wise men, and did declare unto them glad tidings of great joy…”</td><td>Luke 2:10 “And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy…”</td></tr>
+</table>
+
+## 3 Nephi (1-35 AD)
+
+<table>
+<tr><td>3 Nephi 1:13 “…the time is at hand…”</td><td>Revelation 22:10 “…the time is at hand.”</td></tr>
+<tr><td>3 Nephi 1:25 “…that one jot or tittle should not pass away till it should all be fulfilled…”</td><td>Matthew 5:18 “…one jot or one tittle shall in no wise pass from the law, till all be fulfilled.”</td></tr>
+<tr><td>3 Nephi 6:14 “…and steadfast, and immovable…”</td><td>1 Corinthians 15:58 “…be ye stedfast, unmoveable…”</td></tr>
+<tr><td>3 Nephi 7:8 “…like the dog to his vomit, or like the sow to her wallowing in the mire.”</td><td>2 Peter 2:22 “…The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.”</td></tr>
+<tr><td>3 Nephi 9:13 “…be converted, that I may heal you?”</td><td>John 12:40 “…be converted, and I should heal them.”</td></tr>
+<tr><td>3 Nephi 9:15 “…I am in the Father, and the Father in me…”</td><td>John 14:11 “…I am in the Father, and the Father in me…”</td></tr>
+<tr><td>3 Nephi 9:16 “I came unto my own, and my own received me not…”</td><td>John 1:11 “He came unto his own, and his own received him not.”</td></tr>
+<tr><td>3 Nephi 9:17 “And as many as have received me, to them have I given to become the sons of God; and even so will I to as many as shall believe on my name…”</td><td>John 1:12 “But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:”</td></tr>
+<tr><td>3 Nephi 9:18 “I am the light and the life of the world…”</td><td>John 8:12 “…I am the light of the world…”</td></tr>
+<tr><td>3 Nephi 9:18 “…I am Alpha and Omega, the beginning and the end.”</td><td>Revelation 22:13 “I am Alpha and Omega, the beginning and the end, the first and the last.”</td></tr>
+<tr><td>3 Nephi 10:4 “…how oft have I gathered you as a hen gathereth her chickens under her wings…”</td><td>Matthew 23:37 “…how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings…”</td></tr>
+<tr><td>3 Nephi 10:5 “…how oft would I have gathered you as a hen gathereth her chickens under her wings…how oft would I have gathered you as a hen gathereth her chickens…”</td><td>Matthew 23:37 “…how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings…”</td></tr>
+<tr><td>3 Nephi 11:7 “Behold my Beloved Son, in whom I am well pleased…hear ye him.”</td><td>Matthew 17:5 “…This is my beloved Son, in whom I am well pleased; hear ye him.”</td></tr>
+<tr><td>3 Nephi 11:11 “…I am the light and the life of the world…”</td><td>John 8:12 “…I am the light of the world…”</td></tr>
+<tr><td>3 Nephi 11:25 “…baptize you in the name of the Father, and of the Son, and of the Holy Ghost…”</td><td>Matthew 28:19 “…baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:”</td></tr>
+<tr><td>3 Nephi 11:27 “…the Father, and the Son, and the Holy Ghost are one…”</td><td>1 John 5:7 “…the Father, the Word, and the Holy Ghost: and these three are one.:”</td></tr>
+<tr><td>3 Nephi 11:27 “…I am in the Father, and the Father in me…”</td><td>John 14:11 “…I am in the Father, and the Father in me…”</td></tr>
+<tr><td>3 Nephi 11:27 “…the Father and I are one.”</td><td>John 10:30 “I and my Father are one.”</td></tr>
+<tr><td>3 Nephi 11:32 “…the Father commandeth all men, everywhere, to repent…”</td><td>Acts 17:30 “…God…commandeth all men every where to repent:”</td></tr>
+<tr><td>3 Nephi 11:33 “…whoso believeth in me, and is baptized, the same shall be saved…”</td><td>Mark 16:16 “He that believeth and is baptized shall be saved…”</td></tr>
+<tr><td>3 Nephi 11:34 “…whoso believeth not in me, and is not baptized, shall be damned.”</td><td>Mark 16:16 “…but he that believeth not shall be damned.”</td></tr>
+<tr><td>3 Nephi 11:36 “…the Father, and I, and the Holy Ghost are one.”</td><td>1 John 5:7 “…the Father, the Word, and the Holy Ghost: and these three are one.:”</td></tr>
+<tr><td>3 Nephi 11:39 “…whoso buildeth upon this buildeth upon my rock, and the gates of hell shall not prevail against them.”</td><td>Matthew 16:18 “…upon this rock I will build my church; and the gates of hell shall not prevail against it.”</td></tr>
+<tr><td>3 Nephi 12:1 “…baptize you with water…baptize you with fire and with the Holy Ghost…”</td><td>Matthew 3:11 “…baptize you with water…baptize you with the Holy Ghost, and with fire:”</td></tr>
+<tr><td>3 Nephi 12:3-45</td><td>Matthew 5:3-45</td></tr>
+<tr><td>3 Nephi 12:47 “Old things are done away, and all things have become new.”</td><td>2 Corinthians 5:17 “…old things are passed away; behold, all things are become new.”</td></tr>
+<tr><td>3 Nephi 12:48</td><td>Matthew 5:48</td></tr>
+<tr><td>3 Nephi 13:1-34</td><td>Matthew 6:1-34</td></tr>
+<tr><td>3 Nephi 14:1-27</td><td>Matthew 7:1-27</td></tr>
+<tr><td>3 Nephi 15:1 “…him will I raise up at the last day.”</td><td>John 6:44 “…I will raise him up at the last day.”</td></tr>
+<tr><td>3 Nephi 15:2 “…old things had passed away, and that all things had become new.”</td><td>2 Corinthians 5:17 “…old things are passed away; behold, all things are become new.”</td></tr>
+<tr><td>3 Nephi 15:9 “…endure to the end, and ye shall live…”</td><td>Matthew 24:13 “…endure unto the end, the same shall be saved.”</td></tr>
+<tr><td>3 Nephi 15:17 “That other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.”</td><td>John 10:16 “And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.”</td></tr>
+<tr><td>3 Nephi 16:15 “…salt that hath lost its savor, which is thenceforth good for nothing but to be cast out, and to be trodden under foot…”</td><td>Matthew 5:13 “…the salt have lost his savour…it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.”</td></tr>
+<tr><td>3 Nephi 16:18-20</td><td>Isaiah 52:8-10</td></tr>
+<tr><td>3 Nephi 18:13 “…built upon a sandy foundation; and when the rain descends, and the floods come, and the winds blow, and beat upon them, they shall fall…”</td><td>Matthew 7:27 “…built his house upon the sand: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell…”</td></tr>
+<tr><td>3 Nephi 18:15 “…watch and pray always, lest ye be tempted…”</td><td>Matthew 26:41 “Watch and pray, that ye enter not into temptation…”</td></tr>
+<tr><td>3 Nephi 18:18 “…watch and pray always lest ye enter into temptation…”</td><td>Matthew 26:41 “Watch and pray, that ye enter not into temptation…”</td></tr>
+<tr><td>3 Nephi 18:18 “…Satan desireth to have you, that he may sift you as wheat.”</td><td>Luke 22:31 “…Satan hath desired to have you, that he may sift you as wheat:”</td></tr>
+<tr><td>3 Nephi 18:29 “…whoso eateth and drinketh my flesh and blood unworthily eateth and drinketh damnation to his soul…”</td><td>1 Corinthians 11:29 “…he that eateth and drinketh unworthily, eateth and drinketh damnation to himself…”</td></tr>
+<tr><td>3 Nephi 18:35 “…it is expedient that I should go…”</td><td>John 16:7 “…It is expedient for you that I go…”</td></tr>
+<tr><td>3 Nephi 19:23 “…I pray unto thee for them, and also for all those who shall believe on their words, that they may believe in me, that I may be in them as thou, Father, art in me, that we may be one.”</td><td>John 17:20-21 “Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us…”</td></tr>
+<tr><td>3 Nephi 19:29 “…I pray not for the world, but for those whom thou hast given me…that I may be glorified in them.”</td><td>John 17:9, 10 “…I pray not for the world, but for them which thou hast given me…and I am glorified in them.”</td></tr>
+<tr><td>3 Nephi 20:16, 17</td><td>Micah 5:8, 9</td></tr>
+<tr><td>3 Nephi 20:18, 19</td><td>Micah 4:12</td></tr>
+<tr><td>3 Nephi 20:23-26</td><td>Acts 3:22-26</td></tr>
+<tr><td>3 Nephi 21:8 “…kings shall shut their mouths; for that which had not been told them shall they see; and that which they had not heard shall they consider.”</td><td>Isaiah 52:15 “…kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.”</td></tr>
+<tr><td>3 Nephi 21:9 “…the Father work a work, which shall be a great and a marvelous work among them…”</td><td>Isaiah 29:14 “…I will proceed to do a marvellous work among this people, even a marvellous work and a wonder…”</td></tr>
+<tr><td>3 Nephi 21:12-18</td><td>Micah 5:8-14</td></tr>
+<tr><td>3 Nephi 21:29 “…they  shall not go out in haste, nor go by flight, for I will go before them, saith the Father, and I will be their rearward.”</td><td>Isaiah 52:12 “…ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.”</td></tr>
+<tr><td>3 Nephi 22:1-17</td><td>Isaiah 54:1-17</td></tr>
+<tr><td>3 Nephi 24:1-18</td><td>Malachi 3:1-18</td></tr>
+<tr><td>3 Nephi 25:1-6</td><td>Malachi 4:1-6</td></tr>
+<tr><td>3 Nephi 26:3 “…the elements should melt with fervent heat…”</td><td>2 Peter 3:12 “…the elements shall melt with fervent heat?”</td></tr>
+<tr><td>3 Nephi 26:3 “…and the earth should be wrapt together as a scroll…”</td><td>Revelation 6:14 “…the heaven departed as a scroll when it is rolled together…”</td></tr>
+<tr><td>3 Nephi 26:3 “…the heavens and the earth should pass away;”</td><td>Revelation 21:1 “…the first heaven and the first earth were passed away…”</td></tr>
+<tr><td>3 Nephi 26:4 “…all people, and all kindreds, and all nations and tongues…”</td><td>Revelation 11:9 “…the people and kindreds and tongues and nations…”</td></tr>
+<tr><td>3 Nephi 26:4 “…stand before God, to be judged of their works…”</td><td>Revelation 20:12 “…stand before God…judged…according to their works.”</td></tr>
+<tr><td>3 Nephi 26:5 “If they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation…”</td><td>John 5:29 “…they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.”</td></tr>
+<tr><td>3 Nephi 26:18 “…and heard unspeakable things, which are not lawful to be written.”</td><td>2 Corinthians 12:4 “…and heard unspeakable words, which it is not lawful for a man to utter.”</td></tr>
+<tr><td>3 Nephi 26:19 “…they had all things common…”</td><td>Acts 4:32 “…they had all things common.”</td></tr>
+<tr><td>3 Nephi 27:6 “…whoso…endureth to the end, the same shall be saved…”</td><td>Matthew 24:13 “…he that shall endure unto the end, the same shall be saved.”</td></tr>
+<tr><td>3 Nephi 27:14 “…I had been lifted up upon the cross, that I might draw all men unto me…”</td><td>John 12:32 “…I, if I be lifted up from the earth, will draw all men unto me.”</td></tr>
+<tr><td>3 Nephi 27:29 “…ask, and ye shall receive; knock, and it shall be opened unto you; for he that asketh, receiveth; and unto him that knocketh, it shall be opened.”</td><td>Matthew 7:7-8 “Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.”</td></tr>
+<tr><td>3 Nephi 27:33 “…Enter ye in at the strait gate; for strait is the gate, and narrow is the way that leads to life, and few there be that find it; but wide is the gate, and broad the way which leads to death, and many there be that travel therein…”</td><td>Matthew 7:13, 14 “Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.”</td></tr>
+<tr><td>3 Nephi 27:33 “…the night cometh, wherein no man can work.”</td><td>John 9:4 “…the night cometh, when no man can work.”</td></tr>
+<tr><td>3 Nephi 28:8 “…ye shall be changed in the twinkling of an eye from mortality to immortality…”</td><td>1 Corinthians 15:52-53 “…in the twinkling of an eye…we shall be changed…this mortal must put on immortality.”</td></tr>
+<tr><td>3 Nephi 28:10 “…the Father and I are one;”</td><td>John 10:30 “I and my Father are one.”</td></tr>
+<tr><td>3 Nephi 28:13 “…caught up into heaven, and saw and heard unspeakable things.”</td><td>2 Corinthians 12:2,4 “…caught up to the third heaven…and heard unspeakable words…”</td></tr>
+<tr><td>3 Nephi 28:15 “…whether they were in the body or out of the body, they could not tell…”</td><td>2 Corinthians 12:3 “…whether in the body, or out of the body, I cannot tell…”</td></tr>
+<tr><td>3 Nephi 28:29 “…all nations, kindreds, tongues and people…”</td><td>Revelation 14:6 “…every nation, and kindred, and tongue, and people,”</td></tr>
+<tr><td>3 Nephi 28:31 “…all people must surely stand before the judgment-seat of Christ;”</td><td>2 Corinthians 5:10 “…we must all appear before the judgment seat of Christ;”</td></tr>
+</table>
+
+## 4 Nephi (36-321 AD)
+
+<table>
+<tr><td>4 Nephi 1:3 “…they had all things common…”</td><td>Acts 2:44 “…and had all things common;”</td></tr>
+<tr><td>4 Nephi 1:3 “…bond and free…”</td><td>Galatians 3:28 “…neither bond nor free…”</td></tr>
+<tr><td>4 Nephi 1:3 “…partakers of the heavenly gift.”</td><td>Hebrews 6:4 “…tasted of the heavenly gift, and were made partakers…”</td></tr>
+<tr><td>4 Nephi 1:30 “…were rent in twain…”</td><td>Matthew 27:51 “…was rent in twain…”</td></tr>
+</table>
+
+## Mormon (322-421 AD)
+
+<table>
+<tr><td>Mormon 3:15 “Vengeance is mine, and I will repay…”</td><td>Romans 12:19 “…Vengeance is mine; I will repay…”</td></tr>
+<tr><td>Mormon 3:20 “…ye must all stand before the judgment-seat of Christ…and ye must stand to be judged of your works, whether they be good or evil;”</td><td>2 Corinthians 5:10 “For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.”</td></tr>
+<tr><td>Mormon 6:21 “…mortal must put on immortality, and these bodies which are now moldering in corruption must soon become incorruptible…”</td><td>1 Corinthians 15:53 “…this corruptible must put on incorruption, and this mortal must put on immortality.”</td></tr>
+<tr><td>Mormon 6:22 “…ye must stand before the judgment-seat of Christ…”</td><td>2 Corinthians 5:10 “…we must all appear before the judgment seat of Christ…”</td></tr>
+<tr><td>Mormon 7:5 “…gained the victory over the grave; and also in him is the sting of death swallowed up.”</td><td>1 Corinthians 15:54, 55 “…Death is swallowed up in victory. O death, where is thy sting?”</td></tr>
+<tr><td>Mormon 7:8 “…repent, and be baptized in the name of Jesus…”</td><td>Acts 2:38 “…Repent, and be baptized every one of you in the name of Jesus Christ…”</td></tr>
+<tr><td>Mormon 7:9 “…this is written for the intent that ye may believe that…”</td><td>John 20:31 “…these are written, that ye might believe…”</td></tr>
+<tr><td>Mormon 8:20 “…saith the Lord, and vengeance is mine also, and I will repay.”</td><td>Romans 12:19 “…Vengeance is mine; I will repay, saith the Lord.”</td></tr>
+<tr><td>Mormon 8:30 “And there shall also be heard of wars, rumors of wars, and earthquakes in divers places.”</td><td>Matthew 24:6,7 “And ye shall hear of wars and rumours of wars… in divers places.”</td></tr>
+<tr><td>Mormon 8:31 “…in the gall of bitterness and in the bonds of iniquity.”</td><td>Acts 8:23 “…in the gall of bitterness, and in the bond of iniquity.”</td></tr>
+<tr><td>Mormon 9:2 “…the elements shall melt with fervent heat…”</td><td>2 Peter 3:10 “…the elements shall melt with fervent heat…”</td></tr>
+<tr><td>Mormon 9:9 “…God is the same yesterday, today, and forever…”</td><td>Hebrews 13:8 “Jesus Christ the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>Mormon 9:9 “…in him there is no variableness neither shadow of changing?”</td><td>James 1:17 “…with whom is no variableness, neither shadow of turning.”</td></tr>
+<tr><td>Mormon 9:14 “…he that is filthy shall be filthy still; and he that is righteous shall be righteous still…”</td><td>Revelation 22:11 “…he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still…”</td></tr>
+<tr><td>Mormon 9:22-24</td><td>Mark 16:15-18</td></tr>
+<tr><td>Mormon 9:27 “…work out your own salvation with fear and trembling…”</td><td>Philippians 2:12 “…work out your own salvation with fear and trembling.”</td></tr>
+<tr><td>Mormon 9:29 “…endure to the end…”</td><td>Matthew 24:13 “…endure unto the end…”</td></tr>
+<tr><td>Mormon 9:29 “…will in nowise be cast out.”</td><td>John 6:37 “…will in no wise cast out.</td></tr>
+</table>
+
+## Ether (2200-600 BC)
+
+<table>
+<tr><td>Ether 4:11 “…the manifestations of my Spirit…”</td><td>1 Corinthians 12:7 “…the manifestation of the Spirit…”</td></tr>
+<tr><td>Ether 4:18 “…he that believeth and is baptized shall be saved; but he that believeth not shall be damned…”</td><td>Mark 16:16 “He that believeth and is baptized shall be saved; but he that believeth not shall be damned.”</td></tr>
+<tr><td>Ether 4:18 “…and signs shall follow them that believe in my name.”</td><td>Mark 16:17 “And these signs shall follow them that believe; In my name…”</td></tr>
+<tr><td>Ether 4:19 “…the kingdom prepared for him from the foundation of the world.”</td><td>Matthew 25:34 “…the kingdom prepared for you from the foundation of the world…”</td></tr>
+<tr><td>Ether 12:4 “…an anchor to the souls of men, which would make them sure and steadfast…”</td><td>Hebrews 6:19 “…an anchor of the soul, both sure and stedfast…”</td></tr>
+<tr><td>Ether 12:6 “…faith is things which are hoped for and not seen…”</td><td>Hebrews 11:1 “…faith is the substance of things hoped for, the evidence of things not seen.”</td></tr>
+<tr><td>Ether 12:8 “…partakers of the heavenly gift…”</td><td>Hebrews 6:4 “…tasted of the heavenly gift, and were made partakers…”</td></tr>
+<tr><td>Ether 12:11 “…God prepared a more excellent way…”</td><td>1 Corinthians 12:31 “…yet show I unto you a more excellent way.”</td></tr>
+<tr><td>Ether 12:35 “…and take away their talent…”</td><td>Matthew 25:28 “Take therefore the talent from him…”</td></tr>
+</table>
+
+## Moroni (400-421 AD)
+
+<table>
+<tr><td>Moroni 6:1 “…brought forth fruit meet that they were worthy…”</td><td>Matthew 3:8 “Bring forth therefore fruits meet for repentance…”</td></tr>
+<tr><td>Moroni 6:2 “…a broken heart and a contrite spirit…”</td><td>Psalms 51:17 “…a broken spirit: a broken and a contrite heart…”</td></tr>
+<tr><td>Moroni 6:4 “…Christ, who was the author and the finisher of their faith.”</td><td>Hebrews 12:2 “…Jesus the author and finisher of our faith…”</td></tr>
+<tr><td>Moroni 6:7 “…their names were blotted out…”</td><td>Revelation 3:5 “…I will not blot out his name…”</td></tr>
+<tr><td>Moroni 7:1 “…faith, hope, and charity…”</td><td>1 Corinthians 13:13 “…faith, hope, charity…”</td></tr>
+<tr><td>Moroni 7:6 “…it profiteth him nothing.”</td><td>1 Corinthians 13:3 “…it profiteth me nothing.”</td></tr>
+<tr><td>Moroni 7:7 “…it is not counted unto him for righteousness.”</td><td>Romans 4:3 “…it was counted unto him for righteousness.”</td></tr>
+<tr><td>Moroni 7:16 “…the Spirit of Christ is given to every man, that he may know good from evil…”</td><td>1 Corinthians 12:7 “…the Spirit is given to every man to profit withal.”</td></tr>
+<tr><td>Moroni 7:17 “…no man to do good, no, not one…”</td><td>Romans 3:12 “…none that doeth good, no, not one.”</td></tr>
+<tr><td>Moroni 7:18 “…with that same judgment which ye judge ye shall also be judged.”</td><td>Matthew 7:2 “For with what judgment ye judge, ye shall be judged…”</td></tr>
+<tr><td>Moroni 7:26 “…Whatsoever thing ye shall ask the Father in my name…it shall be done unto you.”</td><td>John 16:23 “…Whatsoever ye shall ask the Father in my name, he will give it you.”</td></tr>
+<tr><td>Moroni 7:26 “…Whatsoever thing ye shall ask…believing that ye shall receive…”</td><td>Matthew 21:22 “…all things, whatsoever ye shall ask in prayer, believing, ye shall receive.”</td></tr>
+<tr><td>Moroni 7:34 “…Repent…and be baptized in my name…”</td><td>Acts 2:38 “…Repent, and be baptized every one of you in the name of Jesus Christ…”</td></tr>
+<tr><td>Moroni 7:39 “…I judge better things of you…”</td><td>Hebrews 6:9 “…we are persuaded better things of you…”</td></tr>
+<tr><td>Moroni 7:43 “…he shall be meek, and lowly of heart.”</td><td>Matthew 11:29 “…I am meek and lowly in heart…”</td></tr>
+<tr><td>Moroni 7:44 “…if he have not charity he is nothing…”</td><td>1 Corinthians 13:2 “…and have not charity, I am nothing.”</td></tr>
+<tr><td>Moroni 7:45 “And charity suffereth long, and is kind, and envieth not, and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.”</td><td>1 Corinthians 13:4-6 “Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth;”</td></tr>
+<tr><td>Moroni 7:46 “…if ye have not charity, ye are nothing…”</td><td>1 Corinthians 13:2 “…and have not charity, I am nothing.”</td></tr>
+<tr><td>Moroni 7:46 “…charity never faileth…”</td><td>1 Corinthians 13:8 “Charity never faileth…”</td></tr>
+<tr><td>Moroni 7:46 “…charity, which is the greatest of all…”</td><td>1 Corinthians 13:13 “…the greatest of these is charity.”</td></tr>
+<tr><td>Moroni 7:48 “…love, which he hath bestowed upon all… that ye may become the sons of God…””</td><td>1 John 3:1 “…what manner of love the Father hath bestowed upon us… that we should be called the sons of God…”</td></tr>
+<tr><td>Moroni 7:48 “…when he shall appear we shall be like him, for we shall see him as he is…”</td><td>1 John 3:2 “…when he shall appear, we shall be like him; for we shall see him as he is.”</td></tr>
+<tr><td>Moroni 7:48 “…that we may have this hope; that we may be purified even as he is pure.”</td><td>1 John 3:3 “…every man that hath this hope in him purifieth himself, even as he is pure.”</td></tr>
+<tr><td>Moroni 8:3 “…the name of his Holy Child, Jesus…”</td><td>Acts 4:30 “…the name of thy holy child Jesus.”</td></tr>
+<tr><td>Moroni 8:8 “…the whole need no physician, but they that are sick…”</td><td>Matthew 9:12 “…They that be whole need not a physician, but they that are sick…”</td></tr>
+<tr><td>Moroni 8:14 “…in the gall of bitterness and in the bonds of iniquity…”</td><td>Acts 8:23 “…in the gall of bitterness, and in the bond of iniquity.”</td></tr>
+<tr><td>Moroni 8:16 “…them that shall 1pervert the ways of the Lord…”</td><td>Acts 13:10 “…wilt thou not cease to pervert the right ways of the Lord?”</td></tr>
+<tr><td>Moroni 8:16 “…for they shall perish except they repent…”</td><td>Luke 13:3 “…except ye repent, ye shall all likewise perish.”</td></tr>
+<tr><td>Moroni 8:16 “…perfect love casteth out all fear.”</td><td>1 John 4:18 “…but perfect love casteth out fear…”</td></tr>
+<tr><td>Moroni 9:6 “…the enemy of all righteousness…”</td><td>Acts 13:10 “…thou enemy of all righteousness…”</td></tr>
+<tr><td>Moroni 9:22 “…they must perish except they repent…”</td><td>Luke 13:3 “…except ye repent, ye shall all likewise perish.”</td></tr>
+<tr><td>Moroni 10:8 “…deny not the gifts of God, for they are many; and they come from the same God…”</td><td>1 Corinthians 12:4 “Now there are diversities of gifts, but the same Spirit.”</td></tr>
+<tr><td>Moroni 10:8 “…And there are different ways that these gifts are administered; but it is the same God who worketh all in all; and they are given by the manifestations of the Spirit of God unto men, to profit them.”</td><td>1 Corinthians 12:5-7 “And there are differences of administrations, but the same Lord. And there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal.”</td></tr>
+<tr><td>Moroni 10:9 “…to one is given by the Spirit of God, that he may teach the word of wisdom;”</td><td>1 Corinthians 12:8 “…to one is given by the Spirit the word of wisdom…”</td></tr>
+<tr><td>Moroni 10:10 “…to another, that he may teach the word of knowledge by the same Spirit;”</td><td>1 Corinthians 12:8 “…to another the word of knowledge by the same Spirit;”</td></tr>
+<tr><td>Moroni 10:11 “…to another, exceedingly great faith; and to another, the gifts of healing by the same Spirit;”</td><td>1 Corinthians 12:9 “To another faith by the same Spirit; to another the gifts of healing by the same Spirit;”</td></tr>
+<tr><td>Moroni 10:12 “…to another, that he may work mighty miracles;”</td><td>1 Corinthians 12:10 “To another the working of miracles…”</td></tr>
+<tr><td>Moroni 10:13 “…to another, that he may prophesy…”</td><td>1 Corinthians 12:10 “…to another prophecy…”</td></tr>
+<tr><td>Moroni 10:14 “…to another, the beholding of angels and ministering spirits;”</td><td>1 Corinthians 12:10 “…to another discerning of spirits…”</td></tr>
+<tr><td>Moroni 10:15 “…to another, all kinds of tongues;”</td><td>1 Corinthians 12:10 “…to another divers kinds of tongues…”</td></tr>
+<tr><td>Moroni 10:16 “…to another, the interpretation of languages and of divers kinds of tongues.”</td><td>1 Corinthians 12:10 “…to another the interpretation of tongues.”</td></tr>
+<tr><td>Moroni 10:17 “…all these gifts come by the Spirit of Christ; and they come unto every man severally, according as he will.”</td><td>1 Corinthians 12:11 “…all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.”</td></tr>
+<tr><td>Moroni 10:19 “…he is the same yesterday, today, and forever…”</td><td>Hebrews 13:8 “Jesus Christ the same yesterday, and to day, and for ever.”</td></tr>
+<tr><td>Moroni 10:20 “…there must be faith; and if there must be faith there must also be hope; and if there must be hope there must also be charity.”</td><td>1 Corinthians 13:13 “And now abideth faith, hope, charity, these three…”</td></tr>
+<tr><td>Moroni 10:25 “…there shall be none that doeth good among you, no not one…”</td><td>Romans 3:12 “…there is none that doeth good, no, not one.”</td></tr>
+<tr><td>Moroni 10:31 “…awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion…”</td><td>Isaiah 52:1 “Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem…”</td></tr>
+<tr><td>Moroni 10:32 “…then is his grace sufficient for you, that by his grace ye may be perfect…”</td><td>2 Corinthians 12:9 “…My grace is sufficient for thee: for my strength is made perfect…”</td></tr>
+<tr><td>Moroni 10:34 “…the Eternal Judge of both quick and dead…”</td><td>Acts 10:42 “…the Judge of quick and dead.”</td></tr>
+</table>

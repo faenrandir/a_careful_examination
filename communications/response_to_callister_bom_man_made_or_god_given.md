@@ -9,19 +9,19 @@ layout: page
 
 ## Introduction
 
-On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion[^37footnotes] various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.[^followedupwithgctalk]
+On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion[^37footnotes] various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.[^followedupwithgctalk]  More recently, he published a book on the topic, [A Case for the Book of Mormon](https://www.goodreads.com/book/show/43914093-a-case-for-the-book-of-mormon).
 
-Although some responses were made to his conference address, and some responses have addressed portions of his devotional, none have yet responded to his Devotional address in full.  Given that Callister carefully and emphatically lays out a case in defense of the orthodox LDS position, and given his status as a general officer of the Church and the forum where the address was delivered, it seems appropriate to offer up a detailed counter-response.
+Although some responses were made to his conference address, very partial responses have been made to his book,[^partialresponsetobook] and some responses have addressed portions of his devotional, none have yet responded to his arguments in full.  Given that Callister carefully and emphatically lays out a case in defense of the orthodox LDS position, and given his status as a general officer of the Church and the forum where the address was delivered, it seems appropriate to offer up a detailed counter-response to Callister's core arguments.[^nobookresponse]
 
 ### Two Models: "ancient" and "modern"
 
 In discussing Callister's talk, I will primarily be comparing two models: 
 
 * The **modern origin model** suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
-    * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), and Brent Metcalfe[^metcalfejsci]).  I will refer to this as the "Joseph Smith composed it" (JSCI) model.
+    * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).  I will refer to this as the "Joseph Smith composed it" (JSCI) model.
     * Some other group of people were responsible.  [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.  [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.  I will refer to these theories as the "others mainly composed it" (OMCI) model.  Joseph may have helped or played a role in dictation, but others were primarily responsible for the content.
 * The **ancient origin model** (AKA **divine intervention model**) suggests that Joseph Smith was able to convey the meaning of an ancient American source into English.  And, if ancient information were somehow being transmitted through Smith, then this strongly implies supernatural intervention since nobody knew ancient American languages at the time.  Four main theories have been advanced for the translation:
-    * An **ironclad** translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  Some witness accounts seem to support this model, but enough data contradicts this model that few, if any, scholars support it today.
+    * An **ironclad** translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  As [Royal Skousen has observed](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), "A number of statements from the witnesses definitely show that virtually all of them believed in the iron-clad theory."  Still, enough data contradicts this model that few, if any, scholars support it today.
     * A **tight** translation (or "tight-control") is like an ironclad translation but leaves room for Joseph to impose some small variation on the outcome of the translation.  Witness accounts and [the early work of Royal Skousen](https://scholarsarchive.byu.edu/jbms/vol7/iss1/4/) support this model.
     * A **loose** translation (or "loose-control") leaves room for Joseph to greater variation on the outcome of the translation.  Still, this model suggests that the essence of what was on the ancient plates is being transmitted.
     * The **expansionist** model allows Joseph broad room to express ideas in whatever language he chooses and to interject or expand *significantly* on the ancient text being transmitted.  Blake Ostler [first outlined this model](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf) ([2005 update](https://www.timesandseasons.org/harchive/2005/04/updating-the-expansion-theory/))
@@ -30,7 +30,9 @@ The models may be arranged in order of increasing modern influence:
 
 ![models for the Book of Mormon]({{ "/communications/images/bom_origin_models.png" | relative_url }})
 
-Callister likely has in mind the "tight" model of translation, so this is the model that I have in mind, typically, when referring to the "ancient origin" or "divine intervention" model.
+Royal Skousen, the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon, has suggested some [mixture of tight and loose control](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), and [more recently for the expansionist model](https://faenrandir.github.io/a_careful_examination/skousen-literal-translation-of-the-plates/), at least in part.
+
+Callister likely has in mind the "tight" model of translation, so this is the model that I have in mind, typically, when referring to the "ancient origin" or "divine intervention" model.  Most of the counter-arguments to his devotional would also apply to a "loose" translation model.
 
 # Response
 
@@ -66,7 +68,7 @@ Callister is about to present evidence to bolster confidence in the Book of Morm
 
 > <span style="color:red">[Keystone:6b] Eleven witnesses, in addition to Joseph Smith, saw the gold plates</span>
 
-Naturalist explanations for the witnesses' experiences and statements also seem consistent with the data (see [chapter 3 of Letter for My Wife](http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf) and [here](http://www.mormonthink.com/witnessesweb.htm)).
+Naturalist explanations for the witnesses' experiences and statements also seem consistent with the data (see [chapter 3 of Letter for My Wife](https://www.letterformywife.com/the-letter)[^signatories] and [here](http://www.mormonthink.com/witnessesweb.htm)).
 
 > <span style="color:red">[Keystone:6c] millions of believers have testified of its truthfulness, </span>
 
@@ -74,7 +76,7 @@ Billions will testify of the truthfulness of the Quran.  Millions will testify o
 
 > <span style="color:red">[Keystone:6d] and the book is readily available for examination</span>
 
-Of course, almost all religious books (such as those mentioned above) are readily available for examination.  Still, we note that the Golden Plates, which could far more definitively settle issues of historical provenance,[^settling_provenance] are unavailable for examination.
+Of course, almost all religious books (such as those mentioned above) are readily available for examination.  Still, it should be noted that the Golden Plates, which could far more definitively settle issues of historical provenance,[^settling_provenance] are unavailable for examination.
 
 > <span style="color:red">[Keystone:6e] Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.</span>
 
@@ -102,7 +104,7 @@ Second, before the translation of the Book of Mormon was complete, Oliver Cowder
 
 Finally, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mormonthink.com/witnessesweb.htm#didoliver).
 
-Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/), or Joseph generating the text ad hoc), then we would expect him to testify of the truthfulness of the book, not necessarily realizing that he had been fooled.
+Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](https://faenrandir.github.io/a_careful_examination/hidden-material-in-hat-hypothesis/) or Joseph generating the text ad hoc), then we would expect him to testify of the truthfulness of the book, not necessarily realizing that he had been fooled.
 
 > <span style="color:red">[Arg2:3] Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]</span>
 
@@ -110,7 +112,7 @@ If Oliver were duped, then we would not expect him to deny his testimony, even i
 
 > <span style="color:red">[Arg2:4a] Another candidate for authorship of the Book of Mormon was Sidney Rigdon. He was a Protestant minister and theologian. The supreme irony of this argument, however, is that he was converted by the very book he was supposed to have written. Parley P. Pratt, a former member of Rigdon’s congregation, introduced him to the Book of Mormon in October 1830—about six months after the Book of Mormon had already been published.</span>
 
-Were Rigdon and Smith conspiring together to produce the Book of Mormon it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to _avoid_ being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the Book of Mormon before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21), so this still seems to be a model worth considering.
+Were Rigdon and Smith conspiring together to produce the Book of Mormon it would undermine their plan to be seen together, so it is not unreasonable that the two would make efforts to _avoid_ being seen together.  Still, a reasonable amount of historical evidence [links Rigdon to the Book of Mormon before 1830](http://www.mormonthink.com/mormonstudiesrigdon.htm#21), so this still seems to be a model worth some consideration.
 
 > <span style="color:red">[Arg2:4b] Do we have any witnesses that this is how Sidney Rigdon was converted? We do. In fact, the historical evidence is compelling.[9]</span>
 
@@ -120,7 +122,7 @@ If Rigdon were involved, two possibilities might account for her statement about
 
 In that very same interview, her "last testimony", Emma emphatically [denies that Joseph Smith practiced polygamy](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), but the data strongly suggest that she did, in fact, know about his polygamy.[^emma_lied_about_polygamy]  Emma may have felt pressure to sustain the narrative that was supporting her son and her livelihood, to some extent.  In any event, if she was willing to lie about polygamy, then that is some reason to be skeptical of other statements delivered in the same context.
 
-Another option to consider is that perhaps Emma was being fooled by Joseph during the translation process.  The historical record indicates that at least on some matters Joseph had no problem keeping things from Emma.  [The Nauvoo polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, if the Partridge sisters' testimony can be believed, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  Either Joseph completely hid the sealings from Emma, or if the Partridge sisters' testimony is correct, then Joseph was not above performing an elaborate ritual for the purposes of deliberately deceiving his wife.  By any estimation, Joseph was not being up-front with Emma about his sealings/marriages, so it seems reasonable to be suspicious of her level of knowledge with the creation of the Book of Mormon, also.
+Another option to consider is that perhaps Emma was being fooled by Joseph during the translation process.  The historical record indicates that at least on some matters Joseph had no problem keeping things from Emma.  [The Nauvoo polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, if the Partridge sisters' testimony can be believed, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  Either Joseph completely hid the sealings from Emma, or if the Partridge sisters' testimony is correct, then Joseph was not above performing an elaborate ritual for the purposes of deliberately deceiving his wife.  Hence, if Joseph was not being up-front with Emma about his sealings/marriages, it seems reasonable to be generally suspicious of her level of knowledge with the creation of the Book of Mormon, also.
 
 > <span style="color:red">[Arg2:5] First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:</span>
 
@@ -150,9 +152,9 @@ In any case, Rigdon is not an essential component of several other modern origin
 
 Callister is about to focus discussion on "Manuscript Found", by Solomon Spaulding, and View of the Hebrews, by Ethan Smith.  To be sure, virtually no scholars today assert *direct* influence between "Manuscript Found" and the Book of Mormon.  And neither do scholars assert that the Book of Mormon necessarily was *plagiarized* from View of the Hebrews---rather they view the book as indicative of the *kinds* of origin stories about the Native Americans that were flowing through the early 1800s cultural milieu and which seem likely to have informed the creation of the Book of Mormon (directly or indirectly).
 
-In general, most researchers today hypothesize that the Book of Mormon was [a remix of ideas](https://www.bookofmormonorigins.com/) from the early 1800s cultural milieu rather than an act of direct plagiarism.
+In general, most researchers today hypothesize that the Book of Mormon was [a remix of ideas](https://www.bookofmormonorigins.com/) (à la [compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)) from the early 1800s cultural milieu rather than an act of direct plagiarism.
 
-Still, we should not completey ignore the ways in which Book of Mormon data exhibits potential literary dependence on existing works from that time.  For instance:
+Still, we should not completey ignore the ways in which Book of Mormon data exhibits potential *literary dependence* on existing works from that time.  For instance:
 
 1. BYU religion professor Nick Frederick [recently stated](https://hwcdn.libsyn.com/p/0/7/1/071b742fffedb4b4/LDSP_Nick_Frederick_Intertextuality.pdf?c_id=22467694&cs_id=22467694&expiration=1547109039&hwt=1155dee2e25c3a314e5d330a77e73220) that there are "650 phrases that I think you can demonstrate pretty clearly are from the New Testament". (See [here](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/)).
 
@@ -797,10 +799,15 @@ discuss issues with moroni's promise and epistemology generally.
 
     > A.—At one time my husband came to me and asked me if I had heard certain rumors about spiritual marriages, or anything of the kind; and assured me that if I had, that they were without foundation; that there was no such doctrine, and never should be with his knowledge, or consent. I know that he had no other wife or wives than myself, in any sense, either spiritual or otherwise.
 
+[^signatories]: The arguments in chapter 3 of Letter for my Wife seem generally sound, but do note that the argument about Cowdery potentially forging the signatures of the witnesses since the signatures are all in his handwriting is unsound (see point #3 [here](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/)).
+
+[^partialresponsetobook]: David Bokovoy has written [a partial response to Callister's book](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/).
+
+[^nobookresponse]: The majority of this response was written before Callister published his book.  I also do not yet own a copy of the book.  If the arguments in the book survived scrutiny in a way that the devotional does not, then I would consider writing a response to the book (assuming a good response could be offered).
+
 [^deuteroIsaiah]: There is very good evidence suggesting that the deutero Isaiah found in the Book of Mormon (Isaiah chapters 48--52) [was written _after_ Lehi left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/).  Some scholars have hypothesized that deutero-Isaiah was based on some kind of proto-text, and Latter-day Saints have latched onto this possibility.  At the very least, it is likely that the deutero-Isaiah chapters in the Book of Mormon were not equivalent to modern versions, such as that from the King James Bible.  LDS scholar Grant Hardy summarizes and also points to the fact that the Proto-Isaiah text would not have looked similar to what is preserved in the modern Bible ([source](https://faenrandir.github.io/a_careful_examination/excerpt-on-isaiah-from-hardys-readers-guide/)):
 
     > Latter-day Saints sometimes brush such criticism aside [that "scholarly consensus for more than a century has attributed (Isa. 40--55) to the time of the Exile or even later"], asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
-
 
 [^37footnotes]: Callister's devotional was published with 37 footnotes, some of which are fairly extensive.
 
