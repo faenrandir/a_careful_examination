@@ -612,6 +612,12 @@ From [here](https://www.reddit.com/r/exmormon/comments/97vswk/i_was_taught_that_
 
 [From here](https://www.reddit.com/r/exmormon/comments/6go6zx/when_we_told_my_wifes_family_that_we_were_leaving/)
 
+### should not raise their child, preferring the child to die
+
+> I expected to be shot.  I asked the Lord, in silent prayer to let my only child go with me if I should be killed, as my husband had entirely lost his faith in the Gospel.
+
+Zina Presendia Young Williams Card as quoted in [Four Zinas: A Story of Mothers and Daughters on the Mormon Frontier](https://archive.org/details/FourZinas/page/n119)
+
 ### Other resources
 
 * [25 Things NOT to Say to a Loved One Leaving the Church (& what to say instead)](https://bycommonconsent.com/2017/01/15/25-things-not-to-say-to-a-loved-one-leaving-the-church-what-to-say-instead/)
