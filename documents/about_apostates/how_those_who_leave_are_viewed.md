@@ -616,7 +616,7 @@ From [here](https://www.reddit.com/r/exmormon/comments/97vswk/i_was_taught_that_
 
 > I expected to be shot.  I asked the Lord, in silent prayer to let my only child go with me if I should be killed, as my husband had entirely lost his faith in the Gospel.
 
-Zina Presendia Young Williams Card as quoted in [Four Zinas: A Story of Mothers and Daughters on the Mormon Frontier](https://archive.org/details/FourZinas/page/n119)
+Presendia Lathrop Huntington Buell Smith Kimball as quoted in [Four Zinas: A Story of Mothers and Daughters on the Mormon Frontier](https://archive.org/details/FourZinas/page/n119)
 
 ### Other resources
 
