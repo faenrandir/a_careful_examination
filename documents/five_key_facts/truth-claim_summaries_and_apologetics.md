@@ -16,10 +16,11 @@ layout: page
 
 ## More significant
 
-* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive) ([backup link](https://archive.org/details/MormonPrimer))
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
+* [Mormon Think](http://www.mormonthink.com/) vast resource on LDS truth-claims.[^mormonthink]
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
+* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive) ([backup link](https://archive.org/details/MormonPrimer))
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
@@ -31,12 +32,13 @@ layout: page
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
 
-*Additional resources and discussion can be found at [MormonThink](http://www.mormonthink.com/)[^mormonthink] and the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
+*Additional resources and discussion can be found at the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
 # Official LDS and Apologetic Resources
 
 * [Gospel Topics Essays](https://www.lds.org/topics/essays?lang=eng&old=true) (lds.org)
 * [Gospel Topics, Essays, and Other Resources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (lds.org)
+* [Book of Mormon Central](https://bookofmormoncentral.org/)
 * [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
 * [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html) (prolific apologist)
 * [Neal A. Maxwell Institute](http://mi.byu.edu/) (BYU affiliated institute for religious scholarship)
@@ -67,4 +69,4 @@ layout: page
 * [Helps and Harms](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/852010ca825193b8e3e2913795f7f1a29a1963bd/documents/helps_and_harms/Helps_and_Harms.pdf) (1 page)
 * [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (in-depth analysis)
 
-[^mormonthink]: www.mormonthink.com is a vast resource for presenting and discussing LDS truth-claims.  [The site states](http://www.mormonthink.com/) that they are "neither an anti-Mormon website nor an LDS apologist website", but the discussion and tone _is_ overwhelmingly critical, lest the reader be miseld by this disclaimer.  Regardless, it is a highly _useful_ resource as long as the site's bias is clearly appreciated.
+[^mormonthink]: [The MormonThink site states](http://www.mormonthink.com/) that they are "neither an anti-Mormon website nor an LDS apologist website", but the discussion and tone _is_ over-archingly critical, lest the reader be miseld by this disclaimer.  Still, it is a very useful resource.
