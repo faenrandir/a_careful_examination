@@ -15,15 +15,23 @@ The core of Emma's testimony as it relates to the Book of Mormon[^platesexisted]
 * "My belief is that the Book of Mormon is of divine authenticity - I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would **dictate to me hour after hour**; and when returning after meals, or after interruptions, he could at once **begin where he had left off, without either seeing the manuscript or having any portion of it read to him**. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible."
 * "[Question] Could not father have dictated [it from a written manuscript]? [Answer] Joseph Smith ... could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me ... as much so as to anyone else."
 
-1. Emma claims to have been present and in close proximity during much/most of the translation process, acting both as scribe and as witness when Cowdery was scribe.
+
+Emma claims:
+
+1. To have been present and in close proximity during much/most of the translation process, acting both as scribe and as witness when Cowdery was scribe.
 1. Joseph could not have concealed a manuscript or book from which to read from.
 1. Joseph could not dictate a coherent or well-worded letter and so was especially incapable of dictating (i.e., orally composing) or writing the Book of Mormon.
 1. Joseph did not consult the dictated manuscript when he returned---he picked up where he left off during the translation process.
 
+
+
+
+
+
 ## Emma sidesteps the existing manuscript question
 
 
-## Emma was likely lying about other aspects of her testimony
+## Emma was probably lying about other aspects of her testimony
 
 ### Joseph practiced polygamy
 

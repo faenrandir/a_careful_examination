@@ -642,11 +642,7 @@ As discussed previously, Emma's emphatic testimony is coupled with dishonesty ab
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:3] This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”</span>
 
-First, the book itself is often very modular in its construction.  There are not that many dependencies between sections, and Joseph looking back over the developing manuscript could account for the existing consistencies and dependencies.
-
-Emma did not receive much of the book by dictation.  It remains entirely possible that Joseph was trying to  [TODO: finish section]
-
-[ TODO ]
+We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}), especially as it relates to production of the Book of Mormon pages.
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”</span>
 
@@ -701,6 +697,10 @@ discuss issues with moroni's promise and epistemology generally.
 * Response to [The Book of Mormon: Man-Made or God-Given](https://www.docdroid.net/NT0LCsR/response-to-tad-callister-bom-talk.pdf) ([by /u/animatorcollin](https://www.reddit.com/r/exmormon/comments/7438jq/response_to_tad_callisters_the_book_of_mormon/))
 * [churchistrue response](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/)
 * [Robert John Stevens response](http://www.sonsofliberty.co/a-response-the-byu-devotional-the-book-of-mormon-man-made-or-god-given/)
+
+### Partial response to Callister's book
+
+* [David Bokovoy partial response to Callister's book](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/)
 
 
 [^settling_provenance]: Despite the fact that [the Church taught the Kinderhook plates and Joseph Smith's translation of them were geniune](http://www.mormonthink.com/kinderhookweb.htm#churchteach), an examination of the plates themselves in 1981 [demonstrated them to be a hoax](https://lds.org/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng).  And, because we have recovered the original papyri related to the Book of Abraham, we can assert the likely meaning of the original text (see [Joseph Smith Papers Book of Abraham and Related Manuscripts](https://www.josephsmithpapers.org/intro/introduction-to-revelations-and-translations-volume-4) and other [Book of Abraham resources](https://faenrandir.github.io/a_careful_examination/resources-on-the-book-of-abraham/)).
