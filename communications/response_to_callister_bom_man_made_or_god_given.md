@@ -347,7 +347,7 @@ Finally, there is ample evidence to demonstrate that the Book of Mormon came fro
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:1a] Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?</span>
 
-We can demonstrate that the vast majority of the doctrine taught in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
+The vast majority of the doctrine taught in the Book of Mormon appears to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:1b] For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).</span>
 
@@ -383,7 +383,7 @@ Also, the description King Benjamin gives of Christ's suffering is similar to ot
 
 > I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that 1 might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
 
-In general, King Benjamin's speech may be viewed as [typical of revival conference speeches from the early 1800s](https://truthisrestoredagain.wordpress.com/2014/02/01/revival-sermons-in-the-book-of-mormon/).
+In general, King Benjamin's speech may be viewed as [typical of revival conference speeches from the early 1800s](https://truthisrestoredagain.wordpress.com/2014/02/01/revival-sermons-in-the-book-of-mormon/), and it is [full of ideas permeating Smith's milieu]({{ "/similarities-between-benjamins-speech-and-1800s-milieu/" | relative_url }}).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2f] Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies.</span>
 
@@ -437,7 +437,7 @@ And covenants similar to that found in Mosiah 18 were tied to baptism for many e
 
 The idea that infant baptism was an abomination was being discussed widely at that time.  For instance, Stephen Blanchard, in a letter to Ethan Smith, the congregationalist minister in Hopkinton NH where Oliver Cowdery may have attended Church, [argues]({{ "/letter-from-stephen-blanchard-to-ethan-smith/" | relative_url }}):
 
-> To me it seems strange, that you can see . . . absurdities in the Episcopal plan relative to *infant baptism* and *confirmation* . . . and not see, that the *doctrine* of *infant baptism* itself is the very foundation of all those inconsistencies . . . I contend, that no one can have a right to the *outward* and *visible* sign, unless he possess the *inward* and *spiritual* grace. 
+> To me it seems strange, that you can see ... absurdities in the Episcopal plan relative to *infant baptism* and *confirmation* ...  and not see, that the *doctrine* of *infant baptism* itself is the very foundation of all those inconsistencies ... I contend, that no one can have a right to the *outward* and *visible* sign, unless he possess the *inward* and *spiritual* grace. 
 
 And, in the course of his writing on the topic, Blanchard gives [an informal bibliography of all those writing against infant baptism at the time]({{ "/letter-from-stephen-blanchard-to-ethan-smith/#informal-bibliography-against-infant-baptism" | relative_url }}):
 
@@ -459,7 +459,7 @@ Less than three decades from the publication of the Book of Mormon, Darwin would
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:8b] While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.</span>
 
-As discussed, the concept of felix culpa was widely taught and expressed by [many Christian thinkers]({{ "/pre-1830-felix-cupa-fortunate-fall/" | relative_url }}) preceding the creation of the Book of Mormon
+As discussed above, the concept of felix culpa was widely taught and expressed by [many Christian thinkers]({{ "/pre-1830-felix-cupa-fortunate-fall/" | relative_url }}) preceding the creation of the Book of Mormon
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:9] b. 2 Nephi 9:7 introduces for the first time the phrase "an infinite atonement," revealing the expansiveness, scope, and depth of Christ’s saving power.</span>
 
@@ -485,7 +485,13 @@ King Benjamin talks about actual blood coming from Jesus's pores, but that idea 
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:10b] [King Benjamin's sermon gives insights about] the retroactive as well as prospective nature of Christ’s Atonement ...</span>
 
-[ TODO ]
+Discussion on the scope of the atonement seems to have been ever-present during the centuries and decades preceding the publication of the Book of Mormon, as evidenced by and discussed in James Willson's [Historical Sketch of Opinions on the Atonement](https://books.google.com/books?id=ntNNAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false), published in Philadelphia in 1817.
+
+Consider how Willson discusses the scope of the atonement when referring to Justin Martyr's writings:
+
+> Here the father plainly maintains the doctrine of the atonement. When he asserts that expiation is not now made by the offering of victims, such as were sacrificed under the Jewish economy, and that the object of Christ's death and sufferings was to make expiation, he must necessarily include the atonement, which is embraced in expiation. He elsewhere \* clearly asserts that the curse due to sinners was laid upon Christ. "If therefore," says he, "God the father of the families of the universe, appointed his son to take upon himself the curse of the whole human family, knowing that crucified and dead, he would raise him up, &c." The curse is used in this place, by a common figure of speech for the effects of the curse.  The expression, "whole human family," which this, and other fathers use when treating of the atonement, is explained by themselves in other places to mean, that "Christ died sufficiently for all men, and efficiently, for the elect." This still is an obscure mode of stating their views relative to the extent of the atonement. I understand them to mean; that had God destined the death of Christ for the salvation of every individual of the human family, its value was adequate to such an extensive object; but that however valuable the atonement of Christ may be, yet the elect only will be saved by it, as God has limited its efficiency to them.
+
+[ TODO - I'm not certain what is being claimed here? (maybe his book goes into more detail on this?) Did other Christians not believe the atonement was both retroactive and prospective?  Regardless, looking for clear examples of this in the early 1800s literature.]
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:10c] [King Benjamin's sermon gives insights about] the power of the Atonement to remove our guilt as well as our sins ...</span>
 
@@ -502,57 +508,6 @@ In a [collection of prayers published in London in 1824](https://books.google.co
 And [The Assistant of Education: Religious and Literary, vol2](https://books.google.com/books?id=4e8KAAAAIAAJ&pg=PA336&dq=%22wash+away+our+guilt%22&hl=en&sa=X&ved=0ahUKEwi5vajdgZTgAhXI5lQKHcSRDKwQ6AEILzAB#v=onepage&q=%22wash%20away%20our%20guilt%22&f=false), also published in London in 1824, we read a hymn containing the lines:
 
 > By faith we wash away our guilt in Jesu's precious blood ...
-
-#### King Benjamin's speech similar to other early 1800s ideas
-
-A table?
-
-Mosiah 2:37 he dwelleth not in unholy temples
-compare with [Selections from the Works of Isaac Penington, New-Bedford, Massachusetts: 1818](https://books.google.com/books?id=BEgRAAAAIAAJ&pg=PA105&dq=%22unholy+temple%22&hl=en&sa=X&ved=0ahUKEwi9xqjg0bjJAhXPK4gKHV0vBTwQ6AEIIjAB#v=onepage&q=%22unholy%20temple%22&f=false)
-
-Mosiah 2:21 ... unprofitable servants
-Luke 17:9--10 ... unprofitable servants
-
-Mosiah 3:5 ...the Lord Omnipotent who reigneth
-Revelation 19:6 the Lord God omnipotent reigneth
-
-Mosiah 3:13 ... to every kinred, nation, and tongue ...
-Revelation 14:6 ... to every nation, and kindred, and tongue, and people ...
-
-Mosiah 3:17 salvation can come unto the children of men, only in and through the name of Christ the Lord Omnipotent.
-Acts 4:12 ...salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
-
-Mosiah 3:18 become as little children
-Matthew 18:3 become as little children
-
-Mosiah 3:20 every nation, kindred, tongue, and people.
-Revelation 14:6 ... to every nation, and kindred, and tongue, and people ...
-
-Mosiah 3:21 the Lord God Omnipotent.
-Revelation 19:6 ...the Lord God omnipotent reigneth.
-
-Mosiah 3:27 their torment is as a lake of fire and brimstone whose flames are unquenchable and whose smoke ascendeth up forever and ever.
-Revelation 14:10--11 ...he shall be tormented with fire and brimstone in the presence of the holy angels... And the smoke of their torment ascendeth up for ever and ever
-
-Mosiah 4:6 prepared from the foundation of the world
-Matthew 25:34 ... prepared for you from the foundation of the world...
-
-Mosiah 4:9 Believe that he is
-Hebrews 11:6 ...believe that he is ...
-
-Mosiah 5:8 there is no other head whereby ye can be made free; there is no
-other name given whereby salvation cometh
-Acts 4:12 ...there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. 
-
-Mosiah 5:13 the thoughts and intents of his heart?
-Hebrews 4:12 ...the thoughts and intents of the heart.  
-
-Mosiah 5:15 be steadfast and immovable, always abounding in good works
-be ye stedfast, unmoveable, always abounding in the work of the Lord... 1
-Corinthians 15:58
-
-Mosiah 5:15 ...the Lord God Omnipotent...
-Revelation 19:6 the Lord God omnipotent 
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:11] d. Alma 7 explains that the Savior suffered not only for our sins but also for our “pains and afflictions and temptations of every kind” (Alma 7:11).</span>
 
@@ -616,9 +571,9 @@ As discussed in detail above:
 
 > <span style="color:red; margin-left:-30px;">[Parable:1] In response to critics’ arguments as to the origin of the Book of Mormon, Hugh Nibley published the following parable:</span>
 
->> <span style="color:red; margin-left:-30px;">[Parable:2] A young man once long ago claimed he had found a large diamond in his field as he was ploughing. He put the stone on display to the public free of charge, and everyone took sides. A psychologist showed, by citing some famous case studies, that the young man was suffering from a well-known form of delusion. An historian showed that other men have also claimed to have found diamonds in fields and been deceived. A geologist proved that there were no diamonds in the area but only quartz. . . . When asked to inspect the stone itself, the geologist declined with a weary, tolerant smile and a kindly shake of the head. . . . A sociologist showed that only three out of 177 florists’ assistants in four major cities believed the stone was genuine. A clergyman wrote a book to show that it was not the young man but someone else who had found the stone.</span>
+>> <span style="color:red; margin-left:-30px;">[Parable:2] A young man once long ago claimed he had found a large diamond in his field as he was ploughing. He put the stone on display to the public free of charge, and everyone took sides. A psychologist showed, by citing some famous case studies, that the young man was suffering from a well-known form of delusion. An historian showed that other men have also claimed to have found diamonds in fields and been deceived. A geologist proved that there were no diamonds in the area but only quartz. ... When asked to inspect the stone itself, the geologist declined with a weary, tolerant smile and a kindly shake of the head. ... A sociologist showed that only three out of 177 florists’ assistants in four major cities believed the stone was genuine. A clergyman wrote a book to show that it was not the young man but someone else who had found the stone.</span>
 
-> <span style="color:red; margin-left:-30px;">[Parable:3] Finally an indigent jeweler . . . pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick . . . , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skillfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.[33]</span>
+> <span style="color:red; margin-left:-30px;">[Parable:3] Finally an indigent jeweler ...  pointed out that since the stone was still available for examination the answer to the question of whether it was a diamond or not had absolutely nothing to do with who found it, or whether the finder was honest or sane, or who believed him, or whether he would know a diamond from a brick ... , but was to be answered simply and solely by putting the stone to certain well-known tests for diamonds. Experts on diamonds were called in. Some of them declared it genuine. The others made nervous jokes about it and declared that they could not very well jeopardize their dignity and reputations by appearing to take the thing too seriously. To hide the bad impression thus made, someone came out with the theory that the stone was really a synthetic diamond, very skillfully made, but a fake just the same. The objection to this is that the production of a good synthetic diamond [in that day and age] would have been an even more remarkable feat than the finding of a real one.[33]</span>
 
 > <span style="color:red; margin-left:-30px;">[Parable:4] To suggest that Joseph Smith, a farm boy with little formal education, produced a synthetic work of God in 1829 that has baffled the brightest of critics for almost two centuries would be a more remarkable feat than the simple fact that he obtained the gold plates from an angel of God and translated them by the gift and power of God.</span>
 

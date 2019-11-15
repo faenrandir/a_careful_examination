@@ -5,7 +5,12 @@ doctype: table
 layout: page
 ---
 
-The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally generated (entirely?) by automated textual analysis as part of the [Book of Mormon Origins project](https://www.bookofmormonorigins.com/).  The below table borrows significant formatting work from footnote #1 of [this post](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu) by [missedinsunday.com](https://www.missedinsunday.com/).  The Book of Mormon also seems to have been significantly influenced by [other works from the early 1800s milieu]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}).
+The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally extracted from the [Book of Mormon Origins project](https://www.bookofmormonorigins.com/).  The table leveraged the formatting work of [missedinsunday.com](https://www.missedinsunday.com/) in footnote #1 of [this post](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu) and the conceptual layout of the Book of Mormon Depot chart, which is linked below.
+
+## See also
+
+* [Book of Mormon Depot comparison with KJV](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/)
+* [Book of Mormon parallels to 1800s thought](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/)
 
 ## 1 Nephi (600-570 BC)
 

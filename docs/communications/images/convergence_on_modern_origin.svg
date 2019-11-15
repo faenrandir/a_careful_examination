@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="797.13357"
-     inkscape:cy="436.789"
+     inkscape:cx="683.202"
+     inkscape:cy="716.61408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1223"
-     inkscape:window-height="1005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      inkscape:window-x="0"
-     inkscape:window-y="54"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,36 +52,40 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#0000ff;fill-opacity:0.34710747;stroke:#0000ff;stroke-width:1.03334069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="37.30896"
-       cy="149.71352"
-       cx="105.43227"
-       id="circle4520" />
-    <circle
-       id="circle4532"
-       cx="111.21075"
-       cy="155.77596"
-       r="29.59989"
-       style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991" />
-    <circle
-       style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991"
-       r="29.59989"
-       cy="145.0399"
-       cx="104.96982"
-       id="circle4534" />
-    <circle
-       id="circle4536"
-       cx="98.771965"
-       cy="155.34702"
-       r="29.59989"
-       style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991" />
-    <circle
-       style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991"
-       r="29.59989"
-       cy="148.21774"
-       cx="104.38479"
-       id="circle4538" />
+    <g
+       id="g3848"
+       transform="translate(130.02381,-3.4017857)">
+      <circle
+         id="circle4520"
+         cx="98.483261"
+         cy="153.45529"
+         r="37.30896"
+         style="fill:#0000ff;fill-opacity:0.34710747;stroke:#0000ff;stroke-width:1.03334069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991"
+         r="29.59989"
+         cy="159.51773"
+         cx="104.26174"
+         id="circle4532" />
+      <circle
+         id="circle4534"
+         cx="98.020813"
+         cy="148.78168"
+         r="29.59989"
+         style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991" />
+      <circle
+         style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991"
+         r="29.59989"
+         cy="159.08879"
+         cx="91.82296"
+         id="circle4536" />
+      <circle
+         id="circle4538"
+         cx="97.435783"
+         cy="151.95952"
+         r="29.59989"
+         style="fill:#ff0000;fill-opacity:0.12809921;stroke-width:0.26908991" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -104,7 +108,7 @@
            height="161.42857"
            x="-388.57144"
            y="-91.766029" /></flowRegion><flowPara
-         id="flowPara4605"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4605" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4621"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -216,7 +220,19 @@
              style="font-size:16px;letter-spacing:-0.03px;word-spacing:-0.01px"
              id="flowPara4635">A cultural translation with 10 protestant themes</flowPara><flowPara
              style="font-size:16px;letter-spacing:-0.03px;word-spacing:-0.01px"
-             id="flowPara4661">(R. Skousen)</flowPara></flowRoot>      </g>
+             id="flowPara4661">(R. Skousen)</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,45.835897,238.33591)"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot4637-3"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4633-6"><rect
+               y="-61.766029"
+               x="-305.71429"
+               height="87.818733"
+               width="64.902039"
+               id="rect4631-7" /></flowRegion><flowPara
+             style="font-size:16px;letter-spacing:-0.03px;word-spacing:-0.01px"
+             id="flowPara3810" /></flowRoot>      </g>
       <g
          id="g4700">
         <ellipse
@@ -279,7 +295,7 @@
        xml:space="preserve"
        id="flowRoot4671"
        style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.296368,8.3312115)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,102.67982,4.1734734)"><flowRegion
          id="flowRegion4673"><rect
            id="rect4675"
            width="528.90784"
@@ -287,5 +303,16 @@
            x="214.28572"
            y="135.37683" /></flowRegion><flowPara
          id="flowPara4677"
-         style="font-weight:bold;text-align:center;text-anchor:middle">LDS scholarship converges on modern Book of Mormon origin</flowPara></flowRoot>  </g>
+         style="font-weight:bold;text-align:center;text-anchor:middle">LDS scholarship converges on modern Book of Mormon origin</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.384827"
+       y="235.528"
+       id="text3773"><tspan
+         sodipodi:role="line"
+         id="tspan3771"
+         x="52.384827"
+         y="244.89177"
+         style="stroke-width:0.26458332" /></text>
+  </g>
 </svg>
