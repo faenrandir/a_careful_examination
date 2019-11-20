@@ -8,7 +8,7 @@ layout: page
 
 ## Introduction
 
-The core of Emma's testimony as it relates to the Book of Mormon[^platesexisted] is summarized in condensed form below (emphasis added):
+The core of [Emma's testimony as it relates to the Book of Mormon](https://faenrandir.github.io/a_careful_examination/last-testimony-of-sister-emma/)[^platesexisted] is summarized in condensed form below (emphasis added):
 
 * "[I] wrote day after day, often sitting at the table close by him [Joseph], he sitting with his face buried in his hat, with the stone in it, and dictating hour after hour with nothing between us ... [with] **neither manuscript nor book to read from** ... [which] he **could not have concealed ... from me**." 
 * "[Question] Where did father and Oliver Cowdery write? [Answer] ... **in the room where I was at work**."
