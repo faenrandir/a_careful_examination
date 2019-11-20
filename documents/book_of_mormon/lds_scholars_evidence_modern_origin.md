@@ -29,12 +29,6 @@ While most of these are likely to explain their individual observations in other
 
     **Significance**: We do not expect KJV Isaiah (even in its slightly modified form) to be in the Book of Mormon as it is represented were it a representation of an ancient text.
 
-1. David Bokovoy, [LDS Scholar at USU](https://www.fairmormon.org/authors/bokovoy-david) --- The idea that Deutero-Isaiah chapters were composed after the Babylonian exile (which occurred after Lehi left Jerusalem) is [very well supported](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/).
-
-    > We might wonder how is it possible that Sparks can write to an evangelical audience and express such confidence in the accuracy of the mainstream scholarly perspective concerning Deutero-Isaiah.  Perhaps it is because **the evidence for the mainstream view is so compelling**.  And this evidence simply has to be accomodated for by people of faith, including Latter-day Saints.
-
-    **Significance**: The Book of Mormon [pulls fairly extensively from Deutero-Isaiah](https://www.reddit.com/r/MormonDoctrine/comments/99q9vs/isaiah_in_the_book_of_mormon/e4pnzjw/) and we don't expect that the Nephites would have had Deutero-Isaiah available in the form it's found in the KJV Bible.
-
 1. Lincoln Blummell, [BYU Religion Professor](https://religion.byu.edu/lincoln_blumell) --- notes that the end of Mark, which is quoted in the Book of Mormon by Moroni, [is of dubious origin](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5).
 
     > Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B] [the earliest complete manuscripts of Mark]), its abruptness is problematic ...

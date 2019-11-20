@@ -118,11 +118,7 @@ Were Rigdon and Smith conspiring together to produce the Book of Mormon it would
 
 To be clear, only one of the several modern origin models necessitates Rigdon as co-author.  Still, it seems worth examining the evidence Callister presents that argues against Rigdon's participation.  Footnote nine points to an interview of Emma Smith by her son Joseph Smith III where she states that the Book of Mormon had already been published "some time before" she knew Sidney Rigdon or had heard of him.  Is there any reason to doubt her testimony?
 
-If Rigdon were involved, two possibilities might account for her statement about Rigdon: Emma was in on the production of the Book of Mormon (a co-conspirator to some extent), or she was being fooled by Joseph Smith, too (i.e., he kept his association with Rigdon hidden from her until after publication).  Some support for either option comes from the very interview Callister cites.
-
-In that very same interview, her "last testimony", Emma emphatically [denies that Joseph Smith practiced polygamy](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), but the data strongly suggest that she did, in fact, know about his polygamy.[^emma_lied_about_polygamy]  Emma may have felt pressure to sustain the narrative that was supporting her son and her livelihood, to some extent.  In any event, if she was willing to lie about polygamy, then that is some reason to be skeptical of other statements delivered in the same context.
-
-Another option to consider is that perhaps Emma was being fooled by Joseph during the translation process.  The historical record indicates that at least on some matters Joseph had no problem keeping things from Emma.  [The Nauvoo polygamy essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states: "But Emma likely did not know about all of Joseph's sealings".  Furthermore, if the Partridge sisters' testimony can be believed, Joseph had the Partridge sisters sealed to him a second time in order to hide the first sealings (which happened behind Emma's back) from Emma's knowledge, thus leading her to believe that the second sealing was the first (see Marquardt's [Emily on the Witness Stand](https://imgur.com/a/oscY6)).  Either Joseph completely hid the sealings from Emma, or if the Partridge sisters' testimony is correct, then Joseph was not above performing an elaborate ritual for the purposes of deliberately deceiving his wife.  Hence, if Joseph was not being up-front with Emma about his sealings/marriages, it seems reasonable to be generally suspicious of her level of knowledge with the creation of the Book of Mormon, also.
+If Rigdon were involved, two possibilities might account for her statement about Rigdon: Emma was in on the production of the Book of Mormon (a co-conspirator to some extent), or she was being fooled by Joseph Smith, too (i.e., he kept his association with Rigdon hidden from her until after publication).  Some support for either option comes from the very interview Callister cites, as discussed in much greater detail [here]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
 
 > <span style="color:red; margin-left:-30px;">[Arg2:5] First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:</span>
 
@@ -560,12 +556,7 @@ Humans write an [extraordinary number](https://en.wikipedia.org/wiki/Books_publi
 
 > Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
 
-As discussed in detail above:
-
-*  We have good reasons to doubt Emma's testimony or perhaps to conclude that she had been fooled by Joseph.
-* Joseph was steeped in the religious conversations of his day and had an extraordinary intellect.
-* Joseph dictated a large amount of other scripture, sometimes [incorporating other sources](http://jur.byu.edu/?p=21296).
-* It is possible (though not necessary to a modern origin theory) that others---equally or more acquainted with the religious arguments of the day---collaborated in the creation of the book.
+There are good reasons to question Emma's testimony of these events, and first hand primary documentation refutes her characterization of Joseph's literary abilities, as discussed [here](https://faenrandir.github.io/a_careful_examination/reasons-to-discount-emmas-bom-testimony/).
 
 ## A Parable That Counters The Arguments Proposed By Critics ("Parable")
 
@@ -593,7 +584,7 @@ It comes as no suprise that those who had lost their fortune buying land from th
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:2] My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.[34]</span>
 
-As discussed previously, Emma's emphatic testimony is coupled with dishonesty about polygamy, so we have reason to doubt her reliability as a witness.  And, as part of the Reorganized Church of Jesus Christ of Latter-day Saints, her livelihood depended on others' continued belief in the authenticity of the Book of Mormon---she may have been motivated to stretch the truth.  Finally, we must balance her testimony with the testimony of others suggesting that Joseph had a powerful mind and the data suggesting he was not ignorant or unlearned.  And, even if she were accurate, it remains possible that the manuscript was produced in collaboration with others.
+There are [good reasons to discount Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:3] This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”</span>
 
@@ -601,17 +592,13 @@ We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-em
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”</span>
 
-There are numerous indicators that Joseph was _not_ receiving by revelation
-any kind of ancient text.
-translation errors in the book of Mormon [and other things pointing to faulty
-
-https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_text_because_the_god/
+There are numerous indicators that Joseph was _not_ receiving by revelation any kind of ancient text, as discussed [here](https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_text_because_the_god/).
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
-In almost every way we can test the book we can demonstrate that it does not match our expectations as an ancient book:
+In almost every way we can test the book we can demonstrate that it does not match our expectations as an ancient book, and mainstream LDS scholars independently observe data which [collectively supports a modern origin](https://www.reddit.com/user/bwv549/comments/dyv7mz/book_of_mormon_scholarship_converges_on_a_modern/).
 
-https://faenrandir.github.io/a_careful_examination/lds-scholars-modern-origin-evidence/
+[TODO: more]
 
 ## How We Can Discover The Truth Of A Divine Work ("Discover")
 
