@@ -1,5 +1,5 @@
 ---
-title: "Reasons to discount Emma's testimony of the creation of the Book of Mormon"
+title: "Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon"
 permalink: /reasons-to-discount-emmas-bom-testimony/
 maintopic: book-of-mormon
 doctype: short-analysis
@@ -22,19 +22,30 @@ In summary, Emma claims:
 1. Joseph could not dictate a coherent or well-worded letter and so was especially incapable of dictating (i.e., orally composing) or writing the Book of Mormon.
 1. Joseph did not consult the dictated manuscript when he returned---he picked up where he left off during the translation process.
 
-There are good reasons, however, to discount this testimony.
+That Joseph dictated with his face in a hat containing his seer stone is corroborated by many other witnesses, but there are some reasons to question other aspects of her testimony, particularly Joseph's abilities and the potential existence of manuscripts during the translation/dictation process.
 
 ## Her statements on polygamy weaken her testimony generally
 
-As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  She claims that Joseph never practiced polygamy, but it seems highly likely that he did.  Hence, if we accept that Joseph Smith was practicing polygamy (which is [fully accepted by the modern LDS Church](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)) then we can conclude that Emma was either lying or she was naive about the actions of her husband---either because she was naive or because he was adept at hiding his actions or some combination.
+As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  She claims that Joseph never practiced polygamy, but it seems highly likely that he did.  Hence, if we accept that Joseph Smith was practicing polygamy (which is [fully accepted by the modern LDS Church](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)) then we can conclude that Emma was either lying or she was naive about the actions of her husband---either because she was merely naive or because Joseph was adept at hiding his actions (or some combination).
+
+
+## Notes or manuscripts
+
+[Only two statements about no manuscript and those are late and in response to Spaulding ???]
+
+[One witness Saw manuscripts around oliver, (scholars don't deny it but simply
+argue it was Cowdery's material)]
+
+[stone over the manuscript ??]
 
 ## She mis-characterizes Joseph's abilities
 
 Emma claims that Joseph "could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon."
 
-However, the historical record demonstrates that:
+However:
 
-* Joseph was writing [very coherent letters](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-6-june-1832/1) shortly after the publication of the Book of Mormon.
+* Lucy Mack Smith, Joseph's mother, [recalls Joseph](https://web.archive.org/web/20191121145958/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#Question:_Was_the_young_Joseph_Smith_a_teller_of_.22tall_tales.22.3F) giving "some of the most amusing recitals that could be imagined ... with as much ease, seemingly, as if he had spent his whole life among them."[^lucymackstories]
+* The primary historical record demonstrates that Joseph was writing [very coherent letters](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-6-june-1832/1) shortly after the publication of the Book of Mormon.
 * Especially later in his life, Joseph demonstrated remarkable compositional ability in [other letters](https://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript).
 * As a youth, Joseph was, according to his own account, [steeped in the religious conversations of his day](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/#own-statements).
 * Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in ["hundreds" of instances into his Joseph Smith Translation of the bible](http://jur.byu.edu/?p=21296).
@@ -57,3 +68,5 @@ See also:
 [^downstairsupstairs]: In [an interview](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon), David Whitmer describes how (emphasis added): "[Joseph] went **downstairs**, out into the orchard and made supplication to the Lord; was gone about an hour—came back to the house, and asked Emma’s forgiveness and then came **upstairs where we were and the translation went on all right**"
 
 [^deuteroisaiah]: To deal with deutero-Isaiah in the Book of Mormon, [FairMormon hypothesizes](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah) that Joseph consulted the KJV Bible directly instead of the ancient manuscript (emphasis added): "As Joseph was translating the text of the Book of Mormon, he would find himself translating something that he recognized as being roughly similar to texts from the Bible. This would occur most prominently when Nephi quotes from Isaiah.  **Instead of translating Nephi's quotations of Isaiah, Joseph, deferred to the KJV translation of those chapters.** This may have been done to save time and to respect the quality of the KJV Bible. The chapters of Isaiah that we find in the Book of Mormon were taken largely by Joseph Smith from the KJV Bible, instead of being translated from Nephi's version of that text. In other words, why reinvent the wheel when the work has already been done?"
+
+[^lucymackstories]: Non-member scholars differ with believing scholars as to the genesis of Joseph's source material for these stories.  Believing scholars would say that the source material was derived from visitations with Moroni.  Non-members would suggest that the material was indicative of Joseph's forethought on the topic.  Regardless, few if any scholars question the general accuracy of the account of Joseph being capable of such recitals.
