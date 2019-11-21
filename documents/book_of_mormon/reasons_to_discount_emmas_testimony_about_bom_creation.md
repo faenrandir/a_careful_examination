@@ -22,14 +22,25 @@ In summary, Emma claims:
 1. Joseph could not dictate a coherent or well-worded letter and so was especially incapable of dictating (i.e., orally composing) or writing the Book of Mormon.
 1. Joseph did not consult the dictated manuscript when he returned---he picked up where he left off during the translation process.
 
-That Joseph dictated with his face in a hat containing his seer stone is corroborated by many other witnesses, but there are some reasons to question other aspects of her testimony, particularly Joseph's abilities and the potential existence of manuscripts during the translation/dictation process.
+# Critique
 
-## Her statements on polygamy weaken her testimony generally
+Many witnesses corroborate that Joseph dictated with his face in a hat containing a seer stone, but there are some reasons to question every other aspect (i.e., #'s 1--4 above) of her testimony.
 
-As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  She claims that Joseph never practiced polygamy, but it seems highly likely that he did.  Hence, if we accept that Joseph Smith was practicing polygamy (which is [fully accepted by the modern LDS Church](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)) then we can conclude that Emma was either lying or she was naive about the actions of her husband---either because she was merely naive or because Joseph was adept at hiding his actions (or some combination).
+## Reasons to question aspects of Emma's witness
+
+### Denied Joseph Smith's Polygamy 
+
+As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy (but overwhelming evidence suggests that he did[^josephpracticedpolygamy]).  If Joseph was practicing polygamy then we can conclude that Emma was either lying about the polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
+
+### Motivated reasoning
 
 
-## Notes or manuscripts
+
+## Specific Criticism
+
+### No notes or manuscripts?
+
+Emma's last testimony follows within weeks of [an affidavit by R.J. Eichbaum](http://www.solomonspalding.com/docs/Eich1879.htm#1879a) which sparked renewed interest in the Spaulding theory (which suggested that a Spaulding manuscript acted as source material for the Book of Mormon).  Hence 
 
 [Only two statements about no manuscript and those are late and in response to Spaulding ???]
 
@@ -38,7 +49,7 @@ argue it was Cowdery's material)]
 
 [stone over the manuscript ??]
 
-## She mis-characterizes Joseph's abilities
+### Could not write or dictate a coherent and well-wored letter?
 
 Emma claims that Joseph "could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon."
 
@@ -59,9 +70,13 @@ Emma only served as scribe for part of the the lost 116 pages, and we have no wa
 2. We know that Emma was separated from Joseph and Oliver [for at least brief periods of time](https://scottwoodward.org/bookofmormon_translationprocess_timeline.html) during the translation period.
 3. The last *month* of translation occured in the upstairs room of Peter Whitmer's home.  Based on [the Mosiah Priority](https://en.wikipedia.org/wiki/Mosiah_priority), this month likely included the dictation of 1st and 2nd Nephi, both of which contain large blocks of Isaiah that may have been copied directly from the 1769 KJV Bible.[^deuteroisaiah]  Witness statements place Emma downstairs during the day and the translators upstairs.[^downstairsupstairs]
 
-See also:
+## See also:
 
 * [Could Joseph Smith have written the Book of Mormon](http://www.mormonthink.com/josephweb.htm) at MormonThink
+
+## Acknowledgements
+
+I solicited feedback on an early draft of this document [in this forum](https://www.reddit.com/r/mormon/comments/dz36b4/feedback_wanted_reasons_to_discount_emmas/).  I acknowledge the intellectual contributions of all those who commented generally, and especially ImTheMarmotKing, NotTerriblyHelpful, achilles52309, Paradox-Socratic, JohnH2, DanAliveandDead, japanesepiano, warnerfranklin, and churchistrue.
 
 [^platesexisted]: Emma also emphasized that the plates physically existed: "The plates often lay on the table without any attempt at concealment, wrapped in a small linen tablecloth, which I had given him to fold them in. I once felt of the plates, as they thus lay on the table, tracing their outline and shape. They seemed to be pliable like thick paper, and would rustle with a metallic sound when the edges were moved by the thumb ..."  Since the plates were not directly involved in the creation of the Book of Mormon and both Latter-day Saint scholars ([for example](https://www.deseret.com/2010/10/29/20367586/mormon-scholar-explains-the-historical-difficulty-created-by-the-golden-plates)) and non-LDS scholars ([for example](https://www.youtube.com/watch?v=mmX-H1GBivk)) affirm their existence on some level, I will not address the topic here.
 
@@ -70,3 +85,7 @@ See also:
 [^deuteroisaiah]: To deal with deutero-Isaiah in the Book of Mormon, [FairMormon hypothesizes](https://www.fairmormon.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah) that Joseph consulted the KJV Bible directly instead of the ancient manuscript (emphasis added): "As Joseph was translating the text of the Book of Mormon, he would find himself translating something that he recognized as being roughly similar to texts from the Bible. This would occur most prominently when Nephi quotes from Isaiah.  **Instead of translating Nephi's quotations of Isaiah, Joseph, deferred to the KJV translation of those chapters.** This may have been done to save time and to respect the quality of the KJV Bible. The chapters of Isaiah that we find in the Book of Mormon were taken largely by Joseph Smith from the KJV Bible, instead of being translated from Nephi's version of that text. In other words, why reinvent the wheel when the work has already been done?"
 
 [^lucymackstories]: Non-member scholars differ with believing scholars as to the genesis of Joseph's source material for these stories.  Believing scholars would say that the source material was derived from visitations with Moroni.  Non-members would suggest that the material was indicative of Joseph's forethought on the topic.  Regardless, few if any scholars question the general accuracy of the account of Joseph being capable of such recitals.
+
+[^josephpracticedpolygamy]: The LDS Church recently published [an essay](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) attempting to explain and contextualize Joseph Smith's practice of polygamy, even going so far as to suggest that Emma approved of some other marriages/sealings for at least a time.  In general, [solid contemporary evidence exists](https://faenrandir.github.io/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/) supporting Joseph Smith's practice of polygamy. 
+
+[^emmanaive]: Emma may have been in the dark about some/many of Joseph's polygamous relationships either because she was merely naive (i.e., did not pay close attention or scrutinize his actions) or because Joseph was adept at hiding his actions (or some combination).  Joseph's [handwritten letter to the Whitneys in August of 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-and-sarah-ann-whitney-18-august-1842/1) asks them to burn the communication and keep his actions hidden from Emma, so there is some direct support for the latter.
