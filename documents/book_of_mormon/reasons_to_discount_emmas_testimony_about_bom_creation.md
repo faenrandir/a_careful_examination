@@ -28,7 +28,7 @@ Many witnesses corroborate that Joseph dictated with his face in a hat containin
 
 ## Reasons to question aspects of Emma's witness
 
-### Denied Joseph Smith's Polygamy 
+### Denied Joseph Smith's polygamy 
 
 As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy (but overwhelming evidence suggests that he did[^josephpracticedpolygamy]).  If Joseph was practicing polygamy then we can conclude that Emma was either lying about the polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
 
@@ -36,11 +36,13 @@ As explained in greater detail [here](https://faenrandir.github.io/a_careful_exa
 
 
 
+
 ## Specific Criticism
 
 ### No notes or manuscripts?
 
-Emma's last testimony follows within weeks of [an affidavit by R.J. Eichbaum](http://www.solomonspalding.com/docs/Eich1879.htm#1879a) which sparked renewed interest in the Spaulding theory (which suggested that a Spaulding manuscript acted as source material for the Book of Mormon).  Hence 
+Emma's last testimony occurred in the wake of renewed interest[^renewedinterest] in the Spaulding manuscript theory since "Manuscript Story" had just been discovered in 1884 and published by the RLDS Church in 1885.  Both the interviewer (Joseph Smith III) and interviewee (Emma) likely had this manuscript in mind.  Over half a century had lapsed since the translation/dictation occurred, so it seems possible that in her haste to discount the Spaulding manuscript theory Emma mis-remembered or embellished aspects.
+
 
 [Only two statements about no manuscript and those are late and in response to Spaulding ???]
 
@@ -89,3 +91,5 @@ I solicited feedback on an early draft of this document [in this forum](https://
 [^josephpracticedpolygamy]: The LDS Church recently published [an essay](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) attempting to explain and contextualize Joseph Smith's practice of polygamy, even going so far as to suggest that Emma approved of some other marriages/sealings for at least a time.  In general, [solid contemporary evidence exists](https://faenrandir.github.io/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/) supporting Joseph Smith's practice of polygamy. 
 
 [^emmanaive]: Emma may have been in the dark about some/many of Joseph's polygamous relationships either because she was merely naive (i.e., did not pay close attention or scrutinize his actions) or because Joseph was adept at hiding his actions (or some combination).  Joseph's [handwritten letter to the Whitneys in August of 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-and-sarah-ann-whitney-18-august-1842/1) asks them to burn the communication and keep his actions hidden from Emma, so there is some direct support for the latter.
+
+[^renewedinterest]: For instance, [this affidavit](http://www.solomonspalding.com/docs/Eich1879.htm#1879a) about the Spaulding manuscript was published one month before Emma's last testimony was published. 
