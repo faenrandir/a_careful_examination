@@ -5,7 +5,9 @@ doctype: response
 layout: page
 ---
 
-> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. ---Winston Churchill
+*The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.*
+
+---Winston Churchill
 
 ## Introduction
 
@@ -18,8 +20,8 @@ Although some responses were made to his conference address, very partial respon
 In discussing Callister's talk, I will primarily be comparing two models: 
 
 * The **modern origin model** suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
-    * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).  I will refer to this as the "Joseph Smith composed it" (JSCI) model.
-    * Some other group of people were responsible.  [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.  [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.  I will refer to these theories as the "others mainly composed it" (OMCI) model.  Joseph may have helped or played a role in dictation, but others were primarily responsible for the content.
+    * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).
+    * Some other group of people were responsible.  [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.  [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.  Joseph may have helped or played a role in dictation, but others were primarily responsible for the content.
 * The **ancient origin model** (AKA **divine intervention model**) suggests that Joseph Smith was able to convey the meaning of an ancient American source into English.  And, if ancient information were somehow being transmitted through Smith, then this strongly implies supernatural intervention since nobody knew ancient American languages at the time.  Four main theories have been advanced for the translation:
     * An **ironclad** translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  As [Royal Skousen has observed](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), "A number of statements from the witnesses definitely show that virtually all of them believed in the iron-clad theory."  Still, enough data contradicts this model that few, if any, scholars support it today.
     * A **tight** translation (or "tight-control") is like an ironclad translation but leaves room for Joseph to impose some small variation on the outcome of the translation.  Witness accounts and [the early work of Royal Skousen](https://scholarsarchive.byu.edu/jbms/vol7/iss1/4/) support this model.
@@ -86,7 +88,7 @@ What follows are a few alternatives which are consistent with much of the histor
 
 > <span style="color:red; margin-left:-30px;">[Arg1:1–4] In 1831 a clergyman named Alexander Campbell proposed that Joseph Smith wrote rather than translated the Book of Mormon ... the early critics concluded there must be some other explanation for the origin of the Book of Mormon than the unlikely possibility that Joseph wrote it.</span>
 
-As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the JSCI model: Joseph was a [fairly educated, religiously and scripturally proficient young man](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  The JSCI model will be considered in greater detail along with argument #5 below.
+As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the "Joseph composed it" model: Joseph was a [fairly educated, religiously and scripturally proficient young man](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  The model with Joseph as primary author will be considered in greater detail along with argument #5 below.
 
 ## Argument 2: Someone else wrote it
 
@@ -226,7 +228,7 @@ Naturalists form theories to fit the data, and some ideas fall into disfavor bas
 
 > <span style="color:red; margin-left:-30px;">[Arg5:4] When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.</span>
 
-The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, the JSCI theory does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
+The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, the model with Joseph as primary author does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
 
 > <span style="color:red; margin-left:-30px;">[Arg5:5a] Nonetheless, others have bought into this argument---lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God---a place they desperately do not want to go.</span>
 
@@ -593,6 +595,8 @@ We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-em
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
 In almost every way we can test the book we can demonstrate that it does not match our expectations as an ancient book, and mainstream LDS scholars independently observe data which [collectively supports a modern origin](https://www.reddit.com/user/bwv549/comments/dyv7mz/book_of_mormon_scholarship_converges_on_a_modern/).
+
+![Convergence on a modern origin]({{ "/communications/images/two_flowers.png" | relative_url }})
 
 [TODO: more]
 
