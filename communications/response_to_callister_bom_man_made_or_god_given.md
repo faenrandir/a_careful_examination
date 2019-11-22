@@ -5,7 +5,7 @@ doctype: response
 layout: page
 ---
 
-[still in rough draft form; needs to be completed]
+> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. ---Winston Churchill
 
 ## Introduction
 
@@ -226,7 +226,7 @@ Naturalists form theories to fit the data, and some ideas fall into disfavor bas
 
 > <span style="color:red; margin-left:-30px;">[Arg5:4] When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.</span>
 
-The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, the JSCI theory does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments]((https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
+The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, the JSCI theory does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
 
 > <span style="color:red; margin-left:-30px;">[Arg5:5a] Nonetheless, others have bought into this argument---lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God---a place they desperately do not want to go.</span>
 
@@ -487,8 +487,6 @@ Consider how Willson discusses the scope of the atonement when referring to Just
 
 > Here the father plainly maintains the doctrine of the atonement. When he asserts that expiation is not now made by the offering of victims, such as were sacrificed under the Jewish economy, and that the object of Christ's death and sufferings was to make expiation, he must necessarily include the atonement, which is embraced in expiation. He elsewhere \* clearly asserts that the curse due to sinners was laid upon Christ. "If therefore," says he, "God the father of the families of the universe, appointed his son to take upon himself the curse of the whole human family, knowing that crucified and dead, he would raise him up, &c." The curse is used in this place, by a common figure of speech for the effects of the curse.  The expression, "whole human family," which this, and other fathers use when treating of the atonement, is explained by themselves in other places to mean, that "Christ died sufficiently for all men, and efficiently, for the elect." This still is an obscure mode of stating their views relative to the extent of the atonement. I understand them to mean; that had God destined the death of Christ for the salvation of every individual of the human family, its value was adequate to such an extensive object; but that however valuable the atonement of Christ may be, yet the elect only will be saved by it, as God has limited its efficiency to them.
 
-[ TODO - I'm not certain what is being claimed here? (maybe his book goes into more detail on this?) Did other Christians not believe the atonement was both retroactive and prospective?  Regardless, looking for clear examples of this in the early 1800s literature.]
-
 > <span style="color:red; margin-left:-30px;">[Doctrine:10c] [King Benjamin's sermon gives insights about] the power of the Atonement to remove our guilt as well as our sins ...</span>
 
 The interplay between obedience, devotion and guilt seems to have been a topic of interest at the time.  For instance, consider John Gother's [Instructions and Devotions for the Afflicted and Sick](https://books.google.com/books?id=eV1gAAAAcAAJ&pg=PA49&dq=In+this+one+Point+consists+the+Sum+of+Christian+Perfection&hl=en&sa=X&ved=0ahUKEwjp2JfVxoHcAhUvja0KHdf1B6UQ6AEIKTAA#v=onepage&q=%22In%20this%20one%20Point%20consists%20the%20Sum%20of%20Christian%20Perfection%22&f=false) (pg 49):
@@ -548,7 +546,7 @@ And a vast number of themes and doctrines found in the Book of Mormon find close
 
 4. Compare this *exact 10-gram match* from [Alma 45:16](https://www.lds.org/scriptures/bofm/alma/45.16?lang=eng) with [A compendium of the travels of the children of Israel](https://books.google.com/books?id=IMU2AAAAMAAJ&pg=PA11&dq="the+least+degree+of+allowance"&hl=en&sa=X&ved=0ahUKEwjvtI-gzrjJAhVN3mMKHWkuAEsQ6AEIIjAB#v=onepage&q="the%20least%20degree%20of%20allowance"&f=false) published in Albany, NY 1823: "when he looks forward, he beholds an angry God that **cannot look upon sin with the least degree of allowance**"
 
-See many more [here]({{ "/documents/book_of_mormon/echoes/echoes_of_1800s.pdf" | relative_url }}), [here](https://www.reddit.com/r/exmormon/comments/3uvm9j/nineteenthcentury_protestant_material_in_the_book/) and the entire collection of parallels with the early 1800s literature [here]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+See many more [here]({{ "/documents/book_of_mormon/echoes/echoes_of_1800s.pdf" | relative_url }}), [here](https://www.reddit.com/r/exmormon/comments/3uvm9j/nineteenthcentury_protestant_material_in_the_book/) and the entire collection of parallels with the early 1800s literature [here]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:15a] The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life.  It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days.</span>
 
@@ -588,11 +586,9 @@ There are [good reasons to discount Emma's testimony]({{ "/reasons-to-discount-e
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:3] This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”</span>
 
-We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}), especially as it relates to production of the Book of Mormon pages.
-
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”</span>
 
-There are numerous indicators that Joseph was _not_ receiving by revelation any kind of ancient text, as discussed [here](https://www.reddit.com/r/mormon/comments/9mh3oj/nt_verses_are_woven_into_the_text_because_the_god/).
+We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}), especially as it relates to production of the Book of Mormon pages, and internal evidence in the Book of Mormon itself suggests that the narrator [often lost track of their position](http://127.0.0.1:4000/a_careful_examination/reasons-to-discount-emmas-bom-testimony/#fn:losingtrack).
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
@@ -606,21 +602,22 @@ In almost every way we can test the book we can demonstrate that it does not mat
 
 > <span style="color:red; margin-left:-30px;">[Discover:2] The Spirit is the decisive, determining factor—not archaeology, not linguistics, not DNA, and certainly not the theories of man. The Spirit is the only witness that is sure and certain and infallible.</span>
 
-[testimony and holy ghost]
+There are good reasons to doubt the efficacy of the spirit as explained in the
+essay [Testimony, spiritual experiences, and truth: A careful examination](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/) and more comprehensively in this [collection of resources on faith, spiritual witnesses, and epistemology](https://faenrandir.github.io/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/).
 
 > <span style="color:red; margin-left:-30px;">[Discover:3] As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.[37]</span>
 
-[story of holland missionary]
+As discussed earlier, stories have been demonstrated to evoke powerful, confirmatory feelings, but which were later discovered to be almost completely fabricated.  For instance, Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others,[^shared_by_others] who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Given this, might a person be impacted by the transcendent and uplifting aspects of a story like the 2,000 sons of Helaman but the story not be grounded in actual fact?
 
 > <span style="color:red; margin-left:-30px;">[Discover:4] Why is it so important for you individually to gain a testimony of the Book of Mormon? Because if you do, it will become your personal iron rod. The mists of darkness may come and the unanswered questions may arise, but through it all you will have your iron rod to cling to—to keep you on the straight and narrow path that leads to eternal life.</span>
 
 > <span style="color:red; margin-left:-30px;">[Discover:5] The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.</span>
 
-discuss issues with moroni's promise and epistemology generally.
+Moroni's promise is one of several hermetically sealed epistemological systems in LDS thought (see diagram #4 in [Hermetically Sealed Systems in LDS Thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome would be expected were a person to apply the procedure to any inspiring book.
 
 > <span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span>
 
-[add in /u/we were gods point about it still not being the case that it's a historical record.]
+I sincerely appreciate Elder Callister's witness even if I ultimately question whether these experiences are sufficient evidence upon which to base these conclusions.  Ultimately, I think we both agree that a search for truth is important---the more accurately our internal maps align with reality, the greater our ability to comprehend and either adeptly control or peacefully accept the world around us.  I hope that these reflections will be helpful as the reader ponders the reliability of Callister's epistemology and claims.
 
 ## See Also
 
