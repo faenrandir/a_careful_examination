@@ -22,36 +22,23 @@ In summary, Emma claims:
 1. Joseph could not dictate a coherent or well-worded letter and so was especially incapable of dictating (i.e., orally composing) or writing the Book of Mormon.
 1. Joseph did not consult the dictated manuscript when he returned---he picked up where he left off during the translation process.
 
-# Critique
+# Reasons to question aspects of Emma's witness
 
 Many witnesses corroborate that Joseph dictated with his face in a hat containing a seer stone, but there are some reasons to question every other aspect (i.e., #'s 1--4 above) of her testimony.
 
-## Reasons to question aspects of Emma's witness
+## Denied Joseph Smith's polygamy 
 
-### Denied Joseph Smith's polygamy 
+As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy, but overwhelming evidence suggests that he did.[^josephpracticedpolygamy]  If Joseph was practicing polygamy then we can conclude that Emma was either lying about his polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
 
-As explained in greater detail [here](https://faenrandir.github.io/a_careful_examination/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy (but overwhelming evidence suggests that he did[^josephpracticedpolygamy]).  If Joseph was practicing polygamy then we can conclude that Emma was either lying about the polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
+## Motivated reasoning
 
-### Motivated reasoning
+Many of Emma's children had livelihood's intertwined with the success of the RLDS Church (whose truth-claims at the time still depended on a defense of Joseph's prophethood), so Emma may have been motivated to cast Joseph and the translation in the best possible light.
 
+## Renewed interest in the Spaulding theory
 
+Emma's last testimony occurred in the wake of renewed interest[^renewedinterest] in the Spaulding manuscript theory since "Manuscript Story" had just been discovered in 1884 and published by the RLDS Church in 1885.  Both the interviewer (Joseph Smith III) and interviewee (Emma) likely had this manuscript in mind.  Over half a century had lapsed since the translation/dictation occurred, so it seems possible that in her haste to discount the Spaulding manuscript theory Emma misremembered or embellished aspects.
 
-
-## Specific Criticism
-
-### No notes or manuscripts?
-
-Emma's last testimony occurred in the wake of renewed interest[^renewedinterest] in the Spaulding manuscript theory since "Manuscript Story" had just been discovered in 1884 and published by the RLDS Church in 1885.  Both the interviewer (Joseph Smith III) and interviewee (Emma) likely had this manuscript in mind.  Over half a century had lapsed since the translation/dictation occurred, so it seems possible that in her haste to discount the Spaulding manuscript theory Emma mis-remembered or embellished aspects.
-
-
-[Only two statements about no manuscript and those are late and in response to Spaulding ???]
-
-[One witness Saw manuscripts around oliver, (scholars don't deny it but simply
-argue it was Cowdery's material)]
-
-[stone over the manuscript ??]
-
-### Could not write or dictate a coherent and well-wored letter?
+## Could not write or dictate a coherent and well-worded letter?
 
 Emma claims that Joseph "could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon."
 
@@ -64,9 +51,15 @@ However:
 * Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in ["hundreds" of instances into his Joseph Smith Translation of the bible](http://jur.byu.edu/?p=21296).
 * Joseph [had an extraordinary intellect](https://faenrandir.github.io/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/#intellectual-powers).
 
+## Losing track
+
+Emma claimed that Joseph "could at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him."  This seems less remarkable when we consider all the instances that the narrator appears to have lost track of the narrative flow and had to backtrack.[^losingtrack]
+
 ## Emma may not have been present when sources were consulted
 
-Emma only served as scribe for part of the the lost 116 pages, and we have no way to know the coherence of that portion since those pages are not extant.  She mentions observing Oliver and Joseph during dictation, but:
+Emma likely only served as scribe for a small portion of what is considered the Book of Mormon today,[^lost116] so most of her scribal work is not available for inspection.  
+
+Emma does mention observing Oliver and Joseph during dictation,[^whitmernonotes] but:
 
 1. We cannot imagine that Emma sat and observed the entire process (i.e., was she always home?  Was she always in the same room?)
 2. We know that Emma was separated from Joseph and Oliver [for at least brief periods of time](https://scottwoodward.org/bookofmormon_translationprocess_timeline.html) during the translation period.
@@ -93,3 +86,18 @@ I solicited feedback on an early draft of this document [in this forum](https://
 [^emmanaive]: Emma may have been in the dark about some/many of Joseph's polygamous relationships either because she was merely naive (i.e., did not pay close attention or scrutinize his actions) or because Joseph was adept at hiding his actions (or some combination).  Joseph's [handwritten letter to the Whitneys in August of 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-and-sarah-ann-whitney-18-august-1842/1) asks them to burn the communication and keep his actions hidden from Emma, so there is some direct support for the latter.
 
 [^renewedinterest]: For instance, [this affidavit](http://www.solomonspalding.com/docs/Eich1879.htm#1879a) about the Spaulding manuscript was published one month before Emma's last testimony was published. 
+
+[^nonotes]: A [Chicago Times interviewer in 1881](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) stated: "Mr. Whitmer emphatically asserts as did Harris and Cowdery, that while Smith was dictating the translation he had no manuscript notes or other means of knowledge save the seer stone and the characters as shown on the plates, he being present and cognizant how it was done."
+
+[^lost116]: Emma and Martin Harris's first efforts were the lost 116 pages and initial efforts afterwards were ["slow and sporadic."](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-manuscript-excerpt-circa-june-1829-1-nephi-22b-318a/1#historical-intro) 
+
+[^losingtrack]: Quoting from Mike Brown's Mormon Stories truth-claim essay:
+    > In multiple places, the narrator appears to forget what he had previously dictated and is forced to resort to verbal circumlocution. If the words were indeed carefully abridged by Mormon, they are difficult to reconcile. However, such lapses are easily explained by a break in dictation for the night or simply a lapse in concentration.
+
+    > Alma 19:16 introduces a Lamanite woman named Abish, and informs that she “ran forth from house to house, making it known unto the people” that the power of God had come upon the king and queen. A mere twelve verses later, the narrator forgets her name and clumsily refers instead to “…the woman servant who had caused the multitude to be gathered together.”
+
+    > Similarly, Alma 1 introduces an Antichrist named Nehor, who teaches false doctrine, kills a war hero named Gideon, and finally recants his unbelief before his execution for murder. In the very next chapter, the author appears to momentarily forget Nehor’s name, and introduces a new character, Amlici, as “he being after the order of the man that slew Gideon by the sword, who was executed according to the law.” Later, in Alma 24, the author uses the much simpler description, “after the order of Nehor.”
+
+    > On the other hand, we occasionally encounter more information just a few verses after it would have flowed most easily. In Alma 17:36, narrating how Ammon defended King Lamoni’s sheep from would-be thieves, Joseph dictates that, “with mighty power he did sling stones amongst them; and thus he slew a certain number of them.” Two verses later, we are informed that “six of them had fallen by the sling..but he slew none save it were their leader with his sword.”
+
+[^whitmernonotes]: Besides Emma, David Whitmer is the only other witness to clarify that Smith did not refer to any notes or manuscript.   A [Chicago Times interviewer in 1881](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) stated: "Mr. Whitmer emphatically asserts as did Harris and Cowdery, that while Smith was dictating the translation he had no manuscript notes or other means of knowledge save the seer stone and the characters as shown on the plates, he being present and cognizant how it was done." However, Whitmer's claims about the translation process were not particularly consistent, and (like Emma) he made this particular claim about no notes over 50 years after the fact.  Finally, these observations regarding Emma's claim of no notes or manuscript apply equally well to Whitmer's claim.
