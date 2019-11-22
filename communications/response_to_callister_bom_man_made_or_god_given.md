@@ -603,8 +603,7 @@ In almost every way we can test the book it matches our expectations of being pr
 
 > <span style="color:red; margin-left:-30px;">[Discover:2] The Spirit is the decisive, determining factor—not archaeology, not linguistics, not DNA, and certainly not the theories of man. The Spirit is the only witness that is sure and certain and infallible.</span>
 
-There are good reasons to doubt the efficacy of the spirit as explained in the
-essay [Testimony, spiritual experiences, and truth: A careful examination](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/) and more comprehensively in this [collection of resources on faith, spiritual witnesses, and epistemology](https://faenrandir.github.io/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/).
+There are good reasons to doubt the efficacy of the spirit as explained in the essay [Testimony, spiritual experiences, and truth: A careful examination](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/) and more comprehensively in this [collection of resources on faith, spiritual witnesses, and epistemology](https://faenrandir.github.io/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/).
 
 > <span style="color:red; margin-left:-30px;">[Discover:3] As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.[37]</span>
 
@@ -618,7 +617,11 @@ Moroni's promise is one of several "hermetically sealed" epistemological systems
 
 > <span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span>
 
-I sincerely appreciate Elder Callister's witness even if I ultimately question whether these experiences are sufficient evidence upon which to base these conclusions.  Ultimately, I think we both agree that a search for truth is important---the more accurately our internal maps align with reality, the greater our ability to comprehend and either adeptly control or peacefully accept the world around us.  I hope that these reflections will be helpful as the reader ponders the reliability of Callister's epistemology and claims.
+I appreciate Elder Callister's witness even if I question whether these experiences are sufficient reason to draw the firm conclusions from them that he has.
+
+## Conclusions
+
+Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as I have hopefully demonstrated, when we dig into his specific claims about the production of the book and its content, we find plenty of room to account for the Book of Mormon through standard human creative processes.
 
 ## See Also
 
