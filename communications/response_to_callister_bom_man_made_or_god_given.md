@@ -5,10 +5,6 @@ doctype: response
 layout: page
 ---
 
-*The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.*
-
----Winston Churchill
-
 ## Introduction
 
 On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion[^37footnotes] various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.[^followedupwithgctalk]  More recently, he published a book on the topic, [A Case for the Book of Mormon](https://www.goodreads.com/book/show/43914093-a-case-for-the-book-of-mormon).
@@ -58,7 +54,7 @@ Still, because other faiths (e.g., [FLDS](https://en.wikipedia.org/wiki/Fundamen
 
 > <span style="color:red; margin-left:-30px;">[Keystone:5] Thus the Book of Mormon has become the focal point of attack by many of our critics: disprove the Book of Mormon and you disprove the Church and undermine testimonies.</span>
 
-Although Callister paints work by scholars to support the modern origin theory and demonstrate flaws or contradictions in the ancient model an "attack", if a person genuinely believes that the data best support the modern origin model, then it does seem reasonable to follow after Orson Pratt:
+Although Callister paints work by scholars to support the modern origin theory and demonstrate flaws or contradictions in the ancient model an "attack", if a person genuinely believes that the data best support a modern origin model, then it does seem reasonable to follow after Orson Pratt:
 
 > If, after a rigid examination, it [the Book of Mormon] be found an imposition, it should be extensively published to the world as such; **the evidences and arguments upon which the imposture was detected, should be clearly and logically stated**, that those who have been sincerely yet unfortunately deceived, may perceive the nature of the deception, and be reclaimed, - and that those who continue to publish the delusion, may be exposed and silenced, not by physical force, neither by persecutions, bare assertions, nor ridicule, **but by strong and powerful arguments — by evidences adduced from scripture and reason**.
 
@@ -594,11 +590,12 @@ We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-em
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
-In almost every way we can test the book we can demonstrate that it does not match our expectations as an ancient book, and mainstream LDS scholars independently observe data which [collectively supports a modern origin](https://www.reddit.com/user/bwv549/comments/dyv7mz/book_of_mormon_scholarship_converges_on_a_modern/).
+In almost every way we can test the book it matches our expectations of being produced in the early 1800s, and even [mainstream LDS scholars independently observe data which collectively supports a modern origin]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }}).
 
-![Convergence on a modern origin]({{ "/communications/images/two_flowers.png" | relative_url }})
-
-[TODO: more]
+<figure>
+  <img src="{{ "/communications/images/two_flowers.png" | relative_url }}" atl="Convergence on a modern origin" style="width:100%">
+  <figcaption><strong>Left:</strong> LDS scholar observations converge on a modern origin even though none individually would likely endorse a modern origin. See <a href="{{ "/lds-scholars-modern-origin-evidence/" | relative_url }}">here</a> for links to the research and key observations. <br/><br/><strong>Right:</strong> A number of other scholars have made more complete cases for a modern origin.  The modern origin theory unifies all these disparate observations.</figcaption>
+</figure>
 
 ## How We Can Discover The Truth Of A Divine Work ("Discover")
 
@@ -617,7 +614,7 @@ As discussed earlier, stories have been demonstrated to evoke powerful, confirma
 
 > <span style="color:red; margin-left:-30px;">[Discover:5] The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.</span>
 
-Moroni's promise is one of several hermetically sealed epistemological systems in LDS thought (see diagram #4 in [Hermetically Sealed Systems in LDS Thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome would be expected were a person to apply the procedure to any inspiring book.
+Moroni's promise is one of several "hermetically sealed" epistemological systems in LDS thought (see diagram #4 in [Hermetically Sealed Systems in LDS Thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome would be expected were a person to apply the procedure to any inspiring book.
 
 > <span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span>
 
@@ -657,30 +654,6 @@ I sincerely appreciate Elder Callister's witness even if I ultimately question w
     * "How amazing is that? Think about how many people had to be prompted by the Holy Ghost for all of that to happen! We are where we are for a reason!"
 
 [^smoot]: Stephen Smoot recently discussed why an inspired fiction theory [undermines all the other LDS truth-claims](https://www.mormoninterpreter.com/et-incarnatus-est-the-imperative-for-book-of-mormon-historicity/).
-
-[^emma_lied_about_polygamy]:  The lds.org [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay states:
-
-    > Emma approved, at least for a time, of four of Joseph Smith’s plural marriages in Nauvoo, and she accepted all four of those wives into her household. She may have approved of other marriages as well.
-
-    But if that is true (which there is abundant evidence it is the case) then she clearly lied in [this same interview to her son](https://faenrandir.github.io/a_careful_examination/last-testimony-of-sister-emma/):
-
-    > Q—What about the revelation on polygamy? Did Joseph Smith have anything like it? What of spiritual wifery?
-
-    > A.—There was no revelation on either polygamy, or spiritual wives. There were some rumors of something of the sort, of which I asked my husband. He assured me that all there was of it was, that, in a chat about plural wives, he had said, "Well, such a system might possibly be, if everybody was agreed to it, and would behave as they should; but they would not; and, besides, it was contrary to the will of heaven."
-
-    > No such thing as polygamy, or spiritual wifery, was taught, publicly or privately, before my husband's death, that I have now, or ever had any knowledge of.
-
-    > Q.—Did he not have other wives than yourself?
-
-    > A.—He had no other wife but me; nor did he to my knowledge ever have.
-
-    > Q—Did he not hold marital relation with women other than yourself?
-
-    > A.—He did not have improper relations with any woman that ever came to my knowledge.
-
-    > Q.—Was there nothing about spiritual wives that you recollect?
-
-    > A.—At one time my husband came to me and asked me if I had heard certain rumors about spiritual marriages, or anything of the kind; and assured me that if I had, that they were without foundation; that there was no such doctrine, and never should be with his knowledge, or consent. I know that he had no other wife or wives than myself, in any sense, either spiritual or otherwise.
 
 [^signatories]: The arguments in chapter 3 of Letter for my Wife seem generally sound, but do note that the argument about Cowdery potentially forging the signatures of the witnesses since the signatures are all in his handwriting is unsound (see point #3 [here](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/)).
 
