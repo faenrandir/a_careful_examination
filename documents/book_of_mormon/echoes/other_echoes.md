@@ -26,7 +26,8 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [The Glory of America](https://wallbuilders.com/sermon-century-1801/) 1801 sermon by Rev. Timothy Alden Jr delivered in New Hampshire (discussion [here](https://www.reddit.com/r/exmormon/comments/cyepfk/do_joseph_smiths_revelations_and_preaching_mimic/))
 1. [Isaiah references broken up on KJV chapter demarcation](https://www.reddit.com/r/mormon/comments/d56sz1/another_dip_into_the_book_of_mormon_rabbit_hole/)
 1. [Darkness which may be felt; feel the vapor of darkness](https://www.reddit.com/r/mormon/comments/df1dmi/adam_clarke_in_the_book_of_mormon/)
-1. [Joshua 8 as a potential source for military tactics](https://www.reddit.com/r/mormon/comments/d12wzt/sources_for_military_tactics_found_in_the_book_of/) (Y_chromosomalAdam)
+1. [The Methodist Episcopal Church Sunday School Union, Child's Magazine, 1827 and Alma 37:34-37](https://archive.org/details/childsmagazinese01meth/page/n5) ([Indiethoughtz](https://www.reddit.com/r/mormon/comments/cvefe3/the_childs_magazine_1827_vs_alma_373437/))
+1. [Joshua 8 as a potential source for military tactics](https://www.reddit.com/r/mormon/comments/d12wzt/sources_for_military_tactics_found_in_the_book_of/) (Y\_chromosomalAdam)
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
 
 ## Other compilations or analyses
