@@ -15,7 +15,7 @@ _Retrieved 2018-05-01_
 
 Times and Seasons. Commerce/Nauvoo, IL. Nov. 1839–Feb. 1846.
 
-Kimball, Stanley B. “Kinderhook Plates Brought to Joseph Smith Appear to Be a Nineteenth-Century Hoax.” Ensign, Aug. 1981, 66–74.
+Kimball, Stanley B. “Kinderhook Plates Brought to Joseph Smith Appear to Be a Nineteenth-Century Hoax.” [Ensign, Aug. 1981, 66–74](https://www.churchofjesuschrist.org/study/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng).
 
 A Brief Account of the Discovery of the Brass Plates Recently Taken from a Mound Near Kinderhook, Pike County, Illinois. [Nauvoo, IL: 24 June 1843]. Copy at CHL.
 
