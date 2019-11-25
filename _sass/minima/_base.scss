@@ -42,7 +42,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure, figcaption
+ul, ol, dl, figure, figcaption, img
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -69,6 +69,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin-bottom: $spacing-unit / 2;
+  margin-top: $spacing-unit;
 }
 
 

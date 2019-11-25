@@ -13,7 +13,7 @@ Although some responses were made to his conference address, very partial respon
 
 ### Two Models: "ancient" and "modern"
 
-In discussing Callister's talk, I will primarily be comparing two models: 
+In discussing Callister's talk, two models will be compared: 
 
 * The **modern origin model** suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
     * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).
@@ -26,15 +26,21 @@ In discussing Callister's talk, I will primarily be comparing two models:
 
 The models may be arranged in order of increasing modern influence:
 
-![models for the Book of Mormon]({{ "/communications/images/bom_origin_models.png" | relative_url }})
+<figure>
+  <center><img src="{{ "/communications/images/bom_origin_models.png" | relative_url }}" alt="Relationship of models for the Book of Mormon"></center>
+  <figcaption><strong>Book of Mormon models arranged by modern influenced</strong><br/>The modern origin model may be viewed as one additional step beyond the expansionist model where all elements are viewed as having a modern origin.</figcaption>
+</figure>
+
+
+
 
 Royal Skousen, the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon, has suggested some [mixture of tight and loose control](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), and [more recently for the expansionist model](https://faenrandir.github.io/a_careful_examination/skousen-literal-translation-of-the-plates/), at least in part.
 
-Callister likely has in mind the "tight" model of translation, so this is the model that I have in mind, typically, when referring to the "ancient origin" or "divine intervention" model.  Most of the counter-arguments to his devotional would also apply to a "loose" translation model or to some lesser extent the expansionist model.
+Callister likely has in mind the "tight" model of translation, so this is the model this response has in mind, typically, when referring to the "ancient origin" or "divine intervention" model.  Most of the counter-arguments to his devotional would also apply to a "loose" translation model and to some lesser extent the expansionist model.
 
 # Response
 
-I quote Callister's devotional in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  I also duplicate Callister's headings below to help orient the reader.
+Callister's devotional is quoted in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  Callister's headings are duplicated below to help orient the reader.
 
 To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).  
 
@@ -448,7 +454,7 @@ One additional example: in the introduction to [Four Sermons: On the Mode and Su
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:6] Again and again the Book of Mormon comes to the rescue, giving answers and restoring many plain and precious truths about baptism that were distorted or lost during the Apostasy. How did Joseph Smith know all these answers when the rest of the Christian world was so confused? Because he received them by revelation from God as he translated the Book of Mormon.</span>
 
-As I have already demonstrated, Joseph Smith was immersed in the religious discussions of his day, and perhaps the author of the Book of Mormon merely had strong opinions on the correct mode and manner of baptism just like so many other religious participants of that time?  It seems far more striking to think that ancient Israelites, after migrating to the Americans, would have been obssessed with exactly the same doctrinal minutia regarding ordinances like baptism as American settlers in the early 1800s.
+As has already been demonstrated, Joseph Smith was immersed in the religious discussions of his day, and perhaps the author of the Book of Mormon merely had strong opinions on the correct mode and manner of baptism just like so many other religious participants of that time?  It seems far more striking to think that ancient Israelites, after migrating to the Americans, would have been obssessed with exactly the same doctrinal minutia regarding ordinances like baptism as American settlers in the early 1800s.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:7] 2. What about Christ’s Atonement—the central doctrine of all Christianity? The clarity and expansiveness of this doctrine as taught in the Book of Mormon is beyond honest dispute. The Old and New Testaments have some scattered doctrinal gems on the Atonement (which we greatly appreciate and benefit from), but the Book of Mormon has numerous sermons---entire masterpiece---on the subject.  For example:</span>
 
@@ -602,7 +608,7 @@ We have [reason to be skeptical of Emma's testimony]({{ "/reasons-to-discount-em
 In almost every way we can test the book it matches our expectations of being produced in the early 1800s, and even [mainstream LDS scholars independently observe data which collectively supports a modern origin]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }}).
 
 <figure>
-  <img src="{{ "/communications/images/two_flowers.png" | relative_url }}" atl="Convergence on a modern origin" style="width:100%">
+  <center><img src="{{ "/communications/images/two_flowers.png" | relative_url }}" atl="Convergence on a modern origin" style="width:100%"></center>
   <figcaption><strong>LDS scholarship converges on a modern origin</strong><br/><strong>Left:</strong> LDS scholar observations converge on a modern origin even though none individually would likely endorse a modern origin. See <a href="{{ "/lds-scholars-modern-origin-evidence/" | relative_url }}">here</a> for links to the research and key observations. <br/><strong>Right:</strong> A number of other scholars have made more complete cases for a modern origin.  The modern origin theory unifies all these disparate observations.</figcaption>
 </figure>
 
@@ -622,15 +628,15 @@ As discussed earlier, stories have been demonstrated to evoke powerful, confirma
 
 > <span style="color:red; margin-left:-30px;">[Discover:5] The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.</span>
 
-Moroni's promise is one of several "hermetically sealed" epistemological systems in LDS thought (see diagram #4 in [Hermetically Sealed Systems in LDS Thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome would be expected were a person to apply the procedure to any inspiring book.
+Moroni's promise is one of several "hermetically sealed" epistemological systems in LDS thought (see [diagram #4](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf) in [Hermetically Sealed Systems in LDS Thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome could be expected were a person to apply the procedure to any inspiring book.
 
 > <span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span>
 
-I appreciate Elder Callister's witness even if I question whether these experiences are sufficient reason to draw the firm conclusions from them that he has.
+The author appreciates Elder Callister's witness while also questioning whether these experiences are sufficient reason to draw the firm conclusions from them that he has.
 
 ## Conclusions
 
-Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as I have hopefully demonstrated, when we dig into his specific claims about the production of the book and its content, we find plenty of room to account for the Book of Mormon through standard human creative processes.
+Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as has hopefully been demonstrated, when Callister's specific claims about the production of the book and its content are closely examined there is adequate room to account for the Book of Mormon through standard human creative processes, and the book fits comfortably within the early 1800s theological and cultural milieu.
 
 ## See Also
 
