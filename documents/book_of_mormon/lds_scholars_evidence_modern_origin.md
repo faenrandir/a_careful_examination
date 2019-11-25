@@ -36,6 +36,14 @@ LDS scholars have been presenting research or observations over the past decade 
 
     **Significance**: We do not expect KJV Isaiah (even in its slightly modified form) to be in the Book of Mormon as it is represented were it a representation of an ancient text.
 
+1. Lincoln Blummell, [BYU Religion Professor](https://religion.byu.edu/lincoln_blumell) --- notes that the end of Mark, which is quoted in the Book of Mormon by Moroni, [is of dubious origin](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5).
+
+    > Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B] [the earliest complete manuscripts of Mark]), its abruptness is problematic ...
+
+    > ... others [of the early Christian fathers] seem not to have known about them [Mark 16:9–20] or were unsure of their authenticity ...
+
+    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using [the exact verbiage from a section of Mark that is almost certainly a later addition]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) to the book of Mark.
+
 1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith [plagiarised from Adam Clarke's famous commentary on the Bible](http://jur.byu.edu/?p=21296) in producing the JST.
 
     > Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
