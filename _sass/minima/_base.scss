@@ -3,7 +3,7 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, ol, ul, figure, figcaption {
   margin: 0;
   padding: 0;
 }
@@ -42,7 +42,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, figcaption
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -77,11 +77,15 @@ img {
  * Figures
  */
 figure > img {
-  display: block;
+    margin-left: $spacing-unit;
+    display: block;
 }
 
 figcaption {
-  font-size: $small-font-size;
+    margin-left: $spacing-unit * 2;
+    margin-right: $spacing-unit;
+    font-size: $small-font-size * 0.95;
+    line-height: $base-line-height;
 }
 
 
