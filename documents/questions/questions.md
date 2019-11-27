@@ -71,7 +71,7 @@ The number of [similarities with early 1800s thought is _extensive_]({{ "/bom-pa
 
 1. Why would Moroni have quoted Jesus speaking the precise words found at the end of the book of Mark when the section he was quoting is almost certainly of [dubious origin](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)?
 
-1. If the book is ancient in origin, why did the author of the Book of Mormon [quote or paraphrase New Testament scripture more often than Old Testament scripture](http://bookofmormondepot.com/kjv-verses/), even before the New Testament was written?
+1. If the book is ancient in origin, why did the author of the Book of Mormon quote or paraphrase New Testament scripture more often than Old Testament scripture (see [here](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/) or [here]({{ "/comparison-table-book-of-mormon-and-bible-verses-origins-project/" | relative_url }})), even before the New Testament was written?
 
 ## Spiritual Confirmation and Priesthood Guidance
 
