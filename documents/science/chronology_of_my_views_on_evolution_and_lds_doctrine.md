@@ -11,11 +11,11 @@ This is a brief chronology of my vacillation and exploration of the issues betwe
 
 ## Chronology
 
-### Growing up (anti-evolution)
+### Growing up
 
 My mom taught me that maybe dinosaur fossils were in the earth because the earth had been created from other planets.  *Good enough for me*.  (I've since learned this is a [scientifically untenable hypothesis](https://faenrandir.github.io/a_careful_examination/fossils-not-from-chunks-of-other-planets/) and no LDS geologists believe it).
 
-### In high school (somewhat anti-evolution)
+### In high school
 
 I felt the tension with the data we were exposed to in biology class, but I was in rural Texas and everyone including the teacher sort of winked at one another because we all knew it wasn't *really* how God made us.  *Some tension*.
 
