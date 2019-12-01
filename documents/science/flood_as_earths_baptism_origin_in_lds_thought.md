@@ -80,3 +80,7 @@ http://signaturebookslibrary.org/orson-hyde-and-israels-restoration/
 Neither of Orson's sermons mentions the symbolism of the dove (dove being present at both baptisms).
 
 The teaching of the flood being a baptism of the earth was taught by some early Christian Fathers and is also embedded in some Catholic writings, but I could not find any routes where those sources would have been of interest and accesible to the early LDS church leaders.  Finally, the link of the flood to the earth's baptism may be inferred from 1Peter 3:20, but it is not explicit there.
+
+### See also
+
+[Was Noah’s Flood the Baptism of the Earth?](https://rsc.byu.edu/es/archived/let-us-reason-together/was-noah-s-flood-baptism-earth) which was published shortly after I wrote and published this document to reddit [here](https://www.reddit.com/r/mormon/comments/3n5386/the_flood_as_the_earths_baptism_origin_in_lds/).
