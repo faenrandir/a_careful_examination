@@ -37,6 +37,10 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Historical Influences](http://www.mormonthink.com/influences.htm#part2) and [Religious Influences](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
 1. [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/) (Dan Vogel)
 1. [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/)
+1. Comparative literature studies by Colby Townsend:
+    * [Appropriation and Adaptation of J Material in The Book of Mormon](https://archive.bookofmormoncentral.org/content/appropriation-and-adaptation-j-material-book-mormon) (Honors Thesis)
+    * [Malachi in the Book of Mormon](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V51N02_14.pdf) (Dialogue 2018)
+    * [Rewriting Eden with the Book of Mormon](https://digitalcommons.usu.edu/etd/7681/) (MA Thesis)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
 1. [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (Rick Grunder)
 1. [King James Verses in the Book of Mormon](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/)
