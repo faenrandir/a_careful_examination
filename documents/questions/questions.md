@@ -75,7 +75,7 @@ The number of [similarities with early 1800s thought is _extensive_]({{ "/bom-pa
 
 ## Spiritual Confirmation and Priesthood Guidance
 
-1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }})
+1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in [Testimony, Spiritual Experiences, and Truth: A Careful Examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}))
 
 1. Given [how missionaries instruct members to pray about the Book of Mormon]({{ "/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf" | relative_url }}), in what fashion could a person arrive at the conclusion that the Book of Mormon is _not_ true?  If a person persistently followed Moroni's promise with any sufficiently inspiring book, what would be the end result?
 

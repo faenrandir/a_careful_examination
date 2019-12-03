@@ -5,7 +5,7 @@ doctype: compilation
 layout: page
 ---
 
-LDS scholars have been presenting research or observations over the past decade or so that collectively lend weight to the modern origin theory.  It cannot be emphasized heavily enough---**none of these scholars would likely endorse the modern origin theory**, and instead tend to interpret their individual observations in other ways (e.g., via an expansionist theory).  Still, when viewed collectively, and especially in light of other research on the Book of Mormon (e.g., [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/))---the modern origin theory unifies and makes sense of these observations:
+LDS scholars have been presenting research or observations over the past decade or so that collectively lend weight to the modern origin theory.  To be clear, none of these scholars would likely endorse the modern origin theory themselves; rather, they would tend to interpret their individual observations in other ways (e.g., via an [expansionist theory](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf)).  Still, when viewed collectively, and especially in light of other historical and literary anlysis by non-LDS researchers on Book of Mormon (e.g., [New Approaches to the Book of Mormon](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/) and the comparative literary analyses of Colby Townsend[^townsend])---the modern origin theory unifies and makes sense of these observations:
 
 <figure>
   <img src="{{ "/communications/images/two_flowers.png" | relative_url }}" atl="Convergence on a modern origin" style="width:100%">
@@ -75,3 +75,8 @@ Regardless, anyone who parses the early 1800s literature will observe that many,
 [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
 *posted [here](https://www.reddit.com/r/exmormon/comments/9gm1vt/recent_lds_scholar_observations_favoring_a_modern/) and [here](https://www.reddit.com/r/mormon/comments/9gm3ho/recent_lds_scholar_observations_favoring_a_modern/)*
+
+[^townsend]: Comparative literary studies by Colby Townsend:
+    * [Appropriation and Adaptation of J Material in The Book of Mormon](https://archive.bookofmormoncentral.org/content/appropriation-and-adaptation-j-material-book-mormon) (Honors Thesis)
+    * [Malachi in the Book of Mormon](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V51N02_14.pdf) (Dialogue 2018)
+    * [Rewriting Eden with the Book of Mormon](https://digitalcommons.usu.edu/etd/7681/) (MA Thesis)
