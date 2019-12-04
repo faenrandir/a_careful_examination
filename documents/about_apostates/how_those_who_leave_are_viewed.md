@@ -494,6 +494,12 @@ From [this discussion](https://www.reddit.com/r/exmormon/comments/430l7q/getting
 
 [From here](https://www.reddit.com/r/exmormon/comments/60orpp/dw_rather_i_had_had_an_affair/)
 
+### will become sons & daughters of perdition
+
+> I'm very upset about the flood of apostasy & unbelief that is sweeping through the Church. Most families, along with my own, have been affected by it. And it's not the fault of the Brethren or the Church, it's the fault of those apostates who are actively evangelizing their Satanic mixture of the philosophies of men and scripture. It's also the fault of their disciples who suffer themselves to fall under the spell of these contemporary false prophets. The choice to embrace unbelief is weak and faithless, while the choice to proselyte for the adversary is a quintessential act of cowardice. It takes no courage and is the most evil activity a son or daughter of God can engage in. They are murdering the eternal lives of those they "convert"; and if these apostates do not repent, they will become sons & daughters of perdition.
+
+Posted to the latterdaysaints subreddit [here](https://www.reddit.com/r/latterdaysaints/comments/e62ztc/a_righteous_rant/)
+
 ### are mourned as if they had died
 
 > When I told her I no longer believe in the truth offered by the Church of Jesus Christ of Latter-day Saints, my mother reacted by telling me she mourned me as if I had died.
