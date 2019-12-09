@@ -29,7 +29,16 @@ body {
   display: flex;
   line-height: 140%;
   min-height: 100vh;
-  flex-direction: column; }
+  flex-direction: column;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
