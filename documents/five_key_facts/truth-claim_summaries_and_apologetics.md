@@ -63,6 +63,7 @@ layout: page
 * [The CES Letter: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
 * [Conflict of Justice #CES Letter Fail](http://www.conflictofjustice.com/ces-letter-fail-contents/)
 * [A Faithful Reply to the CES Letter from a Former CES Employee](https://canonizer.com/files/reply.pdf) (Jim Bennett, [original response](http://stallioncornell.com/blog/a-reply-from-a-former-ces-employee/) as Stallion Cornell)
+* [Bamboozled by the "CES Letter"](http://shakenfaithsyndrome.com/bamboozle/bamboozled.pdf) (Michael Ash)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
 # General pros/cons of the LDS lifestyle
