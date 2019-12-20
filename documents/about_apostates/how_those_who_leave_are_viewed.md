@@ -504,7 +504,7 @@ Posted to the latterdaysaints subreddit [here](https://www.reddit.com/r/latterda
 
 > When I told her I no longer believe in the truth offered by the Church of Jesus Christ of Latter-day Saints, my mother reacted by telling me she mourned me as if I had died.
 
-Paul Walker. [Ex-Actly as I Thought: Failure and the Unbecoming Mormon Man](http://trespassingjournal.com/Issue5/TPJ_I5_Walker_Article.pdf)
+Paul Walker. [Ex-Actly as I Thought: Failure and the Unbecoming Mormon Man](https://web.archive.org/web/20160402010407/http://trespassingjournal.com/Issue5/TPJ_I5_Walker_Article.pdf)
 
 > My parents had me and my 88 year old grandfather over for dinner. My parents are still TBM's but don't force it on me at all. After we ate my grandfather had this really sad look on his face when he was looked at me. I finally asked him what was wrong and he started to cry almost hysterically. He said that he worries about me every day because I won't be able to join the rest of the family in the celestial kingdom. This went on for almost 10 minutes before he finally calmed down. I wanted to tell him why I don't believe in the church but that would just upset him even more. For the most part, I've just been passive about my beliefs with my family but this really bothered me for some reason. I'm not really sure what to do here because he wasn't trying to get me to become a believer, nor have my parents over the years. They just have genuine concern about my well-being. I'm not sure how to respond to this really.
 
