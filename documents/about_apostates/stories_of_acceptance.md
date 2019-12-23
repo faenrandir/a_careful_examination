@@ -38,3 +38,9 @@ https://imgur.com/a/VLIxR
 ###  Really nice email back from ... ward member
 
 https://www.reddit.com/r/exmormon/comments/b5eohl/update_really_nice_email_back_from_tbm_ward_member/
+
+### Family supportive
+
+https://www.reddit.com/r/exmormon/comments/eeo07a/my_supportive_and_understanding_tbm_family_and_my/
+
+> When I walked away from the church my family was supportive and understanding, largely due to my sister leaving before me and my parents just understanding the gospel of love. ...
