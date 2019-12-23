@@ -17,7 +17,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 ## Statements by LDS leaders and official sources
 
-### Explanation *after* the salary/stipden leak
+### Explanation *after* the salary/stipend leak
 
 *After the salary/stipend leak occured*
 
