@@ -19,21 +19,21 @@ Copied with my editorial changes from [a post by curious_mormon](https://old.red
 
 Emphasis added.  Date links to the transcript of the History of the Church from the Joseph Smith Papers Project unless otherwise indicated.
 
-### "Chandler ... brought me some of the characters, and I gave him the interpretation"
+#### "Chandler ... brought me some of the characters, and I gave him the interpretation"
 
 [3 July 1835 • Friday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
-> 	On the 3rd of July, Michael H. Chandler came to Kirtland to exhibit some Egyptian mummies. There were four human figures, together with some two or more rolls of papyrus, covered with Hierogliphic, figures and devices. **As Mr Chandler had been told that I could translate them, he brought me some of the characters, and I gave him the interpretation**, and like a gentleman, he gave me the following certificate,[^chandler]
+> On the 3rd of July, Michael H. Chandler came to Kirtland to exhibit some Egyptian mummies. There were four human figures, together with some two or more rolls of papyrus, covered with Hierogliphic, figures and devices. **As Mr Chandler had been told that I could translate them, he brought me some of the characters, and I gave him the interpretation**, and like a gentleman, he gave me the following certificate,[^chandler]
 
-> [Kirtland July 6th 1835] **This is to make known to all who may be desirous, concerning the knowledge of Mr Joseph Smith. Jun in deciphering the ancient Egyptian hieroglyphic characters, in my possession**, which I have, in many eminent cities, shewed to the most learned; And, from the information that I could ever learn, or meet with, I and that of Mr Joseph Smith, Jun, to correspondend in the most minute matters. (signed) "MICHAEL H. CHANDLER ..."
+>> [Kirtland July 6th 1835] **This is to make known to all who may be desirous, concerning the knowledge of Mr Joseph Smith. Jun in deciphering the ancient Egyptian hieroglyphic characters, in my possession**, which I have, in many eminent cities, shewed to the most learned; And, from the information that I could ever learn, or meet with, I and that of Mr Joseph Smith, Jun, to correspondend in the most minute matters. (signed) "MICHAEL H. CHANDLER ..."
 
-### "I commenced the translation of some of the characters ... found that one of the rolls contained the writings of Abraham"
+#### "I commenced the translation of some of the characters ... found that one of the rolls contained the writings of Abraham"
 
 [6 July 1835 • Monday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
 > Soon after this, some of the Saints at Kirtland, purchased the Mummies and Papyrus (a description of which will appear hereafter) and I, with W[illiam] W. Phelps and O[liver] Cowdery, as scribes, **commenced the translation of some of the characters or hieroglyphics, and much to our joy found that one of the rolls contained the writings of Abraham; another the writings of Joseph of Egypt, &c**., a more full account of which will appear in thier place, as I proceed to examine or unfold them. Truly we can say the Lord is beginning to reveal the abundance of peace and truth.
 
-### "continually engaged in translating an alphabet to the Book of Abraham"
+#### "continually engaged in translating an alphabet to the Book of Abraham"
 
 [July 1835](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
@@ -43,33 +43,37 @@ Emphasis added.  Date links to the transcript of the History of the Church from 
 
 [1 October 1835 • Thursday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
-### "labored on the Egyptian alphabet ... principles ... unfolded to our understanding"
+#### "labored on the Egyptian alphabet ... principles ... unfolded to our understanding"
 
 > **This afternoon I** [Joseph] **labored on the Egyptian alphabet, in company with brothers O[liver] Cowdery and W[illiam] W. Phelps, and during the research** the principles of Astronomy as understood by Father Abraham and the ancients, unfolded to our understanding; the particulars of which will appear hereafter.
 
 *This is one of the ambiguous claims that *could* support the apologetic view, if and only if one ignores the other evidence available.*
 
-### "brief history of the manner in which the writings of the Fathers Abraham, and Joseph have been preserved"
+#### "brief history of the manner in which the writings of the Fathers Abraham, and Joseph have been preserved"
 
 [31 December 1835 • Thursday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
 > The Public mind has been excited of late by reports which have been circulated of late concerning certain Egyptian Mummies, and Ancient Records which were purchased by certain Gentlemen of Kirtland last July. It has been said that the purchasers of these antiquities pretend they have the body of Abraham, Abimelech, The king of the Philistines. Joseph who was sold into Egypt, &c, &c, for the purpose of attracting the attention of the multitude, and gulling the unwarry; which is utterly false. Who these ancient inhabitants of Egypts were I do not, at present, say. Abraham was buried on his own possession “in the cave of Machpelah, in the field of Ephron, the Son of Zohar the Hittite, which is before Mamre,” which he purchased of the sons of Heth; Abimelech lived in the same country and for ought we know died there; and the children of Israel carried Joseph’s bones from Egypt, when they went out under Moses. Consequently could not have been found in Egypt in the nineteenth century. **The record of Abraham and Joseph, found with the Mummies, is beautifully written on papyrus with black, and a small part, red ink or paint, in perfect preservation.** The characters are such as you find upon the coffins of Mummies; hieroglyphics, &c. with **many characters or letters like the present (though probably not quite so square,) form of the Hebrew without points.** “These records were obtained from one of the Catacombs, or in Egypt, near the place where once stood the renowned city of Thebes, by the celebrated French traveller Antonio Lebolo. in the year 1831. He procured license from Mehemet Ali, then Viceroy of Egypt, under the protection of Chevalier Drovetti, the French consul, in the 1828; employed 433 men, four months and two days, (if I understood correctly,) Egyptian or Turkish soldiers, at from four to 6 cents per Diem, each man: entered the catacomb June 7th 1831. and obtained eleven mummies. There were several hundred mummies in the same catacomb; about one hundred embalmed after the first order, and deposited and placed in niches; and two or three hundred after the second and third order; and laid upon the floor or bottom of the grand cavity; The two last orders of Embalmed were so decayed that they could not be removed, and only eleven of the first found in the niches. On his way from Alexandria to Paris he put in at Trieste, and after ten days illness expired. This was in the year 1832. Previous to his decease, he made a will of the whole to Mr Michael H. Chandler, (then in Philadelphia. Pa,) his nephew, whom he supposed to have been in Ireland. Accordingly the whole were sent to Dublin, and Mr Chandler’s friends ordered them to New York, where they were received at the Custom house in the winter or Spring of 1833. In April of the same year, Mr Chandler paid the duties, and took possession of his mummies. Up to this time, they had not been taken out of the coffins nor the coffins opened. On opening the coffins he discovered that in connection with two of the bodies, were something rolled up with the same kind of linen, saturated with the same bitumen, which when examined, proved to be two rolls of papyrus previously mentioned. **Two or three other small pieces of papyrus with astronomical calculations, epitaphs, &c. were found with others of the mummies.** When Mr Chandler discovered that ther[e] was something with the Mummies, he supposed, or hoped it might be some diamonds or valueable Metal, and was no little chagrined, when he saw his disappointment. **He was immediately told, while yet in the Custom house, that there was no man in that city, who could translate his roll; but was referred by the same gentleman, (a stranger) to Mr Joseph Smith Junr— who, continued he, possesses some kind of power or gifts, by which he had previously translated similar characters.”** I was then unknown to Mr Chandler, neither did he know that such a book or work as the record of Nephites had been brought before the public. From New York he took his collection on to Philadelphia, where he obtained the certificate of the learned, (see Mess. & Advocate p. 235,)— and from thence come on to Kirtland as before related in July. **Thus I have given a brief history of the manner in which the writings of the Fathers Abraham, and Joseph have been preserved, and how I came in possession of the same, a correct translation of which I shall give in its proper place.**
 
-### "shewed them the record of Abraham"
+#### "shewed them the record of Abraham"
 
 [30 January 1836 • Saturday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
 > Saturday 30th. Attended school as usual, and waited upon several visitors and **shewed them the record of Abraham.** Mr [Joshua] Seixas, our Hebrew Teacher, examined them with deep interest, and pronounced them to be original beyond all doubt. He is a man of excellent understanding, and has a knowledge of many languages, which were spoken by the ancients, & he is an honorable man so far as I can judge yet.
 
-### "showed them the Records of Abraham"
+#### "showed them the Records of Abraham"
 
 [3 February 1836 • Wednesday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
 
 > Wednesday 3d. A.M. Attended our Hebrew lecture. P.M. Studied with Oliver Cowdery and Sylvester Smith. Received many visitors and **showed them the Records of Abraham.** My Father blessed three with a patriarchal blessing. President Alva[h] Beman handed in, seventy of his quorum, designed for another seventy if God will. 
 
+---
+
 [I am slowly going through and finding original-ish manuscripts in the Joseph
 Smith papers project.  I've done that for the above and am still working on
 the below... --bwv549]
+
+---
 
 **Undated**, in the history of the church, Vol 2. 
 
