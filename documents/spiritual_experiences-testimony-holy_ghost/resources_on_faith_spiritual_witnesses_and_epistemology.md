@@ -51,9 +51,15 @@ layout: page
 
 [Street epistemology](https://streetepistemology.com/) sessions with Latter-day Saints:
 
-1. [Street Epistemology with Missionaries](https://www.youtube.com/watch?v=SniF1xG_Iso) (Street Knowledge)
-1. [Street Epistemology with Missionaries \| I know the Book of Mormon is true](https://www.youtube.com/watch?v=DhKGiw0ZVBM) (Deep Discussions) 
-1. [Street Epistemology: Jenny and Anthony \| Fruitful Feelings](https://www.youtube.com/watch?v=bh9IYjRYBx4) (Anthony Magnabosco)
+1. Street Knowledge
+    * [with Missionaries](https://www.youtube.com/watch?v=SniF1xG_Iso) (Street Knowledge)
+    * [with Sister Missionaries \| Praying for confirmation](https://www.youtube.com/watch?v=m8sjqE4C_4w) (Street Knowledge)
+1. Deep Discussions
+    * [I know the Book of Mormon is true](https://www.youtube.com/watch?v=DhKGiw0ZVBM)
+1. Anthony Magnabosco
+    * [Jenny and Anthony \| Fruitful Feelings](https://www.youtube.com/watch?v=bh9IYjRYBx4)
+    * [Missionaries part 1](https://www.youtube.com/watch?v=zv0l2LVww2I)
+    * [Missionaries part 2](https://www.youtube.com/watch?v=Alm4bD5xnCg)
 
 ## Apologetic
 
