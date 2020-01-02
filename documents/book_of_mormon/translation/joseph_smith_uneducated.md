@@ -25,7 +25,7 @@ So, while Joseph clearly emphasizes that he had little formal schooling, he also
 
 > Answer. Joseph Smith (and for the first time she used his name direct, having usually used the words, “your father” or “my husband”) **could neither write nor dictate a coherent and well-worded letter**, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me, “a marvel and a wonder,” as much so as to anyone else.
 
-However, we have examples of [coherent letters Joseph Smith had written](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-6-june-1832/1) shortly after the creation of the Book of Mormon.  In addition, in this same testimony [Emma seems to tell bald-face lies about Joseph Smith's practice of polygamy]({{ "/context-of-emma-smiths-bom-witness/" | relative_url }}), so we can deduce that Emma was under pressure to emphasize a particular narrative that had little to do with actual fact, at least in some major ways.
+However, there are [good reasons to discount aspects of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
 
 ## Religious and educational environment
 
