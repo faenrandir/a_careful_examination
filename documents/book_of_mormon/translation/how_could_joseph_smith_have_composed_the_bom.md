@@ -23,7 +23,7 @@ layout: page
 #### Creativity theory and oral composition
 
 * [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv) (William Davis PhD Dissertation)
-* [Creativity Theory and the Origin of the Book of Mormon and other Mormon Scriptures](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)
+* [Creativity Theory and the Origin of the Book of Mormon and other Mormon Scriptures](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/) (post by frogontrombone)
 * [Is it possible for Joseph Smith to have orally dictated the BoM without notes?](https://www.reddit.com/r/mormon/comments/bng1ul/is_it_possible_for_joseph_smith_to_have_orally/) (post by frogontrombone)
 * [Mosiah Priority](https://www.reddit.com/r/mormon/comments/bgjm60/mosiah_priority/) (post by ImTheMarmotKing)
 * [Evidence of Oral Composition](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4l5gu/) (comment by ImTheMarmotKing)

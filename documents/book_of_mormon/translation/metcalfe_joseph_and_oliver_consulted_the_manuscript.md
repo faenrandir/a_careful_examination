@@ -24,7 +24,7 @@ layout: page
 
 #### Prince:
 
-> I have no problem with the idea that Joseph was inventive enough to generate the themes and characters present in the book in the allotted time (including the years before the final dictation event). However, there is a level of internal coherence that argues in favor of a pre-written manuscript of some kind, I think. See https://www.docdroid.net/sUW5NhW/book-of-mormon-details.pdf
+> I have no problem with the idea that Joseph was inventive enough to generate the themes and characters present in the book in the allotted time (including the years before the final dictation event). However, there is a level of internal coherence that argues in favor of a pre-written manuscript of some kind, I think. See [https://www.docdroid.net/sUW5NhW/book-of-mormon-details.pdf](https://www.docdroid.net/sUW5NhW/book-of-mormon-details.pdf)
 
 > Furthermore, if you acknowledge the literary dependence on the KJV, then you still need some mechanism to reconcile the general consensus that no manuscript was seen during dictation with the fact that these verses appear in similar form in the BoM. There are options to think about (various levels of collusion), but one of them is the method I described.
 
