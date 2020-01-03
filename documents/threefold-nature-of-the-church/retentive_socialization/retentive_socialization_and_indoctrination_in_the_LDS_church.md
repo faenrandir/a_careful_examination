@@ -152,7 +152,7 @@ Additional life events tied closely into the LDS program include missions, marri
 
 1. LDS missions are considered [a "coming of age" experience](http://www.pbs.org/mormons/themes/mission.html) (see answer by D. Michael Quinn).
 
-1. Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as counterfeit, at least to some degree.
+1. Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as lesser (and maybe in the extreme as [not really a marriage at all](https://www.missedinsunday.com/memes/sexism/weak-in-the-faith/)).
 
 1. Funerals are considered a time to teach the Gospel and reinforce the LDS conception of life's purpose.
 
@@ -245,7 +245,7 @@ The compartmentalization of information may hinder a lay member's ability to fai
 
 1. Aspects of the temple are obfuscated or kept secret from the uninitiated.
 
-    Consider Elder Holland's [reluctance to discuss Mitt Romney's temple oath](https://youtu.be/G9v2GxDs4To?t=81) and compare how believing members answer the question "What are the covenants that are made in a Mormon temple?" (e.g., [here](http://qr.ae/TbSsIH), [here](http://qr.ae/TbSsIk), and [here](http://qr.ae/TbSsIw)) with the direct answer of a former member, [here](http://qr.ae/TbSsIO).  A typical temple initiate will only be vaguely aware of the extensive promises they will be asked to make in the temple---specific covenant verbiage is only revealed [after the opportunity to withdraw](https://www.reddit.com/r/exmormon/comments/67b1m5/are_members_breaking_promises_when_they_leave_the/) has been offered and refused by the initiate.
+    Consider Elder Holland's [reluctance to discuss Mitt Romney's temple oath](https://youtu.be/G9v2GxDs4To?t=81) and compare how believing members answer the question "What are the covenants that are made in a Mormon temple?" (e.g., [here](http://qr.ae/TbSsIH), [here](http://qr.ae/TbSsIk), and [here](http://qr.ae/TbSsIw)) with the direct answer of a former member, [here](http://qr.ae/TbSsIO).  A typical temple initiate will only be vaguely aware of the extensive promises they will be asked to make in the temple---specific covenant verbiage is only revealed after the opportunity to withdraw has been offered and refused by the initiate (see #3 [here]({{ "/is-leaving-breaking-promises/" | relative_url }})).
 
 1. Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---is not available to the lay member.
 1. Finances have [not been disclosed to the membership since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
