@@ -33,7 +33,7 @@ More specifically, then, this document attempts to tackle the question: **What L
 
 Whether or not the LDS Church is "true" (i.e., whether its truth-claims are veridical) is sidestepped in this document.  In addition, the manner in which the LDS socialization program reflects on LDS truth claims is unclear.  For instance, a believing member may argue that an effective socialization program is an indicator of the truth of the LDS Church: we might expect God to implement an effective socialization program to spread truth and encourage orthodoxy in the face of evil or ignorant forces intent on undermining it.  On the other hand, a critic might argue that such an intense socializing program is an indicator of the weakness of the LDS faith: why such a program if the truth-claims could stand on their own merit?  One may argue---from the same data---that the LDS Church fosters devotion in part _because of_ the accuracy, power, and beauty of its truth-claims, or it may be foster devotion _in spite of_ its truth-claims were we to suppose that the claims were false.
 
-A more productive question is whether the level of belief and devotion fostered in LDS members could be the product of an effective socializing culture and program _regardless of_ the veridicalness of LDS truth-claims.  We see, for instance, high levels of belief and devotion in groups like the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS) or in the Jehovah's Witnesses, and presumably at most only one of these groups has fully accurate truth-claims.  The existence of high levels of devotion in groups with contradicting truth-claims itself suggests that socialization may account for some significant level of belief and devotion within the groups.  Nonetheless, it must be acknowledged that one cannot fully tease apart devotion behavior from truth-claim correctness, and this document makes no attempt to do so.
+A more productive question is whether the level of belief and devotion fostered in LDS members could be the product of an effective socializing culture and program _regardless of_ the veridicality of LDS truth-claims.  We see, for instance, high levels of belief and devotion in groups like the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS) or in the Jehovah's Witnesses, and presumably at most only one of these groups has fully accurate truth-claims.  The existence of high levels of devotion in groups with contradicting truth-claims itself suggests that socialization may account for some significant level of belief and devotion within the groups.  Nonetheless, it must be acknowledged that one cannot fully tease apart devotion behavior from truth-claim correctness, and this document makes no attempt to do so.
 
 ## Fourteen socializing influences
 
@@ -347,7 +347,7 @@ The Covenants and Ordinances chapter of the Eternal Marriage Student manual [beg
 
 ## Conclusion
 
-A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and, outside of the veridicalness of LDS truth-claims, might help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
+A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and, outside of the veridicality of LDS truth-claims, might help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.
 
 ## See Also
 
