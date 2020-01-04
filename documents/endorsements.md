@@ -10,6 +10,14 @@ layout: page
 
 > Similar to Marmot, I've found /u/bwv549 to have good content and a respectful tone. [Here's a great recent example.](https://www.reddit.com/r/mormon/comments/8r20g1/_/e0vl96v)
 
+#### objective, well-researched, heavily-sourced, and positive take
+
+/u/Practical_Condition [wrote](https://www.reddit.com/r/mormon/comments/ejmjs3/my_husband_is_trying_to_control_my_spirituality/fczvydb):
+
+> I've just gotta tell you, u/bwv549, I have LOVED your blog, "A Careful Examination." I've never seen a more objective, well-researched, heavily-sourced, and positive take on the church. I found it looking for a response to Callister's book, "A Case for the Book of Mormon" and loved your responses.
+
+> I just saw your comment here and wanted to say thanks. :)
+
 #### Respectful tone; corrects misinformation on "both sides"
 
 /u/Fuzzy_Thoughts [wrote](https://www.reddit.com/r/mormon/comments/8simfu/bridge_building_with_new_moderators/e10ugd5/):
