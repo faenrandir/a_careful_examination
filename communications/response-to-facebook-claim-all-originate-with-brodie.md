@@ -1,5 +1,5 @@
 ---
-title: "Response to claim that all originate with Brodie"
+title: "Response to claim that all originate with Brodie, pt 1"
 permalink: /response-to-facebook-claim-all-originate-with-brodie/
 doctype: response
 layout: page
