@@ -26,7 +26,7 @@ Would you describe LDS scholars as simply "recycling" Brodie when they create mo
 
 > Brodie recycled those claims and they reappear in many of your arguments (..., other sources of his day, etc)
 
-My understanding is that critics like Brodie postulated that Smith was closely referencing other works (e.g., View of the Hebrews).  If you go through all the sources I've listed, you'll find almost unanimous agreement among modern historians and researchers that Joseph likely didn't directly copy from anything (other than perhaps the Bible for some large chunks).  Vogel discusses this in his introduction [here](http://signaturebookslibrary.org/scripture-test/) ("I have, of course, tried to include all sources which would have been available in the area where Joseph Smith grew up and later worked. These sources do not prove but merely **suggest Joseph’s exposure to the subject**").  The authors of [the Late War analysis](http://wordtree.org/thelatewar/) describe it as a "remix" (meaning, the Book of Mormon was influenced by ideas in the environment but wasn't a direct plagiarism [again, besides perhaps the Bible]).  And frogontrombone is making the argument that the Book of Mormon fits within the theory of componential creativity which suggests that "creativity is a novel combination of pieces taken from ideas that an individual has been exposed to (domain knowledge, in this case, the intimate knowledge of the cultural and religious milieu)" rather than simply copying sources.
+My understanding is that critics like Brodie postulated that Smith was closely referencing other works (e.g., View of the Hebrews).  If you go through all the sources I've listed, you'll find almost unanimous agreement among modern historians and researchers that Joseph likely didn't directly copy from anything (other than perhaps the Bible for some large chunks).  Vogel discusses this in his introduction [here](http://signaturebookslibrary.org/scripture-test/) ("I have, of course, tried to include all sources which would have been available in the area where Joseph Smith grew up and later worked. These sources do not prove but merely *suggest Joseph’s exposure to the subject*").  The authors of [the Late War analysis](http://wordtree.org/thelatewar/) describe it as a "remix" (meaning, the Book of Mormon was influenced by ideas in the environment but wasn't a direct plagiarism [again, besides perhaps the Bible]).  And frogontrombone is making the argument that the Book of Mormon fits within the theory of componential creativity which suggests that "creativity is a novel combination of pieces taken from ideas that an individual has been exposed to (domain knowledge, in this case, the intimate knowledge of the cultural and religious milieu)" rather than simply copying sources.
 
 Anyway, I am suggesting that these ideas transcend Brodie and whatever shortcomings she had as a scholar or historian.
 
@@ -93,7 +93,7 @@ Vogel identifies [18 treasure digging sites](http://www.mormonstories.org/wp-con
 
 > That story is much more fantastical than the claim that Joseph Smith was inspired by God to translate (sometimes referred to as “interpret”) an ancient text.
 
-My argument is that it's impressive but not fantastical once you fully appreciate his abilities and the milieu he lived in.  You are welcome to consider it fantastical, of course.  The original facebook poster wanted to know *how* people who don't believe in LDS truth-claims think about the creation of the Book of Mormon, and I'm simply explaining the best naturalist model as I understand it.
+My argument is that it's impressive but not fantastical once you fully appreciate his abilities and the milieu he lived in.  You are welcome to consider it fantastical, of course.  The original facebook poster wanted to know *how* we explain its origin, and I'm simply explaining the best naturalist model as I understand it.
 
 > As a foreign language teacher, I have no problem with phrases used in the Book of Mormon translation that are also found in other sources.  The nature of translation is that words and phrases used are influenced by knowledge and experience of the translator.
 
@@ -115,6 +115,10 @@ And Colby Townsend's very detailed intertextuality studies on the Book of Mormon
 * [Malachi in the Book of Mormon](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V51N02_14.pdf) (Dialogue 2018)
 * [Rewriting Eden with the Book of Mormon](https://digitalcommons.usu.edu/etd/7681/) (MA Thesis)
 
+Finally, there is the issue that as far as I can tell every doctrine found in the Book of Mormon was [well-represented in the early 1800s religious milieu](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/).  I could understand one or two doctrines and maybe some phrases, but were the ancient American natives having *all* the same theological discussions in *all the same ways* as those in upstate New York in the early 1800s?  It's not impossible, I suppose, but nor does it seem likely to my mind.
+
+As an example of this, Callister walks through doctrine that he views as a unique contribution from the Book of Mormon and hence unlikely to have been derived from Joseph or his miliue.  I walked through [all of his points](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#where-did-joseph-get-the-doctrine-doctrine) and have shown representation for each of those ideas in the early 1800s, I think.
+
 > I’ve read a lot of your links (thank you for sharing).
 
 Thank you for considering.
@@ -124,8 +128,6 @@ Thank you for considering.
 *followed by links to chapters by [Robert J. Matthews](https://rsc.byu.edu/archived/joseph-smith-prophet-man/6-joseph-smith-translator) and [Brian L. Smith](https://rsc.byu.edu/archived/joseph-smith-prophet-man/13-joseph-smith-gifted-learner-master-teacher-prophetic-seer)*
 
 I'll take a look.  Thank you for sharing.
-
----
 
 ### Appendix
 
