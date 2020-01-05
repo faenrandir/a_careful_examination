@@ -1,5 +1,5 @@
 ---
-title: "Response to claim that all originate with Brodie, part 2 (assumptions)"
+title: "Response to claim that all originate with Brodie, part 2, assumptions"
 permalink: /response-to-facebook-claim-all-originate-with-brodie-pt2-assumptions/
 doctype: response
 layout: page
@@ -115,9 +115,10 @@ And Colby Townsend's very detailed intertextuality studies on the Book of Mormon
 * [Malachi in the Book of Mormon](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V51N02_14.pdf) (Dialogue 2018)
 * [Rewriting Eden with the Book of Mormon](https://digitalcommons.usu.edu/etd/7681/) (MA Thesis)
 
-Finally, there is the issue that as far as I can tell every doctrine found in the Book of Mormon was [well-represented in the early 1800s religious milieu](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/).  I could understand one or two doctrines and maybe some phrases, but were the ancient American natives having *all* the same theological discussions in *all the same ways* as those in upstate New York in the early 1800s?  It's not impossible, I suppose, but nor does it seem likely to my mind.
+Finally, there is the issue that as far as I can tell *every* doctrine found in the Book of Mormon was [well-represented in the early 1800s religious milieu](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/).  I could understand one or two doctrines and maybe some phrases, but were the ancient American natives having *all* the same theological discussions in *all the same ways* as those in upstate New York in the early 1800s?  That probably overstates the case, but it is meant to convey that the problem is not just with it happening, the problem is also in the quantity.  I would point to [Skousen's list](https://faenrandir.github.io/a_careful_examination/skousen-protestant-concerns-in-bom/) as another way of saying that there appears to be a lot of discussion in the BoM that seems predicated on protestant thinking and theology and that we would not necessarily anticipate occuring among native 
+Americans, even if they were Christian.
 
-As an example of this, Callister walks through doctrine that he views as a unique contribution from the Book of Mormon and hence unlikely to have been derived from Joseph or his miliue.  I walked through [all of his points](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#where-did-joseph-get-the-doctrine-doctrine) and have shown representation for each of those ideas in the early 1800s, I think.
+And for one more example, Callister advances doctrine that he views as a unique contribution from the Book of Mormon and hence unlikely to have been derived from Joseph or his miliue.  I walked through [all of his points](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#where-did-joseph-get-the-doctrine-doctrine) and have shown representation for each of those ideas in the early 1800s to varying extents.
 
 > I’ve read a lot of your links (thank you for sharing).
 
