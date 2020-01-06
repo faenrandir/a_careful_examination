@@ -67,6 +67,8 @@ See [William Davis PhD dissertation](https://escholarship.org/uc/item/86h814zv) 
 
 Again, [Davis](https://escholarship.org/uc/item/86h814zv) discusses *how* this kind of thing could be done.
 
+edit to add: I also discuss how Emma may have not been present when the Bible was directly consulted [here](https://faenrandir.github.io/a_careful_examination/reasons-to-discount-emmas-bom-testimony/).
+
 > that ancient texts were written on metal plates,
 
 I discuss how writing ancient texts on metal plates was in fact an idea floating around Joseph's milieu and ways in which what is described about the Golden Plates is in tension with what we know about writing on metal plates from the ancient Middle East and ancient America here:
