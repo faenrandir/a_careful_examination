@@ -39,7 +39,7 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
     * Herman Melville [6 years](https://books.google.com/books?id=amPSiPy0XJ4C&pg=PA3&lpg=PA3&dq=herman+melville+years+of+schooling&source=bl&ots=N5rQ1EEfpg&sig=nOpniJzgoGCv5zFD6ftRrNPYlVk&hl=en&sa=X&ved=0ahUKEwijraPT3K_TAhVM7mMKHeoPARc4ChDoAQgnMAE#v=snippet&q=%22six%20years%20of%20formal%20schooling%22&f=false)
 
     Each of the above had less or only marginally more formal education than Joseph Smith and it goes without saying that those men were able to compose works of outstanding fiction.
-1. A recent analysis of Joseph's education puts the number of years [at closer to seven] ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
+1. A recent analysis of Joseph's education puts the number of years at closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
 1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
 
 ## Intellectual powers
