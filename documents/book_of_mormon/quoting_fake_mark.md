@@ -76,9 +76,15 @@ The appearance of these verses in the Book of Mormon is problematic because they
 
 James Tabor color-codes the end of Mark to demonstrate where the author of the forged ending [pulled material](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/) (i.e., from Matthew, Luke, and John) and where they likely provided original material.
 
+### Potential rebuttal
+
+[Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon)
+
+[Expand discussion]
+
 ### Conclusion
 
-Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that is almost certainly a later addition to the book of Mark.  By itself, such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance ([like with deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)) or perhaps the later addition was _somehow_ reflective of words Jesus actually spoke in the New World.[^mormondialogue]  Regardless, the quotation is problematic, especially viewed in light of [the massive number of parallels to writing from the early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), generally.  The author's usage of these verses from the New Testament is highly consistent with the modern origin model (i.e., the Book of Mormon was authored by a mind(s) from the early 1800s) and in some tension with the ancient origin model.
+Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that most scholars believe is a later addition to the book of Mark.  By itself, such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance ([like with deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)) or perhaps the later addition was _somehow_ reflective of words Jesus actually spoke in the New World.[^mormondialogue]  Regardless, the quotation is problematic, especially viewed in light of [the massive number of parallels to writing from the early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), generally.  The author's usage of these verses from the New Testament is highly consistent with the modern origin model (i.e., the Book of Mormon was authored by a mind(s) from the early 1800s) and in some tension with the ancient origin model.
 
 ### References:
 
@@ -100,6 +106,6 @@ Blumell does not conclude the ending is _necessarily_ inauthentic (despite ackno
 
 > ... If it is not the original ending to Mark, then at the very least it probably contains some of the characteristics of the original ending (i.e., postresurrection appearances and a charge to spread the gospel).
 
-[^mormondialogue]: On the Mormon Dialogue discussion group, the apologetic [is advanced](http://www.mormondialogue.org/topic/59398-new-testament-and-book-of-mormon-parallels-mark-16mormon-9/): "Assuming that Mark didn't write those words, must we then believe that Jesus didn't speak them and someone else wrote them down so the later 'interpolator' could add them to Mark's account?"
+[^mormondialogue]: On the Mormon Dialogue discussion group, the apologetic [is advanced](http://www.mormondialogue.org/topic/59398-new-testament-and-book-of-mormon-parallels-mark-16mormon-9/): "Assuming that Mark didn't write those words, must we then believe that Jesus didn't speak them and someone else wrote them down so the later 'interpolator' could add them to Mark's account?"  [Book of Mormon Central's response to this issue](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon#footnote13_4zcurck) follows along the same lines, basically that Jesus may have or probably said something like what is written in the end of Mark, so it is not anything to be concerned with.
 
 _published on [mormonscholar on 2017-10-10](https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/)_
