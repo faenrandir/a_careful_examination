@@ -18,17 +18,17 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 
 2. **Chiastic structure was described in at least two popular Bible commentaries of that time.**
 
-    Horne's Introduction to the Bible discusses chiasmus---along with many kinds of parallelisms---in great depth and with many examples.[^editions] [D. Michael Quinn has documented the availability of the book in Joseph's milieu](https://faenrandir.github.io/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/), and there were several editions preceding the publication of the Book of Mormon that may have been accessible.[^knowhy]  Just a few years after the publication of the Book of Mormon Joseph was gifted a copy, corroborating the prominence and ubiquity of the book in general terms.
+    Horne's Introduction to the Bible discusses chiasmus---along with many kinds of parallelisms---in great depth and with many examples.[^editions] D. Michael Quinn [has documented the availability of the book in Joseph's milieu](https://faenrandir.github.io/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/), and there were several editions preceding the publication of the Book of Mormon that may have been accessible.[^knowhy]  Just a few years after the publication of the Book of Mormon Joseph was gifted a copy, corroborating the prominence and ubiquity of the book in general terms.
 
     In addition, Joseph Smith was very familiar with Clarke's famous commentary on the bible---we know that he [borrowed liberally from the commentary in his JST](http://jur.byu.edu/?p=21296).  And we also know that work on the JST began less than 2 years after the publication of the BoM.[^clarkeinbom] Clarke also describes various Hebrew poetic devices and [clearly _describes_ chiasmus](https://books.google.com/books?id=Q2pCAQAAIAAJ&pg=PA668&lpg=PA668#v=onepage&q&f=false) in his introduction to the book of Isaiah, even though it does not name it as such and the examples are far simpler than those documented in Horne's Introduction.
 
     Taken together, it is not unreasonable to suggest that Hebrew literary forms were at least being discussed in that milieu and possibly studied by Smith.
 
-3. Smith would have been exposed to rhetorical techniques which take on similar form as Hebrew parallelism.
+3. **Smith would have been exposed to rhetorical techniques which take on similar form as Hebrew parallelism.**
 
     William Davis has compiled the set of core textbooks that JS would likely have been exposed to ([dissertation](https://escholarship.org/uc/item/86h814zv) pg 85), and among them is [Walker's Rhetorical Grammar](https://archive.org/details/in.ernet.dli.2015.511864/page/n11) (1785).  Hence, Joseph was likely exposed to and potentially had practiced such forms as [epanaphora](https://archive.org/details/in.ernet.dli.2015.511864/page/n203) and [Anastrophe (Inversion)](https://archive.org/details/in.ernet.dli.2015.511864/page/n213), [Asyndeton and Polysyndeton](https://archive.org/details/in.ernet.dli.2015.511864/page/n215), many of which have the form of Hebrew poetry.
 
-    This point is driven home by Robert Maxwell in [his review](https://byustudies.byu.edu/content/finding-biblical-hebrew-and-other-ancient-literary-forms-book-mormon) of Pinnock's book "Finding Biblical Hebrew and Other Ancient Literary Forms in the Book of Mormon": 
+    This point is driven home by Robert Maxwell in [his review](https://byustudies.byu.edu/content/finding-biblical-hebrew-and-other-ancient-literary-forms-book-mormon) of Pinnock's book "Finding Biblical Hebrew and Other Ancient Literary Forms in the Book of Mormon" (emphasis added): 
 
     > Second, a general reader may be left with the impression that these forms [e.g., anaphora, epistrophe, polysyndeton, and chiasmus] are uniquely Hebrew forms, when in fact they were used in nearly all the literature of the ancient world, and indeed **many of them continue to be used in modern literatures**. Most of the forms discussed by Elder Pinnock are Greek or Latin forms as well as Hebrew.[^dismiss]
 
