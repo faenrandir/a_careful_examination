@@ -20,6 +20,7 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [Slippery treasure](https://www.reddit.com/r/mormon/comments/d897gd/treasure_in_the_book_of_mormon/) (ArchimedesPPL)
+1. [Fascination with ancient America demonstrated with newspaper articles](https://www.reddit.com/r/exmormon/comments/evqmci/bom_product_of_its_time_speculation_about_and/)
 1. [The Book of Mormon and 12 points of Pelagius]({{ "/bom-and-twelve-points-of-pelagianism-in-early-1800s/" | relative_url }})
 1. [Arminianism in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/e359nrd/) (comment by [FuzzyThoughts](https://www.reddit.com/user/Fuzzy_Thoughts))
 1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
