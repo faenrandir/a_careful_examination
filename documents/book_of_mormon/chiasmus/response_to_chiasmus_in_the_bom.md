@@ -32,6 +32,12 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 
     > Second, a general reader may be left with the impression that these forms [e.g., anaphora, epistrophe, polysyndeton, and chiasmus] are uniquely Hebrew forms, when in fact they were used in nearly all the literature of the ancient world, and indeed **many of them continue to be used in modern literatures**. Most of the forms discussed by Elder Pinnock are Greek or Latin forms as well as Hebrew.[^dismiss]
 
+4. **"Oral-formulaic composition exploits patterns of repetition and variation."**
+
+As discussed in some length in William Davis's dissertation [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv), the process by which storytellers compose narratives[^oralformulaictheory] tends to lean on extensive repetition including parallelism and ring structures (e.g., "inverted parallelism", "complex chiasmus", and "envelope patterns").
+
+Oral-formulaic theory may make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If these structures were simply employed as part of the process of orally composing the Book of Mormon, then Joseph may not have associated them with either Hebrew parallelism or other rhetorical devices taught in grammar courses of the day.
+
 ### Notes
 
 *Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing*
@@ -45,3 +51,5 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 [^clarkeinbom]:  I am aware of at least one idea discussed in Clarke's commentary that is found in the BoM (the idea that Jesus [sweat drops of blood out of pores](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)), although it was also present elsewhere.  Haley Wilson has discussed searching for parallels between Clarke and the Book of Mormon [conversation in r/exmormon I need to track down] and not finding anything direct, at least on the same level as the JST, suggesting that there was no direct influence between Clark and the Book of Mormon.  However, this does not rule out indirect influence (such as exposure to Hebrew literary forms).
 
 [^dismiss]: Maxwell finishes his review by discounting the likelihood that Joseph would have used such devices: "it is unlikely that an unlettered farm boy such as Joseph would have used so many elaborate rhetorical devices" but his claim is unsubstantiated and runs counter to the evidence on the likelihood that Joseph would have been trained in (or at least exposed to) such techniques [compiled by William Davis](https://escholarship.org/uc/item/86h814zv).
+
+[^oralformulaictheory]: Milman Parry and Albert Lord studied both ancient and modern oral traditions in developing the Oral-Formulaic Theory.  As quoted [by Davis](https://escholarship.org/uc/item/86h814zv), they "recorded nearly fifteen hundred epic texts" and listened to bards "chant epic stories for hours and even days on end."
