@@ -40,7 +40,7 @@ Oral-formulaic theory may make some sense of a few observations, especially the 
 
 ### Notes
 
-*Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing*
+*Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing.  [Pushback](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/ff9x62n/) on points 1-3 with /u/jn3792 led to the framing of point #4.*
 
 [originally posted at /r/mormon](https://www.reddit.com/r/mormon/comments/84wj6t/summarizing_the_best_arguments_against_chiasmus/) (modified significantly since then)
 
