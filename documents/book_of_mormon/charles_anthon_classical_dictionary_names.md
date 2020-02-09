@@ -5,7 +5,7 @@ doctype: short-compilation
 layout: page
 ---
 
-The likelihood of matches like these _at random_ between a work as large as Anthon's and the Book of Mormon is high.  Still, this provides one reasonable source at the right time and place for many of the 'kinds' of names that appear in the Book of Mormon.
+The likelihood of matches like these _at random_ between a work as large as Anthon's and the Book of Mormon is high and there is no evidence that Joseph ever even looked at a book like this (although he seems to have [been aware of Anthon](https://www.josephsmithpapers.org/person/charles-anthon)).  Still, this provides one reasonable source at the right time and place for many of the 'kinds' of names that appear in the Book of Mormon.
 
 1. [Memnon](https://archive.org/stream/1827classicaldic00lempuoft#page/n3/mode/2up/search/Memnon) → Mormon?
 
@@ -17,6 +17,7 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 1. [Cremera](https://archive.org/stream/1827classicaldic00lempuoft#page/294/mode/2up/search/Cremera) → Cumorah?
 
     * An entire family line of 300 was wiped out there
+
         > They came to a general engagement near the Cremera, in which all the family, consisting of 306 men, were totally slain, B.C. 477.  There only remained one, whose tender age detained him at Rome, and from him arose the noble Fabii.  The family was divided into six different branches, the Ambusti, the Maximi, the Vibulani, the Buteones, the Dorsones, and the Pictores...
 
 1. [Helorum](https://archive.org/stream/1827classicaldic00lempuoft#page/334/mode/2up/search/Helorum) → Helorum
@@ -27,11 +28,9 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 
 1. [Almamon](https://archive.org/stream/1827classicaldic00lempuoft#page/n17/mode/2up/search/Almamon) → Alma?
 
-1. [Melek](https://archive.org/stream/1827classicaldic00lempuoft#page/668/mode/2up/search/Melek) → Melek (p.668)
+1. [Melek](https://archive.org/stream/1827classicaldic00lempuoft#page/668/mode/2up/search/Melek) → Melek
 
-1. [Teanum](https://archive.org/stream/1827classicaldic00lempuoft#page/762/mode/2up/search/Teanum)  → Teancum 
-
-    * Surrounded by 'c' names 'Sidi**c**inum' and '**C**ampania'
+1. [Teanum](https://archive.org/stream/1827classicaldic00lempuoft#page/762/mode/2up/search/Teanum)  → Teancum (Surrounded by 'c' names 'Sidi**c**inum' and '**C**ampania')
 
 1. [Paphus](https://archive.org/stream/1827classicaldic00lempuoft#page/578/mode/2up/search/Paphus) → Pachus
 
@@ -41,91 +40,46 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 
 1. [Corinthum](https://archive.org/stream/1827classicaldic00lempuoft#page/208/mode/2up/search/Corinthum) → Coriantum
 
-(p.208)
+1. [Corinthium](https://archive.org/stream/1827classicaldic00lempuoft#page/208/mode/2up/search/Corinthium) (top left of page) → Coriantumr
 
-1. Corinthium-br → Coriantumr
+1. [Chemmis](https://archive.org/stream/1827classicaldic00lempuoft#page/174/mode/2up/search/Chemmis)  → Chemish
 
-(p.208)
+1. [Mosa](https://archive.org/stream/1827classicaldic00lempuoft#page/504/mode/2up/search/Mosa)  → Mosiah
 
-1. Chemmis  → Chemish
+1. [omnis](https://archive.org/stream/1827classicaldic00lempuoft#page/576/mode/2up/search/omnis)  → Omni (not a placename)
 
-(p.577)
+1. [Pavorane](https://archive.org/stream/1827classicaldic00lempuoft#page/220/mode/2up/search/Pavorane)  → Pahoran
 
-1. Mosa  → Mosiah
+1. [Haliacmon](https://archive.org/stream/1827classicaldic00lempuoft#page/324/mode/2up/search/Haliacmon)  → Helaman
 
-(p.504)
+1. [Zamora](https://archive.org/stream/1827classicaldic00lempuoft#page/882/mode/2up/search/Zamora)  → Zarahemla
 
-1. omnis  → Omni
+1. [Egyptus](https://archive.org/stream/1827classicaldic00lempuoft#page/104/mode/2up/search/Egyptus) → Egyptus (Book of Abraham)
 
-(p.557)
+1. [Curium](https://archive.org/stream/1827classicaldic00lempuoft#page/218/mode/2up/search/Curium)  → Curelom
 
-1. Pavorane  → Pahoran
+1. [Erythraeum](https://archive.org/stream/1827classicaldic00lempuoft#page/120/mode/2up/search/Erythraeum) (Entry top left [here](https://archive.org/stream/1827classicaldic00lempuoft#page/284/mode/2up/) "a name applied by the Greeks to the whole ocean" → Irreantum "many waters"
 
-(p.220)→
+1. [Nepherites](https://archive.org/stream/1827classicaldic00lempuoft#page/520/mode/2up/search/Nepherites)  → Nephites
 
-1. Haliacmon  → Helaman
+1. [Antiparos](https://archive.org/stream/1827classicaldic00lempuoft#page/62/mode/2up/search/Antiparos)  → Antiparah
 
-(p.325)
+1. [Laconia](https://archive.org/stream/1827classicaldic00lempuoft#page/46/mode/2up/search/Laconia)  → Lachoneus
 
-1. Zamora  → Zarahemla
+1. [Ænos](https://archive.org/stream/1827classicaldic00lempuoft#page/18/mode/2up/) (towards top left)  → Enos
 
-(p.883)
+1. [Æther](https://archive.org/stream/1827classicaldic00lempuoft#page/398/mode/2up/search/%C3%86ther)  → Ether
 
-1. Egyptus  Egyptus () PoGP
+1. [Nea](https://archive.org/stream/1827classicaldic00lempuoft#page/516/mode/2up/search/Nea)  → Neas
 
-(p.105)
+1. [Marmarion](https://archive.org/stream/1827classicaldic00lempuoft#page/460/mode/2up/search/Marmarion)  → Morianton
 
-1. Curium  → Curelom
+1. [Gaditanum](https://archive.org/stream/1827classicaldic00lempuoft#page/304/mode/2up) (Lower right corner) → Gadianton
 
-(p.219)
+1. [Coron](https://archive.org/stream/1827classicaldic00lempuoft#page/210/mode/2up/search/Coron)  → Corom
 
-1. Erythraeum  → Irreantum
-
-(p.284) -- Both terms are referring to the Arabian Sea
-
-1. Nepherites  → Nephites
-
-(p.520)
-
-1. Antiparos  → Antiparah
-
-(p.63)
-
-1. Laconia  → Lachoneus
-
-(p.377)
-
-1. Ænos  → Enos
-
-(p.19)
-
-1. Æther  → Ether
-
-(p.282)
-
-1. Nea  → Neas
-
-(p.516)
-
-1. Marmarion  → Morianton
-
-(p.460)
-
-1. Gaditanum  → Gadianton
-
-(p.305)
-
-1. Coron  → Corom
-
-(p.210,378)
-
-1. Morini → Moroni
-
-(p.313,503)
-
-https://archive.org/stream/1827classica ... 3/mode/2up
+1. [Morini](https://archive.org/stream/1827classicaldic00lempuoft#page/312/mode/2up/search/Morini) (entry bottom right [here](https://archive.org/stream/1827classicaldic00lempuoft#page/502/mode/2up)) → Moroni 
 
 The dictionary also contains sections of Egyptian culture and Egyptian theology. Joseph Smith would by this book alone knew that the word Nephi (from Nephirites) was of Egyptian origin ([page 520](https://archive.org/stream/1827classicaldic00lempuoft#page/520/mode/2up)).
 
 h/t: [/u/askchris](https://www.reddit.com/r/exmormon/comments/4qio68/new_charles_anthon_connection_or_mere_coincidence/d4tawpg/) and [/u/nopey23](https://www.reddit.com/r/exmormon/comments/8kdkbw/list_of_names_in_the_book_of_mormon_that_just/)
-
