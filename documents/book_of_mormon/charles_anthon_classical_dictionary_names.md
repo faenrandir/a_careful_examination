@@ -58,7 +58,7 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 
 1. [Curium](https://archive.org/stream/1827classicaldic00lempuoft#page/218/mode/2up/search/Curium)  → Curelom
 
-1. [Erythraeum](https://archive.org/stream/1827classicaldic00lempuoft#page/120/mode/2up/search/Erythraeum) (Entry top left [here](https://archive.org/stream/1827classicaldic00lempuoft#page/284/mode/2up/) "a name applied by the Greeks to the whole ocean" → Irreantum "many waters"
+1. [Erythraeum](https://archive.org/stream/1827classicaldic00lempuoft#page/120/mode/2up/search/Erythraeum) (top left [here](https://archive.org/stream/1827classicaldic00lempuoft#page/284/mode/2up/)) "a name applied by the Greeks to the whole ocean" → Irreantum "many waters"
 
 1. [Nepherites](https://archive.org/stream/1827classicaldic00lempuoft#page/520/mode/2up/search/Nepherites)  → Nephites
 
@@ -66,7 +66,7 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 
 1. [Laconia](https://archive.org/stream/1827classicaldic00lempuoft#page/46/mode/2up/search/Laconia)  → Lachoneus
 
-1. [Ænos](https://archive.org/stream/1827classicaldic00lempuoft#page/18/mode/2up/) (towards top left)  → Enos
+1. [Ænos](https://archive.org/stream/1827classicaldic00lempuoft#page/18/mode/2up/) (top left)  → Enos
 
 1. [Æther](https://archive.org/stream/1827classicaldic00lempuoft#page/398/mode/2up/search/%C3%86ther)  → Ether
 
@@ -74,11 +74,11 @@ The likelihood of matches like these _at random_ between a work as large as Anth
 
 1. [Marmarion](https://archive.org/stream/1827classicaldic00lempuoft#page/460/mode/2up/search/Marmarion)  → Morianton
 
-1. [Gaditanum](https://archive.org/stream/1827classicaldic00lempuoft#page/304/mode/2up) (Lower right corner) → Gadianton
+1. [Gaditanum](https://archive.org/stream/1827classicaldic00lempuoft#page/304/mode/2up) (lower right corner) → Gadianton
 
 1. [Coron](https://archive.org/stream/1827classicaldic00lempuoft#page/210/mode/2up/search/Coron)  → Corom
 
-1. [Morini](https://archive.org/stream/1827classicaldic00lempuoft#page/312/mode/2up/search/Morini) (entry bottom right [here](https://archive.org/stream/1827classicaldic00lempuoft#page/502/mode/2up)) → Moroni 
+1. [Morini](https://archive.org/stream/1827classicaldic00lempuoft#page/312/mode/2up/search/Morini) (bottom right [here](https://archive.org/stream/1827classicaldic00lempuoft#page/502/mode/2up)) → Moroni 
 
 The dictionary also contains sections of Egyptian culture and Egyptian theology. Joseph Smith would by this book alone knew that the word Nephi (from Nephirites) was of Egyptian origin ([page 520](https://archive.org/stream/1827classicaldic00lempuoft#page/520/mode/2up)).
 
