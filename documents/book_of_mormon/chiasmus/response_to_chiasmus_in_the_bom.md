@@ -38,6 +38,10 @@ As discussed in some length in William Davis's dissertation [Performing Revelati
 
 Oral-formulaic theory may make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If these structures were simply employed as part of the process of orally composing the Book of Mormon, then Joseph may not have associated them with either Hebrew parallelism or other rhetorical devices taught in grammar courses of the day.
 
+### Afterword: more sophisticated chiastic patterns?
+
+LatterDayData has pointed out some interesting analyses on broken chiasmus.  The idea is that we may be able to observe a clash between the ancient underlying language and an overlay of modern English.  This is the kind of evidence that might suggest an ancient source for chiasmus over a modern implementation.  A presentation of the idea and some potential cautions and criticisms of it follow in [this thread](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/fffnuzy/).
+
 ### Notes
 
 *Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing.  [Pushback](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/ff9x62n/) on points 1-3 with /u/jn3792 led to the framing of point #4.*
