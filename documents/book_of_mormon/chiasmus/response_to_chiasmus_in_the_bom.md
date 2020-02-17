@@ -34,9 +34,9 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 
 4. **"Oral-formulaic composition exploits patterns of repetition and variation."**
 
-As discussed in some length in William Davis's dissertation [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv), the process by which storytellers compose narratives[^oralformulaictheory] tends to lean on extensive repetition including parallelism and ring structures (e.g., "inverted parallelism", "complex chiasmus", and "envelope patterns").
+    As discussed in some length in William Davis's dissertation [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv), the process by which storytellers compose narratives[^oralformulaictheory] tends to lean on extensive repetition including parallelism and ring structures (e.g., "inverted parallelism", "complex chiasmus", and "envelope patterns").
 
-Oral-formulaic theory may make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If these structures were simply employed as part of the process of orally composing the Book of Mormon, then Joseph may not have associated them with either Hebrew parallelism or other rhetorical devices taught in grammar courses of the day.
+    Oral-formulaic theory may make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If these structures were simply employed as part of the process of orally composing the Book of Mormon, then Joseph may not have associated them with either Hebrew parallelism or other rhetorical devices taught in grammar courses of the day.
 
 ### Afterword: more sophisticated chiastic patterns?
 
