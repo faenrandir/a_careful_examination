@@ -161,7 +161,7 @@ Other references from the JSPP, Joseph Smith's Journal.
 
 ---
 
-[Additional testimonials from /u/PhallicMin (You may recognize him from facsimile 2)](https://www.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/ctkfs8a?context=3)
+[Additional testimonials from /u/PhallicMin](https://www.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/ctkfs8a?context=3)
 
 
 [^chandler]: Joseph Smith Paper editors comment on Chandler's certificate:
