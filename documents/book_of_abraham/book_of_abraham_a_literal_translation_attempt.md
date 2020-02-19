@@ -19,6 +19,10 @@ Copied with my editorial changes from [a post by curious_mormon](https://old.red
 
 Emphasis added.  Date links to the transcript of the History of the Church from the Joseph Smith Papers Project unless otherwise indicated.
 
+## Caution
+
+[Note by me, bwv549] The History of the Church was retrofitted in many instances, and this may be relevant to the reliability of these quotes (i.e., Joseph Smith may not have said some of these at all).  See, for instance, [Falsely Attributed to Joseph Smith](https://latterdaydata.blogspot.com/2019/12/falsely-attributed-to-joseph-smith-for.html).
+
 #### "Chandler ... brought me some of the characters, and I gave him the interpretation"
 
 [3 July 1835 • Friday](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/50#full-transcript)
