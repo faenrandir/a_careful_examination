@@ -17,7 +17,7 @@ In addition, a trio of primary documents, all signed or in Joseph Smith's hand s
 
 1. [Blessing to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/blessing-to-sarah-ann-whitney-23-march-1843/1) [in Joseph Smith's hand] Sarah turned 18 the day before.
 2. [Deed to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/deed-to-sarah-ann-whitney-6-september-1842/1) [signed by Joseph Smith] Sarah was 17 years old at the time of this deed.
-3. [Letter to the Whitneys](http://www.josephsmithpapers.org/paper-summary/letter-to-the-whitneys-18-august-1842/1) [in Joseph Smith's hand] Sarah was 17 years old at the time.
+3. [Letter to the Whitneys](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1) [in Joseph Smith's hand] Sarah was 17 years old at the time.
 
 See also Year of Polygamy: Joseph Didn't Fight Polygamy, [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/) and [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
 
