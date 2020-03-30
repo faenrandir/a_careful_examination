@@ -29,6 +29,7 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 1. [Anachronistic Christian Doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
 1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
 1. [Moroni quotes sections of Mark that are of dubious origin]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) (bwv549)
+1. [The Book of Ether and A Key to the Chronology of the Hindus](https://atoponce.keybase.pub/Book%20of%20Mormon%20Sources%20Project_%20Jaredites.pdf) (Keri Toponce)
 1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Professor Nick Frederick)
 
 ### Extensive compilations or analyses
