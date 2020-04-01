@@ -21,7 +21,7 @@ layout: page
 * [A Letter to an Apostle](https://lettertoanapostle.org/) (35 essays on the truth-claims)
 * [Mormon Think](http://www.mormonthink.com/) vast resource on LDS truth-claims.[^mormonthink]
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
-* [Mormon Primer](http://mormonprimer.com/) (multiple perspectives: mainstream, critical, apologetic, and progressive) ([backup link](https://archive.org/details/MormonPrimer))
+* [Mormon Primer](https://archive.org/details/MormonPrimer) (multiple perspectives: mainstream, critical, apologetic, and progressive)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
 * [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
