@@ -1,0 +1,1179 @@
+{
+    "NextMarker": "lslTXFcbLQKkb0vP9Kgh5oTyAt/YqDqB5zlUQQjVz1Ck3eiDRMkct7D8EmptWfHSXssPdS7Bo66iQPTMpVOHZkGsDz1LI7e+TWIc3wm1hIXq+bSDv8i0s325nUZMWR6hAA17CmAaAUYavilWN3pWAqVzizwoxFwvyruMbuMx9kADFACSslcabxXl3/jDI4rfFnIsUVdzTLBgPF1hzwrE1f3lcdkBvUp+QgY+Pn3w5Qvo3bzKGVTASYpusBX+bSTmi2FEiwUX9DB5P+lth6nKHu3ET+i/lr4bjZp0aFA93Kd02PnfNOdXwqTlhkSPW0TKiKGIYu3Bw7lSNrLd+q3+wBGNLTnq7RWa21Xjxe5me9RyTeQlwMF2l6RbnP+xZC0KtBYRgfFa6BPw2DKsvZlu1bKgM0hnbAdQwLmHWRsdcGcrh7OjJMy7bcV+dw0TAkgzMHloQ5dXhvm751bUYR7A81Xn2EVVRaJIlRQB1U7wmpNXFuLE5auTGL5w3HLxdu9sA/IenNMonyIf7iNYeLdyVZQMzMc5vGlkrP7x7GF9emA=",
+    "Functions": [
+        {
+            "FunctionName": "lambdardsproxypython",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:lambdardsproxypython",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.handler",
+            "CodeSize": 715642,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-28T16:59:46.428+0000",
+            "CodeSha256": "VF035RTs88HbriTSuwVUbnsHZPoK+97/UYL/pEaRYmE=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "RDS_HOSTNAME": "billing-development-instance-1.ce5azgz0ugtu.us-east-2.rds.amazonaws.com",
+                    "RDS_PASSWORD": "adminadmin",
+                    "RDS_PORT": "3306",
+                    "my_db": "billing",
+                    "RDS_USERNAME": "admin"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "962e0144-ea42-4e16-803d-ecca591ad1b3",
+            "Layers": [
+                {
+                    "Arn": "arn:aws:lambda:us-east-2:808702044842:layer:CustomFunction:3",
+                    "CodeSize": 1784
+                }
+            ]
+        },
+        {
+            "FunctionName": "hmm",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:hmm",
+            "Runtime": "nodejs8.10",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "index.handler",
+            "CodeSize": 262,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2019-04-18T00:06:18.389+0000",
+            "CodeSha256": "JO+HYGjznn52cUUqORHW14rumvLIWJIyPnuNnLNynYo=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "8bd87d82-e754-4342-81a3-3ae068e46fc1"
+        },
+        {
+            "FunctionName": "TestGolang",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:TestGolang",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/service-role/TestGolang-role-js9nar1o",
+            "Handler": "main",
+            "CodeSize": 4926442,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-11-07T22:49:50.542+0000",
+            "CodeSha256": "kqtaxImU6zEeQjHP1ETaGOaMkhvVUWoxOkxyaMdQ7rA=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "3a275642-dbac-46f1-aaf7-a6e8b96b5367"
+        },
+        {
+            "FunctionName": "charges-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:charges-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 694093,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 1024,
+            "LastModified": "2020-03-09T22:23:11.496+0000",
+            "CodeSha256": "95y2TVWF6vPtwtgCZz1ICYjtPV+e7lPuDcDv01C5OOQ=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "test": "test"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "5185847c-002b-4e23-a29a-2be61cbfe1f0"
+        },
+        {
+            "FunctionName": "get_billing_charge_invoice_grid",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:get_billing_charge_invoice_grid",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 1110,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-08T20:11:42.235+0000",
+            "CodeSha256": "bZNFCrUiibcLoOTdlvf9foZ+eMxB9a/XK/DLmQ/om5E=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "ea1f2b72-189a-44ca-940d-9718d3c048a5"
+        },
+        {
+            "FunctionName": "settings_ui_get_allstocks",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:settings_ui_get_allstocks",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 6906196,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-11-22T21:04:26.189+0000",
+            "CodeSha256": "7gdpEz+6B8lz7lu7PV8rPg1Es1KoRvqvMKKbYc6C/fE=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "f81a8344-db44-4168-b19f-d46e46f9ab83"
+        },
+        {
+            "FunctionName": "MockBiApi3",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:MockBiApi3",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 4928868,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-07-16T23:07:00.191+0000",
+            "CodeSha256": "YASzdCtkeaG3zhAlGfJhr1nRsb6ID3YC0yC6FogFslo=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "c7707543-584a-4204-b314-b63ffc5b85cd"
+        },
+        {
+            "FunctionName": "KinesisAndFirehosesBI-BIMainStreamDeliveryAthenaTr-1DGVIAKU8Q7C",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:KinesisAndFirehosesBI-BIMainStreamDeliveryAthenaTr-1DGVIAKU8Q7C",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/KinesisAndFirehosesBI-BIMainStreamDeliveryAthenaTr-W0PCEE84S0NM",
+            "Handler": "index.lambda_handler",
+            "CodeSize": 1570,
+            "Description": "",
+            "Timeout": 60,
+            "MemorySize": 128,
+            "LastModified": "2020-03-19T10:01:24.813+0000",
+            "CodeSha256": "z5t7/qHWU/lKJt/EddE+XrNpEwPrGTbpOf6ahuxShUo=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "82e4d2d5-5534-497c-b738-e301004c54e2"
+        },
+        {
+            "FunctionName": "get-billing-charges-invoice-summary-lines",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:get-billing-charges-invoice-summary-lines",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 702,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-08T20:12:10.820+0000",
+            "CodeSha256": "fP9CocrSRxH1kiKnWzstnNXBsNnJSFU+D9hg1hTdMmA=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "35149c2f-8d1b-40f5-a9b0-7d3925b6525b"
+        },
+        {
+            "FunctionName": "billing-charges-invoice-view-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-charges-invoice-view-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 763,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-08T20:13:27.684+0000",
+            "CodeSha256": "bVmCZmX1j5PZoENA1T6Flt1/6w68JRHA4AGomFNISsM=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "cd11f439-3e7b-47ad-8a0d-bba5676b30be"
+        },
+        {
+            "FunctionName": "s3-to-postgres-dev-handler",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:s3-to-postgres-dev-handler",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/service-role/Lambda-s3-to-postgres",
+            "Handler": "app.handler",
+            "CodeSize": 457,
+            "Description": "",
+            "Timeout": 6,
+            "MemorySize": 128,
+            "LastModified": "2019-10-25T18:00:22.865+0000",
+            "CodeSha256": "FneHAeJqdXiQtR1t95XfylpOk+xsSbx7jVC1etzW24s=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "PYTHONPATH": ".",
+                    "DB_INFRASTRUCTURE": "jetstream",
+                    "DB_PASS": "postgres",
+                    "DB_PORT": "5432",
+                    "EVENT_LAKE_BUCKET": "event-data-lake",
+                    "DB_USER": "postgres",
+                    "ENV_STAGE": "dev",
+                    "DB_NAME": "jetstream_db",
+                    "DB_HOST": "testrds.cluster-ce5azgz0ugtu.us-east-2.rds.amazonaws.com"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "b7d678db-28ac-4ff3-9ab7-5c1eb6d7e825"
+        },
+        {
+            "FunctionName": "queryDatabase",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:queryDatabase",
+            "Runtime": "nodejs8.10",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "index.handler",
+            "CodeSize": 8165465,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2019-05-03T19:56:09.384+0000",
+            "CodeSha256": "MXuUxOsY/8gJhRk4vXrD9r4kVI9m9B0nL9dj063YOBE=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [
+                    "subnet-276d554f",
+                    "subnet-7e780e04",
+                    "subnet-0026f84c"
+                ],
+                "SecurityGroupIds": [
+                    "sg-d34fd9bd"
+                ],
+                "VpcId": "vpc-44a9b82c"
+            },
+            "Environment": {
+                "Variables": {
+                    "RDS_HOSTNAME": "wms-aurora-standard.ce5azgz0ugtu.us-east-2.rds.amazonaws.com",
+                    "RDS_PASSWORD": "dFNxc9EyuWDrRwcccB6qVPCFVQ8TLu",
+                    "RDS_PORT": "3306",
+                    "RDS_USERNAME": "admin"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "e3795efb-45d1-4331-a9da-3e541dd37e39"
+        },
+        {
+            "FunctionName": "put_billing_charges_invoice_edit",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:put_billing_charges_invoice_edit",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 374,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-21T18:55:58.256+0000",
+            "CodeSha256": "yiNEtP1/ZMKjEUKmy6XFQFJ1U6zsEFwef2szqJJg25M=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4144fc3d-24cc-4460-ae55-ed0229b47774"
+        },
+        {
+            "FunctionName": "facilities-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:facilities-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 5165,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-09T18:59:51.334+0000",
+            "CodeSha256": "BuX3DJc1ZHTtuYPOZQWWH3YucEtlr+Lu1TjRGo7pR8w=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "7437c9b7-61c0-4ae8-abfd-76637a00334c"
+        },
+        {
+            "FunctionName": "cloud9-hmmm-ya-12CJZDE1OYFKS",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:cloud9-hmmm-ya-12CJZDE1OYFKS",
+            "Runtime": "python3.6",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "ya/lambda_function.lambda_handler",
+            "CodeSize": 58653,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 128,
+            "LastModified": "2020-02-19T17:40:10.367+0000",
+            "CodeSha256": "+gUpN3cL1fqKwgl2HfpdD+S+kIFer82VP/4UfmKkItQ=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "ab70c364-3c7c-47ba-8c35-3f29adb2d28e"
+        },
+        {
+            "FunctionName": "testlambda",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:testlambda",
+            "Runtime": "nodejs12.x",
+            "Role": "arn:aws:iam::808702044842:role/service-role/testlambda-role-7xksgb80",
+            "Handler": "index.handler",
+            "CodeSize": 1471,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-19T00:39:52.600+0000",
+            "CodeSha256": "A+uN1NU5tJpESQX593Pe4mIf4jkZR7RA3ANt44Y+ZyE=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "49c3ea38-3b44-43bf-a2ca-f896f1125d7f"
+        },
+        {
+            "FunctionName": "GetKinesisData",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:GetKinesisData",
+            "Runtime": "python2.7",
+            "Role": "arn:aws:iam::808702044842:role/service-role/GetKinesisData-role-7l4j0o31",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 595,
+            "Description": "",
+            "Timeout": 10,
+            "MemorySize": 128,
+            "LastModified": "2019-11-12T15:24:36.902+0000",
+            "CodeSha256": "VFOWoH8tKnFO97SOiomRAsi+E1waR5VMb9LSvy+BWHA=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "040ad590-7d30-411d-9315-ba6a02b69839"
+        },
+        {
+            "FunctionName": "billing-user-activator-put",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-user-activator-put",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 2385,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-10T23:54:03.752+0000",
+            "CodeSha256": "SvB7uVg9x7jQvQUNNV3/docfnI6GFgvttMU7B3ljPrc=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "675447f2-170d-43b8-8062-86460d5b9bb6"
+        },
+        {
+            "FunctionName": "cloud9-ingit-default-1NR5KJRYLG3TK",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:cloud9-ingit-default-1NR5KJRYLG3TK",
+            "Runtime": "python3.6",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "default/lambda_function.lambda_handler",
+            "CodeSize": 58660,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 128,
+            "LastModified": "2020-02-19T17:46:37.079+0000",
+            "CodeSha256": "OiIwy7zCZDLP2WJL+GGSSabzrI1Mw4TbBqQWImGHWuw=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "edd627c3-6255-49a3-8a9b-f287aec32753"
+        },
+        {
+            "FunctionName": "billing-user-post",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-user-post",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 2379,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-10T23:36:25.879+0000",
+            "CodeSha256": "rD/1wXNa8tyJyg5SBQi4eG/ujRGCOEZ/NxvXRuoN+Uw=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "22d4c842-e6da-4f22-8f1b-58efd1c7bd10"
+        },
+        {
+            "FunctionName": "BIMainStreamDelivery-athena-transform",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:BIMainStreamDelivery-athena-transform",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/service-role/BIMainStreamDelivery-athena-transform-role-p4lnvw3o",
+            "Handler": "main.lambda_handler",
+            "CodeSize": 1552,
+            "Description": "An Amazon Kinesis Firehose stream processor that accesses the records in the input and returns them with a processing status.",
+            "Timeout": 60,
+            "MemorySize": 128,
+            "LastModified": "2020-02-07T20:03:47.751+0000",
+            "CodeSha256": "T8Y9UD7ch3ri/1dZuJ9u2LQMyjenKijYc2JWmpGNSRc=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "3827e85d-91af-4530-b63f-73b43ba9f57e"
+        },
+        {
+            "FunctionName": "events-endpoint-dev-receive_wms_event",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:events-endpoint-dev-receive_wms_event",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/service-role/Lambda-s3-to-postgres",
+            "Handler": "main.receive_wms_event",
+            "CodeSize": 6093,
+            "Description": "",
+            "Timeout": 6,
+            "MemorySize": 128,
+            "LastModified": "2019-10-25T17:26:28.230+0000",
+            "CodeSha256": "qAnujrDIkYhzNrZKUjMTUjtxrLqYk0GSJZa94Nr0QYM=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "EVENT_LAKE_BUCKET": "trodon-bucket",
+                    "STAGE": "dev"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "010b71c1-e220-4a5a-921d-f636e670ca52"
+        },
+        {
+            "FunctionName": "billing-charges-invoice-transaction-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-charges-invoice-transaction-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 533,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-08T20:13:48.175+0000",
+            "CodeSha256": "IJzmn+6QPNBOTDZPArud3Lxrkt7dN85EqydmmEcwRns=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "d242e474-9fce-4a26-9f07-0dc9cc5f57ee"
+        },
+        {
+            "FunctionName": "testpython",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:testpython",
+            "Runtime": "python3.6",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 292,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-19T18:44:54.089+0000",
+            "CodeSha256": "uh0Qxp3N21/XGTU90iQzvfB+jJaZRql5bk+jNfrisSI=",
+            "Version": "$LATEST",
+            "Environment": {
+                "Variables": {
+                    "test": "ok"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4b2b459e-81f4-4881-ad03-af4faaf20a34"
+        },
+        {
+            "FunctionName": "stackery-cloudformation-notifications-handler",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:stackery-cloudformation-notifications-handler",
+            "Runtime": "nodejs10.x",
+            "Role": "arn:aws:iam::808702044842:role/stackery/stackery-cloudformation-notifications-handler",
+            "Handler": "index.handler",
+            "CodeSize": 1075,
+            "Description": "Stackery CloudFormation Notifications Handler",
+            "Timeout": 10,
+            "MemorySize": 128,
+            "LastModified": "2019-12-20T17:51:43.269+0000",
+            "CodeSha256": "pa/EulzUbbfPQOjxxk6mbbvm6y8u7tBYEo366IaLpPw=",
+            "Version": "$LATEST",
+            "Environment": {
+                "Variables": {
+                    "STACKERY_DEPLOYMENT_NOTIFICATIONS_HANDLER": "905809316366:deployment-notifications-handler",
+                    "STACKERY_REGION": "us-west-2",
+                    "STACKERY_EXTERNAL_ID": "2455272237334814854715999410222481903562178709232385609352714841881903707937844"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "518bbd60-4951-4d84-ad39-b85884bb7b65"
+        },
+        {
+            "FunctionName": "pipelineplayground-playground-hello",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:pipelineplayground-playground-hello",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/pipelineplayground-playground-us-east-2-lambdaRole",
+            "Handler": "handler.hello",
+            "CodeSize": 4093,
+            "Description": "",
+            "Timeout": 6,
+            "MemorySize": 1024,
+            "LastModified": "2019-05-08T10:37:41.575+0000",
+            "CodeSha256": "HSvXeQx/em3H+C3QSrsUcgAKaFyy74wqxYn7dZ+6lgo=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "ca952d54-3965-4c62-ab95-b3fb26717d89"
+        },
+        {
+            "FunctionName": "wmsmt_panelservices_get_getcustomerfacilitylist",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:wmsmt_panelservices_get_getcustomerfacilitylist",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 4929102,
+            "Description": "",
+            "Timeout": 20,
+            "MemorySize": 512,
+            "LastModified": "2020-03-03T13:21:22.709+0000",
+            "CodeSha256": "2j3PFQIlY4kXSIxNS+47TIp36vqbAHOgl6Wqs41HanI=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "Debug": "y"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "0237767b-e7c5-40a5-b99c-21a48dd798ac"
+        },
+        {
+            "FunctionName": "StockPageLoad",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:StockPageLoad",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 4931539,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-11-13T16:54:09.609+0000",
+            "CodeSha256": "ydJJb+QqAyYo3O1R47/Ss1lvanyp6np5ArD02k9ZibM=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "123098df-f478-42d8-9ed5-61d830c48a21"
+        },
+        {
+            "FunctionName": "stock_report_summary_get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:stock_report_summary_get",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 5946503,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2020-03-03T00:34:26.221+0000",
+            "CodeSha256": "+aA+2zNyYZTLaIRSzDobH8cz1f5HpRP6AtLO8sqKSSU=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4c06253b-b572-4d41-a003-a343639a0ed2"
+        },
+        {
+            "FunctionName": "billing-charges-invoice-summary-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-charges-invoice-summary-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 832,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-11T23:25:56.282+0000",
+            "CodeSha256": "CoAzYZPFR2QAQOmsDi0r9fdEVXeGyax6M5x2OpEpk64=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "54989033-5cce-4820-9685-6c319c1bdb95"
+        },
+        {
+            "FunctionName": "KinesisAndFirehoseBI-2-Kinesis2SQSLambda-6B4VYRPQCTCQ",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:KinesisAndFirehoseBI-2-Kinesis2SQSLambda-6B4VYRPQCTCQ",
+            "Runtime": "python2.7",
+            "Role": "arn:aws:iam::808702044842:role/KinesisAndFirehoseBI-2-Kinesis2SQSLambdaRole-17LY7K71PNX9E",
+            "Handler": "index.lambda_handler",
+            "CodeSize": 904,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2020-02-11T00:41:45.771+0000",
+            "CodeSha256": "xFIDBmPiqvOXgcE0KHT8RWLlkvubHzeH7Cj+YvZm+ho=",
+            "Version": "$LATEST",
+            "Environment": {
+                "Variables": {
+                    "KAFKA_REST_URL": "https://kafka-rest-ecs-fargate.3plcentraldata.com:8082/topics/Order",
+                    "KAFKA_REST_PASSWORD": "ua7chei6oePhoolo",
+                    "KAFKA_REST_USERNAME": "admin",
+                    "SQS_URL": "https://sqs.us-east-2.amazonaws.com/808702044842/kinesis2sqs"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "d8f241b3-b70f-4735-9dd6-a54b7a2c9b9b"
+        },
+        {
+            "FunctionName": "cloud9-bill-alright-T9K1NC1QUR4K",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:cloud9-bill-alright-T9K1NC1QUR4K",
+            "Runtime": "python3.6",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "alright/lambda_function.lambda_handler",
+            "CodeSize": 58951,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 128,
+            "LastModified": "2020-02-19T17:19:48.964+0000",
+            "CodeSha256": "6r157cFHJN2k3c89/YQOdxLDD47tfAGOAMGGuJeUh7E=",
+            "Version": "$LATEST",
+            "Environment": {
+                "Variables": {
+                    "test": "brantyes"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "f1f31b46-b725-4262-862e-ef47772d20d5"
+        },
+        {
+            "FunctionName": "wms-events-dev-handler",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:wms-events-dev-handler",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/wms-events-dev-us-east-2-lambdaRole",
+            "Handler": "jetstream_app.handler",
+            "CodeSize": 83261,
+            "Description": "",
+            "Timeout": 6,
+            "MemorySize": 128,
+            "LastModified": "2019-10-23T21:12:53.767+0000",
+            "CodeSha256": "rV/YzzfibDFreWUHRieKekk85CHFeb04t/wZ/jL7i+Q=",
+            "Version": "$LATEST",
+            "Environment": {
+                "Variables": {
+                    "PYTHONPATH": ".",
+                    "DB_INFRASTRUCTURE": "jetstream",
+                    "DB_PASS": "postgres",
+                    "DB_PORT": "5432",
+                    "EVENT_LAKE_BUCKET": "event-data-lake",
+                    "DB_USER": "postgres",
+                    "ENV_STAGE": "dev",
+                    "DB_NAME": "jetstream_db",
+                    "DB_HOST": "testrds.cluster-ce5azgz0ugtu.us-east-2.rds.amazonaws.com"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "7f716ea9-3e81-429b-bd18-5a63fbb311ec"
+        },
+        {
+            "FunctionName": "StockOwnReports",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:StockOwnReports",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 6838479,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-11-18T19:55:55.205+0000",
+            "CodeSha256": "K5soLuXgD7lh1ww4lGODkgf4AYfWtZ69rvh9RJwLhls=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "Debug": "y"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "b71d712e-2fc9-46fd-a611-b77f62425a77"
+        },
+        {
+            "FunctionName": "sg-firehose-lambda",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:sg-firehose-lambda",
+            "Runtime": "python2.7",
+            "Role": "arn:aws:iam::808702044842:role/service-role/Firehose-Role",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 435,
+            "Description": "An Amazon Kinesis Firehose stream processor that accesses the records in the input and returns them with a processing status.  Use this processor for any custom transformation logic.",
+            "Timeout": 60,
+            "MemorySize": 128,
+            "LastModified": "2019-11-08T13:04:22.093+0000",
+            "CodeSha256": "zeGZ8Zji3fUwNqpR25If4puqQE0b1klPFecn9OMhp/4=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "6e4c55c9-0bd0-4f58-bf8b-36c05758c73a"
+        },
+        {
+            "FunctionName": "StockStatus-Detailed-Get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:StockStatus-Detailed-Get",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 118301,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-26T23:10:00.442+0000",
+            "CodeSha256": "Qolgs/0FJrSHuqoeDMh/KAVJ2oEY4KlOobdGL73p9Zg=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "1b4dfdab-677c-4c87-8fb2-6a2899767b4c"
+        },
+        {
+            "FunctionName": "charges-updater-post",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:charges-updater-post",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 4335,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-09T16:40:28.703+0000",
+            "CodeSha256": "Mh6JgpgWk2nsCd4uGMCkBD5+Y8PACL8QfTo3XzS6N5o=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "c89f0591-4053-4291-a00d-46d47351bc13"
+        },
+        {
+            "FunctionName": "users-id-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:users-id-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 2374,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-22T00:15:25.320+0000",
+            "CodeSha256": "cC9nTGCFpmwV9xFXdY2uzCfckRiRYaBqZ21GFaMfUak=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "a9c4be75-2ae1-4b15-bfa8-549f480fe40d"
+        },
+        {
+            "FunctionName": "Firehose-Processing",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:Firehose-Processing",
+            "Runtime": "nodejs8.10",
+            "Role": "arn:aws:iam::808702044842:role/service-role/Firehose-Role",
+            "Handler": "index.handler",
+            "CodeSize": 546,
+            "Description": "An Amazon Kinesis Firehose stream processor that accesses the records in the input and returns them with a processing status.",
+            "Timeout": 75,
+            "MemorySize": 128,
+            "LastModified": "2019-11-06T23:52:26.047+0000",
+            "CodeSha256": "D+b8DU5+g9cNtjpMz7CA9rL60a6O4/bJMulXDLw9cUA=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "d7d839dc-3029-4004-b9d4-1d486454a435"
+        },
+        {
+            "FunctionName": "putCharge",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:putCharge",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 6970084,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2020-02-03T19:16:01.492+0000",
+            "CodeSha256": "K3J15XluTAwgWB4MDimkTK1DJEX7GzIc6G/icllZwGA=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "e70b2f7d-e3dd-40b7-9e1b-b1fe2a794655"
+        },
+        {
+            "FunctionName": "pythontest",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:pythontest",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 284,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-21T18:11:46.903+0000",
+            "CodeSha256": "eMr0Xp5L+v3WHr+PzzSjyIbfQ8fhycWtHlQpNFGHa9A=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "02967017-88d8-47ac-ac4e-4bf9f5db5999"
+        },
+        {
+            "FunctionName": "billing-charges-invoice-details",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:billing-charges-invoice-details",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 350,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-08T20:14:19.178+0000",
+            "CodeSha256": "04RoevJQcSFoL2mJK/0TX7mXXwy4xsN+0un9rVA/SEE=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "1563b304-ccb0-48d6-96a7-b516cf545016"
+        },
+        {
+            "FunctionName": "login_GET",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:login_GET",
+            "Runtime": "nodejs8.10",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "index.handler",
+            "CodeSize": 6825128,
+            "Description": "",
+            "Timeout": 210,
+            "MemorySize": 128,
+            "LastModified": "2019-08-28T20:00:19.938+0000",
+            "CodeSha256": "SUVdWcXbOHiKEeVytjbgo6KC6Nrei7R2U8EXJo5rCm8=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [
+                    "subnet-276d554f",
+                    "subnet-7e780e04",
+                    "subnet-0026f84c"
+                ],
+                "SecurityGroupIds": [
+                    "sg-d34fd9bd"
+                ],
+                "VpcId": "vpc-44a9b82c"
+            },
+            "Environment": {
+                "Variables": {
+                    "RDS_HOSTNAME": "newreaderforaurora.ce5azgz0ugtu.us-east-2.rds.amazonaws.com",
+                    "RDS_PASSWORD": "dFNxc9EyuWDrRwcccB6qVPCFVQ8TLu",
+                    "RDS_PORT": "3306",
+                    "RDS_USERNAME": "admin"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "354894ce-4a67-4f9e-99dd-49622dbcab06"
+        },
+        {
+            "FunctionName": "settings_ui_put_stock",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:settings_ui_put_stock",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 6802390,
+            "Description": "",
+            "Timeout": 15,
+            "MemorySize": 512,
+            "LastModified": "2019-11-25T17:01:43.694+0000",
+            "CodeSha256": "Esz7a+RCv3FxKKWEDmnp/TJ2RrZJIA4yiiJ45gDcSv0=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "eb16938d-2742-4a60-b1bb-e7b54e4ead8d"
+        },
+        {
+            "FunctionName": "StockDefaultSummary",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:StockDefaultSummary",
+            "Runtime": "go1.x",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "main",
+            "CodeSize": 6126493,
+            "Description": "",
+            "Timeout": 45,
+            "MemorySize": 1536,
+            "LastModified": "2020-03-20T01:09:22.822+0000",
+            "CodeSha256": "Ym/VHW6JKVdbF+fZyebQCQLX98SJb1bKNDunuQZCMCc=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "b1ff51a4-2658-4741-9901-32974a6cf9ff"
+        },
+        {
+            "FunctionName": "rates-categories-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:rates-categories-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 4399,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-10T15:11:34.272+0000",
+            "CodeSha256": "n0vizJzXu3+9c0pXgzuSqDYEst2prpa6teOf3PJNBJA=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "273b1b58-dc8e-477b-acbd-bbb5cbfaaa87"
+        },
+        {
+            "FunctionName": "post-people-auth",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:post-people-auth",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "lambda_function.lambda_handler",
+            "CodeSize": 464,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-02-11T00:37:44.825+0000",
+            "CodeSha256": "u44m5m4fU/0u41pldai+O2nuS0VVOV7nmbyC1Mveqc0=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "10ec716a-4eeb-4410-8efd-9fedf342e068"
+        },
+        {
+            "FunctionName": "customers-get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:customers-get",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 4833,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-10T19:23:14.527+0000",
+            "CodeSha256": "8/KqVGkiSuyIFR0pR/Jn5p4Q4LmXqbZewDeMoXTf46s=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "d5a637ba-9c00-4ffb-a740-d6bfec2ed26e"
+        },
+        {
+            "FunctionName": "StockStatus-Summary-Get",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:StockStatus-Summary-Get",
+            "Runtime": "python3.7",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "handler.lambda_handler",
+            "CodeSize": 117867,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2020-03-30T17:32:15.943+0000",
+            "CodeSha256": "gs8jGM+jb9+3Xi3sW6h/Hi3WqOp8QBqWFEXxTaApReU=",
+            "Version": "$LATEST",
+            "VpcConfig": {
+                "SubnetIds": [],
+                "SecurityGroupIds": [],
+                "VpcId": ""
+            },
+            "Environment": {
+                "Variables": {
+                    "CLIENT_SECRET": "inputme",
+                    "AUTH_SERVER_PREFIX": "https://qa.secure-wms.com",
+                    "CLIENT_ID": "inputme",
+                    "COOKIE_AUTH_URI": "https://qa.secure-wms.com/WebUI/PanelServices/LoggedInUserInfo",
+                    "STOCK_STATUS_URI": "loadbalancer"
+                }
+            },
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4e7dcfef-86a0-4b07-957b-d068a0331d67"
+        },
+        {
+            "FunctionName": "getTest",
+            "FunctionArn": "arn:aws:lambda:us-east-2:808702044842:function:getTest",
+            "Runtime": "nodejs8.10",
+            "Role": "arn:aws:iam::808702044842:role/LambdaAdmin",
+            "Handler": "index.handler",
+            "CodeSize": 381,
+            "Description": "",
+            "Timeout": 3,
+            "MemorySize": 128,
+            "LastModified": "2019-04-26T22:06:26.199+0000",
+            "CodeSha256": "T/3Pl56Pw4R6wTmSErN8kRdJjQCwxq9GUdXUFnHMoCM=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "c0020b7b-6285-4953-b9c8-b7b8afd8850f"
+        }
+    ]
+}
