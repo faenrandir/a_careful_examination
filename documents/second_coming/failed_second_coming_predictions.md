@@ -5,7 +5,9 @@ doctype: compilation
 layout: page
 ---
 
-*Note: several of these references to failed second coming predictions were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  I've gone back to find links to original documents and Church hosted content wherever possible.  Others were brought to my attention by reddit user japanesepiano*
+### Introduction
+
+Some predictions (or implied predictions) of Christ's return seem genuinely open to alternative interpretation, while others less so. Regardless, they seem to collectively point to a shared understanding that Jesus's return in their lifetime was imminent.
 
 Emboldened text is my emphasis.
 
@@ -43,22 +45,43 @@ Emboldened text is my emphasis.
 
 [Doctrine and Covenants 84:1-5,31,32](https://www.lds.org/scriptures/dc-testament/dc/84.1-5,31,32?lang=eng#1)
 
+*Some argue ([for example](https://mormonpuzzlepieces.blogspot.com/2014/07/one-of-arguments-sometimes-made-against.html)) that "shall" was a command rather than a prediction and that the command was [subsequently revoked](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124.51?lang=eng#p51?lang=eng).*
+
 ### 1833-01-23 Joseph Smith, Sr. (continue in office until Christ comes)
 
 > Among the number, my father presented himself, but before I washed his feet, I asked of him a father's blessing, which he granted by laying his hands upon my head, in the name of Jesus Christ, and declaring that **I should continue in the Priest's office until Christ comes**.
 
 [History of the Church 1:23 pg 323](https://byustudies.byu.edu/content/volume-1-chapter-23)
 
+*[FairMormon argues](https://www.fairmormon.org/answers/Question:_Is_Joseph_Smith_Sr.%27s_promise_in_a_father%27s_blessing_to_Joseph_Smith_Jr._that_he_would_continue_in_the_Priest%27s_office_until_Christ_comes_a_false_prophecy%3F) that Joseph would hold the office of Priest when Christ comes and since the blessing was published after his death this is how early Saints viewed it.*
+
+### 1834-12-09 Joseph Smith, Sr. (see thy Redeemer Come)
+
+Many patriarchal blessings were given to [couples as a pair](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#historical-intro).
+
+#### To Joseph Smith, Jr.
+
+> ...Therefore, my son, I know for a surety that these things will be fulfilled, and I confirm upon thee all these blessings. [unclear if that phrase is meant to refer to preceding promises, following promises, or both] ... Thou shalt stand upon the earth when it shall reel to and fro as a drunken man, and be removed out of its place: thou shalt stand when the mighty judgments go forth to the destruction of the wicked: thou shalt stand on mount Zion when the tribes of Jacob come shouting from the north, and with thy brethren, the sons of Ephraim, crown them in the name of Jesus Christ: Thou shalt see thy Redeemer Come in the clouds of heaven, and with the just receive the hallowed throng with shouts of hallalujahs, praise the Lord.
+
+#### To Emma Smith
+
+> ... Thou shall see many days; yea, the Lord will spare thee till thou art satisfied, for thou shalt see thy Redeemer. ...
+
+[Blessing from Joseph Smith Sr., 9 Decemnber 1834](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#full-transcript)
+
+
 ### 1835-02-14 Joseph Smith (even fifty-six years should wind up the scene)
 
 > President Smith then stated that the meeting had been called, because God had commanded it; and it was made known to him by vision and by the Holy Spirit. He then gave a relation of some of the circumstances attending us while journeying to Zion-our trials, sufferings; and said God had not designed all this for nothing, but He had it in remembrance yet; and it was the will of God that those who went to zion, with a determination to lay down their lives, if necessary, should be ordained to the ministry, and go forth to prune the vineyard for the last time, or the coming of the Lord, which was nigh---**even fifty-six years should wind up the scene**.
 
-[History of the Church 2:13, pg. 182](https://byustudies.byu.edu/content/volume-2-chapter-13)
+* [Discourse, 14 February 1835](https://www.josephsmithpapers.org/paper-summary/discourse-14-february-1835/1) 
+* [Minutes, Discourse, and Blessings, 14–15 February 1835](https://www.josephsmithpapers.org/paper-summary/minutes-discourse-and-blessings-14-15-february-1835/1) 
+* [Minute Book 1](https://www.josephsmithpapers.org/paper-summary/minute-book-1/151)
+* [History of the Church 2:13, pg. 182](https://byustudies.byu.edu/content/volume-2-chapter-13)
 
 ### 1835-02-15 Oliver Cowdery (shall stand on the earth ... till Christ comes)
 
-Several second coming promises were made to individuals receiving blessings
-that day.  This is the most explicit:
+Several second coming promises were made to individuals receiving blessings that day.  This is the most explicit:
 
 > Oliver Cowdery called upon the Lord to smile upon him; that his faith be made perfect, and that the blessings pronounced may be realized; that he be made mighty, and be endued with powers from on high, and go forth to the nations of the earth to proclaim the Gospel, that he may escape all the pollutions of the world; that the angels shall uphold him; and that he shall go forth according to the commandment, both to Jew and Gentile, and to all nations, kingdoms and tongues; that all who hear his voice shall acknowledge him to be a servant of God; that he shall be equal with his brethren in holding the keys of the kingdom; **that he ~~shall~~ may stand on the earth and bring souls till Christ comes**. We know that he loves Thee, O, Lord, and may this Thy servant be able to walk through pestilence and not be harmed; and the powers of darkness have no ascendency over him; may he have power to smite the earth with pestilence; to divide waters, and lead through the Saints; may he go from land to land and from sea to sea, and may he be like one of the three Nephites.
 
@@ -98,3 +121,10 @@ Also reported in Establishing Zion by Eugene Campbell (faithful scholar) on pg 1
 > On 8 March (1857), Woodruff attended a meeting during which Young alluded to the city of Enoch and its inhabitants, which Mormons believe was physically removed from the earth because of righteousness. Young suggested that within 125 years the Saints along with the portion of the earth they occupied would be separated from the wicked.
 
 *This 1857 statement originally h/t [this post](https://www.reddit.com/r/mormon/comments/d71f6n/brigham_youngs_prophecy_about_the_saints_being/)*
+
+### Acknowledgments and Notes
+
+Several references to were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  Some were brought to my attention by reddit user japanesepiano.
+
+I have gone back to find links to original documents and LDS Church hosted content where possible.  
+

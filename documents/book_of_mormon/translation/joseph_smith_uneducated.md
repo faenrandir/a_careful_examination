@@ -17,6 +17,12 @@ In his earliest history, [Joseph smith wrote](https://www.josephsmithpapers.org/
 
 So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how [familiar he was with the scriptures and the religious arguments of the day]({{ "/religious-interest-and-capability-from-1832-statement/" | relative_url }}).  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
 
+## Blessing from his Father
+
+Joseph Smith Sr., in [a patriarchal blessing given to Joseph](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) stated:
+
+> ... thou hast sought to know his ways, and from thy childhood thou hast meditated much upon the great things of his law. ...
+
 ## Emma's last testimony
 
 [Emma's last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
