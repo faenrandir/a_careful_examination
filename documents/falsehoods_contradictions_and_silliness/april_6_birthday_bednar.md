@@ -29,7 +29,7 @@ Hinckley uses [slightly stronger language](https://scottwoodward.org/jesus_chris
 
 > While **we now know through revelation** the time of the Savior's birth, we observe the 25th of December with the rest of the Christian world.
 
-The Book of Commandments and Revelations [manuscript of D&C 20](http://www.josephsmithpapers.org/paper-summary/revelation-book-1/36) was recently discovered, and it seems to undermine the claim that D&C 20 was mean at the time of its writing as indicative of Jesus's birthday.  Deseret News [spoke with Steven Harper](https://www.deseretnews.com/article/700094707/What-was-the-real-date-of-Jesus-birth.html?pg=all), a BYU Assistant Professor of Church History and volume editor of the Joseph Smith Papers, about the significance of this discovery on the meaning of D&C 20:
+The Book of Commandments and Revelations [manuscript of D&C 20](http://www.josephsmithpapers.org/paper-summary/revelation-book-1/36) was recently discovered, and it seems to undermine the claim that D&C 20 was meant, at the time of its writing, to be indicative of Jesus's birthday.  Deseret News [spoke with Steven Harper](https://www.deseretnews.com/article/700094707/What-was-the-real-date-of-Jesus-birth.html?pg=all), a BYU Assistant Professor of Church History and volume editor of the Joseph Smith Papers, about the significance of this discovery on the meaning of D&C 20:
 
 > ... some people, including Elder Talmage, have read this verse as if it is the Lord speaking and revealing precisely that Christ was born 1,830 years before that day and that the revelation was given on April 6, 1830.
 
