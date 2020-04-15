@@ -152,7 +152,7 @@ Additional life events tied closely into the LDS program include missions, marri
 
 1. LDS missions are considered [a "coming of age" experience](http://www.pbs.org/mormons/themes/mission.html) (see answer by D. Michael Quinn).
 
-1. Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as lesser (and maybe in the extreme as [not really a marriage at all](https://www.missedinsunday.com/memes/sexism/weak-in-the-faith/)).
+1. Marriage in an LDS temple is given _strong_ emphasis in the Church since it is viewed as the only way for the marriage to endure in the eternities.  All other marriage ceremonies are viewed as lesser (and maybe in the extreme as [not really a marriage at all](https://www.missedinsunday.com/memes/sexism/weak-in-the-faith/)).  Compare how temple and non-temple marriages are depicted in the 1969 video [For Time or Eternity?](https://www.youtube.com/watch?v=ugK40wZtbxw).
 
 1. Funerals are considered a time to teach the Gospel and reinforce the LDS conception of life's purpose.
 
