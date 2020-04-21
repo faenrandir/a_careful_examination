@@ -1,5 +1,5 @@
 ---
-title: "My response to representations of former members in the April 2020 General Conference"
+title: "Response to representations of former members in the April 2020 General Conference"
 permalink: /response-to-april-2020-general-conference/
 doctype: response
 layout: page
@@ -12,8 +12,6 @@ I don't follow general conference too closely anymore, but I do hear about talks
 Most of what is said does not bother me directly,[^nobother] but I do know that my LDS family and friends also hear these messages.  Experience has taught me that most members just aren't tuned in to how former members are represented---members are focused on how the talks apply to them and how they can improve their lives.  And when former members are discussed, I understand that leadership intend no harm and are simply focused on helping members stay on the path they view as essential to happiness in this life and the next.
 
 Still, when former members are occasionally referred to or addressed by general authorities, it's usually not in a very flattering light, and I wonder what kind of subconcious effect that has over time on how my member friends and family view me and other former members?  And even if we interpret their words in the most generous light, they still do not represent *my* feelings or thoughts very well.[^representation]
-
-And, even the Church, while being mostly apolitical and above the fray of commenting on most current events, will post public defenses of itself when it feels it has been misrepresented.[^churchmisrepresented]
 
 So, in the spirit of representing my own feelings and position and perhaps furthering dialog, I offer up these responses to a few points made in general conference that seem directed at or especially relevant to former members.[^disclaimers]
 
@@ -39,13 +37,13 @@ I still appreciate the spiritual moments I had, even if I interpret their meanin
 
 Whether something is "secular" or not has little bearing on its goodness, I think.  There is much in secular society that is good and much that is bad (just like there is much good and bad in religious societies).
 
-Regardless, modern life is difficult in many ways, so we do need loving relationships.
+Regardless, life is difficult in many ways, so we all need loving relationships.
 
 #### [Elder Eyring](https://www.churchofjesuschrist.org/study/general-conference/2020/04/17eyring?lang=eng)
 
 > I know from experience that Satan and his servants try to make us feel that we must not pray.
 
-[Former members sometimes get lumped into the "servant of Satan" category.]
+Former members sometimes get lumped into the [servant of Satan](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/) category.
 
 I hope you continue to pray if you feel it is efficacious or brings you peace.  I find peace in various meditative practices and quiet reflection.  The world is an amazing place, people are amazing, and figuring out how best to navigate life is challenging, so we all need prayer, meditation, and/or reflection time.
 
@@ -172,8 +170,6 @@ But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unr
 [^lostconfused]: In theory, *anyone* can be so lost and confused that they don't even realize they are lost and confused, but in this case, saying we aren't lost and confused does nothing to help us, unfortunately.
 
 [^spirituallife]: I still live a vibrant spiritual life even if that does not look so similar to an LDS lifestyle, per se.  Also, I would love to *continue* building spiritual memories with all of my family today and in the future, assuming they are equally enthusiastic.
-
-[^churchmisrepresented]: With a few exceptions, the Church is typically apolitical and doesn't comment directly on most of the world's current events.  But, they *will* make public statements whenever they believe they have been misrepresented (e.g., [via the Deseret News](https://www.deseret.com/2019/12/20/21031666/latter-day-saints-mormon-church-lds-finances-irs-whistleblower-washington-post-report-100-billion)).  The Church also directly or indirectly supports organizations that *do* respond to truth-claim challenges [such as FairMormon or BMC Central](https://www.reddit.com/r/lds/comments/d8pzkj/elder_craig_c_christensen_foundations_of_our/f1f05bz/).
 
 [^astroturfing]: For instance, an astro-turfing campaign just sprang up right now [to end the quarantine](https://www.reddit.com/r/maryland/comments/g3niq3/i_simply_cannot_believe_that_people_are/fnstpyl/).
 
