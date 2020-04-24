@@ -1,12 +1,12 @@
 ---
-title: "No apostate who ever left ... prospered as an influence in his communit thereafter."
+title: "“No apostate who ever left ... prospered as an influence in his community thereafter”"
 permalink: /no-apostate-who-ever-left-prospered/
 maintopic: faith-transitions
 doctype: short-analysis
 layout: page
 ---
 
-## No apostate ... prospered
+## Original statement
 
 In October 1947 General Conference, [Harold B. Lee stated](https://archive.org/details/conferencereport1947sa/page/66/mode/2up/search/prospered) (emphasis added):
 
