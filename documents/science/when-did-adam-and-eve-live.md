@@ -20,13 +20,13 @@ Both plant and animal agriculture are strongly implied to have existed or been i
 * "Cain brought of the fruit of the ground an offering unto the Lord" (Moses 5:19)
 * "And Abel, he also brought of the firstlings of his flock, and of the fat thereof." (Moses 5:20)
 
+Agriculture seems to have been invented around 11,000 BC.
+
 ### Writing
 
 Writing is implied to have existed in a "pure" form.  Moses 6:5-6 states:
 
 > And a book of remembrance was kept, in the which was recorded, in the language of Adam, for it was given unto as many as called upon God to write by the spirit of inspiration; And by them their children were taught to read and write, having a language which was pure and undefiled.
-
-#### Implication
 
 Writing was likely invented around 3500 BC (and possibly as early as 5,500 BCE).
 
@@ -41,8 +41,6 @@ Joseph Smith claimed to receive direct revelation from God on various topics, an
 > Q. What are we to understand by the seven seals with which it was sealed?
 
 > A. We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.
-
-#### Implication
 
 According to a face-value interpretation of this revelation,[^literalinterpretation] Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.
 

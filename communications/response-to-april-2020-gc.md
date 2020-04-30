@@ -55,7 +55,7 @@ I hope you continue to pray if you feel it is efficacious or brings you peace.  
 
 I love all that is good in "the world" and I love all the people in "the world."  I try to follow good voices, whether they come from "the world" or are found in religious spheres.
 
-My own desires are to live a good life.  I feel like that encourages me to embrace truth, not unnecessarily question it.
+My desire is to live a good life.  I feel like that encourages me to embrace truth, not unnecessarily question it.
 
 > If our true desire is to rescue those we love, we ourselves must stay firmly with Christ by embracing His Church and the fulness of His gospel.
 
@@ -159,7 +159,7 @@ So, discussions of the foundation never really happened, and not long after rais
 
 It seems like our ancestors were fearless in seeking truth, even willing to leave their homes if necessary.  I think staying in the home despite claims that the foundation is unsound is one way to honor the sacrifices of our ancestors (that was the specific foundation some of them built on, after all).  But I also honor their sacrifices by being willing to examine our religious foundations and walking out the door if the foundation is unsound and cannot safely be built upon.
 
-But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unruly child, slamming the door behind me.  I defended our home and foundation for 2 decades.  I carefully analyzed the foundation, and I was in the best position of anyone in our family to do that from a scholarly perspective.  If there was a way to genuinely salvage the foundation, I would have stayed to make it work.  I confess that I was totally dismayed that my own family---that should know the depth of my character better than anyone---would try to undermine me and those leaving rather than discuss with us the serious, foundational problems we were observing.  But even though I knew I was leaving without a new home to live in, I left as calmly, as graciously, and as purposefully as I knew how.[^resignation]
+But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unruly child, slamming the door behind me.  I defended our home and foundation for 2 decades.  I carefully analyzed the foundation, and I was in the best position of anyone in our family to do that from a scholarly perspective.  If there was a way to genuinely salvage the foundation, I would have stayed to make it work.  And even though I knew I was leaving without a new home to live in, I left as calmly, as graciously, and as purposefully as I knew how.[^resignation]
 
 [^source]: I did not watch or listen to conference, but someone online [posted a few quotes](https://www.reddit.com/r/exmormon/comments/fxas2z/heres_a_complete_quotation_and_analysis_of_all/) directed at or relevant to former members.  That commentary was pretty incendiary, and I mostly ignored it.  I do go back and try to understand each quote in its greater context before commenting on it (what was the focus of the speaker? is this really applicable to a former member?, etc)
 
@@ -167,7 +167,7 @@ But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unr
 
 [^nobother]: I'm not particularly concerned what LDS leadership thinks of me, and I suspect we would get along fine together in real life.
 
-[^lostconfused]: In theory, *anyone* can be so lost and confused that they don't even realize they are lost and confused, but in this case, saying we aren't lost and confused does nothing to help us, unfortunately.
+[^lostconfused]: In theory, *anyone* can be so lost and confused that they don't even realize they are lost and confused.  That applies generally, though, no more to former members than members.
 
 [^spirituallife]: I still live a vibrant spiritual life even if that does not look so similar to an LDS lifestyle, per se.  Also, I would love to *continue* building spiritual memories with all of my family today and in the future, assuming they are equally enthusiastic.
 
@@ -182,6 +182,8 @@ But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unr
     1. Prideful: what makes them think they know more about the foundation than the foundation company?
     2. Lazy: they never *really* took the time to understand how foundations work in the first place.
     3. Just wanted to leave the house (sin): they didn't really care about the integrity of the foundation, they were just looking for an excuse to leave.
+
+    Just like those who choose to remain do so courageously and sincerely, is it possible that those who question the foundation and decide they need to leave do so from a place of sincerity and strength of character?
 
 [^resignation]: For instance, my resignation email goes through the formalities of asking to have my records removed, and I then conclude:
 
