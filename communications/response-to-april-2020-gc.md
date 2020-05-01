@@ -93,7 +93,7 @@ I think our confidence in a source should be proportional to its demonstrated pr
 
 > In conclusion, I share the conviction that has come to me from many letters and by reviewing many requests to return to the Church after name removal or apostasy. Many of our members do not fully understand this plan of salvation, which answers most questions about the doctrine and inspired policies of the restored Church.
 
-I feel like I understand the LDS plan of salvation with some clarity (given that I studied it one way or another for almost 40 years).  I believe an answer *can* be generated for every question (because we are dealing with something like an [underdetermined system](https://en.wikipedia.org/wiki/Underdetermined_system)), but I am not convinced that good answers (i.e., fully consistent internally and externally) exist for many of the toughest questions.
+I feel like I understand the LDS plan of salvation with some clarity (given that I studied it one way or another for almost 40 years).  I believe an answer *can* be generated for every question (because we are dealing with something like an [underdetermined system](https://en.wikipedia.org/wiki/Underdetermined_system)), but I am not convinced that good answers (i.e., fully consistent internally and externally and of higher probability than alternatives) exist for many of the toughest questions.
 
 #### [Elder Cook](https://www.churchofjesuschrist.org/study/general-conference/2020/04/52cook?lang=eng)
 
