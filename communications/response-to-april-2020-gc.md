@@ -143,7 +143,7 @@ I think having confidence in things in proportion to their track record is good.
 
 #### [Elder Uchtdorf](https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng)
 
-[Elder Uchtdorf explicitly addressed non-members in his talk.]
+[Elder Uchtdorf explicitly addressed non-members in his talk, generally]
 
 > We are His beloved children.  Even those who reject Him.  Even those who, like a headstrong, unruly child, become angry with God and His Church, pack their bags, and storm out the door proclaiming that they’re running away and never coming back.
 
@@ -153,13 +153,15 @@ My experience discovering alternative models of LDS truth-claims that were compe
 
 In the midst of trying to decide personally about how to deal with these foundational issues, I tried my best to carefully and reasonably raise these concerns in our family, but my efforts were not well received by most.  I had expected that given the importance of the LDS foundation to our metaphorical home that we would all gather together and spend some time cross-checking and discussing the issues with the foundation.  It seemed reasonable to me that we would even go outside and look at it carefully from different angles.  Maybe even call in foundation experts from different companies.  And then we'd all compare notes and carefully discuss the issues so we could determine the seriousness of the issue and what we should all do about it.  Maybe these concerns were overblown, but maybe they were not?  If ever there was a time to come together as a family, this was it!
 
-Instead, I was made to feel that *I* had the problem because I was focusing on and raising awareness of these serious foundational issues.  But the foundation company had already created an effective advertising campaign characterizing those who question their foundation as deficient in some way.[^deficient]
+Instead, I was made to feel that *I* had the problem because I was focusing on and raising awareness of these serious foundational issues.[^deficient]
 
-So, discussions of the foundation never really happened, and not long after raising these concerns we found ourselves outside the house (in part because we think the foundation is unsound and we cannot build on it anymore and in part because questioning the foundation really isn't allowed inside the house).  But we're actually still on the same land, trying our best to build new foundations that might work.  You talk with us through the window, but you won't come outside for a discussion to see what we mean about the foundation, and we are left on our own trying to build new foundations.
+So, discussions of the foundation never really happened, and not long after raising these concerns we found ourselves outside the house---in part because we think the foundation is unsound and we cannot build on it anymore and in part because questioning the foundation really isn't allowed inside the house.  But we're actually still *on the same land*, trying our best to build new foundations that might work.  The land still seems good (very rich soil) and---most important of all---**we do not want to leave our family**.  But the arrangement with some inside the house and others outside it is noticeably awkward.
 
-It seems like our ancestors were fearless in seeking truth, even willing to leave their homes if necessary.  I think staying in the home despite claims that the foundation is unsound is one way to honor the sacrifices of our ancestors (that was the specific foundation some of them built on, after all).  But I also honor their sacrifices by being willing to examine our religious foundations and walking out the door if the foundation is unsound and cannot safely be built upon.
+The members in our family talk with us through the window, but they won't come outside for a discussion to see what we mean about the foundation. We are still curious about what is going on in the house (after all, we lived there for almost our entire lives and many of our loved ones still live inside it).  On the one hand, we are hopeful that everyone is living well and not getting hurt inside.  On the other hand, we cannot help but hope that those in the house will notice the foundational problems so we can at least discuss them or they can give us some partial validation that we are not insane for questioning the foundation's reliability and leaving what might otherwise be considered a beautiful home to live in.
 
-But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unruly child, slamming the door behind me.  I defended our home and foundation for 2 decades.  I carefully analyzed the foundation, and I was in the best position of anyone in our family to do that from a scholarly perspective.  If there was a way to genuinely salvage the foundation, I would have stayed to make it work.  And even though I knew I was leaving without a new home to live in, I left as calmly, as graciously, and as purposefully as I knew how.[^resignation]
+And, it seems that those in the home seem generally uninterested in the joys and struggles we are experiencing while attempting to build new foundations out on the land without the direct help of the foundation company.  And since they believe the foundation is sound, those in the home probably cannot help but think we are needlessly exposing ourselves to the elements and are shortsighted for leaving.
+
+In any case, however sound or unsound the foundation ultimately turns out to be, I did not leave like a headstrong, unruly child, slamming the door behind me.  I defended our home and foundation for 2 decades.  I carefully analyzed the foundation, and I was in the best position of anyone in our family to do that from a scholarly perspective.  If I could have seen a way to genuinely salvage the foundation, I would have stayed to make it work.  And even though I knew we were leaving to face the elements without a new home to live in, I left as calmly, as graciously, and as purposefully as I knew how.[^resignation]
 
 [^source]: I did not watch or listen to conference, but someone online [posted a few quotes](https://www.reddit.com/r/exmormon/comments/fxas2z/heres_a_complete_quotation_and_analysis_of_all/) directed at or relevant to former members.  That commentary was pretty incendiary, and I mostly ignored it.  I do go back and try to understand each quote in its greater context before commenting on it (what was the focus of the speaker? is this really applicable to a former member?, etc)
 
@@ -171,19 +173,20 @@ But unlike with Elder Uchtdorf's example, I did not leave like a headstrong, unr
 
 [^spirituallife]: I still live a vibrant spiritual life even if that does not look so similar to an LDS lifestyle, per se.  Also, I would love to *continue* building spiritual memories with all of my family today and in the future, assuming they are equally enthusiastic.
 
-[^astroturfing]: For instance, an astro-turfing campaign just sprang up right now [to end the quarantine](https://www.reddit.com/r/maryland/comments/g3niq3/i_simply_cannot_believe_that_people_are/fnstpyl/).
+[^astroturfing]: For instance, an astro-turfing campaign appears to have recently sprung up [to end the quarantine](https://www.reddit.com/r/maryland/comments/g3niq3/i_simply_cannot_believe_that_people_are/fnstpyl/).
 
 [^disclaimers]: A few disclaimers:
     * I do not claim to speak for former members as a group, but perhaps in speaking for myself they can be better understood, too.
     * Please do not feel obligated to read my response---I'm just happy to know the representation is accessible.
     * Just because I have commented on one portion of a talk does not mean I cannot or do not appreciate other redeeming or uplifting aspects of a talk.  There is plenty of good to appreciate in these talks, as you know.
 
-[^deficient]: Those who question the foundation are characterized as:
+[^deficient]: To extend the metaphor, it seems clear that the foundation company itself runs an effective advertising campaign characterizing those who question their foundation.  If a foundation seems bad, they would argue, the flaw is in those making the assessment, not the foundation itself.  Those who question the foundation are characterized as:
+
     1. Prideful: what makes them think they know more about the foundation than the foundation company?
     2. Lazy: they never *really* took the time to understand how foundations work in the first place.
     3. Just wanted to leave the house (sin): they didn't really care about the integrity of the foundation, they were just looking for an excuse to leave.
 
-    Just like those who choose to remain do so courageously and sincerely, is it possible that those who question the foundation and decide they need to leave do so from a place of sincerity and strength of character?
+    I can acknowledge that people who choose to remain do so courageously and sincerely; is it possible that those who question the foundation and decide they need to leave do so from a place of sincerity and strength of character?
 
 [^resignation]: For instance, my resignation email goes through the formalities of asking to have my records removed, and I then conclude:
 
