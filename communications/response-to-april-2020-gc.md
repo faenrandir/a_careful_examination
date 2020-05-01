@@ -11,7 +11,7 @@ I don't follow general conference too closely anymore, but I do hear about talks
 
 Most of what is said does not bother me directly,[^nobother] but I do know that my LDS family and friends also hear these messages.  Experience has taught me that most members just aren't tuned in to how former members are represented---members are focused on how the talks apply to them and how they can improve their lives.  And when former members are discussed, I understand that leadership intend no harm and are simply focused on helping members stay on the path they view as essential to happiness in this life and the next.
 
-Still, when former members are occasionally referred to or addressed by general authorities, it's usually not in a very flattering light, and I wonder what kind of subconcious effect that has over time on how my member friends and family view me and other former members?  And even if we interpret their words in the most generous light, they still do not represent *my* feelings or thoughts very well.[^representation]
+Still, when former members are occasionally referred to or addressed by general authorities, it's usually not in a very flattering light, and I wonder what kind of subconcious effect that has over time on how my member friends and family view me and other former members?  And even if we interpret their words in the most generous light, they still do not represent *my* feelings or thoughts very well.
 
 So, in the spirit of representing my own feelings and position and perhaps furthering dialog, I offer up these responses to a few points made in general conference that seem directed at or especially relevant to former members.[^disclaimers]
 
@@ -164,8 +164,6 @@ And, it seems that those in the home seem generally uninterested in the joys and
 In any case, however sound or unsound the foundation ultimately turns out to be, I did not leave like a headstrong, unruly child, slamming the door behind me.  I defended our home and foundation for 2 decades.  I carefully analyzed the foundation, and I was in the best position of anyone in our family to do that from a scholarly perspective.  If I could have seen a way to genuinely salvage the foundation, I would have stayed to make it work.  And even though I knew we were leaving to face the elements without a new home to live in, I left as calmly, as graciously, and as purposefully as I knew how.[^resignation]
 
 [^source]: I did not watch or listen to conference, but someone online [posted a few quotes](https://www.reddit.com/r/exmormon/comments/fxas2z/heres_a_complete_quotation_and_analysis_of_all/) directed at or relevant to former members.  That commentary was pretty incendiary, and I mostly ignored it.  I do go back and try to understand each quote in its greater context before commenting on it (what was the focus of the speaker? is this really applicable to a former member?, etc)
-
-[^representation]: Whether the words of LDS general authorities, interpreted in the most charitable light, do not represent me well stems from their need to generalize or because they do not associate on a deep, spiritual level with former members, the result is the same: when former members are discussed or portrayed they are not discussed and portrayed how I would like to be discussed or portrayed.
 
 [^nobother]: I'm not particularly concerned what LDS leadership thinks of me, and I suspect we would get along fine together in real life.
 
