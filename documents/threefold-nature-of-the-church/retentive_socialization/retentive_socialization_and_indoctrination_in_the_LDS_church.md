@@ -335,6 +335,12 @@ As of 2019, those who have committed an honor code violation [will be taught in 
 
 > This is also why if you ever hear sarcastic words coming out of your mouth like: "So, what are you, the Honor Code Nazi?" or "Why are you so dressed up?" or any other words of scorn and ridicule directed at your classmates who are living the Honor Code, you should immediately recall the words of Mormon, repent on the spot, apologize to them, and ask their forgiveness.
 
+Members may refer to these consequences when attempting to persuade those who are leaving to return.  For example, an LDS father sent [this text]({{ "/media/lf6n6iylqlw41-pronuke-conversation-between-wife-and-father.png" | relative_url }})[^textcontext] to his daughter and all her siblings when she was leaving the LDS Church:
+
+> I am very aware of what you ... are doing and so is God our Father.. And you have the right to choose... but remember there will be consequences for your choices...
+
+> ... you eventually married in the temple and [made] covenants so yes you can go about your way thinking all is well with you but there will come consequences from your "faith Journey"...
+
 D&C 84:41 reminds all those with the Melchizedek Priesthood (which virtually all male members receive at the age of 18):
 
 > But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.
@@ -376,3 +382,5 @@ A significant number of teachings, cultural factors, and practices align to enco
 [^exceptions_to_communication]: Exceptions to the communication policy are rare---for instance, a father was [denied contact information for a son](https://mormonleaks.io/wiki/index.php?title=File:Fwd-_Texas_Houston_Mission_Preparedness_Update_for_Hurricane_Harvey_2017-08-26.pdf) serving in Houston during hurricane Harvey.
 
 [^coffee_repeated]: The story of Mary and her coffee was repeated [on an lds radio episode](https://broadcast-portal.lds.org/ldsradio/pdf/stories-general-conference/stories-young-women-ep-03.pdf?download=true).
+
+[^textcontext]: Slightly more context surrounding the conversation can be found [here](https://www.reddit.com/r/exmormon/comments/gcwn5x/conversation_between_my_wife_and_my_fatherinlaw/).
