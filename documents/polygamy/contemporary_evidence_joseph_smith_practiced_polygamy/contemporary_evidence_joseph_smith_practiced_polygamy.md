@@ -36,13 +36,15 @@ A trio of primary documents, all signed or in Joseph Smith's hand implicate him 
 
 An insider to Nauvoo polygamy wrote two exposés on Joseph Smith's polygamy in the Warsaw Message and then Warsaw Signal (same paper, just a change of names).  Bergera discusses the articles [here](https://web.archive.org/web/20100707004021/http://dig.lib.niu.edu/ISHS/ishs-2002winter/ishs-2002winter350.pdf).
 
+## Later non-LDS testimony corroborating key events
+
+Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was introduced.  Given that his rejection of the revelation led to his excommunication, [his testimony](https://www.reddit.com/r/exmormon/comments/5d9pa1/leonard_soby_18061892_converted_to_mormonism_and/) seems especially relevant because he cannot be said to be biased by any possible later LDS conspiracy.
+
 ### See also
 
 Year of Polygamy: Joseph Didn't Fight Polygamy
 * [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/)
 * [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
-
-[need to summarize key arguments here]
 
 ### Conclusion
 
