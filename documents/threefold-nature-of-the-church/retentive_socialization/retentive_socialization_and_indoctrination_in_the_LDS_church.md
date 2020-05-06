@@ -56,7 +56,7 @@ LDS members spend a considerable amount of time in meetings teaching one another
 
 #### Moroni's Promise
 
-Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see [Moroni 10:4--5](https://www.lds.org/scriptures/bofm/moro/10.4-5)).  The practice may be viewed as open-ended and respectful of the agency of the truth-seeker, but it may also be viewed as a process with only one inevitable outcome (see [here]({{ "/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf" | relative_url }}) and [here]({{ "/list-of-issues-regarding-moronis-promise/" | relative_url }}) for additional discussion).
+Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see [Moroni 10:4--5](https://www.lds.org/scriptures/bofm/moro/10.4-5)).  The practice may be viewed as open-ended and respectful of the agency of the truth-seeker, but it may also be viewed as a process with only one inevitable outcome (see [this diagram]({{ "/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf" | relative_url }}) and discussion on [hermetically sealed systems of thought](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)).
 
 #### Self-conditioning?
 
