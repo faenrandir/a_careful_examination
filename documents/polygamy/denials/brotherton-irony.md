@@ -15,7 +15,7 @@ Five individuals---Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley 
 
 ### Background
 
-Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842]({{ "/documents/polygamy/denials/brotherton-affidavit.pdf" | relative_url }}), propositioned for marriage by Brigham Young.
+Sometime early in 1842 (or possibly [in late 1841](https://www.millennialstar.org/who-was-john-mcilwrick/)), Martha Brotherton was, according to [the affidavit that would be published in mid 1842]({{ "/martha-brotherton-affidavit/" | relative_url }}), propositioned for marriage by Brigham Young.
 
 The affidavit laid out the series of events leading up to and comprising the
 proposition.  The following key points are made:
@@ -49,11 +49,11 @@ Of the marriages, Emily said, “neither of us knew about the other at the time,
 
 Sometime after the proposition event, a rumor began circulating that Martha had been "shut in a room for several days" and that "[various brethren of the 12] had endeavored to induce her to believe in having two wives...".
 
-Joseph Smith would [denounce the rumors]({{ "/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf" | relative_url }}):
+Joseph Smith would [denounce the rumors]({{ "/times-and-seasons-apr-15-1842-conference-minutes/" | relative_url }}):
 
 > Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for *there is no person that is acquainted with our principles would believe such lies*, except Sharp the editor of the “Warsaw Signal.”
 
-With the help of John C. Bennett (initiated by him?), Martha prepared [an affidavit which would be published in a number of newspapers]({{ "/documents/polygamy/denials/brotherton-affidavit.pdf" | relative_url }}).  Although the affidavit was prepared with the help of John C. Bennett, it seems to have been a truthful telling, [at least in contour](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/)[^hales]
+With the help of John C. Bennett (initiated by him?), Martha prepared [an affidavit which would be published in a number of newspapers]({{ "/martha-brotherton-affidavit/" | relative_url }}).  Although the affidavit was prepared with the help of John C. Bennett, it seems to have been a truthful telling, [at least in contour](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/)[^hales]
 
 ### The Character Assasination
 
@@ -65,7 +65,7 @@ With the help of John C. Bennett (initiated by him?), Martha prepared [an affida
 
 #### Elizabeth Brotherton
 
-To counteract the material that would be published in Bennet's Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered [and published]({{ "/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf" | relative_url }}).
+To counteract the material that would be published in Bennet's Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered [and published]({{ "/martha-brotherton-affidavit/" | relative_url }}).
 
 Among those whose testimony was enlisted to besmirch Martha's character was Elizabeth Brotherton.  Elizabeth would sign her name to the testimony of John McIlwrick, husband of Martha and Elizabeth's other sister, Mary (emphasis added):
 
@@ -83,7 +83,7 @@ As mentioned, Smith denounced the rumours and then was responsible for the sprea
 
 #### Brigham Young
 
-Brigham Young would testify in [the affidavits against Bennett]({{ "/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf" | relative_url }}) (emphasis added):
+Brigham Young would testify in [the affidavits against Bennett]({{ "/affidavits-against-bennets-letters-brotherton-focus/" | relative_url }}) (emphasis added):
 
 > I do hereby testify that the affidavit of Miss Martha Brotherton that is going the rounds in the political and religious papers, **is a base falsehood, with regard to any private intercourse or unlawful conduct or conversation with me**.
 
