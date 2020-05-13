@@ -76,11 +76,10 @@ The appearance of these verses in the Book of Mormon is problematic because they
 
 James Tabor color-codes the end of Mark to demonstrate where the author of the forged ending [pulled material](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/) (i.e., from Matthew, Luke, and John) and where they likely provided original material.
 
-### Potential rebuttal
+### Potential rebuttals
 
-[Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon)
-
-[Expand discussion]
+* [Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon)
+* The Book of Mormon Versus the Consensus of Scholars: Surprises from the Disputed Longer Ending of Mark [Part 1](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-1/), [Part 2](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-2/) (Jeff Lindsay)
 
 ### Conclusion
 
