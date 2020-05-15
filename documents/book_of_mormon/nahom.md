@@ -24,6 +24,7 @@ layout: page
     * Joseph and the Amazing Technicolor Dream Map (Jeff Lindsay) [pt1](https://www.mormoninterpreter.com/joseph-and-the-amazing-technicolor-dream-map-part-1-of-2/), [pt2](https://www.mormoninterpreter.com/joseph-and-the-amazing-technicolor-dream-map-part-2-of-2/)
     * [Critiques of Nahom and Lehi's journey](https://www.patheos.com/blogs/faithpromotingrumor/2016/05/critiques-of-nahom-and-lehis-journey/) (Rebuttal to Lindsay and Brown by Ryan Thomas)
 * [Comment by John Hamer](https://mormonheretic.org/2009/01/28/nahom-archeaological-evidence-of-book-of-mormon/#comment-25763)
+* [Old Arabian and the 5 possible 'H' sounds](https://www.reddit.com/r/exmormon/comments/gk2di7/joseph_smith_didnt_understand_how_language_works/)
 * [NHM – A Place Name from the Book of Mormon?](http://www.mrm.org/nhm) (Bill McKeever)
 * [Discussion between Rappleye and Andrew](http://www.studioetquoquefide.com/2017/06/responding-to-new-video-on-nahom-as.html) ([summary](https://www.reddit.com/r/exmormon/comments/6jd4fm/budding_apologists_create_book_of_mormon_nahom/)) *I find the exchange in the comments interesting, but mostly lacking in scholarly rigor (and politeness).  Nonetheless, this comment exchange is often referred to, so I list it here.*
 * [Nehem theory and Dartmouth University](https://www.exmormon.org/phorum/read.php?2,51805) (RfM post by michealm)
