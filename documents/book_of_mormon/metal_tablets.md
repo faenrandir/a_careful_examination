@@ -23,13 +23,17 @@ In addition, there are some reasons to believe that the idea of scripture record
 
     As shown above, the book interprets [Job 19:24](http://biblehub.com/job/19-24.htm) as an indication that lead could be inscribed with an iron pen.  In addition, [Jeremiah 17:1](http://biblehub.com/jeremiah/17-1.htm) alludes to carving tables or tablets (albeit metaphorical) with an iron tool.  So, the idea of writing on metal tablets seems not to have been a stretch to imagine in Joseph Smith's time.
 
-#### Additional similarities
+### Additional similarities
 
 Other similarities from the early 1800s cultural milieu echo other aspects of the metal plates---both the story of their retrieval and descriptions within the Book of Mormon itself.
 
 * The Western Farmer, a Palmyra paper, reported in 1821 that "diggers on the Erie Canal had unearthed 'several brass plates' along with skeletons and fragments of pottery."[^brodie]
 
 * Manuscript Found, written by Solomon Spaulding in the early 1800s, begins with a description of stone boxes, caves, and "earthen" boxes containing ancient documents that [echoes aspects of the metal plates]({{ "/solomon-spaulding-manuscript-found-box-excerpt/" | relative_url }}).
+
+### See also
+
+[Anachronisms: The Metal Codex and the Etruscan Gold Book](https://www.reddit.com/r/mormon/comments/gke3s9/anachronisms_the_metal_codex_and_the_etruscan/) (by ImTheMarmotKing)
 
 ---
 
