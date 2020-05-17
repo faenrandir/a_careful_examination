@@ -1,6 +1,7 @@
 ---
 title: "Pre-1830 teachings of felix culpa (fortunate fall)"
 permalink: /pre-1830-felix-cupa-fortunate-fall/
+maintopic: book-of-mormon
 doctype: short-compilation
 layout: page
 ---

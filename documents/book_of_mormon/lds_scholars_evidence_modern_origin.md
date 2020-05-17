@@ -1,6 +1,7 @@
 ---
 title: "Recent LDS Scholar observations favoring a modern origin for the Book of Mormon"
 permalink: /lds-scholars-modern-origin-evidence/
+maintopic: book-of-mormon
 doctype: compilation
 layout: page
 ---

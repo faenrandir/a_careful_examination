@@ -1,6 +1,7 @@
 ---
 title: "Richard Bushman on 19th century phrasing and theology in the Book of Mormon"
 permalink: /bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

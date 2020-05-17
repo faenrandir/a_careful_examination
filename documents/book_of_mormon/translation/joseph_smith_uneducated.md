@@ -1,6 +1,7 @@
 ---
 title: "Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?"
 permalink: /joseph-smith-capable-of-authoring-the-book-of-mormon/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

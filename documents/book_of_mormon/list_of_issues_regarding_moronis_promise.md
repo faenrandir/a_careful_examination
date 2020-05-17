@@ -1,6 +1,7 @@
 ---
 title: "Laundry List of Issues Regarding Moroni's Promise"
 permalink: /list-of-issues-regarding-moronis-promise/
+maintopic: book-of-mormon
 doctype: transcription-of-analysis
 layout: page
 ---

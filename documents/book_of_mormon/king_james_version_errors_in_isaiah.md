@@ -1,6 +1,7 @@
 ---
 title: "Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages"
 permalink: /scholar-survey-kjv-translation-errors-in-bom-isaiah/
+maintopic: book-of-mormon
 doctype: expert-survey
 layout: page
 ---

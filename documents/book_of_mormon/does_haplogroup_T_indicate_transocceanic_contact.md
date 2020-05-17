@@ -1,6 +1,7 @@
 ---
 title: "Does Haplogroup T indicate transoceanic contact?"
 permalink: /does-haplogroup-t-indicate-transoceanic-contact/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

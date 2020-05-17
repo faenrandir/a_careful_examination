@@ -1,6 +1,7 @@
 ---
 title: "A short critique of discovered metal tablets as evidence for the authenticity of the Book of Mormon"
 permalink: /short-critique-metal-tablets-as-evidence-for-bom/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

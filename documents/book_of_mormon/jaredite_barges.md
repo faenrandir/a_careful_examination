@@ -1,6 +1,7 @@
 ---
 title: "Jaredite barges and submarines in the early 1800s"
 permalink: /jaredite-barges-and-submarines-in-the-early-1800s/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

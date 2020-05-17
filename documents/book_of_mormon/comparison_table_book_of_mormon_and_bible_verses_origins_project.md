@@ -1,6 +1,7 @@
 ---
 title: "Comparison of the Book of Mormon and 1769 King James Bible"
 permalink: /comparison-table-book-of-mormon-and-bible-verses-origins-project/
+maintopic: book-of-mormon
 doctype: table
 layout: page
 ---

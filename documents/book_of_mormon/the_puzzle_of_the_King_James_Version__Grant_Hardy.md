@@ -1,6 +1,7 @@
 ---
 title: "Excerpt on Isaiah from Hardy's Reader's Guide"
 permalink: /excerpt-on-isaiah-from-hardys-readers-guide/
+maintopic: book-of-mormon
 doctype: book-excerpt
 layout: page
 ---

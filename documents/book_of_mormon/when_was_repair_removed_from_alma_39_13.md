@@ -1,6 +1,7 @@
 ---
 title: "When was 'repair' removed from Alma 39:13?"
 permalink: /when-was-repair-removed-from-alma-39-13/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

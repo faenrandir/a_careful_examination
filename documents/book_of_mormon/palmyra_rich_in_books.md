@@ -1,6 +1,7 @@
 ---
 title: "Palmyra was rich in books"
 permalink: /palmyra-was-rich-in-books/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

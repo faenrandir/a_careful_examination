@@ -1,6 +1,7 @@
 ---
 title: "Who is doing the loan shifting?"
 permalink: /excerpt-who-is-doing-the-loan-shifting/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

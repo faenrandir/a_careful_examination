@@ -1,6 +1,7 @@
 ---
 title: "Charles Anthon's Proper Names and the Book of Mormon"
 permalink: /charles-anthon-proper-names-and-the-bom/
+maintopic: book-of-mormon
 doctype: short-compilation
 layout: page
 ---

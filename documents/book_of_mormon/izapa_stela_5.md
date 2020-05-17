@@ -1,6 +1,7 @@
 ---
 title: "Izapa Stela 5 does not support the Book of Mormon"
 permalink: /izapa-stela-5-and-bom/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Deficiencies in the Sam Brown model"
 permalink: /deficiencies-in-the-sam-brown-model/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

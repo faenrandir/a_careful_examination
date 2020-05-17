@@ -1,6 +1,7 @@
 ---
 title: "The Book of Mormon as Mound Builder Mythology"
 permalink: /bom-as-mound-builder-mythology/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

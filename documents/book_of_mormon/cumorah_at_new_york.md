@@ -1,6 +1,7 @@
 ---
 title: "Archaeology of Cumorah"
 permalink: /archaeology-of-cumorah/
+maintopic: book-of-mormon
 doctype: short-compilation
 layout: page
 ---

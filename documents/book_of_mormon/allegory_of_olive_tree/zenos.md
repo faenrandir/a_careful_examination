@@ -1,6 +1,7 @@
 ---
 title: "Zenos and the Allegory of the Olive Tree"
 permalink: /examination-of-zenos/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

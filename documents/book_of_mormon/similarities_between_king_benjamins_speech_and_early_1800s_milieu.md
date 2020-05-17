@@ -1,6 +1,7 @@
 ---
 title: "Similarities between King Benjamin's speech and the early 1800s milieu"
 permalink: /similarities-between-benjamins-speech-and-1800s-milieu/
+maintopic: book-of-mormon
 doctype: table
 layout: page
 ---

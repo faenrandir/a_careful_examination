@@ -1,6 +1,7 @@
 ---
 title: Evaluating Zemnarihah's execution--is chopping down of the tree evidence favoring an ancient Book of Mormon?
 permalink: /zemnarihah-execution-cut-down-the-tree/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

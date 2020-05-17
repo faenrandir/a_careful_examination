@@ -1,6 +1,7 @@
 ---
 title: "Columbus was mythologized in a popular 1828 biography"
 permalink: /columbus-mythologized-in-1828-biography/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

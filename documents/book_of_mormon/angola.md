@@ -1,6 +1,7 @@
 ---
 title: "Angola as a placename in the Book of Mormon"
 permalink: /angola-as-placename-in-bom/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

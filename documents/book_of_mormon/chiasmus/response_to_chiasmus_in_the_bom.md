@@ -1,6 +1,7 @@
 ---
 title: "Summarizing the best arguments against chiasmus as evidence of ancientness"
 permalink: /best-arguments-against-chiasmus-as-evidence-of-ancientness/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

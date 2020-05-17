@@ -1,6 +1,7 @@
 ---
 title: "McConkie and Ostler argue against the seer stone"
 permalink: /mcconkie-and-ostler-argue-against-the-seer-stone/
+maintopic: book-of-mormon
 doctype: notes
 layout: page
 ---

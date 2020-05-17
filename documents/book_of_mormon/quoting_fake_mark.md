@@ -1,6 +1,7 @@
 ---
 title: "Moroni quotes sections of Mark that are of dubious origin"
 permalink: /moroni-quotes-sections-of-mark-dubious-origin/
+maintopic: book-of-mormon
 doctype: resource
 featuredimage: /media/800px-Sanapolinclasse05.jpg
 layout: page

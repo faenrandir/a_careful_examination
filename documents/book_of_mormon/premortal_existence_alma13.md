@@ -2,6 +2,7 @@
 title: "The premortal existence in pre-1830's thought"
 permalink: /premortal-existence-pre-1830s/
 doctype: short-analysis
+maintopic: book-of-mormon
 layout: page
 ---
 

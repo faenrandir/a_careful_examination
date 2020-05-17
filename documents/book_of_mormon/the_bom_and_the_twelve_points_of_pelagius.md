@@ -1,6 +1,7 @@
 ---
 title: "The Book of Mormon, the twelve points of Pelagianism, and Protestant thought in the early 1800s"
 permalink: /bom-and-twelve-points-of-pelagianism-in-early-1800s/
+maintopic: book-of-mormon
 doctype: resource
 featuredimage: /media/Nuremberg_chronicles_f_135r_2.jpg
 layout: page

@@ -1,9 +1,9 @@
 ---
 title: "Royal Skousen: Protestant concerns in the Book of Mormon"
 permalink: /skousen-protestant-concerns-in-bom/
+maintopic: book-of-mormon
 doctype: excerpt
 layout: page
-maintopic: book-of-mormon
 ---
 
 ## Introduction

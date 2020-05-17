@@ -1,6 +1,7 @@
 ---
 title: "Solomon Spaulding 'Manuscript Found' box excerpt"
 permalink: /solomon-spaulding-manuscript-found-box-excerpt/
+maintopic: book-of-mormon
 doctype: excerpt
 layout: page
 ---

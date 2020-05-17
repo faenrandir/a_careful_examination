@@ -1,6 +1,7 @@
 ---
 title: Problems with the expansionist model
 permalink: /problems-with-the-expansionist-model/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Royal Skousen: Is the Book of Mormon English translation a literal translation of what was on the plates?"
 permalink: /skousen-literal-translation-of-the-plates/
+maintopic: book-of-mormon
 doctype: excerpt
 layout: page
-maintopic: book-of-mormon
 ---
 
 ## Introduction

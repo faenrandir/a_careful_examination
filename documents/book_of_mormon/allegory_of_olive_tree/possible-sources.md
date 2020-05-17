@@ -1,6 +1,7 @@
 ---
 title: "Potential sources for the Allegory of the Olive Tree"
 permalink: /potential-sources-allegory-olive-tree/
+maintopic: book-of-mormon
 doctype: short-analysis
 layout: page
 ---
