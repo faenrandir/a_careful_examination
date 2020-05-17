@@ -65,7 +65,7 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 
 ## 5. Joseph Smith's polygamy is ethically problematic
 
-Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 33 wives](https://i.imgur.com/kSqAl.jpg), 11 of whom were already legally married to other men.  The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals would likely be viewed as involving undue influence according to modern ethical standards.[^undueinfluence]
+Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 33 wives](https://josephsmithspolygamy.org/wordpress/plural-wives-overview/), 11 of whom were already [legally married to other men](https://web.archive.org/web/20190809194809/https://www.fairmormon.org/answers/Joseph_Smith/Polygamy/Polyandry/Why_would_Joseph_Smith_be_sealed_to_other_men%27s_wives#Question:_Was_Joseph_Smith_married_or_sealed_to_women_who_were_already_married_to_other_living_men.3F).  The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals would likely be viewed as involving undue influence according to modern ethical standards.[^undueinfluence]
 
 In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hales-polygamy-and-polyandry/), the most faithful LDS apologists on polygamy recounted the feelings of reviewers of their recent book on the topic: "At the end of the book [the book reviewer] didn't get a warm fuzzy feeling and that's not really something we think we can deliver with this topic."
 
