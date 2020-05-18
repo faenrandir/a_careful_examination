@@ -22,6 +22,8 @@ In April of 2020, The Atlantic published an article, [New Zealand’s Prime Mini
 
 > Jacinda Ardern’s leadership style, focused on empathy, isn’t just resonating with her people; it’s putting the country on track for success against the coronavirus.
 
+Based in large part on her response to COVID-19, Ardern [recently polled](https://www.reuters.com/article/us-newzealand-politics-poll/ardern-becomes-new-zealands-most-popular-pm-in-a-century-poll-idUSKBN22U0PI?utm_source=reddit.com) "at 59.5%, up 20.8 points on the last poll and **the highest score for any leader in the Reid Research poll’s history.**"
+
 ### Ryan Gosling
 
 Ryan Gosling has arguably "prospered as an influence in his community" as an actor.
