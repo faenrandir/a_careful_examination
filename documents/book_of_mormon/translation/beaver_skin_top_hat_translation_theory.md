@@ -94,6 +94,7 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
     Light would need to be able to enter the hat at least sporadically in order for Joseph to be able to view the material on the manuscript.
 
+
     Even though Emma, William Smith, and David Whitmenr variously described Joseph pressing his face into the hat to exclude all light, David Whitmer also once [said that](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) Joseph Smith was merely "placing his face _close to_ [a deep hat]" (emphasis added).  So, although the weight of the witness testimony favors Joseph putting his face up to the hat, one description allows for some space.
 
     Even if we accept the accounts that his face was pressed to the hat, some possibilities still present themselves:
@@ -103,7 +104,9 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
     * The seams around the top of the hat (so the bottom of the hat during translation) may have been somewhat loose.  The rock could have helped to open the seams to allow in some light.
     * I cannot find a primary source on it, but [Criddle notes](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) that Joseph owned a "big white hat" and most of the recent LDS artwork depicting the translation process show Joseph with a white hat (e.g., [this image](https://knowhy.bookofmormoncentral.org/sites/default/files/knowhy-img/2016/4/extra/seer/joseph-smith.jpg) used [at Book of Mormon Central](https://knowhy.bookofmormoncentral.org/content/why-is-a-seer-greater-than-a-prophet)).  A white hat obviously reflects direct and ambient light better than a dark hat, so a light hat would have helped to harness any available light for purposes of viewing a manuscript fragment concealed within it.
 
-    Regardless, further work is needed in order to determine if any of the methods discussed above are actually viable with parchment inside a beaver-skin top hat (of any color).  In a cursory experiment with my gardening hat in my semi-lit kitchen, it was easy to get enough light in to make out small words on printed text both by placing my face close to the hat opening and also by allowing some light in through some porous material on the sides, but this is admittedly a poor approximation of known conditions.
+    Bill Reel apparently has in his possession a white top hat like Jopseh might have used.  [RFM remarked](https://radiofreemormon.org/2020/05/radio-free-mormon-161-magic-and-the-book-of-mormon/) that the material was fairly translucent, allowing a fair amount of light through the white material.
+
+    Further work should quantify and more rigorously document the apparent translucence of the hat.
 
 ### Doing the math
 
