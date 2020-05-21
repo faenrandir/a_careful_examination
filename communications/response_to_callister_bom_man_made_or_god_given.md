@@ -11,40 +11,13 @@ On November 1, 2016, Tad Callister, general president of the Sunday School and f
 
 Although some responses were made to his conference address, very partial responses have been made to his book,[^partialresponsetobook] and some responses have addressed portions of his devotional, none have yet responded to his arguments in full.  Given that Callister carefully and emphatically lays out a case in defense of the orthodox LDS position, and given his status as a general officer of the Church and the forum where the address was delivered, it seems appropriate to offer up a detailed counter-response to Callister's core arguments.[^nobookresponse]
 
-### Two Models: "ancient" and "modern"
-
-In discussing Callister's talk, two models will be compared: 
-
-* The **modern origin model** suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
-    * Joseph Smith was primarily responsible for the creation of the text. Those espousing this model include Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).
-    * Some other group of people were responsible.  [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.  [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.  Joseph may have helped or played a role in dictation, but others were primarily responsible for the content.
-* The **ancient origin model** (AKA **divine intervention model**) suggests that Joseph Smith was able to convey the meaning of an ancient American source into English.  And, if ancient information were somehow being transmitted through Smith, then this strongly implies supernatural intervention since nobody knew ancient American languages at the time.  Four main theories have been advanced for the translation:
-    * An **ironclad** translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  As [Royal Skousen has observed](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), "A number of statements from the witnesses definitely show that virtually all of them believed in the iron-clad theory."  Still, enough data contradicts this model that few, if any, scholars support it today.
-    * A **tight** translation (or "tight-control") is like an ironclad translation but leaves room for Joseph to impose some small variation on the outcome of the translation.  [The early work of Royal Skousen](https://scholarsarchive.byu.edu/jbms/vol7/iss1/4/) supports this model.
-    * A **loose** translation (or "loose-control") leaves room for Joseph to impose greater variation on the outcome of the translation.  Still, this model suggests that the essence of what was on the ancient plates is being transmitted.
-    * The **expansionist** model allows Joseph broad room to express ideas in whatever language he chooses and to interject or expand *significantly* on the ancient text being transmitted.  Blake Ostler [first outlined this model](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf) ([2005 update](https://www.timesandseasons.org/harchive/2005/04/updating-the-expansion-theory/))
-
-The models may be arranged in order of increasing modern influence:
-
-<figure>
-  <center><img src="{{ "/communications/images/bom_origin_models.png" | relative_url }}" alt="Relationship of models for the Book of Mormon"></center>
-  <figcaption><strong>Book of Mormon models arranged by modern influenced</strong><br/>The modern origin model may be viewed as one additional step beyond the expansionist model where all elements are viewed as having a modern origin.</figcaption>
-</figure>
-
-
-
-
-Royal Skousen, the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon, has suggested some [mixture of tight and loose control](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), and [more recently for the expansionist model]({{ "/skousen-literal-translation-of-the-plates/" | relative_url }}), at least in part.
-
-Callister likely has in mind the "tight" model of translation, so this is the model this response has in mind, typically, when referring to the "ancient origin" or "divine intervention" model.  Most of the counter-arguments to his devotional would also apply to a "loose" translation model and to some lesser extent the expansionist model.
-
 # Response
 
 Callister's devotional is quoted in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  Callister's headings are duplicated below to help orient the reader.
 
 To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).  
 
-## The Book of Mormon is the Keystone of our Religion (Keystone")
+## The Book of Mormon is the Keystone of our Religion ("Keystone")
 
 > <span style="color:red; margin-left:-30px;">[Keystone:1–2] ... Because the Book of Mormon is “the keystone of our religion,” as described by Joseph Smith, **the Church rises or falls on the truth of it.** (emphasis added)</span>
 
@@ -82,7 +55,7 @@ Billions will testify of the truthfulness of the Quran.  Millions will testify o
 
 Of course, almost all religious books (such as those mentioned above) are readily available for examination.  Still, it should be noted that the Golden Plates, which could far more definitively settle issues of historical provenance, are unavailable for examination.
 
-In two cases---the translation of Egyptian papyri to create the Book of Abraham and the Kinderhook plates---the original material which catalyzed a translation attempt *have* been recovered and fully analyzed.  In both cases, the source material has been shown by LDS scholars to have, at face value, essentially nothing to do with the translation Joseph produced.[^settling_provenance] 
+In two cases---the translation of Egyptian papyri to create the Book of Abraham and the Kinderhook plates---the original material which catalyzed a translation attempt *have* been recovered and fully analyzed.  In both cases, the source material has been shown by LDS scholars to have, at face value, little or nothing to do with the translation Joseph produced.[^settling_provenance] 
 
 > <span style="color:red; margin-left:-30px;">[Keystone:6e] Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.</span>
 
@@ -102,7 +75,7 @@ As Callister alludes, it has been well over 150 years since anyone has subscribe
 
 Callister's first argument is problematic: if Oliver Cowdery were a conspirator, then we would expect him to lie about Joseph's abilities, but if he were one of those fooled during the production of the book, then he would testify that it was true.  So, Cowdery's testimony is not difficult to reconcile with the modern origin hypothesis and is no strong evidence, by itself, for the ancient origin model.
 
-The possibility that Cowdery was a co-conspirator should be considered:
+The possibility that Cowdery was a co-conspirator may be considered:
 
 First, Cowdery appears to have used the same kind of story of translation as Joseph used and not the mechanism that other witnesses observed.  Several third party observers, including Emma, are adamant that Joseph used his seer-stone in a hat as the primary translation method ([employed for nearly the entirety of the Book of Mormon as it exists today](https://www.lds.org/topics/book-of-mormon-translation?lang=eng)), but Cowdery always uses the same phrases as Joseph did and never mentions the seer stone or the hat.  [For instance](https://www.lds.org/topics/book-of-mormon-translation?lang=eng#21), Cowdery testified under oath in 1831 that he "found with the plates, from which he translated his book, two transparent stones, resembling glass, set in silver bows. That by looking through these, he was able to read in English, the reformed Egyptian characters, which were engraved on the plates." And [in an interview in 1830](https://www.josephsmithpapers.org/intro/introduction-to-documents-volume-1-july-1828-june-1831?p=1&highlight=McNemar) that the translation was performed with "two transparent stones in the form of spectacles thro which the translator looked on the engraving." (See [Welch](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) for additional examples of Cowdery's testimony).
 
