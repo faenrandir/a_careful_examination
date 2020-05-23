@@ -56,6 +56,16 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321)  pg 317 (quoting Spencer W. Kimball's The Miracle of Forgiveness) (The manual was copyrighted in [1978 and 1979](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1) and was superceded by [a new manual in 2014](https://www.lds.org/manual/new-testament-student-manual/title-page?lang=eng), I believe)
 
+### attempting to prove that these impulses are inborn
+
+> Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted; and therefore, such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.
+
+> ...
+
+> All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.
+
+Elder Boyd K. Packer, [https://www.churchofjesuschrist.org/study/general-conference/1990/10/covenants?lang=eng](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+
 ### some suppose that they were preset
 
 > Some suppose that they were preset and cannot overcome what they feel are inborn temptations toward the impure and unnatural. Not so! [Why would our Heavenly Father do that to anyone?] Remember, God is our Heavenly Father.  (bracketed text in audio/video only)
