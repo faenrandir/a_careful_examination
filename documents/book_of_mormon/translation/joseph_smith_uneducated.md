@@ -6,19 +6,54 @@ doctype: short-analysis
 layout: page
 ---
 
-Some theories for Book of Mormon authorship invoke co-authors instead of Joseph (e.g. [Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3), [Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6), [Trebas](https://www.youtube.com/watch?v=wf3MluItWQE&t=35s)), but other scholars (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and Brent Metcalfe [facebook communication]) maintain that Joseph Smith was primarily responsible for creating the Book of Mormon.
+### Introduction
 
-Was Joseph Smith capable of such a feat?
+A variety of theories for the creation of the Book of Mormon [have been advanced](https://byustudies.byu.edu/content/naturalistic-explanations-origin-book-mormon-longitudinal-study?fbclid=IwAR1Wr0-kuk68GfABlpZ9SFcB0IEY5LZ840sDncuf4Ld73iF-g4iSyd_Jt1Q) in the past, but most modern scholars believe Joseph was primarily responsible for the book (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and [William Davis](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407)).
 
-## Reading and meditation
+Latter-day Saints tend to downplay Joseph Smith's intellectual abilities.[^downplayjosephsabilities] Was Joseph Smith capable of such a feat?  This document advances historical evidence which supports Joseph's potential ability to composesuch a work.
 
-### Self described reading
+### Religious and educational environment
+
+1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
+1. Hyrum attended [Moore Academy at Dartmouth](https://www.deseretnews.com/article/705381677/Joseph-Smiths-doc-only-man-who-could-save-leg.html) (where he may have been exposed to [the teachings of professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}))
+1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
+1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
+    * Jane Austen: about [two years of formal education](https://en.wikipedia.org/wiki/Jane_Austen)---completed First Impressions (published as Pride and Prejudice) at the age of 21.
+    * Abraham Lincoln: [about 1 year of "formal" education](https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln)
+    * Walt Whitman: [6 years](https://en.wikipedia.org/wiki/Walt_Whitman)
+    * Mark Twain [5 years](https://en.wikipedia.org/wiki/Mark_Twain)
+    * Herman Melville [6 years](https://books.google.com/books?id=amPSiPy0XJ4C&pg=PA3&lpg=PA3&dq=herman+melville+years+of+schooling&source=bl&ots=N5rQ1EEfpg&sig=nOpniJzgoGCv5zFD6ftRrNPYlVk&hl=en&sa=X&ved=0ahUKEwijraPT3K_TAhVM7mMKHeoPARc4ChDoAQgnMAE#v=snippet&q=%22six%20years%20of%20formal%20schooling%22&f=false)
+
+    Each of the above had less or only somewhat more formal education than Joseph Smith and it goes without saying that they were able to compose works of outstanding fiction.
+1. A recent analysis of Joseph's education puts the number of years at possibly closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
+1. In the Joseph Smith's time it was commonplace to downplay "a person's education in order to accentuate the miraculous nature of his or her accomplishments." (see pgs 62--65 of [William Davis's Dissertation](https://escholarship.org/uc/item/86h814zv) for many examples)
+1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
+
+### Self described religious immersion
 
 In his earliest history, [Joseph smith wrote](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2) (emphasis added):
 
 > I was born in the town of Charon [Sharon] in the State of Vermont North America on the twenty third day of December AD 1805 of goodly Parents **who spared no pains to instructing me in the christian religion**. at the age of about ten years my Father Joseph Smith Seignior moved to Palmyra Ontario County in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren and as it required the exertions of all that were able to render any assistance for the support of the Family **therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading writing and the ground rules of Arithmatic which constituted my whole literary acquirements. **At about the age of twelve years** my mind become seriously imprest with regard to the all importent concerns for the wellfare of my immortal Soul which **led me to searching the scriptures** believeing as I was taught, that they contained the word of God thus applying myself to them and **my intimate acquaintance with those of differant denominations** led me to marvel excedingly for I discovered that they did not adorn their profession by a holy walk and Godly conversation agreeable to what I found contained in that sacred depository this was a grief to my Soul thus **from the age of twelve years to fifteen I pondered many things in my heart concerning the sittuation of the world of mankind the contentions and divisions the wickedness and abominations and the darkness which pervaded the minds of mankind my mind become excedingly distressed for I become convicted of my sins and by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith** and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament and I felt to mourn for my own sins and for the sins of the world ...
 
 So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how [familiar he was with the scriptures and the religious arguments of the day]({{ "/religious-interest-and-capability-from-1832-statement/" | relative_url }}).  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
+
+### Accounts emphasizing meditation or reading
+
+Joseph Smith Sr., in [a patriarchal blessing given to Joseph](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) stated:
+
+> ... thou hast sought to know his ways, and from thy childhood thou hast meditated much upon the great things of his law. ...
+
+Pomeroy Tucker, a Palmyra bookseller, [noted](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up/search/read+comprehensively)[^pomeroytucker]:
+
+> Joseph ... as he grew in years, had learned to read comprehensively [i.e., Smith read on every available topic], in which qualification he was far in advance of his elder brother, and even of his father; and this talent was assiduously devoted, as he quitted or modified his idle habits, to the perusal of works of fiction and records of criminality, such for instance as would be classed with the ‘dime novels’ or the present day. The story of Stephen Burroughs and Captain Kidd, and the like, presented the highest charms for his expanding mental perceptions. As he further advanced in reading and knowledge, he assumed a spiritual or religious turn of mind, and frequently perused the bible, becoming quite familiar with portions thereof, both of the Old and New Testaments; selected texts from which he quoted and discussed with great assurance when in the presence of his superstitious acquaintances. The Prophecies and Revelations were his special forte. His interpretations of scriptural passages were always original and unique, and his deductions and conclusions often disgustingly blasphemous, according to the common apprehension of Christian people.
+
+In a late reminiscence, a Rochester paper store clerk, identified by Vogel as William Alling noted (as cited by Vogel, from [here](http://www.todayinmormonhistory.com/2018/04/)):
+
+> It may be of interest in this connection to know that one of the early customers of Mr. Alling was a man who became famous as the founder of Mormonism, Joseph Smith. He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and talking theology. It was at this time that he was engaged in writing his "Book of Mormon," but the present firm disclaims all responsibility for Mr. Smith's religious conclusions, even if he did buy his books and writing paper from their store.
+
+### Lifelong pattern of reading and meditation
+
+Joseph left no records of his life before the dictation of the Book of Mormon, but his journal entries in the years following the dictation Book of Mormon suggest he was a man comfortable spending hours reading and meditating.
 
 In a [letter to Emma in 1832](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-13-october-1832/3)[^williamdaviscredit]:
 
@@ -48,39 +83,7 @@ Journal entry of [December 12, 1835](https://www.josephsmithpapers.org/paper-sum
 
 > Saturday Morning 12th. Spent the forenoon in reading.
 
-### Other accounts of Smith's reading
-
-Pomeroy Tucker, a Palmyra bookseller, [noted](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up/search/read+comprehensively)[^pomeroytucker]:
-
-> Joseph ... as he grew in years, had learned to read comprehensively [i.e., Smith read on every available topic], in which qualification he was far in advance of his elder brother, and even of his father; and this talent was assiduously devoted, as he quitted or modified his idle habits, to the perusal of works of fiction and records of criminality, such for instance as would be classed with the ‘dime novels’ or the present day. The story of Stephen Burroughs and Captain Kidd, and the like, presented the highest charms for his expanding mental perceptions. As he further advanced in reading and knowledge, he assumed a spiritual or religious turn of mind, and frequently perused the bible, becoming quite familiar with portions thereof, both of the Old and New Testaments; selected texts from which he quoted and discussed with great assurance when in the presence of his superstitious acquaintances. The Prophecies and Revelations were his special forte. His interpretations of scriptural passages were always original and unique, and his deductions and conclusions often disgustingly blasphemous, according to the common apprehension of Christian people.
-
-In a late reminiscence, a Rochester paper store clerk, identified by Vogel as William Alling noted (as cited by Vogel, from [here](http://www.todayinmormonhistory.com/2018/04/)):
-
-> It may be of interest in this connection to know that one of the early customers of Mr. Alling was a man who became famous as the founder of Mormonism, Joseph Smith. He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and talking theology. It was at this time that he was engaged in writing his "Book of Mormon," but the present firm disclaims all responsibility for Mr. Smith's religious conclusions, even if he did buy his books and writing paper from their store.
-
-## Blessing from his Father
-
-Joseph Smith Sr., in [a patriarchal blessing given to Joseph](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) stated:
-
-> ... thou hast sought to know his ways, and from thy childhood thou hast meditated much upon the great things of his law. ...
-
-## Religious and educational environment
-
-1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
-1. Hyrum attended [Moore Academy at Dartmouth](https://www.deseretnews.com/article/705381677/Joseph-Smiths-doc-only-man-who-could-save-leg.html) (where he may have been exposed to [the teachings of professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}))
-1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
-1. Joseph Smith had 3 years of "formal" education.  But compare that with other prolific authors of his era:
-    * Jane Austen: about [two years of formal education](https://en.wikipedia.org/wiki/Jane_Austen)---completed First Impressions (published as Pride and Prejudice) at the age of 21.
-    * Abraham Lincoln: [about 1 year of "formal" education](https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln)
-    * Walt Whitman: [6 years](https://en.wikipedia.org/wiki/Walt_Whitman)
-    * Mark Twain [5 years](https://en.wikipedia.org/wiki/Mark_Twain)
-    * Herman Melville [6 years](https://books.google.com/books?id=amPSiPy0XJ4C&pg=PA3&lpg=PA3&dq=herman+melville+years+of+schooling&source=bl&ots=N5rQ1EEfpg&sig=nOpniJzgoGCv5zFD6ftRrNPYlVk&hl=en&sa=X&ved=0ahUKEwijraPT3K_TAhVM7mMKHeoPARc4ChDoAQgnMAE#v=snippet&q=%22six%20years%20of%20formal%20schooling%22&f=false)
-
-    Each of the above had less or only somewhat more formal education than Joseph Smith and it goes without saying that they were able to compose works of outstanding fiction.
-1. A recent analysis of Joseph's education puts the number of years at possibly closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).  In addition, 
-1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
-
-## Intellectual powers
+### Intellectual powers
 
 John Taylor [said of him](https://www.lds.org/manual/teachings-joseph-smith/chapter-47?lang=eng) (emphasis added):
 
@@ -92,9 +95,9 @@ As an adult he attended some high school.  His teacher, William E. McLellin, [de
 
 Finally, although he wrote this letter 14 years after the final translation phase of the Book of Mormon, Joseph Smith's [letter to James Arlington Bennet in 1843](http://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript) demonstrates a command of rhetoric and repetition indicative of a powerful literary intellect.
 
-## Emma's last testimony
+### Emma's last testimony
 
-[Emma's last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
+The most frequent testimony advanced to suggest that Joseph was not be capable of composing the Book of Mormon was delivered by his wife, Emma.  Her [last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
 
 > Question. Could not father have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?
 
@@ -106,11 +109,8 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
 
 Despite lacking extensive formal training, Joseph was clearly raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.
 
-Looking at the data as a whole, then, it seems reasonable to conclude that Joseph Smith was religiously, educationally, and intellectually *capable* of dictating a book like the Book of Mormon.
-
 [^williamdaviscredit]: The instances from 1832 and beyond where Joseph is recorded to have been engaged in reading for the day, along with other first hand accounts of Joseph's reading, were first brought to my attention in reading William Davis's [PhD dissertation](https://escholarship.org/uc/item/86h814zv).
 
 [^pomeroytucker]: Richard Lloyd Anderson invokes Pomeroy Tucker's testimony in establishing circumstantial evidence for the first vision.  Lloyds [analysis of Tucker's testimony](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up/search/read+comprehensively) suggests caution in dismissing all of Tucker's observations as unfounded or biased (emphasis added):
 
     > From the point of view of history Tucker's *Origin, Rise, and Progress of Mormonism* is a disappointing performance.  With access to the generation that remembered the establishment of the Prophet's work, the experienced editor is content to quote the Hurlburt-Howe affidavits, to repeat common gossip, to quote extensive portions of the Book of Mormon and articles about Brigham Young for the bulk of the book. Although but weakly living up to the subtitle ("Personal Remembrances and Historical Collections Hitherto Unwritten"), **Tucker does relate much valuable information concerning the period of the publication of the Book of Mormon**.  He also claims knowledge of the Smiths "since their removal to Palmyra from Vermont in 1816, and during their continuance there and in the adjoining town of Manchester." **There is no reason to question this firsthand contact provided one is on guard not to take his western New York prejudice for fact**. It is to his credit that he could at least distinguish between the two. He repeats tattered stories about Joseph Smith's dishonesty only to admit in "common fairness" that such allegations were "not within the remembrance of the writer." **Although Tucker is content to repeat the armchair observations about the laziness of the Smiths, every one of his specific descriptions proves the opposite. Most of Tucker's unattributed particulars of the Smith's early Palmyra life are probably based on his observation**. His negative material from Palmyra is generally traceable to known statements and the "hitherto unwritten" incidents are typically details of human interest.  The descriptions of the Smiths in Palmyra prior to 1820 tend to belong to this category 
-
