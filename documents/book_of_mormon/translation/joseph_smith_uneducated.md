@@ -40,6 +40,7 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
 1. Hyrum attended [Moore Academy at Dartmouth](https://www.deseretnews.com/article/705381677/Joseph-Smiths-doc-only-man-who-could-save-leg.html) (where he may have been exposed to [the teachings of professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}))
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  But compare that with other prolific authors of his era:
+    * Jane Austen: about [two years of formal education](https://en.wikipedia.org/wiki/Jane_Austen)---completed First Impressions (published as Pride and Prejudice) at the age of 21.
     * Abraham Lincoln: [about 1 year of "formal" education](https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln)
     * Walt Whitman: [6 years](https://en.wikipedia.org/wiki/Walt_Whitman)
     * Mark Twain [5 years](https://en.wikipedia.org/wiki/Mark_Twain)
