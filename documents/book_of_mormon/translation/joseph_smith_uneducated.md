@@ -10,7 +10,9 @@ Some theories for Book of Mormon authorship invoke co-authors instead of Joseph 
 
 Was Joseph Smith capable of such a feat?
 
-## Own statements
+## Reading and meditation
+
+### Self described reading
 
 In his earliest history, [Joseph smith wrote](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2) (emphasis added):
 
@@ -18,21 +20,49 @@ In his earliest history, [Joseph smith wrote](https://www.josephsmithpapers.org/
 
 So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how [familiar he was with the scriptures and the religious arguments of the day]({{ "/religious-interest-and-capability-from-1832-statement/" | relative_url }}).  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
 
+In a [letter to Emma in 1832](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-13-october-1832/3)[^williamdaviscredit]:
+
+> I prefer reading and praying and holding communeion with the holy spirit and writing to you then walking the streets and beholding the distraction of man.
+
+Joseph recorded in his [journal for November 28th, 1832](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/3):
+
+> this day I have [spent?] in reading and writing this Evening my mind is calm and serene ...
+
+Journal entry of [October 5, 1835](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/5):
+
+> ... spent the remainder of the day in reading and meditation ...
+
+Journal entry of [October 6, 1835](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/6):
+
+> ... spent the rest of the day in reading and meditation
+
+Journal entry of [November 21, 1835](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/48):
+
+> Saturday 21st at home, spent the day in examining my books and studying the ~~my~~ hebrew alphabet
+
+Journal entry of [December 11, 1835](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/115):
+
+> Spent the day in reading and instructing those who called for advice.
+
+Journal entry of [December 12, 1835](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/115):
+
+> Saturday Morning 12th. Spent the forenoon in reading.
+
+### Other accounts of Smith's reading
+
+Pomeroy Tucker, a Palmyra bookseller, [noted](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up/search/read+comprehensively)[^pomeroytucker]:
+
+> Joseph ... as he grew in years, had learned to read comprehensively [i.e., Smith read on every available topic], in which qualification he was far in advance of his elder brother, and even of his father; and this talent was assiduously devoted, as he quitted or modified his idle habits, to the perusal of works of fiction and records of criminality, such for instance as would be classed with the ‘dime novels’ or the present day. The story of Stephen Burroughs and Captain Kidd, and the like, presented the highest charms for his expanding mental perceptions. As he further advanced in reading and knowledge, he assumed a spiritual or religious turn of mind, and frequently perused the bible, becoming quite familiar with portions thereof, both of the Old and New Testaments; selected texts from which he quoted and discussed with great assurance when in the presence of his superstitious acquaintances. The Prophecies and Revelations were his special forte. His interpretations of scriptural passages were always original and unique, and his deductions and conclusions often disgustingly blasphemous, according to the common apprehension of Christian people.
+
+In a late reminiscence, a Rochester paper store clerk, identified by Vogel as William Alling noted (as cited by Vogel, from [here](http://www.todayinmormonhistory.com/2018/04/)):
+
+> It may be of interest in this connection to know that one of the early customers of Mr. Alling was a man who became famous as the founder of Mormonism, Joseph Smith. He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and talking theology. It was at this time that he was engaged in writing his "Book of Mormon," but the present firm disclaims all responsibility for Mr. Smith's religious conclusions, even if he did buy his books and writing paper from their store.
+
 ## Blessing from his Father
 
 Joseph Smith Sr., in [a patriarchal blessing given to Joseph](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) stated:
 
 > ... thou hast sought to know his ways, and from thy childhood thou hast meditated much upon the great things of his law. ...
-
-## Emma's last testimony
-
-[Emma's last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
-
-> Question. Could not father have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?
-
-> Answer. Joseph Smith (and for the first time she used his name direct, having usually used the words, “your father” or “my husband”) **could neither write nor dictate a coherent and well-worded letter**, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me, “a marvel and a wonder,” as much so as to anyone else.
-
-However, there are [good reasons to discount aspects of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
 
 ## Religious and educational environment
 
@@ -46,8 +76,8 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
     * Mark Twain [5 years](https://en.wikipedia.org/wiki/Mark_Twain)
     * Herman Melville [6 years](https://books.google.com/books?id=amPSiPy0XJ4C&pg=PA3&lpg=PA3&dq=herman+melville+years+of+schooling&source=bl&ots=N5rQ1EEfpg&sig=nOpniJzgoGCv5zFD6ftRrNPYlVk&hl=en&sa=X&ved=0ahUKEwijraPT3K_TAhVM7mMKHeoPARc4ChDoAQgnMAE#v=snippet&q=%22six%20years%20of%20formal%20schooling%22&f=false)
 
-    Each of the above had less or only marginally more formal education than Joseph Smith and it goes without saying that those men were able to compose works of outstanding fiction.
-1. A recent analysis of Joseph's education puts the number of years at closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
+    Each of the above had less or only somewhat more formal education than Joseph Smith and it goes without saying that they were able to compose works of outstanding fiction.
+1. A recent analysis of Joseph's education puts the number of years at possibly closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).  In addition, 
 1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
 
 ## Intellectual powers
@@ -62,8 +92,25 @@ As an adult he attended some high school.  His teacher, William E. McLellin, [de
 
 Finally, although he wrote this letter 14 years after the final translation phase of the Book of Mormon, Joseph Smith's [letter to James Arlington Bennet in 1843](http://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript) demonstrates a command of rhetoric and repetition indicative of a powerful literary intellect.
 
+## Emma's last testimony
+
+[Emma's last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
+
+> Question. Could not father have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?
+
+> Answer. Joseph Smith (and for the first time she used his name direct, having usually used the words, “your father” or “my husband”) **could neither write nor dictate a coherent and well-worded letter**, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me, “a marvel and a wonder,” as much so as to anyone else.
+
+However, there are [good reasons to discount aspects of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
+
 ## Conclusion
 
 Despite lacking extensive formal training, Joseph was clearly raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.
 
 Looking at the data as a whole, then, it seems reasonable to conclude that Joseph Smith was religiously, educationally, and intellectually *capable* of dictating a book like the Book of Mormon.
+
+[^williamdaviscredit]: The instances from 1832 and beyond where Joseph is recorded to have been engaged in reading for the day, along with other first hand accounts of Joseph's reading, were first brought to my attention in reading William Davis's [PhD dissertation](https://escholarship.org/uc/item/86h814zv).
+
+[^pomeroytucker]: Richard Lloyd Anderson invokes Pomeroy Tucker's testimony in establishing circumstantial evidence for the first vision.  Lloyds [analysis of Tucker's testimony](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up/search/read+comprehensively) suggests caution in dismissing all of Tucker's observations as unfounded or biased (emphasis added):
+
+    > From the point of view of history Tucker's *Origin, Rise, and Progress of Mormonism* is a disappointing performance.  With access to the generation that remembered the establishment of the Prophet's work, the experienced editor is content to quote the Hurlburt-Howe affidavits, to repeat common gossip, to quote extensive portions of the Book of Mormon and articles about Brigham Young for the bulk of the book. Although but weakly living up to the subtitle ("Personal Remembrances and Historical Collections Hitherto Unwritten"), **Tucker does relate much valuable information concerning the period of the publication of the Book of Mormon**.  He also claims knowledge of the Smiths "since their removal to Palmyra from Vermont in 1816, and during their continuance there and in the adjoining town of Manchester." **There is no reason to question this firsthand contact provided one is on guard not to take his western New York prejudice for fact**. It is to his credit that he could at least distinguish between the two. He repeats tattered stories about Joseph Smith's dishonesty only to admit in "common fairness" that such allegations were "not within the remembrance of the writer." **Although Tucker is content to repeat the armchair observations about the laziness of the Smiths, every one of his specific descriptions proves the opposite. Most of Tucker's unattributed particulars of the Smith's early Palmyra life are probably based on his observation**. His negative material from Palmyra is generally traceable to known statements and the "hitherto unwritten" incidents are typically details of human interest.  The descriptions of the Smiths in Palmyra prior to 1820 tend to belong to this category 
+
