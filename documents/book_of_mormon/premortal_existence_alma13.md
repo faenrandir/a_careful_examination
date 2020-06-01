@@ -32,7 +32,7 @@ In the same article, Givens seems to indicate that Joseph Smith may have been ex
 
 > We too often think that Joseph (Smith) started with a clean slate, repudiating the entire Christian past and starting out fresh, only teaching that which came to him direct from the Heavens; but he emphatically resisted any such expression," Givens said. "His was a generous mind, unafraid to embrace truth wherever he found it and bring it home to Zion.
 
-Elsewhere, though, he notes that the brand of pre-mortal existence Joseph Smith taught [was idosyncratic](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4357&context=byusq):
+Elsewhere, though, he notes that the brand of pre-mortal existence Joseph Smith taught [was idosyncratic](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4357&context=byusq) and he is aware of no evidence of influence:
 
 > One should not assume that because I am LDS, I must be writing with the intention of mustering arguments on behalf of an LDS theology. If that were indeed the case, I would have failed entirely. For in the entire history of the idea of a premortal soul, virtually no version matches Joseph Smith’s conception or shows evidence of having influenced his own.
 
