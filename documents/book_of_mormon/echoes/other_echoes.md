@@ -36,6 +36,5 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
-1. [realbookofmormon.org Likely Sources](http://realbookofmormon.org/likely-sources/)
 1. [Faith of a naturalist]({{ "/faith-naturalist-response-faith-science-teacher-questions/" | relative_url }}) (see FST-15--FST-21)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)
