@@ -5,10 +5,16 @@ doctype: short-analysis
 layout: page
 ---
 
-[Many accounts](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F) are interpreted by Latter-day Saints that their leaders have seen and/or spoken with Jesus.
+## Introduction
+
+[Many accounts](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F) are interpreted by Latter-day Saints to mean that their leaders have seen and/or spoken with Jesus.
+
+## Reasons to be skeptical
+
+What reasons are there to be skeptical of such an interpretation?
 
 1. 5% of the general population (_non-schizophrenic_) have experienced hallucinations ([summary](https://www.livescience.com/50999-hallucinations-delusions-common.html), [article](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2298236))
-1. Many Church leaders, particular Apostles, probably spend significant time ruminating on a potential visit with Jesus.  So, if they hallucinate something, Jesus seems like a good candidate.
+1. Many Church leaders, particularly the Apostles, probably spend significant time ruminating on a potential visit with Jesus.  So, if they hallucinate something, Jesus seems like a good candidate.
 1. Given that the apostle office comes with the charge to see Jesus (see notes at end), the apostles are likely to be highly suggestible.  We know from experiments with the [Koren helmet](https://en.wikipedia.org/wiki/God_helmet) that spiritual experience is a highly suggestible phenomenon.
 1. People in different cultures seem to hallucinate different deities (see quote by Beit-Hallahmi towards the end).
 1. Apostles are instructed to give vague, re-assuring answers, if they are asked about seeing God (have read this, but need to track this down).
@@ -54,9 +60,8 @@ If a person _actually_ spoke with an omniscient, omnipotent being, this is hugel
 
 > Mystical experiences, considered unique and individual, are totally culture-dependent.  We know that the specific content of visions, the most intense and personal of religious acts, is wholly predictable from exposure to certain ideas, which are always learned.  Visions of the Holy Virgin occur exclusively among Catholics or those exposed to Catholic ideas.  They have never occurred among Orthodox Jews...
 
----
 
-### Notes
+### Appendix
 
 #### Charge to be eye and ear witnesses
 
