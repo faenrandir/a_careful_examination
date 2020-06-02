@@ -64,9 +64,23 @@ layout: page
 
 ## Apologetic
 
+### FairMormon
+
 1. [FairMormon - Can We Trust Our Feelings](http://www.fairmormon.org/perspectives/publications/can-we-trust-our-feelings)
 1. [FairMormon -  Is the "burning in the bosom" a reliable method of determining truth?](http://en.fairmormon.org/Holy_Ghost/Burning_in_the_bosom)
 1. [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies)
 1. [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories)
+
+### Conflict of Justice
+
+1. [Why Did Latter-Day Saints ‘Feel The Spirit’ From Paul H. Dunn’s Made-Up Stories?](http://www.conflictofjustice.com/mormons-feel-spirit-paul-h-dunns-stories/)
+1. [Is God’s Method Of Revealing Truth Through ‘Feelings’ Effective?](http://www.conflictofjustice.com/is-gods-method-of-revealing-truth-through-feelings-effective/)
+1. [Why Does Following The Holy Ghost Sometimes Lead To Failure?](http://www.conflictofjustice.com/following-holy-ghost-lead-failure/) 
+1. [Can We Feel The Spirit From R-Rated Movies?](http://www.conflictofjustice.com/feel-spirit-r-rated-movies-church/) 
+
+### Uplift Community of Faith
+
+1. [Latter-Day Saint Epistemology](https://www.docdroid.net/Y16AZ9U/epistemology-slides-uplift-community-of-faith-pdf)
+1. [Faith Crisis 101](https://www.docdroid.net/quxhG25/faith-crisis-101-pdf) 
 
 *acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts [here](https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/) including several posts and videos that I wasn't previously aware of.  He also alerted me to one of the street epistemology videos and the Dunning videos.*
