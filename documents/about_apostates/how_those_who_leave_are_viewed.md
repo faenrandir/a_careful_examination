@@ -546,6 +546,14 @@ Also discussed [here](http://zelphontheshelf.com/lds-philanthropies-if-your-kids
 
 [From here](https://www.reddit.com/r/exmormon/comments/43gpix/what_did_you_go_through_when_you_decided_to_not/)
 
+### fell to pride and light has gone out within you
+
+> ... The one thing your Patriarchal Blessing warned you both of, was pride.  And that's the one thing you fell to. ...
+
+> ... You have fed confirmation bias. ... You both have told me you think you are more humble.  But the light that has gone out within you says otherwise...
+
+[From here](https://web.archive.org/web/20200604073440/https://www.reddit.com/r/exmormon/comments/gwbybz/i_feel_like_a_broken_record_playing_towards_a/)
+
 ### may be shunned to some degree
 
 > We were ultra TBM-All of us were presidents (primary, ym etc..) Then our family of 4 left. My best friend was our bishops wife. Our son is besties with one of their sons, our daughter is besties with one of the older sons. Our whole family left the church less than a year ago.
