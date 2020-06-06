@@ -1,6 +1,7 @@
 ---
 title: "Brigham discusses honesty in women during Q12 meeting"
 permalink: /brigham-young-q12-minutes-1847-12-09/
+maintopic: transparency
 doctype: transcript
 layout: page
 ---
