@@ -17,7 +17,7 @@ Traditional marriage is great because it fosters an environment where sexual rep
 
 The government has an interest in supporting parents in their child-rearing duties regardless of the other two modules.  This is why the government offers support to both single mothers and adoptive couples---from a government perspective it makes sense to support *any* parent / legal guardian!
 
-Virtually all of our legislation regarding marriage over the past 50 years has focused on committed companionship and parenting.  The state has virtually ignored the sexual reproduction module in how it interacts with marriage.  If you look at the rulings it is clear that judges looked careful at the parenting aspect.  Homosexual marriage fulfills the goals of the state because where homosexual couples intend to raise children, a committed two partner home is far superior to a single home.  Basically, marriage between homosexuals has been deemed *close enough* in the eyes of the state.  So, when one acknowledges the manner in which the state *currently* treats marriage, it is clearly unequal treatment of homosexuals to deny them participation in the institution.
+Virtually all of our legislation regarding marriage over the past 50 years has focused on committed companionship and parenting.  The state has virtually ignored the sexual reproduction module in how it interacts with marriage.  If you look at the rulings it is clear that judges looked carefully at the parenting aspect.  Homosexual marriage fulfills the goals of the state because where homosexual couples intend to raise children, a committed two partner home is far superior to a single home.  Basically, marriage between homosexuals has been deemed *close enough* in the eyes of the state.  So, when one acknowledges the manner in which the state *currently* treats marriage, it is clearly unequal treatment of homosexuals to deny them participation in the institution.
 
 In one sense, the legal battle over SSM was lost decades before the issue was fought in the courts and at election booths because marriage had already been defined societally primarily in terms of "committed companionship" and not in the intersection between committed companionship, parenting, and sexual reproduction.  In one sense, this seems unfortunate for opponents of SSM.  However, one can also argue that the intersection of the three "modules" is already strongly incentivized and supported via our biological heritage.  Our species will continue to value the intersection between committed companionship, parenting, and sexual reproduction with or without state sanction because there are deep biological drivers which incentivize it.  Given that the state offers massive support for the education of all children, we can acknowledge that the state is *already* committing the most resources to that module which requires the most assistance from the state (in a modern nation-state), and it is doing so in a manner that is mostly likely to benefit _all_ children, regardless of the union which produced them or the nature of the relationships of their caretakers which, relative to the parenting module, are of secondary concern to the state.
 
@@ -47,7 +47,17 @@ The counter-argument, of course, is that marriage _today_ is hardly even concern
 
 ### The word 'marriage'
 
-Although we like to think of the word "marriage" in a lofty, idyllic sense, the fact is that [the Christian God appears to have condoned a wide variety of couplings in the past](http://images.elephantjournal.com/wp-content/uploads/2008/09/marriage.jpg).
+Although we like to think of the word "marriage" in a lofty, idyllic sense, the fact is that [the Christian God appears to have condoned a wide variety of couplings in the past](https://web.archive.org/web/20190212134626/http://images.elephantjournal.com/wp-content/uploads/2008/09/marriage.jpg).
+
+### Property, Patriarchy, and marriage
+
+One way to view marriage is through the lens of patriarchal systems which were
+a response to an awareness of paternity combined with relatively sedentary
+lifestyles resulting in a desire to protect the accumulation of land and property:
+
+[The Creation of Patriarchy](http://w3.salemstate.edu/~hbenne/pdfs/patriarchy_creation.pdf)
+
+In many ways, [sex is intrinsically linked to morality](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/), so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).
 
 ### Scriptural condemnation of homosexual marriage
 
