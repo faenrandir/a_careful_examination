@@ -22,7 +22,7 @@ And the website [Mormon and Gay](https://mormonandgay.lds.org/articles/frequentl
 
 The following statements were all published by the Church of Jesus Christ of Latter-day Saints.  I am not aware that any apology or redaction exists for any of these statements. Statements are listed in chronological order.
 
-A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not "born that way" and in various ways suggest that homosexual *orientation* may be overcome (i.e., that the orientation may be reversed or significantly diminished).
+A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not "born that way" and in various ways suggest that homosexual *orientation* may be overcome (i.e., that the orientation may be reversed or significantly diminished).  The position was considered "fact".[^opinionorfact]
 
 ### They can overcome and return to normal ... living
 
@@ -32,11 +32,15 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 ### born "that way" ... a base lie
 
+> **IT IS CURABLE**
+
 > Satan tells his victims that it is a natural way of life; that it is normal; that perverts are a different kind of people born ‘that way’ and that they cannot change.  This is a base lie.  All normal people have sex urges and if they control such urges, they grow strong and masterful.  If they yield to their carnal desires and urges, they get weaker until their sins get beyond control.  ‘The knowledge that homosexuality can be effectively treated must be made more generally known, to offset the effect of organized groups of homosexuals who would have society accept homosexuality and relieve them of the pressure to undergo the changes that can be effected through appropriate treatment… It can be overcome and the case of difficulty of overcoming depends largely upon the strength or weakness of the individual, the depth of his entrenchment, the quality and quantity of his desire and determination.’
 
 > Some continue until, when the changing gets difficult, they admit their inability to cope with it and yield.  They rationalize that they are of another class of people; that the Lord made them that way; that they cannot change.  The powerful Lucifer has had his day.
 
 > God made no man a pervert.  To blame a weakness and transgression upon God is cowardly.
+
+> REMEMBER: Homosexuality CAN be cured, if the battle is well organized and pursued vigorously and continuously. ...
 
 > God did not make men evil.  He did not make people ‘that way.’
 
@@ -77,3 +81,5 @@ Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, [Cleansin
 * [What Do We Know of God’s Will For His LGBT Children? An Examination of the LDS Church’s Position on Homosexuality](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/)
 * [What Causes Homosexuality: LDS Statements](https://bradcarmack.blogspot.com/2011/05/i-submitted-this-paper-to-stand-for.html)
 * [Lest We Forget: God's Message to Homosexuals in 69 Authoritative LDS Quotes](https://bradcarmack.blogspot.com/2014/03/lest-we-forget-gods-message-to.html)
+
+[^opinionorfact]: The Church published pamphlet [New Horizons for Homosexuals](http://www.mormonthink.com/files/New-Horizons-for-Homosexuals-by-Apostle-Spencer-W-Kimball.pdf), which states that homosexuality may be cured (see above for quotes), also emphasized that the LDS position was **fact** and supported by the words of the Creator.  The section labeled "OPINION OR FACT" begins: "One young man sought to pit his reasoning against the things I told him, saying: "That is your opinion and *this* is mine."  This caused me to say, "My dear boy, if it were my opinion against yours, I would have nothing more to say.  As an individual my mind might be dull compared to yours; my thoughts might be elementary compared with your erudite ones, but you have forgotten a basic truth.  I am not expressing my thoughts only.  When I say this is sin, I am quoting the Creator of the world.  Truth is truth and needs no eloquent tongue nor brilliant brain to portray it. ..."
