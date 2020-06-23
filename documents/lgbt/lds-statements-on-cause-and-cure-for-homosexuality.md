@@ -68,13 +68,13 @@ LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://
 
 > All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.
 
-Elder Boyd K. Packer, October 2010 General Conference [Cleansing the Innter Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
 
 ### some suppose that they were preset
 
 > Some suppose that they were preset and cannot overcome what they feel are inborn temptations toward the impure and unnatural. Not so! [Why would our Heavenly Father do that to anyone?] Remember, God is our Heavenly Father.  (bracketed text in audio/video only)
 
-Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, [Cleansing the Inner Vessel, October 3 2010](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
 
 ## See Also
 
