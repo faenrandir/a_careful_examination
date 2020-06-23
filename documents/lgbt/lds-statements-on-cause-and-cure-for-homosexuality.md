@@ -22,7 +22,7 @@ And the website [Mormon and Gay](https://mormonandgay.lds.org/articles/frequentl
 
 The following statements were all published by the Church of Jesus Christ of Latter-day Saints.  I am not aware that any apology or redaction exists for any of these statements. Statements are listed in chronological order.
 
-A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not "born that way" and in various ways suggest that homosexual *orientation* may be overcome (i.e., that the orientation may be reversed or significantly diminished).  The position was considered "fact".[^opinionorfact]
+A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not "born that way" and in various ways suggest that homosexual *orientation* may be overcome (i.e., that the orientation may be reversed or significantly diminished).  The position was presented as "fact".[^opinionorfact]
 
 ### They can overcome and return to normal ... living
 
