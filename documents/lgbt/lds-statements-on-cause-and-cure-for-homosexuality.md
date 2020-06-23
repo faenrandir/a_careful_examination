@@ -1,5 +1,5 @@
 ---
-title: "\"'God made them that way'—It is blasphemy\" LDS Statements on the causes and cure for homosexuality"
+title: "“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality"
 permalink: /lds-statements-on-cause-and-cure-for-homosexuality/
 doctype: short-analysis
 maintopic: lgbt
@@ -68,7 +68,7 @@ LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://
 
 > All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.
 
-Elder Boyd K. Packer, [https://www.churchofjesuschrist.org/study/general-conference/1990/10/covenants?lang=eng](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, October 2010 General Conference [Cleansing the Innter Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
 
 ### some suppose that they were preset
 
@@ -82,4 +82,4 @@ Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, [Cleansin
 * [What Causes Homosexuality: LDS Statements](https://bradcarmack.blogspot.com/2011/05/i-submitted-this-paper-to-stand-for.html)
 * [Lest We Forget: God's Message to Homosexuals in 69 Authoritative LDS Quotes](https://bradcarmack.blogspot.com/2014/03/lest-we-forget-gods-message-to.html)
 
-[^opinionorfact]: The Church published pamphlet [New Horizons for Homosexuals](http://www.mormonthink.com/files/New-Horizons-for-Homosexuals-by-Apostle-Spencer-W-Kimball.pdf), which states that homosexuality may be cured (see above for quotes), also emphasized that the LDS position was **fact** and supported by the words of the Creator.  The section labeled "OPINION OR FACT" begins: "One young man sought to pit his reasoning against the things I told him, saying: "That is your opinion and *this* is mine."  This caused me to say, "My dear boy, if it were my opinion against yours, I would have nothing more to say.  As an individual my mind might be dull compared to yours; my thoughts might be elementary compared with your erudite ones, but you have forgotten a basic truth.  I am not expressing my thoughts only.  When I say this is sin, I am quoting the Creator of the world.  Truth is truth and needs no eloquent tongue nor brilliant brain to portray it. ..."
+[^opinionorfact]: The Church published pamphlet [New Horizons for Homosexuals](http://www.mormonthink.com/files/New-Horizons-for-Homosexuals-by-Apostle-Spencer-W-Kimball.pdf), which states that homosexuality may be cured (see above for quotes), also emphasized that the LDS position was *fact* and supported by the words of the Creator.  The section labeled "OPINION OR FACT" begins: "One young man sought to pit his reasoning against the things I told him, saying: "That is your opinion and *this* is mine."  This caused me to say, "My dear boy, if it were my opinion against yours, I would have nothing more to say.  As an individual my mind might be dull compared to yours; my thoughts might be elementary compared with your erudite ones, but you have forgotten a basic truth.  I am not expressing my thoughts only.  When I say this is sin, I am quoting the Creator of the world.  Truth is truth and needs no eloquent tongue nor brilliant brain to portray it. ..."
