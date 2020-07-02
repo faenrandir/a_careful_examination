@@ -6,9 +6,11 @@ featuredimage: /media/Faed_Expulsion_of_Adam_and_Eve.jpg
 layout: page
 ---
 
-Summary: The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.
+## Abstract
 
----
+The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.
+
+### Introduction
 
 Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  Here are [verses 6--7](https://www.lds.org/scriptures/dc-testament/dc/77.6-7):
 
@@ -20,13 +22,11 @@ Joseph Smith claimed to receive direct revelation from God on various topics, an
 
 > A. We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.
 
-According to this direct revelation, Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.  This date is difficult to reconcile with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), or the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology).
-
-Note: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77 [as diagrammed here](http://ndbf.net/002m/Overview.jpg)).  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
+According to this direct revelation, Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.[^confusion]  This date is difficult to reconcile with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology) or the [migration of ancient Siberians to the Americas](https://en.wikipedia.org/wiki/Settlement_of_the_Americas#Chronology,_reasons_for,_and_sources_of_migration).  LDS scientists and even the Church in its essay on DNA and the Book of Mormon seem to accept the basic validity of these migration events and their timing.[^ldschurchtacitlyaccepts]
 
 ### Current Teachings
 
-The LDS Church *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  Note that every manual linked below is its *current* version (as of December 2016).
+The LDS *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  Note that every manual linked below is its *current* version (as of December 2016).
 
 1. [President Monson in GC in 2011](https://www.lds.org/general-conference/2011/10/dare-to-stand-alone?lang=eng) quoting President Benson:
 
@@ -113,3 +113,7 @@ The LDS Church *currently* teaches the idea that the earth began its temporal ex
     >  For 4,000 years all the prophets testified of his coming and proclaimed his goodness and grace.
 
 Finally, consider the references and perspective introduced in the post [6,000 Years of So What!](http://thoughtsonthingsandstuff.com/6000-years-of-so-what/).
+
+[^confusion]: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77 [as diagrammed here](http://ndbf.net/002m/Overview.jpg)).  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
+
+[^ldschurchtacitlyaccepts]: While the quotes and resources presented below all indicate that Adam and Eve walked out of the Garden of Eden at roughly 4,000 BCE, in its [defense of the Book of Mormon narrative in light of DNA research](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng), the LDS Church seems to *tacitly* accept the basic reality of ancient human migrations which significantly pre-date 4,000 BCE.  For instance, among others implying the same basic migration timing, the essay cites research on Siberians from ~20,000 years ago and North American Clovis culture dating to 11,000 BCE (essay footnote 15 which points to [Raff and Bolnick](https://www.researchgate.net/publication/284094877_Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation)) and 17,000 and 24,000 year old Siberian ancestors of the Native Americans (essay footnote 17 which points to [Raghavan et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016/)).  Were it not for the tension with so much official material, this would be very unsurprising since virtually all scientists at LDS sponsored schools accept the general validity of these migration models and the methods used to date them (like [carbon-14 dating](https://faenrandir.github.io/a_careful_examination/carbon-14-dating-generally-reliable/)).
