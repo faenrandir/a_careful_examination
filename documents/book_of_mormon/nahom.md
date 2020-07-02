@@ -27,4 +27,5 @@ layout: page
 * [Old Arabian and the 5 possible 'H' sounds](https://www.reddit.com/r/exmormon/comments/gk2di7/joseph_smith_didnt_understand_how_language_works/)
 * [NHM – A Place Name from the Book of Mormon?](http://www.mrm.org/nhm) (Bill McKeever)
 * [Discussion between Rappleye and Andrew](http://www.studioetquoquefide.com/2017/06/responding-to-new-video-on-nahom-as.html) ([summary](https://www.reddit.com/r/exmormon/comments/6jd4fm/budding_apologists_create_book_of_mormon_nahom/)) *I find the exchange in the comments interesting, but mostly lacking in scholarly rigor (and politeness).  Nonetheless, this comment exchange is often referred to, so I list it here.*
+* [The Nahom Follies](https://www.patheos.com/blogs/anxiousbench/2015/06/the-nahom-follies/) (Philip Jenkins)
 * [Nehem theory and Dartmouth University](https://www.exmormon.org/phorum/read.php?2,51805) (RfM post by michealm)

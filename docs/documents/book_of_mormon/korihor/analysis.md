@@ -51,13 +51,13 @@ A small minority of atheists have argued this position (moral nihilism), but it 
 
 We need to distinguish between two possible types of "wickedness".  The first type genuinely inflicts harm on another person *for* personal pleasure or *enroute* to some personal pleasure.  These are genuine moral harms.  Regardless of one's belief in life after death, we have extremely high confidence that our actions impact the well-being of others, hence acting in ways that harm the well-being of others without good justification is morally wrong.  We do not need an after-life to convince us of that fact.  The second type of "wickedness" might be to act in contravention of some religious rule that has no real grounding in, or even inflicts, moral harm.  For instance, the religious law of the Nephites, as the Book of Mormon goes, was the Law of Moses which included cutting off the protective part of the genitalia of their sons at eight days old (Leviticus 12:3).  To refuse to circumcise one's child might be called "wickedness" by people raised under the Law of Moses, even if not circumcising one's children is arguably a morally acceptable behavior.
 
-But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The moral implications of sexuality are complex.  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly wrong.
+But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The moral implications of sexuality are complex.  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly and distinctly wrong.
 
 > 19 Now this man went over to the land of Jershon also, to preach these things among the people of Ammon, who were once the people of the Lamanites.
 
 > 20 But behold they were more wise than many of the Nephites; for they took him, and bound him, and carried him before Ammon, who was a high priest over that people.
 
-Why is the wise approach to simply refuse to engage with Korihor?  If his positions are unsound, then it should be trivial to demonstrate them unsound.  If his arguments are sound, then perhaps these people have something to learn.  Refusing to listen to another position and instead binding a person and taking them to your religious leader [Ammon wasn't a civil leader, right?] for judgement seems like a poor response to differing views to me.  
+Why is the wise approach to simply refuse to engage with Korihor?  If his positions are unsound, then it should be trivial to demonstrate them unsound.  If his arguments are sound, then perhaps these people have something to learn.  Refusing to listen to another position and instead binding a person and taking them to your religious leader [Ammon wasn't a civil leader, right?] for judgement seems like a poor response to differing views.  
 
 > 21 And it came to pass that he caused that he should be carried out of the land.
 
@@ -71,32 +71,21 @@ Again, why is binding a person and taking them to the religious leader the natur
 
 > 23 Now the high priest’s name was Giddonah. And Korihor said unto him: Because I do not teach the foolish traditions of your fathers, and because I do not teach this people to bind themselves down under the foolish ordinances and performances which are laid down by ancient priests, ... 
 
-Although Korihor maintains that the religious position can't be known with confidence, calling the traditions and ordinances "foolish" without specific justification seems like a useless and disrespectful ad hominem.
+Although Korihor maintains that the religious position can't be known with confidence, calling the traditions and ordinances "foolish" without specific justification seems like a useless and disrespectful ad hominem attack.
 
 > ... to usurp power and authority over them, to keep them in ignorance, that they may not lift up their heads, but be brought down according to thy words.
 
-How does Korihor know the motivation of these ancient priests?  Why would the
-priests be so intent on "bringing down" the people?  Can we simply agree that
-most religious people believe that the message they are sharing is making the
-world a better place, even if we disagree as to how well that accomplishes
-their intended purpose?
+How does Korihor know the motivation of these ancient priests?  Why would the priests be so intent on "bringing down" the people?  Can we simply agree that most religious people believe that the message they are sharing is making the world a better place, even if we disagree as to how well that accomplishes their intended purpose?
 
 > 24 Ye say that this people is a free people. Behold, I say they are in bondage. ...
 
-I don't think we have enough data to decide this accusation.  And, how we view
-the freedom/bondage state of the people is conditioned somewhat on whether
-their worldview is veridical.
+I don't think we have enough data to decide this accusation.  And, how we view the freedom/bondage state of the people is conditioned somewhat on whether their worldview is veridical.
 
 > Ye say that those ancient prophecies are true. Behold, I say that ye do not know that they are true.
 
-The main flaw in interpreting this statement is that it was, according to the
-book itself, abridged by someone living hundreds of years later.  With
-the benefit of hindsight, it is difficult to criticize those who believe that
-"those ancient prophecies are true."  So, given the narrator's advantage, it
-seems as if Korihor is short-sighted and those who believe in the ancient
-prophecies are prescient.
+The main flaw in interpreting this statement is that it was, according to the book itself, abridged by someone living hundreds of years later.  With the benefit of hindsight, it is difficult to criticize those who believe that "those ancient prophecies are true."  So, given the narrator's advantage, it seems as if Korihor is short-sighted and those who believe in the ancient prophecies are prescient.
 
-However, the naturalist POV questions whether anyone has ever predicted the future in a supernatural way (we *can* devise [tests for prophetic ability](https://www.reddit.com/r/exmormon/comments/ckc6ef/the_garden_of_eden_and_noahs_ark_has_been_found/evs2nca/)).  Scripture is full of examples of abusing the original meaning of a scripture to turn it into a fulfillment event or prophecies that are so vague that we can say that almost any event fulfills them.
+However, the naturalists question whether anyone *has* ever predicted the future via supernatural means (we *can* devise [tests for prophetic ability](https://www.reddit.com/r/exmormon/comments/ckc6ef/the_garden_of_eden_and_noahs_ark_has_been_found/evs2nca/)).  Scripture is full of examples of abusing the original meaning of a scripture to turn it into a fulfillment event or prophecies that are so vague that we can say that almost any event fulfills them.
 
 So, pushing back on those who believe in prophecy seems fair.
 
