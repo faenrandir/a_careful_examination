@@ -93,7 +93,7 @@ With a follow up post:
 
 [Oral sex, gospel hobbies, and the consequences of (the lack of) policy clarification](https://www.reddit.com/r/mormon/comments/5ln2o8/oral_sex_gospel_hobbies_and_the_consequences_of/)
 
-[^confirmation] My brother was *also* in this same stake and reported events to me independent of the reddit comment cited.
+[^confirmation]: My brother was *also* in this same stake and reported events to me independent of the reddit comment cited.
 
 [^unclear]: I was not privileged to know how the Stake Presidency was corrected.  Were they taught that the Church no longer views oral sex as "unnatural, impure, or unholy"  or were they merely instructed that they should not be sharing those instructions over the pulpit?
 
