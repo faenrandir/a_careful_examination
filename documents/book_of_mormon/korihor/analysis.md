@@ -109,13 +109,18 @@ See commentary on verse 27.
 
 > 28 [B] ... and have brought them to believe, by their traditions and their dreams and their whims and their visions and their pretended mysteries, that they should, if they did not do according to their words, offend some unknown being, who they say is God—a being who never has been seen or known, who never was nor ever will be.
 
-Korihor's position is a naive straw-man because he is asserting that the priests are "pretending" on some level.  But mystical/spiritual experience is a well-documented part of the human experience.  The naturalist position simply asserts that spiritual experiences are, one way or the other, the product of a person's own mental faculties
+Korihor is asserting that the priests are "pretending", but this is inconsistent with the narrator's experience (the Book of Mormon narrative asserts that experiences with the divine are genuine) and also what psychologists and social scientists understand about mystical experiences.  The priests may have had mystical/spiritual experiences.  The naturalist does not deny that humans have such experiences, they merely question the objective meaning of such experiences.[^objectivityofmysticalexperiences]
 
 > 28 [C] ... that they should, if they did not do according to their words, offend some unknown being, who they say is God—a being who never has been seen or known, who never was nor ever will be.
 
-But many people have had entheogenic experiences.  Korihor is too confident--we can't fully rule out the existence of God.  But, we can assert that there are good reasons to doubt that these experiences are the result of communication with an omniscient being.  Rather, they likely represent mental constructs of the divine.
+But many people have had mystical experiences.  Korihor's confidence seems extreme--we can't fully rule out the existence of God.  But, we can suggest that there are good reasons to doubt that these experiences are the result of communication with an omniscient being.
 
 > 29 Now when the high priest and the chief judge saw the hardness of his heart, yea, when they saw that he would revile even against God, they would not make any reply to his words; but they caused that he should be bound; and they delivered him up into the hands of the officers, and sent him to the land of Zarahemla, that he might be brought before Alma, and the chief judge who was governor over all the land.
+
+A person is not obligated to continue a conversation that is offending them,
+but binding Korihor because 
+
+* 
 
 > 30 And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, he went on to blaspheme.
 
