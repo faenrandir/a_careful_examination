@@ -16,7 +16,7 @@ Joseph Smith | April 1841 | May 1843
 Heber C Kimball | fall/winter 1841-42 | fall/winter 1841-42 [^heber_c_kimball]
 Reynolds Cahoon | fall/winter 1841-42 | Nov 1843
 Brigham Young | June 1842 | May 1843
-Newel K Whitney | -- | Aug 1842†
+Newel K Whitney | -- | Aug 1842 [^loyalty_reward]
 Vinson Knight | spring-summer 1842 | NA
 Willard Richards | Jan 1843 | May 1843
 William Huntington | Feb 1843 | NA
@@ -35,6 +35,6 @@ William Clayton | April 1843 | July 1843
 
 ---
 
-The data clearly show that the initial emphasis of the sealing ceremony was on enacting plural sealings---sealings for civilly  married couples appears to have been of much less concern.  This emphasis also seems to be confirmed in other instances, such as JS's sealing to Lucy Walker but [lack of a sealing for William Holmes Walker](https://github.com/faenrandir/a_careful_examination/blob/c442ec967fc02943365dd08a6f64b0d5bbb92060/documents/polygamy/william-holmes-walker.md).
+The data clearly show that the initial emphasis of the sealing ceremony was on enacting plural sealings---sealings for civilly  married couples appears to have been of much less concern.  This emphasis also seems to be confirmed in other instances, such as JS's sealing to Lucy Walker but [lack of a sealing for William Holmes Walker]({{ "/william-holmes-walker-and-olive-hovey-farr/" | relative_url }}).
 
-_posted [here](https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/)_
+_originally posted [here](https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/)_
