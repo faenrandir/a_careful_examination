@@ -120,7 +120,7 @@ Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.
 
     > ... from a text-critical standpoint Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B]), its abruptness is problematic, giving rise to various theories against its authenticity.
 
-    Blumell does not conclude the ending is _necessarily_ inauthentic (despite acknowledging the problematic evidence), but his conclusion is open-ended and rests on no evidence:
+    Blumell does not conclude the ending is _necessarily_ inauthentic (despite acknowledging the problematic evidence), but his conclusion is open-ended:
 
     > ... If it is not the original ending to Mark, then at the very least it probably contains some of the characteristics of the original ending (i.e., postresurrection appearances and a charge to spread the gospel).
 
