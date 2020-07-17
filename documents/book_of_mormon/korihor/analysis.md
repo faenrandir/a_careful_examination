@@ -187,12 +187,23 @@ but binding Korihor because
 
 ## Korihor as caricature
 
-1. Repeatedly makes strong, unfounded assertions without justification.
-1. Ridicules religious positions which seem unfalsifiable (and hence are outside his ability to falsify).
+The character Korihor in the Book of Mormon:
+
+1. Repeatedly makes unfounded assertions without justification or good justification, and these are sometimes self-contradictory.
+    For example, he teaches that "there should be no Christ" and defends this by the assertion "no man can know of anything which is to come".  But if Korihor cannot see into the future, then how can he definitively assert that "there should be no Christ"?  And on what grounds does he assert "no man can know of anything which is to come"?  A more defensible assertion might be "I am not aware of good evidence that anyone can legitimately see future events before they happen."
+1. Ridicules religious positions which seem unfalsifiable (and hence are likely outside his ability to falsify).
+    For example, he states that the people are 'bound down under a foolish and a vain hope" because "no man can know of anything which is to come" (discussed above).
 1. Supports end-justifies-the means aggression
+    For instance, he states "...every man conquered according to his strength; and whatsoever a man did was no crime", but this seems devoid of all moral reflection.  For instance, the fundamental pillar of morality is that we ought to act with regard for the well-being of others, and this is accepted in non-monotheistic cultures and among [most atheists](https://faenrandir.github.io/a_careful_examination/morality-transcends-religious-belief/).
 1. Seems to condone unrestrained and morally problematic sexuality
+    At least as it is conveyed to the reader, Korihor appears to be advocating for unrestrained sexuality: "causing them to lift up their heads in their wickedness, yea, leading away many women, and also men, to commit whoredoms—telling them that when a man was dead, that was the end thereof."  The morality of sexuality [is complex](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/), but most atheists would argue for circumspection and restraint in sexual expression (e.g., the vast majority of atheists condemn sexual expression with children and would argue that those in a committed relationship should not cheat on their spouse).
 1. Appears to lie or mislead about priests earning wages
-1. Claims that the priests are intentionally deceiving the people, when it seems clear from the narrative that they geniunely believe in their position.
-1. Is a hypocrite of highest-order: he knows from direct experience that supernatural entities, like angels (or in this case the devil disguised as an angel) exist which seems to undermine his insistence that God is not real and nobody can know of those kinds of things.
-1. Is gullible and selfish enough that he is willing to advance what seems like an incoherent belief system (no God, delievered to him by an angel).
-1. Exemplifies the New Testament trope of being adulterous (encouraging whoredoms and succumbing to the allure of the carnal man), and then disingenuously seeking for a sign.
+1. Claims that the priests are *intentionally* deceiving the people, when it seems clear from the narrative at least that they geniunely believe in their position.
+1. Is a hypocrite: he knows from direct experience that supernatural entities, like angels (or in this case the devil disguised as an angel) exist which seems to undermine his insistence that God is not real and nobody can know of those kinds of things.
+1. Is gullible and selfish enough that he is willing to advance what seems like an incoherent belief system: Korihor taught that there is no God but the narrative has him confessing that this was delivered to him by the Devil appearing as an angel.  If there is a Devil (and angels) and Korihor spoke with them, then this can be seen as implying the existence of God.  At the very least, if he had these experiences talking with an angel/Devil then it implies the *possibility* of God's existence.
+1. Exemplifies (or at least implies) the New Testament trope of being adulterous (encouraging whoredoms and succumbing to the allure of the carnal man), and then disingenuously seeking for a sign.
+
+
+[^sexuality]: We need to distinguish between two possible types of "wickedness".  The first type genuinely inflicts harm on another person *for* personal pleasure or *enroute* to some personal pleasure.  These are genuine moral harms.  Regardless of one's belief in life after death, we have extremely high confidence that our actions impact the well-being of others, hence acting in ways that harm the well-being of others without good justification is morally wrong.  We do not need an after-life to convince us of that fact.  The second type of "wickedness" might be to act in contravention of some religious rule that has no real grounding in, or even inflicts, moral harm.  For instance, the religious law of the Nephites, as the Book of Mormon goes, was the Law of Moses which included cutting off the protective part of the genitalia of their sons at eight days old (Leviticus 12:3).  To refuse to circumcise one's child might be called "wickedness" by people raised under the Law of Moses, even if not circumcising one's children is arguably a morally acceptable behavior.
+
+But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The moral implications of sexuality are complex.  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly and distinctly wrong.

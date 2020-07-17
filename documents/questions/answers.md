@@ -1,3 +1,6 @@
+
+> \#1 The faithful response might be that he was exposed to and implemented the principles "line upon line".  The naturalist would suggest that if it wasn't that important to early leaders then it may be because the doctrine of sealing evolved (in a manner we might expect any set of man-made doctrines to evolve over time).
+
 > \#5 To whom was Zina Huntington married when her second child was born?
 
 Brigham Young.  The second child was fathered by Henry Jacobs, though.  Zina
