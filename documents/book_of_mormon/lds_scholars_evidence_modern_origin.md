@@ -10,7 +10,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
 <figure>
   <img src="{{ "/communications/images/two_flowers.png" | relative_url }}" atl="Convergence on a modern origin" style="width:100%">
-  <figcaption><strong>Left:</strong> LDS scholar observations converge on a modern origin even though none individually would likely endorse a modern origin. Links to research and key observations are given below, going from the top (Nick Frederick) and moving clockwise. <br/><br/><strong>Right:</strong> A number of other scholars have made more complete cases for a modern origin.  The modern origin theory unifies all these disparate observations.</figcaption>
+  <figcaption><strong>Left:</strong> LDS scholar observations converge on a modern origin even though none individually would likely endorse a modern origin. Links to research and key observations of six scholars are given below, going from the top (Nick Frederick) and moving clockwise (additional scholars are not represented here). <br/><br/><strong>Right:</strong> A number of other scholars have made more complete cases for a modern origin.  The modern origin theory unifies all these disparate observations.</figcaption>
 </figure>
 
 ## LDS Scholar observations
@@ -50,6 +50,10 @@ LDS scholars have been presenting research or observations over the past decade 
     > Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
 
     **Significance**: Joseph Smith was both willing and able to weave external works from his time into religious documents, and he relied on Clarke without drawing mention from any of his scribes.
+
+1. Stan Spencer, [Interpreter Contributor](https://journal.interpreterfoundation.org/author/stans/?journal) --- in every case where the the Revised Version offers a "more accurate translation" the Book of Mormon [follows the King James Version](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/#sdfootnote36anc):
+
+    > If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
 
 1. Royal Skousen, [BYU linguistics and English Professor](https://humanities.byu.edu/person/royal-j-skousen-2/) --- the BoM grapples with [nuances in late 1600s theology](https://www.mormoninterpreter.com/tyndale-versus-more-in-the-book-of-mormon/).
 
