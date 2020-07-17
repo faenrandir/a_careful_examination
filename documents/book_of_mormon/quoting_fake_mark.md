@@ -116,13 +116,13 @@ Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.
 
 [^blumell]: In general, see section "11. Mark 16:9–20 KJV" in [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5) by BYU religion professor [Lincoln Blumell](https://religion.byu.edu/lincoln_blumell).
 
-> While these twelve verses are not omitted in any modern NT edition, they are placed in either double brackets or italics with a note about their absence in certain early manuscripts. ...
+    > While these twelve verses are not omitted in any modern NT edition, they are placed in either double brackets or italics with a note about their absence in certain early manuscripts. ...
 
-> ... from a text-critical standpoint Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B]), its abruptness is problematic, giving rise to various theories against its authenticity.
+    > ... from a text-critical standpoint Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B]), its abruptness is problematic, giving rise to various theories against its authenticity.
 
-Blumell does not conclude the ending is _necessarily_ inauthentic (despite acknowledging the problematic evidence), but his conclusion is open-ended and rests on no evidence:
+    Blumell does not conclude the ending is _necessarily_ inauthentic (despite acknowledging the problematic evidence), but his conclusion is open-ended and rests on no evidence:
 
-> ... If it is not the original ending to Mark, then at the very least it probably contains some of the characteristics of the original ending (i.e., postresurrection appearances and a charge to spread the gospel).
+    > ... If it is not the original ending to Mark, then at the very least it probably contains some of the characteristics of the original ending (i.e., postresurrection appearances and a charge to spread the gospel).
 
 [^mormondialogue]: On the Mormon Dialogue discussion group, the apologetic [is advanced](http://www.mormondialogue.org/topic/59398-new-testament-and-book-of-mormon-parallels-mark-16mormon-9/): "Assuming that Mark didn't write those words, must we then believe that Jesus didn't speak them and someone else wrote them down so the later 'interpolator' could add them to Mark's account?"  [Book of Mormon Central's response to this issue](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon#footnote13_4zcurck) follows along the same lines, basically that Jesus may have or probably said something like what is written in the end of Mark, so it is not anything to be concerned with.
 
