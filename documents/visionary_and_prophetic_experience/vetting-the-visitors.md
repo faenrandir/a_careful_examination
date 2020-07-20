@@ -28,7 +28,7 @@ The field of communication (and at this point nearly all scientific disciplines)
 
 ## Potential for good
 
-Communication with an omniscient being has the potential to produce much good.  For instance, a purported 'mysterious voice' [led Utah cops to discover a child in need](https://www.nydailynews.com/news/national/mysterious-voice-leads-police-baby-car-crash-article-1.2142732).
+Communication with an omniscient being has the potential to produce much good.  For instance, a purported 'mysterious voice' [led Utah cops to discover a child in need](https://www.nydailynews.com/news/national/mysterious-voice-leads-police-baby-car-crash-article-1.2142732). [gather more examples of potential for good]
 
 And even a modest amount of communication from an omniscient being at the right moment might prevent large numbers of [avoidable medical tragedies](https://www.nbcnews.com/health/health-news/medical-mistakes-harm-more-1-10-patients-many-are-preventable-n1030996), [for example](https://www.nbcnews.com/health/health-news/utah-woman-bled-death-garbage-can-during-botched-heart-surgery-n1031856).
 
