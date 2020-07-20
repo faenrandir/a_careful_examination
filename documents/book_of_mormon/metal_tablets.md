@@ -8,7 +8,9 @@ layout: page
 
 The discovery of [metal plates in the ancient world](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Metal_plates_in_Mormon_studies) lends some significant credibility to the authenticity of the Book of Mormon narrative, which describes [a variety of metal plates used in the Old World and the New](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Other_plates_referred_to_in_the_Book_of_Mormon).  However, in a few ways there is still room to question whether what has been found fits especially well with what was described in relation to the Book of Mormon:
 
-* Ancient metal plates with writing have [all been small and contained very limited amounts of writing](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Metal_plates_in_Mormon_studies) and this contrasts with the much larger scope (and sometimes size) of the various plates described in association with and in the Book of Mormon.
+* Ancient metal plates with writing have generally [been small and contained very limited amounts of writing](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Metal_plates_in_Mormon_studies) and this contrasts with the much larger scope (and sometimes size) of the various plates described in association with and in the Book of Mormon.  Ryan Thomas discusses known use of metal plates in the ancient eastern world [and concludes](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V52N02_2.pdf):
+
+    > Although metal was undoubtedly used as an epigraphic medium in Israel-Judah from early times, there is no evidence to support the assumption that it figured in an established scribal tradition of lengthy literary composition or archival storage.
 
 * While there are some examples of symbols and designs carved into gold disks, [no metal books have ever been found associated with an ancient American culture](https://www.deseretnews.com/article/705371752/Ancient-gold-plates-in-Mesoamerica.html) (records were kept on media like paper, skins or painted plaster).
 
