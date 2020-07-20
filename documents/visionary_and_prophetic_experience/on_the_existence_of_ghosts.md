@@ -26,6 +26,9 @@ layout: page
 
 3. We know that a person's belief about the existence of spirits strongly modulates their experience "seeing" spirits.  A great example of this is [Derren Brown's experiment](https://www.youtube.com/watch?v=ust-pJC-9j8) where he puts various people in a crypt under an old church in the dark for 15 minutes.  The people who believe in spirits were freaked out and reported "seeing" various spirits.  Those who genuinely didn't believe in spirits didn't report any phenomena.  In general, it [has been demonstrated](https://en.wikipedia.org/wiki/God_helmet#Replication_attempts_and_debate) that we are suggestible to various spiritual phenomena (suggestibility and personality traits can explain spiritual hallucination).
 
-For these reasons, I am nearly 100% confident your child is not actually "seeing" demons or ghosts, etc.  It is very possible that they think they are seeing them, or that they are imagining them.  Children, in particular, are very suggestible.
+For these reasons, we can have some confidence that ghosts are not an objective phenomenon.
 
-As others here have pointed out, this is fairly typical 6 year old behavior (especially when raised in a household that believes and talks about spirits).  Simply love and assure them and this likely won't be any kind of issue.
+### See also
+
+* [Vetting the visitors]({{ "/vetting-the-visitors/" | relative_url }})
+* [Test for disembodied consciousness]({{ "/test-for-disembodied-consciousness/" | relative_url }})

@@ -5,7 +5,34 @@ doctype: notes
 layout: page
 ---
 
+## Working outline
+
+Signal processing and information theory: Distinguishing between 3rd party and auto-generated signals
+
+* People claim to be communicating with 3rd parties
+* These communications, especially when acted on, can have real consequences
+    * for good or ill
+    * bring about an agentic state - so potential for amplifying whimsy
+
+Two main concerns:
+
+* Are we able to discern the signal reliably?
+    Whole field of study devoted
+
+* Is the signal actually from an objective 3rd party?
+* Does the entity have any special insight to offer?
+* Is the entity interested in our (collective) well-being?
+
+
 ## Introduction
+
+Some people claim to be communicating with (typically receiving messages from) a 3rd party which is thought to have an independent, 3rd party, existence from the observer.  These can be classified as:
+
+* **Spiritual-like**: Communication with "God", the "Holy Spirit" (aka Holy Ghost), or perhaps some other entity which is not observed to have any corporeal form (e.g., the vague *presence* of a deceased relative).
+* **Corporeal-like**: Communication with a divine visitor in some corporeal or corporeal-like form  (e.g., ghosts, divine visitors, and visions) 
+
+
+
 
 Our personal, subjective experience mediates our interaction with what seems to us an interpersonal, objective reality.  Most humans classify their experiences into two main categories:
 
@@ -22,7 +49,7 @@ https://i.redd.it/iyjmi2m1iam41.png
 
 I discuss the hallmarks of objectivity (information content, orthogonality, transmissability, and reproducibility) in [this comment](https://www.reddit.com/r/mormon/comments/f8watk/does_god_have_a_spleen_when_we_are_resurrected/fkiw2mn/).
 
-Because the line between subjective and objective experience is not always clear, it is possible for humans to believe they are communicating with a being which exists external to them, when in reality they are communicating subjectively (i.e., their mind is imagining or projecting).  Fully XXXXX % of individuals hallucinate and a significant portion of the population experiences hallucinations of such vividness that they are not able to distinguish them from an objective reality (XXXX add source XXXX).
+Because the line between subjective and objective experience is not always clear, it is possible for humans to believe they are communicating with a being which exists external to them, when in reality they are communicating subjectively[^subjectivecommunication].  Fully XXXXX % of individuals hallucinate and a significant portion of the population experiences hallucinations of such vividness that they are not able to distinguish them from an objective reality (XXXX add source XXXX).
 
 The field of communication (and at this point nearly all scientific disciplines) use [reciever operator characteristic plots](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) or equivalents to visually represent the ability of a given communication method to distinguish real and spurious signal. [XXXX need to logically embed, footnote, or discard XXXXX]
 
@@ -108,3 +135,5 @@ Latter-day Saint leadership circumscribes divine communiction (do not seek revel
 
 Confirmation bias
 
+
+[^subjectivecommunication]: 
