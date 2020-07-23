@@ -106,7 +106,7 @@ The researcher responsible for the above list [suggested that](https://wheatandt
 
 Probably not much.  We could look for place names similar to Book of Mormon place names in any location on earth and likely find a number of near-matches across the unique 188 names.
 
-Still, it does offer a counterpoint to the query, "where Joseph could have gotten all those names?"  He could have made them up, conciously or subconciously being inspired by:
+Still, it does offer a counterpoint to the query, "where could Joseph have gotten all those names?"  He could have made them up, conciously or subconciously being inspired by:
 
 * Bible/apocrypha names he had heard
 * Locations around his locale or that he had hear before
@@ -114,7 +114,7 @@ Still, it does offer a counterpoint to the query, "where Joseph could have gotte
     * [This pronunciation guide for Greek, Latin, and Scripture names ](https://archive.org/stream/keytoclassicalpr00walkrich#page/182/mode/2up)
     * Charles Anthon's [Classical Dictionary of ancient proper names](https://faenrandir.github.io/a_careful_examination/charles-anthon-proper-names-and-the-bom/)
 
-There is no direct evidence that Joseph Smith consulted any of these, but nor would a modern author of the Book of Mormon been working in a vacuum void of potential inspirational name material.
+There is no direct evidence that Joseph Smith consulted any of these, but nor would a modern author of the Book of Mormon have been working in a vacuum void of potential inspirational name material.
 
 *Acknowledgements: received valuable feedback from an early draft [here](https://www.reddit.com/r/mormon/comments/f037nw/place_names_in_joseph_smiths_vicinity_that_may/) especially from /u/JohnH2.*
 
