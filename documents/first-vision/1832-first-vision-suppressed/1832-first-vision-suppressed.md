@@ -52,7 +52,7 @@ Even with it's publication by the Tanners in 1964 it would be another **6** year
 
 References:
 
-* Stan Larson.  Another Look at Joseph Smith's First Vision. Dialogue 2014.  ([pdf on dialogue, $1.99](https://www.dialoguejournal.com/archive/dialogue-premium-content/premium-digital-articles-vol-47-num-2-summer-2014/))
+* Stan Larson.  Another Look at Joseph Smith's First Vision. [Dialogue 2014](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/Dialogue_V47N02.pdf).
 * [The Case of the Three Torn Pages](https://docs.google.com/file/d/0B46d9-tC8xTAOWdaek56WTdYZVU/preview?pli=1)
 
 [^excision]: The three leaves containing the "strange" first vision account had been excised from the original journal.  The manner in which the excision was performed (i.e., the type of tape used to repair parts of the sloppy excision) means that the excision had to have taken place after 1930 (since that is when cellophane tape was invented), so likely sometime after 1935 when cellophane tape was in widespread use.  In addition, the excision [did not follow common/good archival protocol](https://www.dialoguejournal.com/2014/online-letter-to-the-editor-regarding-stan-larsons-summer-2014-article/) (i.e., no notes as to why or when the pages were excised).  The excision is further evidence that LDS leaders knew that the account was significant and took deliberate steps to avoid it being leaked.  In my view, though, the excision simply corroborates the suppression--the suppression is clearly established by LaMar Petersen's notes from 1953.
