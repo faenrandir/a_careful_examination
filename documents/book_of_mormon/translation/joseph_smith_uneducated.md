@@ -10,7 +10,7 @@ layout: page
 
 A variety of theories for the creation of the Book of Mormon [have been advanced](https://byustudies.byu.edu/content/naturalistic-explanations-origin-book-mormon-longitudinal-study?fbclid=IwAR1Wr0-kuk68GfABlpZ9SFcB0IEY5LZ840sDncuf4Ld73iF-g4iSyd_Jt1Q) in the past, but most modern scholars believe Joseph was primarily responsible for the book (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and [William Davis](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407)).
 
-Latter-day Saints tend to focus on Joseph Smith's lack of significant formal education.[^downplayjosephsabilities]  Was Joseph Smith capable of such a feat?  This document advances historical evidence which supports Joseph's potential ability to composesuch a work.
+Latter-day Saints tend to focus on Joseph Smith's lack of significant formal education.[^downplayjosephsabilities]  Was Joseph Smith capable of such a feat?  This document advances historical evidence which supports Joseph's potential ability to compose such a work.
 
 ### Religious and educational environment
 

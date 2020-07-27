@@ -63,7 +63,7 @@ Emma likely only served as scribe for a small portion of what is considered the 
 Emma does mention observing Oliver and Joseph during dictation,[^whitmernonotes] but:
 
 1. We cannot imagine that Emma sat and observed the entire process (i.e., was she always home?  Was she always in the same room?)
-2. We know that Emma was separated from Joseph and Oliver [for at least brief periods of time](https://scottwoodward.org/bookofmormon_translationprocess_timeline.html) during the translation period.
+2. We know that Emma was separated from Joseph and Oliver [for at least brief periods of time](https://web.archive.org/web/20200117110717/http://scottwoodward.org:80/bookofmormon_translationprocess_timeline.html) during the translation period.
 3. The last *month* of translation occured in the upstairs room of Peter Whitmer's home.  Based on [the Mosiah Priority](https://en.wikipedia.org/wiki/Mosiah_priority), this month likely included the dictation of 1st and 2nd Nephi, both of which contain large blocks of Isaiah that may have been copied directly from the 1769 KJV Bible.[^deuteroisaiah]  Witness statements place Emma downstairs during the day and the translators upstairs.[^downstairsupstairs]
 
 ## See also:
