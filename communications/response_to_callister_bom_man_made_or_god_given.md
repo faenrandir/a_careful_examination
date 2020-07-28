@@ -157,13 +157,13 @@ Manuscript Story probably [did not correspond with "Manuscript Found"](https://e
 
 No modern scholars argue that the Book of Mormon was "copied from" the View of the Hebrews (VOH), even though most believe the similarities in certain themes are self-evident.
 
-The reader may access View of the Hebrews [here](https://archive.org/stream/viewhebrewsexhi00smitgoog#page/n4/mode/2up).  Please note [the following similarities](https://i.redd.it/hiv3nejpu2611.png) (image from pgs. 17-20 of the CES Letter, version 2.0).  Regardless of B.H. Roberts' ultimate conclusion and belief (which is [debated by scholars](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon#Controversy_about_Roberts's_ultimate_beliefs)), the similarities were enough for Roberts to note (emphasis added):
+The reader may access View of the Hebrews [here](https://archive.org/stream/viewhebrewsexhi00smitgoog#page/n4/mode/2up).  Please note [the following similarities](https://i.redd.it/hiv3nejpu2611.png) (image from pgs. 17--20 of the CES Letter, version 2.0).  Regardless of B.H. Roberts' ultimate conclusion and belief (which is [debated by scholars](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon#Controversy_about_Roberts's_ultimate_beliefs)[^montez]), the similarities were enough for Roberts to note (emphasis added):
 
 > Did Ethan Smith’s View of the Hebrews furnish structural material for Joseph Smith’s Book of Mormon? It has been pointed out in these pages that there are many things in the former book that might well have suggested many major things in the other. **Not a few things merely, one or two, or a half dozen, but many**; and it is this fact of many things of similarity and **the cumulative force of them** that makes them so serious a menace to Joseph Smith’s story of the Book of Mormon’s origin. (page 240 of [Studies of the Book of Mormon](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon)).
 
 > <span style="color:red; margin-left:-30px;">[Arg3:5b] With complete academic honesty, B. H. Roberts, one of the leading scholars of the Church, listed some possible parallels[16] between the two books,</span>
 
-It is interesting that Callister points out Roberts' "complete academic honesty" when the book containing these parallels, [Studies of the Book of Mormon](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon), was commissioned by the First Presidency for internal consumption only.  Were complete academic honesty a prime consideration for LDS leaders in general, then perhaps the LDS Church would have not waited for over 60 years to publish Roberts' work, and when they released it they would have also made his work easily accessible.  As it stands, his [Studies of the Book of Mormon](http://www.signaturebooks.com/product/studies-of-the-book-of-mormon/) is only available in a publication by Signature Books (a clearinghouse known for its critical stance).  Why has LDS leadership made it so difficult for the membership to access Roberts's work for so long a time?
+Roberts indeed seems to have been academically honest, but it seems fair to note that Church leadership failed to ever publish his work for consideration by the public or Church members.  Rather, decades later after Roberts' family donated his writings to the University of Utah and it was compiled [for publication](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon), it is alleged the Church attempted to suppress its publication.[^mcmurrinsuppress]
 
 > <span style="color:red; margin-left:-30px;">[Arg3:5c] but he then reached this conclusion: “I am taking the position that our faith is not only unshaken but unshakable in the Book of Mormon, and therefore we can look without fear upon all that can be said against it.”[17] Shortly before his death, Roberts ­further declared, “Ethan Smith played no part in the formation of the Book of Mormon.”[18]</span>
 
@@ -237,7 +237,7 @@ Callister's footnote 28 reads:
 
 > Joseph Smith referred to View of the Hebrews in Times and Seasons in June 1842 (twelve years after the Book of Mormon was published); see Joseph Smith, “From Priest’s American Antiquities,” Times and Seasons 3, no. 15 (1 June 1842): 814.
 
-The fact that Joseph referred to View of the Hebrews in 1842 merely confirms that these ideas were penetrating that environment.  No modern origin theory requires Joseph (or any other potential contributor) to have had *direct* contact with View of the Hebrews.  And, if multiple authors were responsible for the creation of the book, then another contributing author may have read the book and not Joseph.
+The fact that Joseph referred to View of the Hebrews in 1842 merely confirms that these ideas were penetrating that environment.  No modern origin theory requires Joseph (or any other potential contributor) to have had *direct* contact with View of the Hebrews.
 
 > <span style="color:red; margin-left:-30px;">[Arg5:7] How might one counter this argument? Here is a list of questions that an honest seeker of truth might raise:</span>
 
@@ -647,9 +647,14 @@ Callister insists that divine intervention is the only way to explain the creati
 
 [^smoot]: Stephen Smoot recently discussed why an inspired fiction theory [undermines all the other LDS truth-claims](https://www.mormoninterpreter.com/et-incarnatus-est-the-imperative-for-book-of-mormon-historicity/).
 
+[^montez]: Shannon Caldwell Montez recently published her master's thesis, [The Secret Mormon Meetings of 1922](https://scholarworks.unr.edu/handle/11714/6712) analyzing additional primary data regarding the extent to which these
+  issues concerned B.H. Roberts.
+
 [^signatories]: The arguments in chapter 3 of Letter for my Wife seem generally sound, but do note that the argument about Cowdery potentially forging the signatures of the witnesses since the signatures are all in his handwriting is unsound (see point #3 [here](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/)).
 
 [^partialresponsetobook]: David Bokovoy has written [a partial response to Callister's book](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/).
+
+[^mcmurrinsuppress]: Sterling McMurrin, a liberal Mormon and University of Utah professor, wrote a biographical chapter for B.H. Roberts' [Studies of the Book of Mormon](https://www.worldcat.org/title/studies-of-the-book-of-mormon/oclc/26216024).  He alleged that (quoting Joan and Richard Ostlund) "there was an unsuccessful effort [presumably by the LDS Church?] to have the University of Illinois Press suppress publication of the study." (Joan and Richard Ostling's book [Mormon America: the power and the promise, pg 276](https://archive.org/details/mormonamericapow00ostl/page/276/mode/2up))
 
 [^nobookresponse]: The majority of this response was written before Callister published his book.  I also do not yet own a copy of the book.  If the arguments in the book survived scrutiny in a way that the devotional does not, then I would consider writing a response to the book (assuming a good response could be offered).
 
