@@ -24,9 +24,9 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
     * Mark Twain [5 years](https://en.wikipedia.org/wiki/Mark_Twain)
     * Herman Melville [6 years](https://books.google.com/books?id=amPSiPy0XJ4C&pg=PA3&lpg=PA3&dq=herman+melville+years+of+schooling&source=bl&ots=N5rQ1EEfpg&sig=nOpniJzgoGCv5zFD6ftRrNPYlVk&hl=en&sa=X&ved=0ahUKEwijraPT3K_TAhVM7mMKHeoPARc4ChDoAQgnMAE#v=snippet&q=%22six%20years%20of%20formal%20schooling%22&f=false)
 
-    Each of the above had less or only somewhat more formal education than Joseph Smith and it goes without saying that they were able to compose works of outstanding fiction.
+    Each of the above had similar levels of formal education and it goes without saying that they were able to compose works of outstanding fiction.
 1. A recent analysis of Joseph's education puts the number of years at possibly closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
-1. In the Joseph Smith's time it was commonplace to downplay "a person's education in order to accentuate the miraculous nature of his or her accomplishments." (see pgs 62--65 of [William Davis's Dissertation](https://escholarship.org/uc/item/86h814zv) for many examples)
+1. In Joseph Smith's time it was commonplace to downplay "a person's education in order to accentuate the miraculous nature of his or her accomplishments." (see pgs 62--65 of [William Davis's Dissertation](https://escholarship.org/uc/item/86h814zv) for many examples)
 1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
 
 ### Self described religious immersion
