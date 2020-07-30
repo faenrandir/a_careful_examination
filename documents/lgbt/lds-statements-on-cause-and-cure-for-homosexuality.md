@@ -60,6 +60,30 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321)  pg 317 (quoting Spencer W. Kimball's The Miracle of Forgiveness) (The manual was copyrighted in [1978 and 1979](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1) and was superceded by [a new manual in 2014](https://www.lds.org/manual/new-testament-student-manual/title-page?lang=eng), I believe)
 
+### homosexuality can be changed
+
+The 1981 booklet [Homosexuality](https://mormonleaks.io/wiki/documents/4/4c/Homosexuality-1981.pdf), published by the First Presidency and Twelve Apostles states the following:
+
+> Modern day prophets have clearly promised that homosexuality can be changed. You should convey this positive attitude because it encourages change. (pg 4)
+
+> Homosexual behavior is learned and can be overcome.  To believe that immoral behavior is inborn or hereditary is to deny that men have agency to choose between sin and righteousness.  The Lord has given man the freedom to make moral choices, adn this agency is the cornerstone of his plan for exaltation.  He has revealed that the ultimate goal for man is eternal life.  It is inconceivable that---as some involved in homosexual behavior claim---he would permit some of his children to be born with desires and inclinations which would require behavior contrary to the enternal plan. (pg 2)
+
+> The amount of help that you as a Priesthood leader can give depends upon the person's willingness and desire to change. The person must repent of his homosexual behavior and control it by learning other ways of life that are healthy and righteous. Change is seldom easy or rapid, and it usually fequires support from others. Many individuals, however, have successfully overcome this problem, and the following suggestions will help you counsel those who are working to overcome it.  Should the individual resist change, Church court action should be used as circumstances warrant. (See General Handbook of instructions.) (pg 3)
+
+> The First Presidency has issued the following statement to priesthood leaders: ... Some claim homosexuality is incurable, therefore they seek to be considered a legitimate minority group protected by law.  We should not be deceived by these false rationalizations.  We must never lose our perspective amidst the world's clamor to justify and normalize immorality.  According to the Lord's revealed word, the only acceptable sexual relationsihp occurs within the family between a husband and a wife.  (pg 1)
+
+> Members with homosexual problems often feel trapped and alone and believe that change is impossible. You should give them hope. The Lord loves them and will give them power to conquer the problem if they follow the steps leading to repentance and change. There are many who have overcome the problem through repentance, prayer, a diligent program of self-mastery, and the concern of others. (pg 4)
+
+> The person's success in overcoming his homosexual behavior is directly related to how much he wants to change. (pg 4)
+
+> Those who feel inadequate, have few if any friends, have dated little or not at all, and are generally lacking in social skills (communication, manners, etc.) will find it difficult to overcome homosexual behavior until their social skills and behaviors are developed more fully.  a) Has he had, or is he now having any regular appropriate social contact with members of the opposite sex? Does he enjoy this association?  b) Does he feel comfortable when associating with the opposite sex?  c) How well does he communicate with the opposite sex? Participate in appropriate activities with them? With the same sex?  d) Does he prefer to be alone or with others? (pg 5)
+
+> President Spencer W. Kimball has stated that homosexuality can be cured "if the battle is well organized and pursued vigorously and continuously" (A Letter to a Friend [pamphlet] . 1978).  The individual needs to set well-organized, specific goals and develop a plan to accomplish them. The overall importance of goal-setting cannot be overemphasized. (pg 5)
+
+> ... Encourage the member to be in appropriate situations with members of the opposite sex, even if he has to force himself. ... Encourage him (if single) to begin dating and gradually increase its frequency. He might discuss dating practices, expectations and fears with a member of the opposite sex or with those assisting him.  (pg 6)
+
+> Repentant members and those who counsel with them succeed only to the extent that they have the Spirit of the Lord. Those who truly overcome homosexual activity do not seek mild adaption or limited change. They seek complete change, total repentance and acceptance before God. Even though these high objectives are not easy to attain, they will always be goals of those who follow the Lord's way.  (pg 9)
+
 ### attempting to prove that these impulses are inborn
 
 > Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted; and therefore, such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.
