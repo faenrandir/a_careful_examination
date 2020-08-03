@@ -518,7 +518,7 @@ Similar in flavor:
 
 ### should not receive any inheritance
 
-A video created by [LDS Philanthropies](https://www.youtube.com/watch?v=PxA6nT-YDqc) suggested that it is appropriate to deny inheritance to children who leave the Church:
+A video created by LDS Philanthropies in 2013 ([Journey to Become: One Family's Journey](https://archive.org/details/watchvpxa6nt-ydqc)) suggested that it is appropriate to deny inheritance to children who leave the Church:
 
 > For them to inherit my estate they will have to become what I’m trying to become... If they exercise their agency contrary to my beliefs then the option is that entire inheritance can go to the church.
 
