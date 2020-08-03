@@ -31,6 +31,13 @@ Some people claim to be communicating with (typically receiving messages from) a
 * **Spiritual-like**: Communication with "God", the "Holy Spirit" (aka Holy Ghost), or perhaps some other entity which is not observed to have any corporeal form (e.g., the vague *presence* of a deceased relative).
 * **Corporeal-like**: Communication with a divine visitor in some corporeal or corporeal-like form  (e.g., ghosts, divine visitors, and visions) 
 
+We know that humans are capable of autogenerating experience which seems objectively real to the recipient but is not thought to be objectively real based on observations of 3rd parties.  So, the primary question for those experiencing spiritual or corporeal-like communication is:
+
+**Is this communication objectively real, or is my mind auto-generating it in some fashion?**
+
+## Signal processing
+
+The scientific field of signal processing has been studying the problem of extracting legitimate signal from a noisy background for decades ([for example](https://dsp.stackexchange.com/a/2105)).  The Receiver operating characteristic plot is designed to show transmission of genuine signal across a broad range of receptor sensitivities. Data is traditionally displayed in a way that acknowledges that all signal is not always received or interpreted correctly---when the receptor is calibrated to be more sensitive, then more false positives will naturally occur, but when the receptor is calibrated to be less sensitive to avoid false positives, then more false negatives (i.e., dropped signal).  
 
 
 
@@ -95,9 +102,9 @@ There are some reasonable ways to test for objective existence and omniscience. 
 
 Does this being have an objective existence?
 
-    * **Is it disembodied?**  Then validate with a [test for disembodied consciousness]({{ "/test-for-disembodied-consciousness/" | relative_url }}).
-    * **Can it communicate?**  Validate with [a high-information transmission test]({{ "/divine-visitor-identity-problem/#high-entropy-information-transmission" | relative_url }}).
-    * **Can others see it?**  Validate with a test of independent [visitor details]({{ "/divine-visitor-identity-problem/#copious-details" | relative_url }}).
+* **Is it disembodied?**  Then validate with a [test for disembodied consciousness]({{ "/test-for-disembodied-consciousness/" | relative_url }}).
+* **Can it communicate?**  Validate with [a high-information transmission test]({{ "/divine-visitor-identity-problem/#high-entropy-information-transmission" | relative_url }}).
+* **Can others see it?**  Validate with a test of independent [visitor details]({{ "/divine-visitor-identity-problem/#copious-details" | relative_url }}).
 
 ### Test for potential omniscience
 
