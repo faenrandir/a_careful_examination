@@ -102,6 +102,7 @@ Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, Oct
 
 ## See Also
 
+* [On the Record \| A Chronology of LGBTQ+ Messaging](https://lattergaystories.org/record/)
 * [What Do We Know of God’s Will For His LGBT Children? An Examination of the LDS Church’s Position on Homosexuality](https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/)
 * [What Causes Homosexuality: LDS Statements](https://bradcarmack.blogspot.com/2011/05/i-submitted-this-paper-to-stand-for.html)
 * [Lest We Forget: God's Message to Homosexuals in 69 Authoritative LDS Quotes](https://bradcarmack.blogspot.com/2014/03/lest-we-forget-gods-message-to.html)
