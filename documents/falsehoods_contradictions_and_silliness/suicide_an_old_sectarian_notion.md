@@ -5,11 +5,7 @@ doctype: short-analysis
 layout: page
 ---
 
-**trigger-warning: suicide**
-
-This article discusses suicide and some potentially disturbing doctrinal statements about suicide.
-
-If you are feeling suicidal, please call a suicide prevention lifeline, such as the National Suicide Prevention Lifeline at 1-800-273-8255.
+This article discusses suicide and some potentially disturbing doctrinal statements about suicide.  If you are feeling suicidal, please call a suicide prevention lifeline, such as the National Suicide Prevention Lifeline at 1-800-273-8255.
 
 ---
 
