@@ -267,7 +267,7 @@ From a search of the 4 phrases shown above, we can sum up the relative disbursem
 
 Statements on the LDS Newsroom about the lay, unpaid ministry appear to be carefully worded so as to lead readers unfamiliar with the compensation of General Authorities to mistakenly assume that LDS General Authorities are unpaid.[^newsroomretrievaldate]
 
-When visiting the page [The Church's Unpaid Clergy](http://www.mormonnewsroom.org/blog/the-church-s-unpaid-clergy) we find this nominally accurate---but somewhat misleading---verbiage:
+When visiting the page [The Church's Unpaid Clergy](https://web.archive.org/web/20181008012938/https://www.mormonnewsroom.org/blog/the-church-s-unpaid-clergy) we find this nominally accurate---but somewhat misleading---verbiage:
 
 > [members'] service is critical at the local level because the Church has no full-time paid clergy.
 
@@ -279,7 +279,7 @@ Later, the article states:
 
 > "The Lord in His infinite wisdom has designed His Church to operate with a lay ministry. That means we have been charged to watch over one another and to serve one another..."
 
-If we click on the link "[no] full-time paid clergy" we find [an article on Lay Priesthood](http://www.mormonnewsroom.org/topic/lay-priesthood) where we learn the "local congregational leader... earns his own living and receives no pay of any kind for his service in the Church."  Below that, we find a link to the article [Lay Leadership: Volunteer Ministry of the Church](http://www.mormonnewsroom.org/article/mormon-lay-ministry).  This article is "intended to help journalists, opinion leaders and the public better understand the structure of local ministration and leadership within The Church of Jesus Christ of Latter-day Saints." and includes a very nice infographic entitled "Lay Leadership: Volunteer Ministry of The Church of Jesus Christ of Latter-day Saints" summarizing duties of the Stake Presidency on down to ward auxiliaries and individuals.  The article states:
+If we click on the link "[no] full-time paid clergy" we find [an article on Lay Priesthood](https://web.archive.org/web/20181006015129/https://www.mormonnewsroom.org/topic/lay-priesthood) where we learn the "local congregational leader... earns his own living and receives no pay of any kind for his service in the Church."  Below that, we find a link to the article [Lay Leadership: Volunteer Ministry of the Church](https://web.archive.org/web/20190508153924/https://www.mormonnewsroom.org/article/mormon-lay-ministry).  This article is "intended to help journalists, opinion leaders and the public better understand the structure of local ministration and leadership within The Church of Jesus Christ of Latter-day Saints." and includes a very nice infographic entitled "Lay Leadership: Volunteer Ministry of The Church of Jesus Christ of Latter-day Saints" summarizing duties of the Stake Presidency on down to ward auxiliaries and individuals.  The article states:
 
 > The Church of Jesus Christ of Latter-day Saints functions in large measure because of the unpaid volunteer ministry of its members. In fact, this lay ministry is one of the Church’s most defining characteristics.
 
@@ -287,7 +287,7 @@ The end of the article has a link to learn more about global general authorities
 
 > The Church also has global general authorities and general auxiliary leaders. Read more about their various offices and responsibilities.
 
-Clicking on that link takes the reader to [a bulleted list of links to visit information pages of various General Authority and Auxiliary offices](http://www.mormonnewsroom.org/article/general-authorities-of-the-church).  Working through all 12 links provided and searching for the phrases "stipend", "allowance", "paid", "compensated", or "salary" yields no results---these pages completely avoid the topic of compensation.  So, whether deliberately or through oversight, the LDS Newsroom:
+Clicking on that link takes the reader to [a bulleted list of links to visit information pages of various General Authority and Auxiliary offices](https://web.archive.org/web/20190213075512/http://www.mormonnewsroom.org/article/general-authorities-of-the-church).  Working through all 12 links provided and searching for the phrases "stipend", "allowance", "paid", "compensated", or "salary" yields no results---these pages completely avoid the topic of compensation.  So, whether deliberately or through oversight, the LDS Newsroom:
 
 * states that the LDS Church "has no full-time paid clergy"
 * quotes Elder Ballard saying "The Lord ... has designed His Church to operate with a lay ministry"
