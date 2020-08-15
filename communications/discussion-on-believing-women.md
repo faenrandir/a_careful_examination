@@ -19,7 +19,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
 2. Since it is related to how women’s stories were received during the polygamy era, we probably shouldn’t neglect Martha Brotherton’s experience with polygamy and how she was treated after refusing to enter the institution. Her experience offers a window into the kind of choice the brides had that accepted polygamy (i.e., what kinds of consequences might befall someone who did not accept an offer of polygamy?).
 
-    [Martha Brotherton's Affidavit]({{ "/martha-brotherton-affidavit/" | relatirelative_url }})
+    [Martha Brotherton's Affidavit]({{ "/martha-brotherton-affidavit/" | relative_url }})
 
     We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least [in its general outline](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).
 
