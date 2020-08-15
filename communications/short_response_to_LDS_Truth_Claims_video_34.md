@@ -1,5 +1,5 @@
 ---
-title: "Response to LDS Truth Claims video #34"
+title: "Short response to LDS Truth Claims video #34"
 permalink: /response-to-lds-truth-claims-video-34/
 doctype: response
 layout: page
@@ -13,9 +13,9 @@ The problem is that Jeremy never even argued this point (i.e., that a member is 
 
 Now, _elsewhere_ Runnells says things like "I'm supposed to believe... X, Y, or Z".  But the "supposed to" is clearly meant to convey the idea that he is _expected_ to believe those things, **because Church leaders have taught it regularly and it's in our Church manuals**, not that he "must" believe those things.  
 
-And, the underlying assumption (which McDonald completely misses) is that if leaders are teaching as _absolutely true_ ideas which are _not_, in fact, true, then this is a good reason to doubt the reliability of other things the leader is saying.  After all, if many of the _testable_ truth-claims a leader has made turn out to be false, why would we trust them to be any more accurate with the un-testable?  Why should we place our confidence in these men who literally believe (and have an expectation that we also believe) in the truth of fairy tales?  And if the flood and "no death before the fall" are not _actually_ real things--even though leaders always refer to them as real things--then why should we have confidence that the other bible stories, including the resurrection of Jesus, are not also mere fairy tales (and subject to misinterpretation and embellishment)?
+And, the underlying assumption (which McDonald misses in his discussion) is that if leaders are teaching as _absolutely true_ ideas which are _not_, in fact, true, then this is a good reason to doubt the reliability of other things the leader is saying.  After all, if many of the _testable_ truth-claims a leader has made turn out to be false, why would we trust them to be any more accurate with the un-testable?  Why should we place our confidence in these men who literally believe (and have an expectation that we also believe) in the truth of fairy tales?  And if the flood and "no death before the fall" are not _actually_ real things--even though leaders always refer to them as real things--then why should we have confidence that the other bible stories, including the resurrection of Jesus, are not also mere fairy tales (and subject to misinterpretation and embellishment)?
 
-And Jeremy's point (members are _expected_ to believe these things) is 100% justified.  Here's FairMormon itself talking about the flood:
+And Jeremy's point (members are _expected_ to believe these things) is 100% justified, IMHO.  Here's FairMormon itself talking about the flood:
 
 > Without a doubt, **the flood is always treated as a global event as it is taught by Church leaders. This is not likely to ever change, since it is based directly upon a straightforward reading of the scriptures.**
 
@@ -23,7 +23,7 @@ Leaders have _mostly_ backed away from "no death for any living organism before 
 
 > In our increasingly secular society, it is as uncommon as it is unfashionable to speak of Adam and Eve or the Garden of Eden or of a “fortunate fall” into mortality. Nevertheless, the simple truth is that we cannot fully comprehend the Atonement and Resurrection of Christ and we will not adequately appreciate the unique purpose of His birth or His death—in other words, there is no way to truly celebrate Christmas or Easter—**without understanding that there was an actual Adam and Eve who fell from an actual Eden**, with all the consequences that fall carried with it.
 
-But I'm unaware of any way in which a literal Adam and Eve may be reconciled with the human migration data.  See the section "Adam and Eve" in [Questions to Ask](https://mormonbandwagon.com/bwv549/questions-to-ask/).
+But I'm unaware of any possible way in which a **literal** Adam and Eve (an Adam and Eve who tilled the earth, had domesticated animals, and were the literal parents to all humans on earth today) may be reconciled with the human migration data.  See the section "Adam and Eve" in [Questions to Ask](https://faenrandir.github.io/a_careful_examination/questions-to-ask/#adam-and-eve).
 
 And, it doesn't excuse all the times that leaders taught _in general conference_ that Adam brought death into the world.  How is it even possible that members could have had such an idea stuck in their heads?  Well, here is [a general conference talk in October 1984](https://www.lds.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
 ) by Bruce R. McConkie:
@@ -46,4 +46,4 @@ And, it doesn't excuse all the times that leaders taught _in general conference_
 
 > By his fall, Adam introduced temporal and spiritual death into the world and caused this earth life to become a probationary estate.
 
-And that's when Jeremy's key question from the CES letter comes into play: ~"why should he trust Brett McDonald's interpretation of what is important or required when someone with priesthood keys has already said it explicitly?  Who gave Brett McDonald the right to dismiss McConkie's 1984 General Conference talk?  Aren't we supposed to 'live by every word which proceedeth forth out of the mouth of God'?"
+And that's when Jeremy's key question from the CES letter comes into play: ~"why should he trust Brett McDonald's interpretation of what is important or required when someone with priesthood keys has already said it explicitly?  Who gave Brett McDonald the right to *dismiss* McConkie's 1984 General Conference talk?  Aren't we supposed to 'live by every word which proceedeth forth out of the mouth of God'?"
