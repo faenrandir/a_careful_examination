@@ -6,6 +6,17 @@ doctype: historical-source
 layout: page
 ---
 
+### Context
+
+The time and audience (England) of this publication indicates that it was likely written in response to Martha Brothton's claims about her proposal from Brigham Young which (allegedly endorsed in person by Joseph Smith).  For example, see Richard and Pamela Price's interpretation [here](https://web.archive.org/web/20191220192033/http://restorationbookstore.org:80/articles/nopolygamy/jsfp-vol2/2chp1.htm).
+
+See also:
+
+* [Conference minutes from April 6, 1842]({{ "/times-and-seasons-apr-15-1842-conference-minutes/" | relative_url }})
+* [Martha Brotherton affidavit]({{ "/a_careful_examination/martha-brotherton-affidavit/" | relative_url }})
+
+### Original
+
 * [The Latter-day Saints' Millennial Star Vol. 03, no. 4, August 1842 (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/20948/rec/3)
 
 ---

@@ -7,7 +7,7 @@ layout: page
 
 On March 23, 2018, Stephen Smoot published an article entitled [“Believing Women” Includes Believing Joseph Smith’s Plural Wives](https://www.plonialmonimormon.com/2018/03/believing-women-includes-believing-joseph-smiths-plural-wives.html).
 
-_I've since embedded some bare links into hyperlinks and used proper footnotes to make this more readable_
+I have made a few minor changes (mostly cosmetic) but a few to point to slightly better or up-to-date resources
 
 ---
 
@@ -19,24 +19,24 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
 2. Since it is related to how women’s stories were received during the polygamy era, we probably shouldn’t neglect Martha Brotherton’s experience with polygamy and how she was treated after refusing to enter the institution. Her experience offers a window into the kind of choice the brides had that accepted polygamy (i.e., what kinds of consequences might befall someone who did not accept an offer of polygamy?).
 
-    [Martha Brotherton's Affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/master/documents/polygamy/denials/brotherton-affidavit.pdf)
+    [Martha Brotherton's Affidavit]({{ "/martha-brotherton-affidavit/" | relatirelative_url }})
 
-    We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least in its general outline.[^brothertonfactual]
+    We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least [in its general outline](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).
 
-    Joseph Smith referred to her story as “lies”[^smithsaidlies]:
+    Joseph Smith [referred to her story as “lies”](https://faenrandir.github.io/a_careful_examination/times-and-seasons-apr-15-1842-conference-minutes/):
 
     > Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for *there is no person that is acquainted with our principles would believe such lies*, except Sharp the editor of the “Warsaw Signal.”
 
-    Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett[^smithspreadaffidavits] which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
+    Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett (see [footnote #5](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/#fn:josephinstigatedaffidavits)) which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
 
-    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to defame Brotherton[^pppdefamedher] in the most vigorous terms for daring to suggest the these brothers were practicing polygamy.
+    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to [defame Brotherton]({{ "/a_careful_examination/millenial-star-denial-aug-1842/" | relative_url }}) in the most vigorous terms for daring to suggest the these brothers were practicing polygamy.
 
     The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
 
-    * BY would eventually have Brotherton sealed to him[^bysealed]
-    * PPP would eventually take Elizabeth Brotherton as a polygamous wife.[^pppelizabeth]
-    * JS lied repeatedly about practicing polygamy,[^jslied] but he was doing it nonetheless!
-    * HCK ended up marrying a total of 43 women[^hckmarriedmany]
+    * BY would eventually have [Brotherton sealed to him]({{ "/brigham-young-sealed-to-martha-brotherton/" | relative_url }})
+    * PPP would eventually take Elizabeth Brotherton [as a polygamous wife](https://history.lds.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt).
+    * JS [lied repeatedly about practicing polygamy](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/), but he was doing it nonetheless!
+    * HCK ended up marrying [a total of 43 women](https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children)
 
 3. Most of your statements are later recollections that fail to capture the horror some of these women felt as it was playing out. Consider how HMK describes how she felt during the arrangement:
 
@@ -55,7 +55,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
     * Emma viewed Joseph’s relationship with Fanny as adulterous, suggesting that Joseph didn’t get adequate buy-in from Emma. This is ethically problematic.
     * After the death of the Walker family’s mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, encouraging the father to leave on a two year mission to the eastern states. While the father was away, he married the 17 year old, Lucy. Under these circumstances, she should not have been made to feel pressured into this situation, regardless of her later disposition towards polygamy.
 
-    See [Five Key Facts](https://mormonbandwagon.com/bwv549/five-key-facts/) for sources.
+    See [Five Key Facts]({{ "/five-key-facts/" | relative_url }}) for sources.
 
 ---
 
@@ -119,8 +119,8 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
     I am happy to engage with any documentation that is publicly available. I’ve read most everything you have posted online and have spent a while digging in mormonpolygamydocuments, so I am comfortable suggesting that you have not directly addressed these problems yet:
 
-    * Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and besmirched Brotherton in doing so).[^jsbesmirchedmartha]
-    * Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith would have known those statements were false and misleading.[^jsknewmisleading]
+    * Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and [besmirched Brotherton in doing so]({{ "/times-and-seasons-apr-15-1842-conference-minutes/" | relative_url }})).
+    * Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith [would have known those statements were false and misleading]({{ "/affidavits-against-bennets-letters-brotherton-focus/" | relative_url }}).
 
     > I maintain if these women had stayed silent, JS would have stayed silent too.
 
@@ -197,24 +197,3 @@ If Gina Colvin and John Dehlin and Zelph on the Shelf want us to “believe wome
 ([table](https://i1.wp.com/www.plonialmonimormon.com/wp-content/uploads/2018/03/Chap-33-Table-3.jpg?ssl=1)) (for JTP copy, see images/Chap-33-Table-3.jpg)
 
 1. Brian C. Hales, Joseph Smith’s Polygamy: History and Theology (Salt Lake City: Greg Kofford Books, 2013), 390.
-
-[^brothertonfactual]: https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/
-
-[^smithsaidlies]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
-
-[^smithspreadaffidavits]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
-
-[^pppdefamedher]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/originals/1842-08-Millenial-Star-Apostasy.pdf
-
-[^bysealed]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/e3b1ad07de26f5cdb62ca36e8fc2291624e2d565/documents/polygamy/denials/brotherton_sealed_to_brigham_young_1870.pdf
-
-[^pppelizabeth]: https://history.lds.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt
-
-[^jslied]: https://mormonbandwagon.com/bwv549/joseph-smiths-polygamy-denials/
-
-[^hckmarriedmany]: https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children
-
-[^jsbesmirchedmartha]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/1842-04-15-DENIAL-Hyrum-and-Joseph-BrothertonRumors-at-conference.pdf
-
-[^jsknewmisleading]: https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/058bb61249b1ef9b3823d4e19a6eadfb5d6ecda7/documents/polygamy/denials/affidavits_and_certificates.martha-brotherton.pdf
-
