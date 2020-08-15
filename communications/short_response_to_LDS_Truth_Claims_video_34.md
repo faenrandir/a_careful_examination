@@ -5,7 +5,7 @@ doctype: response
 layout: page
 ---
 
-McDonald mis-characterizes Runnell's argument, which he attempts to outline at the beginning of the lecture:
+In [LDS Truth Claims video #34](https://www.youtube.com/watch?v=c8YqQs5sDE0) Brett McDonald mis-characterizes Runnell's argument, which Brett attempts to outline at the beginning of the lecture:
 
 > The LDS Church **requires** members to believe that there was "no death" of any kind on the earth prior to 7,000 years ago and that Adam and Eve are the first "humans"
 
