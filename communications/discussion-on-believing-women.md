@@ -29,7 +29,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
     Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett (see [footnote #5](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/#fn:josephinstigatedaffidavits)) which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
 
-    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to [defame Brotherton]({{ "/a_careful_examination/millenial-star-denial-aug-1842/" | relative_url }}) in the most vigorous terms for daring to suggest the these brothers were practicing polygamy.
+    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to [defame Brotherton]({{ "/a_careful_examination/millenial-star-denial-aug-1842/" | relative_url }}) in the most vigorous terms for daring to suggest that these brothers were practicing polygamy.
 
     The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
 
@@ -50,7 +50,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
 4. _Regardless_ of how participants may have felt about polygamy, many of Joseph Smith’s actions are ethically problematic. Later acceptance of polygamy does nothing to address the ethical problems with how Joseph enacted polygamy.
 
-    * Joseph had a second sealing performed to the Partridge sisters in order to hide the first sealings from Emma. Does it matter, ethically speaking, that the Partridge sisters were okay going along with this deception?
+    * Joseph [may have] had a second sealing performed to the Partridge sisters in order to hide the first sealings from Emma. Does it matter, ethically speaking, that the Partridge sisters were okay going along with this deception?
     * Joseph’s 3rd proposal to Zina came when she was a 7 month preganant newlywed. Under what ethical system is okay to proposition a 7 month pregnant newlywed for sealing? Her eventual acceptance that this was God’s will does nothing to absolve Smith. In that situation, there is immense pressure to generate spiritual experiences validating the proposal because, otherwise, the proposal is abominable and invalidates the woman’s entire worldview.
     * Emma viewed Joseph’s relationship with Fanny as adulterous, suggesting that Joseph didn’t get adequate buy-in from Emma. This is ethically problematic.
     * After the death of the Walker family’s mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, encouraging the father to leave on a two year mission to the eastern states. While the father was away, he married the 17 year old, Lucy. Under these circumstances, she should not have been made to feel pressured into this situation, regardless of her later disposition towards polygamy.
@@ -113,7 +113,7 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
     Finally, are you okay that women were libelled by early LDS leaders for publicly sharing that they were propositioned? From Martha’s standpoint, she was clearly standing for truth and to be a voice of warning (i.e., “LDS leaders say they aren’t practicing polygamy, but they are! Beware.”).
 
-3. I concede this point, although, in general, I have no interest in trying to defend Bennett’s claims (too many inaccuracies and wild exaggerations). I will note that a deeper examination of these spurned proposals hardly redeems the character of Joseph Smith (https://thoughtsonthingsandstuff.com/defending-the-expositor-joseph-and-the-women-who-said-nope-a-response-to-brian-hales-part-2/) and another analysis of the consequences women faced when attempting to reject a proposal is worth consideration (https://thoughtsonthingsandstuff.com/defending-the-expositor-indecent-proposals-pt1/)
+3. I concede this point, although, in general, I have no interest in trying to defend Bennett’s claims (too many inaccuracies and wild exaggerations). I will note that a deeper examination of these spurned proposals hardly redeems the character of Joseph Smith (see [Defending the Expositor part 2](https://thoughtsonthingsandstuff.com/defending-the-expositor-joseph-and-the-women-who-said-nope-a-response-to-brian-hales-part-2/)) and another analysis of the consequences women faced when attempting to reject a proposal is worth consideration ([Defending the Expositor part 1](https://thoughtsonthingsandstuff.com/defending-the-expositor-indecent-proposals-pt1/)).
 
 4. > As in the case of Brotherton and also Sarah Pratt (and to a lesser extent Jane Law), JS aggressively defended himself, which included attacking claims he considered to be untrue (please see my trilogy vol. 1-2 for more discussion).
 
@@ -136,7 +136,7 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
     What impact did this sealing have on the relationship between Zina and Henry Jacobs? To whom will Zina’s children (2 from Henry and one from BY) belong in the eternities? What moral goods were brought about as a result of this sealing? What moral harms were experienced?
 
-    Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See [primary focus of early sealing ceremonies](https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/)
+    Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See [primary focus of early sealing ceremonies]({{ "/a_careful_examination/primary-focus-of-sealing-for-polygamy/" | relative_url }})
 
     So, in its first 2 years, the “sealing” was not focused on linking families together, but linking polygamous wives to priesthood leaders. (This changed in the spring of 1843, perhaps related to when PPP was introduced to the practice)
 
@@ -144,7 +144,7 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
 10. I’m aware that permission was granted by the older brother. I don’t think brotherly permission fully exculpates JS in his duties as foster parent. It’s hard to imagine anyone objectively analyzing JS’s conduct in this case and agreeing that this arrangement was in Lucy’s best interest (even if polygamy were a true principle). Again, the feelings Lucy had upon receiving this proposal are a good indicator of how ethically problematic this proposal was in its structure. JS may have executed it as a perfect gentleman, but it was the proposal itself, under those circumstances, that makes it ethically problematic.
 
-    Also, was JS equally concerned that the Walker brothers receive their sealing?
+    Also, was JS equally concerned that the Walker brothers receive their sealing?  [I researched this later.  The answer is "no", it does not appear that Joseph Smith was concerned about [sealings for William Holmes Walker]https://faenrandir.github.io/a_careful_examination/william-holmes-walker-and-olive-hovey-farr/]), at least]
 
 11. This is a great point in defense of polygamy and JS. And, while I think it will hold much water for believing members, I think it does not go far enough because:
 
