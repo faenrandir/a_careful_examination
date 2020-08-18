@@ -144,7 +144,7 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
 10. I’m aware that permission was granted by the older brother. I don’t think brotherly permission fully exculpates JS in his duties as foster parent. It’s hard to imagine anyone objectively analyzing JS’s conduct in this case and agreeing that this arrangement was in Lucy’s best interest (even if polygamy were a true principle). Again, the feelings Lucy had upon receiving this proposal are a good indicator of how ethically problematic this proposal was in its structure. JS may have executed it as a perfect gentleman, but it was the proposal itself, under those circumstances, that makes it ethically problematic.
 
-    Also, was JS equally concerned that the Walker brothers receive their sealing?  [I researched this later.  The answer is "no", it does not appear that Joseph Smith was concerned about [sealings for William Holmes Walker]https://faenrandir.github.io/a_careful_examination/william-holmes-walker-and-olive-hovey-farr/]), at least]
+    Also, was JS equally concerned that the Walker brothers receive their sealing?  [I researched this later.  The answer is "no", it does not appear that Joseph Smith was concerned about [sealings for William Holmes Walker](https://faenrandir.github.io/a_careful_examination/william-holmes-walker-and-olive-hovey-farr/]), at least]
 
 11. This is a great point in defense of polygamy and JS. And, while I think it will hold much water for believing members, I think it does not go far enough because:
 
