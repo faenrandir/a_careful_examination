@@ -59,7 +59,7 @@ These are some modern examples[^modern] that I am aware of where LDS leadership 
 
 1. Elder Holland appears to have [attempted to mislead John Sweeney](https://www.youtube.com/watch?v=G9v2GxDs4To&feature=youtu.be&t=80) when Sweeney was asking about Romney and the temple oaths he would have sworn.  Jonathon Streeter [has analyzed this in depth](https://www.youtube.com/watch?v=lPVpUJj_gbs). [warning: potentially disturbing discussion of the temple and oaths]
 
-1. Elder Anderson may have misled Zimbabwe's prime minister regarding the wealth of the Church.
+1. Elder Anderson may have misled Zimbabwe's prime minister [regarding the wealth of the Church]({{ "/we-are-not-a-wealthy-people/" | relative_url }}).
 
 1. Based on Roger Clarke's interview with the Wall Street Journal (as [reported by the Salt Lake Tribune](https://www.sltrib.com/news/2020/02/08/lds-church-kept-lid-its-b/)), it became apparent that LDS officials "kept the size of the church's $100 billion investment reserves secret"
 
