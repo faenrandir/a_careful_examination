@@ -79,6 +79,14 @@ Many patriarchal blessings were given to [couples as a pair](https://www.josephs
 * [Minute Book 1](https://www.josephsmithpapers.org/paper-summary/minute-book-1/151)
 * [History of the Church 2:13, pg. 182](https://byustudies.byu.edu/content/volume-2-chapter-13)
 
+Christopher Blythe, an [LDS scholar at the Maxwell Institute](https://mi.byu.edu/scholars/christopher-blythe/), co-editor of the Journal of Mormon History and a co-editor of two volumes of the Joseph Smith Papers, interprets this statement literally in [his latest book](https://books.google.com/books?id=hC7wDwAAQBAJ&pg=PA32&lpg=PA32&dq=%22Mormons+believed+the+second+coming+was+imminent%22+Blythe&source=bl&ots=Ucv7RZ0Ikj&sig=ACfU3U100kC-GoOYA1zHa7F3Fx9Fh2m81g&hl=en&sa=X&ved=2ahUKEwjXy4L-mKbrAhXLCTQIHdSoAXgQ6AEwAHoECAEQAQ#v=onepage&q=%22Mormons%20believed%20the%20second%20coming%20was%20imminent%22%20Blythe&f=false):
+
+> On February 14, 1835, he declared that "even fifty six years, should wind up the scene"---placing the apocalypse in 1891.
+
+Blythe softens but does not dismiss the statement by continuing:
+
+> Smith made similar remarks on a few other occasions, but for the most part he focused on the chronology of events that would precede the Second Coming rather than the specific timing.
+
 ### 1835-02-15 Oliver Cowdery (shall stand on the earth ... till Christ comes)
 
 Several second coming promises were made to individuals receiving blessings that day.  This is the most explicit:
