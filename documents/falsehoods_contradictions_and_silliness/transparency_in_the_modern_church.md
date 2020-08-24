@@ -59,6 +59,10 @@ These are some modern examples[^modern] that I am aware of where LDS leadership 
 
 1. Elder Holland appears to have [attempted to mislead John Sweeney](https://www.youtube.com/watch?v=G9v2GxDs4To&feature=youtu.be&t=80) when Sweeney was asking about Romney and the temple oaths he would have sworn.  Jonathon Streeter [has analyzed this in depth](https://www.youtube.com/watch?v=lPVpUJj_gbs). [warning: potentially disturbing discussion of the temple and oaths]
 
+1. Elder Anderson may have misled Zimbabwe's prime minister regarding the wealth of the Church.
+
+1. Based on Roger Clarke's interview with the Wall Street Journal (as [reported by the Salt Lake Tribune](https://www.sltrib.com/news/2020/02/08/lds-church-kept-lid-its-b/)), it became apparent that LDS officials "kept the size of the church's $100 billion investment reserves secret"
+
 1. The Church redacts sections of historical documents it otherwise makes publicly available, possibly because these sections cast leaders in such a poor light.  For instance, there are [paragraphs redacted from John D. Lee's disciplinary council](https://faenrandir.github.io/a_careful_examination/brigham-young-q12-minutes-1847-12-09/) that D. Michael Quinn happened to transcribe before the redaction.
 
 1. The Gospel Topics essays sometimes use footnotes in a manner that poorly reflects (or maybe even reverses) the meaning of the original source material.  The most egregious of these is [footnote #9 in the race and the priesthood essay](https://drive.google.com/file/d/1uGbG1kvsluwiKvqrkQP7h7RocsrWC4cb/view).
