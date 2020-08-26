@@ -11,11 +11,11 @@ In Elder Ballard's [2017 YSA Face to Face](https://www.churchofjesuschrist.org/b
 
 > We’re as transparent as we know how to be in telling the truth.
 
-And that they as Church leaders had
+and that they as Church leaders had
 
 > never tried to hide anything from anybody
 
-And in a [2018 Face to Face with Elder Cook](https://www.thechurchnews.com/leaders-and-ministry/2018-09-10/what-elder-cook-and-historians-said-about-polygamy-seer-stones-and-church-transparency-during-nauvoo-face-to-face-8671), Dr. Kate Holbrook added:
+In a [2018 Face to Face with Elder Cook](https://www.thechurchnews.com/leaders-and-ministry/2018-09-10/what-elder-cook-and-historians-said-about-polygamy-seer-stones-and-church-transparency-during-nauvoo-face-to-face-8671), Dr. Kate Holbrook added:
 
 > The Church did not hide information from me, but the historical information was not emphasized to me
 
