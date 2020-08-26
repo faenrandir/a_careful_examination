@@ -18,7 +18,6 @@ Below is, to my understanding based on [the Mormon History podcast ep 15](https:
 
 * [Redacted document](https://ia803104.us.archive.org/9/items/JOHNDLEECASE/JOHNDLEECASE.pdf)
 * [Word .doc transcription](https://archive.org/download/JOHNDLEECASE/JOHNDLEECASE%20TRANSCRIPT) (may need to rename to end `.doc` to view)
-U
 
 I copied this from the Mormon Church History blog, entry [Mormon History, Dec 9, 1847](https://web.archive.org/web/20200515232841/https://mormon-church-history.blogspot.com/2013/09/mormon-history-dec-9-1847_1102.html), which was presumably copied out of the appendix of D. Michael Quinn's "The Mormon Hierarchy: Origins of Power."
 
