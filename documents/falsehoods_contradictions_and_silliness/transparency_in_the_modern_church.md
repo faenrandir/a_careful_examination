@@ -61,6 +61,12 @@ These are some modern examples[^modern] that I am aware of where LDS leadership 
 
 1. Based on Roger Clarke's interview with the Wall Street Journal (as [reported by the Salt Lake Tribune](https://www.sltrib.com/news/2020/02/08/lds-church-kept-lid-its-b/)), it became apparent that LDS officials "kept the size of the church's $100 billion investment reserves secret"
 
+1. In an interview conducted by Church media in 2012, [Elder Lance Wickman stated](https://www.youtube.com/watch?v=5ZzkeuR423k&feature=youtu.be&t=57):
+
+    > contrary to what some may think it was the members not the church, yes the First Presidency of the church sent a letter that was read in sacrament meeting urging members to get involved, and thats all that was needed and they were galvanized by it.
+
+    However, a powerpoint presentation leaked to Mormonleaks called [Proposition 8 Grassroots Program](https://mormonleaks.io/wiki/index.php?title=File:Proposition_8_Grassroots_Program.pdf) included detailed heirarchical organization charts and strategies suggesting the movement was directed and organized in top-down fashion.
+
 1. The Church redacts sections of historical documents it otherwise makes publicly available, possibly because these sections cast leaders in such a poor light.  For instance, there are [paragraphs redacted from John D. Lee's disciplinary council](https://faenrandir.github.io/a_careful_examination/brigham-young-q12-minutes-1847-12-09/) that D. Michael Quinn happened to transcribe before the redaction.
 
 1. The Gospel Topics essays sometimes use footnotes in a manner that poorly reflects (or maybe even reverses) the meaning of the original source material.  The most egregious of these is [footnote #9 in the race and the priesthood essay](https://drive.google.com/file/d/1uGbG1kvsluwiKvqrkQP7h7RocsrWC4cb/view).
