@@ -101,7 +101,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **1984**&nbsp; Speaking bans to limit the influence of "Mormon Enigma"
 
-    Believing scholars Valeen Tippetts Avery and Linda King Newell published Mormon Enigma in 1984.  It won several Mormon history awards (including BYU sponsored awards).  Inquiries about Church sanction of the book prompted LDS leadership to ban Avery and Newell from speaking about Church history generally in LDS meetings.  When they finally were able to meet with the Apostles responsible for the ban, Newell recorded their motivation.  As conveyed in [this Dialogue article](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf):
+    Believing scholars Valeen Tippetts Avery and Linda King Newell published Mormon Enigma in 1984.  It won several Mormon history awards (including a BYU sponsored award).  Inquiries about Church sanction of the book prompted LDS leadership to ban Avery and Newell from speaking about Church history generally in LDS meetings.  When they finally were able to meet with the Apostles responsible for the ban, Newell noted their motivation.  As conveyed in [this Dialogue article](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf):
 
     > [Dallin] Oaks explained the decision to order the ban included the fact that "your book represents a non-traditional view of Joseph Smith" and thus may damage the faith of church members who read it. Linda explained that the letters and calls she had received from readers described a positive reaction. Oaks acknowledged that possibility yet maintained that he believed "the weight of the evidence was on the other side."  Jack [Linda's husband] countered that the issue was whether or not the book was an honest and true portrayal of the facts, readers reactions being incidental. When Linda asked whether the two apostles had read the book, [Neil] Maxwell did not answer and Oaks admitted he had only read portions of it, citing time constraints as the reason. He acknowledged that in what he had read, Linda and Avery had used restraint when discussing aspects of Joseph Smith's life and his relationship with Emma. Apparently, however, it was not enough. After more discussion, Oaks emphasized that, despite his academic background and reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to "protect what is most unique about the LDS church" and stressed that "if Mormon Enigma reveals information that is detrimental to the reputation of Joseph Smith, then it is necessary to try to limit its influence and that of its authors."
 
@@ -178,9 +178,9 @@ What responsibility does the organization have for presenting or publicizing uns
 Other remaining questions include: 
 
 * Should [institutions apologize](https://faenrandir.github.io/a_careful_examination/the-church-does-not-apologize/) for times they were not fully transparent?  Should the Church?
-* If these are the instances we are aware of today, how many instances have still not been brought to light?  Can the Church "fully repent" as an institution without a full accounting?
+* If these are the instances we are aware of today, how many instances have still not been brought to light?  Can the Church "fully repent" (or make amends) as an institution without a full accounting?
 * Can we say that the Church is fully transparent today?  What would they need to do to convince an unbiased 3rd party that was the case?
-* Are the forces that initially fostered conditions where full transparency was not achieved still in place in the Church?
+* Are the cultural forces that hindered transparency in the past still active in the Church today?
 
 ## See also
 
