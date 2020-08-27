@@ -111,6 +111,10 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
     When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress)).
 
+* **1993**&nbsp; Lavina Fielding Anderson is excommunicated for documenting LDS intellectual suppression
+
+    Lavina Fielding Anderson published [a document](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N01_23.pdf) outlining ecclesiastical abuse of intellectuals in the Church.  She was excommunicated (as part of [the September 6](https://en.wikipedia.org/wiki/September_Six), intellectuals and feminists who were all excommunicated at about the same time).  She actively attended Church in the intervening decades and in 2019 her local and regional leaders recommended her for rebaptism to the First Presidency.  The First Presidency [denied the appeal](https://www.sltrib.com/religion/2019/09/05/writer-excommunicated/) for re-baptism without comment.
+
 * **2001, 2003**&nbsp; Church manuals leave out difficult polygamy details
 
     The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
