@@ -25,6 +25,8 @@ With that said, I think there are a few good examples of where the Church (or it
 
 Still, I believe that agency is fundamentally precious and that a person cannot act with a full measure of agency unless the facts of the matter are accessible to them.  From that angle, then, I am less concerned with what the motivation of LDS leadership was when choosing whether to make information accessible than that information was not readily avaiable or perhaps misrepresented.  When leaders or institutions are transparent with the relevant data, then that allows others to fully exercise their agency, and I think we all applaud that.  When leaders or institutions fail to make relevant information accessible (whatever their reasons, even if noble) then this is concerning since it can hinder a person in exercising their agency and selecting the best model among competing models.[^models]
 
+Finally, although I do not enumerate them here, I acknowledge that the Church has dramatically increased its transparency during the last couple of decades in many ways (e.g., the Joseph Smith Papers project).
+
 ## Examples of transparency failures
 
 These are some modern examples[^modern] where LDS leadership or the institution appear to have failed to provide, or hindered the availability of, information that members or investigators arguably should have access to.
