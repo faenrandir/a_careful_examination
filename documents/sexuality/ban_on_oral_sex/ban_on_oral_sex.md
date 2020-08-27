@@ -56,7 +56,7 @@ Such events seem unfortunate but not necessarily suprising given the ambigious s
 ### Additional Reading/Listening
 
 * [Ask a Mormon Sex Therapist - Jennifer Finlayson-Fife](http://rationalfaiths.com/category/podcast/ask-the-mormon-sex-therapist/) (podcasts)
-* [Oral Sex](http://www.i4m.com/think/sexuality/mormon_oral_sex.htm) (i4m.com)
+* [Oral Sex](https://web.archive.org/web/20170110103225/http://www.i4m.com:80/think/sexuality/mormon_oral_sex.htm) (i4m.com)
 
 ### LDS Sex therapist survey
 
