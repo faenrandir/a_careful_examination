@@ -25,19 +25,19 @@ With that said, I think there are a few good examples of where the Church (or it
 
 Still, I believe that agency is fundamentally precious and that a person cannot act with a full measure of agency unless the facts of the matter are accessible to them.  From that angle, then, I am less concerned with what the motivation of LDS leadership was when choosing whether to make information accessible than that information was not readily avaiable or perhaps misrepresented.  When leaders or institutions are transparent with the relevant data, then that allows others to fully exercise their agency, and I think we all applaud that.  When leaders or institutions fail to make relevant information accessible (whatever their reasons, even if noble) then this is concerning since it can hinder a person in exercising their agency and selecting the best model among competing models.[^models]
 
-## Examples of failing to make the data available
+## Examples of transparency failures
 
-These are some modern examples[^modern] that I am aware of where LDS leadership or the institution appears to have failed to provide information (at least initially) that members or investigators arguably should have access to in making an informed decision about aspects of the Church or its truth-claims.
+These are some modern examples[^modern] where LDS leadership or the institution appear to have failed to provide, or hindered the availability of, information that members or investigators arguably should have access to.
 
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
     Significant issues with Book of Mormon historicity were [made known to all of the LDS leadership in 1922](https://scholarworks.unr.edu/handle/11714/6712).[^montez]  B.H. Roberts wrote up these issues in [a series of long essays](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon).  LDS leadership could have published or made these studies more widely available.
 
-* **~1930s--1963**&nbsp; the 1832 First Vision account suppression
+* **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account was suppressed
 
     [The 1832 First Vision account was suppressed between 11 and ~30 years](https://faenrandir.github.io/a_careful_examination/1832-first-vision-account-suppressed/).
 
-* **~1970-1993**&nbsp; Leonard Arrington describes efforts to prevent 'real' history from being published
+* **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
     The recent [release of Leonard Arrington's journals](https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/) (~2,700 pages) documents the "cancellation or censorship of work produced by Arrington and his stable of historians and writers."
 
@@ -63,7 +63,7 @@ These are some modern examples[^modern] that I am aware of where LDS leadership 
 
     > These excommunications are the worst examples of blaming the messenger for the message.  What a perversion of apostasy, to regard as apostates individuals who are … loyal and believing.
 
-* **~1973**&nbsp; discouraged publication of Lester Bush's research on the Priesthood Ban
+* **~1973**&nbsp; Publication of Lester Bush's research on the Priesthood Ban discouraged
 
     Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for Mormonism's Negro Doctrine[^bush]:
 
@@ -95,41 +95,45 @@ These are some modern examples[^modern] that I am aware of where LDS leadership 
 
     Elder Richards denied the existence of the seerstone [in an interview](https://faenrandir.github.io/a_careful_examination/legrand-richards-denied-existence-of-seerstone/).  (may have been benign ignorance)
 
-* **1981**&nbsp; Bruce R. McConkie misleads on teaching of Adam God theory
+* **1981**&nbsp; Bruce R. McConkie misleads about teaching of the Adam God theory
 
     Elder McConkie appears to have [misled on the teaching of the Adam God theory](https://faenrandir.github.io/a_careful_examination/bruce-r-mcconkie-misled-on-adam-god/).  Also, consider Boyd Kirkland's allegations in that same link demonstrating general suppression by LDS leadership of the idea that Adam-God was taught by Brigham Young.
 
-* **1984**&nbsp; limiting the influence of Mormon Enigma
+* **1984**&nbsp; Speaking bans to limit the influence of "Mormon Enigma"
 
     Believing scholars Valeen Tippetts Avery and Linda King Newell published Mormon Enigma in 1984.  It won several Mormon history awards (including BYU sponsored awards).  Inquiries about Church sanction of the book prompted LDS leadership to ban Avery and Newell from speaking about Church history generally in LDS meetings.  When they finally were able to meet with the Apostles responsible for the ban, Newell recorded their motivation.  As conveyed in [this Dialogue article](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf):
 
     > [Dallin] Oaks explained the decision to order the ban included the fact that "your book represents a non-traditional view of Joseph Smith" and thus may damage the faith of church members who read it. Linda explained that the letters and calls she had received from readers described a positive reaction. Oaks acknowledged that possibility yet maintained that he believed "the weight of the evidence was on the other side."  Jack [Linda's husband] countered that the issue was whether or not the book was an honest and true portrayal of the facts, readers reactions being incidental. When Linda asked whether the two apostles had read the book, [Neil] Maxwell did not answer and Oaks admitted he had only read portions of it, citing time constraints as the reason. He acknowledged that in what he had read, Linda and Avery had used restraint when discussing aspects of Joseph Smith's life and his relationship with Emma. Apparently, however, it was not enough. After more discussion, Oaks emphasized that, despite his academic background and reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to "protect what is most unique about the LDS church" and stressed that "if Mormon Enigma reveals information that is detrimental to the reputation of Joseph Smith, then it is necessary to try to limit its influence and that of its authors."
 
-* **~1985**&nbsp; alleged attempt to suppress publication of B.H. Roberts's Studies of the Book of Mormon: When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress)).
+* **~1985**&nbsp; Attempted suppression of publication of Roberts's Studies of the Book of Mormon
+
+    When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress)).
+
+* **2001, 2003**&nbsp; Church manuals leave out difficult polygamy details
+
+    The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
 
 * **2011**&nbsp; Lorenzo Snow manual ellipses on tithing
 
     The ellipses used in the Lorenzo Snow manual [changed the intent of Snow's statement on tithing](https://wasmormon.org/the-tithing-ellipsis/).
 
-* **2012**&nbsp; gospel topics essays given a "soft rollout"
+* **2012**&nbsp; Gospel topics essays given a "soft rollout"
 
     In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
 
     > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”. (Laughter from the audience) But yet we had a lot of people struggling with some of these issues. We were loosing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
 
-* **2012**&nbsp; denial of access to Joseph Fielding Smith's diaries 
+* **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
     When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 account, [he was denied access](https://faenrandir.github.io/a_careful_examination/1832-first-vision-account-suppressed/#why-not-an-earlier-dating).
 
-* **2012**&nbsp; Lance Wickman portrays prop 8 efforts in California as primarily a grassroots effort
+* **2012**&nbsp; Wickman portrays prop 8 efforts in California as primarily a grassroots effort
 
     In an interview conducted by Church media in 2012, [Elder Lance Wickman stated](https://www.youtube.com/watch?v=5ZzkeuR423k&feature=youtu.be&t=57):
 
     > contrary to what some may think it was the members not the church, yes the First Presidency of the church sent a letter that was read in sacrament meeting urging members to get involved, and thats all that was needed and they were galvanized by it.
 
     However, a powerpoint presentation leaked to Mormonleaks called [Proposition 8 Grassroots Program](https://mormonleaks.io/wiki/index.php?title=File:Proposition_8_Grassroots_Program.pdf) included detailed heirarchical organization charts and strategies suggesting the movement was directed and organized in top-down fashion.
-
-* The D&C and Church History manuals we used while I was growing up included [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
 
 * **2012**&nbsp; Purdy evades question on SCMC
 
