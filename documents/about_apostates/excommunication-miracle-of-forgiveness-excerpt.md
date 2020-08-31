@@ -8,7 +8,7 @@ layout: page
 
 ## Introduction
 
-At the time of this writing, aspects of these statements may have applied equally to a member of the Church who was asking to resign since the only way to leave the Church was via excommunication for apostasy.[a lawsuit brought against the Church in the 1980s forced a change to the Church's policy]
+When Spencer W. Kimball wrote these statements, they would have applied equally to a member of the Church who was resigning their membership since the only way to resign at that time was via excommunication.[^name_removal_same_as_excommunication]
 
 ## Transcript
 
@@ -33,3 +33,6 @@ An excommunicant has no Church privileges. He may not attend priesthood meetings
 ## Acknowledgements
 
 Originally heard through missedinsunday [here](https://www.reddit.com/r/exmormon/comments/g61a43/a_true_latterday_saint/).
+
+[^name_removal_same_as_excommunication]: [The 1983 Church Handbook of Instruction](https://drive.google.com/drive/folders/0B9Vs4YXzKZEpcTVPQmZtWFM1Tk0) on page 51 states: "Church courts should not be convened merely because a member is totally inactive unless he ... makes a written request (not a form letter) at his own initiative to have his name removed from the records of the Church and patient efforts to dissuade hime are unsuccessful."  Page 59 states: "If a person's name has been removed from the records of the Church in response to his request, any announcement should not include the word *excommunication*.  It merely should state that his name has been removed from the records of the Church at his request." And on page 61 in a discussion on excommuniation, it discusses sending the name-removal letter to Church headquarters: "In cases of excommunication the same records are sent to Church headquarters ... along with the following items when applicable: 1) The letter written by a person requesting that his name be removed from the records of the Church." Originally h/t Lavina Fielding Anderson in [her discussion of Norman Hancock and resignation](http://mormon-alliance.org/casereports/volume3/part1/v3p1c05.htm).
+
