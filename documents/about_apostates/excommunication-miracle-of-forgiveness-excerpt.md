@@ -1,6 +1,6 @@
 ---
 title: "Spencer W. Kimball on the effects of Excommunication"
-permalink: /never-love-wives-more-than-they-adorn-gospel/
+permalink: /spencer-w-kimball-on-effects-of-excommunication/
 maintopic: faith-transitions
 doctype: excerpt
 layout: page
