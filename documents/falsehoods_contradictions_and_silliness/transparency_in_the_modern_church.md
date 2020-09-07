@@ -21,13 +21,7 @@ In a [2018 Face to Face with Elder Cook](https://www.thechurchnews.com/leaders-a
 
 At a broad-stroke level, perhaps these statements by Elder Ballard and Dr. Holbrook are good characterizations.  I am not aware of that many clear-cut examples of where things were hidden from the body of the Church.  I am also inclined to give Church leadership the benefit of the doubt regarding their *motivation*, especially where we don't have documentation indicating their motivation.  Intentional dishonesty can be very difficult to demonstrate in the historical record.[^dishonesty]
 
-With that said, I think there are a few good examples of where the Church (or its representatives) appear to have failed to inform members or investigators of things they perhaps should have (i.e., they knew about things that are relevant to LDS truth-claims and they failed to make those readily available or transparent) or misrepresented the data.  I am hesitant to label these "hiding." *Hiding* can be seen as implying motivation and/or dishonesty.  I would rather just concede at the the outset that LDS leadership probably genuinely view their own actions as honest and honorable.
-
-Furthermore, even though we do not have the complete context for every incident that is listed below, some records do capture the motivation of leadership, and they can usually be categorized as: 1) an honest mistake 2) benign ignorance, 3) thought appropriate for their calling as a representative of the Church and its interests, 4) necessary steps to protect the innocent or those immature in the faith, 5) defending the faith, 6) refusing to "cast pearls before swine", or 7) following scriptural admonitions to be cautious in sharing sacred material.  Leaders who were least transparent seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.  Unless structural safeguards are in place, most institutions seem to sacrifice transparency in proportion to perceived existential threats.  In wartime, generals do not broadcast their army's weaknesses.
-
-Still, I believe that agency is fundamentally precious and that a person cannot act with a full measure of agency unless the facts of the matter are accessible to them.  From that angle, then, I am less concerned with what the motivation of LDS leadership was when choosing whether to make information accessible than that information was not readily avaiable or perhaps misrepresented.  When leaders or institutions are transparent with the relevant data, then that allows others to fully exercise their agency, and I think that should be applauded.  When leaders or institutions fail to make relevant information accessible (whatever their reasons, even if noble) then this is concerning since it can hinder a person in exercising their agency and selecting the best model among competing models.[^models]
-
-Finally, although I do not enumerate them in this document, I acknowledge that the Church has dramatically increased its transparency during the last two decades in many ways (e.g., the Joseph Smith Papers project).
+With that said, the historical record supports several examples of when the Church (or its representatives) appear to have failed to inform members or investigators of things they perhaps should have (i.e., they knew about things that are relevant to LDS truth-claims and they failed to make those readily available or transparent), misrepresented the data, or influenced others to be less transparent in how its history was to be represented to the world and its own members.
 
 ## Examples of transparency failures
 
@@ -39,69 +33,37 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account was suppressed
 
-    [The 1832 First Vision account was suppressed between 11 and ~30 years](https://faenrandir.github.io/a_careful_examination/1832-first-vision-account-suppressed/).
+    The 1832 First Vision account [was suppressed between 11 and ~30 years]({{ "/1832-first-vision-account-suppressed/" | relative_url }}).
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
-    The recent [release of Leonard Arrington's journals](https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/) (~2,700 pages) documents the "cancellation or censorship of work produced by Arrington and his stable of historians and writers."
+    In journals and diary entries, Leonard Arrington---first professional historian appointed Church Historian---documented suppressive attitudes and actions]({{ "/leonard-arrington-and-real-history/" | relative_url }}): 
 
-    Arrington documented how sources that had once been available to Church historians vanished when he had been transferred to BYU.  [Dobay summarizes](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V27N01_103.pdf):
-
-    > Although Arrington gamely accepted [the] explanation for this relocation as an effort to enhance historical study, many omens pointed to other motives for moving scholars away from the archives in Salt Lake City. Valuable journals and letters of such nineteenth-century Mormons as William C. Clayton, John Taylor, George Q. Cannon, and Francis M. Lyman, selectively available in the 1970s, disappeared from scrutiny. (see footnote 17)
-
-    Arrington also discussed the different views of LDS leadership on writing LDS history (in his book The Writing of Mormon History, as represented to me by Anthony D. Miller):
-
-    > I was shaken by the way in which these brethren [Benson and Petersen] had their way; by the failure of anyone to defend the book, to speak up for it, to explain why we felt it was a good book. The entire episode convinced me that there are some Brethren, including the two persons next in line to be president of the Church and president of the Quorum of Twelve, who would not approve of any of our work ... We have to reckon with the distinct possibility that, upon President Kimball’s death, these brethren, if they are still alive, will probably replace us and greatly diminish and alter the work of studying and writing about Church history. [pgs 290-291]
-
-    > [Delbert] Stapley then relayed the sentiment of some within the Twelve that 'we should not put anything in any of our histories that reflects badly on the Church ... I replied that if our picture is entirely rosy nobody, even members of the Church, will have confidence in what we write because members of the Church know that there are warts and blemishes and unless we acknowledge some of these they will not have confidence that we are writing the whole truth and nothing but the truth.' His reply was again, we must leave the bad things out of our history. [pg 285]
-
-    And from [his journal](https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/): 
-
-    > It is clear that President Benson will not stand for our ‘real’ history. And since he is next in line, and president of the Twelve, we are in a powerless position, and no one wishes to consider our own rationale,” Arrington wrote Sept. 6, 1976. “ ... The question for me is shall I retain the job ... and try to write history which will be approved by [the church’s] Correlation [Department] or shall I resign and continue to write ‘real history.’
-
-    > Elders Benson and [Mark E. Petersen] … want glorious stories of the Restoration [of the gospel], unsullied by discussion of practical problems and controversial evidence. They want prophets without warts, revelation direct from high in pure vessels. The want faith-promoting stories and moral homilies. They feel strongly and will oppose all our books, written as we understand history.
-
-    > ... some church officers do not want the church to promulgate historical truth. ... If they do not want historical truth, what do these officials want?  They favor the purveying of traditional truth, which is different from historical truth, scientific truth or philosophical truth.
-
-    Arrington also viewed the September 6 excommunications as "blaming the messenger":
-
-    > These excommunications are the worst examples of blaming the messenger for the message.  What a perversion of apostasy, to regard as apostates individuals who are … loyal and believing.
-
+    * records "dissappear[ing] from scrutiny"
+    * "we are not required to tell the whole truth"
+    * "will not stand for our ‘real’ history"
+    * "want prophets without warts"
+    * "do not want the church to promulgate historical truth"
+    
 * **~1973**&nbsp; Publication of Lester Bush's research on the Priesthood Ban discouraged
 
-    Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for Mormonism's Negro Doctrine[^bush]:
+    Lester Bush [has described the attitude of LDS leadership]({{ "/lester-bush-research-on-priesthood-ban-discouraged/" | relative_url }}) related to his research and publication of Mormonism's Negro Doctrine:
 
-    > In attempting to gain access to some materials in the Church Historian’s Office, I was required to meet with its head, ninety-two-year-old Apostle Joseph Fielding Smith.  His main points in our interview were that the work on blacks and the priesthood already had been done (i.e., his own work), and that the Church didn’t want every “Tom, Dick, or Harry” looking through its records. Naively—and armed with my temple recommend—I said I didn’t think I was any “Tom, Dick, or Harry.” He replied, with a smile, that they didn’t want any “Tom, Dick, or Bob” either.
-
-    > ... an archival staff member explained that I couldn't look at a vast collection of documents then termed the Manuscript History of the Church but let me photocopy an annotated index to this collection, which included much substantive detail. ...
-
-   He described in multiple letters Boyd K. Packer's disposition towards the public availability of difficult documents:
-
-   > To a large extent, they were sorry the material [Bennion papers] was available—but this already had been verified for them by the Historical Dept., so that was not primarily directed at me. [Packer did, however, ask again who at BYU gave me the Bennion papers. I told him that my brother originally had come onto the Bennion papers while doing research at BYU. I was asked if my brother worked there at the time, which he didn’t, and the subject was again dropped. As part of this discussion I again mentioned that almost identical materials were available in the George Albert Smith Papers at the University of Utah. To this Packer responded with visible disdain that this was not the result of a charitable interest in scholarship on the part of the Smith family, but rather they had sold (as in, “their birthright”) these sensitive materials to the university.] My notes apparently were not evaluated for substantive questions, but rather from the perspective of what material had gotten out, and how.
-
-    And:
-
-    > ... When I pressed for some specifics as to problems with my paper, they explained that the material I had included on President Joseph F. Smith showed him reversing his opinion on a crucial point regarding Elijah Abel, an early black priesthood holder. This information, they said, could undermine faith in his role as a prophet, so was inappropriate.
-
-    Bush also reports notes from Robert A. Rees, the editor for Dialogue (the journal that was planning to publish Bush's research), in a conversation with the Academic Vice President at BYU Robert K. Thomas, conveying pressure from general authorities to discourage publication:
-
-    > Brother Thomas began ... by saying that he had heard some disturbing things about an article which Dialogue was going to be publishing on Mormonism and the Negro and that even though he had not seen the article the indications of the conversations that he had had made him feel that this was a Rubicon river for Dialogue. The initial inquiry or at least one of the inquiries came to [then BYU president] Dallin Oaks in regard to the quotation of the material from the Bennion papers which are at Brigham Young University and Bob said that because... materials from those papers were used in the Dialogue article, that Brigham Young University was going to be in big trouble, He said that he had gotten several calls... from several highly placed sources asking explicit questions about BYU and ... in terms of his experience ... over a long period of time the original source of those inquiries was unmistakenly from the General Authorities.  He said that if Dialogue prints Bush’s article the brethren will think that Dialogue is hostile. He said that to this point that Dialogue has not been considered hostile but that the brethren will clearly think that if we publish this article...
-
-    He describes a conversation with Leonard Arrington regarding the Bennion Papers:
-
-    > ... A few months later I heard from the special collections staffer at BYU that “Some time after your statement that you used the Bennion papers at the University, the Library was contacted in behalf of the First Presidency stating that we should not have copies of the councils’ minutes and requested [that the library] send them up..." ...
-
-    There were also attempts by Apostle Mark E. Petersen to have Lester Bush disciplined:
-
-    > [J. Willard Marriot Jr., Bush's stake president] said he had received a telephone call from Apostle Marke E. Petersen, who had spoken "very harshly" about me over my publications on the "Negro Doctrine" and instructed Marriott to call me in and take some appropriate action.
+    * "the Church didn’t want every 'Tom, Dick, or Harry' looking through its records" [or even those with temple recommends]
+    * The vast collection of Manuscript History was off limits to Bush
+    * "My notes apparently were not evaluated for substantive questions, but rather from the perspective of what material had gotten out, and how."
+    * "[The material showing Joseph F. Smith reversing his opinion on the ordination fo Elijah Abel] could undermine faith in his role as a prophet, so was inappropriate."
+    * "if Dialogue prints Bush’s article the brethren will think that Dialogue is hostile"
+    * [after using the Bennion papers] "the Library was contacted in behalf of the First Presidency stating that we should not have copies of the councils’ minutes and requested [that the library] send them up [i.e., not make them publicly available]"
+    * "Mark E. Petersen ... had spoken 'very harshly' about me over my publications... and instructed Marriott [Bush's stake President] to call me in and take some appropriate action"
 
 * **1978**&nbsp; LeGrand Richards denied the existence of the seerstone
 
-    Elder Richards denied the existence of the seerstone [in an interview](https://faenrandir.github.io/a_careful_examination/legrand-richards-denied-existence-of-seerstone/).  (may have been benign ignorance)
+    Elder Richards denied the existence of the seerstone [in an interview]({{ "/legrand-richards-denied-existence-of-seerstone/" | relative_url }}).  (may have been benign ignorance)
 
 * **1981**&nbsp; Bruce R. McConkie misleads about teaching of the Adam God theory
 
-    Elder McConkie appears to have [misled on the teaching of the Adam God theory](https://faenrandir.github.io/a_careful_examination/bruce-r-mcconkie-misled-on-adam-god/).  Also, consider Boyd Kirkland's allegations in that same link demonstrating general suppression by LDS leadership of the idea that Adam-God was taught by Brigham Young.
+    Elder McConkie appears to have [misled on the teaching of the Adam God theory]({{ "/bruce-r-mcconkie-misled-on-adam-god/" | relative_url }}).  Also, consider Boyd Kirkland's allegations in that same link demonstrating general suppression by LDS leadership of the idea that Adam-God was taught by Brigham Young.
 
 * **1984**&nbsp; Speaking bans to limit the influence of "Mormon Enigma"
 
@@ -111,7 +73,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **~1985**&nbsp; Attempted suppression of publication of Roberts's Studies of the Book of Mormon
 
-    When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11](https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress)).
+    When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11]({{ "/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress" | relative_url }})).
 
 * **1993**&nbsp; Lavina Fielding Anderson is excommunicated for documenting LDS intellectual suppression
 
@@ -133,7 +95,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
-    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 account, [he was denied access](https://faenrandir.github.io/a_careful_examination/1832-first-vision-account-suppressed/#why-not-an-earlier-dating).
+    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 account, [he was denied access]({{ "/1832-first-vision-account-suppressed/#why-not-an-earlier-dating" | relative_url }}).
 
 * **2012**&nbsp; Wickman portrays prop 8 efforts in California as primarily a grassroots effort
 
@@ -163,7 +125,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **2018**&nbsp; obfuscation of living allowances
 
-    I performed a [fairly comprehensive analysis](https://faenrandir.github.io/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/) of how the Church portrays living allowances for its senior male leadership.  A good example of how the Church has obfuscated living allowances can be found in [this section](https://faenrandir.github.io/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation).
+    I performed a [fairly comprehensive analysis]({{ "/how-transparent-was-lds-church-with-living-allowances/" | relative_url }}) of how the Church portrays living allowances for its senior male leadership.  A good example of how the Church has obfuscated living allowances can be found in [this section]({{ "/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation" | relative_url }}).
 
 * **2020**&nbsp; leaders did not want members to know about the size of Ensign Peak investments
 
@@ -177,6 +139,26 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
     Almost since the beginning of the Church, the Book of Mormon translation process, especially with regards to use of the seer stone, seems like it could have been presented with greater transparency or accuracy.  Consider candidates [in this presentation by japanesepiano](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf), many of which occurred relatively recently.
 
+## Were they "hiding" things?
+
+I am hesitant to label these instances "hiding." *Hiding* can be seen as implying motivation and/or dishonesty.  I would rather concede that barring direct evidence to the contrary, LDS leadership probably genuinely view their own actions as honest and honorable.  Motivations that fall outside of intentional dishonesty and intentional obfuscation for its own sake are these:[^motivations_overlap]
+
+1. An honest mistake
+2. Benign ignorance
+3. Some level of willful ignorance, but motivated by a focus on administrative duties
+3. Viewed as appropriate for their calling as a representative of the Church and its interests
+4. Necessary steps to protect the innocent or those immature in the faith
+5. Defending the faith from those who would undermine it
+6. Refusing to "cast pearls before swine"
+7. Following scriptural admonitions to be cautious in sharing sacred material
+
+An inspection of the first and second-hand accounts which imply motivation suggest that in each case one or more of the enumerated motivations were a factor.  And, in general, leaders who were least transparent seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.  Unless structural safeguards are in place, most institutions tend to sacrifice transparency in proportion to perceived existential threats.[^sacrificing_transparency]
+
+Generosity towards the motivation of LDS leadership should probably be balanced with an appreciation of the potential harms of limiting transparency where it is due.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data, then that allows others to fully exercise their agency.  When leaders or institutions fail to make relevant information accessible (whatever their reasons, even if noble) then this can hinder individuals in exercising their agency for self-determination[^self_determination] and in selecting the best model among competing models.[^models]
+
+Finally, although I do not enumerate them in this document, I acknowledge that the Church has dramatically increased its transparency during the last two decades in many ways (e.g., the Joseph Smith Papers project).
+
+
 ## Remaining questions
 
 What responsibility does the organization have for presenting or publicizing unsavory, potentially damaging, or uncomfortable information to its members?  It seems fair to point out that the Church holds its members to exacting standards of honesty and transparency.  For instance, the [Ensign in 1994 taught](https://www.churchofjesuschrist.org/study/ensign/1994/10/thou-shalt-not-bear-false-witness?lang=eng):
@@ -185,7 +167,7 @@ What responsibility does the organization have for presenting or publicizing uns
 
 Other remaining questions include: 
 
-* Should [institutions apologize](https://faenrandir.github.io/a_careful_examination/the-church-does-not-apologize/) for times they were not fully transparent?  Should the Church?
+* Should [institutions apologize]({{ "/the-church-does-not-apologize/" | relative_url }}) for times they were not fully transparent?  Should the Church?
 * If these are the instances we are aware of today, how many instances have still not been brought to light?  Can the Church "fully repent" (or make amends) as an institution without a full accounting?
 * Can we say that the Church is fully transparent today?  What would they need to do to convince an unbiased 3rd party that was the case?
 * Are the cultural forces that hindered transparency in the past still active in the Church today?
@@ -200,13 +182,21 @@ Other remaining questions include:
 
 I received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.
 
+[^motivations_overlap]: Each of these motivations is not necessarily fully distinct from the others, and a given incident may invoke multiple motivations.
+
+[^sacrificing_transparency]: It is well established in the social science literature that perceived existential threats modulate hawkish or dovish stances (but sometimes [in nuanced ways](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01877/full)).  I take it as self-evident that hawkish stances tend to less information sharing (transparency) than dovish stances.  For instance, in wartime generals do not broadcast their army's weaknesses to the opposition but in peacetime an organization may be more inclined to transparency about its weaknesses with the hope that others will use that information for the betterment of everyone and not to take advantage of it to destroy the organization.
+
+    The LDS Church also has some [innate totalistic tendencies]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}).  For instance, totalistic groups tend to polarize individuals into in/out-groups (consider [how those who leave are characterized](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/)), often perceive as [emanating from Satan](https://www.youtube.com/watch?v=e4mH-2W5nbg), and have a strong sense of devotion to a sacred and all-imporant cause.  All of these would seem to diminish an emphasis on transparency, especially of perceived weaknesses.
+
 [^bush]: Lester Bush's research has been reported to have [catalyzed internal discussions among LDS leadership](https://en.wikipedia.org/w/index.php?title=Black_people_and_Mormonism&oldid=972699940#End_of_the_temple_and_priesthood_ban) that would pave the way for overturning the Priesthood/Temple ban.
 
-[^models]: So many choices in our lives hinge upon which model we subscribe to, and which model we subscribe to is directly influenced by the data we have at our disposal by which to evaluate the strength of competing models.
+[^models]: So many choices in our lives hinge upon which model we subscribe to, and which model we subscribe to is directly influenced by the data we have at our disposal by which to evaluate the strength of competing models.  For instance, the 1832 first vision account *can* be viewed as indicative of an evolving theology of God's nature, and the case for an evolving theology is probably weaker without the account.
 
 [^modern]: I am aware of probably just as many examples of the early LDS Church failing to be transparent as the modern Church, but this document is focused on the modern Church.
 
 [^montez]: My point in citing Shannon Montez's masters thesis is to demonstrate that LDS leadership have known about potentially troubling issues with Book of Mormon historicity for a long time.  Montez concludes that B.H. Roberts probably did not believe in the historicity of the Book of Mormon towards the end of his life, but it is not clear if she grappled with the [data suggesting that Roberts may indeed have believed in a historical Book of Mormon](https://www.plonialmonimormon.com/2020/08/b-h-roberts-and-the-book-of-mormon-exhumation-and-reburial.html).  I personally think it's difficult to decide the state of Roberts's belief at the end of his life.  At the very least, these issues seemed a challenge to him.
 
-[^dishonesty]:  To be able to demonstrate dishonesty, a person typically needs to establish who knew what and when, and even then a case to establish motivation may merely be suggestive.
+[^dishonesty]: To be able to demonstrate dishonesty, a person typically needs to establish who knew what and when, and even then a case to establish motivation may merely be suggestive.
+
+[^self_determination]: Transparency allows individuals to make choices for their lives with all the relevant data in hand.  For instance, in the late 1830s and 1840s thousands of recent LDS converts left their homes to immigrate to the U.S., but they did so under the assumption that the group was not practicing polygamy (based on [copious denials of the practice](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/)).  Arguably, many would not have made the journey had they known the early Saints were engaging in non-traditional marriage arrangements.
 

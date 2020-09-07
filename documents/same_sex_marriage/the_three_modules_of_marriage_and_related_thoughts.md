@@ -57,7 +57,7 @@ lifestyles resulting in a desire to protect the accumulation of land and propert
 
 [The Creation of Patriarchy](http://w3.salemstate.edu/~hbenne/pdfs/patriarchy_creation.pdf)
 
-In many ways, [sex is intrinsically linked to morality](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/), so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).
+In many ways, [sex is intrinsically linked to morality]({{ "/why-sex-linked-to-morality/" | relative_url }}), so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).
 
 ### Scriptural condemnation of homosexual marriage
 

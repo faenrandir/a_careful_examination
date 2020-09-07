@@ -128,7 +128,7 @@ Ultimately, trust in their benevolence might need to be earned just as it is in 
 
 ## Precedent and equivalencies
 
-See [Precedent in LDS history](https://faenrandir.github.io/a_careful_examination/divine-visitor-identity-problem/#precedent-in-lds-history)
+See [Precedent in LDS history]({{ "/divine-visitor-identity-problem/#precedent-in-lds-history" | relative_url }})
 
 Latter-day Saint leadership circumscribes divine communiction (do not seek revelation contrary, reject revelation that is not in harmony, do not seek and also discard revelation beyond one's stewardship.)
 

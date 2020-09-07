@@ -23,7 +23,7 @@ ideas floating around Joseph Smith's milieu.
 
 I am not the first to notice these correspondences with Joseph's environment.
 For instance, Richard Bushman---a devout member and emeritus Professor of History at Columbia
-University---[recently observed](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/49dfa3ec8b053e283fcd0643764907e3ccdf112c/documents/book_of_mormon/richard_bushman_on_nineteenth_century_theology_in_bom.pdf):
+University---[recently observed]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):
 
 > … there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …
 

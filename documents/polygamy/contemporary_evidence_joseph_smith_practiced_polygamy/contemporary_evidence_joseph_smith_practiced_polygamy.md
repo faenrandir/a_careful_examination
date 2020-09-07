@@ -8,7 +8,7 @@ layout: page
 
 ### Introduction
 
-Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's anslysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/)).  In an effort to exonerate him, some take him at his word and claim that polygamy was an invention of Brigham Young.
+Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's anslysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis]({{ "/joseph-smith-polygamy-denials/" | relative_url }})).  In an effort to exonerate him, some take him at his word and claim that polygamy was an invention of Brigham Young.
 
 However, fairly strong *contemporary* evidence exists that Joseph Smith practiced polygamy.
 

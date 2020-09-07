@@ -36,7 +36,7 @@ And other Old Testament passages [on destruction](https://publications.mi.byu.ed
 
 ### Possible New Testament Influence
 
-In terms of direct quotation, Jacob 5 tends to most closely quote the New Testament (as is [common throughout the Book of Mormon](https://faenrandir.github.io/a_careful_examination/nt-in-bom-lhales-interview-frederick/)).
+In terms of direct quotation, Jacob 5 tends to most closely quote the New Testament (as is [common throughout the Book of Mormon]({{ "/nt-in-bom-lhales-interview-frederick/" | relative_url }})).
 
 Consider [these verses](https://www.bookofmormonorigins.com/content/jacob/chapter_05.html):
 

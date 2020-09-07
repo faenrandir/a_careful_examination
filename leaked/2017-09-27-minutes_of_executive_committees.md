@@ -28,7 +28,7 @@ This instruction lends credence to the idea that invasive interviews are not ano
 * Some leaders ask youth and adults about their orgasms and sexual positions as they probe regarding masturbation and past sexual transgressions. [testimonials](https://invisiblescubit.wordpress.com/2017/07/04/did-you-orgasm/)
 * A leader, at their discretion, _may_ ask an individual to reconfess _all_ past sins to whatever previous point in time they deem relevant ([for example](https://brettsbigbadblog.blogspot.com/2017/06/lds-temple-cancellation-and-clearance.html), "'all transgressions' committed since your first sealing, even those that have already been resolved by church authorities")
 * Missionaries frequently confess and reconfess all their sins in an effort to become worthy ([example](https://www.reddit.com/r/exmormon/comments/2fdcgt/one_of_the_worst_aspects_of_mormon_culture_imo/))
-* Bishops may conduct frequent and invasive interviews at their discretion and may use social media to find evidence of indiscretion ([example](https://github.com/faenrandir/a_careful_examination/blob/dd4835cb764c1bc66327645831172705a472684e/documents/threefold-nature-of-the-church/supporting_material/invasive_interviews.md))
+* Bishops may conduct frequent and invasive interviews at their discretion and may use social media to find evidence of indiscretion ([example]({{ "/example-of-invasive-interview-facebook-stalking/" | relative_url }}))
 
 ## Discipline
 

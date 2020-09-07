@@ -1,5 +1,5 @@
 
-*NOTE: These are just rough notes ATM.  For where I'm going with this, see [footnote 108](https://faenrandir.github.io/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/) in Quinn's Early Mormonism and the Magic Worldview.  Also, consider that oral formulaic theory can explain the repetition!*
+*NOTE: These are just rough notes ATM.  For where I'm going with this, see [footnote 108]({{ "/early-mormonism-quinn-footnote-108-chiasmus/" | relative_url }}) in Quinn's Early Mormonism and the Magic Worldview.  Also, consider that oral formulaic theory can explain the repetition!*
 
 ---
 

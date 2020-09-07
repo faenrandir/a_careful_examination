@@ -285,6 +285,12 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Seminary: Preservice Readings](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-mantle-is-far-far-greater-than-the-intellect?lang=eng)
 
+### fall out because they were not in far enough
+
+> Incidentally, one of my favorite “cry-out-during-the-night” children’s stories is that of a four-year-old boy who came during the middle of the night to his father and mother’s bedroom, sobbing and crying with great enthusiasm. When his mother drew him near and put her arms around him to give comfort, saying, “What happened?” he said, “I fell out of bed.” She asked, “How did you fall out of bed?” And he cried, “Because I wasn’t in far enough.” This could be used to put over an extensive message as shared by a child, but let me just say in passing it has been my experience that most people who fall out of the Church do so because they were not in far enough.
+
+[Marvin J. Ashton, November 10, 1992 BYU Devotional](https://speeches.byu.edu/talks/marvin-j-ashton/know-2/)
+
 ### may have taken on Satanic premises which are poisonous
 
 > Enticing us to adopt the premises of Babylon is a subtle strategy Satan uses to sow tares. Individuals who take the premises of Babylon as their fundamental basis for solving the divergent problems of life, of business, or of everyday activity are tares. Their logic may be consistent, but at the root, the solutions are based on premises that Satan has provided. Though they may resemble wheat in the early years, their genetic code—their core premises for growth—yields a poisonous outcome.

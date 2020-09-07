@@ -58,4 +58,4 @@ Below is an excerpt from [The Language of the Original Text of the Book of Mormo
     
 Given all of these similarities with Reformed Protestant issues of the 1500s and 1600s, it is not surprising then that the Book of Mormon resonates so well with a number of Protestants coming from the Radical Protestant tradition.
 
-[^whynotmodern]: There are so many [parallels with documents in the late 1700s and early 1800s](https://faenrandir.github.io/a_careful_examination/bom-parallels-to-1800s-thought/) ([for example](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)), that it seems such a statement can only be made by ignoring or downplaying all the modern parallels and favoring older parallels.
+[^whynotmodern]: There are so many [parallels with documents in the late 1700s and early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}) ([for example](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf)), that it seems such a statement can only be made by ignoring or downplaying all the modern parallels and favoring older parallels.

@@ -6,7 +6,7 @@ maintopic: book-of-abraham
 layout: page
 ---
 
-The [Translation and Historicity of the Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) lds.org essay advances the idea that Joseph Smith was using Egyptian papyri (the Breathing Permit of Hor is dated no earlier than 150 BCE) as catalyst for the text of the Book of Abraham (BoA).  The catalyst theory is especially important now that top BYU scholars have begun [arguing explicitly against the missing papryus theory](https://faenrandir.github.io/a_careful_examination/hauglid-against-missing-papyri-theory/).  The catalyst theory is the primary fallback once we acknowledge that we have the papyrus used in preparing significant portions of the BoA manuscript, and we know how Egyptians are likely to have interpreted the text, which is acknowledged by most LDS scholars.
+The [Translation and Historicity of the Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) lds.org essay advances the idea that Joseph Smith was using Egyptian papyri (the Breathing Permit of Hor is dated no earlier than 150 BCE) as catalyst for the text of the Book of Abraham (BoA).  The catalyst theory is especially important now that top BYU scholars have begun [arguing explicitly against the missing papryus theory]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}).  The catalyst theory is the primary fallback once we acknowledge that we have the papyrus used in preparing significant portions of the BoA manuscript, and we know how Egyptians are likely to have interpreted the text, which is acknowledged by most LDS scholars.
 
 The situation is now somewhat analogous to this scenario (credit to /u/jamesallred for first creating the analogy, which I've expanded on a bit here):
 
@@ -20,6 +20,6 @@ The kinds of parallels to Abraham and the facsimiles sometimes asserted by LDS a
 
 I acknowledge that some of the evidence presented for the authenticity of the BoA is more like the Edison biographer---in the course of providing mistaken meaning for numerous aspects of the various TV diagrams in the manual---correctly guessing the *general* meaning of a *couple aspects* of one of the TV diagrams which they were incorporating into their Edison biography.
 
-Taken together, is it any wonder that those who understand [the Book of Abraham data](https://faenrandir.github.io/a_careful_examination/resources-on-the-book-of-abraham/) in resolution find the apologetic arguments so unconvincing?
+Taken together, is it any wonder that those who understand [the Book of Abraham data]({{ "/resources-on-the-book-of-abraham/" | relative_url }}) in resolution find the apologetic arguments so unconvincing?
 
 *Acknowledgement: Adapted from [this post](https://www.reddit.com/r/exmormon/comments/aztyx5/mormon_leaders_have_no_good_answers_the_weak/) by /u/jamesallred*

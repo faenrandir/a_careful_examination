@@ -13,7 +13,7 @@ maintopic: book-of-abraham
 * Radio Free Mormon and Bill Reel: The Book of Abraham [part 1](https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-049-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-1/), [part 2](https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-050-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-2/), [part 3](https://radiofreemormon.org/2019/02/radio-free-mormon-055-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-3/)
 * [Brian Hauglid argues against missing papyri theory]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}) (see also [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/))
 * [Maxwell Institute lecture: Brian Hauglid and Robin Jensen, “A Window into Joseph Smith's Translation”](https://www.youtube.com/watch?v=tznpRR0Fos8)
-* [Analysis of Olishem as evidence for the antiquity of the Book of Abraham](https://faenrandir.github.io/a_careful_examination/olishem-as-evidence-for-boa/)
+* [Analysis of Olishem as evidence for the antiquity of the Book of Abraham]({{ "/olishem-as-evidence-for-boa/" | relative_url }})
 
 ## Apologetic
 

@@ -10,7 +10,7 @@ layout: page
 
 ### Introduction
 
-Richard Bushman, well-known Mormon historian, [recently stated](https://faenrandir.github.io/a_careful_examination/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):
+Richard Bushman, well-known Mormon historian, [recently stated]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
@@ -55,4 +55,4 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 ### See also
 
 * [Other pre-1830 sources reminiscent of the Book of Mormon]({{ "/other-pre-1830-sources-reminiscent-of-bom/" | relative_url }})
-* [How could Joseph Smith have composed the Book of Mormon?](https://faenrandir.github.io/a_careful_examination/how-could-joseph-smith-composed-bom/)
+* [How could Joseph Smith have composed the Book of Mormon?]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }})

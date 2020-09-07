@@ -10,7 +10,7 @@ layout: page
 
 * [source](https://ia902505.us.archive.org/1/items/AffidavitsCertificates/Affidavits%20And%20Certificates.pdf)
 
-These are the affidavits relating specifically to [Marth Brotheron's affidavit](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/38671df45174f7af98bbfb6bc497e0c0b963a5b6/documents/polygamy/denials/brotherton-affidavit.pdf).  Many other topics are covered in the affidavits and certificates linked in 'source' above.
+These are the affidavits relating specifically to [Marth Brotheron's affidavit]({{ "/martha-brotherton-affidavit/" | relative_url }}).  Many other topics are covered in the affidavits and certificates linked in 'source' above.
 
 ---
 

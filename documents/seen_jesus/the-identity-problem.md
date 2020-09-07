@@ -31,7 +31,7 @@ In general, we are seeking methods that identify a visitor with great precision.
 
 #### Copious details
 
-A simple way to help establish the subjective/objective nature of these experiences and help establish visitor identity would be for participants to carefully record all the details of the being independent of one another (e.g., in [this kind of survey](https://faenrandir.github.io/a_careful_examination/proposed-survey-divine-manifestations/)).  If the details all match up (especially trivial details where there could be lots of possibilities), then we would have some justification for thinking the visitors identified as the same being were actually the same being and had an objective reality.[^copiousdetails]
+A simple way to help establish the subjective/objective nature of these experiences and help establish visitor identity would be for participants to carefully record all the details of the being independent of one another (e.g., in [this kind of survey]({{ "/proposed-survey-divine-manifestations/" | relative_url }})).  If the details all match up (especially trivial details where there could be lots of possibilities), then we would have some justification for thinking the visitors identified as the same being were actually the same being and had an objective reality.[^copiousdetails]
 
 #### High entropy information transmission
 

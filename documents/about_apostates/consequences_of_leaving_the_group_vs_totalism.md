@@ -14,7 +14,7 @@ layout: page
 * Catholicism: may [remind you of the penalties you bring upon yourself](https://forums.catholic.com/t/going-to-hell-for-leaving-the-catholic-church/196624/14) (damnation, etc)
 * Staunch atheist: some very informal shunning
 * Evangelical Christian: some very informal shunning
-* Mormonism: [some may informally shun](https://faenrandir.github.io/a_careful_examination/the-shunning-key/)
+* Mormonism: [some may informally shun]({{ "/the-shunning-key/" | relative_url }})
 * Modern Islam: some may informally shun
 * JW: [formal and informal shunning](https://www.youtube.com/watch?v=buS1JpW-2Qw)
 * Scientology: potential [Disconnection](https://en.wikipedia.org/wiki/Disconnection)
