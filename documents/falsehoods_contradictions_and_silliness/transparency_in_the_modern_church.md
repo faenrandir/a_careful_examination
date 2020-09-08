@@ -31,19 +31,19 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
-    Significant issues with Book of Mormon historicity were [made known to all of the LDS leadership in 1922](https://scholarworks.unr.edu/handle/11714/6712).[^montez]  B.H. Roberts wrote up these issues in [a series of long essays](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon).  Arguably, LDS leadership could have published or made these studies more widely available.
+    Significant issues with Book of Mormon historicity were [made known to all of the LDS leadership in 1922](https://scholarworks.unr.edu/handle/11714/6712).[^montez]  B.H. Roberts cataloged and explored these issues in [a series of long essays](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon).  Arguably, LDS leadership could have published or made these studies more widely available.
 
 * **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account was suppressed
 
-    The 1832 First Vision account [was suppressed between 11 and ~30 years]({{ "/1832-first-vision-account-suppressed/" | relative_url }}).
+    The 1832 First Vision account appears to have been [suppressed between 11 and ~30 years]({{ "/1832-first-vision-account-suppressed/" | relative_url }}).
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
-    In journals and diary entries, Leonard Arrington---first professional historian appointed Church Historian---documented [suppressive attitudes and actions]({{ "/leonard-arrington-and-real-history/" | relative_url }}): 
+    In journals and diary entries, Leonard Arrington---first professional historian appointed as Church Historian---documented [suppressive attitudes and actions]({{ "/leonard-arrington-and-real-history/" | relative_url }}): 
 
     * records "dissappear[ing] from scrutiny"
     * "we are not required to tell the whole truth"
-    * "will not stand for our ‘real’ history"
+    * "[LDS leadership] will not stand for our ‘real’ history"
     * "want prophets without warts"
     * "do not want the church to promulgate historical truth"
     
@@ -61,7 +61,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **1978**&nbsp; LeGrand Richards denied the existence of the seerstone
 
-    Elder Richards denied the existence of the seerstone [in an interview]({{ "/legrand-richards-denied-existence-of-seerstone/" | relative_url }}).  (may have been benign ignorance)
+    Elder Richards denies the existence of the seerstone [in an interview]({{ "/legrand-richards-denied-existence-of-seerstone/" | relative_url }}).
 
 * **1981**&nbsp; Bruce R. McConkie misleads about teaching of the Adam God theory
 
@@ -141,7 +141,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
     Almost since the beginning of the Church, the Book of Mormon translation process, especially with regards to use of the seer stone, seems like it could have been presented with greater transparency or accuracy.  Consider candidates [in this presentation by japanesepiano](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf), many of which occurred relatively recently.
 
-* **2020--present**&nbsp; First Presidency vault registers are not public
+* **present**&nbsp; First Presidency vault registers are not public
 
     As [discussed by J. Stapley](https://bycommonconsent.com/2017/10/21/the-william-clayton-diaries/) (see footnote#1): 
 
@@ -152,17 +152,16 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 ## Motivation and consequences
 
 Should we label these instances "hiding"?  *Hiding* can be seen as implying motivation and/or dishonesty.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  
-
 A number of possible motivations may have been involved.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
 
 1. An honest mistake
 2. Benign ignorance
 3. Some level of willful ignorance, but motivated by a focus on what are perceived as more important duties
-3. Viewed as appropriate for their calling as a representative of the Church and its interests
-4. Necessary steps to protect the innocent or those immature in the faith
-5. Defending the faith from those who would undermine it
-6. Following the various scriptural admonitions to be cautious in sharing sacred material
-7. Waiting until such time as a source can be properly understood and disseminated
+4. A desire to best represent the Church and its interests as a representative
+5. A desire to take necessary steps to protect the innocent or those immature in the faith
+6. A desire to defend the faith from those who would undermine it
+7. A desire to follow the various scriptural admonitions to be cautious in sharing sacred material
+8. A desire to wait until such time as a source can be properly understood and disseminated
 
 Those accounts which capture the motivation of leadership point to some of the above.  And, in general, leaders who were least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.[^sacrificing_transparency]
 
