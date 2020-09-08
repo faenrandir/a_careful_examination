@@ -39,7 +39,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
-    In journals and diary entries, Leonard Arrington---first professional historian appointed Church Historian---documented suppressive attitudes and actions]({{ "/leonard-arrington-and-real-history/" | relative_url }}): 
+    In journals and diary entries, Leonard Arrington---first professional historian appointed Church Historian---documented [suppressive attitudes and actions]({{ "/leonard-arrington-and-real-history/" | relative_url }}): 
 
     * records "dissappear[ing] from scrutiny"
     * "we are not required to tell the whole truth"
