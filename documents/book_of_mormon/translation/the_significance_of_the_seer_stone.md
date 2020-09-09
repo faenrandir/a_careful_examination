@@ -26,3 +26,4 @@ The *primary* issues with the seer stone, as I see it now, are these:
 * [B.H. Roberts and the construction of the LDS narrative on Seer Stones](http://mormonscholar.org/b-h-roberts-and-the-construction-of-the-lds-narrative-on-seer-stones/)
 * [Inaccurate portrayals of the translation of the Book of Mormon especially with respect to the usage of a seer stone](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf)
 * [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) (book chapter from Welch's "Opening the Heavens: Accounts of Divine Manifestations, 1820-1844")
+* [FairMormon explains seer stones](https://www.docdroid.net/YUWL2TM/fairmormon-seer-stone-r2-pdf)
