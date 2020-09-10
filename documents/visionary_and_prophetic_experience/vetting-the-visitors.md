@@ -5,7 +5,9 @@ doctype: notes
 layout: page
 ---
 
-## Working outline
+[VERY ROUGH DRAFT]
+
+## Draft outline
 
 Signal processing and information theory: Distinguishing between 3rd party and auto-generated signals
 
@@ -14,15 +16,12 @@ Signal processing and information theory: Distinguishing between 3rd party and a
     * for good or ill
     * bring about an agentic state - so potential for amplifying whimsy
 
-Two main concerns:
+Concerns:
 
 * Are we able to discern the signal reliably?
-    Whole field of study devoted
-
 * Is the signal actually from an objective 3rd party?
 * Does the entity have any special insight to offer?
 * Is the entity interested in our (collective) well-being?
-
 
 ## Introduction
 
@@ -39,7 +38,9 @@ We know that humans are capable of autogenerating experience which seems objecti
 
 The scientific field of signal processing has been studying the problem of extracting legitimate signal from a noisy background for decades ([for example](https://dsp.stackexchange.com/a/2105)).  The Receiver operating characteristic plot is designed to show transmission of genuine signal across a broad range of receptor sensitivities. Data is traditionally displayed in a way that acknowledges that all signal is not always received or interpreted correctly---when the receptor is calibrated to be more sensitive, then more false positives will naturally occur, but when the receptor is calibrated to be less sensitive to avoid false positives, then more false negatives (i.e., dropped signal).  
 
+...
 
+## Subjective and objective experience
 
 Our personal, subjective experience mediates our interaction with what seems to us an interpersonal, objective reality.  Most humans classify their experiences into two main categories:
 
@@ -48,17 +49,16 @@ Our personal, subjective experience mediates our interaction with what seems to 
 
 **All** of our experience is ultimately mediated through subjective experience, but we tend to accept that the features having the hallmarks of objectivity are probably objective:
 
-[need to add these with caption]
-
-https://i.redd.it/q1cmdtjtham41.png
-
-https://i.redd.it/iyjmi2m1iam41.png
+<figure>
+  <img src="{{ "/documents/visionary_and_prophetic_experience/media/subjective_to_objective-flat-white.png" | relative_url }}" atl="Classifying experience as objective or subjective" style="width:100%">
+  <figcaption><strong>Left:</strong>Each dot represents an experience in our life.  Every single experience we have is mediated subjectively, meaning that <em>we</em> ultimately experience each experience through our senses, feelings, and mental states as the subject.  To view it in the extreme, it is possible that our mind is in a vat somewhere and our senses are being artificially manipulated (a though experiment first proposed by Descarte), or, according to hard solipsism that our mind is the only thing that actually exists.  In any case, our experience as a mind demonstrates, at least to ourselves, our own existence (<em>Cogito, ergo sum</em>)<br/><br/><strong>Right:</strong>We interpret some experiences as objective which means we believe they are features of the world that exist independent of our own interpretation or observation of them.  We typically interpret experiences which possess high information content, orthogonality, transmissability, and reproducibility as possessing some objectivity while those ranking low in those features are normally interpreted as being completely or mostly subjective, such as most fantastical dreams.</figcaption>
+</figure>
 
 I discuss the hallmarks of objectivity (information content, orthogonality, transmissability, and reproducibility) in [this comment](https://www.reddit.com/r/mormon/comments/f8watk/does_god_have_a_spleen_when_we_are_resurrected/fkiw2mn/).
 
 Because the line between subjective and objective experience is not always clear, it is possible for humans to believe they are communicating with a being which exists external to them, when in reality they are communicating subjectively[^subjectivecommunication].  Fully XXXXX % of individuals hallucinate and a significant portion of the population experiences hallucinations of such vividness that they are not able to distinguish them from an objective reality (XXXX add source XXXX).
 
-The field of communication (and at this point nearly all scientific disciplines) use [reciever operator characteristic plots](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) or equivalents to visually represent the ability of a given communication method to distinguish real and spurious signal. [XXXX need to logically embed, footnote, or discard XXXXX]
+...
 
 ## Potential for good
 
@@ -132,9 +132,11 @@ See [Precedent in LDS history]({{ "/divine-visitor-identity-problem/#precedent-i
 
 Latter-day Saint leadership circumscribes divine communiction (do not seek revelation contrary, reject revelation that is not in harmony, do not seek and also discard revelation beyond one's stewardship.)
 
-[more discussion]
+...
 
 ## Conclusions 
+
+...
 
 [What does God need with a starship?](https://www.youtube.com/watch?v=x9sqkahSziU)
 
