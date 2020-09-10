@@ -143,7 +143,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **present**&nbsp; First Presidency vault registers are not public
 
-    As [discussed by J. Stapley](https://bycommonconsent.com/2017/10/21/the-william-clayton-diaries/) (see footnote#1): 
+    As [discussed by J. Stapley](https://bycommonconsent.com/2017/10/21/the-william-clayton-diaries/) (see his footnote#1): 
 
     > The materials archived by the First Presidency are outside of the purview of the LDS Church History Library and its registers are not public.
 
