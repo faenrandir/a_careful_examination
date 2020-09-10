@@ -87,6 +87,13 @@ Blythe softens but does not dismiss the statement by continuing:
 
 > Smith made similar remarks on a few other occasions, but for the most part he focused on the chronology of events that would precede the Second Coming rather than the specific timing.
 
+But Smith would later publicly reflect on the significance of the 85 year
+timeframe.  According to Blythe:
+
+> Unlike earlier statements that seemed to suggest the apocalypse would occur between 1890 and 1891, in 1843, he did not posit a date for the Second Coming.  He only discounted the possibility that it could occur before 1890.
+
+Regardless, [numerous statements from indvidiuals and leaders](http://signaturebookslibrary.org/as-a-thief-in-the-night-08/#44) suggest the Saints anticipated the Second Coming would occur around 1890.
+
 ### 1835-02-15 Oliver Cowdery (shall stand on the earth ... till Christ comes)
 
 Several second coming promises were made to individuals receiving blessings that day.  This is the most explicit:
