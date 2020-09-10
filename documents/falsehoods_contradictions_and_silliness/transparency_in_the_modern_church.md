@@ -151,8 +151,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 ## Motivation and consequences
 
-Should we label these instances "hiding"?  *Hiding* can be seen as implying motivation and/or dishonesty.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  
-A number of possible motivations may have been involved.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
+Should we label these instances "hiding"?  *Hiding* can be seen as implying motivation and/or dishonesty.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  A number of possible motivations may have been involved.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
 
 1. An honest mistake
 2. Benign ignorance
