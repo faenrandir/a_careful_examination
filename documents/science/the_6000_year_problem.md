@@ -12,7 +12,7 @@ The Church currently teaches that Adam and Eve ushered in the temporal existence
 
 ### Introduction
 
-Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  Here are [verses 6--7](https://www.lds.org/scriptures/dc-testament/dc/77.6-7):
+Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  Here are [verses 6--7](https://www.lds.org/scriptures/dc-testament/dc/77.6-7#p6):
 
 > Q. What are we to understand by the book which John saw, which was sealed on the back with seven seals?
 
@@ -22,7 +22,17 @@ Joseph Smith claimed to receive direct revelation from God on various topics, an
 
 > A. We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.
 
-According to this direct revelation, Adam and Eve existed sometime around 4,000 BCE and this was approximately when the earth began its temporal existence.[^confusion]  This date is difficult to reconcile with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology) or the [migration of ancient Siberians to the Americas](https://en.wikipedia.org/wiki/Settlement_of_the_Americas#Chronology,_reasons_for,_and_sources_of_migration).  LDS scientists and even the Church in its essay on DNA and the Book of Mormon seem to accept the basic validity of these migration events and their timing.[^ldschurchtacitlyaccepts]
+[Doctrine and Covenants 77:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77.12?lang=eng#p12?lang=eng) continues:
+
+> Q. What are we to understand by the sounding of the trumpets, mentioned in the 8th chapter of Revelation?
+
+> A. We are to understand that as God made the world in six days, and on the seventh day he finished his work, and sanctified it, and also formed man out of the dust of the earth, even so, in the beginning of the seventh thousand years will the Lord God sanctify the earth, and complete the salvation of man, and judge all things, and shall redeem all things, except that which he hath not put into his power, when he shall have sealed all things, unto the end of all things; and the sounding of the trumpets of the seven angels are the preparing and finishing of his work, in the beginning of the seventh thousand years—the preparing of the way before the time of his coming.
+
+[Doctrine and Covenants 88:108-110](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.108-110?lang=eng#p108?lang=eng) and Joseph Smith's translation of [2 Peter 3:3-6,8](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-2-pet/3.3-6,8?lang=eng#p3#3) echo this understanding.  Joseph Smith and the early Saints understood the 6000 years in literal terms---they were occupying the end of the sixth thousand year period.[^earlysaints6000]
+
+Given their understanding of this timeline, the earth would have began its temporal existence[^confusion] and Adam and Eve made mortal sometime around 4,000 BCE.
+
+However, a 4,000 BCE date for the existence of Adam and Eve is difficult to reconcile with what is known about, for instance, [Australian aboriginal artifacts](https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins), [the invention of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture), the evidence suggesting [continuous inhabitation of the city of Jericho since 9,000 BCE](https://en.wikipedia.org/wiki/Jericho#History_and_archaeology) or the [migration of ancient Siberians to the Americas](https://en.wikipedia.org/wiki/Settlement_of_the_Americas#Chronology,_reasons_for,_and_sources_of_migration).  LDS scientists and even the Church in its essay on DNA and the Book of Mormon seem to accept the basic validity of these migration events and their timing.[^lds_church_tacitly_accepts]
 
 ### Current Teachings
 
@@ -112,8 +122,34 @@ The LDS *currently* teaches the idea that the earth began its temporal existence
 
     >  For 4,000 years all the prophets testified of his coming and proclaimed his goodness and grace.
 
-Finally, consider the references and perspective introduced in the post [6,000 Years of So What!](http://thoughtsonthingsandstuff.com/6000-years-of-so-what/).
+4. The Joseph Smith Foundation [defends a 6,000 year old earth](https://josephsmithfoundation.org/faqs/science/28-young-earth-do-the-revelations-teach-a-7000-year-temporal-existence-of-the-earth-can-the-scriptures-and-writings-of-the-presidents-of-the-church-be-harmonized-with-the-scientific-principle-of-u/) with statements from:
+
+    * Joseph Smith
+    * Brigham Young
+    * John Taylor
+    * Wilford Woodruff
+    * Joseph F. Smith
+    * George Albert Smith
+    * Joseph Fielding Smith
+    * Bruce R. McConkie
+
+### See also
+
+[6,000 Years of So What!](http://thoughtsonthingsandstuff.com/6000-years-of-so-what/).
+
+
+[^earlysaints6000]:  An open letter "'from the elders in Kirtland,' including JS" [states](https://www.josephsmithpapers.org/paper-summary/letter-to-the-church-not-after-18-december-1833/1) (emphasis added):
+
+    > You have no right to collect **the calamities of six thousand years** and paint them upon the curtain of these last days, to scare mankind to repentance ...
+
+    In addition, Joseph Smith was the [editor of the Times and Seasons](https://en.wikipedia.org/w/index.php?title=Times_and_Seasons&oldid=959861197) in July 15, 1842, when it published a lengthy article, signed by the Editor, [stating](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-15-july-1842/11):
+
+    > The World has had a fair trial for six thousand years the Lord will try the seventh thousand himself;
+    
+    Finally, the fourth verse of Hymn 69 of the 1835 hymnal [included these words](https://www.josephsmithpapers.org/paper-summary/collection-of-sacred-hymns-1835/93) (emphasis added):
+
+    > So wicked men, in every age, Far from the God of heav’n have stray’d, **Till near six thousand years have fled**, And left the world with faith that’s dead.
 
 [^confusion]: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77 [as diagrammed here](http://ndbf.net/002m/Overview.jpg)).  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
 
-[^ldschurchtacitlyaccepts]: While the quotes and resources presented below all indicate that Adam and Eve walked out of the Garden of Eden at roughly 4,000 BCE, in its [defense of the Book of Mormon narrative in light of DNA research](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng), the LDS Church seems to *tacitly* accept the basic reality of ancient human migrations which significantly pre-date 4,000 BCE.  For instance, among others implying the same basic migration timing, the essay cites research on Siberians from ~20,000 years ago and North American Clovis culture dating to 11,000 BCE (essay footnote 15 which points to [Raff and Bolnick](https://www.researchgate.net/publication/284094877_Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation)) and 17,000 and 24,000 year old Siberian ancestors of the Native Americans (essay footnote 17 which points to [Raghavan et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016/)).  Were it not for the tension with so much official material, this would be very unsurprising since virtually all scientists at LDS sponsored schools accept the general validity of these migration models and the methods used to date them (like [carbon-14 dating]({{ "/carbon-14-dating-generally-reliable/" | relative_url }})).
+[^lds_church_tacitly_accepts]: While the quotes and resources presented below all indicate that Adam and Eve walked out of the Garden of Eden at roughly 4,000 BCE, in its [defense of the Book of Mormon narrative in light of DNA research](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng), the LDS Church seems to *tacitly* accept the basic reality of ancient human migrations which significantly pre-date 4,000 BCE.  For instance, among others implying the same basic migration timing, the essay cites research on Siberians from ~20,000 years ago and North American Clovis culture dating to 11,000 BCE (essay footnote 15 which points to [Raff and Bolnick](https://www.researchgate.net/publication/284094877_Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation)) and 17,000 and 24,000 year old Siberian ancestors of the Native Americans (essay footnote 17 which points to [Raghavan et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016/)).  Were it not for the tension with so much official material, this would be very unsurprising since virtually all scientists at LDS sponsored schools accept the general validity of these migration models and the methods used to date them (like [carbon-14 dating]({{ "/carbon-14-dating-generally-reliable/" | relative_url }})).
