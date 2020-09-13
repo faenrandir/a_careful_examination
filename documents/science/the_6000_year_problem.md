@@ -38,13 +38,7 @@ However, a 4,000 BCE date for the existence of Adam and Eve is difficult to reco
 
 ### Current Teachings
 
-The LDS *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  Note that every manual linked below is its *current* version (as of September 2020).
-
-1. [The New Testament teacher resource manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-resource-manual/the-revelation-of-saint-john-the-divine/revelation-6-7?lang=eng):
-
-    > In Revelation 6–7 Jesus Christ opens the book with seven seals. As each seal is opened, John sees a representation of an event or events of a thousand years of the earth’s history.
-
-    > John saw in vision a representation of important events from the first six thousand years of the earth’s temporal existence.
+The LDS *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its *current* version (as of September 2020).
 
 1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng):
 
@@ -56,31 +50,39 @@ The LDS *currently* teaches the idea that the earth began its temporal existence
 
     > 11\. The Savior will appear to all the world sometime in the beginning of the seventh thousand years of the earth’s temporal existence (see D&C 77:12–13).
 
-1. [The New Testament Study Guide for Home Study](https://www.churchofjesuschrist.org/study/manual/new-testament-study-guide-for-home-study-seminary-students/introduction-to-revelation/unit-31-day-2-revelation-4-5?lang=eng):
+1. Various New Testatment teacher and student manuals
+
+    * [The New Testament teacher resource manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-resource-manual/the-revelation-of-saint-john-the-divine/revelation-6-7?lang=eng):
+
+    > In Revelation 6–7 Jesus Christ opens the book with seven seals. As each seal is opened, John sees a representation of an event or events of a thousand years of the earth’s history.
+
+    > John saw in vision a representation of important events from the first six thousand years of the earth’s temporal existence.
+
+    * [The New Testament Study Guide for Home Study](https://www.churchofjesuschrist.org/study/manual/new-testament-study-guide-for-home-study-seminary-students/introduction-to-revelation/unit-31-day-2-revelation-4-5?lang=eng):
 
     > The 7,000-year period of the earth’s “temporal existence” (D&C 77:6) refers to the time since the Fall of Adam and Eve. ...
 
-1. [The New Testament Student manual](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/revelation/chapter-54-revelation-4-11?lang=eng):
+    * [The New Testament Student manual](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/revelation/chapter-54-revelation-4-11?lang=eng):
 
     > As each of the seven seals of the book was opened, John saw visions concerning a thousand-year period of earth’s history (see D&C 77:7). Thus, the first seal related to the first thousand years of earth’s revealed temporal history (from about 4000 to 3000 B.C.), and so forth. The following chart identifies the first six thousand-year periods and offers possible interpretations of the symbols John used to describe his visions.
 
     The left hand of the chart that follows includes a column "Seal and Approximate Dates".  The first column and row states: "First seal (verse 2) About 4000 to 3000 B.C."
 
-1. [The New Testament Seminary Teacher Manual](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual/introduction-to-the-revelation-of-st-john-the-divine/lesson-153-revelation-4-5?lang=eng):
+    * [The New Testament Seminary Teacher Manual](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual/introduction-to-the-revelation-of-st-john-the-divine/lesson-153-revelation-4-5?lang=eng):
 
     > Explain that the 7,000-year period refers to the time since the Fall of Adam and Eve.  It does not refer to the actual age of the earth, including the periods of creation.
+
+    * [The current New Testament Teacher Manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-manual/the-revelation-of-st-john-the-divine/lesson-54-revelation-4-11?lang=eng) (from 2014):
+
+    > John saw visions associated with the opening of the first six seals of the book, which symbolize the earth’s first six thousand years of temporal existence.
+
+    > Ask students to recall what each of the seven seals on the book represented (see D&C 77:7). Tell students that Revelation 6 contains John’s visions of the earth’s first 7,000 years of temporal existence.
 
 1. The Pearl of Great Price Student Manual [introduction to The Book of Abraham](https://www.churchofjesuschrist.org/manual/the-pearl-of-great-price-student-manual/the-book-of-abraham?lang=eng&_r=1):
 
     > Who Is Abraham and When Did He Live?
 
     > Adam and Eve and the Fall (approximately 4000  B.C.), Enoch (approximately 3000  B.C.), Noah and the Flood (approximately 2400  B.C.), and the tower of Babel (approximately 2200  B.C.) preceded Abraham’s time. Abraham, who was born in about 2000  B.C., was the father of Isaac and the grandfather of Jacob, whose name was changed to Israel. (See Bible Dictionary, “chronology,” 635–36.)
-
-1. [The current New Testament Teacher Manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-manual/the-revelation-of-st-john-the-divine/lesson-54-revelation-4-11?lang=eng) (from 2014):
-
-    > John saw visions associated with the opening of the first six seals of the book, which symbolize the earth’s first six thousand years of temporal existence.
-
-    > Ask students to recall what each of the seven seals on the book represented (see D&C 77:7). Tell students that Revelation 6 contains John’s visions of the earth’s first 7,000 years of temporal existence.
 
 1. [The "Old Testament bookmark"](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/10554_eng.pdf) which is referenced in [the introduction](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-old-testament-seminary-teacher-manual?lang=eng) and lessons (e.g., [lesson 43](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-exodus/lesson-43-exodus-5-6?lang=eng)) of the OT Seminary Teacher's Manual.
 
