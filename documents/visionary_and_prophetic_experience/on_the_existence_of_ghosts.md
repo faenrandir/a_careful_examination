@@ -20,7 +20,7 @@ layout: page
 
 ### Ghosts have been repeatedly demonstrated to be subjective phenomena
 
-1. We know that some people experience visual hallucinations, and we can closely associate visual hallucination with some kinds of medical disorders (e.g. Parkinson's disease and schizophrenia).  Those with Charles Bonnet Syndrome--a genetically inherited condition---experience all kinds of visual hallucinations which we can verify are not objective. [source](https://www.reviewofoptometry.com/ce/an-overview-of-hallucinations).
+1. We know that some people experience visual hallucinations, and we can closely associate visual hallucination with some kinds of medical disorders (e.g. Parkinson's disease and schizophrenia).  Those with Charles Bonnet Syndrome--a genetically inherited condition---experience all kinds of visual hallucinations which we can verify are not objective. [source](https://web.archive.org/web/20160418151056/https://www.reviewofoptometry.com/ce/an-overview-of-hallucinations).
 
 2. We know that our minds [fill in the gaps in the dark](https://www.nosleeplessnights.com/hypnagogic-hallucinations/), particularly as we are going to sleep and waking.
 
