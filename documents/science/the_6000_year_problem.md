@@ -40,11 +40,11 @@ However, a 4,000 BCE date for the existence of Adam and Eve is difficult to reco
 
 The LDS *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its *current* version (as of September 2020).
 
-1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng):
+1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng) (emphasis added):
 
     > D&C 77:6–7. Why Was the Book Sealed That John Saw?
 
-    > “‘The book which John saw’ represented the real history of the world—what the eye of God has seen, what the recording angel has written; and the seven thousand years, corresponding to the seven seals of the Apocalyptic volume, are as seven great days during which Mother Earth will fulfill her mortal mission, laboring six days and resting upon the seventh, her period of sanctification. These seven days do not include the period of our planet’s creation and preparation as a dwelling place for man. They are limited to Earth’s ‘temporal existence,’ that is, to Time, considered as distinct from Eternity.” (Whitney, Saturday Night Thoughts, p. 11.)
+    > “‘The book which John saw’ represented **the real history of the world**—what the eye of God has seen, what the recording angel has written; and **the seven thousand years**, corresponding to the seven seals of the Apocalyptic volume, are as seven great days during which Mother Earth will fulfill her mortal mission, laboring six days and resting upon the seventh, her period of sanctification. These seven days do not include the period of our planet’s creation and preparation as a dwelling place for man. **They are limited to Earth’s ‘temporal existence,’** that is, to Time, considered as distinct from Eternity.” (Whitney, Saturday Night Thoughts, p. 11.)
 
 1. [The Doctrines of the Gospel Student Manual](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng):
 
@@ -54,29 +54,29 @@ The LDS *currently* teaches the idea that the earth began its temporal existence
 
     * [The New Testament teacher resource manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-resource-manual/the-revelation-of-saint-john-the-divine/revelation-6-7?lang=eng):
 
-    > In Revelation 6–7 Jesus Christ opens the book with seven seals. As each seal is opened, John sees a representation of an event or events of a thousand years of the earth’s history.
+        > In Revelation 6–7 Jesus Christ opens the book with seven seals. As each seal is opened, John sees a representation of an event or events of a thousand years of the earth’s history.
 
-    > John saw in vision a representation of important events from the first six thousand years of the earth’s temporal existence.
+        > John saw in vision a representation of important events from the first six thousand years of the earth’s temporal existence.
 
     * [The New Testament Study Guide for Home Study](https://www.churchofjesuschrist.org/study/manual/new-testament-study-guide-for-home-study-seminary-students/introduction-to-revelation/unit-31-day-2-revelation-4-5?lang=eng):
 
-    > The 7,000-year period of the earth’s “temporal existence” (D&C 77:6) refers to the time since the Fall of Adam and Eve. ...
+        > The 7,000-year period of the earth’s “temporal existence” (D&C 77:6) refers to the time since the Fall of Adam and Eve. ...
 
     * [The New Testament Student manual](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/revelation/chapter-54-revelation-4-11?lang=eng):
 
-    > As each of the seven seals of the book was opened, John saw visions concerning a thousand-year period of earth’s history (see D&C 77:7). Thus, the first seal related to the first thousand years of earth’s revealed temporal history (from about 4000 to 3000 B.C.), and so forth. The following chart identifies the first six thousand-year periods and offers possible interpretations of the symbols John used to describe his visions.
+        > As each of the seven seals of the book was opened, John saw visions concerning a thousand-year period of earth’s history (see D&C 77:7). Thus, the first seal related to the first thousand years of earth’s revealed temporal history (from about 4000 to 3000 B.C.), and so forth. The following chart identifies the first six thousand-year periods and offers possible interpretations of the symbols John used to describe his visions.
 
-    The left hand of the chart that follows includes a column "Seal and Approximate Dates".  The first column and row states: "First seal (verse 2) About 4000 to 3000 B.C."
+        The left hand of the chart that follows includes a column "Seal and Approximate Dates".  The first column and row states: "First seal (verse 2) About 4000 to 3000 B.C."
 
     * [The New Testament Seminary Teacher Manual](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual/introduction-to-the-revelation-of-st-john-the-divine/lesson-153-revelation-4-5?lang=eng):
 
-    > Explain that the 7,000-year period refers to the time since the Fall of Adam and Eve.  It does not refer to the actual age of the earth, including the periods of creation.
+        > Explain that the 7,000-year period refers to the time since the Fall of Adam and Eve.  It does not refer to the actual age of the earth, including the periods of creation.
 
     * [The current New Testament Teacher Manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-manual/the-revelation-of-st-john-the-divine/lesson-54-revelation-4-11?lang=eng) (from 2014):
 
-    > John saw visions associated with the opening of the first six seals of the book, which symbolize the earth’s first six thousand years of temporal existence.
+        > John saw visions associated with the opening of the first six seals of the book, which symbolize the earth’s first six thousand years of temporal existence.
 
-    > Ask students to recall what each of the seven seals on the book represented (see D&C 77:7). Tell students that Revelation 6 contains John’s visions of the earth’s first 7,000 years of temporal existence.
+        > Ask students to recall what each of the seven seals on the book represented (see D&C 77:7). Tell students that Revelation 6 contains John’s visions of the earth’s first 7,000 years of temporal existence.
 
 1. The Pearl of Great Price Student Manual [introduction to The Book of Abraham](https://www.churchofjesuschrist.org/manual/the-pearl-of-great-price-student-manual/the-book-of-abraham?lang=eng&_r=1):
 
@@ -90,7 +90,7 @@ The LDS *currently* teaches the idea that the earth began its temporal existence
 
 ### Recent teaching on churchofjesuschrist.org
 
-The following statements were part of official LDS discours (general conference or approved manuals) and can currently be found on churchofjesuschrist.org:
+The following statements were recently part of official LDS discourse (general conference or approved manuals) and can currently be found on churchofjesuschrist.org:
 
 1. [President Monson in GC in 2011](https://www.lds.org/general-conference/2011/10/dare-to-stand-alone?lang=eng) quoting President Benson:
 
@@ -110,7 +110,7 @@ The following statements were part of official LDS discours (general conference 
 
 Elder Holland spoke in a Fireside in Arizona in 2016 and included discussion about [the time between Adam and Eve and Jesus Christ](https://www.youtube.com/watch?v=K4_LcENySzQ&feature=youtu.be&t=4m11s):
 
-    > ... For all these generations, for four-thousand years, Adam and Eve and their descendants took these little lambs and offered them on an altar as devotion and loyalty and love of God.  That we trust the future.  We *trust* the future.  How far away is the Savior from Adam and Eve?  We don't know all the dating in the world but traditionally, scripturally we mark it as at least 4,000 years---that's a lot of time to live by faith.  That's a lot of time to believe that somebody is going to come and help.  Well, you can trust in it because divine beings said it's so.  And for 4,000 years God's children offered a little lamb to represent the great lamb who would come and save the world. ...
+> ... For all these generations, for four-thousand years, Adam and Eve and their descendants took these little lambs and offered them on an altar as devotion and loyalty and love of God.  That we trust the future.  We *trust* the future.  How far away is the Savior from Adam and Eve?  We don't know all the dating in the world but traditionally, scripturally we mark it as at least 4,000 years---that's a lot of time to live by faith.  That's a lot of time to believe that somebody is going to come and help.  Well, you can trust in it because divine beings said it's so.  And for 4,000 years God's children offered a little lamb to represent the great lamb who would come and save the world. ...
 
 <!--
 I cannot find these anymore, may need to dig up a PDF
@@ -165,14 +165,14 @@ The general 6000 year timeline has been taught frequently and consistently by th
 
 ### See also
 
-[6,000 Years of So What!](http://thoughtsonthingsandstuff.com/6000-years-of-so-what/).
+[6,000 Years of So What!](http://thoughtsonthingsandstuff.com/6000-years-of-so-what/)
 
 
-[^earlysaints6000]:  An open letter "'from the elders in Kirtland,' including JS" [states](https://www.josephsmithpapers.org/paper-summary/letter-to-the-church-not-after-18-december-1833/1) (emphasis added):
+[^earlysaints6000]:  An open letter, identified by Joseph Smith Papers historians as "'from the elders in Kirtland,' including JS" [states](https://www.josephsmithpapers.org/paper-summary/letter-to-the-church-not-after-18-december-1833/1) (emphasis added):
 
     > You have no right to collect **the calamities of six thousand years** and paint them upon the curtain of these last days, to scare mankind to repentance ...
 
-    In addition, Joseph Smith was the [editor of the Times and Seasons](https://en.wikipedia.org/w/index.php?title=Times_and_Seasons&oldid=959861197) in July 15, 1842, when it published a lengthy article, signed by the Editor, [stating](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-15-july-1842/11):
+    In addition, Joseph Smith was the nominal [editor of the Times and Seasons](https://en.wikipedia.org/w/index.php?title=Times_and_Seasons&oldid=959861197) in July 15, 1842, when it published a lengthy article, signed by the Editor, [stating](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-15-july-1842/11):
 
     > The World has had a fair trial for six thousand years the Lord will try the seventh thousand himself;
     
@@ -184,4 +184,4 @@ The general 6000 year timeline has been taught frequently and consistently by th
 
 [^lds_scientists]: Ugo Perego is an institute director and one of the world's experts on ancient DNA and American migrations.  He appears to accepts the basic dating for an ancient migration from Asia ([for example](https://vimeo.com/202998094) at 1:34:27).
 
-[^lds_church_tacitly_accepts]: While the quotes and resources presented below all indicate that Adam and Eve walked out of the Garden of Eden at roughly 4,000 BCE, in its [defense of the Book of Mormon narrative in light of DNA research](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng), the LDS Church seems to *tacitly* accept the basic reality of ancient human migrations which significantly pre-date 4,000 BCE.  For instance, among others implying the same basic migration timing, the essay cites research on Siberians from ~20,000 years ago and North American Clovis culture dating to 11,000 BCE (essay footnote 15 which points to [Raff and Bolnick](https://www.researchgate.net/publication/284094877_Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation)) and 17,000 and 24,000 year old Siberian ancestors of the Native Americans (essay footnote 17 which points to [Raghavan et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016/)).  Were it not for the tension with so much official material, this would be very unsurprising since virtually all scientists at LDS sponsored schools accept the general validity of these migration models and the methods used to date them (like [carbon-14 dating]({{ "/carbon-14-dating-generally-reliable/" | relative_url }})).
+[^lds_church_tacitly_accepts]: While the quotes and resources presented below all indicate that Adam and Eve walked out of the Garden of Eden at roughly 4,000 BCE, in its [defense of the Book of Mormon narrative in light of DNA research](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng), the LDS Church seems to *tacitly* accept the basic reality of ancient human migrations which significantly pre-date 4,000 BCE.  For instance, among others implying the same basic migration timing, the essay cites research on Siberians from ~20,000 years ago and North American Clovis culture dating to 11,000 BCE (essay footnote 15 points to [Raff and Bolnick](https://www.researchgate.net/publication/284094877_Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation)) and 17,000 and 24,000 year old Siberian ancestors of the Native Americans (essay footnote 17 points to [Raghavan et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016/)).  Were it not for the tension with so much official material, these citations would be unsurprising since virtually all scientists at LDS sponsored schools accept the general validity of these migration models and the methods used to date them (like [carbon-14 dating]({{ "/carbon-14-dating-generally-reliable/" | relative_url }})).
