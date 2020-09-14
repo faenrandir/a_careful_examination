@@ -93,8 +93,6 @@ As an adult he attended some high school.  His teacher, William E. McLellin, [de
 
 > He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him.  And I here say that **he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance, among the thousands of my observation**. Although when I took him into my school, he was without scientific knowledge or attainments.
 
-Finally, although he wrote this letter 14 years after the final translation phase of the Book of Mormon, Joseph Smith's [letter to James Arlington Bennet in 1843](http://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1#full-transcript) demonstrates a command of rhetoric and repetition indicative of a powerful literary intellect.
-
 ### Emma's last testimony
 
 The most frequent testimony advanced to suggest that Joseph was not be capable of composing the Book of Mormon was delivered by his wife, Emma.  Her [last testimony]({{ "/last-testimony-of-sister-emma/" | relative_url }}) reads (emphasis added):
