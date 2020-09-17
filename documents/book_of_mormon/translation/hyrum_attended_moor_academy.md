@@ -60,7 +60,7 @@ The Annals of the American pulpit multi-volume set contains biographies and memo
 
 ### Entry requirements for Dartmouth College
 
-A tnanscript of Dartmouth College's "Course of Instruction", c. 1800, is suggestive of the *kinds* of things that a student at its own prep school would have been instructed in.
+A tnanscript of Dartmouth College's "Course of Instruction", c. 1800, is suggestive of the *kinds* of things that a student at Moor's School might have been instructed in.
 
 [page 1](http://solomonspalding.com/docs1/1867chap.htm#course1)
 
@@ -90,8 +90,6 @@ Settlement dates of those with a "Settlement" date before 1816 and who had not d
 * Roswell Shurtleff: 1809
 
 The chronology of the register suggests that John Smith, D. D. was the pastor of Hanover for the 23 years before Shurtleff (settlement 1786 and died in 1809).
-
-This suggests that Shurtleff was *the* 
 
 ### Roswell Shurtleff alumni biography
 

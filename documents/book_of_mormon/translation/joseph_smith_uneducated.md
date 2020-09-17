@@ -15,7 +15,7 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
 ### Religious and educational environment
 
 1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
-1. Hyrum attended [Moore Academy at Dartmouth](https://www.deseretnews.com/article/705381677/Joseph-Smiths-doc-only-man-who-could-save-leg.html) (where he may have been exposed to [the teachings of professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}))
+1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College and whose "preceptors" appear to have been Dartmouth College professors.[^preceptor]  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
     * Jane Austen: about [two years of formal education](https://en.wikipedia.org/wiki/Jane_Austen)---completed First Impressions (published as Pride and Prejudice) at the age of 21.
@@ -106,6 +106,10 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
 ## Conclusion
 
 Despite lacking extensive formal training, Joseph was clearly raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.
+
+[^preceptor]: John Smith is mentioned as a "Preceptor" of Moor's School [in his biography](https://archive.org/details/annalsamericanp31spragoog/page/n104/mode/2up?q=John+Smith).
+
+[^hyrum_smith_at_moor]: Hyrum Smith's time at Moor's School, along with substantiation of all the above-mentioned points may be found [here]({{ "/hyrum-attended-moor-school/" | relative_url }})
 
 [^williamdaviscredit]: The instances from 1832 and beyond where Joseph is recorded to have been engaged in reading for the day, along with other first hand accounts of Joseph's reading, were first brought to my attention in reading William Davis's [PhD dissertation](https://escholarship.org/uc/item/86h814zv).
 
