@@ -67,7 +67,7 @@ Many patriarchal blessings were given to [couples as a pair](https://www.josephs
 
 > ... Thou shall see many days; yea, the Lord will spare thee till thou art satisfied, for thou shalt see thy Redeemer. ...
 
-[Blessing from Joseph Smith Sr., 9 Decemnber 1834](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#full-transcript)
+[Blessing from Joseph Smith Sr., 9 December 1834](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#full-transcript)
 
 
 ### 1835-02-14 Joseph Smith (even fifty-six years should wind up the scene)
