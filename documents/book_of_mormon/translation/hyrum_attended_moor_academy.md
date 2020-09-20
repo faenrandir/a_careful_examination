@@ -36,6 +36,14 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]
 * [25] Copies of school records are in the possession of the author.
 * [26] Documenting Hyrum's presence from school records is difficult.  His name cannot be located in the records of 1811, and the rolls for the school years ending in 1812 and 1813 are missing.  Records show a "Hiram Smith" from Lebanon attending the session from August 1814 to August 1815.  Hyrum Smith had moved from Lebanon to nearby Norwich, Vermont, by that time, but the record is probably referring to him.
 
+### Behrens 2006 JWH article
+
+In 2006, Richard K. Behrens published an article in the John Whitmer Historical Association Journal [Dartmouth Arminianism And Its Impact on Hyrum Smith and the Smith Family](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/translation/Dartmouth-Arminianism-Behrens-2006-JWH.pdf) which gives great background information.
+
+### The "preceptor" was Joseph Perry
+
+Joseph Perry was [an 1811 Dartmouth Alumni](https://www.cga.ct.gov/hco/books/Sketches_of_the_Alumni_of_Dartmouth.pdf) who may have listened to the lectures of John Smith until John Smith's death in 1809.  He "taught at Moor's charity school at Hanover from 1811 to 1818."
+
 ### Description of Moor's School from worldcat
 
 From the worldcat description of [Moor's Indian Charity School records, 1760-1915.](https://www.worldcat.org/title/moors-indian-charity-school-records-1760-1915/oclc/122590791?fbclid=IwAR2qYXVncWOQzP-ljLpxqnfCankdFSuFmxx1hUDXBgoPv7r0637I_r_hp0E):
