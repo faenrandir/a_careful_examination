@@ -6,16 +6,18 @@ doctype: short-analysis
 layout: page
 ---
 
-### Introduction
+## Introduction
 
 A variety of theories for the creation of the Book of Mormon [have been advanced](https://byustudies.byu.edu/content/naturalistic-explanations-origin-book-mormon-longitudinal-study?fbclid=IwAR1Wr0-kuk68GfABlpZ9SFcB0IEY5LZ840sDncuf4Ld73iF-g4iSyd_Jt1Q) in the past, but most modern scholars believe Joseph was primarily responsible for the book (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and [William Davis](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407)).
 
 Latter-day Saints tend to focus on Joseph Smith's lack of significant formal education.[^downplayjosephsabilities]  Was Joseph Smith capable of such a feat?  This document advances historical evidence which supports Joseph's potential ability to compose such a work.
 
+## The case for Joseph's potential capability
+
 ### Religious and educational environment
 
 1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
-1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College and whose "preceptors" appear to have been Dartmouth College professors.[^preceptor]  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
+1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College.  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
     * Jane Austen: about [two years of formal education](https://en.wikipedia.org/wiki/Jane_Austen)---completed First Impressions (published as Pride and Prejudice) at the age of 21.
@@ -103,11 +105,21 @@ The most frequent testimony advanced to suggest that Joseph was not be capable o
 
 However, there are [good reasons to discount aspects of Emma's testimony]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }}).
 
+## The case against Joseph's potential capability
+
+The most up-to-date arguements against Joseph's abilities to compose the Book of Mormon have been made in response to William Davis's recent book [Visions in a seer stone](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407):
+
+* [Theories and Assumptions: A Review of William L. Davis’s Visions in a Seer Stone](https://journal.interpreterfoundation.org/theories-and-assumptions-a-review-of-william-l-daviss-visions-in-a-seer-stone/) (Brian C. Hales)
+* [Oral Creation and the Dictation of the Book of Mormon](https://journal.interpreterfoundation.org/oral-creation-and-the-dictation-of-the-book-of-mormon/) (Brant A. Gardner)
+
+Other arguments relevant to an argument against Joseph's capabilities:
+
+* [Curiously Unique: Joseph Smith as Author of the Book of Mormon](https://journal.interpreterfoundation.org/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/) (Brian C. Hales)
+* [Changing Critics’ Criticisms of Book of Mormon Changes](https://journal.interpreterfoundation.org/changing-critics-criticisms-of-book-of-mormon-changes/) (Brian C. Hales)
+
 ## Conclusion
 
-Despite lacking extensive formal training, Joseph was clearly raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.
-
-[^preceptor]: John Smith is mentioned as a "Preceptor" of Moor's School [in his biography](https://archive.org/details/annalsamericanp31spragoog/page/n104/mode/2up?q=John+Smith).
+Despite lacking extensive formal training, Joseph was raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, some of those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.  On the other hand, the argument can be made that many did not attribute great intellectual powers to Joseph, and that he lacked the necessary education or prepartion in order to be able to compose a book like the Book of Mormon, especially under the circumstances witnessed.
 
 [^hyrum_smith_at_moor]: Hyrum Smith's time at Moor's School, along with substantiation of all the above-mentioned points may be found [here]({{ "/hyrum-attended-moor-school/" | relative_url }})
 
