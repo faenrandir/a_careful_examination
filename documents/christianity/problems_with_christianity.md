@@ -107,3 +107,7 @@ Story of the Canaanite woman: Matthew 15:22-28
 Ultimately, the doctrine that Jesus was infallible and morally right in every instance must be preserved at **any** cost---the cost of mis-interpreting or twisting the clear and straightforward meaning of his words.
 
 Generally, the manner in which this is most easily accomplished is to villify the messenger---*the messenger* is ungenerous, ignorant, or guilty of twisting the "real meaning" with malicious and Satanic intent.
+
+## See also
+
+[A comment on /r/exmormon](https://www.reddit.com/r/exmormon/comments/80ptga/christian_agnostic_or_atheist/duxjp6t/) discussing similar points, some in slightly different ways.
