@@ -51,7 +51,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
     **Significance**: Joseph Smith was both willing and able to weave external works from his time into religious documents, and he relied on Clarke without drawing mention from any of his scribes.
 
-1. Stan Spencer, [Interpreter Contributor](https://journal.interpreterfoundation.org/author/stans/?journal) --- in every case where the the Revised Version offers a "more accurate translation" the Book of Mormon [follows the King James Version](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/#sdfootnote36anc):
+1. Stan Spencer, [Interpreter Contributor](https://journal.interpreterfoundation.org/author/stans/?journal) --- in every case where the Revised Version offers a "more accurate translation" the Book of Mormon [follows the King James Version](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/#sdfootnote36anc):
 
     > If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
 

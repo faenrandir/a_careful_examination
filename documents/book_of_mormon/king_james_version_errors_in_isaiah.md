@@ -100,6 +100,23 @@ What does this mean for modern and ancient origin theories of the Book of Mormon
 
 After I made him aware, Conflict of Justice [defended the essential accuracy of each verse I discuss above](http://www.conflictofjustice.com/14-bible-verses-mistranslated-book-of-mormon/).  The next step in discussing these verses should be to subject his defenses to scrutiny from modern Bible scholars.  Are the defenses sound?
 
+## Appendix: LDS scholars corroborate
+
+At least two LDS scholars acknowledge errors in or significant divergence between the Book of Mormon Isaiah compared with our expectations of what Isaiah from an ancient source would likely appear.
+
+Stan Spencer, an [Interpreter Contributor](https://journal.interpreterfoundation.org/author/stans/?journal), has noted that in every case where the Revised Version offers a "more accurate translation" the Book of Mormon [follows the King James Version](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/#sdfootnote36anc):
+
+> If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
+
+And Grant Hardy, a foremost [LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) has suggested that the Isaiah in the Book of Mormon is not what we would expect from an ancient source at 600 BC.  [He wrote]({{ "/excerpt-on-isaiah-from-hardys-readers-guide/" | relative_url }}):
+
+> Latter-day Saints sometimes brush such criticism [that the Book of Mormon pulls from deutero-Isaiah] aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but **this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis**.
+
+> Recent Isaiah scholarship has moved ... in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, **even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls**, when it was quite similar to what we have today.
+
+These LDS scholar obversations seem consistent with the idea that the Book of Mormon is a preservation of the KJV Isaiah rather than approximating what we might expect from an ancient source.
+
+
 [^notonlyexamples]: The examples in the appendix are not the only examples of errors in the KJV by any means.  For example, Stan Spencer, and LDS researcher, has detailed [eight examples in Isaiah chapters 6 and 7](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/) where a more accurate translation would likely follow the revised version (RV).  He writes: "The RV is essentially a corrected version of the KJV. If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. It does not. In every case it more closely follows the KJV."  He finishes his assessment by referring to these as "translation errors."
 
 [^joosten]: Joosten was recently [sentenced to a year in jail](https://www.theguardian.com/world/2020/jun/22/oxford-university-professor-jan-joosten-jailed-france-child-abuse-images) from downloading child pornography.  Arguably, his expertise and *scholarly* interpretations should stand on their own merit, but in the interest of transparency and because some may not be inclined to trust scholarship coming from a source that is morally compromised, I include this footnote.
