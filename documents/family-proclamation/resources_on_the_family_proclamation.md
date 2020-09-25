@@ -8,16 +8,16 @@ layout: page
 
 ## Status of the Proclamation
 
-1. [Mormonism and the Proclamation on the Family, Official Doctrine?](http://en.fairmormon.org/Mormonism_and_prophets/Mormonism_and_the_Proclamation_on_the_Family/Official_doctrine#cite_note-4) (FairMormon links to speech by Packer discussing genesis based on a world family conference).
 1. [Is the Family Proclamation Scripture?](http://rationalfaiths.com/is-the-family-proclamation-scripture/) (analysis by James Patterson)
-1. [Is "The Proclamation" official doctrine?](https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F#https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F) (FairMormon analysis; note the section "Origin of the Proclamation" where Packer discusses its genesis.)
-1. ["The Proclamation on the Family: Scripture or Revelation?"]({{ "/proclamation-on-the-family-scripture-or-revelation/" | relative_url }}) (analysis by bwv549)
+1. [Is "The Proclamation" official doctrine?](https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F#https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F) (FairMormon)
+1. ["The Proclamation on the Family: Scripture or Revelation?"]({{ "/proclamation-on-the-family-scripture-or-revelation/" | relative_url }}) (bwv549)
 
 ## Chronology
 
-1. [From Amici to 'Ohana: The Hawaiian Roots of the Family Proclamation](http://rationalfaiths.com/from-amici-to-ohana/)
-1. [Richley Crapo: Chronology Of Mormon / LDS Involvement In Same-Sex Marriage Politics](http://www.mormonsocialscience.org/2008/01/04/richley-crapo-chronology-of-mormon-lds-involvement-in-same-sex-marriage-politics/)
-1. [Pew Research Center: Gay Marriage Timeline](https://www.pewforum.org/2008/04/01/gay-marriage-timeline/)
+1. [Family Breakdown, the Welfare State, and the Family Proclamation: An Alternative History](http://www.withoutend.org/family-proclamation-alternative-history/) (Walker Wright)
+1. [From Amici to 'Ohana: The Hawaiian Roots of the Family Proclamation](http://rationalfaiths.com/from-amici-to-ohana/) (Laura Compton)
+1. [Chronology Of Mormon / LDS Involvement In Same-Sex Marriage Politics](http://www.mormonsocialscience.org/2008/01/04/richley-crapo-chronology-of-mormon-lds-involvement-in-same-sex-marriage-politics/) (Richley Crapo)
+1. [Gay Marriage Timeline](https://www.pewforum.org/2008/04/01/gay-marriage-timeline/) (Pew Research Center)
 
 ## Genesis
 
