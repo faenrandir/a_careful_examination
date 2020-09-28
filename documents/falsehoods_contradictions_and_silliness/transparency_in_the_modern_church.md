@@ -27,7 +27,7 @@ Finally, it is worth noting at the outset that the Church has dramatically incre
 
 ## Examples of transparency failures
 
-These are some modern examples[^modern] where LDS leadership or the institution appear to have failed to provide or attempted to hinder the availability of, information that members or investigators arguably should have access to (or admitted to such behavior).
+These are some modern[^modern] examples where LDS leadership or the institution appear to have failed to provide or attempted to hinder the availability of, information that members or investigators arguably should have access to (or admitted to such behavior).
 
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
@@ -93,7 +93,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
     In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
 
-    > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”. (Laughter from the audience) But yet we had a lot of people struggling with some of these issues. We were loosing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
+    > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”. (Laughter from the audience) But yet we had a lot of people struggling with some of these issues. We were losing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
 
 * **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
@@ -127,11 +127,7 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 
 * **2018**&nbsp; obfuscation of living allowances
 
-    I performed a [fairly comprehensive analysis]({{ "/how-transparent-was-lds-church-with-living-allowances/" | relative_url }}) of how the Church portrays living allowances for its senior male leadership.  A good example of how the Church has obfuscated living allowances can be found in [this section]({{ "/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation" | relative_url }}).
-
-* **2020**&nbsp; leaders did not want members to know about the size of Ensign Peak investments
-
-    Based on Roger Clarke's interview with the Wall Street Journal (as [reported by the Salt Lake Tribune](https://www.sltrib.com/news/2020/02/08/lds-church-kept-lid-its-b/)), it became apparent that LDS officials "kept the size of the church's $100 billion investment reserves secret"
+    [An analysis]({{ "/how-transparent-was-lds-church-with-living-allowances/" | relative_url }}) of the transparency of the Church regarding living allowances suggests some lack of transparency.  For example, the Church newsroom appears to have obfuscated living allowances in [this section]({{ "/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation" | relative_url }}).
 
 * **2013--2020**&nbsp; misleading footnotes in Gospel Topics essays and Come Follow Me Manual
 
@@ -140,6 +136,16 @@ These are some modern examples[^modern] where LDS leadership or the institution 
 * **1830--2020**&nbsp; seer stone usage misrepresentations
 
     Almost since the beginning of the Church, the Book of Mormon translation process, especially with regards to use of the seer stone, seems like it could have been presented with greater transparency or accuracy.  Consider candidates [in this presentation by japanesepiano](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf),[^candidates] many of which occurred relatively recently.
+
+* **2020**&nbsp; The size of Ensign Peak investment accounts is obscured from membership
+
+    Based on Roger Clarke's interview with the Wall Street Journal (as [reported by the Salt Lake Tribune](https://www.sltrib.com/news/2020/02/08/lds-church-kept-lid-its-b/)), the size of Ensign Peaks investments were obscured from members (emphasis added):
+
+    > Clarke and former Ensign employees said the firm **created a system of more than a dozen shell companies to make its stock investments harder to track**. That strategy, Clarke said, was **designed to prevent members from parroting what Ensign was doing** and to, as the paper stated, “protect them from mismanaging their own funds with insufficient information.”
+
+    Justification for keeping the size of the reserves secret were conveyed by Clarke:
+
+    > "So they [LDS leadership?] never wanted to be in a position where people felt like, you know, they shouldn’t make a contribution"
 
 * **present**&nbsp; First Presidency vault registers are not public
 
