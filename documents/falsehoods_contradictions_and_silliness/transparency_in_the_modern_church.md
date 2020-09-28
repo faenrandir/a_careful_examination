@@ -85,9 +85,9 @@ These are some modern[^modern] examples where LDS leadership or the institution 
 
     The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
 
-* **2011**&nbsp; Lorenzo Snow manual ellipsis on tithing
+* **2012**&nbsp; Lorenzo Snow manual ellipsis on tithing
 
-    The ellipsis used in the Lorenzo Snow manual altered at least some of the meaning of [Snow's statement on tithing]({{ "/ellipsis-in-lorenzo-snow-tithing-statement/ | relative_url }}).
+    The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of [Snow's statement on tithing]({{ "/ellipsis-in-lorenzo-snow-tithing-statement/ | relative_url }}).
 
 * **2012**&nbsp; Gospel topics essays given a "soft rollout"
 
