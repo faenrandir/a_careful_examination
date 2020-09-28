@@ -87,7 +87,7 @@ These are some modern[^modern] examples where LDS leadership or the institution 
 
 * **2012**&nbsp; Lorenzo Snow manual ellipsis on tithing
 
-    The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of [Snow's statement on tithing]({{ "/ellipsis-in-lorenzo-snow-tithing-statement/ | relative_url }}).
+    The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of [Snow's statement on tithing]({{ "/ellipsis-in-lorenzo-snow-tithing-statement/" | relative_url }}).
 
 * **2012**&nbsp; Gospel topics essays given a "soft rollout"
 
