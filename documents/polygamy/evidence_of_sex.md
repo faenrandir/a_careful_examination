@@ -8,7 +8,8 @@ layout: page
 
 ## Compton's assessment
 
-[Todd Compton's assessment of the evidence for sexuality]({{ "/compton-sexuality-in-joseph-smiths-plural-marriages/" | relative_url }})
+* [Assessment of the evidence for sexuality]({{ "/compton-sexuality-in-joseph-smiths-plural-marriages/" | relative_url }})
+* [Assessment of evidence for sexuality with Helen Mar Kimball](https://web.archive.org/web/20201008222509/http://toddmcompton.com/revhmk5.html)
 
 ## Short analysis of the testimony evidence
 

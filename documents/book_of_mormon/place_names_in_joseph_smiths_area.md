@@ -109,7 +109,7 @@ Probably not much.  We could look for place names similar to Book of Mormon plac
 Still, it does offer a counterpoint to the query, "where could Joseph have gotten all those names?"  He could have made them up, conciously or subconciously being inspired by:
 
 * Bible/apocrypha names he had heard
-* Locations around his locale or that he had hear before
+* Locations around his locale or that he had heard before
 * Proper names from various name guides being sold at the time. For example:
     * [This pronunciation guide for Greek, Latin, and Scripture names ](https://archive.org/stream/keytoclassicalpr00walkrich#page/182/mode/2up)
     * Charles Anthon's [Classical Dictionary of ancient proper names]({{ "/charles-anthon-proper-names-and-the-bom/" | relative_url }})
