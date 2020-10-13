@@ -27,7 +27,7 @@ There are three compelling reasons to think that former members should be excuse
 
 1. **Critical information involved in making the promise was not adequately disclosed by the LDS Church**
 
-    Leaders admit that they were not transparent with many records from their past.  Elder Steven Snow [recently stated](http://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/):
+    Historical analysis suggests that the leaders and the institution [have failed to be transparent](https://faenrandir.github.io/a_careful_examination/transparency-in-the-modern-lds-church/) in at least some ways, and leaders admit that they have not been transparent with many records from their past.  For instance, Elder Steven Snow [recently stated](http://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/):
 
     > I think in the past there was a tendency to keep a lot of the records closed or at least not give access to information. But the world has changed in the last generation—with the access to information on the Internet, we can’t continue that pattern; I think we need to continue to be more open.
 
