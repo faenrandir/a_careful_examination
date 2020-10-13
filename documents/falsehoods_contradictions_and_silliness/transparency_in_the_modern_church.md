@@ -19,10 +19,9 @@ In a [2018 Face to Face with Elder Cook](https://www.thechurchnews.com/leaders-a
 
 > The Church did not hide information from me, but the historical information was not emphasized to me
 
-However, the historical record supports several examples of when the Church (or its representatives) appear to have failed to inform members or investigators of things they perhaps should have (i.e., they knew about things that are relevant to LDS truth-claims and they failed to make those readily available or transparent), misrepresented the data, or influenced others to be less transparent in how its history was to be represented to the world and its own members.
+However, the historical record supports several examples of when the Church or its representatives appear to have failed to inform members or investigators of things they perhaps should have, misrepresented the data, or influenced others to be less transparent in how its history was to be represented to the world and its own members.
 
 ## Examples of transparency failures
-
 
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
@@ -152,15 +151,15 @@ However, the historical record supports several examples of when the Church (or 
 
 ## Discussion
 
-It seems self-evident from the above examples that the institution and leadership have failed in at least some ways to make relevant data accessible to others, and a general spirit of transparency is a more recent development.
+It seems evident from the above examples that the institution and leadership have failed in at least some ways to make relevant data accessible to others, and a general spirit of transparency is a more recent development.
 
 At a broad-stroke level, perhaps the statements regarding transparency by Elder Ballard and Dr. Holbrook remain reasonable characterizations?  It could be argued that since this analysis did not uncover copious clear-cut examples of hiding that the general rule is one of transparency?  At the very least, we can argue that transparency has improved in many regards.  Recent efforts such as the [Joseph Smith Papers](https://www.josephsmithpapers.org/), the [publication of George Q. Cannon's journal](https://www.churchhistorianspress.org/news/chpress-publishes-george-q-cannon-journals?lang=eng), and the announcement that the Church [will publish the William Clayton diaries](https://juvenileinstructor.org/breaking-news-lds-church-to-publish-the-william-clayton-diaries/) point to a recent trend in openness to critical records.
 
-However, it is difficult to acknowledge these recent strides in transparency without simultaneously appreciating past limitations and failures. Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush have documented a general attitude of data suppression among top LDS leadership. And, in emphasizing recent efforts at openness, Steven Snow acknowledged: "in the past there was a tendency to keep a lot of the records closed or at least not give access to information."
+However, it is difficult to acknowledge these recent strides in transparency without simultaneously appreciating past limitations and failures. Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush have documented a general attitude of data suppression among top LDS leadership in the past. And, in emphasizing recent efforts at openness, Steven Snow [acknowledged](https://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/): "in the past there was a tendency to keep a lot of the records closed or at least not give access to information."
 
 ### Motivation and consequences
 
-Should we label these instances "hiding"?  *Hiding* tends to imply a particular dishonest motivation.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  To be fair, leaders may have been animated by a number of different motivations or in some instances simply made mistakes.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
+Should we label these instances "hiding"?  *Hiding* tends to imply a particular dishonest motivation.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in most or all cases?  To be fair, leaders may have been animated by a number of different motivations or in some instances simply made mistakes.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
 
 1. An honest mistake
 2. Benign ignorance
@@ -171,11 +170,11 @@ Should we label these instances "hiding"?  *Hiding* tends to imply a particular 
 7. A desire to follow the various scriptural admonitions to be cautious in sharing sacred material
 8. A desire to wait until such time as a source can be properly understood and disseminated
 
-A few accounts above capture the motivation of leadership, and they bear out many of the motivations listed above.  For instance, historian [Linda Newell noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf) that Elder Oaks "admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason" and that "despite his ... reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to 'protect what is most unique about the LDS church' and [limit detrimental influence on] the reputation of Joseph Smith."  Further, when leaders argued against sharing damaging information, it was coupled with an [insistence on a kind of truthfulness](https://faenrandir.github.io/a_careful_examination/leonard-arrington-and-real-history/): "We are required to tell the truth but we are not required to tell the whole truth."
+A few accounts above capture the motivation of leadership, and several of the possible motivations enumerated seem to be represented.  For instance, historian [Linda Newell noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf) that Elder Oaks "admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason" and that "despite his ... reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to 'protect what is most unique about the LDS church' and [limit detrimental influence on] the reputation of Joseph Smith."  Further, when leaders argued against sharing damaging information, it was coupled with an [insistence on a kind of truthfulness](https://faenrandir.github.io/a_careful_examination/leonard-arrington-and-real-history/): "We are required to tell the truth but we are not required to tell the whole truth."
 
 And, in general, leaders who seem to have been least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.[^sacrificing_transparency]
 
-Generosity towards the motivation of LDS leadership may be balanced with an appreciation of the potential harms of limiting transparency.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data that allows others to fully exercise their agency.  Conversely, failures to make relevant information accessible (even if motivations were noble) tend to hinder individuals' self-determination[^self_determination] and make it more difficult to choose the best model among competing models.[^models]  And, when devoted members discover (sometimes through alternate channels) information that seems to have been withheld, they often feel a sense of betrayal.[^betrayal]
+Generosity towards the motivation of LDS leadership may be balanced with an appreciation of the potential harms of limiting transparency.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data that allows others to fully exercise their agency.  Conversely, failures to make relevant information accessible, even if motivations were noble, tend to hinder individuals' self-determination[^self_determination] and make it more difficult to choose the best model among competing models.[^models]  Finally, when devoted members discover (sometimes through alternate channels) information that seems to have been withheld, they often feel a sense of betrayal.[^betrayal]
 
 ### Responsibility and moving forward
 
@@ -220,7 +219,7 @@ The author received valuable feedback on a first draft of this document from the
 
 [^self_determination]: Transparency allows individuals to make choices for their lives with all the relevant data in hand.  For instance, in the late 1830s and 1840s thousands of recent LDS converts left their homes to immigrate to the U.S., but they did so under the assumption that the group was not practicing polygamy (based on [copious denials of the practice](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/)).  Arguably, many would not have made the journey had they known the early Saints were engaging in non-traditional marriage arrangements.
 
-[^betrayal]: Accounts of LDS faith crises were accumulated during [an early 2010 study and follow-up](https://faenrandir.github.io/a_careful_examination/2013-faith-crisis-study/).  A significant number of these suggest a feeling of betrayal for how the Church handled transparency.  [For example](https://faenrandir.github.io/a_careful_examination/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf):
+[^betrayal]: Accounts of LDS faith crises were accumulated during [a 2011 study and later follow-up](https://faenrandir.github.io/a_careful_examination/2013-faith-crisis-study/).  A significant number of these suggest a feeling of betrayal for how the Church handled transparency.  [For example](https://faenrandir.github.io/a_careful_examination/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf):
 
     > (pg 84) It is painful enough to find out you have been lied to. But to discover that you have been used to propagate that lie unknowingly is the ultimate betrayal. And this, coming from a church who has the nerve to ask me if I am an honest in my dealings with my fellow men in order to enter into the temple.
 
