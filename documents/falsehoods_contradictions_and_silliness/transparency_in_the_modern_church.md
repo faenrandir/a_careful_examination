@@ -48,7 +48,7 @@ However, the historical record supports several examples of when the Church or i
     * "the Church didn’t want every 'Tom, Dick, or Harry' looking through its records" [or even those with temple recommends]
     * The vast collection of Manuscript History was off limits to Bush
     * "My notes apparently were not evaluated for substantive questions, but rather from the perspective of what material had gotten out, and how."
-    * "[The material showing Joseph F. Smith reversing his opinion on the ordination fo Elijah Abel] could undermine faith in his role as a prophet, so was inappropriate."
+    * "[The material showing Joseph F. Smith reversing his opinion on the ordination of Elijah Abel] could undermine faith in his role as a prophet, so was inappropriate."
     * "if Dialogue prints Bush’s article the brethren will think that Dialogue is hostile"
     * [after using the Bennion papers] "the Library was contacted in behalf of the First Presidency stating that we should not have copies of the councils’ minutes and requested [that the library] send them up [i.e., not make them publicly available]"
     * "Mark E. Petersen ... had spoken 'very harshly' about me over my publications... and instructed Marriott [Bush's stake President] to call me in and take some appropriate action"
