@@ -47,7 +47,7 @@ There are three compelling reasons to think that former members should be excuse
 
     > If you proceed and receive your full endowment, you will be required to take upon yourselves sacred obligations, the violation of which will bring upon you the judgments of God, for God will not be mocked.  If any of you desire to withdraw rather than accept these obligations of your own free will and choice, you may now make it known by raising your hand.
 
-    However, the obligations themselves are not disclosed to the participant until they have already implicitly agreed to accept the obligation!  And, once the obligations are presented, no choice is offered the participant to withdraw at that time--[the obligation is presented to the participant in command form](http://www.ldsendowment.org/terrestrial.html):
+    However, the obligations themselves are not disclosed to the participant until they have already implicitly agreed to accept the obligation.  And, once the obligations are presented, no choice is offered the participant to withdraw at that time--[the obligation is presented to the participant in command form](http://www.ldsendowment.org/terrestrial.html):
 
     > All arise.
 
