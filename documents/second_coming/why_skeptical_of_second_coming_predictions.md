@@ -27,7 +27,7 @@ Bill Gates predicted an outbreak like coronavirus [in 2015](https://www.youtube.
 
 It was the official position of the Church (published in official literature) that you could [pray away your gay](https://faenrandir.github.io/a_careful_examination/lds-statements-on-cause-and-cure-for-homosexuality/).  The gay, atheist, liberal sex researchers figured it out *way* before the prophet.  Those are the people making accurate predictions about the world, it seems.
 
-Also, compare something like [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=health) with the Word of Wisdom.  Science gives us so much more resolution and accuracy on topics of health and wellbeing than anything spoken over an LDS pulpit.
+Also, compare something like [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=health) with the Word of Wisdom.  Science gives us so much more resolution and accuracy on topics of health and well-being than anything spoken over an LDS pulpit.
 
 ### Appendix
 

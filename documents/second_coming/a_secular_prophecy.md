@@ -1,5 +1,5 @@
 ---
-title: "A secular prophecy of the end-times"
+title: "A secular prophecy for our time"
 permalink: /secular-prophecy-of-the-end-times/
 doctype: short-analysis
 layout: page
@@ -7,19 +7,14 @@ layout: page
 
 ### Introduction
 
-Those who make prophecies seem to make them vague enough that they are not easily falsifiable.  So, I consider them an expression of cultural angst or inspiration rather than anything that has to do with our objective world.
-
-If a prophesier wants to be taken seriously in 2020, then the prophecy needs to be *specific*.
-
-What do I mean?  Well, if you are predicting or prophecying of an earthquake, [we are talking about](https://www.usgs.gov/faqs/can-you-predict-earthquakes?qt-news_science_products=7#qt-news_science_products):
-
-1. A date and time
-2. An epicenter location (let's say, 1/2 mile radius)
-3. A magnitude
-
-Otherwise, I think that the following secular prophecies will be as good as (and likely far more accurate than) anything in the book of Revelation, anything Joseph Smith or the early brethren prophesied, or prophecies by any of the Snufferites.
+Using scientific and secular models I have generated a prophecy in the
+language of scripture.  Like most religious prophecies, this prediction as
+good a prophecy as almost any produced by the religious sphere (i.e., my
+prediction lacks a great deal of specificity---see the appendix).
 
 ### A secular prophecy
+
+*Originally predicted on March 19, 2020.*
 
 Verily, I say unto all the inhabitants of the earth who have ears to hear:
 
@@ -45,8 +40,21 @@ Verily, I say unto all the inhabitants of the earth who have ears to hear:
 
     *Because incentives are aligned behind [growth and not sustainability](https://www.elsevier.com/connect/economic-growth-and-sustainability-are-they-mutually-exclusive) and we [privatize profits and socialize losses](https://en.wikipedia.org/wiki/Lemon_socialism), then we end up with investment that outstrips investment risk and it will continue as long as those forces are in place.*
 
---bwv549 (2020-03-19)
+### Appendix: Specificity
 
-### Appendix
+Those who make prophecies often make them vague enough that they are almost
+meaningless.  If a prophecy is dealing with events that are relatively common,
+then those prophecies require a certain degree of specificity to have much
+meaning.
+
+For instance, because earthquakes are so common, for an earthquake prediction
+to be meaninful, it [should
+include](https://www.usgs.gov/faqs/can-you-predict-earthquakes?qt-news_science_products=7#qt-news_science_products):
+
+1. A date and time
+2. An epicenter location (let's say, 1/2 mile radius)
+3. A magnitude
+
+---
 
 Original draft posted [here](https://www.reddit.com/r/mormon/comments/flbb5o/can_self_defeating_prophecies_exist/fky8rnc/).
