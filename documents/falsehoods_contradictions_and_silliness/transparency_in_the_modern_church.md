@@ -19,15 +19,10 @@ In a [2018 Face to Face with Elder Cook](https://www.thechurchnews.com/leaders-a
 
 > The Church did not hide information from me, but the historical information was not emphasized to me
 
-At a broad-stroke level, perhaps these statements by Elder Ballard and Dr. Holbrook are good characterizations.  I am not aware of that many clear-cut examples of where things were hidden from the body of the Church.  I am also inclined to give Church leadership the benefit of the doubt regarding their *motivation*, especially where we don't have documentation indicating their motivation.[^dishonesty]
-
-With that said, the historical record supports several examples of when the Church (or its representatives) appear to have failed to inform members or investigators of things they perhaps should have (i.e., they knew about things that are relevant to LDS truth-claims and they failed to make those readily available or transparent), misrepresented the data, or influenced others to be less transparent in how its history was to be represented to the world and its own members.
-
-Finally, it is worth noting at the outset that the Church has dramatically increased its transparency during the last two decades in many ways (e.g., the Joseph Smith Papers project and anticipated publication of the William Clayton journals).
+However, the historical record supports several examples of when the Church (or its representatives) appear to have failed to inform members or investigators of things they perhaps should have (i.e., they knew about things that are relevant to LDS truth-claims and they failed to make those readily available or transparent), misrepresented the data, or influenced others to be less transparent in how its history was to be represented to the world and its own members.
 
 ## Examples of transparency failures
 
-These are some modern[^modern] examples where LDS leadership or the institution appear to have failed to provide or attempted to hinder the availability of, information that members or investigators arguably should have access to (or admitted to such behavior).
 
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
@@ -155,9 +150,17 @@ These are some modern[^modern] examples where LDS leadership or the institution 
 
     The FP vault has held items such as the 1832 First Vision account and William Clayton's diaries, a person with book-keeping experience and Joseph Smith's recorder and scribe for most of the Nauvoo period.  LDS Scholars are sometimes granted access to material in the FP vault, and from publication citations [a list of some items in the vault](https://exploringmormonism.com/our-own-peek-into-the-first-presidency-vault/) can be assembled.
 
-## Motivation and consequences
+## Discussion
 
-Should we label these instances "hiding"?  *Hiding* can be seen as implying motivation and/or dishonesty.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  A number of possible motivations may have been involved.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
+It seems self-evident from the above examples that the institution and leadership have failed in at least some ways to make relevant data accessible to others, and a general spirit of transparency is a more recent development.
+
+At a broad-stroke level, perhaps the statements regarding transparency by Elder Ballard and Dr. Holbrook remain reasonable characterizations?  It could be argued that since this analysis did not uncover copious clear-cut examples of hiding that the general rule is one of transparency?  At the very least, we can argue that transparency has improved in many regards.  Recent efforts such as the [Joseph Smith Papers](https://www.josephsmithpapers.org/), the [publication of George Q. Cannon's journal](https://www.churchhistorianspress.org/news/chpress-publishes-george-q-cannon-journals?lang=eng), and the announcement that the Church [will publish the William Clayton diaries](https://juvenileinstructor.org/breaking-news-lds-church-to-publish-the-william-clayton-diaries/) point to a recent trend in openness to critical records.
+
+However, it is difficult to acknowledge these recent strides in transparency without simultaneously appreciating past limitations and failures. Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush have documented a general attitude of data suppression among top LDS leadership. And, in emphasizing recent efforts at openness, Steven Snow acknowledged: "in the past there was a tendency to keep a lot of the records closed or at least not give access to information."
+
+### Motivation and consequences
+
+Should we label these instances "hiding"?  *Hiding* tends to imply a particular dishonest motivation.  Perhaps LDS leadership genuinely viewed their own actions as honest and honorable in every case?  To be fair, leaders may have been animated by a number of different motivations or in some instances simply made mistakes.  For instance, failures in transparency may be viewed as springing from:[^motivations_overlap]
 
 1. An honest mistake
 2. Benign ignorance
@@ -168,20 +171,22 @@ Should we label these instances "hiding"?  *Hiding* can be seen as implying moti
 7. A desire to follow the various scriptural admonitions to be cautious in sharing sacred material
 8. A desire to wait until such time as a source can be properly understood and disseminated
 
-Those accounts which capture the motivation of leadership point to some of the above.  And, in general, leaders who were least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.[^sacrificing_transparency]
+A few accounts above capture the motivation of leadership, and they bear out many of the motivations listed above.  For instance, historian [Linda Newell noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf) that Elder Oaks "admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason" and that "despite his ... reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to 'protect what is most unique about the LDS church' and [limit detrimental influence on] the reputation of Joseph Smith."  Further, when leaders argued against sharing damaging information, it was coupled with an [insistence on a kind of truthfulness](https://faenrandir.github.io/a_careful_examination/leonard-arrington-and-real-history/): "We are required to tell the truth but we are not required to tell the whole truth."
 
-Generosity towards the motivation of LDS leadership should probably be balanced with an appreciation of the potential harms of limiting transparency where it might be due.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data, then that allows others to fully exercise their agency.  When leaders or institutions fail to make relevant information accessible (whatever their reasons, even if noble) then this can hinder individuals' self-determination[^self_determination] and in selecting the best model among competing models.[^models]
+And, in general, leaders who seem to have been least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.[^sacrificing_transparency]
 
-## Responsibility and moving forward
+Generosity towards the motivation of LDS leadership may be balanced with an appreciation of the potential harms of limiting transparency.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data that allows others to fully exercise their agency.  Conversely, failures to make relevant information accessible (even if motivations were noble) tend to hinder individuals' self-determination[^self_determination] and make it more difficult to choose the best model among competing models.[^models]  And, when devoted members discover (sometimes through alternate channels) information that seems to have been withheld, they often feel a sense of betrayal.[^betrayal]
 
-What responsibility does the organization have for presenting or publicizing accurate but unsavory, potentially damaging, or uncomfortable information to its members?  It seems fair to point out that the Church holds its members to exacting standards of honesty and transparency.  For instance, the [Ensign in 1994 taught](https://www.churchofjesuschrist.org/study/ensign/1994/10/thou-shalt-not-bear-false-witness?lang=eng):
+### Responsibility and moving forward
+
+What responsibility does an organization have for making accessible or publicizing accurate---but potentially damaging or uncomfortable---information to its members?  It seems fair to point out that the Church holds its members to exacting standards of honesty and transparency.  For instance, the [Ensign in 1994 taught](https://www.churchofjesuschrist.org/study/ensign/1994/10/thou-shalt-not-bear-false-witness?lang=eng):
 
 > We can also be guilty of bearing false witness and lying if we say nothing, particularly if we allow another to reach a wrong conclusion while we hold back information that would have led to a more accurate perception. In this case it is as though an actual lie were uttered… Lying and misrepresentation in all of their forms are wrong, no matter how they may be rationalized, and those who silently let these evils pass unchallenged are also doing wrong
 
 Other remaining questions include: 
 
 * Should [institutions apologize]({{ "/the-church-does-not-apologize/" | relative_url }}) for times they were not fully transparent?  Should the Church?
-* If these are the instances we are aware of today, how many instances have still not been brought to light?  Can the Church "fully repent" (or make amends) as an institution without a full accounting?
+* If these are the instances we are aware of today, how many instances have still not been brought to light?  If needed, can the Church "fully repent" (or make amends) as an institution without a full accounting?
 * Can we say that the Church is fully transparent today?  How would we know if that were the case?
 * Are the cultural forces that hindered transparency in the past still active in the Church today?
 
@@ -193,11 +198,11 @@ Other remaining questions include:
 
 ## Acknowledgements
 
-I received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.
+The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.
 
 [^motivations_overlap]: Each of these motivations is not necessarily fully distinct from the others, and a given incident may invoke multiple motivations.
 
-[^sacrificing_transparency]: Leaders and institutions tend to sacrifice transparency in proportion to perceived existential threats.  It is well established in the social science literature that perceived existential threats modulate hawkish or dovish stances (but sometimes [in nuanced ways](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01877/full)).  I take it as self-evident that hawkish stances tend to promote less information sharing (transparency) than dovish stances.  For instance, in wartime generals do not broadcast their army's weaknesses to the opposition but in peacetime an organization may be more inclined to be transparent about its weaknesses with the hope that others will use that information for everyone's benefit and in the process improve rather than seek to destroy the institution.
+[^sacrificing_transparency]: Leaders and institutions tend to sacrifice transparency in proportion to perceived existential threats.  It is well established in the social science literature that perceived existential threats modulate hawkish or dovish stances (but sometimes [in nuanced ways](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01877/full)).  It seems self-evident that hawkish stances tend to promote less information sharing (transparency) than dovish stances.  For instance, in wartime generals do not broadcast their army's weaknesses to the opposition but in peacetime an organization may be more inclined to be transparent about its weaknesses with the hope that others will use that information for everyone's benefit and in the process improve rather than seek to destroy the institution.
 
     The LDS Church also has some [innate totalistic tendencies]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}).  For instance, totalistic groups tend to polarize individuals into in/out-groups (consider [how those who leave are characterized](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/)), often perceive opposition as [emanating from Satan](https://www.youtube.com/watch?v=e4mH-2W5nbg), and have a strong sense of devotion to a sacred and all-imporant cause.  All of these would seem to diminish an emphasis on transparency, especially if transparency would increase perception of potential weaknesses.
 
@@ -214,3 +219,12 @@ I received valuable feedback on a first draft of this document from the Mormon H
 [^dishonesty]: Intentional dishonesty can be difficult to demonstrate in the historical record. To demonstrate it, a person typically needs to establish who knew what and when, and even then a case to establish motivation may merely be suggestive.
 
 [^self_determination]: Transparency allows individuals to make choices for their lives with all the relevant data in hand.  For instance, in the late 1830s and 1840s thousands of recent LDS converts left their homes to immigrate to the U.S., but they did so under the assumption that the group was not practicing polygamy (based on [copious denials of the practice](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/)).  Arguably, many would not have made the journey had they known the early Saints were engaging in non-traditional marriage arrangements.
+
+[^betrayal]: Accounts of LDS faith crises were accumulated during [an early 2010 study and follow-up](https://faenrandir.github.io/a_careful_examination/2013-faith-crisis-study/).  A significant number of these suggest a feeling of betrayal for how the Church handled transparency.  [For example](https://faenrandir.github.io/a_careful_examination/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf):
+
+    > (pg 84) It is painful enough to find out you have been lied to. But to discover that you have been used to propagate that lie unknowingly is the ultimate betrayal. And this, coming from a church who has the nerve to ask me if I am an honest in my dealings with my fellow men in order to enter into the temple.
+
+    > (pg 90) My husband is a convert and feels lied to as well as we were never told the true history of the church.
+
+    > (pg 144) Life is complex and people are not perfect, but I was devastated to learn of the breadth and magnitude of historical problems the church hides.
+
