@@ -632,7 +632,8 @@ Callister insists that divine intervention is the only way to explain the creati
 
 ### Partial response to Callister's book
 
-* [David Bokovoy partial response to Callister's book](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/)
+* [Partial response](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/) (David Bokovoy)
+* [A Case Against A Case for the Book of Mormon](https://medium.com/@wagslane/a-case-against-a-case-for-the-book-of-mormon-3ed943ef19c1) (Lane Wagner)
 
 
 [^settling_provenance]: Despite the fact that the Church taught that the Kinderhook plates and Joseph Smith's translation of them were geniune (see [Joseph Smith Papers footnote on the Kinderhook plates]({{ "/jspapers-kinderhook-plates-commentary/" | relative_url }}) and [this analysis](http://www.mormonthink.com/kinderhookweb.htm#churchteach)), an examination of the plates themselves in 1981 [demonstrated them to be a hoax](https://lds.org/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng).  And, because we have recovered the original papyri related to the Book of Abraham, LDS scholars have translated the original Egyptian (see [Joseph Smith Papers Book of Abraham and Related Manuscripts](https://www.josephsmithpapers.org/intro/introduction-to-revelations-and-translations-volume-4) and other [Book of Abraham resources]({{ "/resources-on-the-book-of-abraham/" | relative_url }})).  As [the LDS essay on the Book of Abraham](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng) summarizes: "None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham ..."
@@ -652,7 +653,7 @@ Callister insists that divine intervention is the only way to explain the creati
 
 [^signatories]: The arguments in chapter 3 of Letter for my Wife seem generally sound, but do note that the argument about Cowdery potentially forging the signatures of the witnesses since the signatures are all in his handwriting is unsound (see point #3 [here](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/)).
 
-[^partialresponsetobook]: David Bokovoy has written [a partial response to Callister's book](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/).
+[^partialresponsetobook]: There have been two partial responses written to Callister's book: one from [David Bokovoy](https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/) and one from [Lane Wagner](https://medium.com/@wagslane/a-case-against-a-case-for-the-book-of-mormon-3ed943ef19c1).
 
 [^mcmurrinsuppress]: Sterling McMurrin, a liberal Mormon and University of Utah professor, wrote a biographical chapter for B.H. Roberts' [Studies of the Book of Mormon](https://www.worldcat.org/title/studies-of-the-book-of-mormon/oclc/26216024).  He alleged that (quoting Joan and Richard Ostlund) "there was an unsuccessful effort [presumably by the LDS Church?] to have the University of Illinois Press suppress publication of the study." (Joan and Richard Ostling's book [Mormon America: the power and the promise, pg 276](https://archive.org/details/mormonamericapow00ostl/page/276/mode/2up))
 
