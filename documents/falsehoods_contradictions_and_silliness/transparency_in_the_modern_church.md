@@ -23,6 +23,8 @@ However, the historical record supports several examples of when the Church or i
 
 ## Examples of transparency failures
 
+The following examples demonstrate or indicate some level of transparency failure:
+
 * **1922**&nbsp; Failure to publicize issues with Book of Mormon historicity.
 
     Significant issues with Book of Mormon historicity were [made known to all of the LDS leadership in 1922](https://scholarworks.unr.edu/handle/11714/6712).[^montez]  B.H. Roberts cataloged and explored these issues in [a series of long essays](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon).  Arguably, LDS leadership could have published or made these studies more widely available.
@@ -30,6 +32,10 @@ However, the historical record supports several examples of when the Church or i
 * **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account was suppressed
 
     The 1832 First Vision account appears to have been [suppressed between 11 and ~30 years]({{ "/1832-first-vision-account-suppressed/" | relative_url }}).
+
+* **1966**&nbsp; The Tanners first to publish copies of the Kirtland Egyptian Papers
+
+    [According to the Tanners](https://en.wikipedia.org/w/index.php?title=Kirtland_Egyptian_papers&oldid=975943367#Publication), Church Historians were aware of the documents since 1908 but denied their existence until 1935 when James R. Clark and Sidney B. Sperry were informed they were in the vault.  Even then, according to the Tanners, Clark and Sperry were not permitted to inform the public until some time after.  The Tanners "obtained an unauthorized copy of a microfilm strip" and [published](http://www.utlm.org/booklist/titles/josephsmithegyptianpapers_ub010.htm) the documents [in 1966](http://www.utlm.org/newsletters/no100.htm).  In a [1971 BYU Studies article](https://scholarsarchive.byu.edu/byusq/vol11/iss4/5/), Nibley criticized the Tanners publication in part because they were incomplete---his publication included 10 additional (?) pages.  All documents relating to the creation of the Book of Abraham would be released in full in 2018 as part of the Joseph Smith Papers.
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
@@ -75,9 +81,40 @@ However, the historical record supports several examples of when the Church or i
 
     Lavina Fielding Anderson published [a document](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N01_23.pdf) outlining ecclesiastical abuse of intellectuals in the Church.  She was excommunicated (as part of [the September 6](https://en.wikipedia.org/wiki/September_Six), intellectuals and feminists who were all excommunicated at about the same time).  She actively attended Church in the intervening decades and in 2019 her local and regional leaders recommended her for rebaptism to the First Presidency.  The First Presidency [denied the appeal](https://www.sltrib.com/religion/2019/09/05/writer-excommunicated/) for re-baptism without comment.
 
+* **2000**&nbsp; The Church sues the Tanners for posting portions of the handbook online
+
+    Claiming fair use, Jerald and Sandra Tanner posted material from a 1998 (or perhaps 1989) handbook.  They [explained their motivation](https://www.deseret.com/2000/12/1/19541967/tanners-say-lds-suit-is-settled):
+
+    > Unlike other churches, the Mormon Church does not make their operating manual readily available to people," she said. "We provided the quotes from the Church Handbook due to the many inquiries we have received from people seeking information on how to terminate their LDS Church membership. People need to be informed that they do not have to be excommunicated, that they can write a letter to their bishop and resign.
+
+    The lawsuit was settled out of court only after the Tanners agreed to
+    remove the sections from their site.
+
 * **2001, 2003**&nbsp; Church manuals leave out difficult polygamy details
 
     The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
+
+* **2008**&nbsp; Church compels handbook removal from Wikimedia site
+
+    The Church [claims copyright infringement](https://www.deseret.com/2008/5/14/20252389/lds-church-alleges-wikimedia-site-infringed-copyright) to coerce Wikimedia to remove a 1999 Handbook of Instructions.
+
+* **2011**&nbsp; Gospel Topics Essays originally planned for internal use
+
+    Matt Harris and Newell Bringhurst, in the introduction to their book [The LDS Gospel Topics Series: A Scholarly Engagement](http://www.signaturebooks.com/product/the-lds-gospel-topics-series/), describe a 2011 meeting between Travis Stratford, Hans Mattsson, Greg Prince and Marlin Jensen, where Jensen:
+
+    > acknowledged that an "internal team" at LDS headquarters was already working on "position papers" to address concerns raised in the survey [Dehlin and Stratford's initial survey]. But he opined that the team did not have the "political capital" to get the papers published.  To this end, he invited Stratford to Salt Lake City to present his work to other church authorities hoping that senior leaders would see the urgent need to release the "position papers" when they were completed.
+
+    Stratford's Faith Crisis Report and presentation was described as playing
+    a "significant role" in getting the Gospel Topics Essays released publicly:
+
+    > Several general authorities communicated to Stratford that his work had pushed the "position papers" forward.[27]
+
+    > [27] An LDS general authority (whom we have chosen not to identify by name) also conveyed to Matthew Harris that Stratford played a significant role in getting the "Gospel Topics Essays" released.
+
+    Reluctance on the part of LDS authorities to release the essays publicly
+    is discussed in recent Harris and Bringhurst's Gospel Tangents interviews
+    ([part 1](https://www.youtube.com/watch?v=q9FmzCJVXw4) and [part
+    2](https://www.youtube.com/watch?v=hfHJxARWvy0)).
 
 * **2012**&nbsp; Lorenzo Snow manual ellipsis on tithing
 
@@ -103,29 +140,17 @@ However, the historical record supports several examples of when the Church or i
 
     Elder Holland appears to have [attempted to mislead John Sweeney](https://www.youtube.com/watch?v=G9v2GxDs4To&feature=youtu.be&t=80) when Sweeney was asking about Romney and the temple oaths he would have sworn.  Jonathon Streeter [has analyzed this in depth](https://www.youtube.com/watch?v=lPVpUJj_gbs). [warning: discussion of the temple and oaths]
 
-* **2011**&nbsp; Gospel Topics Essays originally planned for internal use
-
-    Matt Harris and Newell Bringhurst, in the introduction to their book [The LDS Gospel Topics Series: A Scholarly Engagement](http://www.signaturebooks.com/product/the-lds-gospel-topics-series/), describe a 2011 meeting between Travis Stratford, Hans Mattsson, Greg Prince and Marlin Jensen, where Jensen:
-
-    > acknowledged that an "internal team" at LDS headquarters was already working on "position papers" to address concerns raised in the survey [Dehlin and Stratford's initial survey]. But he opined that the team did not have the "political capital" to get the papers published.  To this end, he invited Stratford to Salt Lake City to present his work to other church authorities hoping that senior leaders would see the urgent need to release the "position papers" when they were completed.
-
-    Stratford's Faith Crisis Report and presentation was described as playing
-    a "significant role" in getting the Gospel Topics Essays released publicly:
-
-    > Several general authorities communicated to Stratford that his work had pushed the "position papers" forward.[27]
-
-    > [27] An LDS general authority (whom we have chosen not to identify by name) also conveyed to Matthew Harris that Stratford played a significant role in getting the "Gospel Topics Essays" released.
-
-    Reluctance on the part of LDS authorities to release the essays publicly
-    is discussed in recent Harris and Bringhurst's Gospel Tangents interviews
-    ([part 1](https://www.youtube.com/watch?v=q9FmzCJVXw4) and [part
-    2](https://www.youtube.com/watch?v=hfHJxARWvy0)).
-
 * **2013**&nbsp; Gospel topics essays given a "soft rollout"
 
     In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
 
     > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”.  But yet we had a lot of people struggling with some of these issues. We were losing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
+
+    In a 2019 Gospel Tangents podcast, [Elder Snow responded to the question](https://www.youtube.com/watch?v=BS6hRBfYqHc&feature=youtu.be&t=240) of whether they were hiding the Gospel Topics Essays:
+
+    > [Rick Bennett]: There's been a lot of people that say it seems like the Church is kind of hiding these they don't publicize them very well.
+
+    > [Elder Steven Snow]: Well, that's very interesting.  You know the debate, just so I can give you a little context of what was happening was do you advertise and make a big deal about a website that you can go to to learn all of these, you know, everything weird you wanted to know about the LDS Church of Jesus Christ of Latter-day Saints you can go here?  Or should we just kind of quietly release them?  And the decision was made to kind of quietly put them out there so that they're accessible and then at a later date we could publicize them more if we wanted. ...
 
 * **2013**&nbsp; Steven Snow admits the past tendency to prevent access to information
 
@@ -167,13 +192,17 @@ However, the historical record supports several examples of when the Church or i
 
     The FP vault has held items such as the 1832 First Vision account and William Clayton's diaries, a person with book-keeping experience and Joseph Smith's recorder and scribe for most of the Nauvoo period.  LDS Scholars are sometimes granted access to material in the FP vault, and from publication citations [a list of some items in the vault](https://exploringmormonism.com/our-own-peek-into-the-first-presidency-vault/) can be assembled.
 
+* **present**&nbsp; Online text differs from audio without annotation
+
+    churchofjesuschrist.org alters or removes the text of a number of General Conference talks [without any annotation](https://www.sltrib.com/religion/2018/12/17/lds-conference-sermon/).  For instance, Ronald Poelman's original 1984 General Conference talk was re-recorded and replaced by a significantly altered talk (see side-by-side comparison [here](https://www.youtube.com/watch?v=6qIr30dtCvo))
+
 ## Discussion
 
-It seems evident from the above examples that the institution and leadership have failed in at least some ways to make relevant data accessible to others, and a general spirit of transparency is a more recent development.
+It seems evident from the above examples that the institution and leadership have failed in at least some ways to make relevant data accessible to others, and a spirit of greater transparency is a more recent development.
 
-At a broad-stroke level, perhaps the statements regarding transparency by Elder Ballard and Dr. Holbrook remain reasonable characterizations?  It could be argued that since this analysis did not uncover copious clear-cut examples of hiding that the general rule is one of transparency?  At the very least, we can argue that transparency has improved in many regards.  Recent efforts such as the [Joseph Smith Papers](https://www.josephsmithpapers.org/), the [publication of George Q. Cannon's journal](https://www.churchhistorianspress.org/news/chpress-publishes-george-q-cannon-journals?lang=eng), and the announcement that the Church [will publish the William Clayton diaries](https://juvenileinstructor.org/breaking-news-lds-church-to-publish-the-william-clayton-diaries/) point to a recent trend in openness to critical records.
+Recent efforts such as the [Joseph Smith Papers](https://www.josephsmithpapers.org/), the [publication of George Q. Cannon's journal](https://www.churchhistorianspress.org/news/chpress-publishes-george-q-cannon-journals?lang=eng), and the announcement that the Church [will publish the William Clayton diaries](https://juvenileinstructor.org/breaking-news-lds-church-to-publish-the-william-clayton-diaries/) point to a recent trend in openness to critical records.  And the announcement that the next Church handbook will be available to all [in its entirety](https://www.deseret.com/faith/2020/2/18/21142831/mormon-church-new-handbook-instructions-changes-latter-day-saints-lds) suggests greater administrative openness.[^still_lacking_transparency]
 
-However, it is difficult to acknowledge these recent strides in transparency without simultaneously appreciating past limitations and failures. Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush have documented a general attitude of data suppression among top LDS leadership in the past. And, in emphasizing recent efforts at openness, Steven Snow [acknowledged](https://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/): "in the past there was a tendency to keep a lot of the records closed or at least not give access to information."
+However, it is difficult to acknowledge these recent strides in transparency without simultaneously appreciating past limitations and failures.  For instance, the recent announcement that the entirety of the Church handbook [will be made available online](https://www.deseret.com/faith/2020/2/18/21142831/mormon-church-new-handbook-instructions-changes-latter-day-saints-lds) contrasts with past efforts (including law suits and copyright enforcement claims) to keep Church handbooks strictly private---even from most lay members---for roughly a century.  Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush have clearly documented a general attitude of data suppression among top LDS leadership in the past. And, in emphasizing recent efforts at openness, Steven Snow [acknowledged](https://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/): "in the past there was a tendency to keep a lot of the records closed or at least not give access to information."  And, as some of the examples above suggest, much of what has become transparent over the last century and even recently appears to have been catalyzed in response to outside efforts moreso than deriving, at least originally, from internal motivation.  These examples and admissions appear to run counter to Elder Ballard's and Dr. Holbrook's assessments.
 
 ### Motivation and consequences
 
@@ -215,7 +244,7 @@ Other remaining questions include:
 
 ## Acknowledgements
 
-The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.
+The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.  The author received valuable feedback on [a second draft](https://www.reddit.com/r/mormon/comments/jahrre/transparency_in_the_modern_lds_church/) from the mormon subreddit, especially ammonthenephite and MR-Singer.
 
 [^motivations_overlap]: Each of these motivations is not necessarily fully distinct from the others, and a given incident may invoke multiple motivations.
 
@@ -244,4 +273,8 @@ The author received valuable feedback on a first draft of this document from the
     > (pg 90) My husband is a convert and feels lied to as well as we were never told the true history of the church.
 
     > (pg 144) Life is complex and people are not perfect, but I was devastated to learn of the breadth and magnitude of historical problems the church hides.
+
+[^still_lacking_transparency]: Many aspects of the Church's current procedures and motivation still lack transparency.  For instance, financial information (total wealth, how money is used, whether donations are used in the manner marked), attendance and activity information, and information/reasoning about how decisions are made are not made clear to members or the public.
+
+    An example of financial transparency in a religious organization is the [financial disclosures](https://elca.org/About/Financial) of the Evangelical Lutheran Church in America.
 
