@@ -37,10 +37,12 @@ Part of this presentation focused on “user generated content” in the post-Mo
 
 ---
 
-Finally, please note that this project was pro-bono work (conducted without pay and without being commissioned by Church leadership).  These are NOT official LDS reports, internal or otherwise.
+### More context
 
-edit: Clarification about target audience and the non-official nature of the work.  Also, added the Initial Report section and included mention of John Dehlin as co-lead on the project.
+Please note that this project was pro-bono work (conducted without pay and without being commissioned by Church leadership).  These are NOT official LDS reports, internal or otherwise.
 
-edit2: Travis and Greg sent me an updated report which provides complete context for the genesis of the report, so I now link to that report and reference the pages that provide that context.
+A 2020 Gospel Tangents interview with Matt Harris and Newel Bringhurst, [part 1](https://www.youtube.com/watch?v=q9FmzCJVXw4) and [part 2](https://www.youtube.com/watch?v=hfHJxARWvy0), discuss the influence of this report and Travis Stratford's efforts in the public release of the Gospel Topics essays.
+
+edits: Clarification about target audience and the non-official nature of the work; Added the Initial Report section and included mention of John Dehlin as co-lead on the project.  Travis and Greg sent me an updated report which provides complete context for the genesis of the report, so I now link to that report and reference the pages that provide that context.
 
 Also posted to the [mormonscholar](https://www.reddit.com/r/mormonscholar/comments/9sgdvt/release_of_report_chronicles_and_presentation_on/) and [exmormon](https://www.reddit.com/r/exmormon/comments/9sgh3k/release_of_report_chronicles_and_presentation_on/) subreddits.

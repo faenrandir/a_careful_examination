@@ -83,12 +83,6 @@ However, the historical record supports several examples of when the Church or i
 
     The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of [Snow's statement on tithing]({{ "/ellipsis-in-lorenzo-snow-tithing-statement/" | relative_url }}).
 
-* **2012**&nbsp; Gospel topics essays given a "soft rollout"
-
-    In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
-
-    > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”. (Laughter from the audience) But yet we had a lot of people struggling with some of these issues. We were losing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
-
 * **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
     When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 account, [he was denied access]({{ "/1832-first-vision-account-suppressed/#why-not-an-earlier-dating" | relative_url }}).
@@ -108,6 +102,30 @@ However, the historical record supports several examples of when the Church or i
 * **2012**&nbsp; Holland misleads about temple oaths
 
     Elder Holland appears to have [attempted to mislead John Sweeney](https://www.youtube.com/watch?v=G9v2GxDs4To&feature=youtu.be&t=80) when Sweeney was asking about Romney and the temple oaths he would have sworn.  Jonathon Streeter [has analyzed this in depth](https://www.youtube.com/watch?v=lPVpUJj_gbs). [warning: discussion of the temple and oaths]
+
+* **2011**&nbsp; Gospel Topics Essays originally planned for internal use
+
+    Matt Harris and Newell Bringhurst, in the introduction to their book [The LDS Gospel Topics Series: A Scholarly Engagement](http://www.signaturebooks.com/product/the-lds-gospel-topics-series/), describe a 2011 meeting between Travis Stratford, Hans Mattsson, Greg Prince and Marlin Jensen, where Jensen:
+
+    > acknowledged that an "internal team" at LDS headquarters was already working on "position papers" to address concerns raised in the survey [Dehlin and Stratford's initial survey]. But he opined that the team did not have the "political capital" to get the papers published.  To this end, he invited Stratford to Salt Lake City to present his work to other church authorities hoping that senior leaders would see the urgent need to release the "position papers" when they were completed.
+
+    Stratford's Faith Crisis Report and presentation was described as playing
+    a "significant role" in getting the Gospel Topics Essays released publicly:
+
+    > Several general authorities communicated to Stratford that his work had pushed the "position papers" forward.[27]
+
+    > [27] An LDS general authority (whom we have chosen not to identify by name) also conveyed to Matthew Harris that Stratford played a significant role in getting the "Gospel Topics Essays" released.
+
+    Reluctance on the part of LDS authorities to release the essays publicly
+    is discussed in recent Harris and Bringhurst's Gospel Tangents interviews
+    ([part 1](https://www.youtube.com/watch?v=q9FmzCJVXw4) and [part
+    2](https://www.youtube.com/watch?v=hfHJxARWvy0)).
+
+* **2013**&nbsp; Gospel topics essays given a "soft rollout"
+
+    In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
+
+    > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”.  But yet we had a lot of people struggling with some of these issues. We were losing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
 
 * **2013**&nbsp; Steven Snow admits the past tendency to prevent access to information
 
