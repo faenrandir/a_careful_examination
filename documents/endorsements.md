@@ -78,13 +78,13 @@ NotTerriblyHelpful wrote:
 
 Fuzzy Thoughts [wrote](https://www.reddit.com/r/exmormon/comments/agb8u1/detailed_response_to_january_2019_devotional_with/):
 
-Credit to /u/bwv549 for creating a sizable amount of the content in those references!
+> Credit to /u/bwv549 for creating a sizable amount of the content in those references!
 
 #### Well organized and referenced
 
 Fuzzy Thoughts [wrote](https://www.reddit.com/r/exmormon/comments/ae7e4t/omg_read_this_if_you_have_any_doubt_left_that/ednzvkb/):
 
-I pretty much only send people material from his [bwv549's] site... it's so well organized and referenced.
+> I pretty much only send people material from his [bwv549's] site... it's so well organized and referenced.
 
 #### needs to be the new CES [Letter] we all hand out
 

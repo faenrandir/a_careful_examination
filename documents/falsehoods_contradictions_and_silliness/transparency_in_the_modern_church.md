@@ -29,13 +29,13 @@ The following examples demonstrate or indicate some level of transparency failur
 
     Significant issues with Book of Mormon historicity were [made known to all of the LDS leadership in 1922](https://scholarworks.unr.edu/handle/11714/6712).[^montez]  B.H. Roberts cataloged and explored these issues in [a series of long essays](https://en.wikipedia.org/wiki/Studies_of_the_Book_of_Mormon).  Arguably, LDS leadership could have published or made these studies more widely available.
 
-* **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account was suppressed
+* **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account suppressed
 
     The 1832 First Vision account appears to have been [suppressed between 11 and ~30 years]({{ "/1832-first-vision-account-suppressed/" | relative_url }}).
 
 * **1966**&nbsp; The Tanners first to publish copies of the Kirtland Egyptian Papers
 
-    [According to the Tanners](https://en.wikipedia.org/w/index.php?title=Kirtland_Egyptian_papers&oldid=975943367#Publication), Church Historians were aware of the documents since 1908 but denied their existence until 1935 when James R. Clark and Sidney B. Sperry were informed they were in the vault.  Even then, according to the Tanners, Clark and Sperry were not permitted to inform the public until some time after.  The Tanners "obtained an unauthorized copy of a microfilm strip" and [published](http://www.utlm.org/booklist/titles/josephsmithegyptianpapers_ub010.htm) the documents [in 1966](http://www.utlm.org/newsletters/no100.htm).  In a [1971 BYU Studies article](https://scholarsarchive.byu.edu/byusq/vol11/iss4/5/), Nibley criticized the Tanners publication in part because they were incomplete---his publication included 10 additional (?) pages.  All documents relating to the creation of the Book of Abraham would be released in full in 2018 as part of the Joseph Smith Papers.
+    [According to the Tanners](https://en.wikipedia.org/w/index.php?title=Kirtland_Egyptian_papers&oldid=975943367#Publication), Church Historians were aware of the documents since 1908 but denied their existence until 1935 when James R. Clark and Sidney B. Sperry were informed they were in the vault.  Even then, according to the Tanners, Clark and Sperry were not permitted to inform the public until some time after.  The Tanners "obtained an unauthorized copy of a microfilm strip" and [published](http://www.utlm.org/booklist/titles/josephsmithegyptianpapers_ub010.htm) the documents [in 1966](http://www.utlm.org/newsletters/no100.htm).  In a [1971 BYU Studies article](https://scholarsarchive.byu.edu/byusq/vol11/iss4/5/), Nibley criticized the Tanners publication in part because they were incomplete---his publication included 10 additional (?) pages.  All documents relating to the creation of the Book of Abraham would be [released in full](https://www.josephsmithpapers.org/site/book-of-abraham-and-egyptian-material) in 2018 as part of the Joseph Smith Papers.
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
@@ -49,7 +49,7 @@ The following examples demonstrate or indicate some level of transparency failur
     
 * **~1973**&nbsp; Publication of Lester Bush's research on the Priesthood Ban discouraged
 
-    Lester Bush [has described the attitude of LDS leadership]({{ "/lester-bush-research-on-priesthood-ban-discouraged/" | relative_url }}) related to his research and publication of Mormonism's Negro Doctrine:
+    Lester Bush [has described the attitude of LDS leadership]({{ "/lester-bush-research-on-priesthood-ban-discouraged/" | relative_url }}) related to his research and publication of [Mormonism's Negro Doctrine](https://www.jstor.org/stable/45226775?seq=1#metadata_info_tab_contents):
 
     * "the Church didn’t want every 'Tom, Dick, or Harry' looking through its records" [or even those with temple recommends]
     * The vast collection of Manuscript History was off limits to Bush
@@ -69,7 +69,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **1984**&nbsp; Speaking bans to limit the influence of "Mormon Enigma"
 
-    Believing scholars Valeen Tippetts Avery and Linda King Newell published Mormon Enigma in 1984.  It won several Mormon history awards (including a BYU sponsored award).  Inquiries about Church sanction of the book prompted LDS leadership to ban Avery and Newell from speaking about Church history generally in LDS meetings.  When they finally were able to meet with the Apostles responsible for the ban, Newell noted their motivation.  As conveyed in [this Dialogue article](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf):
+    Believing scholars Valeen Tippetts Avery and Linda King Newell published Mormon Enigma [in 1984](https://www.worldcat.org/title/mormon-enigma-emma-hale-smith-prophets-wife-elect-lady-polygamys-foe-1804-1879/oclc/10376019).  It won several Mormon history awards (including a BYU sponsored award).  Inquiries about Church sanction of the book prompted LDS leadership to ban Avery and Newell from speaking about Church history generally in LDS meetings.  When they finally were able to meet with the Apostles responsible for the ban, Newell noted their motivation.  As conveyed in [this Dialogue article](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf):
 
     > [Dallin] Oaks explained the decision to order the ban included the fact that "your book represents a non-traditional view of Joseph Smith" and thus may damage the faith of church members who read it. Linda explained that the letters and calls she had received from readers described a positive reaction. Oaks acknowledged that possibility yet maintained that he believed "the weight of the evidence was on the other side."  Jack [Linda's husband] countered that the issue was whether or not the book was an honest and true portrayal of the facts, readers reactions being incidental. When Linda asked whether the two apostles had read the book, [Neil] Maxwell did not answer and Oaks admitted he had only read portions of it, citing time constraints as the reason. He acknowledged that in what he had read, Linda and Avery had used restraint when discussing aspects of Joseph Smith's life and his relationship with Emma. Apparently, however, it was not enough. After more discussion, Oaks emphasized that, despite his academic background and reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to "protect what is most unique about the LDS church" and stressed that "if Mormon Enigma reveals information that is detrimental to the reputation of Joseph Smith, then it is necessary to try to limit its influence and that of its authors."
 
@@ -253,7 +253,7 @@ Other remaining questions include:
 
 ## Acknowledgements
 
-The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.  The author received valuable feedback on [a second draft](https://www.reddit.com/r/mormon/comments/jahrre/transparency_in_the_modern_lds_church/) from the mormon subreddit, especially ammonthenephite and MR-Singer.
+The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.  The author received valuable feedback on [a second draft](https://www.reddit.com/r/mormon/comments/jahrre/transparency_in_the_modern_lds_church/) from the mormon subreddit, especially ammonthenephite, MR-Singer, and frogontrombone.
 
 [^motivations_overlap]: Each of these motivations is not necessarily fully distinct from the others, and a given incident may invoke multiple motivations.
 
