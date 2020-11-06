@@ -10,14 +10,14 @@ Many believing members are supportive of those who decide to leave the LDS Churc
 
 ### Supported her
 
-https://www.reddit.com/r/exmormon/comments/6fjg3i/just_came_clean_to_my_first_tbm_friend_and_it/
+From [here](https://www.reddit.com/r/exmormon/comments/6fjg3i/just_came_clean_to_my_first_tbm_friend_and_it/):
 
 > Her parents attended the same student ward as my parents when they all went to ucla together. We've known each other since birth and I've been hella afraid at how a tbm would react - especially that tbm. She said she supported me, doesn't understand the churches policy on 'ssa' (I'm gay) and would be there as I go through the process of ending my mission early. It turns out better than you'd think :')
 > Edit: she just competed her mission on temple square and is preparing to be married in the temple!
 
 ### Thank you so much for being kind, good, honest, caring people. Thank you for never abandoning me
 
-https://www.reddit.com/r/exmormon/comments/76zcb3/after_reading_so_many_stories_herei_have/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi
+From [here](https://www.reddit.com/r/exmormon/comments/76zcb3/after_reading_so_many_stories_herei_have/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi):
 
 > I will say this, in person, to my family when I next see them, but I just want to get this off my chest semi-anonymously as well. I am so grateful for a family that loved me when I quit the church (at a young age as well). I'm grateful, that I can talk to my father about religion, politics, and life, and we both walk away happy and having learned something from the other. I'm so grateful that some of the adult Mormons from my childhood ward still smile and say hi if they see me and they don't seem to ever judge me. I'm grateful that although it was a hard transition for immediate and extended family, and sometimes they made mistakes and said hurtful things, that I was still never shunned or unwelcome.  I always knew I was loved and welcome, despite my choices.  I'm grateful that my family stood by me through the worst of my assholeishness toward them and their religion.  They still just loved me.  Oh we fought...especially as both family members and I had maturing and growing to do. But I never felt unloved.
 
@@ -31,16 +31,20 @@ https://www.reddit.com/r/exmormon/comments/76zcb3/after_reading_so_many_stories_
 
 ### TracingWoodgrains --- Unhesitatingtly supportive reactions
 
-https://www.reddit.com/r/exmormon/comments/79vn12/update_my_family_and_friends_didnt_reject_me_when/
+See [here](https://www.reddit.com/r/exmormon/comments/79vn12/update_my_family_and_friends_didnt_reject_me_when/)
 
-https://imgur.com/a/VLIxR
+And [example](https://imgur.com/a/VLIxR)
 
 ###  Really nice email back from ... ward member
 
-https://www.reddit.com/r/exmormon/comments/b5eohl/update_really_nice_email_back_from_tbm_ward_member/
+See [here](https://www.reddit.com/r/exmormon/comments/b5eohl/update_really_nice_email_back_from_tbm_ward_member/)
 
 ### Family supportive
 
-https://www.reddit.com/r/exmormon/comments/eeo07a/my_supportive_and_understanding_tbm_family_and_my/
+From [here](https://www.reddit.com/r/exmormon/comments/eeo07a/my_supportive_and_understanding_tbm_family_and_my/):
 
 > When I walked away from the church my family was supportive and understanding, largely due to my sister leaving before me and my parents just understanding the gospel of love. ...
+
+### Every ... person in my life [except family] responded positively to me.
+
+See [here](https://www.reddit.com/r/exmormon/comments/jpd73u/i_came_out_as_a_nonbeliever_on_social_media/)
