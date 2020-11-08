@@ -41,7 +41,7 @@ The book of Mark [ends with these verses](https://www.lds.org/scriptures/nt/mark
 
 ### The problem
 
-The appearance of these verses in the Book of Mormon is problematic because the scholarly consensus based on the evidence is that these versus were part of a later addition to the end of the book of Mark.  This later addition (of which verses 15–18 are a part):
+The appearance of these verses in the Book of Mormon is problematic because the scholarly consensus based on the textual evidence is that these versus were part of a later addition to the end of the book of Mark.  This later addition (of which verses 15–18 are a part):
 
 1. **Is not in the earliest and best manuscripts.**
 
@@ -77,9 +77,26 @@ The appearance of these verses in the Book of Mormon is problematic because the 
 
 James Tabor color-codes the end of Mark to demonstrate where the author of the forged ending [pulled material](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/) (i.e., from Matthew, Luke, and John) and where they likely provided original material.
 
+### Arguments for authenticity
+
+There are some who defend the longer ending to one degree or another.  Latter-day Saint scholars have pointed these out:
+
+* [Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon)
+* The Book of Mormon Versus the Consensus of Scholars: Surprises from the Disputed Longer Ending of Mark [Part 1](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-1/), [Part 2](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-2/) (Jeff Lindsay)
+
+And Dr. Dave Miller has defended the original ending in his essay [Is Mark 16:9–20 Inspired?](http://apologeticspress.org/apcontent.aspx?category=13&article=704).
+
+Scholars have responded to some of the critiques favoring the authenticity of the original ending:
+
+* [The "Original" Ending of Mark?](https://larryhurtado.wordpress.com/2016/07/02/the-original-ending-of-mark/) (Larry Hurtado)
+* Comments on /r/AcademicBiblical from [pseudorhetorician](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxu9e2t/) and quotations of [Metzger](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxwujr8/) and [N.T. Wright](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxubhhv/)
+* [Bruce Metzger on the shorter ending of Mark](http://www.pentecostaltheology.com/bruce-metzger-on-the-shorter-ending-of-mark/) (followed by an opposing perspective by F.H.A. Scrivener)
+
 ### Conclusion
 
-Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that most scholars believe is a later addition to the book of Mark.  By itself, such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance ([like with deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)) or perhaps the later addition was _somehow_ reflective of words Jesus actually spoke in the New World.[^mormondialogue]  Regardless, the quotation is problematic, especially viewed in light of [the massive number of parallels to writing from the early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), generally.  The author's usage of these verses from the New Testament is highly consistent with the modern origin model (i.e., the Book of Mormon was authored by a mind(s) from the early 1800s) and in some tension with the ancient origin model.
+Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that most scholars believe is a later addition to the book of Mark.  If the original ending of Mark is indeed spurious, then such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance ([like with deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)) or perhaps the later addition was _somehow_ reflective of words Jesus actually spoke in the New World.[^mormondialogue]  Regardless, a dubious ending would add some weight to the modern origin model of the Book of Mormon and somewhat undermine the modern model.  However, given that there is some disagreement among scholars on the authenticity of the ending of Mark though, conclusions based on this scholarship alone should probably be considered tentative.
+
+[the massive number of parallels to writing from the early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), generally.  The author's usage of these verses from the New Testament is highly consistent with the modern origin model (i.e., the Book of Mormon was authored by a mind(s) from the early 1800s) and in some tension with the ancient origin model.
 
 ### References:
 
@@ -91,27 +108,16 @@ Moroni states that Jesus spoke to the disciples in the New World using the exact
 6. [The “Strange” Ending of the Gospel of Mark and Why It Makes All the Difference](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/)
 6. Heard through [this comment](https://www.reddit.com/r/exmormon/comments/721659/convince_me/dnfvwjy/).
 
-## Appendix
+### See also
 
-### In support of the long ending
-
-There are some who defend the longer ending to one degree or another.  Latter-day Saint scholars have pointed these out:
-
-* [Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon)
-* The Book of Mormon Versus the Consensus of Scholars: Surprises from the Disputed Longer Ending of Mark [Part 1](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-1/), [Part 2](https://journal.interpreterfoundation.org/the-book-of-mormon-versus-the-consensus-of-scholars-surprises-from-the-disputed-longer-ending-of-mark-part-2/) (Jeff Lindsay)
-
-### Against the long ending
-
-Even with the defenses raised above, the scholarly consensus still remains that the long ending is of dubious origin:
-
-* [The "Original" Ending of Mark?](https://larryhurtado.wordpress.com/2016/07/02/the-original-ending-of-mark/) (Larry Hurtado)
-* Comments on /r/AcademicBiblical from [pseudorhetorician](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxu9e2t/) and quotations of [Metzger](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxwujr8/) and [N.T. Wright](https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxubhhv/)
-* [Bruce Metzger on the shorter ending of Mark](http://www.pentecostaltheology.com/bruce-metzger-on-the-shorter-ending-of-mark/) (followed by an opposing perspective by F.H.A. Scrivener)
+[Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
 ### Acknowledgements
 
-Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.
-
+Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.  David
+Miller's essay was brought to my attention through [an article by Conflict of
+Justice](http://www.conflictofjustice.com/book-of-mormon-addition-mark-16/) on
+the long ending of Mark and the Book of Mormon.
 
 
 [^blumell]: In general, see section "11. Mark 16:9–20 KJV" in [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5) by BYU religion professor [Lincoln Blumell](https://religion.byu.edu/lincoln_blumell).
