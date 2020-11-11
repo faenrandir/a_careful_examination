@@ -1,5 +1,5 @@
 ---
-title: "Failed second coming predictions in early LDS Church"
+title: "Second coming expectations in the early LDS Church"
 permalink: /failed-second-coming-predictions-in-early-lds-church/
 doctype: compilation
 layout: page
