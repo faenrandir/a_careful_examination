@@ -33,7 +33,7 @@ However, while a lost or wayward "former member" or "less-active" is not typical
 
 ### Flee from false teachers and false prophets
 
-M. Russell Ballard taught that [false prophets and false teachers are those who](https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng) (with minor wording changes to make a list): 
+M. Russell Ballard taught in General Conference that [false prophets and false teachers are those who](https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng) (with minor wording changes to make a list): 
 
 1. Declare that the Prophet Joseph Smith was a duplicitous deceiver
 2. Challenge the First Vision as an authentic experience
@@ -56,7 +56,7 @@ He goes on to warn:
 
 ### Shun faith-killers
 
-In his 1981 talk [Opposition to the Work of God](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng), Carlos E. Asay instructed members[^taughtinmanuals]:
+In his 1981 General Conference talk [Opposition to the Work of God](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng), Carlos E. Asay instructed members[^taughtinmanuals]:
 
 > Avoid those who would teardown your faith. **Faith-killers are to be shunned**. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit. (emphasis added)
 

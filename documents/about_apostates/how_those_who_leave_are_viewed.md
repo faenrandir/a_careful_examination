@@ -457,9 +457,11 @@ Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.
 
 Seventh [temple recommend question](http://lds4u.com/lesson5/templequestions.htm)
 
+---
+
 ## Examples of how people are treated who leave the Church
 
-Directly or implied, these indicate how members view leaving the Church or those who have left the Church.
+Those who leave the Church are met with different attitudes and responses from believing members.  Sometimes they are met with love and acceptance (see [these examples](https://faenrandir.github.io/a_careful_examination/faith-transition-stories-of-acceptance/)).  Others are met with less acceptance, and some examples follow.
 
 *According to some believing members, individuals who leave the LDS Church...*
 
