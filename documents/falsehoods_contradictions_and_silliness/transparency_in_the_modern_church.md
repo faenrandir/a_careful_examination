@@ -121,7 +121,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
-    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 account, [he was denied access]({{ "/1832-first-vision-account-suppressed/#why-not-an-earlier-dating" | relative_url }}).
+    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 First Vision account, [he was denied access]({{ "/1832-first-vision-account-suppressed/#why-not-an-earlier-dating" | relative_url }}).
 
 * **2012**&nbsp; Wickman portrays prop 8 efforts in California as primarily a grassroots effort
 
