@@ -19,6 +19,7 @@ Members of the Church will often claim that they know they are blessed (financia
     For instance, my net earnings in the few years since I *stopped* paying tithing (after my faith transition---we always paid a full tithe as believing members) significantly exceed all my previous earnings.  I don't attribute this to *stopping* the payment of tithing, just that it is natural for earning potential to increase during a lifetime up to a certain age.
 
     Here are just a few of the hundreds of "I did *not* pay tithing and was blessed" anecdotes from former members:
+    * [Stopped paying tithing six years ago](https://www.reddit.com/r/mormon/comments/juqsig/i_stopped_paying_tithing_to_the_church_about_six/)
     * [My nontithing miracle](https://www.reddit.com/r/exmormon/comments/hf66x6/my_nontithing_miracle/)
     * [A year since my last tithing payment](https://www.reddit.com/r/exmormon/comments/fgozkx/a_year_since_my_last_tithing_payment_and_i_still/)
     * [Tithing anti-testimony](https://www.reddit.com/r/exmormon/comments/gpjzjm/tithing_antitestimony/)
