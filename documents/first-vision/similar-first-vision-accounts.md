@@ -30,7 +30,7 @@ The following accounts are listed by publication year:
 
 * **1823** &nbsp; Asa Wild claimed to have a revelation that was published on October 22, 1823.
 
-    > It seemed as if my mind … was struck motionless, as well as into nothing, before the awful and glorious majesty of the Great Jehovah. He then spake … He also told me, that every denomination of professing Christians had become extremely corrupt;[^asa_wild]
+    > It seemed as if my mind … was struck motionless, as well as into nothing, before the awful and glorious majesty of the Great Jehovah. He then spake … He also told me, that every denomination of professing Christians had become extremely corrupt;
 
     As quoted in [The "Prognostication" of Asa Wild](https://scholarsarchive.byu.edu/byusq/vol37/iss3/13), BYU Studies Quarterly: 37:3
 
@@ -56,4 +56,4 @@ The following accounts are listed by publication year:
 
 ## See also
 
-[Joseph's first vision accounts]({ "/links-first-vision-accounts/" | relative_url }})
+[Joseph's first vision accounts]({{ "/links-first-vision-accounts/" | relative_url }})
