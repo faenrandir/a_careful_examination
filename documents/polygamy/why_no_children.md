@@ -38,7 +38,7 @@ layout: page
     Genetic tests have been confirmed to rule out paternity for the seven most
     likely candidates.
 
-    The Deseret News summarized Ugo Perego's presentation:
+    The Deseret News [summarized Ugo Perego's presentation](https://www.deseret.com/2016/6/13/20590178/joseph-smith-apparently-was-not-josephine-lyon-s-father-mormon-history-association-speaker-says):
 
     > In the past, seven sons (Orrison Smith, Moroni Pratt, Zebulon Jacobs, Mosiah Hancock, Oliver Buell, John Hancock and Don Alonzo Smith) were ascribed to Joseph Smith through polygamous unions. Negative findings resulted after DNA testing was employed to reconstruct Joseph Smith’s male Y chromosome signature and to compare it to the Y chromosome of male descendants of the alleged sons.
 
