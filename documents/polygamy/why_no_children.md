@@ -6,31 +6,6 @@ doctype: short-analysis
 layout: page
 ---
 
-1. All of the various possible descendants have not been tested for paternity yet.
-
-    Ugo Perego [stated](https://www.deseretnews.com/article/695226318/DNA-tests-rule-out-2-as-Smith-descendants.html):
-
-    > Perego said that brings to five the number of people that some believed were Smith descendants whose paternal DNA does not match up with his. To date, **at least seven other early Latter-day Saints have been identified in various historical documents or in later writings as potential Smith offspring**, he said.
-
-    Hales assembled a list of potential progeny and those who have been tested for paternity: [Allegations of Joseph's Paternity](http://josephsmithspolygamy.org/wordpress/wp-content/uploads/2016/06/Possible-Children-chart.jpg).  Although Hales discounts the possibility that Joseph was father in most of these, they have not yet been eliminated with genetic testing.
-
-    In fact, Don Bradley recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) and is currently doing Y-chromosomal testing to confirm or falsify his hypothesis.
-
-1. Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him.
-
-    See Hale's LDS apologetic/scholarly perspective [here](http://mormonpolygamydocuments.org/abortions/).
-
-    So, good evidence supports the fact that Bennett was practicing abortion and that he could cover up a trail of philandery using it.  Sarah Pratt claimed Bennett practiced abortion on some of Joseph Smith's plural wives, but most LDS scholars discount her testimony due to possible exaggeration and inconsistencies in it.
-    
-    LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, the fact that he was sealed to a 7 month pregnant woman strongly suggests that raising up seed was not a huge practical concern for Joseph.
-
-    Finally, it is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/).
-
-1. Various birth control methods, including withdrawal, may have been used.
-
-    * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
-    * A variety of birth control methods [were being published in the early 1800s](http://artsci.case.edu/dittrick/online-exhibits/history-of-birth-control/contraception-in-america-1800-1900/early-literature/), including withdrawal.
-
 1. Joseph was likely not having much sex with his plural wives in comparison to Emma.
 
     * Some of his wives were kicked out of his home by Emma (Fanny Alger, Eliza Partridge, Emily Partridge) thus likely terminating any potential sexual relationships with these women.
@@ -42,6 +17,34 @@ layout: page
         Brian Hales [wrote](http://josephsmithspolygamy.org/common-questions/plural-marriages-sexual/):
 
         > An important consideration is the phenomenon of diminishing returns. After a certain point, the addition of new plural wives did not necessarily increase Joseph’s opportunity for additional sexual encounters with each plural wife. **Such a dynamic would, inevitably, have curtailed chances for conception on the part of his plural wives.**
+
+1. Various birth control methods, including withdrawal, may have been used.
+
+    * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
+    * A variety of birth control methods [were being published in the early 1800s](http://artsci.case.edu/dittrick/online-exhibits/history-of-birth-control/contraception-in-america-1800-1900/early-literature/), including withdrawal.
+
+1. Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him.
+
+    See Hale's LDS apologetic/scholarly perspective [here](http://mormonpolygamydocuments.org/abortions/).
+
+    So, good evidence supports the fact that Bennett was practicing abortion and that he could cover up a trail of philandery using it.  Sarah Pratt claimed Bennett practiced abortion on some of Joseph Smith's plural wives, but most LDS scholars discount her testimony due to possible exaggeration and inconsistencies in it.
+    
+    LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, the fact that he was sealed to a 7 month pregnant woman strongly suggests that raising up seed was not a huge practical concern for Joseph.
+
+    Finally, it is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/).
+
+1. All of the various possible descendants have not yet been tested for paternity yet.
+
+    Genetic tests have been confirmed to rule out paternity for the seven most
+    likely candidates.
+
+    The Deseret News summarized Ugo Perego's presentation:
+
+    > In the past, seven sons (Orrison Smith, Moroni Pratt, Zebulon Jacobs, Mosiah Hancock, Oliver Buell, John Hancock and Don Alonzo Smith) were ascribed to Joseph Smith through polygamous unions. Negative findings resulted after DNA testing was employed to reconstruct Joseph Smith’s male Y chromosome signature and to compare it to the Y chromosome of male descendants of the alleged sons.
+
+    However, Hales assembled a list of potential progeny [Allegations of Joseph's Paternity](http://josephsmithspolygamy.org/wordpress/wp-content/uploads/2016/06/Possible-Children-chart.jpg), and [a 2007 article](https://www.deseret.com/2007/11/10/20052616/dna-tests-rule-out-2-as-smith-descendants), also summarizing Perego's work, states that "approximately 12 people [were] alleged to have been Smith's children."
+
+    In fact, Don Bradley recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) and is currently doing Y-chromosomal testing to confirm or falsify his hypothesis.
 
 1. For the polyandrous unions, Joseph may have been competing for fertilization with an existing married partner
 
