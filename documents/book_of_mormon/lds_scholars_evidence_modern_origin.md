@@ -43,7 +43,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
     > ... others [of the early Christian fathers] seem not to have known about them [Mark 16:9–20] or were unsure of their authenticity ...
 
-    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using [the exact verbiage from a section of Mark that is almost certainly a later addition]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) to the book of Mark.
+    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that is thought by most Bible scholars today [to be a later addition]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) to the book of Mark.
 
 1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith [was influenced by Adam Clarke's famous commentary on the Bible](http://jur.byu.edu/?p=21296) in production of the JST.
 
