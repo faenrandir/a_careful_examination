@@ -11,11 +11,9 @@ These are primary resources on the Black Priesthood/Temple ban.
 
 ## The 1949 First Presidency Statement
 
-A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) reads:
+Beginning in 1949, the First Presidency answered inquiries with [this statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements)[^fp1949]:
 
 > The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
-
-*Note: In July 2020 I spoke with a Church historian about the 1949 statement.  They are currently researching it, but tentatively he suggested (as I understood it) the statement was used as an official response to *inquiries*, but it was never issued publicly (so, I would say "official" but not public).  The statement was excluded from James R. Clark's set of First Presidency statements, possibly at the request of Joseph Fielding Smith or perhaps because it was not issued publicly.  See [here](https://www.reddit.com/r/mormonscholar/comments/8nlncf/perhaps_the_main_reason_the_1949_first_presidency/).
 
 ## The 1969 First Presidency Letter
 
@@ -51,3 +49,8 @@ Additional historical context for the letters: ["Do Not Lecture the Brethren": S
 # Insightful Commentary
 
 [Race and the Priesthood Essay - Footnote 9](https://drive.google.com/file/d/1uGbG1kvsluwiKvqrkQP7h7RocsrWC4cb/view) (Fuzzy_Thoughts)
+
+
+[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
+
+    > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.

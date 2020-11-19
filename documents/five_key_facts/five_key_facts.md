@@ -47,7 +47,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 
-A [1949 First Presidency statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements) declared[^fp1949]:
+Beginning in 1949, the First Presidency answered inquiries with [this statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements)[^fp1949]:
 
 > The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
 
@@ -93,9 +93,6 @@ See [Problem Summaries: resources discussing LDS-truth claims]({{ "/truth-claim-
 
 [^undueinfluence]: See [The Belmont Report on Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) for a discussion of what typically constitutes "undue influence."
 
-[^fp1949]: For documentation on the promulgation of the 1949 First Presidency letter, see PhD dissertation by Douglas Marty Trank, "A Rhetorical Analysis of the Rhetoric Emerging from the Mormon - Black Controversy" (August 1973), p.110-111:
+[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
 
-    The First Presidency of the LDS Church set forth the position of the Church in a statement in August of 1949. The same statement was re-issued in 1951 after the accession of David O. McKay as President. After the surge of interest in civil rights in the 1960's, the Church issued a modified and expanded statement on December 15, 1969. This statement is presently the only official statement of the position of the Church with regard to the Negro. [21]
-
-    [21] Interview with Henry Smith, spokesman for the LDS Church Offices, Salt Lake City, July 13, 1972.
-    [22] The statement issued in 1949 and again in 1951 was issued prior to any serious criticism of the Negro policy of the Church and is assumed to have been directed primarily for instruction within the Church.
+    > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.
