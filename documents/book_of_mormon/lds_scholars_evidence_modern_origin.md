@@ -63,7 +63,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
     > there are numerous issues which show that the Book of Mormon is concerned with what the Protestants dealt with and argued over during the 1500s and 1600s
 
-    And Skousen now concedes that the process "involve[d] considerable intervention by the translator" (emphasis added):
+    And Skousen [now concedes]({{ "/skousen-literal-translation-of-the-plates/" | relative_url }}) that the process "involve[d] considerable intervention by the translator" (emphasis added):
 
     > *Is the Book of Mormon English translation a literal translation of what was on the plates?* It appears once more that the answer is no. The blending in of specific King James phraseology, from the New Testament as well as the Old Testament, tells us otherwise. The Book of Mormon is **a creative translation that involves considerable intervention by the translator** (or shall we say translators, since we’re in a speculative mood). There is **also evidence that the Book of Mormon is a cultural translation**. Consider, for instance, the interesting case of the anachronistic use in the Book of Mormon of the noun bar, which consistently refers to the bar of judgment that we will stand in front of (and hold on to) on the day of judgment. The judgment bar is not a biblical or ancient term, but instead dates from medieval times.
 
