@@ -10,7 +10,7 @@ layout: page
 
 Skousen argues that the concerns for the Book of Mormon are more resonant with older Protestant concerns than with debates happening in Joseph Smith's day.[^whynotmodern]  Nonetheless, these are evidence for a modern origin rather than an ancient one since the implied context necessary to have such naunced discussions can be considered anachronistic for any ancient peoples including Native Americans.
 
-Below is an excerpt from [The Language of the Original Text of the Book of Mormon](https://byustudies.byu.edu/content/language-original-text-book-mormon), BYU Studies 57:3, 2018, by Royal Skousen:
+Below is an excerpt from [The Language of the Original Text of the Book of Mormon](https://web.archive.org/web/20201111225433/https://byustudies.byu.edu/content/language-original-text-book-mormon), BYU Studies 57:3, 2018, by Royal Skousen:
 
 ---
 
