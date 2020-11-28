@@ -250,6 +250,7 @@ Other remaining questions include:
 * [On Being a Mormon Historian (and Its Aftermath)](http://signaturebookslibrary.org/on-being-a-mormon-historian/) (D. Michael Quinn)
 * Fact-Checking Mormon History: [Did the Church Lie about its Past](https://medium.com/@jellistx/fact-checking-mormon-history-did-the-church-lie-about-its-past-92e7beacb9be) and [The Brethren Didn’t Know Enough to Teach Accurate History](https://medium.com/@jellistx/fact-checking-mormon-history-the-brethren-didnt-know-enough-to-teach-accurate-history-88061781e6b6) (Jonathan Ellis)
 * [The LDS Intellectual Community and Church Leadership: A Contemporary Chronology](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N01_23.pdf) (Lavina Fielding Anderson)
+* [Gaddy vs. Corporation of the President of the Church of Jesus Christ of Latter-day Saints](https://web.archive.org/web/20201128233229/https://clients.kayburningham.com/class/Gaddy_Amended_Complaint.pdf) (amended class action complaint)
 
 ## Acknowledgements
 
