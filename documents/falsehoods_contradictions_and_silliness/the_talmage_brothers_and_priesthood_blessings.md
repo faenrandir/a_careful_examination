@@ -21,6 +21,6 @@ From [Faith to Heal and to Be Healed: Insights Drawn from Inspirational Accounts
 
 ---
 
-From ["To Whom Shall We Go?" Historical Patterns of Restoration Believers with Serious Doubts](https://www.sunstonemagazine.com/pdf/137-26-37.pdf), pg 30, right column:
+From ["To Whom Shall We Go?" Historical Patterns of Restoration Believers with Serious Doubts](https://web.archive.org/web/20180909021738/https://www.sunstonemagazine.com/pdf/137-26-37.pdf), pg 30, right column:
 
 > When he was eleven years old, James E. Talmage accidentally blinded his younger brother Albert with a pitchfork.  At age thirty-one, while writing the first draft of _The Articles of Faith_, James asked members of the First Presidency and Twelve to administer to his brother. They inquired if he had the faith to be healed after twenty years of blindness, and Albert said, “Yes.” In the priesthood ordinance of healing, they promised him a complete restoration of his sight. James recorded his equally unconditional expectation for the fulfillment of this apostolic blessing. Days passed, then weeks, then months, and Albert remained blind. Years passed, and Albert received equally emphatic promises of restored sight from other apostles and prophets. He remained blind the rest of his life. Did either brother experience religious doubts as a consequence?  The diaries of James E. Talmage do not say so specifically, but they do indicate his own bewilderment and ultimate resignation about the non-fulfillment of priesthood blessings given and received in absolute faith.
