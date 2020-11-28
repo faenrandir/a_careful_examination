@@ -1,5 +1,5 @@
 ---
-title: "Two models for the genesis of the Book of Mormon"
+title: "Models for the creation of the Book of Mormon"
 permalink: /two-models-for-bom-origins/
 maintopic: book-of-mormon
 doctype: short-summary
@@ -10,8 +10,18 @@ layout: page
 
 The modern origin model suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:
 
-* Joseph Smith was primarily responsible for the creation of the text ([explanation and sources]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }})). Most non-LDS historians seem to have adopted this basic model including Fawn Brodie, [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe,[^metcalfejsci] and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/)).
-* Some other group of people were responsible.  [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.  [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.  Joseph may have helped or played a role in dictation (see, for instance, [the hat theory]({{ "/hidden-material-in-hat-hypothesis/" | relative_url }})), but others were primarily responsible for the content.
+#### Oral composition by Joseph Smith
+
+This model holds that Joseph Smith was primarily responsible for the creation of the text ([explanation and sources]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }})). Most modern non-LDS historians seem to have adopted this basic model including Fawn Brodie, [William Davis](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/), [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe, and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/).
+
+#### Other small groups authored it
+
+These models suggest that some other group of people were responsible:
+
+* [D. Pawl Trebas](https://www.youtube.com/watch?v=wf3MluItWQE) points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.
+* [Craig Criddle](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) and [Robert Hancock](https://www.youtube.com/watch?v=fC4u6lOQONs&list=PL09606347D9096CB6) point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.
+
+These theories are not advanced by prominent non-LDS historians that I am aware.
 
 ### Ancient Origin Model
 

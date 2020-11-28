@@ -15,7 +15,9 @@ Although some responses were made to his conference address, very partial respon
 
 Callister's devotional is quoted in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  Callister's headings are duplicated below to help orient the reader.
 
-To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).  
+To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).
+
+Virtually all modern non-LDS scholars seem to view the [oral composition model]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }}) as most likely, but [other models exist]({{ "/two-models-for-bom-origins/" | relative_url }}) and will occasionally be referenced.
 
 ## The Book of Mormon is the Keystone of our Religion ("Keystone")
 
@@ -119,7 +121,7 @@ If Rigdon were co-conspiring with Joseph, how would his daughter know what manus
 
 This statement must be balanced by the fact that [Ridgon instructed his wife to burn all of his writings upon his death](http://www.mormonthink.com/mormonstudiesrigdon.htm#34).  If Rigdon had nothing to hide, then why have his writings all burned?  Also, a co-conspirator stands to lose much by admitting to being part of a significant conspiracy, even on their death-bed (we are creatures who seek meaning, so admitting to a lie on one's deathbed may be seen as undermining the very meaning behind one's life).
 
-In any case, Rigdon is not an essential component of several other modern origin theories, so even if he were definitively shown to have not been part of the creation of the Book of Mormon, that still would not undermine the modern origin theory, generally.
+In any case, Rigdon is not an essential component of the model defended by most non-LDS scholars (Joseph composed the book orally), so even if he were definitively shown to have not been part of the creation of the Book of Mormon, that still would not undermine the modern origin theory, generally.
 
 ## Argument 3: The Book Of Mormon Was Plagiarized From Other Books
 
@@ -183,17 +185,13 @@ The implication here is that those who still see a potential _influence_ of View
 
 > <span style="color:red; margin-left:-30px;">[Arg4:6] ... As you would expect, these arguments that Joseph Smith suffered from a mental illness never got much traction.</span>
 
-Argument 4 is nearly 100 years old at this point.  No Book of Mormon generation theories I'm aware of today focus on this, so this boils down to---there once was a theory for how the Book of Mormon came to be that is no longer favored by scholars today.
-
-The fact that numerous theories have been advanced to explain the advent of the Book of Mormon suggests that there a several _possible_ ways in which the book could have been constructed which would reasonably fit the data.  After all, [numerous holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) have been constructed over the past (none of which Callister accepts as fully genuine) and nothing about the Book of Mormon ties us irrevocably to the conclusion that the Book of Mormon required the intervention of an omnipotent being for its creation (presumably God could have, if he had wanted, produced a work of such monumental intelligence that all rational people were compelled to acknowledge that only an omniscient being could have produced it, but that cannot be said for the Book of Mormon).  Relatively uneducated people have created complex and coherent books in relatively short periods of time before and after the Book of Mormon.[^books_by_young_uneducated]  The fact that some naturalistic explanations have fallen into disfavor over time mostly confirms that naturalists care about how well their models fit the data and are unafraid to discount theories based on evidence.  Some models simply fit the data better than others.[^entheogenic]
+Argument 4 is nearly 100 years old at this point, so we both agree it is irrelevant at this point.
 
 ## Argument 5: Joseph Smith Was A Creative Genius Who, Shaped By His Environment, Wrote The Book Of Mormon
 
 > <span style="color:red; margin-left:-30px;">[Arg5:1a] This argument has become a principal one used by many if not most critics today.</span>
 
-This is indeed the main hypothesis held by most non-LDS historians today, but other hypotheses have been advanced (e.g., [Ridgdon theory](http://www.mormonthink.com/mormonstudiesrigdon.htm) and [the Lucy Code](https://www.youtube.com/watch?v=wf3MluItWQE)).
-
-It is also worth noting that top LDS scholars now acknowledge the critical role that a modern milieu must have played in the creation of the book (as discussed generally [here]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})).  Skousen [writes]({{ "/skousen-literal-translation-of-the-plates/" | relative_url }}) (emphasis added):
+Top LDS scholars today acknowledge the critical role that a modern milieu must have played in the creation of the book (as discussed generally [here]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})).  Skousen [writes]({{ "/skousen-literal-translation-of-the-plates/" | relative_url }}) (emphasis added):
 
 > **Is the Book of Mormon English translation a literal translation of what was on the plates?**
 
@@ -209,7 +207,7 @@ How much data was available to Campbell in 1831 when forming his first theory ab
 
 > <span style="color:red; margin-left:-30px;">[Arg5:4] When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.</span>
 
-The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }}).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, those engaged in automatic writing have been documented as [able to perform incredible feats of authorship](https://en.wikipedia.org/wiki/Automatic_writing), so again, the model with Joseph as primary author does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
+The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }}).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, consider the case of Andrew Jackson Davis and his trance performance of The Principles of Nature ([discussed by Bill Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis)) and others who were able to perform incredible feats of authorship during [automatic writing](https://en.wikipedia.org/wiki/Automatic_writing).  These examples suggest that the model having Joseph as primary composer does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
 
 > <span style="color:red; margin-left:-30px;">[Arg5:5a] Nonetheless, others have bought into this argument---lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God---a place they desperately do not want to go.</span>
 
@@ -221,7 +219,7 @@ I'm not sure these are especially relevant to this analysis, but it is interesti
 
 > <span style="color:red; margin-left:-30px;">[Arg5:6a] In order to account for the history of the Book of Mormon, these critics claim that Joseph must have read or been conversant with a staggering number of books or ideas related to them. In fact, **one author has suggested that Joseph may have read or gleaned information from more than thirty books in nearby libraries in order to gather necessary information about the early Americans**.[27] </span>
 
-In the emboldened text above, Callister is citing (#27) Vogel's [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/), but he seems to have not read Vogel's introduction where Vogel clearly explains how he views the relationship of the various sources with Joseph Smith.  Vogel is quoted below at length so it may be appreciated how inadequately Callister conveys the gist of Vogel's actual approach (emphasis added):
+In the emboldened text above, Callister is citing (#27) Vogel's [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/), but he may have failed to read Vogel's introduction where he explains how he views the relationship of the various sources with Joseph Smith.  Vogel writes (emphasis added):
 
 > ... For the most part I have explored two broad categories of writings: books motivated by theological issues—as is obviously the case with Ethan Smith’s View of the Hebrews (1823 and 1825)[16]—and those motivated by concerns more antiquarian than religious—such as John Yates’s and Joseph Moulton’s History of the State of New York (1824). **I have looked in these sources for arguments, stories, and questions which persisted over time and were thus picked up and repeatedly reworked**. I have also explored those sources which reached a broad audience–**books reprinted again and again**, for example, or excerpted or written about in popular periodicals and newspapers.
 
@@ -229,7 +227,7 @@ In the emboldened text above, Callister is citing (#27) Vogel's [Indian Origins 
 
 > Books, of course, were not the only sources of information. Many things can be learned by word of mouth, what Mormon historian B. H. Roberts once called the fund of “common knowledge” inherited by individuals living in the same cultural setting.[19] Joseph Smith certainly inherited some of his attitudes and beliefs about the Indians from his ancestors–many of them leading citizens in New England’s Puritan community and members of the Congregational church. His maternal grandfather, Solomon Mack, fought against the Indians in the French and Indian Wars.[20] Moreover, Joseph may have learned about Indian origin [10] problems through popular channels of information such as circuit preachers, traveling lecturers, or community talk circulating in the country store, post office, and other public gathering places.
 
-Hence, Callister seems to have misinterpreted Vogel's near-exhaustive demonstration of the penetrance of certain ideas in the psyche of Joseph Smith's time and place as a strawman which would require Joseph to have had direct contact with these books in order to have generated the Book of Mormon.
+Vogel's main point is that these ideas had *heavily* penetrated the psyche of Joseph Smith's time and place.  To suggest that Joseph must have directly read all of these these books seems to miss the thrust of the argument.
 
 > <span style="color:red; margin-left:-30px;">[Arg5:6b] The claim is then made that these books—or discussions of the same in newspapers or conversations—became the basis for the historical narrative in the Book of Mormon.[28]</span>
 
@@ -249,7 +247,7 @@ The fact that Joseph referred to View of the Hebrews in 1842 merely confirms tha
 
 > <span style="color:red; margin-left:-30px;">[Arg5:11] • Is there any record that he had any of these books present when he translated the Book of Mormon? No.</span>
 
-Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was [published originally in eight volumes between 1810 and 1826]({{ "/clarkes-commentary-published-between-1810-and-1826/" | relative_url }}) and had an "extensive circulation".  BYU Scholars recently concluded that [Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation](http://jur.byu.edu/?p=21296) (aka, the JST).  We can ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
+Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was [published originally in eight volumes between 1810 and 1826]({{ "/clarkes-commentary-published-between-1810-and-1826/" | relative_url }}) and had an "extensive circulation".  BYU Scholars recently concluded that [Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation]({{ "/joseph-consulting-clarkes-commentary/" | relative_url }}) (aka, the JST).  We can ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
 
 > • Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning Clarke's Commentary before working on the JST? **[No](http://www.josephsmithpapers.org/search?query=Clarke&sort=relevance&page=1&perpage=50&startdate=&enddate=&transcripts=false&issuggestion=false&types=documents-papers%7Cdocuments-papers-documents%7Cdocuments-papers-administrative%7Cdocuments-papers-legal%7Cdocuments-papers-histories%7Cdocuments-papers-journals%7Crelated-materials%7Cbiographical-directory%7Cgeographical-directory%7Cglossary%7Cevent)**.[^oblique_reference_to_jst]
 
@@ -264,11 +262,6 @@ This exercise with Adam Clarke's commentary and the JST demonstrates that source
 The historical record strongly suggests that Palmyra and its immediate vicinity [were rich in available literature]({{ "/palmyra-was-rich-in-books/" | relative_url }}) on the kinds of topics (e.g., [indians](http://signaturebookslibrary.org/scripture-test/), [war and liberty](http://www.mormonthink.com/influences.htm#part2), and [religion](http://www.mormonthink.com/influences.htm#part3)) that may have influenced Joseph Smith or other potential authors.
 
 Especially as it pertains to theological matters, we should remember that [Joseph Smith himself states](https://www.lds.org/scriptures/pgp/js-h/1?lang=eng&country=ca) that _as a young teenager_ he was attending "their several meetings as often as occasion would permit" and [studying the Bible]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/#own-statements" | relative_url }}), and then bold enough to converse with the local preachers about religion ("I happened to be in company with one of the Methodist preachers, who was very active in the before mentioned religious excitement; and, conversing with him on the subject of religion").  How much could Joseph have gleaned on the topic of religion had he maintained such a trajectory over the next decade, particularly if he began reading other sources besides the Bible?
-
-If we include other potential authors, then the sourcing problem seems to disappear since it seems at least highly plausible that these authors would have owned or would have read the kinds of sources that might have informed the creation of the Book of Mormon:
-
-* Rigdon had been a Baptist pastor/preacher for nearly a decade by the time the Book of Mormon was published.
-* Joseph's parents were both well educated---his father had "been a merchant and a teacher", his grandmother had been a schoolteacher and had taught Joseph's mother---and Hyrum had attended Dartmouth College as a teen. (see [here]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/#religious-and-educational-environment" | relative_url }}))
 
 > <span style="color:red; margin-left:-30px;">[Arg5:12] How many "no"s does it take to expose the critics’ arguments as pure speculation—nothing more than sand castles that come crashing down when the first waves of honest questions appear on the scene.</span>
 
@@ -291,7 +284,7 @@ Finally, what is viewed by most as a major character mistake [was recorded in th
 There are a few ways to deal with the composition event:
 
 * Joseph [demonstrated significant oral compositional capability]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }}). We know, for instance, that he extemporaneously delivered many of the revelations in the Doctrine and Covenants (consider [D&C 132:7]).  The modern origin theory also fits with what seem like extemporaneous material created to account for the lost 116 pages (e.g., Words of Mormon 1:3--9).  Finally, most of us were raised to organize our thoughts via writing, so it is difficult to imagine others composing extensive structure primarily in their minds, but this was not an uncommon ability in that era (e.g., regularly demonstrated among preachers).
-* Witnesses who observed the translation process [may not have been present when sources were being consulted](http://127.0.0.1:4000/a_careful_examination/reasons-to-discount-emmas-bom-testimony/#emma-may-not-have-been-present-when-sources-were-consulted).
+* Witnesses who observed the translation process [may not have been present when sources were being consulted]({{ "/reasons-to-discount-emmas-bom-testimony/#emma-may-not-have-been-present-when-sources-were-consulted" | relative_url }}).
 * Perhaps Joseph hid notes in his hat, as explained [here]({{ "/hidden-material-in-hat-hypothesis/" | relative_url }}).
 * Cowdery, a schoolteacher, may have been a co-conspirator, as discussed above.
 
@@ -318,7 +311,7 @@ Joseph did not start writing in a diary until *after* the publication of the Boo
 
 > <span style="color:red; margin-left:-30px;">[Arg5:13g] ... Where, I ask you, is the hard evidence?</span>
 
-It seems that Joseph was capable of generating scripture *ad hoc* (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see [this discussion on compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)).  And, as previously discussed, Joseph [consulted and inserted significant material from Clarke's commentary into the Joseph Smith Translation](http://jur.byu.edu/?p=21296) without leaving a single historical trace of such insertion---we only know that it happened via textual inference.
+It seems that Joseph was capable of generating scripture *ad hoc* (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see [this discussion on compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)).  And, as previously discussed, Joseph consulted and [inserted significant material]({{ "/joseph-consulting-clarkes-commentary/" | relative_url }}) from Clarke's commentary into the Joseph Smith Translation without leaving a single historical trace of such insertion---we only know that it happened via textual inference.
 
 Hard data also seems inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  We see a parallel to this in Joseph Smith's polygamy where he instructs [the recipients of a letter](https://www.josephsmithpapers.org/paper-summary/letter-to-the-whitneys-18-august-1842/1#full-transcript) to "burn this letter as soon as you read it."  Hence, Joseph was not necessarily adverse to destroying evidence that he wished to hide from others.
 
@@ -610,9 +603,17 @@ The author appreciates Elder Callister's witness while also questioning whether 
 
 ## Conclusions
 
-Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as has hopefully been demonstrated, when Callister's specific claims about the production of the book and its content are closely examined there is adequate room to account for the Book of Mormon through standard human creative processes, and the book fits comfortably within the early 1800s theological and cultural milieu.
+Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as has been demonstrated, when Callister's specific claims about the production of the book and its content are closely examined there appears to be adequate room to account for the Book of Mormon through standard human creative processes, and the book fits comfortably within the early 1800s theological and cultural milieu.
 
 ## See Also
+
+* [The Book of Mormon and the Limits of Naturalistic Criteria: Comparing Joseph Smith and Andrew Jackson Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis) (Bill Davis)
+* [Visions in a Seer Stone](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/)
+    * [Theories and Assumptions: A Review of William L. Davis’s Visions in a Seer Stone](https://journal.interpreterfoundation.org/theories-and-assumptions-a-review-of-william-l-daviss-visions-in-a-seer-stone/) (review by Brian Hales)
+    * [Oral Creation and the Dictation of the Book of Mormon](https://journal.interpreterfoundation.org/oral-creation-and-the-dictation-of-the-book-of-mormon/) (review by Brant Gardner)
+    * [Dialogue Book Review Roundtable: Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon by William Davis](https://www.dialoguejournal.com/2020/05/dialogue-roundtable-william-l-davis-visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/)
+    * [Author Response to Dialogue Book Review Roundtable: Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon by William Davis](https://www.dialoguejournal.com/2020/06/author-response-to-dialogue-book-review-roundtable-visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-by-william-davis/)
+* [Curiously Unique: Joseph Smith as Author of the Book of Mormon](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/) (Brian Hales)
 
 ### Responses to Callister's similar General Conference talk
 

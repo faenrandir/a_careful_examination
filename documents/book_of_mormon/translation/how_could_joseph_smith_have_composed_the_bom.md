@@ -8,6 +8,8 @@ layout: page
 
 ### The oral composition model
 
+The oral composition model is discussed in some detail by William Davis in his dissertation, [Performing Revelation: Joseph Smith and the Creation of the Book of Mormon](https://escholarship.org/uc/item/86h814zv), and book [Visions in a Seer Stone](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/).  However, the following is my own summary and synthesis, somewhat independent of Davis's work:
+
 1. **Cultural immersion**: Joseph was immersed in a [cultural](https://www.mormonstories.org/podcast/book-of-mormon-cultural-context-john-hamer/) and [religious milieu]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}) that seems proportional to [the contents of the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }}).  
 1. **Oral composition capability**: Joseph was [highly intelligent]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }}) and demonstrated [significant oral compositional ability](https://escholarship.org/uc/item/86h814zv) (e.g., Book of Moses, Book of Abraham, Revelations in the D&C, extensive sermons).  Since most in the developed world of the 21st century organize their thoughts via writing, it may be difficult to imagine others composing extensive structure primarily in their minds, but this was not an uncommon ability in that era (e.g., regularly demonstrated among preachers).  The available time to compose the book (~65 working days) is not inconsistent with some kind of oral composition event.
 1. **Preparation and practice**: The timeline provides room for years of rumination and planning to have preceded the final compositional event.  And, even though this was not likely according to plan, the initial dictation of the lost 116 pages would have served as a warm-up period allowing Joseph significant practice in order to develop and refine his compositional abilities before dictating the text we now know as the Book of Mormon.
@@ -22,7 +24,9 @@ layout: page
 
 #### Creativity theory and oral composition
 
+* [Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/) (William Davis)
 * [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv) (William Davis PhD Dissertation)
+* [The Book of Mormon and the Limits of Naturalistic Criteria: Comparing Joseph Smith and Andrew Jackson Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis) (Dialogue article by William Davis)
 * [Creativity Theory and the Origin of the Book of Mormon and other Mormon Scriptures](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/) (post by frogontrombone)
 * [Is it possible for Joseph Smith to have orally dictated the BoM without notes?](https://www.reddit.com/r/mormon/comments/bng1ul/is_it_possible_for_joseph_smith_to_have_orally/) (post by frogontrombone)
 * [Mosiah Priority](https://www.reddit.com/r/mormon/comments/bgjm60/mosiah_priority/) (post by ImTheMarmotKing)
