@@ -41,7 +41,7 @@ The book of Mark [ends with these verses](https://www.lds.org/scriptures/nt/mark
 
 ### The problem
 
-The appearance of these verses in the Book of Mormon is problematic because the scholarly consensus based on the textual evidence is that these versus were part of a later addition to the end of the book of Mark.  This later addition (of which verses 15–18 are a part):
+The appearance of these verses in the Book of Mormon is problematic because the scholarly consensus is that these versus were part of a later addition to the end of the book of Mark.  This later addition (of which verses 15–18 are a part):
 
 1. **Is not in the earliest and best manuscripts.**
 
@@ -95,8 +95,6 @@ Scholars have responded to some of the critiques favoring the authenticity of th
 ### Conclusion
 
 Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that most scholars believe is a later addition to the book of Mark.  If the original ending of Mark is indeed spurious, then such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance ([like with deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/)) or perhaps the later addition was _somehow_ reflective of words Jesus actually spoke in the New World.[^mormondialogue]  Regardless, a dubious ending would add some weight to the modern origin model of the Book of Mormon and somewhat undermine the modern model.  However, given that there is some disagreement among scholars on the authenticity of the ending of Mark though, conclusions based on this scholarship alone should probably be considered tentative.
-
-[the massive number of parallels to writing from the early 1800s]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}), generally.  The author's usage of these verses from the New Testament is highly consistent with the modern origin model (i.e., the Book of Mormon was authored by a mind(s) from the early 1800s) and in some tension with the ancient origin model.
 
 ### References:
 
