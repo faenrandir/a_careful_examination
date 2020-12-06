@@ -74,7 +74,7 @@ At best, mistaking 1st party communication with 3rd party communication is somew
 * [God told me to kill boys, says mother](https://www.independent.co.uk/news/world/americas/god-told-me-to-kill-boys-says-mother-54427.html)
 * [Suspect says 'God told me to do it' after fatal crash](https://www.foxnews.com/us/suspect-says-god-told-me-to-do-it-after-fatal-crash)
 * [Mother murders daughter after God told her she was possessed by the devil](https://www.dailymail.co.uk/news/article-2325725/Nantucket-mother-Dora-Tejada-murdered-daughter-God-told-NOT-guilty.html)
-* [Nurse killed 8 after claiming could would direct her "This is the one"](https://www.nytimes.com/2017/06/01/world/canada/nurse-killings-insulin.html?mcubz=0)
+* [Nurse killed 8 after claiming God would direct her "This is the one"](https://www.nytimes.com/2017/06/01/world/canada/nurse-killings-insulin.html?mcubz=0)
 * [Man moved by the spirit to test faith stabs son to death](https://www.upi.com/Archives/1982/01/28/A-Logan-man-pleaded-innocent-by-reason-of-insanity/6102381042000/)
 
 Believing that *others* (such as the leader of a new religious movement) are transmitting messages from a divine being can result in [similar consequences](https://www.culteducation.com/group/850-bride-of-christ-a-sa-waldau/1027-gods-text-messages-told-me-to-kill-.html).
