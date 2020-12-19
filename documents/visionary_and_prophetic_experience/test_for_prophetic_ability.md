@@ -9,7 +9,7 @@ layout: page
 
 Those who claim prophetic ability claim to see events before they happen.  Those unconvinced of this ability suggest that the mind makes many kinds of projections and those who see the future tend to forget the misses and then remember (and perhaps slightly retrofit) the hits, and this provides the prophesier with the impression that they have seen into the future.
 
-There are probably many ways to distinguish between the prophetic and naturlist models, but the simplest way is for the prophesier to see an event which has a low enough probability that it is unreasonable to attribute it to anything other than prophetic ability.
+There are probably many ways to distinguish between the prophetic and naturalist models, but the simplest way is for the prophesier to see an event which has a low enough probability that it is unreasonable to attribute it to anything other than prophetic ability.
 
 ### A 14 word test for prophetic power
 
