@@ -6,7 +6,7 @@ layout: page
 maintopic: book-of-abraham
 ---
 
-## Critical
+# Critical
 
 ### Introductory
 
@@ -15,7 +15,7 @@ maintopic: book-of-abraham
 * [Problems with the Book of Abraham][problems-with-the-book-of-abraham]
     (simplified pdf)
 
-### Analysis
+### Analysis or insights
 
 * [Truth of the Book of Abraham][youtube-playlist-vogel-truth-of-the-book-of-abraham] (youtube series, by Dan Vogel)
     * Response [Meditations on Vogel][meditations-on-vogel]
@@ -37,17 +37,20 @@ maintopic: book-of-abraham
 
 * [Analysis of Olishem as evidence for the antiquity of the Book of Abraham]({{ "/olishem-as-evidence-for-boa/" | relative_url }})
 
-## LDS apologetic
+# LDS apologetic
 
 ### Introductory
 
 * [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
     * [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
+* [Pearl of Great Price Central: Book of Abraham][pearl-of-great-price-central-boa]
 * [FairMormon - Book of Abraham](https://www.fairmormon.org/answers/Book_of_Abraham)
 * [Egyptian Papyri and the Book of Abraham: A Faithful, Egyptological Point of View](https://rsc.byu.edu/archived/no-weapon-shall-prosper/egyptian-papyri-and-book-abraham-faithful-egyptological-point-view) (Kerry Muhlestein)
 
-### Analysis
+### Analysis or insights
 
+* [Pearl of Great Price Central: Book of Abraham
+    Insights][pearl-of-great-price-central-boa-insights]
 * [Joseph Smith's Understanding of Hor](https://www.youtube.com/watch?v=Ftpk15fPMIM)
     * [Response by self-proclaimed Egyptologist](https://www.reddit.com/r/mormon/comments/ho5lxa/book_of_abraham/fxi85ca/)
 * [The Neglected Facsimile: An Examination and Comparative Study of Facsimile No. 3 of the Book of Abraham](https://scholarsarchive.byu.edu/etd/7598/?fbclid=IwAR1nzeKuvbF2FEc8UM3QQzNGWLH5e-BLg6DbpHMlon-B9hDI4Ctv-F3lakU)
@@ -56,6 +59,10 @@ maintopic: book-of-abraham
 * [The Joseph Smith Papyrus Was Never The Basis For The Book of Abraham](http://www.conflictofjustice.com/joseph-smith-papyrus-basis-book-of-abraham/) (Conflict of Justice)
 * [41 Evidences For Joseph Smith’s Book of Abraham In Archaeology](http://www.conflictofjustice.com/evidences-joseph-smiths-book-of-abraham-egyptology-archaeology/) (Conflict of Justice)
 * [Lion Couch Scene in the Book of Abraham: Evidence of Authenticity][youtube-fairmormon-lion-couch-scene] (FairMormon)
+
+### Bibliography
+
+* [Pearl of Great Price Central: Book of Abraham Bibliography][pearl-of-great-price-central-boa-bibliography]
 
 ### Older
 
@@ -74,13 +81,15 @@ maintopic: book-of-abraham
 [meditations-on-vogel]: https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel.html
 [mormon-stories-ritner-translates-the-book-of-abraham]: https://www.mormonstories.org/podcast/robert-ritner/
 [mormonthink-the-book-of-abraham]: http://www.mormonthink.com/book-of-abraham-issues.htm
+[pearl-of-great-price-central-boa-bibliography]: https://www.pearlofgreatpricecentral.org/bibliography-adv/
+[pearl-of-great-price-central-boa-insights]: https://www.pearlofgreatpricecentral.org/category/book-of-abraham/
+[pearl-of-great-price-central-boa]: https://www.pearlofgreatpricecentral.org/book-of-abraham/
 [problems-with-the-book-of-abraham]: https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2017/04/My-Concerns-Book-of-Abraham-1.pdf
-[rfm-brave-sir-kerry]: https://radiofreemormon.org/2020/08/radio-free-mormon-194-brave-sir-kerry-muhlestein/
-[youtube-joseph-smith-papyri]: https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be
-[youtube-playlist-vogel-truth-of-the-book-of-abraham]: https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw
 [rfm-bill-reel-book-of-abraham-part1]: https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-049-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-1/
 [rfm-bill-reel-book-of-abraham-part2]: https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-050-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-2/
 [rfm-bill-reel-book-of-abraham-part3]: https://radiofreemormon.org/2019/02/radio-free-mormon-055-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-3/
-[youtube-fairmormon-lion-couch-scene]: https://www.youtube.com/watch?v=HLbFpWlVLx8
-
+[rfm-brave-sir-kerry]: https://radiofreemormon.org/2020/08/radio-free-mormon-194-brave-sir-kerry-muhlestein/
 [ritner-respone-to-book-of-abraham-essay]: http://www.mormonthink.com/essays-book-of-abraham.htm
+[youtube-fairmormon-lion-couch-scene]: https://www.youtube.com/watch?v=HLbFpWlVLx8
+[youtube-joseph-smith-papyri]: https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be
+[youtube-playlist-vogel-truth-of-the-book-of-abraham]: https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw
