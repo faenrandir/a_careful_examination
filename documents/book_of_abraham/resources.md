@@ -26,7 +26,7 @@ maintopic: book-of-abraham
         * Response [Brave Sir Kerry (Muhlestein)][rfm-brave-sir-kerry] (RFM)
 * [A response to "Translation and Historicity of the Book of Abraham"][ritner-respone-to-book-of-abraham-essay] (Robert Ritner)
 * [The Book of Abraham][mormonthink-the-book-of-abraham] (Mormon Think)
-* Radio Free Mormon and Bill Reel: The Book of Abraham ([part 1][rfm-bill-reel-book-of-abraham-part1] | [part 2][rfm-bill-reel-book-of-abraham-part2] | [part 3][rfm-bill-reel-book-of-abraham-part3])
+* Radio Free Mormon and Bill Reel: The Book of Abraham [part 1][rfm-bill-reel-book-of-abraham-part1] \| [part 2][rfm-bill-reel-book-of-abraham-part2] \| [part 3][rfm-bill-reel-book-of-abraham-part3]
 
 ### Hauglid and Jensen
 
@@ -49,7 +49,7 @@ maintopic: book-of-abraham
 ### Analysis
 
 * [Joseph Smith's Understanding of Hor](https://www.youtube.com/watch?v=Ftpk15fPMIM)
-    * [Response by self-proclaimed Egyptologist](https://www.reddit.com/r/mormon/comments/ho5lxa/book_of_abraham/fxi85ca/))
+    * [Response by self-proclaimed Egyptologist](https://www.reddit.com/r/mormon/comments/ho5lxa/book_of_abraham/fxi85ca/)
 * [The Neglected Facsimile: An Examination and Comparative Study of Facsimile No. 3 of the Book of Abraham](https://scholarsarchive.byu.edu/etd/7598/?fbclid=IwAR1nzeKuvbF2FEc8UM3QQzNGWLH5e-BLg6DbpHMlon-B9hDI4Ctv-F3lakU)
 * [Meditations on Vogel][meditations-on-vogel]
 * [The Principles of Book of Abraham and Kirtland Egyptian Papers Symbolism](https://www.reddit.com/r/mormonscholar/comments/b3xrwi/the_principles_of_book_of_abraham_and_kirtland/) (Edwin Goble argues for "disconnected symbolism, where these symbols are both section markers, as well as pointers/references like bookmarks to content in an unavailable, non-extant Egyptian manuscript from antiquity")
@@ -74,7 +74,7 @@ maintopic: book-of-abraham
 [meditations-on-vogel]: https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel.html
 [mormon-stories-ritner-translates-the-book-of-abraham]: https://www.mormonstories.org/podcast/robert-ritner/
 [mormonthink-the-book-of-abraham]: http://www.mormonthink.com/book-of-abraham-issues.htm
-[problems-with-the-book-of-abraham] https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2017/04/My-Concerns-Book-of-Abraham-1.pdf
+[problems-with-the-book-of-abraham]: https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2017/04/My-Concerns-Book-of-Abraham-1.pdf
 [rfm-brave-sir-kerry]: https://radiofreemormon.org/2020/08/radio-free-mormon-194-brave-sir-kerry-muhlestein/
 [youtube-joseph-smith-papyri]: https://www.youtube.com/watch?v=f5FAFVVv_os&feature=youtu.be
 [youtube-playlist-vogel-truth-of-the-book-of-abraham]: https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw
