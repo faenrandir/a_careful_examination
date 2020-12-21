@@ -4,9 +4,10 @@ permalink: /the-dominant-narrative/
 maintopic: truth-claims
 doctype: short-analysis
 layout: page
+
 ---
 
-# The Dominant Narrative
+## The Dominant Narrative
 
 Many apologists admit that the standard Mormon narrative we are taught to believe in Church is difficult to sustain given the data:[^admitproblems]
 
@@ -22,7 +23,7 @@ Grant Hardy, author of the popular book "[Understanding the Book of Mormon](http
 
 > Today, however, it feels like we’re on the defensive. People already know quite a bit about the Church, and with a few clicks of a mouse they can know a lot more, including negative information that was difficult to come by in the 1970s. The story of the Restoration is less clearcut than we had imagined, the sorts of evidences we used to put forward are less persuasive than we had hoped, and troubling issues in Church history have not faded away but instead have been magnified.
 
-# Fallback: Apologetics
+## Fallback: Apologetics
 
 If the standard LDS narrative is flawed, then one must fall-back to apologetic explanations.  However, the apologetic position suffers from its own set of difficulties:
 
