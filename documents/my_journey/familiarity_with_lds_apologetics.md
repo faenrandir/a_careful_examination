@@ -5,7 +5,7 @@ doctype: notes
 layout: page
 ---
 
-For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, the books I had been reading/studyign prior to my faith transition on the Book of Mormon were:
+For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, the books I had been reading/studying prior to my faith transition on the Book of Mormon were:
 
 * [Mormon's Codex](http://www.fairmormon.org/perspectives/fair-conferences/2012-fair-conference/2012-reading-mormons-codex)
 * [The Book of Mormon reformatted according to parallestic patterns](http://www.amazon.com/Mormon-reformatted-according-parallelistic-patterns/dp/B001JMKB70)

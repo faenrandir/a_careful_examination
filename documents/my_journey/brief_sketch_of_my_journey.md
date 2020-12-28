@@ -74,7 +74,7 @@ At least to this point, I have found that the contours of life and friendship re
 
 [^nofearinvestigation]: I followed after the thinking of Elder George A. Smith:
 
-    > If a faith will not bear to be investigated, if its preachers and professors are afraid to have it examined; their foundation must be very weak. (Journal of Discources v 14, p. 216)
+    > If a faith will not bear to be investigated, if its preachers and professors are afraid to have it examined; their foundation must be very weak. (Journal of Discourses v 14, p. 216)
 
 [^differentinterpretations]:  I freely acknowledge that a person, given different presuppositions based on their experience and values, may examine the same evidence and arrive at somewhat different conclusions from me.  However, I do not believe that a person can carefully examine alternative models and come away thinking that those who decide these alternative models fit the data better are merely lazy, wanting to sin, etc.---the alternative models fit the data extremely well from any perspective, "faithful" or not.
 
