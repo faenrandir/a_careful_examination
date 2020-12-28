@@ -177,7 +177,7 @@ It should be self-evident from the manner in which influence spreads among works
 
 > <span style="color:red; margin-left:-30px;">[Arg3:6b] Any honest reader can determine that for himself.</span>
 
-The implication here is that those who still see a potential _influence_ of View of the Hebrews in the Book of Mormon, even though they acknowledge differences in purpose of style, lack honesty.  Given [the number of similarities](https://i.redd.it/hiv3nejpu2611.png) and B.H. Roberts' observations noted above, such insinuation seems hasty.
+The implication here is that those who still see a potential _influence_ of View of the Hebrews in the Book of Mormon, even though they acknowledge differences in purpose or style, lack honesty.  Given [the number of similarities](https://i.redd.it/hiv3nejpu2611.png) and B.H. Roberts' observations noted above, such insinuation seems hasty.
 
 ## Argument 4: Joseph Suffered From A Mental Illness
 
@@ -185,7 +185,7 @@ The implication here is that those who still see a potential _influence_ of View
 
 > <span style="color:red; margin-left:-30px;">[Arg4:6] ... As you would expect, these arguments that Joseph Smith suffered from a mental illness never got much traction.</span>
 
-Argument 4 is nearly 100 years old at this point, so we both agree it is irrelevant at this point.
+Argument 4 is nearly 100 years old and is not seriously entertained by modern scholars today, so we both agree it is mostly irrelevant at this point.
 
 ## Argument 5: Joseph Smith Was A Creative Genius Who, Shaped By His Environment, Wrote The Book Of Mormon
 
@@ -313,7 +313,7 @@ Joseph did not start writing in a diary until *after* the publication of the Boo
 
 It seems that Joseph was capable of generating scripture *ad hoc* (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see [this discussion on compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)).  And, as previously discussed, Joseph consulted and [inserted significant material]({{ "/joseph-consulting-clarkes-commentary/" | relative_url }}) from Clarke's commentary into the Joseph Smith Translation without leaving a single historical trace of such insertion---we only know that it happened via textual inference.
 
-Hard data also seems inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  We see a parallel to this in Joseph Smith's polygamy where he instructs [the recipients of a letter](https://www.josephsmithpapers.org/paper-summary/letter-to-the-whitneys-18-august-1842/1#full-transcript) to "burn this letter as soon as you read it."  Hence, Joseph was not necessarily adverse to destroying evidence that he wished to hide from others.
+Hard data also seems inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  The historical record suggests at least [two instances]({{ "/joseph-smith-instructed-others-to-burn-communication/" | relative_url }}) where Joseph instructed others to burn communication.
 
 Finally---and most importantly---there is ample textual evidence to demonstrate that the Book of Mormon came from the mind of someone in the early 1800s, as will be demonstrated in the next section on doctrine.
 
@@ -333,21 +333,21 @@ The author of the Book of Mormon refers to the premortal existence in almost [ex
 
 >  <span style="color:red; margin-left:-30px;">[Doctrine:2b] ... and to a postmortal spirit world in Alma 40 (see Alma 40:11–14).</span>
 
-Matthias Earbery discussed the spirit world using [very similar verbiage and reasoning as Alma 40](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/).
+Matthias Earbery discussed the spirit world using [very similar verbiage and reasoning](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/) as found [in Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2c] Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?</span>
 
-As demonstrated above, the doctrines Callister points to are represented in sermons and literature of the early 1800s.  On each of these points, the Book of Mormon reads *precisely* as if it were produced from that theological milieu.
+As demonstrated above, the doctrines Callister points to are represented in sermons and literature of the early 1800s.  On each of these points, the Book of Mormon reads similar to other works produced from that theological milieu.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2d] Where did he get the stunning sermon on faith in Alma 32?</span>
 
-The doctrine on faith in Alma 32 appears to mostly be an extension of the parable of the sower found in Matthew 13:
+The doctrine on faith in Alma 32 appears to mostly be an extension of or elaboration on the parable of the sower found in Matthew 13:
 
 > [Matthew 13:6](https://www.lds.org/scriptures/nt/matt/13.6) And when the sun was up, they were scorched; and because they had no root, they withered away.
 
 > [Alma 32:38](https://www.lds.org/scriptures/bofm/alma/32.38) ... and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.
 
-And, if the sermon were of ancient origin, we are left wondering why the author of frequently quotes New Testament verses and phrases but not Old Testament verses and phrases (see [book of mormon origins project on Alma 32](https://www.bookofmormonorigins.com/content/alma/chapter_32.html)).
+And, if the sermon were of ancient origin, we are left wondering why the author frequently quotes New Testament verses and phrases but not Old Testament verses and phrases (see [book of mormon origins project on Alma 32](https://www.bookofmormonorigins.com/content/alma/chapter_32.html)).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2e] Or one of the greatest sermons ever recorded in all scripture on the Savior’s Atonement as delivered by King Benjamin (see Mosiah 2–5)?</span>
 
