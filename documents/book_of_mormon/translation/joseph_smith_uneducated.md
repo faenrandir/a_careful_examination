@@ -20,6 +20,9 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
 1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College.  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
+    * Andrew Jackson Davis: [claimed 5
+    months](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis)---dictated
+    the 320,000 word volume "The Principles of Nature" at the age of 20.
     * Jane Austen: about 2.5 to 3 years of formal education[^austen_formal_education]---completed First Impressions (published as Pride and Prejudice) at the age of 21.
     * Abraham Lincoln: [about 1 year of "formal" education](https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln)
     * Walt Whitman: [6 years](https://en.wikipedia.org/wiki/Walt_Whitman)
