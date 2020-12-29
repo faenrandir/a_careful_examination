@@ -23,12 +23,17 @@ layout: page
     * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
     * A variety of birth control methods [were being published in the early 1800s](http://artsci.case.edu/dittrick/online-exhibits/history-of-birth-control/contraception-in-america-1800-1900/early-literature/), including withdrawal.
 
-1. Abortion was not illegal and was becoming commonplace in that era.  A known
-   practicioner of abortion lived in Nauvoo for some time.
+1. Abortion was somewhat common in that era and surgical abortion not illegal in Illinois at the time.  A known practicioner of abortion was in Joseph Smith's close inner circle in Nauvoo for some time.
 
     Lauren MacIvor Thompson [summarized the data on abortion](https://www.civilwarmed.org/birth-control/) in that era:
 
     > Abortions were also readily included in the universe of Civil War era birth control. Though the practice was never without controversy, abortion was legal in the eighteenth and nineteenth centuries until the moment of “quickening,” when the pregnant woman could feel fetal movement. While exact statistics are difficult to calculate, we do know that abortion rates rose steadily between 1830-1860, to one in five pregnancies. The most common means included the women’s ingestion of abortifacient drugs, as well as abortions performed with surgical instruments by trained practitioners (who weren’t always physicians).
+
+    Illinois was the first state to criminalize prequickening abortion in
+    1827, but this statue only outlawed "potional" (injesting substances)
+    abortion (see pg 1784 of [Criminal Abortion
+    Revisited](https://scholarship.law.duke.edu/faculty_scholarship/2174/) by
+    Samuel Buell).
 
     Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him (see Hale's LDS apologetic/scholarly perspective [here](http://mormonpolygamydocuments.org/abortions/)).  Evidence supports the fact that Bennett was practicing abortion and that he could cover up a trail of philandery using it. Sarah Pratt claimed Bennett practiced abortion on some of Joseph Smith's plural wives, but most LDS scholars discount her testimony due to possible exaggeration and inconsistencies in it. It is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/), but as explained above, abortions were not always conducted by physicians, and it's possible Bennett trained others in the practice before his departure.
     
