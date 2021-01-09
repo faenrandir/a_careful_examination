@@ -56,6 +56,28 @@ In a late reminiscence, a Rochester paper store clerk, identified by Vogel as Wi
 
 > It may be of interest in this connection to know that one of the early customers of Mr. Alling was a man who became famous as the founder of Mormonism, Joseph Smith. He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and talking theology. It was at this time that he was engaged in writing his "Book of Mormon," but the present firm disclaims all responsibility for Mr. Smith's religious conclusions, even if he did buy his books and writing paper from their store.
 
+### Accounts including an oral component
+
+In her history, Joseph's mother Lucy recalled[^amusing_recitals]:
+
+> During our evening conversations, Joseph would occasionally give us some of the most amusing recitals that could be imagined. He would describe the ancient inhabitants of this continent, their dress, mode of traveling, and the animals upon which they rode; their cities, their buildings, with every particular; their mode of warfare; and also their religious worship. This he would do with as much ease, seemingly, as if he had spent his whole life among them.
+
+Her 1845 manuscript provides additional details[^1845_manuscript]:
+
+> Now said he[,] Father and Mother the angel of the Lord says that we must be careful not to proclaim these things or to mention them abroad For we do not any of us know the wickedness of the world which is so sinful that when we get the plates they will want to kill us for the sake of the gold if they know we ~~had~~ <have> them...by sunset [we] were ready to be seated and give our ~~atten~~ undivided attention to Josephs recitals...From this time forth Joseph continued to receive instructions from time to time and every evening we gathered our children togather [together]...In the course of our evening conversations Joseph would give us some of the most ammusing [amusing] recitals which could be immagined [imagined]. he would describe the ancient inhabitants of this continent their dress their man[n]er of traveling the animals which they rode The cities that were built by them the structure of their buildings with every particular of their mode of warfare their religious worship as particularly as though he had spent his life with them...~~The angel informed him at one time that he might make an effort to obtain the plates~~ <on> the <22nd of the> ensueing september....
+
+Orasmus Turner [wrote in 1851](http://olivercowdery.com/texts/1851Trn1.htm#turn1850)[^bushman_preface]:
+
+> But Joseph had a little ambition, and some very laudable aspirations; the mother's intellect occasionally shone out in him feebly, especially when **he used to help us to solve some portentous questions of moral or political ethics, in our juvenile debating club**, which we moved down to the old red school-house on Durfee street, to get rid of the annoyance of critics that used to drop in upon us in the village; amid, subsequently, after catching a spark of Methodism in the camp-meeting, away down in the woods, on the Vienna road, **he was a very passable exhorter in evening meetings**. (emphasis added)
+
+Pomeroy Tucker's reminiscence (quoted more completely above) includes an oral component:
+
+> ... he assumed a spiritual or religious turn of mind, and frequently perused the bible, becoming quite familiar with portions thereof, both of the Old and New Testaments; **selected texts from which he quoted and discussed with great assurance when in the presence of his superstitious acquaintances**. ...
+
+And the Rochester paper store clerk (quoted more completely above) also noted an oral component to Joseph's reading:
+
+> ... He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and **talking theology** ... (emphasis added)
+
 ### Lifelong pattern of reading and meditation
 
 Joseph left no records of his life before the dictation of the Book of Mormon, but his journal entries in the years following the dictation Book of Mormon suggest he was a man comfortable spending hours reading and meditating.
@@ -135,3 +157,18 @@ Despite lacking extensive formal training, Joseph was raised in a rich education
 [^downplayjosephsabilities]: Joseph Smith's lack of education are frequently emphasized.  For instance, Gordon Hinckley [characterized him](https://www.churchofjesuschrist.org/study/general-conference/2007/10/the-stone-cut-out-of-the-mountain?lang=eng): "In the eyes of those who knew him, he was simply a poor, unlearned farm boy."  LeGrand Richards [stated](https://www.churchofjesuschrist.org/study/general-conference/1977/10/it-was-a-miracle?lang=eng), in allusion to Isaiah 29: "Joseph Smith was that unlearned man, at that time in his life."  Tad Callister [described him](https://www.churchofjesuschrist.org/study/general-conference/2017/10/gods-compelling-witness-the-book-of-mormon?lang=eng) as "a 23-yearold farm boy with limited education."  Louis Midgley [wrote that](https://journal.interpreterfoundation.org/a-plea-for-narrative-theology-living-in-and-by-stories/) Christians "objected to the audacious enlargement of the canon of sacred scripture by an unlearned farm boy." Jeff Lindsay [writes](https://web.archive.org/web/20200528060715/https://www.jefflindsay.com/BOMIntro.shtml) "If the Book of Mormon were just a pathetic fraud from an ignorant farm boy in 1820 ..."  Truman Madsen, in emphasizing the understanding Joseph Smith would attain, [wrote](https://speeches.byu.edu/talks/truman-g-madsen/joseph-smith-spiritual-gifts/) "It will not do if one is speaking of him in his maturity to say that Joseph was 'an ignorant farm boy.'"
 
 [^austen_formal_education]: Jane Austen's [wikipedia page](https://en.wikipedia.org/wiki/Jane_Austen) describes her education at Oxford by Mrs. Ann Cawley between 1783 and "autumn" of the same year (so, roughly 0.75 of the calendar year).  Then, she attended boarding school from "early in 1785" and concluding "before December 1786" (so, roughly 1.75 calendar years).  Depending on how school years are tallied, that puts her education between 2.5 and 3 years.  Some biographies report less ([for example](https://sites.udel.edu/britlitwiki/jane-austen/), "Aside from one year of formal schooling, she was educated at home.").
+
+[^bushman_preface]: In his preface to Rough Stone Rolling, Richard Bushman
+  writes: He was not an eloquent preacher ; he is not known to have preached a
+  single sermon before organizing the church in 1830.[4] Footnote #4 states:
+  "One early acquaintance who knew Joseph before 1821 (when he was fifteen or
+  younger) did say he was a 'very passable exhorter' in Methodist meetings.
+  Turner, *History*, 2014."  I note that Bushman provides no substantiation
+  that Joseph was not an eloquent preacher.  The phrase a "very passable
+  exhorter" is open to a range of interpretation, anywhere from "quite good"
+  to "barely passable."
+
+[^amusing_recitals]: From Dan Vogel (editor), Early Mormon Documents (Salt Lake City, Signature Books, 1996–2003), 5 vols, 1:296. citing Lucy Mack Smith, Biographical Sketches of Joseph Smith the Prophet, and His Progenitors for Many Generations (Liverpool, S.W. Richards, 1853), 36-173. As quoted by Fairmormon [here](https://web.archive.org/web/20210109052138/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#cite_note-2).  LDS scholars argue that Joseph's ability to recite these things were a direct result of his interactions with the angel Moroni.  Regardless, putting to the side a discussion of the impact that a heavenly messenger might have had on his source material, this account and Lucy's 1845 manuscript account establish that Joseph was able to 
+perform multiple "amusing recitals" of a significant number of details "as though he had spent his life with [his subject]."  Under any explanatory model of the Book of Mormon translation, these accounts suggest a significant level of mental acuity and an ability to convey orally copious details of some previously established mental model with some flair.
+
+[^1845_manuscript]: From Dan Vogel (editor), Early Mormon Documents (Salt Lake City, Signature Books, 1996–2003), 5 vols, 1:294–296. citing the 1845 manuscript of Lucy Mack Smith's autobiography.  As quoted by Fairmormon [here](https://web.archive.org/web/20210109052138/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#cite_note-2).
