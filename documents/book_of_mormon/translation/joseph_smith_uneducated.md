@@ -158,15 +158,7 @@ Despite lacking extensive formal training, Joseph was raised in a rich education
 
 [^austen_formal_education]: Jane Austen's [wikipedia page](https://en.wikipedia.org/wiki/Jane_Austen) describes her education at Oxford by Mrs. Ann Cawley between 1783 and "autumn" of the same year (so, roughly 0.75 of the calendar year).  Then, she attended boarding school from "early in 1785" and concluding "before December 1786" (so, roughly 1.75 calendar years).  Depending on how school years are tallied, that puts her education between 2.5 and 3 years.  Some biographies report less ([for example](https://sites.udel.edu/britlitwiki/jane-austen/), "Aside from one year of formal schooling, she was educated at home.").
 
-[^bushman_preface]: In his preface to Rough Stone Rolling, Richard Bushman
-  writes: He was not an eloquent preacher ; he is not known to have preached a
-  single sermon before organizing the church in 1830.[4] Footnote #4 states:
-  "One early acquaintance who knew Joseph before 1821 (when he was fifteen or
-  younger) did say he was a 'very passable exhorter' in Methodist meetings.
-  Turner, *History*, 2014."  I note that Bushman provides no substantiation
-  that Joseph was not an eloquent preacher.  The phrase a "very passable
-  exhorter" is open to a range of interpretation, anywhere from "quite good"
-  to "barely passable."
+[^bushman_preface]: In his preface to Rough Stone Rolling, Richard Bushman writes: He was not an eloquent preacher ; he is not known to have preached a single sermon before organizing the church in 1830.[4] Footnote #4 states: "One early acquaintance who knew Joseph before 1821 (when he was fifteen or younger) did say he was a 'very passable exhorter' in Methodist meetings.  Turner, *History*, 2014."  I note that Bushman provides no substantiation that Joseph was not an eloquent preacher.  The phrase a "very passable exhorter" is open to a range of interpretation, anywhere from "quite good" to "barely passable."
 
 [^amusing_recitals]: From Dan Vogel (editor), Early Mormon Documents (Salt Lake City, Signature Books, 1996–2003), 5 vols, 1:296. citing Lucy Mack Smith, Biographical Sketches of Joseph Smith the Prophet, and His Progenitors for Many Generations (Liverpool, S.W. Richards, 1853), 36-173. As quoted by Fairmormon [here](https://web.archive.org/web/20210109052138/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#cite_note-2).
 
