@@ -1,14 +1,49 @@
 ---
-title: "Problems with Christianity"
+title: "Problems with Christianity from a former LDS perspective"
+permalink: /problems-with-christianity-from-former-lds-perspective/
+maintopic: christianity
 doctype: rough-notes
 layout: page
 ---
 
-[rough draft]
+[rough draft; needs work and consistent presentation of scripture]
 
-## Believing in Jesus promotes much that is good
+# Introduction
 
-### Christianity promotes love and selflessness.
+We can divide Christian teachings (including the purported words of Jesus
+Christ) into two main categories:
+
+1. Good, thoughtful, inspiring, or ennobling (most teachings)
+2. Problematic
+    1. Problematic because the Christian world general interprets the teaching
+       in a problematic way.
+    1. Problematic because of the plain meaning of the words.
+
+So much of what Jesus Christ taught is helpful, inspiring, and/or good.  I
+think we should embrace that.  Some of what he taught when interpreted by
+mainstream Christianity is problematic in my view.  And a few things that
+Jesus taught are problematic when taken at their plain meaning.  A similar
+pattern (and some unique issues) emerge when analyzing the words of Jesus's
+disciples.
+
+This document focuses mainly on the purported words of Jesus Christ and
+occasionally dips into other New Testament writing to deal with highly
+problematic aspects of Christian culture and practice, generally.  I will also
+call out specific aspects of Latter-day Saint culture[^latterdaysaints] since
+I know it best and it will be most relevant to most of my readers.  Still,
+most of these examples will apply to some extent to larger swaths of
+Christianity.
+
+Also, because I have been evaluating Christianity from the perspective of a
+parent wanting to raise children well, I follow up some of the problematic
+teachings with thought questions related to parenting.
+
+# The Good
+
+I touch on a few of the many good aspects of Jesus's teachings and Christian
+culture below.
+
+## Christianity promotes love and selflessness.
 
 The Gospels promote many beautiful ideals:
 
@@ -18,25 +53,28 @@ The Gospels promote many beautiful ideals:
 
 It's difficult to overstate the power of these ideals.  These ideas existed (often to a somewhat lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus.  Much of the good that has been done in the world in the past 2000 years was motivated, at least in part, by these ideals.
 
-### Idea of eternal life may diminish existential anxiety
+## Idea of eternal life may diminish existential anxiety
 
-The idea of a resurrection or eternal life may diminish existential anxiety for some people.
+The idea of an after-life may diminish existential anxiety for some people (see [here](https://www.psychology.org.au/for-members/publications/inpsych/2018/December-Issue-6/Death-anxiety-The-worm-at-the-core-of-mental-heal) but note that neutral acceptance is associated with the lowest levels of death anxiety).
 
-### Attending Church is healthy
+## Attending Church is healthy
 
 [Source](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827)
 
-### In some ways Jesus promoted equality of the sexes
+## In some ways Jesus promoted equality of the sexes
 
 In *some* ways that may have transcended his society [Jesus fought against patriarchy](https://radicaljesusfollowers.blogspot.com/2016/12/11-ways-jesus-fought-patriarchy.html).
 
-## Believing in Jesus may also promote some harmful attitudes
+# The Problematic
+
+There are aspects of Christian teaching, some which derive directly from the
+words of Jesus, which seem problematic.
 
 **_A belief in the teachings of Jesus may:_**
 
-### Hinder introspection and the quest for Truth.
+## Hinder questioning
 
-The desire to maintain a belief in God and Christ tends to hinder a person from searching for and fairly evaluate the evidence that might contradict that belief.
+The desire to maintain a belief in God and Christ can hinder a person from searching for and fairly evaluate the evidence that might contradict that belief.
 
 Mark 4:28-29
 
@@ -46,44 +84,54 @@ Mark 8:11-12
 
 > The Pharisees came and began to argue with him, seeking from him a sign from heaven, to test him. And he sighed deeply in his spirit and said, "Why does this generation need a sign? Truly, I say to you, no sign shall be given to this generation."
 
-Mark 16:16
+This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > SDA > Evangelical > Catholic > Protestant > UU).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
 
-> He who believes and is baptized will be saved; but he who does not believe will be condemned.
+*How do I encourage my children to follow truth when asking for sufficient evidence for some religious premises is considered adulterous?*
 
-This avoidance of introspection seems to be directly correlated with level of belief (i.e., JW > Mormon > SDA > Evangelical > Catholic > Protestant > UU).  Generally, the stronger the belief in God and Jesus, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
+## Promotes religious faith
 
-### Promote second-coming nihilism and anxiety.
+According to John's gospel, Jesus said to Thomas, "Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29) 
+
+And in Mark 16:16 Jesus says "He who believes and is baptized will be saved; but he who does not believe will be condemned."
+
+I have not seen any argument or demonstration to convince me that belief without sufficient justification is a virtue, as I discuss [here](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/).  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.
+
+*Why would I teach my children that they must believe things on inadequate evidence under penalty of some kind of eternal torment (of one form or another, whether separation from family or God for eternity or misery inherent to the condition)?*
+
+## Promotes second-coming nihilism and anxiety.
 
 Whereas the belief in the resurrection may quell anxiety, a belief in Jesus is also tied to a belief in his second coming, and the second coming may promote nihilism and anxiety.
 
 Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew 24 and the Book of Revelation) is [woven deeply into Christianity](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming_of_Christ)
 
-* It deeply affects how Christians live today, causing many to be ill-prepared for living a full life (anecdotes [here](https://www.reddit.com/r/exchristian/comments/k3zg4i/does_anyone_else_feel_like_they_werent_prepared/)).
+* It deeply affects how Christians live today, causing many fundamentalist Christians to be ill-prepared for living a full life (anecdotes [here](https://www.reddit.com/r/exchristian/comments/k3zg4i/does_anyone_else_feel_like_they_werent_prepared/)).
 * It colored expectations within the early LDS Church (see [here](https://faenrandir.github.io/a_careful_examination/failed-second-coming-predictions-in-early-lds-church/))
 * Throughout its existence, LDS members have been told [they will live to see the second coming](https://www.reddit.com/r/mormon/comments/6rctgu/if_your_patriarchal_blessing_indicates_you_will/).
 * LDS members today have vivid and concrete expectations for Jesus's [immediate return](https://faenrandir.github.io/a_careful_examination/modern-second-coming-predictions/).
 
-### Promote eternal judgement anxiety
+*Why would I want my children to have the expectation that life is _for sure_ going to become cataclysmically bad and then all problems will essentially be "solved" by Jesus coming again?*
+
+## Promote eternal judgement anxiety
 
 Most people focus on the immediate consequences of their actions.  What harm
 will my actions cause?  What good will this do?
 
-In the back of most Christian minds is the idea that the wrong beliefs or
+In the back of many orthodox Christian minds is the idea that the wrong beliefs or
 actions might result in their *eternal torment*.  In the back of every LDS
 mind is the belief that they might be separated from their family (except for
-short visitation rights) and always full of regret for what might have been
-(living a life of complete joy and endless reproduction) if they fail to live
-up completely to very strict covenants.  A single unrepentant "sin", no matter
-how small, is enough to separate a person from God and their family for all of
-eternity.
+short visitation rights) and persist in this state full of regret for what might have
+been (missing out on living a life of complete joy and endless reproduction)
+if they fail to live very strict covenants.
 
-### An attitude of "doctrine over person"
+*A single unrepentant "sin", no matter how small, is enough to separate a person from God and their family for all of eternity.  Why would I want my children to believe that?*
+
+## An attitude of "doctrine over person"
 
 * John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that they should not say "hi" to them or invite them into your house.  [2 John 1: 7-11](https://www.lds.org/scriptures/nt/2-jn/1.7-11) 
 
 * Jesus Christ discouraged a disciple from burying his father with the
   statement "let the dead bury their dead".  This teaching is used by
-  believers to prioritize Church and religion over family and non-believers.
+  many believers to prioritize Church and religion over family and non-believers.
 
 *  "Another said, 'I will follow you, Lord; but let me first say farewell to those at my home.' Jesus said to him, 'No one who puts his hand to the plow and looks back is fit for the kingdom of God.' (Luke 9:61--62)
 
@@ -91,19 +139,25 @@ eternity.
 
 > If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
-### An emphasis on "sin" instead of morality
+*Why would I want my children to be taught that they should not say 'hi' to people who believe differently than them?  Whey would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
+
+## An emphasis on "sin" instead of morality
 
 Christianity and Mormonism both place a strong emphasis on "sin", and this can stunt moral reasoning and warp behavior so that what is most moral is secondary to what is considered "sin", [no matter the moral consequence or magnitude](https://www.youtube.com/watch?v=S-dfOQUc8vQ&feature=emb_logo).
 
 Consider Richard Bellrock's arguments in [Sin Does Not Exist: And Believing That It Does Is Ruining Us](https://sunstonemagazine.com/sin-does-not-exist/).
 
-### Potentially harmful sexual attitudes
+*Why would I want my children hyper-focused on whether their actions offend God or the Holy Ghost (i.e., a focus on "sin") versus having them focus in a measured way on seeing how their actions impact others for good or bad in the here and now (i.e., a focus on morality)?*
 
-Religious belief is directly and strongly correlated with teenage pregnancy (see [this plot](https://www.reddit.com/r/exmormon/comments/6stywg/graph_of_teen_pregnancies_by_state_as_compared_to/)).  In addition, while an emphasis on total abstinence before marriage may be beneficial for some individuals and has some clear advantages (e.g., no risk of pregnancy or STDs), the all "off" and then all "on" nature of sexuality in this model seems detrimental to some individuals and relationships.
+## An emphasis on obedience instead of morality
 
-Sexuality is [rife with moral concerns](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/).  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
+According to John, Jesus said "If ye love me, keep my commandments" (John 14:15).  Obedience is sometimes emphasized by Christians, [for example](https://www.reddit.com/r/Christianity/comments/l2kxic/matthew_7_kjv_highlighting_how_obedience_to_jesus/).  The LDS Church amplifies the importance of obedience by claiming that [obedience is the first law of heaven](https://www.churchofjesuschrist.org/search?lang=eng&query=obedience%20first%20law%20of%20heaven&highlight=true&page=1) and encourages members to follow the prophet, [even if they know that what is being asked is wrong](https://www.churchofjesuschrist.org/search?lang=eng&query=%22and%20it%20is%20wrong%2C%20and%20you%20do%20it%2C%20the%20Lord%20will%20bless%20you%20for%20it%22&highlight=true&page=1): "Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it." (with a wink that they would never ask you to do anything wrong).
 
-### Division in families over belief
+I believe obedience is a neutral value (it merely amplifies the morality of the thing instructed) [cite the redditor who originally expressed it this way] .  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad.  I can imagine only very extreme circumstances (like the heat of battle) where high-stakes instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that [they must disobey unlawful commands](https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/).
+
+*Why would I want my children to be taught that they should obey leaders, even if leaders are wrong?*
+
+## Division in families over belief
 
 If everyone does not believe in Jesus (in the same way), this may generate conflict.
 
@@ -113,21 +167,48 @@ Matthew 10:35-37:
 
 Luke 18:29-30: And he said to them, "Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive manifold more in this time, and in the age to come eternal life."
 
-### Disunity
+## Disunity
 
-Beliefs grounded dogmatically in the unverifiable promotes eventual disunity.  There are tens, if not hundreds, of Latter-day Saint [schismatic groups](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement) and hundreds if not thousands of [schismatic Christian groups](https://en.wikipedia.org/wiki/List_of_Christian_denominations).
+Beliefs grounded dogmatically in the unverifiable promotes eventual disunity, I think.  There are tens, if not hundreds, of Latter-day Saint [schismatic groups](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement) and hundreds if not thousands of [schismatic Christian groups](https://en.wikipedia.org/wiki/List_of_Christian_denominations).
 
-The history of Christianity is one of unreconcilable differences centered in dogmatism over unfalsifiable beliefs (e.g., consider the [history of the Trinity](https://en.wikipedia.org/wiki/Trinity#History)).
+The history of Christianity can be viewed as one of unreconcilable differences centered in dogmatism over unfalsifiable beliefs (e.g., consider the [history of the Trinity](https://en.wikipedia.org/wiki/Trinity#History)).
 
-### The idea of the inherent superiority of certain groups of people
+And the emphasis in the LDS Church is sometimes on [separation](https://i.redd.it/wsfqsxjjok961.jpg), not
+unification.
+
+*Why would I want my children to adopt unfalsifiable beliefs that would then separate them from all the other humans with contradicting unfalsifiable beliefs?"*
+
+## Disparaging outsiders
+
+LDS leaders have taught [really disparaging things](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/) about former members across the history of the Church.
+
+*Why would I attend a church where leaders have unapologetically said those kinds of things about my own brothers and sister?*
+
+## Potentially harmful sexual attitudes
+
+Religious belief is correlated with teenage pregnancy (see [this plot](https://www.reddit.com/r/exmormon/comments/6stywg/graph_of_teen_pregnancies_by_state_as_compared_to/)).  In addition, while an emphasis on total abstinence before marriage may be beneficial for some individuals and has some clear advantages (e.g., no risk of pregnancy or STDs), the all "off" and then all "on" nature of sexuality in this model seems detrimental to some individuals and relationships.
+
+Sexuality is [rife with moral concerns](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/).  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
+
+*Why would I want my children to be taught that sexual "sin" is "next to murder" instead of teaching and supporting them in how to navigate this difficult moral landscape with an emphasis on consequences that are proportional to genuine consequences?*
+
+## The idea of the inherent superiority of certain groups of people
 
 Story of the Canaanite woman: Matthew 15:22-28
 
 > But he answered and said, I am not sent but unto the lost sheep of the house of Israel
 
-### Reluctance to unequivocally condemn slavery
+*Latter-day Saints view themselves as a "special" people (peculiar, treasure, salt, etc), and even though this is meant to imply extra duty and service and not necessarily that God loves them any more than other people, the message is still implied.  Isn't it enough that my children know they are special because of who they are intrinsically and the love we share for one another as a family?*
 
-Because neither the Old Testament or the New Testament unequivocally condemn slavery, the Bible was used as *justification* for slavery for centuries (discussed [here](https://time.com/5171819/christianity-slavery-book-excerpt/) among many other places).
+## Embedded racism
+
+The Book of Mormon and Bible both deal with race in ways which often (but not always) amplify racial differences and diminish some races compared with others.
+
+*Why would I want my children to ever have reason to view racial differences as anything other than interesting (and relatively minor) human variation?*
+
+## Reluctance to unequivocally condemn slavery
+
+Because neither the Old Testament or the New Testament unequivocally condemn slavery, the Bible was used as justification for slavery for centuries (discussed [here](https://time.com/5171819/christianity-slavery-book-excerpt/) among many other places).
 
 Brigham Young's [speech to the Legislature in 1852](https://archive.org/details/CR100317B0001F0014) demonstrates this connection:
 
@@ -135,6 +216,43 @@ Brigham Young's [speech to the Legislature in 1852](https://archive.org/details/
 
 And you will still find tons of run-of-the-mill Christians today **still** justifying slavery ([for example](https://www.youtube.com/watch?v=HSKj3LQilcI&feature=youtu.be)) which is the only conclusion about the morality of slavery consistent with the Bible, I think, even though I find that conclusion deeply troubling and the justifications poor (the arguments do not generalize well and avoid the core problem of slavery which is lack of self-determination which is a core human value--all the other things we value tend to hinge on self-determination).
 
-## See also
+*The Bible repeatedly implies that slavery is acceptable, so how do I teach my uniquevical condemnation of it when the Bible is so lax about it?*
+
+## Unsustainable injunctions
+
+Jesus asks us to turn the other cheek and walk a mile with our oppressors, but everyone accepts the necessity of and praises our military (by far the largest on earth).  At least in the New Testament Jesus's teachings leave us mostly in the dark in deciding how and when we are justified in raising up a giant military for our defense and the boundaries for extracting information from combatants (consider that Bruce Jessen considered himself a devoted followers of Christ while creating and executing disturbing enhanced interrogation techniques, aka torturing terrorists and suspected terrorists).  Do we ever even have a chance to be kind to our enemies or oppressors?  It seems like we equip and expect our military to obliterate any potential threat before there is a possibility that we might be harmed in any way.  But nobody even questions our need to have the most supreme military on earth, so it feels like we only give lip services to Jesus's teachings in this arena and just assume that he would be fine with our military efforts.
+
+"Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?" (Matthew 6:25)  Latter-day Saints scope this injunction to apply to the apostles, but other Christians have little reason to discard this statement.  Everyone realizes that this kind of life is basically unsustainable for any significant portion of the population.  401Ks, insurance, savings accounts, the stock market are all things the vast majority Christians believe strongly in.
+
+*Why should I teach my children those sayings of Jesus that are pretty much untranslatable to their lives and which we all routinely ignore in one way or another anyway?*
+
+## Reluctance to fully accept homosexuals
+
+Because the Bible is typically interpreted[^bible_homosexuality_alternate] as [condemning homosexuality](https://en.wikipedia.org/wiki/The_Bible_and_homosexuality) on some level, many Christians and most Latter-day Saints discourage homosexual relationships.  I believe that homosexuals are just as deserving as anyone to live a life that includes sexual intimacy (practiced in responsible and thoughtful ways).
+
+*Why would I want my children to be taught that homosexuality is a "temptation" or "affliction" that must be struggled against instead of teaching them the principles of morality?*
+
+# Conclusion
+
+I hope this is helpful in understanding why I view Christianity (and Mormonism) with some wariness from my current POV.  Even though there are lots of great things in it, I feel like it is also layered with many questionable or potentially damaging teachings.  My hope is that I can teach all of the wonderful parts of Christianity to my children and simply leave behind all the things that are of questionable value.
+
+*Why wouldn't teaching all the good things and leaving behind all the bad or questionable things be _an_ optimal approach for myself and my children?*
+
+And speaking directly to an LDS audience, could I really teach my children a nuanced position in the Church when the LDS Church declares most of its positions in absolute terms?  For example:
+
+* "At times, following the prophet may be unpopular, but following the prophet is always right." [source](https://www.churchofjesuschrist.org/search?lang=eng&query=following%20the%20prophet%20is%20always%20right&highlight=true&page=1) 
+* "We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith" [source](https://www.lds.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng)
+* "When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear." First Presidency Message from [here](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
+
+# Moving forward
+
+*What are the transcendent teachings of Jesus and his disciples that I ought to be incorporating into what and how I teach my children?*
+
+# See also
 
 [A comment on /r/exmormon](https://www.reddit.com/r/exmormon/comments/80ptga/christian_agnostic_or_atheist/duxjp6t/) discussing similar points, some in slightly different ways.
+
+
+[^latterdaysaints]: Although many Christians do not view the Church of Jesus Christ of Latter-day Saints (aka Mormons) as a Christian denomination (see [this wikipedia page](https://en.wikipedia.org/wiki/Mormonism_and_Christianity) for a summary of the issues), Latter-day Saints believe in the New Testament and their doctrine and culture is still reflective of much of the Bible and much of the Protestant culture from the early 1800s.  Regardless of how a person views the theological divide, many cultural issues are similar and find their motivation in New Testament scripture.
+
+[^bible_homosexuality_alternate]: Some Christians have argued that the Bible is more nuanced on the topic of homosexuality than is commonly appreciated and that it does not really condemn homosexuality in the way that most Christians believe, [for example](https://www.youtube.com/watch?v=ezQjNJUSraY&feature=emb_logo).
