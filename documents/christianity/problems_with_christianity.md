@@ -192,19 +192,13 @@ Sexuality is [rife with moral concerns](https://faenrandir.github.io/a_careful_e
 
 *Why would I want my children to be taught that sexual "sin" is "next to murder" instead of teaching and supporting them in how to navigate this difficult moral landscape with an emphasis on consequences that are proportional to genuine consequences?*
 
-## The idea of the inherent superiority of certain groups of people
-
-Story of the Canaanite woman: Matthew 15:22-28
-
-> But he answered and said, I am not sent but unto the lost sheep of the house of Israel
-
-*Latter-day Saints view themselves as a "special" people (peculiar, treasure, salt, etc), and even though this is meant to imply extra duty and service and not necessarily that God loves them any more than other people, the message is still implied.  Isn't it enough that my children know they are special because of who they are intrinsically and the love we share for one another as a family?*
-
-## Racism
+## Racism or the idea of specialness of certain groups
 
 Both the Bible and the Book of Mormon can be read as condemnations of racism.[^condemning_racism] However, the Book of Mormon and Bible both deal with race in ways which *sometimes* amplify racial differences and diminish some races compared with others.  Racism is arguably [part of the Old Testament worldview](http://anti-religion.net/racism_torah.htm), and some actions of Jesus can be viewed as racist (e.g., initial actions [towards the Canaanite woman](https://www.biblegateway.com/passage/?search=matthew+15%3A21-28&version=NRSV)).  The Book of Mormon spends considerable energy on [curses and marks of the curse](https://www.fairmormon.org/answers/Book_of_Mormon/Lamanites/Curse) that are related to race, and modern LDS leadership [expected Native Americans to become white](https://archive.org/details/conferencereport1960sa/page/n33/mode/2up) as they embraced Mormonism.
 
 *Why would I want my children to ever have reason to view racial differences as anything other than interesting (and relatively minor) human variation?*
+
+*Latter-day Saints, in particular, view themselves as a "special" people (peculiar, treasure, salt, etc), and even though this is meant to imply extra duty and service and not necessarily that God loves them any more than other people, the message is still implied.  Isn't it enough that my children know they are special because of who they are intrinsically and the love we share for one another as a family?*
 
 ## Reluctance to unequivocally condemn slavery
 
