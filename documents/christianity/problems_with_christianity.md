@@ -2,11 +2,11 @@
 title: "Problems with Christianity from a former LDS perspective"
 permalink: /problems-with-christianity-from-former-lds-perspective/
 maintopic: christianity
-doctype: rough-notes
+doctype: analysis
 layout: page
 ---
 
-[rough draft; needs work and consistent presentation of scripture]
+[rough draft]
 
 # Introduction
 
@@ -15,22 +15,22 @@ Christ) into two main categories:
 
 1. Good, thoughtful, inspiring, or ennobling (most teachings)
 2. Problematic
-    1. Problematic because the Christian world general interprets the teaching
-       in a problematic way.
-    1. Problematic because of the plain meaning of the words.
+    * Problematic because the Christian world general interprets the teaching in a problematic way.
+    * Problematic because of the plain meaning of the words.
 
-So much of what Jesus Christ taught is helpful, inspiring, and/or good.  I
-think we should embrace that.  Some of what he taught when interpreted by
-mainstream Christianity is problematic in my view.  And a few things that
-Jesus taught are problematic when taken at their plain meaning.  A similar
-pattern (and some unique issues) emerge when analyzing the words of Jesus's
-disciples.
+So much of what Jesus Christ taught is helpful, inspiring, and/or
+good.[^veridicality]  I think we should embrace that.  Some of what he taught
+when interpreted by mainstream Christianity is problematic in my view.  And a
+few things that Jesus taught are problematic when taken at their plain
+meaning.  A similar pattern emerges when extending the analysis to include the
+words of Jesus's various disciples as recorded in the books of the New
+Testament.
 
 This document focuses mainly on the purported words of Jesus Christ and
 occasionally dips into other New Testament writing to deal with highly
 problematic aspects of Christian culture and practice, generally.  I will also
 call out specific aspects of Latter-day Saint culture[^latterdaysaints] since
-I know it best and it will be most relevant to most of my readers.  Still,
+I know it best and it will be more relevant to most of my readers.  Still,
 most of these examples will apply to some extent to larger swaths of
 Christianity.
 
@@ -70,9 +70,9 @@ In *some* ways that may have transcended his society [Jesus fought against patri
 There are aspects of Christian teaching, some which derive directly from the
 words of Jesus, which seem problematic.
 
-**_A belief in the teachings of Jesus may:_**
+**_A belief in the teachings of Jesus may promote:_**
 
-## Hinder questioning
+## Reluctance to question
 
 The desire to maintain a belief in God and Christ can hinder a person from searching for and fairly evaluate the evidence that might contradict that belief.
 
@@ -88,7 +88,7 @@ This avoidance of introspection seems to be directly correlated with level of cu
 
 *How do I encourage my children to follow truth when asking for sufficient evidence for some religious premises is considered adulterous?*
 
-## Promotes religious faith
+## Inadequate skepticism
 
 According to John's gospel, Jesus said to Thomas, "Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29) 
 
@@ -98,7 +98,7 @@ I have not seen any argument or demonstration to convince me that belief without
 
 *Why would I teach my children that they must believe things on inadequate evidence under penalty of some kind of eternal torment (of one form or another, whether separation from family or God for eternity or misery inherent to the condition)?*
 
-## Promotes second-coming nihilism and anxiety.
+## Second-coming nihilism and anxiety
 
 Whereas the belief in the resurrection may quell anxiety, a belief in Jesus is also tied to a belief in his second coming, and the second coming may promote nihilism and anxiety.
 
@@ -111,7 +111,7 @@ Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew
 
 *Why would I want my children to have the expectation that life is _for sure_ going to become cataclysmically bad and then all problems will essentially be "solved" by Jesus coming again?*
 
-## Promote eternal judgement anxiety
+## Eternal judgement anxiety
 
 Most people focus on the immediate consequences of their actions.  What harm
 will my actions cause?  What good will this do?
@@ -167,7 +167,7 @@ Matthew 10:35-37:
 
 Luke 18:29-30: And he said to them, "Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive manifold more in this time, and in the age to come eternal life."
 
-## Disunity
+## Disunity based on unfalsifiable beliefs
 
 Beliefs grounded dogmatically in the unverifiable promotes eventual disunity, I think.  There are tens, if not hundreds, of Latter-day Saint [schismatic groups](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement) and hundreds if not thousands of [schismatic Christian groups](https://en.wikipedia.org/wiki/List_of_Christian_denominations).
 
@@ -200,9 +200,9 @@ Story of the Canaanite woman: Matthew 15:22-28
 
 *Latter-day Saints view themselves as a "special" people (peculiar, treasure, salt, etc), and even though this is meant to imply extra duty and service and not necessarily that God loves them any more than other people, the message is still implied.  Isn't it enough that my children know they are special because of who they are intrinsically and the love we share for one another as a family?*
 
-## Embedded racism
+## Racism
 
-The Book of Mormon and Bible both deal with race in ways which often (but not always) amplify racial differences and diminish some races compared with others.
+Both the Bible and the Book of Mormon can be read as condemnations of racism.[^condemning_racism] However, the Book of Mormon and Bible both deal with race in ways which *sometimes* amplify racial differences and diminish some races compared with others.  Racism is arguably [part of the Old Testament worldview](http://anti-religion.net/racism_torah.htm), and some actions of Jesus can be viewed as racist (e.g., initial actions [towards the Canaanite woman](https://www.biblegateway.com/passage/?search=matthew+15%3A21-28&version=NRSV)).  The Book of Mormon spends considerable energy on [curses and marks of the curse](https://www.fairmormon.org/answers/Book_of_Mormon/Lamanites/Curse) that are related to race, and modern LDS leadership [expected Native Americans to become white](https://archive.org/details/conferencereport1960sa/page/n33/mode/2up) as they embraced Mormonism.
 
 *Why would I want my children to ever have reason to view racial differences as anything other than interesting (and relatively minor) human variation?*
 
@@ -234,15 +234,15 @@ Because the Bible is typically interpreted[^bible_homosexuality_alternate] as [c
 
 # Conclusion
 
-I hope this is helpful in understanding why I view Christianity (and Mormonism) with some wariness from my current POV.  Even though there are lots of great things in it, I feel like it is also layered with many questionable or potentially damaging teachings.  My hope is that I can teach all of the wonderful parts of Christianity to my children and simply leave behind all the things that are of questionable value.
+Even though there are so many wonderful teachings in Christianity, I have argued above that it is also layered with many questionable or potentially damaging teachings.  My hope is that I can teach all of the wonderful parts of Christianity to my children and simply leave behind all the things that are of questionable value.
 
-*Why wouldn't teaching all the good things and leaving behind all the bad or questionable things be _an_ optimal approach for myself and my children?*
-
-And speaking directly to an LDS audience, could I really teach my children a nuanced position in the Church when the LDS Church declares most of its positions in absolute terms?  For example:
+And speaking directly to an LDS audience, could I really teach my children a nuanced position in the LDS Church when the LDS Church declares most of its positions in absolute terms?  For example:
 
 * "At times, following the prophet may be unpopular, but following the prophet is always right." [source](https://www.churchofjesuschrist.org/search?lang=eng&query=following%20the%20prophet%20is%20always%20right&highlight=true&page=1) 
 * "We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith" [source](https://www.lds.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng)
 * "When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear." First Presidency Message from [here](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
+
+*Why wouldn't teaching all the good things of Christianity and leaving behind all the bad or questionable things be _an_ optimal approach for myself and my children?*
 
 # Moving forward
 
@@ -253,6 +253,12 @@ And speaking directly to an LDS audience, could I really teach my children a nua
 [A comment on /r/exmormon](https://www.reddit.com/r/exmormon/comments/80ptga/christian_agnostic_or_atheist/duxjp6t/) discussing similar points, some in slightly different ways.
 
 
-[^latterdaysaints]: Although many Christians do not view the Church of Jesus Christ of Latter-day Saints (aka Mormons) as a Christian denomination (see [this wikipedia page](https://en.wikipedia.org/wiki/Mormonism_and_Christianity) for a summary of the issues), Latter-day Saints believe in the New Testament and their doctrine and culture is still reflective of much of the Bible and much of the Protestant culture from the early 1800s.  Regardless of how a person views the theological divide, many cultural issues are similar and find their motivation in New Testament scripture.
+[^latterdaysaints]: Although many Christians do not view the Church of Jesus Christ of Latter-day Saints (aka Mormons) as a Christian denomination (see [this wikipedia page](https://en.wikipedia.org/wiki/Mormonism_and_Christianity) for a summary of the issues), Latter-day Saints believe in the New Testament and their doctrine and culture is still reflective of much of the Bible and much of the Protestant culture, especially from the early 1800s.  Regardless of how a person views the theological divide, many cultural issues are similar and find their motivation in New Testament scripture.  As a Latter-day Saint, I studied most of the Bible (using esword and while consulting several modern Bible commentaries), read the New Testament many times over, and I read and studied the four Gospels themselves dozens of times.  More importantly, as a Latter-day Saint, I viewed myself as a fully committed disciple of Jesus Christ.
 
 [^bible_homosexuality_alternate]: Some Christians have argued that the Bible is more nuanced on the topic of homosexuality than is commonly appreciated and that it does not really condemn homosexuality in the way that most Christians believe, [for example](https://www.youtube.com/watch?v=ezQjNJUSraY&feature=emb_logo).
+
+[^condemning_racism]: The way Jesus dealt with other groups can be viewed as condemning or transcending racism [for example](http://www.publicchristian.com/jesus-racism/).  And the teachings of Paul are fairly universalist with regard to race.  Some passages in the Book of Mormon can also be viewed as transcending or condemning racism (e.g., 2 Ne 26:33 "...he inviteth them all to come unto him and partake of his goodness; and he denieth none that come unto him, black and white, bond and free, male and female; and he remembereth the heathen; and all are alike unto God, both Jew and Gentile.").
+
+[^veridicality]: The purpose of this document is to point out potentially problematic Christian teachings.  Obviously, one's view on the veridicality of Christian supernatural truth-claims has significant bearing on how they will interpret *a priori* the goodness of various Christian teachings (e.g., they might argue simply that if Jesus said it then that is reason enough to assume that it represents optimal goodness).  I believe that naturalism is best supported by the evidence (i.e., I am skeptical of supernatural claims, not because I have any reason to reject them outright but simply because the evidence is insufficient to accept them, to my mind).  Still, as much as possible, I would like to sidestep the veridicality of Christian truth-claims and focus on the inherent goodness intrinsic to its teachings.  Hopefully, many Christians can set to the side the veridicality of truth claims for a moment.  More fundamentalist believers in Christianity will probably find this difficult or impossible to do, so perhaps this is not the right place (or angle) to discuss differences in worldviews with fundamentalist Christians.
+
+
