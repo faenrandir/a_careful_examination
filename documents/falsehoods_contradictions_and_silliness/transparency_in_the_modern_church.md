@@ -142,13 +142,10 @@ The following examples demonstrate or indicate some level of transparency failur
 * **2013**&nbsp; Gospel topics essays given a "soft rollout"
 
     In an undated recording, Elder Steven Snow describes [how the gospel topics essays were released](https://clyp.it/gq0cdhf1#):
-
     > I think it’d be helpful to know how we chose to roll those out. It was a soft roll out. There wasn’t an announcement saying “You can go to this website to learn everything weird about the Mormon church you ever wanted to learn”.  But yet we had a lot of people struggling with some of these issues. We were losing young people particularly. And we felt we owed a safe place for people to go to get these answered. So they were deliberately kind of placed in an existing database, so they wouldn’t …. You know, 90% of the church probably couldn’t care less, they don’t worry about such things. But we do have some folks who are on-line and we felt like they needed a safe place to go to get answers if they had questions. So I don’t think you are gonna see a well publicised campaign to tell you to go to these sites.
 
     In a 2019 Gospel Tangents podcast, [Elder Snow responded to the question](https://www.youtube.com/watch?v=BS6hRBfYqHc&feature=youtu.be&t=240) of whether they were hiding the Gospel Topics Essays:
-
     > [Rick Bennett]: There's been a lot of people that say it seems like the Church is kind of hiding these they don't publicize them very well.
-
     > [Elder Steven Snow]: Well, that's very interesting.  You know the debate, just so I can give you a little context of what was happening was do you advertise and make a big deal about a website that you can go to to learn all of these, you know, everything weird you wanted to know about the LDS Church of Jesus Christ of Latter-day Saints you can go here?  Or should we just kind of quietly release them?  And the decision was made to kind of quietly put them out there so that they're accessible and then at a later date we could publicize them more if we wanted. ...
 
 * **2013**&nbsp; Steven Snow admits the past tendency to prevent access to information
