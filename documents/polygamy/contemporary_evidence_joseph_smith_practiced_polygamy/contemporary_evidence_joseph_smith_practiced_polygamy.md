@@ -8,7 +8,7 @@ layout: page
 
 ### Introduction
 
-Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's anslysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis]({{ "/joseph-smith-polygamy-denials/" | relative_url }})).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.
+Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's anslysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis]({{ "/joseph-smith-polygamy-denials/" | relative_url }})).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
 
 However, some *contemporary* evidence exists that Joseph Smith practiced polygamy.
 
@@ -21,10 +21,12 @@ However, some *contemporary* evidence exists that Joseph Smith practiced polygam
 1. Oliver Cowdery's excommunication trial was [recorded in Joseph Smith's journal](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16#full-transcript).  The second charge was for insinuating that JS had committed adultery:[^cowdery]
 
     > Charge prefered against O[liver] Cowdery before the high Council in Far West Mo.— by Elder Seymour Brounson [Brunson], To the Bishop and Council of the Church of Jesus Christ of Latter Day Saints, [p. 29] I do hereby prefer the following Charges against Oliver Cowdery, which consists of nine in number. ...  2nd For seeking to destroy the Character of Pres. Joseph Smith Jr by falsly insinuating that he was guilty of adultery &c. ... 
-    
+
 ### D&C 132
 
 [D&C 132, received 12 July 1843](http://www.josephsmithpapers.org/paper-summary/revelation-12-july-1843-dc-132/1)
+
+[mormonpolygamydocuments.org](https://mormonpolygamydocuments.org/), a site of polygamy related documents hosted by Brian Hales, discusses [the provenance of Joseph C. Kingsbury's copy of D&C 132](https://mormonpolygamydocuments.org/provenance-dc-132-documented/).
 
 ### Sarah Ann Whitney documents
 
@@ -44,7 +46,7 @@ After Bennett left Nauvoo, he solicited an affidavit from Brotherton.  [Martha B
 
 An insider to Nauvoo polygamy wrote two exposés on Joseph Smith's polygamy in the Warsaw Message and then Warsaw Signal (same paper, just a change of names).  Bergera discusses the articles [here](https://web.archive.org/web/20100707004021/http://dig.lib.niu.edu/ISHS/ishs-2002winter/ishs-2002winter350.pdf).
 
-## Later non-LDS testimony corroborating key events
+## **Later** *non-LDS testimony* corroborating key events
 
 Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was introduced.  Given that his rejection of the revelation led to his excommunication, [his testimony](https://www.reddit.com/r/exmormon/comments/5d9pa1/leonard_soby_18061892_converted_to_mormonism_and/) seems especially relevant because he cannot be said to be biased by any possible later LDS conspiracy.
 
@@ -73,3 +75,8 @@ Some sources first h/t [this discussion](http://www.mormondialogue.org/topic/611
     > Parkin, Max H. “Conflict at Kirtland: A Study of the Nature and Causes of External and Internal Conflict of the Mormons in Ohio between 1830 and 1838.” Master’s thesis, Brigham Young University, 1966.
 
 [^hales_uses_brotherton]: Brian Hales [uses Brotherton's account](https://web.archive.org/web/20170312145923/http://josephsmithspolygamy.org:80/history/changes-in-february-1842/), with some caution, to discuss how polygamy proposals likely occurred.
+
+[^examples_of_polygamy_deniers]: A few notable examples of those suggesting that Joseph either did not practice polygamy or only very reluctantly practiced it, which typically involves a conspiracy theory led by Brigham Young and the Brighamite branch of the Church:
+    * Beyond the Mormon Binary published a four part essay ([part 1](https://www.cesanswers.info/post/polygamy1), [part 2](https://www.cesanswers.info/post/polygamy2), [part 3](https://www.cesanswers.info/post/polygamy3), [part 4](https://www.cesanswers.info/post/polygamy4))
+    * The Price's, RLDS researchers, published several volumes arguing that JS fought polygamy (e.g., [volume 2](https://web.archive.org/web/20170719175327/http://restorationbookstore.org:80/articles/nopoligamy/jsfp-vol2/2chp1.htm))
+    * The site [Hemlock Knots](https://hemlockknots.com/) contains [a detailed timeline of polygamy documents](https://hemlockknots.com/monogamy-polygamy-timeline/) and is meant to allow visitors to weigh the raw, historical data as to whether JS practiced polygamy.
