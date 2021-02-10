@@ -95,7 +95,7 @@ Audio/video recordings of other adherents [sharing their spiritual witnesses](ht
 
 ### God's will on gay marriage
 
-Another poll asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, *every single person* found that God agreed with their prior stance on same sex marriage---even though the stances were evenly divided and diametrically opposed among the collection of participants ([source](http://www.religioustolerance.org/god_pra6.htm)).
+Another poll asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, *every single person* found that God agreed with their prior stance on same sex marriage---even though the stances were evenly divided and diametrically opposed among the collection of participants ([design](http://www.religioustolerance.org/god_pra2.htm), [summary of results](http://www.religioustolerance.org/god_pra6.htm), and additional [details](http://www.religioustolerance.org/god_pra1.htm)).
 
 ## Confirmation of falsehoods
 
