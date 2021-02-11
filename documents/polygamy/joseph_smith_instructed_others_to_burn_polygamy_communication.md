@@ -8,7 +8,7 @@ layout: page
 
 ## Introduction
 
-The historical record suggests that in at least three cases, Joseph Smith instructed recipients or would-be recipients of communication to burn the communication.  Two are related to a polygamous marriage proposal and the other was regarding a meeting shortly after the polygamous marriage had taken place.
+The historical record suggests that in at least four cases, Joseph Smith instructed others to burn records, communication, or would-be recipients of communication.  Three incidents are tied to polygamy: two are related to a polygamous marriage proposal and the other was regarding a meeting shortly after the polygamous marriage had taken place.
 
 Joseph Smith Papers editors acknowledge these three instances in [footnote 6](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/2#1415580525105515545) of the Letter to the Whitneys:
 
@@ -113,6 +113,14 @@ Nancy Ridgon's proposal from Joseph Smith is related in Bennett's The History of
 > her virtue, *breathing the same spirit*, and *which he had fondly hoped was*
 > DESTROYED, ...
 
+## Whitney Clayton
+
+Aware of the plot on his and Hyrum's life, Joseph urged William Clayton to send the records of the Kingdom of God (aka, council of Fifty) away with someone faithful, burn them, or bury them.  From [the Tanner's summary of Ehat's notes](http://boap.org/LDS/Early-Saints/clayton-diaries)[^william_clayton_diaries_context]:
+
+> Saturday June 22. Joseph whispered and told me either to put the r. of K. into the hands of some faithful man and send them away, or burn them, or bury them. I concluded to bury them, which I did immediately on my return home.
+
 *Acknowledgement: Emily Partridge deposition h/t missedinsunday [here](https://www.reddit.com/r/exmormon/comments/ezu31h/joseph_smith_was_grooming_girls_from_a_position/)*
 
 [^aboutpolygamy]: This deposition was given in questioning about plural marriage, and [Hales assures us](https://josephsmithspolygamy.org/joseph-smith-proposals/): "Although Emily does not state the reason for her fears, she undoubtedly knew that the subject of the letter was plural marriage."
+
+[^william_clayton_diaries_context]: See J. Stapley's [article](https://bycommonconsent.com/2017/10/21/the-william-clayton-diaries/) for context on the William Clayton Diaries.
