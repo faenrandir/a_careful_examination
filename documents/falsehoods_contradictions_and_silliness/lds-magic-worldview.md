@@ -42,7 +42,7 @@ Generally speaking, the similarities between LDS practices and magic are freely 
 | dowsing                          | the gift of Aaron (or [working with the rod][boc-rod]) |
 | clairvoyance                     | revelations                                            |
 
-*Adapted from /u/Rushclock [here](https://www.reddit.com/r/exmormon/comments/kwnsha/how_many_absurdities_can_we_list_that_mormons/gj58zlb/)*
+*Adapted from /u/Rushclock [here](https://www.reddit.com/r/exmormon/comments/kwnsha/how_many_absurdities_can_we_list_that_mormons/gj58zlb/), originally list by /u/curious\_mormon*
 
 [boc-rod]: https://www.josephsmithpapers.org/paper-summary/book-of-commandments-1833/23
 [magic-definition]: https://www.merriam-webster.com/dictionary/magic
