@@ -16,7 +16,7 @@ Joseph Smith's [1832 account](https://www.josephsmithpapers.org/paper-summary/hi
 
 Some have suggested that this contradiction is more apparent than real: Joseph learned about all denominations being wrong from the first vision and he is simply conflating his understanding during the narration.  This seems difficult to support in reading his 1832 account since his account links his understanding with the action "by searching the scriptures I found that mankind ... had apostatised ... and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament."
 
-The contradiction in his 1838 account suggests potenial embellishment of the message delivered to him by (a) heavenly visitor(s).
+But taken together with the 1832 account, the contradiction in his 1838 account suggests potential embellishment and could be viewed as evidence for fabrication.
 
 ### Acknowledgements
 
