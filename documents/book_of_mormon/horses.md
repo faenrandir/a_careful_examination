@@ -30,22 +30,21 @@ Word "loan-shifting" has also been suggested as a way of dealing with the horse 
 
 ### Travois as the "chariot"?
 
-1. The word "chariot" seems to imply carrying a human.  It seems like a different word (e.g., "sled"?) would have been used to convey the idea of a travois?
-2. The word chariot comes from the latin "carrus" which means "wheeled vehicle".  That doesn't mean that a word might have been mistakenly used in translation, but the point is, again, that chariot also seems to imply "wheel".
+1. The word "chariot" seems to imply carrying a human.
+2. The word chariot comes from the latin "carrus" which means "wheeled vehicle" and in common usage implies wheels.
 
-So, a travois fails in both of the ways we think about what a "chariot" means.
+Also, it seems like a different available word (e.g., "sled"?) could easily have conveyed the idea of a travois?
+So, travois is a problematic candidate for "chariot".
 
 ### Deer?
 
-First of all, the _manner_ in which the Maya were taming deer seems at least somewhat orthogonal to the BoM account---it was the women who tamed the deer ([by letting them suck on their breasts](https://books.google.com/books?id=cQAQBAAAQBAJ&pg=PA21&lpg=PA21&dq=semi-domesticated+deer+Diego+de+Landa&source=bl&ots=TGlNYJxAD2&sig=i7l8wTNdYQiBb_LljwoSNPqI1qs&hl=en&sa=X&ved=2ahUKEwjWsd2JgKfcAhVBRqwKHSRKDUwQ6AEwC3oECAEQVw#v=onepage&q=semi-domesticated%20deer%20Diego%20de%20Landa&f=false)) and they would "carry them through the woods" and raise them "in the woods".  So, we can maybe imagine these deer being used for food, but then less-so as pack animals (which these deer were not).
+The idea that Joseph would have shifted the concept of deer to horse seems implausible for the following reasons:
 
-Regardless, the idea that Joseph would have shifted the concept of deer to horse seems implausible for the following reasons:
+* Middle Easterners would have been familiar with _both_ deer and horses.
+* Joseph Smith would have been familiar with both deer and horses.
+* I'm unaware of any loan-shifting (ever) from "deer" **to** "horse".  We have American Indians which called "horses" "deer", but that's because they likely did not have any words for or experience with horses.
 
-* Middle Easterners would have been familiar with _both_ deer and horses, so we can't pin this on them.
-* Joseph Smith would have been familiar with both deer and horses, so we can't really pin this on him, either.
-* Finally, I'm unaware of any loan-shifting (ever) from "deer" to "horse".  We have American Indians which called "horses" "deer", but that's because they likely did not have any words for or experience with horses.
-
-Linguistically, then, the most improbable loan shift seems to be from "deer" to "horse".  None of the preconditions are present which would make this a viable solution.
+Linguistically, then, the loan shift from "deer" to "horse" seems unlikely.
 
 ## Joseph Smith's milieu?
 
