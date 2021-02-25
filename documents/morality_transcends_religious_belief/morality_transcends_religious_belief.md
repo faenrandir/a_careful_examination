@@ -21,6 +21,7 @@ Here is a short list of great, morally-minded individuals who were/are agnostic 
 
 Several scientific studies suggest that the non-religious are as moral in everyday life as the religious.
 
+* [The amoral atheist? A cross-national examination ... PLOS One 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246593) - "...only minor differences between believers and disbelievers were found in endorsement of [non-group-cohesion-based] moral values (individualizing moral foundations, epistemic rationality)."
 * [Morality in everyday life. Science 2014](http://science.sciencemag.org/content/345/6202/1340) - "Religious and nonreligious participants did not differ in the likelihood or quality of committed moral and immoral acts."
 * [The Negative Association between Religiousness and Children’s Altruism across the World. Current Biology 2015](http://www.cell.com/current-biology/abstract/S0960-9822%2815%2901167-7) ([summary](http://www.sciencemag.org/news/2015/11/nonreligious-children-are-more-generous)) "Across all countries, parents in religious households reported that their children expressed more empathy and sensitivity for justice in everyday life than non-religious parents. However, religiousness was inversely predictive of children’s altruism and positively correlated with their punitive tendencies."
 
