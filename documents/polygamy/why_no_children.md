@@ -6,6 +6,20 @@ doctype: short-analysis
 layout: page
 ---
 
+1. The temporal pattern of Joseph's children with Emma suggests his ability to
+   control impregnation generally.
+
+    Joseph had eight children with Emma.  D. Michael Quinn points out [in
+    Early Mormonism and the Magic World
+    View](https://preview.redd.it/bx53sy00kvj61.png?width=691&format=png&auto=webp&s=85422f8a32fe86b55d2415b594cb51dca440d25c)
+    that "all of Smith's children were conceived in either February or
+    September" corresponding to what Quinn suggests was a belief that in these
+    months sexual generation was governed by Smith's ruling planet Jupiter.
+
+    His apparent ability to control the month of conception for all eight
+    children with his first wife Emma suggests that he was capable of
+    controlling impregnation generally.[^temporal_pregnancy]
+
 1. Joseph was likely not having much sex with his plural wives in comparison to Emma.
 
     * Some of his wives were kicked out of his home by Emma (Fanny Alger, Eliza Partridge, Emily Partridge) thus likely terminating any potential sexual relationships with these women.
@@ -63,3 +77,6 @@ layout: page
 ### Discussion
 
 Until/unless progeny via a polygamous reliationship is discovered, it is difficult to know with absolute certainty that Joseph Smith was having sex with anyone except Emma.  Still, as discussed above, a variety of possibilities exist to help potentially account for Joseph Smith not impregnating his plural wives.  Regardless of direct DNA evidence from progeny, [significant first-hand testimony exists that Joseph did have sex with many of his wives]({{ "/evidence-of-sex-in-joseph-smith-polygamy/" | relative_url }}).  In addition, other early practioners of polygamy---who were introduced to the practice by Joseph Smith---were impregnating their wives (e.g., Brigham Young), so we have good reason to believe that Joseph's polygamy was not practiced in radically different terms (i.e., completely asexual).
+
+[^temporal_pregnancy]: First heard of Joseph Smith's pattern of conception
+  from [this post](https://www.reddit.com/r/mormon/comments/lt5wvh/next_time_someone_says_joseph_smith_didnt_have/) by reddit user n8s8p.
