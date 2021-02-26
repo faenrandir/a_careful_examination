@@ -78,5 +78,4 @@ layout: page
 
 Until/unless progeny via a polygamous reliationship is discovered, it is difficult to know with absolute certainty that Joseph Smith was having sex with anyone except Emma.  Still, as discussed above, a variety of possibilities exist to help potentially account for Joseph Smith not impregnating his plural wives.  Regardless of direct DNA evidence from progeny, [significant first-hand testimony exists that Joseph did have sex with many of his wives]({{ "/evidence-of-sex-in-joseph-smith-polygamy/" | relative_url }}).  In addition, other early practioners of polygamy---who were introduced to the practice by Joseph Smith---were impregnating their wives (e.g., Brigham Young), so we have good reason to believe that Joseph's polygamy was not practiced in radically different terms (i.e., completely asexual).
 
-[^temporal_pregnancy]: First heard of Joseph Smith's pattern of conception
-  from [this post](https://www.reddit.com/r/mormon/comments/lt5wvh/next_time_someone_says_joseph_smith_didnt_have/) by reddit user n8s8p.
+[^temporal_pregnancy]: First heard of Joseph Smith's pattern of conception from [this post](https://www.reddit.com/r/mormon/comments/lt5wvh/next_time_someone_says_joseph_smith_didnt_have/) by reddit user n8s8p.
