@@ -6,8 +6,8 @@ doctype: short-analysis
 layout: page
 ---
 
-1. The temporal pattern of Joseph's children with Emma suggests his ability to
-   control impregnation generally.
+1. The pattern of conception of Joseph's children with Emma suggests his
+   ability to control impregnation generally.
 
     Joseph had eight children with Emma.  D. Michael Quinn points out [in
     Early Mormonism and the Magic World
