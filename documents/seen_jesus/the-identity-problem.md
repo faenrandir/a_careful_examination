@@ -15,7 +15,7 @@ Those who believe in the objective reality of visionary experiences describe vis
     # another way of showing the same thing:
     A -> V <- B
 
-But it could be that they are each seeing their own subjective version of this visionary being and they have wrongly assumed they were witnessing the same being?  For example, each thinks they are seeing Jesus but maybe one is seeing [red-robe Caucasian Jesus](https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-39623-gallery.jpg) and the other is seeing [an Arabic looking Jesus](http://p1cdn01.thewrap.com/images/2015/02/killing-jesus-nat-geo-trailer.png)?
+But it could be that they are each seeing their own subjective version of this visionary being and they have wrongly assumed they were witnessing the same being?  For example, each thinks they are seeing Jesus but maybe one is seeing [red-robe Caucasian Jesus](https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-39623-gallery.jpg) and the other is seeing [an Arabic looking Jesus](https://www.ancient-origins.net/sites/default/files/Jesus%20face.jpg)?
 
     A -> V
     B -> V'
