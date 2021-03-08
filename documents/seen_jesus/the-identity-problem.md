@@ -7,7 +7,7 @@ layout: page
 
 ### The divine visitor identity problem
 
-Those who believe in the objective reality of visionary experiences describe visionary experiences like this: Person A sees a visionary being and person B is also seeing the same visionary being (e.g., the Jesus of Nazareth).  
+Those who believe in the objective reality of visionary experiences describe visionary experiences like this: Person A sees a visionary being and person B is also seeing the same visionary being (e.g., the Jesus of Nazareth).
 
     A -> V
     B -> V
@@ -74,4 +74,4 @@ Latter-day Saints who might be inclined to think such procedures absurd may cons
 
     (1 / (2^128 ) )^2 ~= 8.7 x 10^-78
 
-    There are somewhere around 1078 atoms in the known universe, so the probability that they could produce the same checksum by chance is roughly the same as independently pointing to the exact same atom in all of the known universe. But "real-life" regularly produces independent verification on this order of magnitude (and often much, much higher). And, it's a verification we could do several days in a row. And someone could transmit the information along to someone else, etc. "Real life" tends to be ridiculously high in information content, orthogonality, transmissability, and reproducibility.
+    There are somewhere around 10<sup>78</sup> atoms in the known universe, so the probability that they could produce the same checksum by chance is roughly the same as independently pointing to the exact same atom in all of the known universe. But "real-life" regularly produces independent verification on this order of magnitude (and often much, much higher). And, it's a verification we could do several days in a row. And someone could transmit the information along to someone else, etc. "Real life" tends to be ridiculously high in information content, orthogonality, transmissability, and reproducibility.

@@ -108,7 +108,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
     > Several general authorities communicated to Stratford that his work had pushed the "position papers" forward.[27]
 
-    > [27] An LDS general authority (whom we have chosen not to identify by name) also conveyed to Matthew Harris that Stratford played a significant role in getting the "Gospel Topics Essays" released.
+    > An LDS general authority (whom we have chosen not to identify by name) also conveyed to Matthew Harris that Stratford played a significant role in getting the "Gospel Topics Essays" released.
 
     Reluctance on the part of LDS authorities to release the essays publicly
     is discussed in recent Harris and Bringhurst's Gospel Tangents interviews
