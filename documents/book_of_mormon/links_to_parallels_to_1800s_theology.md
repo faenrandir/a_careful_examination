@@ -36,7 +36,6 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 ### Extensive compilations or analyses
 
 1. [The Book of Mormon's dependence on the KJV](https://www.reddit.com/r/mormon/comments/e5lhqd/the_book_of_mormons_dependence_on_the_kjv_an/) (ImTheMarmotKing)
-1. [Original Stories of the Book of Mormon]({{ "/documents/book_of_mormon/original_stories_of_the_book_of_mormon/Original_Stories_of_the_Book_of_Mormon.pdf" | relative_url }})
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
 1. [Historical Influences](http://www.mormonthink.com/influences.htm#part2) and [Religious Influences](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
 1. [Indian Origins and the Book of Mormon](http://signaturebookslibrary.org/scripture-test/) (Dan Vogel)
