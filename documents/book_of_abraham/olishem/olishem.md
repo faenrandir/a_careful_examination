@@ -24,7 +24,7 @@ The Ulisum/Olishem connection is also discussed in depth by John Gee [here](http
 
 Problems with this potential match have been discussed at [RFM](https://www.exmormon.org/phorum/read.php?2,513409):
 
-1. The name is close, but is not really an exact match (compare "Ulišum" and "Olishem").  This may seem like nitpicking, but loose matches are far more likely to occur by random chance than exact matches. [note: I've read an analysis (Gee or Muhlstein?) arguing that the Akkadian shift (??) makes Ulisem and Olishem an exact match; need to dig this up]
+1. The name is close, but is not really an exact match (compare "Ulišum" and "Olishem").  This may seem like nitpicking, but loose matches are far more likely to occur by random chance than exact matches. [note: I've read an analysis (Gee or Muhlstein?) arguing that the Akkadian shift (??) makes Ulisem and Olishem an exact match; if so, this criticism is mostly or completely defused; add the citation when I find it again.]
 2. The location isn't a good fit relative to the ancient city-state of Ur (but note that LDS scholars postulate that the Ur identified by most scholars as Ur was not the Ur discussed in the BoA---they claim Abraham's Ur was [somewhere not far to the east of Haran](https://rsc.byu.edu/archived/pearl-great-price-revelations-god/where-was-ur-chaldees)).
 3. A possible scenario for how Joseph Smith could have derived the name from his study of the Hebrew language has been advanced:
 
@@ -55,6 +55,14 @@ Some have associated [Ur with Urfa](http://www.accuracyingenesis.com/ur.html#jou
 It is worth noting that if we assume that Ur is the Ur much farther to the Southeast (the Ur of current scholarly concensus) or Urfa (another proposed site for Ur), then the support for the BoA is weakened (Oylum Höyük is [745 miles away](https://www.google.com/maps/dir/%C5%9Eanl%C4%B1urfa,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Harran,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@35.1706292,37.9404716,421418a,35y,27.68t/data=!3m1!1e3!4m20!4m19!1m5!1m1!1s0x153471ebdc619091:0x8e788516b709466c!2m2!1d38.7955149!2d37.1674039!1m5!1m1!1s0x15343dad4905e597:0x6a17c99b458fad05!2m2!1d39.024276!2d36.863131!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2) and Urfa [doesn't seem adjacent to any plains](https://www.google.com/maps/dir/%C5%9Eanl%C4%B1urfa,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Harran,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@35.1706292,37.9404716,421418a,35y,27.68t/data=!3m1!1e3!4m20!4m19!1m5!1m1!1s0x153471ebdc619091:0x8e788516b709466c!2m2!1d38.7955149!2d37.1674039!1m5!1m1!1s0x15343dad4905e597:0x6a17c99b458fad05!2m2!1d39.024276!2d36.863131!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2) that could be associated with Oylum Höyük).
 
 [Map of the walk between Ur and Oylum Höyük (Olishem)] (745 miles or 1200 km)
+
+### Ur, Haran, Canaan and Olishem
+
+Genesis 11:31 and Abraham 2:15 set up a geography where Haraan is in between
+Ur and Canaan.  If that is the case, then Olishem in the proposed location of
+Ulisum seems inconsisten with those descriptions.
+
+Complete argument summarized [here](https://www.reddit.com/r/mormon/comments/m503b8/geographic_problems_with_olishem_and_a_northern_ur/).
 
 ### Abraham as a historical figure
 
