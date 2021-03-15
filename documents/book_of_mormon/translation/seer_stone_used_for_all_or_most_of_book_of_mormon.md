@@ -112,11 +112,11 @@ identified as having been obtained with the plates.  For instance, in 1834
 [Oliver Cowdery
 wrote](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h): 
 
-    > Day after day I continued, uninterrupted, to write from his mouth, as he translated with the Urim and Thummim, or, as the Nephites would have said, ‘Interpreters,’ the history or record called ‘The Book of Mormon.’
+> Day after day I continued, uninterrupted, to write from his mouth, as he translated with the Urim and Thummim, or, as the Nephites would have said, ‘Interpreters,’ the history or record called ‘The Book of Mormon.’
 
 And Joseph Smith's answered questions that were then published [in the Elder's Journal in 1838](https://www.josephsmithpapers.org/paper-summary/elders-journal-july-1838/11) (emphasis added):
 
-    > Question 4th. How, and where did you obtain the book of Mormon? Answer. Moroni, the person who deposited the plates, from whence the book of Mormon was translated, in a hill in Manchester, Ontario County New York, being dead; and raised again therefrom, appeared unto me, and told me where they were; and gave me directions how to obtain them. I obtained them, **and the Urim and Thummim with them; by the means of which, I translated the plates; and thus came the book of Mormon**.
+> Question 4th. How, and where did you obtain the book of Mormon? Answer. Moroni, the person who deposited the plates, from whence the book of Mormon was translated, in a hill in Manchester, Ontario County New York, being dead; and raised again therefrom, appeared unto me, and told me where they were; and gave me directions how to obtain them. I obtained them, **and the Urim and Thummim with them; by the means of which, I translated the plates; and thus came the book of Mormon**.
 
 Including Joseph and Oliver's descriptions, we can arrange these descriptions
 in a spectrum.
@@ -139,8 +139,6 @@ There is some tension between descriptions of A) alternate usage, and B) consecu
 * Qualifying A allows it to fit comfortably within the B model: Joseph may have alternated methods during the 116 pages translation, but the rest could have been translated with the seer stone.
 
 Given the data and arguments, it is reasonable to conclude that B is a subset of A.  The synthesis of these accounts that seems most likely, then, is that Joseph may have alternated use of the Urim and Thummim during the 116 page translation, but then he used the seer stone in his dictation of all of what we know as the Book of Mormon today.
-
-### Standard LDS 
 
 [^except_joseph_and_oliver]: Joseph Smith and Oliver Cowdery (the scribe responsible for writing the dictation of virtually all of what is known as the Book of Mormon today) both consistently taught that Joseph used the Urim and Thummim---found with the plates---to translate.  As discussed in the Analysis section, this is in some tension with most other eyewitness accounts.
 
