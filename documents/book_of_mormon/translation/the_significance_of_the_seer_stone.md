@@ -6,7 +6,7 @@ doctype: short-analysis
 layout: page
 ---
 
-## Background
+## Introduction
 
 The Gospel Topics essay [Book of Mormon Translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng) suggests that some significant number of those who are critical of LDS truth-claims do so because they question that God would use such an instrument.  The essay states:
 
