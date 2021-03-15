@@ -8,11 +8,11 @@ layout: page
 
 ## Introduction
 
-The Gospel Topics essay [Book of Mormon Translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng) suggests that some significant number of those who are critical of LDS truth-claims do so because they question that God would use such an instrument.  The essay states:
+The Gospel Topics essay [Book of Mormon Translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng) suggests that some significant number of those who are critical of LDS truth-claims do so because they question that God would use such an instrument.[^other_examples]  The essay states:
 
 > Some people have balked at this claim of physical instruments used in the divine translation process, but such aids to facilitate the communication of God’s power and inspiration are consistent with accounts in scripture. In addition to the Urim and Thummim, the Bible mentions other physical instruments used to access God’s power: the rod of Aaron, a brass serpent, holy anointing oils, the Ark of the Covenant, and even dirt from the ground mixed with saliva to heal the eyes of a blind man.
 
-The defense presented seems valid,[^valid_defense] but issues with use of the seer stone in the Book of Mormon go well beyond whether or not God would or could use physical instruments to bring about desired ends.
+The defense presented seems valid,[^valid_defense] but issues with use of the seer stone in producing the Book of Mormon go well beyond whether or not God would or could use physical instruments to bring about desired ends.
 
 ## Problems with Joseph's use of the seer stone
 
@@ -63,7 +63,7 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 * [Inaccurate portrayals of the translation of the Book of Mormon especially with respect to the usage of a seer stone](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf)
 * [FairMormon explains seer stones](https://www.docdroid.net/YUWL2TM/fairmormon-seer-stone-r2-pdf)
 
-[^example_seer_stone_strawman]: The argument is raised in the LDS gospel topics essay [Book of Mormon Translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng) which states, "Some people have balked at this claim of physical instruments used in the divine translation process, ..."  The argument is also captured colloquially in [this FairMormon video](https://www.youtube.com/watch?v=C0umGReiTRU):
+[^other_examples]: The argument is captured more colloquially in [this FairMormon video](https://www.youtube.com/watch?v=C0umGReiTRU):
 
     > You know what I don't get?  How people act like the seer stone part of the translation process is like the deal breaker ... it starts off with Moroni, an ancient Native American who dies and goes to heaven and comes back as a glowing angel---that's fine, right---literally an Indian flying through time and space to get Palmyra, New York is okay, but once you put a rock in a hat oh that's where it just gets crazy. ... since Joseph was the Prophet of the Restoration he would be spiritual numbered among ancient people like the priests of the Old Testament who used the Urim & Thummim, aka magic rocks, to perform the will of God or even Aaron who used a magic stick. ... He did use seer stones to translate but by the process of logic it's bizarre that someone would use this as a weapon against the Church.  Joseph Smith's first divine claim was that God and Jesus appeared to him.  If you don't believe in God or Jesus, then you don't believe Joseph's claim.  The seer stone divinity is operating under the umbrella of God existing.  The CES Letter is atheistic and examining the seer stone under an umbrella in which there isn't a God is meaningless.  If you do believe in God and Jesus then you've opened the door for angels, spirits, and all sorts of supernatural things.  It's not as if this is technically weirder than those things.  If you don't believe in anything supernatural or divine, then obviously you wouldn't beleive that God could use objects for divine purposes, so essentially we're saying, "who cares?" 
 
@@ -97,7 +97,7 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 
     1. *Premise 1*: The God of the Bible exists.
     1. *Premise 2*: The Bible is roughly accurate in conveying stories of God working through miraculous objects to accomplish his will.
-    1. *Then*: God occasionally works with objects to bring about his purposes.
-    1. *Then*: If the God of the Bible is inspiring Joseph, it is reasonable for Joseph Smith to have used the seer stone, an object, to translate the Book of Mormon and bring about God's purposes.
+    1. *Premise 3*: Joseph was instructed or inspired by the God of the Bible.
+    1. *Then*: It is reasonable and consistent with past events described in the Bible for Joseph Smith to have used an object (in this case, the seer stone) to translate the Book of Mormon in bringing about God's purposes.
 
     Hence, for anyone who accepts the Bible as an accurate or reliable representation of how God functions or is willing to contemplate an interventionist God in general, these arguments seem sound.
