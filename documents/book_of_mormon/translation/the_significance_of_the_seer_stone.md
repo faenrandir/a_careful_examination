@@ -1,5 +1,5 @@
 ---
-title: "The significance of the seer stone for Book of Mormon truth-claims"
+title: "The significance of the seer stone for LDS truth-claims"
 permalink: /the-significance-of-the-seer-stone/
 maintopic: book-of-mormon
 doctype: short-analysis
@@ -42,13 +42,11 @@ The *primary* issues raised by Joseph Smith's use of the seer stone are:
 
     To accept accounts of the seer stone being used for the Book of Mormon translation (in whole or part) at best casts doubt on Oliver and Joseph's abilities or motivation to be accurate in relating restoration events and at worst undermines confidence in their integrity generally.
 
-1. **Handling by the LDS Church suggests a failure in transparency or handling.** The fact that some significant fraction of members were unaware, or denied the validity, of the use of the seer stone until very recently *prima facie* suggests a failure of the Church to adequately resolve upon and promulgate Joseph's use of the stone.
+1. **Poor promulgation by the LDS Church suggests a failure in transparency or handling.** [Fairmormon acknowledges]({{ /fairmormon-transcript-has-the-church-tried-to-hide-use-of-seer-stone/ | relative_url }}) that the stone is "rarely (if ever) discussed in the 21st century in venues such as Sunday School, nor is it portrayed in any Church-related artwork."  The seer stone's use in translation is referenced a handful of times in Church related resources and a few times in official sources,[^mentions_of_seer_stone] but efforts to exhaustively catalog all mentions only serve to better make the case for poor handling: if a leading LDS historian, Richard Lloyd Anderson, was freely acknowledging use of the seer stone in the Book of Mormon translation in an Ensign article from 1977, why did this fail to find its way into standard curricula[^seminary_teachers_manual] in the intervening decades?
 
-    [Fairmormon acknowledges]({{ /fairmormon-transcript-has-the-church-tried-to-hide-use-of-seer-stone/ | relative_url }}) that the stone is "rarely (if ever) discussed in the 21st century in venues such as Sunday School, nor is it portrayed in any Church-related artwork."  They defend the Church against the accusation of "hiding" by referring to a 1974 Friend article (the LDS children's magazine) and a 1993 Ensign article where Russell M. Nelson describes Joseph's use of the seer stone.  The adequate defense against hiding is also an effective demonstration of the relative paucity of official LDS acknowledgement of use of the seer stone (i.e., once per twenty years, each time in a Church magazine) seems inadequate to disseminate such information to the general membership.
+    It is sometimes suggested that former members who were unaware of the use of the seer stone were simply uninformed.  But the historical record indicates that the ignorance (or misinformation) extended upwards to at least to someone like Clay Norton, a six missions served, former Mission President who felt confident enough in their gospel scholarship to publicly field questions about the Church.  In 2006, when asked about the seer stone, he [published a response](https://web.archive.org/web/20150413081309/http://askgramps.org/3994/brenda-7-why-did-joseph-smith-need-seer-stones-translate) indicating that "there is no evidence that [Joseph Smith] used such an object in his translation o[f] the Book of Mormon."[^ask_gramps]
 
-    It is sometimes suggested that former members who were unaware of the use of the seer stone were simply uninformed, since its use *is* discussed in the two aforementioned articles and in LDS scholarship published elsewhere (e.g., Welch's book chapter).  But when asked about the seer stone in 2006, even a six missions served, former Mission President who felt confident enough in their gospel scholarship to publicly field questions about the Church from the general public, answered that "there is no evidence that [Joseph Smith] used such an object in his translation o[f] the Book of Mormon."[^ask_gramps]
-
-    The historical reasons behind the disfavor for the idea that Joseph used the seer stone in translation are now well established,[^joseph_fielding_smith] but the failure of the Church to clarify and teach what has been an accepted historical fact for close to three decades,[^scholarly_circles] is troubling.  One can admit, for instance, that finding a way to consistently merge witness testimonies into a single narrative is difficult,[^contradicting_accounts] the narratives themselves are muddied by unclear terminology, and leaders of yesteryear did not necessarily have access to the copious information on the topic that we do today, even while appreciating the implications of the failure.  Whether from an inability to gain clarity on the history itself, a reluctance to spread a narrative that members might find uncomfortable for the aforementioned reasons, or an inability to effectively promulgate the data, it seems reasonable that such a failure might weaken confidence in the Church's ability to handle and transmit core aspects of the historical record.
+    The historical reasons behind the disfavor for the idea that Joseph used the seer stone in translation are now well established,[^joseph_fielding_smith] but the failure of the Church to clarify and teach what has been an accepted historical fact for close to three or four decades, is troubling.  One can admit, for instance, that finding a way to consistently merge witness testimonies into a single narrative is difficult,[^contradicting_accounts] the narratives themselves are muddied by unclear terminology, and leaders of yesteryear did not necessarily have access to the copious information on the topic that we do today, even while appreciating the implications of the failure.  Whether from an inability to gain clarity on the history itself, a reluctance to spread a narrative that members might find uncomfortable for the aforementioned reasons, or an inability to effectively promulgate the data, it seems reasonable that such a failure might weaken confidence in the Church's ability to handle and promulgate core aspects of the historical record.
 
 
 ## See also
@@ -65,9 +63,18 @@ The *primary* issues raised by Joseph Smith's use of the seer stone are:
 
 [^magic_worldview]: As believers in the general veracity of the Bible, Latter-day Saints tend to accept on some level [a magic-like worldview](https://faenrandir.github.io/a_careful_examination/the-lds-magic-worldview/).
 
+[^contradicting_accounts]: There are several variances, but the most significant [apparent contradiction]({{ /eyewitnesses-claiming-the-seer-stone-was-used/#a-narrative-spectrum | relative_url }}) is that Joseph Smith and Oliver said that Joseph translated the Book of Mormon using the Urim and Thummim, which had been obtained with the plates, whereas Emma Smith, David Whitmer, and Martin Harris all clearly separate the seer stone from the Urim and Thummim and describe Joseph using the seer stone after the loss of the 116 pages (Emma Smith and David Whitmer) or after use of the Urim and Thummim (Martin Harris).
+
+[^joseph_fielding_smith]: Histories on the topic (e.g., [here](http://www.withoutend.org/joseph-smiths-seer-stone-historiographical-glimpse/) and [here](https://journal.interpreterfoundation.org/the-spectacles-the-stone-the-hat-and-the-book-a-twenty-first-century-believers-view-of-the-book-of-mormon-translation/)) tend to highlight Joseph Fielding Smith's disfavor of the seer stone as an authentic translating device.
+
+[^seminary_teachers_manual]: The 2013 Doctrine and Covenants *teacher* manual
+  includes [mention of the seer stone in translation](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-0/lesson-10?lang=eng), but that makes absence in the student manual all the more conspicuous.
+
 [^unambiguous_urim_and_thummim]: Both Oliver Cowdery and Joseph Smith indicate that the Urim and Thummim used to translate the Book of Mormon was found with the plates, removing any ambiguity with regards to the chocolate seer stone which was discovered [digging a well](https://www.churchofjesuschrist.org/search?lang=eng&query=%22digging%20a%20well%22&highlight=true&page=1).
 
-[^ask_gramps]: Ask Gramps was originally run Clay Gorton, [a lifetime Latter-day Saint](https://askgramps.org/about/) and "prominent scientist" who served "six LDS missions" including missionary president in Argentina and president of the MTC in Santiago, Chile.  When asked in 2006 why Joseph used the "seer stones" to translate the Book of Mormon if he had the Urim and Thummim, [Norton responded](https://web.archive.org/web/20150413081309/http://askgramps.org/3994/brenda-7-why-did-joseph-smith-need-seer-stones-translate) in line with Joseph Fielding Smith that "there is no evidence that he used such an object in his translation o[f] the Book of Mormon." 
+[^ask_gramps]: Originally heard through Mithryn's post [here](https://www.reddit.com/r/exmormon/comments/5h7wk9/we_never_excommunicated_anyone_over_belief_in/).
+
+[^mentions_of_seer_stone]: The Book of Mormon Translation Gospel Topics essay [states](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng): "Two accounts of the translation process, including the use of a seer stone, have been written by members of the Quorum of the Twelve Apostles and published in Church magazines. Historians have also written about the seer stone in Church publications, both in the Ensign and in The Joseph Smith Papers." Fairmormon catalogs [some other usage](https://www.fairlatterdaysaints.org/answers/Mormonism_and_history/Censorship_and_revision/Hiding_the_facts#The_seer_stone_and.2For_the_stone_with_the_hat), too.
 
 [^example_of discounting_seer_stone]: Ask Gramps was originally run Clay Gorton, [a lifetime Latter-day Saint](https://askgramps.org/about/) and "prominent scientist" who served "six LDS missions" including missionary president in Argentina and president of the MTC in Santiago, Chile.  When asked in 2006 why Joseph used the "seer stones" to translate the Book of Mormon if he had the Urim and Thummim, [Norton responded](https://web.archive.org/web/20150413081309/http://askgramps.org/3994/brenda-7-why-did-joseph-smith-need-seer-stones-translate) in line with Joseph Fielding Smith that "there is no evidence that he used such an object in his translation o[f] the Book of Mormon." 
 
@@ -79,26 +86,13 @@ The *primary* issues raised by Joseph Smith's use of the seer stone are:
 
 [^retranslation]: The revelation in [D&C 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=eng) claims that wicked men had stolen the manuscript and had altered the words in an effort to trap Joseph in a potential re-translation effort.  The revelation hints at a potentially greater concern if Joseph were to produce a re-translation and it did not match the first 116 pages: "they will say that you have lied and that you have pretended to translate, but that you have contradicted yourself."  A reproduced document that only varied in a few ways would allow the lost/altered pages to be scrutinized and alterations would likely be obvious on inspection.  In such a manner, the original scripture could have been preserved, Joseph Smith's ability to accurately (re-)produce a translation validated,  and any (purported) evil designs completely frustrated.
 
+[^sloppy_terminology]:  The chocolate colored seer stone and the Nephite interpreters seem conflated by some witnesses in such terms as the "Urim and Thummim", and "Interpreters".  See [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) for examples.  Emma Smith, David Whitmer, and Martin Harris tend to clearly distinguish between the Urim and Thummim and the seer stone, and Emma Smith and David Whitmer clearly describe the shift from the Urim and Thummim to the seer stone after the loss of the 116 pages.
 
-[^sloppy_terminology]:  The chocolate colored seer stone and the Nephite interpreters seem conflated by some witnesses in such terms as the "Urim and Thummim", and "Interpreters".  See [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) for examples.
+[^valid_defense]: The vast majority of believing Latter-day Saints do tend to *already* accept the idea that various inanimate objects may be used as *part* of God's work.[^magic_worldview]  The argument for accepting the use of physical objects in God's handiwork can be formalized:
 
----
+    1. Premise 1: The God of the Bible exists.
+    1. Premise 2: The Bible is roughly accurate in conveying stories of God working through miraculous objects to accomplish his will.
+    1. Then: God occasionally works with objects to bring about his purposes.
+    1. Then: If the God of the Bible is inspiring Joseph, it is reasonable for Joseph Smith to have used the seer stone, an object, to translate the Book of Mormon and bring about God's purposes.
 
-EXTRA
-
-Regardless, the use of the seer stone to translate the Book of Mormon raises a number of more substantial issues,[^ces_letter_more_substantial] enumerated below.
-
-In literature dealing with LDS faith transitions, it is sometimes stated or
-implied[^example_seer_stone_strawman] that those who lose confidence in LDS
-truth-claims once learning about Joseph Smith translating with a seer stone do
-so hastily.  The argument can be constructed like this:
-
-1. Premise 1: The God of the Bible exists.
-1. Premise 2: The Bible is roughly accurate in the stories of God working through
-   miraculous objects to accomplish his will.
-1. Then: God occasionally works with objects to bring about his purposes.
-1. Then: If God is inspiring Joseph, then it is reasonable for Joseph Smith to have used the seer stone, an object, to translate the Book of Mormon and bring about God's purposes.
-
-The vast majority of believing Latter-day Saints do tend to *already* accept the idea that various inanimate objects may be used as *part* of God's work.[^magic_worldview]
-
-For anyone who accepts the Bible as an accurate or reliable representation of how God functions or is willing to contemplate an interventionist God in general, these arguments seem sound.
+    Hence, for anyone who accepts the Bible as an accurate or reliable representation of how God functions or is willing to contemplate an interventionist God in general, these arguments seem sound.
