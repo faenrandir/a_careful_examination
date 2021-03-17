@@ -221,7 +221,7 @@ Because it follows good propaganda technique, testimony is powerful at persuadin
 
 Latter-day Saints are exposed to Church teachings on a consistent, frequent basis.  Three hours of Sunday meetings (which are mostly composed of lessons and talks), firesides and devotionals, daily family and individual scripture study, family home evening, mutual activities, and school-day seminary/institute instruction mean that an active member is exposed to LDS teachings on a continual basis.  Such a program is useful for encouraging the internalization of LDS teachings, and repetition is a useful tool when trying to learn anything new.  But, such repetition can also explain some of the positive feelings associated with Church activity and how a member can "just know."
 
-In what is known as the ["illusory truth effect"](https://en.wikipedia.org/wiki/Illusory_truth_effect), experiments have shown that as we are repeatedly exposed to information, regardless of its truth, we are more inclined to believe it.
+In what is known as the ["illusory truth effect"](https://en.wikipedia.org/wiki/Illusory_truth_effect),[^illusory_truth_video] experiments have shown that as we are repeatedly exposed to information, regardless of its truth, we are more inclined to believe it.
 
 Similarly, we experience what psychologists refer to as a "warm glow" as we are exposed to the familiar in what is termed the ["mere-exposure effect"](https://en.wikipedia.org/wiki/Mere-exposure_effect).[^familiarity]
 
@@ -354,6 +354,8 @@ The reward for such investigation is likely worth the discomfort---the more accu
     This kind of approach is useful for internalizing desired attributes (e.g., [positive thinking](http://jamesclear.com/positive-thinking)) but the validity of factual "truths" obtained in such a manner remains in question.
 
 [^religiousbias]: It is easy to see biases in those with other beliefs but difficult to see our own biases (see the video ["Sacred Bias"](https://www.youtube.com/watch?v=IFShwrA_rGw) for several examples and discussion).  See "[Reality Schmeality](http://rationalfaiths.com/reality-schmeality/)" for additional relevant biases.
+
+[^illusory_truth_video]: A great video that gives examples related to the "illusory truth effect" is [The Illusion of Truth](https://www.youtube.com/watch?v=cebFWOlx848) by Veritasium.
 
 [^wrong_road]: A good example of this kind of rationalization is from [Wrong Roads](https://www.youtube.com/watch?v=yNQC-_srxH8) a Mormon Message by Jeffrey R. Holland where he and his son pray and both feel that they should take a particular road.  The road turns out to be a dead-end!  Holland's son questions him about this, but Elder Holland is able to easily rationalize the answer: going the wrong way helped them to *more quickly* find the right road and have *more confidence* it was the right way out.  The problem with this kind of thinking is that it does not allow for an answer to ever be wrong, so the veracity of all answers interpreted in this light becomes suspect.
 
