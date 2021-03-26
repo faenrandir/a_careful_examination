@@ -9,7 +9,7 @@ layout: page
 
 Since the early 1990's, it has been written and published that the April 1910 Priesthood Quorums' Table (PQT) entry entitled "Origin of Man" represented a First Presidency Statement on the topic.  A few examples:
 
-1. A modified version of [the BYU Evolution packet](https://nelsonlab.byu.edu/Portals/27/docs/BYU_Evolution_Packet_only.pdf) was occasionally passed out to students in the College of Biology and Agriculture at BYU (personal observation) which was appended with the April 1910 Priesthood Quorums' Table (PQT) entry.  Above it, the instructor (Duane Jeffery?) had noted that it was the "only other document directly dealing with evolution which can be formally identified with the First Presidency."
+1. A modified version of [the BYU Evolution packet](https://web.archive.org/web/20200425072749/https://nelsonlab.byu.edu/Portals/27/docs/BYU_Evolution_Packet_only.pdf) was occasionally passed out to students in the College of Biology and Agriculture at BYU (personal observation) which was appended with the April 1910 Priesthood Quorums' Table (PQT) entry.  Above it, the instructor (Duane Jeffery?) had noted that it was the "only other document directly dealing with evolution which can be formally identified with the First Presidency."
 
 2. When Evenson and Jeffery published [Mormonism and Evolution: The Authoritative LDS Statements](https://gregkofford.com/products/mormonism-and-evolution), initially in 2006, they also included the 1910 PQT entry, but gave it the title "First Presidency Instructions to the Priesthood: 'Origin of Man,' 1910" (see [here](https://ndbf.blogspot.com/2006/05/mormonism-and-evolution-authoritative.html)).
 
