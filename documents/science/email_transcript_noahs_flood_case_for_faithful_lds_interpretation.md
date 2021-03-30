@@ -60,7 +60,7 @@ The doctrine is taught or hinted at in some form by the Catholic church (catechi
 
 #### B2. Orson Pratt probably picked up the doctrine while in England.
 
-The idea that the flood was a needed baptism for the Earth was initially [promulgated within the LDS tradition by Orson Pratt](https://archive.org/details/waterbaptismorso00prat) and was likely seeded by Orson Pratt's potential exposure to those [teachings in England](http://anglicanhistory.org/england/misc/evans_dove1848.html) (Pratt was a mission president stationed in England when it was being taught there).
+The idea that the flood was a needed baptism for the Earth was initially [promulgated within the LDS tradition by Orson Pratt](https://archive.org/details/waterbaptismorso00prat) and was likely seeded by Orson Pratt's potential exposure to those [teachings in England](http://anglicanhistory.org/england/misc/evans_dove1848.html) (Pratt was a mission president stationed in England when it was being taught there). [note: it turns out that W.W. Phelps was first to teach it [some years before Orson Pratt](https://rsc.byu.edu/let-us-reason-together/was-noahs-flood-baptism-earth), but Pratt may have been the one to popularize the idea in the LDS tradition.  Also, Pratt may have been exposed to the idea [elsewhere](https://faenrandir.github.io/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/).]
 
 Elder Pratt, while highly respected by the other Brethren for his broad learning, was also officially censured for much of the doctrine he espoused.
 
