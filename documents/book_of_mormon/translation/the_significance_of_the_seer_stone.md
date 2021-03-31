@@ -22,7 +22,7 @@ The *primary* issues raised by Joseph Smith's use of the seer stone are:
 
 1. **Use of the seer stone frames the Book of Mormon as a treasure digging extension.** Because Joseph found the stone digging a well[^digging_a_well] and used it as part of his treasure digging activities,[^part_of_treasure_digging] then it makes it much easier to view the finding and translation of the Book of Mormon as an *extension* of his treasure digging activities.  It makes it easier to view Moroni as a treasure guardian and the Book of Mormon as part of a strategy (with pious intentions or not) emanating from that perspective.
 
-1. **The stone's dubious utility in helping find treasure undermines expectations that it would be efficacious in producing genuine translations.** We lack evidence that Joseph ultimately helped recover any treasure with his seer stone, and this undermines expectations that the stone might be of aid in producing an accurate translation of an ancient document.
+1. **The stone's dubious utility in helping find treasure undermines expectations that it would be efficacious in producing genuine translations.** We lack evidence that Joseph ultimately helped recover any legitimate treasure with his seer stone,[^recovery_of_treasure] and this undermines expectations that the stone might be of aid in producing an accurate translation of an ancient document.
 
 1. **Why was the seer stone unhelpful in recovering the lost 116 pages?** If the primary/original function of the seer stone was to enable Joseph to find treasure, then why did he not look into the stone to locate the 116 missing pages?  And why was Joseph so distraught with their loss if he really could simply re-translate them again with the seer stone?
 
@@ -44,7 +44,7 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 
     > Question 4th. How, and where did you obtain the book of Mormon? Answer. Moroni, the person who deposited the plates, from whence the book of Mormon was translated, in a hill in Manchester, Ontario County New York, being dead; and raised again therefrom, appeared unto me, and told me where they were; and gave me directions how to obtain them. I obtained them, **and the Urim and Thummim with them; by the means of which, I translated the plates; and thus came the book of Mormon**.
 
-    But all other major eyewitnesses to (and partial participants in) the translation of the Book of Mormon (Emma Smith, Martin Harris, David Whitmer, and William Smith) are fairly consistent in describing [use of the seer stone for all or nearly all]({{ "/eyewitnesses-claiming-the-seer-stone-was-used/" | relative_url }}) of the Book of Mormon translation after the lost 116 pages.  Although some confusion may have arisen based on sloppy terminology[^sloppy_terminology], most of the eyewitnesses describing Joseph's use of the seer stone clearly distinguished it from the Nephite Interpreters.
+    But all other major eyewitnesses to (and partial participants in) the translation of the Book of Mormon (Emma Smith, Martin Harris, David Whitmer, and William Smith) are fairly consistent in describing [use of the seer stone for all or nearly all]({{ "/eyewitnesses-claiming-the-seer-stone-was-used/" | relative_url }}) of the Book of Mormon translation after the lost 116 pages.  Although some confusion may have arisen based on sloppy terminology[^sloppy_terminology], most of the eyewitnesses describing Joseph's use of the seer stone clearly distinguished it from the Nephite Interpreters.[^distinguish_between_them]
 
     To accept accounts of the seer stone being used for the Book of Mormon translation (in whole or part) at best casts doubt on Oliver and Joseph's abilities or motivation to be accurate in relating restoration events and at worst undermines confidence in their integrity generally.
 
@@ -58,10 +58,9 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 ## See also
 
 * [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) (book chapter from Welch's "Opening the Heavens: Accounts of Divine Manifestations, 1820-1844")
-* [Published references to the seer stone](https://www.docdroid.net/dzZ3eVO/early-references-to-the-seer-stone-in-official-church-literature-v03-pdf)
-* [B.H. Roberts and the construction of the LDS narrative on Seer Stones](http://mormonscholar.org/b-h-roberts-and-the-construction-of-the-lds-narrative-on-seer-stones/)
-* [Inaccurate portrayals of the translation of the Book of Mormon especially with respect to the usage of a seer stone](https://www.docdroid.net/C32AVOh/deliberate-deception-related-to-the-seer-stone-pdf)
-* [FairMormon explains seer stones](https://www.docdroid.net/YUWL2TM/fairmormon-seer-stone-r2-pdf)
+* [The Spectacles, the Stone, the Hat, and the Book: A Twenty-first Century Believer’s View of the Book of Mormon Translation](https://journal.interpreterfoundation.org/the-spectacles-the-stone-the-hat-and-the-book-a-twenty-first-century-believers-view-of-the-book-of-mormon-translation/) (Roger Nicholson's 2013 analysis in The Interpreter)
+* mormonscholar.org [Seer Stone Related Materials](http://mormonscholar.org/resources/)
+
 
 [^other_examples]: The argument is captured more colloquially in [this FairMormon video](https://web.archive.org/web/20201130054645if_/https://www.youtube.com/watch?v=C0umGReiTRU).
 
@@ -103,3 +102,7 @@ Besides the events surrounding the use of the seer stone, there are two main iss
     1. *Then*: It is reasonable and consistent with past events described in the Bible for Joseph Smith to have used an object (in this case, the seer stone) to translate the Book of Mormon in bringing about God's purposes.
 
     Hence, for anyone who accepts the Bible as an accurate or reliable representation of how God functions or is willing to contemplate an interventionist God in general, these arguments seem sound.
+
+[^distinguish_between_them]: A collection of the main eyewitnesses to the translation process is [here]({{ "/eyewitnesses-claiming-the-seer-stone-was-used/" | relative_url }}).  This conclusion is supported by Roger Nicholson's analysis of the seer stone in the Book of Mormon translation: "Martin [Harris] was aware of the existence of and distinction between two different translation instruments", "David Whitmer, who only observed the translation after the loss of the 116 pages, also distinguished the Urim and Thummim (the spectacles) from the seer stone", and "Emma Smith also confirms that Joseph switched between the Urim and Thummim and seer stone."
+
+[^recovery_of_treasure]: There are a handful of accounts suggesting that Joseph was able to see things with his stone. For instance, in 1884 David Whitmer recounted that Oliver "had asked Joseph to look in the Seer stone, that he did so, and told him all these particulars of my journey." ([as cited in the Meridian magazine](https://latterdaysaintmag.com/the-church-shows-joseph-smiths-seer-stone-for-the-first-time-five-things-to-know-about-the-seer-stone/)).  However, the only physical objects recorded to have been recovered by Joseph Smith consist of a "pin" used as a toothpick recovered from a pile of straw and shavings ([as cited in the Meridian magazine](https://latterdaysaintmag.com/the-church-shows-joseph-smiths-seer-stone-for-the-first-time-five-things-to-know-about-the-seer-stone/)), a piece of ore that resembled gold, and a "stump 5 feet from the surface" and with it a "a tail feather" which ended up being the only remnant of a treasure that purportedly "moved down" so as to be unrecoverable. (see Josiah Stowell's testimony in The Docket Entry to the 20 March 1826 trial People of the State of New York vs. Joseph Smith records [Joseph Smith Papers](https://www.josephsmithpapers.org/paper-summary/appendix-docket-entry-20-march-1826-people-v-js/1#full-transcript)).

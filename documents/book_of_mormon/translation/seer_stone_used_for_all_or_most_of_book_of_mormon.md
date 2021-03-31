@@ -140,6 +140,10 @@ There is some tension between descriptions of A) alternate usage, and B) consecu
 
 Given the data and arguments, it is reasonable to conclude that B is a subset of A.  The synthesis of these accounts that seems most likely, then, is that Joseph may have alternated use of the Urim and Thummim during the 116 page translation, but then he used the seer stone in his dictation of all of what we know as the Book of Mormon today.
 
+### Consistency with Roger Nicholson's analysis
+
+The above analysis was performed independently and primarily with the use of Welch's accounts where accounts were first filtered based on reference to a stone during the translation.  I was certainly aware of basic models for the translation, including the idea that the Book of Mormon text that we have today was translated exclusively with the chocolate colored seer stone.
+
 [^except_joseph_and_oliver]: Joseph Smith and Oliver Cowdery (the scribe responsible for writing the dictation of virtually all of what is known as the Book of Mormon today) both consistently taught that Joseph used the Urim and Thummim---found with the plates---to translate.  As discussed in the Analysis section, this is in some tension with most other eyewitness accounts.
 
 [^likelihood_of_observing]: Witness statements are arranged by individual according to a simple estimation of how likely each were to observe the most of the translation process: Emma Smith was Joseph's wife and lived with him through almost all the translation process; Martin Harris was involved in translating the first 116 pages and was one of the three witnesses to the golden plates; David Whitmer was interested in the translation, the translation concluded at his father's farm, and he was one of the 3 witnesses to the golden plates; and William Smith was the brother of Joseph.
