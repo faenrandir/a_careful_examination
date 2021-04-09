@@ -46,9 +46,10 @@ or Spirit (scriptural verses are not shown):
 
 #### Potential phenomenological explanations
 
-I believe that the archetypal LDS spiritual experience involves a _mixture_ of these 4 things:
+The archetypal LDS spiritual experience may involve some _mixture_ of these elements:
 
 1. A feeling of [elevation](https://en.wikipedia.org/wiki/Elevation_%28emotion%29): this is a hormonally-mediated feeling that produces a "swelling" feeling in the chest and is generated when witnessing or performing altruistic acts or participating in acts of transcendent beauty.[^oxytocin]
+1. [Frisson](https://en.wikipedia.org/wiki/Frisson): "a psychophysiological response to rewarding auditory and/or visual stimuli that often induces a pleasurable or otherwise positively-valenced affective state."
 2. The warm glow of familiarity (aka “glow of warmth”): We resonate with things we are already familiar with. There is also a tendency to believe information to be correct after repeated exposure known as the [illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect) (e.g., [retentive socialization and indoctrination]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}) within the LDS Church).  This may be why a Mormon doesn’t feel exactly the same “Spirit” when they attend a Catholic service and why the Catholic also doesn’t feel exactly the same “spirit” attending an LDS service.
 3. Some kind of [inner speech](https://www.psychologicalscience.org/news/releases/internal-speech-is-driven-by-predictive-brain-signal.html) or [inner experience](https://faculty.unlv.edu/hurlburt/sampling.html): this is the mind part of "I will tell you in your _mind_ and in your heart" (D&C 8:2).
 4. Congruence with accepted LDS doctrine or current policy.  Although the relationship is probably complex, it's reasonable to postulate that oxytocin release is related to [tend and befriend](https://www.apa.org/monitor/feb08/oxytocin.aspx) tendencies.  Hence, rumination on ideas which are accepted by one's group are more likely to initiate strong oxytocin type responses.  Formally speaking, any inspiration which is received that does not affirm LDS doctrine and current policy is not considered _The Spirit_ by Latter-day Saints.  This was canonized in a 1913 First Presidency Statement:
