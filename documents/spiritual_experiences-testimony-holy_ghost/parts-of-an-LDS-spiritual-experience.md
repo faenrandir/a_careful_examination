@@ -7,6 +7,45 @@ layout: page
 
 ### The LDS Spiritual Experience
 
+#### Official LDS descriptions of The Spirit
+
+[Chapter
+4](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng)
+of the Preach My Gospel manual gives the most detailed and basic description
+of the kinds of phenomena meant to indicate an experience with the Holy Ghost,
+or Spirit (scriptural verses are not shown):
+
+* "Gives feelings of love, joy, peace, patience, meekness, gentleness, faith, and hope."
+* "Gives ideas in the mind, feelings in the heart."
+* "Occupies the mind and presses on the feelings."
+* "Helps scriptures have strong effect."
+* "Gives good feelings to teach if something is true."
+* "Enlightens the mind."
+* "Replaces darkness with light."
+* "Strengthens the desire to avoid evil and obey the commandments."
+* "Teaches truth and brings it to remembrance."
+* "Gives feelings of peace and comfort."
+* "Guides to truth and shows things to come."
+* "Reveals truth."
+* "Guides and protects from deception."
+* "Glorifies and bears record of God the Father and Jesus Christ."
+* "Guides the words of humble teachers."
+* "Recognizes and corrects sin."
+* "Gives gifts of the Spirit."
+* "Helps to perceive or discern the thoughts of others."
+* "Tells what to pray for."
+* "Tells what to do."
+* "Helps the righteous speak with power and authority."
+* "Testifies of the truth."
+* "Sanctifies and brings remission of sins."
+* "Carries truth to the heart of the listener."
+* "Enhances skills and abilities."
+* "Constrains (impels forward) or restrains (holds back)."
+* "Edifies both teacher and students."
+* "Gives comfort."
+
+#### Potential phenomenological explanations
+
 I believe that the archetypal LDS spiritual experience involves a _mixture_ of these 4 things:
 
 1. A feeling of [elevation](https://en.wikipedia.org/wiki/Elevation_%28emotion%29): this is a hormonally-mediated feeling that produces a "swelling" feeling in the chest and is generated when witnessing or performing altruistic acts or participating in acts of transcendent beauty.[^oxytocin]
@@ -24,7 +63,7 @@ Some of the above criteria may be used by Latter-day Saints to dismiss the spiri
 * "Of course Catholics feel a portion of the spirit, but every time I attend a Catholic service I don't feel _the same_ spirit there, so they clearly don't have all the truth" (fails test #2 - familiarity)
 * "You say that "the Spirit" told you the brethren are in error (or you should be re-baptized, or Joseph Smith was wrong about polygamy, or you should leave the Church, etc) but that cannot be _The Spirit_ since _The Spirit_ will never contradict accepted LDS doctrine or currently accepted policy" (fails test #4).
 
-Note: heightened scrutiny is reserved for feelings which contradict LDS truth-claims---virtually _any_ positive feeling is considered _The Spirit_ if it is in support of LDS truth-claims.
+Note: heightened scrutiny seems reserved for feelings which contradict LDS truth-claims---virtually _any_ positive feeling can be considered _The Spirit_ if it is in support of LDS truth-claims.
 
 ### See also:
 
