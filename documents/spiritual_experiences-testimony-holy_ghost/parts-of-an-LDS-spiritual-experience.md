@@ -5,7 +5,7 @@ doctype: short-analysis
 layout: page
 ---
 
-#### The LDS Spiritual Experience
+### The LDS Spiritual Experience
 
 I believe that the archetypal LDS spiritual experience involves a _mixture_ of these 4 things:
 
@@ -16,7 +16,7 @@ I believe that the archetypal LDS spiritual experience involves a _mixture_ of t
 
     > When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doc­trine Teacher’s Man­u­al [Les­son 6: “I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 
-#### Dismissal
+### Common dismissals
 
 Some of the above criteria may be used by Latter-day Saints to dismiss the spiritual experiences of others.  While #1 may be shared by people of all religions (and maybe #3 to some extent), it won't really matter to a Latter-day Saint because they can dismiss other experiences based on #2, #3, or #4.  Here are some examples:
 
@@ -25,5 +25,10 @@ Some of the above criteria may be used by Latter-day Saints to dismiss the spiri
 * "You say that "the Spirit" told you the brethren are in error (or you should be re-baptized, or Joseph Smith was wrong about polygamy, or you should leave the Church, etc) but that cannot be _The Spirit_ since _The Spirit_ will never contradict accepted LDS doctrine or currently accepted policy" (fails test #4).
 
 Note: heightened scrutiny is reserved for feelings which contradict LDS truth-claims---virtually _any_ positive feeling is considered _The Spirit_ if it is in support of LDS truth-claims.
+
+### See also:
+
+* [Testimony, spiritual experiences, and truth: A careful examination](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/)
+* [Resources on faith, spiritual witnesses, and epistemology](https://faenrandir.github.io/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/)
 
 [^oxytocin]: A direct connection between variants in oxytocin receptor genes (OXTR rs53576, rs6449182 and rs3796863) and receptivity to spiritual feelings has been demonstrated by [Cappellen et al in 2016](https://academic.oup.com/scan/article/11/10/1579/2413952) ([summary](https://today.duke.edu/2016/09/oxytocin-enhances-spirituality-new-study-says)).
