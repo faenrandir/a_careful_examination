@@ -8,7 +8,7 @@ layout: page
 
 ### Introduction
 
-Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's anslysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis]({{ "/joseph-smith-polygamy-denials/" | relative_url }})).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
+Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's analysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis]({{ "/joseph-smith-polygamy-denials/" | relative_url }})).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
 
 However, some *contemporary* evidence exists that Joseph Smith practiced polygamy.
 
@@ -30,7 +30,7 @@ However, some *contemporary* evidence exists that Joseph Smith practiced polygam
 
 ### Sarah Ann Whitney documents
 
-A trio of primary documents, all signed or in Joseph Smith's hand implicate him in plural marriage with Sarah Ann Whitney.  The three documents together are difficult to explain outside the context of a plural marriage.
+A trio of primary documents, all signed or in Joseph Smith's hand, implicate him in plural marriage with Sarah Ann Whitney.  The three documents together are difficult to explain outside the context of a plural marriage.
 
 1. [Blessing to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/blessing-to-sarah-ann-whitney-23-march-1843/1) [in Joseph Smith's hand] Sarah turned 18 the day before.
 2. [Deed to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/deed-to-sarah-ann-whitney-6-september-1842/1) [signed by Joseph Smith] Sarah was 17 years old at the time of this deed.
