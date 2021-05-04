@@ -7,11 +7,11 @@ layout: page
 
 ## Introduction
 
-The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost is central to understanding truth.[^understanding_truth]. Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.lds.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
+The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.lds.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
 
 ### LDS description
 
-The Preach My Gospel manual, [chapter 4](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng), gives a clear and understanable summary of the kinds of phenomena meant to indicate an experience with the Holy Ghost, (aka The Spirit).  Those most directly related to mental and physical phenomena---are reproduced below:[^complete_list]
+The Preach My Gospel manual, [chapter 4](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng), gives a clear and understandable summary of the kinds of phenomena meant to indicate an experience with the Holy Ghost, (aka The Spirit).  Those most directly related to mental and physical phenomena---are reproduced below:[^complete_list]
 
 * "Gives feelings of love, joy, peace, patience, meekness, gentleness, faith, and hope."
 * "Gives ideas in the mind, feelings in the heart."
@@ -45,11 +45,11 @@ What is perceived as an LDS spiritual experience (or the Spirit or Holy Ghost) m
 
 ## Ways that experiences may be dismissed
 
-Some of the phenomena used above seem to be used occasionally by Latter-day Saints to *dismiss* a purported spiritual experiences of former members, questioners, or those of other faith traditions.
+Some of the phenomena above may occasionally be used by Latter-day Saints as *criteria* by which to judge other spiritual experiences.  Some contrived examples (but based on many conversations) follow:
 
-* "You may have felt good while watching that movie, but that's just a good feeling because the Spirit must also convey intelligence to your mind" (fails to manifest element #3 - must convey something to the mind)
+* "You may have felt good while watching that movie, but that's just a good feeling because the Spirit must also convey intelligence to your mind" (fails to manifest element #3 - must convey something to the mind) [example 1](http://conflictofjustice.com/feel-spirit-r-rated-movies-church/), [example 2](http://conflictofjustice.com/is-gods-method-of-revealing-truth-through-feelings-effective/), [example 3](https://www.fairlatterdaysaints.org/answers/Holy_Ghost/Burning_in_the_bosom)
 * "Of course Catholics feel a portion of the spirit, but every time I attend a Catholic service I don't feel _the same_ spirit there, so I don't believe they have all the truth" (fails to manifest element #2 - familiarity)
-* "You say that "the Spirit" told you the brethren are in error (or you should be re-baptized, or Joseph Smith was wrong about polygamy, or you should leave the Church, etc) but that cannot be the Spirit since the Spirit will never contradict accepted LDS doctrine or currently accepted policy" (fails to manifest element #4).
+* "You say that "the Spirit" told you the brethren are in error (or you should be re-baptized, or Joseph Smith was wrong about polygamy, or you should leave the Church, etc) but that cannot be the Spirit since the Spirit will never contradict accepted LDS doctrine or currently accepted policy" (fails to manifest element #4). [example](https://mylifebygogogoff.com/2021/05/blind-obedience-is-better-than-disobedience-but-obedience-based-on-faith-is-not-blind.html)
 
 While virtually any positive feeling can be considered the Spirit if it is in support of LDS truth-claims, and LDS missionaries are quick to identify those feelings in investigators as the Spirit, skepticism and heightened scrutiny seem reserved for those experiences which contradict LDS truth-claims.
 
@@ -90,7 +90,7 @@ While virtually any positive feeling can be considered the Spirit if it is in su
     * "Edifies both teacher and students."
     * "Gives comfort."
 
-[^different_perspectives]: Certain psychophysiological experiences may correlate with a spiritual experience, as described above. A naturalist might suggest that the entirety of the experience might be explained via such mechanisms.  On the other hand, many believing Latter-day Saint might argue that these experiences are initiated or driven by encounters with The Holy Ghost and largely mediated by spirit to spirit communication apart from human physiology.  Other Latter-day Saints would argue that psychophysiological phenomena either correlate with, or are part of God-given mechanisms used to convey or enhance spiritual experiences.
+[^different_perspectives]: Certain psychophysiological experiences may correlate with a spiritual experience, as described above. A naturalist may suggest that the entirety of the experience could be explained by appeal to such mechanisms.  On the other hand, many believing Latter-day Saint could argue that these experiences are initiated or driven by encounters with the Holy Ghost and largely mediated by spirit to spirit communication apart from human physiology.  Other Latter-day Saints would argue that psychophysiological phenomena either correlate with, or are part of God-given mechanisms used to convey or enhance spiritual experiences.
 
 [^understanding_truth]: The LDS Church teaches that the Holy Ghost is central to understanding truth:
     * And by the power of the Holy Ghost ye may know the truth of all things. ([Moroni 10:5](https://www.lds.org/scriptures/bofm/moro/10.5))
