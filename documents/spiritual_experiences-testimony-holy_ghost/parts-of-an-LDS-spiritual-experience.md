@@ -7,11 +7,11 @@ layout: page
 
 ## Introduction
 
-The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.lds.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
+The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost (aka the Spirit) is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.lds.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
 
 ### LDS description
 
-The Preach My Gospel manual, [chapter 4](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng), gives a clear and understandable summary of the kinds of phenomena meant to indicate an experience with the Holy Ghost, (aka The Spirit).  Those most directly related to mental and physical phenomena---are reproduced below:[^complete_list]
+The Preach My Gospel manual, [chapter 4](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng), gives a clear and understandable summary of the kinds of phenomena meant to indicate an experience with the Holy Ghost.  Those most directly related to mental and physical phenomena---are reproduced below:[^complete_list]
 
 * "Gives feelings of love, joy, peace, patience, meekness, gentleness, faith, and hope."
 * "Gives ideas in the mind, feelings in the heart."
@@ -33,7 +33,7 @@ The Preach My Gospel manual, [chapter 4](https://www.churchofjesuschrist.org/stu
 
 ### Potential phenomenological explanations
 
-What is perceived as an LDS spiritual experience (or the Spirit or Holy Ghost) may involve one or more of these elements:[^different_perspectives]
+Based on the above list and common descriptions ([for example](https://www.churchofjesuschrist.org/study/new-era/2010/09/feeling-the-spirit?lang=eng)), what is perceived as an LDS spiritual experience (or the Spirit or Holy Ghost) may be postulated to involve one or more of these elements:[^different_perspectives]
 
 1. A feeling of [elevation](https://en.wikipedia.org/wiki/Elevation_%28emotion%29): this is a hormonally-mediated feeling that produces a "swelling" feeling in the chest and is generated when witnessing or performing altruistic acts or participating in acts of transcendent beauty.[^oxytocin]
 1. [Frisson](https://en.wikipedia.org/wiki/Frisson): "a psychophysiological response to rewarding auditory and/or visual stimuli that often induces a pleasurable or otherwise positively-valenced affective state."
@@ -100,4 +100,3 @@ While virtually any positive feeling can be considered the Spirit if it is in su
     And leaders have taught:
 
     > When we know spiritual truths by spiritual means, we can be just as sure of that knowledge as scholars and scientists are of the different kinds of knowledge they have acquired by different methods. ([Oaks, April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng#watch=video))
-
