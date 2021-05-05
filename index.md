@@ -44,7 +44,7 @@ A collection of resources, research, and thoughts on the truth-claims, teachings
   {% endfor %}
 </ul>
 
-### Polygmay historical resources
+### Polygamy historical resources
 
 <ul>
   {% for page in site.pages %}

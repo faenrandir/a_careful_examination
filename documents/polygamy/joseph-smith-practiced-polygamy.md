@@ -1,5 +1,5 @@
 ---
-title: "Arguing that Joseph Smith did practice polygmay"
+title: "Arguing that Joseph Smith did practice polygamy"
 permalink: /arguing-that-joseph-smith-did-practice-polygamy/
 doctype: short-analysis
 maintopic: polygamy
