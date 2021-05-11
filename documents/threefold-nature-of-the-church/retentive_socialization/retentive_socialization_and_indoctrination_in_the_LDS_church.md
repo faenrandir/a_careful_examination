@@ -387,6 +387,5 @@ A significant number of teachings, cultural factors, and practices align to enco
 
 [^textcontext]: Slightly more context surrounding the conversation can be found [here](https://www.reddit.com/r/exmormon/comments/gcwn5x/conversation_between_my_wife_and_my_fatherinlaw/).
 
-[^older_temple_recommend_question]: The temple recommend questions were
-  [updated in October of 2019](https://newsroom.churchofjesuschrist.org/article/october-2019-general-conference-temple-recommend).  The previous question, asked for decades (or at least [as early as 2007](https://web.archive.org/web/20070108102337/http://www.lds4u.com:80/lesson5/templequestions.htm)), was:
+[^older_temple_recommend_question]: The temple recommend questions were [updated in October of 2019](https://newsroom.churchofjesuschrist.org/article/october-2019-general-conference-temple-recommend).  The previous question, asked for decades (or at least [as early as 2007](https://web.archive.org/web/20070108102337/http://www.lds4u.com:80/lesson5/templequestions.htm)), was:
     > Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
