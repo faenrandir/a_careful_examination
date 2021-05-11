@@ -7,11 +7,14 @@ featuredimage: /media/degas-BelleliFamily1862.jpg
 layout: page
 ---
 
+## Contents
 
 * [Introduction](#introduction)
 * [The Scriptural Precedent](#the-scriptural-precedent)
 * [Positive or neutral statements about those who leave](#positive-or-neutral-statements-about-those-who-leave)
 * [Negative statements about those who leave](#negative-statements-about-those-who-leave)
+* [Statements which imply a negative](#statements-which-imply-a-negative)
+* [Liahona Articles](#liahona-articles)
 * [Examples of how people are treated who leave the Church](#examples-of-how-people-are-treated-who-leave-the-church)
 
 ## Introduction
@@ -258,6 +261,14 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
+### warning to all members: darkness, pain, sorrow, misery in the extreme; never a "happy moment"
+
+> In the early days of our dispensation, many priesthood brethren, to their regret, did not stay loyal to the Prophet. One of them was Lyman E. Johnson, who was excommunicated for unrighteous conduct. He later lamented having left the Church: “I would suffer my right hand to be cut off, if I could believe it again. Then I was full of joy and gladness. My dreams were pleasant. When I awoke in the morning my spirit was cheerful. I was happy by day and by night, full of peace and joy and thanksgiving. But now it is darkness, pain, sorrow, misery in the extreme. I have never since seen a happy moment.”
+
+> Think about those words. They stand as a warning to all Church members.
+
+[The War Goes On](https://www.churchofjesuschrist.org/study/ensign/2017/04/the-war-goes-on?lang=eng) Ensign April 2017, By Elder Larry R. Lawrence
+
 ### may have left because they had unrepented sin
 
 > Apostasy frequently results when a person commits serious sin but does not repent. To silence his conscience or justify his sinful actions, the individual moves away from the truth, looking for imperfections in others or questioning Church doctrine with which he no longer agrees.
@@ -439,7 +450,6 @@ Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College A
 Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-11-follow-the-living-prophet?lang=eng)
 
 
-
 ### will never reach the promised land
 
 > We board the Good Ship Zion and sail with her wher­ev­er she goes until she comes into that mil­len­ni­al port. We stay in the boat, through squalls and stills, through storms and sun­burn, because that is the only way to the promised land.
@@ -463,6 +473,36 @@ M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in t
 > [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
 
 ["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
+
+## Liahona Articles
+
+These articles not written by LDS leadership, but they may be reflective of Church-approved attitudes towards those who leave.
+
+### 2001
+
+[Loving My Wayward Child](https://www.churchofjesuschrist.org/study/ensign/2001/09/loving-my-wayward-child?lang=eng)
+
+### 2016
+
+[When a Child Leaves the Church](https://www.churchofjesuschrist.org/study/ensign/2016/02/when-a-child-leaves-the-church?lang=eng)
+
+### 2018
+
+[Who Do I Choose—God or My Husband?](https://www.churchofjesuschrist.org/inspiration/who-do-i-choose-god-or-my-husband?lang=eng) (dead-link) ([archived link](https://web.archive.org/web/20201122044454if_/https://www.churchofjesuschrist.org/inspiration/who-do-i-choose-god-or-my-husband?lang=eng))
+
+*Chelsea Homer discusses writing the piece in [a Mormon Stories interview](https://www.youtube.com/watch?v=17DcnU3VQLw). After her departure from the LDS Church and/or Mormon Stories interview, her blog post was subsequently removed from churchofjesuschrist.org [contrary to Chelsea's wishes](https://www.instagram.com/stories/highlights/18199574560023615/).*
+
+### 2020
+
+* [When Loved Ones Leave the Church](https://www.churchofjesuschrist.org/study/ensign/2020/07/when-loved-ones-leave-the-church?lang=eng)
+* [When I Felt Deceived about the Church: Why I left. And why I came back.](https://www.churchofjesuschrist.org/study/ensign/2020/07/when-i-felt-deceived-about-the-church?lang=eng) 
+
+### 2021
+
+* [Staying Strong When Loved Ones Leave the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/young-adults/staying-strong-when-loved-ones-leave-the-church?lang=eng)
+* [How My Heart Changed When My Brother Left the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/how-my-heart-changed-when-my-brother-left-the-church?lang=eng) (Digital Only: Young Adults)
+* [What You Can Do When Others Don’t Believe](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/what-you-can-do-when-others-dont-believe?lang=eng) (Digital Only: Young Adults)
+* [Maintaining Hope and Keeping Your Marriage Strong If Your Spouse Leaves the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/maintaining-hope-and-keeping-your-marriage-strong-if-your-spouse-leaves-the-church?lang=eng) (Digital Only: Young Adults)
 
 ## Examples of how people are treated who leave the Church
 
