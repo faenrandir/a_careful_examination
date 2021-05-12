@@ -32,6 +32,8 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Joshua 8 as a potential source for military tactics](https://www.reddit.com/r/mormon/comments/d12wzt/sources_for_military_tactics_found_in_the_book_of/) (Y\_chromosomalAdam)
 1. Similarities between the New Madrid, Missouri earthquakes of 1811/1812 ([similarities](https://www.reddit.com/r/mormon/comments/m4w668/consider_mormonism_deconstructed/gqxw8xw/) based on [this description](https://web.archive.org/web/20200221182948/http://www.new-madrid.mo.us/132/Strange-Happenings-during-the-Earthquake))
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
+1. The Apocrypha contains the story of Judith reminiscent of Nephi, who smote off the head of a wicked, drunk man.  See "A List of Parallels" at UTLMs [Joseph Smith's Use of the Apocrypha](https://web.archive.org/web/20201112002002/http://www.utlm.org/newsletters/no89.htm). [FairMormon response](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Plagiarism_accusations/Apocrypha#Question:_Did_Joseph_Smith_create_the_story_of_Nephi_and_Laban_by_plagiarizing_concepts_and_phrases_from_the_story_of_Judith_and_Holofernes_in_the_Apocrypha.3F)
+
 
 ## Other compilations or analyses
 
