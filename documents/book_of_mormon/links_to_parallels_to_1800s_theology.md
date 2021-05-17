@@ -56,3 +56,4 @@ It appears that many, if not all, theological doctrines and themes advanced in t
 
 * [Other pre-1830 sources reminiscent of the Book of Mormon]({{ "/other-pre-1830-sources-reminiscent-of-bom/" | relative_url }})
 * [How could Joseph Smith have composed the Book of Mormon?]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }})
+* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})
