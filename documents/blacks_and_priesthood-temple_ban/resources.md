@@ -36,7 +36,8 @@ The letter indicates that he was including the pamphlet [Mormonism and the Negro
 
 ## The Stewart Udall Letters
 
-[The Stewart Udall letters](https://archive.org/stream/StewartUdallConscienceOfAJackMormon/StuartUdall-OpenLetterOnRaceAndConsequencesOfConscience#page/n0/mode/1up)
+* [1947 Letter](https://archive.org/download/StewartUdallConscienceOfAJackMormon/Stewart%20Udall%20-%20Conscience%20of%20A%20Jack%20Mormon%201947.pdf)
+* [Other Letters](https://archive.org/download/StewartUdallConscienceOfAJackMormon/StuartUdall-OpenLetterOnRaceAndConsequencesOfConscience.pdf)
 
 Additional historical context for the letters: ["Do Not Lecture the Brethren": Stewart L. Udall's Pro-Civil Rights Stance, 1967](https://archive.org/details/DoNotLectureTheBrethren/page/n0).
 
