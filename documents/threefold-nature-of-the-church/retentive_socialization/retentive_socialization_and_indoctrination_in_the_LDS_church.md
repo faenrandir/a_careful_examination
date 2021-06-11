@@ -206,9 +206,11 @@ Following the prophet is repeatedly and emphatically taught to young children an
 
     > As seekers of truth, our safety lies in asking the right questions, in faith, and of the right sources—meaning those who only speak truth: such as the scriptures, prophets, and the Lord through the Holy Ghost." (Sheri Dew, [Will You Engage in the Wrestle](http://www.byui.edu/devotionals/sheri-dew))
 
-2. The 7th temple recommend question strongly implies that agreement with those who have contrary teachings is frowned upon.  Potential loss of a temple recommend is a deterrent to critical investigation:
+2. The 7th temple recommend question[^older_temple_recommend_question] discourages acceptance or promotion of ideas contrary to LDS teachings:
 
-    > Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+    > Do you support or promote any teachings, practices, or doctrine contrary to those of The Church of Jesus Christ of Latter-day Saints?
+
+    Potential loss of a temple recommend may then act as a deterrent to critical investigation or the voicing of concerns.
 
 3. Members have been instructed to not attend symposia that include presentations that ...could...detract from [the Church's] mission (General Handbook of Instruction 1999):
 
@@ -247,7 +249,7 @@ The compartmentalization of information may hinder a lay member's ability to fai
 
     Consider Elder Holland's [reluctance to discuss Mitt Romney's temple oath](https://youtu.be/G9v2GxDs4To?t=81) and compare how believing members answer the question "What are the covenants that are made in a Mormon temple?" (e.g., [here](http://qr.ae/TbSsIH), [here](http://qr.ae/TbSsIk), and [here](http://qr.ae/TbSsIw)) with the direct answer of a former member, [here](http://qr.ae/TbSsIO).  A typical temple initiate will only be vaguely aware of the extensive promises they will be asked to make in the temple---specific covenant verbiage is only revealed after the opportunity to withdraw has been offered and refused by the initiate (see #3 [here]({{ "/is-leaving-breaking-promises/" | relative_url }})).
 
-1. Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---is not available to the lay member.
+1. Until [very recently](https://newsroom.churchofjesuschrist.org/article/new-general-handbook-coming-in-february-2020), Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---was not available to the lay member.
 1. Finances have [not been disclosed to the membership since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
 1. Permission for being sealed to a second wife in the temple [is handled in secret](https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=exmormon).[^secondwife_secret]
 
@@ -384,3 +386,6 @@ A significant number of teachings, cultural factors, and practices align to enco
 [^coffee_repeated]: The story of Mary and her coffee was repeated [on an lds radio episode](https://broadcast-portal.lds.org/ldsradio/pdf/stories-general-conference/stories-young-women-ep-03.pdf?download=true).
 
 [^textcontext]: Slightly more context surrounding the conversation can be found [here](https://www.reddit.com/r/exmormon/comments/gcwn5x/conversation_between_my_wife_and_my_fatherinlaw/).
+
+[^older_temple_recommend_question]: The temple recommend questions were [updated in October of 2019](https://newsroom.churchofjesuschrist.org/article/october-2019-general-conference-temple-recommend).  The previous question, asked for decades (or at least [as early as 2007](https://web.archive.org/web/20070108102337/http://www.lds4u.com:80/lesson5/templequestions.htm)), was:
+    > Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?

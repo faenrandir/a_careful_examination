@@ -7,19 +7,19 @@ featuredimage: /media/degas-BelleliFamily1862.jpg
 layout: page
 ---
 
+## Contents
+
+* [Introduction](#introduction)
+* [The Scriptural Precedent](#the-scriptural-precedent)
+* [Positive or neutral statements about those who leave](#positive-or-neutral-statements-about-those-who-leave)
+* [Negative statements about those who leave](#negative-statements-about-those-who-leave)
+* [Statements which imply a negative](#statements-which-imply-a-negative)
+* [Liahona Articles](#liahona-articles)
+* [Examples of how people are treated who leave the Church](#examples-of-how-people-are-treated-who-leave-the-church)
+
 ## Introduction
 
-LDS scripture, leaders, lesson manuals, and other material published by the Church speak extensively about those who leave the Church and apostasize (leaving the Church is synonymous with apostasy).  Collectively, these writings emphasize that those who leave the Church are one or more of the following:
-
-1. Morally weak (i.e., are sinning)
-2. Followers of Satan (explicitly or unawares)
-3. Prone to taking offense
-4. Too lazy to maintain their spirituality
-5. Ignorant and/or misinformed about the teachings of the Church.
-
-Given this characterization of those who leave, it is not surprising that many feel a need to "defend their actions", "disprove" the Church, or end up becoming hostile enemies: a person who determines that the Church is not true---regardless of how pure or noble their motives, the strength of their character, the level of their spirituality, or how comprehensively they understand the Gospel---cannot leave with their reputation and character intact.  If they leave without explanation, then it is assumed that they are deficient in character or understanding---if they attempt to exonerate themselves, then they have a "need to defend their actions" or "disprove the Church" and are considered "bitter".
-
-While a member might be inclined to believe that the "bitter fruits of apostasy" are the natural consequence of turning from the one true faith, virtually *all* totalistic groups [characterize those who leave in a similar negative light](https://www.youtube.com/watch?v=VdTWTeTkPn0) (see additional examples from [Jehovah's Witnesses](http://www.jwstruggle.com/2013/03/the-apostate-boogeyman/) and [Scientology](https://www.youtube.com/watch?v=pPol_m8wm8Y&feature=youtu.be&t=2m27s).  In addition, see "[The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }})" for a longer discussion of the totalistic mindset and how it is manifest in the LDS Church.  Also [The Shunning Key: Whom Mormons shun and why]({{ "/the-shunning-key/" | relative_url }}))
+LDS scripture, leaders, lesson manuals, and other material published by the Church speak fairly extensively about those who leave the Church and apostasize (leaving the Church seems generally synonymous with apostasy).  Some of this communication is direct, while other communication is more indirect (i.e., requires some modest inference to apply to former members).
 
 ## The Scriptural Precedent
 
@@ -89,7 +89,7 @@ Doctrine and Covenants 122 ([verses 1--3](https://www.lds.org/scriptures/dc-test
 
 ## Positive or neutral statements about those who leave
 
-I am only aware of one positive or neutral statement about members who leave the Church.
+### Not as simple as offended, lazy, or sinful
 
 > One might ask, “If the gospel is so wonderful, why would anyone leave?”
 
@@ -100,6 +100,12 @@ I am only aware of one positive or neutral statement about members who leave the
 > In this Church that honors personal agency so strongly, that was restored by a young man who asked questions and sought answers, we respect those who honestly search for truth. It may break our hearts when their journey takes them away from the Church we love and the truth we have found, but we honor their right to worship Almighty God according to the dictates of their own conscience, just as we claim that privilege for ourselves.
 
 Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)
+
+### Not totally lost; hard to understand reasons; implies they have not come to themselves yet; just love them
+
+> ... unfortunately, some of my friends or dear ones have distanced themselves from the Lord. What should I do? For those of you who are right now experiencing these feelings of sadness, agony, and maybe regret, please know that they are not totally lost because the Lord knows where they are and is watching over them. Remember, they are His children too!
+
+> It is hard to understand all the reasons why some people take another path. The best we can do in these circumstances is just to love and embrace them, pray for their well-being, and seek for the Lord’s help to know what to do and say. Sincerely rejoice with them in their successes; be their friends and look for the good in them. We should never give up on them but preserve our relationships. Never reject or misjudge them. Just love them! The parable of the prodigal son teaches us that when children come to themselves, they often desire to come home. If that happens with your dear ones, fill your hearts with compassion, run to them, fall on their neck, and kiss them, like the father of the prodigal son did.
 
 ## Negative statements about those who leave
 
@@ -255,6 +261,14 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
+### warning to all members: darkness, pain, sorrow, misery in the extreme; never a "happy moment"
+
+> In the early days of our dispensation, many priesthood brethren, to their regret, did not stay loyal to the Prophet. One of them was Lyman E. Johnson, who was excommunicated for unrighteous conduct. He later lamented having left the Church: “I would suffer my right hand to be cut off, if I could believe it again. Then I was full of joy and gladness. My dreams were pleasant. When I awoke in the morning my spirit was cheerful. I was happy by day and by night, full of peace and joy and thanksgiving. But now it is darkness, pain, sorrow, misery in the extreme. I have never since seen a happy moment.”
+
+> Think about those words. They stand as a warning to all Church members.
+
+[The War Goes On](https://www.churchofjesuschrist.org/study/ensign/2017/04/the-war-goes-on?lang=eng) Ensign April 2017, By Elder Larry R. Lawrence
+
 ### may have left because they had unrepented sin
 
 > Apostasy frequently results when a person commits serious sin but does not repent. To silence his conscience or justify his sinful actions, the individual moves away from the truth, looking for imperfections in others or questioning Church doctrine with which he no longer agrees.
@@ -303,18 +317,6 @@ Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Semina
 
 [Brad Wilcox, July 12, 2011 BYU Devotional](https://speeches.byu.edu/talks/brad-wilcox_his-grace-is-sufficient/)
 
-### were not righteous (implied)
-
-> Faith is a gift of God bestowed as a reward for personal righteousness. It is always given when righteousness is present, and the greater the measure of obedience to God’s laws the greater will be the endowment of faith.
-
-Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.lds.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
-
-### had an immature testimony and shallow committment to Jesus Christ (implied)
-
-> More than at any time in our history, your students also need to be blessed by learning doctrinal or historical context and context by study and faith accompanied by pure testimony so they can experience a mature and lasting conversion to the gospel and a lifelong commitment to Jesus Christ.  Mature and lasting conversion means they will 'stay in the boat and hold on' throughout their entire lives.
-
-M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in the 21st Century](https://www.lds.org/broadcasts/article/evening-with-a-general-authority/2016/02/the-opportunities-and-responsibilities-of-ces-teachers-in-the-21st-century?lang=eng)
-
 ### engage in the highest form of larceny if they cause others to lose testimony
 
 > And I pray for those who deal in the highest form of larceny—that of stripping people of their precious testimonies. Such action, if continued, will lead only to the futility and emptiness of the dream of a night vision. (See 2 Ne. 27:3; Acts 5:33–39.)
@@ -326,12 +328,6 @@ M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in t
 > Avoid those who would tear down your faith. Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit.
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
-
-### should be shunned if they associate with subcultures
-
-> [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
-
-["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
 
 ### generally left for trivial reasons
 
@@ -385,55 +381,65 @@ Brigham Young, [JOD vol 1](http://jod.mrm.org/1/81), pg 83
 
 Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.byu.edu/jod/jodhtml.php?vol=12&disc=20)
 
-### will never reach the promised land (implied)
+### may not have learned to listen to the Holy Ghost
 
-> We board the Good Ship Zion and sail with her wher­ev­er she goes until she comes into that mil­len­ni­al port. We stay in the boat, through squalls and stills, through storms and sun­burn, because that is the only way to the promised land.
+> "I know that when we pray for Erik, Heavenly Father does answer our prayers—every time. The problem is that Erik may not be listening right now. Erik gets to choose whether he listens to the Holy Ghost, just like you choose whether to listen to Mama about your backpack..."
 
-Jeffrey R. Holland, [April General Conference 2004](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng)
+> They all bowed their heads while Liv said the prayer. She prayed that Erik would learn to listen to the Holy Ghost. While Liv was praying, Kari felt peaceful and warm. She knew that Heavenly Father was hearing their prayers.
 
-### have no place to go and will incur an unforseen impact (implied)
+[Don't Forget to Pray for Erik](https://www.lds.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
+
+## Statements which imply a negative
+
+### should not be supported, affiliated with, or agreed with
+
+> Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+
+Seventh [temple recommend question](http://lds4u.com/lesson5/templequestions.htm)
+
+### have no place to go and will incur an unforseen impact
 
 > If you choose to become inac­tive or to leave the restored Church of Jesus Christ of Lat­ter-day Saints, where will you go? What will you do? The deci­sion to ‘walk no more’ with Church mem­bers and the Lord’s cho­sen lead­ers will have a long-term impact that can­not always be seen right now.
 
 M. Russell Ballard, [October General Conference 2016](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng)
 
-### experience negative long-term consequences (implied)
+### experience negative long-term consequences
 
 > they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
 
 M Russell Ballard, [October General Conference 2014](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng)
 
-### may be put out of existence (implied)
+### may be put out of existence
 
 > With all my heart I implore those who are walking on the fringes of our faith to seek the safety of the center. This can be done best by counseling with your leaders and remaining within the fellowshipping circle of the Saints, and receiving nourishment from the good word of God. Do not permit faithless people to turn you out of the right way or to put you out of existence. (See Moro. 6.)
 
 [Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
-### should fear for their safety (implied)
+### should fear for their safety
 
 > Keep your covenants and you will be safe.  Break them and you will not.
 
 Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
 
-### will die spiritually (implied)
+### will die spiritually
 
 > Like the dead sequoia, these Church members once received their spiritual nourishment from the well of living water offered by Jesus Christ, but having been disconnected for one reason or another from that source, their spirit was dulled, and they eventually died spiritually.
 
 [M. Russell Ballard](https://www.lds.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
 
-### had a patty-cake, taffy-pull conviction (implied)
+### had a patty-cake, taffy-pull conviction
 
 > I am so furious with people who leave this church. I don’t know whether furious is a good apostolic word or not.  But I am. What on earth kind of conviction is that?  What kind of patty-cake, taffy-pulled experience is that?  As if, as if none of this ever mattered; as if nothing in our contemporary life mattered; as if this is all just supposed to be [near yelling] just exactly the way I want it? And answered every one of my questions – and pursue this and occupy that – and defy this -- and then maybe I’ll be a Latter-day Saint. Well, there’s too much Irish in me for that.
 
 Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College Avenue, April 26, 2016. ([audio](https://soundcloud.com/s) [31:37])
 
-### may not have eternal objectives and hence shouldn't be associations (implied)
+### may not have eternal objectives and hence shouldn't be associations
 
 > We should associate with those who, like us, are planning not for temporary convenience, shallow goals, or narrow ambition—but rather with those who value the things that matter most, even eternal objectives.
 
 ["Be Thou an Example,"](https://www.lds.org/general-conference/2005/04/be-thou-an-example?lang=eng) Thomas S. Monson, First Counselor in the First Presidency, General Conference, April 2005.
 
-### are not honest or sincere (implied)
+### are not honest or sincere
 
 > For those who are honest and sincere in their search, it is not difficult to find out whether there has been a universal apostasy, and if so, where the truth is today.
 
@@ -443,21 +449,60 @@ Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College A
 
 Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-11-follow-the-living-prophet?lang=eng)
 
-### may not have learned to listen to the Holy Ghost
 
-> "I know that when we pray for Erik, Heavenly Father does answer our prayers—every time. The problem is that Erik may not be listening right now. Erik gets to choose whether he listens to the Holy Ghost, just like you choose whether to listen to Mama about your backpack..."
+### will never reach the promised land
 
-> They all bowed their heads while Liv said the prayer. She prayed that Erik would learn to listen to the Holy Ghost. While Liv was praying, Kari felt peaceful and warm. She knew that Heavenly Father was hearing their prayers.
+> We board the Good Ship Zion and sail with her wher­ev­er she goes until she comes into that mil­len­ni­al port. We stay in the boat, through squalls and stills, through storms and sun­burn, because that is the only way to the promised land.
 
-[Don't Forget to Pray for Erik](https://www.lds.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
+Jeffrey R. Holland, [April General Conference 2004](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng)
 
-### should not be supported, affiliated with, or agreed with (implied)
+### were not righteous
 
-> Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?
+> Faith is a gift of God bestowed as a reward for personal righteousness. It is always given when righteousness is present, and the greater the measure of obedience to God’s laws the greater will be the endowment of faith.
 
-Seventh [temple recommend question](http://lds4u.com/lesson5/templequestions.htm)
+Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.lds.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
 
----
+### had an immature testimony and shallow committment to Jesus Christ
+
+> More than at any time in our history, your students also need to be blessed by learning doctrinal or historical context and context by study and faith accompanied by pure testimony so they can experience a mature and lasting conversion to the gospel and a lifelong commitment to Jesus Christ.  Mature and lasting conversion means they will 'stay in the boat and hold on' throughout their entire lives.
+
+M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in the 21st Century](https://www.lds.org/broadcasts/article/evening-with-a-general-authority/2016/02/the-opportunities-and-responsibilities-of-ces-teachers-in-the-21st-century?lang=eng)
+
+### should be shunned if they associate with subcultures
+
+> [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
+
+["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
+
+## Liahona Articles
+
+These articles not written by LDS leadership, but they may be reflective of Church-approved attitudes towards those who leave.
+
+### 2001
+
+[Loving My Wayward Child](https://www.churchofjesuschrist.org/study/ensign/2001/09/loving-my-wayward-child?lang=eng)
+
+### 2016
+
+[When a Child Leaves the Church](https://www.churchofjesuschrist.org/study/ensign/2016/02/when-a-child-leaves-the-church?lang=eng)
+
+### 2018
+
+[Who Do I Choose—God or My Husband?](https://www.churchofjesuschrist.org/inspiration/who-do-i-choose-god-or-my-husband?lang=eng) (dead-link) ([archived link](https://web.archive.org/web/20201122044454if_/https://www.churchofjesuschrist.org/inspiration/who-do-i-choose-god-or-my-husband?lang=eng))
+
+*Chelsea Homer discusses writing the piece in [a Mormon Stories interview](https://www.youtube.com/watch?v=17DcnU3VQLw). After her departure from the LDS Church and/or Mormon Stories interview, her blog post was subsequently removed from churchofjesuschrist.org [contrary to Chelsea's wishes](https://www.instagram.com/stories/highlights/18199574560023615/).*
+
+### 2020
+
+* [When Loved Ones Leave the Church](https://www.churchofjesuschrist.org/study/ensign/2020/07/when-loved-ones-leave-the-church?lang=eng)
+* [When I Felt Deceived about the Church: Why I left. And why I came back.](https://www.churchofjesuschrist.org/study/ensign/2020/07/when-i-felt-deceived-about-the-church?lang=eng) 
+
+### 2021
+
+* [Staying Strong When Loved Ones Leave the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/young-adults/staying-strong-when-loved-ones-leave-the-church?lang=eng)
+* [How My Heart Changed When My Brother Left the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/how-my-heart-changed-when-my-brother-left-the-church?lang=eng) (Digital Only: Young Adults)
+* [What You Can Do When Others Don’t Believe](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/what-you-can-do-when-others-dont-believe?lang=eng) (Digital Only: Young Adults)
+* [Maintaining Hope and Keeping Your Marriage Strong If Your Spouse Leaves the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/maintaining-hope-and-keeping-your-marriage-strong-if-your-spouse-leaves-the-church?lang=eng) (Digital Only: Young Adults)
 
 ## Examples of how people are treated who leave the Church
 

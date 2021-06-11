@@ -38,7 +38,7 @@ Especially when coupled [with teachings that](https://faenrandir.github.io/a_car
 
 ### Current Teachings
 
-The LDS *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its *current* version (as of September 2020).
+The LDS Church *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its *current* version (as of September 2020).
 
 1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng) (emphasis added):
 

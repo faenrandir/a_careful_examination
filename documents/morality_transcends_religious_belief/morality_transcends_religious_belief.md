@@ -27,7 +27,7 @@ Several scientific studies suggest that the non-religious are as moral in everyd
 
 ### Philosophy
 
-Atheist philosophers regularly argue for moral realism (i.e., morals are real) and that we should be moral people.
+Atheist philosophers regularly argue for moral realism (i.e., morals are real, at least on some level) and that we should be moral people.
 
 * [How Morality Has the Objectivity that Matters—Without God](https://www.secularhumanism.org/index.php/articles/5640)
 * [The Case for Objective Morality](http://www.strongatheism.net/library/philosophy/case_for_objective_morality/
@@ -38,6 +38,10 @@ Atheist philosophers regularly argue for moral realism (i.e., morals are real) a
     * [What is moral progress](https://www.samharris.org/podcast/item/what-is-moral-progress)
     * [Being good and doing good](https://www.samharris.org/podcast/item/being-good-and-doing-good)
     * [The virtues of cold blood](https://www.samharris.org/podcast/item/the-virtues-of-cold-blood)
+
+My own thoughts on morality:
+
+[Morality is an emergent principle]({{ "/morality-is-an-emergent-principle/" | relative_url }})
 
 ### Conclusion
 

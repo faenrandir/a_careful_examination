@@ -27,6 +27,6 @@ In a Mormon Stories podcast, Haley Wilson Lemmón gave some [specific examples](
 ## See also
 
 * [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (official publication)
-* [A Recently Recovered Source: Rethinking Joseph Smith’s Bible TranslationA Recently](http://jur.byu.edu/?p=21296) (original publication)
+* [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
 
-[lds-perspectives-wayment]: https://web.archive.org/web/20201128001154/https://hwcdn.libsyn.com/p/5/b/9/5b9a46be752511d9/LDSP_Joseph_Smiths_Use_of_Adam_Clarkes_Commentary.pdf?c_id=17171867&cs_id=17171867&expiration=1606525900&hwt=b3d5a485080966bf24011a74ff048746
+[lds-perspectives-podcast-wayment]: https://web.archive.org/web/20201128001154/https://hwcdn.libsyn.com/p/5/b/9/5b9a46be752511d9/LDSP_Joseph_Smiths_Use_of_Adam_Clarkes_Commentary.pdf?c_id=17171867&cs_id=17171867&expiration=1606525900&hwt=b3d5a485080966bf24011a74ff048746

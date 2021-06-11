@@ -6,7 +6,7 @@ doctype: short-analysis
 layout: page
 ---
 
-The denials of polygmay led people to believe one thing (Joseph and other leaders were *not* marrying more than one wife) while the exact opposite of that thing was occurring (Joseph and other leaders *were* marrying more than one wife).  But leaders made these denials, at times, using word definitions and codes that were only familiar to the Saints even though the leaders knew that others would interpret the *meaning* of those words very differently. 
+The denials of polygamy led people to believe one thing (Joseph and other leaders were *not* marrying more than one wife) while the exact opposite of that thing was occurring (Joseph and other leaders *were* marrying more than one wife).  But leaders made these denials, at times, using word definitions and codes that were only familiar to the Saints even though the leaders knew that others would interpret the *meaning* of those words very differently. 
 
 What are the appropriate words to use when speaking of the deceptiveness of these denials?
 

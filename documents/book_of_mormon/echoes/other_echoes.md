@@ -20,6 +20,7 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [Slippery treasure](https://www.reddit.com/r/mormon/comments/d897gd/treasure_in_the_book_of_mormon/) (ArchimedesPPL)
+1. [Secret combinations](https://www.reddit.com/r/exmormon/comments/exoyeg/bom_product_of_its_times_secret_combinations_the/)
 1. [Fascination with ancient America demonstrated with newspaper articles](https://www.reddit.com/r/exmormon/comments/evqmci/bom_product_of_its_time_speculation_about_and/)
 1. [The Book of Mormon and 12 points of Pelagius]({{ "/bom-and-twelve-points-of-pelagianism-in-early-1800s/" | relative_url }})
 1. [Arminianism in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/e359nrd/) (comment by [FuzzyThoughts](https://www.reddit.com/user/Fuzzy_Thoughts))
@@ -31,6 +32,8 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Joshua 8 as a potential source for military tactics](https://www.reddit.com/r/mormon/comments/d12wzt/sources_for_military_tactics_found_in_the_book_of/) (Y\_chromosomalAdam)
 1. Similarities between the New Madrid, Missouri earthquakes of 1811/1812 ([similarities](https://www.reddit.com/r/mormon/comments/m4w668/consider_mormonism_deconstructed/gqxw8xw/) based on [this description](https://web.archive.org/web/20200221182948/http://www.new-madrid.mo.us/132/Strange-Happenings-during-the-Earthquake))
 1. [Anachronistic Biblical Phrasing](https://www.reddit.com/r/exmormon/comments/1q1tmt/a_couple_more_anachronistic_quotations_in_the/)
+1. The Apocrypha contains the story of Judith reminiscent of Nephi, who smote off the head of a wicked, drunk man.  See "A List of Parallels" at UTLMs [Joseph Smith's Use of the Apocrypha](https://web.archive.org/web/20201112002002/http://www.utlm.org/newsletters/no89.htm). [FairMormon response](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Plagiarism_accusations/Apocrypha#Question:_Did_Joseph_Smith_create_the_story_of_Nephi_and_Laban_by_plagiarizing_concepts_and_phrases_from_the_story_of_Judith_and_Holofernes_in_the_Apocrypha.3F)
+
 
 ## Other compilations or analyses
 
