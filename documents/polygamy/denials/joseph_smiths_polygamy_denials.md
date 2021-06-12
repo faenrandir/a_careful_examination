@@ -124,6 +124,7 @@ They reference the following footnotes:
 #### Official and Apologetic explanations
 
 * [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true) (lds.org)
+* [“Denying the Undeniable”: Examining Early Mormon Polygamy Renunciations](https://mormonpolygamydocuments.org/wp-content/uploads/2020/10/Hales-JMH-7-2018-Denying-the-Undeniable.pdf) (Brian Hales in Journal of Mormon History, 44:3, p. 23-44, 2018)
 * ["Thou Shalt not Lie" and Denials of Polygamy](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) (Joseph Smith's Polygamy site)
 * [Joseph hid polygamy from the general Church membership](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth) (FairMormon)
 * [Polygamy, Prophets, and Prevarication: Frequently and Rarely Asked Questions about the Initiation, Practice, and Cessation of Plural Marriage in The Church of Jesus Christ of Latter-day Saints.](http://www.fairmormon.org/archive/publications/polygamy-prophets-and-prevarication) (FairMormon)
