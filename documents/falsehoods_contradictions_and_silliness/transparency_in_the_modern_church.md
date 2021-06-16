@@ -184,7 +184,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
     > The materials archived by the First Presidency are outside of the purview of the LDS Church History Library and its registers are not public.
 
-    The FP vault has held items such as the 1832 First Vision account and William Clayton's diaries, a person with book-keeping experience and Joseph Smith's recorder and scribe for most of the Nauvoo period.  LDS Scholars are sometimes granted access to material in the FP vault, and from publication citations [a list of some items in the vault](https://exploringmormonism.com/our-own-peek-into-the-first-presidency-vault/) can be assembled.
+    The FP vault has held items such as the 1832 First Vision account and William Clayton's diaries, a person with book-keeping experience and Joseph Smith's recorder and scribe for most of the Nauvoo period.  LDS Scholars are sometimes granted access to material in the FP vault, and from publication citations [a list of some items in the vault](https://exploringmormonism.com/our-own-peek-into-the-first-presidency-vault/) can be assembled.[^joseph_smith_material_now_out]
 
 * **present**&nbsp; Online text differs from audio without annotation
 
@@ -286,4 +286,5 @@ The author received valuable feedback on a first draft of this document from the
     > [Rick Bennett]: There's been a lot of people that say it seems like the Church is kind of hiding these they don't publicize them very well.
     > [Elder Steven Snow]: Well, that's very interesting.  You know the debate, just so I can give you a little context of what was happening was do you advertise and make a big deal about a website that you can go to to learn all of these, you know, everything weird you wanted to know about the LDS Church of Jesus Christ of Latter-day Saints you can go here?  Or should we just kind of quietly release them?  And the decision was made to kind of quietly put them out there so that they're accessible and then at a later date we could publicize them more if we wanted. ...
 
+[^joseph_smith_material_now_out]: In a facebook comment on April 6, 2021 in the Mormon Historians Facebook group, Christopher Blythe, a BYU scholar wrote: "My understanding is that there are no items related to Joseph Smith that have been kept back in the 'First Presidency's Vault.' Of course, the Church History Department has a policy of keeping items that are private, confidential, or sacred unavailable to researchers. If you are interested in this conversation, we had Keith Erickson the head of the CHL write a forum essay in one of last year's Journal of Mormon History's explaining the concept. Its pretty fantastic."  [I have skimmed the table of contents for the journal for the years 2019, 2020, and 2021 and have not yet located the article mentioned, but will reference it when I find it.]
 
