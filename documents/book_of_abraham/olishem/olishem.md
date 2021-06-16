@@ -60,7 +60,7 @@ It is worth noting that if we assume that Ur is the Ur much farther to the South
 
 Genesis 11:31 and Abraham 2:15 set up a geography where Haraan is in between
 Ur and Canaan.  If that is the case, then Olishem in the proposed location of
-Ulisum seems inconsisten with those descriptions.
+Ulisum seems inconsistent with those descriptions.
 
 Complete argument summarized [here](https://www.reddit.com/r/mormon/comments/m503b8/geographic_problems_with_olishem_and_a_northern_ur/).
 
