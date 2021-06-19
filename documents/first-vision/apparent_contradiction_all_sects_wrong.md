@@ -2,6 +2,7 @@
 title: "Apparent contradiction in Joseph Smith's account of considering all
 sects wrong"
 permalink: /apparent-contradiction-all-sects-wrong/
+maintopic: first-vision
 doctype: notes
 layout: page
 ---

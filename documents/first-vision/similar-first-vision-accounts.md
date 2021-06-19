@@ -1,8 +1,8 @@
 ---
 title: "Similar First Vision accounts"
 permalink: /similar-first-vision-accounts/
-doctype: links
 maintopic: first-vision
+doctype: links
 layout: page
 ---
 
