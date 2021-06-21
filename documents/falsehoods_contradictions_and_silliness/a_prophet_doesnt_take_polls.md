@@ -40,6 +40,7 @@ Here are the surveys the Church was performing previous to and those it has cond
 1. Survey on the new Gospel Topics essays, September 2014, [here](https://mormonleaks.io/wiki/documents/8/85/The_New_Gospel_Topics_Articles_on_LDS.org_that_Deal_with_Challenging_Information-2014-09.pdf)
 1. Survey on gays in the Church, Nov 2017, [here](https://www.reddit.com/r/exmormon/comments/7a7jih/so_i_got_a_random_survey_from_tscc_why_are_they/)
 1. Correlation Research Division Youth Survey on youth committment to and engagement in the church, 56 pages, 2018, [here](https://web.archive.org/web/20190308140839/https://lds.qualtrics.com/CP/File.php?F=F_0CEgbODHeuqVV3f)
+1. Survey on difficult topics, 2021, [here](https://www.reddit.com/r/mormon/comments/o576hm/authorized_survey_from_correlation_department/)
 
 ---
 
