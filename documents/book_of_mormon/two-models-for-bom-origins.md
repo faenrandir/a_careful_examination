@@ -38,7 +38,7 @@ The models may be arranged in order of increasing modern influence:
 
 <figure>
   <center><img src="{{ "/communications/images/bom_origin_models.png" | relative_url }}" alt="Relationship of models for the Book of Mormon"></center>
-  <figcaption><strong>Book of Mormon models arranged by modern influenced</strong><br/>The modern origin model may be viewed as one additional step beyond the expansionist model where all elements are viewed as having a modern origin.</figcaption>
+  <figcaption><strong>Book of Mormon models arranged by modern influence</strong><br/>The modern origin model may be viewed as one additional step beyond the expansionist (aka "cultural") model where all elements are viewed as having a modern origin.</figcaption>
 </figure>
 
 ### Hybrid Models
