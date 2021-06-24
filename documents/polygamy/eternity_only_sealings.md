@@ -47,34 +47,34 @@ is quoted in full and the complete context is [here](https://faenrandir.github.i
 
 > This promise was so great that I will-ingly gave myself to purchase so glorious a reward. None but God & his angels could see my mother’s bleeding heart—when Joseph asked her if she was willing, she replied “If Helen is willing I have nothing more to say.” She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had scarcely seen her fifteenth summer, following in the same thorny path, in her mind she saw the misery which was as sure to come as the sun was to rise and set; but it was all hidden from me.
 
-> I thought through this life my time will be my own</br>
-> The step I now am taking’s for eternity alone,</br>
-> No one need be the wiser, through time I shall be free,</br>
-> And as the past hath been the future still will be.</br>
-> To my guileless heart all free from worldly care</br>
-> And full of blissful hopes—and youthful visions rare</br>
-> The world seamed bright the thret’ning clouds were kept</br>
-> From sight, and all looked fair but pitying angels wept.</br>
-> They saw my youthful friends grow shy and cold.</br>
-> And poisonous darts from sland’rous tongues were hurled,</br>
-> Untutor’d heart in thy gen’rous sacrafise,</br>
-> Thou dids’t not weigh the cost nor know the bitter price;</br>
-> Thy happy dreems all o’er thou’rt doom’d alas to be</br>
-> Bar’d out from social scenes by this thy destiny,</br>
-> And o’er thy sad’nd mem’ries of sweet departed joys</br>
-> Thy sicken’d heart will brood and imagine future woes,</br>
-> And like a fetter’d bird with wild and longing heart,</br>
-> Thou’lt dayly pine for freedom and murmor at thy lot;</br>
-> But could’st thou see the future & view that glorious crown,</br>
-> Awaiting you in Heaven you would not weep nor mourn, [p. 2]</br>
-> Pure and exalted was thy father’s aim, he saw</br>
-> A glory in obeying this high celestial law,</br>
-> For to thousands who’ve died without the light</br>
-> I will bring eternal joy & make thy crown more bright.</br>
-> I’d been taught to receive the Prophet of God</br>
-> And receive every word as the word of the Lord.</br>
-> But had this not come through my dear father’s mouth,</br>
-> I should ne’r have received it as God’s sacred truth.</br>
+> I thought through this life my time will be my own<br/>
+> The step I now am taking’s for eternity alone,<br/>
+> No one need be the wiser, through time I shall be free,<br/>
+> And as the past hath been the future still will be.<br/>
+> To my guileless heart all free from worldly care<br/>
+> And full of blissful hopes—and youthful visions rare<br/>
+> The world seamed bright the thret’ning clouds were kept<br/>
+> From sight, and all looked fair but pitying angels wept.<br/>
+> They saw my youthful friends grow shy and cold.<br/>
+> And poisonous darts from sland’rous tongues were hurled,<br/>
+> Untutor’d heart in thy gen’rous sacrafise,<br/>
+> Thou dids’t not weigh the cost nor know the bitter price;<br/>
+> Thy happy dreems all o’er thou’rt doom’d alas to be<br/>
+> Bar’d out from social scenes by this thy destiny,<br/>
+> And o’er thy sad’nd mem’ries of sweet departed joys<br/>
+> Thy sicken’d heart will brood and imagine future woes,<br/>
+> And like a fetter’d bird with wild and longing heart,<br/>
+> Thou’lt dayly pine for freedom and murmor at thy lot;<br/>
+> But could’st thou see the future & view that glorious crown,<br/>
+> Awaiting you in Heaven you would not weep nor mourn, [p. 2]<br/>
+> Pure and exalted was thy father’s aim, he saw<br/>
+> A glory in obeying this high celestial law,<br/>
+> For to thousands who’ve died without the light<br/>
+> I will bring eternal joy & make thy crown more bright.<br/>
+> I’d been taught to receive the Prophet of God<br/>
+> And receive every word as the word of the Lord.<br/>
+> But had this not come through my dear father’s mouth,<br/>
+> I should ne’r have received it as God’s sacred truth.<br/>
 
 Hales [quotes writing from a year later](https://josephsmithspolygamy.org/common-questions/14-year-old-wives-teenage-brides/):
 
@@ -97,106 +97,106 @@ At the Reed Smoot hearings Cannon testified about sealings:
 
 [Beginning at [pg 793](https://archive.org/details/SmootHearings/Smoot_1/page/n793/mode/2up)]
 
-> ...</br>
->Senator OVERMAN. What do you mean by a sealing-for-eternity ceremony?</br>
->Mr. CANNON. A marriage for eternity.</br>
->Senator OVERMAN. As different from a marriage upon this earth ?</br>
->Mr. CANNON. Sir?</br>
->Senator OVERMAN. Different from the ordinary marriage?</br>
->Mr. CANNON. Oh; there is a ceremony for marriage for time and also for eternity.</br>
->Senator OVERMAN. Are your wives sealed to you for time or for eternity?</br>
->Mr. CANNON. Time and eternity.</br>
->Senator OVERMAN. Time and eternity both all six of them?</br>
-> Mr. CANNON. Yes, sir.</br>
->Senator OVERMAN. Are there such marriages as sealing for time and sealing for eternity, and some for time' and some for eternity?</br>
->**Mr. CANNON. I have witnessed many marriages for time. I never witnessed any for eternity and not for time.**</br>
->Senator OVERMAN. Are there such marriages as that?</br>
->Mr. CANNON. I can not say whether there are or not. Of course there are marriages performed between living people and dead people, by having persons act vicariously for the dead.</br>
->Senator OVERMAN. There are such marriages, then, with dead people ?</br>
->Mr. CANNON. That is necessarily for eternity. It cannot be for time.</br>
->Senator OVERMAN. I say, you do have such marriages as that?</br>
->Mr. CANNON. Yes, sir.</br>
->Senator OVERMAN. A living person marrying a dead person?</br>
->Mr. CANNON. By the dead person being represented by a living person.</br>
->Senator OVERMAN. By having a representative here on earth he marries a living person here ?</br>
->Mr. CANNON. Yes, sir; vicariously, the same as Paul spoke of baptism for the dead.</br>
->Senator OVERMAN. Have you seen such marriages as that?</br>
->Mr. CANNON. Yes, sir; acting for the dead.</br>
->Mr. TAYLER. That does not result in the marriage for time between the proxy and the person who is married to the other for eternity only, does it?</br>
->Mr. CANNON. No; it only relates to the dead.</br>
->Mr. TAYLER. Do you recall any instances in the history of the church where the proxy vicariously representing the dead person has insisted that for time the woman was his?</br>
->Mr. CANNON. No; I never heard of such a thing. We would cut them off the church if they did.</br>
->Mr. TAYLER. I would think so. That is all.</br>
-> ...</br>
+> ...<br/>
+>Senator OVERMAN. What do you mean by a sealing-for-eternity ceremony?<br/>
+>Mr. CANNON. A marriage for eternity.<br/>
+>Senator OVERMAN. As different from a marriage upon this earth ?<br/>
+>Mr. CANNON. Sir?<br/>
+>Senator OVERMAN. Different from the ordinary marriage?<br/>
+>Mr. CANNON. Oh; there is a ceremony for marriage for time and also for eternity.<br/>
+>Senator OVERMAN. Are your wives sealed to you for time or for eternity?<br/>
+>Mr. CANNON. Time and eternity.<br/>
+>Senator OVERMAN. Time and eternity both all six of them?<br/>
+> Mr. CANNON. Yes, sir.<br/>
+>Senator OVERMAN. Are there such marriages as sealing for time and sealing for eternity, and some for time' and some for eternity?<br/>
+>**Mr. CANNON. I have witnessed many marriages for time. I never witnessed any for eternity and not for time.**<br/>
+>Senator OVERMAN. Are there such marriages as that?<br/>
+>Mr. CANNON. I can not say whether there are or not. Of course there are marriages performed between living people and dead people, by having persons act vicariously for the dead.<br/>
+>Senator OVERMAN. There are such marriages, then, with dead people ?<br/>
+>Mr. CANNON. That is necessarily for eternity. It cannot be for time.<br/>
+>Senator OVERMAN. I say, you do have such marriages as that?<br/>
+>Mr. CANNON. Yes, sir.<br/>
+>Senator OVERMAN. A living person marrying a dead person?<br/>
+>Mr. CANNON. By the dead person being represented by a living person.<br/>
+>Senator OVERMAN. By having a representative here on earth he marries a living person here ?<br/>
+>Mr. CANNON. Yes, sir; vicariously, the same as Paul spoke of baptism for the dead.<br/>
+>Senator OVERMAN. Have you seen such marriages as that?<br/>
+>Mr. CANNON. Yes, sir; acting for the dead.<br/>
+>Mr. TAYLER. That does not result in the marriage for time between the proxy and the person who is married to the other for eternity only, does it?<br/>
+>Mr. CANNON. No; it only relates to the dead.<br/>
+>Mr. TAYLER. Do you recall any instances in the history of the church where the proxy vicariously representing the dead person has insisted that for time the woman was his?<br/>
+>Mr. CANNON. No; I never heard of such a thing. We would cut them off the church if they did.<br/>
+>Mr. TAYLER. I would think so. That is all.<br/>
+> ...<br/>
 
 Joseph F. Smith also testified,
 
 [Beginning at [pg 181](https://archive.org/details/SmootHearings/Smoot_1/page/n181/mode/2up?q=two+instance)]
 
-> ...</br>
->Mr. TAYLER. And do you have as many different kinds of marriage now as formerly ?</br>
->Mr. SMITH. We have as many different kinds of marriage now as formerly.</br>
->Mr. TAYLER. Let me call your attention to what I mean, because it will save time: Sealing for time only, sealing for time and eternity, and sealing for eternity only.</br>
->Mr. SMITH. Yes, sir.</br>
->Mr. TAYLER. Do you have those ?</br>
->Mr. SMITH. Yes, sir.</br>
->Mr. TAYLER. All three of them ?</br>
->Mr. SMITH. All three of them.</br>
-> ...</br>
+> ...<br/>
+>Mr. TAYLER. And do you have as many different kinds of marriage now as formerly ?<br/>
+>Mr. SMITH. We have as many different kinds of marriage now as formerly.<br/>
+>Mr. TAYLER. Let me call your attention to what I mean, because it will save time: Sealing for time only, sealing for time and eternity, and sealing for eternity only.<br/>
+>Mr. SMITH. Yes, sir.<br/>
+>Mr. TAYLER. Do you have those ?<br/>
+>Mr. SMITH. Yes, sir.<br/>
+>Mr. TAYLER. All three of them ?<br/>
+>Mr. SMITH. All three of them.<br/>
+> ...<br/>
 
 [Beginning at [pg 184](https://archive.org/details/SmootHearings/Smoot_1/page/n185/mode/2up?q=two+instance)]
 
-> ...</br>
->Mr. TAYLER. Do you perform celestial marriage ceremonies now?</br>
->Mr. SMITH. That is simply a marriage for time and eternity.</br>
->Mr. TAYLER. Time and eternity ?</br>
->Mr. SMITH. That is what it means, nothing more and nothing less.</br>
->Mr. TAYLER. That, according to the civil or municipal law, is an ordinary marriage, is it not?</br>
->Mr. SMITH. Those that are married in that way outside of the temples, it is simply a civil contract for time, but where they have obtained [185] these licenses and go to the temples to be married they are sealed for time and eternity.</br>
->**Mr. TAYLER. Are there sealings still going on for eternity alone, not for time?**</br>
->**Mr. SMITH. Not that I know of, unless the parties are dead.**</br>
->Senator FORAKER. Do you marry people for eternity and not for time?</br>
->Mr. SMITH. When they are dead; yes, sir.</br>
->Senator FORAKER. You marry them after they are dead?</br>
->Mr. SMITH. After they are dead; and, Mr. Senator, we do not have to have a license from the court to do that.</br>
->Senator FORAKER. That is simply a church marriage?</br>
->Mr. SMITH. That is just simply a principle that we believe in, that men and women are immortal beings.</br>
->Senator FORAKER. Are both the parties to that marriage dead at the time it is solemnized?</br>
->Mr. SMITH. Yes, sir; they are often dead, and they are represented by their heirs, either their sons or daughters, or some of their kinsmen.</br>
->Mr. TAYLER. Living persons have been united for eternity, have they not?</br>
->Mr. SMITH. I think there have been some few cases of that kind.</br>
->Mr. VAN COTT. To what time, Mr. Tayler, do you limit your question ?</br>
->**Mr. TAYLER. I was going to ask him. How recently have you known that kind of a marriage?**</br>
->Mr. SMITH. Not very recently.</br>
->Mr. TAYLER. Do you mean five years or twenty -five years?</br>
->**Mr. SMITH. Oh, twenty years or more.**</br>
->Mr. TAYLER. Is there any rule of the church prohibiting that kind of marriage?</br>
->Mr. SMITH. Not that I know of.</br>
->Mr. TAYLER. It has merely fallen into disuse; is that all?</br>
->**Mr. SMITH. It has merely fallen into disuse; that is all. I do not know that it could be said to have fallen absolutely into disuse.**</br>
->Mr. TAYLER. Or rather, that the principle which still adheres has not been invoked or exercised so often?</br>
->Mr. SMITH. No, sir; it has not been invoked.</br>
-> ...</br>
+> ...<br/>
+>Mr. TAYLER. Do you perform celestial marriage ceremonies now?<br/>
+>Mr. SMITH. That is simply a marriage for time and eternity.<br/>
+>Mr. TAYLER. Time and eternity ?<br/>
+>Mr. SMITH. That is what it means, nothing more and nothing less.<br/>
+>Mr. TAYLER. That, according to the civil or municipal law, is an ordinary marriage, is it not?<br/>
+>Mr. SMITH. Those that are married in that way outside of the temples, it is simply a civil contract for time, but where they have obtained [185] these licenses and go to the temples to be married they are sealed for time and eternity.<br/>
+>**Mr. TAYLER. Are there sealings still going on for eternity alone, not for time?**<br/>
+>**Mr. SMITH. Not that I know of, unless the parties are dead.**<br/>
+>Senator FORAKER. Do you marry people for eternity and not for time?<br/>
+>Mr. SMITH. When they are dead; yes, sir.<br/>
+>Senator FORAKER. You marry them after they are dead?<br/>
+>Mr. SMITH. After they are dead; and, Mr. Senator, we do not have to have a license from the court to do that.<br/>
+>Senator FORAKER. That is simply a church marriage?<br/>
+>Mr. SMITH. That is just simply a principle that we believe in, that men and women are immortal beings.<br/>
+>Senator FORAKER. Are both the parties to that marriage dead at the time it is solemnized?<br/>
+>Mr. SMITH. Yes, sir; they are often dead, and they are represented by their heirs, either their sons or daughters, or some of their kinsmen.<br/>
+>Mr. TAYLER. Living persons have been united for eternity, have they not?<br/>
+>Mr. SMITH. I think there have been some few cases of that kind.<br/>
+>Mr. VAN COTT. To what time, Mr. Tayler, do you limit your question ?<br/>
+>**Mr. TAYLER. I was going to ask him. How recently have you known that kind of a marriage?**<br/>
+>Mr. SMITH. Not very recently.<br/>
+>Mr. TAYLER. Do you mean five years or twenty -five years?<br/>
+>**Mr. SMITH. Oh, twenty years or more.**<br/>
+>Mr. TAYLER. Is there any rule of the church prohibiting that kind of marriage?<br/>
+>Mr. SMITH. Not that I know of.<br/>
+>Mr. TAYLER. It has merely fallen into disuse; is that all?<br/>
+>**Mr. SMITH. It has merely fallen into disuse; that is all. I do not know that it could be said to have fallen absolutely into disuse.**<br/>
+>Mr. TAYLER. Or rather, that the principle which still adheres has not been invoked or exercised so often?<br/>
+>Mr. SMITH. No, sir; it has not been invoked.<br/>
+> ...<br/>
 
 With further questioning we learn, [need to locate]
 
->Mr. WORTHINGTON. You said you remembered two instances where persons had been sealed by the church for eternity; you said one or two instances?</br>
->**Mr. SMITH. Yes, sir; one or two instances.**</br>
->Mr. WORTHINGTON. How long ago were those?</br>
->**Mr. SMITH. Twenty-five to thirty years ago.**</br>
+>Mr. WORTHINGTON. You said you remembered two instances where persons had been sealed by the church for eternity; you said one or two instances?<br/>
+>**Mr. SMITH. Yes, sir; one or two instances.**<br/>
+>Mr. WORTHINGTON. How long ago were those?<br/>
+>**Mr. SMITH. Twenty-five to thirty years ago.**<br/>
 
 Taylor then wants everyone to totally understand what Smith is saying and further questions him: [need to locate]
 
->Mr. TAYLER. Just one question. I want to be sure that I understand you correctly. You say that Apostle Teasdale told you that to this wife, from whom he had to obtain a divorce, he had been sealed for eternity only?</br>
->Mr. SMITH. Yes, sir.</br>
->Mr. TAYLER. That he had not been married either for time or for time and eternity, but only for that third form eternity only?</br>
->Mr. SMITH. Well, now, Mr. Tayler, I could not tell you as to the form of the ceremony.</br>
->Mr. TAYLER. I understand that. I am not speaking about that. But it was merely for eternity ?</br>
->Mr. SMITH. That is the understanding they had. It was for eternity, and not for time.</br>
->Mr. TAYLER. Exactly; and therefore the relations between them as contemplated at the time of the ceremony were that they should never cohabit ?</br>
->Mr. SMITH. Never cohabit.</br>
->Mr. WORTHINGTON. Therefore his relations with her were as chaste as if she were his sister or a stranger to him ?</br>
->Mr. SMITH. Perfectly so.</br>
+>Mr. TAYLER. Just one question. I want to be sure that I understand you correctly. You say that Apostle Teasdale told you that to this wife, from whom he had to obtain a divorce, he had been sealed for eternity only?<br/>
+>Mr. SMITH. Yes, sir.<br/>
+>Mr. TAYLER. That he had not been married either for time or for time and eternity, but only for that third form eternity only?<br/>
+>Mr. SMITH. Well, now, Mr. Tayler, I could not tell you as to the form of the ceremony.<br/>
+>Mr. TAYLER. I understand that. I am not speaking about that. But it was merely for eternity ?<br/>
+>Mr. SMITH. That is the understanding they had. It was for eternity, and not for time.<br/>
+>Mr. TAYLER. Exactly; and therefore the relations between them as contemplated at the time of the ceremony were that they should never cohabit ?<br/>
+>Mr. SMITH. Never cohabit.<br/>
+>Mr. WORTHINGTON. Therefore his relations with her were as chaste as if she were his sister or a stranger to him ?<br/>
+>Mr. SMITH. Perfectly so.<br/>
 
 Smith was only aware of a "few cases of that kind". It was not very prevalent, so unusual that Angus Cannon had never heard or participated in one. But they did happen, rarely.
 
