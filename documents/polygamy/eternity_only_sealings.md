@@ -8,7 +8,7 @@ layout: page
 
 ## Ruth Vose Sayers
 
-### 1869 Affidavit
+### 1869 Affidavit - "married or Sealed"
 
 Ruth Vose's 1869 affidavit makes no distinction between sealing and marriage.
 She also does not specify that the sealing was for eternity only (emphasis
@@ -22,9 +22,9 @@ More context on the affidavits [here](http://thoughtsonthingsandstuff.com/raider
 
 Hales [notes](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/): "However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year."
 
-### Andrew Jenson Papers [ca. 1871--1942], LDS Archives
+### Andrew Jenson Papers - "should be sealed ... for eternity"
 
-Andrew Jenson apparently had some documentation regarding Ruth Vose's
+Andrew Jenson [ca. 1871--1942] apparently had some documentation regarding Ruth Vose's
 relationship and sealing:
 
 > Sister Ruth/ Mrs. Sayers was married in her youth to Mr. Edward Sayers, a thoroughly practical horticulturist and florist, and though he was not a member of the Church, yet he willingly joined his fortune with her and they reached Nauvoo together some time in the year 1841;
@@ -33,7 +33,40 @@ relationship and sealing:
 
 From Andrew Jenson Papers [ca. 1871–1942], LDS Archives [as cited by Hales](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/#link_ajs-fn-id_7-5666). "It appears that the documents in these folders were used to compile Jenson’s 1887 Historical Record article on plural marriage. See Joseph F. Smith affidavit books, LDS Archives, 1:9 for date of this sealing 'February A.D. 1843.' However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year."
 
-Dan Vogel has noted that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.
+Dan Vogel [has noted](https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/) that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.
+
+## Patty Sessions
+
+I am aware of three statements regarding the nature of Patty's sealing to
+Joseph Smith.  One statement says she was "sealed ... for Eternity", the other
+that she was merely "sealed to Joseph Smith" and a journal entry that she was
+"sealed ... for time and all eternity."
+
+### "sealed ... for Eternity"
+
+Brian Hales [reproduces](https://josephsmithspolygamy.org/plural-wives-overview/patty-bartlett/) a June 1860 handwritten diary entry (emphasis added):
+
+> Patty Bartlett daughter of Enoch and Anne Bartlett was born February 4 1795 Bethel Mane/ and was married to David Session June 28th 1812 who was the son of David and Rachel Sessions, he was born April the 4th 1790 Veshire Vermont I was Batpised into the church of Jesus Christ of later day saints/ July 2 1834 Mr Sessions was Baptised Aug <st> 1735 we received our we received our endowment Dec 16 1845 in Nauvoo. …
+
+> I was sealed to Joseph Smith by Willard Richards March 9 1842 in Newel K Whitneys chamber Nauvoo for Eternity and I and if I do not live to attend to it myself when there is a place prepared I want some one to attend to it for me according to order Sylvia my daughter/ was present when I was sealed to Joseph Smith.I was after Mr. Sessions death **sealed to John Parry senior for time** on the 27 of March 1852 G[reat] S[alt] L. City.
+
+### "sealed to Joseph Smith"
+
+Her [1867 affidavit](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_1-4/page/n189/mode/1up?view=theater) reads (emphasis added):
+
+> I Patty Bartlett daughter of Enoch and Anna Bartlett was born February 4th 1795 town of Bethel State of Maine[.]I was Baptised into the church of Jesus Christ of Latter Saints July 2d 1834[. I] **was sealed to Joseph Smith the Prophet** by Willard Richards March the 9th 1842 in Nauvoo in Newel K Whitneys chamber Sylvia my Daughter was present[.]I received my Endowment in Nauvoo Dec 16 1845. I Never was sealed at the alter to any one.
+
+> Yours Truly,
+
+> Patty Sessions
+
+### "sealed  ... for time and all eternity"
+
+In her journal [is there any date information??], Patty Sessions stated:
+
+> I was sealed to Joseph Smith by Willard Richards Mar 9, 1842, in Newel K. Whitney's chamber, Nauvoo, for time and all eternity, and if I do not live to attend to it myself when there is a place prepared I want someone to attend to it for me according to order, Sylvia my daughter was present when I was sealed to Joseph Smith.  I was after Mr. Sessions' death sealed to John Parry for time on the 27th, March, 1852, GSL City.
+
+From ["Intimate Discipline: A Portrait of Willard Richards"](https://babel.hathitrust.org/cgi/pt?id=wu.89077107258&view=1up&seq=1), by Claire Noall. 1957, University of Utah Press. [pg 611](https://i.redd.it/rq28s3bwl8771.png).
 
 ## Temple Lot Case - Malissa Lott
 
@@ -237,7 +270,43 @@ Hales [has argued](https://josephsmithspolygamy.org/plural-wives-overview/sylvia
 But then one wonders why such information would need to have been "kept as an
 entire secret from me and from all the others" for Sylvia's entire life.
 
-# Notable discussions
+# Affidavits
+
+Need to go through all the affidavits [here](http://thoughtsonthingsandstuff.com/raiders-of-the-lost-archives-the-jfs-affidavit-books/) to look at language patterns.
+
+# "married or sealed"
+
+## Sylvia Sessions Lyon
+
+### 1842 sealing date (unsigned)
+
+The unsigned affidavit [reads](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n67/mode/1up?view=theater): 
+
+"... Sylvia Lyon ... on the eighth day of February A.D. 1842, in the City of Nauvoo,...
+she was married or sealed to President Joseph Smith by [blank] in the presence
+of [blank]"
+
+### 1843 sealing date (unsigned)
+
+The unsigned affidavit [reads](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n308/mode/1up?view=theater):
+
+"... Sylvia Lyon ... on the eighth day of February A.D. 1843 ... was married
+or sealed to President Joseph Smith, in the City of Nauvoo ... by [remaining blank]"
+
+# Appendix
+
+## Brian Hales "similar to the language found in other eternity-only sealings"
+
+Hales's evidence for eternity only sealing verbiage is found in footnote 3
+[here](https://josephsmithspolygamy.org/plural-wives-overview/patty-bartlett/): 
+
+> See the account of Ruth Vose Sayers in Andrew Jenson Papers [ca. 1871–1942], MS 17956; CHL, Box 49, Folder 16, fifth document; Zina Huntington in Wight interview, “Evidence from Zina D. Huntington Young,” Saints Herald (January 11, 1905): 29; Mary Elizabeth Rollins Lightner, “Remarks” at Brigham Young University, April 14. 1905, vault MSS 363, fd 6, Harold B. Lee Library, Special Collections, 7 (addendum); Oliver Huntington regarding Zina and Presendia in Journals, no.15, entry for February 18, 1883, HBLL, BYU; Bathsheba Smith’s testimony regarding Jane Law, deposition, Temple Lot transcript, respondent’s testimony, part 3, page 318, questions 564–77; John D. Lee regarding Marinda Hyde in Mormonism Unveiled (St. Louis: Bryan, Brand & Company, 1877), 147; Lucy Meserve Smith, handwritten statement dated May 18, 1892, copy of holograph in Linda King Newell Collection, Marriott Library, University of Utah.
+
+## Plural Marriage in Kirtland and Nauvoo footnote
+
+[The Kirtland/Nauvoo polygamy essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng#25) states: "Neither these women nor Joseph explained much about these sealings, though several women said they were for eternity alone" points to Hales, Joseph Smith’s Polygamy, 1:421–37. [need to get and post photocopy of these pages or at least summarize]
+
+## Notable discussions
 
 * [Hales-Vogel #1 FaceBook Exchanges](https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/)
 * [Evidence for the Sexual Side of Joseph Smith’s Polygamy](https://josephsmithspolygamy.org/wordpress/wp-content/uploads/2014/01/Quinns-FINAL-RESPONSE.pdf) (D. Michael Quinn)

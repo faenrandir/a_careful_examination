@@ -6,10 +6,14 @@ doctype: short-analysis
 layout: page
 ---
 
-## Compton's assessment
+## Todd Compton's assessment
 
 * [Assessment of the evidence for sexuality]({{ "/compton-sexuality-in-joseph-smiths-plural-marriages/" | relative_url }})
 * [Assessment of evidence for sexuality with Helen Mar Kimball](https://web.archive.org/web/20201008222509/http://toddmcompton.com/revhmk5.html)
+
+## Brian Hales' assessment
+
+[Evidences of Sexual Relations](https://josephsmithspolygamy.org/faq-sexuality-2/)
 
 ## Short analysis of the testimony evidence
 
