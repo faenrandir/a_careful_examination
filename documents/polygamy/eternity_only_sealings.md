@@ -78,6 +78,8 @@ note: I have not been able to find the testimony that Hales references, but it s
 
 ## Helen Mar Kimball 1881 account
 
+### The account
+
 Hales writes "The primary document referring to the relationship is an 1881
 poem penned by Helen that has been interpreted in different ways". The letter,
 including the poem, is reproduced from a complete transcript
@@ -116,6 +118,8 @@ including the poem, is reproduced from a complete transcript
 > But had this not come through my dear father’s mouth,<br/>
 > I should ne’r have received it as God’s sacred truth.<br/>
 
+### Hales' argument
+
 Hales also [quotes some of Helen's writing from a year later](https://josephsmithspolygamy.org/common-questions/14-year-old-wives-teenage-brides/):
 
 > During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay home, as my father had been warned by the Prophet to keep his daughter away from there, because of the blacklegs and certain ones of questionable character who attended there. … I felt quite sore over it, and thought it a very unkind act in father to allow [my brother] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, for no girl loved dancing better than I did, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longer for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur.
@@ -123,6 +127,27 @@ Hales also [quotes some of Helen's writing from a year later](https://josephsmit
 And he then argues:
 
 > Helen’s feelings certainly don’t reflect those of one who considered herself married. Fourteen is young, but certainly old enough to understand the expectations of a married woman. It seems that if Helen were sexually involved with the Prophet as a plural wife, her anticipation of pregnancy and other wifely responsibilities might have made it clear to her that she was no longer single. In view of the conservative sexual standards embraced at that time, her longings to dance with teenage boys and otherwise socialize may have been subdued as she submitted to her wifehood.
+
+### Arguments against "eternity alone"
+
+Others interpret her poem as indicating that the relationship was (or may have been) sexual, which argues against an "eternity only" sealing:
+
+* [Mormonthink: Plural Marriage in Kirtland & Nauvoo - Response to LDS.org](http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm)
+* [ldsdiscussions: Official LDS Essay on Plural Marriage in Kirtland and Nauvoo, Annotated](https://www.ldsdiscussions.com/polygamy-nauvoo)
+
+### "for the purpose of raising a righteous seed"
+
+In defending polygamy in 1884 in her pamphlet [Why We Practice Plural
+Marriage](https://ia800900.us.archive.org/30/items/whywepracticepl00whitgoog/whywepracticepl00whitgoog.pdf)
+Helen emphasized the purpose of polygamy (emphasis following [mormonthink
+presentation](http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm)) (pg 7):
+
+> **Polygamy**, at different periods, has been practiced as a correcter of evils and a promoter of purity; because of the wickedness and corruption into which the world has sunk; and this is the present condition of all civilized nations. Every sign goes to show that we are nearing the end -- the winding up scene which all the ancient prophets have foretold, as well as the Prophet Joseph Smith. **It was revealed to the latter that there were thousands of spirits, yet unborn, who were anxiously waiting for the privilege of coming down to take tabernacles of flesh**, that their glory might be complete. This, Lucifer and his armies, who were cast out of heaven down upon this planet, have been doing their utmost to prevent. Their greatest punishment is in not having bodies; and their mission is to throw dust in the eyes of the children of men, that they may not see the truths of heaven. It is through Lucifer's wicked schemes that so many thousands of tabernacles have been and are being destroyed, and thereby **those choice spirits have been hindered from coming into this state of existence**, which event is of the greatest importance to them. But the work of the Almighty is rushing towards its completion, which makes **this plural wife system an actual necessity**. It was our Father in heaven who commanded that it should be established, and we have nothing to fear for what we have done. It is a controversy between God and Satan. The principle was established by the Prophet Joseph Smith, **and all who have entered into it in righteousness, have done so for the purpose of raising a righteous seed**; and the object is that we may be restored back to that Eden from whence we fell. (See Helen Mar Whitney, Why We Practice Plural Marriage, pp. 7-8 (Juvenile Instructor 1884)
+
+She also talks about sealing in these terms (pg 10):
+
+> My father had a number of wives, some were old ladies who chose to be sealed
+> to him, but he never lived with them only to support them. ...
 
 ## Reed Smoot Hearings
 
