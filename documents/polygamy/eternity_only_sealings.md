@@ -10,8 +10,9 @@ layout: page
 
 ### 1869 Affidavit
 
-Ruth's 1869 Affidavit makes no distinction between sealing and marriage,
-nor does it specify that the sealing was for eternity only (emphasis added):
+Ruth Vose's 1869 affidavit makes no distinction between sealing and marriage.
+She also does not specify that the sealing was for eternity only (emphasis
+added):
 
 > Be it remembered that on this first day of May, A.D. 1869, personally appeared before me, Elias Smith, Probate Judge for Said County, Ruth Vose Sayers who was by me Sworn in due form of law and upon her oath Saith that on [blank] day of February A.D. 1843 at the City of Nauvoo County of Hancock, State of Illinois, **She was married or Sealed** to Joseph Smith President of the Church of Jesus Christ of Latter Day Saints, by Hyrum Smith, Presiding Patriarch of Said Church, according to the laws of the Same, regulating Marriage; in the presence of Ruth V. Sayers; Subscribed and sworn by the said Ruth V. Sayers, the day and year first above written; E. Smith; Probate Judge
 
@@ -23,15 +24,20 @@ Hales [notes](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/)
 
 ### Andrew Jenson Papers [ca. 1871--1942], LDS Archives
 
+Andrew Jenson apparently had some documentation regarding Ruth Vose's
+relationship and sealing:
+
 > Sister Ruth/ Mrs. Sayers was married in her youth to Mr. Edward Sayers, a thoroughly practical horticulturist and florist, and though he was not a member of the Church, yet he willingly joined his fortune with her and they reached Nauvoo together some time in the year 1841;
 
 > While there the strongest affection sprang up between the Prophet Joseph and Mr. Sayers. The latter not attaching much importance to the/ theory of a future life insisted that his wife Ruth/ should be sealed to the Prophet for eternity, as he himself should only claim [page2—the first 3 lines of which are written over illegible erasures] her in this life. She was/ accordingly the sealed to the Prophet in Emma Smith’s presence and thus were became numbered among the Prophets plural wives. She however though she/ continued to live with Mr. Sayers / remained with her husband until his death.
 
 From Andrew Jenson Papers [ca. 1871–1942], LDS Archives [as cited by Hales](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/#link_ajs-fn-id_7-5666). "It appears that the documents in these folders were used to compile Jenson’s 1887 Historical Record article on plural marriage. See Joseph F. Smith affidavit books, LDS Archives, 1:9 for date of this sealing 'February A.D. 1843.' However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year."
 
+Dan Vogel has noted that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.
+
 ## Temple Lot Case - Malissa Lott
 
-In footnote #6 of josephsmithspolygamy.org [Ruth Vose page](https://web.archive.org/web/20200708214336/https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/), Brian Hales writes:
+In footnote #6 of Brian Hales's [Ruth Vose page](https://web.archive.org/web/20200708214336/https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/), Hales writes:
 
 > Recognizing that Joseph Smith’s marriages could have been for either “time and eternity” or just “eternity,” P.P. Kelley questioned Malissa Lott in 1892 regarding the type of sealing ceremony that she experienced with the him: “Did you live with Joseph Smith as his wife, or were you just simply sealed to him for eternity?”(Temple Lot Case, complete transcript, part 3, pages 97, questions 94.) Malissa, who was single at the time of her sealing to the Prophet, had earlier stated: “I was married to him for time and all eternity.”(Ibid., page 95, question 56)
 
@@ -40,8 +46,9 @@ note: I have not been able to find the testimony that Hales references, but it s
 ## Helen Mar Kimball 1881 account
 
 Hales writes "The primary document referring to the relationship is an 1881
-poem penned by Helen that has been interpreted in different ways".  The poem
-is quoted in full and the complete context is [here](https://faenrandir.github.io/a_careful_examination/helen-mar-kimball-whitney-1881-autobiography/).  Some context is included here:
+poem penned by Helen that has been interpreted in different ways". The letter,
+including the poem, is reproduced from a complete transcript
+[here](https://faenrandir.github.io/a_careful_examination/helen-mar-kimball-whitney-1881-autobiography/):
 
 > Just previous to my father’s starting upon his last mission but one, to the Eastern States, he taught me the principle [p. 1] of Celestial marriage, & having a great desire to be connected with the Prophet, Joseph, he offered me to him; this I afterwards learned from the Prophet’s own mouth. My father had but one Ewe Lamb, but willingly laid her upon the alter: how cruel this seamed to the mother whose heartstrings were already stretched untill they were ready to snap asunder, for he had taken Sarah Noon to wife & she thought she had made sufficient sacrafise, but the Lord required more. I will pass over the temptations which I had during the twenty four hours after my father introduced to me this principle & asked me if I would be sealed to Joseph, who came next morning & with my parents I heard him teach & explain the principle of [p. 1] Celestial marrage-after which he said to me, “If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred.
 
@@ -76,7 +83,7 @@ is quoted in full and the complete context is [here](https://faenrandir.github.i
 > But had this not come through my dear father’s mouth,<br/>
 > I should ne’r have received it as God’s sacred truth.<br/>
 
-Hales [quotes writing from a year later](https://josephsmithspolygamy.org/common-questions/14-year-old-wives-teenage-brides/):
+Hales also [quotes some of Helen's writing from a year later](https://josephsmithspolygamy.org/common-questions/14-year-old-wives-teenage-brides/):
 
 > During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay home, as my father had been warned by the Prophet to keep his daughter away from there, because of the blacklegs and certain ones of questionable character who attended there. … I felt quite sore over it, and thought it a very unkind act in father to allow [my brother] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, for no girl loved dancing better than I did, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longer for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur.
 
@@ -210,7 +217,27 @@ I believe that Sarah Noon had a child by Heber in October, 1843 so she would hav
 
 [End of Johnny Stephenson commentary]
 
-## Notable discussions
+# Data and arguments against "eternity only"
+
+## Josephine Lyon the daughter of Joseph Smith
+
+In [an affidavit signed by her daughter Josephine](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_1-4/page/n53/mode/1up?view=theater), Sylvia Sessions---who was legally married to Windsor Lyon---told Josephine on her death bed that Joseph Smith was her father:
+
+> Just prior to my mothers death in 1882 she called me to her bedside and told me that her days on earth were about numbered and before she passed away from mortality she desired to tell me something which she had kept as an entire secret from me and from all the others but which she now desired to communicate to me. She then told me that I was the daughter of the Prophet Joseph Smith, she having been sealed to the Prophet at the time that her husband Mr. Lyon was out of fellowship with the Church.
+
+Whatever the nature of the marriage or sealing, the *prima facie* interpretation
+is that Sylvia had a conjugal relationship with both Joseph Smith and Windsor
+Lyon in close temporal proximity and argues against an "eternity only" style
+relationship.
+
+Hales [has argued](https://josephsmithspolygamy.org/plural-wives-overview/sylvia-sessions/) that a figurative/spiritual interpretation is possible:
+
+> ... an eternity-only sealing between Sylvia and Joseph would have made Josephine his daughter in a spiritual sense automatically, since she was born-in-the-covenant of that sealing. Also, within the Church starting with the 1877 dedication of the St. George Temple, proxy sealings as vicarious adoption ordinances were creating fathers and daughters among individuals with no physical kinship relationship.
+
+But then one wonders why such information would need to have been "kept as an
+entire secret from me and from all the others" for Sylvia's entire life.
+
+# Notable discussions
 
 * [Hales-Vogel #1 FaceBook Exchanges](https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/)
 * [Evidence for the Sexual Side of Joseph Smith’s Polygamy](https://josephsmithspolygamy.org/wordpress/wp-content/uploads/2014/01/Quinns-FINAL-RESPONSE.pdf) (D. Michael Quinn)
