@@ -34,7 +34,7 @@ relationship and sealing:
 
 > While there the strongest affection sprang up between the Prophet Joseph and Mr. Sayers. The latter not attaching much importance to the/ theory of a future life insisted that his wife Ruth/ should be sealed to the Prophet for eternity, as he himself should only claim [page2—the first 3 lines of which are written over illegible erasures] her in this life. She was/ accordingly the sealed to the Prophet in Emma Smith’s presence and thus were became numbered among the Prophets plural wives. She however though she/ continued to live with Mr. Sayers / remained with her husband until his death.
 
-From Andrew Jenson Papers [ca. 1871–1942], LDS Archives [as cited by Hales](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/#link_ajs-fn-id_7-5666). "It appears that the documents in these folders were used to compile Jenson’s 1887 Historical Record article on plural marriage. See Joseph F. Smith affidavit books, LDS Archives, 1:9 for date of this sealing 'February A.D. 1843.' However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year."
+From Andrew Jenson Papers [ca. 1871–1942], LDS Archives [as cited by Hales](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/#link_ajs-fn-id_7-5666). "It appears that the documents in these folders were used to compile Jenson’s 1887 Historical Record article on plural marriage.
 
 Dan Vogel [has noted](https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/) that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.
 
