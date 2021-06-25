@@ -10,15 +10,18 @@ layout: page
 
 ### 1869 Affidavit - "married or Sealed"
 
-Ruth Vose's 1869 affidavit makes no distinction between sealing and marriage.
-She also does not specify that the sealing was for eternity only (emphasis
+Ruth Vose's 1869 affidavit makes no distinction between sealing and marriage,
+but the verbiage seems like it was standardized across the 1869 affidavits.
+Those affidavits used the same verbiage "married or Sealed" whether the
+individual was a single woman or an already married one (i.e., polyandrous).
+The affidavit (much like the other affidavits from 1869) reads (emphasis
 added):
 
 > Be it remembered that on this first day of May, A.D. 1869, personally appeared before me, Elias Smith, Probate Judge for Said County, Ruth Vose Sayers who was by me Sworn in due form of law and upon her oath Saith that on [blank] day of February A.D. 1843 at the City of Nauvoo County of Hancock, State of Illinois, **She was married or Sealed** to Joseph Smith President of the Church of Jesus Christ of Latter Day Saints, by Hyrum Smith, Presiding Patriarch of Said Church, according to the laws of the Same, regulating Marriage; in the presence of Ruth V. Sayers; Subscribed and sworn by the said Ruth V. Sayers, the day and year first above written; E. Smith; Probate Judge
 
 [Affidavits book 1](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n14/mode/1up?view=theater) \| [Affidavits book 4](https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n252/mode/1up?view=theater)
 
-More context on the affidavits [here](http://thoughtsonthingsandstuff.com/raiders-of-the-lost-archives-the-jfs-affidavit-books/).
+More context on and other examples of the affidavits [here](http://thoughtsonthingsandstuff.com/raiders-of-the-lost-archives-the-jfs-affidavit-books/).
 
 Hales [notes](https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/): "However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year."
 
