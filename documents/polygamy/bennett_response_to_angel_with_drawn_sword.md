@@ -28,36 +28,40 @@ Bennett himself frequently relies on the reminiscences of these women on *other*
 
 Hales [compiled all the statements](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) regarding the angel story, and Don Bradley suggests there are, in fact, some contemporary clues that support the basic idea.  In any case, we do not have good reasons to doubt these reminiscences, and many of those who reminisced were participants (i.e., many of these are first-hand accounts, even if they were delivered later in their life).
 
+### Reluctance, not because he had to marry any specific woman
+
 > In every one, the angel appeared due to Joseph’s reluctance to engage in plural marriage as a general principle, not because he had to marry any specific woman.
 
-Bennett seems to be putting words in Runnells mouth because Runnells does not ever claim that "[the angel came] because he had to marry any specific woman." Runnells said exactly this: "Some of these marriages to these women included ... threats that he (Joseph) was going to be slain by an angel with a drawn sword if the girls didn’t marry him."  Runnells does not discuss causality, and his statement does not seem inconsistent with the historical record.
+Bennett seems to be putting words in Runnells mouth because Runnells does not ever claim that "[the angel came] because he had to marry any specific woman." Runnells said exactly this: "Some of these marriages to these women included ... threats that he (Joseph) was going to be slain by an angel with a drawn sword if the girls didn’t marry him."[^reword_runnells]  Runnells does not discuss causality, and his statement does not seem inconsistent with the historical record.
 
-### The historical record
+### Not one account ... "If you don't marry me, an angel will kill me."
 
-Zina Huntington Jacobs Smith Young recounted in 1894 (published in 1895) the manner in which Joseph relayed the angel story to her.  Active LDS Historians Martha Bradley and Mary Woodward explain:
+> Not one of the accounts of the angel has Joseph telling anyone, “If you don’t marry me, an angel will kill me.”
 
-> In October 1841 [Zina was married and pregnant for about 7 months at this time] Smith sent Dimick with an unwelcome message to force Zina to a decision. "Joseph said, Tell Zina I have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further."28 But when Dimick came, Zina's anguish had been resolved, and she was emotionally prepared to accept the sealing 
+This is strongly implied in Zina Huntington Jacobs Smith Young's 1894 reminiscence.
 
-Footnote 28: As quoted by Zina D. H. Young, "Joseph, the Prophet His Life and Mission as Viewed by Intimate Acquaintances," Salt Lake Herald Church and Farm Supplement, 12 January 1895,212. She made this statement at a memorial service commemorating Smith's birthday, for many years a feature among those who had known him. This particular meeting was held 24 December 1894 at Salt Lake City Sixteenth Ward. Speakers included Robert T. Burton, Rachael Grant, Samuel H.  B. Smith, Joseph F. Smith, Frederick Kesler, Zina D. H. Young, Lucy Walker Kimball, Bathsheba W. Smith, Walter Wilcox, Claudius V. Spencer, Angus M.  Cannon, John Smith, Elizabeth Roundy, Edward Rushton, and Homer Duncan.  See also Joseph Fielding Smith, ed., Teachings of the Prophet Joseph Smith (Salt Lake City: Deseret News Press, 1954), 212.
+Zina Huntington Jacobs Smith Young recounted in 1894 (published in 1895) the manner in which Joseph relayed the angel story to her.  Active LDS Historians [Martha Bradley and Mary Woodward explain](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1022&context=mormonhistory) (pg 95):
+
+> In October 1841 [Zina was married and pregnant for about 7 months at this time] Smith sent Dimick with an unwelcome message to force Zina to a decision. "Joseph said, Tell Zina I have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further."[28][^footnote_28] But when Dimick came, Zina's anguish had been resolved, and she was emotionally prepared to accept the sealing 
 
 Hales includes the same source [in his treatment](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) but with a slightly different preamble (I do not know why the quotations differ slightly in the preamble):
 
 > [Joseph] sent word to me by my brother, saying, ‘Tell Zina I put it off and put it off till an angel with a drawn sword stood by me and told me if I did not establish that principle upon the earth, I would lose my position and my life.’
 
-So, Runnells choice of the word "threat" is quite strong, but his statement
-does not seem inconsistent with the historical record.  Were I to
-reword the claim for strict historical accuracy, I would say this:
+[^reword_runnells]: Were I to reword Runnells' claim for strict historical accuracy, I would say this:
 
-As they later recounted, Joseph related to multiple of his plural wives that
-an angel with a drawn sword threatened his life if he did not institute
-polygamy.  In at least one instance (with the 7 month pregnant newly married
-Zina Hungington Jacobs), the message appears to have been delivered in a
-persuasive/coercive manner, "I have put it off and put it off until an angel
-with a drawn sword has stood before me and told me if I did not establish that
-principle [plurality of wives] and live it, I would lose my position and my
-life and the Church could progress no further.
+    As they later recounted, Joseph related to multiple of his plural wives that
+    an angel with a drawn sword threatened his life if he did not institute
+    polygamy.  In at least one instance (with the 7 month pregnant newly married
+    Zina Hungington Jacobs), the message appears to have been delivered in a
+    persuasive/coercive manner, "I have put it off and put it off until an angel
+    with a drawn sword has stood before me and told me if I did not establish that
+    principle [plurality of wives] and live it, I would lose my position and my
+    life and the Church could progress no further.
 
-Although we do not know if he used the information to encourage the other
-wives' participation in a plural marriage as he did Zina, it is difficult to
-imagine how conveyance of such information in any setting would not promote
-feelings of urgency and compliance in those whom he confided in.
+    Although we do not know if he used the information to encourage the other
+    wives' participation in a plural marriage as he did Zina, it is difficult to
+    imagine how conveyance of such information in any setting would not promote
+    feelings of urgency and compliance in those whom he confided in.
+
+[^footnote_28]: Footnote 28 reads: As quoted by Zina D. H. Young, "Joseph, the Prophet His Life and Mission as Viewed by Intimate Acquaintances," Salt Lake Herald Church and Farm Supplement, 12 January 1895,212. She made this statement at a memorial service commemorating Smith's birthday, for many years a feature among those who had known him. This particular meeting was held 24 December 1894 at Salt Lake City Sixteenth Ward. Speakers included Robert T. Burton, Rachael Grant, Samuel H.  B. Smith, Joseph F. Smith, Frederick Kesler, Zina D. H. Young, Lucy Walker Kimball, Bathsheba W. Smith, Walter Wilcox, Claudius V. Spencer, Angus M.  Cannon, John Smith, Elizabeth Roundy, Edward Rushton, and Homer Duncan.  See also Joseph Fielding Smith, ed., Teachings of the Prophet Joseph Smith (Salt Lake City: Deseret News Press, 1954), 212.
