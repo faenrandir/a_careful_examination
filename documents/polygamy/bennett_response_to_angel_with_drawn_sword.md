@@ -16,7 +16,7 @@ In his [response to the CES Letter version 2.0](https://archive.bookofmormoncent
 
 > You are conflating two stories into one in order to make Joseph look as seedy as possible. There was an angel with a drawn sword connected to plural marriage, but it’s a story with quite a different context than the one you’re suggesting. All the accounts of the sword-bearing angel come after Joseph’s lifetime in reminiscences of those close to him.  In every one, the angel appeared due to Joseph’s reluctance to engage in plural marriage as a general principle, not because he had to marry any specific woman. Not one of the accounts of the angel has Joseph telling anyone, “If you don’t marry me, an angel will kill me.” If that happened, even once, it’d be very hard to imagine that a woman wouldn’t have mentioned it. None of them do.
 
-This seems like a misleading and inadequate response.
+I will demonstrate below that this response is misleading and inadequate.
 
 ### "All the accounts ... come after Joseph's lifetime"
 

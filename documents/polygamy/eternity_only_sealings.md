@@ -38,12 +38,55 @@ From Andrew Jenson Papers [ca. 1871–1942], LDS Archives [as cited by Hales](ht
 
 Dan Vogel [has noted](https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/) that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.
 
+## Zina Huntington
+
+John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day Saints, interviewed Zina Huntington Jacobs Smith Young at her home in Utah, October 1, 1898, and published it in the saints herald (see [complete transcript]({{ "/zina-huntington-interview-saints-herald/" | relative_url }})).
+
+> ... He married me. The Lord told him to take me and he did so.
+
+> Q. I believe you claim your brother officiated at the marriage?
+
+> A. He did at the first. When Brigham Young returned from England, he repeated the ceremony for time and eternity. ...
+
+> Q. Then it is a fact, Mrs. Young, is it not, that you married Mr. Smith at the same time you were married to Mr. Jacobs?
+
+> A. What right have you to ask me such questions? I was sealed to Joseph Smith for eternity.
+
+> Q. Mrs. Young, you claim, I believe, that you were not married to him for time?
+
+> A. For eternity. I was married to Mr. Jacobs, but the marriage was unhappy, and we parted. ...
+
+> Q. Do you know, Mrs. Young, that what you did in these matters was contrary to law?
+
+> A. There was no law for polygamy.
+
+> Q. Are you aware of the fact that at that time, that is, prior to the death of Joseph Smith, the law of Illinois was against the taking of more than one wife?
+
+> A. I do not know. ...
+
+> Q. Who was present at the time that Joseph taught you the doctrine of sealing besides yourself and Joseph?
+
+> A. My brother Dimick.
+
+> Q. Were you sealed to Joseph on the occasion of this visit?
+
+> A. Yes, sir.
+
+> Q. It is a fact then, Mrs. Young, that Joseph was not married to you only in the sense of being sealed for eternity?
+
+> A. As his wife for time and eternity.
+
+> Q. Mrs. Young, you have answered that question in two ways; for time, and for time and eternity.
+
+> A. I meant for eternity.
+
+* She does not advance any objection to the interviewer calling her association with Joseph a "marriage."
+* Brigham Young repeated the ceremony for "time and eternity." (presumably after Joseph Smith's death)
+* She claims she was "sealed for eternity", then "his wife for time and eternity" and then clarified "I meant for eternity."
+
 ## Patty Sessions
 
-I am aware of three statements regarding the nature of Patty's sealing to
-Joseph Smith.  One statement says she was "sealed ... for Eternity", the other
-that she was merely "sealed to Joseph Smith" and a journal entry that she was
-"sealed ... for time and all eternity."
+I am aware of three statements regarding the nature of Patty's sealing to Joseph Smith.  One statement says she was "sealed ... for Eternity", the other that she was merely "sealed to Joseph Smith" and a journal entry that she was "sealed ... for time and all eternity."
 
 ### "sealed ... for Eternity"
 
