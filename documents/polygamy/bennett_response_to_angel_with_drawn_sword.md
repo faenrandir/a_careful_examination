@@ -38,7 +38,23 @@ Bennett seems to be putting words in Runnells mouth because Runnells does not ev
 
 > Not one of the accounts of the angel has Joseph telling anyone, “If you don’t marry me, an angel will kill me.”
 
-This is strongly implied in Zina Huntington Jacobs Smith Young's 1894 reminiscence.
+There are two accounts which imply contingency between Joseph telling them and the threat of death at the hands of the angel.
+
+Bennett's re-statement of the problem can be read with two kinds of emphases:
+
+> If **you** don't marry me, an angel will kill me.
+
+Or
+
+> If you [or somebody at least] [won't] marry me, an angel will kill me.
+
+The second statement is consistent with Runnells' words:
+
+> Some of these marriages to these women included ... threats that he (Joseph) was going to be slain by an angel with a drawn sword if the girls didn’t marry him. 
+
+and well supported by the primary accounts.
+
+#### Zina Huntington Jacobs Smith Young 1894 reminiscence
 
 Zina Huntington Jacobs Smith Young recounted in 1894 (published in 1895) the manner in which Joseph relayed the angel story to her.  Active LDS Historians [Martha Bradley and Mary Woodward explain](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1022&context=mormonhistory) (pg 95):
 
@@ -47,6 +63,14 @@ Zina Huntington Jacobs Smith Young recounted in 1894 (published in 1895) the man
 Hales includes the same source [in his treatment](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) but with a slightly different preamble (I do not know why the quotations differ slightly in the preamble):
 
 > [Joseph] sent word to me by my brother, saying, ‘Tell Zina I put it off and put it off till an angel with a drawn sword stood by me and told me if I did not establish that principle upon the earth, I would lose my position and my life.’
+
+#### Mary Elizabeth Rollins Lightner
+
+In a letter to Emmeline B. Wells in the summer of 1905, Mary Elizabeth Rollins Lightner wrote (pg 36 [here](https://mormonpolygamydocuments.org/wp-content/uploads/2014/11/JSP_Book_24.pdf)):
+
+> As for Sister Whitney Bishop Withneys wife I shall never forget her as it was at her house that the Prophet Joseph first told mea about his great vision *Concerning me*, he said *I* was the first woman God commanded him to take as a plural wife in 183 [sic] & he was very much frightened about [it] until the Angel appear[e]d to him three times. [I]t was in the early part of Feb. 1842 ~~before~~ **that he was compelled to reveal it to me personally, by the Angel threatening him**.
+
+The reveal to Mary *was associated with* "the Angel threatening him."  In [several other communications](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf), Mary indicates the last visit was the visit where the angel appeared "with a drawn sword in his hand and told Joseph if he did not go into that principle, he would slay him."
 
 [^reword_runnells]: Were I to reword Runnells' claim for strict historical accuracy, I would say this:
 
