@@ -1,0 +1,17 @@
+---
+title: "William Davis on Early Modern English in the Book of Mormon"
+permalink: /william-davis-on-early-modern-english-in-the-bom/
+maintopic: book-of-mormon
+doctype: quotation
+layout: page
+---
+
+In his [response to a roundtable review in Dialogue](https://www.dialoguejournal.com/2020/06/author-response-to-dialogue-book-review-roundtable-visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-by-william-davis/), William Davis offers an explanation for how Early Modern English may have been introduced into the Book of Mormon:[^facebook_post]
+
+> ... The presence of non-biblical, late sixteenth and early seventeenth-century language, for example, has captured the attention of researchers.  How would such language find its way into the Book of Mormon, particularly if it originated from a nineteenth-century translator?  The role of oral performance offers clues.  Children growing up in religious households—especially in families like the Smiths, who participated in domestic worship—were regularly exposed to family members reading aloud the scriptures and other religious texts (e.g., sermons, theological treatises).  Such oral practices exposed children to the vocabulary, syntax, and phraseology of biblical-style language, imprinting such structures in their minds before they could even read and at the same time that they were in their most active period of first language acquisition, creating a fluency in a biblical register that modern observers often fail to appreciate.  Moreover, the Bible was not the only source for such archaic language.
+
+> In the early nineteenth century, the works of several seventeenth-century religious authors remained popular in the homes of farmers and artisans.  These included such writers as Richard Baxter (1615–1691), John Bunyan (1628–1688), John Flavel (ca. 1627–1691), John Milton, (1608–1674), and Isaac Watts (1674–1748).  John Bunyan’s The Pilgrim’s Progress (1678), for example, was an enormously popular work, and parents and Sunday school teachers often used the book as a beginner’s “bible” to teach children how to read.  As such, the amalgamation of archaic and biblical-sounding language from the Bible itself, combined with related seventeenth-century reading material and the language of revivalism—all shared and expressed through the oral performances of communal reading and religious oratorical expressions—could instill fluency in a spiritual linguistic register that nineteenth-century Americans took for granted and commonly described as “scripture language” or “bible language.”  Many evangelical preachers in Joseph’s time would preach in such a register, switching effortlessly from their everyday colloquial speech into a heightened biblical-sounding style.  In light of this ingrained oratorical phenomenon, future studies exploring the connections between the language of the Book of Mormon and the writings of late sixteenth and early seventeenth-century authors may well reveal some of the specific material that the Smith family read at home, as well as provide further discoveries related to the origins of Joseph’s translation style.
+
+> ...
+
+[^facebook_post]: In a facebook post on July 6, 2021, Bill Davis wrote: "... 'What about all the Early Modern English in the Book of Mormon?  Doesn't that prove that Joseph Smith couldn't have been involved in the construction of the Book of Mormon?'  Answer:  No!  Of course not!  [In fact, I basically answered this question already in my response to all the reviewers in Dialogue's Roundtable on my book]"
