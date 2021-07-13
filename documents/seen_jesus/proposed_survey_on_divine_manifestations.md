@@ -61,10 +61,12 @@ If you have had multiple visitations, please answer the questions regarding your
 
 1. How did you know with whom you were visiting?
 
+    ```
     A. They identified themselves with their name.
     B. I simply knew who it was.
     C. They appeared similar to pictures I had seen.
     D. Other...
+    ```
 
 1. Please describe the clothing the visitor was wearing in as much detail as you remember (including color, cut, type of material, etc)
 

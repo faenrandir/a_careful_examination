@@ -55,7 +55,15 @@ According to [a report by Scott Duke](http://www.mormonstories.org/scott-duke-go
 
 > There are men who walk the earth today who no longer require faith in order to believe in the Father and the Son.  They no longer require the scriptures as their primary source of information about deity because they have had a sure witness.  I am one of those men.  With the exception of living at a different time and place, I have essentially had the same experiences as Joseph Smith.
 
-### Summary of modern LDS Leaders who claim experience with Christ
+### Elder Quentin Cook
+
+Testimony given at a Regional Conference for young married couples under hte
+age of 30 and those married less than 5 years.  Talk given in Murray, UT on
+January 26, 2019. Elder Cook [stated](https://www.youtube.com/watch?v=2xRO4nPbrxk):
+
+> I know the Savior's voice, and I know the Savior's face. I am a sure witness of the divinity of Jesus Christ.
+
+## Summary of modern LDS Leaders who claim experience with Christ
 
 * **David O. Mckay**: heard him? felt his presence?
 * **Melvin J. Ballard**: in visions to his soul
@@ -63,6 +71,7 @@ According to [a report by Scott Duke](http://www.mormonstories.org/scott-duke-go
 * **Faust**: knowledge like Br. of Jared (via a 1st hand journal account)
 * **Hugh B. Brown**: informal visit with the Savior (related to nephew, Harold B. Lee)
 * **Christoffel Golden**: claimed visitation in interview with Scott Duke.
+* **Quentin Cook**: "I know the Savior's voice/face."
 
 None of these experiences were related or confirmed like Joseph Smith's relation of events or even George Q. Cannon.  And none of these experiences indicated the transmission of any kind of knowledge from Jesus to the leader (i.e., no revelation to the Church or world that we can link to these experiences).
 
@@ -89,6 +98,17 @@ Rob Smith [claims to have been visited by Jesus Christ](https://upwardthought.bl
 
 > Anyone who says a witness of the spirit is stronger than an eye witness has never stood in the presence of God, period.
 
+### Matthew Crockett
+
+Matthew [claims](http://theremnantofjacob.com/who-am-i/):
+
+> He lives, the Son does, and the Father also; I know this because I have seen and conversed with the Father and the Son, as one person speaks with another face to face.
+
 ### Many others
 
 Many other individuals claim [personal experience with Jesus Christ](https://en.wikipedia.org/wiki/Visions_of_Jesus_and_Mary#19th_Century_visions) (and Mary).
+
+
+## See Also
+
+* [Radio Free Mormon: 007: Have LDS Apostles Seen Jesus?](https://radiofreemormon.org/2017/02/extra-radio-free-mormon-lds-apostles-seen-jesus/)

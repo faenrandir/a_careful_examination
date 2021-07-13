@@ -1,25 +1,48 @@
 ---
-title: "Adam and Eve the first couple"
+title: "Adam “the first man of all men” and “father of all living in his day”"
 permalink: /adam-and-eve-the-first-couple/
 doctype: notes
 layout: page
 ---
 
+## Introduction
+
+Official Latter-day Saint material states that:
+
+1. Adam was "the first man."
+2. Adam (and Eve) were parents of "all living in [their] day."
+
+## Adam
+
 ### Adam ... father of all
 
-[Doctrine and Covenants 138:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng)
+#### D&C 138:38
 
-> Among the great and mighty ones who were assembled in this vast congregation of the righteous were Father Adam, the Ancient of Days and father of all,
+[Doctrine and Covenants 138:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng) (emphasis added):
+
+> Among the great and mighty ones who were assembled in this vast congregation of the righteous were Father Adam, the Ancient of Days and **father of all**,
+
+#### D&C 27:11
+
+[Doctrine and Covenants 27:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng) (emphasis added):[^dc_father_of_all]
+
+> And also with Michael, or Adam, **the father of all**, the prince of all, the ancient of days;
 
 ### the father of all living in his day
 
-Teachings of Presidents of the Church, Joseph Smith, [chapter 8](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-8.p1?lang=eng):
+In a discourse at Commerce, Illinois in 1839, Joseph Smith stated ([as reported by Willard Richards](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#full-transcript):
+
+> The Priesthood was first given To Adam:[[1](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#13098032071122912127)] he obtained to the first Presidency & held the Keys of it, from genration to Generation; he obtained it in the creation before the world was formed as in Gen. 1, 26:28,— he had dominion given him over every living Creature. He is Michael, the Archangel,[[2](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#10606848702767381358)] spoken of in the Scriptures,— Then to Noah who is Gabriel,[[3](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#9096373878426056181)] he stands next in authority to Adam in the Priesthood; he was called of God to this office & was the Father of all living[[4](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#5986523585739464886)] in his day, & To him was Given the Dominion. These men held keys. first on earth, & then in Heaven. ...
+
+> Dan VII Speaks of the Ancient of days, he means the oldest man, our Father Adam, Michael; he will call his children together. & hold a council with them.[[6](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#5785975268251928506)] to prepare them for the coming [p. 63] of the Son of Man.[[7](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#4341687143357696186)] He, (Adam) is the Father of the human family[[8](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#4831900512467553431)] & presides over the Spirits of all men, & all that have had the Keys must Stand before him in this grand Council. This may take place before some of us leave this stage of action, The Son of Man Stands before him & there is given him glory & dominion.— Adam delivers up his stewardship to Christ, that which was deliverd to him as holding the Keys of the Universe, but retains his standing as head of the human family.[[9](https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#14964067753461964728)]
+
+Portions of the talk were reproduced in Teachings of Presidents of the Church, Joseph Smith, [chapter 8](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-8.p1?lang=eng):
 
 > There has been a chain of authority and power from Adam down to the present time.
 
 > The Priesthood was first given to Adam; he obtained the First Presidency, and held the keys of it from generation to generation. He obtained it in the Creation, before the world was formed, as in Gen. 1:26, 27, 28. He had dominion given him over every living creature. He is Michael the Archangel, spoken of in the Scriptures. Then to Noah, who is Gabriel; he stands next in authority to Adam in the Priesthood; he was called of God to this office, and was the father of all living in his day, and to him was given the dominion. These men held keys first on earth, and then in heaven.
 
-Key phrase ("[Adam] was the father of all living in his day") also quoted in:
+The phrase ("[Adam] was the father of all living in his day") is also quoted in:
 
 * New Testament Student Manual, [Luke 1-3](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/introduction-to-the-gospel-according-to-st-luke/chapter-15-luke-1-3?lang=eng)
 * Old Testament Student Manual, [Daniel: Prophet of God, Companion of Kings](https://www.churchofjesuschrist.org/study/manual/old-testament-student-manual-kings-malachi/chapter-28?lang=eng) and [Genesis 4–11
@@ -48,6 +71,8 @@ As counselor in the First Presidency, Joseph Fielding Smith responded to a reque
 
 > > Who hath appointed Michael (Adam) your prince, and established his feet, and set him upon high, and given unto him the keys of salvation under the counsel and direction of the Holy One (Jesus Christ), who is without beginning of days or end of life. (Verse 16.)
 
+## Eve
+
 ### Consider Eve, the mother of all living
 
 [Daughters in the Covenant](https://www.lds.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng):
@@ -56,7 +81,7 @@ As counselor in the First Presidency, Joseph Fielding Smith responded to a reque
 
 > Of all the words they could have chosen to define her role and her essence, both God the Father and Adam called Eve " the mother of all living " -- and they did so before she ever bore a child
 
-## We are all descendants of Adam and Eve
+## Adam & Eve
 
 A number of manuals teach or strongly imply, in one form or another, that "we
 are all are descendants of Adam and Eve".
@@ -131,3 +156,6 @@ Liahona 2006, [The Fulness of the Gospel: The Fall of Adam and Eve](https://www.
 > All descendants of Adam and Eve inherit certain effects from the Fall, but because of the Atonement of Jesus Christ we are held accountable only for our own sins.
 
 
+[^dc_father_of_all]: The modern [D&C 27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng) was originally Book of Commandments [chapter 28](https://www.josephsmithpapers.org/paper-summary/book-of-commandments-1833/64) and then Doctrine and Covenants [section 50](https://www.josephsmithpapers.org/paper-summary/revelation-circa-august-1835-dc-27/1#full-transcript).  [Chapter 28](https://www.josephsmithpapers.org/paper-summary/book-of-commandments-1833/64) of the Book of Commandments was originally seven verses long.  Joseph Smith significantly expanded the section for the 1835 Doctrine and Covenants ([section 50](https://www.josephsmithpapers.org/paper-summary/revelation-circa-august-1835-dc-27/1#full-transcript)), and it is in this expansionary material that the phrase "father of all" in reference to Adam was included.  The expansionary material and the phrase "father of all" persisted in the [the 1845 edition](https://archive.org/details/GR_713/page/n273/mode/2up?q=%22father+of+all%22) and remains to the present day.
+
+"father of all" in reference to Adam was included in section 50 of the [original 1835](https://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/1#full-transcript), the [1845 Doctrine & Covenants](https://archive.org/details/GR_713/page/n273/mode/2up?q=%22father+of+all%22).  The section today is numbered as section 27 and the phrase "father of all" is currently omitted.
