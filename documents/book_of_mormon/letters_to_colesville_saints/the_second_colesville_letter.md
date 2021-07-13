@@ -75,9 +75,9 @@ In [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10
 > 47\. Also Luke 13:24. <br/>
 > 48\. The letter also includes a brief postscript advising Joseph Smith’s brother Hyrum Smith to avoid the Freemasons. I have omitted it from discussion here due to its difference in audience and tone.
 
-[^editing_transcript]: Citations and page references have been removed.
-  Strikethroughs were removed.
-
 ## See Also
 
 [The First Colesville Letter: Transcript and Biblical allusions]({{ "/the-first-colesville-letter-transcript-and-allusions/" | relative_url }})
+
+
+[^editing_transcript]: Citations and page references have been removed. Strikethroughs were removed.

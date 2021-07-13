@@ -12,7 +12,7 @@ Nicholas J. Frederick in footnote #23 of [his 2021 Journal of Mormon History ana
 
 > The intertextual analysis of this letter (and the following one) is complicated by the attribution of authorship to both John Whitmer and Joseph Smith. *Documents, Volume 1* simply states that “JS and John Whitmer wrote this letter” (*JSP*, D1:172), while acknowledging, “most of his letters were dictated to scribes or written by assignment on his behalf” (xxii). The answer may be as simple as understanding that Whitmer served as one of Smith’s scribes as early as 1829, assisted Smith with portions of the Bible translation project during portions of 1830, and was the primary scribe for the Book of Commandments and Revelations. See Robin Scott Jensen, “From Manuscript to Printed Page: An Analysis of the History of the Book of Commandments and Revelations,” *BYU Studies* 48, no. 3 (2009): 24–25.  However, if Whitmer’s role was closer to “written by assignment,” this obviously complicates discerning just how much of the language of these two letters can be attributable to Smith.
 
-Frederick attributes the two Colesville letters to Joseph Smith in his article (e.g., "Smith makes a conscious decision to close his letter...").
+Frederick attributes the two Colesville letters to Joseph Smith in his article (e.g., ""Smith makes a conscious decision to close his letter...").
 
 ## Joseph Smith Papers Transcript
 
@@ -64,8 +64,10 @@ In [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10
 > 22\. Also 1 Cor. 1:3; 2 Cor. 1:2; Gal. 1:3; Eph. 1:2; Phil. 1:2; Col. 1:2; 1 Thess. 1:1; 2 Thess. 1:2; 2 John 1:3. <br/>
 > 23\. The intertextual analysis of this letter (and the following one) is complicated by the attribution of authorship to both John Whitmer and Joseph Smith. *Documents, Volume 1* simply states that “JS and John Whitmer wrote this letter” (*JSP*, D1:172), while acknowledging, “most of his letters were dictated to scribes or written by assignment on his behalf” (xxii). The answer may be as simple as understanding that Whitmer served as one of Smith’s scribes as early as 1829, assisted Smith with portions of the Bible translation project during portions of 1830, and was the primary scribe for the Book of Commandments and Revelations. See Robin Scott Jensen, “From Manuscript to Printed Page: An Analysis of the History of the Book of Commandments and Revelations,” *BYU Studies* 48, no. 3 (2009): 24–25.  However, if Whitmer’s role was closer to “written by assignment,” this obviously complicates discerning just how much of the language of these two letters can be attributable to Smith.
 
-[^editing_transcript]: Citations and most page references have been removed.  Two copyediting marks were removed for readability.
-
 ## See Also
 
 [The Second Colesville Letter: Transcript and Biblical allusions]({{ "/the-second-colesville-letter-transcript-and-allusions/" | relative_url }})
+
+
+[^editing_transcript]: Citations and most page references have been removed.  Two copyediting marks were removed for readability.
+
