@@ -49,9 +49,6 @@ humanist as to sources of revelation for me.
 
 
 
-
-
-
 ## Acknowledgement
 
 The 6 sources of revelation were first compiled by Gileriodekel [here](https://www.reddit.com/r/mormon/comments/f2vqrj/6_sources_of_revelation/).  This presentation follows closely after his.  I originally copied the post, but I have made fairly extensive modifications over time.

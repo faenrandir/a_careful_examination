@@ -55,13 +55,28 @@ Here's how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (
 
 > Alger, Fanny, Joseph Smith’s wife. **One of the first wives Joseph married**. ~~Emma made such a fuss about.~~ Sister E. R. Snow was well acquainted with her as she lived with the Prophet at the time. She **afterwards married in Indiana** where she became the mother of a large family. A brother Alger lives in St. George. Write to Pres Mc Allister
 
-### "Spiritual Wife"
+## "Spiritual Wife"
 
-Johnny Stephenson has claimed that in contemporaneous accounts the wives referred to themselves as "spiritual wives".  I need to track down this data, but some of it may be substantiated with [how Emily wrote in her own personal diary](http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0412.doc).  The first instance seems diminutive, while the second is viewed more positively:
+### Helen Mar Kimball Whitney
+
+In her work printed in 1882, *Plural Marriage as Taught by the Prophet Joseph:
+A reply to Joseph Smith, Editor of the Lamoni (Iowa) "Herald"*, [Helen
+wrote](https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JSP_Book_68.pdf)
+(see pdf pg. 42):
+
+> ... At that time spiritual wife was the title by which every woman who
+> entered into this order and not a temporal one, though it was always spoken
+> of sneeringly by those who did not believe in it ...
+
+### Emily Partridge
+
+Emily wrote in [her own personal diary](http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0412.doc):
 
 > July 29th, 1881, Sunday. ... I am, as the world calls it, 'spiritual wife' of early days, when public ipinion [sic] was like an avalanche burying all such beneath its oppressive weight.  Some will understand what it is to be a woman, mother, or an unloved 'spiritual wife'.
 
 > August 1st, 1881.   Yesterday I was in a dark mood.  Today I am looking for the bright spots.  Although they may be few and far between they should not be over-looked and among the greatest blessings I class the fates that I am a mother, and was a _spiritual wife_. (emphasis in original)
+
+The first instance seems diminutive, while the second is viewed more positively.
 
 ### Summary
 
