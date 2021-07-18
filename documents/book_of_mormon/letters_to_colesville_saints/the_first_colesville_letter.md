@@ -36,8 +36,6 @@ The [Joseph Smith papers transcript](https://www.josephsmithpapers.org/paper-sum
 
 ## Biblical allusions
 
-[I still need to add emphasis and embolden following Frederick]
-
 In [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10.5406/jmormhist.47.2.0023) Nicholas J. Frederick documents Biblical allusions/echos found in the letter:
 
 > Harmony Aug 20. [28] 1830

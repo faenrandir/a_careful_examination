@@ -84,6 +84,10 @@ John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day 
 * Brigham Young repeated the ceremony for "time and eternity." (presumably after Joseph Smith's death)
 * She claims she was "sealed for eternity", then "his wife for time and eternity" and then clarified "I meant for eternity."
 
+Todd Compton views this evidence as ambiguous (in [In Sacred Loneliness](https://www.worldcat.org/title/in-sacred-loneliness-the-plural-wives-of-joseph-smith/oclc/34767391)):
+
+> Some interpreters place great weight on these statements [referring to above interview], as showing that Zina’s marriage was “spiritual” only. But the interview is so contradictory on this issue, as the elderly Zina sounds defensive and confused while answering an RLDS judge’s harsh questions, that it cannot be used as solid evidence. One even wonders if early Mormons did not use the term “marriage for eternity” to encompass “time and eternity,” as Mormons do today.
+
 ## Patty Sessions
 
 I am aware of three statements regarding the nature of Patty's sealing to Joseph Smith.  One statement says she was "sealed ... for Eternity", the other that she was merely "sealed to Joseph Smith" and a journal entry that she was "sealed ... for time and all eternity."
