@@ -6,8 +6,25 @@ doctype: historical-source
 layout: page
 ---
 
-Martha Brotherton, who was maligned by Church leaders throughout the end of 1842 was sealed by proxy to Brigham Young in 1870.
+Martha Brotherton, who was maligned by Church leaders throughout the end of
+1842, was sealed by proxy to Brigham Young in 1870.
 
-From George Smith's book 'Nauvoo Polygamy:"… but we called it celestial marriage"' pp 271-272:
+In footnote 102 of [Identifying the Earliest Mormon Polygamists,
+1841-44](https://www.jstor.org/stable/pdf/45227374.pdf) (Dialogue: A Journal
+of Mormon Thought 38:3 2005) Gary Bergera writes:
 
-> Brotherton eventually returned to England, where she died in 1864. But on August 1, 1870, in Salt Lake City, Brigham Young achieved his romantic pursuit when he had Brotherton sealed to him for eternity. Her sister, Elizabeth Brotherton Pratt, plural wife of Apostle Parley Pratt, acted as proxy for the deceased.
+> ... Following Brotherton's death, Young had her sealed to him by proxy on
+> August 1, 1870. Stanley Ivins, research into LDS sealing records, Ivins
+> Papers, Utah State Historical Society, Salt Lake City. ...
+
+[Register of the Anthony W. Ivins
+Papers](https://collections.lib.utah.edu/details?id=462834#idm299)
+
+Also mentioned in George Smith's book 'Nauvoo Polygamy:"… but we called it
+celestial marriage"' pp 271-272:
+
+> Brotherton eventually returned to England, where she died in 1864. But on
+> August 1, 1870, in Salt Lake City, Brigham Young achieved his romantic
+> pursuit when he had Brotherton sealed to him for eternity. Her sister,
+> Elizabeth Brotherton Pratt, plural wife of Apostle Parley Pratt, acted as
+> proxy for the deceased.
