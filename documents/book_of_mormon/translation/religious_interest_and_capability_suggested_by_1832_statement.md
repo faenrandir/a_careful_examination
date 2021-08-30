@@ -1,5 +1,5 @@
 ---
-title: "Religious interest and capability suggested by Joseph Smith's 1832 statement"
+title: "Religious interest and capability suggested by Joseph Smith's 1832 statement and 1830 Colseville letters"
 permalink: /religious-interest-and-capability-from-1832-statement/
 maintopic: book-of-mormon
 doctype: short-analysis
@@ -8,8 +8,10 @@ layout: page
 
 ## Introduction
 
-The historical record suggests that Joseph Smith was deeply familiar with the
-Bible beginning at a young age and extending into adulthood.
+Joseph Smith described his own deep familiarity with scripture beginning at a
+young age.  His familiarity with the Bible near the time of the Book of Mormon
+translation (1829--1830) is suggested by two letters he dictated to the
+Colesville Saints in 1830 which are full of Biblical allusion.
 
 ## 1832 journal account
 
