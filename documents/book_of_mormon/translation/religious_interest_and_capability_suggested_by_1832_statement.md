@@ -6,6 +6,13 @@ doctype: short-analysis
 layout: page
 ---
 
+## Introduction
+
+The historical record suggests that Joseph Smith was deeply familiar with the
+Bible beginning at a young age and extending into adulthood.
+
+## 1832 journal account
+
 Below are key phrases from [Joseph Smiths earlist description of his youth](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2), written in 1832. These phrases suggest a deep familiarity with both the Bible and the religious arguments of the day (not definitively, but at least by suggestion). They are followed by a straightforward interpretation and commentary on what such a phrase might mean regarding Joseph's interests and abilities:
 
 * “…Parents who spared no pains to instructing me in the christian religion” (well instructed in the Christian religion by parents)
@@ -17,7 +24,23 @@ Below are key phrases from [Joseph Smiths earlist description of his youth](http
 * “…from the age of twelve years to fifteen I pondered many things in my heart concerning the sittuation of the world of mankind the contentions and divisions the wickedness and abominations and the darkness which pervaded the minds of mankind my mind become excedingly distressed…” (he’s searching the scriptures and also pondering the differences [“contentions and divisions”] between denominations and interpreting their stances as “darkness” probably since they did not conform to his understanding of scripture. This wasn’t a mere pasttime, his mind became “exceedingly distressed” from this reflection)
 * “…for I become convicted of my sins and by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament and I felt to mourn for my own sins and for the sins of the world…” (his understanding of the Bible was deep enough to convict him of his fallness and also that the various societies aroudn him varied from the Bible)
 
+## The Colesville letters
+
+BYU scholar Nicholas Frederick has documented the Biblical allusions found in
+Joseph Smith's[^authorship] two Colesville letters.  Regarding the first
+letter, Frederick noted:
+
+> ... other than the very first sentence, every sentence contains at least one
+> biblical quotation, allusion, or echo, with many of them containing more
+> than one.
+
+* [The First Colesville Letter: Transcript and Biblical allusions](https://faenrandir.github.io/a_careful_examination/the-first-colesville-letter-transcript-and-allusions/)
+* [The Second Colesville Letter: Transcript and Biblical allusions](https://faenrandir.github.io/a_careful_examination/the-second-colesville-letter-transcript-and-allusions/)
+
 ### See also
 
 * [Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/" | relative_url }}).
 * [Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }})
+
+
+[^authorship]: Frederick treats Joseph Smith as author of the letters in his analysis, even though he also discusses complications with that assessment.  The links above contain complete notes discussing attribution.
