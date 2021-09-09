@@ -1,11 +1,14 @@
 ---
-title: "Behavior or teachings of David Bednar that some former Mormons find objectionable"
+title: "Behavior or teachings of David Bednar that some former members find objectionable"
 permalink: /bednar-objectionable-to-former-mormons/
 doctype: short-compilation
 layout: page
 ---
 
-Here are some examples of the behavior or teaching of David Bednar that some former mormons find objectionable:
+## Negative
+
+Some examples of a behavior or teaching of David Bednar that some former
+members of the Church of Jesus Christ of Latter-day Saints find objectionable:
 
 1. [There are no homosexual members of the church](https://www.youtube.com/watch?v=BQ4_wTGv8Ao)
 1. [Why do I have to be 12 to enter the temple?](https://www.youtube.com/watch?v=5Qxu6bFXc2Q)
@@ -19,13 +22,11 @@ Here are some examples of the behavior or teaching of David Bednar that some for
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
 1. [Abruptness at hotel room](https://www.reddit.com/r/exmormon/comments/d2axrq/found_this_gem_on_fb_this_morning/)
 
-\*\* some points originally compiled by [hasbrochem](https://www.reddit.com/r/exmormon/comments/6zdgyc/what_is_it_with_bednar/dmuhajx/)
+## Positive or Neutral
 
----
-
-Some accounts of Bednar by former or questioning Mormons are favorable or somewhat favorable:
+Some accounts of Bednar by former or questioning members that are favorable or somewhat favorable:
 
 * "[Honest, direct, and even a little self-deprecating](https://www.reddit.com/r/exmormon/comments/8ppkm3/return_report_david_a_bednar_visit/)"
 *  "[he appeared to be anything but [pharisaical] ... when he spoke with us](https://www.reddit.com/r/mormon/comments/ca6w4x/mormon_pharisees_be_like_add_your_own/et9cehf/)"
 
-[I also remember one account where a former member praised him for his focus, commitment and dedication, etc... need to find source]
+*some points originally compiled by [hasbrochem](https://www.reddit.com/r/exmormon/comments/6zdgyc/what_is_it_with_bednar/dmuhajx/)*
