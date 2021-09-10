@@ -36,6 +36,14 @@ A trio of primary documents, all signed or in Joseph Smith's hand, implicate him
 2. [Deed to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/deed-to-sarah-ann-whitney-6-september-1842/1) [signed by Joseph Smith] Sarah was 17 years old at the time of this deed.
 3. [Letter to the Whitneys](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1) [in Joseph Smith's hand] Sarah was 17 years old at the time.
 
+### Letter from Jedediah M. Grant to Joseph Smith
+
+A letter from Jedediah M. Grant to Joseph Smith in August of 1843 implies an
+invitation from Joseph Smith to Susan Conrad to accept---and also encodes news
+of Hyrum Smith's acceptance of---the doctrine of plural marriage.
+
+See William V. Smith's article in [Dialogue Winter 2016](https://www.dialoguejournal.com/articles/a-documentary-note-on-a-letter-to-joseph-smith-romance-death-and-polygamy-the-life-and-times-of-susan-hough-conrad-and-lorenzo-dow-barnes/) which includes a transcript of the letter.
+
 ### Martha Brotherton's affidavit (potential antagonistic bias)
 
 Joseph and Hyrum Smith denied rumors of a proposal to Martha Brotherton [in the April 6, 1842 general conference](https://faenrandir.github.io/a_careful_examination/times-and-seasons-apr-15-1842-conference-minutes/).
