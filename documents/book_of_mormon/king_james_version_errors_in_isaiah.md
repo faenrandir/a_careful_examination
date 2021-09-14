@@ -102,17 +102,35 @@ After I made him aware, Conflict of Justice [defended the essential accuracy of 
 
 ## Appendix: LDS scholars corroborate
 
-At least two LDS scholars acknowledge errors in or significant divergence between the Book of Mormon Isaiah compared with our expectations of what Isaiah from an ancient source would likely appear.
+At least three LDS scholars acknowledge errors in or significant divergence
+between the Book of Mormon Isaiah compared with our expectations of what
+Isaiah from an ancient source would likely appear.
 
 Stan Spencer, an [Interpreter Contributor](https://journal.interpreterfoundation.org/author/stans/?journal), has noted that in every case where the Revised Version offers a "more accurate translation" the Book of Mormon [follows the King James Version](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/#sdfootnote36anc):
 
 > If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
 
-And Grant Hardy, a foremost [LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) has suggested that the Isaiah in the Book of Mormon is not what we would expect from an ancient source at 600 BC.  [He wrote]({{ "/excerpt-on-isaiah-from-hardys-readers-guide/" | relative_url }}):
+Grant Hardy, a foremost [LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) has suggested that the Isaiah in the Book of Mormon is not what we would expect from an ancient source at 600 BC.  [He wrote]({{ "/excerpt-on-isaiah-from-hardys-readers-guide/" | relative_url }}):
 
 > Latter-day Saints sometimes brush such criticism [that the Book of Mormon pulls from deutero-Isaiah] aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but **this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis**.
 
 > Recent Isaiah scholarship has moved ... in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, **even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls**, when it was quite similar to what we have today.
+
+Dan McClellan, the [Scripture Translation Supervisor for the LDS Church](https://www.linkedin.com/in/danielomcclellan/), responded to the question "What are your thoughts on the historicity of the Book of Mormon in light of your understanding of the documentary hypothesis?" [He responded](https://www.tiktok.com/@maklelan/video/6992346299206995205) (emphasis added):
+
+> Thank you for the question. This is probably the biggest challenge that's facing
+> Latter-day Saint apologists these days.  How can they account for the Book
+> of Mormon as a translation while also confronting the indisputable fact that
+> it quotes from Biblical passages that were composed centuries after Lehi and
+> his family left Jerusalem with the Brass Plates, and even more challenging
+> that it quotes directly from the King James version of those passages
+> **including some translation errors and idiosyncrasies unique to the King
+> James version**?  Some scholars try to discount the Documentary Hypothesis or
+> Deutero Isaiah as a way to side-step the challenge.  That has not ultimately
+> proven to be successful---I don't think it can be.  I think apologists are
+> going to have to confront the fact that Joseph Smith played a role in the
+> articulation of the text in some way, shape, or form.
+
 
 These LDS scholar obversations seem consistent with the idea that the Book of Mormon is a preservation of the KJV Isaiah rather than approximating what we might expect from an ancient source.
 
