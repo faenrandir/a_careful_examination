@@ -74,6 +74,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 * Joseph [frequently misled others about practicing polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}).
 * Joseph apparently promised a 14 year old girl---one [who said](https://archive.org/stream/representativewo00crocrich#page/112/search/hated+polygamy) "I hated polygamy in my heart"---that, [in her own words]({{ "/helen-mar-kimball-whitney-1881-autobiography/" | relative_url }}), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
 * After other failed marriage proposals to Zina Huntington, Joseph Smith proposed again to the [happily newlywed, seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young): "I [Joseph] have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
+* According to Saints volume 1 (see [chapter 40][saints-v1-chapter40]), Emily and Eliza Partridge were first sealed to Joseph Smith unbeknownst to Emma.  When Emma later selected them to be sealed to Joseph, according to Emily, "to save family trouble Brother Joseph thought it best to have another ceremony performed." (see Jensen Historical Record [pg 240][jensen-historical-record-pg240]).
 
 **More**:
 
@@ -96,3 +97,6 @@ See [Problem Summaries: resources discussing LDS-truth claims]({{ "/truth-claim-
 [^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
 
     > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.
+
+[saints-v1-chapter40]: https://www.churchofjesuschrist.org/study/history/saints-v1/40-united-in-an-everlasting-covenant?lang=eng
+[jensen-historical-record-pg240]: https://archive.org/details/historicalrecord06jens/page/240/mode/2up?view=theater&q=save+family+trouble
