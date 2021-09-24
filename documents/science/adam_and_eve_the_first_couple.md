@@ -53,7 +53,7 @@ The Patriarchs](https://www.churchofjesuschrist.org/study/manual/old-testament-s
 
 ### First man of all men and primal parent of our race
 
-Ensign. 2002. [The Origin of Man](https://www.lds.org/ensign/2002/02/the-origin-of-man?lang=eng). By the First Presidency of the Church. From Improvement Era, Nov. 1909, 75–81:
+Ensign. 2002. [The Origin of Man](https://www.churchofjesuschrist.org/ensign/2002/02/the-origin-of-man?lang=eng). By the First Presidency of the Church. From Improvement Era, Nov. 1909, 75–81:
 
 > It is held by some that Adam was not the first man upon this earth, and that the original human being was a development from lower orders of the animal creation. These, however, are the theories of men. The word of the Lord declares that Adam was ‘the first man of all men’ (Moses 1:34), and we are therefore in duty bound to regard him as the primal parent of our race.
 
@@ -61,7 +61,7 @@ The above is also reproduced in the Pearl of Great Price Teacher Manual, [Moses 
 
 ### Adam being the first man ...
 
-Marion G. Romney. General Conference, April, 1973. [Man---A Child of God](https://www.lds.org/general-conference/1973/04/man-a-child-of-god?lang=eng):
+Marion G. Romney. General Conference, April, 1973. [Man---A Child of God](https://www.churchofjesuschrist.org/general-conference/1973/04/man-a-child-of-god?lang=eng):
 
 > Adam, the first man, knew that he was a son of God.
 
@@ -75,7 +75,7 @@ As counselor in the First Presidency, Joseph Fielding Smith responded to a reque
 
 ### Consider Eve, the mother of all living
 
-[Daughters in the Covenant](https://www.lds.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng):
+[Daughters in the Covenant](https://www.churchofjesuschrist.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng):
 
 > Consider Eve, the mother of all living. ...
 

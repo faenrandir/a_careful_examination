@@ -27,7 +27,7 @@ Even the very elect will be deceived.
 1. Leaders
     * Prophet never lead you astray
 1. Criticism
-    * https://www.lds.org/manual/teachings-george-albert-smith/chapter-6?lang=eng
+    * https://www.churchofjesuschrist.org//manual/teachings-george-albert-smith/chapter-6?lang=eng
         "I stand here to plead with you, my brethren and sisters, not to
         permit words of criticism or of unkindness to pass your lips about
         those whom the Lord has called to lead us. Do not be found in the
@@ -109,7 +109,7 @@ priesthood blessing for healing: -> they recover -> priesthood power is real
 A leader's statement contradicts a past leader's statement -> the seeming divergencies can be harmonized
                                                            -> it is not important: the Spirit of the Lord leads to harmony and the spirit of the devil champions division and debate and contention and disunity
 
-https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/finding-answers-to-gospel-questions?lang=eng
+https://www.churchofjesuschrist.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/finding-answers-to-gospel-questions?lang=eng
 
 > My experience is that in most instances—nay, in almost all instances—the seeming divergencies can be harmonized, and when they cannot be it is of no moment anyway. The Spirit of the Lord leads to harmony and unity and agreement and oneness. The spirit of the devil champions division and debate and contention and disunity.
 
