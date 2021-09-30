@@ -34,13 +34,19 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
 1. In Joseph Smith's time it was commonplace to downplay "a person's education in order to accentuate the miraculous nature of his or her accomplishments." (see pgs 62--65 of [William Davis's Dissertation](https://escholarship.org/uc/item/86h814zv) for many examples)
 1. Palmyra was [rich in books]({{ "/palmyra-was-rich-in-books/" | relative_url }}), generally.
 
-### Self described religious immersion
+### Religious immersion
+
+#### Self described religious immersion
 
 In his earliest history, [Joseph smith wrote](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2) (emphasis added):
 
 > I was born in the town of Charon [Sharon] in the State of Vermont North America on the twenty third day of December AD 1805 of goodly Parents **who spared no pains to instructing me in the christian religion**. at the age of about ten years my Father Joseph Smith Seignior moved to Palmyra Ontario County in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren and as it required the exertions of all that were able to render any assistance for the support of the Family **therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading writing and the ground rules of Arithmatic which constituted my whole literary acquirements. **At about the age of twelve years** my mind become seriously imprest with regard to the all importent concerns for the wellfare of my immortal Soul which **led me to searching the scriptures** believeing as I was taught, that they contained the word of God thus applying myself to them and **my intimate acquaintance with those of differant denominations** led me to marvel excedingly for I discovered that they did not adorn their profession by a holy walk and Godly conversation agreeable to what I found contained in that sacred depository this was a grief to my Soul thus **from the age of twelve years to fifteen I pondered many things in my heart concerning the sittuation of the world of mankind the contentions and divisions the wickedness and abominations and the darkness which pervaded the minds of mankind my mind become excedingly distressed for I become convicted of my sins and by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith** and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament and I felt to mourn for my own sins and for the sins of the world ...
 
 So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how [familiar he was with the scriptures and the religious arguments of the day]({{ "/religious-interest-and-capability-from-1832-statement/" | relative_url }}).  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
+
+#### Biblical allusion in the Colesville Letters
+
+BYU scholar Nicholas Frederick tenatively attributes the [first](https://faenrandir.github.io/a_careful_examination/the-first-colesville-letter-transcript-and-allusions/) and [second](https://faenrandir.github.io/a_careful_examination/the-second-colesville-letter-transcript-and-allusions/) Colesville letters of 1830 to Joseph Smith.  Both letters are rich with Biblical allusion and [with the first](https://www.jstor.org/stable/10.5406/jmormhist.47.2.0023) "[nearly] every sentence contains at least one biblical quotation, allusion, or echo, with many of them containing more than one."
 
 ### Accounts emphasizing meditation or reading
 
