@@ -52,8 +52,7 @@ keeping silent on the matter was the best thing for her to do", but the
 assertion is not accompanied with a footnote.
 
 We know something of who was primarily responsible for holding the second
-ceremony because Emily [wrote about the
-incident][jensen-historical-record-pg240] (emphasis added):
+ceremony because Emily [wrote about the incident][jensen-historical-record-pg240] (emphasis added):
 
 > ... We had been there about a year when the principle of plural marriage was
 > made known to us, and I was married to Joseph Smith on the 4th of March,
@@ -72,5 +71,4 @@ Hence, Emily points to Joseph as driver of the second ceremony in order to
 
 [saints-volume-1]: https://www.churchofjesuschrist.org/study/history/saints-v1?lang=eng
 [saints-volume-1-chapter-40]: https://www.churchofjesuschrist.org/study/history/saints-v1/40-united-in-an-everlasting-covenant?lang=eng
-(https://archive.org/details/historicalrecord06jens/page/240/mode/2up?view=theater
 [jensen-historical-record-pg240]: https://archive.org/details/historicalrecord06jens/page/240/mode/2up?view=theater&q=save+family+trouble
