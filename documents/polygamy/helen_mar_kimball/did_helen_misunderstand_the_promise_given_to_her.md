@@ -20,16 +20,14 @@ Kimball wrote:
 > household and all of your kindred.” This promise was so great that I
 > willingly gave myself to purchase so glorious a reward.
 
-Brian Hales has argued that Helen's 
-Brian Hales [argued against the
-idea](https://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)
+Brian Hales [argued against the idea](https://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)
 that this is "solid evidence that the Prophet promised exaltation to at least
 one of his plural wives and her family if they would agree to the marriage"
 because:
 
 > ... one year later Helen clarified that she may not have understood everything correctly: “I confess that I was too young or too ‘foolish’ to comprehend and appreciate all” that Joseph Smith then taught.
 
-[quotes from family]
+[quotes from her family]
 
 ### Sarah Ann Whitney blessing
 
