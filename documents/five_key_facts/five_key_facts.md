@@ -11,9 +11,9 @@ This is a very short summary of what I view as the 5 most important facts in und
 
 ## 1. The 3rd facsimile is incorrectly translated
 
-Joseph Smith mis-translated [the characters above the heads of the figures](https://i.imgur.com/2a5sban.png) in the third facsimile.
+Joseph Smith mis-translated [the characters above the heads of the figures](https://i.imgur.com/2a5sban.png) in the third facsimile.[^character_legibility]
 
-Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).
+Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).[^fidelity_of_translation]
 
 [According to LDS scholars Hauglid and Jensen]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}), Joseph Smith and his scribes "were working off of the papyri that we actually have in the Church today."  However, [the Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
 
@@ -88,11 +88,15 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 
 See [Problem Summaries: resources discussing LDS-truth claims]({{ "/truth-claim-summaries/" | relative_url }})
 
+[^character_legibility]: I asked an Egyptologist (reddit user junkholiday) about the legibility of the characters on Facsimile 3. He responded, "it's damn near illegible. Imagine if there were just blobs in place of letters, or whole words. ... And some of them could be recognizable glyphs, but drawn by a drunk toddler." Hence translations are performed in some large part based on context gleaned from other similar documents. He elaborated, "Yeah, it's matching up best guesses, but these sorts of texts are super formulaic, so we can make decent sense of [them]." He compared it to being able to make out "Never gonna \_\_\_\_ you \_\_" which is probably "Never gonna give you up" but could be "Never gonna give you fleas".  But in no universe could it be "Four score and seven years ago." The reader may consult [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs.
+
 [^hales]: Brian Hales very cursorily responded to this document; Here is [my response to his cursory thoughts](https://www.reddit.com/r/mormon/comments/5wp96c/my_response_to_brian_hales_comment_on_five_key/).  I have altered the presentation of a few points based on this and other exchanges and appreciate his feedback.
 
 [^deception]: The word "deceptive" was chosen because [it is the most precise word to describe Joseph Smith's polygamy denials](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
 
 [^undueinfluence]: See [The Belmont Report on Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) for a discussion of what typically constitutes "undue influence."
+
+[^fidelity_of_translation]: See [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs. An argument is made [here](https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel-appendix-e-how.html) and in [this video](https://www.youtube.com/watch?v=Ftpk15fPMIM) that the legible characters are indeed translated correctly.
 
 [^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
 

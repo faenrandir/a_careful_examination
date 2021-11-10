@@ -18,7 +18,7 @@ All of this research and focus culminated in the creation of the DIMPAC report (
 
 At that point, those who still wanted to pursue study in the vein of the DIMPAC report rallied together and created their own journals,  scientific societies, and conferences, and they become the counter-cult movement.  Hassan fits within this movement, as does Michael Langone, who summarizes the history of this split [here](https://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone).
 
-Everyone else studying psychology and sociology seems to have *dropped* counter-cult studies, and counter-cult studies have never regained scientific credibility on any large scale. There are a few peripheral counter-cult studies that have made it into respectable journals, but they are not mainstream counter-cult approaches.
+Everyone else studying psychology and sociology seems to have *dropped* counter-cult studies, and counter-cult studies have never regained scientific credibility on any large scale. Besides one publication by Hassan,[^exceptions] there are only a few peripheral counter-cult studies that have made it into respectable journals, but these are not mainstream counter-cult approaches.
 
 ### Academics today
 
@@ -44,3 +44,4 @@ There *are* interesting ways that totalism and retentive socialization happen in
 
 [^academic_validation]: My approach was guided by discussion with Benjamin Beit-Hallahmi (the academic primarily responsible for rejecting the DIMPAC report).  A professor of psychology (formerly at Brigahm Young University) who studied the psychology of religion has read the final document and expressed that my approach is valid and consistent with current academic approaches.
 
+[^exceptions]: Hassan recently (2019) published [one paper](https://www.sciencedirect.com/science/article/abs/pii/S2352552519300118?via%3Dihub), wherein he presents the BITE model in discussion of terrorist cults, and more recently [his dissertation](https://www.proquest.com/docview/2476570146/) which attempts to establish quantitative parameters for the BITE model. These publications may be viewed as an *initial engagement* with the scholarly community outside cultic studies rather than an *establishment* or *countenancing* of the BITE model in academia, which may or may not come over time as other scholars engage more with his work.
