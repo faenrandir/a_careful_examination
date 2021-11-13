@@ -44,6 +44,8 @@ At least some of the kinds of data informing Hauglid’s opinion were recently p
 
 Hauglid also refers to [Vogel's analysis](https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw) which persuasively makes the case for the connection between the existing fragments/characters and the Book of Abraham.
 
+Note that LatterDayData argues in [Meditations on Vogel](https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel.html) that Vogel and Hauglid/Jensen are mistaken.
+
 ### Additional reading
 
 A visual demonstrating (at a superficial level) the documentary evidence that the Book of Abraham characters associated with the translation were pulled from the papyri now in the Church's possession may be found [here](https://www.reddit.com/r/mormon/comments/9yt977/the_book_of_abraham_11218_graphic/).
@@ -53,6 +55,7 @@ Also see:
 * [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/) ("Prove All Things; Hold Fast to Good" blog)
 * [General resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url }}).
 * [Egyptomania and Ohio: Thoughts on a Lecture from Terryl Givens and a Questionable Statement in the Joseph Smith Papers, Vol. 4](https://mormanity.blogspot.com/2019/05/egyptomania-and-ohio-thoughts-on.html) (Critical response of Hauglid's position by Jeff Lindsay)
+* [Meditations on Vogel](https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel.html) (Critical response of Vogel and Hauglid's position by LatterDayData)
 
 **Acknowledgements**: Reddit user `fuzzy_thoughts` pointed out Hauglid in Vogel's video info section and the connection to Hauglid in the gospel topics essay. The number of Hauglid citations in the Book of Abraham essay was originally h/t the "Prove All Things" article and was verified to be the case on 2019-02-13.
 
