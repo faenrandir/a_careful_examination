@@ -53,6 +53,7 @@ maintopic: book-of-abraham
     Insights][pearl-of-great-price-central-boa-insights]
 * [Joseph Smith's Understanding of Hor](https://www.youtube.com/watch?v=Ftpk15fPMIM)
     * [Response by self-proclaimed Egyptologist](https://www.reddit.com/r/mormon/comments/ho5lxa/book_of_abraham/fxi85ca/)
+        * [Response by LatterDayData](https://www.reddit.com/r/mormon/comments/ho5lxa/book_of_abraham/)
 * [The Neglected Facsimile: An Examination and Comparative Study of Facsimile No. 3 of the Book of Abraham](https://scholarsarchive.byu.edu/etd/7598/?fbclid=IwAR1nzeKuvbF2FEc8UM3QQzNGWLH5e-BLg6DbpHMlon-B9hDI4Ctv-F3lakU)
 * [Meditations on Vogel][meditations-on-vogel]
 * [The Principles of Book of Abraham and Kirtland Egyptian Papers Symbolism](https://www.reddit.com/r/mormonscholar/comments/b3xrwi/the_principles_of_book_of_abraham_and_kirtland/) (Edwin Goble argues for "disconnected symbolism, where these symbols are both section markers, as well as pointers/references like bookmarks to content in an unavailable, non-extant Egyptian manuscript from antiquity")
