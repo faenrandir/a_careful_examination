@@ -202,7 +202,7 @@ Both the Bible and the Book of Mormon can be read as condemnations of racism.[^c
 
 ## Reluctance to unequivocally condemn slavery
 
-Because neither the Old Testament or the New Testament unequivocally condemn slavery, the Bible was used as justification for slavery for centuries (discussed [here](https://time.com/5171819/christianity-slavery-book-excerpt/) among many other places).
+Because neither the Old Testament nor the New Testament unequivocally condemn slavery, the Bible was used as justification for slavery for centuries (discussed [here](https://time.com/5171819/christianity-slavery-book-excerpt/) among many other places).
 
 Brigham Young's [speech to the Legislature in 1852](https://archive.org/details/CR100317B0001F0014) demonstrates this connection:
 
