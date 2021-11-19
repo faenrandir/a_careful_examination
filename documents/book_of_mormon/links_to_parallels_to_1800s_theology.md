@@ -10,7 +10,7 @@ layout: page
 
 ### Introduction
 
-Richard Bushman, well-known Mormon historian, [recently stated]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):
+Richard Bushman, well-known Mormon historian, [stated]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
@@ -18,7 +18,7 @@ And Blake Ostler, another well-known Mormon scholar, [has noted](https://www.dia
 
 > Many Book of Mormon doctrines are best explained by the nineteenth-century theological milieu.
 
-It appears that many, if not all, theological doctrines and themes advanced in the Book of Mormon had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s.
+In many ways, at least, the theological debates, doctrines, and themes advanced in the early 1800's milieu seem to be reflected---sometimes quite substantially---in the Book of Mormon.
 
 ### Shorter documents with more narrow focus
 
