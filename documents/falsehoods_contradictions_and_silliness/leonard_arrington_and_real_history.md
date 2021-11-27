@@ -7,7 +7,7 @@ layout: page
 
 ## Introduction
 
-Leonard Arrington, the first professional historian ever appointed as LDS Church Historian, documented actions and attitudes of LDS leadership towards how its own history should be portrayed.  Many of these revolved around the reception to his Sesquicentennial History of the Church which was meant to "update and complement" B. H. Roberts's Comprehensive History which had been published at the centennial of the Church's founding.  After initial First Presidency approval, Arrington "had sixteen subjects and sixteen authors committed [with contracts signed] to the project. Furthermore, the church’s Deseret Book Company agreed to publish the series" (Prince pg 170, as presented in [Clark's Review](http://associationmormonletters.org/blog/reviews/older-reviews/prince-leonard-arrington-and-the-writing-of-mormon-history-reviewed-by-dennis-clark/)).  Opposition led by Ezra Taft Benson and Mark E. Petersen "later amplified by Boyd K. Packer",  eventually cancelled the work (only 9 of the 16 volumes were ever published) and the entire History Divison would be dismantled roughly by the end of the 1970s (again, as discussed by Clark in his review of Prince).
+Leonard Arrington, the first professional historian ever appointed as LDS Church Historian, documented actions and attitudes of LDS leadership towards how its own history should be portrayed.  Many of these revolved around the reception to his Sesquicentennial History of the Church which was meant to "update and complement" B. H. Roberts's Comprehensive History which had been published at the centennial of the Church's founding.  After initial First Presidency approval, Arrington "had sixteen subjects and sixteen authors committed [with contracts signed] to the project. Furthermore, the church’s Deseret Book Company agreed to publish the series" (Prince pg 170, as presented in [Clark's Review](http://associationmormonletters.org/blog/reviews/older-reviews/prince-leonard-arrington-and-the-writing-of-mormon-history-reviewed-by-dennis-clark/)).  Opposition led by Ezra Taft Benson and Mark E. Petersen "later amplified by Boyd K. Packer", eventually cancelled the work (only 9 of the 16 volumes were ever published) and the entire History Divison would be dismantled roughly by the end of the 1970s (again, as discussed by Clark in his review of Prince).
 
 ## Examples
 
@@ -60,6 +60,12 @@ From [his journal](https://www.sltrib.com/religion/2018/05/09/new-collection-of-
 Arrington viewed the September 6 excommunications as "blaming the messenger".  From [his journal](https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/): 
 
 > These excommunications are the worst examples of blaming the messenger for the message.  What a perversion of apostasy, to regard as apostates individuals who are … loyal and believing.
+
+### "not seen fit to publish these diaries"
+
+In his [1966 Dialogue article on scholarly studies of Mormonism](https://www.jstor.org/stable/45223725), he commented:
+
+> ... It is unfortunate for the cause of Mormon history that the Church Historian's Library, which is in the possession of virtually all of the diaries of leading Mormons, has not seen fit to publish these diaries or to permit qualified historians to use them without restriction.  One result has been that “Mormons” have become known essentially through the lives and characters of some of their most notorious adherents — i.e., Porter Rockwell, John D. Lee, and Hosea Stout[38] — rather than through such “mainstream” leaders as Brigham Young, John Taylor, Wilford Woodruff, George Q. Cannon, Joseph F. Smith, and David O. McKay. Even Brigham Young, recognized universally as one of America’s great colonizers, has no satisfactory biography.
 
 ### More
 
