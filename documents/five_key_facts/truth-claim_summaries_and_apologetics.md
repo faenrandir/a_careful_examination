@@ -48,21 +48,35 @@ layout: page
 
 ## Responses to the CES Letter
 
-[The CES Letter](http://cesletter.com/) is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  Where he has responded, I've included a link to the response by Jeremy Runnells (author of The CES Letter).
+[The CES Letter](http://cesletter.com/) is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  I've included links to responses, and Jeremy also keeps [a running list of all his responses](https://cesletter.org/debunkings/).
 
-### With responses by Runnells
+### With counter-responses
 
-* [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic) ([Runnell's response](http://cesletter.com/debunking-fairmormon/))
-* [Some Reflections On That Letter To a CES Director](http://www.fairmormon.org/fair-conferences/2014-fairmormon-conference/reflections-letter-ces-director) ([Runnell's response](http://cesletter.com/apologetics/a-zombies-reflections-on-that-mormon-apologists-reflections.html))
-* [Jeremy Runnells and the Book of Abraham](http://rationalfaiths.com/jeremy-runnells-book-abraham/) ([Runnell's response](http://cesletter.com/apologetics/the-book-of-abraham-except-for-those-willfully-blind-the-case-is-closed.html))
-* [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](http://www.mormoninterpreter.com/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) ([Runnell's response](http://cesletter.com/apologetics/the-sky-is-falling-part-1.html))
-* ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/) ([Runnell's response](https://cesletter.org/apologetics/influential-anti-mormon-liar-debunks.html))
+* [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic)
+    * [Runnells' response](http://cesletter.com/debunking-fairmormon/)
+* [A Faithful Reply to the CES Letter from a Former CES Employee](https://canonizer.com/files/reply.pdf) (Jim Bennett, [original](http://stallioncornell.com/blog/a-reply-from-a-former-ces-employee/) as Stallion Cornell)
+    * [Runnells' response](https://cesletter.org/debunkings/jim-bennett-ces-letter-reply-canonizer-stallion-cornell/)
+    * [A pointed response to Jim Bennett](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) (by bwv549)
+        * [CES Reply: A Pointed Response to a Pointed Response](https://canonizer.com/blog/ces-reply-a-pointed-response-to-a-pointed-response/) (by Jim Bennett)
+* [dice1899's CES Letter Rebuttal]({{ "/dice1899-sarah-allen-response-to-ces-letter/" | relative_url }}) (Sarah Allen)
+    * [Runnells' response](https://cesletter.org/debunkings/the-ces-letter-rebuttal-fair-fairmormon-sarah-allen/)
+* [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](https://journal.interpreterfoundation.org/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) (Kevin Christensen)
+    * [Johnny Stephenson's response](https://cesletter.org/debunkings/kevin-christensen/sky-is-falling-debunking-mormon-interpreter-kevin-christensen-jeremy-runnells/)
+        * [Image is Everything: Pay No Attention to the Man Behind the Curtain](https://journal.interpreterfoundation.org/image-is-everything-pay-no-attention-to-the-man-behind-the-curtain/) (a counter-response by Kevin Christensen)
+            * [DoubleThink: The Mopologist Paradigm](https://cesletter.org/debunkings/kevin-christensen/doublethink-debunking-mormon-interpreter-kevin-christensen-jeremy-runnells/) (a response to "Image is Everything" by Johnny Stephenson)
+* [Some Reflections On That Letter To a CES Director](http://www.fairmormon.org/fair-conferences/2014-fairmormon-conference/reflections-letter-ces-director)
+    * [Runnells' response](http://cesletter.com/apologetics/a-zombies-reflections-on-that-mormon-apologists-reflections.html)
+* [Jeremy Runnells and the Book of Abraham](http://rationalfaiths.com/jeremy-runnells-book-abraham/)
+    * [Runnells' response](http://cesletter.com/apologetics/the-book-of-abraham-except-for-those-willfully-blind-the-case-is-closed.html)
+* [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](http://www.mormoninterpreter.com/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/)
+    * [Runnells' response](http://cesletter.com/apologetics/the-sky-is-falling-part-1.html)
+* ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/)
+    * [Runnells' response](https://cesletter.org/apologetics/influential-anti-mormon-liar-debunks.html)
 
 ### Without responses by Runnells
 
 * [The CES Letter: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
 * [Conflict of Justice #CES Letter Fail](http://www.conflictofjustice.com/ces-letter-fail-contents/)
-* [A Faithful Reply to the CES Letter from a Former CES Employee](https://canonizer.com/files/reply.pdf) (Jim Bennett, [original response](http://stallioncornell.com/blog/a-reply-from-a-former-ces-employee/) as Stallion Cornell)
 * [Bamboozled by the "CES Letter"](http://shakenfaithsyndrome.com/bamboozle/bamboozled.pdf) (Michael Ash)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
