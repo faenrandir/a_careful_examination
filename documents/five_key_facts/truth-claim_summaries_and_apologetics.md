@@ -12,7 +12,7 @@ layout: page
 
 * [Five Key Facts]({{ "/five-key-facts/" | relative_url }}) (~ 1 page)
 * [Just One Page](https://web.archive.org/web/20181119205038/https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
-* [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (~10 minute youtube video)
+* [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (10 minutes) \| [50 more problems](https://www.youtube.com/watch?v=1Bu7yZsvh1Y) (~37 minutes, more moral issues)
 
 ## More significant
 
