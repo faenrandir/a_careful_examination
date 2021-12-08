@@ -5,7 +5,7 @@ doctype: notes
 layout: page
 ---
 
-Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for Mormonism's Negro Doctrine[^bush]:
+Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for his essay "Mormonism's Negro Doctrine":[^mormonisms_negro_doctrine]
 
 > In attempting to gain access to some materials in the Church Historian’s Office, I was required to meet with its head, ninety-two-year-old Apostle Joseph Fielding Smith.  His main points in our interview were that the work on blacks and the priesthood already had been done (i.e., his own work), and that the Church didn’t want every “Tom, Dick, or Harry” looking through its records. Naively—and armed with my temple recommend—I said I didn’t think I was any “Tom, Dick, or Harry.” He replied, with a smile, that they didn’t want any “Tom, Dick, or Bob” either.
 
@@ -30,3 +30,6 @@ He describes a conversation with Leonard Arrington regarding the Bennion Papers:
 There were also attempts by Apostle Mark E. Petersen to have Lester Bush disciplined:
 
 > [J. Willard Marriot Jr., Bush's stake president] said he had received a telephone call from Apostle Mark E. Petersen, who had spoken "very harshly" about me over my publications on the "Negro Doctrine" and instructed Marriott to call me in and take some appropriate action.
+
+
+[^mormonisms_negro_doctrine]: See Bush's original publication [in 1973](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V08N01_13.pdf) or [the 2012 reprint](https://www.dialoguejournal.com/2012/04/mormonisms-negro-doctrine-an-historical-overview/).
