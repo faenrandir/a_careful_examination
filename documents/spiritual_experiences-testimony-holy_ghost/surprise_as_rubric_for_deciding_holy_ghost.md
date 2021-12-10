@@ -11,7 +11,7 @@ A common rubric for deciphering communication between oneself and the Holy Ghost
 
 On one level, this seems to be a perfectly valid approach to discerning information sources.[^information_as_surprise] Were we able to quantify the information content of a closed container and then some quantity of information that seemed foreign to the original source were to appear all in an instant, the most reasonable conclusion would be that the information originated elsewhere.
 
-The research on cognition suggests a different potential source for unexpected (or surprising) conclusions that appear unexpectedly to our conscious awareness--the brain's own sub-consciousness.  A small sample of the available research on the brain's functioning should be enough to demonstrate:
+The research on cognition suggests a different potential source for unexpected (or surprising) conclusions that seemingly appear out of nowhere into our conscious awareness--the brain's own sub-conscious.  For instance:
 
 * Roger Sperry's [split brain experiments](https://embryo.asu.edu/pages/roger-sperrys-split-brain-experiments-1959-1968) demonstrated that the mammalian brain shares some kinds of information with other parts of the brain (mainly via the corpus callosum).
 * Hasher and Zacks demonstrated that [our brains are *constantly* sub-consciously processing information](https://www.researchgate.net/publication/16800042_Automatic_Processing_of_Fundamental_Information_The_Case_of_Frequency_of_Occurrence).  This allows us to "know" things that we have never deliberately rationalized or even consciously thought about.
@@ -20,7 +20,9 @@ The research on cognition suggests a different potential source for unexpected (
     * "... it is almost an article of faith among cognitive psychologists that people lack introspective access to the procedures by which we perceive and remember object and evens, store and retrieve knowledge, think, reason, and solve problems"
     * "we do not always know what we think and know"
 
-A large corpus of research on how we think, how we process information (i.e., much of it subliminally), and how that processing manifests itself to our awareness suggests that we expect people to have sudden strokes of insight which may, at times, contravene their previous conscious thinking on a given topic.  These experiments do not in any way rule out communication with a disembodied 3rd party consciousness,[^information_beyond_the_participant] but on its face we might expect such phenomena to occur as a result of sub-conscious processes so we do not need to invoke another explanatory source *necessarily*.
+A large corpus of research on how we think, how we process information (i.e., much of it subliminally), and how that processing manifests itself to our awareness suggests that we expect people to have sudden strokes of insight which may, at times, contravene their previous conscious thinking on a given topic.  The body of research linked above does not in any way rule out communication with a disembodied 3rd party consciousness,[^information_beyond_the_participant] but on its face we might expect such phenomena to occur as a result of sub-conscious processes so we do not need to invoke another explanatory source *necessarily*.
+
+*also [posted at /r/mormon](https://www.reddit.com/r/mormon/comments/rd1rye/surprise_as_a_rubric_for_deciding_communication/)*
 
 ---
 
