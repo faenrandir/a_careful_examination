@@ -1,3 +1,4 @@
 *.wordpress.html
 documents/about_apostates/quote-setup.tex
 .sass-cache
+.python-version
