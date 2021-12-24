@@ -5,11 +5,10 @@ doctype: notes
 layout: page
 ---
 
-[Work in progress]
-
 ## Quick
 
-* [The Spectrum](https://twitter.com/TrevorProject/status/918176244050432000/photo/1) (from the Trevor Project)
+* [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf) (The Trevor Project)
+* [Guide to Being an Ally to Transgender and NonBinary Youth](https://www.thetrevorproject.org/wp-content/uploads/2021/07/Guide-to-Being-an-Ally-to-Transgender-and-Nonbinary-Youth.pdf) (The Trevor Project)
 
 ## General
 
@@ -41,17 +40,19 @@ Nonetheless, there is still some significant room within broader LDS theology to
     * [Sunstone Podcast: E99 Queer Polygamy: A Conversation with Taylor Petrey and Blaire Ostler](https://sunstone.org/e99-queer-polygamy-a-conversation-with-taylor-petrey-and-blaire-ostler/)
 * [The Proclamation on the Family: Scripture or Revelation?](https://faenrandir.github.io/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/)[^family_proclamation] (argues that the Family Proclamation was not referred to as "scripture" or "revelation" in years after the proclamation was given).
 * Joseph Fielding Smith postulated that those in the telestial kingdom would be "neither man nor woman" ([Doctrines of Salvation v2, p 287](https://archive.org/details/Doctrines-of-Salvation-volume-2-joseph-fielding-smith/page/n177/mode/2up)). This was probably suggested as an undesirable outcome, but regardless it means that eternal gender was contemplated alternate to a strict gender binary.
-* [BYU BIO 461 appendix "Gender"](https://books.byui.edu/bio_461_principles_o/appendix_a_gender)
+* [BYU BIO 461 appendix "Gender"](https://books.byui.edu/bio_461_principles_o/appendix_a_gender)[^bio461]
 
 ## Related
 
 * [wikipedia: Fraternal birth order and male sexual orientation](https://en.wikipedia.org/wiki/Fraternal_birth_order_and_male_sexual_orientation)
 * Sex determination is [very complex](https://i.redd.it/sidxs9i62rlz.jpg) (from [Beyond XX and XY: The Extraordinary Complexity of Sex Determination](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/))
 * Human Sexuality [part 1](https://www.youtube.com/watch?v=LOY3QH_jOtE), [part 2](https://www.youtube.com/watch?v=95OP9rSjxzw), [part 3](https://www.youtube.com/watch?v=JPYmarGO5jM) (Professor Robert Sapolsky lecture 15 from his Human Behavioral Biology course at Stanford Biology)
-* [On a biological origin of homosexuality](https://www.mormonstories.org/podcast/byu-professor-bill-bradshaw-on-a-biological-origin-of-homosexuality/) (BYU Professor Bill Bradshaw off-campus lecture)
+* On a biological origin of homosexuality [podcast](https://www.mormonstories.org/podcast/byu-professor-bill-bradshaw-on-a-biological-origin-of-homosexuality/), [video](https://www.youtube.com/watch?v=8IHw9DVI3hE), [overhead slides](https://mormonstories.wpengine.com/podcast/dropbox/bradshaw-overheads/) (BYU Professor Bill Bradshaw lecture)
+* BYU USGA [resource page](https://www.usgabyu.com/resources-for-you)
 
 
 [^progressive]: Admittedly, most of those exploring this territory are progressive and/or queer members, but there still may be some validity to their perspective, even to more orthodox members.
 
 [^family_proclamation]: Additional statements may have been made since then.
 
+[^bio461]: The authors engage in a significant amount of speculation and inference, and I personally disagree with many of their conclusions, but their engagement with the topic is more biologically informed and theologically broad than is typical of many LDS circles.
