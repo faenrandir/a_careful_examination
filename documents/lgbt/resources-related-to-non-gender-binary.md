@@ -46,7 +46,7 @@ Nonetheless, there is still some significant room within broader LDS theology to
 
 * [wikipedia: Fraternal birth order and male sexual orientation](https://en.wikipedia.org/wiki/Fraternal_birth_order_and_male_sexual_orientation)
 * Sex determination is [very complex](https://i.redd.it/sidxs9i62rlz.jpg) (from [Beyond XX and XY: The Extraordinary Complexity of Sex Determination](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/))
-* Human Sexuality [part 1](https://www.youtube.com/watch?v=LOY3QH_jOtE), [part 2](https://www.youtube.com/watch?v=95OP9rSjxzw), [part 3](https://www.youtube.com/watch?v=JPYmarGO5jM) (Professor Robert Sapolsky lecture 15 from his Human Behavioral Biology course at Stanford Biology)
+* Human Sexuality [part 1](https://www.youtube.com/watch?v=LOY3QH_jOtE), [part 2](https://www.youtube.com/watch?v=95OP9rSjxzw), [part 3](https://www.youtube.com/watch?v=JPYmarGO5jM) (lectures from Professor Robert Sapolsky's Human Behavioral Biology course at Stanford University)
 * On a biological origin of homosexuality [podcast](https://www.mormonstories.org/podcast/byu-professor-bill-bradshaw-on-a-biological-origin-of-homosexuality/), [video](https://www.youtube.com/watch?v=8IHw9DVI3hE), [overhead slides](https://mormonstories.wpengine.com/podcast/dropbox/bradshaw-overheads/) (BYU Professor Bill Bradshaw lecture)
 * BYU USGA [resource page](https://www.usgabyu.com/resources-for-you)
 
