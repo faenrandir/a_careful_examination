@@ -7,7 +7,7 @@ layout: page
 
 ## Quick
 
-* [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf) (The Trevor Project)
+* [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)
 * [Guide to Being an Ally to Transgender and NonBinary Youth](https://www.thetrevorproject.org/wp-content/uploads/2021/07/Guide-to-Being-an-Ally-to-Transgender-and-Nonbinary-Youth.pdf) (The Trevor Project)
 
 ## General
@@ -38,7 +38,7 @@ Nonetheless, there is still some significant room within broader LDS theology to
 * [Queer Mormon Theology: An Introduction](https://www.amazon.com/Queer-Mormon-Theology-Blaire-Ostler/dp/1948218410) (Blaire Ostler)
     * [A Thoughtful Faith Podcast: 193 God, the Image of God, Theosis, Sex and Godly Creation: Blaire Ostler](https://www.athoughtfulfaith.org/god-the-image-of-god-theosis-sex-and-godly-creation-blaire-ostler/)
     * [Sunstone Podcast: E99 Queer Polygamy: A Conversation with Taylor Petrey and Blaire Ostler](https://sunstone.org/e99-queer-polygamy-a-conversation-with-taylor-petrey-and-blaire-ostler/)
-* [The Proclamation on the Family: Scripture or Revelation?](https://faenrandir.github.io/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/)[^family_proclamation] (argues that the Family Proclamation was not referred to as "scripture" or "revelation" in years after the proclamation was given).
+* [The Proclamation on the Family: Scripture or Revelation?](https://faenrandir.github.io/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/) (argues that the Family Proclamation was not directly referred to as "scripture" or "revelation" in the two decades[^family_proclamation] after the proclamation was given---in fact, when an Apostle referred to it as "revelation" in speech, the reference was removed before official publication).
 * Joseph Fielding Smith postulated that those in the telestial kingdom would be "neither man nor woman" ([Doctrines of Salvation v2, p 287](https://archive.org/details/Doctrines-of-Salvation-volume-2-joseph-fielding-smith/page/n177/mode/2up)). This was probably suggested as an undesirable outcome, but regardless it means that eternal gender was contemplated alternate to a strict gender binary.
 * [BYU BIO 461 appendix "Gender"](https://books.byui.edu/bio_461_principles_o/appendix_a_gender)[^bio461]
 
@@ -56,3 +56,5 @@ Nonetheless, there is still some significant room within broader LDS theology to
 [^family_proclamation]: Additional statements may have been made since then.
 
 [^bio461]: The authors engage in a significant amount of speculation and inference, and I personally disagree with many of their conclusions, but their engagement with the topic is more biologically informed and theologically broad than is typical of many LDS circles.
+
+[^sex_assignment]: "The Spectrum" pdf directs youth to "identify today on each line", but the first line---"Biological Sex"---is typically assigned at birth and is typically accurate. Most *fundamental* aspects of biological sex (e.g., chromosomal karyotype, presentation of male or female genitalia or both at birth) are not related to how an individual feel about them and are unchangeable (i.e., because they are fixed in either historical or biological fact, or both).  Mistakes in sex assignment are possible, but rectification of such mistakes go beyond how an individual identifies (e.g., it might involve karyotyping). This is likely a simple oversight on the part of the author of the PDF, which otherwise is a helpful summary.
