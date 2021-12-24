@@ -20,7 +20,7 @@ layout: page
 * [Sexual differentiation of the human brain: Relation to gender identity, sexual orientation and neuropsychiatric disorders](https://www.sciencedirect.com/science/article/abs/pii/S0091302211000252) (cited by [BYU Bio 461 appendix](https://books.byui.edu/bio_461_principles_o/appendix_a_gender))
 * [Gene variants provide insight into brain, body incongruence in transgender](https://www.sciencedaily.com/releases/2020/02/200205084203.htm)
 * [Only two sex forms but multiple gender variants: How to explain?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5824932/)
-    "... it follows from the principles of Ca2+- physiology and homeostasis that all individuals of a sexually reproducing animal population have a personalized gender behaviour"
+    "... it follows from the principles of Ca^2+^- physiology and homeostasis that all individuals of a sexually reproducing animal population have a personalized gender behaviour"
 
 ## Multi-cultural
 
