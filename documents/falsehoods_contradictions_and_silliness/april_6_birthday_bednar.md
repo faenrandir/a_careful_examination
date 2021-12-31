@@ -5,13 +5,13 @@ layout: page
 doctype: short-analysis
 ---
 
-Towards the end of his April 2014 General Conference address, Elder Bednar stated (emphasis added):
+Towards the end of [his April 2014 General Conference address, [Elder Bednar stated](https://www.churchofjesuschrist.org/study/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=eng) (emphasis added):
 
 > Today is April 6. We **know by revelation** that today is the **actual and accurate** date of the Savior’s birth. April 6 also is the day on which The Church of Jesus Christ of Latter-day Saints was organized.  On this special and sacred Sabbath day, I declare my witness that Jesus the Christ is our Redeemer. He lives and will cleanse, heal, guide, protect, and strengthen us. **Of these things I joyfully testify** in the sacred name of Jesus Christ, amen.
 
-His talk would be published in the Ensign with this parenthetical note:
+His talk would be published in the Ensign with [this parenthetical note](https://www.churchofjesuschrist.org/study/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=eng):
 
-> See D&C 20:1; Harold B. Lee, “Strengthen the Stakes of Zion,” Ensign, July 1973, 2; Spencer W. Kimball, “Why Call Me Lord, Lord, and Do Not the Things Which I Say?” Ensign, May 1975, 4; Spencer W. Kimball, “Remarks and Dedication of the Fayette, New York, Buildings,” Ensign, May 1980, 54; Discourses of President Gordon B. Hinckley, Volume 1: 1995–1999 [2005], 409.
+> See D&C 20:1; Harold B. Lee, “Strengthen the Stakes of Zion,” *Ensign*, July 1973, 2; Spencer W. Kimball, “Why Call Me Lord, Lord, and Do Not the Things Which I Say?” *Ensign*, May 1975, 4; Spencer W. Kimball, “Remarks and Dedication of the Fayette, New York, Buildings,” *Ensign*, May 1980, 54; *Discourses of President Gordon B. Hinckley, Volume 1: 1995–1999* [2005], 409.
 
 April 6th birthday references seem to depend primarily upon James Talmage's [analysis of D&C 20:1 in Jesus the Christ](https://archive.org/details/jesusthechrist1915/page/104) (emphasis added):
 

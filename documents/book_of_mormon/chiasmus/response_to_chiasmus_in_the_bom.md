@@ -39,6 +39,8 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 
     Oral-formulaic theory may make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If these structures were simply employed as part of the process of orally composing the Book of Mormon, then Joseph may not have associated them with either Hebrew parallelism or other rhetorical devices taught in grammar courses of the day.
 
+    William Davis discusses chiasmus, particularly Alma 36, in [this interview](https://www.youtube.com/watch?v=TRN3Ska_sak&t=6624s).
+
 ### Afterword: more sophisticated chiastic patterns?
 
 LatterDayData has pointed out some interesting analyses on broken chiasmus.  The idea is that we may be able to observe a clash between the ancient underlying language and an overlay of modern English.  This is the kind of evidence that might suggest an ancient source for chiasmus over a modern implementation.  A presentation of the idea and some potential cautions and criticisms of it follow in [this thread](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/fffnuzy/).
