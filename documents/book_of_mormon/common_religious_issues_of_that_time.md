@@ -1,6 +1,7 @@
 ---
-title: ""
-permalink: //
+title: "Common religious issues being discussed in an 1824 publication also
+found in the Book of Mormon"
+permalink: /common-religious-issues-1824-the-christian-quaker-and-bom/
 maintopic: book-of-mormon
 doctype: notes
 layout: page
