@@ -19,7 +19,8 @@ layout: page
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
-* [Mormon Think](http://www.mormonthink.com/) vast resource on LDS truth-claims.[^mormonthink]
+* [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims.[^mormonthink])
+* [Shelf Breakers](https://drive.google.com/file/d/1xABvaPadd4C9VE7ySVRQ1G_hfNW6vWCB/view) (almost all LDS approved sources)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
 * [A Letter to an Apostle](https://lettertoanapostle.org/) (35 essays on the truth-claims)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)

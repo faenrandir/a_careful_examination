@@ -14,7 +14,7 @@ In discussing the idea of revelation and whether perfection is attainable, the a
 The Book of Mormon spends considerable time on, or at least weighs in on,
 almost all of these points.
 
-1. Personal election (2 Nephi 2:27; Alma 13)
+1. Personal election (Alma 31:16-17, 2 Nephi 2:27; Alma 13)
 2. General redemption (not exactly sure what this references, but the Book of
    Mormon is all about how redemption works and who qualifies)
 3. Whether the death of Christ was for all or some (resurrection for all; salvation for the truly penitent, e.g., Alma 42:22-24)
@@ -26,3 +26,11 @@ almost all of these points.
    and reunite after: Alma 40)
 9. Whether water baptism is necessary to salvation or not (essential: 2 Ne 9:23-24, 2 Ne 31; 3 Ne 11:20-40)
 10. Whether the scriptures are the only necessary rule for conduct [this is the focus of the whole section] (2 Nephi 32)
+
+### See also
+
+[Comparison of Alma 32-42 with The Christian Quaker](https://www.reddit.com/r/mormon/comments/rx31h6/alma_3942_compared_to_penns_1824_book_the/)
+
+Originally heard about The Christian Quaker from /u/TruthIsAntiMormon, but the
+observation above is mine (however, use of Alma 31 in reference to election
+was pointed out by them).
