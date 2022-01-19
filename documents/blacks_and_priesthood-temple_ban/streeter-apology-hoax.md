@@ -22,3 +22,7 @@ The Southern Baptist Convention [1995 Resolution On Racial Reconciliation](http:
 * [(fake) Newsroom Release](https://web.archive.org/web/20180517191350/https://www.mormon-newsroom.org/article/president-nelson-meets-with-NAACP-offers-apology-for-history-of-racism/)
 * [(fake) Letter of apology](https://web.archive.org/web/20180517165134/https://www.mormon-newsroom.org/multimedia/file/President-Nelson-Meets-With-NAACP-Offers-Apology-for-History-of-Racism.pdf)
 
+### Aftermath
+
+* [Streeter's apology for the hoax](https://www.sltrib.com/religion/2018/05/23/creator-of-fake-lds-apology-does-his-own-apologizing-acknowledges-causing-tremendous-pain-for-black-mormons/)
+* [Zandra Vranes facebook video reaction](https://www.facebook.com/watch/live/?ref=watch_permalink&v=10156816607512971)
