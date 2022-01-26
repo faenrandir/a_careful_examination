@@ -12,9 +12,8 @@ Shortly after I posted this analysis to reddit, an article on the topic was publ
 ### Abstract
 
 * The idea that Noah's flood represented a baptism of the earth was recorded in at least three instances in the early 1800's *before* it was ever taught by a Latter-day Saint.
-* The first recorded instance of this teaching in LDS thought is from Orson Pratt, no earlier than 1851. [correction: Pratt's earliest recorded teaching was from 1851.  The principle was first taught, perhaps rhetorically, by W.W. Phelps in 1835.]
-* Circumstantial evidence (subject matter, association, date and location) suggests that Orson Pratt may have gleaned the idea from one or more of these existing Protestant sources. [update: it is also possible that he gleaned the idea from W.W. Phelps or Elder Lorenzo Snow who had also taught the ideabefore him.  In any event, Hoskisson and Smoot also point to the Protestant milieu as the likely source for the idea.]
-* At each earliest introduction by a church President, and in one of Orson Pratt's earliest sermons on the matter, each of these authorities expressed the idea as conjectural or as induction from scripture or existing doctrine.
+* The first recorded instance of this teaching in LDS thought is from Orson Pratt, no earlier than 1851. [*correction: Pratt's earliest recorded teaching was from 1851.  The principle was first taught, perhaps rhetorically, by W.W. Phelps in 1835.*]
+* Circumstantial evidence (subject matter, association, date and location) suggests that Orson Pratt may have gleaned the idea from one or more of these existing Protestant sources. [*update*: it is also possible that he gleaned the idea from W.W. Phelps or Elder Lorenzo Snow who had also taught the ideabefore him.  In any event, Hoskisson and Smoot also point to the Protestant milieu as the likely source for the idea.]
 
 ### Timeline
 
@@ -32,23 +31,23 @@ Shortly after I posted this analysis to reddit, an article on the topic was publ
 
 > the baptism of the earth... Noah knew that the baptism of the earth had done its work
 
-#### Earliest LDS teaching of the flood as baptism of the earth, with evidence of induction or conjecture
+#### Earliest LDS teaching of the flood as baptism of the earth
 
-**1852** Elder Orson Pratt - "The Lord ordained baptism, or immersion of the earth in water, as a justifying ordinance."
+**1852** Elder Orson Pratt [stated](https://jod.mrm.org/1/280): "The Lord ordained baptism, or immersion of the earth in water, as a justifying ordinance."
 
-Orson delivers some of the address as if he is merely making induction from scripture: "but soon *we find* new sins committed." (emphasis mine)
+**1851-1854?** Orson Pratt [stated](https://jod.mrm.org/1/328) - "As man becomes a new creature by being born again, first of water ... in the same manner the earth becomes a new earth by being born again of these cleansing and purifying elements."
 
-**1851-1854?** Orson Pratt  Apostle - "As man becomes a new creature by being born again, first of water ... in the same manner the earth becomes a new earth by being born again of these cleansing and purifying elements."
+**1853** President Brigham Young [stated](https://jod.mrm.org/1/264) - "The Lord said, 'I will deluge (or immerse) the earth in water for the remission of the sins of the people'"
 
-Orson uses an analogy to try and make his point convincing: "As man receives the baptism of fire...As man becomes a new creature"
+**1873** Orson Pratt [stated](https://jod.mrm.org/16/312) - "We might, in other words, call it [the Flood] a baptism of the earth by water, or a cleansing of it from sin."
 
-**1853** President Brigham Young - "The Lord said, 'I will deluge (or immerse) the earth in water for the remission of the sins of the people'"
+**1874** Brigham Young [stated](https://jod.mrm.org/16/312) - "... and when the earth is sanctified from the effects of the fall, and baptized, cleansed, and purified by fire, and returns to its paradisiacal state, ...
 
-Brigham attempts to persuade his audience that the doctrine is already embedded in the Bible: "You who have read the Bible must know that *that is Bible doctrine*. What does it matter if it is not stated in the same words that I use..." (emphasis mine)
+**1880** Orson Pratt [stated](https://jod.mrm.org/21/319) - "Another great change happened nearly two thousand years after the earth was made. It was baptized by water. A great flow of water came, the great deep was broken up, the windows of heaven were opened from on high, and the waters prevailed upon the face of the earth, sweeping away all wickedness and transgression—a similitude of baptism for the remission of sins." 
 
-**1885** President John Taylor - "The earth underwent a baptism by being immersed in water"
+**1884** John Taylor [stated](https://jod.mrm.org/26/66) - "That is, the earth was immersed. It was a period of baptism."
 
-President Taylor makes it clear that he is using induction and conjecture: "*We read that* as it was in the days of Noah, so shall it be in the days of the coming of the Son of Man...*It would seem* that not only man but other creations of God respond to this law." (emphasis mine)
+**1885** Orson F. Whitney [stated](https://jod.mrm.org/26/260)- "The earth underwent a baptism by being immersed in water"
 
 ### The case for transmission from existing sources
 
@@ -88,5 +87,7 @@ The teaching of the flood being a baptism of the earth was taught by some early 
 ### See also
 
 [Was Noah’s Flood the Baptism of the Earth?](https://rsc.byu.edu/es/archived/let-us-reason-together/was-noah-s-flood-baptism-earth) which was published shortly after I wrote and published this document to reddit [here](https://www.reddit.com/r/mormon/comments/3n5386/the_flood_as_the_earths_baptism_origin_in_lds/).
+
+*edits: I added links to Journal of Discourse sources. An earlier version associated the 1875 Orson Whitney quote with John Taylor, and that has been corrected.  I originally included some discusssion of the amount of conjecture associated with each statement.  Since I have not done that exhaustively, I decided to remove the commentary on the level of conjecture.  It appeared when I was originally doing this research that the earliest statements were more conjectural than later statements, but that probably should be demonstrated with greator rigor.*
 
 [^pratt_taught_it_multiple_times]: Hoskisson and Smoot wrote, "Pratt would teach this same doctrine a number of times during his tenure as an Apostle" and discuss the tracts that Pratt wrote on the topic.
