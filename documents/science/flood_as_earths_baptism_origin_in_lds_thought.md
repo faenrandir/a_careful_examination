@@ -41,7 +41,7 @@ Shortly after I posted this analysis to reddit, an article on the topic was publ
 
 **1873** Orson Pratt [stated](https://jod.mrm.org/16/312) - "We might, in other words, call it [the Flood] a baptism of the earth by water, or a cleansing of it from sin."
 
-**1874** Brigham Young [stated](https://jod.mrm.org/16/312) - "... and when the earth is sanctified from the effects of the fall, and baptized, cleansed, and purified by fire, and returns to its paradisiacal state, ...
+**1874** Brigham Young [stated](https://jod.mrm.org/17/115) - "... and when the earth is sanctified from the effects of the fall, and baptized, cleansed, and purified by fire, and returns to its paradisiacal state, ...
 
 **1880** Orson Pratt [stated](https://jod.mrm.org/21/319) - "Another great change happened nearly two thousand years after the earth was made. It was baptized by water. A great flow of water came, the great deep was broken up, the windows of heaven were opened from on high, and the waters prevailed upon the face of the earth, sweeping away all wickedness and transgression—a similitude of baptism for the remission of sins." 
 
