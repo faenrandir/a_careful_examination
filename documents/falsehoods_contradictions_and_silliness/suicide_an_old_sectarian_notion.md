@@ -1,5 +1,5 @@
 ---
-title: "Suicide: an old sectarian notion"
+title: "Suicide and hell: an old sectarian notion?"
 permalink: /suicide-an-old-sectarian-notion/
 doctype: short-analysis
 layout: page
