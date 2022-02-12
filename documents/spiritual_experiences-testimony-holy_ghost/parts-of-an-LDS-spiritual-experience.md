@@ -43,6 +43,22 @@ Based on the above list and common descriptions ([for example](https://www.churc
 
     > When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doc­trine Teacher’s Man­u­al [Les­son 6: “I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 
+### What is it like?
+
+Since so many mental and physical states may be associated with the Spirit,
+it's difficult to *simulate* any kind of *exact* LDS spiritual experience.
+Nevertheless, aspects of an LDS spiritual experience may be encountered during
+guided meditation by those who are not members of the faith. To be clear,
+guided meditation is not usually the *manner* in which Latter-day Saints
+prepare themselves to experience the Spirit, but the act of prayer, deep
+reflection during scripture reading, or deep reflection during the temple
+ceremony or in the Celestial room may be invoking similar kinds of reflection
+and hence spiritual, mental, and physical processes.
+
+* [The vast mind](https://www.youtube.com/watch?v=bMMd4pFAicw)
+* [Meditation on love](https://www.youtube.com/watch?v=Wb1n6ucXN4Y)
+* [Guided Meditation: Visting Heaven](https://www.youtube.com/watch?v=ZUUbe-T393c)
+
 ### See also:
 
 * [Testimony, spiritual experiences, and truth: A careful examination](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/)

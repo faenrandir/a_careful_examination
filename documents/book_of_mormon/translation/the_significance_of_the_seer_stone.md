@@ -58,9 +58,11 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 ## See also
 
 * [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) (book chapter from Welch's "Opening the Heavens: Accounts of Divine Manifestations, 1820-1844")
+* [Eyewitnesses claiming the seer stone was used to translate the Book of Mormon](https://faenrandir.github.io/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/) (A Careful Examination)
 * [The Spectacles, the Stone, the Hat, and the Book: A Twenty-first Century Believer’s View of the Book of Mormon Translation](https://journal.interpreterfoundation.org/the-spectacles-the-stone-the-hat-and-the-book-a-twenty-first-century-believers-view-of-the-book-of-mormon-translation/) (Roger Nicholson's 2013 analysis in The Interpreter)
 * mormonscholar.org [Seer Stone Related Materials](http://mormonscholar.org/resources/) (Certina)
-* [Eyewitnesses claiming the seer stone was used to translate the Book of Mormon](https://faenrandir.github.io/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/) (A Careful Examination)
+* [FAIR response to Joseph Fielding Smith view on the seer stone](https://www.fairlatterdaysaints.org/answers/Question:_Did_Joseph_Fielding_Smith_say_that_it_was_not_reasonable_for_Joseph_Smith_to_use_a_seer_stone_to_translate_the_Book_of_Mormon%3F#:%7E:text='%22%20This%20is%20incorrect.,had%20no%20issue%20with%20that)
+* [Misinformation/Lack of Information About the Book of Mormon Translation Process in Disseminated Church Material](https://docs.google.com/document/d/1VZkKUmC-cjB_DnqWp9HHyW7v677e4IlUQORHn6ydOyA/edit?usp=sharing) (google doc)
 
 [^other_examples]: The argument is captured more colloquially in [this FairMormon video](https://web.archive.org/web/20201130054645if_/https://www.youtube.com/watch?v=C0umGReiTRU).
 
