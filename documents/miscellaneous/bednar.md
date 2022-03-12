@@ -11,16 +11,16 @@ Some examples of a behavior or teaching of David Bednar that some former
 members of the Church of Jesus Christ of Latter-day Saints find objectionable:
 
 1. [There are no homosexual members of the church](https://www.youtube.com/watch?v=BQ4_wTGv8Ao)
-1. [Why do I have to be 12 to enter the temple?](https://www.youtube.com/watch?v=5Qxu6bFXc2Q)
 1. [Refuses to answer question about women having the priesthood](https://www.reddit.com/r/exmormon/comments/de5ghs/elder_bednars_time_is_too_precious_to_be_wasted/)
 1. [Ignores many scripture verses to make his point](https://www.reddit.com/r/exmormon/comments/38dl59/some_actual_information_about_bednar/cruq2d4/)
 1. [Publicly chastises two YSA women for standing while singing](https://www.reddit.com/r/exmormon/comments/4n51z1/the_time_elder_bednar_chastised_two_young_girls/)
-1. [Make people resing the opening him because not forceful enough](https://www.reddit.com/r/exmormon/comments/5bdk4e/that_time_bednar_made_us_all_resing_the_opening/)
+1. [Make people re-sing the opening him because not forceful enough](https://www.reddit.com/r/exmormon/comments/5bdk4e/that_time_bednar_made_us_all_resing_the_opening/)
 1. [Do not date a girl with more than one earring](http://www.deseretnews.com/article/600132928/Apostle-counsels-Y-students-to-observe.html)
 1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
 1. [Abruptness at hotel room](https://www.reddit.com/r/exmormon/comments/d2axrq/found_this_gem_on_fb_this_morning/)
+1. [Why do I have to be 12 to enter the temple?](https://www.youtube.com/watch?v=5Qxu6bFXc2Q) (video now private) [answer, in essence, "because. then eventually, because we have to draw a line somewhere."]
 
 ## Positive or Neutral
 
