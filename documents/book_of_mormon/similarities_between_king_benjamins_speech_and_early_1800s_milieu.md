@@ -6,9 +6,15 @@ doctype: short-analysis
 layout: page
 ---
 
+## Introduction
+
+There are many parallels between King Bejamin's speech (found in Mosiah 2–5) and phrases and ideas already present in Joseph Smith's early 1800s milieu. This first section focuses on phrases/ideas from Mosiah 3:19. The second section looks more generally at Mosiah 2–5.
+
 ## The natural man is an enemy to God
 
-### 1611 - KJV New Testament (Greek manuscripts around 50-90 A.D.)
+*Note: This analysis of [Mosiah 3:19](https://abn.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3.19?lang=eng) is modified from reddit user `tompainesbones`'s [post](https://www.reddit.com/r/mormon/comments/tgbl59/cross_referencing_the_natural_man_in_mosiah_319/) on the topic.*
+
+#### 1611 - KJV New Testament (Greek manuscripts around 50-90 A.D.)
 
 * the ***natural man*** receiveth not the things of the Spirit of God… (1 Corinthians 2:14)
 * the carnal mind is ***enmity against God***… (Romans 8:7)
@@ -16,13 +22,13 @@ layout: page
 * ***put off*** *the old man* (Colossians 3:9)
 * ***become as little children***…***humble*** himself *as this little child* (Matthew 18:3-4)
 
-### 1713 - Faith and Reason compared - John Locke
+#### 1713 - Faith and Reason compared - John Locke
 
 [link to book search 'fall of adam'](https://www.google.com/books/edition/Faith_and_Reason_compared_shewing_that_d/1dBlAAAAcAAJ?hl=en&gbpv=1&dq=%22natural+man%22+%22fall+of+adam%22&pg=PR59&printsec=frontcover)
 
 * "...men, ***since the fall of Adam***, have given themselves up almost wholly to the conduct and government of ***the Natural Man***…"
 
-### 1812 The Works of the Rev. John Wesley - Volume 14 - John Wesley
+#### 1812 The Works of the Rev. John Wesley - Volume 14 - John Wesley
 
 Wesley was an 18th century Methodist leader, and he cites earlier works by Dr. John Taylor and Thomas Boston (Scottish Presbyterian).
 
@@ -36,7 +42,7 @@ Wesley was an 18th century Methodist leader, and he cites earlier works by Dr. J
 * "***The natural man is an enemy*** *to Christ* in his kingly office"
 * ***The natural man*** is unholy, and loves to be so: and therefore ‘***resists the Holy Ghost***’"
 
-### Other books from the early 1800s
+#### Other books from the early 1800s
 
 * "...unless they be converted and ***become as little children, humble*** in their disposition, ready to receive instruction and cordially ***submissive*** to the divine will, they can ever enter the kingdom of heaven."  [1810 - link](https://www.google.com/books/edition/A_sermon_on_2_Cor_ii_16_delivered_April/uRRdAAAAcAAJ?hl=en&gbpv=1&dq=%22become+as+little+children%22+submissive&pg=PA8&printsec=frontcover)
 * "***a little child, humble and willing to submit*** to the teaching of thy heavenly Father"  [1810 - link](https://www.google.com/books/edition/A_Winter_Season_being_an_attempt_to_draw/eHdjAAAAcAAJ?hl=en&gbpv=1&dq=become+child+%22willing+to+submit%22&pg=PA99&printsec=frontcover)
@@ -45,15 +51,13 @@ Wesley was an 18th century Methodist leader, and he cites earlier works by Dr. J
 * "If we do not ***humble ourselves as little children***, and put on their ***meek and submissive*** temper, we cannot ***put off*** the things of the *old man*"  [1822 - link](https://www.google.com/books/edition/Sermons_on_Various_Subjects/Yo5QAAAAcAAJ?hl=en&gbpv=1&dq=child+meek+submissive+humble&pg=PA237&printsec=frontcover)
 * "How, difficult a task it is to ***put off the natural man***"  [1826 - link](https://www.google.com/books/edition/The_Quarterly_Review_London/YFzlu3yN1WQC?hl=en&gbpv=1&dq=%22put+off+the+natural+man%22&pg=PA371&printsec=frontcover)
 
-### 1829 BoM - Mosiah 3:19
+#### Compare to Mosiah 3:19 from the Book of Mormon
+
+Joseph Smith dictated this verse sometime in 1829 or 1830:
 
 > For ***the natural man is an enemy to God***, and has been ***from the fall of Adam***, and will be, forever and ever, unless he ***yields to the enticings of the Holy Spirit***, and ***putteth off the natural man*** and becometh a saint through the atonement of Christ the Lord, and ***becometh as a child, submissive***, ***meek***, ***humble***, patient, full of love, ***willing to submit to all things*** which the Lord seeth fit to inflict upon him, even as a ***child doth submit*** to his father.
 
-modified from `tompainesbones` [post](https://www.reddit.com/r/mormon/comments/tgbl59/cross_referencing_the_natural_man_in_mosiah_319/)
-
-## General similarities
-
-There are many parallels between King Bejamin's speech (found in Mosiah 2–5) and phrases and ideas already present in Joseph Smith's early 1800s milieu, many of them in the 1769 King James Bible.
+## General similarities with King Benjamin's Speech
 
 <table>
 
