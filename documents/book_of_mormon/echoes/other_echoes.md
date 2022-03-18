@@ -37,6 +37,7 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 
 ## Other compilations or analyses
 
+1. [Similarities between King Benjamin's speech and the early 1800s milieu](https://faenrandir.github.io/a_careful_examination/similarities-between-benjamins-speech-and-1800s-milieu/) (bwv549)
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
