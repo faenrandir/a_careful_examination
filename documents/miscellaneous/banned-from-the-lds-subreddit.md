@@ -12,11 +12,11 @@ A](https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_re
 
 > D&C 27 didn't originally include the mention of Peter, James, and John, which is in Jeremy's next point that you'll go over next week.
 
-dice1899 [responded in some depth](https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqjsm0/) to `WooperSlim`'s long comment, but didn't mention anything about their point about D&C 27. I felt like the point was very salient to her post, and so I decided to restate the point along with a helpful resource (which is derived 100% from lds published resources in their complete context).
+dice1899 [responded in some depth](https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqjsm0/) to `WooperSlim`'s long comment, but didn't mention anything about their point about D&C 27. I had gone to the comments to make this very point, and I felt like it was very salient to her post.  I decided to restate the point along with a helpful resource (which is derived 100% from lds published resources in their complete context).
 
 ## The catalytic comment
 
-So, on Tuesday, November 30, 2021 at 18:26:51 MST, [I commented](https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqmact/) (moderator removed):
+On Tuesday, November 30, 2021 at 18:26:51 MST, [I commented](https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqmact/) (moderator removed):
 
 > > D&C 27 didn't originally include the mention of Peter, James, and John, which is in Jeremy's next point that you'll go over next week.
 
@@ -104,4 +104,4 @@ Roughly 5 months later (as of 2022-03-19):
 
     > And D&C 27:12, given in September, 1830, specifically says that Peter, James, and John were sent by the Lord and ordained and confirmed them to be apostles
 
-    is still present _unedited_ in her original post and remains misleading (since the original revelation makes no mention of Peter, James, and John as a simple comparison with resources published by the Church will reveal).
+    is still present _unedited_ in her original post and remains misleading (since the original revelation makes no mention of Peter, James, and John as a simple comparison with resources published by the LDS Church will reveal).
