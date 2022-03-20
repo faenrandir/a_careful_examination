@@ -74,7 +74,7 @@ words of Jesus, which seem problematic.
 
 ## Reluctance to question
 
-The desire to maintain a belief in God and Christ can hinder a person from searching for and fairly evaluate the evidence that might contradict that belief.
+The desire to maintain a belief in God and Christ can hinder a person from searching for and then fairly evaluating the evidence that might contradict or deservedly weaken that belief.
 
 Mark 4:28-29
 
@@ -153,7 +153,7 @@ Consider Richard Bellrock's arguments in [Sin Does Not Exist: And Believing That
 
 According to John, Jesus said "If ye love me, keep my commandments" (John 14:15).  Obedience is sometimes emphasized by Christians, [for example](https://www.reddit.com/r/Christianity/comments/l2kxic/matthew_7_kjv_highlighting_how_obedience_to_jesus/).  The LDS Church amplifies the importance of obedience by claiming that [obedience is the first law of heaven](https://www.churchofjesuschrist.org/search?lang=eng&query=obedience%20first%20law%20of%20heaven&highlight=true&page=1) and encourages members to follow the prophet, [even if they know that what is being asked is wrong](https://www.churchofjesuschrist.org/search?lang=eng&query=%22and%20it%20is%20wrong%2C%20and%20you%20do%20it%2C%20the%20Lord%20will%20bless%20you%20for%20it%22&highlight=true&page=1): "Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it." (with a wink that they would never ask you to do anything wrong).
 
-I believe obedience is a neutral value (it merely amplifies the morality of the thing instructed) [cite the redditor who originally expressed it this way] .  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad.  I can imagine only very extreme circumstances (like the heat of battle) where high-stakes instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that [they must disobey unlawful commands](https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/).
+I believe obedience is a neutral value: it merely amplifies the intrinsic morality of the thing that was instructed (because now an additional actor has been engaged in the activity, whether it was good or bad).  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad (at least in the vast majority of cases).  I can imagine only very extreme circumstances---like the heat of battle---where high-stake instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that [they must disobey unlawful commands](https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/).
 
 *Why would I want my children to be taught that they should obey leaders, even if leaders are wrong?*
 

@@ -114,8 +114,8 @@ Moroni states that Jesus spoke to the disciples in the New World using the exact
 
 Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.  David
 Miller's essay was brought to my attention through [an article by Conflict of
-Justice](http://www.conflictofjustice.com/book-of-mormon-addition-mark-16/) on
-the long ending of Mark and the Book of Mormon.
+Justice](http://web.archive.org/web/20210526214836/http://www.conflictofjustice.com/book-of-mormon-addition-mark-16/)
+on the long ending of Mark and the Book of Mormon.
 
 
 [^blumell]: In general, see section "11. Mark 16:9–20 KJV" in [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5) by BYU religion professor [Lincoln Blumell](https://religion.byu.edu/lincoln_blumell).
