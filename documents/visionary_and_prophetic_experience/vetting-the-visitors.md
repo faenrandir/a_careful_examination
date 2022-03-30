@@ -73,7 +73,7 @@ At best, mistaking 1st party communication with 3rd party communication is somew
 * [Dad: God told me to kill my son](https://www.upi.com/Top_News/2009/02/12/Dad-God-told-me-to-kill-my-son/71281234475937/?ur3=1)
 * [God told me to kill boys, says mother](https://www.independent.co.uk/news/world/americas/god-told-me-to-kill-boys-says-mother-54427.html)
 * [Suspect says 'God told me to do it' after fatal crash](https://www.foxnews.com/us/suspect-says-god-told-me-to-do-it-after-fatal-crash)
-* [Mother murders daughter after God told her she was possessed by the devil](https://www.dailymail.co.uk/news/article-2325725/Nantucket-mother-Dora-Tejada-murdered-daughter-God-told-NOT-guilty.html)
+* [Mother murders daughter after God told her she was possessed by the devil](http://web.archive.org/web/20210126053350/https://www.dailymail.co.uk/news/article-2325725/Nantucket-mother-Dora-Tejada-murdered-daughter-God-told-NOT-guilty.html)
 * [Nurse killed 8 after claiming God would direct her "This is the one"](https://www.nytimes.com/2017/06/01/world/canada/nurse-killings-insulin.html?mcubz=0)
 * [Man moved by the spirit to test faith stabs son to death](https://www.upi.com/Archives/1982/01/28/A-Logan-man-pleaded-innocent-by-reason-of-insanity/6102381042000/)
 

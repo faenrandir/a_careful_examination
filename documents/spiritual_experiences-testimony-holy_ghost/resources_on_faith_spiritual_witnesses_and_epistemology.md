@@ -73,10 +73,10 @@ layout: page
 
 ### Conflict of Justice
 
-1. [Why Did Latter-Day Saints ‘Feel The Spirit’ From Paul H. Dunn’s Made-Up Stories?](http://www.conflictofjustice.com/mormons-feel-spirit-paul-h-dunns-stories/)
-1. [Is God’s Method Of Revealing Truth Through ‘Feelings’ Effective?](http://www.conflictofjustice.com/is-gods-method-of-revealing-truth-through-feelings-effective/)
-1. [Why Does Following The Holy Ghost Sometimes Lead To Failure?](http://www.conflictofjustice.com/following-holy-ghost-lead-failure/) 
-1. [Can We Feel The Spirit From R-Rated Movies?](http://www.conflictofjustice.com/feel-spirit-r-rated-movies-church/) 
+1. [Why Did Latter-Day Saints ‘Feel The Spirit’ From Paul H. Dunn’s Made-Up Stories?](http://web.archive.org/web/20210526234148/http://www.conflictofjustice.com/mormons-feel-spirit-paul-h-dunns-stories/)
+1. [Is God’s Method Of Revealing Truth Through ‘Feelings’ Effective?](http://web.archive.org/web/20210526234343/http://www.conflictofjustice.com/is-gods-method-of-revealing-truth-through-feelings-effective/)
+1. [Why Does Following The Holy Ghost Sometimes Lead To Failure?](http://web.archive.org/web/20210526234144/http://www.conflictofjustice.com/following-holy-ghost-lead-failure/)
+1. [Can We Feel The Spirit From R-Rated Movies?](http://web.archive.org/web/20210526234214/http://www.conflictofjustice.com/feel-spirit-r-rated-movies-church/)
 
 ### Uplift Community of Faith
 
