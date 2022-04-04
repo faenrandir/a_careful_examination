@@ -8,11 +8,35 @@ layout: page
 
 ## Introduction
 
-There are many parallels between King Bejamin's speech (found in Mosiah 2–5) and phrases and ideas already present in Joseph Smith's early 1800s milieu. This first section focuses on phrases/ideas from Mosiah 3:19. The second section looks more generally at Mosiah 2–5.
+There are many parallels between King Bejamin's speech (found in Mosiah 2–5) and phrases and ideas already present in Joseph Smith's early 1800s milieu. The first sections focus on phrases/ideas from specific verses.[^tompainesbones] The second section looks more generally at Mosiah 2–5, primarily in table form.
+
+## Service of your fellow beings
+
+#### 1611 - KJV New Testament (Greek manuscripts around 50-90 A.D.)
+
+“...use not liberty for an occasion to the flesh, but by love ***serve one another***.”  (Gal 5:13)
+
+#### Other books from the 1700 and 1800s
+
+* "ardently, and zealously engaging in ***the service of God, and of one another***"  [1703 - link](https://www.google.com/books/edition/A_Paraphrase_and_Commentary_on_the_New_T/gXNUAAAAYAAJ?hl=en&gbpv=1&dq=%22one+another%22+%22service+of+god%22&pg=PA67&printsec=frontcover)
+* "All relative duties, which are ***the services of God***, are also prescribed us; such as husbands to their wives, and wives to their husbands; also we have directions for children to their parents, and for parents to their children; so that ***while we serve one another, we serve God***.  These are divine institutions, and not human inventions. The ***wisdom*** and excellence of them surpass all others."  [1783 - link](https://books.google.com/books?id=PolhAAAAcAAJ&pg=PA267&dq=%22while+we+serve+one+another,+we+serve+god%22&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwi_pNmBwJz0AhVXo54KHZL1AfgQ6AF6BAgDEAM)
+* “***Now the best, the only way, to serve your Creator, is to serve your fellow-creatures***. The Almighty, universal Benefactor, cannot possibly be profited, or be in the least measure affected, by any thing we do.”  [1789 - link](https://www.google.com/books/edition/One_Hundred_and_Twenty_Popular_Sermons/gLAsAAAAYAAJ?hl=en&gbpv=1&dq=%22serve+your+fellow%22&pg=PA293&printsec=frontcover)
+* "You were created, not merely to please yourselves, but to ***serve your fellow-creatures, and honour your Maker***."  [1792 - link](https://www.google.com/books/edition/The_Works_of_Thomas_Secker/CD43AAAAMAAJ?hl=en&gbpv=1&dq=%22serve+your+fellow%22+lord&pg=PA142&printsec=frontcover)
+* "They will then discover that perennial spring of happiness which has hitherto been hidden from them, and exult in the enlivening fact, that ***by promoting the felicity of our fellow-creatures***, our own is insured, and that ***we serve God most truly when we serve them*** and ourselves most effectually as social and immortal beings."  [1813 - link](https://www.google.com/books/edition/The_Cambrian_visitor_a_monthy_miscellany/HL4HAAAAQAAJ?hl=en&gbpv=0)
+* "God hath made men the touch-stones of virtue to each other; ***if we serve our fellow-creatures*** to the utmost of our power, believing, as our reason plainly dictates, he hath placed us together for that purpose, ***we perform the first duties of religion, obedience to God***, which includes love and justice to man."  [1820 - link](https://www.google.com/books/edition/New_Britain_A_narrative_of_a_journey_by/MUFWAAAAcAAJ?hl=en&gbpv=1&dq=when+we+serve+our+fellow&pg=PA168&printsec=frontcover)
+* "***Then only you may be said to trust in God***, when, by an honest industry, and active benevolence, you do your best to provide for your respective families, and ***serve your fellow creatures***."  [1824 - link](https://www.google.com/books/edition/Practical_Sermons_selected_from_the_manu/k92jX_RxgQYC?hl=en&gbpv=1&dq=%22serve+your+fellow+creatures%22&pg=PA79&printsec=frontcoverv)
+* "Your prayers and readings, your meditations and reflections, have surely done little towards the purifying of your thoughts, and the improvement of your spirit, if they have not been the means of ***subduing the selfish principle***, and, by impelling you to benevolent offices in ***the service of your fellow-creatures, of drawing you nearer to Him***, whose sublimest attribute is LOVE."  [1825 - link](https://www.google.com/books/edition/The_Ten_Commandments_Illustrated_and_Enf/5VgHAAAAQAAJ?hl=en&gbpv=1&dq=%22service+of+your+fellow%22&pg=PA92&printsec=frontcover)
+* "Thirdly, 'That ***we serve God*** only when we engage in acts of devotion.’  This is an error of ignorance; for ***we also serve God acceptably, when we serve mankind*** in obedience to him"  [1826 - link](https://www.google.com/books/edition/Sketches_of_Sermons_Preached_to_Congrega/_cs3AQAAMAAJ?hl=en&gbpv=1&dq=%22when+we+serve%22+%22serve+god%22&pg=PA18&printsec=frontcover)
+* “The first is, that while you perform diligently and faithfully the offices of your various stations - while you provide for the comfort of your children, and your own decent support - while you are good husbandmen, good servants, and good masters of families, you may ***not be discouraged by any idle fears, that you are not serving God***.”  [1828 - link](https://www.google.com/books/edition/The_Works_of_Samuel_Parr/SDl5aUdVDTcC?hl=en&gbpv=1&bsq=%22not%20serving%20god%22)
+* "The ministry which you have received in the Lord is characterized by the highest order of benevolence. It is ***not so much to serve the Lord, as to serve your fellow men***, that you have received your ministry; at least ***you serve the Lord Jesus Christ by ministering to them***."  [1828 - link](https://www.google.com/books/edition/Services_at_the_Ordination_of_the_Rev_Sa/hVNVAAAAcAAJ?hl=en&gbpv=1&dq=%22serve+your+fellow%22&pg=PA54&printsec=frontcover)
+
+#### Compare to Mosiah 2:17 from the Book of Mormon
+
+Joseph Smith dictated this verse sometime in 1829 or 1830:
+
+17 And behold, I tell you these things that ye may learn ***wisdom***; that ye may learn that ***when ye are in the service of your fellow beings ye are only in the service of your God***.
 
 ## The natural man is an enemy to God
-
-*Note: This analysis of [Mosiah 3:19](https://abn.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3.19?lang=eng) is modified from reddit user `tompainesbones`'s [post](https://www.reddit.com/r/mormon/comments/tgbl59/cross_referencing_the_natural_man_in_mosiah_319/) on the topic.*
 
 #### 1611 - KJV New Testament (Greek manuscripts around 50-90 A.D.)
 
@@ -169,3 +193,6 @@ heart?</td>
 <td style="width:15%;" valign="top">Revelation 19:6</td>
 </tr>
 </table>
+
+
+[^tompainesbones]: The analysis of [Mosiah 2:17](https://abn.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.17?lang=eng) is modified from reddit user `tompainesbones`'s [post](https://www.reddit.com/r/mormon/comments/tj2d5f/cross_referencing_service_of_your_fellow_beings/) and the analysis of [Mosiah 3:19](https://abn.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3.19?lang=eng) is modified from their post [here](https://www.reddit.com/r/mormon/comments/tgbl59/cross_referencing_the_natural_man_in_mosiah_319/). Used with their permission.
