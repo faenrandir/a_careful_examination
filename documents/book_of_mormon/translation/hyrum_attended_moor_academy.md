@@ -107,4 +107,5 @@ Sketches of the Alumni of Dartmouth College by the Rev. George T. Chapman, D.D.,
 
 ## See also
 
-[Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/)
+* [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/)
+* [Other Scriptures: Grief, Gratitude, and the Haudenosaunee Great Peace](https://www.youtube.com/watch?v=RwS1r9kpglI) (Thomas Murphy discusses Moor's beginning at ~17:10)
