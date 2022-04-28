@@ -94,19 +94,11 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
     Light would need to be able to enter the hat at least sporadically in order for Joseph to be able to view the material on the manuscript.
 
-
-    Even though Emma, William Smith, and David Whitmenr variously described Joseph pressing his face into the hat to exclude all light, David Whitmer also once [said that](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) Joseph Smith was merely "placing his face _close to_ [a deep hat]" (emphasis added).  So, although the weight of the witness testimony favors Joseph putting his face up to the hat, one description allows for some space.
-
-    Even if we accept the accounts that his face was pressed to the hat, some possibilities still present themselves:
-    * Presumably, Joseph would pull his head away from the hat in order to dictate the words—it is difficult to imagine that his speech would be clear enough were he to dictate _into_ the hat.  So, each verbal communication afforded a chance for light to enter the hat and for him to gaze down into the hat before sealing his face to it.
-    * It is very difficult to perfectly seal one's face to the mouth of a circular hat.  Furthermore, [Joseph's face was somewhat elongated](http://mormonhistoricsites.org/wp-content/uploads/2013/04/Skulls-and-Crossed-Bones-A-Forensic-Study-of-the-Remains-of-Hyrum-and-Joseph-Smith.pdf), making a perfect seal around a circular hat likely something difficult to acheive.  Regardless of the tightness of the seal itself, simply tilting one's head slightly can allow streams of light to enter from various angles.
-    * Most of the top hats of the era had ribbons running around them.  Perhaps a slit or two could have been prepared beneath the ribbon.  Then, when translation was to proceed, the ribbon could be slid slightly up or down while fingers could simultaneously obscure the slit from observers.  The slit could allow in light.
-    * The seams around the top of the hat (so the bottom of the hat during translation) may have been somewhat loose.  The rock could have helped to open the seams to allow in some light.
-    * I cannot find a primary source on it, but [Criddle notes](https://www.youtube.com/watch?v=utDU45lm210&list=PLCC85CE4017A42CE3) that Joseph owned a "big white hat" and most of the recent LDS artwork depicting the translation process show Joseph with a white hat (e.g., [this image](https://knowhy.bookofmormoncentral.org/sites/default/files/knowhy-img/2016/4/extra/seer/joseph-smith.jpg) used [at Book of Mormon Central](https://knowhy.bookofmormoncentral.org/content/why-is-a-seer-greater-than-a-prophet)).  A white hat obviously reflects direct and ambient light better than a dark hat, so a light hat would have helped to harness any available light for purposes of viewing a manuscript fragment concealed within it.
-
-    Bill Reel apparently has in his possession a white top hat like Jopseh might have used.  [RFM remarked](https://radiofreemormon.org/2020/05/radio-free-mormon-161-magic-and-the-book-of-mormon/) that the material was fairly translucent, allowing a fair amount of light through the white material.
-
-    Further work should quantify and more rigorously document the apparent translucence of the hat.
+    Martin Harris once described the hat Joseph used for finding lost objects
+    as being "white"[^martin_harris_white_hat] and some informal
+    experimentation with a similar white hat from the era demonstrated that
+    text could be viewed within it, in part because the material was somewhat
+    translucent.[^bill_reel_hat_experiment]
 
 ### Doing the math
 
@@ -195,3 +187,18 @@ The following find a good explanation with the manuscript in a hat theory.  _Thi
 1. Theology reminiscent of Sidney Rigdon appears in the book
 
     Although scant evidence of a chronological nature implicates Rigdon in the translation process of the Book of Mormon (which is expected if his participation was meant to be obscured by the participants), [Rigdon-esque theology appears throughout the Book of Mormon](http://www.mormonthink.com/mormonstudiesrigdon.htm#16).  The manuscript-in-a-hat theory gives more room for Rigdon to have participated in the creation of an initial, or perhaps, ongoing manuscript.  See [Criddle's work](http://www.mormonthink.com/mormonstudiesrigdon.htm) on Rigdon's possible influence on the Book of Mormon.
+
+[^light_color]: A white hat obviously reflects direct and ambient light better than a dark hat, so a light hat would have helped to harness any available light for purposes of viewing a manuscript fragment concealed within it.
+
+[^what_if_not_white]: Even if the hat were not light/translucent, it is still possible that enough light could be used to view material hidden within it.
+    * Even though Emma, William Smith, and David Whitmer variously described Joseph pressing his face into the hat to exclude all light, David Whitmer also once [said that](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2016-04-11/welch_the_miraculous_translation_of_the_book_of_mormon_opening_the_heavens.pdf) Joseph Smith was merely "placing his face _close to_ [a deep hat]" (emphasis added).  So, although the weight of the witness testimony favors Joseph putting his face up to the hat, one description allows for some space.
+    * Presumably, Joseph would pull his head away from the hat in order to dictate the words—it is difficult to imagine that his speech would be clear enough were he to dictate _into_ the hat.  So, each verbal communication afforded a chance for light to enter the hat and for him to gaze down into the hat before sealing his face to it.
+    * It is very difficult to perfectly seal one's face to the mouth of a circular hat.  Furthermore, [Joseph's face was somewhat elongated](http://mormonhistoricsites.org/wp-content/uploads/2013/04/Skulls-and-Crossed-Bones-A-Forensic-Study-of-the-Remains-of-Hyrum-and-Joseph-Smith.pdf), making a perfect seal around a circular hat likely something difficult to achieve.  Regardless of the tightness of the seal itself, simply tilting one's head slightly can allow streams of light to enter from various angles.
+    * Most of the top hats of the era had ribbons running around them.  Perhaps a slit or two could have been prepared beneath the ribbon.  Then, when translation was to proceed, the ribbon could be slid slightly up or down while fingers could simultaneously obscure the slit from observers.  The slit could allow in light.
+    * The seams around the top of the hat (so the bottom of the hat during translation) may have been somewhat loose.  The rock could have helped to open the seams to allow in some light.
+
+[^martin_harris_white_hat]: In an interview in 1859, Martin Harris described the process Joseph used for finding lost objects:"He took [the stone] [out] and placed it in his hat–**the old white hat**–and placed his face in his hat."
+
+[^bill_reel_hat_experiment]: Bill Reel apparently has in his possession a white top hat like Jopseh might have used.  [RFM remarked](https://radiofreemormon.org/2020/05/radio-free-mormon-161-magic-and-the-book-of-mormon/) that the material was fairly translucent, allowing a fair amount of light through the white material.
+
+
