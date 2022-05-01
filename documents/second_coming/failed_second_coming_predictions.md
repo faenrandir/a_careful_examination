@@ -131,7 +131,7 @@ To Henry Harmon, 1837-04-23 "The destroyer shall not have power over thee to tak
 
 From [the Journal of Wilford Woodruff](https://catalog.churchofjesuschrist.org/assets?id=ed47e448-2936-4a1d-a4d8-4b5f96a8d1ac&crate=0&index=206) [Transcription by /u/japanesepiano]
 
-Also reported in Establishing Zion by Eugene Campbell (faithful scholar) on pg 194:
+Also reported in Establishing Zion by Eugene Campbell (an LDS-faithful scholar) on pg 194:
 
 > On 8 March (1857), Woodruff attended a meeting during which Young alluded to the city of Enoch and its inhabitants, which Mormons believe was physically removed from the earth because of righteousness. Young suggested that within 125 years the Saints along with the portion of the earth they occupied would be separated from the wicked.
 
@@ -139,7 +139,7 @@ Also reported in Establishing Zion by Eugene Campbell (faithful scholar) on pg 1
 
 ### Acknowledgments and Notes
 
-Several references to were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  Some were brought to my attention by reddit user japanesepiano.
+Several references were taken from a compilation by George D. Speer Sr. recorded [here](https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md).  Some were brought to my attention by reddit user japanesepiano.
 
-I have gone back to find links to original documents and LDS Church hosted content where possible.  
+I have gone back to find links to original documents and LDS Church hosted content where possible.
 

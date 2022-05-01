@@ -1,9 +1,18 @@
 ---
-title: "Modern second coming predictions"
+title: "Modern LDS second coming expectations and predictions"
 permalink: /modern-second-coming-predictions/
 doctype: notes
 layout: page
 ---
+
+# LDS leadership (general)
+
+* [Russell M Nelson: Quotes about the 2nd Coming](https://www.youtube.com/watch?v=YDY9x-4Qrf8)
+* D. Todd Christofferson, April 2019 General Conference: [Preparing for the Lord’s Return](https://www.churchofjesuschrist.org/study/general-conference/2019/04/44christofferson?lang=eng)
+* D. Todd Christofferson "... felt the unexpected need to prepare the world for the Second Coming while participating in a religious conference at the G20 summit in Buenos Aires, Argentina, in September [of 2018]". From Deseret News article April 7, 2019, [President Nelson makes impassioned plea for all to ‘come unto Christ’](https://www.deseret.com/2019/4/7/20670476/president-nelson-makes-impassioned-plea-for-all-to-come-unto-christ)
+* LDSLiving [6 ways Church leaders are preparing us for the Second Coming](https://www.ldsliving.com/6-ways-church-leaders-are-preparing-us-for-the-second-coming/s/89471)
+
+# Explicit
 
 ### Jodi Stoddard
 
