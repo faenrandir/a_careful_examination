@@ -123,7 +123,7 @@ short visitation rights) and persist in this state full of regret for what might
 been (missing out on living a life of complete joy and endless reproduction)
 if they fail to live very strict covenants.
 
-*A single unrepentant "sin", no matter how small, is enough to separate a person from God and their family for all of eternity.  Why would I want my children to believe that?*
+*A single unrepentant "sin", no matter how small, may be enough to separate a person from God and their family for all of eternity.  Why would I want my children to believe that?*
 
 ## An attitude of "doctrine over person"
 
