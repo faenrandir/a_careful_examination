@@ -9,21 +9,11 @@ layout: page
 
 ## Introduction
 
-These questions are designed to probe various aspects of the LDS Church's history and truth-claims.[^other_questions]  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders.
+These questions are designed to probe various aspects of the LDS Church's history and truth-claims.[^other_questions]  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders. Some kind of LDS-faithful response to each question is to be expected (see [the Appendix](#appendix)), but the ease with which different models fit the data may suggest that one model is superior to another in explaining all the data.
 
 The majority of links provided are to [LDS approved sources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) or to relatively neutral information repositories (such as wikipedia).
 
 _If any question contains incorrect information or is misleading in any way, please contact me, and I will fix it._
-
-#### Approaches to difficult questions
-
-One general way to deal with difficult questions is to suggest that God has been dispensing information "line upon line, precept upon precept, here a little and there a little" ([2 Nephi 28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30)).  On the other hand, we expect to see consistency in the unfolding of God's handiwork because God "is the same yesterday and today and forever" ([1 Nephi 10:18](https://www.lds.org/scriptures/bofm/1-ne/10.18)), "truth is knowledge of things as they are, and as they were, and as they are to come" ([D&C 93:24](https://www.lds.org/scriptures/dc-testament/dc/93.24)), and his house "...is a house of order, saith the Lord God, and not a house of confusion." ([D&C 132:8](https://www.lds.org/scriptures/dc-testament/dc/132.8)).
-
-Inconsistencies and difficulties may also be chalked up to the shortcomings and mistakes of men.  On the one hand, the Lord (apparently) declared, through Joseph Smith:
-
-> What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.
-
-Joseph Smith also emphasized "there is no error in the revelations which I have taught."[^no_error]  On the other hand, he reminded us "I never told you I was perfect" and "a prophet was a prophet only when he was acting as such."[^mistakes_of_men]  With caveats in place (i.e., revelation from God is perfect and all mistakes are from men), it is trivial, then, to take any event, doctrine, or teaching that is problematic and attribute it to the failures of men while attributing everything faith-promoting and wonderful to God's divine influence.  This is a tremendously powerful partitioning algorithm.[^partition_algorithm]  Its only weakness may be that it is too powerful---such an algorithm seems capable of divinizing any organization or individual to which it may be applied.
 
 # Questions
 
@@ -105,11 +95,24 @@ However, many data points [support a migration out of Africa beginning about 70,
 
 1. FairMormon acknowledges that there [was likely not a global flood 4,400 years ago](https://www.fairmormon.org/answers/Mormonism_and_science/Global_or_local_Flood#Question:_How_do_Latter-day_Saints_reconcile_scriptural_accounts_of_the_Flood_of_Noah_with_scientific_evidence_of_continuous_human_habitation_on_the_earth.3F).  If the Garden of Eden really was in Missouri, how did Adam and Eve migrate to the Middle East?  If Adam never actually lived in Missouri, then what are we to make of [Adam-ondi-Ahman](http://emp.byui.edu/satterfieldb/quotes/Adam-ondi-Ahman.html)?
 
+## Appendix
+
+#### approaches to difficult questions
+
+One general way to deal with difficult questions is to suggest that God has been dispensing information "line upon line, precept upon precept, here a little and there a little" ([2 Nephi 28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30)).  On the other hand, we expect to see consistency in the unfolding of God's handiwork because God "is the same yesterday and today and forever" ([1 Nephi 10:18](https://www.lds.org/scriptures/bofm/1-ne/10.18)), "truth is knowledge of things as they are, and as they were, and as they are to come" ([D&C 93:24](https://www.lds.org/scriptures/dc-testament/dc/93.24)), and his house "...is a house of order, saith the Lord God, and not a house of confusion." ([D&C 132:8](https://www.lds.org/scriptures/dc-testament/dc/132.8)).
+
+Inconsistencies and difficulties may also be chalked up to the shortcomings and mistakes of men.  On the one hand, the Lord (apparently) declared, through Joseph Smith:
+
+> What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.
+
+Joseph Smith also emphasized "there is no error in the revelations which I have taught."[^no_error]  On the other hand, he reminded us "I never told you I was perfect" and "a prophet was a prophet only when he was acting as such."[^mistakes_of_men]  With caveats in place (i.e., revelation from God is perfect and all mistakes are from men), it is trivial, then, to take any event, doctrine, or teaching that is problematic and attribute it to the failures of men while attributing everything faith-promoting and wonderful to God's divine influence.  This is a tremendously powerful partitioning algorithm.[^partition_algorithm]  Its only weakness may be that it is too powerful---such an algorithm seems capable of divinizing any organization or individual to which it may be applied.
+
 ## See also
 
 * [Truth-claim summaries and apologetics]({{ "/truth-claim-summaries/" | relative_url }})
 * [Five Key Facts]({{ "/five-key-facts/" | relative_url }})
 * [Bill Reel and Stake President ask five questions to LDS leadership]({{ "/bill-reel-stk-pes-ask-five-questions/" | relative_url }})
+* [220 Questions for Mormons with Doubting Loved Ones](http://questioningthechurch.blogspot.com/2019/10/220-questions-for-mormons-with-doubting.html)
 
 
 [^other_questions]: The LDS Church is capable of answering many questions about its history and truth-claims, and many of the answers cast the Church in a positive light.  Questions that frame the Church in a positive light are important---and missionaries and ecclesiastical leaders will be quick to ask and answer those questions---but difficult questions are similarly important for exploring the boundaries and potential contradictions found within LDS theology, history, and epistemology.  In science, at least, it is the question that is not easily answered that often motivates truth-seekers to find new---or refine existing---models describing reality.
