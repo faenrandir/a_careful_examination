@@ -100,11 +100,11 @@ Others who maligned the character of Brotherton and countered her claim that LDS
 * Although he likely was not aware of those practicing polygamy at the time, one of the most vociferous claims that Brotherton was lying was provided by Parley P. Pratt in [the August 1842 Millenial Star](https://faenrandir.github.io/a_careful_examination/millenial-star-denial-aug-1842/). However, within 2 years, Parley P. Pratt would take Elizabeth Brotherton---Martha's sister---as a polygamous wife.
 * Elizabeth Brotherton and Mary Brotherton concurred with the testimony of their brother-in-law and husband (respectively) J. McIlwrick that Brotherton was "a wilful inventor of lies" and "has also to my certain knowledge at sundry times, circulated lies of a base kind, concerning those whom she knew to be innocent of what she alleged against them." Within 2 years and 9 years respectively, the Brotherton sisters would become plural wives of Parley P. Pratt (for Mary, see [Meg Stout analysis](https://www.millennialstar.org/who-was-john-mcilwrick/)).
 
-Regardless of their defense of Joseph Smith himself, nearly all other individuals[^besides_mcilwrick] whom the Prices used to argue that 
+Regardless of their defense of Joseph Smith himself, nearly all other individuals[^besides_mcilwrick] whom the Prices used in an effort to argue that Martha was lying would eventually---by their actions---acknowledged that LDS leadership were practicing plural marriage before the death of Joseph Smith.
 
 #### Theological coherence
 
-However, as explained in [Assessing the accuracy of Martha Brotherton's affidavit]({{ "/assessing-accuracy-brotherton-affidavit/" | relative_url }}), Brotherton's affidavit coheres with the basic theology of Joseph Smith's polygamy and significantly deviates from the claims made by Bennett about how Joseph Smith was practicing spiritual wifery. Most significantly:
+As explained in [Assessing the accuracy of Martha Brotherton's affidavit]({{ "/assessing-accuracy-brotherton-affidavit/" | relative_url }}), Brotherton's affidavit coheres with the basic theology of Joseph Smith's polygamy and significantly deviates from the claims made by Bennett about how Joseph Smith was practicing spiritual wifery. Most significantly:
 
 * Restoration of Old Testament polygamy
 * A ceremony was required
@@ -114,7 +114,7 @@ However, as explained in [Assessing the accuracy of Martha Brotherton's affidavi
 
 None of these were elements of Bennett's claims about Joseph practicing spiritual wifery.  Were Brotherton merely repeating or amplifying claims made by Bennett, then her story would not be expected to cohere so well with Joseph Smith's polygamy theology but would have been expected to cohere with Bennett's claims of spiritual wifery.
 
-In addition, her affidavit resonates with several other historical accounts of Joseph Smith's polygamy (e.g., use of emissaries, invitation into the red brick store for the proposal [Mary Elizabeth Rollins]).
+In addition, her affidavit resonates with several other historical accounts of Joseph Smith's polygamy (e.g., use of emissaries and invitation into the red brick store for the proposal of Mary Elizabeth Rollins).
 
 ### Splitting hairs
 
