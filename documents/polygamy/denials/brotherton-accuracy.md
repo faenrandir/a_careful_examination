@@ -27,9 +27,9 @@ Bennett recorded his thoughts after visiting Martha in St. Louis and reports the
 
 Female literacy was at [about 50% in England](https://www1.umassd.edu/ir/resources/laboreducation/literacy.pdf)[^britishlabourforce] when Brotherton's family left, so it is not unreasonable to believe that she was able to read and write.
 
-### Martha does not mention the meeting or Bennet's influence
+### Martha does not mention the meeting or Bennett's influence
 
-In her letter to the St. Louis Bulletin, Martha does not refer to a private meeting between her and Bennett, instead conveying that her affidavit was merley in response to Bennett's newspaper solicitation.
+In her letter to the St. Louis Bulletin, Martha does not refer to a private meeting between her and Bennett, instead conveying that her affidavit was merely in response to Bennett's newspaper solicitation.
 
 > DEAR SIR [to Bennett]: -- I left Warsaw a short time since for this city, and having been called upon by you, **through the "Sangamo Journal,"** to come out and disclose to the world the facts of the case in relation to certain propositions made to me at Nauvoo, by some of the Mormon leaders, I now proceed to respond to the call, and discharge what I consider to be a duty devolving upon me as an innocent, but insulted and abused female. 
 
