@@ -65,6 +65,6 @@ Until/unless progeny via a polygamous reliationship is discovered, it is difficu
 
 [^temporal_pregnancy]: First heard of Joseph Smith's pattern of conception from [this post](https://www.reddit.com/r/mormon/comments/lt5wvh/next_time_someone_says_joseph_smith_didnt_have/) by reddit user n8s8p.
 
-[^testing_joseph_smith_progeny]: Articles discussing the extent of genetic testing include [this 2016 article from Deseret News](https://www.deseret.com/2016/6/13/20590178/joseph-smith-apparently-was-not-josephine-lyon-s-father-mormon-history-association-speaker-says).  Don Bradley had recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) but from private communication it appears that Perego has already tested this case (and found it to be negative).
+[^testing_joseph_smith_progeny]: See Ugo Perego's 2019 article [Resolving a 150-year-old paternity case in Mormon history using DTC autosomal DNA testing of distant relatives](https://www.sciencedirect.com/science/article/pii/S1872497319300663).
 
 [^disputed_by_blake_ostler]: In a facebook communication, Blake Ostler expressed skepticism in Quinn's analysis: "Michael Quinn needs to look again at conception dates again. Moreover, he failed to account for premature births - -check it out." I have not yet re-analyzed Quinn's assessment.
