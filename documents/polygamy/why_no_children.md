@@ -6,19 +6,11 @@ doctype: short-analysis
 layout: page
 ---
 
-1. The pattern of conception of Joseph's children with Emma suggests his
-   ability to control impregnation generally.
+1. The pattern of conception of Joseph's children with Emma suggests his ability to control impregnation generally.
 
-    Joseph had eight children with Emma.  D. Michael Quinn points out [in
-    Early Mormonism and the Magic World
-    View](https://preview.redd.it/bx53sy00kvj61.png?width=691&format=png&auto=webp&s=85422f8a32fe86b55d2415b594cb51dca440d25c)
-    that "all of Smith's children were conceived in either February or
-    September" corresponding to what Quinn suggests was a belief that in these
-    months sexual generation was governed by Smith's ruling planet Jupiter.
+    Joseph had eight children with Emma.  D. Michael Quinn points out [in Early Mormonism and the Magic World View](https://preview.redd.it/bx53sy00kvj61.png?width=691&format=png&auto=webp&s=85422f8a32fe86b55d2415b594cb51dca440d25c) that "all of Smith's children were conceived in either February or September" corresponding to what Quinn suggests was a belief that in these months sexual generation was governed by Smith's ruling planet Jupiter.[^disputed_by_blake_ostler]
 
-    His apparent ability to control the month of conception for all eight
-    children with his first wife Emma suggests that he was capable of
-    controlling impregnation generally.[^temporal_pregnancy]
+    His apparent ability to control the month of conception for all eight children with his first wife Emma suggests that he was capable of controlling impregnation generally.[^temporal_pregnancy]
 
 1. Joseph was likely not having much sex with his plural wives in comparison to Emma.
 
@@ -53,18 +45,11 @@ layout: page
     
     Some LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, given his sealing to a 7 month pregnant woman, Zina Diantha Huntington Jacobs, it is reasonable to suggest that raising up seed was not always an immediate concern in his practice of polygamy.
 
-1. All of the various possible descendants have not yet been tested for paternity yet.
+1. All possible descendants have not yet been tested for paternity.
 
-    Genetic tests have been confirmed to rule out paternity for the seven most
-    likely candidates.
+    Ugo Perego, the main geneticist responsible for testing Joseph Smith's progeny,[^testing_joseph_smith_progeny] in a private communication in 2022 answered my question "Has every possible candidate for a Joseph Smith descendant been tested for paternity yet?":
 
-    The Deseret News [summarized Ugo Perego's presentation](https://www.deseret.com/2016/6/13/20590178/joseph-smith-apparently-was-not-josephine-lyon-s-father-mormon-history-association-speaker-says):
-
-    > In the past, seven sons (Orrison Smith, Moroni Pratt, Zebulon Jacobs, Mosiah Hancock, Oliver Buell, John Hancock and Don Alonzo Smith) were ascribed to Joseph Smith through polygamous unions. Negative findings resulted after DNA testing was employed to reconstruct Joseph Smith’s male Y chromosome signature and to compare it to the Y chromosome of male descendants of the alleged sons.
-
-    However, Hales assembled a list of potential progeny [Allegations of Joseph's Paternity](http://josephsmithspolygamy.org/wordpress/wp-content/uploads/2016/06/Possible-Children-chart.jpg), and [a 2007 article](https://www.deseret.com/2007/11/10/20052616/dna-tests-rule-out-2-as-smith-descendants), also summarizing Perego's work, states that "approximately 12 people [were] alleged to have been Smith's children."
-
-    In fact, Don Bradley recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) and is currently doing Y-chromosomal testing to confirm or falsify his hypothesis.
+    > "Hi. Not all the potential candidates have been tested. Some died in infancy and we don’t know where they are buried. I tested the one Don Bradley is talking about and it was negative as well. So, the true answer is that out of all those that I was able to test, they were all negative. ..."
 
 1. For the polyandrous unions, Joseph may have been competing for fertilization with an existing married partner
 
@@ -79,3 +64,7 @@ layout: page
 Until/unless progeny via a polygamous reliationship is discovered, it is difficult to know with absolute certainty that Joseph Smith was having sex with anyone except Emma.  Still, as discussed above, a variety of possibilities exist to help potentially account for Joseph Smith not impregnating his plural wives.  Regardless of direct DNA evidence from progeny, [significant first-hand testimony exists that Joseph did have sex with many of his wives]({{ "/evidence-of-sex-in-joseph-smith-polygamy/" | relative_url }}).  In addition, other early practioners of polygamy---who were introduced to the practice by Joseph Smith---were impregnating their wives (e.g., Brigham Young), so we have good reason to believe that Joseph's polygamy was not practiced in radically different terms (i.e., completely asexual).
 
 [^temporal_pregnancy]: First heard of Joseph Smith's pattern of conception from [this post](https://www.reddit.com/r/mormon/comments/lt5wvh/next_time_someone_says_joseph_smith_didnt_have/) by reddit user n8s8p.
+
+[^testing_joseph_smith_progeny]: Articles discussing the extent of genetic testing include [this 2016 article from Deseret News](https://www.deseret.com/2016/6/13/20590178/joseph-smith-apparently-was-not-josephine-lyon-s-father-mormon-history-association-speaker-says).  Don Bradley had recently (December 24, 2018) [claimed that he had identified a child of Joseph Smith by polygamy](https://imgur.com/HK3z6gx) but from private communication it appears that Perego has already tested this case (and found it to be negative).
+
+[^disputed_by_blake_ostler]: In a facebook communication, Blake Ostler expressed skepticism in Quinn's analysis: "Michael Quinn needs to look again at conception dates again. Moreover, he failed to account for premature births - -check it out." I have not yet re-analyzed Quinn's assessment.
