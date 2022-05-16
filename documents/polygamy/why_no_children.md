@@ -6,6 +6,18 @@ doctype: short-analysis
 layout: page
 ---
 
+## Introduction
+
+The dominant scholarly position[^some_skeptical_of_smith_polygamy] is that Joseph Smith was married/sealed to between 30 and 40 women. While many of his plural wives gave [first-hand accounts](https://faenrandir.github.io/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/) that they had sexual relations with Joseph Smith, [scholars debate](https://josephsmithspolygamy.org/dialogues/hales-vogel-2/) whether sexual relations extended to wives who were already married to other husbands and the youngest teenagers ([particularly 14 year old Helen Mar Kimball](https://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)). Regardless, since Joseph [had many children](https://en.wikipedia.org/wiki/Children_of_Joseph_Smith) with Emma, the question naturally arises: if Joseph Smith was practicing polygamy with so many women and sexual relations were part of some or all of them, **why did Joseph not produce offspring with these other women?**
+
+## Possible reasons
+
+Below are _possible_ solutions to the above stated problem. Given that the practice of polygamy in the early LDS Church was extremely secretive and participants were likely highly motivated to conceal evidence of sexual relations, it is unlikely that a single solution will ever be well-corroborated, but individually or collectively the following provide plausible reasons for the discrepancy between progeny with Emma and lack of progeny with other wives/sealants.
+
+1. Joseph may not have engaged in sexual relations with some of his wives.
+
+    While this is hotly contested among scholars of Mormonism, Brian Hales suggests that unions for "eternity alone" (e.g., with the youngest Helen Mar Kimball and relationships with women who were already legally married to other husbands) may not have included a sexual component.
+
 1. The pattern of conception of Joseph's children with Emma suggests his ability to control impregnation generally.
 
     Joseph had eight children with Emma.  D. Michael Quinn points out [in Early Mormonism and the Magic World View](https://preview.redd.it/bx53sy00kvj61.png?width=691&format=png&auto=webp&s=85422f8a32fe86b55d2415b594cb51dca440d25c) that "all of Smith's children were conceived in either February or September" corresponding to what Quinn suggests was a belief that in these months sexual generation was governed by Smith's ruling planet Jupiter.[^disputed_by_blake_ostler]
@@ -68,3 +80,5 @@ Until/unless progeny via a polygamous reliationship is discovered, it is difficu
 [^testing_joseph_smith_progeny]: See Ugo Perego's 2019 article [Resolving a 150-year-old paternity case in Mormon history using DTC autosomal DNA testing of distant relatives](https://www.sciencedirect.com/science/article/pii/S1872497319300663).
 
 [^disputed_by_blake_ostler]: In a facebook communication, Blake Ostler expressed skepticism in Quinn's analysis: "Michael Quinn needs to look again at conception dates again. Moreover, he failed to account for premature births - -check it out." I have not yet re-analyzed Quinn's assessment.
+
+[^some_skeptical_of_smith_polygamy]:  The dominant scholarly position is that Joseph Smith was married/sealed to at least 33 women and the LDS Church's essay [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng) includes a footnote to Brian Hales' work and notes "Careful estimates put the number between 30 and 40." Besides [Brian Hales](https://josephsmithspolygamy.org/), other scholars who conclude that Smith was married/sealed to upwards of 30 women include [Todd Compton](https://openlibrary.org/works/OL3269332W/In_sacred_loneliness) and [George D. Smith](https://byustudies.byu.edu/article/nauvoo-polygamy-but-we-called-it-celestial-marriage/) among many others. Despite the broad scholarly consensus, some have argued that Joseph Smith did not practice polygamy. See [this footnote](https://faenrandir.github.io/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/#fn:examples_of_polygamy_deniers) in my short compilation of [Contemporary evidence that Joseph Smith practiced polygamy](https://faenrandir.github.io/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/#fn:examples_of_polygamy_deniers).
