@@ -69,7 +69,7 @@ Perhaps the major difference between my past time as a devout member of the LDS 
     * [The Triple Path](http://triplepath.org/download)
 
 5. **Tools**: [to do]
-6. **Rituals**: Barbecue night with neighbors, skiing together as a family, cleaning the kitchen, doing the lawn, playing ultimate frisbee together, going to school performances, attending rock/classical concerts together, doing holiday celebrations with the neighbors that always include graham cracker houses, gathering around the gas fire for smores all provide a time to enjoy being together, working towards a common end, and reflecting on life, its challenges, and its joys.
+6. **Rituals**: Barbecue night with neighbors, dinner with family and extended family, skiing together, cleaning the kitchen, doing the lawn, playing ultimate frisbee together, going to school performances, attending rock/classical concerts together, doing holiday celebrations with the neighbors that always include graham cracker houses, gathering around the gas fire for smores all provide a time to enjoy being together, working towards a common end, and reflecting on life, its challenges, and its joys.
 
 ## Acknowledgement
 
