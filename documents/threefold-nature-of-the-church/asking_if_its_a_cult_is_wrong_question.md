@@ -1,5 +1,5 @@
 ---
-title: "Asking whether the Church is a cult is the wrong question."
+title: "Perhaps asking whether the Church is a cult is not the best question?"
 permalink: /asking-if-its-a-cult-is-wrong-question/
 maintopic: sociology-and-psychology
 doctype: notes
@@ -8,7 +8,7 @@ layout: page
 
 ### Introduction
 
-It is common for individuals to invoke the BITE model and other cultic research, showing how the LDS Church fits many (but not necessarily all) of those criteria, and then wondering if the LDS Church ought to be categorized as "a cult" ([for example](https://www.reddit.com/r/mormon/comments/g1janh/lets_discuss_cults_and_the_bite_model/)). These kinds of arguments are foundationally suspect because the legitimacy of the cult research movement as an academic enterprise is somewhat suspect.  Most researchers of the psychology and sociology of religion today would not consider the exercise of classifying a group as a "cult" particularly valid or helpful.
+It is common for individuals to invoke the BITE model and other cultic research, showing how the LDS Church fits many (but not necessarily all) of those criteria, and then wondering if the LDS Church ought to be categorized as "a cult" ([for example](https://www.reddit.com/r/mormon/comments/g1janh/lets_discuss_cults_and_the_bite_model/)). While that exercise may be useful in some ways (e.g., better understanding group influence and potential manipulation), the underlying question of whether an organization is a "cult" may not be the best focus from an academic perspective. Arguments about whether an organization is a "cult" are foundationally suspect on some level because the legitimacy of the cult research movement as an academic enterprise itself is somewhat suspect---most researchers of the psychology and sociology of religion today would not consider the exercise of classifying a group as a "cult" particularly valid or helpful.
 
 ### Historical Background
 
@@ -18,7 +18,7 @@ All of this research and focus culminated in the creation of the DIMPAC report (
 
 At that point, those who still wanted to pursue study in the vein of the DIMPAC report rallied together and created their own journals,  scientific societies, and conferences, and they become the counter-cult movement.  Hassan fits within this movement, as does Michael Langone, who summarizes the history of this split [here](https://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone).
 
-Everyone else studying psychology and sociology seems to have *dropped* counter-cult studies, and counter-cult studies have never regained scientific credibility on any large scale. Besides one publication by Hassan,[^exceptions] there are only a few peripheral counter-cult studies that have made it into respectable journals, but these are not mainstream counter-cult approaches.
+Everyone else studying psychology and sociology seems to have *dropped* counter-cult studies, and counter-cult studies have never regained scientific credibility on any large scale. Besides one publication by Hassan,[^exceptions] there are only a few peripheral counter-cult studies that have made it into respectable journals, and these do not represent main-stream counter-cult research.
 
 ### Academics today
 
