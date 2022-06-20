@@ -11,6 +11,7 @@ layout: page
 1. [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (youtube)
 1. [Testimonies of Other Faiths](https://testimoniesofotherfaiths.blogspot.com/) (collection of anecdotes)
 1. [Can prayer determine the will of God?](http://www.religioustolerance.org/god_pra6.htm) (preliminary study)
+1. [Elevation Emotion Studies](https://drive.google.com/file/d/1YYcp-aoAI_RHk1uwA2r49m3Ogb7sKS35/view?usp=sharing) (compilation of peer reviewed research )
 
 ## Analyses, interpretations, or questions
 
