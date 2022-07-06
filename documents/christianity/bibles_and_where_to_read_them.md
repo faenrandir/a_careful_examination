@@ -10,8 +10,9 @@ layout: page
 
 * [NRSV](https://www.biblestudytools.com/nrs/) (New Revised Standard Version) - "it is 'as literal as possible' in adhering to the ancient texts and only 'as free as necessary' to make the meaning clear in graceful, understandable English."
 * **New Oxford Annotated Bible**
-    * at last update latest is 5th edition, March 2018
-    * 3rd edition, 2001 to [borrow at archive.org](https://archive.org/details/newoxfordannotat00mich/mode/2up)
+    * 5th edition is latest, March 2018 (none online)
+    * 4th edition, 2010 [on archive.org](https://archive.org/details/the-new-oxford-annotated-bible-with-apocrypha-new-revised-standard-version-2018/mode/2up)
+    * 3rd edition, 2001 to [on archive.org](https://archive.org/details/newoxfordannotat00mich/mode/2up) (only to borrow)
 
 ## Even more literal
 
