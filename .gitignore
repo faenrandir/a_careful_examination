@@ -2,3 +2,6 @@
 documents/about_apostates/quote-setup.tex
 .sass-cache
 .python-version
+.bundle
+.ruby-version
+vendor
