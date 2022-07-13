@@ -46,7 +46,7 @@ Based on the above list and common descriptions ([for example](https://www.churc
 Since so many mental and physical states may be associated with feeling the
 Spirit, it's difficult to know for sure if others are feeling the same
 feelings/states (in part or in totality).  Still, certain expressions outside
-of the LDS faith seem consistent with with expressions that come from within
+of the LDS faith seem consistent with expressions that come from within
 the LDS faith:
 
 * [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (youtube compilation)
