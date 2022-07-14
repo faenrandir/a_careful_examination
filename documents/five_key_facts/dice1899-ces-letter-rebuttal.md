@@ -15,7 +15,7 @@ _Getting all the FAIR links is a work in progress_
 1. Part 2: Manipulation Techniques in the CES Letter & How to Avoid Them ([reddit](https://www.reddit.com/r/lds/comments/lgbxvy/part_2_manipulation_techniques_in_the_ces_letter/) \| FAIR)
 1. Part 3: CES Letter Book of Mormon Questions \[Section A\] ([reddit](https://www.reddit.com/r/lds/comments/ll9muk/part_3_ces_letter_book_of_mormon_questions/) \| FAIR)
 1. Part 4: CES Letter Book of Mormon Questions \[Section B\] ([reddit](https://www.reddit.com/r/lds/comments/lqwckl/part_4_ces_letter_book_of_mormon_questions/) \| FAIR)
-1. Part 5: CES Letter Book of Mormon Questions \[Section C\] ([reddit](https://www.reddit.com/r/lds/comments/lqwckl/part_4_ces_letter_book_of_mormon_questions/) \| FAIR)
+1. Part 5: CES Letter Book of Mormon Questions \[Section C\] ([reddit](https://www.reddit.com/r/lds/comments/lwdwm1/part_5_ces_letter_book_of_mormon_questions/) \| FAIR)
 1. Part 6: CES Letter Book of Mormon Questions \[Section D\] ([reddit](https://www.reddit.com/r/lds/comments/m1c12s/part_6_ces_letter_book_of_mormon_questions/) \| FAIR)
 1. Part 7: CES Letter Book of Mormon Questions \[Section E\] ([reddit](https://www.reddit.com/r/lds/comments/m6e1i6/part_7_ces_letter_book_of_mormon_questions/) \| FAIR)
 1. Part 8: CES Letter Book Of Mormon Questions \[Section F\] ([reddit](https://www.reddit.com/r/lds/comments/mbm84b/part_8_ces_letter_book_of_mormon_questions/) \| FAIR)
