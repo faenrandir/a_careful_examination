@@ -16,6 +16,7 @@ layout: page
 
 ## More significant
 
+* [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims)
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
@@ -30,9 +31,9 @@ layout: page
 
 ## Other
 
-* [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims)
-* [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
+* [Significant absurdities one must believe to accept Mormonism](https://docs.google.com/document/d/1yzkCZkhjp_WmU9n6xWjqO0-ivX-ppQ0HrRjy4ItZz-U/edit?usp=sharing) (google doc compilation)
+* [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
 
 *Additional resources and discussion can be found at the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 

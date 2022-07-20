@@ -1,4 +1,7 @@
 
+
+1. The [2008 Liahona](https://www.churchofjesuschrist.org/study/liahona/2008/06/questions-and-answers-whats-the-harm-in-trying-alcohol-or-tobacco-just-once?lang=eng) teaches: "You may think that trying alcohol or tobacco one time won’t hurt you, but it will. They are harmful substances, and **you cannot feel the Spirit if you partake of them.**"  However, the First Presidency and Quorum of the Twelve drank wine every week at their Temple sacrament meeting [until 1906](http://web.archive.org/web/20220504090955/https://www.fairlatterdaysaints.org/answers/Word_of_Wisdom/History_and_implementation).
+
 1. Tattoos violate one's "temple" but circumcision is a valid way to establish a covenant with God. ([credit](https://www.reddit.com/r/exmormon/comments/arpfhr/reminder_that_god_thinks_tattoos_violate_your/))
 
 1. In 1989, Glenn L. Pace stated that "A prophet doesn't take a poll to see which way the wind of public opinion is blowing", but the Church has just recently conducted a survey on the Temple which prompted the dropping of penalties associated with the endowment covenants. ([more](https://faenrandir.github.io/a_careful_examination/a-prophet-does-not-poll-to-see-wind-of-public-opinion))

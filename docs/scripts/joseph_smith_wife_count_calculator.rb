@@ -82,6 +82,7 @@ if __FILE__ == $0
   end
 
   date_str = ARGV.shift
+  p date_str
   comparison_date = Date.parse(date_str)
   wives_on_or_before = WIVES.take_while {|wife| wife.date <= comparison_date}
   output = {
