@@ -15,6 +15,13 @@ The oral composition model is discussed in some detail by William Davis in his d
 1. **Preparation and practice**: The timeline provides room for years of rumination and planning to have preceded the final compositional event.  And, even though this was not likely according to plan, the initial dictation of the lost 116 pages would have served as a warm-up period allowing Joseph significant practice in order to develop and refine his compositional abilities before dictating the text we now know as the Book of Mormon.
 1. **Mostly modular construction**: The Book of Mormon is mostly modular in its construction (i.e., it has [few dependencies from section to section](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4u158/) *generally*).  Where dependencies exist, those can be explained by him and/or Oliver [going back over the existing manuscript]({{ "/metcalfe-joseph-and-oliver-consulted-manuscript/" | relative_url }}), or perhaps simply due to his oral compositional abilities.
 
+## See also
+
+#### LDS Discussions
+
+* [Book of Mormon Issues](https://www.ldsdiscussions.com/bom-issues) (essays)
+* [Youtube videos](https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced) (interview on Mormon Stories; the first 10--15 or so focus on evidence suggesting a modern origin and/or "fingerprints" suggesting Joseph Smith's authorship.
+
 #### Vogel and Hamer
 
 * [1054-1055: Joseph Smith’s treasure digging](https://www.mormonstories.org/podcast/treasure-digging-dan-vogel/) (Dan Vogel)
@@ -33,7 +40,7 @@ The oral composition model is discussed in some detail by William Davis in his d
 * [Evidence of Oral Composition](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4l5gu/) (comment by ImTheMarmotKing)
 * [Explaining Consistencies](https://www.reddit.com/r/mormon/comments/bebfqs/the_book_of_mormon_is_far_more_impressive_than/el4u158/) (comment by ImTheMarmotKing)
 
-#### More background
+#### More
 
 * [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 * [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})
