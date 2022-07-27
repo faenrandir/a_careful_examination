@@ -68,7 +68,7 @@ According to Boyd K. Packer in a [2003 CES Fireside](https://speeches.byu.edu/ta
 
 ## Likely drafted to be used as a legal document
 
-The circumstantial evidence strongly suggests that the Proclamation was written as a legal document in response to court battles over same-sex marriage in which the church was engaged at the time.  As early as 1988 the church was working to influence legislation regarding same-sex marriage.  In March of 1995, the church was rejected as a party to the Baehr case in Hawaii because it failed to demonstrate having any "property" in the issue.  In 1997, the Proclamation was used as a legal exhibit in an amicus brief filed by the church.
+The circumstantial evidence strongly suggests that the Proclamation was written, at least in some substantial part, as a document meant to be used in court battles over same-sex marriage in which the church was engaged at the time.  As early as 1988 the church was working to influence legislation regarding same-sex marriage.  In March of 1995, the church was rejected as a party to the Baehr case in Hawaii because it failed to demonstrate having any "property" in the issue.  In 1997, the Proclamation was used as a legal exhibit in an amicus brief filed by the church.
 
 ---
 
