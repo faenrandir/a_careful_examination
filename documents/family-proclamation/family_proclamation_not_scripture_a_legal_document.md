@@ -5,11 +5,12 @@ doctype: short-analysis
 layout: page
 ---
 
-Sometimes a member will claim that "The Family: A Proclamation to the World" is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view it in that way, but close inspection suggests it is wrong to refer to the proclamation as scripture or revelation.
+Members of the LDS Church will sometimes claim that "The Family: A Proclamation to the World" is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view the document in this way, but Apostolic statements about the document during its first 20 years tend to stop just short of calling it "scripture" or "revelation" _directly_ (though it is sometimes strongly implied).
+
 
 ## None of the 15 have ever called it "scripture"
 
-The Proclamation has been called "scriptural" and "scipturelike" but it has never been given the appellation "scripture" by the 15.
+The Proclamation has been called "scriptural" and "scipturelike" but it has never been given the appellation "scripture" by the 15. Summarizing [this compilation by FAIR](https://www.fairlatterdaysaints.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F):
 
 * "A prophetic document", "inspired" ---Ballard
 * "An inspired document" ---Packer
@@ -68,7 +69,7 @@ According to Boyd K. Packer in a [2003 CES Fireside](https://speeches.byu.edu/ta
 
 ## Likely drafted to be used as a legal document
 
-The circumstantial evidence strongly suggests that the Proclamation was written, at least in some substantial part, as a document meant to be used in court battles over same-sex marriage in which the church was engaged at the time.  As early as 1988 the church was working to influence legislation regarding same-sex marriage.  In March of 1995, the church was rejected as a party to the Baehr case in Hawaii because it failed to demonstrate having any "property" in the issue.  In 1997, the Proclamation was used as a legal exhibit in an amicus brief filed by the church.
+The circumstantial evidence strongly suggests that the Proclamation was written as a legal document in response to court battles over same-sex marriage in which the church was engaged at the time.  As early as 1988 the church was working to influence legislation regarding same-sex marriage.  In March of 1995, the church was rejected as a party to the Baehr case in Hawaii because it failed to demonstrate having any "property" in the issue.  In 1997, the Proclamation was used as a legal exhibit in an amicus brief filed by the church.
 
 ---
 
