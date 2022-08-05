@@ -5,6 +5,8 @@ doctype: short-analysis
 layout: page
 ---
 
+[pre-draft form]
+
 ## Introduction
 
 A common refrain heard when members of the LDS Church express when discussing those
@@ -27,8 +29,17 @@ Official LDS literature includes an example of a member discussing how _they_ wo
 
 ### Guilt
 
+The [semi-official Encyclopedia of Mormonism](https://en.wikipedia.org/wiki/Encyclopedia_of_Mormonism) has an entry for "Apostate" and their explanation of Apostate behavior seems to hinge on "guilt" as the driving motivator for former members' continued attention:
 
-### Seeking others Misery
+> Apostates sometimes become enemies of the Church. Leaving the Church, which claims to be God’s official church, containing the fulness of the gospel, often results in feelings of guilt. While many return, others develop a need to defend their actions, “disprove” the Church, or become hostile enemies. The fruits of apostasy are generally bitter.
+
+The LDS blogger Jeremy Goff, in his article "Why Ex-Mormons Can’t Leave The Church Alone" writes:
+
+> Members who leave the church know that their actions are wrong. Deep inside they feel guilty that they are denying their witnesses from the Holy Ghost and forsaking Christ and His gospel. That guilt is demoralizing. They are faced with two options, have the integrity to admit they are wrong and repent, or lie to themselves and rationalize their actions.
+
+### Seeking others' Misery
+
+
 
 
 The intended effect of using the phrase seems to be the marginalization the former member and their perspective: the _content_ of a former member's concerns or expressions can be more easily dismissed whole-cloth without considering their substance because the former-member is merely on "auto-pilot"---they literally _cannot_ avoid attacking the Church.
@@ -102,28 +113,29 @@ processing a monumental life transition
 * perpetual reminders
 * not enough people who understand, so want to process with those who understand their
   life experience
-* 
-
 
 
 ## See also
 
 A variety of perspectives have been expressed on the topic.
 
+### Sympathetic
+
 * [They Can Leave the Church, But They Can’t Leave the Church Alone](https://briesweetly.medium.com/they-can-leave-the-church-but-they-cant-leave-the-church-alone-298cc12d399) (Brie Sweetly)
-* [Why People Leave The Church, But Can’t Leave It Alone](https://natebagley.medium.com/why-people-leave-the-church-but-cant-leave-it-alone-618163d439ce) (Nate Bagley)
-* [Why ex-mormons “can’t leave the church alone”](https://www.youtube.com/watch?v=xdBSmbNwBN8) (Zelph On the Shelf)
 * [Why is it that former Latter-day Saints leave the church but they can't leave it alone?](https://www.quora.com/Why-is-it-that-former-Latter-day-Saints-leave-the-church-but-they-cant-leave-it-alone) (Quora)
 * [You can leave the church, but they can't leave you alone](https://www.reddit.com/r/exmormon/comments/6pxkln/you_can_leave_the_church_but_they_cant_leave_you/) (anecdote from exmormon subreddit)
 * ["They leave the church but they can't leave it alone"](https://www.reddit.com/r/exmormon/comments/2xdkxz/they_leave_the_church_but_they_cant_leave_it_alone/) (anecdote from exmormon subreddit about PTSD)
 * [“They Can Leave the Church, But They Can’t Leave the Church Alone“ - Thoughts?](https://www.reddit.com/r/mormon/comments/i35fhc/they_can_leave_the_church_but_they_cant_leave_the/) (discussion on mormon subreddit)
+* [Exmormons can't leave it alone](https://www.youtube.com/watch?v=NuLBEx46qhQ) (My Spiritual Life youtube)
+* [Why ex-mormons “can’t leave the church alone”](https://www.youtube.com/watch?v=xdBSmbNwBN8) (Zelph On the Shelf youtube)
 
 ### LDS perspective
 
 * Encyclopedia of Mormonism entry ["Apostate"](https://contentdm.lib.byu.edu/digital/collection/EoM/id/5478)
-* (LDS Perspective) [Why People Who Leave the Church Can’t Leave It Alone](https://web.archive.org/web/20220804203959/https://www.calledtoshare.com/2020/05/25/why-people-who-leave-the-church-cant-leave-it-alone/) (argues that when a member leaves they have left neutral ground and are under the influence of Satan but they should still be loved and not shunned)
-* (LDS Perspective) [Why Ex-Mormons Can’t Leave The Church Alone.](https://web.archive.org/web/20211219084656/https://mylifebygogogoff.com/2019/12/why-ex-mormons-cant-leave-the-church-alone.html) ("It is important to understand that Anti-Mormons are not honest brokers. They are miserable and they seek that all men might be miserable like unto themselves.")
-
+* [Why People Who Leave the Church Can’t Leave It Alone](https://web.archive.org/web/20220804203959/https://www.calledtoshare.com/2020/05/25/why-people-who-leave-the-church-cant-leave-it-alone/) (argues that when a member leaves they have left neutral ground and are under the influence of Satan but they should still be loved and not shunned)
+* [Why Ex-Mormons Can’t Leave The Church Alone.](https://web.archive.org/web/20211219084656/https://mylifebygogogoff.com/2019/12/why-ex-mormons-cant-leave-the-church-alone.html) ("It is important to understand that Anti-Mormons are not honest brokers. They are miserable and they seek that all men might be miserable like unto themselves.")
+* [Why People Leave The Church, But Can’t Leave It Alone](https://natebagley.medium.com/why-people-leave-the-church-but-cant-leave-it-alone-618163d439ce) (Nate Bagley)
+* [Cutting a Little Slack for Ex-Mormon](https://www.arisefromthedust.com/cutting-little-slack-for-ex-mormons/) (Jeff Lindsay)
 
 
 [^leaving_quietly]: This is my sense from reading their work. Cragun and Reiss who have done extensive research on the question of LDS membership rates, demographics, and other related questions. Quantifying this kind of thing is difficult, and I would love to better substantiate this point.
