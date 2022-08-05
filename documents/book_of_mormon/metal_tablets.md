@@ -46,7 +46,9 @@ Other similarities from the early 1800s cultural milieu echo other aspects of th
 
 ### See also
 
-[Anachronisms: The Metal Codex and the Etruscan Gold Book](https://www.reddit.com/r/mormon/comments/gke3s9/anachronisms_the_metal_codex_and_the_etruscan/) (by ImTheMarmotKing)
+* [Anachronisms: The Metal Codex and the Etruscan Gold Book](https://www.reddit.com/r/mormon/comments/gke3s9/anachronisms_the_metal_codex_and_the_etruscan/) (by ImTheMarmotKing)
+* [Are There Other Ancient Records Like the Book of Mormon?](https://knowhy.bookofmormoncentral.org/knowhy/are-there-other-ancient-records-like-the-book-of-mormon)
+* [Is the Book of Mormon Like Other Ancient Metal Documents?](https://knowhy.bookofmormoncentral.org/knowhy/is-the-book-of-mormon-like-other-ancient-metal-documents) (an acknowledgement of the problem and attempt to reconcile with the data by appealing to later books and other calculations)
 
 ---
 
