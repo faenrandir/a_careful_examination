@@ -9,21 +9,32 @@ layout: page
 
 ## Introduction
 
-A common refrain heard when members of the LDS Church express when discussing those
-who have left and are still vocal about the Church, its history, or its
+A common refrain heard when members of the LDS Church express when discussing
+those who have left and are still vocal about the Church, its history, or its
 culture is "You can leave the Church but you can't leave it alone."
 
 The statement indicates that when a person leaves the Church they will
-(likely?) continue to argue against (or at least be interested in) the Church.  At its most
-innocuous, the statement may be viewed as neutral or value free---it is merely
-an _observation_ about the behavior of former members that they continue to be
-involved in or concerned with LDS matters. However, LDS literature (official and unofficial) frequently discusses former member motivations, and these statements give clear insight into the likely _intended_ meaning of the phrase.
+(likely?) continue to argue against (or at least be interested in) the Church.
+At its most innocuous, the statement may be viewed as neutral or value
+free---it is merely an _observation_ about the behavior of former members that
+they continue to be involved in or concerned with LDS matters even after
+having left. In that spirit, this document does not argue against the observation that at least some
+significant fraction of former members seem to fixate on the LDS Church, the
+actions of its leaders, its history, or its truth-claims for some length of
+time following their departure.[^survivorship_bias]
+
+However, members often use the statement in a manner to invalidate the
+perspective of former members. This document briefly explores the likely
+intended meaning of the phrase, examines the proportionality of behavior of former
+members in _contrast to_ active members of the Church, and then concludes by
+advancing and defending valid reasons why some members might focus on the
+LDS Church for some time even after their departure.
 
 ## LDS perspective
 
 ### Following the dictation of the evil one
 
-Official LDS literature includes an example of a member discussing how _they_ would leave Mormonism alone and not attack it anymore, and this example is frequently repeated.[^implication]  In this example, Joseph Smith responds to the individual claiming _they_ would leave "Mormonism" alone by saying,
+Official LDS literature includes a direct example of a member discussing how _they_ would leave Mormonism alone and not attack it, were they to leave the Church.  The example is found frequently in official LDS literature.[^implication]  In this example, Joseph Smith responds to the individual claiming that they would leave "Mormonism" alone were they to leave by saying:
 
 > When you [enlisted to serve God (by joining the Church)] you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant.’
 
@@ -37,29 +48,17 @@ The LDS blogger Jeremy Goff, in his article "Why Ex-Mormons Can’t Leave The Ch
 
 > Members who leave the church know that their actions are wrong. Deep inside they feel guilty that they are denying their witnesses from the Holy Ghost and forsaking Christ and His gospel. That guilt is demoralizing. They are faced with two options, have the integrity to admit they are wrong and repent, or lie to themselves and rationalize their actions.
 
-### Seeking others' Misery
+### The intended effect?
+
+The intended effect of using the phrase seems to be the marginalization of the former member and their perspective: the _content_ of a former member's concerns or expressions can be more easily dismissed whole-cloth without because, to the believing member, the former-member is merely on "auto-pilot"---why should a member carefully consider the perspective of a guilt-ridden agent of Satan seeking for others to be miserable like them (see [2 Nephi 2:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=27) and [Modern-Day Korihors](https://www.churchofjesuschrist.org/study/new-era/2013/03/modern-day-korihors?lang=eng))?
+
+## Proportionality
 
 
 
 
-The intended effect of using the phrase seems to be the marginalization the former member and their perspective: the _content_ of a former member's concerns or expressions can be more easily dismissed whole-cloth without considering their substance because the former-member is merely on "auto-pilot"---they literally _cannot_ avoid attacking the Church.
-
-
-
-
-### A matter of degree?
 
 ## Inaccurate?
-
-It may be inaccurate for many. My sense from reading the work of social
-scholars who study the LDS religion (e.g., Ryan Cragun and Jana Riess) is that
-the majority of those who leave do so quietly.[^leaving_quietly] Some
-experience a short phase where they are eager to share data and their new
-worldview, but applying an observation that only applies to some to the entire
-group may be a form of survivorship bias---members only notice the ones who
-were open and/or expressive about their concerns and fail to notice the many
-others who leave quietly (because the ones who left quietly are not really
-noticed or observed).
 
 ## Family entanglement
 
@@ -127,6 +126,7 @@ A variety of perspectives have been expressed on the topic.
 * ["They leave the church but they can't leave it alone"](https://www.reddit.com/r/exmormon/comments/2xdkxz/they_leave_the_church_but_they_cant_leave_it_alone/) (anecdote from exmormon subreddit about PTSD)
 * [“They Can Leave the Church, But They Can’t Leave the Church Alone“ - Thoughts?](https://www.reddit.com/r/mormon/comments/i35fhc/they_can_leave_the_church_but_they_cant_leave_the/) (discussion on mormon subreddit)
 * [Exmormons can't leave it alone](https://www.youtube.com/watch?v=NuLBEx46qhQ) (My Spiritual Life youtube)
+* [Why ExMormons can't leave the Church alone](https://open.spotify.com/episode/35MbCitmWkVRGbAZiAm0Lo) (The Tomsters Podcast)
 * [Why ex-mormons “can’t leave the church alone”](https://www.youtube.com/watch?v=xdBSmbNwBN8) (Zelph On the Shelf youtube)
 
 ### LDS perspective
@@ -140,3 +140,18 @@ A variety of perspectives have been expressed on the topic.
 
 [^leaving_quietly]: This is my sense from reading their work. Cragun and Reiss who have done extensive research on the question of LDS membership rates, demographics, and other related questions. Quantifying this kind of thing is difficult, and I would love to better substantiate this point.
 [^implication]: The story of Joseph Smith's response to Isaac Behunin, as recounted by Daniel Tyler (e.g., see [this lesson manual](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-27?lang=eng) is frequently conveyed in official LDS literature---a search on 2022-08-04 for the phrase "left the neutral ground" from the story retrieves 13 instances of its usage on churchofjesuschrist.org). The story begins with Isaac and Daniel visiting Joseph Smith and hearing Joseph recount among other things the "many false, inconsistent and contradictory statements made by apostates." Isaac responded by saying that if _he_ were to leave he would "go to some remote place where Mormonism had never been heard of, settle down, and no one would ever learn that I knew anything about it." Joseph Smith responded, according to Tyler, by saying that in joining the Church Isaac had "enlisted to serve God" and "When you did that you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant." Ben Arkell appeals directly to this story when discussing the idea that former members can leave but they can't leave it alone in [this essay](https://web.archive.org/web/20220804203959/https://www.calledtoshare.com/2020/05/25/why-people-who-leave-the-church-cant-leave-it-alone/).
+
+
+[^survivorship_bias]: While some former members clearly spend some time after their departure still focused on the LDS Church, it may be the case that many do not and the observation may, in fact, be a form of survivorship bias: the former members who are most noticed by LDS members are those who still engage.
+
+
+scholars who study the LDS religion (e.g., Ryan Cragun and Jana Riess) is that
+the majority of those who leave do so quietly.[^leaving_quietly] Some
+experience a short phase where they are eager to share data and their new
+worldview, but applying an observation that only applies to some to the entire
+group may be a form of survivorship bias---members only notice the ones who
+were open and/or expressive about their concerns and fail to notice the many
+others who leave quietly (because the ones who left quietly are not really
+noticed or observed).
+
+
