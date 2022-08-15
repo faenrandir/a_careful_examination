@@ -14,23 +14,28 @@ those who have left and are still vocal about the Church, its history, or its
 culture is "You can leave the Church but you can't leave it alone."
 
 The statement indicates that when a person leaves the Church they will
-(likely?) continue to argue against (or at least be interested in) the Church.
+(likely?) continue to argue against, or at least be interested in, the Church.
 At its most innocuous, the statement may be viewed as neutral or value
 free---it is merely an _observation_ about the behavior of former members that
 they continue to be involved in or concerned with LDS matters even after
-having left. In that spirit, this document does not argue against the observation that at least some
+having left. In fact, this document does not seek to counter the observation that at least some
 significant fraction of former members seem to fixate on the LDS Church, the
 actions of its leaders, its history, or its truth-claims for some length of
 time following their departure.[^survivorship_bias]
 
-However, members often use the statement in a manner to invalidate the
-perspective of former members. This document briefly explores the likely
-intended meaning of the phrase, examines the proportionality of behavior of former
-members in _contrast to_ active members of the Church, and then concludes by
-advancing and defending valid reasons why some members might focus on the
-LDS Church for some time even after their departure.
+However, members often use the statement in a manner that seems to invalidate the
+perspective of former members. This document briefly explores the history of
+the phrase and likely intended meaning of the phrase when used colloquially,
+examines the proportionality of behavior of former members in _contrast to_
+active members of the Church, and then concludes by advancing and defending
+valid reasons why some members might focus on the LDS Church for some time
+even after their departure.
 
-## LDS perspective
+## Historical analysis
+
+In 2008, LDS scholar Blair Dee Hodges investigated the origin of the phrase in [a detailed blog post](https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html) and, along with other helpful commenters, was able to piece together a reasonable chronology of its inception and usage.  He also pin-pointed the similarity between Maxwell's statement and a story, used frequently in official and unofficial LDS literature, where Joseph Smith describes the necessary trajectory of apostates if they leave the Church.
+
+
 
 ### Following the dictation of the evil one
 
@@ -116,7 +121,16 @@ processing a monumental life transition
 
 ## See also
 
-A variety of perspectives have been expressed on the topic.
+A variety of perspectives have been expressed on the topic (or are closely
+related).
+
+### Scholarly
+
+* [The Politics of Religious Apostasy](https://www.google.com/books/edition/The_Politics_of_Religious_Apostasy/CmFKAYRIwOMC?q=captivity+narrative+apostasy&gbpv=1#f=false) (general reference discussing narrative arcs)
+* [They leave the Church but can't leave it alone](https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html) (Blair Hodges)
+* [SW08006: PURPOSEFUL STRANGERS: A STUDY OF THE EX-MORMON NARRATIVE ](https://sunstone.org/sw08006-purposeful-strangers-a-study-of-the-ex-mormon-narrative/) (Seth Payne and Elise Johnson, Sunstone archived podcast, currently dead-link)
+* [Ex-Mormon and Other Emerging Mormon Identities](http://www.withoutend.org/ex-mormon-emerging-mormon-identities/) (post by Seth Payne)
+* Encyclopedia of Mormonism entry ["Apostate"](https://contentdm.lib.byu.edu/digital/collection/EoM/id/5478)
 
 ### Sympathetic
 
@@ -131,7 +145,6 @@ A variety of perspectives have been expressed on the topic.
 
 ### LDS perspective
 
-* Encyclopedia of Mormonism entry ["Apostate"](https://contentdm.lib.byu.edu/digital/collection/EoM/id/5478)
 * [Why People Who Leave the Church Can’t Leave It Alone](https://web.archive.org/web/20220804203959/https://www.calledtoshare.com/2020/05/25/why-people-who-leave-the-church-cant-leave-it-alone/) (argues that when a member leaves they have left neutral ground and are under the influence of Satan but they should still be loved and not shunned)
 * [Why Ex-Mormons Can’t Leave The Church Alone.](https://web.archive.org/web/20211219084656/https://mylifebygogogoff.com/2019/12/why-ex-mormons-cant-leave-the-church-alone.html) ("It is important to understand that Anti-Mormons are not honest brokers. They are miserable and they seek that all men might be miserable like unto themselves.")
 * [Why People Leave The Church, But Can’t Leave It Alone](https://natebagley.medium.com/why-people-leave-the-church-but-cant-leave-it-alone-618163d439ce) (Nate Bagley)
@@ -143,15 +156,3 @@ A variety of perspectives have been expressed on the topic.
 
 
 [^survivorship_bias]: While some former members clearly spend some time after their departure still focused on the LDS Church, it may be the case that many do not and the observation may, in fact, be a form of survivorship bias: the former members who are most noticed by LDS members are those who still engage.
-
-
-scholars who study the LDS religion (e.g., Ryan Cragun and Jana Riess) is that
-the majority of those who leave do so quietly.[^leaving_quietly] Some
-experience a short phase where they are eager to share data and their new
-worldview, but applying an observation that only applies to some to the entire
-group may be a form of survivorship bias---members only notice the ones who
-were open and/or expressive about their concerns and fail to notice the many
-others who leave quietly (because the ones who left quietly are not really
-noticed or observed).
-
-
