@@ -9,27 +9,30 @@ layout: page
 
 ## Introduction
 
-A common refrain when speaking about former members of the Church of Jesus
-Christ of Latter-day Saints is "they can leave, but they can't leave it
-alone."
+A refrain spoken by members of the Church of Jesus Christ of Latter-day
+Saints when referring to former members is "they can leave, but they can't
+leave it alone."
 
-The phrase is not ubiquitous,[^phrase_not_universal] and [brief historical
-analysis suggests it was coined sometime just before
-1980](https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html),[^acknowledgement]
-probably by Neal A. Maxwell.  Hodges suggests that Maxwell's phrase is "very
-similar in meaning" to Daniel Tyler's account relating Joseph Smith.  Several
-scriptural accounts (one from the New Testament and two from Restoration
-scripture) also seem similar in meaning.
+The phrase is probably unique to Latter-day Saints.[^phrase_not_universal]
+This document tracks its usage across time with enough context to appreciate
+its direct and implied meaning.[^acknowledgement]
+
+The phrase seems very similar to an 1892 account of Joseph Smith discussing
+apostates leaving "neutral ground" and also several scripture verses from both
+the Bible and Restoration scripture. The chronology begins with reminiscent
+scripture verses, then moves into usage of the 1892 account that is very
+similar, and finally documents instances where leaders used the phrase itself
+beginning with the first published usage in 1979 by Neal A. Maxwell.
 
 # Chronology
 
 ## Potential Scriptural Precedent
 
-The following is scriptural precedent [identified by Blair Hodges](https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html). Hodges cautions:
+The following are scriptures reminiscent of the phrase [identified by LDS scholar Blair Hodges](https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html). Hodges does caution:
 
 > There is also some precedence in LDS scripture for the idea that "apostates" have sinned, though I believe taking the verses too literally is problematic 
 
-###  Luke 11, "state of that man is worse than the first"
+###  Luke 11, "taketh to him ... other spirits more wicked than himself ... state of that man is worse than the first"
 
 [Luke 11:24-26](https://www.biblegateway.com/passage/?search=Luke%2011%3A24-26&version=KJV) states:
 
@@ -39,11 +42,13 @@ The following is scriptural precedent [identified by Blair Hodges](https://web.a
 
 > 26 Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first.
 
-### Alma 24:30 "state becomes worse than though they had never known"
+### Alma 24:30 "fallen away into sin and transgression ... their state becomes worse"
 
 [Alma 24:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=eng&id=30):
 
 > 30 And thus we can plainly discern, that after a people have been once enlightened by the Spirit of God, and have had great knowledge of things pertaining to righteousness, and then have fallen away into sin and transgression, they become more hardened, and thus their state becomes worse than though they had never known these things.
+
+See also 2 Nephi 31:12, "After ye have repented [and been baptised by water and HG] and after this should deny me, it would have been better for you that ye had not known me." and Alma 9:23, "if they [who have received so many blessings] should fall into transgression, it would be far more tolerable for the Lamanites than for them."
 
 ### D&C 93:38-39 "taketh away light and truth, through disobedience"
 
@@ -52,6 +57,8 @@ The following is scriptural precedent [identified by Blair Hodges](https://web.a
 > 38 Every spirit of man was innocent in the beginning; and God having redeemed man from the fall, men became again, in their infant state, innocent before God.
 
 > 39 And that wicked one cometh and taketh away light and truth, through disobedience, from the children of men, and because of the tradition of their fathers.
+
+See also D&C 121:17, "those who cry transgression [about "mine anointed"] do it because they are the servants of sin, and are the children of disobedience themselves."
 
 ## "leaves neutral ground"
 
