@@ -7,7 +7,7 @@ layout: page
 
 ### Introduction
 
-Models which suggesting a time for the existence of Adam and Eve should be informed by the context suggested by scripture.  The stories found in the LDS canon strongly suggest that Adam and Eve existed at or after the invention of agriculture (broadly defined, agriculture is the science and art of cultivating plants and livestock) and at or after the invention of writing.  And verses typically interpreted at face value strongly imply that Adam and Eve walked out of the Garden of Eden at about 4,000 BCE.
+Models suggesting a time when Adam and Eve existed should be informed by scriptural context.  The stories found in the LDS canon strongly suggest that Adam and Eve existed at or after the invention of agriculture (broadly defined, agriculture is the science and art of cultivating plants and livestock) and at or after the invention of writing.  And verses typically interpreted at face value strongly imply that Adam and Eve walked out of the Garden of Eden at about 4,000 BCE.
 
 ### Agriculture
 

@@ -462,7 +462,7 @@ Jeffrey R. Holland, [April General Conference 2004](https://www.lds.org/general-
 
 Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.lds.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
 
-### had an immature testimony and shallow committment to Jesus Christ
+### had an immature testimony and shallow commitment to Jesus Christ
 
 > More than at any time in our history, your students also need to be blessed by learning doctrinal or historical context and context by study and faith accompanied by pure testimony so they can experience a mature and lasting conversion to the gospel and a lifelong commitment to Jesus Christ.  Mature and lasting conversion means they will 'stay in the boat and hold on' throughout their entire lives.
 
@@ -473,6 +473,11 @@ M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in t
 > [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
 
 ["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
+
+## Misc
+
+* April 1982 Conference talk by Neal A. Maxwell, [A Brother Offended](https://www.churchofjesuschrist.org/study/general-conference/1982/04/a-brother-offended?lang=eng)
+* Address to CES Religious Educators by Jeffrey R. Holland, [Be Not Afraid, Only Believe](https://www.churchofjesuschrist.org/broadcasts/article/evening-with-a-general-authority/2015/02/helping-with-the-real-issues?lang=eng) ([LDS Living summary](https://www.ldsliving.com/elder-holland-gives-cant-miss-address-on-questions-doubt-and-faith/s/78123))
 
 ## Liahona Articles
 
@@ -503,6 +508,10 @@ These articles not written by LDS leadership, but they may be reflective of Chur
 * [How My Heart Changed When My Brother Left the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/how-my-heart-changed-when-my-brother-left-the-church?lang=eng) (Digital Only: Young Adults)
 * [What You Can Do When Others Don’t Believe](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/what-you-can-do-when-others-dont-believe?lang=eng) (Digital Only: Young Adults)
 * [Maintaining Hope and Keeping Your Marriage Strong If Your Spouse Leaves the Church](https://www.churchofjesuschrist.org/study/liahona/2021/04/digital-only-young-adults/maintaining-hope-and-keeping-your-marriage-strong-if-your-spouse-leaves-the-church?lang=eng) (Digital Only: Young Adults)
+
+## LDS Living
+
+* [Understanding a Faith Crisis: For Those Who Have Never Had One](https://www.ldsliving.com/understanding-a-faith-crisis-for-those-who-have-never-had-one/s/91261)
 
 ## Examples of how people are treated who leave the Church
 
