@@ -62,6 +62,13 @@ layout: page
         * [CES Reply: A Pointed Response to a Pointed Response](https://canonizer.com/blog/ces-reply-a-pointed-response-to-a-pointed-response/) (by Jim Bennett)
 1. [dice1899's CES Letter Rebuttal]({{ "/dice1899-sarah-allen-response-to-ces-letter/" | relative_url }}) (Sarah Allen)
     * [Runnells' response](https://cesletter.org/debunkings/the-ces-letter-rebuttal-fair-fairmormon-sarah-allen/)
+    * ImTheMarmotKing responses
+        * [KVJ Errors](https://www.reddit.com/r/mormon/comments/lld31r/ces_letter_response_kjv_errors/)
+        * [Book of Abraham Misinformation](https://www.reddit.com/r/mormon/comments/mqxw5y/clearing_up_some_book_of_abraham_misinformation/)
+        * [More on the Book of Abraham](https://www.reddit.com/r/mormon/comments/mwe0hw/more_on_the_book_of_abraham/)
+    * bwv549 responses
+        * [rebuttal on science issues](https://www.reddit.com/r/mormon/comments/tg6doz/a_short_exploration_of_dice1899s_ces_letter/)
+        * [response to Book of Mormon Translation Questions](https://www.reddit.com/r/mormon/comments/mgzde7/response_to_part_9_of_dice1899s_critique_of_the/)
 1. [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](https://journal.interpreterfoundation.org/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) (Kevin Christensen)
     * [Johnny Stephenson's response](https://cesletter.org/debunkings/kevin-christensen/sky-is-falling-debunking-mormon-interpreter-kevin-christensen-jeremy-runnells/)
         * [Image is Everything: Pay No Attention to the Man Behind the Curtain](https://journal.interpreterfoundation.org/image-is-everything-pay-no-attention-to-the-man-behind-the-curtain/) (a counter-response by Kevin Christensen)
@@ -76,7 +83,7 @@ layout: page
 ### Without responses by Runnells
 
 * [The CES Letter: A Closer Look](http://debunking-cesletter.com/) (page by page analysis, videos, and written responses)
-* [Conflict of Justice #CES Letter Fail](http://www.conflictofjustice.com/ces-letter-fail-contents/)
+* [Conflict of Justice #CES Letter Fail](http://web.archive.org/web/20210423205835/http://www.conflictofjustice.com/ces-letter-fail-contents/)
 * [Bamboozled by the "CES Letter"](http://shakenfaithsyndrome.com/bamboozle/bamboozled.pdf) (Michael Ash)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
