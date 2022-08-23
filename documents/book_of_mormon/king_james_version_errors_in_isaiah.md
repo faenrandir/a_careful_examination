@@ -132,7 +132,11 @@ Dan McClellan, the [Scripture Translation Supervisor for the LDS Church](https:/
 > articulation of the text in some way, shape, or form.
 
 
-These LDS scholar obversations seem consistent with the idea that the Book of Mormon is a preservation of the KJV Isaiah rather than approximating what we might expect from an ancient source.
+These LDS scholar observations seem consistent with the idea that the Book of Mormon is a preservation of the KJV Isaiah rather than approximating what we might expect from an ancient source.
+
+## See also
+
+[FAIR response to the Question: "If the Book of Mormon is an accurate translation, why would it contain translational errors that exist in the King James Bible?"](https://web.archive.org/web/20220604083647/https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Online_documents/Letter_to_a_CES_Director/Book_of_Mormon_Concerns_%26_Questions#Question:_If_the_Book_of_Mormon_is_an_accurate_translation.2C_why_would_it_contain_translational_errors_that_exist_in_the_King_James_Bible.3F)
 
 
 [^notonlyexamples]: The examples in the appendix are not the only examples of errors in the KJV by any means.  For example, Stan Spencer, and LDS researcher, has detailed [eight examples in Isaiah chapters 6 and 7](https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/) where a more accurate translation would likely follow the revised version (RV).  He writes: "The RV is essentially a corrected version of the KJV. If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. It does not. In every case it more closely follows the KJV."  He finishes his assessment by referring to these as "translation errors."

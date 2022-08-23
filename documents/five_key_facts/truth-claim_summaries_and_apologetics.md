@@ -70,7 +70,7 @@ layout: page
     * [Runnells' response](https://cesletter.org/debunkings/a-zombies-reflections-on-that-mormon-apologists-reflections/)
 1. [Jeremy Runnells and the Book of Abraham](https://web.archive.org/web/20201111201344/https://rationalfaiths.com/jeremy-runnells-book-abraham/) (Brian Hauglid at Rational Faiths)
     * [Runnells' response](https://web.archive.org/web/20161111033943/http://cesletter.com/apologetics/the-book-of-abraham-except-for-those-willfully-blind-the-case-is-closed.html)
-1. ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/)
+1. ["Anti-mormon spreading misinformation" by happiness-seekers blog](https://web.archive.org/web/20171213200507/https://happiness-seekers.com/2017/07/17/influential-anti-mormon-caught-spreading-lies-about-lds-church/)
     * [Runnells' response](https://cesletter.org/apologetics/influential-anti-mormon-liar-debunks.html)
 
 ### Without responses by Runnells
