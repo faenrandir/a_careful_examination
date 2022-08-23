@@ -54,8 +54,8 @@ layout: page
 
 ### With counter-responses
 
-* [FairMormon Analysis of CES Letter](http://en.fairmormon.org/Critic)
-    * [Runnells' response](http://cesletter.com/debunking-fairmormon/)
+* [FairMormon Analysis of CES Letter](https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Online_documents/Letter_to_a_CES_Director)
+    * [Runnells' response](https://cesletter.org/debunking-fairmormon/)
 * [A Faithful Reply to the CES Letter from a Former CES Employee](https://canonizer.com/files/reply.pdf) (Jim Bennett, [original](http://stallioncornell.com/blog/a-reply-from-a-former-ces-employee/) as Stallion Cornell)
     * [Runnells' response](https://cesletter.org/debunkings/jim-bennett-ces-letter-reply-canonizer-stallion-cornell/)
     * [A pointed response to Jim Bennett](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) (by bwv549)
