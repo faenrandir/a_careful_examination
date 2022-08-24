@@ -105,3 +105,20 @@ Roughly 5 months later (as of 2022-03-19):
     > And D&C 27:12, given in September, 1830, specifically says that Peter, James, and John were sent by the Lord and ordained and confirmed them to be apostles
 
     is still present _unedited_ in her original post and remains misleading (since the original revelation makes no mention of Peter, James, and John as a simple comparison with resources published by the LDS Church will reveal).
+
+### 2022-08-23 update 
+
+One of the moderators, dice1899, responded to [a comment](https://www.reddit.com/r/mormon/comments/wvtihr/rebuttals_to_the_ces_letter_and_like_writings/ilhuw68/) where I mentioned that I had been banned for posting LDS resources in response to her post and she clarified:
+
+> For what it’s worth, that’s not why you were banned. You were banned for your post history of criticizing the church, which is off-limits in our sub. It’s fine in latterdaysaints as long as you’re polite there, but it’s not okay in the lds sub.
+
+I will note that at the time I was banned the sidebar read:
+
+> All are invited to faithfully participate, contribute, and ask questions provided they are respectful of Latter-day Saints and their beliefs, and are not involved in undermining the faith elsewhere.
+
+I made an argument to the mods (above) that I was not "undermining the faith" elsewhere.
+
+I do not know when it was changed, but as of 2022-08-23, the lds subreddit
+sidebar _now_ states (in bold):
+
+> All Reddit activity of participants should reflect a genuine attempt to promote faithfulness in the LDS church. If this is not one of your core values, please have enough integrity to withhold participation in this sub (this includes downvotes).
