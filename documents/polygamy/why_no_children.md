@@ -41,7 +41,7 @@ Below are _possible_ solutions to the above stated problem. Given that the pract
     * Use of and instructions on how to make a rubber condom [was becoming widespread in the 1840s](https://en.wikipedia.org/wiki/History_of_condoms#18th_century).
     * A variety of birth control methods [were being published in the early 1800s](http://artsci.case.edu/dittrick/online-exhibits/history-of-birth-control/contraception-in-america-1800-1900/early-literature/), including withdrawal.
 
-1. Abortion was somewhat common in that era and surgical abortion not illegal in Illinois at the time.  A known practicioner of abortion was in Joseph Smith's close inner circle in Nauvoo for some time.
+1. Abortion was somewhat common in that era and surgical abortion not illegal in Illinois at the time.  A known practitioner of abortion was in Joseph Smith's close inner circle in Nauvoo for some time.
 
     Lauren MacIvor Thompson [summarized the data on abortion](https://www.civilwarmed.org/birth-control/) in that era:
 
@@ -53,7 +53,7 @@ Below are _possible_ solutions to the above stated problem. Given that the pract
     Revisited](https://scholarship.law.duke.edu/faculty_scholarship/2174/) by
     Samuel Buell).
 
-    Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him (see Hale's LDS apologetic/scholarly perspective [here](http://mormonpolygamydocuments.org/abortions/)).  Evidence supports the fact that Bennett was practicing abortion and that he could cover up a trail of philandery using it. Sarah Pratt claimed Bennett practiced abortion on some of Joseph Smith's plural wives, but most LDS scholars discount her testimony due to possible exaggeration and inconsistencies in it. It is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/), but as explained above, abortions were not always conducted by physicians, and it's possible Bennett trained others in the practice before his departure.
+    Smith may have used John C. Bennett's services or he or someone in Nauvoo perhaps learned to perform abortions from him (see Hale's LDS apologetic/scholarly perspective [here](http://mormonpolygamydocuments.org/abortions/)). According to [Hyrum Smith's affidavit](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-august-1842/8), several females testified under oath that "he would give them medicine to produce abortions, providing they should become pregnant." Sarah Pratt claimed Bennett practiced abortion on some of Joseph Smith's plural wives, but most LDS scholars discount her testimony due to possible exaggeration and inconsistencies in it. It is important to note that Bennett was only around Joseph Smith for [some of the time he was engaged in plural marriage](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/), but as explained above, abortions were not always conducted by physicians, and it's possible Bennett trained others in the practice before his departure.
     
     Some LDS scholars also discount the abortion hypothesis because, they say, it would make Joseph look hypocritical since he taught that celestial marriage was for the purpose of raising up seed.  However, given his sealing to a 7 month pregnant woman, Zina Diantha Huntington Jacobs, it is reasonable to suggest that raising up seed was not always an immediate concern in his practice of polygamy.
 
@@ -67,7 +67,7 @@ Below are _possible_ solutions to the above stated problem. Given that the pract
 
     For some of Smith's polyandrous marriages, the paternity of his children was unclear to the mother.  For instance, Sylvia Sessions told her daughter Josephine [that she was sired by Joseph Smith](https://www.fairmormon.org/answers/Question:_Did_Joseph_Smith_produce_any_children_by_his_plural_wives:_The_case_for_children), but it turns out she was not fathered by Smith.  This strongly indicates that Sessions was sleeping with Smith and her legal husband in close temporal proximity.
 
-1. For the polyandrous unions, if a woman is already pregnant, then she cannot cannot become pregnant again.
+1. For the polyandrous unions, if a woman is already pregnant, then she cannot become pregnant again.
 
     For instance, Zina Huntington Jacobs was [7 months pregnant](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) when she was sealed to Joseph Smith.  If they consummated their sealing at that time, then she could not have become pregnant.
 
