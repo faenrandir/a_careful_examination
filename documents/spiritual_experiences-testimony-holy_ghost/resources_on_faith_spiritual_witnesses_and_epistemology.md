@@ -10,7 +10,7 @@ layout: page
 
 1. [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (youtube)
 1. [Testimonies of Other Faiths](https://testimoniesofotherfaiths.blogspot.com/) (collection of anecdotes)
-1. LDS psychology professor [discusses psychological principles related to spiritual experiences](https://www.youtube.com/watch?v=CLB69EPPfGI&t=4510s) (youtube beginning at 1:15:10)
+1. [Psychology related to spiritual experiences](https://www.youtube.com/watch?v=CLB69EPPfGI&t=4510s) (LDS professor Jesse James)
 1. [Can prayer determine the will of God?](http://www.religioustolerance.org/god_pra6.htm) (preliminary study)
 1. [Elevation Emotion Studies](https://drive.google.com/file/d/1YYcp-aoAI_RHk1uwA2r49m3Ogb7sKS35/view?usp=sharing) (compilation of peer reviewed research )
 
