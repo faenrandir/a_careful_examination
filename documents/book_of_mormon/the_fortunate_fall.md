@@ -12,6 +12,8 @@ In support of the idea that the doctrines contained in the Book of Mormon must h
 
 > ... contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).
 
+LDS scholar Robert Millet also argued that Joseph's teaching of the fortunate Fall was unique (at least in some unspecified manner) (see [first two minutes](https://www.youtube.com/watch?v=qOQt0366eQ4)).
+
 An analysis of the pre-1830's literature convincingly demonstrates that many Christians were teaching the idea of a "fortunate fall".
 
 ## Presence in literature before the 1830s
@@ -23,6 +25,10 @@ The theological concept of [felix culpa](https://en.wikipedia.org/wiki/Felix_cul
 > it was a fortunate sin that Adam sinned and his descendants; therefore as a result of this the world was made better
 
 ### Since the 1700s
+
+John Wesley, the Methodist leader, taught in [God's Love for Fallen Man](https://www.google.com/books/edition/God_s_Love_to_Fallen_Man/Ur7jjyHV_MoC?hl=en&gbpv=1&bsq=%22mankind,%20in%20general%20have%20gained%20by%20the%20fall%22) in 1791:[^ht_tompainsbones]
+
+> ...mankind in general have gained, by the fall of Adam, a capacity of attaining more holiness and happiness on earth than it would have been possible for them to attain if Adam had not fallen
 
 Closer to Joseph Smith's time, Leibniz refers to felix culpa in his well-known work Theodicy, and John Milton includes a stanza clearly articulating a fortunate fall in Paradise Lost, a hugely influential book of the time.  This connection was made in [an Ensign article from 1976](https://www.lds.org/new-era/1976/01/john-milton-an-inspired-man?lang=eng), a portion of which is quoted below:
 
@@ -86,3 +92,5 @@ Lastly, the idea of a fortunate fall was present in less religious works such as
 [^htchurchistrue]: h/t [churchistrue](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/)
 
 [^grunder]: Hitchcock's poetry was first brought to my attention [by Rick Grunder](http://www.rickgrunder.com/parallels.htm)
+
+[^ht_tompainsbones]: h/t tompainesbones [here](https://www.reddit.com/r/mormon/comments/u6vv3w/in_what_sense_is_the_fortunate_fall_a_distinct/)
