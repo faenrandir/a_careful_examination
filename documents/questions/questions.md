@@ -41,7 +41,9 @@ _If any question contains incorrect information or is misleading in any way, ple
 
 ## The Book of Abraham
 
-In his translation of the facsimiles, Joseph pointed to [specific characters and gave a specific translation](https://imgur.com/2a5sban).  However, the characters on the facsimiles (_not_ the vignettes, but the characters describing the vignettes) have been translated by both [BYU](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up) and non-Mormon scholars.  [The Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) concedes: "None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham..."
+In his translation of the facsimiles, Joseph pointed to [specific characters and gave a specific translation](https://imgur.com/2a5sban).  However, most of the characters on the facsimiles (_not_ the vignettes, but the characters describing the vignettes) have been translated by both [BYU](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up) and non-Mormon scholars, and although not all characters are perfectly legible, [the translation does not match](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd).[^some_argue_for_matches]
+
+To underscore, [the Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) concedes generally: "None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham..."
 
 Why do the translations of the facsimile characters not match up?[^consider_section_10]
 
@@ -188,3 +190,5 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 [^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
 
     > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.
+
+[^some_argue_for_matches]: See [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge for oneself the extent to which the characters are legible, correspond with known heiroglyphs, and for both LDS and non-LDS translations. An argument is made [here]( https://web.archive.org/web/20210712210347/https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel-appendix-e-how.html) and in [this video](https://www.youtube.com/watch?v=Ftpk15fPMIM) that at least some of the legible characters are indeed translated correctly, but this conclusion is not yet supported by qualified Egyptologists, to my knowledge.

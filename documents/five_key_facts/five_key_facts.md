@@ -96,7 +96,7 @@ See [Problem Summaries: resources discussing LDS-truth claims]({{ "/truth-claim-
 
 [^undueinfluence]: See [The Belmont Report on Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) for a discussion of what typically constitutes "undue influence."
 
-[^fidelity_of_translation]: See [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs. An argument is made [here](https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel-appendix-e-how.html) and in [this video](https://www.youtube.com/watch?v=Ftpk15fPMIM) that the legible characters are indeed translated correctly.
+[^fidelity_of_translation]: See [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs. An argument is made [here]( https://web.archive.org/web/20210712210347/https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel-appendix-e-how.html) and in [this video](https://www.youtube.com/watch?v=Ftpk15fPMIM) that the legible characters are indeed translated correctly.
 
 [^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote]({{ "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response" | relative_url }}): 
 
