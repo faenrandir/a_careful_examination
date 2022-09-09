@@ -19,7 +19,7 @@ _If any question contains incorrect information or is misleading in any way, ple
 
 ## Joseph Smith's Polygamy
 
-1. If sealing is such an important principle[^importance_of_sealing], why did Joseph never seal himself to his parents or children during his lifetime?[^hales_no_sealing]
+1. If sealing is such an important principle,[^importance_of_sealing] why did Joseph never seal himself to his parents or have his children sealed to him during his lifetime?[^hales_no_sealing]
 
 1. If sealing is such an important principle, why was Emma sealed to Joseph after so many others ([more than 16 well documented sealings](http://josephsmithspolygamy.org/plural-wives-overview/))?
 
@@ -143,7 +143,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
     > Bishops are not CEO’s; they are stand-ins for Christ. The relation of a bishop to the people is not analogous to any ‘power’ relationships in the secular world. They are human and prone to mistakes, but they are also a way that God speaks to the world. Bishops serve lay Catholics by standing up for our beliefs, as they are doing now. I am glad that when the world wants to know “what Catholics think” there is a clear way to find out. I am grateful for the leadership of our bishops in these recent weeks. [source](https://www.onfaith.co/onfaith/2012/02/22/in-defense-of-the-catholic-church/11150)
 
-[^importance_of_sealing]: Latter-day Saints view the temple sealing ceremony as having the utmost significance.  Here are some examples: [The sealing ordinance links families eternally](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [Marriage in the Lord's Way](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), ["The Sealing Power"](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
+[^importance_of_sealing]: Latter-day Saints view the temple sealing ceremony as having the utmost significance, and here are some examples: [The sealing ordinance links families eternally](https://www.lds.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng); [Marriage in the Lord's Way](https://www.lds.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng); and ["The Sealing Power"](https://www.lds.org/media-library/video/2011-03-121-the-sealing-power?lang=eng).
 
 [^hales_no_sealing]: In [a reddit comment](https://www.reddit.com/r/mormon/comments/5quvd8/questions_for_brian_and_laura_hales_upcoming_ama/dd7jbbq/), Brian Hales, LDS Historian (and likely primary author of the [Nauvoo Polygamy lds.org essay](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)), stated: "Keep in mind Joseph died without being sealed to his children or parents."
 
