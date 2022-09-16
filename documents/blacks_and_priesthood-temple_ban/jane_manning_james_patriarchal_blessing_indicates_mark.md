@@ -1,10 +1,18 @@
 ---
-title: "Jane Manning James Patriarchal Blessing indicates she has 'a mark'"
+title: "Jane Manning James Patriarchal Blessing indicates she has 'a mark' and 'lineage of Cainaan the Son of Ham'"
 permalink: /jane-manning-james-patriarchal-blessing-indicates-a-mark/
 doctype: excerpt
 maintopic: race-and-priesthood
 layout: page
 ---
+
+## University of Utah Biography
+
+The [Jane Elizabeth Manning James biography page](https://web.archive.org/web/20220712091333/https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/james-jane-elizabeth-manning#_edn26) from the Century of Black Mormons collection quotes the original patriarchal blessing given to James by Hyrum Smith:
+
+> Manning requested and received a patriarchal blessing from Hyrum Smith in March of 1844. [26] It was and remains customary for a patriarchal blessing to identify the recipient’s lineage, the biblical figure from whom Mormons believed they were spiritually, or sometimes literally, descended. [27] Most Latter-day Saints were identified as members of the tribe of Ephraim, but Hyrum Smith told Manning that she had “a promise through the Father of the New World coming down in the lineage of Cainaan [sic] the Son of Ham.” He also assured Manning that “he that changeth times and seasons and placed a mark upon your forehead, can take it off and stamp upon you his own Image.” In these two phrases, Smith burdened Manning with all of the baggage of contemporary Euro-American racial folklore. By identifying her as descended from Canaan, Smith invoked Noah’s curse that Canaan would be a “servant of servants,” one of the biblical texts white Americans used to justify race-based slavery. [28] And Smith’s discussion of the “mark upon [Manning’s] forehead” referred directly to the story of Cain, the biblical first murderer, whose “mark” Euro-Americans believed was passed down in the form of the dark skin of African-descended people. [29]
+
+## Perry's "Race and the Making of the Mormon People"
 
 From Max Perry Mueller's book "Race and the Making of the Mormon People" [pg 148](https://books.google.com/books?id=hB8wDwAAQBAJ&q=%22mark+upon+your+forehead%22#v=snippet&q=%22mark%20upon%20your%20forehead%22&f=false)
 
