@@ -137,7 +137,7 @@ if they fail to live very strict covenants.
 
 * [Luke 14:26](https://www.lds.org/scriptures/nt/luke/14.26)
 
-> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+    > If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
 *Why would I want my children to be taught that they should not say 'hi' to people who believe differently than them?  Whey would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
 
@@ -165,7 +165,9 @@ Matthew 10:35-37:
 
 > For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law; and a man's foes will be those of his own household. He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me is not worthy of me.
 
-Luke 18:29-30: And he said to them, "Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive manifold more in this time, and in the age to come eternal life."
+Luke 18:29-30:
+
+> And he said to them, "Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive manifold more in this time, and in the age to come eternal life."
 
 ## Disunity based on unfalsifiable beliefs
 
@@ -216,7 +218,7 @@ And you will still find some run-of-the-mill Christians today **still** justifyi
 
 Jesus asks us to turn the other cheek and walk a mile with our oppressors, but everyone accepts the necessity of and praises our military (by far the largest on earth).  At least in the New Testament Jesus's teachings leave us mostly in the dark in deciding how and when we are justified in raising up a giant military for our defense and the boundaries for extracting information from combatants (consider that Bruce Jessen considered himself a devoted followers of Christ while creating and executing disturbing enhanced interrogation techniques, aka torturing terrorists and suspected terrorists).  Do we ever even have a chance to be kind to our enemies or oppressors?  It seems like we equip and expect our military to obliterate any potential threat before there is a possibility that we might be harmed in any way.  But nobody even questions our need to have the most supreme military on earth, so it feels like we only give lip services to Jesus's teachings in this arena and just assume that he would be fine with our military efforts.
 
-"Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?" (Matthew 6:25)  Latter-day Saints scope this injunction to apply to the apostles, but other Christians have little reason to discard this statement.  Everyone realizes that this kind of life is basically unsustainable for any significant portion of the population.  401Ks, insurance, savings accounts, the stock market are all things the vast majority Christians believe strongly in.
+"Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?" (Matthew 6:25)  Latter-day Saints scope this injunction to apply to the apostles, but other Christians have little reason to discard this statement.  Everyone realizes that this kind of life is basically unsustainable for any significant portion of the population.  401Ks, insurance, savings accounts, the stock market are all things the vast majority Christians believe in or otherwise accept as the way things are simply done.
 
 *Why should I teach my children those sayings of Jesus that are pretty much untranslatable to their lives and which we all routinely ignore in one way or another anyway?*
 
