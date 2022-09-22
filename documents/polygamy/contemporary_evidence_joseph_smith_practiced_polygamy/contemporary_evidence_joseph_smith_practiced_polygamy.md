@@ -75,6 +75,7 @@ Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was 
 * Year of Polygamy: Joseph Didn't Fight Polygamy
     * [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/)
     * [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
+* [Was Joseph Smith Really A Polygamist?](https://www.youtube.com/watch?v=xE-pNIF3EWk) (Hemlock Knots live debate)
 
 ### Acknowledgements
 
