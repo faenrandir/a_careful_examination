@@ -3,7 +3,7 @@ title: "Report, chronicles, and presentation on LDS faith crises"
 permalink: /2013-faith-crisis-study/
 layout: page
 maintopic: faith-transitions
-doctype: links
+doctype: resource
 ---
 
 Greg Prince, John Dehlin, and Travis Stratford, members of the team that led this project, have granted permission for release of the following:
