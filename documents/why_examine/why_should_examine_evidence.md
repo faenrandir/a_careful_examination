@@ -2,7 +2,7 @@
 title: "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
 permalink: "/to-peek-behind-the-curtain/"
 maintopic: questioning
-doctype: resource
+doctype: analysis
 introductory: true
 featuredimage: "/media/o-WOMAN-WINDOW-facebook.half_.jpg"
 layout: page
