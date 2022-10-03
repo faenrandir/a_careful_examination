@@ -40,6 +40,8 @@ Nonetheless, there is still some significant room within broader LDS theology to
 * [Queer Mormon Theology: An Introduction](https://www.amazon.com/Queer-Mormon-Theology-Blaire-Ostler/dp/1948218410) (Blaire Ostler)
     * [A Thoughtful Faith Podcast: 193 God, the Image of God, Theosis, Sex and Godly Creation: Blaire Ostler](https://www.athoughtfulfaith.org/god-the-image-of-god-theosis-sex-and-godly-creation-blaire-ostler/)
     * [Sunstone Podcast: E99 Queer Polygamy: A Conversation with Taylor Petrey and Blaire Ostler](https://sunstone.org/e99-queer-polygamy-a-conversation-with-taylor-petrey-and-blaire-ostler/)
+* ["A Welding Link of Some Kind: Exploring a possible theology of same-sex
+  marriage sealings"](https://nateoman.substack.com/p/a-welding-link-of-some-kind?sd=pf#_ftn1) (Nate Oman)
 * [The Proclamation on the Family: Scripture or Revelation?](https://faenrandir.github.io/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/) (argues that the Family Proclamation was not directly referred to as "scripture" or "revelation" in the two decades[^family_proclamation] after the proclamation was given---in fact, when an Apostle referred to it as "revelation" in speech, the reference was removed before official publication).
 * Joseph Fielding Smith postulated that those in the telestial kingdom would be "neither man nor woman" ([Doctrines of Salvation v2, p 287](https://archive.org/details/Doctrines-of-Salvation-volume-2-joseph-fielding-smith/page/n177/mode/2up)). This was probably suggested as an undesirable outcome, but regardless it means that some kind of genderless/sexless afterlife was envisioned for some people?
 * [BYU BIO 461 appendix "Gender"](https://books.byui.edu/bio_461_principles_o/appendix_a_gender)[^bio461]

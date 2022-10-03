@@ -1,5 +1,5 @@
 ---
-title: LDS Indoctrination and Retentive Socialization 
+title: LDS Retentive Socialization 
 permalink: /lds-indoctrination-and-retentive-socialization/
 maintopic: sociology-and-psychology
 doctype: resource

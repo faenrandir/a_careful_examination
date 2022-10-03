@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
    height="11in"
    viewBox="0 0 765.00002 989.99994"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="echoes_of_1800s.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="echoes_of_1800s.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <clipPath
@@ -140,24 +140,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="299.38453"
-     inkscape:cy="529.91721"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="182.33253"
+     inkscape:cy="499.52043"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1222"
-     inkscape:window-height="1041"
-     inkscape:window-x="694"
-     inkscape:window-y="18"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2400"
+     inkscape:window-height="1350"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-global="false"
      units="in"
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
-     fit-margin-bottom="10" />
+     fit-margin-bottom="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -166,7 +169,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -187,17 +189,13 @@
            x="283.57144"
            y="717.36218" /></flowRegion><flowPara
          id="flowPara4486"
-         style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>    <text
+         style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="45.853489"
        y="129.54071"
-       id="text4265"><tspan
-         sodipodi:role="line"
-         id="tspan4267"
-         x="45.853489"
-         y="132.6579"
-         style="font-size:10px;line-height:1.25" /></text>
+       id="text4265" />
     <g
        id="g4134"
        transform="matrix(0.89538963,0,0,0.89538963,318.51683,646.99227)">
@@ -207,7 +205,7 @@
          x="230.19269"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-size:8.06270123px;line-height:1.25"
+           style="font-size:8.0627px;line-height:1.25"
            y="238.34325"
            x="230.19269"
            id="tspan4178"
@@ -249,7 +247,8 @@
    id="flowSpan3822"
    style="font-style:italic">A compendium of the travels of the children of Israel</flowSpan>, Albany, NY 1823, pg 11 with <flowSpan
    id="flowSpan3904"
-   style="font-weight:bold">Alma 45:16</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Alma 45:16</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4144"
        transform="matrix(0.89538963,0,0,0.89538963,-369.02171,648.32996)">
@@ -285,18 +284,14 @@
    id="flowSpan3834"
    style="font-style:italic">The Washington Theological Repertory vII</flowSpan>, Washington city, 1820-21, pg 194 with <flowSpan
    id="flowSpan3906"
-   style="font-weight:bold">Moroni 10:32</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Moroni 10:32</flowSpan>)</flowPara></flowRoot>
+    </g>
     <text
        id="text4034"
        y="92.815521"
        x="42.864773"
-       style="font-style:normal;font-weight:normal;font-size:23.5835495px;line-height:33.16436768px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47397184px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.47397184px"
-         y="115.5239"
-         x="42.864773"
-         id="tspan4032"
-         sodipodi:role="line" /></text>
+       style="font-style:normal;font-weight:normal;font-size:23.5835px;line-height:33.1644px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4362"
@@ -307,14 +302,16 @@
            width="767.17664"
            height="128.59583"
            x="117.1777"
-           y="646.28088" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.99048996px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"
-         id="flowPara4370">“… there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …”  — Mormon Historian Richard Bushman</flowPara></flowRoot>    <flowRoot
+           y="646.28088"
+           style="stroke-width:1px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9905px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"
+         id="flowPara4370">“… there is phrasing everywhere—long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …”  — LDS Historian Richard Bushman</flowPara></flowRoot>
+    <flowRoot
        transform="matrix(1.5297353,0,0,1.5297353,56.654589,136.71567)"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:17.01095581px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:17.011px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot327"
        xml:space="preserve"><flowRegion
-         style="line-height:17.01095581px"
+         style="line-height:17.011px"
          id="flowRegion329"><rect
            style="line-height:17.01095581px"
            y="-0.9428637"
@@ -322,10 +319,11 @@
            height="87.142853"
            width="315.71429"
            id="rect331" /></flowRegion><flowPara
-         style="font-weight:bold;line-height:17.01095581px;text-align:center;text-anchor:middle"
+         style="font-weight:bold;line-height:17.011px;text-align:center;text-anchor:middle"
          id="flowPara333">The Book of Mormon echoes</flowPara><flowPara
-         style="font-weight:bold;line-height:17.01095581px;text-align:center;text-anchor:middle"
-         id="flowPara335">the early 1800s theological milieu</flowPara></flowRoot>    <g
+         style="font-weight:bold;line-height:17.011px;text-align:center;text-anchor:middle"
+         id="flowPara335">the early 1800s theological milieu</flowPara></flowRoot>
+    <g
        id="g4294"
        transform="matrix(0.89538963,0,0,0.89538963,47.906693,27.988701)">
       <image
@@ -356,7 +354,8 @@
    id="flowSpan3910"
    style="font-weight:bold">Mosiah 7:33</flowSpan> and <flowSpan
    id="flowSpan3912"
-   style="font-weight:bold">Jacob 6:5</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Jacob 6:5</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4174"
        transform="matrix(0.89538963,0,0,0.89538963,72.37549,745.12783)">
@@ -397,7 +396,8 @@
    id="flowSpan3890"
    style="font-style:italic">The Justice of God in the Damnation of Sinners</flowSpan>, Newark, NJ, 1814, pg 43 with <flowSpan
    id="flowSpan3908"
-   style="font-weight:bold">2 Ne 2:27</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">2 Ne 2:27</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4183"
        transform="matrix(0.89538963,0,0,0.89538963,455.35847,-9.323201)">
@@ -427,7 +427,8 @@
    id="flowSpan3902"
    style="font-style:italic">A Treatise on The Millennium, or Latter-Day Glory of the Church ...</flowSpan>, Providence, RI, 1824, pg 293 with <flowSpan
    id="flowSpan3914"
-   style="font-weight:bold">Alma 13:27</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Alma 13:27</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4191"
        transform="matrix(0.89538963,0,0,0.89538963,74.09205,97.8167)">
@@ -457,7 +458,8 @@
            style="font-size:8px;line-height:100%"
            id="flowPara3924">(compare John Foxe's Book of Martyrs [widely available in the early 1800s], with <flowSpan
    id="flowSpan3928"
-   style="font-weight:bold">Ether 12:4, 20</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Ether 12:4, 20</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g325"
        transform="matrix(0.89538963,0,0,0.89538963,430.18721,-250.58113)">
@@ -473,7 +475,8 @@
              width="47.477169"
              id="rect4358" /></flowRegion><flowPara
            style="font-size:15px;line-height:1.25"
-           id="flowPara4360"> </flowPara></flowRoot>      <image
+           id="flowPara4360"> </flowPara></flowRoot>
+      <image
          width="185.22458"
          height="57.551929"
          preserveAspectRatio="none"
@@ -501,7 +504,8 @@
    id="flowSpan3945"
    style="font-weight:bold">2Ne 9:7</flowSpan>, <flowSpan
    id="flowSpan3947"
-   style="font-weight:bold">2Ne 25:16 </flowSpan>etc)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">2Ne 25:16 </flowSpan>etc)</flowPara></flowRoot>
+    </g>
     <g
        id="g311"
        transform="matrix(0.89538963,0,0,0.89538963,-31.667204,362.81484)">
@@ -544,7 +548,8 @@
    id="flowSpan295"
    style="font-style:italic">Four Sermons, on the Mode and Subjects of Christian Baptism...</flowSpan>, Utica, NY, 1811 pg 4 with <flowSpan
    style="font-weight:bold"
-   id="flowSpan175">Moroni 8</flowSpan>)</flowPara></flowRoot>    </g>
+   id="flowSpan175">Moroni 8</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g408">
       <g
@@ -592,7 +597,8 @@
    style="font-style:italic"
    id="flowSpan197">The Necessity of the Belief of Christianity</flowSpan>, by Jonathon Edwards, delivered in Hartford, CT, May 8, 1794, with <flowSpan
    id="flowSpan189"
-   style="font-weight:bold">2Ne 2:11</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">2Ne 2:11</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4251"
        transform="matrix(0.89538963,0,0,0.89538963,-370.29001,98.08123)">
@@ -624,7 +630,8 @@
    id="flowSpan3979"
    style="font-style:italic">The Christian Observer v15</flowSpan>, Boston, MA, 1816, pg 149 with <flowSpan
    id="flowSpan3981"
-   style="font-weight:bold">Mosiah 15:8-9</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Mosiah 15:8-9</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4242"
        transform="matrix(0.89538963,0,0,0.89538963,-349.97486,762.21839)">
@@ -652,7 +659,8 @@
            style="font-size:8px;line-height:100%"
            id="flowPara3989">(compare many at http://tiny.cc/plan-of-salvation with <flowSpan
    id="flowSpan3993"
-   style="font-weight:bold">Jarom 1:2</flowSpan> etc.)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Jarom 1:2</flowSpan> etc.)</flowPara></flowRoot>
+    </g>
     <g
        id="g4262"
        transform="matrix(0.89538963,0,0,0.89538963,466.45861,345.48024)">
@@ -685,7 +693,8 @@
    id="flowSpan4009"
    style="font-style:italic">Sermons by the Late Reverend and Learned Mr. Ralph Erskine, Minister of the Gospel at Dunfermlin v1</flowSpan>, Pittsburgh, PA, 1815, pg 12 with <flowSpan
    id="flowSpan4253"
-   style="font-weight:bold">Alma 42:13, 22, 25</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Alma 42:13, 22, 25</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g4233"
        transform="matrix(0.89538963,0,0,0.89538963,54.841515,472.3621)">
@@ -715,7 +724,8 @@
            id="flowPara3961"
            style="font-size:8px;line-height:100%">(compare many at http://tiny.cc/instrument-hands-of-God with <flowSpan
    id="flowSpan3965"
-   style="font-weight:bold">Mosiah 27:36</flowSpan> etc.)</flowPara></flowRoot>      <rect
+   style="font-weight:bold">Mosiah 27:36</flowSpan> etc.)</flowPara></flowRoot>
+      <rect
          ry="45.456863"
          rx="154.78688"
          y="260.91705"
@@ -756,7 +766,8 @@
    id="flowSpan4298"
    style="font-style:italic">The Washington Theological Reportory v2</flowSpan>, Washington City, 1820-21, pg 58 with <flowSpan
    id="flowSpan4296"
-   style="font-weight:bold">1Ne 13:26, 28</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">1Ne 13:26, 28</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g216">
       <image
@@ -787,7 +798,8 @@
    id="flowSpan248"
    style="font-weight:bold">2Ne 2:21<flowSpan
    id="flowSpan256"
-   style="font-weight:normal">, </flowSpan>Alma 12:24</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:normal">, </flowSpan>Alma 12:24</flowSpan>)</flowPara></flowRoot>
+    </g>
     <g
        id="g293"
        transform="matrix(0.89538963,0,0,0.89538963,76.33865,61.556689)">
@@ -819,7 +831,8 @@
    id="flowSpan284"
    style="font-style:italic">Selections from the Works of Isaac Penington...</flowSpan>, New-Bedford, MA, 1818, pg 105 with <flowSpan
    id="flowSpan276"
-   style="font-weight:bold">Mosiah 2:37</flowSpan>)</flowPara></flowRoot>    </g>
+   style="font-weight:bold">Mosiah 2:37</flowSpan>)</flowPara></flowRoot>
+    </g>
     <flowRoot
        transform="matrix(0.91768788,0,0,0.91768788,74.233035,404.99477)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -832,15 +845,17 @@
            width="200"
            id="rect380" /></flowRegion><flowPara
          id="flowPara384"
-         style="font-size:13.62118912px;line-height:1.25">http://tiny.cc/bom-echoes</flowPara></flowRoot>    <flowRoot
+         style="font-size:13.6212px;line-height:1.25">http://tiny.cc/bom-echoes</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot192"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:16px;line-height:22.5px;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:22.5px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion194"><rect
            id="rect196"
            width="7.0710678"
            height="19.192898"
            x="286.88333"
            y="505.46686" /></flowRegion><flowPara
-         id="flowPara198" /></flowRoot>  </g>
+         id="flowPara198" /></flowRoot>
+  </g>
 </svg>
