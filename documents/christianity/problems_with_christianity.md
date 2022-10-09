@@ -6,32 +6,22 @@ doctype: analysis
 layout: page
 ---
 
-[rough draft]
-
 # Introduction
 
-We can divide Christian teachings (including the purported words of Jesus
-Christ) into two main categories:
-
-1. Good, thoughtful, inspiring, or ennobling (most teachings)
-2. Problematic
-    * Problematic because the Christian world general interprets the teaching in a problematic way.
-    * Problematic because of the plain meaning of the words.
-
-So much of what Jesus Christ taught is helpful, inspiring, and/or
-good.[^veridicality]  I think we should embrace that.  Some of what he taught
-when interpreted by mainstream Christianity is problematic in my view.  And a
-few things that Jesus taught are problematic when taken at their plain
-meaning.  A similar pattern emerges when extending the analysis to include the
-words of Jesus's various disciples as recorded in the books of the New
-Testament.
+So much of what Jesus Christ taught (or is purported to have taught) is
+helpful, inspiring, and/or good.[^veridicality]  I think we should embrace
+these messages, generally.  Still, some of what he taught when interpreted by
+mainstream Christianity is problematic to my mind.  And a few things that
+Jesus taught are problematic when taken at their plain meaning.  A similar
+pattern emerges when extending the analysis to include the words of Jesus's
+various disciples as recorded in the books of the New Testament.
 
 This document focuses mainly on the purported words of Jesus Christ and
 occasionally dips into other New Testament writing to deal with highly
 problematic aspects of Christian culture and practice, generally.  I will also
 call out specific aspects of Latter-day Saint culture[^latterdaysaints] since
 I know it best and it will be more relevant to most of my readers.  Still,
-most of these examples will apply to some extent to larger swaths of
+many of these examples will apply to some extent to larger swaths of
 Christianity.
 
 Also, because I have been evaluating Christianity from the perspective of a
@@ -51,7 +41,7 @@ The Gospels promote many beautiful ideals:
 * "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.  And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.  And whosoever shall compel thee to go a mile, go with him twain.  Give to him that asketh thee, and from him that would borrow of thee turn not thou away.  Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.  But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust." (Matthew 5:38--45)
 * "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.  Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?  When saw we thee a stranger, and took thee in? or naked, and clothed thee?  Or when saw we thee sick, or in prison, and came unto thee?  And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me." (Matthew 25:34--40)
 
-It's difficult to overstate the power of these ideals.  These ideas existed (often to a somewhat lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus.  Much of the good that has been done in the world in the past 2000 years was motivated, at least in part, by these ideals.
+It's difficult to overstate the power of these ideals.  These ideas existed (often to a somewhat lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus in the Gospels and echoed elsewhere in the New Testament.  Much of the good that has been done in the world in the past 2000 years was motivated, at least in part, by these ideals.
 
 ## Idea of eternal life may diminish existential anxiety
 
@@ -59,7 +49,7 @@ The idea of an after-life may diminish existential anxiety for some people (see 
 
 ## Attending Church is healthy
 
-[Source](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827)
+Attending Church regularly was shown to be associated with [33% less all-cause mortality](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827) compared with women who never attended.
 
 ## In some ways Jesus promoted equality of the sexes
 
@@ -67,8 +57,7 @@ In *some* ways that may have transcended his society [Jesus fought against patri
 
 # The Problematic
 
-There are aspects of Christian teaching, some which derive directly from the
-words of Jesus, which seem problematic.
+There are aspects of Christian teaching, some which derive directly from the words of Jesus, which seem problematic to me.
 
 **_A belief in the teachings of Jesus may promote:_**
 
@@ -76,15 +65,15 @@ words of Jesus, which seem problematic.
 
 The desire to maintain a belief in God and Christ can hinder a person from searching for and then fairly evaluating the evidence that might contradict or deservedly weaken that belief.
 
-Mark 4:28-29
+**Mark 4:28-29**
 
 > Truly I say to you, all sins will be forgiven the sons of men, and whatever blasphemies they utter; but whoever blasphemies against the Holy Spirit never has forgiveness, but is guilty of an eternal sin.
 
-Mark 8:11-12
+**Mark 8:11-12**
 
 > The Pharisees came and began to argue with him, seeking from him a sign from heaven, to test him. And he sighed deeply in his spirit and said, "Why does this generation need a sign? Truly, I say to you, no sign shall be given to this generation."
 
-This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > SDA > Evangelical > Catholic > Protestant > UU).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
+This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > Seventh Day Adventist > Evangelical > Catholic > Protestant > Unitarian Universalist).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
 
 *How do I encourage my children to follow truth when asking for sufficient evidence for some religious premises is considered adulterous?*
 
