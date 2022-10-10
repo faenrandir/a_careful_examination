@@ -79,6 +79,7 @@ Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was 
 * Year of Polygamy: Joseph Didn't Fight Polygamy
     * [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/)
     * [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
+
 ### Acknowledgements
 
 Some sources first h/t [this discussion](http://www.mormondialogue.org/topic/61120-contemporary-evidence-of-josephs-polygamy/?page=2).  First heard of Soby from 4blockhead [here](https://www.reddit.com/r/exmormon/comments/gdznh9/to_the_naysayers_regarding_joseph_ever_practicing/fpkfdsh/).
