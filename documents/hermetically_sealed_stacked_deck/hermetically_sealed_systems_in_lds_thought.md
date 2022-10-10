@@ -26,9 +26,11 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 ## Hermetically sealed systems in LDS thought
 
-...
+Figure 1: Do not seek revelation on that which contradicts the Brethren
 
-[Insert Diagrams with Figure Captions Here]
+![hello](../media/01-dont_seek_revelation_on_contradictory.png)
+
+**Figure 1: Do not seek revelation on that which contradicts the Brethren**
 
 ## Appendix - potential criticisms
 
