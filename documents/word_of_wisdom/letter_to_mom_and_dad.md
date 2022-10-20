@@ -143,7 +143,7 @@ Okay, here goes:
 
     Utahns rely on mind-altering substances with high frequency (both legitimately and illegitimately).  _Which are more likely to be addictive: prescription drugs or alcohol?  What is the difference between a person who "self-medicates" by drinking a glass or two of alcohol when their spirit is "dull and heavy" and the brethren in Carthage doing it?  Which is a better society, where people take prescription medications to help deal with depression, or where they drink alcohol (in moderation) to help deal with depression?  Is their any real difference between the two?_
 
-10. It has been shown that both moderate and heavy drinkers of alcohol live longer than those who do not drink alcohol (even after controlling for all other possible variables) ([source](http://content.time.com/time/magazine/article/0,9171,2017200,00.html)).
+10. It has been shown that both moderate and heavy drinkers of alcohol live longer than those who do not drink alcohol (even after controlling for all other possible variables) ([source](http://content.time.com/time/magazine/article/0,9171,2017200,00.html)). [_Note: studies, [like this](https://faenrandir.github.io/a_careful_examination/letter-thoughts-on-the-word-of-wisdom/), since then suggest the opposite, so this point is not as strong as it once was given the current science on the topic._]
 
     _If a person drinks alcohol because they want to lower their risk of heart disease, is that irresponsible?  Does that mean they are weak of character?_
 

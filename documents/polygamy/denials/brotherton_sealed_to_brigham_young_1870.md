@@ -17,8 +17,10 @@ of Mormon Thought 38:3 2005) Gary Bergera writes:
 > August 1, 1870. Stanley Ivins, research into LDS sealing records, Ivins
 > Papers, Utah State Historical Society, Salt Lake City. ...
 
-[Register of the Anthony W. Ivins
-Papers](https://collections.lib.utah.edu/details?id=462834#idm299)
+
+Stanley S. Ivins papers, 1850-1968:
+* [Archives West registry](https://archiveswest.orbiscascade.org/ark:/80444/xv24737)
+* [Marriott Library Special Collections registry](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=UUU_ALMA21299717140002001&context=L&vid=UTAH&lang=en_US&search_scope=EVERYTHING&adaptor=Local%20Search%20Engine&tab=everything&query=any,contains,ivins&offset=0)
 
 Also mentioned in George Smith's book 'Nauvoo Polygamy:"… but we called it
 celestial marriage"' pp 271-272:
