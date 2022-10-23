@@ -22,11 +22,11 @@ Wayment [also discussed][lds-perspectives-podcast-wayment] the historical corrob
 
 ## Specific examples of usage in the JST
 
-In a Mormon Stories podcast, Haley Wilson Lemmón gave some [specific examples](https://www.youtube.com/watch?v=RBiVPz7tMqU&feature=youtu.be&t=2527) (video set to play at 42:07).
+In a Mormon Stories podcast, Haley Wilson Lemmón gave some [specific examples](https://www.youtube.com/watch?v=RBiVPz7tMqU&feature=youtu.be&t=2527) (video set to play at 42:07).  A number of examples are also detailed in the official publication of this study which is found in chapter 11 of [Producing Ancient Scripture](https://faenrandir.github.io/a_careful_examination/best-arguments-against-chiasmus-as-evidence-of-ancientness/).
 
 ## See also
 
-* [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (official publication)
+* [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (chapter 11 is the official publication)
 * [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
 
 [lds-perspectives-podcast-wayment]: https://web.archive.org/web/20201128001154/https://hwcdn.libsyn.com/p/5/b/9/5b9a46be752511d9/LDSP_Joseph_Smiths_Use_of_Adam_Clarkes_Commentary.pdf?c_id=17171867&cs_id=17171867&expiration=1606525900&hwt=b3d5a485080966bf24011a74ff048746
