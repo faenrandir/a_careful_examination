@@ -20,6 +20,7 @@ layout: page
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
+* [Examining Mormon Truth Claims](https://mormonstories.org/truth-claims/) (essays hosted at Mormon Stories by [Mike Brown](https://mormonstories.org/podcast/mike-brown-examining-mormon-truth-claims/))
 * [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims.[^mormonthink])
 * [Shelf Breakers](https://drive.google.com/file/d/1xABvaPadd4C9VE7ySVRQ1G_hfNW6vWCB/view) (almost all LDS approved sources)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
