@@ -311,6 +311,10 @@ Survey data of individuals in the U.S. and in other countries would be helpful t
 
 [other conclusions]
 
+## See also
+
+[Paid Clergy in Church Literature](https://proveallthingsholdfasttogood.wordpress.com/paid-clergy-in-church-literature/) (an independent analysis similar in nature)
+
 ---
 
 *Attribution: besides searching lds.org, many quotes were compiled from [IntellectualPreserve](http://intellectualpreserve.org/ifm_yes_paid_clergy.html), [this post by __Shawn](https://www.reddit.com/r/exmormon/comments/5n7i1y/collection_of_quotes_about_no_paid_ministry/), and especially [this post by curious_mormon](https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/).*
