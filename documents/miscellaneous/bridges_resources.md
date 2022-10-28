@@ -28,7 +28,7 @@ These are interviews with David Ostler discussing the book and related concepts.
     * [Episode 167: David Ostler, Former Mission/Stake President, Ministering to Those Who Question](https://podcasts.apple.com/us/podcast/episode-167-david-ostler-former-mission-stake-president/id1347971725?i=1000447020266)
     * [Episode 17: (former Mission President, Stake President) Discusses LDS Faith Crisis](https://soundcloud.com/user-818501778/episode-17-david-ostler-former-mission-president-stake-president-discusses-mormon-faith-crisis)
 * Marriage on a Tightrope
-    * [120: David Ostler & Bridges Second Edition](https://mormondiscussionpodcast.org/2022/05/marriage-on-a-tightrope-120-david-ostler-bridges-second-edition/
+    * [120: David Ostler & Bridges Second Edition](https://mormondiscussionpodcast.org/2022/05/marriage-on-a-tightrope-120-david-ostler-bridges-second-edition/)
     * [047: David Ostler](https://marriageonatightrope.org/2019/09/marriage-on-a-tightrope-047-david-ostler/)
 * [Saints Unscripted: What to do in a Faith Crisis](https://www.youtube.com/watch?v=R48_FrL8Wmc)
 * [Mormon Stories 1177-1179: interview of David Ostler](https://mormonstories.org/podcast/david-ostler-bridges-ministering-to-those-who-question/)
