@@ -38,4 +38,4 @@ layout: page
 
 ### Koumiete Gaijin
 
-[Potential Timeline of Signs and Events Leading Up to the Second Coming (7th Seal Perspective ver 1)](https://www.youtube.com/watch?v=E8FNkaB_1Bs)
+[Potential Timeline of Signs and Events Leading Up to the Second Coming (7th Seal Perspective ver 1)](https://web.archive.org/web/20210106125350/https://www.youtube.com/watch?v=E8FNkaB_1Bs) (video since deleted)
