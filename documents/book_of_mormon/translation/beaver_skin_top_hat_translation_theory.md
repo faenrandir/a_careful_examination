@@ -46,7 +46,7 @@ The model whereby Joseph hides material in his hat to aid him during the dictati
 
     Observers and scribes would need to be discouraged from examining the hat too closely both while Joseph was translating and if he merely left the hat on the table in order to leave the room (otherwise they might observe the material Joseph was using).
 
-    Joseph and Oliver referred to translation with the Urim and Thummim but this is contradicted by other accounts (for instance, Emma notes that after the loss of the 116 pages, Joseph began translating with the seer stone).  Regardless of his motivation for avoiding reference to the seer stone and hat, Oliver's account stresses the need to _not_ look into the translation apparatus:
+    Joseph and Oliver referred to translation with the Urim and Thummim but this is contradicted by other accounts (for instance, Emma notes that after the loss of the 116 pages, Joseph began translating with the seer stone).  Regardless of his motivation for avoiding reference to the seer stone and hat, Oliver's [1841 interview with Josiah Jones](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) stressed the need to _not_ look into the translation apparatus:
 
     > I then asked him [Cowdery] if he had ever looked through the stones to see what he could see in them; his reply was that **he was not permitted to look into them**. I asked him who debarred him from looking into them; he remained sometime in silence, then said that he had so much confidence in his friend Smith, **who told him that he must not look into them, that he did not presume to do so lest he should tempt God and be struck dead**. (emphasis added)
 
