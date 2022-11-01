@@ -92,7 +92,7 @@ timeframe.  According to Blythe:
 
 > Unlike earlier statements that seemed to suggest the apocalypse would occur between 1890 and 1891, in 1843, he did not posit a date for the Second Coming.  He only discounted the possibility that it could occur before 1890.
 
-Regardless, [numerous statements from indvidiuals and leaders](http://signaturebookslibrary.org/as-a-thief-in-the-night-08/#44) suggest the Saints anticipated the Second Coming would occur around 1890.
+Regardless, [numerous statements from indvidiuals and leaders](http://web.archive.org/web/20220129041219/https://signaturebookslibrary.org/as-a-thief-in-the-night-08/) suggest the Saints anticipated the Second Coming would occur around 1890.
 
 ### 1835-02-15 Oliver Cowdery (shall stand on the earth ... till Christ comes)
 
