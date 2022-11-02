@@ -88,9 +88,8 @@ layout: page
 * [Bamboozled by the "CES Letter"](http://shakenfaithsyndrome.com/bamboozle/bamboozled.pdf) (Michael Ash)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
 
-# General pros/cons of the LDS lifestyle
+## See also
 
-* [Helps and Harms](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/852010ca825193b8e3e2913795f7f1a29a1963bd/documents/helps_and_harms/Helps_and_Harms.pdf) (1 page)
-* [The Pros and Cons of Mormonism](http://prosandconsofmormonism.com/) (in-depth analysis)
+[Resources related to the helps and harms of the LDS Church](https://faenrandir.github.io/a_careful_examination/resources-related-to-helps-and-harms/)
 
 [^mormonthink]: [The MormonThink site states](http://www.mormonthink.com/) that they are "neither an anti-Mormon website nor an LDS apologist website", but the discussion and tone _is_ over-archingly critical, lest the reader be miseld by this disclaimer.  Still, it is a very useful resource.

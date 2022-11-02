@@ -116,6 +116,8 @@ if they fail to live very strict covenants.
 
 ## An attitude of "doctrine over person"
 
+The viability of any individual relationship is conditioned at least somewhat on both parties upholding certain fundamental _principles_ related to minimum levels of respect or consideration for the other (e.g., respect for the other's body and/or autonomy); however, some New Testament verses put undue weight on the nature of a person's religious commitments compared with a person's existing relationships (what has been referred to elsewhere as "doctrine over person").
+
 * John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that they should not say "hi" to them or invite them into your house.  [2 John 1: 7-11](https://www.lds.org/scriptures/nt/2-jn/1.7-11) 
 
 * Jesus Christ discouraged a disciple from burying his father with the
