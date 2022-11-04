@@ -16,7 +16,7 @@ I have faith in our government.  I expect that laws they enact will, for the mos
 
 I have faith in my wife based on continued experience with her.  I have confidence that while she is conscious and of healthy mind that she will do the right thing.  I have confidence that she'll try and love others.  My faith in my wife probably exceeds my faith in myself, and it is very high.
 
-I have faith in the basic laws of physics.  I have never seen core physics laws violated, I can't even imagine how they could be violated, and I have heard no credible reports of them ever being violated; therefore, my confidence in the core laws of physics laws is extremely high.
+I have faith in the basic laws of physics.  I have never seen core physics laws violated, I can't even imagine how they could be violated, and I have heard no credible reports of them ever being violated; therefore, my confidence in the core laws of physics is extremely high.
 
 I have faith in the idea that trying to do good is good for me and good for those around me.  The basic concept of goodness (caring about what happens to other people) is foundational to the survival of consciousness and makes sense to me based on first principles.  All my experience to this point has confirmed this, hence my confidence in the principle of goodness is extremely high.
 
@@ -86,7 +86,7 @@ After scrutinizing that data and determining that it is sound, it seems to me th
 
 ### Conclusion
 
-I believe that the more accurately our internal model of reality aligns with reality, the greater our ability to comprehend and either adeptly control or peacefully accept the world around us. More accurate models help us to do more good while poorer models may inadvertently cause us to do harm. It seems to me that the proper use of faith is to calibrate one's confidence in proportion to the strength of the data supporting it. While hope may be helpful to us in numerous ways, a failure to adjust our confidences appropriately (in either direction) may cause us to harm ourselves or others, even if inadvertently. The exercise of religious faith, it seems to me, is no virtue.
+I believe that the more accurately our internal model of reality aligns with reality, the greater our ability to comprehend and either adeptly control or peacefully accept the world around us. More accurate models help us to do more good while poorer models may inadvertently cause us to do harm. It seems to me that the proper use of faith is to calibrate one's confidence in proportion to the strength of the data supporting a proposition. While hope may be helpful to us in numerous ways, a failure to adjust our confidences appropriately (in either direction) may cause us to harm ourselves or others, even if inadvertently. The exercise of religious faith, it seems to me, is no virtue.[^no_virtue]
 
 #### Acknowledgements
 
@@ -104,4 +104,5 @@ Adapted from my post [here](https://www.reddit.com/r/mormon/comments/7qv2r4/fait
 
     In addition, while "faith as doxastic venture" seems most readily identified in some religious communities, it may also exist in some form in politics, nationalism, or perhaps within certain families.  Viewed broadly, it may have some overlap with [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance). This essay focuses on the phenomenon within the religious context, where I think it manifests itself most strongly.
 
+[^no_virtue]: One might argue that the exercise of religious faith in some contexts is virtuous because it might allow a person to remain in a religious community and accomplish good within that community they might not accomplish otherwise. But this is an argument about a _means_ to an end, not an end itself. For instance, one could argue on similar grounds that a person should not blow the whistle on a pastor molesting children because that might disrupt the other goods happening in the religious community, but that seems ridiculous since the actions of the pastor are directly causing harm and participating in communities of good-will can be accomplished in other ways.
 
