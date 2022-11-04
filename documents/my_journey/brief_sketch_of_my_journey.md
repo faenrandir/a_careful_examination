@@ -47,6 +47,10 @@ A general outline of my current beliefs about life and morality, including the r
 
 At least to this point, I have found that the contours of life and friendship remain mostly the same: life is meaningful as we serve, love, and try to understand one another.  We feel good about ourselves as we try to remain humble, to stretch ourselves to do better, and to become more.  And life is intrinsically wonderful, especially as we focus on all that is good and the common threads that bind us together on our journey.
 
+### More
+
+[Interview with Kennet Jõgi](https://www.youtube.com/watch?v=qX2-_aLpcEI)
+
 
 [^highlyfaithful]: Our family was [highly faithful to the Church way of life]({{ "/my-familys-dedication-to-gospel/" | relative_url }}).  To a large extent, our dedication to the Church ramped up as a response to my close relative leaving.
 
