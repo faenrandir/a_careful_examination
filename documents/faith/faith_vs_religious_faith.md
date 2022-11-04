@@ -1,5 +1,5 @@
 ---
-title: "Faith vs. religious faith: personal reflections on faith, hope, and love"
+title: "Confidence faith vs. religious faith: personal reflections on faith, hope, and love"
 permalink: /faith-vs-religious-faith/
 doctype: analysis
 maintopic: faith
@@ -76,13 +76,13 @@ In the essay [Fix your faith crisis with this one weird trick!](https://thoughts
 
 From this perspective, it is difficult to make a case for the virtue of religious faith. It is no virtue to perpetually fixate on a proposition if it is not true (and especially if fixation would not allow us to observe its defects). If we are presented with data that undermines a proposition, and we've thoroughly investigated the matter, it is no virtue to doggedly hang to the proposition with the same confidence as before.
 
-I may have missed something in my thinking, though, and I am open to considering other data or arguments.  For those who view religious faith a virtue, _what makes religious faith a virtue?_  Or, if you view religious faith superior to normal faith, _why?_  _What might make religious faith desirable for groups or individuals to possess?_
+I may have missed something in my thinking, though, and I am open to considering other data or arguments.  For those who view religious faith a virtue, *what makes religious faith a virtue?*[^circular_argument]  Or, if you view religious faith superior to normal faith, *why?*  *What might make religious faith desirable for groups or individuals to possess?*
 
 ### A Case Study: Faith in Priesthood blessings
 
 In [The efficacy of Priesthood Blessings]({{ "/the-efficacy-of-priesthood-blessings/" | relative_url }}) I outline data and arguments suggesting that LDS Priesthood blessings do not seem to surpass natural bounds (i.e., what might be accomplished via the placebo effect) and in many instances seem to have failed (e.g., dozens of patriarchal blessings promising individuals that they would live to see the second coming that were not fulfilled).
 
-After scrutinizing that data and determining that it is sound, it seems to me that our faith in Priesthood Blessings _ought_ to be constrained (at least a little bit) if it is indeed confidence-based faith.  To my mind, only religious faith would refuse to study/acknowledge potential failures and adjust  confidence level in the efficacy of Priesthood blessings in light of available data.
+After scrutinizing that data and determining that it is sound, it seems to me that our faith in Priesthood Blessings _ought_ to be constrained (at least a little bit) if it is indeed confidence-based faith.  To my mind, only religious faith would refuse to study/acknowledge potential failures and adjust confidence level in the efficacy of Priesthood blessings in light of available data.[^coherentism]
 
 ### Conclusion
 
@@ -106,3 +106,12 @@ Adapted from my post [here](https://www.reddit.com/r/mormon/comments/7qv2r4/fait
 
 [^no_virtue]: One might argue that the exercise of religious faith in some contexts is virtuous because it might allow a person to remain in a religious community and accomplish good within that community they might not accomplish otherwise. But this is an argument about a _means_ to an end, not an end itself. For instance, one could argue on similar grounds that a person should not blow the whistle on a pastor molesting children because that might disrupt the other goods happening in the religious community, but that seems ridiculous since the actions of the pastor are directly causing harm and participating in communities of good-will can be accomplished in other ways.
 
+[^circular_argument]: One argument I might imagine is this:
+
+    1. The LDS Church is true and following the covenant path will result in sure knowledge and bring the most joy.
+    2. Following the covenant path, regardless of whether a person knows it is true initially will *eventually* result in sure knowledge and bring the most joy.
+    3. Therefore, exercising faith in the Gospel as outlined by the LDS Church in a manner that outstrips experience (i.e., religious faith) will result (at least eventually) in sure knowledge and the most joy.
+
+    However, this argument begs the question whether the LDS Church is indeed true (the correctness of the first premise is the ultimate subject of one's confidence, so it is circular). If the LDS Church is not true, the argument is not sound.
+
+[^coherentism]: In practice, an individual belief, even a "foundational" belief, may not budge much at all even when challenged by sound data because of [epistemic coherentism or foundherentism](https://en.wikipedia.org/wiki/Justification_%28epistemology%29). According to these models, we justify beliefs based in some part on how they cohere with one another as a set. Regardless, it seems that data which challenges a belief should encourage us to evaluate coherent variants or other sets of coherent beliefs, or at least weaken our confidence that our coherent set of beliefs is the best model of reality.
