@@ -37,9 +37,9 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 * [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})
 * [Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
 
-## 3. Spiritual confirmations are common to members of many religions
+## 3. Spiritual confirmations common to members of many religions
 
-Members interpret spiritual experiences as a confirmation that their faith is true.  But [these confirmations are common to members of many faiths](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (e.g., Judaism, Catholicism, Seventh Day Adventist, Scientology, Islam, and Divine Truth), many of which hold central tenets that flatly contradict core LDS doctrines.
+Members interpret spiritual experiences as a confirmation that their faith is true.  But [these confirmations appear to be at least somewhat common to members of many faiths](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (e.g., Judaism, Catholicism, Seventh Day Adventist, Scientology, Islam, and Divine Truth), many of which hold central tenets that appear to contradict core LDS doctrines.
 
 **More**:
 
@@ -47,7 +47,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 
-Beginning in 1949, the First Presidency answered inquiries with [this statement](http://en.fairmormon.org/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements)[^fp1949]:
+Beginning in 1949, the First Presidency answered inquiries with [this statement](https://web.archive.org/web/20221105012845/https://www.fairlatterdaysaints.org/answers/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements#1949):[^fp1949]
 
 > The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord...
 
