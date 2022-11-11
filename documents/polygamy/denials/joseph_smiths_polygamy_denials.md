@@ -103,7 +103,19 @@ A few notes:
 
 > *We are charged with advocating a plurality of wives*, and common property. *Now this is as false as the many other ridiculous charges which are brought against us*. No sect have a greater reverence for the laws of matrimony, or the rights of private property, and *we do what others do not, practice what we preach* ... I remain, sir, your obliged servant, H. R.
 
-### Appendix-B Denials discussed in lds.org essay
+### Appendix-B Letter to Thomas Carlin
+
+In his letter to Illinois Governor Thomas Carlin, Joseph Smith discusses Bennett's claims which included the idea that leaders above him were giving sanction to the same practice. 
+
+> More than twelve months ago Bennett went to a Lady in the City and began to teach her that promiscuous intercourse between the sexes was lawful and no harm in it, and requested the privilege of gratifying his passions but she refused in the strongest terms saying that it was very wrong to do so, and it would bring a disgrace on the church Finding this argument ineffectual **he told her that men in higher standing in the church than himself not only sanctioned but practised the same deeds, and in order to finish the controversy said and affirmed that I both taught and acted in [p. 233] the same manner, but publicly proclaimed against it in consequence of the prejudace of the people and fear of trouble in my own house.** (emphasis added)
+
+The Joseph Smith Papers editors footnote the block quote above:
+
+> By this time, JS had apparently been sealed to several women in Nauvoo. Bennett may have had some knowledge of these sealings and may have been referring to plural marriage in his accusations against JS. JS’s practice of plural marriage, however—which included a proposal, a religious ceremony, and at least one witness—did not resemble Bennett’s claims about JS’s conduct. (See, for example, Mary Elizabeth Rollins Lightner, Affidavit, Minersville, Utah Territory, 23 Mar. 1877, Collected Material concerning Joseph Smith and Plural Marriage, CHL; and Presendia Lathrop Huntington Kimball, Affidavit, Salt Lake Co., Utah Territory, 1 May 1869, in Joseph F. Smith, Affidavits about Celestial Marriage, 1:7.)
+
+While never directly denying Bennett's charges, Joseph Smith goes on to state, "It can be proven by hundreds of witnesses that he is one of the basest of liars that his whole routine of proceedings whilst amongst us has been of the basest kind."
+
+### Appendix-C Denials discussed in lds.org essay
 
 The [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay on lds.org states the following about the denials (as of 2017-05-07):
 
@@ -115,13 +127,15 @@ They reference the following footnotes:
 
 > \[23\]: See, for example, “On Marriage,” Times and Seasons, Oct. 1, 1842, 939–40; and Wilford Woodruff journal, Nov. 25, 1843, Church History Library, Salt Lake City; Parley P. Pratt, “This Number Closes the First Volume of the ‘Prophet,’” The Prophet, May 24, 1845, 2. George A. Smith explained, “Any one who will read carefully the denials, as they are termed, of plurality of wives in connection with the circumstances will see clearly that they denounce adultery, fornication, brutal lust and the teaching of plurality of wives by those who were not commanded to do so” (George A. Smith letter to Joseph Smith III, Oct. 9, 1869, in Journal History of The Church of Jesus Christ of Latter-day Saints, Oct. 9, 1869, Church History Library, Salt Lake City).
 
-### Did Joseph Smith and other leaders lie or deceive?
+### Appendix-D Lie or deceive?
+
+Did Joseph Smith and other leaders lie or deceive?
 
 * [The verbiage used by Joseph Smith's wives to describe their unions]({{ "/how-did-js-wives-refer-to-unions/" | relative_url }}).
 * [Definitions of words related to "lie" and "deceive"]({{ "/definitions-of-terms-polygamy-denials/" | relative_url }}) (from Merriam-Webster, the Gospel Principles Manual, General Conference addresses, and Wikipedia).
 * [Response to Hales' challenge: "Please show me even one 'lie' by Joseph regarding plural marriage"](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/)
 
-#### Official and Apologetic explanations
+### Appendix-E Official and Apologetic explanations
 
 * [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true) (lds.org)
 * [“Denying the Undeniable”: Examining Early Mormon Polygamy Renunciations](https://mormonpolygamydocuments.org/wp-content/uploads/2020/10/Hales-JMH-7-2018-Denying-the-Undeniable.pdf) (Brian Hales in Journal of Mormon History, 44:3, p. 23-44, 2018)
