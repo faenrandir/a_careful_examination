@@ -9,7 +9,7 @@ layout: page
 
 ## The evidence
 
-LaMar Petersen, an amateur Mormon historian, met with Levi Young (senior President of the First Council of the Seventy) on February 3, 1953, and took these notes:
+LaMar Petersen, an amateur LDS historian,[^later_excommunicated] met with Levi Young (senior President of the First Council of the Seventy) on February 3, 1953, and took these notes:
 
 > His curiosity was excited when reading in Roberts’ Doc. History reference to "documents from which these writings were compiled." Asked to see them. TOLD TO GET HIGHER PERMISSION. Obtained that permission. Examined documents. Written, he thought, about 1837 or 1838. Was told NOT TO COPY OR TELL WHAT THEY CONTAINED. Said it was a “STRANGE” account of the First Vision. Was put back in vault. REMAINS UNUSED, UNKNOWN.
 
@@ -54,6 +54,8 @@ References:
 
 * Stan Larson.  Another Look at Joseph Smith's First Vision. [Dialogue 2014](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/Dialogue_V47N02.pdf).
 * [The Case of the Three Torn Pages](https://docs.google.com/file/d/0B46d9-tC8xTAOWdaek56WTdYZVU/preview?pli=1)
+
+[^later_excommunicated]: LaMar Petersen was a Latter-day Saint in 1953 when he was given access to the 1832 account. According to Archives West, Petersen became interested in "researching discrepancies in the doctrine of the LDS Church, and in the life of Joseph Smith." In 1957 Petersen published a pamphlet called "Problems in Mormon Text," and in 1969 he and his family were excommunicated.
 
 [^excision]: The three leaves containing the "strange" first vision account had been excised from the original journal.  The manner in which the excision was performed (i.e., the type of tape used to repair parts of the sloppy excision) means that the excision had to have taken place after 1930 (since that is when cellophane tape was invented), so likely sometime after 1935 when cellophane tape was in widespread use.  In addition, the excision [did not follow common/good archival protocol](https://www.dialoguejournal.com/2014/online-letter-to-the-editor-regarding-stan-larsons-summer-2014-article/) (i.e., no notes as to why or when the pages were excised).  The excision is further evidence that LDS leaders knew that the account was significant and took deliberate steps to avoid it being leaked.  In my view, though, the excision simply corroborates the suppression--the suppression is clearly established by LaMar Petersen's notes from 1953.
 
