@@ -92,7 +92,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **2001, 2003**&nbsp; Church manuals leave out difficult polygamy details
 
-    The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](https://www.reddit.com/r/MormonDoctrine/comments/9ava6z/the_two_institute_manuals_where_wed_expect_to_see/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
+    The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy]({{ "/extent-joseph-smiths-polygamy-taught-institute-manuals/" | relative_url }}).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
 
 * **2008**&nbsp; Church compels handbook removal from Wikimedia site
 
@@ -192,7 +192,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **present**&nbsp; Papers of leaders donated decades ago, under stipulation that they be open, are still closed
 
-    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ([transcript]({{ "/matt-harris-transcript-on-lds-transparency/" | relative_url }})), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984.  Neither Spencer W. Kimball's or Henry Moyle's papers are available today.
+    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ([transcript]({{ "/matt-harris-transcript-on-lds-transparency/" | relative_url }})), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984.  Neither the Spencer W. Kimball's nor the Henry Moyle papers are available today.
 
 ## Discussion
 
@@ -265,7 +265,7 @@ The author received valuable feedback on a first draft of this document from the
 
 [^modern]: I am aware of probably just as many examples of the early LDS Church failing to be transparent as the modern Church, but this document is focused on the modern Church.
 
-[^montez]: My point in citing Shannon Montez's masters thesis is to demonstrate that LDS leadership have known about potentially troubling issues with Book of Mormon historicity for a long time.  Montez concludes that B.H. Roberts probably did not believe in the historicity of the Book of Mormon towards the end of his life, but it is not clear if she grappled with the [data suggesting that Roberts may indeed have believed in a historical Book of Mormon](https://www.plonialmonimormon.com/2020/08/b-h-roberts-and-the-book-of-mormon-exhumation-and-reburial.html).  I personally think it's difficult to decide the state of Roberts's belief at the end of his life.  At the very least, these issues seemed a challenge to him.
+[^montez]: Shannon Montez's masters thesis is cited to demonstrate that LDS leadership have known about potentially troubling issues with Book of Mormon historicity for a long time.  Montez concludes that B.H. Roberts probably did not believe in the historicity of the Book of Mormon towards the end of his life, but it is not clear if she grappled with the [data suggesting that Roberts may indeed have believed in a historical Book of Mormon](https://www.plonialmonimormon.com/2020/08/b-h-roberts-and-the-book-of-mormon-exhumation-and-reburial.html).  It may be difficult to decide the state of Roberts's belief at the end of his life, but at the very least, these issues seemed a challenge to him.
 
 [^dishonesty]: Intentional dishonesty can be difficult to demonstrate in the historical record. To demonstrate it, a person typically needs to establish who knew what and when, and even then a case to establish motivation may merely be suggestive.
 
@@ -282,7 +282,6 @@ The author received valuable feedback on a first draft of this document from the
 [^financial_transparency]: An example of financial transparency in a religious organization is the [financial disclosures](https://elca.org/About/Financial) of the Evangelical Lutheran Church in America.
 
 [^snow_gospel_tangents]: [Elder Snow responded to the question](https://www.youtube.com/watch?v=BS6hRBfYqHc&feature=youtu.be&t=240) of whether they were hiding the Gospel Topics Essays:
-
     > [Rick Bennett]: There's been a lot of people that say it seems like the Church is kind of hiding these they don't publicize them very well.
     > [Elder Steven Snow]: Well, that's very interesting.  You know the debate, just so I can give you a little context of what was happening was do you advertise and make a big deal about a website that you can go to to learn all of these, you know, everything weird you wanted to know about the LDS Church of Jesus Christ of Latter-day Saints you can go here?  Or should we just kind of quietly release them?  And the decision was made to kind of quietly put them out there so that they're accessible and then at a later date we could publicize them more if we wanted. ...
 

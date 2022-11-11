@@ -41,6 +41,6 @@ RICHARDS: No. I’ve never seen it. And I don’t think there is any living man 
 
 ---
 
-[Mormon church releases photos of ‘seer stone’ used by founder Joseph Smith](http://www.sltrib.com/news/2802019-155/mormon-church-to-release-more-documents):
+From the 2015 Salt Lake Tribune article ["Mormon church releases photos of ‘seer stone’ used by founder Joseph Smith"](http://web.archive.org/web/20150806210326/http://www.sltrib.com/news/2802019-155/mormon-church-to-release-more-documents):
 
 > The LDS Church provided a new glimpse of its origins Tuesday by publishing the handwritten "printer's manuscript" of the Book of Mormon and photos of the "seer stone," a dark, egg-size polished rock founder Joseph Smith claimed to have used to produce the faith's sacred scripture.
