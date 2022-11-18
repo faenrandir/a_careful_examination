@@ -6,11 +6,7 @@ A collection of resources, research, and thoughts on the truth-claims, teachings
 
 ## For your initial consideration
 
-{% for page in site.pages %}
- {% if page.doctype == 'resource' and page.introductory %}
-<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
- {% endif %}
-{% endfor %}
+[To peek behind the curtain: the decision to critically investigate LDS truth-claims]({{ "/to-peek-behind-the-curtain/" | relative_url }})
 
 ## General Resources
 
