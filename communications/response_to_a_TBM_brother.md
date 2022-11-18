@@ -93,13 +93,13 @@ It's a beautiful experience in many ways.
 
 > spirit world
 
-The discussion in Alma 40 on the spirit world matches closely the discussion in Matthias Earbery's book "Of the state of the dead and of those that are to rise", including suspiciously similar phraseology:
+The discussion in Alma 40 on the spirit world matches closely the discussion in Thomas Burnet's book "Of the state of the dead and of those that are to rise", including suspiciously similar phraseology:
 
 > What the future State of the Soul is after the Corporeal Dissolution; or concerning the middle **State of Souls betwixt Death and the Resurrection, as to the Degrees of Happiness and Misery**. [emphasis added]
 
 > As we have already proved from natural Reason, and from the Evidence of sacred Writ, That human Souls survive the Body; we must next examine in what State they are, and what Life they enjoy after this corporeal Separation.  We must first enquire if they are invested with another Body after they have parted from this; of what Nature that Body is; or, whether they remain naked and divested of all Matter to the Resurrection. The Solution of this Question leads us directly into a Knowledge of a future State.  But as the other, concerning the Degrees of Happiness and Misery, is more general and less obsure, we shall bring upon the Test into Examination, the Opinion of some * Neotericks, who will have the Souls immediately after Death carried up into Heaven, and to the highest Glories of the Beatifick Vision; or to be depressed into the utmost Miseries of Hell: Both, I think are too much upon the Extremes.  The reformed Divines, to avoid the Terrours of Purgatory, have entirely taken away the intermediate State; as we are too apt in avoiding one Folly to fall upon another.  It is very well known, the Roman Purgatory is adapted to the Humours of the People and the Benefit of the Priest: But why should these Phantasms fright us away from the Search of Truth, and the Opinion of the Ancients concerning the hitherto unfulfilled **State of Misery and Happiness, before the Day of Judgement**.  We shall at present defer to speak of the Miserable, and confine our selves to shew, how dissonant it is to the sacred Writings and the ancient Faith, to assert the immediate Translation from this Life to the Kingdom of Heaven, and the Beatifick Vision, before the Resurrenction and coming of CHRIST. [emphasis added]
 
-See additional similarities with Earbery [here](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/).
+See additional similarities with Burnet [here](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/).
 
 In addition, current LDS doctrine on the eternal nature of spirit gender locks the Church into gender binaries where the biological reality is [much more complex](https://i.redd.it/sidxs9i62rlz.jpg)
 (from [Beyond XX and XY: The Extraordinary Complexity of Sex Determination](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/))

@@ -333,7 +333,7 @@ The author of the Book of Mormon refers to the premortal existence in almost [ex
 
 >  <span style="color:red; margin-left:-30px;">[Doctrine:2b] ... and to a postmortal spirit world in Alma 40 (see Alma 40:11–14).</span>
 
-Matthias Earbery discussed the spirit world using [very similar verbiage and reasoning](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/) as found [in Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg).
+Thomas Burnet discussed the spirit world using [very similar verbiage and reasoning](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/) as found [in Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2c] Where did Joseph Smith get these profound doctrinal truths that were in fact contrary to the prevailing doctrinal teachings of his time?</span>
 
