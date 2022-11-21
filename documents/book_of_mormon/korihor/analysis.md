@@ -7,33 +7,33 @@ his position (or aspects of it) and in other places I will point out how indefen
 
 > 6 But it came to pass in the latter end of the seventeenth year, there came a man into the land of Zarahemla, and he was Anti-Christ, for he began to preach unto the people against the prophecies which had been spoken by the prophets, concerning the coming of Christ.
 
-The narrator/abridger, Mormon, has the advantage here because he knows that Christ already came to the Americas (in the Book of Mormon universe).  But at the time Korihor is preaching
+The narrator/abridger, Mormon, has the advantage here because he knows that Christ already came to the Americas (in the Book of Mormon universe).  But at the time Korihor is preaching, 
 
 > 7-11 ...
 
 > 12 And this Anti-Christ, whose name was Korihor, (and the law could have no hold upon him) began to preach unto the people that there should be no Christ. And after this manner did he preach, saying:
 
-At least as summarized by Mormon, Korihor begins with an indefensible position: "that there should be no Christ".  How can he even assert such a thing?  A far superior stance would be: "others have asserted that Christ will come; I am open to evidence that would support such a claim, but I currently do not see enough evidence to support the claim."
+At least as summarized by Mormon, Korihor begins with an indefensible position: "that there should be no Christ".  How can he even assert such a thing?  A superior stance would be: "others have asserted that Christ will come; I am open to evidence that would support such a claim, but I currently do not see enough evidence to support the claim."
 
 > 13 O ye that are bound down under a foolish and a vain hope, why do ye yoke yourselves with such foolish things? Why do ye look for a Christ? For no man can know of anything which is to come.
 
-Here again, Korihor is making all kinds of positive knowledge assertions for which he seems to have little or any evidence.  What evidence does Korihor have that "no man can know of anything which is to come?"  A superior stance might be: "What is the evidence that people can predict events hundreds of years into the future?  Based on how the world seems to work, that does not seem possible.  Those who make this assertion should defend it, or we are justified in tentatively dismissing it until further evidence surfaces."
+Here again, Korihor is making all kinds of positive assertions for which he seems to have little or any evidence.  What evidence does Korihor have that "no man can know of anything which is to come?"  A superior stance might be: "What is the evidence that people can predict events hundreds of years into the future?  Based on how the world seems to work, that does not seem possible.  Those who make this assertion should defend it, or we are justified in tentatively dismissing it until further evidence surfaces."
 
 > 14 Behold, these things which ye call prophecies, which ye say are handed down by holy prophets, behold, they are foolish traditions of your fathers.
 
 > 15 How do ye know of their surety? Behold, ye cannot know of things which ye do not see; therefore ye cannot know that there shall be a Christ.
 
-Korihor's key argument seems to be "ye cannot know of things which ye do not see".  This is another strong assertion and doesn't represent very well all the ways in which we gain confidence in assertions which are not visible to our eyes.  We often depend on testimony of others and the output of instrumentation to extend the reach of our 5 senses.
+Korihor's key argument seems to be "ye cannot know of things which ye do not see".  This is another strong assertion and neglects all the ways in which we gain confidence in assertions which are not visible to our eyes.  We often depend on testimony of others (both orally and in writing) and the output of instrumentation to extend the reach of our 5 senses.
 
 > 16 Ye look forward and say that ye see a remission of your sins. But behold, it is the effect of a frenzied mind; and this derangement of your minds comes because of the traditions of your fathers, which lead you away into a belief of things which are not so.
 
 More strong assertions which seem indefensible.  I might say, "you look forward to a remission of your sins based on your reading of your religious texts and certain mystical/spiritual experiences [more...]"
 
-But something like receiving "a remission of sins" through the future sacrifice of Jesus seems like an unfalsifiable proposition.  Imagine, for the sake of argument, that Jesus did not properly complete the atonement and so no sins are *actually* being remitted by Jesus.  How would you know if that were the case?
+But something like receiving "a remission of sins" through the future sacrifice of Jesus seems like an unfalsifiable proposition.  Imagine, for the sake of argument, that Jesus did not properly complete the atonement and hence, in this scenario, no sins are *actually* being remitted by Jesus.  How would you know if that were the case?
 
 > 17 [A] And many more such things did he say unto them, telling them that there could be no atonement made for the sins of men,
 
-Again, Korihor is stating things that he cannot really know.  A better way to argue this would simply be to say that as wonderful as an atonement might sound, the idea that such an event actually occured (i.e., that a being really paid the debt of sin for all human kind that will repent) and it is effectual in any objective manner (the *idea* of an atonement my be a powerful force in someone's life simply because they believe it is powerful) is not yet substantiated.
+Again, Korihor is stating things that he cannot really know.  A better way to argue this would simply be to say that as wonderful as an atonement might sound, the idea that such an event actually occurred (i.e., that a being really paid the debt of sin for all human kind that will repent) and it is effectual in any objective manner (the *idea* of an atonement my be a powerful force in someone's life simply because they believe it is powerful) is not yet _substantiated_.
 
 >  17 [B] ... but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, ...
 
@@ -41,27 +41,27 @@ It goes without saying that the choices we make influence how we fare.  Still, w
 
 > 17 [C] ... and that every man conquered according to his strength;  ...
 
-Just because a person may be able to "conquer" others does not mean they *ought* to conquer others.  Once we acknowledge that other humans are conscious and that our actions impact one anothers' experiences, we have good reason treat one another with respect.  And Korihor seems to be unaware that his same logic could also have been just as easily directed in different, less toxic directions.  For instance, he could have said "every man *serves his fellow man* according to his strength" and this would have been just as valid a statement based on his, admittedly poor, logic.
+Just because a person may be able to "conquer" others does not mean they *ought* to conquer others.  Once we acknowledge that other humans are conscious and that our actions impact one anothers' experiences, we have good reason treat others with respect.  And Korihor seems to be unaware that his same logic could also have been just as easily directed in different, less toxic directions.  For instance, he could have said "every man *serves his fellow man* according to his strength" and this would have been just as valid a statement based on his, admittedly poor, logic.
 
 > 17 [D] ... and whatsoever a man did was no crime.
 
-A small minority of atheists have argued this position (moral nihilism), but it seems unsupportable to most modern secular humanists.  Are we really to believe that torturing young children--for fun--is not wrong?  The recognition that other humans have conscious experiences compels rational beings to treat others with kindness and respect.
+A small minority of atheists have argued this position (moral nihilism), but it seems unsupportable to most modern secular humanists.  Are we really to believe that torturing young children---for fun---is not wrong?  The recognition that other humans have conscious experiences compels rational beings to treat others with kindness and respect.
 
 > 18 And thus he did preach unto them, leading away the hearts of many, causing them to lift up their heads in their wickedness, yea, leading away many women, and also men, to commit whoredoms—telling them that when a man was dead, that was the end thereof.
 
-We need to distinguish between two possible types of "wickedness".  The first type genuinely inflicts harm on another person *for* personal pleasure or *enroute* to some personal pleasure.  These are genuine moral harms.  Regardless of one's belief in life after death, we have extremely high confidence that our actions impact the well-being of others, hence acting in ways that harm the well-being of others without good justification is morally wrong.  We do not need an after-life to convince us of that fact.  The second type of "wickedness" might be to act in contravention of some religious rule that has no real grounding in, or even inflicts, moral harm.  For instance, the religious law of the Nephites, as the Book of Mormon goes, was the Law of Moses which included cutting off the protective part of the genitalia of their sons at eight days old (Leviticus 12:3).  To refuse to circumcise one's child might be called "wickedness" by people raised under the Law of Moses, even if not circumcising one's children is arguably a morally acceptable behavior.
+We need to distinguish between two possible types of "wickedness".  The first type genuinely inflicts harm on another person *for* personal pleasure or *enroute* to some personal pleasure.  These are genuine moral harms.  Regardless of one's belief in life after death, we have extremely high confidence that our actions impact the well-being of others, hence acting in ways that harm the well-being of others without good justification is morally wrong.  We do not need an after-life to convince us of that fact.  The second type of "wickedness" might be to act in contravention of some religious rule that has no real grounding in, or even inflicts, moral harm itself.  For instance, the religious law of the Nephites, as the Book of Mormon goes, was the Law of Moses which included cutting off the protective part of the genitalia of their sons at eight days old (Leviticus 12:3).  To refuse to circumcise one's child might be called "wickedness" by people raised under the Law of Moses, even if not circumcising one's children is arguably a morally acceptable behavior.
 
-But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The moral implications of sexuality are complex.  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly and distinctly wrong.
+But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The [moral implications of sexuality are complex](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/).  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly and distinctly wrong.
 
 > 19 Now this man went over to the land of Jershon also, to preach these things among the people of Ammon, who were once the people of the Lamanites.
 
 > 20 But behold they were more wise than many of the Nephites; for they took him, and bound him, and carried him before Ammon, who was a high priest over that people.
 
-Why is the wise approach to simply refuse to engage with Korihor?  If his positions are unsound, then it should be trivial to demonstrate them unsound.  If his arguments are sound, then perhaps these people have something to learn.  Refusing to listen to another position and instead binding a person and taking them to your religious leader [Ammon wasn't a civil leader, right?] for judgement seems like a poor response to differing views.  
+Why is the wise approach to simply refuse to engage with Korihor?  If his positions are unsound, then it should be trivial to demonstrate them unsound.  If his arguments are sound, then perhaps these people have something to learn.  Refusing to listen to another position and instead binding a person and taking them to your religious leader [Ammon wasn't a civil leader, right?] for judgement seems like a poor response to differing views.
 
 > 21 And it came to pass that he caused that he should be carried out of the land.
 
-Again, kicking someone out of your territory because you disagree with their position seems highly intolerant.  How do Latter-day Saints view the countries that don't allow their missionaries in to teach?  Are these countries wise for refusing to even listen to a counter point of view?
+Again, kicking someone out of your territory because you disagree with their position seems highly intolerant.  How do Latter-day Saints view the countries that don't allow their missionaries in to teach?  Are these countries wise for refusing to even listen to a different point of view?
 
 > ... And he came over into the land of Gideon, and began to preach unto them also; and here he did not have much success, for he was taken and bound and carried before the high priest, and also the chief judge over the land.
 
@@ -85,13 +85,13 @@ I don't think we have enough data to decide this accusation.  And, how we view t
 
 The main flaw in interpreting this statement is that it was, according to the book itself, abridged by someone living hundreds of years later.  With the benefit of hindsight, it is difficult to criticize those who believe that "those ancient prophecies are true."  So, given the narrator's advantage, it seems as if Korihor is short-sighted and those who believe in the ancient prophecies are prescient.
 
-However, the naturalists question whether anyone *has* ever predicted the future via supernatural means (we *can* devise [tests for prophetic ability](https://www.reddit.com/r/exmormon/comments/ckc6ef/the_garden_of_eden_and_noahs_ark_has_been_found/evs2nca/)).  Scripture is full of examples of abusing the original meaning of a scripture to turn it into a fulfillment event or prophecies that are so vague that we can say that almost any event fulfills them.
+However, the naturalists question whether anyone *has* ever predicted the future via supernatural means (we *can* devise [tests for prophetic ability]({{ "/simple-test-for-prophetic-ability/" | relative_url }})).  Scripture is full of examples of abusing the original meaning of a scripture to turn it into a fulfillment event or prophecies that are so vague that we can say that almost any event fulfills them.
 
 So, pushing back on those who believe in prophecy seems fair.
 
 > 25 Ye say that this people is a guilty and a fallen people, because of the transgression of a parent. Behold, I say that a child is not guilty because of its parents.
 
-This is a fair argument from Korihor.  There are very good reasons to doubt the existence of a literal Adam and Eve.  If they never lived, it is difficult to think there was a literal Fall.  It then follows that talk about inheriting anything (a fallen nature or death) from the fall is problematic.  Humans were dying before Adam (a man that never existed in the role attributed to him by scripture).  Humans were "sinning" (may not have called it that) before Adam (again, a man that never existed in the role attributed to him by scripture).
+This is a fair argument from Korihor.  There are very good reasons to doubt the existence of a literal Adam and Eve.  If they never lived, it is difficult to think there was a literal Fall.  It then follows that talk about inheriting anything (a fallen nature or death) from the Fall is problematic.  Humans were dying before Adam (a man that never existed in the role attributed to him by scripture).  Humans were arguably "sinning" (may not have called it that) before Adam (again, a man that never existed in the role attributed to him by scripture).
 
 > 26 And ye also say that Christ shall come. But behold, I say that ye do not know that there shall be a Christ. And ye say also that he shall be slain for the sins of the world—
 
@@ -99,9 +99,9 @@ See commentary on verse 24.
 
 > 27 And thus ye lead away this people after the foolish traditions of your fathers, and according to your own desires; and ye keep them down, even as it were in bondage, that ye may glut yourselves with the labors of their hands, that they durst not look up with boldness, and that they durst not enjoy their rights and privileges.
 
-Korihor is attributing all kinds of motivation to the priests that they would not attribute to themselves.  That makes him guilty of motivational misattribution and those describing him in this fashion guilty of constructing a straw-man.  We can disagree with the epistemological soundness of a priest's position without doubting his sincerity or altruism.
+Korihor is attributing all kinds of motivation to the priests that they would probably not attribute to themselves.  That makes him guilty of motivational misattribution and those describing him in this fashion guilty of constructing a straw-man.  We can disagree with the epistemological soundness of a priest's position without doubting his sincerity or altruism.
 
-And, his choice of the word "foolish" is far less generous and precise than words like "unsubstantiated" and/or "unsubstantiatable" to describe the religious position.  Again, we sense the construction of a straw-man--the generous skeptic has no reason to use harsh rhetoric in describing the religious position.  We can disagree without being disagreeable.
+And, his choice of the word "foolish" is far less generous and precise than words like "unsubstantiated" and/or "unsubstantiatable" to describe the religious position.  Again, we sense the construction of a straw-man---the generous skeptic has no reason to use harsh rhetoric in describing the religious position.  We can disagree without being disagreeable.
 
 > 28 [A] Yea, they durst not make use of that which is their own lest they should offend their priests, who do yoke them according to their desires,
 
@@ -113,32 +113,61 @@ Korihor is asserting that the priests are "pretending", but this is inconsistent
 
 > 28 [C] ... that they should, if they did not do according to their words, offend some unknown being, who they say is God—a being who never has been seen or known, who never was nor ever will be.
 
-But many people have had mystical experiences.  Korihor's confidence seems extreme--we can't fully rule out the existence of God.  But, we can suggest that there are good reasons to doubt that these experiences are the result of communication with an omniscient being.
+But many people have had mystical/numinous experiences.  Korihor's confidence seems extreme--we can't fully rule out the existence of God.  But, we can suggest that there are good reasons to doubt that these experiences are the result of communication with an omniscient being.
 
 > 29 Now when the high priest and the chief judge saw the hardness of his heart, yea, when they saw that he would revile even against God, they would not make any reply to his words; but they caused that he should be bound; and they delivered him up into the hands of the officers, and sent him to the land of Zarahemla, that he might be brought before Alma, and the chief judge who was governor over all the land.
 
-A person is not obligated to continue a conversation that is offending them,
-but binding Korihor because 
+A person is not obligated to continue a conversation that is offending them, but binding Korihor because of a disagreement seems far less productive than simply agreeing with whichever points he has made that are reasonable and/or pointing out the flaws in his reasoning where applicable.
 
-* 
+The binding of Korihor seems reminiscent of the execution of Socrates. Socrates questioned the prevailing value system of the Athenians, and instead of grappling with his questions (and potentially growing from the process), they instead chose to execute him. I am not here implying that Korihor was the equivalent of Socrates, merely that the response of binding and forcibly dismissing a questioner may be short-sighted.
 
 > 30 And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, he went on to blaspheme.
+
+Alma does not address the blasphemy. The intended effect of mentioning that
+Korihor "went on to blaspheme" before moving on to other issues that are
+directly addressed is to appeal to the sensibilities of those who are
+_already_ religious (which would have been most people in Joseph Smith's
+time). Those who do not believe in or are agnostic towards God's existence
+tend not to care about insults or denials of God, and I would argue that
+neither should the religious: mainly, God (and his followers) could simply
+[choose _not_ to be
+offended](https://www.churchofjesuschrist.org/study/general-conference/2006/10/and-nothing-shall-offend-them?lang=eng).
 
 > 31 And he did rise up in great swelling words before Alma, and did revile against the priests and teachers, accusing them of leading away the people after the silly traditions of their fathers, for the sake of glutting on the labors of the people.
 
 > 32 Now Alma said unto him: Thou knowest that we do not glut ourselves upon the labors of this people; for behold I have labored even from the commencement of the reign of the judges until now, with mine own hands for my support, notwithstanding my many travels round about the land to declare the word of God unto my people.
 
+"great swelling words" seem only meant to color the reader against Korihor.
+
 > 33 And notwithstanding the many labors which I have performed in the church, I have never received so much as even one senine for my labor; neither has any of my brethren, save it were in the judgment-seat; and then we have received only according to law for our time.
 
 > 34 And now, if we do not receive anything for our labors in the church, what doth it profit us to labor in the church save it were to declare the truth, that we may have rejoicings in the joy of our brethren?
+
+The substance of Korihor's argument is that the priests were probably disingenuously
+("silly traditions") teaching their religion so they could live off the labor
+of the people and not work themselves. If Alma is arguing with accuracy, then
+Korihor's argument is mis-placed from the beginning and, not only that,
+Korihor _knows_ that it is vacuous. The only conclusion that can be reached,
+from the perspective of the writer and which is impressed upon the reader, is
+that Korihor is possessed of a lying spirit. He basically will say anything,
+regardless of its objective truth, to lead hearts away from the one true
+faith.
 
 > 35 Then why sayest thou that we preach unto this people to get gain, when thou, of thyself, knowest that we receive no gain? And now, believest thou that we deceive this people, that causes such joy in their hearts?
 
 > 36 And Korihor answered him, Yea.
 
+A naturalist would seek to represent the facts with as great precision as
+possible.  Korihor contradicts Alma but gives no reason (or no reason is
+included by those recording or authoring the event). We cannot help but
+side with Alma in this instance because Korihor seems to be arguing directly
+against simple statements of fact.
+
 > 37 And then Alma said unto him: Believest thou that there is a God?
 
 > 38 And he answered, Nay.
+
+Although there may have been [more disbelief in God(s) than has been assumed](https://www.cam.ac.uk/research/news/disbelieve-it-or-not-ancient-history-suggests-that-atheism-is-as-natural-to-humans-as-religion) by many, the idea of demanding a statement of belief during a dialogue fits better within modern,[^enlightenment] rather than ancient, discourse.[^belief_in_god_assumed]
 
 > 39 Now Alma said unto him: Will ye deny again that there is a God, and also deny the Christ? For behold, I say unto you, I know there is a God, and also that Christ shall come.
 
@@ -207,3 +236,7 @@ The character Korihor in the Book of Mormon:
 [^sexuality]: We need to distinguish between two possible types of "wickedness".  The first type genuinely inflicts harm on another person *for* personal pleasure or *enroute* to some personal pleasure.  These are genuine moral harms.  Regardless of one's belief in life after death, we have extremely high confidence that our actions impact the well-being of others, hence acting in ways that harm the well-being of others without good justification is morally wrong.  We do not need an after-life to convince us of that fact.  The second type of "wickedness" might be to act in contravention of some religious rule that has no real grounding in, or even inflicts, moral harm.  For instance, the religious law of the Nephites, as the Book of Mormon goes, was the Law of Moses which included cutting off the protective part of the genitalia of their sons at eight days old (Leviticus 12:3).  To refuse to circumcise one's child might be called "wickedness" by people raised under the Law of Moses, even if not circumcising one's children is arguably a morally acceptable behavior.
 
 But the verse also talks about "whoredoms".  Narrowly speaking, this would refer to prostitution or similar kinds of activity.  The moral implications of sexuality are complex.  Certain kinds of sexual expression seem clearly to diminish the well-being of one or more participants, so we can clearly say these are morally problematic or, in many cases, clearly and distinctly wrong.
+
+[^enlightenment]: Arguments over the existence of God and evidence for or against the proposition were [a feature of the Enlightenment](https://www.thegospelcoalition.org/essay/the-rise-of-biblical-criticism-in-the-enlightenment/).
+
+[^belief_in_god_assumed]: From the Internet Encyclopedia of Philosophy entry on [Religious Epistemology](https://iep.utm.edu/relig-ep/): "In the West, belief in God was assumed in the dominant Jewish, Christian and Islamic religions."
