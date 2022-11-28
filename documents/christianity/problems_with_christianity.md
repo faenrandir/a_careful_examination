@@ -65,13 +65,21 @@ There are aspects of Christian teaching, some which derive directly from the wor
 
 The desire to maintain a belief in God and Christ can hinder a person from searching for and then fairly evaluating the evidence that might contradict or deservedly weaken that belief.
 
-**Mark 4:28-29**
+**Mark 4:28--29**
 
 > Truly I say to you, all sins will be forgiven the sons of men, and whatever blasphemies they utter; but whoever blasphemies against the Holy Spirit never has forgiveness, but is guilty of an eternal sin.
 
-**Mark 8:11-12**
+**Mark 8:11--12**
 
 > The Pharisees came and began to argue with him, seeking from him a sign from heaven, to test him. And he sighed deeply in his spirit and said, "Why does this generation need a sign? Truly, I say to you, no sign shall be given to this generation."
+
+**Matthew 16:1--4** (similar)
+
+> The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven. He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red. And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?  A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
+
+**Matthew 12:38--40** (similiar)
+
+> Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee. But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas: For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
 
 This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > Seventh Day Adventist > Evangelical > Catholic > Protestant > Unitarian Universalist).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
 

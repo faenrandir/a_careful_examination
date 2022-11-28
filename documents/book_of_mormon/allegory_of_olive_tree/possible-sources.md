@@ -77,6 +77,5 @@ Second, information was available at the time (for instance, [this essay](https:
 3. The [importance of pruning](https://books.google.com/books?id=txoLAAAAIAAJ&pg=PA1&dq=%22olive+tree%22&hl=en&sa=X&ved=0ahUKEwi6z4be3q7dAhWRyVMKHa6FBmsQ6AEIMzAC#v=snippet&q=pruning&f=false)
 * The ability [to burn olive trees](https://books.google.com/books?id=txoLAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=%22burns%20as%20well%20before%20as%20after%20it%20is%20dried%22&f=false) if needed
 
-## See Also
+_Source: With some minor modifications to address the question, from my document [here](https://faenrandir.github.io/a_careful_examination/potential-sources-allegory-olive-tree/)_
 
-[Discussion of Zenos]({{ "/examination-of-zenos/" | relative_url }})

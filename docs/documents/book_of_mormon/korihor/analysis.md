@@ -1,5 +1,5 @@
 
-[rough draft]
+[very, very rough draft; just scattered thoughts in places]
 
 Modern members of the Church of Jesus Christ of Latter-day Saints often use Korihor, a skeptical anti-Christ presented in Alma chapter 30 of the Book of Mormon, as a stand-in for the modern secular/scientific position (show examples).  I will demonstrate below that Korihor poorly represents the modern secular/scientific position (hereafter referred to as the naturalist position) and that counter-arguments to Korihor's ill-formed position are far less effective against the naturalist position.
 
@@ -171,15 +171,94 @@ Although there may have been [more disbelief in God(s) than has been assumed](ht
 
 > 39 Now Alma said unto him: Will ye deny again that there is a God, and also deny the Christ? For behold, I say unto you, I know there is a God, and also that Christ shall come.
 
+In verse 44 [others?] Alma will indicate how he "knows" and the
+appropriateness of using the word "know" to describe his inference will be
+discussed then.
+
 > 40 And now what evidence have ye that there is no God, or that Christ cometh not? I say unto you that ye have none, save it be your word only.
+
+Alma flips [the burden of proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)) onto Korihor and asks him to advance evidence _disproving_ the existence of God. Although Alma will go on to advance reasons for believing in God (e.g., vs 44), it's not at all clear that these reasons are sufficient to demonstrate that God exists.  Hence, the argument may be viewed as an [argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance).  Alma has advanced a false dichotomy in that "there may have been an insufficient investigation to prove that the proposition is either true or false." Also, in shifting the burden of proof as he does, Alma "does not allow for the possibility that the answer is unknowable [or] only knowable in the future."
 
 > 41 But, behold, I have all things as a testimony that these things are true; and ye also have all things as a testimony unto you that they are true; and will ye deny them? Believest thou that these things are true?
 
 > 42 Behold, I know that thou believest, but thou art possessed with a lying spirit, and ye have put off the Spirit of God that it may have no place in you; but the devil has power over you, and he doth carry you about, working devices that he may destroy the children of God.
 
+Maybe not the main argument, but a minor argument appears to proceed like
+this:
+
+1. You know that there is a God, but you deny this because the Devil has power over you.
+2. You would not lie in such a manner unless the Devil existed (implied)
+3. Therefore, God exists.
+
+The argument is circular because it essentially begs the question of God's existence (indirectly). Satan, in New Testament Christian theology (and as presented in the BoM), is viewed as God's adversary, so unless God exists Satan would not (likely) exist.
+
 > 43 And now Korihor said unto Alma: If thou wilt show me a sign, that I may be convinced that there is a God, yea, show unto me that he hath power, and then will I be convinced of the truth of thy words.
 
+Korihor's response assumes that he is indeed lying.  If he were not lying but merely mistaken about Alma's pay (or lack thereof), he could have responded by updating his position like so, "I did not realize that you were working without pay. One of my core arguments appears to be merit-less, so I need to re-evaluate my position." Or if he were lying, he could have decided to stop lying at this moment (i.e., as he does in verse 53 "the devil hath deceived me; for he appeared unto me in the form of an angel ...").
+
+Asking for a sign to be convinced that there is a God is deeply problematic based on the words of Jesus recorded in the New Testament (e.g., Matthew 12:38--40, Matthew 16:1--4, and Mark 8:11--12). The text states that the Pharisees and Sadducees came with the intention of "tempting" Jesus to show them a sign from heaven.  According to Matthew, Jesus responded that a wicked/evil and adulterous generation seeks after a sign.
+
+As commonly applied by members of the Church ([for example](https://www.churchofjesuschrist.org/study/liahona/2002/05/latter-day-saint-voices-the-kingdom-of-god-is-here/i-refused-to-hear?lang=eng)), members should not ask for a _sign_ to know of God's existence or receive a testimony of the Church (although they may ask to know the truthfulness of the Book of Mormon and anticipate that the Holy Ghost will demonstrate its truth to them by [any variety of means, but most of which seem at least somewhat subjective](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng).
+
+In fact, Korihor's request for a sign follows a similar pattern as Zacharias in the gospel of Luke. After Gabriel announces that Elisabeth shall bear a son, John (the Baptist), Zacharias asks the angel (Luke 1:18), "Whereby shall I know this?" and goes on to explain the reason for his doubting, "for I am an old man, and my wife well stricken in years." After affirming that he "stand[s] in the presence of God" and was "sent to ... shew thee these glad tidings" he then indicates that Zacharias will not be able to speak until "the day these things shall be performed because thou believest not my words, which shall be fulfilled in their season."
+
+Maybe used like this?
+
+1. Those who are adulterous are liars by definition: they profess to be married and act in contravention of that agreement. They are also wicked by definition: they seek sexual satisfaction rather than righteousness (i.e., fulfilling the marriage vow).
+2. A wicked liar, based on their character, would ask for a sign with no intention of changing their behavior.
+3. Therefore, if you ask for a sign, then you are adulterous. [fallacy]
+
+Stated this way, the conclusion (#3) is a post hoc ergo propter hoc fallacy
+(improperly inferring causation) "Since event Y followed event X, event Y must
+have been caused by event X"). While adulterous people would ask for a sign
+with no intention of changing their behavior based on the outcome, it does not
+follow that an honest person couldn't also ask for a sign in sincerity and
+that they might alter their behavior after demonstration.
+
+Regardless, virtually all knowledge and models beyond the senses are gained
+via demonstration. It makes no sense that a person couldn't ask, in sincerity,
+for a demonstration of a claim.
+
+Latter-day Saints might respond that the purpose of life is to learn to
+walk by faith and that direct demonstrations would undermine this process.
+
+1. Many were given direct demonstrations and still chose otherwise.  So, might
+   not really be necessary for proving that a person will follow.
+2. A process intrinsically susceptible for abuse.
+3. It is unclear our acting by faith prepares a person for Godhood, since
+   Godhood implies the acquisition of all knowledge. It is sometimes asserted that faith
+   is the power by which God creates, but this is never explained (it's just an assertion).
+
+The refusal to demonstrate a claim to a person who doubts an assertion puts them in a [Catch-22 situation](https://en.wikipedia.org/wiki/Catch-22_%28logic%29). A person who doubts cannot ask for substantiation. They must simply accept veracity of the religious claim.[^mary]
+
+According to this logic, religious claims, which often hinge upon unseen or indirect phenomena, do not require substantiation:
+
+1. The person accepts the claim (John 20:29 "Blessed are those who have not seen, and have believed")
+2. Alternatively, the person is not convinced of the claim and asks for additional substantiation (aka "a sign"); they are dismissed as part of a "wicked and adulterous" generation.
+3. Outcome: the claim is accepted as veridical.
+
+The problematic nature of this argument should be obvious, but can be
+demonstrated thus:
+
+1. One could claim, in a religious setting, that God is creator of all things.
+2. One could also claim, in a religious setting, that god is NOT the creator of all things.
+3. Either of the statements could be subjected to the wicked and adulterous "do not ask for a sign" methodology, and both creator claims would then be accepted.
+4. A logical contradiction results: God cannot both be the creator of all things and NOT the creator of all things.
+5. Therefore, the "do not ask for a sign" is problematic via proof by _reductio ad absurdum_ (i.e., using the method on religious claims would produce a direct logical contradiction).
+
+
 > 44 But Alma said unto him: Thou hast had signs enough; will ye tempt your God? Will ye say, Show unto me a sign, when ye have the testimony of all these thy brethren, and also all the holy prophets? The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.
+
+Thesis: God exists and there are signs that indicate this:
+
+1. Testimony of other believers ("ye have the testimony of all these thy brethren")
+2. Testiomony of the prophets ("[the testimony of] all the holy prophets")
+3. Testimony of prophets recorded in scripture ("The scriptures are laid before thee")
+4. All things denote that there is a God (aka "Supreme Creator")
+    * the earth
+    * all things that exist on it
+    * its motion
+    * the planets moving in regular form
 
 > 45 And yet do ye go about, leading away the hearts of this people, testifying unto them there is no God? And yet will ye deny against all these witnesses? And he said: Yea, I will deny, except ye shall show me a sign.
 
@@ -240,3 +319,9 @@ But the verse also talks about "whoredoms".  Narrowly speaking, this would refer
 [^enlightenment]: Arguments over the existence of God and evidence for or against the proposition were [a feature of the Enlightenment](https://www.thegospelcoalition.org/essay/the-rise-of-biblical-criticism-in-the-enlightenment/).
 
 [^belief_in_god_assumed]: From the Internet Encyclopedia of Philosophy entry on [Religious Epistemology](https://iep.utm.edu/relig-ep/): "In the West, belief in God was assumed in the dominant Jewish, Christian and Islamic religions."
+
+[^mary]: From [this manual](https://www.churchofjesuschrist.org/study/manual/jesus-the-christ/chapter-7?lang=eng): 
+
+    Even yet she comprehended but in part the import of this momentous visitation. Not in the spirit of doubt such as had prompted Zacharias to ask for a sign, but **through an earnest desire for information and explanation**, Mary, conscious of her unmarried status and sure of her virgin condition, asked: “**How shall this be**, seeing I know not a man?” The answer to her natural and simple inquiry was the announcement of a miracle such as the world had never known—not a miracle in the sense of a happening contrary to nature’s law, nevertheless a miracle through the operation of higher law, such as the human mind ordinarily fails to comprehend or regard as possible. Mary was informed that she would conceive and in time bring forth a Son, of whom no mortal man would be the father:—“And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.” (emphasis added)
+
+    Mary doesn't ask for a sign that it could happen, she asks instead _how_ it was to happen, indicating that she did not doubt that it would happen, merely asking for additional information.
