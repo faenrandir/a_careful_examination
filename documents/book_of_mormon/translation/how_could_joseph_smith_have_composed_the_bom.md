@@ -29,11 +29,19 @@ The oral composition model is discussed in some detail by William Davis in his d
 * [1063-1065: The Book of Mormon’s 19th century context](https://www.mormonstories.org/podcast/book-of-mormon-cultural-context-john-hamer/) (John Hamer)
 * [1082-1083: How the Book of Mormon was created](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/) (John Hamer)
 
+#### William Davis
+
+* [Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/) (book)
+* [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv) (PhD Dissertation)
+* [The Book of Mormon and the Limits of Naturalistic Criteria: Comparing Joseph Smith and Andrew Jackson Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis) (Dialogue article)
+* [Joseph Smith and 19th-Century Sermon Culture in the Book of Mormon](https://www.youtube.com/watch?v=nTwWfGzjkg8) (Sunstone Symposium presentation)
+* [688: Dr William Davis on Chiasmus, Tight vs Loose Translation](https://www.youtube.com/watch?v=Xb_-ejh48aw) (Gospel Tangents pt1)
+* [689: New BoM Translation Timeline, Joseph was Methodist Exhorter?](https://www.youtube.com/watch?v=zuupXUtMq2M) (Gospel Tangents, pt2)
+* [1396: Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon](https://www.youtube.com/watch?v=XOBgZgbm584) (Mormon Stories)
+* [After Dinner Chat EP010 - William L. Davis - making the Book of Mormon](https://www.youtube.com/watch?v=TRN3Ska_sak) (Priesthood Dispatches)
+
 #### Creativity theory and oral composition
 
-* [Visions in a Seer Stone: Joseph Smith and the Making of the Book of Mormon](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/) (William Davis)
-* [Performing Revelation: Joseph Smith and the Creation of The Book of Mormon](https://escholarship.org/uc/item/86h814zv) (William Davis PhD Dissertation)
-* [The Book of Mormon and the Limits of Naturalistic Criteria: Comparing Joseph Smith and Andrew Jackson Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis) (Dialogue article by William Davis)
 * [Creativity Theory and the Origin of the Book of Mormon and other Mormon Scriptures](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/) (post by frogontrombone)
 * [Is it possible for Joseph Smith to have orally dictated the BoM without notes?](https://www.reddit.com/r/mormon/comments/bng1ul/is_it_possible_for_joseph_smith_to_have_orally/) (post by frogontrombone)
 * [Mosiah Priority](https://www.reddit.com/r/mormon/comments/bgjm60/mosiah_priority/) (post by ImTheMarmotKing)
