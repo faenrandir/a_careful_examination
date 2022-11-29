@@ -16,7 +16,7 @@ Halfway through the parable, the Jacob 5 author shifts from a focus on *the oliv
 
 ### Possible Old Testament Influences
 
-The allegory may be seen as an extension of [a number of old testament passages]((http://web.archive.org/web/20171113214147/https://publications.mi.byu.edu/fullscreen/?pub=1140&index=15).  Some focus on the positive aspects of the Lord caring for his tree (lists compiled from [here](https://knowhy.bookofmormoncentral.org/content/is-anything-known-of-the-prophet-zenos-outside-of-the-book-of-mormon)):
+The allegory may be seen as an extension of [a number of old testament passages](http://web.archive.org/web/20171113214147/https://publications.mi.byu.edu/fullscreen/?pub=1140&index=15).  Some focus on the positive aspects of the Lord caring for his tree (lists compiled from [here](https://knowhy.bookofmormoncentral.org/content/is-anything-known-of-the-prophet-zenos-outside-of-the-book-of-mormon)):
 
 * [Exodus 15:17](https://www.biblegateway.com/passage/?search=Exodus+15%3A17&version=KJV) "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O Lord, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands have established."
 * [2 Samuel 7:10](https://www.biblegateway.com/passage/?search=2+Samuel+7%3A10&version=KJV) "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,"
@@ -72,8 +72,8 @@ First, Joseph grew up in a farming community and was undoubtedly familiar with a
 Second, information was available at the time (for instance, [this essay](https://books.google.com/books?id=txoLAAAAIAAJ&source=gbs_navlinks_s) was composed by the New Englander [Augustus Lucas Hillhouse](https://hymnary.org/person/Hillhouse_AL)) which described European olive tree cultivation, including:
 
 1. The [importance of consistent manure application](https://books.google.com/books?id=txoLAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=manure&f=false)
-2. The importance of [turning the soil](https://books.google.com/books?id=txoLAAAAIAAJ&pg=PA1&dq=%22olive+tree%22&hl=en&sa=X&ved=0ahUKEwi6z4be3q7dAhWRyVMKHa6FBmsQ6AEIMzAC#v=onepage&q=%22turn%20the%20soil%22&f=false)
-3. The [importance of pruning](https://books.google.com/books?id=txoLAAAAIAAJ&pg=PA1&dq=%22olive+tree%22&hl=en&sa=X&ved=0ahUKEwi6z4be3q7dAhWRyVMKHa6FBmsQ6AEIMzAC#v=snippet&q=pruning&f=false)
-* The ability [to burn olive trees](https://books.google.com/books?id=txoLAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=%22burns%20as%20well%20before%20as%20after%20it%20is%20dried%22&f=false) if needed
+1. The importance of [turning the soil](https://books.google.com/books?id=txoLAAAAIAAJ&pg=PA1&dq=%22olive+tree%22&hl=en&sa=X&ved=0ahUKEwi6z4be3q7dAhWRyVMKHa6FBmsQ6AEIMzAC#v=onepage&q=%22turn%20the%20soil%22&f=false)
+1. The [importance of pruning](https://books.google.com/books?id=txoLAAAAIAAJ&pg=PA1&dq=%22olive+tree%22&hl=en&sa=X&ved=0ahUKEwi6z4be3q7dAhWRyVMKHa6FBmsQ6AEIMzAC#v=snippet&q=pruning&f=false)
+1. The ability [to burn olive trees](https://books.google.com/books?id=txoLAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=%22burns%20as%20well%20before%20as%20after%20it%20is%20dried%22&f=false) if needed
 
 _Source: With some minor modifications to address the question, from my document [here](https://faenrandir.github.io/a_careful_examination/potential-sources-allegory-olive-tree/)_
