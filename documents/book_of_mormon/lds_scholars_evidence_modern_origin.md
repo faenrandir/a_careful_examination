@@ -55,7 +55,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
     > If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
 
-1. Royal Skousen, [BYU linguistics and English Professor](https://humanities.byu.edu/person/royal-j-skousen-2/) --- the BoM grapples with [nuances in late 1600s theology](https://www.mormoninterpreter.com/tyndale-versus-more-in-the-book-of-mormon/).
+1. Royal Skousen, [BYU linguistics and English Professor](https://humanities.byu.edu/person/royal-j-skousen-2/) --- the BoM grapples with [nuances in late 1600s theology](https://web.archive.org/web/20220813082355/https://journal.interpreterfoundation.org/tyndale-versus-more-in-the-book-of-mormon/).
 
     > there is considerable evidence that the issues and the cultural milieu of the text date more from the late 1600s than the early 1800s
 
