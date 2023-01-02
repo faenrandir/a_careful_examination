@@ -238,7 +238,7 @@ According to this logic, religious claims, which often hinge upon unseen or indi
 3. Outcome: the claim is accepted as veridical.
 
 The problematic nature of this argument should be obvious, but can be
-demonstrated thus:
+demonstrated:
 
 1. One could claim, in a religious setting, that God is creator of all things.
 2. One could also claim, in a religious setting, that god is NOT the creator of all things.
@@ -246,19 +246,29 @@ demonstrated thus:
 4. A logical contradiction results: God cannot both be the creator of all things and NOT the creator of all things.
 5. Therefore, the "do not ask for a sign" is problematic via proof by _reductio ad absurdum_ (i.e., using the method on religious claims would produce a direct logical contradiction).
 
-
 > 44 But Alma said unto him: Thou hast had signs enough; will ye tempt your God? Will ye say, Show unto me a sign, when ye have the testimony of all these thy brethren, and also all the holy prophets? The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.
 
 Thesis: God exists and there are signs that indicate this:
 
 1. Testimony of other believers ("ye have the testimony of all these thy brethren")
-2. Testiomony of the prophets ("[the testimony of] all the holy prophets")
+2. Testimony of the prophets ("[the testimony of] all the holy prophets")
 3. Testimony of prophets recorded in scripture ("The scriptures are laid before thee")
 4. All things denote that there is a God (aka "Supreme Creator")
     * the earth
     * all things that exist on it
     * its motion
     * the planets moving in regular form
+
+The evidences that Alma musters, at least from our modern perspective, seem
+insufficient to _necessarily_ conclude that God exists. The testimony of
+believers is problematic for the following reasons:
+
+1. It is a fallacy known as an [argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum). The population ("these thy brethren") may be mistaken or their beliefs may not be well-founded. Alternatively, a person could imagine that at some future date (or in some locations) the majority of the population would _not_ believe in God, so we might get a contradictory answer depending on the time or location of the body queried.
+2. Of those who claim to believe in God's existence, they seem to frequently disagree on God's attributes or will.[^determining_gods_will]
+
+The testimony of "all the holy prophets" is problematic because a clear provenance back to the actual words or events of the prophets cannot clearly be established. Events from the modern era that seem to have been widely granted divine or miraculous status in later writing (e.g., [the miracle of the gulls](https://en.wikipedia.org/wiki/Miracle_of_the_gulls) or [the transfiguration of Brigham Young](https://en.wikipedia.org/wiki/Succession_crisis_%28Latter_Day_Saints%29#Conference_of_August_8,_1844)) are frequently found to be unsubstantiated by the contemporary historical record upon closer inspection, suggesting a general pattern where mundane events are sometimes (un-maliciously) amplified to support key narratives.[^unreliable]
+
+The existence of the scriptures themselves does not really transcend the historical provenance problem discussed above.  The existence of sacred religious texts does not necessarily indicate accuracy or a divine origin.
 
 > 45 And yet do ye go about, leading away the hearts of this people, testifying unto them there is no God? And yet will ye deny against all these witnesses? And he said: Yea, I will deny, except ye shall show me a sign.
 
@@ -325,3 +335,7 @@ But the verse also talks about "whoredoms".  Narrowly speaking, this would refer
     Even yet she comprehended but in part the import of this momentous visitation. Not in the spirit of doubt such as had prompted Zacharias to ask for a sign, but **through an earnest desire for information and explanation**, Mary, conscious of her unmarried status and sure of her virgin condition, asked: “**How shall this be**, seeing I know not a man?” The answer to her natural and simple inquiry was the announcement of a miracle such as the world had never known—not a miracle in the sense of a happening contrary to nature’s law, nevertheless a miracle through the operation of higher law, such as the human mind ordinarily fails to comprehend or regard as possible. Mary was informed that she would conceive and in time bring forth a Son, of whom no mortal man would be the father:—“And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.” (emphasis added)
 
     Mary doesn't ask for a sign that it could happen, she asks instead _how_ it was to happen, indicating that she did not doubt that it would happen, merely asking for additional information.
+
+[^determining_gods_will]: I present data [in this article](https://faenrandir.github.io/a_careful_examination/testimony-spiritual-experiences-truth/#confirmation-of-contradictory-positions) suggesting that believers often arrive at fully contradictory answers even when they say they are confident that they correctly assessed God's will.
+
+[^unreliable]: LDS leadership acknowledged the difficulty of establishing what was actually said or done based merely on later testimony [in the first volume and issue of the Improvement era](https://faenrandir.github.io/a_careful_examination/early-lds-testimony-may-be-unreliable/): "We fear that many things that are reported as coming from the Prophet Joseph, and other early elders in the church, by not being carefully recorded or told with strict regard for accuracy, have lost something of their value as historical data, and unwarranted additions have sometimes been made to the original facts, until it is difficult to determine just how far some of the traditions which have come to us may be accepted as reliable representations of what was said or what was done."
