@@ -474,6 +474,15 @@ M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in t
 
 ["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
 
+
+### disaffected "certainly not" an arbiter of truth
+
+> Truth number two: Truth is truth.
+
+> Some things are simply true. The arbiter of truth is God—not your favorite social media news feed, not Google, and certainly not those who are disaffected from the Church.
+
+President Russell M. Nelson, [The Love and Laws of God, September 17, 2019](https://speeches.byu.edu/talks/russell-m-nelson/love-laws-god/).
+
 ## Misc
 
 * April 1982 Conference talk by Neal A. Maxwell, [A Brother Offended](https://www.churchofjesuschrist.org/study/general-conference/1982/04/a-brother-offended?lang=eng)
