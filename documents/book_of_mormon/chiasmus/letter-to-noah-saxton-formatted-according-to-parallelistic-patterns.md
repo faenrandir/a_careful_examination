@@ -296,7 +296,7 @@ A And now what remains to be done <span style="color:red; font-weight:bold">unde
 A' and escape <span style="color:red; font-weight:bold">the Judgments of God which are almost ready to burst upon the
    nations of the earth</span>—
 
-[[the below chiasm seems more tenuous]]
+[[the structure below is weak]]
 
 A <span style="color:red; font-weight:bold">Repent of all your sins</span>
 
@@ -314,16 +314,17 @@ A <span style="color:red; font-weight:bold">Repent of all your sins</span>
 
 A' <span style="color:red; font-weight:bold">that ye may receive the holy spirit of God</span>,
 
+[[the structure below is also weak]]
 
-A and this according to <span style="color:; font-weight:bold">the holy scriptures</span>,
+A and this according to <span style="color:red; font-weight:bold">the holy scriptures</span>,
 
-    B and of <span style="color:; font-weight:bold">the Book of Mormon</span>;
+    B and of <span style="color:orange; font-weight:bold">the Book of Mormon</span>;
 
         C and the only way that man can enter into the Celestial kingdom.
 
-    B' These are the requesitions of <span style="color:; font-weight:bold">the new Covenant</span>
+    B' These are the requesitions of <span style="color:orange; font-weight:bold">the new Covenant</span>
 
-A' or first principles of of <span style="color:; font-weight:bold">the Gospel of Christ</span>;
+A' or first principles of of <span style="color:red; font-weight:bold">the Gospel of Christ</span>;
 
     then add to you[r] faith virtue
     and to virtue knowledge
@@ -340,69 +341,69 @@ A' or first principles of of <span style="color:; font-weight:bold">the Gospel o
     [[a close—but not exact—quotation of 2 Peter 1:5–8]]
 
 
-A <span style="color:; font-weight:bold">The Book of Mormon</span>
+A <span style="color:red; font-weight:bold">The Book of Mormon</span>
 
     B is a record
 
-        C of <span style="color:; font-weight:bold">the forefathers</span>
+        C of <span style="color:green; font-weight:bold">the forefathers</span>
 
-            D of our <span style="color:; font-weight:bold">western Tribes of Indians</span>,
+            D of our <span style="color:blue; font-weight:bold">western Tribes of Indians</span>,
 
-                E having been <span style="color:; font-weight:bold">found through the ministration of an holy Angel</span>
+                E having been <span style="color:purple; font-weight:bold">found through the ministration of an holy Angel</span>
 
-                    F translated into our own Language by the gift and <span style="color:; font-weight:bold">power of
+                    F translated into our own Language by the gift and <span style="color:magenta; font-weight:bold">power of
                       God</span>, 
 
                         G after having been hid up in the earth for the last
                           fourteen hundred years
 
-                    F' containing <span style="color:; font-weight:bold">the word of God</span>,
+                    F' containing <span style="color:magenta; font-weight:bold">the word of God</span>,
 
-                D' which was <span style="color:; font-weight:bold">delivered unto them</span>,
+                E' which was <span style="color:purple; font-weight:bold">delivered unto them</span>,
 
-            D' By it we learn that <span style="color:; font-weight:bold">our western tribes of Indians</span>
+            D' By it we learn that <span style="color:blue; font-weight:bold">our western tribes of Indians</span>
 
-        C are <span style="color:; font-weight:bold">desendants from that Joseph</span> that was sold into Egypt,
+        C are <span style="color:green; font-weight:bold">desendants from that Joseph</span> that was sold into Egypt,
 
     B' and that the land of America is a promised land unto them, and unto it
        all the tribes of Israel will come. with as many of the gentiles as shall
        comply with the requesitions of
 
-A' <span style="color:; font-weight:bold">the new co[v]enant</span>.
+A' <span style="color:red; font-weight:bold">the new co[v]enant</span>.
 
 
-A But the tribe of <span style="color:; font-weight:bold">Judah will return to old Jerusalem</span>.
+A But the tribe of <span style="color:red; font-weight:bold">Judah will return to old Jerusalem</span>.
 
     B The City, of Zion, spoken of by David in the 102 Psalm will be built
-      upon <span style="color:; font-weight:bold">the Land of America</span> and
+      upon <span style="color:orange; font-weight:bold">the Land of America</span> and
 
-        D the <span style="color:; font-weight:bold">ransomed of the Lord</span>
+        C the <span style="color:green; font-weight:bold">ransomed of the Lord</span>
 
-            E shall return
+            D shall <span style="color:blue; font-weight:bold">return</span>
 
-            E' and come to it
+            D' and <span style="color:blue; font-weight:bold">come to it</span>
 
-        D' <span style="color:; font-weight:bold">with songs and everlasting joy</span> upon their heads,
+        C' <span style="color:green; font-weight:bold">with songs and everlasting joy</span> upon their heads,
 
     B' and then they will be delivered from the overflowing scourge that shall
-       pass through <span style="color:; font-weight:bold">the Land</span>
+       pass through <span style="color:orange; font-weight:bold">the Land</span>
 
-A' But <span style="color:; font-weight:bold">Judah shall obtain deliverence at Jerusalem</span>
+A' But <span style="color:red; font-weight:bold">Judah shall obtain deliverence at Jerusalem</span>
    (see Joel 2. 32. Isaiah 26, 20 & 21, Jer. 31, 12, Psalm 50. 5, Ezekiel 34,
    11. 12 & 13,)
 
 
-A These are <span style="color:; font-weight:bold">testamonies</span> that the good Shepherd will put forth his own sheep
+A These are <span style="color:red; font-weight:bold">testamonies</span> that the good Shepherd will put forth his own sheep
 
-    B and Lead them out <span style="color:; font-weight:bold">from all nations</span>
+    B and Lead them out <span style="color:orange; font-weight:bold">from all nations</span>
 
-        C where they have been <span style="color:; font-weight:bold">scattered</span>
+        C where they have been <span style="color:green; font-weight:bold">scattered</span>
 
-        C' in a <span style="color:; font-weight:bold">cloudy and dark day</span>,
+        C' in a <span style="color:green; font-weight:bold">cloudy and dark day</span>,
 
-    B' <span style="color:; font-weight:bold">to Zion and to Jerusalem</span>
+    B' <span style="color:orange; font-weight:bold">to Zion and to Jerusalem</span>
 
-A' beside many more <span style="color:; font-weight:bold">testamonies</span> which might be brought——
+A' beside many more <span style="color:red; font-weight:bold">testamonies</span> which might be brought——
 
 
 A And now <span style="color:red; font-weight:bold">I am prepared to say by the authority of Jesus Christ</span>,
