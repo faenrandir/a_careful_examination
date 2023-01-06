@@ -52,7 +52,7 @@ A Considering the <span style="color:red; font-weight:bold">Liberal prisciples</
 
                         G while <span style="color:brown; font-weight:bold">upon the one hand</span>
 
-                            H beholding the manifeste<strike>d</strike> <span style="color:#088F8F; font-weight:bold">withdrawal of Gods
+                            H beholding the manifeste<span style="text-decoration: line-through;">d</span> <span style="color:#088F8F; font-weight:bold">withdrawal of Gods
                               holy Spirit</span>
 
                                 I and the <span style="color:#FA8072; font-weight:bold">vail</span> of stupidity
@@ -103,7 +103,7 @@ A Are not these things a sufficient stimulant to <span style="color:red; font-we
                           Lord is doing and what you must do</span> to enjoy the
                           smiles of your saviour in these last day[s]— 
 
-                            H The <span style="color:#088F8F; font-weight:bold">time has at last <strike>come</strike> arived</span>
+                            H The <span style="color:#088F8F; font-weight:bold">time has at last <span style="text-decoration: line-through;">come</span> arived</span>
 
                                 I when the God of Abraham of Isaac and of
                                   Jacob <span style="color:#FA8072; font-weight:bold">has set</span> his hand again the seccond
@@ -151,7 +151,7 @@ A' and their eniquities <span style="color:red; font-weight:bold">he would remem
 
 A Thus after this chosen family had <span style="color:red; font-weight:bold">rejected Christ</span> and his proposals
 
-    B the heralds of salvation said to them “lo <strike>I</strike> we turn unto the gentiles,”
+    B the heralds of salvation said to them “lo <span style="text-decoration: line-through;">I</span> we turn unto the gentiles,”
       <span style="color:orange; font-weight:bold">and the gentiles received the covenant</span>
 
         C and were grafted in from whence <span style="color:green; font-weight:bold">the chosen family were broken off</span>
@@ -162,13 +162,13 @@ A Thus after this chosen family had <span style="color:red; font-weight:bold">re
 
                     F that was <span style="color:magenta; font-weight:bold">once delivered</span> to the saints 
 
-                    F' and <span style="color:magenta; font-weight:bold">have broken</span> the <strike>everlasting</strike> covenant
+                    F' and <span style="color:magenta; font-weight:bold">have broken</span> the <span style="text-decoration: line-through;">everlasting</span> covenant
 
                 E' <span style="color:purple; font-weight:bold">in which their fathers were established</span> (see Isaiah 24th 5th) 
 
             D' and have <span style="color:blue; font-weight:bold">become high minded and have not feared</span> therefore
 
-        C' but few of them will be <span style="color:green; font-weight:bold">gathered with the <u>chosen family</u></span>
+        C' but few of them will be <span style="color:green; font-weight:bold">gathered with the <span style="text-decoration: underline;">chosen family</span></span>
 
     B Has not the pride highmindedness and <span style="color:orange; font-weight:bold">unbelief of the Gentiles</span>
 
@@ -200,13 +200,13 @@ A By the foregoing <span style="color:red; font-weight:bold">testamonies</span> 
 
     B' and who can <span style="color:orange; font-weight:bold">look at this</span>,
 
-A' <strike>and</strike> and not exclaim in the language of <span style="color:red; font-weight:bold">Isaiah</span>,
+A' <span style="text-decoration: line-through;">and</span> and not exclaim in the language of <span style="color:red; font-weight:bold">Isaiah</span>,
 
     [“]the earth is defiled under the inhabitants thereof
     because they have
         transgressed the Laws,
         changed the ordinances
-        and broken the <strike>everlasting</strike> covenant”
+        and broken the <span style="text-decoration: line-through;">everlasting</span> covenant”
 
     [[Isaiah 24:5, KJV: The earth <span style="font-weight:bold">also</span> is defiled under the inhabitants thereof;
     because they have transgressed the laws, changed the ordinance<span
@@ -354,7 +354,7 @@ A <span style="color:red; font-weight:bold">The Book of Mormon</span>
 A' <span style="color:red; font-weight:bold">the new co[v]enant</span>.
 
 
-A But the tribe of <span style="color:red; font-weight:bold">Juda<strike>h</strike> will return to old Jerusalem</span>.
+A But the tribe of <span style="color:red; font-weight:bold">Juda<span style="text-decoration: line-through;">h</span> will return to old Jerusalem</span>.
 
     B The City, of Zion, spoken of by David in the 102 Psalm will be built
       upon <span style="color:orange; font-weight:bold">the Land of America</span> and
@@ -393,9 +393,9 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
     B that <span style="color:orange; font-weight:bold">not many years shall pass away</span>
 
         C before the United States shall present <span style="color:green; font-weight:bold">such a scene of
-          <u>bloodshed</u></span> as has not a parallel in the hystory of our nation
+          <span style="text-decoration: underline;">bloodshed</span></span> as has not a parallel in the hystory of our nation
 
-            D pestalence hail famine and earthquake <span style="color:blue; font-weight:bold">will sweep the wicked of<strike>f</strike>
+            D pestalence hail famine and earthquake <span style="color:blue; font-weight:bold">will sweep the wicked of<span style="text-decoration: line-through;">f</span>
               this generation from off the face of this Land</span>
 
                 E to open and prepare the way for <span style="color:purple; font-weight:bold">the return of the lost
@@ -422,7 +422,7 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
                         G' therefore fear God, and give glory to him for <span style="color:brown; font-weight:bold">the
                            hour of his Judgment is come</span>.
 
-                    F' <Repent ye> Repent, ye and imbrace <span style="color:magenta; font-weight:bold">the everlasting
+                    F' &#60;Repent ye &#62;Repent, ye and imbrace <span style="color:magenta; font-weight:bold">the everlasting
                        Covenant</span> and <span style="color:magenta; font-weight:bold">flee to Zion</span>
 
                 E' before the <span style="color:purple; font-weight:bold">overflowing scourge overtake you</span>,
@@ -431,14 +431,14 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
                not be closed in death <span style="color:blue; font-weight:bold">until they see all these things which I
                have spoken fulfilled</span>
 
-        C <span style="color:green; font-weight:bold"><u>Rem[em]ber</u> these things</span>, call upon the Lord while he is near and seek him
+        C <span style="color:green; font-weight:bold"><span style="text-decoration: underline;">Rem[em]ber</span> these things</span>, call upon the Lord while he is near and seek him
 
     B' <span style="color:orange; font-weight:bold">while he may be found</span>
 
 A' is <span style="color:red; font-weight:bold">the exhortation of your unworthy servant</span>
 
 
-Joseph Smith J<u>r</u>
+Joseph Smith J<span style="text-decoration: underline;">r</span>
 </pre>
 
 ### Conclusion
