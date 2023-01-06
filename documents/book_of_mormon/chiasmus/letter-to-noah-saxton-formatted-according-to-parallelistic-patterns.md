@@ -16,15 +16,15 @@ Various naturalistic mechanisms for the presence of chiasmus in the Book of Morm
 
 Oral Formulaic Theory may help make some sense of a few observations, especially the length of some chiastic structures (like Alma 36) and the fact that Joseph never pointed out the chiasms and parallelisms in the Book of Mormon.  If Joseph was the author of the Book of Mormon and Joseph naturally employed these structures as part of the process of orally composing the Book of Mormon, then---to extend Davis's hypothesis a bit---we might expect Joseph to spontaneously utilize repetition (including inversion and ring structures) as he composes other similar works orally, too, at least to some extent.
 
-Some efforts have been made to identify chiasmus in other compositions which Joseph was responsible for including [an 1838 letter to Emma](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1571&context=physics_facpub) and within the Doctrine and Covenants and Book of Abraham (see the study "Does Chiasmus Appear in the Book of Mormon by Chance?" in [BYU Studies 43:2, 2004, 118-123](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3644&context=byusq)). According to the authors of the 2004 BYU Studies analysis, potential examples outside the Book of Mormon did not necessarily pass statistical tests to demonstrate occur outside of what might be produced by chance alone.
+Some efforts have been made to identify chiasmus in other compositions which Joseph was responsible for including [an 1838 letter to Emma](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1571&context=physics_facpub) and within the Doctrine and Covenants and Book of Abraham (see the study "Does Chiasmus Appear in the Book of Mormon by Chance?" in [BYU Studies 43:2, 2004, 118-123](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3644&context=byusq)). According to the authors of the 2004 BYU Studies analysis, potential examples outside the Book of Mormon were deemed statistically insignificant and hence somewhat likely to have occurred by chance alone.
 
-I recently happened upon [an 1833 letter from Joseph Smith to a newspaper editor](https://www.josephsmithpapers.org/paper-summary/letterbook-1/26#X6E0ADA17-5772-44B3-926B-9A889F221AEF) that, upon first blush, seemed somewhat reminiscent of the Book of Mormon in tone and style. Joseph appears to have assumed a prophetic or quasi-prophetic role during the letter (e.g., "I am prepared to say by the authority of Jesus Christ"), and so, while the letter seems to have been composed in his own voice, it also seems like elevated, quasi-scriptural discourse compared to less formal communication. I reasoned that such a composition would provide a potential test of the hypothesis that Joseph Smith might have been _naturally_ inclined to the _kinds_ of repetition that have been observed in the Book of Mormon while composing works orally, especially while working in a scripture-like register.
+I recently happened upon [an 1833 letter from Joseph Smith to a newspaper editor](https://www.josephsmithpapers.org/paper-summary/letterbook-1/26#X6E0ADA17-5772-44B3-926B-9A889F221AEF) that, at first glance, seemed somewhat reminiscent to me of the Book of Mormon in tone and style. Joseph appears to have assumed a prophetic or quasi-prophetic role during the letter (e.g., "I am prepared to say by the authority of Jesus Christ"), and so, while the letter seems to have been composed in his own voice, it also seems like elevated, quasi-scriptural discourse compared to less formal communication contained in some other letters. I reasoned that such a composition could provide a useful test of the hypothesis of whether Joseph Smith might be spontaneously and naturally inclined to producing the _kinds_ of repetition that are similar to the structures observed in the Book of Mormon when composing works orally and especially while working in a scripture-like register.
 
-There is intrinsic subjectivity involved in formatting text that contains elements of repetition,[^formatting_subjectivity] and others have highlighted the subjective nature of these kinds of constructions within Book of Mormon text, particularly Alma 36 (see, for example, [Wunderli](https://www.dialoguejournal.com/articles/critique-of-alma-36-as-an-extended-chiasm/) and [Davis](https://www.youtube.com/watch?v=TRN3Ska_sak&t=6624s)). Acknowledging the highly subjective nature of the task, I set out to identify parallelistic structures with some basis in the repetition of phrases and themes intrinsic to one of Joseph Smith's oral compositions from relatively near in time to his dictation of the Book of Mormon.
+Formatting text containing elements of repetition into putative poetic structures is intrinsically subjective,[^formatting_subjectivity] and others have highlighted the dubious nature of some of these kinds of constructions imposed on Book of Mormon text, particularly Alma 36 (see, for example, [Wunderli](https://www.dialoguejournal.com/articles/critique-of-alma-36-as-an-extended-chiasm/) and [Davis](https://www.youtube.com/watch?v=TRN3Ska_sak&t=6624s)). Freely acknowledging the highly subjective nature of the task, I nonetheless set out to identify parallelistic structures with some basis in the repetition of phrases and themes inherent to one of Joseph Smith's oral compositions from relatively near in time to his dictation of the Book of Mormon, his January 1833 letter to Noah Saxton, a copy of which was made shortly after its composition and is found in Letterbook 1.[^letter_used_elsewhere]
 
 ### The Letter Formatted
 
-[Letter to Noah C. Saxton, 4 January 1833 in Letterbook 1](https://www.josephsmithpapers.org/paper-summary/letterbook-1/26#X6E0ADA17-5772-44B3-926B-9A889F221AEF) (Joseph Smith Papers)
+[Letter to Noah C. Saxton, 4 January 1833 in Letterbook 1](https://www.josephsmithpapers.org/paper-summary/letter-to-noah-c-saxton-4-january-1833/1) (Joseph Smith Papers)
 
 _My notes use double brackets ([[]])._
 
@@ -52,7 +52,7 @@ A Considering the <span style="color:red; font-weight:bold">Liberal prisciples</
 
                         G while <span style="color:brown; font-weight:bold">upon the one hand</span>
 
-                            H beholding the manifested <span style="color:#088F8F; font-weight:bold">withdrawal of Gods
+                            H beholding the manifeste<strike>d</strike> <span style="color:#088F8F; font-weight:bold">withdrawal of Gods
                               holy Spirit</span>
 
                                 I and the <span style="color:#FA8072; font-weight:bold">vail</span> of stupidity
@@ -103,7 +103,7 @@ A Are not these things a sufficient stimulant to <span style="color:red; font-we
                           Lord is doing and what you must do</span> to enjoy the
                           smiles of your saviour in these last day[s]— 
 
-                            H The <span style="color:#088F8F; font-weight:bold">time has at last come arived</span>
+                            H The <span style="color:#088F8F; font-weight:bold">time has at last <strike>come</strike> arived</span>
 
                                 I when the God of Abraham of Isaac and of
                                   Jacob <span style="color:#FA8072; font-weight:bold">has set</span> his hand again the seccond
@@ -151,7 +151,7 @@ A' and their eniquities <span style="color:red; font-weight:bold">he would remem
 
 A Thus after this chosen family had <span style="color:red; font-weight:bold">rejected Christ</span> and his proposals
 
-    B the heralds of salvation said to them “lo we turn unto the gentiles,”
+    B the heralds of salvation said to them “lo <strike>I</strike> we turn unto the gentiles,”
       <span style="color:orange; font-weight:bold">and the gentiles received the covenant</span>
 
         C and were grafted in from whence <span style="color:green; font-weight:bold">the chosen family were broken off</span>
@@ -162,13 +162,13 @@ A Thus after this chosen family had <span style="color:red; font-weight:bold">re
 
                     F that was <span style="color:magenta; font-weight:bold">once delivered</span> to the saints 
 
-                    F' and <span style="color:magenta; font-weight:bold">have broken</span> the everlasting covenant
+                    F' and <span style="color:magenta; font-weight:bold">have broken</span> the <strike>everlasting</strike> covenant
 
                 E' <span style="color:purple; font-weight:bold">in which their fathers were established</span> (see Isaiah 24th 5th) 
 
             D' and have <span style="color:blue; font-weight:bold">become high minded and have not feared</span> therefore
 
-        C' but few of them will be <span style="color:green; font-weight:bold">gathered with the chosen family</span>
+        C' but few of them will be <span style="color:green; font-weight:bold">gathered with the <u>chosen family</u></span>
 
     B Has not the pride highmindedness and <span style="color:orange; font-weight:bold">unbelief of the Gentiles</span>
 
@@ -200,13 +200,13 @@ A By the foregoing <span style="color:red; font-weight:bold">testamonies</span> 
 
     B' and who can <span style="color:orange; font-weight:bold">look at this</span>,
 
-A' and and not exclaim in the language of <span style="color:red; font-weight:bold">Isaiah</span>,
+A' <strike>and</strike> and not exclaim in the language of <span style="color:red; font-weight:bold">Isaiah</span>,
 
     [“]the earth is defiled under the inhabitants thereof
     because they have
         transgressed the Laws,
         changed the ordinances
-        and broken the everlasting covenant”
+        and broken the <strike>everlasting</strike> covenant”
 
     [[Isaiah 24:5, KJV: The earth <span style="font-weight:bold">also</span> is defiled under the inhabitants thereof;
     because they have transgressed the laws, changed the ordinance<span
@@ -354,7 +354,7 @@ A <span style="color:red; font-weight:bold">The Book of Mormon</span>
 A' <span style="color:red; font-weight:bold">the new co[v]enant</span>.
 
 
-A But the tribe of <span style="color:red; font-weight:bold">Judah will return to old Jerusalem</span>.
+A But the tribe of <span style="color:red; font-weight:bold">Juda<strike>h</strike> will return to old Jerusalem</span>.
 
     B The City, of Zion, spoken of by David in the 102 Psalm will be built
       upon <span style="color:orange; font-weight:bold">the Land of America</span> and
@@ -393,9 +393,9 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
     B that <span style="color:orange; font-weight:bold">not many years shall pass away</span>
 
         C before the United States shall present <span style="color:green; font-weight:bold">such a scene of
-          bloodshed</span> as has not a parallel in the hystory of our nation
+          <u>bloodshed</u></span> as has not a parallel in the hystory of our nation
 
-            D pestalence hail famine and earthquake <span style="color:blue; font-weight:bold">will sweep the wicked off
+            D pestalence hail famine and earthquake <span style="color:blue; font-weight:bold">will sweep the wicked of<strike>f</strike>
               this generation from off the face of this Land</span>
 
                 E to open and prepare the way for <span style="color:purple; font-weight:bold">the return of the lost
@@ -422,7 +422,7 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
                         G' therefore fear God, and give glory to him for <span style="color:brown; font-weight:bold">the
                            hour of his Judgment is come</span>.
 
-                    F' Repent ye Repent, ye and imbrace <span style="color:magenta; font-weight:bold">the everlasting
+                    F' <Repent ye> Repent, ye and imbrace <span style="color:magenta; font-weight:bold">the everlasting
                        Covenant</span> and <span style="color:magenta; font-weight:bold">flee to Zion</span>
 
                 E' before the <span style="color:purple; font-weight:bold">overflowing scourge overtake you</span>,
@@ -431,14 +431,14 @@ A And now <span style="color:red; font-weight:bold">I am prepared to say by the 
                not be closed in death <span style="color:blue; font-weight:bold">until they see all these things which I
                have spoken fulfilled</span>
 
-        C <span style="color:green; font-weight:bold">Rem[em]ber these things</span>, call upon the Lord while he is near and seek him
+        C <span style="color:green; font-weight:bold"><u>Rem[em]ber</u> these things</span>, call upon the Lord while he is near and seek him
 
     B' <span style="color:orange; font-weight:bold">while he may be found</span>
 
 A' is <span style="color:red; font-weight:bold">the exhortation of your unworthy servant</span>
 
 
-Joseph Smith Jr
+Joseph Smith J<u>r</u>
 </pre>
 
 ### Conclusion
@@ -453,4 +453,6 @@ Joseph's January 1833 letter contains a generous amount of repetition and it is 
 
     My proposed phrase/element pairings clearly differ in strength. For instance, some phrases are virtually identical ("upon the one hand" and "upon the other hand") while others possess only modest thematic resonance (e.g., "Look at the Christian world" vs. "look at this", and in some cases the pairings were even more tenuous (i.e., "compatibility" instead of "equivalence") and driven primarily by the drive to couple other similar phrases to produce a satisfying structure overall. The tenuousness of some pairs means it it is possible to construct somewhat different structures from the same text.  Still, most of the structures I identified seem to have some grounding in thematic or phrase repetition that seems intrinsic to the text itself (only a few chiasms seemed especially tenuous on the whole to me).  While the validity of any particular structure and many of the pairings may rightfully be questioned, the fact that significant repetition lends itself to the generation of several putative poetic structures with reasonable coherence seems to be a property _intrinsic_ to Joseph Smith's composition and not a characteristic _completely_ imagined by myself.
 
-[^naturalistic_explanations_for_chiasmus]: I have outlined various potential explanations for how chiastic structure might appear in an early 1800s composition like the Book of Mormon in [this document](https://faenrandir.github.io/a_careful_examination/best-arguments-against-chiasmus-as-evidence-of-ancientness/).  Explanations include: 1) appearance by chance alone; 2) the author somehow gleaned the technique from one or more of the two popular Bible commentaries of that time which described inverted parallelism; 3) the author receiving commonplace training in rhetorical methods of the time such as anastrophe (inversion); or 4) the structures are a feature of oral composition, as predicted by Oral Formulaic Theory.
+[^naturalistic_explanations_for_chiasmus]: I have outlined various potential explanations for how chiastic structure might appear in an early 1800s composition like the Book of Mormon in [this document](https://faenrandir.github.io/a_careful_examination/best-arguments-against-chiasmus-as-evidence-of-ancientness/).  Explanations include: 1) appearance by chance alone; 2) the author somehow gleaned the technique from one or more of the two popular Bible commentaries of that time which described inverted parallelism; 3) the author received commonplace training in rhetorical methods of the time such as anastrophe (inversion); or 4) the structures are a feature of oral composition, as might be predicted by Oral Formulaic Theory.
+
+[^letter_used_elsewhere]: Saxton would only publish the last two paragraphs in [the February 2, 1833 7:6 edition of The American Revivalist and Rochester Observer](http://www.sidneyrigdon.com/dbroadhu/NY/miscNYSc.htm). In 1844, the entire letter was published as part of Joseph Smith's History in the Times and Seasons, [vol 5, pg 707](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/8337).
