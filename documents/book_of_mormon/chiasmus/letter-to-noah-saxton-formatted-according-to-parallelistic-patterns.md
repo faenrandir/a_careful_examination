@@ -185,7 +185,7 @@ this is certianly the case, Christ said to his deciples Mark 16, 17 & 18 that
         they shall lay hands on the sick
         and they shall recover,
 
-        [Exact quotation of Mark 16:17--18 except missing the leading "And"]
+        [[Exact quotation of Mark 16:17--18 except missing the leading "And"]]
 
 and also in connection with this read 1 Corinthians 12 Chapt,
 
