@@ -75,10 +75,16 @@ Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was 
     * [part 8](https://gospeltangents.com/2022/03/few-children-of-polygamy/) (episode 626)
     * [part 9] (link broken) [apple podcast link](https://podcasts.apple.com/us/podcast/is-d-c-132-a-forged-revelation-part-9-of-10/id1203894370?i=1000553708280) (episode 627)
     * [part 10](https://gospeltangents.com/2022/03/get-peer-reviewed/) (episode 628)
+
 * [Joseph Smith and Polygamy](https://www.youtube.com/watch?v=cM6O0md1Dfg) (John Hamer walks through the evidence that Joseph Smith practiced polygamy)
+
 * Year of Polygamy: Joseph Didn't Fight Polygamy
     * [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/)
     * [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
+
+* [Did Joseph Smith Fight Polygamy? The Resurrection of an Old RLDS Narrative](https://www.youtube.com/watch?v=8-o-NXxHl_o) (argues against the claim that JS fought polygamy)
+
+* [The Truth will Make Us Free: A Response to Rob Fotheringham, Whitney Horning, and Denver Snuffer](https://www.youtube.com/watch?v=KQ115g9HlF8) (Brian Hales)
 
 ### Acknowledgements
 
