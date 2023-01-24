@@ -141,6 +141,12 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
     **[DST]** The eleventh and twelfth propositions are both indisputably false
 
+
+## See also
+
+[Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+
+
 [^respondtotwelvepoints]: Religionists often responded to Collier's twelve summary points of Pelagianism.  I refer to two works published in 1807 and 1827.  A third is found in [Part I. of Horae Ecclesiasticae](https://books.google.com/books?id=e2xjAAAAcAAJ&pg=RA1-PA23&lpg=RA1-PA23&dq=%22Adam+had+mortality+in+his+nature%22&source=bl&ots=m-EnDetECi&sig=cevh_i_w96UHvi-tU1FPLcBSzGo&hl=en&sa=X&ved=0ahUKEwicqq2EqpvRAhXny1QKHUGiD50Q6AEIKjAG#v=onepage&q=%22Adam%20had%20mortality%20in%20his%20nature%22&f=false) published in 1819 in London.
 
 [^gleigsletterstonewyork]: It is uncertain whether the "Directions for the Study of Theology", published in 1827, made it to upper New York by 1829.  It is clear that [the work was well-recieved by the greater society of England](https://books.google.com/books?id=3HUYAQAAIAAJ&pg=PA303&lpg=PA303&dq=%22Directions+for+the+study+of+theology%22&source=bl&ots=QXtmx0EagL&sig=0KhF6Nf3Ig9ZlnRkvp63hQs26y8&hl=en&sa=X&ved=0ahUKEwi4t9vzrpvRAhUQ4mMKHQySAdo4ChDoAQgsMAQ#v=onepage&q=%22Directions%20for%20the%20study%20of%20theology%22&f=false) and that copies eventually made their way to New York (the google books copy is from a New York library, dated to 1947).  It seems entirely plausible that ideas previously promulgated during his time as Bishop by the Bishop George Gleig made their way to New York *before* they were ever compiled into letters to his son.
