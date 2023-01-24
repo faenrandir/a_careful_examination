@@ -19,7 +19,7 @@ Chiasmus in the Book of Mormon is often advanced as evidence of the ancient orig
 
 2. **Chiastic structure was described in at least two popular Bible commentaries of that time.**
 
-    Horne's Introduction to the Bible discusses chiasmus---along with many kinds of parallelisms---in great depth and with many examples.[^editions] D. Michael Quinn [has documented the availability of the book in Joseph's milieu]({{ "/early-mormonism-quinn-footnote-108-chiasmus/" | relative_url }}), and there were several editions preceding the publication of the Book of Mormon that may have been accessible.[^knowhy]  Just a few years after the publication of the Book of Mormon Joseph was gifted a copy, corroborating the prominence and ubiquity of the book in general terms.
+    Horne's Introduction to the Bible discusses chiasmus---along with many kinds of parallelisms---in great depth and with many examples.[^editions] D. Michael Quinn [has documented the availability of the book in Joseph's milieu]({{ "/early-mormonism-quinn-footnote-108-chiasmus/" | relative_url }}), and there were several editions preceding the publication of the Book of Mormon that may have been accessible.[^knowhy]  The Wayne Sentinel (Palmyra's newspaper) had prominently [advertised the book in 1825](https://nyshistoricnewspapers.org/lccn/sn84024337/1825-04-06/ed-1/seq-3/png/). Finally, just a few years after the publication of the Book of Mormon Joseph was gifted a copy, corroborating the prominence and ubiquity of the book in general terms.
 
     In addition, Joseph Smith was very familiar with Clarke's famous commentary on the bible---we know that he [borrowed liberally from the commentary in his JST]({{ "/joseph-consulting-clarkes-commentary/" | relative_url }}).  And we also know that work on the JST began less than 2 years after the publication of the BoM.[^clarkeinbom] Clarke also describes various Hebrew poetic devices and clearly _describes_ chiasmus in his introduction to the book of Isaiah (see [here](https://babel.hathitrust.org/cgi/pt?id=uva.x004508074&view=1up&seq=682) in the [1826 printing](https://catalog.hathitrust.org/Record/009784085?type%5B%5D=all&lookfor%5B%5D=clarke%20commentary&ft=)), even though he does not name it as such and the examples are far simpler than those documented in Horne's Introduction.
 
@@ -47,7 +47,7 @@ LatterDayData has pointed out some interesting analyses on broken chiasmus.  The
 
 ### Notes
 
-*Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing.  [Pushback](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/ff9x62n/) on points 1-3 with /u/jn3792 led to the framing of point #4.*
+*Acknowledgement: Some of the above arguments h/t /u/djhoen and /u/ImTheMarmotKing.  [Pushback](https://www.reddit.com/r/mormon/comments/eqip4v/what_traditionslawsnorms_can_only_be_traced_back/ff9x62n/) on points 1-3 with /u/jn3792 led to the framing of point #4. Advertisement of Horne's Introduction h/t /u/tripletc.*
 
 [originally posted at /r/mormon](https://www.reddit.com/r/mormon/comments/84wj6t/summarizing_the_best_arguments_against_chiasmus/) (modified significantly since then)
 

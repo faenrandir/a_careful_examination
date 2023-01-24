@@ -7,7 +7,7 @@ layout: page
 
 Introduction
 
-The Church teaches that Adam and Eve left the Garden of Eden and went to Missouri, USA.
+The Church teaches that Adam and Eve left the Garden of Eden and went to Missouri, USA. A couple of early Church leaders taught that the Garden of Eden was in Jackson County (or Independence), Missouri but one stated that its location was unknown.
 
 ### Current teachings
 
@@ -16,7 +16,6 @@ The Church teaches that Adam and Eve left the Garden of Eden and went to Missour
     > Strictly speaking, we do not know where the Garden of Eden was. Joseph Smith established a settlement called Adam-ondi-Ahman in Daviess County, Missouri. While not an important or foundational doctrine, **Latter-day Saints believe that Adam and Eve dwelt in that area after being expelled from the Garden of Eden**. (emphasis added)
 
 ## Other 
-
 
 ### historic sites: Adam-ondi-Ahman
 
@@ -54,6 +53,12 @@ Two early LDS leaders identified Jackson County (and in one case Independence,
 specifically) as the location of the Garden of Eden, but Orson Pratt was not
 committed to a particular location.
 
+### In Jackson County, Missouri
+
+Brigham Young's history records him saying:[^brigham_young_to_orson_hyde]
+
+> You have been both to Jerusalem and Zion, and seen both. I have not seen either, for I have never been in Jackson County. Now it is a pleasant thing to think of and to know where the Garden of Eden was. Did you ever think of it? I do not think many do, for in Jackson County was the Garden of Eden. Joseph has declared this, and I am as much bound to believe that as to believe that Joseph was a prophet of God.
+
 ### In Independence, Missouri
 
 In [an 1863 discourse](https://jod.mrm.org/10/233), Heber C. Kimball identified Independence, Missouri, in Jackson County, as the location of the Garden of Eden proper:
@@ -65,3 +70,5 @@ In [an 1863 discourse](https://jod.mrm.org/10/233), Heber C. Kimball identified 
 In [an address in 1875](https://jod.mrm.org/18/57), Elder Orson Pratt described the location of the Garden of Eden as "unknown":
 
 > ... Says one—“Do you mean to say that America was inhabited before the flood?” Yes, Adam dwelt on this continent. I do not know that the Garden of Eden was here, but we know from what God has revealed to us, that before Adam closed his days he dwelt on a certain portion of this continent with a great number of the righteous. All the righteous that lived on this continent before the flood, those who lived upon this continent who were righteous, who came from the Tower of Babel after the flood, and lived here some sixteen hundred years, before the nation was destroyed. ...
+
+[^brigham_young_to_orson_hyde]: [FAIR states](https://web.archive.org/web/20221018025852/https://www.fairlatterdaysaints.org/answers/Question:_What_statements_have_Latter-day_Saints_leaders_made_regarding_the_location_of_the_Garden_of_Eden%3F) that Brigham "told Orson Hyde (who had been to Palestine)" about the Garden of Eden being in Jerusalem. That context is not clear [from Evidences and Reconciliations, v3](https://archive.org/details/evidencesreconci03widt/page/160/mode/2up?q=%22Garden+of+Eden%22) where the quote is copied from, though.
