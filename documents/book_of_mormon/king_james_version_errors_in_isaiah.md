@@ -14,7 +14,7 @@ The first question of the CES Letter, [version 2.0](https://cesletter.org/CES-Le
 
 The CES Letter's [appendix for this question](https://cesletter.org/1769-kjv-errors/) points to some scholarly opinion and then a table of examples compiled by curious\_mormon.[^notonlyexamples]
 
-In response, apologists sometimes claim that the Book of Mormon does *not* transmit translation errors, mainly focusing on the highly subjective nature of translating.  [For example](http://www.conflictofjustice.com/kjv-bible-errors-in-book-of-mormon/),
+In response, apologists sometimes claim that the Book of Mormon does *not* transmit translation errors, mainly focusing on the highly subjective nature of translating.  [For example](http://web.archive.org/web/20190905140327/http://www.conflictofjustice.com/kjv-bible-errors-in-book-of-mormon/),
 
 > No, the Book of Mormon does not contain unique errors from the King James Version bible.
 
