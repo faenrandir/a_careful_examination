@@ -112,7 +112,7 @@ There is much potential for good to occur in the course of investigation---regar
 
 The process of investigation opens the door for reconciliation with former members or other members who are grappling with difficult Church issues:
 
-* If an investigator see flaws in the logic or evidence that's been neglected then they can offer it up and perhaps convince those who have chosen a different path to come back.  Perhaps those people have missed something?[^petesstory]
+* If an investigator sees flaws in the logic or evidence that's been neglected then they can offer it up and perhaps convince those who have chosen a different path to come back.  Perhaps those people have missed something?[^petesstory]
 * If an investigator is persuaded by the evidence (even partially), then they have gained some common ground with individuals who have experienced a faith transition.
 
 If a person investigates and their beliefs do not change, some kinds of reconciliation may still occur:
@@ -166,9 +166,9 @@ Eleanor Roosevelt once stated:
 
 > You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.
 
-And the Mormon Newsroom explained:
+And the Church Newsroom [explained](https://news-ca.churchofjesuschrist.org/article/voice-religious-conscience):
 
-> It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that "truth will cut its own way" and love will eventually win out in the contest of ideals. ([source](http://www.mormonnewsroom.org/article/voice-religious-conscience))
+> It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that "truth will cut its own way" and love will eventually win out in the contest of ideals.
 
 ### General Authorities have encouraged investigation
 

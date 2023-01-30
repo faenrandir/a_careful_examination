@@ -52,6 +52,7 @@ Besides the events surrounding the use of the seer stone, there are two main iss
 ## See also
 
 * [The Miraculous Translation of the Book of Mormon](https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon) (book chapter from Welch's "Opening the Heavens: Accounts of Divine Manifestations, 1820-1844")
+*  [Before the Urim & Thummim Pre-1833 Newspaper Accounts of Book of Mormon Translation](https://wheatandtares.org/2023/01/26/before-the-urim-thummim-pre-1833-newspaper-accounts-of-book-of-mormon-translation/?fbclid=IwAR3JcHnqq6WNaiIfvAaGvIYbdmqODv6ONeXZ0UdLQE8Uf5-NCHTMYP9pjgs) (Mary Ann, Wheat & Tares 2023)
 * [Eyewitnesses claiming the seer stone was used to translate the Book of Mormon](https://faenrandir.github.io/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/) (A Careful Examination)
 * [The Spectacles, the Stone, the Hat, and the Book: A Twenty-first Century Believer’s View of the Book of Mormon Translation](https://journal.interpreterfoundation.org/the-spectacles-the-stone-the-hat-and-the-book-a-twenty-first-century-believers-view-of-the-book-of-mormon-translation/) (Roger Nicholson's 2013 analysis in The Interpreter)
 * mormonscholar.org [Seer Stone Related Materials](http://mormonscholar.org/resources/) (Certina)

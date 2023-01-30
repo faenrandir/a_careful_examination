@@ -20,6 +20,7 @@ layout: page
 ### Who is leaving?
 
 * [Who Is Leaving the Church? Demographic Predictors of Ex–Latter-day Saint Status in the Pew Religious Landscape Survey](https://byustudies.byu.edu/content/who-leaving-church-demographic-predictors-ex-latter-day-saint-status-pew-religious-landscape) (Cranney BYU Studies 2019 analysis of 2014 Pew data)
+
 ### Discussion
 
 * [Why are people leaving the Mormon Church](http://www.churchistrue.com/blog/why-are-people-leaving-the-mormon-church/) (churchistrue blog including speculation and discussion of the bubble chart from MormonLeaks]
