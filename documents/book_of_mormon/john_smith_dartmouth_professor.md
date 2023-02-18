@@ -13,7 +13,7 @@ layout: page
 
 ## 20 point summary of John Smith Lectures
 
-As published in Kathleen Kimball Melonakos, Secret Combinations: Evidence of Early Mormon Counterfeiting 1800-1847, pages 83-84; 2016, copied from [realbookofmormon.org](http://realbookofmormon.org/random-fact/page/20/)  _Note, I have not seen the original source myself, so I'm skeptical until I see the primary source._
+As published in Kathleen Kimball Melonakos, Secret Combinations: Evidence of Early Mormon Counterfeiting 1800-1847, pages 83-84; 2016, copied from [realbookofmormon.org](https://web.archive.org/web/20190204093635/http://realbookofmormon.org/random-fact/page/20/) (see "Fact 976") _Note, I have not seen the original source myself, so I'm skeptical until I see the primary source._
 
 1. Greek philosophy provided his concept of the Pre-existence.
 2. Atonement Covenant was made before the earth was.
