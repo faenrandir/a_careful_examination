@@ -192,7 +192,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **present**&nbsp; Papers of leaders donated decades ago, under stipulation that they be open, are still closed
 
-    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ([transcript]({{ "/matt-harris-transcript-on-lds-transparency/" | relative_url }})), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984. Kimball's diaries were [finally released in 2023](https://religionnews.com/2023/02/17/spencer-w-kimball-diaries-shine-a-light-behind-the-scenes-of-modern-mormonism/), but the Henry Moyle papers are still not available today.
+    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ([transcript]({{ "/matt-harris-transcript-on-lds-transparency/" | relative_url }})), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984. Kimball's journals were [finally released in 2023](https://religionnews.com/2023/02/17/spencer-w-kimball-diaries-shine-a-light-behind-the-scenes-of-modern-mormonism/), but the Henry Moyle papers are still not available today.
 
 ## Discussion
 
