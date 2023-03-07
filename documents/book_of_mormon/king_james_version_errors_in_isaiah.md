@@ -132,7 +132,7 @@ At least four LDS scholars acknowledge errors in or significant divergence betwe
 * LDS scholar Stephen Smoot [acknowledged]({{ "/smoot-king-james-errors/" | relative_url
 }}) (emphasis added):
 
-> ...and so I think **all parties can agree that there are King James citations and errors**, but the question is what kind of a translation is it ...
+    > ...and so I think **all parties can agree that there are King James citations and errors**, but the question is what kind of a translation is it ...
 
 These LDS scholar observations seem consistent with the idea that the Book of Mormon is a preservation of the KJV Isaiah rather than approximating what we might expect from an ancient source, necessarily.
 
