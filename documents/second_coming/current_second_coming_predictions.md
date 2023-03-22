@@ -12,7 +12,7 @@ layout: page
 * D. Todd Christofferson "... felt the unexpected need to prepare the world for the Second Coming while participating in a religious conference at the G20 summit in Buenos Aires, Argentina, in September [of 2018]". From Deseret News article April 7, 2019, [President Nelson makes impassioned plea for all to ‘come unto Christ’](https://www.deseret.com/2019/4/7/20670476/president-nelson-makes-impassioned-plea-for-all-to-come-unto-christ)
 * LDSLiving [6 ways Church leaders are preparing us for the Second Coming](https://www.ldsliving.com/6-ways-church-leaders-are-preparing-us-for-the-second-coming/s/89471)
 
-# Explicit
+# LDS Community
 
 ### Jodi Stoddard
 
@@ -35,6 +35,13 @@ layout: page
 
 * [The Restoration is HERE](https://www.youtube.com/watch?v=-6jHtWg_zlE)
 * [Seventh seal / Seven year tribulation](https://www.youtube.com/watch?v=Klg4aj7C5vk)
+
+### Michael B. Rush
+
+* Potentially the creator of [the Ezra's Eagle prophecy](https://www.youtube.com/watch?v=amAA2NRF4Uc)
+* [The Lost 10 Tribes](https://the-roaring-lion-book-store.myshopify.com/?fbclid=IwAR3utqadDHKkLdH-Ie3cVGV9InK9fPEdIJpCeWdzJC6D3QUQgS21vOFunmA) (website)
+
+[The Father's Message to the latter-day Gentiles](https://www.youtube.com/watch?v=QWBwS6IL4Js)
 
 ### Koumiete Gaijin
 

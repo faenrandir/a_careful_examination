@@ -56,8 +56,8 @@ The 'ought' in this conception of morality is derived from an appreciation of th
 
 * [Morality Transcends Religious Belief](https://faenrandir.github.io/a_careful_examination/morality-transcends-religious-belief/)
 * [Science is as substantive as religion in helping us to derive morality's ought](https://faenrandir.github.io/a_careful_examination/science-vs-religion-in-deriving-moralitys-ought/)
-* [Truth in Ethics and Epistemology: A Defense of Normative Realism](https://www.academia.edu/823793/Truth_in_Ethics_and_Epistemology_A_Defense_of_Normative_Realism)
-* [The Best Argument for Moral Realism?](https://www.youtube.com/watch?v=VW3VuMUWim0)
+* [Truth in Ethics and Epistemology: A Defense of Normative Realism](https://www.academia.edu/823793/Truth_in_Ethics_and_Epistemology_A_Defense_of_Normative_Realism) (dissertation)
+* [The Best Argument for Moral Realism?](https://www.youtube.com/watch?v=2bFfDwvbKP8) (short video of the key point of the above dissertation)
 
 *originally posted [here](https://www.reddit.com/r/MormonDoctrine/comments/89kb1f/claim_morality_is_an_emergent_principle/)*
 

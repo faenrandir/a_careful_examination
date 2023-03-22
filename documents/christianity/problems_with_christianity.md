@@ -8,30 +8,15 @@ layout: page
 
 # Introduction
 
-So much of what Jesus Christ taught (or is purported to have taught) is
-helpful, inspiring, and/or good.[^veridicality]  I think we should embrace
-these messages, generally.  Still, some of what he taught when interpreted by
-mainstream Christianity is problematic to my mind.  And a few things that
-Jesus taught are problematic when taken at their plain meaning.  A similar
-pattern emerges when extending the analysis to include the words of Jesus's
-various disciples as recorded in the books of the New Testament.
+So much of what Jesus Christ taught (or is purported to have taught) is helpful, inspiring, and/or good.[^veridicality]  I think we should embrace these messages, generally.  Still, some of what he taught when interpreted by mainstream Christianity is problematic to my mind.  And a few things that Jesus taught are problematic when taken at their plain meaning.  A similar pattern emerges when extending the analysis to include the words of Jesus's various disciples as recorded in the books of the New Testament.[^authorship]
 
-This document focuses mainly on the purported words of Jesus Christ and
-occasionally dips into other New Testament writing to deal with highly
-problematic aspects of Christian culture and practice, generally.  I will also
-call out specific aspects of Latter-day Saint culture[^latterdaysaints] since
-I know it best and it will be more relevant to most of my readers.  Still,
-many of these examples will apply to some extent to larger swaths of
-Christianity.
+This document focuses mainly on the purported words of Jesus Christ and occasionally dips into other New Testament writing to deal with highly problematic aspects of Christian culture and practice, generally.  I will also call out specific aspects of Latter-day Saint culture[^latterdaysaints] since I know it best and it will be more relevant to most of my readers.  Still, many of these examples will apply to some extent to larger swaths of Christianity.
 
-Also, because I have been evaluating Christianity from the perspective of a
-parent wanting to raise children well, I follow up some of the problematic
-teachings with thought questions related to parenting.
+Also, because I have been evaluating Christianity from the perspective of a parent wanting to raise my children well, I follow up some of the problematic teachings with thought questions related to parenting.
 
 # The Good
 
-I touch on a few of the many good aspects of Jesus's teachings and Christian
-culture below.
+I touch on a few of the many good aspects of Jesus's teachings and Christian culture below.[^greater_depth]
 
 ## Christianity promotes love and selflessness.
 
@@ -41,7 +26,7 @@ The Gospels promote many beautiful ideals:
 * "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.  And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.  And whosoever shall compel thee to go a mile, go with him twain.  Give to him that asketh thee, and from him that would borrow of thee turn not thou away.  Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.  But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust." (Matthew 5:38--45)
 * "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.  Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?  When saw we thee a stranger, and took thee in? or naked, and clothed thee?  Or when saw we thee sick, or in prison, and came unto thee?  And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me." (Matthew 25:34--40)
 
-It's difficult to overstate the power of these ideals.  These ideas existed (often to a somewhat lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus in the Gospels and echoed elsewhere in the New Testament.  Much of the good that has been done in the world in the past 2000 years was motivated, at least in part, by these ideals.
+It's difficult to overstate the power of these ideals.  These ideas existed (though sometimes to a lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus in the Gospels and echoed elsewhere in the New Testament.  Much of the good that has been done in the Western world in the past 2000 years was motivated, at least in part, by these ideals.
 
 ## Idea of eternal life may diminish existential anxiety
 
@@ -81,7 +66,7 @@ The desire to maintain a belief in God and Christ can hinder a person from searc
 
 > Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee. But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas: For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
 
-This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > Seventh Day Adventist > Evangelical > Catholic > Protestant > Unitarian Universalist).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.
+This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW > Mormon > Seventh Day Adventist > Evangelical > Catholic > Protestant > Unitarian Universalist).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.[^totalism_and_avoiding_introspection]
 
 *How do I encourage my children to follow truth when asking for sufficient evidence for some religious premises is considered adulterous?*
 
@@ -91,7 +76,7 @@ According to John's gospel, Jesus said to Thomas, "Thomas, because thou hast see
 
 And in Mark 16:16 Jesus says "He who believes and is baptized will be saved; but he who does not believe will be condemned."
 
-I have not seen any argument or demonstration to convince me that belief without sufficient justification is a virtue, as I discuss [here](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/).  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.
+I have not encountered a convincing argument or demonstration that belief without sufficient justification is a virtue, as I discuss [in this essay]({{ "/faith-vs-religious-faith/" | relative_url }}).  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.
 
 *Why would I teach my children that they must believe things on inadequate evidence under penalty of some kind of eternal torment (of one form or another, whether separation from family or God for eternity or misery inherent to the condition)?*
 
@@ -99,14 +84,14 @@ I have not seen any argument or demonstration to convince me that belief without
 
 Whereas the belief in the resurrection may quell anxiety, a belief in Jesus is also tied to a belief in his second coming, and the second coming may promote nihilism and anxiety.
 
-Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew 24 and the Book of Revelation) is [woven deeply into Christianity](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming_of_Christ)
+Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew 24 and the Book of Revelation) is [woven deeply into Christianity](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming_of_Christ)[^second_coming_expected_in_lifetime_of_adherents]
 
 * It deeply affects how Christians live today, causing many fundamentalist Christians to be ill-prepared for living a full life (anecdotes [here](https://www.reddit.com/r/exchristian/comments/k3zg4i/does_anyone_else_feel_like_they_werent_prepared/)).
 * It colored expectations within the early LDS Church (see [here](https://faenrandir.github.io/a_careful_examination/failed-second-coming-predictions-in-early-lds-church/))
-* Throughout its existence, LDS members have been told [they will live to see the second coming](https://www.reddit.com/r/mormon/comments/6rctgu/if_your_patriarchal_blessing_indicates_you_will/).
+* Throughout its existence, LDS members have been told [they will live to see the second coming](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_11.pdf).
 * LDS members today have vivid and concrete expectations for Jesus's [immediate return](https://faenrandir.github.io/a_careful_examination/modern-second-coming-predictions/).
 
-*Why would I want my children to have the expectation that life is _for sure_ going to become cataclysmically bad and then all problems will essentially be "solved" by Jesus coming again?*
+*Why would I want my children to have the expectation that life is for sure going to become cataclysmically bad and then all problems will essentially be "solved" by Jesus coming again?*
 
 ## Eternal judgement anxiety
 
@@ -117,8 +102,8 @@ In the back of many orthodox Christian minds is the idea that the wrong beliefs 
 actions might result in their *eternal torment*.  In the back of every LDS
 mind is the belief that they might be separated from their family (except for
 short visitation rights) and persist in this state full of regret for what might have
-been (missing out on living a life of complete joy and endless reproduction)
-if they fail to live very strict covenants.
+been (missing out on living a life of complete joy and endless creation)
+if they fail to live strict covenants.
 
 *A single unrepentant "sin", no matter how small, may be enough to separate a person from God and their family for all of eternity.  Why would I want my children to believe that?*
 
@@ -126,11 +111,9 @@ if they fail to live very strict covenants.
 
 The viability of any individual relationship is conditioned at least somewhat on both parties upholding certain fundamental _principles_ related to minimum levels of respect or consideration for the other (e.g., respect for the other's body and/or autonomy); however, some New Testament verses put undue weight on the nature of a person's religious commitments compared with a person's existing relationships (what has been referred to elsewhere as "doctrine over person").
 
-* John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that they should not say "hi" to them or invite them into your house.  [2 John 1: 7-11](https://www.lds.org/scriptures/nt/2-jn/1.7-11) 
+* John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that a disciple should not greet such a person or invite them into their house.  [2 John 1: 7-11](https://www.lds.org/scriptures/nt/2-jn/1.7-11) 
 
-* Jesus Christ discouraged a disciple from burying his father with the
-  statement "let the dead bury their dead".  This teaching is used by
-  many believers to prioritize Church and religion over family and non-believers.
+* Jesus Christ discouraged a disciple from burying his father with the statement "let the dead bury their dead".  This teaching is used by many believers to prioritize Church and religion over family and non-believers.
 
 *  "Another said, 'I will follow you, Lord; but let me first say farewell to those at my home.' Jesus said to him, 'No one who puts his hand to the plow and looks back is fit for the kingdom of God.' (Luke 9:61--62)
 
@@ -138,11 +121,11 @@ The viability of any individual relationship is conditioned at least somewhat on
 
     > If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
-*Why would I want my children to be taught that they should not say 'hi' to people who believe differently than them?  Whey would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
+*Why would I want my children to be taught that they should not greet people who believe differently than them?  Whey would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
 
 ## An emphasis on "sin" instead of morality
 
-Christianity and Mormonism both place a strong emphasis on "sin", and this can stunt moral reasoning and warp behavior so that what is most moral is secondary to what is considered "sin", [no matter the moral consequence or magnitude](https://www.youtube.com/watch?v=S-dfOQUc8vQ&feature=emb_logo).
+Christianity and Mormonism both place a strong emphasis on "sin", and this can stunt moral reasoning and warp behavior so that what is most moral is secondary to what is considered "sin", [no matter the moral consequence or magnitude](https://www.youtube.com/watch?v=S-dfOQUc8vQ&feature=emb_logo).[^sin]
 
 Consider Richard Bellrock's arguments in [Sin Does Not Exist: And Believing That It Does Is Ruining Us](https://sunstonemagazine.com/sin-does-not-exist/).
 
@@ -152,7 +135,7 @@ Consider Richard Bellrock's arguments in [Sin Does Not Exist: And Believing That
 
 According to John, Jesus said "If ye love me, keep my commandments" (John 14:15).  Obedience is sometimes emphasized by Christians, [for example](https://www.reddit.com/r/Christianity/comments/l2kxic/matthew_7_kjv_highlighting_how_obedience_to_jesus/).  The LDS Church amplifies the importance of obedience by claiming that [obedience is the first law of heaven](https://www.churchofjesuschrist.org/search?lang=eng&query=obedience%20first%20law%20of%20heaven&highlight=true&page=1) and encourages members to follow the prophet, [even if they know that what is being asked is wrong](https://www.churchofjesuschrist.org/search?lang=eng&query=%22and%20it%20is%20wrong%2C%20and%20you%20do%20it%2C%20the%20Lord%20will%20bless%20you%20for%20it%22&highlight=true&page=1): "Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it." (with a wink that they would never ask you to do anything wrong).
 
-I believe obedience is a neutral value: it merely amplifies the intrinsic morality of the thing that was instructed (because now an additional actor has been engaged in the activity, whether it was good or bad).  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad (at least in the vast majority of cases).  I can imagine only very extreme circumstances---like the heat of battle---where high-stake instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that [they must disobey unlawful commands](https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/).
+I currently view obedience as a neutral value: it merely amplifies the intrinsic morality of the thing that was instructed (because now an additional actor has been engaged in the activity, whether it was good or bad).  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad (at least in the vast majority of cases).  I can imagine only very extreme circumstances---like the heat of battle---where high-stake instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that [they must disobey unlawful commands](https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/).
 
 *Why would I want my children to be taught that they should obey leaders, even if leaders are wrong?*
 
@@ -183,13 +166,13 @@ unification.
 
 LDS leaders have taught [really disparaging things](https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/) about former members across the history of the Church.
 
-*Why would I attend a church where leaders have unapologetically said those kinds of things about my own brothers and sister?*
+*Why would I attend a church where leaders consistently speak in ways that egregiously, inaccurately, and unfairly undermine the character and motivation of former members---me, my wife, my children, and my own brothers and sister?*
 
 ## Potentially harmful sexual attitudes
 
 Religious belief is correlated with teenage pregnancy (see [this plot](https://www.reddit.com/r/exmormon/comments/6stywg/graph_of_teen_pregnancies_by_state_as_compared_to/)).  In addition, while an emphasis on total abstinence before marriage may be beneficial for some individuals and has some clear advantages (e.g., no risk of pregnancy or STDs), the all "off" and then all "on" nature of sexuality in this model seems detrimental to some individuals and relationships.
 
-Sexuality is [rife with moral concerns](https://faenrandir.github.io/a_careful_examination/why-sex-linked-to-morality/).  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
+Sexuality is [rife with moral concerns]({{ "/why-sex-linked-to-morality/" | relative_url }}).  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
 
 *Why would I want my children to be taught that sexual "sin" is "next to murder" instead of teaching and supporting them in how to navigate this difficult moral landscape with an emphasis on consequences that are proportional to genuine consequences?*
 
@@ -219,7 +202,7 @@ Jesus asks us to turn the other cheek and walk a mile with our oppressors, but e
 
 "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?" (Matthew 6:25)  Latter-day Saints scope this injunction to apply to the apostles, but other Christians have little reason to discard this statement.  Everyone realizes that this kind of life is basically unsustainable for any significant portion of the population.  401Ks, insurance, savings accounts, the stock market are all things the vast majority Christians believe in or otherwise accept as the way things are simply done.
 
-*Why should I teach my children those sayings of Jesus that are pretty much untranslatable to their lives and which we all routinely ignore in one way or another anyway?*
+*Why should I teach my children those sayings of Jesus that seem untranslatable to their lives and which most Christians downplay or ignore anyway?*
 
 ## Reluctance to fully accept homosexuals
 
@@ -254,6 +237,17 @@ And speaking directly to an LDS audience, could I really teach my children a nua
 
 [^condemning_racism]: The way Jesus dealt with other groups can be viewed as condemning or transcending racism [for example](http://www.publicchristian.com/jesus-racism/).  And the teachings of Paul are fairly universalist with regard to race.  Some passages in the Book of Mormon can also be viewed as transcending or condemning racism (e.g., 2 Ne 26:33 "...he inviteth them all to come unto him and partake of his goodness; and he denieth none that come unto him, black and white, bond and free, male and female; and he remembereth the heathen; and all are alike unto God, both Jew and Gentile.").
 
-[^veridicality]: The purpose of this document is to point out potentially problematic Christian teachings.  Obviously, one's view on the veridicality of Christian supernatural truth-claims has significant bearing on how they will interpret *a priori* the goodness of various Christian teachings (e.g., they might argue simply that if Jesus said it then that is reason enough to assume that it represents optimal goodness).  I believe that naturalism is best supported by the evidence (i.e., I am skeptical of supernatural claims, not because I have any reason to reject them outright but simply because the evidence is insufficient to accept them, to my mind).  Still, as much as possible, I would like to sidestep the veridicality of Christian truth-claims and focus on the inherent goodness intrinsic to its teachings.  Hopefully, many Christians can set to the side the veridicality of truth claims for a moment.  More fundamentalist believers in Christianity will probably find this difficult or impossible to do, so perhaps this is not the right place (or angle) to discuss differences in worldviews with fundamentalist Christians.
+[^veridicality]: The purpose of this document is to point out potentially problematic Christian teachings.  Obviously, one's view on the veridicality of Christian supernatural truth-claims has significant bearing on how they will interpret *a priori* the goodness of various Christian teachings.  For example, they might argue that if Jesus said something then that is reason enough to assume that his teachings then represent optimal goodness, case closed.  I believe that naturalism is best supported by the evidence (i.e., I am skeptical of supernatural claims, not because I have any reason to reject them outright but simply because the evidence is insufficient to accept them, to my mind).  Still, as much as possible, I would like to sidestep the veridicality of Christian truth-claims and focus on the inherent goodness intrinsic to its teachings.  Hopefully, many Christians, at least while considering this essay, can set to the side the veridicality of the truth claims found in the Bible.  More fundamentalist believers in Christianity will probably find this task difficult or impossible to do, so perhaps this is not the right place (or angle) to discuss differences in worldviews with fundamentalist Christians.
 
 [^justifying_slavery]: Justifying slavery seems consistent with the Bible, even though I find that worldview deeply offensive and problematic.  I am reluctant to even outline the rationale against slavery since it should be self-evident.  The core problem of slavery is it enables a system where some humans are deprived of self-determination, and almost everything we value as humans hinges on self-determination.  It also implies a power differential based on fiat, and whomever is endowed with that power to make those decisions seems like an arbitrary, and self-enforce and self-aggrandizing, assignment.
+
+[^authorship]: The editors of the New Oxford Annotated Bible (probably the most recommended scholarly Bible in existence) [summarizes](https://archive.org/details/the-new-oxford-annotated-bible-with-apocrypha-new-revised-standard-version-2018/page/1743/mode/2up?q=%22forty+to+sixty%22), "Scholars generally agree that the Gospels were written forty to sixty years after the death of Jesus. They thus do not present eyewitness or contemporary accounts of Jesus's life and teaching." In addition, most scholars agree that several of the Pauline epistles were [likely pseudepigraphical](https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles).
+
+[^greater_depth]: Many books and articles have been written on the positive aspects of Christianity and/or attempting to weigh the good verses the bad of religion and religiosity in general, and I am only scratching the surface in this essay by listing a few examples. For a good overview, see chapter 6 of Benjamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.google.com/books/edition/Psychological_Perspectives_on_Religion_a/gPNTBAAAQBAJ?hl=en&gbpv=1).
+
+[^totalism_and_avoiding_introspection]: I explore totalism along with other influential mindsets in the LDS Church in [this essay]({{ "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/" | relative_url }}). 
+
+[^second_coming_expected_in_lifetime_of_adherents]: Regardless of typical Christian anticipation for the second coming, the data suggest that the writers of the New Testament anticipated the second coming to occur within _their own_ lifetime.  For instance, here is Dan McClellan, Bible scholar and former scripture translation supervisor for the LDS Church, [discussing Luke 21:10-11](https://www.tiktok.com/@maklelan/video/7204470714240339243?lang=en), "the data indicate that these authors anticipated these things [cataclysms typically associated with the second coming] happening within their lifetimes in the first century CE And the same is true of the book of Revelation."
+
+[^sin]: To be clear, I am not arguing that good and evil do not exist or that we should not consider the impact of our actions on others. On the contrary, I think morality is very much a real thing: I view it as [an emergent principle](https://faenrandir.github.io/a_careful_examination/morality-is-an-emergent-principle/). Hence, it is _because_ I care about the moral consequences of my actions that I think notions of "sin" are problematic. "Sin" is focused on following the will of God and/or offending him through actions that are contrary to one of his commandments. This is problematic because 1) the commandments of Christianity come to us with questionable provenance---it is not at all clear or certain that they represent the mind and will of God, 2) the commandments often seem to fail to transcend the contingencies of a specific time and place (e.g., neither the Old or New Testaments condemned slavery), 3) focusing on the impact of our actions on God (i.e., "will this offend God or violate one of his commandments?") may distract us from focusing on and gaining more perspective on the impact of our actions on _others_ (which is arguably a more important focus in trying to minimize harm and maximize the benefits of our actions),  and 4) if I were, hypothetically, asked by God to do something that I know is wrong and he refused to give justification (i.e., that it was for some greater good), I would choose to disobey God (i.e., I would "sin") rather than do something that seemed evil to me (i.e., would result in harm for a conscious creature). While some of the commandments may provide us some assistance in deciding what is moral, ultimately I view "sin" as [a feature of the map and not necessarily the territory](https://fs.blog/map-and-territory/).
+
