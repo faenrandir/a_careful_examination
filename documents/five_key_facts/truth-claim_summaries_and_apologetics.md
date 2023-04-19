@@ -68,7 +68,7 @@ layout: page
         * [Book of Abraham Misinformation](https://www.reddit.com/r/mormon/comments/mqxw5y/clearing_up_some_book_of_abraham_misinformation/)
         * [More on the Book of Abraham](https://www.reddit.com/r/mormon/comments/mwe0hw/more_on_the_book_of_abraham/)
     * bwv549 responses
-        * [rebuttal on science issues](https://www.reddit.com/r/mormon/comments/tg6doz/a_short_exploration_of_dice1899s_ces_letter/)
+        * [rebuttal on science issues](https://www.reddit.com/user/bwv549/comments/y7be4q/a_short_exploration_of_dice1899s_ces_letter/)
         * [response to Book of Mormon Translation Questions](https://www.reddit.com/r/mormon/comments/mgzde7/response_to_part_9_of_dice1899s_critique_of_the/)
 1. [Eye of the Beholder, Law of the Harvest: Observations on the Inevitable Consequences of the Different Investigative Approaches of Jeremy Runnells and Jeff Lindsay](https://journal.interpreterfoundation.org/eye-of-the-beholder-law-of-the-harvest-observations-on-the-inevitable-consequences-of-the-different-investigative-approaches-of-jeremy-runnells-and-jeff-lindsay/) (Kevin Christensen)
     * [Johnny Stephenson's response](https://cesletter.org/debunkings/kevin-christensen/sky-is-falling-debunking-mormon-interpreter-kevin-christensen-jeremy-runnells/)
