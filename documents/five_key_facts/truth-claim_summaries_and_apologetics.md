@@ -42,7 +42,8 @@ layout: page
 
 * [Gospel Topics Essays](https://www.lds.org/topics/essays?lang=eng&old=true) (lds.org)
 * [Gospel Topics, Essays, and Other Resources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (lds.org)
-* [Book of Mormon Central](https://bookofmormoncentral.org/)
+* [Evidence Central](https://evidencecentral.org/recency)
+    * [A non-member response to some Evidence central posts](https://toybom.wordpress.com/17-other-lds-literature/) (toybom - one year of the BoM)
 * [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
 * [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html) (prolific apologist)
 * [Neal A. Maxwell Institute](http://mi.byu.edu/) (BYU affiliated institute for religious scholarship)

@@ -26,4 +26,4 @@ It's difficult to quantify spiritual development and dedication.  Nonetheless, h
 * Never drank caffeine (or any other prohibited substance)
 * Never watched TV on Sunday. Never watched a Super Bowl.
 
-Some of these seem pretty pharisaical to me now.  But I did these from a sincere desire to strengthen my testimony and do the right thing in order to access the powers of heaven to bless others and to generally live in the best way I knew how.
+A few of these seem misguided to me now (i.e., focused on minutia and paranoid about what I perceived as the "letter of the law"), but at the time I viewed "exact obedience" as a key part of maintaining the Spirit.  In any case, I did these from a sincere desire to strengthen my testimony and do the right thing in order to access the powers of heaven to bless others and to generally live in the best way I knew how.
