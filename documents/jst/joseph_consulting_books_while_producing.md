@@ -24,16 +24,14 @@ Wayment [also discussed][lds-perspectives-podcast-wayment] the historical corrob
 
 In a Mormon Stories podcast, Haley Wilson Lemmón gave some [specific examples](https://www.youtube.com/watch?v=RBiVPz7tMqU&feature=youtu.be&t=2527) (video set to play at 42:07).  A number of examples are also detailed in the official publication of this study which is found in chapter 11 of [Producing Ancient Scripture](https://faenrandir.github.io/a_careful_examination/best-arguments-against-chiasmus-as-evidence-of-ancientness/).
 
+
 ## Rebuttal
 
-* [Some Notes on Joseph Smith and Adam Clarke](https://journal.interpreterfoundation.org/some-notes-on-joseph-smith-and-adam-clarke/) (Interpreter 2020, Kent P. Jackson)
-* [On Secondary Source Infuence in the JST](https://bycommonconsent.com/2021/04/16/on-secondary-source-infuence-in-the-jst/) (Kevin Barney's analysis)
-* Also, make sure to read comments by "Thom Wayment" in the comment section where Wayment responds generally to critiques by Jackson.
-
-
+See [Responses to Joseph Smith relying on Clarke for JST]({{ "/responses-to-js-relying-on-clarke-for-jst/" | relative_url }})
 
 ## See also
 
+* [Rebuttal by Kent Jackson and a response by Wayment]({{ "/responses-to-js-relying-on-clarke-for-jst/" | relative_url }})
 * [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (chapter 11 is the official publication)
 * [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
 

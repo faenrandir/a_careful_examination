@@ -47,17 +47,17 @@ Wayment responded to Barney and Jackson in the comment section of [Barney's anal
 
 > Of course the devil is in the details. Take Exodus 11:9 for example. Clarke there seems to be directly on point for the JST revision shall—-> will. But the JST makes the same change in Exodus 4:21. How should we explain that in terms of secondary source influence? Let me lay out the possibilities as I see them:
 
-> 1. Maybe Joseph had been reading ahead in Clarke and was already familiar with the 11:9 Clarke Commentary revision in that subsequent verse.
+> 1\. Maybe Joseph had been reading ahead in Clarke and was already familiar with the 11:9 Clarke Commentary revision in that subsequent verse.
 
-> 2. Maybe the use of “will” in 4:21 without explicit commentary at that point was enough to suggest the change there.
+> 2\. Maybe the use of “will” in 4:21 without explicit commentary at that point was enough to suggest the change there.
 
-> 3. Maybe Clarke had given a similar explanation at some previous point in the Commentary, which Joseph remembered and applied here.
+> 3\. Maybe Clarke had given a similar explanation at some previous point in the Commentary, which Joseph remembered and applied here.
 
-> 4. Maybe Joseph learned this usage from some non-Clarke secondary biblical source.
+> 4\. Maybe Joseph learned this usage from some non-Clarke secondary biblical source.
 
-> 5. Maybe this is a usage Joseph picked up from his own reading of the KJV Bible.
+> 5\. Maybe this is a usage Joseph picked up from his own reading of the KJV Bible.
 
-> 6. Maybe this is a usage Joseph learned from his formal education.
+> 6\. Maybe this is a usage Joseph learned from his formal education.
 
 > Possibilities 5 or 6 seemed most plausible to me in this specific case, but I am certainly open to another possibility.
 
