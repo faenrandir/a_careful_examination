@@ -4,11 +4,8 @@ See [About](https://faenrandir.github.io/a_careful_examination/about/)
 
 ## To Build
 
-Ensure you have a working ruby installation on your machine with bundler.
-
-    gem install bundler
-
-Then navigate into the root folder of this project and:
+Make sure you can gem install, then navigate into the root folder of this
+project and:
 
     bundle install
 
