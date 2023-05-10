@@ -18,6 +18,7 @@ layout: page
 
 * [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims)
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
+* [What I Wish I had Known](https://drive.google.com/file/d/1-1fjmZ7XhKr9kQhMTBdVK3sq3xDr27fo/view?usp=drivesdk) (almost all LDS-faithful sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
 * [Examining Mormon Truth Claims](https://mormonstories.org/truth-claims/) (essays hosted at Mormon Stories by [Mike Brown](https://mormonstories.org/podcast/mike-brown-examining-mormon-truth-claims/))
