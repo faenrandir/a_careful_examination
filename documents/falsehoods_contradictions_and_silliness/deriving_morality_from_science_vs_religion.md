@@ -5,9 +5,9 @@ doctype: short-analysis
 layout: page
 ---
 
-Science seems to be every bit as substantive as religion when it comes to deriving the _ought_ in morality.
+Science seems to be every bit as substantive (or un-substantive) as religion when it comes to deriving the _ought_ in morality.
 
-Why _should_ we be good?  Religion says we should be good for these reasons:
+Why _should_ we be good/moral?[^ultimate_reason]  Religion says we should be good for these reasons:
 
 1. God said so (note that Satan, another immortal creature, disagrees and says we _should_ be evil---he doesn't get much air time)
 2. You will suffer forever if you don't think and act "good".
@@ -21,7 +21,7 @@ A typical science-wielding secular humanist says we should be good because:
 1. Lots of people in the community say so (note that some people disagree and say we _should_ be evil---they don't get much air time)
 2. You will suffer in this life if you don't think and act "good" (well documented in scientific studies, [for instance](https://www.psychologytoday.com/blog/talking-about-trauma/201503/love-is-war-post-infidelity-stress-disorder))
 3. Living according to good principles for their own sake makes you happy (for as long as you live) ([well established scientifically](https://www.huffingtonpost.com/2016/12/12/international-day-of-happiness-helping-_n_6905446.html))
-4. Other entities are conscious (or, for the unconscious ones, they at least represent our _own_ humanity) and experience the world like you do, so you should respect them.
+4. Other entities are conscious (or, for the unconscious ones, they at least represent our _own_ humanity) and experience the world like you do, so you should respect them or otherwise care about their conscious experience.
 5. Others have been loving (like [Jawaharlal Nehru](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)) and others have been nice to you at various points in your life, so that will make you want to love others, too.
 6. Living right is its own reward.
 
@@ -45,4 +45,6 @@ edit: minor clarifications and some embellisment on the final #4
 
 ---
 
-[posted here](https://www.reddit.com/r/mormon/comments/7yy5mt/science_is_as_substantive_as_religion_in_helping/)
+[originally posted here](https://www.reddit.com/r/mormon/comments/7yy5mt/science_is_as_substantive_as_religion_in_helping/)
+
+[^ultimate_reason]: Perhaps the ultimate reason to be moral---regardless of God or religion---is that our actions impact the well-being of other people.  *If* we care about other people's well-being, *then* we will want to act in ways that minimize harm and perhaps increase their well-being. All the other "reasons" seem indirect compared to this.
