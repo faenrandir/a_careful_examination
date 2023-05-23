@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation? | A Careful Examination</title>
-<meta name="generator" content="Jekyll v3.9.3" />
+<meta name="generator" content="Jekyll v3.8.6" />
 <meta property="og:title" content="How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?" />
 <meta name="author" content="bwv549" />
 <meta property="og:locale" content="en_US" />
@@ -79,7 +79,7 @@ gtag('config', 'UA-125187615-1');
 
 <p>If we assume that Smith were drawing upon Isaiah chapters randomly, then the above is absolutely correct in probability assessment.  The probability that 20 Isaiah chapters could have been selected at random from the set of 66 Isaiah chapters without once selecting a chapter from trito-Isaiah (chapters 55-66, or 12 chapters) is properly modeled by a cumulative hypergeometric distribution, and yields a probability of 0.0079, or roughly 0.8% that someone could make such a biased selection randomly.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># http://stattrek.com/online-calculator/hypergeometric.aspx
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># http://stattrek.com/online-calculator/hypergeometric.aspx
 # hyperg. dist; pop:66, successes:54, sample:20, &gt;= 20 required
 probability in trito: 0.992095964
 probability not in trito: 0.007904036
@@ -87,7 +87,7 @@ probability not in trito: 0.007904036
 
 <p>However, 13 of the first 14 chapters of Isaiah are used, so we can hardly refer to chapter selection as truly random.  If we merely posit that Smith selected a 13 chapter chunk from the beginning, what is the probability that the remaining 7 chapters would not have been pulled from Trito-Isaiah?  Using the same distribution as above but with modified parameters, we get a probability of 0.16 or 16% that a person would <em>not</em> randomly select a trito-Isaiah chapter after selecting a block of 13 chapters from the beginning of the book.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># http://stattrek.com/online-calculator/hypergeometric.aspx
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># http://stattrek.com/online-calculator/hypergeometric.aspx
 # hyperg. dist (only 7 chapters); pop:51, successes:40, sample:7, &gt;= 7 required
 probability in trito: 0.838967446
 probability not in trito: 0.161032554
@@ -95,7 +95,7 @@ probability not in trito: 0.161032554
 
 <p>But we may even be too generous here.  The vast majority of all other Isaiah citations come from just seven other consecutive chapters, Isaiah 48–54.  Again, the distribution here can’t be called “random” in the least—these are <em>blocks</em> of chapters which seem to have been selected.  What happens if we go back and ask how likely it is that two blocks of chapters, one 13 chapters long and one 7 chapters long, can be randomly selected from Isaiah without selecting a single trito-Isaiah chapter?  I wrote up <a href="https://github.com/faenrandir/a_careful_examination/blob/e5a43715b09837fcabdc6664f3f0d00b0fbacaf1/scripts/trito-isaiah.rb">a script</a> to enumerate every possibility (also throwing out overlaps and such) and calculated the probabilities.  Turns out the probabibility that <em>both</em> chunks could randomly be selected from non trito chapters is 0.56, or 56%.  So, thinking about the selection as two random chunks now pushes the probability <em>in favor of Smith getting lucky</em>—he was more likely to grab continuous chunks that never touch trito-Isaiah than do touch it.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># trito-isaiah.rb --verbose  # will enumerate every possibility
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># trito-isaiah.rb --verbose  # will enumerate every possibility
 # two chunks, one 13 chapters and the other 7
 probability in trito: 0.441 (996 / 2256)
 probability not in trito: 0.559 (1260 / 2256)
@@ -103,7 +103,7 @@ probability not in trito: 0.559 (1260 / 2256)
 
 <p>Finally, if we assume that the first 13 chapters can be explained by selecting, essentially, the first chapters from the book of Isaiah, and we ask what is the probability that another chunk of 7 chapters would include a single trito-Isaiah chapter, the odds are that Joseph <em>would not</em> have selected an additional seven chapter chunk with a single chapter of trito-Isaiah in it (74% probability that he would not have selected a seven chapter chunk that included a single trito-Isaiah chapter).  Again, I calculated the probability by enumerating every possibility (since I already had <a href="https://github.com/faenrandir/a_careful_examination/blob/e5a43715b09837fcabdc6664f3f0d00b0fbacaf1/scripts/trito-isaiah.rb">the basic script</a>).</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># trito-isaiah.rb --verbose  # will enumerate every possibility
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># trito-isaiah.rb --verbose  # will enumerate every possibility
 # 7 chapter chunk assuming first chunk at beginning
 probability in trito: 0.261 (12 / 46)
 probability not in trito: 0.739 (34 / 46)
