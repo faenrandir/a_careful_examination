@@ -18,6 +18,7 @@ members of the Church of Jesus Christ of Latter-day Saints find objectionable:
 1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
+1. [Intense teaching technique "The Lord's Side of the Line" to young man](https://www.youtube.com/watch?v=ftp4-kT9VSg)
 
 ## Positive or Neutral
 
