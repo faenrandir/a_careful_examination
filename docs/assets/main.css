@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure, figcaption, img
 .highlight {
-  margin-bottom: calc($spacing-unit / 2); }
+  margin-bottom: 15px; }
 
 p {
   margin-left: 30px;
@@ -66,7 +66,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: 15px;
   margin-top: 30px; }
 
 /**
@@ -87,14 +87,14 @@ figcaption {
  */
 ul, ol {
   margin-left: 67.5px;
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: 15px;
   line-height: 1.5; }
 
 li > ul {
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: 15px;
   line-height: 1.5; }
 li > ol {
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: 15px;
   line-height: 1.5; }
 li > p {
   margin-left: 0px; }
@@ -129,13 +129,13 @@ a {
 blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
-  padding-left: calc($spacing-unit / 4);
+  padding-left: 7.5px;
   font-size: 16px;
   /** letter-spacing: -1px;**/
   font-style: italic;
   line-height: 110%;
   margin-left: 30px;
-  margin-right: calc($spacing-unit / 2); }
+  margin-right: 15px; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -174,8 +174,8 @@ pre {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
-      padding-right: calc($spacing-unit / 2);
-      padding-left: calc($spacing-unit / 2); } }
+      padding-right: 15px;
+      padding-left: 15px; } }
 
 /**
  * Clearfix
@@ -196,7 +196,7 @@ pre {
     font-size: 13.6px;
     line-height: 115%;
     border-left: 4px solid #e8e8e8;
-    padding-left: calc($spacing-unit / 4);
+    padding-left: 7.5px;
     margin-left: 60px;
     margin-right: 1%;
     letter-spacing: 0px;
@@ -253,7 +253,7 @@ table {
   table tr:nth-child(even) {
     background-color: #f7f7f7; }
   table th, table td {
-    padding: calc($spacing-unit / 3) calc($spacing-unit / 2); }
+    padding: 10px 15px; }
   table th {
     background-color: #f0f0f0;
     border: 1px solid #dedede;
@@ -300,7 +300,7 @@ table {
     .site-nav {
       position: absolute;
       top: 9px;
-      right: calc($spacing-unit / 2);
+      right: 15px;
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
@@ -344,7 +344,7 @@ table {
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: calc($spacing-unit / 2); }
+  margin-bottom: 15px; }
 
 .contact-list,
 .social-media-list {
@@ -354,12 +354,12 @@ table {
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
-  margin-left: calc($spacing-unit / 2 * -1); }
+  margin-left: -15px; }
 
 .footer-col {
   float: left;
-  margin-bottom: calc($spacing-unit / 2);
-  padding-left: calc($spacing-unit / 2); }
+  margin-bottom: 15px;
+  padding-left: 15px; }
 
 .footer-col-1 {
   width: -webkit-calc(35% - (30px / 2));

@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure, figcaption, img
 %vertical-rhythm {
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
 }
 
 p {
@@ -78,7 +78,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
   margin-top: $spacing-unit;
 }
 
@@ -106,17 +106,17 @@ figcaption {
  */
 ul, ol {
   margin-left: ($spacing-unit * 2.25);
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
   line-height: $base-line-height;
 }
 
 li {
   > ul {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: $spacing-unit / 2;
     line-height: $base-line-height;
   }
   > ol {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: $spacing-unit / 2;
     line-height: $base-line-height;
   }
   > p {
@@ -168,13 +168,13 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: calc($spacing-unit / 4);
+  padding-left: $spacing-unit / 4;
   @include relative-font-size(1.0);
   /** letter-spacing: -1px;**/
   font-style: italic;
   line-height: 110%;
   margin-left: $spacing-unit;
-  margin-right: calc($spacing-unit / 2);
+  margin-right: $spacing-unit / 2;
 
   > :last-child {
     margin-bottom: 0;
@@ -225,8 +225,8 @@ pre {
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: calc($spacing-unit / 2);
-    padding-left: calc($spacing-unit / 2);
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
   }
 }
 
@@ -254,7 +254,7 @@ pre {
       @include relative-font-size(0.85);
       line-height: 115%;
       border-left: 4px solid $grey-color-light;
-      padding-left: calc($spacing-unit / 4);
+      padding-left: $spacing-unit / 4;
       margin-left: $spacing-unit * 2;
       margin-right: 1%;
       letter-spacing: 0px;
@@ -333,7 +333,7 @@ table {
     }
   }
   th, td {
-    padding: calc($spacing-unit / 3) calc($spacing-unit / 2);
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
     background-color: lighten($grey-color-light, 3%);
