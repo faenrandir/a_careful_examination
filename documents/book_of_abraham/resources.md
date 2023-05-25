@@ -43,11 +43,13 @@ maintopic: book-of-abraham
 
 * [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
     * [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
+* [A Guide to the Book of Abraham](https://byustudies.byu.edu/journal/61-4/) (BYU Studies 2022 Q4 is entirely dedicated to a scholarly defense of the Book of Abraham)
 * [Pearl of Great Price Central: Book of Abraham][pearl-of-great-price-central-boa]
 * [FairMormon - Book of Abraham](https://www.fairmormon.org/answers/Book_of_Abraham)
 * [Egyptian Papyri and the Book of Abraham: A Faithful, Egyptological Point of View](https://rsc.byu.edu/archived/no-weapon-shall-prosper/egyptian-papyri-and-book-abraham-faithful-egyptological-point-view) (Kerry Muhlestein)
 
 ### Analysis or insights
+
 
 * [Pearl of Great Price Central: Book of Abraham
     Insights][pearl-of-great-price-central-boa-insights]
