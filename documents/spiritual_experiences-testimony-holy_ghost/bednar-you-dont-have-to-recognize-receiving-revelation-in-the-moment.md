@@ -1,6 +1,6 @@
 ---
 title: "Elder Bednar: “you don't have to recognize that you are receiving revelation in the moment that you are receiving revelation”"
-permalink: /bednar-you-dont-have-to-recognize-receiving-revealtion-in-the-moment/
+permalink: /bednar-you-dont-have-to-recognize-receiving-revelation-in-the-moment/
 doctype: transcript
 layout: page
 ---
