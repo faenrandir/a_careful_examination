@@ -37,7 +37,7 @@ The Joseph Smith Papers editors offer [this historical introduction](https://www
 
 > JS wrote the letter himself. Before it was delivered, William Clayton added the date and location. Since JS intended the letter to remain private and to be destroyed once read, it was likely hand delivered to the Whitneys by a trusted courier, possibly Clayton. Though the fact that the letter was kept and passed down in the Whitney family indicates they received the letter, JS’s journal contains no entry for 18 August, and it is unclear whether the proposed visit occurred. On 19 August, JS returned to Nauvoo but remained in hiding. He spent the next three days in the dry goods store he owned in Nauvoo before returning home.
 
-[Letter to Newel K., Elizabeth Ann, and Sarah Ann Whitney, 18 August 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-and-sarah-ann-whitney-18-august-1842/2#full-transcript), (emphasis added):
+[Letter to Newel K., Elizabeth Ann, and Sarah Ann Whitney, 18 August 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1#full-transcript), (emphasis added):
 
 > Dear, and Beloved, Brother [Newel K. Whitney] and Sister, [Elizabeth Smith]
 > Whitney, and &c. [Sarah Ann Whitney]—
