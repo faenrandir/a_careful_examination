@@ -1,7 +1,7 @@
 ---
-title: ""
-permalink: //
-doctype: transcript
+title: "Kyle S. McKay letter excerpt on spiritual experiences"
+permalink: /kyle-s-mckay-letter-excerpt-on-spiritual-experiences/
+doctype: excerpt
 layout: page
 ---
 
@@ -13,7 +13,7 @@ A former seminary teacher, identifying as "Joe", [explained the context of the e
 
 Besides visiting with Joe (which Joe [recorded](https://web.archive.org/web/20230610195842/https://radiofreemormon.org/2023/06/rfm-283-church-historian-on-the-hot-seat/)), Elder McKay also wrote [a letter of response to "Joe."](https://web.archive.org/web/20230610195148/https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2023/06/Elder-McKays-Letter.pdf).
 
-## Resources
+### Resources
 
 * Kyle S. McKay [called as Church historian and recorder](https://web.archive.org/web/20230603092003/https://www.thechurchnews.com/leaders/2022/8/12/23294170/church-historian-and-recorder-elder-kyle-s-mckay-church-history-strengthen-faith-questions)
 * [Mormonism Live 130 "Seminary Teacher Schools Church Historian"](https://web.archive.org/web/20230610200240/https://radiofreemormon.org/2023/06/seminary-teacher-schools-church-historian-mormonism-live-130/) (discussion between "Joe", RFM, and Bill Reel about the meeting and letters)
@@ -22,7 +22,7 @@ Besides visiting with Joe (which Joe [recorded](https://web.archive.org/web/2023
 * [In Defense of Doubt](https://web.archive.org/web/20230610195057/https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2023/06/In-Defense-of-Doubt-Final.pdf) (document prepared by seminary teacher "Joe")
 * [Kyle S. McKay April 26, 2023 letter to "Joe"](https://web.archive.org/web/20230610195148/https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2023/06/Elder-McKays-Letter.pdf) (response to the letter and visit)
 
-## Elder McKay on Satan as "a master mimic"
+## Excerpt
 
 Excerpt from [Kyle S. McKay's April 26, 2023 response to "Joe"](https://web.archive.org/web/20230610195148/https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2023/06/Elder-McKays-Letter.pdf):
 
