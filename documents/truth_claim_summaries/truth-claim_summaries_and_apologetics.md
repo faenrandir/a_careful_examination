@@ -16,13 +16,13 @@ layout: page
 
 ## More significant
 
-* [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims)
+* [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims; also on [youtube](https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced)) 
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
 * [What I Wish I had Known](https://drive.google.com/file/d/1-1fjmZ7XhKr9kQhMTBdVK3sq3xDr27fo/view?usp=drivesdk) (almost all LDS-faithful sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
 * [Examining Mormon Truth Claims](https://mormonstories.org/truth-claims/) (essays hosted at Mormon Stories by [Mike Brown](https://mormonstories.org/podcast/mike-brown-examining-mormon-truth-claims/))
-* [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims.[^mormonthink])
+* [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims)
 * [Shelf Breakers](https://drive.google.com/file/d/1xABvaPadd4C9VE7ySVRQ1G_hfNW6vWCB/view) (almost all LDS approved sources)
 * [The Mormon Challenge](http://www.themormonchallenge.com/) (almost all LDS approved sources)
 * [A Letter to an Apostle](https://lettertoanapostle.org/) (35 essays on the truth-claims)
@@ -36,21 +36,30 @@ layout: page
 * [Mormonism with the Murph](https://www.youtube.com/@mormonismwiththemurph/videos) (believing member podcast that examines both sides)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
 * [Significant absurdities one must believe to accept Mormonism](https://docs.google.com/document/d/1yzkCZkhjp_WmU9n6xWjqO0-ivX-ppQ0HrRjy4ItZz-U/edit?usp=sharing) (google doc compilation)
-* [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
+* [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (more light-hearted but summaries)
 
 *Additional resources and discussion can be found at the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
 
-# Official LDS and Apologetic Resources
+# LDS Scholarly and Apologetic Resources
+
+### Official
 
 * [Gospel Topics Essays](https://www.churchofjesuschrist.org/topics/essays?lang=eng&old=true) (churchofjesuschrist.org)
 * [Gospel Topics, Essays, and Other Resources](https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (churchofjesuschrist.org)
+
+### Semi affiliated
+
 * [Evidence Central](https://evidencecentral.org/recency)
     * [A non-member response to some Evidence central posts](https://toybom.wordpress.com/17-other-lds-literature/) (toybom - one year of the BoM)
-* [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
-* [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html)
 * [Neal A. Maxwell Institute](http://mi.byu.edu/) (BYU affiliated institute for religious scholarship)
+* [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
 
-*Additional apologetic discussion may be found at the [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/).*
+### Not affiliated
+
+* [Mormonr](https://mormonr.org/) (frank discussion of difficult questions; lots links to primary data)
+* [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html)
+* [lds subreddit](https://www.reddit.com/r/lds/)
+* [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/)
 
 ## Responses to the CES Letter
 
@@ -94,5 +103,3 @@ layout: page
 ## See also
 
 [Resources related to the helps and harms of the LDS Church](https://faenrandir.github.io/a_careful_examination/resources-related-to-helps-and-harms/)
-
-[^mormonthink]: [The MormonThink site states](http://www.mormonthink.com/) that they are "neither an anti-Mormon website nor an LDS apologist website", but the discussion and tone _is_ over-archingly critical, lest the reader be miseld by this disclaimer.  Still, it is a very useful resource.
