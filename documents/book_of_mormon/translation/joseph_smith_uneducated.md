@@ -120,7 +120,7 @@ John Taylor [said of him](https://www.lds.org/manual/teachings-joseph-smith/chap
 
 > He was ignorant of letters as the world has it, but **the most profoundly learned and intelligent man that I ever met in my life**, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet **I have never met a man so intelligent as he was**.
 
-As an adult he attended some high school.  His teacher, William E. McLellin, [described the experience](http://www.deseretnews.com/article/705280695/Inside-the-lost-McLellin-notebook.html) (emphasis added):
+As an adult he attended some high school.  His teacher, William E. McLellin, [described the experience](https://web.archive.org/web/20230620074941/https://www.deseret.com/2009/1/28/20298664/inside-the-lost-mclellin-notebook) (emphasis added):
 
 > He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him.  And I here say that **he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance, among the thousands of my observation**. Although when I took him into my school, he was without scientific knowledge or attainments.
 

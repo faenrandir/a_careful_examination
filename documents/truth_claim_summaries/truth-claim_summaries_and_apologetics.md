@@ -33,6 +33,7 @@ layout: page
 
 ## Other
 
+* [Mormonism with the Murph](https://www.youtube.com/@mormonismwiththemurph/videos) (believing member podcast that examines both sides)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
 * [Significant absurdities one must believe to accept Mormonism](https://docs.google.com/document/d/1yzkCZkhjp_WmU9n6xWjqO0-ivX-ppQ0HrRjy4ItZz-U/edit?usp=sharing) (google doc compilation)
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (light-hearted but accurate summaries)
@@ -41,12 +42,12 @@ layout: page
 
 # Official LDS and Apologetic Resources
 
-* [Gospel Topics Essays](https://www.lds.org/topics/essays?lang=eng&old=true) (lds.org)
-* [Gospel Topics, Essays, and Other Resources](https://www.lds.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (lds.org)
+* [Gospel Topics Essays](https://www.churchofjesuschrist.org/topics/essays?lang=eng&old=true) (churchofjesuschrist.org)
+* [Gospel Topics, Essays, and Other Resources](https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (churchofjesuschrist.org)
 * [Evidence Central](https://evidencecentral.org/recency)
     * [A non-member response to some Evidence central posts](https://toybom.wordpress.com/17-other-lds-literature/) (toybom - one year of the BoM)
 * [FairMormon](http://www.fairmormon.org/) (The most significant LDS apologetic resource)
-* [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html) (prolific apologist)
+* [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html)
 * [Neal A. Maxwell Institute](http://mi.byu.edu/) (BYU affiliated institute for religious scholarship)
 
 *Additional apologetic discussion may be found at the [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/).*
