@@ -11,7 +11,7 @@ The following is a transcript of the exchange I had, writing as Sicut Erat in Pr
 
 Science insists that the first humans appeared in an already mortal world some 200,000 years ago. Conversely, the Church teaches that the first humans were Adam and Eve, who brought mortality to a previously non-mortal world about 6,000 years ago. There is no harmony between these views.
 
-A current missionary pamphlet about [The Plan of Salvation](https://www.lds.org/bc/content/ldsorg/content/english/manual/missionary/pdf/36950_the-plan-of-salvation-eng.pdf?lang=eng) teaches that Adam and Eve were "the first humans." Indeed, according to LDS scripture, Adam was "the first man of all men." (Moses 1:34.)
+A current missionary pamphlet about [The Plan of Salvation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/english/manual/missionary/pdf/36950_the-plan-of-salvation-eng.pdf?lang=eng) teaches that Adam and Eve were "the first humans." Indeed, according to LDS scripture, Adam was "the first man of all men." (Moses 1:34.)
 
 This scriptural view of man's origin was taught again in the April 2014 General Conference. Carlos H. Amado, of the First Quorum of the Seventy, declared: "[The Redeemer's] sacrifice blessed everyone, from Adam, the first, to the last of all human beings." (Ensign, May 2014.)
 

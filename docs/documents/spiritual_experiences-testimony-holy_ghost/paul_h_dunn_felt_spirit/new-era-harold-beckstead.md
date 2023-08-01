@@ -1,5 +1,5 @@
 
-[New Era, March 1977: Feedback](https://www.lds.org/new-era/1977/03/feedback?lang=eng)
+[New Era, March 1977: Feedback](https://www.churchofjesuschrist.org/new-era/1977/03/feedback?lang=eng)
 
 > **Busstop**
 

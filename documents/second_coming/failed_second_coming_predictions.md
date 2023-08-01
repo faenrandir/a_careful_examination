@@ -43,7 +43,7 @@ Emboldened text is my emphasis.
 
 > For verily **this generation shall not all pass away until an house** [Missouri Temple] **shall be built** unto the Lord, and a cloud shall rest upon it, which cloud shall be even the glory of the Lord [Second Coming], which shall fill the house. v.31 … which house shall be **built unto the Lord in this generation**, upon the consecrated spot as I have appointed.”
 
-[Doctrine and Covenants 84:1-5,31,32](https://www.lds.org/scriptures/dc-testament/dc/84.1-5,31,32?lang=eng#1)
+[Doctrine and Covenants 84:1-5,31,32](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/84.1-5,31,32?lang=eng#1)
 
 *Some argue ([for example](https://mormonpuzzlepieces.blogspot.com/2014/07/one-of-arguments-sometimes-made-against.html)) that "shall" was a command rather than a prediction and that the command was [subsequently revoked](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124.51?lang=eng#p51?lang=eng).*
 

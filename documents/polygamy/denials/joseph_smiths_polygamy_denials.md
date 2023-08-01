@@ -117,7 +117,7 @@ While never directly denying Bennett's charges, Joseph Smith goes on to state, "
 
 ### Appendix-C Denials discussed in lds.org essay
 
-The [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay on lds.org states the following about the denials (as of 2017-05-07):
+The [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) essay on lds.org states the following about the denials (as of 2017-05-07):
 
 > The rumors prompted members and leaders to issue carefully worded denials that denounced spiritual wifery and polygamy but were silent about what Joseph Smith and others saw as divinely mandated “celestial” plural marriage.\[22\]  The statements emphasized that the Church practiced no marital law other than monogamy while implicitly leaving open the possibility that individuals, under direction of God’s living prophet, might do so.\[23\]
 
@@ -137,7 +137,7 @@ Did Joseph Smith and other leaders lie or deceive?
 
 ### Appendix-E Official and Apologetic explanations
 
-* [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true) (lds.org)
+* [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng&old=true) (lds.org)
 * [“Denying the Undeniable”: Examining Early Mormon Polygamy Renunciations](https://mormonpolygamydocuments.org/wp-content/uploads/2020/10/Hales-JMH-7-2018-Denying-the-Undeniable.pdf) (Brian Hales in Journal of Mormon History, 44:3, p. 23-44, 2018)
 * ["Thou Shalt not Lie" and Denials of Polygamy](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) (Joseph Smith's Polygamy site)
 * [Joseph hid polygamy from the general Church membership](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth) (FairMormon)

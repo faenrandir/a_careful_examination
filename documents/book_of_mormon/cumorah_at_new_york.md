@@ -58,7 +58,7 @@ Joseph Fielding Smith, [Doctrines of Salvation , Vol.3, Bookcraft, 1956, p.232-4
 
 > Further, the fact that all of his associates from the beginning down have spoken of it as the identical hill where Mormon and Moroni hid the records, must carry some weight. It is difficult for a reasonable person to believe that such men as Oliver Cowdery, Brigham Young, Parley P. Pratt, Orson Pratt, David Whitmer, and many others, could speak frequently of the Spot where the Prophet Joseph Smith obtained the plates as the Hill Cumorah, and not be corrected by the Prophet, if that were not the fact.  That they did speak of this hill in the days of the Prophet in this definite manner is an established record of history....
 
-Marion G. Romney bore testimony of the events of the Book of Mormon in relation to the hill Cumorah in [General Conference, October 4, 1975](https://www.lds.org/general-conference/1975/10/americas-destiny?lang=eng):
+Marion G. Romney bore testimony of the events of the Book of Mormon in relation to the hill Cumorah in [General Conference, October 4, 1975](https://www.churchofjesuschrist.org/general-conference/1975/10/americas-destiny?lang=eng):
 
 > In the western part of the state of New York near Palmyra is a prominent hill known as the “hill Cumorah.” (Morm. 6:6.) On July twenty-fifth of this year, as I stood on the crest of that hill admiring with awe the breathtaking panorama which stretched out before me on every hand, my mind reverted to the events which occurred in that vicinity some twenty-five centuries ago—events which brought to an end the great Jaredite nation. ...
 

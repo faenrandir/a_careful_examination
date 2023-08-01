@@ -20,7 +20,7 @@ An analysis of the pre-1830's literature convincingly demonstrates that many Chr
 
 ### Before the 1700s
 
-The theological concept of [felix culpa](https://en.wikipedia.org/wiki/Felix_culpa) (or "blessed fall") was embodied in the ancient Catholic Paschal Vigil Mass [Exsultet](https://en.wikipedia.org/wiki/Exsultet) and favored by Ambrose, Augustine, and Aquinas.[^htchurchistrue]  John Wycliffe, often [doted upon by LDS scholars](https://www.lds.org/search?lang=eng&query=wycliffe), spoke of the fortunate fall in multiple sermons, and wrote:
+The theological concept of [felix culpa](https://en.wikipedia.org/wiki/Felix_culpa) (or "blessed fall") was embodied in the ancient Catholic Paschal Vigil Mass [Exsultet](https://en.wikipedia.org/wiki/Exsultet) and favored by Ambrose, Augustine, and Aquinas.[^htchurchistrue]  John Wycliffe, often [doted upon by LDS scholars](https://www.churchofjesuschrist.org/search?lang=eng&query=wycliffe), spoke of the fortunate fall in multiple sermons, and wrote:
 
 > it was a fortunate sin that Adam sinned and his descendants; therefore as a result of this the world was made better
 
@@ -30,7 +30,7 @@ John Wesley, the Methodist leader, taught in [God's Love for Fallen Man](https:/
 
 > ...mankind in general have gained, by the fall of Adam, a capacity of attaining more holiness and happiness on earth than it would have been possible for them to attain if Adam had not fallen
 
-Closer to Joseph Smith's time, Leibniz refers to felix culpa in his well-known work Theodicy, and John Milton includes a stanza clearly articulating a fortunate fall in Paradise Lost, a hugely influential book of the time.  This connection was made in [an Ensign article from 1976](https://www.lds.org/new-era/1976/01/john-milton-an-inspired-man?lang=eng), a portion of which is quoted below:
+Closer to Joseph Smith's time, Leibniz refers to felix culpa in his well-known work Theodicy, and John Milton includes a stanza clearly articulating a fortunate fall in Paradise Lost, a hugely influential book of the time.  This connection was made in [an Ensign article from 1976](https://www.churchofjesuschrist.org/new-era/1976/01/john-milton-an-inspired-man?lang=eng), a portion of which is quoted below:
 
 > **The Fortunate Fall**
 

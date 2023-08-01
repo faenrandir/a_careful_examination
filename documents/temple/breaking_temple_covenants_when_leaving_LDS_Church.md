@@ -61,7 +61,7 @@ There are three compelling reasons to think that former members should be excuse
 
 ### What about baptismal covenants?
 
-[The LDS Church teaches that](https://www.lds.org/youth/learn/yw/ordinances-covenants/baptism?lang=eng):
+[The LDS Church teaches that](https://www.churchofjesuschrist.org/youth/learn/yw/ordinances-covenants/baptism?lang=eng):
 
 > When we were baptized, we entered into a covenant with God. We promised to take upon ourselves the name of Jesus Christ, always remember Him, keep His commandments, and serve Him to the end. We renew this covenant each time we partake of the sacrament.
 

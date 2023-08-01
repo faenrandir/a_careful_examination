@@ -10,7 +10,7 @@ layout: page
 
 Between the 1970s and to about 2010, official LDS publications have declared in absolute terms that homosexuality "is curable", is not "preset", and that no one is born "that way".
 
-At least as early as 1995 this message began to change.  Elder Dallin Oaks, in [a 1995 Ensign article](https://www.lds.org/ensign/1995/10/same-gender-attraction?lang=eng&_r=1), stated:
+At least as early as 1995 this message began to change.  Elder Dallin Oaks, in [a 1995 Ensign article](https://www.churchofjesuschrist.org/ensign/1995/10/same-gender-attraction?lang=eng&_r=1), stated:
 
 >  Perhaps such susceptibilities are inborn or acquired without personal choice or fault ...
 
@@ -50,7 +50,7 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 > There is a falsehood that some are born with an attraction to their own kind, with nothing they can do about it. They are just "that way" and can only yield to those desires. That is a malicious and destructive lie.  While it is a convincing idea to some, it is of the devil. No one is locked into that kind of life. From our premortal life we were directed into a physical body. There is no mismatching of bodies and spirits. Boys are to become men---masculine, manly men---ultimately to become husbands and fathers. No one is predestined to a perverted use of these powers.
 
-[To Young Men Only](https://archive.org/details/ToYoungMenOnly/page/n15) which is based on Boyd K. Packer's [1976 General Conference address Message to Young Men](https://www.lds.org/general-conference/1976/10/media/session_5_talk_1/2680671857001?lang=eng) (begin 11:51).
+[To Young Men Only](https://archive.org/details/ToYoungMenOnly/page/n15) which is based on Boyd K. Packer's [1976 General Conference address Message to Young Men](https://www.churchofjesuschrist.org/general-conference/1976/10/media/session_5_talk_1/2680671857001?lang=eng) (begin 11:51).
 
 ### homosexuality is curable
 
@@ -58,7 +58,7 @@ First Presidency Circular Letter, March 19, 1970, LDS Church Archives.
 
 > Many have been misinformed that they are powerless in the matter, not responsible for the tendency, and that ‘God made them that way.’ This is as untrue as any other of the diabolical lies Satan has concocted. It is blasphemy. Man is made in the image of God. Does the pervert think God to be ‘that way’?” 
 
-LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321)  pg 317 (quoting Spencer W. Kimball's The Miracle of Forgiveness) (The manual was copyrighted in [1978 and 1979](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1) and was superceded by [a new manual in 2014](https://www.lds.org/manual/new-testament-student-manual/title-page?lang=eng), I believe)
+LDS Institute Manual [The Life And Teachings Of Jesus And His Apostles](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321)  pg 317 (quoting Spencer W. Kimball's The Miracle of Forgiveness) (The manual was copyrighted in [1978 and 1979](https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1) and was superceded by [a new manual in 2014](https://www.churchofjesuschrist.org/manual/new-testament-student-manual/title-page?lang=eng), I believe)
 
 ### homosexuality can be changed
 
@@ -92,13 +92,13 @@ The 1981 booklet [Homosexuality](https://mormonleaks.io/wiki/documents/4/4c/Homo
 
 > All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.
 
-Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
 
 ### some suppose that they were preset
 
 > Some suppose that they were preset and cannot overcome what they feel are inborn temptations toward the impure and unnatural. Not so! [Why would our Heavenly Father do that to anyone?] Remember, God is our Heavenly Father.  (bracketed text in audio/video only)
 
-Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
 
 ## See Also
 

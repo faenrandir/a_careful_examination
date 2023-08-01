@@ -41,7 +41,7 @@ maintopic: book-of-abraham
 
 ### Introductory
 
-* [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
+* [LDS Essay - "Translation and Historicity of the Book of Abraham"](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) (lds.org)
     * [A response to "Translation and Historicity of the Book of Abraham"](http://www.mormonthink.com/essays-book-of-abraham.htm) (Dr. Robert Ritner)
 * [A Guide to the Book of Abraham](https://byustudies.byu.edu/journal/61-4/) (BYU Studies 2022 Q4 is entirely dedicated to a scholarly defense of the Book of Abraham)
 * [Pearl of Great Price Central: Book of Abraham][pearl-of-great-price-central-boa]

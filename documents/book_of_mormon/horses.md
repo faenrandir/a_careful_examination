@@ -51,7 +51,7 @@ Linguistically, then, the loan shift from "deer" to "horse" seems unlikely.
 The prevailing thought in Joseph Smith's time was that horses were brought to the Americas by the Europeans.  However, the popular book "The Natural and Aboriginal History of Tennessee" published in 1823 interprets horse tracks as potentially ancient.  These potentially ancient horse tracks were found:
 
 1. [In association with human foot prints](https://archive.org/stream/naturalaborigina00hayw#page/n41/mode/2up/search/horse)
-2. [related to some gathering associated with some great calamity](https://archive.org/stream/naturalaborigina00hayw#page/160/mode/2up/search/horses) (reminiscent of [3 Nephi 4:4](https://www.lds.org/scriptures/bofm/3-ne/4.4))
+2. [related to some gathering associated with some great calamity](https://archive.org/stream/naturalaborigina00hayw#page/160/mode/2up/search/horses) (reminiscent of [3 Nephi 4:4](https://www.churchofjesuschrist.org/scriptures/bofm/3-ne/4.4))
 3. [along with "wheel carriage" tracks](https://archive.org/stream/naturalaborigina00hayw#page/162/mode/2up/search/horse) (which calls to mind the episode with horses and chariots in Alma 18 and later).
 
 So, while the book affirms the presupposition that the Europeans introduced horses it frequently presents evidence favoring the existence of pre-Columbian horses, and it does so in ways which parallel the usage of horses in the Book of Mormon.  Of course, if these various tracks of ancient appearance could be validated to the right time-frame then they could be used as evidence of a historical Book of Mormon, but as it stands these stories seem to lend greater plausibility to the modern origin model over the historical one.

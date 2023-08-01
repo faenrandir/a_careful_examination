@@ -111,13 +111,13 @@ if they fail to live strict covenants.
 
 The viability of any individual relationship is conditioned at least somewhat on both parties upholding certain fundamental _principles_ related to minimum levels of respect or consideration for the other (e.g., respect for the other's body and/or autonomy); however, some New Testament verses put undue weight on the nature of a person's religious commitments compared with a person's existing relationships (what has been referred to elsewhere as "doctrine over person").
 
-* John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that a disciple should not greet such a person or invite them into their house.  [2 John 1: 7-11](https://www.lds.org/scriptures/nt/2-jn/1.7-11) 
+* John taught that if a person believed in a different doctrinal version of Jesus Christ (i.e., the gnostic doctrine) that a disciple should not greet such a person or invite them into their house.  [2 John 1: 7-11](https://www.churchofjesuschrist.org/scriptures/nt/2-jn/1.7-11) 
 
 * Jesus Christ discouraged a disciple from burying his father with the statement "let the dead bury their dead".  This teaching is used by many believers to prioritize Church and religion over family and non-believers.
 
 *  "Another said, 'I will follow you, Lord; but let me first say farewell to those at my home.' Jesus said to him, 'No one who puts his hand to the plow and looks back is fit for the kingdom of God.' (Luke 9:61--62)
 
-* [Luke 14:26](https://www.lds.org/scriptures/nt/luke/14.26)
+* [Luke 14:26](https://www.churchofjesuschrist.org/scriptures/nt/luke/14.26)
 
     > If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
@@ -217,8 +217,8 @@ Even though there are so many wonderful teachings in Christianity, I have argued
 And speaking directly to an LDS audience, could I really teach my children a nuanced position in the LDS Church when the LDS Church declares most of its positions in absolute terms?  For example:
 
 * "At times, following the prophet may be unpopular, but following the prophet is always right." [source](https://www.churchofjesuschrist.org/search?lang=eng&query=following%20the%20prophet%20is%20always%20right&highlight=true&page=1) 
-* "We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith" [source](https://www.lds.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng)
-* "When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear." First Presidency Message from [here](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
+* "We should disconnect, immediately and completely, from listening to the proselytizing efforts of those who have lost their faith" [source](https://www.churchofjesuschrist.org/church/news/stay-connected-to-god-elder-l-whitney-clayton-tells-byu-graduates?lang=eng)
+* "When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear." First Presidency Message from [here](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng)
 
 *Why wouldn't teaching all the good things of Christianity and leaving behind all the bad or questionable things be _an_ optimal approach for myself and my children?*
 

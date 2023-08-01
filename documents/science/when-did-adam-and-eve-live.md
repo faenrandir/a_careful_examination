@@ -32,7 +32,7 @@ Writing was likely invented around 3500 BC (and possibly as early as 5,500 BCE).
 
 ### Years of the earth's temporal existence
 
-Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  Here are [verses 6--7](https://www.lds.org/scriptures/dc-testament/dc/77.6-7):
+Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  Here are [verses 6--7](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/77.6-7):
 
 > Q. What are we to understand by the book which John saw, which was sealed on the back with seven seals?
 

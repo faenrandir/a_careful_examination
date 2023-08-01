@@ -13,9 +13,9 @@ This is a very short summary of what I view as the 5 most important facts in und
 
 Joseph Smith mis-translated [the characters above the heads of the figures](https://i.imgur.com/2a5sban.png) in the third facsimile.[^character_legibility]
 
-Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).[^fidelity_of_translation]
+Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.churchofjesuschrist.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).[^fidelity_of_translation]
 
-[According to LDS scholars Hauglid and Jensen]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}), Joseph Smith and his scribes "were working off of the papyri that we actually have in the Church today."  However, [the Book of Abraham lds.org essay](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
+[According to LDS scholars Hauglid and Jensen]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}), Joseph Smith and his scribes "were working off of the papyri that we actually have in the Church today."  However, [the Book of Abraham lds.org essay](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
 
 **More**:
 
@@ -59,7 +59,7 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 
 **More**:
 
-* [LDS Essay - "Race and the Priesthood"](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) (lds.org)
+* [LDS Essay - "Race and the Priesthood"](https://www.churchofjesuschrist.org/topics/race-and-the-priesthood?lang=eng) (lds.org)
 * [Race and the Priesthood - Response to LDS.org](http://www.mormonthink.com/essays-race-priesthood.htm)
 * [thoughtsonthingsandstuff.com response to 3 Mormons "Blacks and the Priesthood"](http://thoughtsonthingsandstuff.com/response-to-3-mormons-on-blacks-and-the-priesthood/)
 
@@ -81,7 +81,7 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 * [Year of Polygamy](http://www.yearofpolygamy.com/archive/listen-to-the-episodes-in-order/) (Lindsay Hansen Park)
 * [Mormon Polygamy Documents](http://mormonpolygamydocuments.org/) (all documents on Joseph Smith's polygamy)
 * [Joseph Smith's Polygamy](http://josephsmithspolygamy.org/) (LDS polygamy apologist)
-* [LDS Essay - "Plural Marriage in Kirtland and Nauvoo"](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) (lds.org)
+* [LDS Essay - "Plural Marriage in Kirtland and Nauvoo"](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) (lds.org)
 * [Plural Marriage in Kirtland & Nauvoo - Response to LDS.org](http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm)
 
 ### More Complete Analyses

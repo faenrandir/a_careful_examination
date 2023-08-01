@@ -14,7 +14,7 @@ In support of the idea that the doctrines contained in the Book of Mormon must h
 
 However, the manner in which Alma 13 refers to a premortal existence is roughly consistent with how it was invoked in sermons from the time.
 
-As pointed out and discussed by churchistrue, Alma 13:3 points more towards the foreknowledge of God and less to an actual pre-existent state, and it does so similar to others from the time.  For example, here's [Alma 13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng) (emphasis added):
+As pointed out and discussed by churchistrue, Alma 13:3 points more towards the foreknowledge of God and less to an actual pre-existent state, and it does so similar to others from the time.  For example, here's [Alma 13:3](https://www.churchofjesuschrist.org/scriptures/bofm/alma/13.3?lang=eng) (emphasis added):
 
 > And this is the manner after which they were ordained—being called and prepared **from the foundation of the world according to the foreknowledge of God**, on account of their exceeding faith and good works; in the first place being left to choose good or evil; therefore they having chosen good, and exercising exceedingly great faith, are called with a holy calling, yea, with that holy calling which was prepared with, and according to, a preparatory redemption for such.
 

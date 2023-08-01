@@ -35,7 +35,7 @@ Dehlin reported Hollands response: "Maybe when the Church is more mature maybe w
 
 ## The Church has never quoted 1 Corinthians 7:13
 
-[1 Corinthians 7:13](http://biblehub.com/1_corinthians/7-13.htm) explains that a believing spouse should not leave a non-believing spouse simply because they do not believe.  That verse [has never been quoted by a general authority](http://scriptures.byu.edu/#09207::c09207) in the history of the Church and it is [not quoted in any lesson manual or Church resource ](https://www.lds.org/search?lang=eng&query=%22let+her+not+leave+him%22) outside the New Testament itself.
+[1 Corinthians 7:13](http://biblehub.com/1_corinthians/7-13.htm) explains that a believing spouse should not leave a non-believing spouse simply because they do not believe.  That verse [has never been quoted by a general authority](http://scriptures.byu.edu/#09207::c09207) in the history of the Church and it is [not quoted in any lesson manual or Church resource ](https://www.churchofjesuschrist.org/search?lang=eng&query=%22let+her+not+leave+him%22) outside the New Testament itself.
 
 ## Justification
 

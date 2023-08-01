@@ -128,7 +128,7 @@ Also, when asked if he has revelations, Joseph F. Smith said, under oath, "I hav
 
 Additionally, consider that the Community of Christ Church now has [165 sections in their Doctrine and Covenants](https://www.cofchrist.org/doctrine-and-covenants-section-165).  Who is receiving additional revelation?
 
-This pattern seems to me how revelation has waned in the modern LDS Church: Revelation direct from God "thus saith the Lord" (JS, most of D&C) -> Thoughts that may be taken as the word of the Lord (BY, D&C 136) -> dreams canonized (JFS, D&C 138) -> manifesto -> declarations -> proclamations -> unsigned essays written by historians.  They have [the seer stone](https://www.lds.org/ensign/2015/10/joseph-the-seer?lang=eng).  Why do none of the prophets, seers, or revelators use it?
+This pattern seems to me how revelation has waned in the modern LDS Church: Revelation direct from God "thus saith the Lord" (JS, most of D&C) -> Thoughts that may be taken as the word of the Lord (BY, D&C 136) -> dreams canonized (JFS, D&C 138) -> manifesto -> declarations -> proclamations -> unsigned essays written by historians.  They have [the seer stone](https://www.churchofjesuschrist.org/ensign/2015/10/joseph-the-seer?lang=eng).  Why do none of the prophets, seers, or revelators use it?
 
 > Nahom fits perfectly with Lehi's journey from Jersusalem.....just lucky I guess
 
@@ -138,7 +138,7 @@ Nahom is an interesting find that seems consistent with the historical model.  H
 
 The way Joseph Smith practiced polygamy was highly problematic, both theologically and ethically.  It is far more consistent with someone who didn't have any direction from an omniscient being in the matter.  Consider:
 
-1. LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."  Why did Joseph (apparently) not get permission for his relationship with Fanny as suggested by [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61)?
+1. LDS Historian Brian Hales [wrote of Joseph's relationship with Fanny](http://josephsmithspolygamy.org/plural-wives-overview/fanny-alger/) "it is obvious Emma did not believe the ceremony was valid and concluded the relationship was adulterous. Ironically, Oliver Cowdery, who Joseph summoned to diffuse the situation, sided with Emma, discounting the validity of the polygamous marriage."  Why did Joseph (apparently) not get permission for his relationship with Fanny as suggested by [D&C 132:61](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.61)?
 
 1. For what purpose did Joseph Smith get sealed to other righteous men's wives (e.g., [Zina Huntington](http://josephsmithspolygamy.org/plural-wives-overview/zina-diantha-huntington/) and [Marinda Nancy Johnson Hyde](http://josephsmithspolygamy.org/plural-wives-overview/marinda-nancy-johnson/))?  In particular, what justified Joseph's marriage to [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young), a happily newlywed, pregnant mother?
 
@@ -152,11 +152,11 @@ The way Joseph Smith practiced polygamy was highly problematic, both theological
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Huntington and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
-1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Why did [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) not apply to this union?
+1. According to his daughter Helen, Heber C. Kimball was instructed by Joseph Smith [not to tell his first wife](https://archive.org/stream/lifeofheberckimb00whitrich#page/335/mode/1up), Vilate, when he married his first _plural_ wife, Sarah Noon.  Why did [D&C 132:61](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.61) not apply to this union?
 
-1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?
+1. If Joseph was pressured into polygamy by [an angel with a drawn sword](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng), why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done "correctly"?
 
-1. As alluded to before, [D&C 132:61](https://www.lds.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...they are virgins", and 3) "have vowed to no other man."  Why didn't Joseph follow these guidelines?  Does the breaking of all of these guidelines mean that some or all of his relationships were adulterous in whole or in part?
+1. As alluded to before, [D&C 132:61](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.61) outlines three requirements by which a plural marriage may be "justified" and not adultery: 1) "the first give her consent", 2) "the second...they are virgins", and 3) "have vowed to no other man."  Why didn't Joseph follow these guidelines?  Does the breaking of all of these guidelines mean that some or all of his relationships were adulterous in whole or in part?
 
 > The Pre-earth life of mankind....Makes sense, is biblical, and the LDS church is the absolutely only church on the earth that teaches that one....HUGE!!!!
 

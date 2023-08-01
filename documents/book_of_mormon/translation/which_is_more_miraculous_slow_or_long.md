@@ -12,7 +12,7 @@ From [here](https://www.reddit.com/r/exmormon/comments/7bg14y/the_bom_is_true_be
 
 ### We can know that the Book of Mormon is true because it was written so quickly!
 
-[www.lds.org](https://www.lds.org/ensign/1988/01/i-have-a-question/how-long-did-it-take-joseph-smith-to-translate-the-book-of-mormon?lang=eng): One of the most amazing facts about the Book of Mormon is that it took Joseph Smith only about sixty-five working days to translate a book that, in the current edition, is 531 pages long.
+[www.churchofjesuschrist.org](https://www.churchofjesuschrist.org/ensign/1988/01/i-have-a-question/how-long-did-it-take-joseph-smith-to-translate-the-book-of-mormon?lang=eng): One of the most amazing facts about the Book of Mormon is that it took Joseph Smith only about sixty-five working days to translate a book that, in the current edition, is 531 pages long.
 
 ### We can know that the Quran is true because it took so long to write!
 

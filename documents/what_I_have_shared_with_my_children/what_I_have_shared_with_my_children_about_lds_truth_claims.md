@@ -14,8 +14,8 @@ I have talked a few times with my older children about the evidence that suggest
 These are the main points I've shared over the past two years:
 
 1. Some data calls into question [the accuracy of spiritual methods in determining objective truth]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}).
-2. "Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham" [see "Translation and Historicity of the Book of Abraham" on lds.org](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng).
-3. The way in which Joseph Smith practiced and instituted polygamy is ethically/morally problematic [see "Plural Marriage in Kirtland and Nauvoo" on lds.org](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng).
+2. "Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham" [see "Translation and Historicity of the Book of Abraham" on lds.org](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng).
+3. The way in which Joseph Smith practiced and instituted polygamy is ethically/morally problematic [see "Plural Marriage in Kirtland and Nauvoo" on lds.org](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng).
 4. [The Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_Presidency_Exchange.pdf) and [The Stewart Udall letters](https://archive.org/stream/StewartUdallConscienceOfAJackMormon/StuartUdall-OpenLetterOnRaceAndConsequencesOfConscience#page/n0/mode/1up) demonstrate the unwavering confidence Church leaders of that time had in the divinity of the Black Priesthood/Temple ban and the doctrines supporting it as well as the manner in which dissent is often treated in the Church.
 
 I also typically present both sides when I'm discussing these issues with my children---I'll simultaneously present the apologetic response when I'm discussing an issue.

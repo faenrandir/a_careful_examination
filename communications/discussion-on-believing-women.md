@@ -34,7 +34,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
     The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
 
     * BY would eventually have [Brotherton sealed to him]({{ "/brigham-young-sealed-to-martha-brotherton/" | relative_url }})
-    * PPP would eventually take Elizabeth Brotherton [as a polygamous wife](https://history.lds.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt).
+    * PPP would eventually take Elizabeth Brotherton [as a polygamous wife](https://history.churchofjesuschrist.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt).
     * JS [lied repeatedly about practicing polygamy](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/), but he was doing it nonetheless!
     * HCK ended up marrying [a total of 43 women](https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children)
 

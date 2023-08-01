@@ -29,13 +29,13 @@ As suggested by the LDS scriptural canon, *Individuals who leave the LDS Church.
 
 > 12 But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me.
 
-[2 Nephi 31:12](https://www.lds.org/scriptures/bofm/2-ne/31.12)
+[2 Nephi 31:12](https://www.churchofjesuschrist.org/scriptures/bofm/2-ne/31.12)
 
 ### will be viewed worse than the Lamanites
 
 > 23 And now behold I say unto you, that if this people, who have received so many blessings from the hand of the Lord, should transgress contrary to the light and knowledge which they do have, I say unto you that if this be the case, that if they should fall into transgression, it would be far more tolerable for the Lamanites than for them.
 
-[Alma 9:23](https://www.lds.org/scriptures/bofm/alma/9.23)
+[Alma 9:23](https://www.churchofjesuschrist.org/scriptures/bofm/alma/9.23)
 
 ### lost light and truth through disobedience
 
@@ -47,11 +47,11 @@ As suggested by the LDS scriptural canon, *Individuals who leave the LDS Church.
 
 > 40 But I have commanded you to bring up your children in light and truth.
 
-[Doctrine and Covenants 93:37--40](https://www.lds.org/scriptures/dc-testament/dc/93.37-40)
+[Doctrine and Covenants 93:37--40](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/93.37-40)
 
 ### are servants of sin and children of disobedience
 
-Most of those who leave the LDS Church over truth-claim issues are at least implying the possibility that Joseph Smith was being deceitful about his translation abilities (e.g., [with the Book of Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)) and that the manner in which he implemented polygamy is ethically problematic---for example, lying about polygamy publicly, performing duplicate ceremonies to hide first sealings from his wife, proposing to a seven month pregnant newlywed woman, and marrying a 14 year old who was reluctant to do so (see [five key facts for credible references]({{ "/five-key-facts/" | relative_url }})).  Doctrine and Covenants 121 suggests these individuals are the "servants of sin" and "children of disobedience" themselves:
+Most of those who leave the LDS Church over truth-claim issues are at least implying the possibility that Joseph Smith was being deceitful about his translation abilities (e.g., [with the Book of Abraham](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)) and that the manner in which he implemented polygamy is ethically problematic---for example, lying about polygamy publicly, performing duplicate ceremonies to hide first sealings from his wife, proposing to a seven month pregnant newlywed woman, and marrying a 14 year old who was reluctant to do so (see [five key facts for credible references]({{ "/five-key-facts/" | relative_url }})).  Doctrine and Covenants 121 suggests these individuals are the "servants of sin" and "children of disobedience" themselves:
 
 > 11 And they who do charge thee with transgression, their hope shall be blasted, and their prospects shall melt away as the hoar frost melteth before the burning rays of the rising sun;
 
@@ -75,11 +75,11 @@ Many men who leave the LDS Church do so after receiving the Melchizedek Priestho
 
 > 41 But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.
 
-[Doctrine and Covenants 84:40--41](https://www.lds.org/scriptures/dc-testament/dc/84.40-41)
+[Doctrine and Covenants 84:40--41](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/84.40-41)
 
 ### may be fools or traitors
 
-Doctrine and Covenants 122 ([verses 1--3](https://www.lds.org/scriptures/dc-testament/dc/122.1-3)) emphasizes that those who express contempt or ridicule Joseph Smith are fools and traitors:
+Doctrine and Covenants 122 ([verses 1--3](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/122.1-3)) emphasizes that those who express contempt or ridicule Joseph Smith are fools and traitors:
 
 > 1 The ends of the earth shall inquire after thy name, and **fools shall have thee in derision**, and hell shall rage against thee; (emphasis added)
 
@@ -99,7 +99,7 @@ Doctrine and Covenants 122 ([verses 1--3](https://www.lds.org/scriptures/dc-test
 
 > In this Church that honors personal agency so strongly, that was restored by a young man who asked questions and sought answers, we respect those who honestly search for truth. It may break our hearts when their journey takes them away from the Church we love and the truth we have found, but we honor their right to worship Almighty God according to the dictates of their own conscience, just as we claim that privilege for ourselves.
 
-Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)
+Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www.churchofjesuschrist.org/general-conference/2013/10/come-join-with-us?lang=eng)
 
 ### Not totally lost; hard to understand reasons; implies they have not come to themselves yet; just love them
 
@@ -115,7 +115,7 @@ Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www
 
 > One loses his testimony only by listening to the promptings of the evil one, and Satan’s goal is not complete when a person leaves the Church, but when he comes out in open rebellion against it.
 
-Glenn L. Pace, [April General Conference 1989](https://www.lds.org/general-conference/1989/04/follow-the-prophet?lang=eng&_r=1)
+Glenn L. Pace, [April General Conference 1989](https://www.churchofjesuschrist.org/general-conference/1989/04/follow-the-prophet?lang=eng&_r=1)
 
 ### become servants of Satan
 
@@ -125,13 +125,13 @@ Glenn L. Pace, [April General Conference 1989](https://www.lds.org/general-confe
 
 > "The great Seer immediately replied: 'Brother Behunin, you don’t know what you would do. No doubt these men once thought as you do. Before you joined this Church you stood on neutral ground. When the gospel was preached, good and evil were set before you. You could choose either or neither. There were two opposite masters inviting you to serve them. When you joined this Church you enlisted to serve God. When you did that you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant.'"
 
-Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
+Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.churchofjesuschrist.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
 
 ### become darkened and will be burned
 
 > There is a superior intelligence bestowed upon such as obey the Gospel with full purpose of heart, which, if sinned against, the apostate is left naked and destitute of the Spirit of God, and he is, in truth, nigh unto cursing, and his end is to be burned. When once that light which was in them is taken from them they become as much darkened as they were previously enlightened, and then, no marvel, if all their power should be enlisted against the truth, and they, Judas-like, seek the destruction of those who were their greatest benefactors.
 
-Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.lds.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
+Teachings of Presidents of the Church: Joseph Smith, [Chapter 27: Beware the Bitter Fruits of Apostasy](https://www.churchofjesuschrist.org/manual/teachings-joseph-smith/chapter-27?lang=eng)
 
 ### did not know the truth or live in tune with the Spirit
 
@@ -149,25 +149,25 @@ Encyclopedia of Mormonism - [Apostate](http://eom.byu.edu/index.php/Apostate)
 
 > It was said here this morning that no person ever apostatized, without actual transgression. Omission of duty leads to commission.
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### left because they get into darkness
 
 > People do, however, leave this Church, but they leave it because they get into darkness...
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### left because they listen to the enemy, listen to wisdom of man, and become confused
 
 > Men begin to apostatize by taking to themselves strength, by hearkening to the whisperings of the enemy who leads them astray little by little, until they gather to themselves that which they call the wisdom of man; then they begin to depart from God, and their minds become confused.
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### will experience darkness and unhappiness
 
 > They experience darkness, ignorance, doubt, pain, sorrow, grief, mourning, unhappiness; no person to condole [lament] within the hour of trouble, no arm to lean upon in the day of calamity, no eye to pity when they are forlorn and cast down; and I comprehend it by saying death, hell and the grave. This is what they will get in exchange for their apostasy..."
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ###  will become grayhaired, wrinkled, and black, just like the Devil
 
@@ -179,19 +179,19 @@ Brigham Young, [JOD, vol 5](http://jod.mrm.org/5/327), pg 332
 
 > You have known men who, while in the Church, were active, quick and full of intelligence; but after they have left the Church, they have become contracted in their understandings, they have become darkened in their minds and everything has become a mystery to them, and in regard to the things of God... This is precisely the position of those who leave this Church; they go into the dark, they are not able to judge, conceive or comprehend things as they are. They are like the drunken man...
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### go into darkness like a blind person
 
 > Let a man or woman who has received much of the power of God, visions and revelations, turn away from the holy commandments of the Lord, and it seems that their senses are taken from them, their understanding and judgment in righteousness are taken away, they go into darkness, and become like a blind person who gropes by the wall.
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### will go to final destruction
 
 > Whenever there is a disposition manifested in any of the members of this Church to question the right of the President of the whole Church to direct in all things, you see manifested evidences of apostasy—of a spirit which, if encouraged, will lead to a separation from the Church and to final destruction...
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### make friends with the wicked and are Anti-Christ
 
@@ -203,7 +203,7 @@ Brigham Young, [JOD vol 10](http://jod.mrm.org/10/289), pg 297
 
 > Some members are deceived by false prophets. [tells account of Hiram Page]
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
 ### will have no forgivenss and seek or consent to shed innocent blood
 
@@ -217,49 +217,49 @@ Parley P. Pratt, [Journal of Discourses, vol 1, pg. 11](http://jod.mrm.org/1/6)
 
 > What is that which turns people away from this Church? Very trifling affairs are generally the commencement of their divergence from the right path. If we follow a compass, the needle of which does not point correctly, a very slight deviation in the beginning will lead us, when we have traveled some distance, far to one side of the true point for which we are aiming.  
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### may have questioned whether the Lord really dictated it
 
 > When a man begins to find fault, inquiring in regard to this, that, and the other, saying, "Does this or that look as though the Lord dictated it?” you may know that that person has more or less of the spirit of apostasy.
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### are deceived because of their pride
 
 > Some members are deceived because of their pride. The following story illustrates how pride led Thomas B. Marsh, who was President of the Quorum of the Twelve, and his wife, Elizabeth, into apostasy. ...What can we learn from this story? How have you seen pride lead people into deception and apostasy?
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
-Thomas B. Marsh did not actually leave for such trivial reasons (see [here](http://bycommonconsent.com/2013/06/29/gospel-doctrine-lesson-24-be-not-deceived-but-continue-in-steadfastness-guest-fmhlisa/) and [here](https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh?lang=eng))
+Thomas B. Marsh did not actually leave for such trivial reasons (see [here](http://bycommonconsent.com/2013/06/29/gospel-doctrine-lesson-24-be-not-deceived-but-continue-in-steadfastness-guest-fmhlisa/) and [here](https://history.churchofjesuschrist.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh?lang=eng))
 
 ### are deceived because they are critical of leaders' imperfections
 
 > Some members are deceived because they become critical of Church leaders’ imperfections. The following story illustrates how Simonds Ryder was deceived in this way. ...What can we learn from this story? How does being critical of our Church leaders make us more susceptible to deception?"
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
 > One of the first steps to apostasy is to find fault with your Bishop; and when that is done, unless repented of a second step is soon taken, and by and by the person is cut off from the Church, and that is the end of it. Will you allow yourselves to find fault with your Bishop?
 
-Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.lds.org/manual/teachings-brigham-young/chapter-12?lang=eng)
+Teachings of Presidents of the Church, Brigham Young Chapter 12: [Preventing Personal Apostasy](https://www.churchofjesuschrist.org/manual/teachings-brigham-young/chapter-12?lang=eng)
 
 ### were offended
 
 > Being offended Some Church members become offended by the actions of other members and allow an offense to fester until they are led into apostasy. ...How do we today allow ourselves to be offended by others? How can being offended lead to apostasy? How can we overcome feelings of being offended?
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
 ### rationalize disobedience
 
 > Rationalizing is excusing or defending unacceptable behavior. It is looking for a way to ease our consciences for doing something we know is wrong. How is rationalization a form of deception? How do we sometimes try to rationalize our behavior? Why is this dangerous?
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
 ### are deceived by the false teachings of the world
 
 > What are some of the false teachings of the world that can deceive members and lead them into apostasy? (Examples could include the false ideas that the commandments of God are too restrictive, that immorality is acceptable, and that material possessions are more important than spiritual things.)
 
-Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
+Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [Lesson 24: “Be Not Deceived, but Continue in Steadfastness”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine/lesson-24?lang=eng)
 
 ### warning to all members: darkness, pain, sorrow, misery in the extreme; never a "happy moment"
 
@@ -273,31 +273,31 @@ Doctrine and Covenants and Church History: Gospel Doctrine Teacher’s Manual, [
 
 > Apostasy frequently results when a person commits serious sin but does not repent. To silence his conscience or justify his sinful actions, the individual moves away from the truth, looking for imperfections in others or questioning Church doctrine with which he no longer agrees.
 
-[Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
+[Avoiding Personal Apostasy](https://www.churchofjesuschrist.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
 ### may have left because a leader did not treat them well and they become offended
 
 > Some individuals begin to think the Church is not true when they feel that a leader did not treat them well. They become offended and, without considering what they are losing, they stray from the Church.
 
-[Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
+[Avoiding Personal Apostasy](https://www.churchofjesuschrist.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
 ### may have left because of faultfinding
 
 > Conflicts between Church members can also lead to apostasy.  Faultfinding can be another source of personal apostasy. When we look for faults in others or begin to think we could make better decisions than our leaders, we should remember the experience of Oliver Cowdery, the second elder of the Church...
 
-[Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
+[Avoiding Personal Apostasy](https://www.churchofjesuschrist.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
 ### have become entangled in the mists of darkness
 
 > I testify that we can avoid the mists of darkness that lead to personal apostasy by repenting of our sins, overcoming offense, eliminating faultfinding, and following our Church leaders."
 
-[Avoiding Personal Apostasy](https://www.lds.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
+[Avoiding Personal Apostasy](https://www.churchofjesuschrist.org/ensign/2009/06/avoiding-personal-apostasy?lang=eng) Ensign, June 2009, By Elder Claudio D. Zivic
 
 ### if bitter, have a presence of darkness
 
 > Remember: when you see the bitter apostate, you do not see only an absence of light, you see also the presence of darkness. Do not spread disease germs.
 
-Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Seminary: Preservice Readings](https://www.lds.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-mantle-is-far-far-greater-than-the-intellect?lang=eng)
+Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Seminary: Preservice Readings](https://www.churchofjesuschrist.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-mantle-is-far-far-greater-than-the-intellect?lang=eng)
 
 ### fall out because they were not in far enough
 
@@ -321,19 +321,19 @@ Boyd Packer "The Mantle is Far, Far Greater Than the Intellect" [Teaching Semina
 
 > And I pray for those who deal in the highest form of larceny—that of stripping people of their precious testimonies. Such action, if continued, will lead only to the futility and emptiness of the dream of a night vision. (See 2 Ne. 27:3; Acts 5:33–39.)
 
-[Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
+[Carlos Asay, October General Conference, 1981](https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
 ### should be shunned if they tear down faith
 
 > Avoid those who would tear down your faith. Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit.
 
-[Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
+[Carlos Asay, October General Conference, 1981](https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
 ### generally left for trivial reasons
 
 > Soon after the Church was organized, some of the members began to apostatize, or leave the Church. They quit attending Church meetings, opposed the Prophet, and persecuted the Saints. People apostatized for various reasons. For example, one man left the Church because his horse died while he was traveling to join the Saints in Missouri. Another man apostatized after he saw Joseph Smith playing with children. He thought a prophet should be too serious to play with children. One man saw that his name was misspelled on a Church document and thought that meant Joseph Smith was not inspired by God. Other people left the Church because they did not receive the help they expected with their financial problems. Some members left the Church because they could not forgive other members for actions that had offended them. After leaving the Church, these offended people often became the Church’s worst enemies.
 
-Primary 5: Doctrine and Covenants and Church History, [Lesson 21](https://www.lds.org/manual/primary-5-doctrine-and-covenants-and-church-history/lesson-21-joseph-smith-is-tarred-and-feathered?lang=eng)
+Primary 5: Doctrine and Covenants and Church History, [Lesson 21](https://www.churchofjesuschrist.org/manual/primary-5-doctrine-and-covenants-and-church-history/lesson-21-joseph-smith-is-tarred-and-feathered?lang=eng)
 
 ### should not be listened to if they attempt to proselytize
 
@@ -345,7 +345,7 @@ From [L. Whitney Clayton's commencement speech at BYU](http://www.sltrib.com/new
 
 > The challenge we may confront is remaining loyal to the Savior and His Church in the face of parents, in-laws, brothers or sisters, or even our children whose conduct, beliefs, or choices make it impossible to support both Him and them. …the Lord reminds us, “He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.”So although familial love continues, relationships may be interrupted and, according to the circumstances, even support or tolerance at times suspended for the sake of our higher love.
 
-D. Todd Christofferson, [Finding Your Life](https://www.lds.org/ensign/2016/03/finding-your-life?lang=eng&_r=1), Ensign March, 2016.
+D. Todd Christofferson, [Finding Your Life](https://www.churchofjesuschrist.org/ensign/2016/03/finding-your-life?lang=eng&_r=1), Ensign March, 2016.
 
 ### may require adjustments to avoid endorsing behavior
 
@@ -387,7 +387,7 @@ Brigham Young, Remarks delivered in the Bowery, [JOD vol 12](http://scriptures.b
 
 > They all bowed their heads while Liv said the prayer. She prayed that Erik would learn to listen to the Holy Ghost. While Liv was praying, Kari felt peaceful and warm. She knew that Heavenly Father was hearing their prayers.
 
-[Don't Forget to Pray for Erik](https://www.lds.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
+[Don't Forget to Pray for Erik](https://www.churchofjesuschrist.org/friend/2017/01/dont-forget-to-pray-for-erik?lang=eng). Jan 2017 Friend.
 
 ## Statements which imply a negative
 
@@ -401,31 +401,31 @@ Seventh [temple recommend question](http://lds4u.com/lesson5/templequestions.htm
 
 > If you choose to become inac­tive or to leave the restored Church of Jesus Christ of Lat­ter-day Saints, where will you go? What will you do? The deci­sion to ‘walk no more’ with Church mem­bers and the Lord’s cho­sen lead­ers will have a long-term impact that can­not always be seen right now.
 
-M. Russell Ballard, [October General Conference 2016](https://www.lds.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng)
+M. Russell Ballard, [October General Conference 2016](https://www.churchofjesuschrist.org/general-conference/2016/10/to-whom-shall-we-go?lang=eng)
 
 ### experience negative long-term consequences
 
 > they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.
 
-M Russell Ballard, [October General Conference 2014](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng)
+M Russell Ballard, [October General Conference 2014](https://www.churchofjesuschrist.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng)
 
 ### may be put out of existence
 
 > With all my heart I implore those who are walking on the fringes of our faith to seek the safety of the center. This can be done best by counseling with your leaders and remaining within the fellowshipping circle of the Saints, and receiving nourishment from the good word of God. Do not permit faithless people to turn you out of the right way or to put you out of existence. (See Moro. 6.)
 
-[Carlos Asay, October General Conference, 1981](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
+[Carlos Asay, October General Conference, 1981](https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng)
 
 ### should fear for their safety
 
 > Keep your covenants and you will be safe.  Break them and you will not.
 
-Boyd K. Packer, [October General Conference 1990](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
+Boyd K. Packer, [October General Conference 1990](https://www.churchofjesuschrist.org/general-conference/1990/10/covenants?lang=eng)
 
 ### will die spiritually
 
 > Like the dead sequoia, these Church members once received their spiritual nourishment from the well of living water offered by Jesus Christ, but having been disconnected for one reason or another from that source, their spirit was dulled, and they eventually died spiritually.
 
-[M. Russell Ballard](https://www.lds.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
+[M. Russell Ballard](https://www.churchofjesuschrist.org/prophets-and-apostles/unto-all-the-world/to-the-saints-in-the-utah-south-area?lang=eng)
 
 ### had a patty-cake, taffy-pull conviction
 
@@ -437,7 +437,7 @@ Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College A
 
 > We should associate with those who, like us, are planning not for temporary convenience, shallow goals, or narrow ambition—but rather with those who value the things that matter most, even eternal objectives.
 
-["Be Thou an Example,"](https://www.lds.org/general-conference/2005/04/be-thou-an-example?lang=eng) Thomas S. Monson, First Counselor in the First Presidency, General Conference, April 2005.
+["Be Thou an Example,"](https://www.churchofjesuschrist.org/general-conference/2005/04/be-thou-an-example?lang=eng) Thomas S. Monson, First Counselor in the First Presidency, General Conference, April 2005.
 
 ### are not honest or sincere
 
@@ -447,32 +447,32 @@ Jeffrey R. Holland. Fireside at Tempe Arizona Stake Center, 2707 South College A
 
 > As a prophet reveals the truth it divides the people. The honest in heart heed his words but the unrighteous either ignore the prophet or fight him.
 
-Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.lds.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-11-follow-the-living-prophet?lang=eng)
+Teachings of Presidents of the Church, Ezra T. Benson, [ch. 11](https://www.churchofjesuschrist.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-11-follow-the-living-prophet?lang=eng)
 
 
 ### will never reach the promised land
 
 > We board the Good Ship Zion and sail with her wher­ev­er she goes until she comes into that mil­len­ni­al port. We stay in the boat, through squalls and stills, through storms and sun­burn, because that is the only way to the promised land.
 
-Jeffrey R. Holland, [April General Conference 2004](https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng)
+Jeffrey R. Holland, [April General Conference 2004](https://www.churchofjesuschrist.org/general-conference/2004/04/abide-in-me?lang=eng)
 
 ### were not righteous
 
 > Faith is a gift of God bestowed as a reward for personal righteousness. It is always given when righteousness is present, and the greater the measure of obedience to God’s laws the greater will be the endowment of faith.
 
-Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.lds.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
+Bruce R. McConkie, [quoted by many others and in many Church manuals](https://www.churchofjesuschrist.org/search?lang=eng&query=%22Faith+is+a+gift+of+God+bestowed+as+a+reward+for+personal+righteousness%22)
 
 ### had an immature testimony and shallow commitment to Jesus Christ
 
 > More than at any time in our history, your students also need to be blessed by learning doctrinal or historical context and context by study and faith accompanied by pure testimony so they can experience a mature and lasting conversion to the gospel and a lifelong commitment to Jesus Christ.  Mature and lasting conversion means they will 'stay in the boat and hold on' throughout their entire lives.
 
-M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in the 21st Century](https://www.lds.org/broadcasts/article/evening-with-a-general-authority/2016/02/the-opportunities-and-responsibilities-of-ces-teachers-in-the-21st-century?lang=eng)
+M. Russell Ballard. [The Opportunities and Responsibilities of CES Teachers in the 21st Century](https://www.churchofjesuschrist.org/broadcasts/article/evening-with-a-general-authority/2016/02/the-opportunities-and-responsibilities-of-ces-teachers-in-the-21st-century?lang=eng)
 
 ### should be shunned if they associate with subcultures
 
 > [potentially implied] Drugs, drink, pornographic materials, and subculture associations are also escape routes. …Shun those who would build themselves by destroying others.
 
-["While They Are Waiting,"](https://www.lds.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
+["While They Are Waiting,"](https://www.churchofjesuschrist.org/general-conference/1988/04/while-they-are-waiting?lang=eng) Marvin J. Ashton, General Conference, April 1988.
 
 
 ### disaffected "certainly not" an arbiter of truth

@@ -33,7 +33,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > I should like to add, parenthetically for your information that the living allowances given the General Authorities, which are very modest in comparison with executive compensation in industry and the professions, come from this business income and not from the tithing of the people.
 
----Gordon B. Hinckley, October 1985 General Conference. ["Questions and Answers"](https://www.lds.org/general-conference/1985/10/questions-and-answers?lang=eng&_r=1)
+---Gordon B. Hinckley, October 1985 General Conference. ["Questions and Answers"](https://www.churchofjesuschrist.org/general-conference/1985/10/questions-and-answers?lang=eng&_r=1)
 
 > Unlike local leaders, who maintain their normal vocations while serving in Church assignments, General Authorities set aside their careers to devote their full time to the ministry of their office. The living allowance given General Authorities rarely if ever equals the earnings they sacrifice to serve full-time in the Church.
 
@@ -43,15 +43,15 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > In these verses, reference is made to the bishop and his counselors receiving “a just remuneration for” their services. In our day, this refers specifically to General Authorities, mission presidents, and temple presidents who are required to give up their livelihoods to serve full time in the Church. These individuals receive a modest living allowance sufficient to support them and their immediate families during their time of service.
 
----Doctrine and Covenants and Church History Seminary Teacher Manual. [Lesson 49: Doctrine and Covenants 42:43–93](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-02/lesson-49?lang=eng)
+---Doctrine and Covenants and Church History Seminary Teacher Manual. [Lesson 49: Doctrine and Covenants 42:43–93](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-02/lesson-49?lang=eng)
 
 > After they report, explain that General Authorities give up their livelihoods to serve full-time, so they receive a modest living allowance—enough for them to support themselves and their families. This allowance comes from the Church’s corporate funds, not from tithing funds.
 
----Doctrine and Covenants and Church History Seminary Teacher Manual. [Lesson 75: Doctrine and Covenants 69–71. Supplemental Teaching Idea](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-3/lesson-75?lang=eng) 
+---Doctrine and Covenants and Church History Seminary Teacher Manual. [Lesson 75: Doctrine and Covenants 69–71. Supplemental Teaching Idea](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-3/lesson-75?lang=eng) 
 
 > Doctrine and Covenants 70:5–18 teaches that the men entrusted to be stewards over the revelations and commandments were to make the printing and distribution of Church publications their employment. In our day, General Authorities of the Church give up their livelihoods to serve full-time, so they receive a modest living allowance—enough for them to support themselves and their families.  Why is it appropriate for Church leaders who are called to full-time service to receive compensation for their needs?
 
----Doctrine and Covenants and Church History Study Guide for Home-Study Seminary Students. [Unit 15: Day 4, Doctrine and Covenants 69–71](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-study-guide-for-home-study-seminary-students-2014/section-03/unit-15-day-4-doctrine-and-covenants-69-71?lang=eng)
+---Doctrine and Covenants and Church History Study Guide for Home-Study Seminary Students. [Unit 15: Day 4, Doctrine and Covenants 69–71](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-study-guide-for-home-study-seminary-students-2014/section-03/unit-15-day-4-doctrine-and-covenants-69-71?lang=eng)
 
 ### Give impression *all* are unpaid
 
@@ -59,89 +59,89 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > In the Church of Jesus Christ of Latter-day Saints there is no paid ministry, no professional clergy, as is common in other churches.
 
----Boyd K. Packer, March 23, 1965, BYU Speeches of the Year, reprinted in September 1979 Ensign. ["Follow the Brethren"](https://www.lds.org/liahona/1979/09/follow-the-brethren?lang=eng)
+---Boyd K. Packer, March 23, 1965, BYU Speeches of the Year, reprinted in September 1979 Ensign. ["Follow the Brethren"](https://www.churchofjesuschrist.org/liahona/1979/09/follow-the-brethren?lang=eng)
 
 > And the fact that faithful members of the Church do all these things is one of the great evidences of the divinity of the work... Where [else] is there so much unpaid teaching and church administration? In the true church we neither preach for hire nor divine for money. We follow the pattern of Paul and make the gospel of Christ without charge , lest we abuse or misuse the power the Lord has given us. Freely we have received and freely we give, for salvation is free.
 
----Elder Bruce R. McConkie, General Conference, April 1975. ["Obedience, Consecration, and Sacrifice"](https://www.lds.org/general-conference/1975/04/obedience-consecration-and-sacrifice?lang=eng)
+---Elder Bruce R. McConkie, General Conference, April 1975. ["Obedience, Consecration, and Sacrifice"](https://www.churchofjesuschrist.org/general-conference/1975/04/obedience-consecration-and-sacrifice?lang=eng)
 
 >  But another reason for this change [lifestyle change experienced by new converts] is their involvement in Church activities. Inasmuch as there is no paid ministry in the Church, service opportunities are available to men, women, and children of all ages.
 
----New Era March, 1977. [Q&A: Questions and Answers](https://www.lds.org/new-era/1977/03/qa-questions-and-answers?lang=eng)
+---New Era March, 1977. [Q&A: Questions and Answers](https://www.churchofjesuschrist.org/new-era/1977/03/qa-questions-and-answers?lang=eng)
 
 > Well, you see, we’re Mormons, and we don’t have paid clergy; so each Sunday a family from the congregation is asked to put on a part of the program. That’s why we’re in such a hurry!
 
----Ensign, 1977. [Mirthright](https://www.lds.org/ensign/1977/01/mirthright?lang=eng) (fictional, unsigned story)
+---Ensign, 1977. [Mirthright](https://www.churchofjesuschrist.org/ensign/1977/01/mirthright?lang=eng) (fictional, unsigned story)
 
 > Some of these things will have an all-too-familiar ring to many Latter-day Saints. And perhaps this is inevitable in a church where we all teach each other instead of relying on a paid clergy of professional elocutionists.
 
----Thomas W. Ladanye, Ensign, January 1978. ["The Six Best Talks I Ever Heard"](https://www.lds.org/ensign/1978/01/the-six-best-talks-i-ever-heard?lang=eng)
+---Thomas W. Ladanye, Ensign, January 1978. ["The Six Best Talks I Ever Heard"](https://www.churchofjesuschrist.org/ensign/1978/01/the-six-best-talks-i-ever-heard?lang=eng)
 
 > They [Joseph's early church] had no paid ministry, believed that every believer received divine help in understanding the word of God,...
 
----De Lamar Jensen, Ensign, September 1978. ["Seventeen Centuries of Christianity"](https://www.lds.org/ensign/1978/09/seventeen-centuries-of-christianity?lang=eng)
+---De Lamar Jensen, Ensign, September 1978. ["Seventeen Centuries of Christianity"](https://www.churchofjesuschrist.org/ensign/1978/09/seventeen-centuries-of-christianity?lang=eng)
 
 > I am persuaded that one of the reasons our Church is designed differently from others, without a paid clergy , is that the Lord knows that only through service can we learn the most important virtues.
 
----Carlfred B. Broderick, Ensign, July 1979. ["Midlife Report"](https://www.lds.org/ensign/1979/07/midlife-report?lang=eng)
+---Carlfred B. Broderick, Ensign, July 1979. ["Midlife Report"](https://www.churchofjesuschrist.org/ensign/1979/07/midlife-report?lang=eng)
 
 > It is apparent from these titles that Elder Hyde focuses his attention on the ordinances of the priesthood. Furthermore, where he is not discussing these ordinances themselves, Elder Hyde considers items closely related to them, such as the absence of paid ministry in the Church, the proper age at which to baptize children, prayer, and the Sabbath day.
 
----Welch and Whittaker, Ensign, September 1979. ["'We Believe. …': Development of the Articles of Faith"](https://www.lds.org/ensign/1979/09/we-believe-development-of-the-articles-of-faith?lang=eng)
+---Welch and Whittaker, Ensign, September 1979. ["'We Believe. …': Development of the Articles of Faith"](https://www.churchofjesuschrist.org/ensign/1979/09/we-believe-development-of-the-articles-of-faith?lang=eng)
 
 *Note, this manual is in current use as of 2017.*
 
 > Even Paul and his ministerial associates, who were in fact entitled to temporal help from the saints, chose to set an example of self-support. There are perils in a paid ministry. (McConkie, DNTC, 3:67)
 
----The Life and Teachings of Jesus and His Apostles, 1979. [Chapter 33: The Coming of the Lord Jesus Christ](https://www.lds.org/manual/the-life-and-teachings-of-jesus-and-his-apostles/section-8-pauls-witness-as-a-missionary/chapter-33-the-coming-of-the-lord-jesus-christ?lang=eng)
+---The Life and Teachings of Jesus and His Apostles, 1979. [Chapter 33: The Coming of the Lord Jesus Christ](https://www.churchofjesuschrist.org/manual/the-life-and-teachings-of-jesus-and-his-apostles/section-8-pauls-witness-as-a-missionary/chapter-33-the-coming-of-the-lord-jesus-christ?lang=eng)
 
 > Consider these additional aspects of the restored Church: a great women's program...; an unpaid clergy ('freely ye have received, freely give' [Matt. 10:8]) ; teachings that stress the redeeming and positive in life; and an extensive welfare program to assist the poor and needy in dignity and love. The list goes on and on.
 
----Elder Hugh W. Pinnock, General Conference, April 1980. ["The Gospel Restored"](https://www.lds.org/general-conference/1980/04/the-gospel-restored?lang=eng)
+---Elder Hugh W. Pinnock, General Conference, April 1980. ["The Gospel Restored"](https://www.churchofjesuschrist.org/general-conference/1980/04/the-gospel-restored?lang=eng)
 
 > No one—husband, wife, children, or church—has claim on the full time of someone else. Children, given their parents’ full-time attention, would be overshadowed and become dependent. The Church, with full-time bishops, would have a paid ministry and become an end in itself rather than a divine organization designed to help perfect the individual children of God.
 
----Ensign, September 1983. ["The Gift of Knowing"](https://www.lds.org/ensign/1983/09/the-gift-of-knowing?lang=eng)) (republished [in 1989](https://www.lds.org/liahona/1989/02/the-gift-of-knowing?lang=eng))
+---Ensign, September 1983. ["The Gift of Knowing"](https://www.churchofjesuschrist.org/ensign/1983/09/the-gift-of-knowing?lang=eng)) (republished [in 1989](https://www.churchofjesuschrist.org/liahona/1989/02/the-gift-of-knowing?lang=eng))
 
 > Over the years of my membership in The Church of Jesus Christ of Latter-day Saints, I have greatly appreciated the opportunities for service, for there is no paid ministry. 
 
----Elder Derek A. Cuthbert, General Conference, October 1985. ["What's the Difference?"](https://www.lds.org/general-conference/1985/10/whats-the-difference?lang=eng)
+---Elder Derek A. Cuthbert, General Conference, October 1985. ["What's the Difference?"](https://www.churchofjesuschrist.org/general-conference/1985/10/whats-the-difference?lang=eng)
 
 > During his remarks at the [June 15, 1996 Berlin] regional conference, President Hinckley mentioned this interview. He noted that he explained to the reporters that among the Church’s distinguishing characteristics are the unpaid lay ministry and the belief in modern revelation.
 
----Ensign, September 1996. ["News of the Church"](https://www.lds.org/ensign/1996/09/news-of-the-church?lang=eng)
+---Ensign, September 1996. ["News of the Church"](https://www.churchofjesuschrist.org/ensign/1996/09/news-of-the-church?lang=eng)
 
 > On 6 March [1997], he addressed the largest gathering ever of the Los Angeles World Affairs Council. He discussed the Church’s growth, humanitarian efforts, missionary force, unpaid ministry , and Relief Society and spoke of the benefits of obeying the Word of Wisdom....  Later, on 19 March [1997], President Hinckley gave a similar address at the World Forum of Silicon Valley, held in Santa Clara, California.
 
----Ensign, May 1997. ["News of the Church"](https://www.lds.org/ensign/1997/05/news-of-the-church?lang=eng)
+---Ensign, May 1997. ["News of the Church"](https://www.churchofjesuschrist.org/ensign/1997/05/news-of-the-church?lang=eng)
 
 > The concept of lay leadership, which involves all of us as active members, provides us with many opportunities to serve and develop.
 
----Joe J. Christensen, Ensign, March 2001. [The Principle of Presidency](https://www.lds.org/ensign/2001/03/the-principle-of-presidency?lang=eng)
+---Joe J. Christensen, Ensign, March 2001. [The Principle of Presidency](https://www.churchofjesuschrist.org/ensign/2001/03/the-principle-of-presidency?lang=eng)
 
 > I need not tell you that we have become a very large and complex Church. Our program is so vast and our reach is so extensive that it is difficult to comprehend. We are a Church of lay leadership. What a remarkable and wonderful thing that is. It must ever remain so. It must never move in the direction of an extensive paid ministry. 
 
----President Gordon B. Hinckley, General Conference, October 2002. ["To Men of the Priesthood"](https://www.lds.org/general-conference/2002/10/to-men-of-the-priesthood?lang=eng)
+---President Gordon B. Hinckley, General Conference, October 2002. ["To Men of the Priesthood"](https://www.churchofjesuschrist.org/general-conference/2002/10/to-men-of-the-priesthood?lang=eng)
 
 > Serve in the Church whenever you are called. This Church has the pattern of lay leadership, where every person has a calling in the kingdom.
 
----Earl C. Tingey, Ensign, October 2004. [Establishing Eternal Patterns](https://www.lds.org/liahona/2004/10/establishing-eternal-patterns?lang=eng)
+---Earl C. Tingey, Ensign, October 2004. [Establishing Eternal Patterns](https://www.churchofjesuschrist.org/liahona/2004/10/establishing-eternal-patterns?lang=eng)
 
 > Soon after baptism new members receive from priesthood leaders the blessing of a responsibility to help in the Church. This is referred to as a calling. All of the work in the Church is voluntary. No one is paid for such service.
 
----Preach My Gospel, 2005. [Lesson 5: Laws and Ordinances](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-5-laws-and-ordinances?lang=eng)
+---Preach My Gospel, 2005. [Lesson 5: Laws and Ordinances](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-5-laws-and-ordinances?lang=eng)
 
 > The Lord in His infinite wisdom has designed His Church to operate with a lay ministry.
 
----M. Russell Ballard, General Conference, October 2006. [O Be Wise](https://www.lds.org/general-conference/2006/10/o-be-wise?lang=eng)
+---M. Russell Ballard, General Conference, October 2006. [O Be Wise](https://www.churchofjesuschrist.org/general-conference/2006/10/o-be-wise?lang=eng)
 
 >  I answered that the Church is not wealthy but that we follow the ancient biblical principle of tithing, which principle is reemphasized in our modern scripture. I explained also that our Church has no paid ministry and indicated that these were two reasons why we were able to build the buildings then under way, including the beautiful temple at Freiberg. Minister Gysi was most impressed with the information I presented... The opportunity to declare a truth may come when we least expect it. Let us be prepared.
 
----President Thomas S. Monson, General Conference April 2006. ["Our Sacred Priesthood Trust"](https://www.lds.org/general-conference/2006/04/our-sacred-priesthood-trust?lang=eng)
+---President Thomas S. Monson, General Conference April 2006. ["Our Sacred Priesthood Trust"](https://www.churchofjesuschrist.org/general-conference/2006/04/our-sacred-priesthood-trust?lang=eng)
 
 > Share unique truths. When investigators come to church for the first time, they are excited to learn about the Church. Learning that the Church has an unpaid ministry or that living oracles guide the members is often surprising to investigators. 'But keep the information simple' the lawyer observed. 'Intricate explanations and deep doctrine only confuse investigators.'
 
----Dale M. Valentine, Ensign, September 2008. ["Coming to Church, Becoming Converted"](https://www.lds.org/ensign/2008/09/coming-to-church-becoming-converted?lang=eng)
+---Dale M. Valentine, Ensign, September 2008. ["Coming to Church, Becoming Converted"](https://www.churchofjesuschrist.org/ensign/2008/09/coming-to-church-becoming-converted?lang=eng)
 
 > Personal sacrifice is vital to the religious faith of members of The Church of Jesus Christ of Latter-day Saints. Members volunteer their time to serve in various positions in tens of thousands of congregations throughout the world. Their service is critical at the local level because the Church has no full-time paid clergy .
 
@@ -149,7 +149,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > We have no professionally trained and salaried clergy in The Church of Jesus Christ of Latter-day Saints.
 
----Dallin H. Oaks, General Conference, April 2012.  [Sacrifice](https://www.lds.org/general-conference/2012/04/sacrifice?lang=eng)
+---Dallin H. Oaks, General Conference, April 2012.  [Sacrifice](https://www.churchofjesuschrist.org/general-conference/2012/04/sacrifice?lang=eng)
 
 > Because there is no paid ministry, almost every churchgoer has a responsibility.
 
@@ -157,7 +157,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > Why does the Church have unpaid clergy?  From the beginning, the Lord has called His disciples from among ordinary people with diverse backgrounds. They served out of love for the Lord and for others. In the Book of Mormon, for instance, the prophet Alma chose priesthood leaders and “commanded them … [to] labor with their own hands for their support. “And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God” (Mosiah 18:24, 26; see also 2 Nephi 26:29–31; Articles of Faith 1:5).  Likewise in our day, a call to serve gives us the opportunity to help others and to develop and share our talents and spiritual gifts. We are amply repaid for our service by blessings from the Lord.
 
----Ensign July, 2013. [Whom the Lord Calls He Qualifies](https://www.lds.org/ensign/2013/07/whom-the-lord-calls-he-qualifies?lang=eng)
+---Ensign July, 2013. [Whom the Lord Calls He Qualifies](https://www.churchofjesuschrist.org/ensign/2013/07/whom-the-lord-calls-he-qualifies?lang=eng)
 
 > This mutual commitment to Church service was tested again and again as President Monson was called to numerous lay leadership positions and asked to take a leave of absence from his executive position at the Deseret News to move his family to Toronto, Canada, where he served as the president of the Canadian Mission for three years.
 
@@ -165,7 +165,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > Since we do not have a paid clergy, most of our applicants will meet this requirement by having sufficient practical Church leadership experience, especially if they have served a mission.
 
----Military Relations and Chaplain Services (undated). [Military Chaplains](https://www.lds.org/callings/military-relations/military-chaplains?lang=eng)
+---Military Relations and Chaplain Services (undated). [Military Chaplains](https://www.churchofjesuschrist.org/callings/military-relations/military-chaplains?lang=eng)
 
 ### Modest allowance for Mission Presidents
 
@@ -173,7 +173,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > The interruption to professional employment can in some cases mean financial loss. While the Church provides mission presidents with a minimal living allowance, the couples usually have the financial means to supplement that allowance with their own funds.
 
----Liahona December, 2011. [New Mission Presidents Blessed for Exercise of Faith](https://www.lds.org/liahona/2011/12/new-mission-presidents-blessed-for-exercise-of-faith?lang=eng)
+---Liahona December, 2011. [New Mission Presidents Blessed for Exercise of Faith](https://www.churchofjesuschrist.org/liahona/2011/12/new-mission-presidents-blessed-for-exercise-of-faith?lang=eng)
 
 > “Then you must be acquainted with Martin Zachreson, who is mission president in Southern California for the Mormon Church.” “Yes,” he said. “ I wondered why he would leave the position of chairman of the board of a successful bank to serve as a mission president for a mere living allowance.”
 
@@ -189,7 +189,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > Because we have no paid local clergy in our worldwide congregations, our members perform the work of ministry themselves.
 
----President Dieter F. Uchtdorf, General Conference October 2013. ["Come, Join with Us"](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)
+---President Dieter F. Uchtdorf, General Conference October 2013. ["Come, Join with Us"](https://www.churchofjesuschrist.org/general-conference/2013/10/come-join-with-us?lang=eng)
 
 ### Technically correct but might be construed as *all* leaders unpaid
 
@@ -197,19 +197,19 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > Elder Monson’s Church callings have included stake Young Men president, bishop, high councilor, stake president, and stake mission president. “Our lay leadership is one of the great things about the Church,” he says
 
----Mormon Newsroom, 1998. [News of the Church](https://www.lds.org/ensign/1998/05/news-of-the-church?lang=eng)
+---Mormon Newsroom, 1998. [News of the Church](https://www.churchofjesuschrist.org/ensign/1998/05/news-of-the-church?lang=eng)
 
 > An unpaid clergy leading a congregation that supported their church through the payment of tithes seemed to Teahumanu much more Christlike than what he saw in other churches. “Christ’s service was free,” he observes. “So why shouldn’t the service of His servants also be free?”
 
----R. Val Johnson, Ensign August 1999. [Islands of Light](https://www.lds.org/liahona/1999/08/islands-of-light?lang=eng)
+---R. Val Johnson, Ensign August 1999. [Islands of Light](https://www.churchofjesuschrist.org/liahona/1999/08/islands-of-light?lang=eng)
 
 > We are a Church of lay leadership. What a remarkable and wonderful thing that is. It must never move in the direction of an extensive paid ministry.
 
----President Gordon B. Hinkley, General Conference, October 2002. [To Men of the Priesthood](https://www.lds.org/general-conference/2002/10/to-men-of-the-priesthood?lang=eng&_r=1)
+---President Gordon B. Hinkley, General Conference, October 2002. [To Men of the Priesthood](https://www.churchofjesuschrist.org/general-conference/2002/10/to-men-of-the-priesthood?lang=eng&_r=1)
 
 > Again, the organization is unique and different from that of traditional  Christianity. It is largely operated  by a lay ministry. Voluntary service is its genius. As it has grown and spread abroad, thousands upon thousands of faithful and able men have directed its efforts.
 
----President Gordon B. Hinckley, General Conference, October 2007. [The Stone Cut Out of the Mountain](https://www.lds.org/general-conference/2007/10/the-stone-cut-out-of-the-mountain?lang=eng)
+---President Gordon B. Hinckley, General Conference, October 2007. [The Stone Cut Out of the Mountain](https://www.churchofjesuschrist.org/general-conference/2007/10/the-stone-cut-out-of-the-mountain?lang=eng)
 
 > Members volunteer their time to serve in various positions in tens of thousands of congregations throughout the world. Their service is critical at the local level because the Church has no full-time paid clergy.
 
@@ -217,7 +217,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > One of the practices that distinguishes The Church of Jesus Christ of Latter-day Saints is that of having lay shepherds. We have no paid clergy in the wards, branches, stakes, and districts of the Church; rather, the members themselves minister to each other.
 
----Daniel L. Johnson, General Conference, October 2009. [Me? A Shepherd in Israel?](https://www.lds.org/ensign/2009/10/me-a-shepherd-in-israel?lang=eng)
+---Daniel L. Johnson, General Conference, October 2009. [Me? A Shepherd in Israel?](https://www.churchofjesuschrist.org/ensign/2009/10/me-a-shepherd-in-israel?lang=eng)
 
 > The Church of Jesus Christ of Latter-day Saints will issue a new administrative handbook to hundreds of thousands of its lay leaders in a worldwide leadership training meeting tomorrow....The Church of Jesus Christ of Latter-day Saints differs markedly from most other major churches in its absence of full-time paid clergy at the congregational level
 
@@ -230,7 +230,7 @@ This document seeks to establish the extent to which the LDS Church has been tra
 
 > He chose Peter, a fisherman, and Matthew, a tax collector, and later Paul, a tentmaker. Each was chosen from the rank and file—in essence, it was a lay ministry.
 
----Tad R. Callister, CES Devotional, January 2014. [What Is the Blueprint of Christ's Church?](https://www.lds.org/broadcasts/article/ces-devotionals/2014/01/what-is-the-blueprint-of-christs-church?lang=eng)
+---Tad R. Callister, CES Devotional, January 2014. [What Is the Blueprint of Christ's Church?](https://www.churchofjesuschrist.org/broadcasts/article/ces-devotionals/2014/01/what-is-the-blueprint-of-christs-church?lang=eng)
 
 *The following article, "intended to help journalists, opinion leaders and the public better understand the structure of local ministration" talks explicitly about unpaid local clergy and directs visitors to other articles on General Authorities; however, those articles do not mention GA living allowances.*
 

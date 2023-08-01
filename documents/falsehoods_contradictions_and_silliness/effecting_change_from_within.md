@@ -102,7 +102,7 @@ Every issue these individuals have raised (that I'm aware of) has not been addre
 
 The above methods for informing or persuading LDS leaders from within the Church are varied, running the gamut from small personal efforts to large organized ones and extremely meek to very vocal and agitating (and everything in-between).  Each approach was (or continues to be) met either with a wall of silence and inaction or, conversely, disciplinary action that included very little discussion (essentially, the proponent was told to self-censor or be excommunicated).  The data strongly suggest that those inside the Church are incapable of effecting substantive change---if they raise a sharp voice they will be excommunicated; if they raise a mild voice they will be ignored.  I am unaware of any efforts to effect substantive change by an individual member or group that were met with success.
 
-Ultimately, I think that Elder Lynn Robbins best summarized the relationship LDS Church leaders have with their members as he [quoted Boyd K. Packer's instruction](https://www.lds.org/general-conference/2014/10/which-way-do-you-face?lang=eng):
+Ultimately, I think that Elder Lynn Robbins best summarized the relationship LDS Church leaders have with their members as he [quoted Boyd K. Packer's instruction](https://www.churchofjesuschrist.org/general-conference/2014/10/which-way-do-you-face?lang=eng):
 
 > “A Seventy does not represent the people to the prophet but the prophet to the people. Never forget which way you face!”
 

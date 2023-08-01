@@ -26,17 +26,17 @@ Regardless, Renlund seems guilty of misleading his audience, at least to some ex
 
 Suicide has been defined in official channels as "a very grievous" sin and "a sin of great magnitude".
 
-M. Russell Ballard wrote in his 1987 Ensign article [Suicide](https://www.lds.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng):
+M. Russell Ballard wrote in his 1987 Ensign article [Suicide](https://www.churchofjesuschrist.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng):
 
 > I draw an important conclusion from the words of the Prophet: **Suicide is a sin—a very grievous one**, yet the Lord will not judge the person who commits **that sin** strictly by the act itself. The Lord will look at that person’s circumstances and the degree of his accountability at the time of the act. Of course, this gives us no reason to excuse ourselves in committing sins, nor will the Lord excuse us, if I understand correctly. We must constantly strive to do our best in emulating the Savior in every aspect of our lives. At the same time, however, let us remember that spiritual growth comes “line upon line,” that the key—in the spirit world as well as in mortality—is to keep progressing along the right path. ...
 
 > We cannot measure these particular spiritual experiences, of course. We do not know the extent to which the door is open for these particular people to grow and develop in righteousness until they possibly receive the blessings of exaltation. **They committed a very serious sin, and some consequences of it may remain with them throughout eternity**. Only our Father in Heaven knows the full answer to the questions our hearts ask regarding those who take their own lives.
 
-Boyd K. Packer taught in the [October 1988 General Conference](https://www.lds.org/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng):
+Boyd K. Packer taught in the [October 1988 General Conference](https://www.churchofjesuschrist.org/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng):
 
 > **To threaten or to take life, even our own in suicide, is to offend God, for He “in all things hath forbidden it, from the beginning of man**.
 
-Remember that [sin](https://www.lds.org/topics/sin?lang=eng) in the LDS view means to willfully disobey God's commandments.
+Remember that [sin](https://www.churchofjesuschrist.org/topics/sin?lang=eng) in the LDS view means to willfully disobey God's commandments.
 
 Apostle George Q. Cannon wrote in The Juvenile Instructor ([Volume 28, Pg. 352](https://archive.org/stream/juvenileinstructor1993#page/352/mode/2up/search/juvenile+instructor)):
 
@@ -44,13 +44,13 @@ Apostle George Q. Cannon wrote in The Juvenile Instructor ([Volume 28, Pg. 352](
 
 > No encouragement of this kind should be given to anyone who has an inclination to commit suicide. For this reason a person who commits suicide should be buried privately and without ostentation, and certainly the funeral services should be conducted without the authorities of the Church lending their presence to the funeral. All should be taught that **it is a sin of great magnitude to take the life which the Creator has given them.**"
 
-Cannon also wrote ([Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false)) (and was quoted in the [October 1987 Ensign article](https://www.lds.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
+Cannon also wrote ([Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false)) (and was quoted in the [October 1987 Ensign article](https://www.churchofjesuschrist.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
 
 > Man did not create himself. He did not furnish his spirit with a human dwelling place. It is God who created man, both body and spirit. Man has no right, therefore, to destroy that which he had no agency in creating. **They who do so are guilty of murder, self-murder it is true; but they are no more justified in killing themselves than they are in killing others**. What difference of punishment there is for the two crimes, I do not know; but it is clear that no one can destroy so precious a gift as that of life **without incurring a severe penalty**.
 
 ### Banished to hell?
 
-Latter-day Saints distinguish between Hell and damnation, and that distinction is relevant to a discussion on suicide.  The ["Hell" gospel topic](https://www.lds.org/topics/hell?lang=eng) states:
+Latter-day Saints distinguish between Hell and damnation, and that distinction is relevant to a discussion on suicide.  The ["Hell" gospel topic](https://www.churchofjesuschrist.org/topics/hell?lang=eng) states:
 
 > Latter-day revelation speaks of hell in at least two senses. First, it is the temporary abode in the spirit world for those who were disobedient in mortality. **In this sense, hell has an end**. The spirits there will be taught the gospel, and sometime following their repentance they will be resurrected to a degree of glory of which they are worthy. Those who will not repent, but are nevertheless not sons of perdition, will remain in hell throughout the Millennium. After these thousand years of torment, they will be resurrected to a telestial glory.
 
@@ -58,7 +58,7 @@ Latter-day Saints distinguish between Hell and damnation, and that distinction i
 
 Renlund fails to mention that _anyone_ who doesn't eventually reject the Savior's Atonement will _eventually_ be pulled from Hell, and since that also goes for pedophiles, serial killers, and rapists, this perhaps isn't as comforting as it may sound at first.
 
-What Latter-day Saints perhaps fear most is damnation---the fear that they will remain separated from God and family _forever_.  The Guide to the Scriptures topic on [damnation](https://www.lds.org/scriptures/gs/damnation?lang=eng) states:
+What Latter-day Saints perhaps fear most is damnation---the fear that they will remain separated from God and family _forever_.  The Guide to the Scriptures topic on [damnation](https://www.churchofjesuschrist.org/scriptures/gs/damnation?lang=eng) states:
 
 > The state of being stopped in one’s progress and denied access to the presence of God and His glory. Damnation exists in varying degrees. **All who do not obtain the fulness of celestial exaltation will to some degree be limited in their progress and privileges, and they will be damned to that extent.**
 
@@ -93,7 +93,7 @@ The logic that a person who commits suicide cannot be exalted based on having ki
 1. Those who commit suicide have killed (i.e., they killed themselves).
 2. Those who kill will not receive forgiveness in the life to come
 
-Is suicide killing?  The Apostle George Q. Cannon in [The Juvenile Instructor, Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false) taught (also quoted in the [October 1987 Ensign article](https://www.lds.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
+Is suicide killing?  The Apostle George Q. Cannon in [The Juvenile Instructor, Volume 21, Pg. 275](https://books.google.com/books?id=oxQxAQAAIAAJ&pg=PP7#v=onepage&q&f=false) taught (also quoted in the [October 1987 Ensign article](https://www.churchofjesuschrist.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng) by M. Russell Ballard):
 
 > Man did not create himself. He did not furnish his spirit with a human dwelling place. It is God who created man, both body and spirit. Man has no right, therefore, to destroy that which he had no agency in creating. **They who do so are guilty of murder, self-murder it is true; but they are no more justified in killing themselves than they are in killing others**. What difference of punishment there is for the two crimes, I do not know; but it is clear that no one can destroy so precious a gift as that of life **without incurring a severe penalty**.
 

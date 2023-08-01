@@ -6,7 +6,7 @@ maintopic: race-and-priesthood
 layout: page
 ---
 
-W. Paul Reeve, [initial draft author]({{ "/reeve-poor-justifications-for-black-priesthood-ban/" | relative_url }}) of [the Race and Priesthood gospel topics essay](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) documented Joseph F. Smith's "memory change" on Able's ordination ([here](http://www.keepapitchinin.org/2019/01/18/guest-post-newly-discovered-document-provides-dramatic-details-about-elijah-able-and-the-priesthood/)):
+W. Paul Reeve, [initial draft author]({{ "/reeve-poor-justifications-for-black-priesthood-ban/" | relative_url }}) of [the Race and Priesthood gospel topics essay](https://www.churchofjesuschrist.org/topics/race-and-the-priesthood?lang=eng) documented Joseph F. Smith's "memory change" on Able's ordination ([here](http://www.keepapitchinin.org/2019/01/18/guest-post-newly-discovered-document-provides-dramatic-details-about-elijah-able-and-the-priesthood/)):
 
 > * In 1879 he defended Able’s priesthood as valid.
 > * In 1895 he reminded LDS leaders that Able was ordained to the priesthood “at Kirtland under the direction of the Prophet Joseph Smith.”

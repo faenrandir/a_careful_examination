@@ -40,7 +40,7 @@ Merriam-Webster disambiguates the terms thusly:
 
 ### Gospel Principles
 
-The current Gospel Principles manual (as of 2017-02-06) defines lying and other forms of deception [in this paragraph](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng) (emphasis added):
+The current Gospel Principles manual (as of 2017-02-06) defines lying and other forms of deception [in this paragraph](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-31-honesty?lang=eng) (emphasis added):
 
 > **Lying is intentionally deceiving others.** Bearing false witness is one form of lying. The Lord gave this commandment to the children of Israel: “Thou shalt not bear false witness against thy neighbour” (Exodus 20:16). Jesus also taught this when He was on earth (see Matthew 19:18). **There are many other forms of lying.** When we speak untruths, we are guilty of lying. **We can also intentionally deceive others by a gesture or a look, by silence, or by telling only part of the truth.** Whenever we lead people in any way to believe something that is not true, we are not being honest.
 
@@ -48,7 +48,7 @@ So, lying is intentionally deceiving others, and it may be performed in a variet
 
 ### Definition given in General Conference
 
-Marvin J. Ashton defined lying [in his 1982 General Conference address](https://www.lds.org/general-conference/1982/04/this-is-no-harm?lang=eng):
+Marvin J. Ashton defined lying [in his 1982 General Conference address](https://www.churchofjesuschrist.org/general-conference/1982/04/this-is-no-harm?lang=eng):
 
 > [His wise schoolteacher had them recite] “A lie is any communication given to another with the intent to deceive.”
 

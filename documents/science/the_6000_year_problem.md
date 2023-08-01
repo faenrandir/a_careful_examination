@@ -12,7 +12,7 @@ The Church currently teaches that Adam and Eve ushered in the temporal existence
 
 ### Introduction
 
-Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  [Verses 6--7, 10, 12 read](https://www.lds.org/scriptures/dc-testament/dc/77.6-7#p6):
+Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&A session is recorded as Doctrine and Covenants 77.  [Verses 6--7, 10, 12 read](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/77.6-7#p6):
 
 > 6 Q. What are we to understand by the book which John saw, which was sealed on the back with seven seals?
 
@@ -94,7 +94,7 @@ The LDS Church *currently* teaches the idea that the earth began its temporal ex
 
 The following statements were recently part of official LDS discourse (general conference or approved manuals) and can currently be found on churchofjesuschrist.org:
 
-1. [President Monson in GC in 2011](https://www.lds.org/general-conference/2011/10/dare-to-stand-alone?lang=eng) quoting President Benson:
+1. [President Monson in GC in 2011](https://www.churchofjesuschrist.org/general-conference/2011/10/dare-to-stand-alone?lang=eng) quoting President Benson:
 
     > For nearly six thousand years, God has held you in reserve to make your appearance in the final days before the second coming of the Lord.
 
@@ -102,7 +102,7 @@ The following statements were recently part of official LDS discourse (general c
 
     > Tell them that Adam and Eve left the Garden of Eden about 4000 B.C. and the book of Malachi was written about 400 B.C.
 
-1. [The Wilford Woodruff manual](https://www.lds.org/manual/teachings-wilford-woodruff/chapter-24?lang=eng):
+1. [The Wilford Woodruff manual](https://www.churchofjesuschrist.org/manual/teachings-wilford-woodruff/chapter-24?lang=eng):
 
     > I want to ask who are looking for the fulfillment of these events, and who upon the earth are preparing themselves for the fulfillment of the word of the Lord through the mouths of prophets, patriarchs and apostles for the last six thousand years? Nobody that I have any knowledge of, [except] the Latter-day Saints ...
 
@@ -127,7 +127,7 @@ I cannot find these anymore, may need to dig up a PDF
 
     > • According to Doctrine and Covenants 77:7, what did the seven seals represent? (Seven thousand-year periods of the earth’s temporal existence, which extends from the Fall of Adam to the end of the Millennium.)
 
-1. [The Doctrine and Covenants Seminary Manual](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-resource-manual/ohio-and-missouri-period/doctrine-and-covenants-77?lang=eng):
+1. [The Doctrine and Covenants Seminary Manual](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-seminary-teacher-resource-manual/ohio-and-missouri-period/doctrine-and-covenants-77?lang=eng):
 
     > •The earth will have a temporal existence of 7,000 years (see D&C 77:6–7).
 
@@ -146,11 +146,11 @@ The general 6000 year timeline has been taught frequently and consistently by th
 
 1. Searching the LDS [General Conference Corpus](http://www.lds-general-conference.org/) for "six thousand years" and "seven thousand years" yields nearly 100 references in General Conference to this teaching.
 
-1. [A 1983 Ensign article](https://www.lds.org/ensign/1983/10/book-of-revelation-overview?lang=eng):
+1. [A 1983 Ensign article](https://www.churchofjesuschrist.org/ensign/1983/10/book-of-revelation-overview?lang=eng):
 
     > When the first seal is opened in the beginning verses of Revelation 6, there is shown to John an important occurrence from the first thousand years after the Fall. The Bible dictionary of the LDS edition of the King James Bible places the Fall near 4000 B.C. (See Bible Dictionary, p. 635.) When the second seal is opened in the subsequent verses, John is shown something about the second thousand years. And so on through the first four seals. The fifth seal information presented to John represents both a time period and some events of which John knew a great deal.
 
-1. Bruce R. McConkie in [General Conference 1974](https://www.lds.org/general-conference/1974/04/god-foreordains-his-prophets-and-his-people?lang=eng):
+1. Bruce R. McConkie in [General Conference 1974](https://www.churchofjesuschrist.org/general-conference/1974/04/god-foreordains-his-prophets-and-his-people?lang=eng):
 
     >  For 4,000 years all the prophets testified of his coming and proclaimed his goodness and grace.
 

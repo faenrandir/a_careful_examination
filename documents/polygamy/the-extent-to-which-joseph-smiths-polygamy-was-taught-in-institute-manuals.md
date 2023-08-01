@@ -32,7 +32,7 @@ surrounding text referred in any way to Joseph Smith's polygamy.
 
 ### Doctrine & Covenants Manual
 
-> **[D&C 132:51–56. What Was Emma Commanded Not to Partake of?](https://www.lds.org/manual/doctrine-and-covenants-student-manual/section-132-marriage-an-eternal-covenant?lang=eng)**
+> **[D&C 132:51–56. What Was Emma Commanded Not to Partake of?](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-132-marriage-an-eternal-covenant?lang=eng)**
 
 > No indication is given here or elsewhere of what the Lord had commanded the
 > Prophet Joseph to offer to his wife, but the context seems to suggest that
@@ -65,7 +65,7 @@ _D&C Institute Manual, 2002 (pg. 334)_
 
 ### Church History in the Fulness of Times
 
-> **[REVELATIONS ON MARRIAGE](https://www.lds.org/manual/church-history-in-the-fulness-of-times-student-manual/chapter-twenty?lang=eng)**
+> **[REVELATIONS ON MARRIAGE](https://www.churchofjesuschrist.org/manual/church-history-in-the-fulness-of-times-student-manual/chapter-twenty?lang=eng)**
 
 > The endowment of the holy priesthood is closely associated with the
 > principle of eternal marriage. From the beginning of the Restoration,

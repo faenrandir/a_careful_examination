@@ -15,9 +15,9 @@ Here are the surveys the Church was performing previous to and those it has cond
 
 1. 1963 "We are in the midst of a survey looking toward the possibility of admitting Negroes" [here](http://www.blacklds.org/wp-content/uploads/nyt.pdf)
 1. 1988 Temple Survey (Research and Evaluation Division) [here]( https://drive.google.com/file/d/0B3IkLXv-jPlVTHJBeEFRNXN3RWc/view) or [here](http://www.scribd.com/doc/76542947/1988-Temple-Survey)
-1. 1991 Single Adults survey [here](https://www.lds.org/ensign/1991/09/news-of-the-church/responses-of-single-adults-sought?lang=eng)
-1. 1999 Survey on less-actives ([referenced in GC here](https://www.lds.org/general-conference/1999/10/feed-my-sheep?lang=eng))
-1. 2005--2013 Member Trends survey, see footnote #4 [here](https://www.lds.org/prophets-and-apostles/unto-all-the-world/renaissance-of-marriage?lang=eng#4)
+1. 1991 Single Adults survey [here](https://www.churchofjesuschrist.org/ensign/1991/09/news-of-the-church/responses-of-single-adults-sought?lang=eng)
+1. 1999 Survey on less-actives ([referenced in GC here](https://www.churchofjesuschrist.org/general-conference/1999/10/feed-my-sheep?lang=eng))
+1. 2005--2013 Member Trends survey, see footnote #4 [here](https://www.churchofjesuschrist.org/prophets-and-apostles/unto-all-the-world/renaissance-of-marriage?lang=eng#4)
 1. Confidential LDS Church Survey, mostly regarding the LDS essays, March 14, 2014 [here](http://archive.sltrib.com/article.php?id=2117286&itype=CMSIDhttps://docs.google.com/file/d/0B0cHQPe2_G8fUnU1d2tWTFRURGs/edit?pli=1)
 1. Survey on women, ordination, apostasy, and PR, 2014 [here](http://archive.sltrib.com/story.php?ref=/sltrib/news/58293555-78/church-women-lds-members.html.csp)
 1. Survey on temple garments, officially linking to lds.org, and performed by Qualtrics. [here](http://www.ibtimes.com/mormon-women-speak-out-new-lds-survey-temple-garments-1800906), [here](http://thisweekinmormons.com/2015/01/new-lds-church-survey-temple-garments/), and [here](http://archive.sltrib.com/article.php?id=2117286&itype=CMSID)

@@ -6,7 +6,7 @@ maintopic: book-of-mormon
 layout: page
 ---
 
-[Moroni 10:32–33](https://www.lds.org/scriptures/bofm/moro/10.32-33?lang=eng):
+[Moroni 10:32–33](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.32-33?lang=eng):
 
 > 32 Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ. And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
 

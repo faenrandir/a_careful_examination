@@ -5,7 +5,7 @@ doctype: short-analysis
 layout: page
 ---
 
-The Church [teaches its members](https://www.lds.org/manual/gospel-principles/chapter-19-repentance?lang=eng) "If we have sinned against another person, we should confess to the person we have injured."
+The Church [teaches its members](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-19-repentance?lang=eng) "If we have sinned against another person, we should confess to the person we have injured."
 
 [Steven Covey wrote](http://wealthygorilla.com/44-wise-stephen-covey-quotes-memorize/): "A person must possess himself and have a deep sense of security in fundamental principles and values in order to genuinely apologize."
 

@@ -52,6 +52,6 @@ In any event, because several of Joseph Smith's other compositions (e.g., letter
 * [Last Testimony of Sister Emma]({{ "/last-testimony-of-sister-emma/" | relative_url }})
 * [Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon]({{ "/reasons-to-discount-emmas-bom-testimony/" | relative_url }})
 
-[^examples]: The youth video [Compelling Witness](https://www.lds.org/youth/video/compelling-witness?lang=eng) (at about 4:50) presents a courtroom scenario where Emma Smith is called as witness and she quotes from her last testimony.
+[^examples]: The youth video [Compelling Witness](https://www.churchofjesuschrist.org/youth/video/compelling-witness?lang=eng) (at about 4:50) presents a courtroom scenario where Emma Smith is called as witness and she quotes from her last testimony.
 
 [^contemporary_evidence]: [Contemporary evidence]({{ "/contemporary-evidence-that-joseph-smith-practiced-polygamy/" | relative_url }}) supports that Joseph Smith practiced polygamy.

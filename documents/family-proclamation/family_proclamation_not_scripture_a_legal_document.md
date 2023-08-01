@@ -39,7 +39,7 @@ Two prophets, under oath, have stated that nothing becomes "binding" or "accepte
 
 ## When called "revelation" by an Apostle the statement was redacted
 
-Only one of the 15 (Packer) has ever labeled the Proclamation "a revelation", and this was redacted from the official version of his talk. (Oct 2010 GC, Boyd K. Packer, [Cleansing the Inner Vessel](https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng))
+Only one of the 15 (Packer) has ever labeled the Proclamation "a revelation", and this was redacted from the official version of his talk. (Oct 2010 GC, Boyd K. Packer, [Cleansing the Inner Vessel](https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng))
 
 The original (about the 1 minute mark):
 
@@ -51,7 +51,7 @@ The written, official version:
 
 A President of the Seventy *has* referred to it as "modern-day revelation"
 
-> Again the proclamation on the family, modern-day revelation:....As we ponder these inspired words of modern revelation....I leave you my witness that the proclamation on the family, which I referred to earlier, is modern-day revelation provided to us by the Lord through His latter-day prophets. ([source](https://www.lds.org/general-conference/1998/04/children-and-the-family?lang=eng))
+> Again the proclamation on the family, modern-day revelation:....As we ponder these inspired words of modern revelation....I leave you my witness that the proclamation on the family, which I referred to earlier, is modern-day revelation provided to us by the Lord through His latter-day prophets. ([source](https://www.churchofjesuschrist.org/general-conference/1998/04/children-and-the-family?lang=eng))
 
 However, "a single statement made by a single leader...is not meant to be officially binding for the whole Church." ([Approaching Mormon Doctrine](http://www.mormonnewsroom.org/article/approaching-mormon-doctrine)).  Arguably, the redaction from Elder Packer's talk is a much better indication of the Proclamation's revelatory status than a statement by a President of the Seventy.
 
@@ -59,7 +59,7 @@ However, "a single statement made by a single leader...is not meant to be offici
 
 The Proclamation has been suggested to have "[come] from God", but it has never been called scripture or revelation in correlated material (of which I am aware).
 
-For instance, the [October 2014 sharing time](https://www.lds.org/manual/2014-outline-for-sharing-time-families-are-forever/october-the-family-a-proclamation-to-the-world-came-from-god-to-help-my-family?lang=eng) is entitled "'The Family: A Proclamation to the World' Came from God to Help My Family".  The Proclamation is shown together with Moses holding the ten commandments and a bible.  However, the Proclamation is never referred to as "scripture" or "revelation" in the lesson itself.
+For instance, the [October 2014 sharing time](https://www.churchofjesuschrist.org/manual/2014-outline-for-sharing-time-families-are-forever/october-the-family-a-proclamation-to-the-world-came-from-god-to-help-my-family?lang=eng) is entitled "'The Family: A Proclamation to the World' Came from God to Help My Family".  The Proclamation is shown together with Moses holding the ten commandments and a bible.  However, the Proclamation is never referred to as "scripture" or "revelation" in the lesson itself.
 
 ## Written for World Conferences on the Family
 

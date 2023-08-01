@@ -7,7 +7,7 @@ layout: page
 
 I find spiritual insight and inspiration in the following (even though I also tend to disagree with aspects of each):
 
-* [The Bible and LDS scripture](https://www.lds.org/scriptures?lang=eng)
+* [The Bible and LDS scripture](https://www.churchofjesuschrist.org/scriptures?lang=eng)
 * Teachings of many LDS leaders (e.g., General Conference and BYU speeches)
 * The works of C.S. Lewis
 * Works by Stephen Covey and similar self-help and management books

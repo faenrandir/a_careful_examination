@@ -59,7 +59,7 @@ Maybe the symmetrical counter-question for believers (no more loaded that their 
 
 [posted on /r/mormon](https://www.reddit.com/r/mormon/comments/ay6zpr/reflections_on_the_question_what_would_it_take/)
 
-[^faith_in_god]: The first principle of the Gospel is [Faith in the Lord Jesus Christ](https://www.lds.org/study/ensign/2000/10/the-first-principles-and-ordinances-of-the-gospel?lang=eng), which is roughly synonymous with exercising positive belief in God.
+[^faith_in_god]: The first principle of the Gospel is [Faith in the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/ensign/2000/10/the-first-principles-and-ordinances-of-the-gospel?lang=eng), which is roughly synonymous with exercising positive belief in God.
 
 [^adulterous_heart]: If homosexuals [can't pray away their orientation]({{ "/lds-statements-on-cause-and-cure-for-homosexuality/" | relative_url }}), then perhaps some people really do not believe *because* of how they see the evidence and *not because* they want to cheat on and lie to their wife?
 

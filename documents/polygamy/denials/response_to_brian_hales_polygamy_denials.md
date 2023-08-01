@@ -103,7 +103,7 @@ Thirdly, was the threat to life because of Joseph's practice of polygamy, or was
 
 Finally, Joseph misled others about polygamy in less dramatic situations where threat to life was clearly not imminent (for example, having the Partridge sisters sealed to him a second time [in order to avoid divulging the first sealings to Emma](https://imgur.com/a/oscY6)).
 
-Ultimately, it is fair to view this last argument in light of the principles of honesty taught to new members of the Church [in the Gospel Principles manual](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng):
+Ultimately, it is fair to view this last argument in light of the principles of honesty taught to new members of the Church [in the Gospel Principles manual](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-31-honesty?lang=eng):
 
 > People use many excuses for being dishonest. People lie to protect themselves and to have others think well of them.... 
 

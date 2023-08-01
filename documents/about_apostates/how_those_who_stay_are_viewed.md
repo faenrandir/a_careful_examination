@@ -26,7 +26,7 @@ Church leaders have spoken openly and strongly about those who stay in the Churc
 
 > Some choose to reject the scriptures out of hand and forsake their covenants. But they cannot choose to avoid the consequences. That choice is not theirs or ours or anybody’s.
 
-Boyd K. Packer. General Conference, October 1990. [Covenants](https://www.lds.org/general-conference/1990/10/covenants?lang=eng)
+Boyd K. Packer. General Conference, October 1990. [Covenants](https://www.churchofjesuschrist.org/general-conference/1990/10/covenants?lang=eng)
 
 ### are the worst enemies of the Church and poison minds
 

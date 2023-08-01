@@ -43,7 +43,7 @@ And with the words of Jesus in [Matthew 7:6](http://biblehub.com/matthew/7-6.htm
 
 > Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
-In the LDS canon, [Moses 1:42](https://www.lds.org/scriptures/pgp/moses/1.42) states:
+In the LDS canon, [Moses 1:42](https://www.churchofjesuschrist.org/scriptures/pgp/moses/1.42) states:
 
 > (These words were spoken unto Moses in the mount, the name of which shall not be known among the children of men. And now they are spoken unto you. **Show them not unto any except them that believe.** Even so. Amen.) [emphasis added]
 
@@ -56,7 +56,7 @@ Against this backdrop, we may seek to justify Holland's words (particularly #2a)
 1. Holland was justified in lying to and misleading Sweeney because it's not the right of "the world" to know about sacred temple oaths in the first place.
 2. Holland succumbed to a knee-jerk reaction to protect the sacredness of the temple.  He didn't mean to deliberately lie (#2a was a mistake) and he corrected the misunderstanding with #6.  In general, he was tip-toeing around the issue because of the temple's sacredness and he momentarily stumbled due to the difficulty of managing truth and sacredness in an unscripted situation.
 
-Regardless of whether a person chooses to accept either of the above justifications for this case, either seem to fall short of the high standard of honesty espoused [in the Gospel Principles manual itself](https://www.lds.org/manual/gospel-principles/chapter-31-honesty?lang=eng#p11):
+Regardless of whether a person chooses to accept either of the above justifications for this case, either seem to fall short of the high standard of honesty espoused [in the Gospel Principles manual itself](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-31-honesty?lang=eng#p11):
 
 > Lying is intentionally deceiving others. Bearing false witness is one form of lying. ... here are many other forms of lying. When we speak untruths, we are guilty of lying. We can also intentionally deceive others by a gesture or a look, by silence, or by telling only part of the truth. Whenever we lead people in any way to believe something that is not true, we are not being honest. ...
 

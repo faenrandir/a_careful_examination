@@ -19,7 +19,7 @@ Many [theological anachronisms exist in the Book of Mormon]({{ "/bom-parallels-t
 
 ### The verses in question
 
-Moroni, son of Mormon, finishes the record of his father Mormon by quoting a message of Jesus Christ to "his disciples who should tarry."  Mormon says, in [Mormon 9:22–24](https://www.lds.org/scriptures/bofm/morm/9.22-24?lang=eng):
+Moroni, son of Mormon, finishes the record of his father Mormon by quoting a message of Jesus Christ to "his disciples who should tarry."  Mormon says, in [Mormon 9:22–24](https://www.churchofjesuschrist.org/scriptures/bofm/morm/9.22-24?lang=eng):
 
 > 22 For behold, thus said Jesus Christ, the Son of God, unto his disciples who should tarry, yea, and also to all his disciples, in the hearing of the multitude: **Go ye into all the world, and preach the gospel to every creature**;
 
@@ -27,7 +27,7 @@ Moroni, son of Mormon, finishes the record of his father Mormon by quoting a mes
 
 > 24 **And these signs shall follow them that believe—in my name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing it shall not hurt them; they shall lay hands on the sick and they shall recover;**
 
-The book of Mark [ends with these verses](https://www.lds.org/scriptures/nt/mark/16.15-18)
+The book of Mark [ends with these verses](https://www.churchofjesuschrist.org/scriptures/nt/mark/16.15-18)
 
 > 15 And he said unto them, **Go ye into all the world, and preach the gospel to every creature.**
 

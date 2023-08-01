@@ -9,7 +9,7 @@ A simplistic reading of the Book of Moses and the Book of Abraham together lends
 
 It appears from [various communication](http://thoughtsonthingsandstuff.com/joseph-smith-vs-the-abolitionsts/) that Joseph Smith himself interpreted these verses in the straightforward manner, too.  For instance, please consider in full his [open letter to Oliver Cowdery in the Messenger and Advocate in April of 1836](https://www.josephsmithpapers.org/paper-summary/letter-to-oliver-cowdery-circa-9-april-1836/1#full-transcript) ("but I can say, that the curse is not yet taken off the sons of Canaan").
 
-[Moses 5:36-41](https://www.lds.org/scriptures/pgp/moses/5.36-41?lang=eng) (emphasis added):
+[Moses 5:36-41](https://www.churchofjesuschrist.org/scriptures/pgp/moses/5.36-41?lang=eng) (emphasis added):
 
 > 36 And now **thou shalt be cursed from the earth** which hath opened her mouth to receive thy brother’s blood from thy hand.
 
@@ -23,11 +23,11 @@ It appears from [various communication](http://thoughtsonthingsandstuff.com/jose
 
 > 41 And Cain was shut out from the presence of the Lord, and with his wife and many of his brethren dwelt in the land of Nod, on the east of Eden.
 
-[Moses 7:22](https://www.lds.org/scriptures/pgp/moses/7.22) (emphasis added):
+[Moses 7:22](https://www.churchofjesuschrist.org/scriptures/pgp/moses/7.22) (emphasis added):
 
 > And Enoch also beheld the residue of the people which were the sons of Adam; and they were a mixture of all the seed of Adam save it was the seed of Cain, **for the seed of Cain were black, and had not place among them**. (emphasis added)
 
-[Book of Abraham 1:20-27](https://www.lds.org/scriptures/pgp/abr/1.20-27) (emphasis added) :
+[Book of Abraham 1:20-27](https://www.churchofjesuschrist.org/scriptures/pgp/abr/1.20-27) (emphasis added) :
 
 > 20 Behold, Potiphar’s Hill was in the land of Ur, of Chaldea. And the Lord broke down the altar of Elkenah, and of the gods of the land, and utterly destroyed them, and smote the priest that he died; and there was great mourning in Chaldea, and also in the court of Pharaoh; which Pharaoh signifies king by royal blood.
 

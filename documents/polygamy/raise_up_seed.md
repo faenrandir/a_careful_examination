@@ -16,7 +16,7 @@ From /u/pipesBcallin
 
 The Book of Mormon identifies one reason for God to command polygamy: to increase the number of children born in the gospel covenant in order to “raise up seed unto [the Lord]” (Jacob 2:30). Funny enough on the church essay about plural marriage we find foot note #6 about 5 paragraphs down where they claim 
 
-https://www.lds.org/topics/plural-marriage-and-families-in-early-utah?lang=eng#6
+https://www.churchofjesuschrist.org/topics/plural-marriage-and-families-in-early-utah?lang=eng#6
 
 >Plural marriage did result in the birth of large numbers of children within faithful Latter-day Saint homes.
 

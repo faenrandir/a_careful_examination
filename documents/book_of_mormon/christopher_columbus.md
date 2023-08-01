@@ -14,7 +14,7 @@ See:
 * [Adam Ruins Everything - Christopher Columbus Was a Murderous Moron](https://www.youtube.com/watch?v=k8PQXiJiLOY)
 
 
-The Book of Mormon study guide [says this](https://www.lds.org/manual/book-of-mormon-student-study-guide/1-nephi-13?lang=eng):
+The Book of Mormon study guide [says this](https://www.churchofjesuschrist.org/manual/book-of-mormon-student-study-guide/1-nephi-13?lang=eng):
 
 > **1 Nephi 13:12—Who Was the “Man among the Gentiles”?**
 

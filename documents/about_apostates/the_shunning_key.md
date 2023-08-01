@@ -1,5 +1,5 @@
 ---
-title: "The Shunning Key: Whom Mormons shun and why"
+title: "The Shunning Key: Whom Latter-day Saints shun and why"
 permalink: /the-shunning-key/
 maintopic: faith-transitions
 doctype: resource
@@ -9,9 +9,9 @@ layout: page
 
 ## Introduction
 
-The leaders and manuals of The Church of Jesus Christ of Latter-day Saints frequently emphasize [brotherly love](https://www.lds.org/search?lang=eng&query=%22brotherly+love%22) and [charity to all](https://www.lds.org/search?lang=eng&query=%22charity+for+all%22).  Consider this statement by Elder M. Russell Ballard:
+The leaders and manuals of The Church of Jesus Christ of Latter-day Saints frequently emphasize [brotherly love](https://www.churchofjesuschrist.org/search?lang=eng&query=%22brotherly+love%22) and [charity to all](https://www.churchofjesuschrist.org/search?lang=eng&query=%22charity+for+all%22).  Consider this statement by Elder M. Russell Ballard:
 
-> Let us reach out in friendship and love to our neighbors, **including those of other faiths**, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for **all** men, women, and children, **help them to understand and to feel accepted and appreciated**. (emphasis added) [source](https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng)
+> Let us reach out in friendship and love to our neighbors, **including those of other faiths**, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for **all** men, women, and children, **help them to understand and to feel accepted and appreciated**. (emphasis added) [source](https://www.churchofjesuschrist.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng)
 
 Taken at face value, this statement is incredibly inclusive and loving.  Yet many former members describe the loss of close friendships and association with believing members once they leave or question the Church's truth-claims.[^examplesofshunning]
 
@@ -23,17 +23,17 @@ In a [recent panel discussion](https://www.youtube.com/watch?v=ezjGfdeZG4g) an a
 
 > [BYU Professor 2] There is nothing in Mormonism that would condone the type of behavior you are talking about.
 
-So, is it possible that Mormons shun?[^shundefinition]  And how is it possible in the face of so many inclusive and loving messages such as the one given by Elder Ballard and those of the two BYU professors?
+So, is it possible that Latter-day Saints shun?[^shundefinition]  And how is it possible in the face of so many inclusive and loving messages such as the one given by Elder Ballard and those of the two BYU professors?
 
 ## The Shunning Key
 
-The key to understanding most[^othershunning] shunning in the LDS Church is to realize that Latter-day Saints would typically never shun someone who merely left the Church or became less-active---these are the kinds of individuals that Church members will often reach out to.  Official Latter-day Saint material is rich in examples of members reaching out to less actives or those who had merely wandered from the Gospel path (see [this example](https://www.lds.org/ensign/2016/02/when-a-child-leaves-the-church?lang=eng)).
+The key to understanding most[^othershunning] shunning in the LDS Church is to realize that Latter-day Saints would typically never shun someone who merely left the Church or became less-active---these are the kinds of individuals that Church members will often reach out to.  Official Latter-day Saint material is rich in examples of members reaching out to less actives or those who had merely wandered from the Gospel path (see [this example](https://www.churchofjesuschrist.org/ensign/2016/02/when-a-child-leaves-the-church?lang=eng)).
 
 However, while a lost or wayward "former member" or "less-active" is not typically shunned, there are some categories of individuals whom members *are* explicitly taught to avoid: **false prophets**, **false teachers** (used synonymously with the terms "deceivers" and "antichrists"[^synonymous]), and **faith-killers** ("apostate" is a term sometimes used-synonymously with faith-killers).  These terms sound extreme---they *must* be a rare exception, right?  Who are these false prophets, false teachers, and faith-killers?
 
 ### Flee from false teachers and false prophets
 
-M. Russell Ballard taught in General Conference that [false prophets and false teachers are those who](https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng) (with minor wording changes to make a list): 
+M. Russell Ballard taught in General Conference that [false prophets and false teachers are those who](https://www.churchofjesuschrist.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng) (with minor wording changes to make a list): 
 
 1. Declare that the Prophet Joseph Smith was a duplicitous deceiver
 2. Challenge the First Vision as an authentic experience
@@ -56,7 +56,7 @@ He goes on to warn:
 
 ### Shun faith-killers
 
-In his 1981 General Conference talk [Opposition to the Work of God](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng), Carlos E. Asay instructed members[^taughtinmanuals]:
+In his 1981 General Conference talk [Opposition to the Work of God](https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng), Carlos E. Asay instructed members[^taughtinmanuals]:
 
 > Avoid those who would teardown your faith. **Faith-killers are to be shunned**. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit. (emphasis added)
 
@@ -110,7 +110,7 @@ The seventh temple recommend question is a good example of this attitude general
 
 Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned (or their likelihood of excommunication for openly disagreeing with the Church[^excommunicationexamples]). 
 
-Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]  The tension between avoiding those who speak openly about their disbelief (and protecting others from their influence) and loving and accepting those individuals is demonstrated in the 2014 FairMormon panel discussion [Family Members Who Left](https://web.archive.org/web/20170429021558/https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left).
+Although many members shun "faith-killers" to some degree, other members either ignore or are not aware of Ballard's and Asays direction (or similar directives in Church literature).   These other members follow the *preponderance* of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.[^threefold]  The tension between avoiding those who speak openly about their disbelief (and protecting others from their influence) and loving and accepting those individuals is demonstrated in the 2014 FAIR (then known as "FairMormon") panel discussion [Family Members Who Left](https://web.archive.org/web/20170429021558/https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left).
 
 ## Moving Forward
 
@@ -120,7 +120,7 @@ The Mormon Newsroom, in speaking about dialog with those of different religions 
 
 Perhaps this counsel should be extended to _former members_, too---even those who left for intellectual reasons and speak openly about their rationale?  How do members expect to avoid misunderstanding former members (and vice versa) if they are not communicating about these issues?  Is it possible for members to discuss the issues openly, why they view them differently, and then, as needed, politely agree to disagree on some topics?  Is there still room to discuss the issues in order to find common ground?
 
-In another article [defending religious dialog](http://www.mormonnewsroom.org/article/voice-religious-conscience), the Mormon Newsroom offered perhaps the best counter to the counsel to flee or shun those who have left the Church
+In another article [defending religious dialog](https://newsroom.churchofjesuschrist.org/article/voice-religious-conscience), the Church Newsroom offered perhaps the best counter to the counsel to flee or shun those who have left the Church
 because they no longer accept the truth-claims:
 
 > It feels uncomfortable to listen to critics call our cherished beliefs into question, and yet we show strength by engaging in sincere conversations with those who oppose our views. After all, we trust that ‘truth will cut its own way’ and love will eventually win out in the contest of ideals.
@@ -137,16 +137,17 @@ Although the question was narrowly posed (applies to "less actives"), perhaps th
 
 These resources address---from a variety of viewpoints---the question of how Latter-day Saints should treat or respond to former or dis-believing members or otherwise discuss the topic of shunning in the LDS Church.
 
-* [Do Mormons “Shun” Former Members of the Church?](https://reallywanttoknow.wordpress.com/2012/07/03/do-mormons-shun-former-members-of-the-church/)
+* Saints Unscripted: Should Mormons SHUN people who leave the Church? ([youtube](https://www.youtube.com/watch?v=_9-G6fAI10M))
+* [Do Mormons “Shun” Former Members of the Church?](https://web.archive.org/web/20221130215508/https://reallywanttoknow.wordpress.com/2012/07/03/do-mormons-shun-former-members-of-the-church/)
 * [LDSLiving Commentary: To Mormons - Is shunning something we still do in 2012?](http://www.ldsliving.com/Commentary-To-Mormons-Is-shunning-something-we-still-do-in-2012-/s/68027)
-* FairMormon 2014 Panel Discussion: [Family Members Who Left](https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left)
-* Rex Pinegar's 2015 FairMormon presentation: [How to help young Latter-day Saints deal with criticisms against the Church and the doubts they cause while remaining faithful](https://www.fairmormon.org/conference/august-2015/how-to-help-young-latter-day-saints)
-* Patrick Mason's 2016 FairMormon presentation: [The Courage of Our Convictions: Embracing Mormonism in a Secular Age](https://www.fairmormon.org/conference/august-2016/courage-convictions)    
+* FAIR 2014 Panel Discussion: [Family Members Who Left](https://web.archive.org/web/20170429021558/https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left)
+* Rex Pinegar's 2015 FAIR presentation: [How to help young Latter-day Saints deal with criticisms against the Church and the doubts they cause while remaining faithful](https://web.archive.org/web/20230602152450/https://www.fairlatterdaysaints.org/conference/august-2015/how-to-help-young-latter-day-saints)
+* Patrick Mason's 2016 FAIR presentation: [The Courage of Our Convictions: Embracing Mormonism in a Secular Age](https://web.archive.org/web/20230609202216/https://www.fairlatterdaysaints.org/conference/august-2016/courage-convictions)
 
 
 [^shundefinition]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  The most extreme examples of shunning come from some religious communities (Amish, Jehovahs Witnesses) who *formally* avoid speaking with those who have left the faith.  Besides excommunication and disfellowshipment (which are far more mild than the formal shunning in these other faiths) Mormons do not *formally* shun anyone.  *General avoidance* and the avoidance of talking about truth-claim issues and/or a person's new beliefs is how I am using the word "shun" in this document.  The usage seems justified given how Asay uses the term "shun" and Ballard urges members to "flee".  Shunning need not be formally imposed to still qualify as shunning.
 
-[^tofleeistoshun]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  To "flee" from someone seems synonymous with (or perhaps even in excess of) shunning them.  Elder Ballard's talk is referenced in the New Testament Student Manual in association with [2 John 1:7-10](https://www.lds.org/scriptures/nt/2-jn/1.7-10?lang=eng#6) where John directs Church members to deal with those who do not "confess that Jesus Christ is come in the flesh" to "receive him not into your house, neither bid him God speed".  Preceding the quotation of Elder Ballard, the manual explains:
+[^tofleeistoshun]: To "shun" means, according to Merriam-Webster, "to avoid deliberately and especially habitually".  To "flee" from someone seems synonymous with (or perhaps even in excess of) shunning them.  Elder Ballard's talk is referenced in the New Testament Student Manual in association with [2 John 1:7-10](https://www.churchofjesuschrist.org/scriptures/nt/2-jn/1.7-10?lang=eng#6) where John directs Church members to deal with those who do not "confess that Jesus Christ is come in the flesh" to "receive him not into your house, neither bid him God speed".  Preceding the quotation of Elder Ballard, the manual explains:
 
     > John was not suggesting that the Saints should fail to extend common courtesy to those who taught contrary doctrines. However, since early Christian congregations gathered to worship in the homes of Church members, traditional customs of hospitality could inadvertently enable heretical teachers to infiltrate congregations.  Elder M. Russell Ballard of the Quorum of the Twelve Apostles warned modern Church members not to associate with deceivers and antichrists operating in our day...
 
@@ -158,7 +159,7 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
         Former members are often eager to discuss the reasons they left, but believing members should avoid these kinds of discussions, according to Clayton.
 
-    * **Shun by lack of association**.  Shunning may also occur inadvertently merely because a member does not feel that a former member still shares their eternal perspective.  [Thomas S. Monson encouraged members](https://www.lds.org/general-conference/2005/04/be-thou-an-example?lang=eng):
+    * **Shun by lack of association**.  Shunning may also occur inadvertently merely because a member does not feel that a former member still shares their eternal perspective.  [Thomas S. Monson encouraged members](https://www.churchofjesuschrist.org/general-conference/2005/04/be-thou-an-example?lang=eng):
 
         >  We should associate with those who, like us, are planning not for temporary convenience, shallow goals, or narrow ambition—but rather with those who value the things that matter most, even eternal objectives.
 
@@ -188,9 +189,9 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
     More accounts may be found in the document [How those who leave the LDS Church are viewed]({{ "/how-those-who-leave-are-viewed/" | relative_url }}) under the section "Examples of how people are treated who leave the Church".  Many other anecdotes can be found on the [exmormon subreddit](https://www.reddit.com/r/exmormon).
 
-[^taughtinmanuals]: The directive to shun faith-killers was repeated [in the 1995 Ensign](https://www.lds.org/ensign/1995/01/i-have-a-question?lang=eng) and is in the [2000 Book of Mormon Teacher Resource Manual]({{ "/documents/about_apostates/shun_faith_killers/2000-bom-teacher-resource-manual-shun-faith-killers.pdf" | relative_url }}) which was [the official seminary manual](https://web.archive.org/web/20130523181426/https://www.lds.org/manual/book-of-mormon-teacher-resource-manual/) until [October 2017](https://www.lds.org/bc/content/ldsorg/seminary-institute/PDFs/manuals/book-of-mormon-seminary-teacher-manual-2017_lessons%201-42.pdf)
+[^taughtinmanuals]: The directive to shun faith-killers was repeated [in the 1995 Ensign](https://www.churchofjesuschrist.org/ensign/1995/01/i-have-a-question?lang=eng) and is in the [2000 Book of Mormon Teacher Resource Manual]({{ "/documents/about_apostates/shun_faith_killers/2000-bom-teacher-resource-manual-shun-faith-killers.pdf" | relative_url }}) which was [the official seminary manual](https://web.archive.org/web/20130523181426/https://www.churchofjesuschrist.org/manual/book-of-mormon-teacher-resource-manual/) until [October 2017](https://www.churchofjesuschrist.org/bc/content/ldsorg/seminary-institute/PDFs/manuals/book-of-mormon-seminary-teacher-manual-2017_lessons%201-42.pdf)
 
-[^synonymous]: The current [New Testament Student Manual](https://www.lds.org/manual/new-testament-student-manual/1-john-2-john-3-john-and-jude/chapter-52-1-john-2-john-3-john-and-jude?lang=eng), uses the terms "antichrist" and "deceiver" somewhat synonymously with those described by Elder Ballard in his talk on false prophets and false teachers in its discussion of 2 John 1:7-10.
+[^synonymous]: The current [New Testament Student Manual](https://www.churchofjesuschrist.org/manual/new-testament-student-manual/1-john-2-john-3-john-and-jude/chapter-52-1-john-2-john-3-john-and-jude?lang=eng), uses the terms "antichrist" and "deceiver" somewhat synonymously with those described by Elder Ballard in his talk on false prophets and false teachers in its discussion of 2 John 1:7-10.
 
 [^pleasesendmaterial]: If you are aware of any material that contradicts this claim, please notify me so I can update this article.
 
@@ -198,7 +199,7 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
 [^outofexistence]: How can Elder Ballard reconcile these two contradicting statements?  Generally speaking, in-group/out-group psychology suggests that [a hated outgroup is frequently viewed as subhuman](https://books.google.com/books?id=WROLBQAAQBAJ&pg=PT496&lpg=PT496&dq=out-group+labeling+subhuman&source=bl&ots=Zb8-2Bx1fH&sig=Oyx8wzS71dHeE6lYpomqy_JVLi8&hl=en&sa=X&ved=0ahUKEwjakKSS7PLSAhUPHGMKHYFnBWQQ6AEIIDAB#v=onepage&q=out-group%20labeling%20subhuman&f=false); hence, "false prophets" and "false teachers" aren not readily viewed as *people* needing inclusion but as *enemies* to avoid (or fight).
 
-    LDS doctrine provides some justification for (or at least resonance with) de-humanizing those who speak out against the Church.  Joseph Smith taught that those who leave the Church "left the neutral ground... [and] can [never] get back on to it" ([source](https://www.lds.org/search?lang=eng&query=%22you+left+the+neutral+ground%22)) and will inevitably [become servants of Satan](https://www.lds.org/search?lang=eng&query=%22follow+his+dictation+and+be+his+servant%22).  And, while exactly who becomes a son of perdition and goes to outer darkness [is not well defined](https://exploringmormonism.com/who-goes-to-outer-darkness-a-handy-guide/), Brigham Young taught that sons of perdition are [effectively annihilated](http://en.fairmormon.org/Plan_of_salvation/Sons_of_Perdition/Eventual_fate).  Note that Elder Asay uses the phrase "put them out of existence" several times [in his talk](https://www.lds.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng) as if to allude to the eventual fate of apostates.
+    LDS doctrine provides some justification for (or at least resonance with) de-humanizing those who speak out against the Church.  Joseph Smith taught that those who leave the Church "left the neutral ground... [and] can [never] get back on to it" ([source](https://www.churchofjesuschrist.org/search?lang=eng&query=%22you+left+the+neutral+ground%22)) and will inevitably [become servants of Satan](https://www.churchofjesuschrist.org/search?lang=eng&query=%22follow+his+dictation+and+be+his+servant%22).  And, while exactly who becomes a son of perdition and goes to outer darkness [is not well defined](https://exploringmormonism.com/who-goes-to-outer-darkness-a-handy-guide/), Brigham Young taught that sons of perdition are [effectively annihilated](http://en.fairmormon.org/Plan_of_salvation/Sons_of_Perdition/Eventual_fate).  Note that Elder Asay uses the phrase "put them out of existence" several times [in his talk](https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng) as if to allude to the eventual fate of apostates.
 
 [^excommunicationexamples]: Compare [Bruce Holt's excommunication](http://www.mormonthink.com/personalstories/bruce-holt.htm) with [Jeremy Runnells' excommunication](https://cesletter.org/resign/).
 
@@ -206,6 +207,6 @@ These resources address---from a variety of viewpoints---the question of how Lat
 
 [^templerecommend]: For instance, the seventh temple recommend question [asks members](http://lds4u.com/lesson5/templequestions.htm): "Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?" which strongly implies that such affiliation is to be avoided.
 
-[^davidandjacob]: In his October 2016 General Conference address entitled "[Learn from Alma and Amulek](https://www.lds.org/general-conference/2016/10/learn-from-alma-and-amulek?cid=HP_TH_16-3-2017_dPFD_fGC_xLIDyL2-2_&lang=eng)", Elder Uchtdorf tells the story of "David", a man who "came across some information about the Church that confused him." He became "unsettled" by the "negative material" and eventually resigned from the Church.  David spent time online debating with members of the Church, and one member, "Jacob", "was always kind and respectful to David, but ... also firm in his defense of the Church."  Eventually, despite finding it difficult to overcome his "pride", David was rebaptized into the Church.
+[^davidandjacob]: In his October 2016 General Conference address entitled "[Learn from Alma and Amulek](https://www.churchofjesuschrist.org/general-conference/2016/10/learn-from-alma-and-amulek?cid=HP_TH_16-3-2017_dPFD_fGC_xLIDyL2-2_&lang=eng)", Elder Uchtdorf tells the story of "David", a man who "came across some information about the Church that confused him." He became "unsettled" by the "negative material" and eventually resigned from the Church.  David spent time online debating with members of the Church, and one member, "Jacob", "was always kind and respectful to David, but ... also firm in his defense of the Church."  Eventually, despite finding it difficult to overcome his "pride", David was rebaptized into the Church.
 
 

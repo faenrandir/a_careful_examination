@@ -8,19 +8,19 @@ layout: page
 
 ## Canonized
 
-[Doctrine and Covenants 28:8--9](https://www.lds.org/scriptures/dc-testament/dc/28.8-9?lang=eng)
+[Doctrine and Covenants 28:8--9](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/28.8-9?lang=eng)
 
 > 8 And now, behold, I say unto you that you shall go unto the Lamanites and preach my gospel unto them; and inasmuch as they receive thy teachings thou shalt cause my church to be established among them; and thou shalt have revelations, but write them not by way of commandment.
 
 > 9 And now, behold, I say unto you that it is not revealed, and no man knoweth where the city Zion shall be built, but it shall be given hereafter. Behold, I say unto you that it shall be on the borders by the Lamanites.
 
-[Joseph Smith History 1:34](https://www.lds.org/scriptures/pgp/js-h/1.34?lang=eng)
+[Joseph Smith History 1:34](https://www.churchofjesuschrist.org/scriptures/pgp/js-h/1.34?lang=eng)
 
 > He [the angel] said there was a book deposited, written upon gold plates, giving an account of the former inhabitants of this continent, and the source from whence they sprang.
 
 ## Others
 
-[The Wentworth Letter](https://www.lds.org/ensign/2002/07/the-wentworth-letter?lang=eng&_r=1), by Joseph Smith Jr.
+[The Wentworth Letter](https://www.churchofjesuschrist.org/ensign/2002/07/the-wentworth-letter?lang=eng&_r=1), by Joseph Smith Jr.
 
 > ... I was also informed concerning the aboriginal inhabitants of this country [America] and shown who they were, and from whence they came; a brief sketch of their origin, progress, civilization, laws, governments, of their righteousness and iniquity, and the blessings of God being finally withdrawn from them as a people, was [also] made known unto me; I was also told where were deposited some plates on which were engraven an abridgment of the records of the ancient prophets that had existed on this continent. ...
 

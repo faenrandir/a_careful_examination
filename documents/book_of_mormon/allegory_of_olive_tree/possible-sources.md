@@ -39,7 +39,7 @@ In terms of direct quotation, Jacob 5 tends to most closely quote the New Testam
 
 Consider [these verses](https://www.bookofmormonorigins.com/content/jacob/chapter_05.html):
 
-1. [Matthew 19:30](https://www.biblegateway.com/passage/?search=Matthew+19%3A30&version=KJV) "...first shall be last; and the last shall be first". Compare [Jacob 5:63](https://www.lds.org/languages/eng/content/scriptures/bofm/jacob/5.63)
+1. [Matthew 19:30](https://www.biblegateway.com/passage/?search=Matthew+19%3A30&version=KJV) "...first shall be last; and the last shall be first". Compare [Jacob 5:63](https://www.churchofjesuschrist.org/languages/eng/content/scriptures/bofm/jacob/5.63)
 1. [Matthew 3:10](https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=KJV) "Therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire." Compare to Jacob 5:42, 46, 49, and 6:7.
 1. [Luke 13:7](https://www.biblegateway.com/passage/?search=Luke+13%3A7&version=KJV) "Why cumbereth it the ground?" Compare Jacob 5:49, 66
 1. [Luke 13:8](https://www.biblegateway.com/passage/?search=Luke+13%3A8&version=KJV) "I shall dig about it, and dung it." Compare to Jacob 5:47, 64, 76.

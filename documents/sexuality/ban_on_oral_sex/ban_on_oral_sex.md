@@ -23,7 +23,7 @@ Members raise their hand in the temple [and covenant](http://www.ldsendowment.or
 
 > Instruct them to give unto Adam and his posterity ... a charge to avoid all lightmindedness, loud laughter, evil speaking of the Lord's anointed, the taking of the name of God in vain, and every other **unholy** and **impure** practice; and cause these to be received by covenant.
 
-In addition, [Church Handbook 2 section 21.4.5](https://www.lds.org/handbook/handbook-2-administering-the-church/selected-church-policies?lang=eng#214), using exactly the same three adjectives as the January 1982 letter, states that anything "unholy, unnatural, or impure" is sinful and that a person may be subject to formal Church discipline for such a practice:
+In addition, [Church Handbook 2 section 21.4.5](https://www.churchofjesuschrist.org/handbook/handbook-2-administering-the-church/selected-church-policies?lang=eng#214), using exactly the same three adjectives as the January 1982 letter, states that anything "unholy, unnatural, or impure" is sinful and that a person may be subject to formal Church discipline for such a practice:
 
 > ...Adultery, fornication, homosexual or lesbian relations, and every other **unholy**, **unnatural**, or **impure** practice are sinful.  Members who violate the Lord’s law of chastity or who influence others to do so are subject to Church discipline.
 

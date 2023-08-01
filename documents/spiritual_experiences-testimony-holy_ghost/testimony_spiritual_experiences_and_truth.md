@@ -14,19 +14,19 @@ layout: page
 The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost is
 central to understanding truth.  Consider these verses of scripture:
 
-* And by the power of the Holy Ghost ye may know the truth of all things. ([Moroni 10:5](https://www.lds.org/scriptures/bofm/moro/10.5))
-* But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. ([John 14:26](https://www.lds.org/scriptures/nt/john/14.26))
-* [The Holy Ghost] will show unto you all things what ye should do. ([2Ne 32:5](https://www.lds.org/scriptures/bofm/2-ne/32.5))
+* And by the power of the Holy Ghost ye may know the truth of all things. ([Moroni 10:5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.5))
+* But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. ([John 14:26](https://www.churchofjesuschrist.org/scriptures/nt/john/14.26))
+* [The Holy Ghost] will show unto you all things what ye should do. ([2Ne 32:5](https://www.churchofjesuschrist.org/scriptures/bofm/2-ne/32.5))
 
-Members are taught to "trust [not] in the arm of flesh" (D&C 1:19) but to "trust in the Lord with all [their] heart; and lean not unto [their] own understanding." (Proverbs 3:5).[^neglecting_by_study]  Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is a "personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true." ([Oaks, April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng#watch=video))  Members are sometimes given the impression that these spiritual experiences may be trusted absolutely:
+Members are taught to "trust [not] in the arm of flesh" (D&C 1:19) but to "trust in the Lord with all [their] heart; and lean not unto [their] own understanding." (Proverbs 3:5).[^neglecting_by_study]  Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is a "personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true." ([Oaks, April 2008 Conference](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng#watch=video))  Members are sometimes given the impression that these spiritual experiences may be trusted absolutely:
 
-> When we know spiritual truths by spiritual means, we can be just as sure of that knowledge as scholars and scientists are of the different kinds of knowledge they have acquired by different methods. ([Oaks, April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng#watch=video))
+> When we know spiritual truths by spiritual means, we can be just as sure of that knowledge as scholars and scientists are of the different kinds of knowledge they have acquired by different methods. ([Oaks, April 2008 Conference](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng#watch=video))
 
 ## The Church is cautious with spiritual impressions
 
 Those who have been in the Church for some time, however, will find evidence supporting the notion that the body and leadership of the Church is cautious in how it deals with interpreting the thoughts and feelings associated with the Holy Ghost.  While virtually any positive emotion or thought may be taken as confirmation of the core truths of the Gospel, when dealing with difficult decisions or areas where there are conflicting doctrines, scriptures, or ideals, experienced Latter-day Saints tend to be cautious.
 
-For instance, it is well-known that decisions of the First Presidency and Quorum of the Twelve are only made in unanimity (see [D&C 107:27,29](https://www.lds.org/scriptures/dc-testament/dc/107.27%2C29)).  Were the feelings of the Spirit trusted absolutely, then we might expect to see decisions made based on the spiritual confirmation given even one member of the quorum.[^hypothetical_conversation]
+For instance, it is well-known that decisions of the First Presidency and Quorum of the Twelve are only made in unanimity (see [D&C 107:27,29](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/107.27%2C29)).  Were the feelings of the Spirit trusted absolutely, then we might expect to see decisions made based on the spiritual confirmation given even one member of the quorum.[^hypothetical_conversation]
 
 Members are taught to be distrustful of spiritual confirmations that fall outside of their Church stewardship.[^stewardship]  Not only does this include callings, but it also includes confirmations received about life decisions such as marriage---most members know the story of the returned missionary who receives a witness of who he is supposed to marry, and these are regarded with due skepticism.
 
@@ -36,7 +36,7 @@ Nowhere is the caution related to interpreting spiritual feelings more evident t
 
 Perhaps the clearest teaching on why we should be cautious interpreting spiritual promptings (also included in Preach My Gospel) is from Dallin H. Oaks, who  warns:
 
-> We should study things out in our minds, using the reasoning powers our Creator has placed within us. Then we should pray for guidance and act upon it if we receive it. If we do not receive guidance, we should act upon our best judgment. Persons who persist in seeking revelatory guidance on subjects on which the Lord has not chosen to direct us **may concoct an answer out of their own fantasy or bias, or they may even receive an answer through the medium of false revelation**. [emphasis added] ([source](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng))
+> We should study things out in our minds, using the reasoning powers our Creator has placed within us. Then we should pray for guidance and act upon it if we receive it. If we do not receive guidance, we should act upon our best judgment. Persons who persist in seeking revelatory guidance on subjects on which the Lord has not chosen to direct us **may concoct an answer out of their own fantasy or bias, or they may even receive an answer through the medium of false revelation**. [emphasis added] ([source](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit?lang=eng))
 
 Why are skepticism, external tests, and controls needed when using spiritual feelings to determine truth?  What might cause Oaks to conclude that a persistent supplicant may receive what they thought was a spiritual impression, only for it to have been self-concocted or just turn out to be a false revelation?
 
@@ -113,7 +113,7 @@ Although many members avoid thinking in such terms, the idea that spiritual expe
 
 The iconic spiritual experience for a Latter-day Saint is one that involves both the heart and the mind, as described in a revelation to Joseph Smith:
 
-> Yea, behold, I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart. ([D&C 8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2))
+> Yea, behold, I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart. ([D&C 8:2](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/8.2))
 
 ## The emotion of elevation
 
@@ -129,7 +129,7 @@ The *feeling* most LDS members refer to as the feeling of the Spirit in the hear
 
 For those practiced in feeling the Spirit, the above description seems like a perfect fit.  Certain details even have explanatory power.  For instance, D&C 8:2 talks of an initial experience of mind and heart, but that the Holy Ghost will then "dwell in your heart".  Such a description matches up with a feeling that is hormonally mediated and lingers beyond the initial trigger event.
 
-Furthermore, the idea that witnessing moral beauty generates this emotion provides an interesting connection between the Moroni 10:3 and the rest of Moroni's promise.  [Moroni 10:3](https://www.lds.org/scriptures/bofm/moro/10.3) states:
+Furthermore, the idea that witnessing moral beauty generates this emotion provides an interesting connection between the Moroni 10:3 and the rest of Moroni's promise.  [Moroni 10:3](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.3) states:
 
 > Behold, I would exhort you that when ye shall read these things ... that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down until the time that ye shall receive these things, and ponder it in your hearts.
 
@@ -144,7 +144,7 @@ kind of feeling for a given product.[^heartsell]
 
 ## Inner speech, inner experience, and/or self-realization
 
-A spiritual experience, in LDS thought, is also accompanied by the flow of "pure intelligence" [as taught by Joseph Smith](https://www.lds.org/manual/teachings-joseph-smith/chapter-10).  The exact mapping onto psychology and brain physiology is unclear, but it likely involves some combination of these:
+A spiritual experience, in LDS thought, is also accompanied by the flow of "pure intelligence" [as taught by Joseph Smith](https://www.churchofjesuschrist.org/manual/teachings-joseph-smith/chapter-10).  The exact mapping onto psychology and brain physiology is unclear, but it likely involves some combination of these:
 
 1. [Inner speech](http://www.psychologicalscience.org/index.php/news/releases/internal-speech-is-driven-by-predictive-brain-signal.html)
 2. [Inner Experience](https://faculty.unlv.edu/hurlburt/sampling.html) (semi-inarticulated thought)
@@ -177,7 +177,7 @@ It has been shown[^insufficient_justification] that when we try to convince some
 
 ## Too wide a net?
 
-Members are taught that virtually any positive feeling is the Spirit confirming the truth of the gospel (see ["How do I Recognize and Understand the Spirit"](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng) from Preach My Gospel).  The New Era teaches that the "thoughts and feelings from the Holy Ghost can come" ([source](https://www.lds.org/new-era/2014/06/what-if-i-dont-feel-a-burning-in-the-bosom?lang=eng)):
+Members are taught that virtually any positive feeling is the Spirit confirming the truth of the gospel (see ["How do I Recognize and Understand the Spirit"](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng) from Preach My Gospel).  The New Era teaches that the "thoughts and feelings from the Holy Ghost can come" ([source](https://www.churchofjesuschrist.org/new-era/2014/06/what-if-i-dont-feel-a-burning-in-the-bosom?lang=eng)):
 
 * "Immediately and intensely."
 * "Subtly and gradually."
@@ -197,11 +197,11 @@ The same kind of confirmation bias may be at play with investigators praying to 
 
 #### Doubts vs. Questions
 
-Recent Ensign articles ask members to deal with doubts about the Church in a problematic way.  For instance, members are told that questions are okay while doubts are not (where a doubt is a question that actually challenges the truth claims of the Church) ("When doubts and questions arise", [Ensign March 2015](https://www.lds.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)).  The various strategies for dealing with questions have one thing in common: they prevent a member from ever arriving at the conclusion that the Church may be wrong.  Although these are effective strategies for maintaining faith, were they applied to members of other faith traditions (e.g. to investigators of the Church who already belonged to a different faith tradition), then it would promote the maintenance of any prior faith position---regardless of its truth (see ["Fix your faith crisis with this one weird trick!"](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/#8220Fixing8221_acrisis) for more discussion).
+Recent Ensign articles ask members to deal with doubts about the Church in a problematic way.  For instance, members are told that questions are okay while doubts are not (where a doubt is a question that actually challenges the truth claims of the Church) ("When doubts and questions arise", [Ensign March 2015](https://www.churchofjesuschrist.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)).  The various strategies for dealing with questions have one thing in common: they prevent a member from ever arriving at the conclusion that the Church may be wrong.  Although these are effective strategies for maintaining faith, were they applied to members of other faith traditions (e.g. to investigators of the Church who already belonged to a different faith tradition), then it would promote the maintenance of any prior faith position---regardless of its truth (see ["Fix your faith crisis with this one weird trick!"](http://thoughtsonthingsandstuff.com/fix-your-faith-crisis-with-this-one-weird-trick/#8220Fixing8221_acrisis) for more discussion).
 
 ##  The power of propaganda
 
-Bearing testimony is an integral part of LDS services, classroom study, and missionary efforts, and a typical member will either listen to or bear testimony many hundreds or thousands of times a year.  Preach My Gospel outlines [successful approaches to bearing testimony](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-help-people-make-and-keep-commitments) that are used by members and missionaries alike.
+Bearing testimony is an integral part of LDS services, classroom study, and missionary efforts, and a typical member will either listen to or bear testimony many hundreds or thousands of times a year.  Preach My Gospel outlines [successful approaches to bearing testimony](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-help-people-make-and-keep-commitments) that are used by members and missionaries alike.
 
 At least in part, a testimony impacts the hearer because it follows many patterns of effective propaganda, including (see [wikipedia:"Propaganda techniques"](https://en.wikipedia.org/wiki/Propaganda_techniques)):
 
@@ -245,13 +245,13 @@ If one were to pray and ask God, "Are the good feelings I get when I pray about 
 
 ## Pray-feel and the Book of Mormon
 
-The Book of Mormon teaches that it is through the Holy Ghost that we can know the truth of all things ([Moroni 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng)).  Cohen explains the problem with this teaching:
+The Book of Mormon teaches that it is through the Holy Ghost that we can know the truth of all things ([Moroni 10:4-5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5?lang=eng)).  Cohen explains the problem with this teaching:
 
 > The most obvious question [in Moroni 4:5], which often doesn't get asked, is how do we know that this method of identifying truth is even valid and/or reliable in the first place? In order for this statement to be 'true', the book itself has to be demonstrated to be 'true'. And how does one establish the book to be true? - by applying the method prescribed in the book. This is a clearcut example of circular reasoning: "A is true because B is true; B is true because A is true." ([Cohen "Examining Church Claims"](http://dlcphoto.com/Temp/ExaminingChurchClaims.pdf))
 
 ## Is it good?
 
-As mentioned above, the Preach My Gospel manual presents a test for deciding whether a prompting was from genuinely from the Spirit ("Does it persuade one to do good, to rise, to stand tall, to do the right thing, to be kind, to be generous? Then it is of the Spirit of God.") ([source](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng)).
+As mentioned above, the Preach My Gospel manual presents a test for deciding whether a prompting was from genuinely from the Spirit ("Does it persuade one to do good, to rise, to stand tall, to do the right thing, to be kind, to be generous? Then it is of the Spirit of God.") ([source](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng)).
 
 There are several potential problems with this test, depending on how strictly the test is interpreted:
 
@@ -283,7 +283,7 @@ Taken together, this analysis suggests that using spiritual feelings and an inte
 
 Although this examination suggests that we should apply due skepticism to spiritual experiences, it does not rule out the possibility that God speaks to us through our mind and heart.
 
-A believing Latter-day Saint may also take heart in the knowledge that their testimony is buttressed by a belief in external events, particularly miracles (e.g., Christ's resurrection) and personal visitations (several prophets and apostles, not to mention Church members, claim to have spoken with God or Christ face to face[^heavenlyvisitors])---members do not rely on the interpretation of personal spiritual experiences alone to confirm their faith (see, for instance, [Moroni 7:25](https://www.lds.org/scriptures/bofm/moro/7.25) and this [list of LDS spiritual experiences]({{ "/types-of-lds-spiritual-experiences-uplift/" | relative_url }}).
+A believing Latter-day Saint may also take heart in the knowledge that their testimony is buttressed by a belief in external events, particularly miracles (e.g., Christ's resurrection) and personal visitations (several prophets and apostles, not to mention Church members, claim to have spoken with God or Christ face to face[^heavenlyvisitors])---members do not rely on the interpretation of personal spiritual experiences alone to confirm their faith (see, for instance, [Moroni 7:25](https://www.churchofjesuschrist.org/scriptures/bofm/moro/7.25) and this [list of LDS spiritual experiences]({{ "/types-of-lds-spiritual-experiences-uplift/" | relative_url }}).
 
 Skepticism of spiritual experiences may be helpful for many believing Latter-day Saints---healthy skepticism of spiritual experiences can help members avoid scrupulously following every intrusive thought,[^intrusive_thoughts] be open to continuing revelation and direction,[^current_revelation_may_not_be_complete] and may help them to properly contextualize the spiritual experiences of others.  In addition, these principles may offer a person wrapped up in the next "spiritual" fad good reason to question the validity of underlying assumptions and truth-claims.
 
@@ -303,21 +303,21 @@ These conclusions suggest that there are no easy answers when it comes to findin
 
 The reward for such investigation is likely worth the discomfort---the more accurately our internal maps align with reality, the greater our ability to comprehend and either adeptly control or peacefully accept the world around us.  We should be unafraid to challenge our own convictions.
 
-[^neglecting_by_study]: This is not to suggest that Latter-day Saints do not apply their intellect to most aspects of their lives: "by study and also by faith" is repeated three times in the Doctrine & Covenants ([88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118), [109:7](https://www.lds.org/scriptures/dc-testament/dc/109.7), and [109:14](https://www.lds.org/scriptures/dc-testament/dc/109.14)).  Hence, LDS tradition rarely abandons reason to faith and mostly seeks to reconcile the rational and spiritual insofar as that is possible.  Many members are highly educated and make significant contributions across the spectrum of secular studies.  However, when applied to the Church or spiritual phenomena themselves, "study" is typically used to bolster---rather than to critically examine---core truth-claims.
+[^neglecting_by_study]: This is not to suggest that Latter-day Saints do not apply their intellect to most aspects of their lives: "by study and also by faith" is repeated three times in the Doctrine & Covenants ([88:118](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/88.118), [109:7](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/109.7), and [109:14](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/109.14)).  Hence, LDS tradition rarely abandons reason to faith and mostly seeks to reconcile the rational and spiritual insofar as that is possible.  Many members are highly educated and make significant contributions across the spectrum of secular studies.  However, when applied to the Church or spiritual phenomena themselves, "study" is typically used to bolster---rather than to critically examine---core truth-claims.
 [^hypothetical_conversation]: Were spiritual promptings fully trusted one might imagine this kind of conversation: "The Spirit confirmed this to me, hence I know it is correct and we can move forward."
 [^stewardship]:  Dallin H. Oaks taught:
 
-    > ... when one person purports to receive revelation for another person outside his or her own area of responsibility---such as a Church member who claims to have revelation to guide the entire Church or a person who claims to have a revelation to guide another person over whom he or she has no presiding authority according to the order of the Church---you can be sure that such revelations are not from the Lord. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
+    > ... when one person purports to receive revelation for another person outside his or her own area of responsibility---such as a Church member who claims to have revelation to guide the entire Church or a person who claims to have a revelation to guide another person over whom he or she has no presiding authority according to the order of the Church---you can be sure that such revelations are not from the Lord. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 
 [^larsen_exchange]: A First Presidency Statement from 1913 canonized *a priori* rejection of spiritual communication not in harmony with accepted Church doctrine:
 
-    > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
+    > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doctrine Teacher's Manual [Lesson 6: "I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost"](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 
     This idea holds in practice.  Brent Larsen recorded his excommunication appeal, which entailed a conversation with a General Authority.  When Larsen insisted that he is "supposed to follow the Holy Ghost", the Seventy responded:
 
     > Nobody asked you to surrender blind obedience, okay? But without a prophet we would be---you want to have the women in here that believe they hold the priesthood, so they're gonna say it just like you. They’re gonna talk just like you...So you’re gonna tell me they're all three right because they're all gonna testify that that holy ghost that told you to do it that way is the same holy ghost that tell them to do it that way... ([source](http://www.nearingkolob.com/interesting-conversation-brent-larsen-seventy/))
 
-[^goodness_test]: The test to determine if a spiritual impression is to be trusted: "Does it persuade one to do good, to rise, to stand tall, to do the right thing, to be kind, to be generous? Then it is of the Spirit of God." ([Preach My Gospel](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng))
+[^goodness_test]: The test to determine if a spiritual impression is to be trusted: "Does it persuade one to do good, to rise, to stand tall, to do the right thing, to be kind, to be generous? Then it is of the Spirit of God." ([Preach My Gospel](https://www.churchofjesuschrist.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-recognize-and-understand-the-spirit.p140?lang=eng))
 
 [^polygamist_testimony]: This was the testimony of a young plural wife, recorded in 1996, at a sacrament meeting of the The True and Living Church of Jesus Christ and Saints of the Last Days.
 
@@ -347,9 +347,9 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
 [^find_it_by_bearing_it]: The teaching that we should speak with greater certainty than we feel in order to gain greater certainty is illustrated:
 
-    > Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it! ... Can you not see that it will be supplied as you share it? (Boyd K. Packer, [Ensign Jan 1983](https://www.lds.org/ensign/1983/01/the-candle-of-the-lord?lang=eng))
+    > Oh, if I could teach you this one principle. A testimony is to be found in the bearing of it! ... Can you not see that it will be supplied as you share it? (Boyd K. Packer, [Ensign Jan 1983](https://www.churchofjesuschrist.org/ensign/1983/01/the-candle-of-the-lord?lang=eng))
 
-    > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them. (Dallin H. Oaks, ([April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng))
+    > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them. (Dallin H. Oaks, ([April 2008 Conference](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng))
 
     This kind of approach is useful for internalizing desired attributes (e.g., [positive thinking](http://jamesclear.com/positive-thinking)) but the validity of factual "truths" obtained in such a manner remains in question.
 
@@ -359,7 +359,7 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
 [^wrong_road]: A good example of this kind of rationalization is from [Wrong Roads](https://www.youtube.com/watch?v=yNQC-_srxH8) a Mormon Message by Jeffrey R. Holland where he and his son pray and both feel that they should take a particular road.  The road turns out to be a dead-end!  Holland's son questions him about this, but Elder Holland is able to easily rationalize the answer: going the wrong way helped them to *more quickly* find the right road and have *more confidence* it was the right way out.  The problem with this kind of thinking is that it does not allow for an answer to ever be wrong, so the veracity of all answers interpreted in this light becomes suspect.
 
-[^keep_praying]: Examples of the counsel to "keep praying" until you receive a testimony abound.  See, for example, Elder Staheli's October 2004 address ["Securing Our Testimonies"](https://www.lds.org/general-conference/2004/10/securing-our-testimonies?lang=eng).
+[^keep_praying]: Examples of the counsel to "keep praying" until you receive a testimony abound.  See, for example, Elder Staheli's October 2004 address ["Securing Our Testimonies"](https://www.churchofjesuschrist.org/general-conference/2004/10/securing-our-testimonies?lang=eng).
 
 [^familiarity]: The "warm glow of familiarity" is thought to be a heuristic cue to safety.  Interestingly, the positive feelings derived from exposure to the familiar are felt more strongly when our mood is negative.([source](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2948957/)).
 
@@ -367,7 +367,7 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
 [^conditioning]: Consider a young adult raised in the FLDS community and continuously taught that polygamy ("celestial marriage") was good and holy (for example, [listen to Warren Jeffs and his Uncle teach 5th to 10th grade girls](https://www.youtube.com/watch?v=NIdh3RYi3HI)).  Imagine that they pray and feel a spiritual prompting that polygamy is wrong---using Hinckley's test to determine if this was really the Holy Ghost, they would be inclined to dismiss such a prompting because they *know* that polygamy is "good", hence the prompting must have been self-concocted or false and they should dismiss it.  Or, consider how a person would feel when praying about "magic" toys [if they were raised to believe magic toys were evil](https://www.youtube.com/watch?v=HM4hOusHrNM)?
 
-[^bearing_testimony]: For instance, one could bear testimony that the Book of Abraham is "true", but for such a testimony to be accurate it would require numerous caveats and a detailed explanation à la ["Translation and Historicity of the Book of Abraham"](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) at lds.org.
+[^bearing_testimony]: For instance, one could bear testimony that the Book of Abraham is "true", but for such a testimony to be accurate it would require numerous caveats and a detailed explanation à la ["Translation and Historicity of the Book of Abraham"](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) at lds.org.
 
 [^heavenlyvisitors]: The objective reality of visitations by heavenly messengers should be interpreted in light of current research about the influence of DMT (N,N-Dimethyltryptamine) on human subjects.  DMT is a substance which is produced endogenously and, in high enough doses, can generate the impression a person has encountered angelic entities ([source](http://zelphontheshelf.com/open-letter-to-mormons-and-apologists-about-emotional-reasoning/)).
 

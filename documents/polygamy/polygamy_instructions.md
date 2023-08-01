@@ -8,7 +8,7 @@ layout: page
 
 *Modified from [here](https://www.reddit.com/r/exmormon/comments/7xfo3i/although_the_lord_commanded_the_adoption_of/)*
 
-The lds.org essay on [polygamy in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:
+The lds.org essay on [polygamy in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:
 
 > Although the Lord commanded the adoption—and later the cessation—of plural marriage in the latter days, He did not give exact instructions on how to obey the commandment.
 

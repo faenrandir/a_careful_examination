@@ -7,7 +7,7 @@ layout: page
 
 ## Introduction
 
-The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost (aka the Spirit) is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.lds.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
+The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost (aka the Spirit) is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”
 
 ### LDS description
 
@@ -106,15 +106,15 @@ and hence spiritual, mental, and physical processes.
 [^different_perspectives]: Certain psychophysiological experiences may correlate with a spiritual experience, as described above. A naturalist may suggest that the entirety of the experience could be explained by appeal to such mechanisms.  On the other hand, many believing Latter-day Saint could argue that these experiences are initiated or driven by encounters with the Holy Ghost and largely mediated by spirit to spirit communication apart from human physiology.  Other Latter-day Saints would argue that psychophysiological phenomena either correlate with, or are part of God-given mechanisms used to convey or enhance spiritual experiences.
 
 [^understanding_truth]: The LDS Church teaches that the Holy Ghost is central to understanding truth:
-    * And by the power of the Holy Ghost ye may know the truth of all things. ([Moroni 10:5](https://www.lds.org/scriptures/bofm/moro/10.5))
-    * But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. ([John 14:26](https://www.lds.org/scriptures/nt/john/14.26))
-    * [The Holy Ghost] will show unto you all things what ye should do. ([2Ne 32:5](https://www.lds.org/scriptures/bofm/2-ne/32.5))
+    * And by the power of the Holy Ghost ye may know the truth of all things. ([Moroni 10:5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.5))
+    * But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. ([John 14:26](https://www.churchofjesuschrist.org/scriptures/nt/john/14.26))
+    * [The Holy Ghost] will show unto you all things what ye should do. ([2Ne 32:5](https://www.churchofjesuschrist.org/scriptures/bofm/2-ne/32.5))
 
     And leaders have taught:
 
-    > When we know spiritual truths by spiritual means, we can be just as sure of that knowledge as scholars and scientists are of the different kinds of knowledge they have acquired by different methods. ([Oaks, April 2008 Conference](https://www.lds.org/general-conference/2008/04/testimony?lang=eng#watch=video))
+    > When we know spiritual truths by spiritual means, we can be just as sure of that knowledge as scholars and scientists are of the different kinds of knowledge they have acquired by different methods. ([Oaks, April 2008 Conference](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng#watch=video))
 
 [^1913_first_presidency_statement]: According to the official 1913 First Presidency Statement:
 
-    > When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doc­trine Teacher’s Man­u­al [Les­son 6: “I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost”](https://www.lds.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
+    > When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear. (Gospel Doc­trine Teacher’s Man­u­al [Les­son 6: “I Will Tell You in Your Mind and in Your Heart, by the Holy Ghost”](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng))
 

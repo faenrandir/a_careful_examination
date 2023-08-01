@@ -16,7 +16,7 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
 
 ### Religious and educational environment
 
-1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.lds.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
+1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.churchofjesuschrist.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
 1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College.  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith]({{ "/similarities-between-john-smiths-writings-and-bom/" | relative_url }}) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
@@ -116,7 +116,7 @@ Journal entry of [December 12, 1835](https://www.josephsmithpapers.org/paper-sum
 
 ### Intellectual powers
 
-John Taylor [said of him](https://www.lds.org/manual/teachings-joseph-smith/chapter-47?lang=eng) (emphasis added):
+John Taylor [said of him](https://www.churchofjesuschrist.org/manual/teachings-joseph-smith/chapter-47?lang=eng) (emphasis added):
 
 > He was ignorant of letters as the world has it, but **the most profoundly learned and intelligent man that I ever met in my life**, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet **I have never met a man so intelligent as he was**.
 

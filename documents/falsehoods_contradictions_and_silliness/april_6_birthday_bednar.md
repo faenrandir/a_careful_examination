@@ -17,7 +17,7 @@ April 6th birthday references seem to depend primarily upon James Talmage's [ana
 
 > As to the season of the year in which Christ was born, there is among the learned as great a diversity of opinion as that relating to the year itself. It is claimed by many Biblical scholars that December 25th, the day celebrated in Christendom as Christmas, cannot be the correct date. **We believe April 6th to be the birthday of Jesus Christ as indicated in a revelation of the present dispensation already cited [D&C 20:1]**, in which that day is made without qualification the completion of the one thousand eight hundred and thirtieth year since the coming of the Lord in the flesh. **This acceptance is admittedly based on faith in modern revelation, and in no wise is set forth as the result of chronological research or analysis. We believe that Jesus Christ was born in Bethlehem of Judea, April 6, B.C. 1.**
 
-Harold B. Lee [explicitly references D&C 20](https://www.lds.org/ensign/1973/07/strengthen-the-stakes-of-zion?lang=eng&_r=1):
+Harold B. Lee [explicitly references D&C 20](https://www.churchofjesuschrist.org/ensign/1973/07/strengthen-the-stakes-of-zion?lang=eng&_r=1):
 
 > April 6, 1973, is a particularly significant date because it commemorates not only the anniversary of the organization of The Church of Jesus Christ of Latter-day Saints in this dispensation, but also the anniversary of the birth of the Savior, our Lord and Master, Jesus Christ. Joseph Smith wrote this, preceding a revelation given at that same date [he then quotes D&C 20:1].
 

@@ -8,7 +8,7 @@ layout: page
 
 ### Paul Reeve wrote initial Race and Priesthood draft
 
-Paul Reeve was responsible for writing the initial draft that became [the Race and the Priesthood gospel topics essay](https://www.lds.org/topics/race-and-the-priesthood?lang=eng), as discussed [in a Gospel Tangents interview](https://gospeltangents.com/category/racial-priesthood-temple-ban/): 
+Paul Reeve was responsible for writing the initial draft that became [the Race and the Priesthood gospel topics essay](https://www.churchofjesuschrist.org/topics/race-and-the-priesthood?lang=eng), as discussed [in a Gospel Tangents interview](https://gospeltangents.com/category/racial-priesthood-temple-ban/): 
 
 > GT:  Now I want to ask you another question.  I’m hoping you’ll answer.  I’ve heard rumors, and that’s all they are is rumors that you played a role in compiling that essay [Race and the Priesthood].  Do you have any response to that?
 

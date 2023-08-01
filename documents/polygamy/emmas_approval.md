@@ -8,7 +8,7 @@ layout: page
 
 #### lds.org Nauvoo Plural Marriage essay
 
-The lds.org essay [Plural Marriage in Kirtland and Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:
+The lds.org essay [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:
 
 > Emma approved, at least for a time, of four of Joseph Smith’s plural marriages in Nauvoo, and she accepted all four of those wives into her household. She may have approved of other marriages as well.[39] But Emma likely did not know about all of Joseph’s sealings.[40] She vacillated in her view of plural marriage, at some points supporting it and at other times denouncing it.
 

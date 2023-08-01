@@ -46,7 +46,7 @@ Earth should be translated "land" in the flood account.  This is explicitly supp
 
 #### A2. Promises of remnant preservation don't make sense with a Global flood.
 
-The promise made to Enoch/Noah in [Moses 7:22](https://www.lds.org/scriptures/pgp/moses/7.22?lang=eng) makes no sense if Noah and his families were sole survivors of a global flood.  [Nibley makes this point eloquently](http://maxwellinstitute.byu.edu/publications/transcripts/I00073-Before_Adam.html)
+The promise made to Enoch/Noah in [Moses 7:22](https://www.churchofjesuschrist.org/scriptures/pgp/moses/7.22?lang=eng) makes no sense if Noah and his families were sole survivors of a global flood.  [Nibley makes this point eloquently](http://maxwellinstitute.byu.edu/publications/transcripts/I00073-Before_Adam.html)
 
 #### A3. The author of the flood story [clearly had limited perspective](http://scottwoodward.org/flood_noahspointofview.html).
 
@@ -72,7 +72,7 @@ According to what is documented, Orson Pratt taught Baptism of the Earth before 
 
 #### B4. The earth has no need for baptism
 
-The earth seems always to obey ([Helaman 12:7-13](https://www.lds.org/scriptures/bofm/hel/12.7-13?lang=eng)) [credit to Ron Harris for this point]
+The earth seems always to obey ([Helaman 12:7-13](https://www.churchofjesuschrist.org/scriptures/bofm/hel/12.7-13?lang=eng)) [credit to Ron Harris for this point]
 
 Although it can be countered that Christ had no need for baptism and he submitted to baptism anyway, also consider:
 
@@ -81,4 +81,4 @@ Although it can be countered that Christ had no need for baptism and he submitte
 
 #### B5. Baptismal symbolism still applicable without global "immersion"
 
-Paul spoke of the children of Israel being "baptized" as they walked through the Red Sea,  ([1 Cor 10:2](https://www.lds.org/scriptures/nt/1-cor/10.2?lang=eng)) even though they walked through on "dry ground" ([Exodus 14:29](https://www.lds.org/scriptures/ot/ex/14.29?lang=eng)).
+Paul spoke of the children of Israel being "baptized" as they walked through the Red Sea,  ([1 Cor 10:2](https://www.churchofjesuschrist.org/scriptures/nt/1-cor/10.2?lang=eng)) even though they walked through on "dry ground" ([Exodus 14:29](https://www.churchofjesuschrist.org/scriptures/ot/ex/14.29?lang=eng)).

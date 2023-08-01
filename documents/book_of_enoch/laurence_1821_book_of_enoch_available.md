@@ -26,7 +26,7 @@ In the preliminary dissertation to his 1821 translation, on page ix, [Laurence n
 
 ## No direct evidence to date
 
-Nibley notes that the book was [not found listed in Thomas Jefferson's library](https://www.lds.org/study/ensign/1975/12/a-strange-thing-in-the-land-the-return-of-the-book-of-enoch-part-2?lang=eng) which was continued until 1826.  Regardless, finding a copy that existed or was listed to have existed before 1830 in the region Joseph lived (or even in the U.S.) would strengthen the case that Joseph had stumbled or found the book.  Even without such a discovery, it is not unreasonable to believe that copies existed in the U.S. before 1830 based on extrapolation of the circumstantial evidence.
+Nibley notes that the book was [not found listed in Thomas Jefferson's library](https://www.churchofjesuschrist.org/study/ensign/1975/12/a-strange-thing-in-the-land-the-return-of-the-book-of-enoch-part-2?lang=eng) which was continued until 1826.  Regardless, finding a copy that existed or was listed to have existed before 1830 in the region Joseph lived (or even in the U.S.) would strengthen the case that Joseph had stumbled or found the book.  Even without such a discovery, it is not unreasonable to believe that copies existed in the U.S. before 1830 based on extrapolation of the circumstantial evidence.
 
 [^commentary_in_1883]: The general points made in the 1838 commentary by Laurence were summarized by an anonymous author of the book "The Evolution of Christianity" in the introduction to the 1883 edition of Laurence's Book of Enoch.  After introducing the discovery of the Ethiopic versions by [the famous James Bruce](https://archive.org/details/brucestravelsan01brucgoog/page/n7) they wrote (emphasis added):
 

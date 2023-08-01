@@ -25,7 +25,7 @@ Leaders have _mostly_ backed away from "no death for any living organism before 
 
 But I'm unaware of any way in which a **literal** Adam and Eve, an Adam and Eve who 1) tilled the earth, 2) had domesticated animals, and 3) were the literal parents to all humans on earth today) may be reconciled with the human migration data.  See the section "Adam and Eve" in [Questions to Ask](https://faenrandir.github.io/a_careful_examination/questions-to-ask/#adam-and-eve) and consider how Heath Ogden, an evolutionary biologist and LDS Bishop, [attempts to reconcile the data](https://www.youtube.com/watch?v=cNEyyhfwYUM) and note that his reconciliation fails to account for all 3 of the points above.
 
-In addition, any reconciliation needs to acknowledge that LDS leaders taught these principles _in general conference_.  For instance, Bruce R. McConkie taught, [in October 1984](https://www.lds.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
+In addition, any reconciliation needs to acknowledge that LDS leaders taught these principles _in general conference_.  For instance, Bruce R. McConkie taught, [in October 1984](https://www.churchofjesuschrist.org/general-conference/1984/10/the-caravan-moves-on?lang=eng
 ):
 
 > I propose some simple tests that all of us may take to determine if we are true to the faith. They consist of a few basic questions, all of which must be answered correctly in order to gain the full blessings of the gospel in this life and inherit eternal life in the realms ahead.

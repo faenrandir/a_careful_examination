@@ -12,15 +12,15 @@ The scripture and history of the Church is full of many examples of people drink
 
 ## Turned water into wine
 
-Jesus's first recorded miracle was to turn water into wine ([John 2:1-11](https://www.lds.org/scriptures/nt/john/2.1-11?lang=eng)).  If drinking alcohol is categorically evil, it seems like the Savior would not have done this.
+Jesus's first recorded miracle was to turn water into wine ([John 2:1-11](https://www.churchofjesuschrist.org/scriptures/nt/john/2.1-11?lang=eng)).  If drinking alcohol is categorically evil, it seems like the Savior would not have done this.
 
 ## Used an alcoholic drink to institute the sacrament on both continents
 
-See [Mark 14:23-24](https://www.lds.org/scriptures/nt/mark/14.23-25?lang=eng) and [3Ne 18:1-14](https://www.lds.org/scriptures/bofm/3-ne/18.1-14).
+See [Mark 14:23-24](https://www.churchofjesuschrist.org/scriptures/nt/mark/14.23-25?lang=eng) and [3Ne 18:1-14](https://www.churchofjesuschrist.org/scriptures/bofm/3-ne/18.1-14).
 
 # All the Nephites drank wine
 
-Across the entire duration of the Nephite civilization, they had no problem with wine (e.g., [Alma 55:30-31](https://www.lds.org/scriptures/bofm/alma/55.30-31) and [Moroni 5:1-2](https://www.lds.org/scriptures/bofm/moro/5?lang=eng)).  It is safe to assume that all the great Nephite prophets drank wine (although [wine-bibbing like King Noah encouraged was frowned upon](https://www.lds.org/scriptures/bofm/mosiah/11.15?lang=eng#14)).
+Across the entire duration of the Nephite civilization, they had no problem with wine (e.g., [Alma 55:30-31](https://www.churchofjesuschrist.org/scriptures/bofm/alma/55.30-31) and [Moroni 5:1-2](https://www.churchofjesuschrist.org/scriptures/bofm/moro/5?lang=eng)).  It is safe to assume that all the great Nephite prophets drank wine (although [wine-bibbing like King Noah encouraged was frowned upon](https://www.churchofjesuschrist.org/scriptures/bofm/mosiah/11.15?lang=eng#14)).
 
 # The first 5 Church prophets drank alcohol
 

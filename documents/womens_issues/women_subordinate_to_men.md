@@ -30,7 +30,7 @@ Until January 1, 2019, women were subordinate to men in the temple in the follow
 
 > A woman would have no fears of being imposed upon, nor of any dictatorial measures, nor of improper demands if the husband were self-sacrificing and worthy. **Certainly no sane woman would hesitate to give submission to her own really righteous husband in everything.** (emphasis added)
 
-Doctrines of the Gospel Student Manual, [ch. 29 The Importance of the Family](https://www.lds.org/manual/doctrines-of-the-gospel-student-manual/chapter-29-the-importance-of-the-family?lang=eng) [quoting Spencer W. Kimball, in Stockholm Sweden Area Conference Report 1974, 46–47]
+Doctrines of the Gospel Student Manual, [ch. 29 The Importance of the Family](https://www.churchofjesuschrist.org/manual/doctrines-of-the-gospel-student-manual/chapter-29-the-importance-of-the-family?lang=eng) [quoting Spencer W. Kimball, in Stockholm Sweden Area Conference Report 1974, 46–47]
 
 ### Don't talk too much
 
@@ -38,7 +38,7 @@ Elder Ballard [recently taught](https://www.youtube.com/watch?v=WSWPrzICnlQ) in 
 
 > Let your voices be heard.  We cannot meet our destiny as the Church of Jesus Christ of Latter-day Saints in preparing this world for the Second Coming of the Savior of the world without the support and the faith and the strength of the women of this church.  We need you; we need your voices.  They need to be heard. They need to be heard in your community, in your neighborhoods.  They need to be heard in your Ward Council or the Branch Council.  **But don't talk too much in those council meetings**---just straighten the Brethren out quickly and move the work on!  We're building the Kingdom of God!  We're preparing the world for the Second Coming of the Savior and the Redeemer of the World. (emphasis added)
 
-This was originally posted on lds.org at this address: "https://www.lds.org/broadcasts/watch/europe-area-sisters-meeting/2014/09?lang=eng" but it was subsequently pulled.
+This was originally posted on lds.org at this address: "https://www.churchofjesuschrist.org/broadcasts/watch/europe-area-sisters-meeting/2014/09?lang=eng" but it was subsequently pulled.
 
 ### Storm relief
 

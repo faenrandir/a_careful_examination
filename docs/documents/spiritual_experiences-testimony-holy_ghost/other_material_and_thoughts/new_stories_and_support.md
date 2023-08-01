@@ -7,13 +7,13 @@ When my hair was short and I was clean shaven (but I was just as apostate as I a
 If you guessed zero, then you guessed correctly.
 
 https://www.reddit.com/r/exmormon/comments/594itv/only_pray_about_what_we_tell_you_is_okay/
-So, the new manuals for seminary and institute are out. Certain less popular topics (seer stone, polygamy in a little detail), are included. I was reading the polygamy section and was a little horrified at the hypocrisy. The full lesson can be found here: https://www.lds.org/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng
+So, the new manuals for seminary and institute are out. Certain less popular topics (seer stone, polygamy in a little detail), are included. I was reading the polygamy section and was a little horrified at the hypocrisy. The full lesson can be found here: https://www.churchofjesuschrist.org/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng
 Quoting from an early part of the lesson: "You may want to remind students that as they study about plural marriage, they should remember the pattern that the Prophet Joseph Smith followed in his gospel learning. He studied, pondered, and prayed to gain knowledge."
 Then at the end of the lesson: "Before concluding the lesson, it may be wise to tell students that some people who have apostatized from the Church are practicing plural marriage today. They urge people to pray and ponder about whether it is right to practice plural marriage today. We should not seek to receive revelation that is contrary to what the Lord has revealed through His prophets."
 so... it is great to pray about things. You should and must pray about things to understand them and gain a testimony. BUT, you're only allowed to pray about things that we tell you are true.
 Am I the only one that found this a little disingenuous?
 
-https://www.lds.org/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng
+https://www.churchofjesuschrist.org/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng
 
 > Before concluding the lesson, it may be wise to tell students that some people who have apostatized from the Church are practicing plural marriage today. They urge people to pray and ponder about whether it is right to practice plural marriage today. We should not seek to receive revelation that is contrary to what the Lord has revealed through His prophets. The Lord has revealed through His prophet that the practice of plural marriage has ceased in the Church. Anyone who advocates the practice of plural marriage today is not a servant of the Lord.
 
