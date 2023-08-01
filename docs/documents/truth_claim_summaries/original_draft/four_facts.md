@@ -23,7 +23,7 @@ The Church acknowledges that a straightforward translation of the papyrus fragme
 
 The argument against criticisms like this is that Joseph was translating in a very loose way a document that has been lost to history but which is preserved in the echoes of what is recorded on the papyrus.  A few correspondences to concepts from the ancient world support the idea that the Book of Abraham is objectively derived from an ancient source.
 
-* [The Book of Abraham essay at lds.org](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)
+* [The Book of Abraham gospel topics essay](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)
 * [A Most Remarkable Book - Evidence for The Book of Abraham](https://www.youtube.com/watch?v=_jGadnfI8zU) (video)
 * [FAIR: Book of Abraham Facsimile 3: The throne scene](http://en.fairmormon.org/Book_of_Abraham/Joseph_Smith_Papyri/Facsimiles/Facsimile_3)
 * [LDSFAQ: The Book of Abraham](http://www.jefflindsay.com/LDSFAQ/FQ_Abraham.shtml)

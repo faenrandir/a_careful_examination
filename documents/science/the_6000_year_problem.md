@@ -106,7 +106,7 @@ The following statements were recently part of official LDS discourse (general c
 
     > I want to ask who are looking for the fulfillment of these events, and who upon the earth are preparing themselves for the fulfillment of the word of the Lord through the mouths of prophets, patriarchs and apostles for the last six thousand years? Nobody that I have any knowledge of, [except] the Latter-day Saints ...
 
-1. The January 2002 Ensign published a chart, [Old Testament Times at a Glance](https://www.churchofjesuschrist.org/study/ensign/2002/01/old-testament-times-at-a-glance?lang=eng), which positions Adam at roughly 4,000 BCE.  The chart was [a student resource](https://web.archive.org/web/20170327180913/https://si.lds.org/bc/seminary/content/library/student-resources/ot/old-testament-times-at-a-glance-chart_eng.pdf) until at least 2017.  The chart is available on churchofjesuschrist.org as [a standalone PDF](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/09233_eng.pdf?lang=eng).
+1. The January 2002 Ensign published a chart, [Old Testament Times at a Glance](https://www.churchofjesuschrist.org/study/ensign/2002/01/old-testament-times-at-a-glance?lang=eng), which positions Adam at roughly 4,000 BCE.  The chart was [a student resource](https://web.archive.org/web/20170327180913/https://si.churchofjesuschrist.org/bc/seminary/content/library/student-resources/ot/old-testament-times-at-a-glance-chart_eng.pdf) until at least 2017.  The chart is available on churchofjesuschrist.org as [a standalone PDF](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/09233_eng.pdf?lang=eng).
 
 ### Other recent teaching
 
