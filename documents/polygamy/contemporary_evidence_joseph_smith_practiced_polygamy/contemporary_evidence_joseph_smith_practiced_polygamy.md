@@ -36,6 +36,37 @@ A trio of primary documents, all signed or in Joseph Smith's hand, implicate him
 2. [Deed to Sarah Ann Whitney](http://www.josephsmithpapers.org/paper-summary/deed-to-sarah-ann-whitney-6-september-1842/1) [signed by Joseph Smith] Sarah was 17 years old at the time of this deed.
 3. [Letter to the Whitneys](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1) [in Joseph Smith's hand] Sarah was 17 years old at the time.
 
+### Malissa Lott's marriage recorded in Family Bible
+
+Joseph Smith's journal entry for Sept 20, 1843, recorded by Willard Richards, indicated that JS rode out to his farm. On that day, Hyrum Smith sealed Cornelius Lott (who managed Joseph Smith's farm) to Permelia Darrow "with seal of Presadent Joseph Smith." The Lott family Bible contains an entry, "Sept the 20 CP Lott and Permelia Lott gave their Dauter [sic] Malisa to wife." She is listed in an entry further along in the Marriages registry at the time of her second marriage in 1847 in that Bible as "Malisa _Smith_." Footnote 200 of JS Papers suggests that JS was "married or sealed" on that date as well "...though primary sources identifying the date of JS and Malissa Lott’s sealing are either incomplete or contradictory." In any event, separate documents from that time showing no evidence of tampering from what I can tell position JS in the right location for a marriage/sealing with Malisa Lott.
+
+* [Summary by Bill Reel](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fi8mdvl7sts4b1.png%3Fwidth%3D1596%26format%3Dpng%26auto%3Dwebp%26s%3D6945a4e37880fda8728651010460aabc74db5ae8)
+* Lott Family Bible [Family Record](https://catalog.churchofjesuschrist.org/assets/7226d36f-b3a5-4c0e-9d0c-33d87d46ffb4/0/3)
+* [Joseph Smith Sept 20, 1843 Journal Entry](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-3-15-july-1843-29-february-1844/108?highlight=rode%20out%20to%20his#facts)
+
+### Land deeds
+
+As reported by Bill Reel (would like to validate this) ~75% of the land deeds
+to women in Nauvoo between 1842 and 1843 corresponded to alleged plural wives
+of Joseph Smith. Listed below are the deeds and ages of the women at the time
+of the deed grant (as compiled by Bill Reel):
+
+1. [Elizabeth Davis Durfee](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fac72bwfexs4b1.png%3Fwidth%3D1587%26format%3Dpng%26auto%3Dwebp%26s%3D238b74b98a1a49c51f47f5c36bb6d818799284b9) (51 years old)
+1. [Flora Ann Woodworth](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fslwhowfexs4b1.png%3Fwidth%3D1508%26format%3Dpng%26auto%3Dwebp%26s%3D8fc2d85c5e0b42695df798375aeb6293e99d8858) (16 years old)
+1. [Helen Mar Kimball](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmnujnufexs4b1.png%3Fwidth%3D1580%26format%3Dpng%26auto%3Dwebp%26s%3D3d3733709670157c8ee1639de53838d747c9a608) (14 years old)
+1. [Marinda Nancy Johnson Hyde](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fadhpxvfexs4b1.png%3Fwidth%3D1578%26format%3Dpng%26auto%3Dwebp%26s%3De1556dfa86be8cf302eca27f587cc92eea9818d2) (28 years old)
+1. [Mary Elizabeth Rollins Lightner](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fedlqkzfexs4b1.png%3Fwidth%3D1523%26format%3Dpng%26auto%3Dwebp%26s%3D5e3d21df0f96b4c817ccc6966e75152a4377cbca) (25 years old)
+1. [Patty Bartlett Sessions](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fxlw9b0gexs4b1.png%3Fwidth%3D1537%26format%3Dpng%26auto%3Dwebp%26s%3D999d9eb9dc1b8eab6cec0832e734afe8f6513ea5) (48 years old)
+1. [Sarah Ann Whitney](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcj17j2gexs4b1.png%3Fwidth%3D1544%26format%3Dpng%26auto%3Dwebp%26s%3Df855c852eb9a47903286bf3f951c9076873ab96c) (17 years old)
+1. [Sarah Scott Mulholland](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fiu71hjgexs4b1.png%3Fwidth%3D1578%26format%3Dpng%26auto%3Dwebp%26s%3D3aa74f28e952fe149e03c307617cb87a5fb4d8a2) (nothing known beyond an alleged sealing)
+1. [Sylvia Sessions Lyon](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F16ue76gexs4b1.png%3Fwidth%3D1565%26format%3Dpng%26auto%3Dwebp%26s%3D5492e5dad1c57a118f1f10f8642d889e4da0961e) (24 years old)
+
+### Nauvoo High Council Minutes
+
+See outline in **part E** of [this reddit post](https://www.reddit.com/r/exmormon/comments/144ahjo/the_evidence_laid_out_that_joseph_smith_was_the/) by Bill Reel.
+
+Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was introduced.  Given that his rejection of the revelation led to his excommunication, [his testimony](https://www.reddit.com/r/exmormon/comments/5d9pa1/leonard_soby_18061892_converted_to_mormonism_and/) seems especially relevant because he cannot be said to be biased by any possible later LDS conspiracy.
+
 ### Letter from Jedediah M. Grant to Joseph Smith
 
 A letter from Jedediah M. Grant to Joseph Smith in August of 1843 implies an
@@ -54,11 +85,15 @@ After Bennett left Nauvoo, he solicited an affidavit from Brotherton.  [Martha B
 
 An insider to Nauvoo polygamy wrote two exposés on Joseph Smith's polygamy in the Warsaw Message and then Warsaw Signal (same paper, just a change of names).  Bergera discusses the articles [here](https://web.archive.org/web/20100707004021/http://dig.lib.niu.edu/ISHS/ishs-2002winter/ishs-2002winter350.pdf).
 
-## **Later** *non-LDS testimony* corroborating key events
-
-Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was introduced.  Given that his rejection of the revelation led to his excommunication, [his testimony](https://www.reddit.com/r/exmormon/comments/5d9pa1/leonard_soby_18061892_converted_to_mormonism_and/) seems especially relevant because he cannot be said to be biased by any possible later LDS conspiracy.
 
 ### See also
+
+* Mormonism Live (RFM and Bill Reel) analysis
+    * Mormonism Live 131 ([youtube](https://www.youtube.com/watch?v=SV3f57VZuqo) \| [show notes](https://mormonismlive.org/2023/06/the-evidence-that-joseph-smith-was-a-polygamist-ml-131/))
+    * Evidence linked in reddit posts ([part 1](https://www.reddit.com/r/exmormon/comments/144aaam/the_evidence_laid_out_that_joseph_smith_was_the/), [part 2](https://www.reddit.com/r/exmormon/comments/144ahjo/the_evidence_laid_out_that_joseph_smith_was_the/), [part 3](https://www.reddit.com/r/exmormon/comments/144aqlr/the_evidence_laid_out_that_joseph_smith_was_the/))
+    * [RFM 284](https://radiofreemormon.org/2023/06/rfm-284-the-mormon-polygamy-controversy/) The Mormon Polygamy Controversy (dating D&C 132)
+    * Response by Michelle Stone ([episode 71 on youtube](https://www.youtube.com/watch?v=aE9_2aQajno))
+        * [RFM 286](https://radiofreemormon.org/2023/06/rfm-286-no-maam-thats-not-history/) Counter response to Michelle Stone
 
 * Hemlock Knots debates
     * [Was Joseph Smith Really A Polygamist?](https://www.youtube.com/watch?v=xE-pNIF3EWk) (live debate 1)
@@ -81,6 +116,10 @@ Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was 
 * Year of Polygamy: Joseph Didn't Fight Polygamy
     * [part one](https://www.yearofpolygamy.com/year-of-polygamy/episode-139-joseph-didnt-fight-polygamy-part-one/)
     * [part two](https://www.yearofpolygamy.com/uncategorized/episode-139-joseph-didnt-fight-polygamy-part-two/).
+
+* Sunstone podcast episode 41: Brigham Young and the Chamber of Secrets
+  ([mp3](https://sunstone.org/wp-content/uploads/2021/06/SHP_041.mp3) \| [show
+  notes](https://sunstone.org/e41-brigham-young-and-the-chamber-of-secrets/))
 
 * [Did Joseph Smith Fight Polygamy? The Resurrection of an Old RLDS Narrative](https://www.youtube.com/watch?v=8-o-NXxHl_o) (argues against the claim that JS fought polygamy)
 
