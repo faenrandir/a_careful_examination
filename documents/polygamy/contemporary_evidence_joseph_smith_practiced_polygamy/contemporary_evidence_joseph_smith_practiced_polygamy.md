@@ -26,7 +26,9 @@ However, some *contemporary* evidence exists that Joseph Smith practiced polygam
 
 [D&C 132, received 12 July 1843](http://www.josephsmithpapers.org/paper-summary/revelation-12-july-1843-dc-132/1)
 
-[mormonpolygamydocuments.org](https://mormonpolygamydocuments.org/), a site of polygamy related documents hosted by Brian Hales, discusses [the provenance of Joseph C. Kingsbury's copy of D&C 132](https://mormonpolygamydocuments.org/provenance-dc-132-documented/).
+* Mormon Stories episode 1797 ([notes](https://web.archive.org/web/20230812234615/https://www.mormonstories.org/podcast/joseph-smith-polygamy-rfm/), [youtube](https://www.youtube.com/watch?v=OH0fILAzdno)) : Radio Free Mormon argues that the affidavits in the Nauvoo Expositor recapitulate all material aspects of D&C 132 and hence demonstrate that it existed at the time of the Expositor's publication.
+    * [Color coded D&C 132]({{ "media/dc132-color-coded-by-expositor-affidavits.png" | relative_url }}) demonstrating themes mentioned by William and/or Jane Law (yellow), unique aspects by Jane Law (green), and Austin Cowles (blue).
+* Brian Hales discusses [the provenance of Joseph C. Kingsbury's copy of D&C 132](https://mormonpolygamydocuments.org/provenance-dc-132-documented/).
 
 ### Sarah Ann Whitney documents
 
