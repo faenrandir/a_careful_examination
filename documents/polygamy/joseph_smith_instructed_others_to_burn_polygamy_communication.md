@@ -1,5 +1,5 @@
 ---
-title: "Joseph Smith instructed others to burn communication"
+title: "Joseph Smith instructed others to destroy communication"
 permalink: /joseph-smith-instructed-others-to-burn-communication/
 maintopic: polygamy
 doctype: short-compilation
@@ -8,9 +8,9 @@ layout: page
 
 ## Introduction
 
-The historical record suggests that in at least four cases, Joseph Smith instructed others to burn records, communication, or would-be recipients of communication.  Three incidents are tied to polygamy: two are related to a polygamous marriage proposal and the other was regarding a meeting shortly after the polygamous marriage had taken place.
+The historical record suggests four cases when Joseph Smith instructed others to burn, bury, and/or destroy records or communication. Three of these four incidents suggesting a request for document destruction are tied to polygamy: two are related to a polygamous marriage proposal and the other was regarding a meeting shortly after the polygamous marriage had taken place.
 
-Joseph Smith Papers editors acknowledge these three instances in [footnote 6](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/2#1415580525105515545) of the Letter to the Whitneys:
+Joseph Smith Papers editors acknowledge the three polygamy related instances in [footnote 6](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/2#1415580525105515545) of the Letter to the Whitneys:
 
 > In addition to the need to keep his location secret, JS may have asked that
 > the letter be destroyed because it could indicate his sealing to Sarah Ann
@@ -102,12 +102,17 @@ Also mentioned in her [diary and reminiscences](https://catalog.churchofjesuschr
 
 ## Nancy Rigdon
 
-Nancy Ridgon's proposal from Joseph Smith is related in Bennett's The History of the Saints (an antagonistic source with some wild claims but that still may be accurate in other regards).  On [page 246](https://archive.org/details/historysaints00benngoog/page/n257/mode/2up): 
+The account related by John C. Bennett of a purported Joseph Smith polygamy
+proposal to Nancy Rigdon implies a potential instruction or request to destroy
+a letter related to polygamy and/or the proposal to Nancy Rigdon.
+Bennett is not necessarily a trustworthy source, but some of the information
+he relays is still considered to be accurate. See The History of the Saints, [Page
+246](https://archive.org/details/historysaints00benngoog/page/n257/mode/2up): 
 
 > [After Rigdon repulsed Smith's proposal, went to her father's house, and
 > summoned Smith] ... He came.  She told the tale in the presence of all the
 > family, and to Smith's face.  *I was present*.  Smith attempted to deny it *at
-> first*, and *face her down with the lie*; but she told teh facts with so much
+> first*, and *face her down with the lie*; but she told the facts with so much
 > earnestness, and THE FACT OF A LETTER BEING PRESENT, WHICH HE HAD CAUSED TO
 > BE WRITTEN TO HER, ON THE SAME SUBJECT, the day after the attempt made on
 > her virtue, *breathing the same spirit*, and *which he had fondly hoped was*
