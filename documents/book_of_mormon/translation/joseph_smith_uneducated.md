@@ -136,15 +136,18 @@ However, there are [good reasons to discount aspects of Emma's testimony]({{ "/r
 
 ## The case against Joseph's potential capability
 
-The most up-to-date arguements against Joseph's abilities to compose the Book of Mormon have been made in response to William Davis's recent book [Visions in a seer stone](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407):
+A great resource compiling a lot of the statements about Joseph Smith's
+abilities is Brian Hales Interpreter publication [Joseph Smith’s Education and Intellect as Described in Documentary Sources](https://journal.interpreterfoundation.org/joseph-smiths-education-and-intellect-as-described-in-documentary-sources/). Brian ultimately argues that the data point away from Joseph's ability to compose the Book of Mormon, but I think there is room to disagree with his conclusions based on the available data (his and other data I have discussed above).
+
+Arguments made in response to William Davis's recent book [Visions in a seer stone](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407) are also serve as a repository of data and arguments against Joseph Smith's capability:
 
 * [Theories and Assumptions: A Review of William L. Davis’s Visions in a Seer Stone](https://journal.interpreterfoundation.org/theories-and-assumptions-a-review-of-william-l-daviss-visions-in-a-seer-stone/) (Brian C. Hales)
 * [Oral Creation and the Dictation of the Book of Mormon](https://journal.interpreterfoundation.org/oral-creation-and-the-dictation-of-the-book-of-mormon/) (Brant A. Gardner)
 
-Other arguments relevant to an argument against Joseph's capabilities:
+Finally, Brian Hales has written some other documents generally arguing against Joseph's ability to produce the Book of Mormon:
 
-* [Curiously Unique: Joseph Smith as Author of the Book of Mormon](https://journal.interpreterfoundation.org/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/) (Brian C. Hales)
-* [Changing Critics’ Criticisms of Book of Mormon Changes](https://journal.interpreterfoundation.org/changing-critics-criticisms-of-book-of-mormon-changes/) (Brian C. Hales)
+* [Curiously Unique: Joseph Smith as Author of the Book of Mormon](https://journal.interpreterfoundation.org/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)
+* [Changing Critics’ Criticisms of Book of Mormon Changes](https://journal.interpreterfoundation.org/changing-critics-criticisms-of-book-of-mormon-changes/)
 
 ## Conclusion
 
