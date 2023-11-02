@@ -7,14 +7,11 @@ layout: page
 
 ## Introduction
 
-Latter-day Saints, like most believers of the Bible, take for granted that
-witchcraft or sorceries exist on some level, but they may be nuanced about
-magic's efficacy ([for
-example](https://askgramps.org/how-can-i-stay-away-from-the-consequences-and-influence-of-black-magic/)).
+Latter-day Saints, like most believers of the Bible, take for granted that witchcraft or sorceries exist on some level, but they may be nuanced about magic's efficacy ([for example](https://askgramps.org/how-can-i-stay-away-from-the-consequences-and-influence-of-black-magic/)).
 
 Generally speaking, the similarities between LDS practices and magic are freely admitted.  Although aspects of his book are considered controversial, the following statement in Bruce R. McConkie's Mormon Doctrine [entry on "Magic"](https://archive.org/details/MormonDoctrine1966/page/n335/mode/2up?q=magic) is not likely to be controversial to Latter-day Saints:
 
-> In imitation of true religion with its miracles, signs and gifts of the Spirit, Satan has substitute rituals and practices called magic. ... In its nature magic is the art which produces effects by the assistance of supernatural beings or by a master of secret forces in nature ...
+> In imitation of true religion with its miracles, signs and gifts of the Spirit, Satan has substitute rituals and practices called magic. ... In its nature magic is the art which produces effects by the assistance of supernatural beings or by a mastery of secret forces in nature ...
 
 ## Potential similarities
 
