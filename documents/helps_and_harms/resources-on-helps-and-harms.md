@@ -26,3 +26,4 @@ layout: page
 ## See also
 
 * [Is Christianity Harmful?](https://www.youtube.com/watch?v=FnbHal6vL4o) (argues against data/arguments suggesting that religion is harmful)
+* [Beit-Hallahmi on the religious engagement paradox]({{ "/beit-hallahmi-on-the-religious-engagement-paradox/" | relative_url}})
