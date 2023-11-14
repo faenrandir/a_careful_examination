@@ -48,7 +48,10 @@ The two possibilities listed above are acknowledged by Richard and Pamela Price,
 Brian Hales has compared Joseph Smith's system of polygamy (i.e., "the New and
 Everlasting Covenant of Marriage" (NAECOM) with the system John C. Bennett practiced
 and accused Smith of practicing: "spiritual wifery" (SW) including three orders of
-polygamous wives.
+polygamous wives. [Need to add link to primary article and/or pages in his
+JS polygmay volumes where he does this; I think I was working off a document
+he wrote and hosted on Mormon Polygamy Documents and don't know why I did not
+drop a link :/]
 
 The extent of influence of Bennett on Brotherton's affidavit may be inferred
 to a degree by examining whether Brotherton's claims tend towards how Joseph
