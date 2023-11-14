@@ -53,11 +53,12 @@ polygamous wives.
 The extent of influence of Bennett on Brotherton's affidavit may be inferred
 to a degree by examining whether Brotherton's claims tend towards how Joseph
 and other polygamy insiders spoke about polygamy or how John C. Bennett
-practiced spiritual wifery.  If Brotherton is relaying an authentic
-experience with little deviation from actual events, then we expect the
-details to conform with the features of NAECOM.  The more her account conforms
-with who Bennett imagined Joseph practicing polygamy (i.e., SW) the more
-likely his influence.
+practiced spiritual wifery.  If Brotherton is relaying an authentic experience
+with little deviation from actual events, then we expect the details to
+conform with the features of NAECOM.  The more her account conforms with how
+Bennett was imagining (or asserting) Joseph to have been practicing polygamy
+(i.e., "spiritual wifery") the more likely Bennett was influencing Brotherton
+in her account.
 
 #### Restoration of Old Testament polygamy?
 
