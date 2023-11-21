@@ -23,3 +23,21 @@ Members of the Church will often claim that they know they are blessed (financia
     * [My nontithing miracle](https://www.reddit.com/r/exmormon/comments/hf66x6/my_nontithing_miracle/)
     * [A year since my last tithing payment](https://www.reddit.com/r/exmormon/comments/fgozkx/a_year_since_my_last_tithing_payment_and_i_still/)
     * [Tithing anti-testimony](https://www.reddit.com/r/exmormon/comments/gpjzjm/tithing_antitestimony/)
+
+### "Not to imply a cause-and-effect relationship"
+
+In his Fall 2023 General Conference address, President Nelson stated:
+
+> ... As I became a full-tithe payer, the windows of heaven began to open for me. I attribute several subsequent professional opportunities to our faithful payment of tithes.<sup>20</sup>
+
+When published (last verified 2023-11-20), the church website included this
+disclaimer (with emphasis):
+
+> **This is not to imply a cause-and-effect relationship**. Some who never pay tithing attain professional opportunities, while some who pay tithing do not. The promise is that the windows of heaven will be opened to the tithe payer. **The nature of the blessings will vary.**
+
+The footnote acknowledges the substance of the argument and data presented
+above (i.e., that many people experience professional or financial success
+when they _stop_ paying tithing).[^windows_of_heaven_vagueness]
+
+
+[^windows_of_heaven_vagueness]: Footnote 20 to Nelson's 2023 Fall GC address assures readers of the scriptural promise (i.e., "The promise is that the windows of heaven will be opened to the tithe payer") and indicates that "the nature of the blessings will vary." While such a promise may be inspirational to members, it is too vague to be falsified in any meaningful way. What does it mean for the "windows of heaven" to be "opened" to a person? What exactly qualifies as a "blessing"? For instance, if we assumed the counterfactual (i.e., that the windows of heaven would be open to those who _stop_ paying tithing and that their blessings will vary), one could muster any number of fortuitous events as potential substantiation.
