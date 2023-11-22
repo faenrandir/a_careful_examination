@@ -36,7 +36,7 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 ### Extensive compilations or analyses
 
 1. [Book of Mormon - Google Book Cross References](https://docs.google.com/document/d/16odCn1NBtBHICtSp05NZXh4VHtiktQpwGqbHHIdLL-8/edit?usp=sharing) (tompainesbones)
-1. [Book of Mormon parallels to the KJV Bible](https://www.reddit.com/r/mormon/comments/15jwh76/book_of_mormon_parallels_to_the_kjv_bible/) - exhaustive project (auricularisposterior)
+1. [Book of Mormon parallels to the KJV Bible v1.02](http://web.archive.org/web/20231122182957/http://auricularisposterior.atwebpages.com/BoM_KJV_compare_v1.02.pdf) - exhaustive project (auricularisposterior)
 1. [The Book of Mormon's dependence on the KJV](https://www.reddit.com/r/mormon/comments/e5lhqd/the_book_of_mormons_dependence_on_the_kjv_an/) (ImTheMarmotKing)
 1. [Similarities with late war](https://wordtreefoundation.github.io/thelatewar/) and [analysis](http://www.patheos.com/blogs/faithpromotingrumor/2013/10/the-book-of-mormon-and-the-late-war-direct-literary-dependence/)
 1. [Historical Influences](http://www.mormonthink.com/influences.htm#part2) and [Religious Influences](http://www.mormonthink.com/influences.htm#part3) (Thomas Donofrio)
