@@ -72,6 +72,7 @@ layout: page
 1. [FairMormon -  Is the "burning in the bosom" a reliable method of determining truth?](http://en.fairmormon.org/Holy_Ghost/Burning_in_the_bosom)
 1. [FairMormon -  Why do I "feel the spirit" when watching movies?](http://en.fairmormon.org/Holy_Ghost/Feeling_%22the_spirit%22_while_watching_movies)
 1. [FairMormon - "Feeling the spirit" while listening to ex-Mormon "exit stories"](http://en.fairmormon.org/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories)
+1. [Spiritual Experiences as the Basis for Belief and Commitment](https://www.youtube.com/watch?v=Og-ah5UIeHY) (Blake Ostler, 2007 FAIR address)
 
 ### Conflict of Justice
 
