@@ -6,8 +6,6 @@ maintopic: jst
 layout: page
 ---
 
-
-
 ## Synopsis
 
 Thomas Wayment, the BYU professor who co-discovered the use of Clarke's Commentary in the JST notes (emphasis added):[^lds-perspectives-podcast-wayment]
@@ -30,7 +28,7 @@ See [Responses to Joseph Smith relying on Clarke for JST]({{ "/responses-to-js-r
 
 ## Original academic publications
 
-* [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (chapter 11 is the official publication)
+* [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (chapter 11 is the official publication ([pdf](https://smallpdf.com/file#s=f8efb131-b9a9-4bab-af38-b7f90b75463b)))
 * [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
 
 [^lds-perspectives-podcast-wayment]: Quotations taken from the [transcript](https://web.archive.org/web/20201128001154/https://hwcdn.libsyn.com/p/5/b/9/5b9a46be752511d9/LDSP_Joseph_Smiths_Use_of_Adam_Clarkes_Commentary.pdf?c_id=17171867&cs_id=17171867&expiration=1606525900&hwt=b3d5a485080966bf24011a74ff048746) of LDS Perspectives Podcast Episode 55:Joseph Smith’s Use of Adam Clarke’s Commentary, released September 27, 2017.
