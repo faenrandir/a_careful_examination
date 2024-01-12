@@ -13,7 +13,7 @@ word "marry"](https://www.merriam-webster.com/dictionary/marry) (last accessed 2
 
 ## Terminology used by Joseph's wives
 
-Except where noted, the following first-hand accounts are taken from Brian Hales site Joseph Smith's Polygamy ["Stories of Faith: Joseph Smith’s Plural Wives"](http://josephsmithspolygamy.org/stories-of-faith-joseph-smiths-plural-wives/) accessed 2017-02-05.
+Except where noted, the following first-hand accounts are taken from Brian Hales site Joseph Smith's Polygamy ["Stories of Faith: Joseph Smith’s Plural Wives"](https://web.archive.org/web/20161104210408/http://josephsmithspolygamy.org/stories-of-faith-joseph-smiths-plural-wives/) archived from October 2016.
 
 Special attention should be paid to these women's usage of the words "marry", "married", "wife", "wives", "husband", "plural marriage", and "polygamy".
 
