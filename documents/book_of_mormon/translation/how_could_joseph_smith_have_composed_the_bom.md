@@ -20,14 +20,18 @@ The oral composition model is discussed in some detail by William Davis in his d
 #### LDS Discussions
 
 * [Book of Mormon Issues](https://www.ldsdiscussions.com/bom-issues) (essays)
-* [Youtube videos](https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced) (interview on Mormon Stories; the first 10--15 or so focus on evidence suggesting a modern origin and/or "fingerprints" suggesting Joseph Smith's authorship.
+* [Youtube videos](https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced) (interview on Mormon Stories; the first 10--15 or so focus on evidence suggesting a modern origin and/or "fingerprints" suggesting Joseph Smith's authorship.)
 
-#### Vogel and Hamer
+#### John Hamer
 
-* [1054-1055: Joseph Smith’s treasure digging](https://www.mormonstories.org/podcast/treasure-digging-dan-vogel/) (Dan Vogel)
-* [1056-1058: How the Book of Mormon was created](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) (Dan Vogel)
-* [1063-1065: The Book of Mormon’s 19th century context](https://www.mormonstories.org/podcast/book-of-mormon-cultural-context-john-hamer/) (John Hamer)
-* [1082-1083: How the Book of Mormon was created](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/) (John Hamer)
+* [Authorship of the Book of Mormon](https://www.youtube.com/watch?v=4kAWmbbKCfU) (short lecture)
+* [1063-1065: The Book of Mormon’s 19th century context](https://www.mormonstories.org/podcast/book-of-mormon-cultural-context-john-hamer/) (Mormon Stories)
+* [1082-1083: How the Book of Mormon was created](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/) (Mormon Stories)
+
+#### Dan Vogel
+
+* [1054-1055: Joseph Smith’s treasure digging](https://www.mormonstories.org/podcast/treasure-digging-dan-vogel/) (Mormon Stories)
+* [1056-1058: How the Book of Mormon was created](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) (Mormon Stories)
 
 #### William Davis
 
