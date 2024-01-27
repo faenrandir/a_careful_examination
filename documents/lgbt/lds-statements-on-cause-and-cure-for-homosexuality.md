@@ -92,7 +92,7 @@ The 1981 booklet [Homosexuality](https://mormonleaks.io/wiki/documents/4/4c/Homo
 
 > All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.
 
-Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference [Cleansing the Inner Vessel](https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng)
+Elder Boyd K. Packer, October 1990 General Conference [Covenants](https://www.churchofjesuschrist.org/study/general-conference/1990/10/covenants?lang=eng)
 
 ### some suppose that they were preset
 
