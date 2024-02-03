@@ -32,6 +32,7 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 1. [Moroni quotes sections of Mark that are of dubious origin]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) (bwv549)
 1. [The Book of Ether and A Key to the Chronology of the Hindus](https://atoponce.keybase.pub/Book%20of%20Mormon%20Sources%20Project_%20Jaredites.pdf) (Keri Toponce)
 1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Professor Nick Frederick)
+1. [Creation of the Book of Mormon](http://www.mormonorigins.com/HowTheBookOfMormonWasCreated.html) (mormonorigins.com)
 
 ### Extensive compilations or analyses
 
