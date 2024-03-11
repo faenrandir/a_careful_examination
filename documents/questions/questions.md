@@ -57,7 +57,7 @@ The number of [similarities with early 1800s thought is _extensive_]({{ "/bom-pa
 
 1. If the Book of Mormon is a historical record, and if we accept as accurate the stories of how it was translated (i.e., [words appeared on the stone in a hat until they were written correctly](https://www.churchofjesuschrist.org/ensign/1993/07/a-treasured-testament?lang=eng)) why does it bear such a strong imprint of having been composed in the early 19th century?
 
-1. Why are there [translation errors in the Book of Mormon]({{ "/scholar-survey-kjv-translation-errors-in-bom-isaiah/" | relative_url }}) which follow after [the 1769 King James edition of the Bible](https://www.fairmormon.org/answers/Book_of_Mormon/Translation_Errors_from_the_KJV) that Joseph Smith's family owned?
+1. Why are there [translation errors in the Book of Mormon]({{ "/scholar-survey-kjv-translation-errors-in-bom-isaiah/" | relative_url }}) which follow after [the 1769 King James edition of the Bible](https://web.archive.org/web/20230127044107/https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Translation_Errors_from_the_KJV) that Joseph Smith's family owned?
 
 1. Why does the Book of Mormon [closely quote deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/) which likely wasn't written (at least in its current form) [until _after_ Lehi and his family would have left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/)?
 
