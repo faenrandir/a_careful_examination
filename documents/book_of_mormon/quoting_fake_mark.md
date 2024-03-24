@@ -45,13 +45,13 @@ The appearance of these verses in the Book of Mormon is problematic because the 
 
 1. **Is not in the earliest and best manuscripts.**
 
-    BYU religion scholar [Lincoln Blumell writes](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5):[^blumell]
+    BYU religion scholar [Lincoln Blumell writes](https://web.archive.org/web/20180923143548/https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5):[^blumell]
 
     > Mark 16:8 is currently the earliest attested ending for Mark’s gospel (appearing in Codex Sinaiticus [א] and Codex Vaticanus [B] [the earliest complete manuscripts of Mark]), its abruptness is problematic...
 
 1. **Appears to have escaped the awareness of many of the early Christian fathers.**
 
-    Blumell [continues](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5):
+    Blumell [continues](https://web.archive.org/web/20180923143548/https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5):
 
     > others [of the early Christian fathers] seem not to have known about them [Mark 16:9–20] or were unsure of their authenticity
 
@@ -98,7 +98,7 @@ Moroni states that Jesus spoke to the disciples in the New World using the exact
 
 ### References:
 
-1. [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5). Studies in the Bible and Antiquity: vol 3, Article 5. BYU religion scholar Lincoln Blumell.
+1. [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://web.archive.org/web/20180923143548/https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5). Studies in the Bible and Antiquity: vol 3, Article 5. BYU religion scholar Lincoln Blumell.
 2. [wikipedia: Mark 16](https://en.wikipedia.org/wiki/Mark_16)
 3. The [appendix](https://books.google.com/books?id=TRZWAAAAMAAJ&q=Mark+16#v=onepage&q=%22are%20omitted%20by%20Tisch.%22&f=false) of "A Critical and Exegetical Commentary on the Gospel According to St. Mark" by Ezra Palmer Gould.
 4. Mormon Discussion group ["How did Mark 16:18 get into the Book of Mormon?"](http://mormondiscussions.com/phpBB3/viewtopic.php?f=1&t=35581&start=21)
@@ -117,7 +117,7 @@ Larry Hurtado's defense was brought to my attention by ImTheMarmotKing.  David M
 on the long ending of Mark and the Book of Mormon.
 
 
-[^blumell]: In general, see section "11. Mark 16:9–20 KJV" in [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5) by BYU religion professor [Lincoln Blumell](https://religion.byu.edu/lincoln_blumell).
+[^blumell]: In general, see section "11. Mark 16:9–20 KJV" in [A Text-Critical Comparison of the King James New Testament with Certain Modern Translations](https://web.archive.org/web/20180923143548/https://publications.mi.byu.edu/fullscreen/?pub=1471&index=5) by BYU religion professor [Lincoln Blumell](https://religion.byu.edu/lincoln_blumell).
 
     > While these twelve verses are not omitted in any modern NT edition, they are placed in either double brackets or italics with a note about their absence in certain early manuscripts. ...
 

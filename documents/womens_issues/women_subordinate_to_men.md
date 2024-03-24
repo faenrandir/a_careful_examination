@@ -72,8 +72,8 @@ An interview of her by Greg Prince was published in [Dialogue: A Journal of Morm
 
 ### Measuring equality
 
-Measurements of equality confirm that women are considered subordinates in the LDS Church.  Kate Kelly [articulated](http://www.dovesandserpents.org/wp/2013/10/equality-is-not-a-feeling/) the difference between feelings of equality and measurements of equality:
+Measurements of equality confirm that women are considered subordinates in the LDS Church.  Kate Kelly [articulated](https://web.archive.org/web/20180909191849/http://www.dovesandserpents.org/wp/2013/10/equality-is-not-a-feeling/) the difference between feelings of equality and measurements of equality:
 
 > I have heard from many women, ‘I see nothing wrong with the status quo. I feel equal.’ To them I say: ‘You can feel respected, supported and validated in the church, but equality can be measured. Equality is not a feeling. In our church men and women are not equal.
 
-See [the Equality Archive](http://www.dovesandserpents.org/wp/category/columns/equality-is-not-feeling/) at Doves & Serpents for many specific examples.
+See [the Equality Archive](https://web.archive.org/web/20230325233324/http://www.dovesandserpents.org/wp/category/columns/equality-is-not-feeling/) at Doves & Serpents for many specific examples.
