@@ -37,7 +37,7 @@ I suggested that scholars use this scale to rate the merit of each KJV translati
     0 = Completely Inaccurate (the KJV is in error)
     U = don't know or undecideable
 
-In my email/post, I noted the 1769 KJV translation along with the ESV translation (which is a well-respected modern translation) and pointed to Strong's concordance for each word or phrase in question.
+In my email/post, I noted the 1769 KJV translation along with the ESV translation[^esv] and pointed to Strong's concordance[^strongs_concordance] for each word or phrase in question.
 
 ### Main responders:
 
@@ -162,3 +162,7 @@ These LDS scholar observations seem consistent with the idea that the Book of Mo
     It is worth noting that the KJV carries these specific translation errors across both the 1611 and 1769 King James versions, so [they are not unique to the 1769 version]({{ "/errors-represented-across-both-1611-and-1769-kjv/" | relative_url }}) and no other version or printing of the King James Bible, as implied by the question.  That said, the Bible verses embedded in the Book of Mormon do show a clear reliance on the 1769 King James version of the Bible and _not_ on the 1611 version.[^1769kingjames]  So, until someone demonstrates the uniqueness of translation errors to the 1769 version (say, compared to other editions or printings of the King James Bible), the question is probably better shortened, as I did in this analysis.
 
 [^historical]:  None of these statements should be viewed as concessions for a non-historical Book of Mormon: in various ways, these scholars have argued for a divine and/or a historical Book of Mormon despite these acknowledgements and in some instances have provided contextualizations for understanding the errors as part of a divine/historical process.
+
+[^esv]: The ESV is meant to emphasize "word-for-word" accuracy, but it is [not without criticism](https://en.wikipedia.org/wiki/English_Standard_Version#Literary_attributes).
+
+[^strongs_concordance]: While Strong's Concordance can be useful for lay people, I have heard academics note that if a person appeals to Strong's Concordance then it argues they are likely not an academic.
