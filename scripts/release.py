@@ -9,20 +9,22 @@ def run(cmd: str):
 
 run("gh auth switch --hostname github.com --user faenrandir")
 
-# ensure that there are no outstanding commits that are missing
-run("git pull")
 
-run("JEKYLL_ENV=production bundle exec jekyll build")
+try:
+    # ensure that there are no outstanding commits that are missing
+    run("git pull")
 
-# git add modified
-run("git add -u")
+    run("JEKYLL_ENV=production bundle exec jekyll build")
 
-# git add untracked
-run("git add $(git ls-files -o --exclude-standard)")
+    # git add modified
+    run("git add -u")
 
-run("git commit -m 'new or modified'")
+    # git add untracked
+    run("git add $(git ls-files -o --exclude-standard)")
 
-run("git push")
+    run("git commit -m 'new or modified'")
 
+    run("git push")
 
-run("gh auth switch --hostname github.com --user jtprince")
+finally:
+    run("gh auth switch --hostname github.com --user jtprince")
