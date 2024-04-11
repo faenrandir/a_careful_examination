@@ -57,6 +57,7 @@ layout: page
 ### Not affiliated
 
 * [Mormonr](https://mormonr.org/) (frank discussion of difficult questions; lots links to primary data)
+* [Mormonism with the Murph](https://www.youtube.com/@mormonismwiththemurph/videos) (YT videos w/ both critics and apologists; respectful, fair, balanced)
 * [Jeff Lindsay's LDS FAQ: Mormon Answers](http://www.jefflindsay.com/LDSFAQ/index.html)
 * [lds subreddit](https://www.reddit.com/r/lds/)
 * [latterdaysaints subreddit](https://www.reddit.com/r/latterdaysaints/)
