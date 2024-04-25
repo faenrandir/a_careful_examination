@@ -4,9 +4,9 @@ permalink: /hermetically-sealed-systems-in-lds-thought/
 doctype: analysis
 maintopic: epistemology
 layout: page
+toc: true
 ---
 
-[This document is still being edited.  In the meantime, please see [this PDF](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf) for an early draft.]
 
 ## Introduction
 
@@ -26,37 +26,37 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 ## Hermetically sealed systems in LDS thought
 
-### On seeking revelation
+### 1\. On seeking revelation
 
 ![Sealed system - do not seek revelation on that which contradicts the Brethren](../media/01-dont_seek_revelation_on_contradictory.png)
 
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
-### Divine origin of teachings
+### 2\. Divine origin of teachings
 
 ![Sealed system - ](../media/02-revelations_contradicting_brethren_not_from_god.png)
 
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
-### Certainty of prayer
+### 3\. Certainty of prayer
 
 ![Sealed system - ](../media/03-prayers_are_always_answered.png)
 
 **Figure 3: All answers to prayer are ultimately correct.**
 
-### Moroni's promise
+### 4\. Moroni's promise
 
 ![Sealed system - ](../media/04-pray_about_bom.png)
 
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
-### The folly of dissent
+### 5\. Those who preach false doctrine
 
 ![Sealed system - ](../media/05-lazy_or_proud.png)
 
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
 
-### Doubt your doubts
+### 6\. Doubt your doubts
 
 ![Sealed system - ](../media/06-doubt_your_doubts.png)
 
@@ -70,7 +70,7 @@ Follow Moroni's Promise to know that the Book of Mormon is true
 
 #### Moroni's Promise
 
-[Moroni 10:3--5](https://www.lds.org/scriptures/bofm/moro/10.3-5?lang=eng)
+[Moroni 10:3--5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.3-5?lang=eng)
 
 > 3 Behold, I would exhort you that when ye shall read these things, if
 > it be wisdom in God that ye should read them, that ye would remember
@@ -89,7 +89,7 @@ Follow Moroni's Promise to know that the Book of Mormon is true
 
 #### Pray about the Book of Mormon to know that it is true.
 
-[Moroni 10:3--4](https://www.lds.org/scriptures/bofm/moro/10.3-4?lang=eng)
+[Moroni 10:3--4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.3-4?lang=eng)
 
 > Behold, I would exhort you that when ye shall read these things ...
 > that ye would ask God, the Eternal Father, in the name of Christ, if
@@ -97,7 +97,7 @@ Follow Moroni's Promise to know that the Book of Mormon is true
 
 #### Did you feel good or peaceful? Were you enlightened?
 
-[Moroni 10:4--5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng)
+[Moroni 10:4--5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5?lang=eng)
 
 > ... he will manifest the truth of it unto you, by the power of the
 > Holy Ghost. And by the power of the Holy Ghost ye may know the truth
@@ -113,19 +113,19 @@ The Preach My Gospel Manual ([pg 103--104](https://www.churchofjesuschrist.org/s
 
 #### Did you pray with a sincere heart?
 
-[Moroni 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng) "... if ye shall ask with a sincere heart ..."
+[Moroni 10:4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4?lang=eng) "... if ye shall ask with a sincere heart ..."
 
 #### Did you study it out first?
 
 A revelation received during the translation of the Book of Mormon, D&C 9:7--8 ("Behold, you have not understood; you have supposed that I would give it unto you, when you took no thought save it was to ask me. But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right ...") and the study that preceded the First Vision [suggests to Latter-day Saints](https://www.reddit.com/r/mormondebate/comments/kqi0nr/there_is_no_way_to_know_that_any_religion_is_the/gltssa5/) that "when ye shall receive these things" implies serious study.
 
-[Moroni 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng) "... and when ye shall receive these things ..."
+[Moroni 10:4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4?lang=eng) "... and when ye shall receive these things ..."
 
 #### Did you pray with real intent, having faith in Christ?
 
-[Moroni 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng) "... with real intent, having faith in Christ ..."
+[Moroni 10:4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4?lang=eng) "... with real intent, having faith in Christ ..."
 
-"[Praying with Real Intent](https://www.lds.org/ensign/2016/02/latter-day-saint-voices/praying-with-real-intent?lang=eng)" Ensign, Feb 2016.
+"[Praying with Real Intent](https://www.churchofjesuschrist.org/ensign/2016/02/latter-day-saint-voices/praying-with-real-intent?lang=eng)" Ensign, Feb 2016.
 
 > One afternoon they \[the missionaries\] asked me, "Have you prayed to
 > find out if what we are teaching you is true?"
@@ -136,7 +136,7 @@ A revelation received during the translation of the Book of Mormon, D&C 9:7--8 (
 
 #### Did you ask God in the name of Jesus Christ?
 
-[Moroni 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng) "... ask God, the Eternal Father, in the name of Christ ..."
+[Moroni 10:4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4?lang=eng) "... ask God, the Eternal Father, in the name of Christ ..."
 
 Latter-day Saints [believe this is important](https://www.reddit.com/r/mormondebate/comments/kqi0nr/there_is_no_way_to_know_that_any_religion_is_the/gltssa5/) to receiving an answer.
 
@@ -148,7 +148,7 @@ also read and study the Bible because otherwise how can they ponder on
 how God has dealt with the children of men from the creation of Adam
 until the present time?
 
-[Moroni 10:3--4](https://www.lds.org/scriptures/bofm/moro/10.3-4?lang=eng)
+[Moroni 10:3--4](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.3-4?lang=eng)
 
 > 3 Behold, I would exhort you that when ye shall read these things, ...
 > that ye would remember how **merciful** the Lord hath been unto the
@@ -160,7 +160,7 @@ until the present time?
 
 There are many examples of leaders or members encouraging people to continue trying if they do not receive an answer. In some cases, the suggestion is that it may take many years before receiving confirmation.
 
-"[Securing Our Testimonies](https://www.lds.org/general-conference/2004/10/securing-our-testimonies?lang=eng&_r=1)". Donald L. Staheli. General Conference, Oct 2004.
+"[Securing Our Testimonies](https://www.churchofjesuschrist.org/general-conference/2004/10/securing-our-testimonies?lang=eng&_r=1)". Donald L. Staheli. General Conference, Oct 2004.
 
 > Recently I had an engaging conversation with a young man
 > who was contemplating a mission. As we talked, it became apparent that
@@ -178,7 +178,7 @@ There are many examples of leaders or members encouraging people to continue try
 > on the Lord. The answer to your prayers may not be as clear or as
 > timely as you would like, but keep praying.
 
-[lds subreddit](https://www.reddit.com/r/lds/comments/11vdfq/investigator_here_i_keep_praying_but_i_cant_get/)
+[lds subreddit](https://web.archive.org/web/20121026013326/https://www.reddit.com/r/lds/comments/11vdfq/investigator_here_i_keep_praying_but_i_cant_get/)
 
 > I\'ve gone to church the last two Sundays and I think it\'s fantastic.
 > I really like a lot of the ideals of the church. I\'m already living
@@ -188,19 +188,19 @@ There are many examples of leaders or members encouraging people to continue try
 > to keep praying, and to pray with more specific questions*, but no
 > matter what I try I\'m just not getting any answers.
 
-[lds subreddit](https://www.reddit.com/r/lds/comments/11vdfq/investigator_here_i_keep_praying_but_i_cant_get/c6pyb05/)
+Or,
 
 > If you keep trying, things will only get better. Keep pushing forward
 > and remember; the amount of effort you give is more important than the
 > amount of success.... Don\'t stop praying and have patience.
 
-> [lds subreddit](https://www.reddit.com/r/lds/comments/11vdfq/investigator_here_i_keep_praying_but_i_cant_get/c6q0yre/)
+Or,
 
 > Keep praying, I didn\'t get an answer for 15 years\...
 
 #### You've *always* known that it's true. Stop asking God for a sign.
 
-"[What You Knew in the Premortal Life](https://www.lds.org/new-era/2015/09/what-you-knew-in-premortal-life?lang=eng)". New Era. Sep 2015.
+"[What You Knew in the Premortal Life](https://www.churchofjesuschrist.org/new-era/2015/09/what-you-knew-in-premortal-life?lang=eng)". New Era. Sep 2015.
 
 > I can remember sitting in the back row of the chapel as
 > the instructor began teaching about the Prophet Joseph Smith. I'll
@@ -213,7 +213,7 @@ There are many examples of leaders or members encouraging people to continue try
 > If you're trying to gain a testimony of the Church, don't
 > be tempted to think, like Laman and Lemuel, that "the Lord maketh no
 > such thing\[s\] known unto \[you\]" ([1 Nephi
-> 15:9](https://www.lds.org/scriptures/bofm/1-ne/15.9?lang=eng#8)).
+> 15:9](https://www.churchofjesuschrist.org/scriptures/bofm/1-ne/15.9?lang=eng#8)).
 > Don't think that receiving such a testimony is beyond your reach.
 > These tempting lies could never be true.
 
@@ -222,10 +222,9 @@ There are many examples of leaders or members encouraging people to continue try
 > understanding your divine identity and remembering the things that
 > you've always known to be true.
 
-"[You've always known](https://www.lds.org/new-era/2006/06/instant-messages?lang=eng)." New Era, June 2006.
+"[You've always known](https://www.churchofjesuschrist.org/study/new-era/2006/06/instant-messages/youve-always-known.html?lang=eng)." New Era, June 2006.
 
-> I believed that Heavenly Father and [Jesus
-> Christ](http://www.mormon.org/beliefs/jesus-christ) had spoken to
+> I believed that Heavenly Father and Jesus Christ had spoken to
 > Joseph Smith when he was 14, so I thought that since I was now 14,
 > Heavenly Father could tell me, too. I didn't expect a vision, but I
 > believed God would somehow let me know if this was His Church. I
@@ -241,7 +240,7 @@ There are many examples of leaders or members encouraging people to continue try
 > known." Tears filled my eyes because I knew God had heard my prayer
 > before I had even spoken it.
 
-"[I Wanted Proof.](https://www.lds.org/new-era/1998/02/i-wanted-proof?lang=eng&_r=1)" New Era, Feb 1998.
+"[I Wanted Proof.](https://www.churchofjesuschrist.org/new-era/1998/02/i-wanted-proof?lang=eng&_r=1)" New Era, Feb 1998.
 
 > After reading the Book of Mormon, I knelt in prayer. I had a great
 > desire to know of its truth. I hoped it was true, knowing what joy
@@ -261,7 +260,7 @@ There are many examples of leaders or members encouraging people to continue try
 > always known the truth. My pride in my own knowledge had caused me to
 > forget my testimony.
 
-"[Is It True?](https://www.lds.org/new-era/1999/02/is-it-true?lang=eng)" New Era, Feb 1999.
+"[Is It True?](https://www.churchofjesuschrist.org/new-era/1999/02/is-it-true?lang=eng)" New Era, Feb 1999.
 
 > I had already read the Book of Mormon several times, both with my
 > family and on my own. Every time I read it, I would pray to know if
@@ -299,8 +298,7 @@ There are many examples of leaders or members encouraging people to continue try
 > \[Example of how such an approach influenced one seeker: ["Don't ask the Lord a question you already know the answer
 > to."](https://www.reddit.com/r/exmormon/comments/7iw7g8/dont_ask_the_lord_a_question_you_already_know_the/)\]
 
-#### Don't ever accept no for an answer...Ask 3 or 4 times in different
-ways.
+#### Don't ever accept no for an answer...Ask 3 or 4 times in different ways.
 
 [Utah Areas Annual Mission Presidents Seminar](https://mormonleaks.io/wiki/index.php?title=File:Utah_Areas_Annual_Mission_Presidents_Seminar-2015-09-09.pdf). Sep 2015.
 
@@ -316,14 +314,14 @@ ways.
 
 #### Why would God answer when you took not thought except to ask.
 
-[Doctrine & Covenants 9:7](https://www.lds.org/scriptures/dc-testament/dc/9.7?lang=eng)
+[Doctrine & Covenants 9:7](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/9.7?lang=eng)
 
 > 7 Behold, you have not understood; you have supposed that I would give
 > it unto you, when you took no thought save it was to ask me.
 
 #### The Book of Mormon is true
 
-[Moroni 10:4--5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng)
+[Moroni 10:4--5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5?lang=eng)
 
 > 4 ... he will manifest the truth of it unto you, by the power of the
 > Holy Ghost.
@@ -331,12 +329,11 @@ ways.
 > 5 And by the power of the Holy Ghost ye may know the truth of all
 > things.
 
-### Supplement to Sealed System #4 (Moroni's Promise)
 ### Supplement to Sealed System #6 (doubt your doubts)
 
 #### Honest doubts lead to increased faith.
 
-"[What do Do When You Have Questions](https://www.lds.org/youth/article/when-you-have-questions?lang=eng)". Ensign. May 2012 (quoting Howard W. Hunter, Oct 1960 General Conference; Also quoted in Teachings of Presidents of the Church: Howard W. Hunter, ch 21). Emphasis added.
+"[What to Do When You Have Questions](https://web.archive.org/web/20181010055129/https://www.lds.org/youth/article/when-you-have-questions?lang=eng)". Ensign. May 2012 (quoting Howard W. Hunter, Oct 1960 General Conference; Also quoted in Teachings of Presidents of the Church: Howard W. Hunter, ch 21). Emphasis added.
 
 > I have sympathy for young men and young women when
 > *honest doubts* enter their minds and they engage in the great
@@ -349,7 +346,7 @@ ways.
 
 #### Answers given to those who don't harden their hearts.
 
-"[A Pattern for Learning Spiritual Things](https://www.lds.org/broadcasts/article/satellite-training-broadcast/2012/08/a-pattern-for-learning-spiritual-things?lang=eng)". Seminaries and Institutes of Religion Satellite Broadcast. August 7, 2012 (quoted in Lesson 10: Seek Truth, Foundations of the Restoration Teacher Manual).
+"[A Pattern for Learning Spiritual Things](https://web.archive.org/web/20181027062445/https://www.lds.org/broadcasts/article/satellite-training-broadcast/2012/08/a-pattern-for-learning-spiritual-things?lang=eng)". Seminaries and Institutes of Religion Satellite Broadcast. August 7, 2012 (quoted in Lesson 10: Seek Truth, Foundations of the Restoration Teacher Manual).
 
 > Answers to spiritual questions are given to individuals
 > who don't harden their hearts; who ask in faith, believing they will
@@ -364,7 +361,7 @@ ways.
 > speak truth: such as the scriptures, prophets, and the Lord through
 > the Holy Ghost.
 
-"[What to Do When You Have Questions](https://www.lds.org/youth/article/when-you-have-questions?lang=eng)." Youth article on lds.org (visited 2017-01-31).
+"[What to Do When You Have Questions](https://web.archive.org/web/20181010055129/https://www.lds.org/youth/article/when-you-have-questions?lang=eng)." Youth article on lds.org.
 
 > There are basically two different ways we can approach our questions.
 > For our purposes here, we'll distinguish between these approaches by
@@ -411,7 +408,7 @@ ways.
 
 #### Sincere questions lead to greater faith.
 
-"[When Doubts and Questions Arise](https://www.lds.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)". Ensign. March 2015.
+"[When Doubts and Questions Arise](https://www.churchofjesuschrist.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)". Ensign. March 2015.
 
 > Questions, when asked with a sincere desire to increase
 > one's understanding and faith, are to be encouraged\...
@@ -423,7 +420,7 @@ ways.
 
 #### Doubts occur because you are sinning.
 
-"[When Doubts and Questions Arise](https://www.lds.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)". Ensign. March 2015.
+"[When Doubts and Questions Arise](https://www.churchofjesuschrist.org/ensign/2015/03/when-doubts-and-questions-arise?lang=eng)". Ensign. March 2015.
 
 > As doubts arise, it may be useful to honestly ask yourself, Is there
 > something I am doing or desiring that is contrary to the gospel? If
@@ -434,9 +431,11 @@ ways.
 
 #### Doubt your doubts
 
-"[Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)". Dieter F. Uchtdorf. Oct 2013 General Conference.
+"[Come, Join with Us](https://www.churchofjesuschrist.org/general-conference/2013/10/come-join-with-us?lang=eng)". Dieter F. Uchtdorf. Oct 2013 General Conference.
 
 > ... doubt your doubts before you doubt your faith.
+
+## Appendix 
 
 ### Appendix 1 - Examples from other groups
 
@@ -462,7 +461,7 @@ Some examples from other totalistic groups are easy to identity and show similar
 
 > Every person in this organization–every one of Jehovah’s Witnesses including the governing body–we’re all imperfect and thus we are subject to making mistakes. Which means that if you look hard enough, all you will see instead of seeing these amazing things that Jehovah is accomplishing and our tremendous privilege of being part of it, all we are going to see is the errors of men. But when we focus on the good, on the guidance and loving support that we’ve received, aren’t we moved with appreciation to cleave to this body of fellow worshipers. And just look at what Jehovah is accomplishing by means of his imperfect servants. There is no other organization on earth providing spiritual food like the one that we belong to. When we look at all of this, how could we possibly let the failings of just a few people undermine this overwhelming proof of Jehova’s backing? (From the 2016 “Remain Loyal To Jehovah” regional convention)
 
-## Appendix 2 - Potential Criticisms
+### Appendix 2 - Potential Criticisms
 
 I have encountered some criticism of this work in public discussion and can imagine other potential criticism. I will present the criticism and then some thoughts on its validity.
 
@@ -491,6 +490,15 @@ One might argue that discussing thought patterns in this form is similar to coun
 Response: Significant endeavors that seem somewhat similar to cataloging hermetically sealed systems generally include Robert J. Lifton's [Thought Reform and the Psychology of Totalism](https://en.wikipedia.org/wiki/Thought_Reform_and_the_Psychology_of_Totalism), the DIMPAC report (which was dismissed by the American Psychological Association), Steven Hassan's BITE model (outlined in [his dissertation](https://www.proquest.com/docview/2476570146/) and [applied in one peer reviewed article](https://www.sciencedirect.com/science/article/abs/pii/S2352552519300118?via%3Dihub)) and more generally the idea of [the thought-terminating cliche](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9), [indoctrination](https://en.wikipedia.org/wiki/Indoctrination) (or socialization), and [linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity). Some of these ideas have been rejected by mainstream scientists (e.g., the DIMPAC report) and many others are under-developed academically (e.g., indoctrination, thought-terminating cliche), or lack widespread academic adoption (e.g., the BITE model).[^luna_lindsey_corbden] I am aware of some of the controversies with the work and frameworks listed above and have argued in favor of academically mainstream approaches (e.g., my argument [against using the BITE model to label the LDS Church a "cult"](https://faenrandir.github.io/a_careful_examination/asking-if-its-a-cult-is-wrong-question/) and [dismissal of the idea of "brainwashing" in favor of a social learning framework](https://faenrandir.github.io/a_careful_examination/lds-indoctrination-and-retentive-socialization/)).
 
 Regardless, exploration of hermetically sealed systems of thought seems to be at home among legitimate psychological research demonstrating, for instance, the human propensity to be swayed by [framing effects](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29).
+
+
+## See also
+
+* An early [PDF version of this document](https://faenrandir.github.io/a_careful_examination/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)
+* [Deconstructing Mormonism: An Analysis and Assessment of the Mormon Faith](https://www.worldcat.org/title/666406342) (Thomas Riskas)
+    * [Review of Riskas's book](https://journal.interpreterfoundation.org/sophic-box-and-mantic-vista-a-review-of-deconstructing-mormonism/) (Kevin Christensen)
+* [Recovering Agency: Lifting the Veil of Mormon Mind Control](https://www.worldcat.org/title/1039888665) (Luna Lindsey)
+
 
 [^riskas]: Thomas Riskas in [Deconstructing Mormonism: An Analysis and Assessment of the Mormon Faith](https://www.worldcat.org/title/666406342) examines various circularities and deficiencies within LDS theology and practice from a more philosophical perspective, likening believers to being trapped in a box with instructions for exit on the outside.  A full review of Riskas's work is outside the scope of this short essay, but [in his review of Riskas](https://journal.interpreterfoundation.org/sophic-box-and-mantic-vista-a-review-of-deconstructing-mormonism/), Kevin Christensen basically argues that Riskas is guilty of leaning too heavily on logical positivism without acknowledging its inherent circularities.  I have tried to steer clear of insinuating the supremacy of alternative systems of thought and freely acknowledge intrinsic limitations of all frames of reference.
 

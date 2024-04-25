@@ -45,6 +45,8 @@ kramdown:
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-toc
+
 #  - jekyll-feed
 
 # Exclude from processing.
