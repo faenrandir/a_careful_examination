@@ -265,13 +265,6 @@ table {
   width: 110%;
   border: 5px solid #e8e8e8; }
 
-.section-nav {
-  background-color: #fff;
-  margin: 5px 0;
-  padding: 10px 30px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px; }
-
 /**
  * Site header
  */
@@ -489,6 +482,13 @@ p {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.section-nav {
+  background-color: #fff;
+  margin: 5px 0;
+  padding: 10px 30px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px; }
 
 /**
  * Syntax highlighting styles
