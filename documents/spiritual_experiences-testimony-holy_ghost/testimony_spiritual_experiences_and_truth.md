@@ -5,6 +5,7 @@ doctype: resource
 maintopic: truth-claims
 featuredimage: /media/a-crater-lake.jpg
 layout: page
+toc: true
 ---
 
 # Introduction
