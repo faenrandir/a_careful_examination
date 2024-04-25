@@ -21,6 +21,7 @@ layout: page
 * [What I Wish I had Known](https://drive.google.com/file/d/1-1fjmZ7XhKr9kQhMTBdVK3sq3xDr27fo/view?usp=drivesdk) (almost all LDS-faithful sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
+* [Top Ten Evidences that Mormonism is Not True](https://www.youtube.com/watch?v=F3yjjyYKwj8) (YT, ~50 minutes)
 * [Examining Mormon Truth Claims](https://mormonstories.org/truth-claims/) (essays hosted at Mormon Stories by [Mike Brown](https://mormonstories.org/podcast/mike-brown-examining-mormon-truth-claims/))
 * [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims)
 * [Shelf Breakers](https://drive.google.com/file/d/1xABvaPadd4C9VE7ySVRQ1G_hfNW6vWCB/view) (almost all LDS approved sources)
