@@ -4,7 +4,7 @@ permalink: /hermetically-sealed-systems-in-lds-thought/
 doctype: analysis
 maintopic: epistemology
 layout: page
-toc: true
+toc: false
 ---
 
 
