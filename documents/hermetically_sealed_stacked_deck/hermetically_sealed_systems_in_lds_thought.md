@@ -4,7 +4,7 @@ permalink: /hermetically-sealed-systems-in-lds-thought/
 doctype: analysis
 maintopic: epistemology
 layout: page
-toc: false
+toc: true
 ---
 
 
@@ -17,17 +17,13 @@ A hermetic seal is one which is entirely airtight. A hermetically sealed system 
     <p style="margin:2px; width: 180px; font-size: 80%"><em>A hermetically sealed vial of Neon gas. By analogy, systems of thought can become closed off to some conclusions.</em></p>
 </div>
 
-Arguably, a hermetically sealed system of thought may be created in certain instances when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (formulated by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
+I propose that a hermetically sealed system of thought may be created when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (constrainted by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
 
 Hermetically sealed systems of thought, as described in this document, may be viewed as a subset of the greater [socializing influence of the LDS Church and its culture]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}) which by some measure discourages members from exploring alternative approaches or worldviews. Alternatively, the systems of thought I diagram below may be viewed as a yet unprobed/untested variant of psychological phenomena that might influence a person's choices, such as [framing effects](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29).
 
-## Structure and Veracity
+## Structure, Veracity, and Agency
 
-These diagrams say nothing (directly) about how well these systems of thought coincide with reality.  However, examining the systems of thought in this form may make it easier for the reader to determine if the systems are veridical (i.e., coincide with reality).
-
-## Structure and Agency
-
-Regardless of whether these systems of thought are veridical, their structure may demonstrate aspects of LDS thought which may inhibit members and investigators from exploring the full latitude of thought as they consider alternative models in approaching LDS truth claims.
+These diagrams say nothing (directly) about how well these systems of thought coincide with reality.  However, examining the systems of thought in this form may make it easier for the reader to determine if the systems are veridical (i.e., coincide with reality). And, regardless of whether these systems of thought are veridical, their structure may demonstrate aspects of LDS thought which may inhibit members and investigators from exploring the full latitude of thought as they consider alternative models in approaching LDS truth claims.
 
 ## Hermetically sealed systems in LDS thought
 
