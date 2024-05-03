@@ -12,6 +12,11 @@ toc: false
 
 A hermetic seal is one which is entirely airtight. A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
 
+<div style="float: right; margin-left: 20px;">
+    <img src="../media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas" style="width: 200px;">
+    <p><em>A hermetically sealed vial of neon gas.</em></p>
+</div>
+
 Arguably, a hermetically sealed system of thought may be created in certain instances when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (formulated by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
 
 Hermetically sealed systems of thought, as described in this document, may be viewed as a subset of the greater [socializing influence of the LDS Church and its culture]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}) which by some measure discourages members from exploring alternative approaches or worldviews. Alternatively, the systems of thought I diagram below may be viewed as a yet unprobed/untested variant of psychological phenomena that might influence a person's choices, such as [framing effects](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29).
