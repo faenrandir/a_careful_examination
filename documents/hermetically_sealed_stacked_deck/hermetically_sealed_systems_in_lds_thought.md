@@ -26,13 +26,18 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 ## Hermetically sealed systems in LDS thought
 
+<div style="margin-top: 15px; margin-bottom: 10px">
+
 ### 1\. On seeking revelation
 
 ![Sealed system - do not seek revelation on that which contradicts the Brethren](../media/01-dont_seek_revelation_on_contradictory.png)
 
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
+</div>
 ---
+
+<div style="margin-top: 15px; margin-bottom: 10px">
 
 ### 2\. Divine origin of teachings
 
@@ -40,7 +45,10 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
+</div>
 ---
+
+<div style="margin-top: 15px; margin-bottom: 10px">
 
 ### 3\. Certainty of prayer
 
@@ -48,7 +56,10 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 3: All answers to prayer are ultimately correct.**
 
+</div>
 ---
+
+<div style="margin-top: 15px; margin-bottom: 10px">
 
 ### 4\. Moroni's promise
 
@@ -56,7 +67,10 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
+</div>
 ---
+
+<div style="margin-top: 15px; margin-bottom: 10px">
 
 ### 5\. Those who preach false doctrine
 
@@ -64,7 +78,10 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
 
+</div>
 ---
+
+<div style="margin-top: 15px; margin-bottom: 10px">
 
 ### 6\. Doubt your doubts
 
@@ -72,6 +89,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 6: Ask the right questions and doubt your doubts.**
 
+</div>
 ---
 
 ## Supplements
