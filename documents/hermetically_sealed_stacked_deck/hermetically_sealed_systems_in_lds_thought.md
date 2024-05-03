@@ -10,11 +10,11 @@ toc: true
 
 ## Introduction
 
-A hermetic seal is one which is entirely airtight. A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.
+A hermetic seal is one which is entirely airtight. A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
 
-Generally, a hermetically sealed system of thought may be created when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure makes some conclusions difficult to access.[^inaccessible]
+Arguably, a hermetically sealed system of thought may be created in certain instances when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (formulated by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
 
-Hermetically sealed systems of thought may be viewed as a subset of the greater [socializing influence of the LDS Church and its culture]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}) which in some part discourages members from exploring alternatives. Alternatively, these systems may be viewed as a yet unprobed/untested variant of psychological phenomena that might influence a person's choices, such as [framing effects](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29).
+Hermetically sealed systems of thought, as described in this document, may be viewed as a subset of the greater [socializing influence of the LDS Church and its culture]({{ "/lds-indoctrination-and-retentive-socialization/" | relative_url }}) which by some measure discourages members from exploring alternative approaches or worldviews. Alternatively, the systems of thought I diagram below may be viewed as a yet unprobed/untested variant of psychological phenomena that might influence a person's choices, such as [framing effects](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29).
 
 ## Structure and Veracity
 
@@ -32,35 +32,47 @@ Regardless of whether these systems of thought are veridical, their structure ma
 
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
+---
+
 ### 2\. Divine origin of teachings
 
-![Sealed system - ](../media/02-revelations_contradicting_brethren_not_from_god.png)
+![Sealed system - revelations contradictin the Brethren](../media/02-revelations_contradicting_brethren_not_from_god.png)
 
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
+---
+
 ### 3\. Certainty of prayer
 
-![Sealed system - ](../media/03-prayers_are_always_answered.png)
+![Sealed system - all answers to prayer are correct](../media/03-prayers_are_always_answered.png)
 
 **Figure 3: All answers to prayer are ultimately correct.**
 
+---
+
 ### 4\. Moroni's promise
 
-![Sealed system - ](../media/04-pray_about_bom.png)
+![Sealed system - Moroni's Promise](../media/04-pray_about_bom.png)
 
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
+---
+
 ### 5\. Those who preach false doctrine
 
-![Sealed system - ](../media/05-lazy_or_proud.png)
+![Sealed system - the ignorant and proud](../media/05-lazy_or_proud.png)
 
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
+
+---
 
 ### 6\. Doubt your doubts
 
 ![Sealed system - ](../media/06-doubt_your_doubts.png)
 
 **Figure 6: Ask the right questions and doubt your doubts.**
+
+---
 
 ## Supplements
 
@@ -499,6 +511,8 @@ Regardless, exploration of hermetically sealed systems of thought seems to be at
     * [Review of Riskas's book](https://journal.interpreterfoundation.org/sophic-box-and-mantic-vista-a-review-of-deconstructing-mormonism/) (Kevin Christensen)
 * [Recovering Agency: Lifting the Veil of Mormon Mind Control](https://www.worldcat.org/title/1039888665) (Luna Lindsey)
 
+
+[^hermetically_sealed]: As indicated, a hermetic seal was originally used to describe a physical phenomenon. The term "hermetically sealed" appears to have been used somewhat abstractly at least by the early 1800s (e.g., [pg 4 of this 1808 book](https://www.google.com/books/edition/Prison_Lucubrations_or_Letters_from_that/zHpjAAAAcAAJ?hl=en&gbpv=1&dq=%22hermetically+sealed%22&pg=PA4&printsec=frontcover) or [criticized in this 1816 Irish publication](https://www.google.com/books/edition/No_III/o55KAQAAMAAJ?hl=en&gbpv=1&dq=%22hermetically+sealed%22&pg=PA73&printsec=frontcover). In more modern times, it is commonly used in the same fashion as I have used it here (e.g., [Keesing](https://twren.sites.luc.edu/phil389&elps423/keesing.htm), "Their cultures are hermetically sealed, beyond the reaches of time and the world system."; Or in [this 2017 abstract](https://pubmed.ncbi.nlm.nih.gov/29124696/), "The ... medical approach represents a paradigm shift from a strictly biomedical view of health and disease taken as hermetically sealed compartments to a more interdisciplinary one.")
 
 [^riskas]: Thomas Riskas in [Deconstructing Mormonism: An Analysis and Assessment of the Mormon Faith](https://www.worldcat.org/title/666406342) examines various circularities and deficiencies within LDS theology and practice from a more philosophical perspective, likening believers to being trapped in a box with instructions for exit on the outside.  A full review of Riskas's work is outside the scope of this short essay, but [in his review of Riskas](https://journal.interpreterfoundation.org/sophic-box-and-mantic-vista-a-review-of-deconstructing-mormonism/), Kevin Christensen basically argues that Riskas is guilty of leaning too heavily on logical positivism without acknowledging its inherent circularities.  I have tried to steer clear of insinuating the supremacy of alternative systems of thought and freely acknowledge intrinsic limitations of all frames of reference.
 
