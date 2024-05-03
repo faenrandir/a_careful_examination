@@ -12,9 +12,9 @@ toc: false
 
 A hermetic seal is one which is entirely airtight. A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
 
-<div style="float: right; margin-left: 20px;">
-    <img src="../media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas">
-    <p><em>Hermetically sealed vial.</em></p>
+<div style="float: right; margin-left: 15px; margin-right: 0px: margin-top: 5px; margin-bottom: 10px;">
+    <img style="margin: 0px" src="../media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas">
+    <p style="margin:2px; width: 180px; font-size: 80%"><em>A hermetically sealed vial of Neon gas. By analogy, systems of thought can become closed off to some conclusions.</em></p>
 </div>
 
 Arguably, a hermetically sealed system of thought may be created in certain instances when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (formulated by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
@@ -40,6 +40,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
 <br>
+
 ---
 
 <br>
@@ -51,6 +52,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
 <br>
+
 ---
 
 <br>
@@ -62,6 +64,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 3: All answers to prayer are ultimately correct.**
 
 <br>
+
 ---
 
 <br>
@@ -73,6 +76,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
 <br>
+
 ---
 
 <br>
@@ -84,6 +88,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
 
 <br>
+
 ---
 
 <br>
@@ -95,6 +100,7 @@ Regardless of whether these systems of thought are veridical, their structure ma
 **Figure 6: Ask the right questions and doubt your doubts.**
 
 <br>
+
 ---
 
 ## Supplements
