@@ -10,11 +10,11 @@ toc: true
 
 ## Introduction
 
-A hermetic seal is one which is entirely airtight. A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
+A hermetic seal is one which is entirely airtight (see an example of a hermetically sealed vial to the right). A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
 
 <div style="float: right; margin-left: 15px; margin-right: 0px: margin-top: 5px; margin-bottom: 10px;">
     <img style="margin: 0px" src="../media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas">
-    <p style="margin:2px; width: 180px; font-size: 80%"><em>A hermetically sealed vial of Neon gas. By analogy, systems of thought can become closed off to some conclusions.</em></p>
+    <p style="margin:2px; width: 180px; font-size: 80%"><em>A hermetically sealed vial of Neon gas.</em></p>
 </div>
 
 I propose that a hermetically sealed system of thought may be created when a person accepts one or more assumptions (sometimes unawares) which then prevent them from ever arriving at conclusions outside the resulting system of thought.  From *within* the system it appears that the full range of choices and possibilities are available, but the thought structure (constrainted by the adoption of certain assumptions or premises) makes some conclusions impossible (or at least difficult) to access.
