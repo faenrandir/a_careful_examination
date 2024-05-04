@@ -35,7 +35,9 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
-<br>
+Assumption derived from Foundations of the Restoration Teacher Manual (Religion 225) [lesson 20](https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-teacher-manual/lesson-20-plural-marriage?lang=eng#p36):
+
+> We should not seek to receive revelation that is contrary to what the Lord has revealed through His prophets.
 
 ---
 
@@ -47,7 +49,9 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
-<br>
+Assumption derived from a 1913 First Presidency Statement about erroneous doctrine (as found in the D&C Student Manual for Religion 324 and 325, [Enrichment J-7](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual/enrichment-j-keys-for-avoiding-deception?lang=eng)):
+
+> When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.
 
 ---
 
@@ -59,7 +63,9 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 3: All answers to prayer are ultimately correct.**
 
-<br>
+Assumption derived from Jeffrey R. Holland's [Wrong Roads](https://www.churchofjesuschrist.org/comeuntochrist/video/wrong-roads) (Inspirational Message):
+
+> Somewhere along the way Matt said, "Dad, why did we feel, after praying about it, that the right road was the proper one to take, the correct one to take, and it wasn't?" I think that the Lord, his wish for us there, and his answer to our prayer, was to get us on the right road as quickly as possible with some reassurance, with some understanding that we were on the right road and we didn't have to worry about it.
 
 ---
 
@@ -71,7 +77,7 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
-<br>
+For assumption sources, see [Supplement to Sealed System #4 (Moroni's Promise)](#supplement-to-sealed-system-4-moronis-promise).
 
 ---
 
@@ -83,7 +89,15 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
 
-<br>
+Assumption derived from Teachings of the Prophet Joseph F. Smith [chapter 13](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith/chapter-13?lang=eng):
+
+> Among the Latter-day Saints, the preaching of false doctrines disguised as truths of the gospel, may be expected from people of two classes, and practically from these only; they are:
+
+> First—The hopelessly ignorant, whose lack of intelligence is due to their indolence and sloth, who make but feeble effort, if indeed any at all, to better themselves by reading and study; those who are afflicted with a dread disease that may develop into an incurable malady—laziness.
+
+> Second—The proud and self-vaunting ones, who read by the lamp of their own conceit; who interpret by rules of their own contriving; who have become a law unto themselves, and so pose as the sole judges of their own doings. More dangerously ignorant than the first.
+
+> Beware of the lazy and the proud.
 
 ---
 
@@ -95,7 +109,7 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 **Figure 6: Ask the right questions and doubt your doubts.**
 
-<br>
+For assumption sources, see [Supplement to Sealed System #6 (doubt your doubts)](#supplement-to-sealed-system-6-doubt-your-doubts).
 
 ---
 
