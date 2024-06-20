@@ -18,7 +18,7 @@ layout: page
 
 * [LDS Discussions](https://www.ldsdiscussions.com/) (in-depth discussion of the gospel topics essays, "Saints:The Standard of Truth", and many key truth-claims; also on [youtube](https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced)) 
 * [Letter For My Wife](http://www.letterformywife.com/) (almost all LDS approved sources) ([Fairmormon response](https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)))
-* [What I Wish I had Known](https://drive.google.com/file/d/1-1fjmZ7XhKr9kQhMTBdVK3sq3xDr27fo/view?usp=drivesdk) (almost all LDS-faithful sources)
+* [What I Wish I had Known](https://docs.google.com/document/d/1suMEwIFxJ1CbxJ7ePENbwWRv6oBr-FJN/edit?usp=sharing&ouid=107255027875578587830&rtpof=true&sd=true) (almost all LDS-faithful sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
 * [Modern Day Pharisees](https://docs.google.com/document/d/1gutnL1tVW3PIW_ZbxyuKRuButejSoKKC7IwmR6vIoe4/edit) (argues the modern Church deviates from what Jesus taught in the NT)
@@ -30,14 +30,13 @@ layout: page
 * [A Letter to an Apostle](https://lettertoanapostle.org/) (35 essays on the truth-claims)
 * [A Compilation of the Evidence Against the LDS Church](https://mormonbandwagon.com/eric_n/leaving-the-church/)
 * [Literally: Wrestling with historical curiosities in Mormonism](https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view)
-* [An End to Cognitive Dissonance](https://docs.google.com/file/d/1ih6jF7hBPBi_YmpiOod3oxVpzU5ng-OS4-0XjQUTcX4AbNTP-FIEB2OzmaDf/view)
 * [The CES Letter](http://cesletter.com/) (the most famous compilation, by Jeremy Runnells)
 
 ## Other
 
 * [Mormonism with the Murph](https://www.youtube.com/@mormonismwiththemurph/videos) (believing member podcast that examines both sides)
 * [Questions to Ask]({{ "/questions-to-ask/" | relative_url }})
-* [Significant absurdities one must believe to accept Mormonism](https://docs.google.com/document/d/1yzkCZkhjp_WmU9n6xWjqO0-ivX-ppQ0HrRjy4ItZz-U/edit?usp=sharing) (google doc compilation)
+* [The Mormon Paradox: A List of Inconsistencies That Challenge Faith](https://mormondiscussionpodcast.org/the-mormon-paradox/) (Bill Reel crowd-sourced from [here](https://www.reddit.com/r/exmormon/comments/e6lgt6/bill_reel_here_trying_to_create_a_cumulative_list/))
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (more light-hearted but summaries)
 
 *Additional resources and discussion can be found at the [exmormon bookshelf](https://www.reddit.com/r/ExmormonBookshelf/), [mormon](https://www.reddit.com/r/mormon/), [mormonscholar](https://www.reddit.com/r/mormonscholar/), and [exmormon](https://www.reddit.com/r/exmormon/) subreddits.*
@@ -47,7 +46,7 @@ layout: page
 ### Official
 
 * [Gospel Topics Essays](https://www.churchofjesuschrist.org/topics/essays?lang=eng&old=true) (churchofjesuschrist.org)
-* [Gospel Topics, Essays, and Other Resources](https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) (churchofjesuschrist.org)
+* [Gospel Topics, Essays, and Other Resources](https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng) ([archive](https://web.archive.org/web/20240607004414/https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng)) (churchofjesuschrist.org)
 
 ### Semi affiliated
 
@@ -105,4 +104,4 @@ layout: page
 
 ## See also
 
-[Resources related to the helps and harms of the LDS Church](https://faenrandir.github.io/a_careful_examination/resources-related-to-helps-and-harms/)
+[Resources related to the helps and harms of the LDS Church]({{ "/resources-related-to-helps-and-harms/" | relative_url }})
