@@ -21,6 +21,7 @@ layout: page
 * [What I Wish I had Known](https://drive.google.com/file/d/1-1fjmZ7XhKr9kQhMTBdVK3sq3xDr27fo/view?usp=drivesdk) (almost all LDS-faithful sources)
 * [Letter From a Doubter](https://leavingthegarden.wordpress.com/2016/04/06/letter-from-a-doubter/) (well-sourced narrative style explanation)
 * [Mormon Primer](https://mormondiscussions.org/wp-content/uploads/2019/07/MormonPrimer7.pdf) (multiple perspectives: mainstream, critical, apologetic, and progressive)
+* [Modern Day Pharisees](https://docs.google.com/document/d/1gutnL1tVW3PIW_ZbxyuKRuButejSoKKC7IwmR6vIoe4/edit) (argues the modern Church deviates from what Jesus taught in the NT)
 * [Top Ten Evidences that Mormonism is Not True](https://www.youtube.com/watch?v=F3yjjyYKwj8) (YT, ~50 minutes)
 * [Examining Mormon Truth Claims](https://mormonstories.org/truth-claims/) (essays hosted at Mormon Stories by [Mike Brown](https://mormonstories.org/podcast/mike-brown-examining-mormon-truth-claims/))
 * [Mormon Think](http://www.mormonthink.com/) (vast resource on LDS truth-claims)
