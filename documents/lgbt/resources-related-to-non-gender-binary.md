@@ -10,7 +10,7 @@ layout: page
 * [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)
 * [Guide to Being an Ally to Transgender and NonBinary Youth](https://www.thetrevorproject.org/wp-content/uploads/2021/07/Guide-to-Being-an-Ally-to-Transgender-and-Nonbinary-Youth.pdf) (The Trevor Project)
 * [The LGBTQ+ Guide to Online Safety](https://www.vpnmentor.com/blog/lgbtq-guide-online-safety/)
-
+* [Finding Your True Voice: A Guide to Gender-Affirming Verbal Communication](https://onlinespeechpathologyprograms.org/gender-affirming-verbal-communication/)
 
 ## General
 
