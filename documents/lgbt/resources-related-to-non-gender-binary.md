@@ -10,7 +10,6 @@ layout: page
 * [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)
 * [Guide to Being an Ally to Transgender and NonBinary Youth](https://www.thetrevorproject.org/wp-content/uploads/2021/07/Guide-to-Being-an-Ally-to-Transgender-and-Nonbinary-Youth.pdf) (The Trevor Project)
 * [The LGBTQ+ Guide to Online Safety](https://www.vpnmentor.com/blog/lgbtq-guide-online-safety/)
-* [Finding Your True Voice: A Guide to Gender-Affirming Verbal Communication](https://onlinespeechpathologyprograms.org/gender-affirming-verbal-communication/)
 
 ## General
 
@@ -54,6 +53,7 @@ Nonetheless, there is still some significant room within broader LDS theology to
 * Human Sexuality [part 1](https://www.youtube.com/watch?v=LOY3QH_jOtE), [part 2](https://www.youtube.com/watch?v=95OP9rSjxzw), [part 3](https://www.youtube.com/watch?v=JPYmarGO5jM) (lectures from Professor Robert Sapolsky's Human Behavioral Biology course at Stanford University)
 * On a biological origin of homosexuality [podcast](https://www.mormonstories.org/podcast/byu-professor-bill-bradshaw-on-a-biological-origin-of-homosexuality/), [video](https://www.youtube.com/watch?v=8IHw9DVI3hE), [overhead slides](https://mormonstories.wpengine.com/podcast/dropbox/bradshaw-overheads/) (BYU Professor Bill Bradshaw lecture)
 * BYU USGA [resource page](https://www.usgabyu.com/resources-for-you)
+* [Finding Your True Voice: A Guide to Gender-Affirming Verbal Communication](https://onlinespeechpathologyprograms.org/gender-affirming-verbal-communication/)
 
 
 [^progressive]: Admittedly, most of those exploring this territory are progressive and/or queer members, but there still may be some validity to their perspective, even to more orthodox members.
