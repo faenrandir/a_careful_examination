@@ -17,6 +17,8 @@ Other sources or analyses, listed below, may also have merit.
 The following sources *also* seem reminiscent of the Book of Mormon in some way(s):
 
 1. [Similarities with Le Morte d'Arthur](https://www.reddit.com/r/exmormon/comments/5aresk/you_can_add_le_morte_darthur_to_that_list_of/)
+1. [Similarities with The Chronicle of the Kings of England](https://www.reddit.com/r/mormon/comments/1elv9ov/fun_little_book_that_echoes_the_book_of_mormon/)(https://www.reddit.com/r/mormon/comments/1elv9ov/fun_little_book_that_echoes_the_book_of_mormon/) ([book](https://babel.hathitrust.org/cgi/pt?id=mdp.39015023179859&seq=1)) (redditor TruthIsAntiMormon)
+1. Similarities with [The chronicle of Abomilech, King of the Isles](https://www.google.com/books/edition/The_Chronicle_of_Abomilech_King_of_the_I/s_A7AQAAMAAJ?hl=en&gbpv=1&printsec=frontcover) ([post1](https://www.reddit.com/r/mormon/comments/1elwzfp/is_abomilech_somewhat_synonymous_with_king_noah/), [post2](https://www.reddit.com/r/mormon/comments/1emj8w7/digging_deeper_king_george_iv_as_inspiration/), [post3](https://www.reddit.com/r/mormon/comments/1emhyh7/digging_deeper_king_george_iv_as_inspiration/), [post4](https://www.reddit.com/r/mormon/comments/1emlnyu/digging_deeper_king_george_iv_as_inspiration/)) (redditor TruthIsAntiMormon)
 1. [Lamoni vs. Launcelot](https://www.reddit.com/r/exmormon/comments/71uqbc/lamoni_vs_launcelot/)
 1. [Similarities between Dartmouth professor John Smith's writings and the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/)
 1. [Slippery treasure](https://www.reddit.com/r/mormon/comments/d897gd/treasure_in_the_book_of_mormon/) (ArchimedesPPL)
