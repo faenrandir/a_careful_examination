@@ -10,6 +10,7 @@ layout: page
 * [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)
 * [Guide to Being an Ally to Transgender and NonBinary Youth](https://www.thetrevorproject.org/wp-content/uploads/2021/07/Guide-to-Being-an-Ally-to-Transgender-and-Nonbinary-Youth.pdf) (The Trevor Project)
 * [The LGBTQ+ Guide to Online Safety](https://www.vpnmentor.com/blog/lgbtq-guide-online-safety/)
+* [How to respond when a child comes out?](https://www.tiktok.com/@realmamabears/video/7388550354847223071)
 
 ## General
 
