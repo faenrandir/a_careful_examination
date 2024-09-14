@@ -11,7 +11,7 @@ This article discusses suicide and some potentially disturbing doctrinal stateme
 
 ### Introduction
 
-In a series of [recently released videos by the LDS Church to address suicide](https://www.deseretnews.com/article/900023523/lds-church-releases-new-videos-on-coping-with-and-preventing-suicide.html), Elder Dale Renlund stated (emphasis added here and in all other quotes below):
+In a series of [recently released videos by the LDS Church to address suicide](https://web.archive.org/web/20200228130728/https://www.deseret.com/2018/7/2/20648210/lds-apostle-totally-false-that-suicide-leads-to-permanent-hell), Elder Dale Renlund stated (emphasis added here and in all other quotes below):
 
 > There's **an old sectarian notion that suicide is a sin and that someone who commits suicide is banished to hell forever. That is totally false**.  I believe the vast majority of cases will find that these individuals have lived heroic lives and that that suicide will not be a defining characteristic of their eternities.
 
