@@ -68,6 +68,22 @@ The Kinderhook plates give us a template for how this can happen. He could have 
 
 The fact that he was typically guarded about how much he let people inspect them (always under very controlled circumstances to controlled groups) [especially compared with the BoA] suggests that they would NOT have survived deep scrutiny. They were enough to convince people who wanted to believe in them.
 
+Copper, brass, and tin plates seem to have been fairly common during this time.
+
+[Need a page devoted to metalwork from this era to demonstrate its ubiquity
+and how, relatively speaking, simple the construction and engraving of plates
+would have been compared to all the kinds of things being produced in that
+era by skilled smiths and engravers.]
+
+Brass plates were commonly made/engraven and put into (on??) cornerstones (h/t https://www.reddit.com/r/exmormon/comments/1flbeum/til_that_1800s_freemasons_made_stone_boxes_to/):
+
+https://www.unc.edu/posts/2016/10/10/the-most-important-artifact-that-we-have/
+
+[supposed to cover engraving and metalwork]
+https://archive.org/details/cyclopaediaoruni08rees/page/4/mode/2up?q=engraving
+
+An 1841? book on engraving that includes [a section on metallic engraving](https://archive.org/details/artengravingwit00fielgoog/page/n138/mode/2up).
+
 > If someone else wrote the Book of Mormon, why did no one come forward?
 
 Joseph Smith was the likely author.
