@@ -65,7 +65,9 @@ gtag('config', 'UA-125187615-1');
 
 <p><em>Please make two columns. On the left, the entire text that I’m pasting in, in reasonable thematic chunks for comparison. On the right, please include the bible reference and text for the bible verses that are most similar to the text I have input. The final output should be markdown formatted code.</em></p>
 
-<p><em>I have not yet validated chatgpt4o’s output, and it is known to hallucinate, so all output should be taken with caution.</em></p>
+<p>I then took each reference and re-looked it up in https://bible-api.com using the “kjv” translation (or the KJV of https://www.biblegateway.com/ for the Song of Solomon reference since was giving trouble through the API) to ensure that the text was the complete kjv text for the given reference (so that the representative text corresponds with the verse to avoid LLM hallucination).</p>
+
+<p><em>I have not yet carefully validated chatgpt4o’s output, and it is known to make mistakes, so all output should be taken with caution.</em></p>
 
 <hr />
 
@@ -81,15 +83,15 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>About that time there was in the desert a certain man named Zosimus, [who for forty years ate no bread, and drank no wine, and saw not the face of man.]</td>
-      <td><strong>Matthew 4:1-2</strong> - “Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. And after fasting forty days and forty nights, he was hungry.”</td>
+      <td><strong>Matthew 4:1-2</strong> - “Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. And when he had fasted forty days and forty nights, he was afterward an hungred.”</td>
     </tr>
     <tr>
       <td>This man was entreating God that he might see the way of life of the blessed, and behold an angel of the Lord was sent saying to him, Zosimus, man of God, behold I am sent by the Most High, the God of all, to tell thee that thou shalt journey to the blessed, but shall not dwell with them.</td>
-      <td><strong>Genesis 28:12-13</strong> - “And he dreamed, and behold, there was a ladder set up on the earth, and the top of it reached to heaven. And behold, the angels of God were ascending and descending on it! And behold, the Lord stood above it and said, ‘I am the Lord, the God of Abraham your father and the God of Isaac.’”</td>
+      <td><strong>Genesis 28:12-13</strong> - “And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it. And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;”</td>
     </tr>
     <tr>
       <td>[But exalt not thy heart, saying, For forty years I have not eaten bread, for the word of God is more than bread, and the spirit of God is more than wine.]</td>
-      <td><strong>Deuteronomy 8:3</strong> - “He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your ancestors had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord.”</td>
+      <td><strong>Deuteronomy 8:3</strong> - “And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word  that proceedeth out of the mouth of the LORD doth man live.”</td>
     </tr>
     <tr>
       <td>And as for thy saying, I have not seen the face of man, behold the face of the great king is nigh thee.</td>
@@ -97,11 +99,11 @@ gtag('config', 'UA-125187615-1');
     </tr>
     <tr>
       <td>Zosimus said, I know that the Lord can do whatsoever he will.</td>
-      <td><strong>Job 42:2</strong> - “I know that you can do all things, and that no purpose of yours can be thwarted.”</td>
+      <td><strong>Job 42:2</strong> - “I know that thou canst do every thing, and that  no thought can be withholden from thee.”</td>
     </tr>
     <tr>
       <td>The angel said to him, Know this also, that thou art not worthy of one of their delights, but arise and set out.</td>
-      <td><strong>Isaiah 6:5</strong> - “Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.”</td>
+      <td><strong>Isaiah 6:5</strong> - “Then said I, Woe is me! for I am undone; because I am  a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.”</td>
     </tr>
   </tbody>
 </table>
@@ -118,51 +120,51 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>And I, Zosimus, issuing from my cave with God leading me, set out not knowing which way I went…</td>
-      <td><strong>Genesis 12:1 (NIV):</strong> “The Lord had said to Abram, ‘Go from your country, your people and your father’s household to the land I will show you.’”</td>
+      <td><strong>Genesis 12:1</strong> - “Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:”</td>
     </tr>
     <tr>
       <td>After I had travelled forty days my spirit grew faint and my body failed…</td>
-      <td><strong>1 Kings 19:8 (NIV):</strong> “So he got up and ate and drank. Strengthened by that food, he traveled forty days and forty nights until he reached Horeb, the mountain of God.”</td>
+      <td><strong>1 Kings 19:8</strong> - “And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.”</td>
     </tr>
     <tr>
       <td>…being exhausted I sat down, and continued praying in that place for three days.</td>
-      <td><strong>Acts 9:9 (NIV):</strong> “For three days he was blind, and did not eat or drink anything.”</td>
+      <td><strong>Acts 9:9</strong> - “And he was three days without sight, and neither did eat nor drink.”</td>
     </tr>
     <tr>
       <td>A beast from the desert, whose name is the camel, and placing its knees on the ground, it received me upon its neck…</td>
-      <td><strong>Isaiah 30:6 (NIV):</strong> “…envoys travel on the backs of donkeys, on the camels through the desert, to a people that will not help them.”</td>
+      <td><strong>Isaiah 30:6</strong> - “The burden of the beasts of the south: into the land of trouble and anguish, from whence come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that  shall not profit them.”</td>
     </tr>
     <tr>
       <td>There was much howling of wild beasts, and gnashing of teeth, and deadly poison.</td>
-      <td><strong>Matthew 8:12 (NIV):</strong> “But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth.”</td>
+      <td><strong>Matthew 8:12</strong> - “But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.”</td>
     </tr>
     <tr>
       <td>And becoming afraid, I prayed to the Lord, and there came in that place a great earthquake with noise…</td>
-      <td><strong>Acts 16:26 (NIV):</strong> “Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open…”</td>
+      <td><strong>Acts 16:26</strong> - “And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.”</td>
     </tr>
     <tr>
       <td>…a storm of wind blew and lifted me from the earth, and exalted me on its wing…</td>
-      <td><strong>Isaiah 40:31 (NIV):</strong> “…but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary…”</td>
+      <td><strong>Isaiah 40:31</strong> - “But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.”</td>
     </tr>
     <tr>
       <td>…and I was praying and journeying till it set me upon a place beside a river, and the name of the river is Eumeles.</td>
-      <td><strong>Ezekiel 47:5 (NIV):</strong> “…but now it was a river that I could not cross, because the water had risen and was deep enough to swim in—a river that no one could cross.”</td>
+      <td><strong>Ezekiel 47:5</strong> - “Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.”</td>
     </tr>
     <tr>
       <td>…some one cried as if from the water, saying, Zosimus, man of God, thou canst not pass through me,</td>
-      <td><strong>Exodus 14:21 (NIV):</strong> “Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land.”</td>
+      <td><strong>Exodus 14:21</strong> - “And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.”</td>
     </tr>
     <tr>
       <td>…look up from the waters to the heaven…</td>
-      <td><strong>Psalm 121:1-2 (NIV):</strong> “I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.”</td>
+      <td><strong>Psalm 121:1-2</strong> - “I will lift up mine eyes unto the hills, from whence cometh my help. My help cometh from the LORD, which made heaven and earth.”</td>
     </tr>
     <tr>
       <td>And looking up I saw a wall of cloud stretching from the waters to the heaven…</td>
-      <td><strong>Exodus 14:19 (NIV):</strong> “Then the angel of God, who had been traveling in front of Israel’s army, withdrew and went behind them. The pillar of cloud also moved from in front and stood behind them…”</td>
+      <td><strong>Exodus 14:19</strong> - “And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:”</td>
     </tr>
     <tr>
       <td>The cloud said, Zosimus, man of God, through me no bird passes out of this world…</td>
-      <td><strong>Genesis 28:12 (NIV):</strong> “He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and descending on it.”</td>
+      <td><strong>Genesis 28:12</strong> - “And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.”</td>
     </tr>
   </tbody>
 </table>
@@ -179,35 +181,35 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>And I was astonished at these words, and at the voice that spake these things to me.</td>
-      <td><strong>Daniel 8:15-16 (ESV):</strong> “When I, Daniel, had seen the vision, I sought to understand it. And behold, there stood before me one having the appearance of a man. And I heard a man’s voice between the banks of the Ulai, and it called, ‘Gabriel, make this man understand the vision.’”</td>
+      <td><strong>Daniel 8:15-16</strong> - “And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man. And I heard a man’s voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.”</td>
     </tr>
     <tr>
       <td>And as I prayed, behold two trees sprang up out of the earth, fair and beautiful, laden with fragrant fruits.</td>
-      <td><strong>Genesis 2:9 (NIV):</strong> “The Lord God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.”</td>
+      <td><strong>Genesis 2:9</strong> - “And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.”</td>
     </tr>
     <tr>
       <td>And the tree on this side bent down and received me on its top, and was lifted up exceedingly above the middle of the river,</td>
-      <td><strong>Psalm 1:3 (KJV):</strong> “And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.”</td>
+      <td><strong>Psalm 1:3</strong> - “And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.”</td>
     </tr>
     <tr>
       <td>and the other tree met me and received me in its branches and bending down set me on the ground;</td>
-      <td><strong>John 15:5 (NIV):</strong> “I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.”</td>
+      <td><strong>John 15:5</strong> - “I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.”</td>
     </tr>
     <tr>
       <td>and both trees were lifted up and set me away from the river on the other side.</td>
-      <td><strong>Revelation 22:2 (NIV):</strong> “Down the middle of the great street of the city, on each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations.”</td>
+      <td><strong>Revelation 22:2</strong> - “In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner  of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.”</td>
     </tr>
     <tr>
       <td>In that place I rested three days, and arising again.</td>
-      <td><strong>Jonah 1:17 (ESV):</strong> “And the Lord appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.”</td>
+      <td><strong>Jonah 1:17</strong> - “Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.”</td>
     </tr>
     <tr>
       <td>I went forward, whither I knew not, and that place was filled with much fragrance,</td>
-      <td><strong>Song of Solomon 2:13 (NIV):</strong> “The fig tree forms its early fruit; the blossoming vines spread their fragrance. Arise, come, my darling; my beautiful one, come with me.”</td>
+      <td><strong>Song of Solomon 2:13</strong> - “The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.”</td>
     </tr>
     <tr>
       <td>and there was no mountain on either hand, but the place was level and flowery, all crowned with garlands, and all the land was beautiful.</td>
-      <td><strong>Isaiah 35:1-2 (NIV):</strong> “The desert and the parched land will be glad; the wilderness will rejoice and blossom. Like the crocus, it will burst into bloom; it will rejoice greatly and shout for joy. The glory of Lebanon will be given to it, the splendor of Carmel and Sharon; they will see the glory of the Lord, the splendor of our God.”</td>
+      <td><strong>Isaiah 35:1-2</strong> - “The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God.”</td>
     </tr>
   </tbody>
 </table>
@@ -224,35 +226,35 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>And I saw there a naked man sitting, and said in myself, Surely this is not the tempter.</td>
-      <td><strong>Genesis 3:10</strong> - “He answered, ‘I heard you in the garden, and I was afraid because I was naked; so I hid.’”</td>
+      <td><strong>Genesis 3:10</strong> - “And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.”</td>
     </tr>
     <tr>
       <td>And I remembered the voice of the cloud that it said to me, Not even the tempter in this world passes through me.</td>
-      <td><strong>Job 1:7</strong> - “The Lord said to Satan, ‘Where have you come from?’ Satan answered the Lord, ‘From roaming throughout the earth.’”</td>
+      <td><strong>Job 1:7</strong> - “And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.”</td>
     </tr>
     <tr>
       <td>And thus taking courage I said to him, Hail, brother.</td>
-      <td><strong>1 Peter 5:14</strong> - “Greet one another with a kiss of love. Peace to all of you who are in Christ.”</td>
+      <td><strong>1 Peter 5:14</strong> - “Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.”</td>
     </tr>
     <tr>
       <td>And he answering said to me, The grace of my God be with thee.</td>
-      <td><strong>2 Thessalonians 3:18</strong> - “The grace of our Lord Jesus Christ be with you all.”</td>
+      <td><strong>2 Thessalonians 3:18</strong> - “The grace of our Lord Jesus Christ be with you all. Amen.”</td>
     </tr>
     <tr>
       <td>Again I said to him, Tell me, man of God, who thou art?</td>
-      <td><strong>2 Kings 1:9</strong> - “Then the king sent to him a captain of fifty men with his fifty. He went up to Elijah, who was sitting on the top of a hill, and said to him, ‘Man of God, the king says, “Come down!”’”</td>
+      <td><strong>2 Kings 1:9</strong> - “Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.”</td>
     </tr>
     <tr>
       <td>He answered and said to me, Who art thou rather? And I answered and told him all concerning myself, and that I had prayed to God and he had brought me into that place.</td>
-      <td><strong>Acts 9:5</strong> - “Who are you, Lord?’ Saul asked. ‘I am Jesus, whom you are persecuting,’ he replied.”</td>
+      <td><strong>Acts 9:5</strong> - “And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.”</td>
     </tr>
     <tr>
       <td>He answered and said to me, I also know that thou art a man of God, for if not, thou couldst not have passed through the cloud and the river and the air.</td>
-      <td><strong>2 Kings 5:15</strong> - “Then Naaman and all his attendants went back to the man of God. He stood before him and said, ‘Now I know that there is no God in all the world except in Israel.’”</td>
+      <td><strong>2 Kings 5:15</strong> - “And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is  no God in all earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.”</td>
     </tr>
     <tr>
       <td>For the breadth of the river is about thirty thousand paces, and the cloud reaches to heaven, and the depth of the river to the abyss.</td>
-      <td><strong>Revelation 22:1</strong> - “Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb.”</td>
+      <td><strong>Revelation 22:1</strong> - “And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.”</td>
     </tr>
   </tbody>
 </table>
@@ -269,59 +271,59 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>And having ended this discourse the man spoke again, Hast thou come hither out of the vanity of the world?</td>
-      <td><strong>1 John 2:16-17 (KJV):</strong> “For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.”</td>
+      <td><strong>1 John 2:16-17</strong> - “For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.”</td>
     </tr>
     <tr>
       <td>I said to him, Wherefore art thou naked? He said, How knowest thou that I am naked?</td>
-      <td><strong>Genesis 3:10 (KJV):</strong> “And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.”</td>
+      <td><strong>Genesis 3:10</strong> - “And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.”</td>
     </tr>
     <tr>
       <td>Thou wearest skins of the cattle of the earth, that decay together with thy body, but look up to the height of heaven and behold of what nature my clothing is.</td>
-      <td><strong>2 Corinthians 5:1-4 (KJV):</strong> “For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens. For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven.”</td>
+      <td><strong>2 Corinthians 5:1-4</strong> - “For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens. For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven: If so be that being clothed we shall not be found naked. For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.”</td>
     </tr>
     <tr>
       <td>And looking up into heaven I saw his face as the face of an angel, and his clothing as lightning, which passes from the east to the west,</td>
-      <td><strong>Matthew 28:3 (KJV):</strong> “His countenance was like lightning, and his raiment white as snow.”</td>
+      <td><strong>Matthew 28:3</strong> - “His countenance was like lightning, and his raiment white as snow:”</td>
     </tr>
     <tr>
       <td>and I was greatly afraid, thinking that it was the son of God, and trembled, falling upon the ground.</td>
-      <td><strong>Matthew 17:6 (KJV):</strong> “And when the disciples heard it, they fell on their face, and were sore afraid.”</td>
+      <td><strong>Matthew 17:6</strong> - “And when the disciples heard it, they fell on their face, and were sore afraid.”</td>
     </tr>
     <tr>
       <td>And giving me his hand he raised me up, saying, Arise, I also am one of the blessed.</td>
-      <td><strong>Acts 9:6 (KJV):</strong> “And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.”</td>
+      <td><strong>Acts 9:6</strong> - “And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.”</td>
     </tr>
     <tr>
       <td>Come with me, that I may lead thee to the elders. And laying hold of my hand he walked about with me and led me toward a certain crowd,</td>
-      <td><strong>Revelation 4:4 (KJV):</strong> “And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.”</td>
+      <td><strong>Revelation 4:4</strong> - “And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.”</td>
     </tr>
     <tr>
       <td>and there were in that crowd elders like sons of God, and young men were standing beside the elders.</td>
-      <td><strong>Job 1:6 (KJV):</strong> “Now there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them.”</td>
+      <td><strong>Job 1:6</strong> - “Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.”</td>
     </tr>
     <tr>
       <td>And as I came near to them, they said, This man has come hither out of the vanity of the world; come, let us beseech the Lord and he will reveal to us this mystery.</td>
-      <td><strong>Jeremiah 33:3 (KJV):</strong> “Call unto me, and I will answer thee, and show thee great and mighty things, which thou knowest not.”</td>
+      <td><strong>Jeremiah 33:3</strong> - “Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.”</td>
     </tr>
     <tr>
       <td>Surely the end is not at hand, that the man of vanity is come hither?</td>
-      <td><strong>2 Peter 3:4 (KJV):</strong> “And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.”</td>
+      <td><strong>2 Peter 3:4</strong> - “And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.”</td>
     </tr>
     <tr>
       <td>Then they arose and besought the Lord with one accord,</td>
-      <td><strong>Acts 1:14 (KJV):</strong> “These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.”</td>
+      <td><strong>Acts 1:14</strong> - “These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.”</td>
     </tr>
     <tr>
       <td>and behold two angels came down from heaven and said, Fear not the man, for God has sent him, that he may remain seven days and learn your ways of life,</td>
-      <td><strong>Acts 10:3-4 (KJV):</strong> “He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius. And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.”</td>
+      <td><strong>Acts 10:3-4</strong> - “He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius. And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.”</td>
     </tr>
     <tr>
       <td>and then he shall go forth and depart to his own place.</td>
-      <td><strong>John 16:28 (KJV):</strong> “I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.”</td>
+      <td><strong>John 16:28</strong> - “I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.”</td>
     </tr>
     <tr>
       <td>The angels of God having said this ascended into heaven before our eyes.</td>
-      <td><strong>Acts 1:9 (KJV):</strong> “And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.”</td>
+      <td><strong>Acts 1:9</strong> - “And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.”</td>
     </tr>
   </tbody>
 </table>
@@ -338,59 +340,59 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>Then the elders of the blessed gave me over to one of the attendants, saying, Keep him for seven days.</td>
-      <td><strong>Genesis 37:36</strong> - “Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials, the captain of the guard.”</td>
+      <td><strong>Genesis 37:36</strong> - “And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, and captain of the guard.”</td>
     </tr>
     <tr>
       <td>So the attendant receiving me led me to his cave, and we sat under a tree partaking of food.</td>
-      <td><strong>1 Kings 19:4-5</strong> - “But he himself went a day’s journey into the wilderness… and sat down under a juniper tree: and he requested for himself that he might die… and an angel touched him.”</td>
+      <td><strong>1 Kings 19:4-5</strong> - “But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers. And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.”</td>
     </tr>
     <tr>
       <td>For from the sixth hour even to the sixth, then we ate, and the water came out from the root of the tree sweeter than honey…</td>
-      <td><strong>Exodus 15:25</strong> - “Moses cried unto the Lord, and the Lord showed him a piece of wood. He threw it into the water, and the water became sweet.”</td>
+      <td><strong>Exodus 15:25</strong> - “And he cried unto the LORD; and the LORD shewed him a tree, which  when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,”</td>
     </tr>
     <tr>
       <td>And all the country of those there heard of me, that there had come thither a man out of the vanity of the world…</td>
-      <td><strong>1 Kings 10:1</strong> - “When the queen of Sheba heard about the fame of Solomon and his relationship to the Lord, she came to test Solomon with hard questions.”</td>
+      <td><strong>1 Kings 10:1</strong> - “And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.”</td>
     </tr>
     <tr>
       <td>Therefore they were asking me all things and I was answering them, and I became faint in spirit and in body…</td>
-      <td><strong>Matthew 11:28</strong> - “Come to me, all you who are weary and burdened, and I will give you rest.”</td>
+      <td><strong>Matthew 11:28</strong> - “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”</td>
     </tr>
     <tr>
       <td>I beseech thee, brother, if any come to see me, tell them He is not here, so that I may rest a little.</td>
-      <td><strong>Matthew 14:23</strong> - “After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone.”</td>
+      <td><strong>Matthew 14:23</strong> - “And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.”</td>
     </tr>
     <tr>
       <td>Woe is me, that the story of Adam is summed up in me, for Satan deceived him through Eve, and this man by his flattery…</td>
-      <td><strong>Genesis 3:13</strong> - “Then the Lord God said to the woman, ‘What is this you have done?’ The woman said, ‘The serpent deceived me, and I ate.’”</td>
+      <td><strong>Genesis 3:13</strong> - “And the LORD God said unto the woman, What is this that  thou hast done? And the woman said, The serpent beguiled me, and I did eat.”</td>
     </tr>
     <tr>
       <td>Take me away from hence, for I shall flee from the place.</td>
-      <td><strong>Genesis 19:17</strong> - “When they had brought them out, one said, ‘Flee for your lives! Don’t look back, and don’t stop anywhere in the plain! Flee to the mountains.’”</td>
+      <td><strong>Genesis 19:17</strong> - “And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.”</td>
     </tr>
     <tr>
       <td>For behold he wishes to sow in me seeds of the world of vanity.</td>
-      <td><strong>1 John 2:16</strong> - “For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father, but is of the world.”</td>
+      <td><strong>1 John 2:16</strong> - “For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.”</td>
     </tr>
     <tr>
       <td>And all the multitude and the elders rose up against me, and said, Depart from us, man; we know not whence thou art come to us.</td>
-      <td><strong>John 9:29</strong> - “We know that God spoke to Moses, but as for this fellow, we don’t even know where he comes from.”</td>
+      <td><strong>John 9:29</strong> - “We know that God spake unto Moses: as for this fellow,  we know not from whence he is.”</td>
     </tr>
     <tr>
       <td>But I lamented with great lamentation, and my senses left me…</td>
-      <td><strong>Job 30:25</strong> - “Have I not wept for those in trouble? Has not my soul grieved for the poor?”</td>
+      <td><strong>Job 30:25</strong> - “Did not I weep for him that was in trouble? was not my soul grieved for the poor?”</td>
     </tr>
     <tr>
       <td>I besought the Lord to come to you, and he deemed me worthy.</td>
-      <td><strong>Isaiah 6:8</strong> - “Then I heard the voice of the Lord saying, ‘Whom shall I send? And who will go for us?’ And I said, ‘Here am I. Send me!’”</td>
+      <td><strong>Isaiah 6:8</strong> - “Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.”</td>
     </tr>
     <tr>
       <td>And the elders said, And now what wilt thou we should do to thee?</td>
-      <td><strong>Matthew 27:22</strong> - “Pilate said to them, ‘What shall I do, then, with Jesus who is called the Messiah?’ They all answered, ‘Crucify him!’”</td>
+      <td><strong>Matthew 27:22</strong> - “Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.”</td>
     </tr>
     <tr>
       <td>I said to them, I desire to learn of you your way of life.</td>
-      <td><strong>Luke 10:39</strong> - “She had a sister called Mary, who sat at the Lord’s feet listening to what he said.”</td>
+      <td><strong>Luke 10:39</strong> - “And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.”</td>
     </tr>
   </tbody>
 </table>
@@ -407,47 +409,47 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>And they rejoiced with great joy,</td>
-      <td><strong>Nehemiah 8:12</strong>: “And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.”</td>
+      <td><strong>Nehemiah 8:12</strong> - “And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.”</td>
     </tr>
     <tr>
       <td>And taking up tables of stone they wrote on them with their nails,</td>
-      <td><strong>Exodus 24:12</strong>: “And the Lord said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written.”</td>
+      <td><strong>Exodus 24:12</strong> - “And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.”</td>
     </tr>
     <tr>
       <td>Thus, hear, ye sons of men, hear ye us who are become blessed, that we also are of you;</td>
-      <td><strong>Psalm 34:11</strong>: “Come, ye children, hearken unto me: I will teach you the fear of the Lord.”</td>
+      <td><strong>Psalm 34:11</strong> - “Come, ye children, hearken unto me: I will teach you the fear of the LORD.”</td>
     </tr>
     <tr>
       <td>For when the prophet Jeremiah proclaimed that the city of Jerusalem should be delivered into the hands of the destroyers, he rent his garments, and put sackcloth upon his loins, and sprinkled dust upon his head,</td>
-      <td><strong>Jeremiah 38:6</strong>: “Then took they Jeremiah, and cast him into the dungeon…and he sank in the mire.”</td>
+      <td><strong>Jeremiah 38:6</strong> - “Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire.”</td>
     </tr>
     <tr>
       <td>And told all people to turn from their wicked way.</td>
-      <td><strong>Jeremiah 18:11</strong>: “Thus saith the Lord; Behold, I frame evil against you…return ye now every one from his evil way.”</td>
+      <td><strong>Jeremiah 18:11</strong> - “Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.”</td>
     </tr>
     <tr>
       <td>And our father Rechab, the son of Aminadab, heard him and said to us, Ye sons and daughters of Rechab, hearken to your father, and put off your garments from your body, and drink no vessel of wine, and eat no bread from the fire, and drink not strong drink and honey…</td>
-      <td><strong>Jeremiah 35:6</strong>: “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever.”</td>
+      <td><strong>Jeremiah 35:6</strong> - “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:”</td>
     </tr>
     <tr>
       <td>And we said, All that he has commanded us we shall do and hearken.</td>
-      <td><strong>Exodus 19:8</strong>: “And all the people answered together, and said, All that the Lord hath spoken we will do.”</td>
+      <td><strong>Exodus 19:8</strong> - “And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD.”</td>
     </tr>
     <tr>
       <td>So we cast away our clothing from our bodies, and we ate no bread from the fire, and drank no vessel of wine nor honey nor strong drink, and we lamented with a great lamentation and besought the Lord, and he heard our prayer…</td>
-      <td><strong>Jonah 3:5</strong>: “So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.”</td>
+      <td><strong>Jonah 3:5</strong> - “So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.”</td>
     </tr>
     <tr>
       <td>And turned away his anger from the city of Jerusalem, and there came to the city of Jerusalem mercy from the Lord, and he pitied its people, and turned away his deadly anger.</td>
-      <td><strong>2 Chronicles 30:9</strong>: “For the Lord your God is gracious and merciful, and will not turn away his face from you, if ye return unto him.”</td>
+      <td><strong>2 Chronicles 30:9</strong> - “For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is  gracious and merciful, and will not turn away his face from you, if ye return unto him.”</td>
     </tr>
     <tr>
       <td>8. And after these things the king of the city of Jerusalem died, and there arose another king.</td>
-      <td><strong>2 Kings 23:30</strong> - “And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own tomb. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.”</td>
+      <td><strong>2 Kings 23:30</strong> - “And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.”</td>
     </tr>
     <tr>
       <td>And all the people gathered to him and informed him concerning us, and said, There are certain of thy people, who have changed their way from us.</td>
-      <td><strong>Daniel 3:12</strong> - “There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.”</td>
+      <td><strong>Daniel 3:12</strong> - “There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.”</td>
     </tr>
     <tr>
       <td>Therefore the king summoned them, and asked them wherefore they had done this; and he sent for us and asked, Who are ye and of what worship and of what country?</td>
@@ -455,7 +457,7 @@ gtag('config', 'UA-125187615-1');
     </tr>
     <tr>
       <td>And we said to him, We are the sons of thy servant, and our father is Rechab the son of Jonadab, and when Jeremiah the prophet preached in the days of thy father the king, he proclaimed death to the city of Jerusalem, saying, Yet three days and all the city shall be put to death.</td>
-      <td><strong>Jeremiah 35:6</strong> - “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever.” Jeremiah 26:12 - “Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.”</td>
+      <td><strong>Jeremiah 35:6</strong> - “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:” Jeremiah 26:12 - “”</td>
     </tr>
     <tr>
       <td>And the king thy father hearing this repented of his sins, and issued a command to all to turn aside from their wicked way.</td>
@@ -463,7 +465,7 @@ gtag('config', 'UA-125187615-1');
     </tr>
     <tr>
       <td>And our father thy servant hearing it charged us, saying, Drink no vessel of wine, and eat no bread from the fire, until the Lord shall hear your entreaty.</td>
-      <td><strong>Jeremiah 35:6</strong> - “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever.”</td>
+      <td><strong>Jeremiah 35:6</strong> - “But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:”</td>
     </tr>
     <tr>
       <td>And we hearkened to the commandment of our father, and made naked our bodies, we drank no wine and ate no bread, and we prayed to the Lord for the city of Jerusalem, and the Lord pitied his people and turned away his anger, and we saw it and our soul was rejoiced, and we said, It is good for us to be so.</td>
@@ -471,35 +473,35 @@ gtag('config', 'UA-125187615-1');
     </tr>
     <tr>
       <td>And the king said to us, Ye have done well. Now therefore mingle with my people, and eat bread and drink wine, and glorify your Lord, and ye shall be serving God and the king.</td>
-      <td><strong>Ecclesiastes 9:7</strong> - “Go, eat your bread with joy, and drink your wine with a merry heart, for God has already approved what you do.”</td>
+      <td><strong>Ecclesiastes 9:7</strong> - “Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.”</td>
     </tr>
     <tr>
       <td>But we said, We will not disobey God.</td>
-      <td><strong>Acts 5:29</strong> - “But Peter and the apostles answered, ‘We must obey God rather than men.’”</td>
+      <td><strong>Acts 5:29</strong> - “Then Peter and the other apostles answered and said, We ought to obey God rather than men.”</td>
     </tr>
     <tr>
       <td>Then the king was enraged and set us in prison, and we passed that night there.</td>
-      <td><strong>Acts 16:23-24</strong> - “And when they had inflicted many blows upon them, they threw them into prison, ordering the jailer to keep them safely.”</td>
+      <td><strong>Acts 16:23-24</strong> - “And when they had laid many stripes upon them, they cast them  into prison, charging the jailer to keep them safely: Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.”</td>
     </tr>
     <tr>
       <td>And behold a light shone in the building, and an angel uncovered the prison and laid hold of the crowns of our heads, and took us out of the prison…</td>
-      <td><strong>Acts 12:7</strong> - “And behold, an angel of the Lord stood next to him, and a light shone in the cell. He struck Peter on the side and woke him, saying, ‘Get up quickly.’ And the chains fell off his hands.”</td>
+      <td><strong>Acts 12:7</strong> - “And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.”</td>
     </tr>
     <tr>
       <td>…and set us beside the water of the river, and said to us, Whithersoever the water goes, go ye also.</td>
-      <td><strong>Ezekiel 47:9</strong> - “And wherever the river goes, every living creature that swarms will live, and there will be very many fish.”</td>
+      <td><strong>Ezekiel 47:9</strong> - “And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.”</td>
     </tr>
     <tr>
       <td>And we travelled with the water and with the angel.</td>
-      <td><strong>Exodus 23:20</strong> - “Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared.”</td>
+      <td><strong>Exodus 23:20</strong> - “Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.”</td>
     </tr>
     <tr>
       <td>When therefore he had brought us to this place, the river was dried up and the water was swallowed up by the abyss…</td>
-      <td><strong>Revelation 16:12</strong> - “The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east.”</td>
+      <td><strong>Revelation 16:12</strong> - “And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.”</td>
     </tr>
     <tr>
       <td>…and he made a wall round this country, and there came a wall of cloud, and shadowed above the water; and he did not scatter us over all the earth, but gave to us this country.</td>
-      <td><strong>Exodus 13:21</strong> - “And the LORD went before them by day in a pillar of cloud to lead them along the way, and by night in a pillar of fire to give them light, that they might travel by day and by night.”</td>
+      <td><strong>Exodus 13:21</strong> - “And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:”</td>
     </tr>
   </tbody>
 </table>
@@ -516,35 +518,35 @@ gtag('config', 'UA-125187615-1');
   <tbody>
     <tr>
       <td>10. Hear, ye sons of men, hear the way of life of the blessed. For God placed us in this land, for we are holy but not immortal.</td>
-      <td>“Blessed are the meek: for they shall inherit the earth.” — <strong>Matthew 5:5</strong> <br /> “For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.” — <strong>Romans 6:23</strong></td>
+      <td>“Blessed are the meek: for they shall inherit the earth.” - <strong>Matthew 5:5</strong> <br /> “For the wages of sin is death; but the gift of God is  eternal life through Jesus Christ our Lord.” - <strong>Romans 6:23</strong></td>
     </tr>
     <tr>
       <td>For the earth produces most fragrant fruit, and out of the trunks of the trees comes water sweeter than honey, and these are our food and drink.</td>
-      <td>“And the LORD God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food.” — <strong>Genesis 2:9</strong> <br /> “He will give the rain for your land in its season, and the land will yield its fruit.” — <strong>Deuteronomy 11:14</strong></td>
+      <td>“And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.” - <strong>Genesis 2:9</strong> <br /> “That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.” - <strong>Deuteronomy 11:14</strong></td>
     </tr>
     <tr>
       <td>We are also praying night and day, and this is all our occupation.</td>
-      <td>“Pray without ceasing.” — <strong>1 Thessalonians 5:17</strong> <br /> “Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak.” — <strong>Matthew 26:41</strong></td>
+      <td>“Pray without ceasing.” - <strong>1 Thessalonians 5:17</strong> <br /> “Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.” - <strong>Matthew 26:41</strong></td>
     </tr>
     <tr>
       <td>Hear, ye sons of men; with us there is no vine, nor ploughed field, nor works of wood or iron, nor have we any house or building, nor fire nor sword, nor iron wrought or unwrought, nor silver nor gold, nor air too heavy or too keen.</td>
-      <td>“Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven.” — <strong>Matthew 6:19-20</strong></td>
+      <td><strong>Matthew 6:19-20</strong> - “Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:”</td>
     </tr>
     <tr>
       <td>Neither do any of us take to themselves wives, except for so long as to beget two children, and after they have produced two children they withdraw from each other and continue in chastity, not knowing that they were ever in the intercourse of marriage, but being in virginity as from the beginning.</td>
-      <td>“But I say to the unmarried and to the widows: It is good for them if they remain even as I am… but if they cannot exercise self-control, let them marry. For it is better to marry than to burn with passion.” — <strong>1 Corinthians 7:8-9</strong></td>
+      <td><strong>1 Corinthians 7:8-9</strong> - “I say therefore to the unmarried and widows, It is good for them if they abide even as I. But if they cannot contain, let them marry: for it is better to marry than to burn.”</td>
     </tr>
     <tr>
       <td>And the one child remains for marriage, and the other for virginity.</td>
-      <td>“There are eunuchs who were born that way, and there are eunuchs who have been made eunuchs by others—and there are those who choose to live like eunuchs for the sake of the kingdom of heaven.” — <strong>Matthew 19:12</strong></td>
+      <td><strong>Matthew 19:12</strong> - “For there are some eunuchs, which were so born from their  mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.”</td>
     </tr>
     <tr>
       <td>11. And there is no count of time, neither weeks nor months nor years, for all our day is one day.</td>
-      <td><strong>2 Peter 3:8</strong> - “But, beloved, do not forget this one thing, that with the Lord one day is as a thousand years, and a thousand years as one day.”</td>
+      <td><strong>2 Peter 3:8</strong> - “But, beloved, be not ignorant of this one thing, that one day is  with the Lord as a thousand years, and a thousand years as one day.”</td>
     </tr>
     <tr>
       <td>In our caves lie the leaves of trees, and this is our couch under the trees.</td>
-      <td><strong>Genesis 3:7</strong> - “Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves coverings.”</td>
+      <td><strong>Genesis 3:7</strong> - “And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.”</td>
     </tr>
     <tr>
       <td>But we are not naked of body, as ye wrongly imagine, for we have the garment of immortality and are not ashamed of each other.</td>
@@ -552,35 +554,35 @@ gtag('config', 'UA-125187615-1');
     </tr>
     <tr>
       <td>At the sixth hour of every day we eat, for the fruit of the tree falls of itself at the sixth hour, and we eat and drink…</td>
-      <td><strong>Genesis 1:29</strong> - “And God said, ‘See, I have given you every herb that yields seed which is on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food.’”</td>
+      <td><strong>Genesis 1:29</strong> - “And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.”</td>
     </tr>
     <tr>
       <td>…again the water sinks into its place.</td>
-      <td><strong>Genesis 2:6</strong> - “But a mist went up from the earth and watered the whole face of the ground.”</td>
+      <td><strong>Genesis 2:6</strong> - “But there went up a mist from the earth, and watered the whole face of the ground.”</td>
     </tr>
     <tr>
       <td>We also know you who are there in the world, and who are in sins, and your works, for every day the angels of the Lord come…</td>
-      <td><strong>Hebrews 4:13</strong> - “And there is no creature hidden from His sight, but all things are naked and open to the eyes of Him to whom we must give account.”</td>
+      <td><strong>Hebrews 4:13</strong> - “Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.”</td>
     </tr>
     <tr>
       <td>But we pray for you to the Lord, because we also are of you and of your race…</td>
-      <td><strong>1 Timothy 2:1</strong> - “Therefore I exhort first of all that supplications, prayers, intercessions, and giving of thanks be made for all men.”</td>
+      <td><strong>1 Timothy 2:1</strong> - “I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;”</td>
     </tr>
     <tr>
       <td>…except that God has chosen us, and has set us in this place without sin.</td>
-      <td><strong>Ephesians 1:4</strong> - “Just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love.”</td>
+      <td><strong>Ephesians 1:4</strong> - “According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:”</td>
     </tr>
     <tr>
       <td>And the angels of God dwell with us every day, and tell us all things concerning you…</td>
-      <td><strong>Psalm 91:11</strong> - “For He shall give His angels charge over you, to keep you in all your ways.”</td>
+      <td><strong>Psalm 91:11</strong> - “For he shall give his angels charge over thee, to keep thee in all thy ways.”</td>
     </tr>
     <tr>
       <td>…and we rejoice with the angels over the works of the just, but over the works of sinners we mourn and lament…</td>
-      <td><strong>Luke 15:10</strong> - “Likewise, I say to you, there is joy in the presence of the angels of God over one sinner who repents.”</td>
+      <td><strong>Luke 15:10</strong> - “Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.”</td>
     </tr>
     <tr>
       <td>…praying to the Lord that he may cease from his anger and spare your offences.</td>
-      <td><strong>Ezekiel 18:32</strong> - “For I have no pleasure in the death of one who dies,” says the Lord God. “Therefore turn and live!”</td>
+      <td><strong>Ezekiel 18:32</strong> - “For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.”</td>
     </tr>
   </tbody>
 </table>

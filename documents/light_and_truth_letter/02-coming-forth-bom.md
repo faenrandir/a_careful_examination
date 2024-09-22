@@ -542,7 +542,6 @@ Virtually all of JS's significant output was religious in nature (most of it wha
 I feel no responsibility to account for theories advanced by people with very partial data to work from.
 
 
-
 ### My Questions
 
 [extend the analogy from the first chapter. Even if were able to know enough about the situation to believe very clearly the creation of the BoM was _miraculous_ we are still left with a book that is very clearly an early 1800s work. How or for what purpose would God (or some other supernatural being) intervene in order to produce a work like that?
