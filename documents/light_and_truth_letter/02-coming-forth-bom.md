@@ -720,7 +720,7 @@ This one does seem too vague to be of much utility for a modern origin theory.
 I've updated the chart to reflect a more nuanced analysis.
 
 
-| **Names** | **LATL** | **On CES 2.0 Map** | **Mary Ann** | **In Bible** |
+| **Names** | **LATL** | **CES 2.0 Map** | **Actual** | **In Bible** |
 |-----------------------------------|------------|---|
 | Sodom (Sidom)                     | ✅ | ✅ | ✅   | Sidon |
 | Ripple Lake (Ripliancum)          | ✅ |  | ✅   | |
@@ -750,13 +750,23 @@ I've updated the chart to reflect a more nuanced analysis.
 | Ephrem, Saint (Ephraim, Hill)     | ❌ |  | ❌ | ✅|
 | Sherbrooke (Shurr) | NA |  ✅ |  ✅| ✅ (Shur) |
 
-\* Alma was a common male name in Joseph's vicinity, as sourced above.
+\* Alma was a common male name in Joseph's vicinity, as sourced above. I am
+keeping it in the chart to demonstrate that it would have been readily
+accessible as a name while acknowledging that the location shown in the
+CES Letter (as an extant location in the late 1820s) is not likely defensible.
 
 Note that some of the locations that Mary Ann located do not necessarily correspond with the location on the CES Letter geography map.
 
+In summary, the map in the CES Letter 2.0 seems largely defensible (especially acknowledging that some locations are not definitively known and that the correspondence does not need to closely match) in two ways:
+
+1. The geography around Joseph Smith _could have_ served as a _rough_ template for the Book of Mormon geography (although the creative process does not mean a one to one correspondence is required).
+2. Taken collectively, there were a significant number of names around Joseph Smith that could have served as creative fodder for the Book of Mormon.
+
+The ultimate significance of these is better qualified in my analysis [here](https://faenrandir.github.io/a_careful_examination/place-names-near-joseph-smith/).
+
 > <span style="color:red; margin-left:-10px;"> The following eight names theorized in the Vernal Holley model are also in the Bible. So, if Joseph Smith were to copy them, the Bible would be a more plausible source for these names in the Book of Mormon than random towns and lands, sometimes hundreds of miles away. At the same time, if ancient peoples came from the Old World to the New World, they may have named these cities after Israelite names.
 
-[Added to unified table above]
+This seems like a false dilemma. The presence of a name in relatively nearby geography AND the presence of the name in the Bible serves to increase the odds that it may have been used creatively (i.e., because it increases the odds that the name may have been impressed upon the author's mind from either or both sources).
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith borrow names from small towns and bodies of water hundreds of miles away that did not exist until after 1830?
 
@@ -764,13 +774,44 @@ To re-emphasize, I do not necessarily think that Joseph borrowed names (or place
 
 > <span style="color:red; margin-left:-10px;"> When I discovered the above facts, I was floored that critics still use the Holley model to criticize the Book of Mormon.
 
-Holley's hypothesis (strictly speaking) is not as powerful as the map comparison itself might suggest for the two reasons documented (not all of the locations were extant in the late 1820s and not all locations are precise fits for BoM locations). However, the 
+Holley's hypothesis (strictly speaking) is not as powerful as the map comparison itself might suggest for the two reasons documented (not all of the locations were extant in the late 1820s and not all locations are precise fits for BoM locations). Still, the map serves to demonstrate that the geography around Joseph could have served as a rough template for the BoM geography and that collectively there are a significant number of names in that milieu that could have served as creative fodder for names in the BoM.
 
+> <span style="color:red; margin-left:-10px;"> Why has Jeremy not removed this section from the CES Letter? Jeremy removed the Monroe and Moroni connection, but the rest remains. 
 
+He was [thinking about ditching it](https://www.reddit.com/r/exmormon/comments/3hxfzl/crowdthought_ces_letter_book_of_mormon/):
 
-Why has Jeremy not removed this section from the CES Letter? Jeremy removed the Monroe and Moroni connection, but the rest remains. The original 28 out of 86 connections were not particularly strong in the first place.
+> I believe that it's the weakest part of the CES Letter. The evidence, to me, is meh and not strong enough for my taste. The only way I'd probably keep it in the CES Letter is with a disclaimer of some sort basically saying something to the effect of, "Vernal Holley's maps and parallels are controversial. This information is not incorrect but it's not strong either. Here are resources for further research."
+
+I was one of the people who encouraged him to keep the section (generally), [for this reason](https://www.reddit.com/r/exmormon/comments/3hxfzl/crowdthought_ces_letter_book_of_mormon/cubkoj6/):
+
+> Members never really have a chance to reflect on the idea that the BoM came from Joseph's milieu. Showing that many of the unique place names can easily be derived from local place names gives credence to the notion that JS could have been the author. Plus, you've done some nice original research in your rebuttals with FAIR, meaning that you've already been able to dispense with those that are not as strong and can back up all the others with solid evidence. 
+
+Since then, I have had the chance to revisit place names in [this essay](https://faenrandir.github.io/a_careful_examination/place-names-near-joseph-smith/). I think there is some utility in the map presentation, but it should probably include more disclaimers and nuance. The list of placenames requires some additional work, but it is also useful.
+
+After defending the idea that Joseph could have known most of the placenames in Mary Ann's list, I ultimately conclude in this manner:
+
+> What does it mean? Probably not much.  We could look for place names similar to Book of Mormon place names in any location on earth and likely find a number of near-matches across the unique 188 names.
+
+> Still, it does offer a counterpoint to the query, "where could Joseph have gotten all those names?"  He could have made them up, conciously or subconciously being inspired by:
+
+> * Bible/apocrypha names he had heard
+> * Locations around his locale or that he had heard before
+> * Proper names from various name guides being sold at the time. For example:
+>     * [This pronunciation guide for Greek, Latin, and Scripture names ](https://archive.org/stream/keytoclassicalpr00walkrich#page/182/mode/2up)
+>     * Charles Anthon's [Classical Dictionary of ancient proper names]({{ "/charles-anthon-proper-names-and-the-bom/" | relative_url }})
+
+> There is no direct evidence that Joseph Smith consulted any of these, but nor would a modern author of the Book of Mormon have been working in a vacuum void of potential inspirational name material.
+
+> <span style="color:red; margin-left:-10px;"> The original 28 out of 86 connections were not particularly strong in the first place.
+
+They are of varying strength. Some are stronger than others. Collectively,
+they demonstrate that some significant portion of the place names in the BoM
+_could have been_ inspired by places (or people) around Joseph Smith at that
+time. 
 
 > <span style="color:red; margin-left:-10px;"> With only 9% potential connections remaining (8 out of 86), why do critics still use the Vernal Holley model?
+
+After researching the topic in more depth, I would not include the map in a truth-claim summary. I _would_ include lists of placenames (carefully researched and documented) as part of a larger set of potential fodder that _may have_ influenced the BoM author (perhaps subconciously). As I have demonstrated, the names found in the BoM could have been generated by a creative mind from the late 1820s, as I have documented [here](https://faenrandir.github.io/a_careful_examination/place-names-near-joseph-smith/).
 
 ### My Questions
 
