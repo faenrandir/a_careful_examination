@@ -9,16 +9,16 @@ layout: page
 
 # (Introduction)
 
-> <span style="color:red; margin-left:-30px;"> I grew up in the Church of Jesus Christ of Latter-day Saints. I was baptized at 8, a missionary at 19, and married at 22. I graduated from Brigham Young University at 23. I am a right-down-the-middle average member of the Church. I served in various callings from several wards and stakes across the US. I never planned to have a faith crisis. Most people who know me are surprised to hear that I seriously considered leaving the Church. In the ten years since I first admitted that I did not believe in God, I’ve seen other members leave the fold. Whenever I saw a social media post from a friend or family member outlining their decision to remove their names from the records of the Church, it felt uncomfortable. The natural question would always surface: "**What do they know that I don’t?**”
+> <span style="color:red; margin-left:-10px;"> I grew up in the Church of Jesus Christ of Latter-day Saints. I was baptized at 8, a missionary at 19, and married at 22. I graduated from Brigham Young University at 23. I am a right-down-the-middle average member of the Church. I served in various callings from several wards and stakes across the US. I never planned to have a faith crisis. Most people who know me are surprised to hear that I seriously considered leaving the Church. In the ten years since I first admitted that I did not believe in God, I’ve seen other members leave the fold. Whenever I saw a social media post from a friend or family member outlining their decision to remove their names from the records of the Church, it felt uncomfortable. The natural question would always surface: "**What do they know that I don’t?**”
 
 It might not be something that they know, it might be that they have different values than you?
 
-> <span style="color:red; margin-left:-30px;"> Initially, during my faith crisis in 2014, I identified with the Church's critics. I felt like we were a like-minded group of enlightened non-believers. My experience in the Church had been so positive that even when my doubts deepened, I was convinced that the Church was a force for good in the world. Gradually, that changed. **I started to believe the critics.** The more I heard from disillusioned members, the more I felt like maybe I was wrong about the Church of Jesus Christ. Perhaps the Church is much worse than I ever realized.
+> <span style="color:red; margin-left:-10px;"> Initially, during my faith crisis in 2014, I identified with the Church's critics. I felt like we were a like-minded group of enlightened non-believers. My experience in the Church had been so positive that even when my doubts deepened, I was convinced that the Church was a force for good in the world. Gradually, that changed. **I started to believe the critics.** The more I heard from disillusioned members, the more I felt like maybe I was wrong about the Church of Jesus Christ. Perhaps the Church is much worse than I ever realized.
 
 We're all susceptible to the opinions of others (strongest predictor of religiosity is social group religiosity [cite]).
 Ideally, A person should believe the data and strong arguments. They should follow their own morals in deciding what they should do.
 
-> **I was ready to leave, but there was a problem**. I am not sure when it happened, but eventually, I started noticing a long list of techniques being employed against me by critics of the Church. I could begin to see that I was being **tricked into accepting false premises and half-truths**. That is when I developed serious concerns about how critics made their case.
+> <span style="color:red; margin-left:-10px;"> **I was ready to leave, but there was a problem**. I am not sure when it happened, but eventually, I started noticing a long list of techniques being employed against me by critics of the Church. I could begin to see that I was being **tricked into accepting false premises and half-truths**. That is when I developed serious concerns about how critics made their case.
 
 One reasonable approach would have been to have been skeptical of them and to push back against the false premises and half-truths. (this is what I have done in countless instances).
 
@@ -105,27 +105,27 @@ I've included the table of tactics and fallacies along with my own commentary in
 
 Critics are freqently guilty of logical fallacies. Members and apologists are also frequently guilty of these. I have no other comment except to say that we should call them out whenever we see them (i.e., on both sides) so that people can focus on the substance of the issues.
 
-> Referencing the CES Letter and other “doubt bombing” critical tactics, Manuel Padro, an anthropologist and former latter-day saint, commented (emphasis added):
+> <span style="color:red; margin-left:-10px;"> Referencing the CES Letter and other “doubt bombing” critical tactics, Manuel Padro, an anthropologist and former latter-day saint, commented (emphasis added):
 
->> “[The] tactic of intentionally luring Latter-day Saints into a situation where they are bombarded with questions they don't know how to answer is a documented tactic used by these groups … and even before it was documented, it was clearly going on. … When I was a kid, the Lighthouse Ministry and CARM (the Christian Apologetics and Research Ministry) were the two big groups using this strategy. Now Mormon Stories, the Life After Ministry, Mormonthink and a number of other groups are all relying on the same abusive tactic. They are trying to coerce you into a situation where they can bombard you with so many doubt-provoking questions that they can cause your resolve to collapse and your identity to fall apart. Inside of that vacuum, created by an act of psychological rape, they hope to impregnate you with their own belief system. … If that sounds abusive, it's because that's what it is. It's an extension of the cultural legacy of the Inquisition. They can't torture you, but they can humiliate you and pressure you with questions you don't have an answer to yet. They try to hit you up with too many of these questions to answer because if they don't, it wouldn't work. That's how the CES letter works.”7
+>> <span style="color:red; margin-left:-10px;"> “[The] tactic of intentionally luring Latter-day Saints into a situation where they are bombarded with questions they don't know how to answer is a documented tactic used by these groups … and even before it was documented, it was clearly going on. … When I was a kid, the Lighthouse Ministry and CARM (the Christian Apologetics and Research Ministry) were the two big groups using this strategy. Now Mormon Stories, the Life After Ministry, Mormonthink and a number of other groups are all relying on the same abusive tactic. They are trying to coerce you into a situation where they can bombard you with so many doubt-provoking questions that they can cause your resolve to collapse and your identity to fall apart. Inside of that vacuum, created by an act of psychological rape, they hope to impregnate you with their own belief system. … If that sounds abusive, it's because that's what it is. It's an extension of the cultural legacy of the Inquisition. They can't torture you, but they can humiliate you and pressure you with questions you don't have an answer to yet. They try to hit you up with too many of these questions to answer because if they don't, it wouldn't work. That's how the CES letter works.”7
 
-> Why do critics resort to  these tactics?
+> <span style="color:red; margin-left:-10px;"> Why do critics resort to  these tactics?
 
 Highly polarized subject being performed by humans. We expect to see this kind of thing happening in JW/ex-JW, Scientology/ex-Scientology, Muslim/ex-Muslim, Christian/ex-Christian debates also. However, just because an ex-Scientologist commits logical fallacies and employs manipulative tactics (let's just say, with approximately the same frequency as a Scientologist defender), that does not therefore mean that Scientology is "true." It just means the discussions are being conducted by (mostly unscholarly) humans around a polarizing topic.
 
 What I think is being implied by the question [need section on this] is that critics are deliberately seeking to hide the truth, but this is an ad hominem and hasty generalization (i.e., because some critics use manipulative tactics and/or commit logical fallacies they are under the influence of Satan and/or it validates LDS truth claims intrinsically).
 
-> Can their critiques stand on their own without using inflammatory and abusive rhetoric?
+> <span style="color:red; margin-left:-10px;"> Can their critiques stand on their own without using inflammatory and abusive rhetoric?
 
 I think so. There are lots of resources where the author tried to present the data without using inflammatory and abusive rhetoric.
 
-> The more I learned from critics, the more I saw the manipulative techniques being used against me. Once I started seeing it, I couldn’t unsee it.
+> <span style="color:red; margin-left:-10px;"> The more I learned from critics, the more I saw the manipulative techniques being used against me. Once I started seeing it, I couldn’t unsee it.
 
 Again, this implies that critics ... [need a control].
 
 # Building Up vs. Tearing Down
 
-> The sheer hatred in the critical community alarmed me. I could not identify with that.
+> <span style="color:red; margin-left:-10px;"> The sheer hatred in the critical community alarmed me. I could not identify with that.
 
 Hasty generalization from a small/vocal sample size. Also, you were a white male and may have been felt like it benefitted you. But many people have good reasons to be angry.
 
@@ -133,45 +133,45 @@ Hasty generalization from a small/vocal sample size. Also, you were a white male
 
 I also don't feel personally angry.
 
-> It never felt like we were building something, only tearing down.
+> <span style="color:red; margin-left:-10px;"> It never felt like we were building something, only tearing down.
 
 A lot of exmormons and exmo spaces are dedicated to building/finding spirituality (they don't hang around exmormon subreddit). I don't know exactly how he identifies, but Jon Ogden is a great example. Britt Hartley. I spent years discussing with LDS leaders. Most of the time our building isn't within the exmormon space because it's not a formal space! (but exmormons are building all kinds of stuff!)
 
-> ... I have interacted with critics for years. Some are well-intentioned and believe they are doing the right thing.
+> <span style="color:red; margin-left:-10px;"> ... I have interacted with critics for years. Some are well-intentioned and believe they are doing the right thing.
 
-> From others, I get the impression that misery loves company.
+> <span style="color:red; margin-left:-10px;"> From others, I get the impression that misery loves company.
 
 Is this how they would characterize their work? Your impression might not be an accurate reflection of how they see themselves. [recording of John Dehlin talking about his mission]
 
-> It was not enough to leave. Their goal, mission, vision, and conquest is to tear down faith in God.
+> <span style="color:red; margin-left:-10px;"> It was not enough to leave. Their goal, mission, vision, and conquest is to tear down faith in God.
 
 Why they leave but not leave it alone. [document]
 
-> Is it right for a critic to actively influence a victim into a faith crisis and then charge for groups and counseling sessions for handling the crisis?
+> <span style="color:red; margin-left:-10px;"> Is it right for a critic to actively influence a victim into a faith crisis and then charge for groups and counseling sessions for handling the crisis?
 
 The ethics of how John Dehlin handles points to how one exmormon (albeit perhaps the most prominent one) handles his livelihood. The vast majority of exmormons have no such conflict of interest, so it seems like a poor generalization to suggest that this is any kind of general phenomenon or should be used to paint the whole exmormon community. I think we can critique the ethics of exmormon actions, but most exmormons stand to gain nothing financially from their engagement with these issues (e.g., lawyer from QuitMormon).
 
-> ... I find it deeply immoral for critics to share half-truths and false narratives with the intent of convincing their victims to turn their lives upside down in a faith crisis. This mortal existence is finite, and eternities are forever; the stakes could not be any higher.
+> <span style="color:red; margin-left:-10px;"> ... I find it deeply immoral for critics to share half-truths and false narratives with the intent of convincing their victims to turn their lives upside down in a faith crisis. This mortal existence is finite, and eternities are forever; the stakes could not be any higher.
 
 We both agree that the stakes are high and that half-truths and false narratives (which exist on both sides) should be highlighted and/or avoided. Do you work as vigorously to point out half-truths and false narratives on the LDS side?
 
-> Update: In recent years, critics of the Church have deemphasized how much happier they are since leaving the Church in favor of a narrative emphasizing how hard it is to leave.
+> <span style="color:red; margin-left:-10px;"> Update: In recent years, critics of the Church have deemphasized how much happier they are since leaving the Church in favor of a narrative emphasizing how hard it is to leave.
 
 This is given no substantiation. My sense is that there is a spectrum of happiness experienced by those who leave (some much happier and the experience is easy; some less happy and/or the experience was difficult).
 
-> This is likely intentional to convince their targets that exiting the Church is the hard thing but the right thing to do.
+> <span style="color:red; margin-left:-10px;"> This is likely intentional to convince their targets that exiting the Church is the hard thing but the right thing to do.
 
 This is engaging in mind-reading and suggests that exmormon narratives are crafted for "targets". But, most exmormons are not even sharing their stories to "target" people. To be generous to exmormons is to accept that (for most of them anyway) they are sharing their stories simply to share their stories.
 
-> It may also help resolve some cognitive dissonance in leaving. The reality is that while it may initially be challenging to abandon a belief system, it takes deep discipline over a lifetime to be a faithful disciple of Jesus Christ. A few months or years of faith deconstruction does not outweigh the lifelong service of selfless sacrifice to God and mankind.
+> <span style="color:red; margin-left:-10px;"> It may also help resolve some cognitive dissonance in leaving. The reality is that while it may initially be challenging to abandon a belief system, it takes deep discipline over a lifetime to be a faithful disciple of Jesus Christ. A few months or years of faith deconstruction does not outweigh the lifelong service of selfless sacrifice to God and mankind.
 
 This seems unsubstantiated. Many members are lacsidaisical in their devotion. Many former members are disciplined. Also, this seems like an apples and oranges comparison: by its very nature, an exit from the LDS Church is bound to be more terminal in nature than _remaining_ a member.
 
-> To be an atheist is to be culturally relevant and celebrated.
+> <span style="color:red; margin-left:-10px;"> To be an atheist is to be culturally relevant and celebrated.
 
 It is becoming moreso, but there is quite a stigma, and the celebration is relevant to ones' culture (e.g., most members have many friends and family who are members and they know this will not be celebrated by them).
 
-> Atheists are not bullied at the university or places of employment for their beliefs.
+> <span style="color:red; margin-left:-10px;"> Atheists are not bullied at the university or places of employment for their beliefs.
 
 I'm not sure there's a substantive difference in bullying between athiests and
 Christians, but this implies that people are leaving because it's simply
@@ -183,15 +183,15 @@ When I left the LDS Church, every single one of my close co-workers was LDS
 and my boss had just finished a term as an LDS Bishop. Leaving did not
 increase my popularity in the work place on any level.
 
-> To be a believer is to move against the cultural current of skepticism. Following Christ is hard to do—it always has been.
+> <span style="color:red; margin-left:-10px;"> To be a believer is to move against the cultural current of skepticism. Following Christ is hard to do—it always has been.
 
 The difficulty of following a religious path does not seem necessarily tethered to the validity of its truth claims. It is arguably far more difficult to be a JW or a fundamentatlist LDS.
 
 # The Internet
 
-> ... The internet is a great place to find out when Taco Bell closes. But ask Google which political party to vote for? Should I be pro-choice or pro-life? How about pro-Palestine or pro-Israel? Is the Mormon Church a cult? Yikes. Anything remotely controversial on the internet is a mess of disinformation and propaganda.
+> <span style="color:red; margin-left:-10px;"> ... The internet is a great place to find out when Taco Bell closes. But ask Google which political party to vote for? Should I be pro-choice or pro-life? How about pro-Palestine or pro-Israel? Is the Mormon Church a cult? Yikes. Anything remotely controversial on the internet is a mess of disinformation and propaganda.
 
-> Short, quick, and easy-to-understand answers are the most appealing at first glance. More so with the advent of social media. When confronted with challenging and unflattering information, it is tempting to accept it. At times, it felt easier for me to say that the Church was lying and that Joseph Smith was a fraud. Knowing the whole story would take too much effort. When I realized this, I started to see how manipulative critics of the Church can be with their use of the internet. They want to capitalize on the natural tendency to want simple answers with little work.
+> <span style="color:red; margin-left:-10px;"> Short, quick, and easy-to-understand answers are the most appealing at first glance. More so with the advent of social media. When confronted with challenging and unflattering information, it is tempting to accept it. At times, it felt easier for me to say that the Church was lying and that Joseph Smith was a fraud. Knowing the whole story would take too much effort. When I realized this, I started to see how manipulative critics of the Church can be with their use of the internet. They want to capitalize on the natural tendency to want simple answers with little work.
 
 This is to engage in mind-reading without substantiation. While some former members may want to engage in these kinds of tacticsi (I'm happy to grant that for the sake of argument even though the author hasn't demonstrated it), most of the time the advice from former members on the internet is:
 
@@ -201,15 +201,15 @@ This is to engage in mind-reading without substantiation. While some former memb
 
 [point out a reddit post where this is what is being encouraged and quantify the encouragement]
 
-> ... I was (and in some way still am) one of these members. I did not know nearly enough, even after engaging with critics of the Church for years. Part of the problem is that I have a job and a family. Who has the time, resources, and capacity to become a historian and scholar overnight? That’s the trick. I could feel critics egging me on to shift the burden of proof onto the Church. All the critic has done is share a half-truth with a negative implication. This tactic has a dark motive and is very effective for propagandists. Over time, I found that the negative narratives spun by critics almost always had a good answer. All I had to do was learn more.
+> <span style="color:red; margin-left:-10px;"> ... I was (and in some way still am) one of these members. I did not know nearly enough, even after engaging with critics of the Church for years. Part of the problem is that I have a job and a family. Who has the time, resources, and capacity to become a historian and scholar overnight? That’s the trick. I could feel critics egging me on to shift the burden of proof onto the Church. All the critic has done is share a half-truth with a negative implication. This tactic has a dark motive and is very effective for propagandists. Over time, I found that the negative narratives spun by critics almost always had a good answer. All I had to do was learn more.
 
 The same kinds of forces that critics might use to oversimplify the issues are the same kinds of forces the LDS Church capitalizes on to keep members in (just trust the BYU scholars and any half-truths [likely shared unawares] shared with _positive_ implications). Two sides of the same coin.
 
-> ... I have learned that the information is not the problem. The real issue is in the interpretation. Critics tried to convince me that they only shared what the Church did not want me to know.
+> <span style="color:red; margin-left:-10px;"> ... I have learned that the information is not the problem. The real issue is in the interpretation. Critics tried to convince me that they only shared what the Church did not want me to know.
 
 Can we see the substance of these discussions?
 
-> When examined carefully, I realized that most everything “new” the critics shared was relatively innocuous ...
+> <span style="color:red; margin-left:-10px;"> When examined carefully, I realized that most everything “new” the critics shared was relatively innocuous ...
 
 Certainly, some issues are not death blows. Many issues when examined in depth 
 
@@ -220,7 +220,7 @@ would make sense of the data from a different perspective. That exposure is
 important for allowing people to decide for themselves just how "innocuous"
 (or not) the data and arguments really are!
 
-> When examined carefully, I realized that most everything “new” the critics shared ... came from church sources
+> <span style="color:red; margin-left:-10px;"> When examined carefully, I realized that most everything “new” the critics shared ... came from church sources
 
 Two reasons for this: 1) many members will not even consider sources outside
 of LDS sources. 2) potential contradictions may reside in LDS sources. The
@@ -228,21 +228,21 @@ valence of these sources for supporting or underminining the LDS position has
 to do with their substance.
 
 
-> Ultimately, the manipulation happens in the presentation of data and history, not the data and history itself.
+> <span style="color:red; margin-left:-10px;"> Ultimately, the manipulation happens in the presentation of data and history, not the data and history itself.
 
 Certainly some critics will try to spin a story with more vigor than the data warrants (just like many members/apologists do when trying to ). A careful critic will present the available data and provide a reasonable explanation from a critical perspective. The act of presenting an argument in this manner is not _intrinsically_ manipulative.
 
 # Illusions and Mirages
 
-> “Family. Isn’t it about... time to recognize how Church ruins them?” – X (Twitter) comment
+> <span style="color:red; margin-left:-10px;"> “Family. Isn’t it about... time to recognize how Church ruins them?” – X (Twitter) comment
 
-> “I left because I finally acknowledged what the church is: an American corporation that hoards wealth and actively harms people who have committed themselves to the faith. It offers empty promises in return for ‘all with which you may be blessed.’ It divides families while giving lip service to the ‘sanctity of the family.’ … It protects abusers and tramples victims.” – X (Twitter) comment
+> <span style="color:red; margin-left:-10px;"> “I left because I finally acknowledged what the church is: an American corporation that hoards wealth and actively harms people who have committed themselves to the faith. It offers empty promises in return for ‘all with which you may be blessed.’ It divides families while giving lip service to the ‘sanctity of the family.’ … It protects abusers and tramples victims.” – X (Twitter) comment
 
-> What church are these folks referring to?
+> <span style="color:red; margin-left:-10px;"> What church are these folks referring to?
 
 The LDS Church. These are hyperbolic generalizations by former members. They are similar to over-generalizations such as "everything the Church does supports the family" [find specific examples to support].
 
-> The church described by the former members quoted above sounds awful. I do not want to minimize anyone’s lived experience, but with all due respect, the church described by critics is not the Church of Jesus Christ of Latter-day Saints. I grew up in the Church and have attended several stakes and wards across various US regions and abroad. I’ve received help and resources and likewise given help and resources to help those in need. The Church does countless good around the world for individuals, families, and communities. Charity and humanitarian efforts are done with little fanfare and genuinely help the people intended (See “Welfare Program of the Church” under the “Church Finances” section). Marriages and families tied to the Church are incredibly resilient (see “Fruits of the Church” section). Church members are better off by virtually every meaningful measure (see “Fruits of the Church” section).
+> <span style="color:red; margin-left:-10px;"> The church described by the former members quoted above sounds awful. I do not want to minimize anyone’s lived experience, but with all due respect, the church described by critics is not the Church of Jesus Christ of Latter-day Saints. I grew up in the Church and have attended several stakes and wards across various US regions and abroad. I’ve received help and resources and likewise given help and resources to help those in need. The Church does countless good around the world for individuals, families, and communities. Charity and humanitarian efforts are done with little fanfare and genuinely help the people intended (See “Welfare Program of the Church” under the “Church Finances” section). Marriages and families tied to the Church are incredibly resilient (see “Fruits of the Church” section). Church members are better off by virtually every meaningful measure (see “Fruits of the Church” section).
 
 The Church can do great good and its truth-claims may still be dubious or ill-supported.
 
