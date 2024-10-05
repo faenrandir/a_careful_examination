@@ -685,58 +685,80 @@ Jeremy discusses this generally in his [geography FAIR rebuttal](https://ceslett
 
 > <span style="color:red; margin-left:-10px;"> Alma was a small, unincorporated community in Tyler County, West Virginia. It does not appear on the maps Joseph would have used, and it was settled in the early 1830s.
 
+This is correct. Also, the name Alma was a relatively common male name in Joseph's vicinity, as substantiated in [this discuss mormonism thread](https://discussmormonism.com/viewtopic.php?f=4&t=26).
+
 > <span style="color:red; margin-left:-10px;"> Irish migrants named Conner, Canada, after the migrant's hometown in Ireland. The name came in 1865, thirty-five years after the publication of the Book of Mormon.
+
+Seems correct.
 
 > <span style="color:red; margin-left:-10px;"> Jacobsburg was established in 1815 but was too small to appear on maps. Its first appearance on a map of Ohio was in 1831, one year after the publication of the Book of Mormon.
 
+> Sometimes referred to as Jacobstown in early literature, this town in Belmont County was [laid out in 1815](https://en.wikipedia.org/wiki/Jacobsburg,_Ohio). It is cited as Jacobsburg in the 1825 version of the United States Official Postal Guide ([page 46](https://books.google.com/books?id=efsCAAAAYAAJ&lpg=PA130&ots=qJo9KbbtZp&dq=1825%20united%20states%20official%20postal%20guide&pg=PA46#v=onepage&q&f=false)).
+
 > <span style="color:red; margin-left:-10px;"> The Kiskimentas Township in Pennsylvania was named such in 1832, two years after the publication of the Book of Mormon.
+
+> This is a reference to the Kiskiminetas River along the border of Armstrong County and Westmoreland County in Pennsylvania. There are various spellings of this name, though the most common I’ve seen are Kishkemanetas on early maps (see it on [an 1805 map of Pennsylvania](http://alabamamaps.ua.edu/historicalmaps/us_states/pennsylvania/index2.htm)) and the standardized Kiskiminetas. Although the township of the name wasn’t [established until 1831](http://www.pa-roots.com/armstrong/beersproject/history/chapter20.html), somewhere in Westmoreland County there was a post office named Kiskiminitas. It shows up in the 1825 version of the United States Official Postal Guide ([page 49](https://books.google.com/books?id=efsCAAAAYAAJ&lpg=PA130&ots=qJo9KbbtZp&dq=1825%20united%20states%20official%20postal%20guide&pg=PA49#v=onepage&q&f=false)).
 
 > <span style="color:red; margin-left:-10px;"> Mantua Village, Ohio, was incorporated in 1898, sixty-eight years after 1830.
 
+> The area of Mantua in Portage County, Ohio, was first settled just ahead of 1800, though the township of the name wasn’t [formed until 1810](https://archive.org/stream/historyofportage00warn/historyofportage00warn_djvu.txt). The community was named in honor of Napoleon, who captured Mantua, Italy, in 1796. It is cited in both the 1823 New Universal Gazetteer ([page 446](https://books.google.com/books?id=fbMBAAAAYAAJ&dq=1823%20a%20new%20universal%20gazetteer&pg=PA446#v=onepage&q&f=false)) and the 1825 version of the United States Official Postal Guide ([page 56](https://books.google.com/books?id=efsCAAAAYAAJ&lpg=PA130&ots=qJo9KbbtZp&dq=1825%20united%20states%20official%20postal%20guide&pg=PA56#v=onepage&q&f=false)).
+
 > <span style="color:red; margin-left:-10px;"> Monroe, New York, existed in 1830 but was too small to appear on maps of New York in 1822 or 1831.
+
+> Sooo many cities and counties are named Monroe in the 1820s. I mapped the [town in Orange County, New York](https://en.wikipedia.org/w/index.php?title=Monroe,_New_York&oldid=938329175), but you could probably find one closer. It (and many others of the same name) is cited in the 1825 version of the United States Official Postal Guide ([page 60](https://books.google.com/books?id=efsCAAAAYAAJ&lpg=PA130&ots=qJo9KbbtZp&dq=1825%20united%20states%20official%20postal%20guide&pg=PA60#v=onepage&q&f=false)).
 
 > <span style="color:red; margin-left:-10px;"> Creation of Minoa was in 1895, 60 years after the publication of the Book of Mormon.
 
+Seems correct.
+
 > <span style="color:red; margin-left:-10px;"> Ripple Lake is already a stretch for the waters of Ripliancum. Even so, it is so small that locating even on modern-day maps is challenging. Plus, it is one of more than 250,000 lakes in Ontario. Did Joseph Smith like the name of a small and obscure body of water hundreds of miles away so much that he kept the first three letters of "Ripple Lake," added seven letters, and called it Ripliancum?
+
+This one does seem too vague to be of much utility for a modern origin theory.
 
 > <span style="color:red; margin-left:-10px;"> Here is a breakdown:
 
-** Potential names connected to the Book of Mormon	Existed in 1830**
+I've updated the chart to reflect a more nuanced analysis.
 
-Sodom (Sidom)	Checkmark
-Ripple Lake (Ripliancum)	Checkmark
-Oneida (Onidah)	Checkmark
-Oneida Castle (Onidah, Hill)	Checkmark
-Moraviantown (Morianton)	Checkmark
-Lehigh (Lehi)	Checkmark
-Hellam (Helam)	Checkmark
-Antrim (Antum)	Checkmark
-Rama (Ramah)	Close
-Omer (Omner)	Close
-Morin (Moron)	Close
-Minoa (Minon)	Close
-Mantua (Manti)	Close
-Kishkiminetas (Kishkumen)	Close
-Jacobsburg (Jacobugath)	Close
-Conner (Comner)	Close
-Antioch (Ani-Anti)	Close
-Alma (Alma, Valley of)	Close
+
+| **Names** | **LATL** | **Actual** | **In Bible** |
+|-----------------------------------|------------|---|
+| Sodom (Sidom)                     | ✅ |  ✅   | Sidon |
+| Ripple Lake (Ripliancum)          | ✅ |  ✅   | |
+| Oneida (Onidah)                   | ✅ |  ✅   | |
+| Oneida Castle (Onidah, Hill)      | ✅ |  ✅   | |
+| Moraviantown (Morianton)          | ✅ |  ✅   | |
+| Lehigh (Lehi)                     | ✅ |  ✅   | |
+| Hellam (Helam)                    | ✅ |  ✅   | |
+| Antrim (Antum)                    | ✅ |  ✅   | |
+| Rama (Ramah)                      | ❌ |  ✅   | ✅|
+| Omer (Omner)                      | ❌ |  ❌   | ✅|
+| Morin (Moron)                     | ❌ |  ❌   | |
+| Minoa (Minon)                     | ❌ |  ❌   | |
+| Mantua (Manti)                    | ❌ |  ❌   | |
+| Kishkiminetas (Kishkumen)         | ❌ |  ✅   | |
+| Jacobsburg (Jacobugath)           | ❌ |  ✅   | |
+| Conner (Comner)                   | ❌ |  ❌   | |
+| Antioch (Ani-Anti)                | ❌ |  ❌   | |
+| Alma (Alma, Valley of)            | ❌ |  ✅\* | | 
+| Land of Midian (Land of Midian)   | ✅ | ✅    | ✅|
+| Noah Lakes (Valley of Noah)       | ✅ | ✅    | ✅|
+| Jordan (Jordan)                   | ✅ | ✅    | ✅|
+| Boaz (Boaz)                       | ✅ | ✅    | ✅|
+| Shiloh (Shilom)                   | ✅❌ | ✅❌ | ✅|
+| Monroe (Moroni)                   | ✅❌| ✅ | ✅|
+| Jerusalem (Jerusalem)             | ❌ | ✅ | ✅|
+| Ephrem, Saint (Ephraim, Hill)     | ❌ | ❌ | ✅|
+
+\* Alma was a common male name in Joseph's vicinity, as sourced above.
+
 
 > <span style="color:red; margin-left:-10px;"> The following eight names theorized in the Vernal Holley model are also in the Bible. So, if Joseph Smith were to copy them, the Bible would be a more plausible source for these names in the Book of Mormon than random towns and lands, sometimes hundreds of miles away. At the same time, if ancient peoples came from the Old World to the New World, they may have named these cities after Israelite names.
 
-Potential names connected to the Book of Mormon	Existed in 1830
-Land of Midian (Land of Midian)	Checkmark
-Noah Lakes (Valley of Noah)	Checkmark
-Jordan (Jordan)	Checkmark
-Boaz (Boaz)	Checkmark
-Shiloh (Shilom) *Shiloh existed but did not appear on maps in 1822/1831	
-CheckmarkClose
-Monroe (Moroni) *Monroe existed but did not appear on maps in 1822/1831	
-CheckmarkClose
-Jerusalem (Jerusalem)	Close
-Ephrem, Saint (Ephraim, Hill)	Close
+[Added to unified table above]
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith borrow names from small towns and bodies of water hundreds of miles away that did not exist until after 1830?
+
+
 
 > <span style="color:red; margin-left:-10px;"> When I discovered the above facts, I was floored that critics still use the Holley model to criticize the Book of Mormon. Why has Jeremy not removed this section from the CES Letter? Jeremy removed the Monroe and Moroni connection, but the rest remains. The original 28 out of 86 connections were not particularly strong in the first place.
 

@@ -248,33 +248,33 @@ The Church can do great good and its truth-claims may still be dubious or ill-su
 
 [JW good quote]
 
-> If I am honest with myself, I must acknowledge that the Church gave me a mission, identity, purpose, light, and truth. Even at my lowest spiritual point, I could not deny that almost everything good in my life was thanks to the Church. Without my upbringing in the Church of Jesus Christ, I am convinced my life would have turned out for the worse, and I was not naive enough to believe otherwise.
+> <span style="color:red; margin-left:-10px;"> If I am honest with myself, I must acknowledge that the Church gave me a mission, identity, purpose, light, and truth. Even at my lowest spiritual point, I could not deny that almost everything good in my life was thanks to the Church. Without my upbringing in the Church of Jesus Christ, I am convinced my life would have turned out for the worse, and I was not naive enough to believe otherwise.
 
 [strong sense of purpose is a feature of high demand groups]
 
-> I get the impression that many critics had or heard of a one-off, personal bad experience with the Church. From there, it is easy to create a made-up church of evil-doers. No matter how much the critics want it to be so, the church they imagined may not be real.
+> <span style="color:red; margin-left:-10px;"> I get the impression that many critics had or heard of a one-off, personal bad experience with the Church. From there, it is easy to create a made-up church of evil-doers. No matter how much the critics want it to be so, the church they imagined may not be real.
 
 Certainly many ex-members are extrapolating from their experience and the experience of those around them to the entire Church. The reverse probably also happens (I had a great experience, so how could people have had a poor one?)
 
-> I’m further distressed when some critics accuse the Church of the very thing that they are doing. This is an accusation in the mirror. Critics tell me how intrusive it is for Church leaders to discuss the temple garment. Do you know what the reality is? Critics talk far more about my underwear than any church leader ever has. They cannot have it both ways.
+> <span style="color:red; margin-left:-10px;"> I’m further distressed when some critics accuse the Church of the very thing that they are doing. This is an accusation in the mirror. Critics tell me how intrusive it is for Church leaders to discuss the temple garment. Do you know what the reality is? Critics talk far more about my underwear than any church leader ever has. They cannot have it both ways.
 
 It seems possible that some members may _experience_ more "intrusive" interactions with former members than they did as members [however, it's difficult to compare the life of a person raised in the Church with someone who can block people on twitter or unsubscribe to some subreddits?]
 
->  It is the same story when critics falsely state that the Church is tearing families apart.
+> <span style="color:red; margin-left:-10px;">  It is the same story when critics falsely state that the Church is tearing families apart.
 
 Can we refer to this as a hasty generalization? Certainly some former members experience family trauma when one or more children leave or fail to live up to LDS standards. Probably many people experience significant family unity that is properly attributed to LDS teachings and structure.
 
-> If a critic has left the Church of Jesus Christ and that tension created a rift in their family, I am sorry that happened. In the same breath, that rift is not the Church’s fault.
+> <span style="color:red; margin-left:-10px;"> If a critic has left the Church of Jesus Christ and that tension created a rift in their family, I am sorry that happened. In the same breath, that rift is not the Church’s fault.
 
 [Perhaps it's proper that the Church share some of that blame because the Church has a poor model for interfaith family relationships. [[lots of examples]]] 
 
 # The Mormon Stories Formula
 
-> ... I eventually stopped listening to Mormon Stories when I caught on to the formula. The show became predictable. Despite the hosts' every effort to reassure the audience that they were not trying to convince me to leave the Church, I got the impression that I was not hearing “the true story” of early church events or modern problems. I was hearing the critical, least generous narratives of church issues from a handful of disillusioned members of the Church.
+> <span style="color:red; margin-left:-10px;"> ... I eventually stopped listening to Mormon Stories when I caught on to the formula. The show became predictable. Despite the hosts' every effort to reassure the audience that they were not trying to convince me to leave the Church, I got the impression that I was not hearing “the true story” of early church events or modern problems. I was hearing the critical, least generous narratives of church issues from a handful of disillusioned members of the Church.
 
-> This strategy can be used to smear any organization. It would be like John starting a channel called Costco Stories. He gives some backstory on the beginnings of the store chain and includes some dirt on the founders. He highlights products that use the least ethical production methods and makes it sound like these problems are unique to Costco. He brings on tearful guests who have had bad experiences shopping at Costco, poor customer service, no return when returns are guaranteed, unfair sample distribution, and a rotisserie chicken incident. They expound on the burden of buying in bulk and how the $1.50 hotdog/drink combo is the leading cause of obesity in the US. Podcast episodes are shared in an understanding tone, with a seemingly honest telling of actual experiences. After listening for a month or so, the listener decides to shop elsewhere. The impressionable listener cannot put their finger on it, but they now believe Costco is bad for the community and their pantry. Amazingly, they believe that Costco is bad, even if their own personal experience is nothing like what they heard.
+> <span style="color:red; margin-left:-10px;"> This strategy can be used to smear any organization. It would be like John starting a channel called Costco Stories. He gives some backstory on the beginnings of the store chain and includes some dirt on the founders. He highlights products that use the least ethical production methods and makes it sound like these problems are unique to Costco. He brings on tearful guests who have had bad experiences shopping at Costco, poor customer service, no return when returns are guaranteed, unfair sample distribution, and a rotisserie chicken incident. They expound on the burden of buying in bulk and how the $1.50 hotdog/drink combo is the leading cause of obesity in the US. Podcast episodes are shared in an understanding tone, with a seemingly honest telling of actual experiences. After listening for a month or so, the listener decides to shop elsewhere. The impressionable listener cannot put their finger on it, but they now believe Costco is bad for the community and their pantry. Amazingly, they believe that Costco is bad, even if their own personal experience is nothing like what they heard.
 
-> Perhaps some of what is shared on John’s podcast is true, but the tainted, critical narrative felt disingenuous. So, I stopped listening. In my mission for more light and truth, I had to move on.
+> <span style="color:red; margin-left:-10px;"> Perhaps some of what is shared on John’s podcast is true, but the tainted, critical narrative felt disingenuous. So, I stopped listening. In my mission for more light and truth, I had to move on.
 
 One of the main points of the historical critical [?] method is that We should minimize biases. Expecting Mormon Stories to present an unbiased view of all the events is simply not going to happen.[^dehlin_efforts_to_be_less_biased] We expect similar kinds of bias when the average believing member is rehearsing LDS history or truth-claims. A person seeking to find truth needs to listen to a variety of sources (from both sides) and dig into the primary data, in order to find the truth (which likely resides somewhere between the two biases).
 
