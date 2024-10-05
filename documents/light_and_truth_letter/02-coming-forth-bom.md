@@ -657,7 +657,7 @@ I would prefer not to defend Holley's map specifically, but I think that _genera
 
 > <span style="color:red; margin-left:-10px;"> There are 86 place names in the Book of Mormon. The Holley model theorizes that 28 of the names were created by looking at a map and altering the names. Joseph would have needed to take names from five US states and two Canadian provinces, hundreds of miles away from the upstate New York farmer.
 
-There's no strict limit on how a person might incorporate names into a work of fiction, and as mentioned above, there is no requirement that everything correspond exactly (or even loosely).  Especially in the vicinity of the Erie Canal, but also generally, there was a growing interest in that time of geography (see Schulten’s Mapping the Nation: History and Cartography in Nineteenth-Century America and Bernstein’s Wedding of the Waters: The Erie Canal and the Making of a Great Nation for discussion). Hence, the idea that the author of the BoM _may_ have been inspired by nearby place names is reasonable (but also not proven in any strict sense).
+There's no strict limit on how a person might incorporate names into a work of fiction, and as mentioned above, there is no requirement that everything correspond exactly (or even loosely).  Especially in the vicinity of the Erie Canal, but also generally, there was a growing interest in that time of geography (see Schulten’s [Mapping the Nation: History and Cartography in Nineteenth-Century America](https://search.worldcat.org/en/title/756577822) and Bernstein’s [Wedding of the Waters: The Erie Canal and the Making of a Great Nation](https://search.worldcat.org/en/title/63397180) for discussion). Hence, the idea that the author of the BoM _may_ have been inspired by nearby place names is reasonable (but also not proven in any strict sense).
 
 > <span style="color:red; margin-left:-10px;"> Aren’t some of the “parallels” a bit of a stretch? (IE Oneida is Onidah, Antioch is Ani-Anti, Monroe is Moroni, and Ripple Lake is Ripliancum)
 
@@ -720,37 +720,39 @@ This one does seem too vague to be of much utility for a modern origin theory.
 I've updated the chart to reflect a more nuanced analysis.
 
 
-| **Names** | **LATL** | **Actual** | **In Bible** |
+| **Names** | **LATL** | **On CES 2.0 Map** | **Mary Ann** | **In Bible** |
 |-----------------------------------|------------|---|
-| Sodom (Sidom)                     | ✅ |  ✅   | Sidon |
-| Ripple Lake (Ripliancum)          | ✅ |  ✅   | |
-| Oneida (Onidah)                   | ✅ |  ✅   | |
-| Oneida Castle (Onidah, Hill)      | ✅ |  ✅   | |
-| Moraviantown (Morianton)          | ✅ |  ✅   | |
-| Lehigh (Lehi)                     | ✅ |  ✅   | |
-| Hellam (Helam)                    | ✅ |  ✅   | |
-| Antrim (Antum)                    | ✅ |  ✅   | |
-| Rama (Ramah)                      | ❌ |  ✅   | ✅|
-| Omer (Omner)                      | ❌ |  ❌   | ✅|
-| Morin (Moron)                     | ❌ |  ❌   | |
-| Minoa (Minon)                     | ❌ |  ❌   | |
-| Mantua (Manti)                    | ❌ |  ❌   | |
-| Kishkiminetas (Kishkumen)         | ❌ |  ✅   | |
-| Jacobsburg (Jacobugath)           | ❌ |  ✅   | |
-| Conner (Comner)                   | ❌ |  ❌   | |
-| Antioch (Ani-Anti)                | ❌ |  ❌   | |
-| Alma (Alma, Valley of)            | ❌ |  ✅\* | | 
-| Land of Midian (Land of Midian)   | ✅ | ✅    | ✅|
-| Noah Lakes (Valley of Noah)       | ✅ | ✅    | ✅|
-| Jordan (Jordan)                   | ✅ | ✅    | ✅|
-| Boaz (Boaz)                       | ✅ | ✅    | ✅|
-| Shiloh (Shilom)                   | ✅❌ | ✅❌ | ✅|
-| Monroe (Moroni)                   | ✅❌| ✅ | ✅|
-| Jerusalem (Jerusalem)             | ❌ | ✅ | ✅|
-| Ephrem, Saint (Ephraim, Hill)     | ❌ | ❌ | ✅|
+| Sodom (Sidom)                     | ✅ | ✅ | ✅   | Sidon |
+| Ripple Lake (Ripliancum)          | ✅ |  | ✅   | |
+| Oneida (Onidah)                   | ✅ | ✅ | ✅   | |
+| Oneida Castle (Onidah, Hill)      | ✅ |  | ✅   | |
+| Moraviantown (Morianton)          | ✅ | ✅ | ✅   | |
+| Lehigh (Lehi)                     | ✅ | ✅ | ✅   | |
+| Hellam (Helam)                    | ✅ |  | ✅   | |
+| Antrim (Antum)                    | ✅ |  | ✅   | |
+| Rama (Ramah)                      | ❌ | ✅ | ✅   | ✅|
+| Omer (Omner)                      | ❌ |  | ❌   | ✅|
+| Morin (Moron)                     | ❌ |  | ❌   | |
+| Minoa (Minon)                     | ❌ |  | ❌   | |
+| Mantua (Manti)                    | ❌ |  | ❌   | |
+| Kishkiminetas (Kishkumen)         | ❌ | ✅ | ✅   | |
+| Jacobsburg (Jacobugath)           | ❌ | ✅ | ✅   | |
+| Conner (Comner)                   | ❌ |  | ❌   | |
+| Antioch (Ani-Anti)                | ❌ |  | ❌   | |
+| Alma (Alma, Valley of)            | ❌ | ✅ | ✅\* | | 
+| Land of Midian (Land of Midian)   | ✅ |  | ✅    | ✅|
+| Noah Lakes (Valley of Noah)       | ✅ |  | ✅    | ✅|
+| Jordan (Jordan)                   | ✅ |  | ✅    | ✅|
+| Boaz (Boaz)                       | ✅ |  | ✅    | ✅|
+| Shiloh (Shilom)                   | ✅❌ |  ✅| ✅❌ | ✅|
+| Monroe (Moroni)                   | ✅❌|  | ✅ | ✅|
+| Jerusalem (Jerusalem)             | ❌ | ✅ | ✅ | ✅|
+| Ephrem, Saint (Ephraim, Hill)     | ❌ |  | ❌ | ✅|
+| Sherbrooke (Shurr) | NA |  ✅ |  ✅| ✅ (Shur) |
 
 \* Alma was a common male name in Joseph's vicinity, as sourced above.
 
+Note that some of the locations that Mary Ann located do not necessarily correspond with the location on the CES Letter geography map.
 
 > <span style="color:red; margin-left:-10px;"> The following eight names theorized in the Vernal Holley model are also in the Bible. So, if Joseph Smith were to copy them, the Bible would be a more plausible source for these names in the Book of Mormon than random towns and lands, sometimes hundreds of miles away. At the same time, if ancient peoples came from the Old World to the New World, they may have named these cities after Israelite names.
 
@@ -758,9 +760,15 @@ I've updated the chart to reflect a more nuanced analysis.
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith borrow names from small towns and bodies of water hundreds of miles away that did not exist until after 1830?
 
+To re-emphasize, I do not necessarily think that Joseph borrowed names (or place-names) from nearby locations, as I discuss [here](https://faenrandir.github.io/a_careful_examination/place-names-near-joseph-smith/). That said, there was rising interest in maps and geography in that area during that time (as discussed by [Schulten](https://search.worldcat.org/en/title/756577822) and [Bernstein](https://search.worldcat.org/en/title/63397180). A name could have been merely discussed in the BoM author's presence at one point in their life to have become fodder for the creation of a name in a work of fiction.
+
+> <span style="color:red; margin-left:-10px;"> When I discovered the above facts, I was floored that critics still use the Holley model to criticize the Book of Mormon.
+
+Holley's hypothesis (strictly speaking) is not as powerful as the map comparison itself might suggest for the two reasons documented (not all of the locations were extant in the late 1820s and not all locations are precise fits for BoM locations). However, the 
 
 
-> <span style="color:red; margin-left:-10px;"> When I discovered the above facts, I was floored that critics still use the Holley model to criticize the Book of Mormon. Why has Jeremy not removed this section from the CES Letter? Jeremy removed the Monroe and Moroni connection, but the rest remains. The original 28 out of 86 connections were not particularly strong in the first place.
+
+Why has Jeremy not removed this section from the CES Letter? Jeremy removed the Monroe and Moroni connection, but the rest remains. The original 28 out of 86 connections were not particularly strong in the first place.
 
 > <span style="color:red; margin-left:-10px;"> With only 9% potential connections remaining (8 out of 86), why do critics still use the Vernal Holley model?
 
