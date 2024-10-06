@@ -17,13 +17,13 @@ Martha emigrated from England with her family ([arriving in Nauvoo the 25th of N
 
 Bennett recorded his thoughts after visiting Martha in St. Louis and reports them in History of the Saints ([pg. 236](https://archive.org/stream/historysaints00benngoog#page/n247)):
 
-> Miss Brotherton is a very good-looking, amiable, and accomplished English
-> lady, of highly respectable parentage, cultivated intellect, and spotless
-> moral character ...
+> Miss Brotherton is a very good-looking, amiable, and accomplished English lady, of highly respectable parentage, cultivated intellect, and spotless moral character ...
 
 ### Bennett claimed Martha wrote the affidavit herself
 
-[LDS leaders] were foiled in their hopeful scheme [of winning Martha for Brigham], and utterly defeated by the determined resistance of their intended victim, as will be seen **by the following graphic letter from her own pen** ...
+Bennett claims Brotherton [wrote the affidavit herself](https://archive.org/stream/historysaints00benngoog#page/n247):
+
+> [LDS leaders] were completely foiled in their hopeful scheme [of winning Martha for Brigham], and utterly defeated by the determined resistance of their intended victim, as will be seen **by the following graphic letter from her own pen** ...
 
 Female literacy was at [about 50% in England](https://www1.umassd.edu/ir/resources/laboreducation/literacy.pdf)[^britishlabourforce] when Brotherton's family left, so it is not unreasonable to believe that she was able to read and write.
 
