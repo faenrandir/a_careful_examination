@@ -1,5 +1,5 @@
 ---
-title: "Alex Douglas \"Afterword: The Old Testament and the Book of Mormon\""
+title: "Alex Douglas “Afterword: The Old Testament and the Book of Mormon”"
 permalink: /alex-douglas-afterword-ot-and-bom/
 doctype: excerpt
 layout: page
