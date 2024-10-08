@@ -17,7 +17,7 @@ Before answering this question, I should clarify that Book of Mormon historicity
 
 With these limitations in mind, in my opinion, the findings of biblical scholarship do not bode well for the Book of Mormon's historicity. The reasons for this conclusion break down into four main categories: text-based problems, anachronisms, ideas we would expect to find but do not, and lack of change. Let us briefly consider each of these.
 
-### Test-Based Problems
+### Text-Based Problems
 
 One of the most problematic pieces of evidence against the Book of Mormon's historicity is the way it quotes from the Old Testament. The evidence is overwhelming that Isaiah 40--66 was written by a separate author during the exile, thus making it impossible for Book of Mormon authors to quote from these chapters---as happens in 1 Nephi 20--21, 2 Nephi 6--9, and Mosiah 12--15. Some LDS writers have tried for decades to prove that the entire book was written by Isaiah himself, thus solving the anachronism, but their arguments are roundly rejected outside of LDS circles.
 
