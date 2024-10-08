@@ -109,6 +109,12 @@ If the purpose of religion is to convey facts, then, yes, the reliability of a r
 
 Does a non-historical Book of Mormon mean that Mormonism is untrue? I cannot deny the problems I see when I examine the Book of Mormon through the lens of biblical scholarship, but I also cannot deny the experiences of millions of Latter-day Saints as they experience God in their lives. What a non-historical Book of Mormon does mean, however, is that Latter-day Saints need to reevaluate how we think and talk about it. Maybe the value of our religion lies not in how many facts we have about God, but in how much good it prompts us to do in the world. Or maybe it lies in the comfort that the plan of salvation can bring to those who mourn, or in the way it brings us closer to God, or in the strength of the community we build together. In the King James Version of the New Testament, James describes “pure religion” as “to visit the fatherless and widows in their affliction, and to keep himself unspotted from the world” (James 1:27). I may be in the minority of Latter-day Saints by holding this opinion, but I wonder if letting go of the historicity of the Book of Mormon may be exactly what is needed to more closely approach the “pure religion” spoken of by James.
 
+---
+
+## See also
+
+[Book of Mormon parallels to 1800s thought]({{ "/bom-parallels-to-1800s-thought/" | relative_url }})
+
 [^footnote_1]: While the prophetic books were not compiled until quite late, the prophecies themselves were most likely written during the time of the prophets. Thus the prophecies in Isaiah 2, for example, were probably written down in the time of Isaiah, but they would have been preserved and passed down by his disciples (see Isa. 8:16), not by some central authority that kept “the prophecies of the holy prophets, from the beginning, even down to the commencement of the reign of Zedekiah; and also many prophecies which have been spoken by the mouth of Jeremiah” (1 Ne. 5:13). If they had been kept by some central authority, we would expect the Deuteronomistic History to have known and quoted from them, particularly when covering the time when these prophets were active.
 
 [^footnote_2]: The brass plates would have probably been the single most expensive item in Israel---the kind of thing that kings would brag about having created during their reign---yet no mention is made of them in either the archeological or literary record. Israel is also home to more archaeological digs than any other place in the world, yet not a single other example of metal plates has been found. The only item even remotely similar is the so-called “copper scroll” from Qumran, which (1) comes from the first century CE, (2) is a scroll, not a codex, and (3) is not a biblical text at all, but rather a kind of treasure map.
@@ -118,3 +124,5 @@ Does a non-historical Book of Mormon mean that Mormonism is untrue? I cannot den
 [^footnote_4]: “Race and the Priesthood,” Gospel Topics Essays, The Church of Jesus Christ of Latter-day Saints, accessed Dec. 2, 2021, churchofjesuschrist.org.
 
 [^footnote_5]: Mosaic law did not reach its final form until after the exile, but many of the statutes written in the Pentateuch, such as the prohibition against eating pork, would most likely have been observed by earlier Israelites.
+
+
