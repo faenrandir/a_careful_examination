@@ -121,7 +121,7 @@ The viability of any individual relationship is conditioned at least somewhat on
 
     > If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
-*Why would I want my children to be taught that they should not greet people who believe differently than them?  Whey would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
+*Why would I want my children to be taught that they should not greet people who believe differently than them?  Why would I want my children to be taught to hate their family if they don't subscribe to the same set of unfalsifiable beliefs?*
 
 ## An emphasis on "sin" instead of morality
 

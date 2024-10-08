@@ -26,7 +26,7 @@ However, depending on how a person interprets the phrase "old sectarian notion",
 
 Suicide has been defined in official channels as "a very grievous" sin and "a sin of great magnitude".
 
-M. Russell Ballard authored lengthy article for the Ensign in 1987, entitled [Suicide](https://www.churchofjesuschrist.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng), that addresses the ultimate fate of those committing suicide with considerable nuance.[^ballard_nuance_suicide] Regardless of that nuance, he nonetheless affirmed that suicide is a sin:
+M. Russell Ballard authored a lengthy article for the Ensign in 1987, entitled [Suicide](https://www.churchofjesuschrist.org/ensign/1987/10/suicide-some-things-we-know-and-some-we-do-not?lang=eng), that addresses the ultimate fate of those committing suicide with considerable nuance.[^ballard_nuance_suicide] Regardless of that nuance, he nonetheless affirmed that suicide is a sin:
 
 > I draw an important conclusion from the words of the Prophet: **Suicide is a sin—a very grievous one**, yet the Lord will not judge the person who commits **that sin** strictly by the act itself. The Lord will look at that person’s circumstances and the degree of his accountability at the time of the act. Of course, this gives us no reason to excuse ourselves in committing sins, nor will the Lord excuse us, if I understand correctly. We must constantly strive to do our best in emulating the Savior in every aspect of our lives. At the same time, however, let us remember that spiritual growth comes “line upon line,” that the key—in the spirit world as well as in mortality—is to keep progressing along the right path. ...
 
