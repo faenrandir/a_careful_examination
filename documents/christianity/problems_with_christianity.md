@@ -88,7 +88,7 @@ Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew
 
 * It deeply affects how Christians live today, causing many fundamentalist Christians to be ill-prepared for living a full life (anecdotes [here](https://www.reddit.com/r/exchristian/comments/k3zg4i/does_anyone_else_feel_like_they_werent_prepared/)).
 * It colored expectations within the early LDS Church (see [here](https://faenrandir.github.io/a_careful_examination/failed-second-coming-predictions-in-early-lds-church/))
-* Throughout its existence, LDS members have been told [they will live to see the second coming](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_11.pdf).
+* Throughout its existence, LDS members have been told [they will live to see the second coming](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_11.pdf). Some LDS youth fear [they will never get to grow up](https://www.reddit.com/r/exmormon/comments/1fz1q82/i_saw_2_preteen_clients_in_my_therapy_practice/) since the second coming is imminent.
 * LDS members today have vivid and concrete expectations for Jesus's [immediate return](https://faenrandir.github.io/a_careful_examination/modern-second-coming-predictions/).
 
 *Why would I want my children to have the expectation that life is for sure going to become cataclysmically bad and then all problems will essentially be "solved" by Jesus coming again?*
