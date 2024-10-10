@@ -2,6 +2,7 @@
 title: "What NOT to say to your LDS believing family members"
 permalink: /julie-hanks-facebook-what-not-to-say-to-believers/
 doctype: notes
+maintopic: faith-transitions
 layout: page
 ---
 
