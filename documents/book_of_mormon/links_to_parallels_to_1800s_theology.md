@@ -10,11 +10,11 @@ layout: page
 
 ### Introduction
 
-Richard Bushman, well-known Mormon historian, [stated]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):
+Richard Bushman, well-known Mormon historian, [stated]({{ "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/" | relative_url }}):[^bushman]
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
-And Blake Ostler, another well-known Mormon scholar, [has noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf):
+And Blake Ostler, another well-known Mormon scholar, [has noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf):[^ostler]
 
 > Many Book of Mormon doctrines are best explained by the nineteenth-century theological milieu.
 
@@ -58,6 +58,11 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 
 ### See also
 
+* [Alex Douglas “Afterword: The Old Testament and the Book of Mormon”]({{ "/alex-douglas-afterword-ot-and-bom/" | relative_url }})
 * [Other pre-1830 sources reminiscent of the Book of Mormon]({{ "/other-pre-1830-sources-reminiscent-of-bom/" | relative_url }})
 * [How could Joseph Smith have composed the Book of Mormon?]({{ "/how-could-joseph-smith-composed-bom/" | relative_url }})
 * [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }})
+
+[^bushman]: Richard Bushman frequently implies that he believes the Book of Mormon to possess an ancient core, so these statements of his should be understood in that context, as I discuss with more nuance in the introduction [here]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }}).
+
+[^ostler]:  Blake Ostler frequently defends the Book of Mormon as an ancient record, so his statement should be understood within that context. I discuss the tension between what an LDS scholar might concede and what they might believe about the modern and ancient influences on the Book of Mormon with more nuance in the introduction [here]({{ "/lds-scholars-modern-origin-evidence/" | relative_url }}).
