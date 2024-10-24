@@ -6,6 +6,12 @@ doctype: notes
 layout: page
 ---
 
+### Research by Stephen Clarke
+
+Stephen Clarke on MormonDialogue.org (last edited May 5, 2024) argues from Vogel's notes on tax assessments that Hyrum Smith likely spent somewhere between "7 or 8 months" to "less than a year and a half altogether" at Moor's Charity School. Clarke also acquired original Moor's School documents and argues from these that since Hyrum stopped attending before completing arithmetic studies and we have no record of him being examined in any topic that he likely would not have been learning New Testament Greek or Latin while there.
+
+See [Stephen Clarke's notes on Hyrum Smith at Moor's Charity School]({{ "/stephen-clarke-notes-on-hryum-smith-at-moors/" | relative_url }}).
+
 ### Excerpt from O'Driscoll
 
 Excerpt from [Hyrum Smith: a life of integrity](https://archive.org/details/hyrumsmithlifeof00odri) by Jeffrey S. O'Driscoll 
