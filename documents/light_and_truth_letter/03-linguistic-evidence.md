@@ -27,6 +27,8 @@ Others have noted [potential sources](https://web.archive.org/web/20200206052103
 
 Because there are so many names in the Book of Mormon, and if we allow near matching, then we are bound to run into coincidences of varying strength, just by chance. See the [Laws of the Improbability Principle](https://improbability-principle.com/the-laws-of-the-improbability-principle/). I will list out obvious ways these names could have been derived from the Bible or early 1800s religious milieu. Although this exercise does not diffuse a potential parallel with an ancient name/root, it gives us an alternative model. Randomly made up names would still likely match some of these various roots with varying degrees of rigor just by virtue of being similar to Biblical names, for example.
 
+[Also, need to elaborate and/or cite [chapter 9, from New Approaches to the BoM](https://archive.org/details/NewApproachesToTheBookOfMormon/page/n347/mode/1up), especially Table 1  . Book of Mormon Names Divided into Stems and Affixes. Also, see [List of code names in the D\&C](https://en.wikipedia.org/wiki/List_of_code_names_in_the_Doctrine_and_Covenants) (noticed by TruthIsAntiMormon)]
+
 Potential Egyptian Book of Mormon Names	Potential Old-World Connection
 1. Aha – Son of the Nephite commander-in-chief.
     * Aha – A name of the first Pharaoh; it means “warrior” and is a common word.
