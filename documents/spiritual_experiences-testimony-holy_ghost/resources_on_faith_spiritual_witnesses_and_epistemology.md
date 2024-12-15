@@ -14,6 +14,7 @@ layout: page
 1. [Can prayer determine the will of God?](http://www.religioustolerance.org/god_pra6.htm) (preliminary study)
 1. [Elevation Emotion Studies](https://drive.google.com/file/d/1YYcp-aoAI_RHk1uwA2r49m3Ogb7sKS35/view?usp=sharing) (compilation of peer reviewed research )
 
+
 ## Analyses, interpretations, or questions
 
 1. [Testimony, spiritual experiences, and truth: A careful examination]({{ "/testimony-spiritual-experiences-truth/" | relative_url }}) (analysis)
@@ -49,7 +50,11 @@ layout: page
 1. [Derren Brown - Cold Readings](https://www.youtube.com/watch?v=I6uj1ruTmGQ) (youtube, relates to patriarchal and priesthood blessings)
 1. [Derren Brown - "Intervention" experiment](https://www.youtube.com/watch?v=ust-pJC-9j8&feature=youtu.be&t=1931) (youtube, demonstrates that we see intervention if we look for it regardless of whether an agent is responsible).
 
-## Street Epistemology
+## Epistemology
+
+Standards of Truth: Finding Reliable Epistemic Standards to Identify True Prophets ([website](https://www.standardsoftruth.org/), [doc](https://drive.usercontent.google.com/u/0/uc?id=1qNkRtGwR4ZM0hVlxV2hYhNQuSZHBKvZh&export=download))
+
+### Street Epistemology
 
 [Street epistemology](https://streetepistemology.com/) sessions with Latter-day Saints:
 

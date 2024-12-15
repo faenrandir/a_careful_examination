@@ -282,29 +282,43 @@ Dan Vogel produced an analysis of the Caractors document which he published as v
 
 > <span style="color:red; margin-left:-10px;"> Don’t these linguistic connections make a stronger case for the Book of Mormon? Didn’t Moroni say that there were Egyptian and Hebrew elements in their speech that were “altered by us”?
 
+I think Stubbs's work is interesting, but it seems far from conclusive to me. For instance, we might expect him to be able to publish his research in peer reviewed journals and if the data and arguments are strong then it would convince other linguists of his conclusions. I am not aware that this has happened.
+
 >> <span style="color:red; margin-left:-10px;"> “And now, behold, we have written this record according to our knowledge, in the characters which are called among us the reformed Egyptian, being handed down and altered by us, according to our manner of speech. And if our plates had been sufficiently large we should have written in Hebrew; but the Hebrew hath been altered by us also; and if we could have written in Hebrew, behold, ye would have had no imperfection in our record.” – (emphasis added) Mormon 9:32–33
 
 > <span style="color:red; margin-left:-10px;"> Do parallels between Uto-Aztecan and Semitic/Egyptian languages absolutely prove the Book of Mormon’s divine authenticity? They do not. However, why do we continue to discover more things supporting the Book of Mormon’s claims if it was fabricated by a no-name man in 1829?
+
+[need to link to discussion about why additional discoveries are still being made, even if the BoM is a modern book.]
 
 ## Voices in the Book of Mormon
 
 > <span style="color:red; margin-left:-10px;"> Lewis Theobald produced a play called Double Falsehood in 1727. He claimed its author was the great William Shakespeare. The problem is that Shakespeare had passed away over 100 years earlier. Theobald’s claim was nearly impossible to prove. Most skeptics believed Lewis Theobald made up the claim to bolster ticket sales. Some believed that Shakespeare and John Fletcher co-wrote the play (they had written a couple of plays together early in Shakespeare’s career). Unfortunately, the original manuscript was destroyed in a fire. Without the original handwriting, no one could prove the authorship. Until recently, most believed the Double Falsehood was a Theobald production. Then in 2015, researchers from the University of Texas leveraged computing power to solve the mystery. Using a sophisticated computer model, they analyzed Shakespeare’s, Theobald's, and Fletcher's language, style, and voice. From this, they could create a psychological signature for each author. The model could determine who wrote Double Falsehood.19 They determined that Shakespeare likely authored the first three acts—the final two being authored by Flecher. Theobald's editorial hand was also identified.
 
 > <span style="color:red; margin-left:-10px;"> John Hilton III uses a similar method in his book Voices of the Book of Mormon. After a decade of research, John identifies the “linguistic fingerprints of many of the major speakers in the Book of Mormon.” (emphasis added)20 Nephi, Mormon, and Moroni compiled or wrote most of the Book of Mormon. However, there are other authors quoted. Sometimes, these quotes are lengthy sections or whole chapters. These voices include Jacob, Alma, Abinadi, Nephi (son of Helaman), and Jesus Christ. John’s research shows a wide range of variety from the different authors of the Book of Mormon. Also, the linguistic fingerprints of the Book of Mormon authors are distinct from Joseph Smith’s voice in his other writings. 19th-century authors, on the other hand, have limited voice diversity between different characters in their books.21 Even characters that differ from others in the same book written by typical 19th-century authors usually cluster around a specific range of voice diversity.
-Line arrow Straight
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith remember and keep the different voices of the Book of Mormon authors distinct?
 
+The book is mostly modular, and there are only a few main characters who are given a significant voice. Because of theory of mind (which is very developed in humans, generally), it's not particularly difficult to imagine a character with a distinctive voice and way/manner of speaking. This is not a skill limited to authors.
+
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith remember to have Nephi say the phrase “My Soul Delighteth”22 eleven times while no other author in the Book of Mormon uses that phrase?
+
+Theory of mind: Joseph imagined a character and what he might say and think. Then he dictated them saying those kinds of things.
 
 > <span style="color:red; margin-left:-10px;"> Why does Jesus Christ use the word “baptize” more than anyone else in the Book of Mormon?23
 
+Jesus in 3 Nephi was talking about a lot of doctrinal manners and given a central role in establishing ordinances and their purposes. This makes sense given his role.
+
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith remember to distinguish the voice of Jacob in 2 Nephi 9-10 from the voice of Nephi in 2 Nephi 4-5 and 11 if both were his creations?24
 
+Theory of mind. The author likely envisioned Jacob and Nephi as distinct humans with distinct personalities and concerns.
+
 > <span style="color:red; margin-left:-10px;"> While the voice diversity is impressive, John Hilton also identifies the layers of intertextuality within the Book of Mormon, which adds to its complexity. For example, when Alma was teaching his son Corianton (Alma 39-42), he quoted Abinadi’s teachings and phrases hundreds of pages earlier (from Mosiah 12-13) that applied to Corianton’s concerns.25
-Line arrow Straight
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith create a book with so many layers of complexity and intertextuality?26 With his limited education, in less than 90 days, in one draft, with no manuscripts to consult, off the top of his head, no less?
+
+It's difficult to comment on this since I'm not going to buy a ~$28 book in order to evaluate the contents (if someone sends me a copy then I will evaluate it in depth).
+
+In general, the Book of Mormon is fairly modular in creation. The relatively few references from one part of the text to another can be explained by Joseph remembering memorable aspects of what he had dictated earlier, or perhaps because he had been going through the growing manuscript itself. Nothing prevented him from examining the manuscript and there is evidence that he and Oliver were consulting the growing manuscript [in at least on instance](https://faenrandir.github.io/a_careful_examination/metcalfe-joseph-and-oliver-consulted-manuscript/).
 
 > <span style="color:red; margin-left:-10px;"> Jonathan Cannon summarizes the various stylometry arguments for the Book of Mormon. His article “Book of Mormon Stylometry in Pictures and Tables”27 visually demonstrates how impressive the stylometry differences in the Book of Mormon are.
 
@@ -315,6 +329,10 @@ Line arrow Straight
 > <span style="color:red; margin-left:-10px;"> Figure 3 – A visual cluster of 19th-century authors compared to the Book of Mormon authors.
 
 > <span style="color:red; margin-left:-10px;"> Does literary evidence undeniably verify the Book of Mormon’s claim of divine origin? Not quite. However, isn’t it interesting? Compelling? Worth exploring?
+
+It is interesting. I personally like the N-S-L model which advances evidence
+and an argument that the three major voices in the Book of Mormon are related
+to the 
 
 ## Hebraisms
 
