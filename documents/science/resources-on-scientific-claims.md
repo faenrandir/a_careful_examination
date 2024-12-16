@@ -17,7 +17,7 @@ layout: page
 * [George McCready Price inspired the 'No death before the Fall' teachings of Joseph Fielding Smith]({{ "/george-mccready-price-inspired-ndbf/" | relative_url }})
 * [Carbon-14 dating is generally reliable]({{ "/carbon-14-dating-generally-reliable/" | relative_url }})
 * [Earth's fossils did not come from chunks of other planets]({{ "/fossils-not-from-chunks-of-other-planets/" | relative_url }})
-* [The Missouri Garden of Eden Problem]({{ "/missiour-garden-of-eden-problem/"
+* [The Missouri Garden of Eden Problem]({{ "/missouri-garden-of-eden-problem/"
   | relative_url }})
 * [The April 1910 Priesthood Quorums' Table entry 'Origin of Man' is likely misconstrued to be a First Presidency Statement]({{ "/april-1910-table-not-likely-fp-statement/" | relative_url }}) [This topic seems really esoteric, but almost all arguments justifying the non-official condemnation of evolution in the LDS framework fallback to a mischaracterization of the 1910 statement as an adequate modifier of the 1909 official statement on the origin of man]
 * [Exchange regarding evidence for evolution of humans]({{ "/evidence-of-humans-r-gary-exchange/" | relative_url }})
