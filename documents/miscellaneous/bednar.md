@@ -30,6 +30,8 @@ Some accounts of Bednar by former or questioning members that are favorable or s
 
 * "[Honest, direct, and even a little self-deprecating](https://www.reddit.com/r/exmormon/comments/8ppkm3/return_report_david_a_bednar_visit/)"
 *  "[he appeared to be anything but [pharisaical] ... when he spoke with us](https://www.reddit.com/r/mormon/comments/ca6w4x/mormon_pharisees_be_like_add_your_own/et9cehf/)"
+* [Elder Bednar Had Us Sing Hymn 41 Twice: A Hymn About the Second Coming and City of Enoch](https://www.youtube.com/watch?v=20BKPXGHipA) (seems to have been posted with a positive valence) 
+    * private email showing "Angela Bell" to OP titled "Elder Bednar visit to Kirtland 8/26/23 with Presiding Bishopric and 2 Area 80" where she writes, "Beautiful meeting but wanted to tell you Elder Bednar had us a a [sic] stake sing Hymn#41 Let Zion in Her Beauty Rise not once in closing but he got up and had us sing it twice. Read the words. Very amazing spirit. ..."
 
 ## [Material no longer available]
 
