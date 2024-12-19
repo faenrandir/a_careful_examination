@@ -16,13 +16,14 @@ members of the Church of Jesus Christ of Latter-day Saints find objectionable:
 1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
+1. ["faith _not_ to be healed"](https://www.churchofjesuschrist.org/study/ensign/2016/08/accepting-the-lords-will-and-timing?lang=eng)
 1. [Intense teaching technique "The Lord's Side of the Line" to young man](https://www.youtube.com/watch?v=ftp4-kT9VSg)
 
 ### Singing related
 
 1. [Publicly chastises two YSA women for standing while singing](https://www.reddit.com/r/exmormon/comments/4n51z1/the_time_elder_bednar_chastised_two_young_girls/)
 1. [Make people re-sing the opening hymn because not forceful enough](https://web.archive.org/web/20161106043357/https://www.reddit.com/r/exmormon/comments/5bdk4e/that_time_bednar_made_us_all_resing_the_opening/)
-1. [Stops YSA group because not singing with enough vigor, then for standing](https://www.reddit.com/r/exmormon/comments/1hhfaup/summary_of_bednar_at_arizona_state_institute/)
+1. [Stops YSA group because not singing with enough vigor, then for standing](https://www.reddit.com/r/exmormon/comments/1hhfaup/summary_of_bednar_at_arizona_state_institute/) (also critiques the choir's appearance)
 
 ## Positive or Neutral
 
