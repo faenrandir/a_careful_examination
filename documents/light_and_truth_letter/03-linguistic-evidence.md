@@ -348,6 +348,8 @@ to the
 
 > <span style="color:red; margin-left:-10px;"> As a more narrative text, extensive use of "it came to pass" shows the Book of Mormon's ancient Hebrew fingerprints. How did Joseph Smith figure that out?
 
+The answer, from the naturalistic perspective, is embedded in the context of the question. The phrase "and it came to pass" is used extensively in the Bible, too. A person who was very familiar with the Bible[^familiar_with_the_bible] and is orally dictating[^oral_dictation] is very likely to fall back on "filler" kinds of phrases in order to maintain flow. Hence, it is unsurprising that "And it came to pass" is used extensively in the Book of Mormon, were someone like Joseph Smith the person dictating it.
+
 ### If-And Conditionals
 
 > <span style="color:red; margin-left:-10px;"> If-and conditionals are a Hebrew literary form not used in modern-day English. It is not present in the Bible or found in other accessible books for Joseph Smith. Linguist Royal Skousen first identified if-and conditionals in the original version and printer's manuscript of the Book of Mormon. Joseph Smith later removed most of them to make the passages more readable in 1837. The original publication of the Book of Mormon has fifteen if-and conditionals.
@@ -382,3 +384,5 @@ to the
 [^judgement_bar]: LDS researcher Royal Skousen has argued that the "judgement bar" [is anachronistic](https://faenrandir.github.io/a_careful_examination/skousen-literal-translation-of-the-plates/) since this was a Medieval invention.
 
 
+
+[^oral_dictation]: The evidence the Book of Mormon was an oral dictation is best capitulated in William Davis's [Visions in a Seer Stone](https://search.worldcat.org/title/Visions-in-a-seer-stone-:-Joseph-Smith-and-the-making-of-the-Book-of-Mormon/oclc/1119067776).
