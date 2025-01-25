@@ -145,8 +145,7 @@ processing a monumental life transition
 
 ## See also
 
-A variety of perspectives have been expressed on the topic (or are closely
-related).
+A variety of perspectives have been expressed on the topic (or are closely related).
 
 ### Scholarly
 
@@ -166,6 +165,7 @@ related).
 * [Exmormons can't leave it alone](https://www.youtube.com/watch?v=NuLBEx46qhQ) (My Spiritual Life youtube)
 * [Why ExMormons can't leave the Church alone](https://open.spotify.com/episode/35MbCitmWkVRGbAZiAm0Lo) (The Tomsters Podcast)
 * [Why ex-mormons “can’t leave the church alone”](https://www.youtube.com/watch?v=xdBSmbNwBN8) (Zelph On the Shelf youtube)
+* [The Unexamined Faith: Leave it Alone? No. Just No.](https://unexaminedfaith.blogspot.com/2019/04/leave-it-alone-no-just-no.html)
 
 ### LDS perspective
 
