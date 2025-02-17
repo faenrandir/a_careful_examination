@@ -1,4 +1,3 @@
-
 ---
 title: "Resources on the Book of Enoch"
 permalink: /resources-on-the-book-of-enoch/
