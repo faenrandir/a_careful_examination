@@ -6,20 +6,20 @@ doctype: excerpt
 layout: page
 ---
 
-### Introduction
+## Introduction
 
-LDS scholars, beginning with Hugh Nibley, have argued that the Mahijah in the Book of Moses corresponds with Mahawai from the Book of Giants, which was found with the Dead Sea Scrolls.  In his [2019 article on early Mormon texts](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/), Colby Townsend makes a case that they are *fundamentally different names* and that Nibley only thought they were the same because he was relying on an English transliteration where the *English* characters were the same.
+LDS scholars, beginning with Hugh Nibley, have argued that the Mahijah in the Book of Moses corresponds with Mahawai from the Book of Giants, which was found with the Dead Sea Scrolls.  In his [2019 article on early Mormon texts](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/), Colby Townsend makes a case that they are *fundamentally different names* and that Nibley only thought they were the same because he was relying on an English transliteration where the *English* characters were the same. Colby Townsend has argued against this, and LDS scholars have pushed back against his view.
 
-### The LDS argument
+## The LDS argument
 
 * [wikipedia: The Book of Giants (A Book of Moses connection)](https://en.m.wikipedia.org/wiki/The_Book_of_Giants#A_'Book_of_Moses'_connection)
 * Hugh Nibley's 1977 Ensign article [A Strange Thing in the Land: The Return of the Book of Enoch, Part 13](https://www.churchofjesuschrist.org/study/ensign/1977/08/a-strange-thing-in-the-land-the-return-of-the-book-of-enoch-part-13?lang=eng)
 * [Could Joseph Smith Have Drawn on Ancient Manuscripts When He Translated the Story of Enoch?:
 Recent Updates on a Persistent Question](https://journal.interpreterfoundation.org/could-joseph-smith-have-drawn-on-ancient-manuscripts-when-he-translated-the-story-of-enoch-recent-updates-on-a-persistent-question/)
 
-### Excerpt from Townsend
+## Excerpt from Townsend
 
-The following is an excerpt from Colby Townsend's 2019 article [Returning to the Sources: Integrating Textual Criticism in the Study of Early Mormon Texts and History](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/):
+The following is an excerpt from Colby Townsend's 2019 article [Returning to the Sources: Integrating Textual Criticism in the Study of Early Mormon Texts and History](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/) (see the next section for responses):
 
 ---
 
@@ -71,6 +71,20 @@ In any case, the idea that if Smith intended the two separate names Mahijah and 
 
 [76] Bradshaw and Dahle, “Could Joseph Smith Have Drawn on Ancient Manuscripts When He Translated the Story of Enoch?: Recent Updates on a Persistent Question,” 315–317.
 
-### Acknowledgements
+## Response
+
+Bradshaw, Bowen, and Dahel wrote a two part response to Townsend's analysis (the first encompassed various other issues he raised related to whether Mahuja, the second addressed)
+
+* [Textual Criticism and the Book of Moses: A Response to Colby Townsend’s “Returning to the Sources,” Part 1 of 2](https://journal.interpreterfoundation.org/textual-criticism-and-the-book-of-moses-a-response-to-colby-townsends-returning-to-the-sources-part-1-of-2/)
+
+    Contains a response to Townsend's argument that the occurrence of Mahijah was the result of misreading Emma's handwriting of Mahujah.
+    
+* [Where Did the Names Mahaway and Mahujah Come From? A Response to Colby Townsend’s “Returning to the Sources,” Part 2 of 2](https://journal.interpreterfoundation.org/where-did-the-names-mahaway-and-mahujah-come-from-a-response-to-colby-townsends-returning-to-the-sources-part-2-of-2/)
+
+    Pushes back against Townsend's argument that Mahaway from the Qumran Book of Giants scroll is not a good linguistic match for Mahijah/Mahujah from the book of Moses.
+    
+I am not aware that Townsend has responded to these (but nor have I specifically asked him about these arguments, either.)
+
+## Acknowledgements
 
 A post by /u/Broliblish [here](https://www.reddit.com/r/mormon/comments/gkv2a4/the_character_of_mahija_that_appears_in_the_enoch/) was helpful in compiling LDS sources on the topic.  Thanks to Colby Townsend for alerting me to his recent work on this topic.
