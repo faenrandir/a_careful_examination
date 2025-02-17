@@ -5,3 +5,4 @@ documents/about_apostates/quote-setup.tex
 .bundle
 .ruby-version
 vendor
+.vendor
