@@ -6,6 +6,12 @@ maintopic: book-of-enoch
 layout: page
 ---
 
+## Forward
+
+I wrote the following analysis before Colby Townsend released his more extensive analysis of Book of Enoch and its availability to Joseph Smith. Anyone interested in the topic should probably consult that document first:
+
+[Revisiting Joseph Smith and the Availability of the Book of Enoch](https://www.dialoguejournal.com/articles/revisiting-joseph-smith-and-the-availability-of-the-book-of-enoch/) (Fall 2020 Dialogue)
+
 ## Circumstantial evidence
 
 In the preface to his 1838 (3rd) edition, dated January 1838, Richard Laurence writes[^commentary_in_1883] (emboldened text for emphasis):
@@ -42,3 +48,7 @@ The Book of Enoch was being discussed in other sources (books published in Londo
 
 * John Marten Butt. 1827. London. [The Genuineness of the Book of Enoch Investigated](https://books.google.com/books?id=oDpVAAAAcAAJ&pg=PA35&dq="enoch"&hl=en&sa=X&ved=2ahUKEwiPpMbo1vzkAhVGgp4KHc7BDDgQ6AEwA3oECAUQAg)
 * John Overton. 1822. London. [Inquire into the truth and use of the Book of Enoch as to its prophecies, visions, and account of fallen angels](https://books.google.com/books?id=fYRhAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false)
+
+## See Also
+
+[Resources on the Book of Enoch](https://faenrandir.github.io/a_careful_examination/resources-on-the-book-of-enoch/)
