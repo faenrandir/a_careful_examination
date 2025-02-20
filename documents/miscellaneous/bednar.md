@@ -12,11 +12,16 @@ Some examples of a behavior or teaching of David Bednar that some former members
 1. [There are no homosexual members of the church](https://www.youtube.com/watch?v=BQ4_wTGv8Ao)
 1. [Refuses to answer question about women having the priesthood](https://www.reddit.com/r/exmormon/comments/de5ghs/elder_bednars_time_is_too_precious_to_be_wasted/)
 1. [Do not date a girl with more than one earring](https://www.youtube.com/watch?v=fqhK8fB9m-Q)
-1. [Revoked an apostolic blessing because of socializing in chapel](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
+1. Responses to people being too loud in the chapel
+    * [Revoked an apostolic blessing at YSA](https://www.reddit.com/r/exmormon/comments/9c9cpu/tomorrow_i_have_the_blessing_of_receiving_elder/e593hyt/)
+    * [Threatened to revoke apostolic blessing at youth event](https://www.reddit.com/r/mormon/comments/1iu1fml/lds_leader_david_bednar_was_upset_people_were_not/mdvgv88/)
+    * [A "rebuke": "When the spirit leaves, so must I"](https://www.reddit.com/r/mormon/comments/1iu1fml/lds_leader_david_bednar_was_upset_people_were_not/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
 1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
 1. ["faith _not_ to be healed"](https://www.churchofjesuschrist.org/study/ensign/2016/08/accepting-the-lords-will-and-timing?lang=eng)
 1. [Intense teaching technique "The Lord's Side of the Line" to young man](https://www.youtube.com/watch?v=ftp4-kT9VSg)
+1. [Telling missionaries he would not give them a referral](https://www.reddit.com/r/exmormon/comments/sqjhqw/bednar_missionary_guilt_tripping/)
+1. [The lord's work is never hard, just challenging](https://www.reddit.com/r/mormon/comments/1iu1fml/lds_leader_david_bednar_was_upset_people_were_not/mdu2t26/)
 
 ### Singing related
 
