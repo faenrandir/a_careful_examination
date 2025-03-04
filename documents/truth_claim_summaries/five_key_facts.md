@@ -15,11 +15,10 @@ Joseph Smith mis-translated [the characters above the heads of the figures](http
 
 Joseph refers to Egyptian characters in specific locations on facsimile 3 and [he gives a translation](https://www.churchofjesuschrist.org/scriptures/pgp/abr/fac-3?lang=eng).  This translation does not match the translation [made by BYU scholars](https://archive.org/stream/SnsnTranslation#page/n4/mode/1up).[^fidelity_of_translation]
 
-[According to LDS scholars Hauglid and Jensen]({{ "/hauglid-against-missing-papyri-theory/" | relative_url }}), Joseph Smith and his scribes "were working off of the papyri that we actually have in the Church today."  However, [the Book of Abraham lds.org essay](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) generally admits "the characters on the fragments do not match the translation given in the book of Abraham."
-
 **More**:
 
-[Resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url}})
+* [Resources on the Book of Abraham]({{ "/resources-on-the-book-of-abraham/" | relative_url}})
+* [Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today']({{ "/hauglid-against-missing-papyri-theory/" | relative_url }})
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
@@ -67,8 +66,6 @@ The [Lowry Nelson letters](http://www.mormonstories.org/other/Lowry_Nelson_1st_P
 
 Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 33 wives](https://josephsmithspolygamy.org/wordpress/plural-wives-overview/), 11 of whom were already [legally married to other men](https://web.archive.org/web/20190809194809/https://www.fairmormon.org/answers/Joseph_Smith/Polygamy/Polyandry/Why_would_Joseph_Smith_be_sealed_to_other_men%27s_wives#Question:_Was_Joseph_Smith_married_or_sealed_to_women_who_were_already_married_to_other_living_men.3F).  The manner in which Joseph Smith practiced and spoke about polygamy was deceptive[^deception] and at least some of his proposals would likely be viewed as involving undue influence according to modern ethical standards.[^undueinfluence]
 
-In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hales-polygamy-and-polyandry/), the most faithful LDS apologists on polygamy recounted the feelings of reviewers of their recent book on the topic: "At the end of the book [the book reviewer] didn't get a warm fuzzy feeling and that's not really something we think we can deliver with this topic."
-
 * [According to Brian Hales](https://web.archive.org/web/20191030232021/http://josephsmithspolygamy.org:80/plural-wives-overview/fanny-alger/), Joseph's first polygamous relationship (with the teenage maid, Fanny Alger) was viewed as adulterous by his first wife, Emma, and close friend Oliver Cowdery.
 * After the death of the Walker family's mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, [encouraging the father to leave on a two year mission to the eastern states](http://www.wivesofjosephsmith.org/23-LucyWalker.htm).  While the father was away, [he married the 17 year old, Lucy](http://josephsmithspolygamy.org/plural-wives-overview/lucy-walker/).
 * Joseph [frequently misled others about practicing polygamy]({{ "/joseph-smith-polygamy-denials/" | relative_url }}).
@@ -78,11 +75,11 @@ In [a recent interview](http://www.mormonstudiespodcast.org/005-brian-laura-hale
 
 **More**:
 
-* [Year of Polygamy](http://www.yearofpolygamy.com/archive/listen-to-the-episodes-in-order/) (Lindsay Hansen Park)
-* [Mormon Polygamy Documents](http://mormonpolygamydocuments.org/) (all documents on Joseph Smith's polygamy)
-* [Joseph Smith's Polygamy](http://josephsmithspolygamy.org/) (LDS polygamy apologist)
+* [Mormon Polygamy Documents](http://mormonpolygamydocuments.org/) (virtually all documents directly related to Joseph Smith's polygamy)
+* [Joseph Smith's Polygamy](http://josephsmithspolygamy.org/) (from Brian Hales, draft author of Gospel Topics essay on Nauvoo Polygamy)
 * [LDS Essay - "Plural Marriage in Kirtland and Nauvoo"](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) (lds.org)
 * [Plural Marriage in Kirtland & Nauvoo - Response to LDS.org](http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm)
+* [Year of Polygamy](http://www.yearofpolygamy.com/archive/listen-to-the-episodes-in-order/) (Lindsay Hansen Park)
 
 ### More Complete Analyses
 
