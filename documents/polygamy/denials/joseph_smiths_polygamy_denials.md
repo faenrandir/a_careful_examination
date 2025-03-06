@@ -14,7 +14,7 @@ Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasi
 A few notes:
 
 * Hyperlinks to original source material may be found by clicking on the link found in each header.  These links point to a more complete transcript of each source and that transcript also contains a link to the original source hosted by LDS affiliated sites where available.
-* Denials are tagged with **OWN WORDS** (5 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **POSSIBLY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
+* Denials are tagged with **OWN WORDS** (4 occurrences), **RESPONSIBLE FOR** (3 occurrences), or **POSSIBLY AWARE OF** (1 occurrence, in the appendix).[^explanationoftags]
 * Emphasis is sometimes added to highlight the most relevant parts of a statement.
 * The wife count is compiled from LDS apologist Brian Hales' [Joseph Smith's Polygamy site](http://josephsmithspolygamy.org/plural-wives-overview/) and only uses *established* sealing/marriage dates---the actual wife count may be higher.[^wifecount]
 * Several denials refer to the [1835 Doctrine and Covenants statement on marriage]({{ "/1835-doctrine-and-covenants-101-4/" | relative_url }}).
@@ -64,12 +64,6 @@ A few notes:
 > We the undersigned members of the church of Jesus Christ of Latter-Day Saints and residents of the city of Nauvoo, persons of families do *hereby certify and declare that we know of no other rule or system of marriage than the one published from the Book of Doctrine and Covenants*, and we give this certificate to show that Dr. J. C.  Bennett’s “secret wife system” is a creature of his own make as *we know of no such society in this place nor never did*.
 
 > [Signed by 12 men, including Newel K. Whitney, John Taylor, and Wilford Woodruff.  Under an almost identical statement are the printed signatures of 18 women including Sara M. Cleveland and Eliza R. Snow]
-
-#### [October 5, 1843, Joseph's Journal]({{ "/oct-5-1843-journal-entry/" | relative_url }})---OWN WORDS
-
-*Joseph Smith had at least 27 wives by this time.*
-
-> Evening at home and walked up and down the street with my scribe.  Gave inst[r]uction to try those who were preaching teaching or practicing the doctrine of plurality of wives. on this Law. Joseph forbids it. and the practice ther[e]of— No man shall have but one wife.
 
 #### [February 1, 1844, Times and Seasons]({{ "/times-and-seasons-feb1-1844-notice/" | relative_url }})---OWN WORDS
 
@@ -146,6 +140,7 @@ Did Joseph Smith and other leaders lie or deceive?
 ### See also
 
 * [A Timeline of Historical Denials & Denunciations of Polygamy During the Leadership of Joseph Smith](https://historicalmonogamy.wixsite.com/evidenceofdoctrine/timeline) ("Historical Monogamy Doctrine" site)
+* [October 5, 1843, Joseph's Journal]({{ "/oct-5-1843-journal-entry/" | relative_url }}) (typically interpreted as a denial but arguably is not).
 
 [^polygamydenials]: Sometimes a denial was focused on his individual behavior (e.g., 1844) and sometimes it was focused on Church doctrine or practice.
 

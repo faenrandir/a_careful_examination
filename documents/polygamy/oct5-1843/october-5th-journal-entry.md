@@ -8,7 +8,11 @@ layout: page
 
 ### Summary
 
-Joseph Smith's original journal entry for October 5, 1843 records him forbidding polygamy and instructing to try those who were preaching or teaching polygamy.  The entry was altered by later Church historians or leaders in order to countenance polygamy.
+On its face, Joseph Smith's original journal entry for October 5, 1843 records him forbidding polygamy and instructing to try those who were preaching or teaching polygamy. A careful reading of the entry in its historical context (i.e., shortly after D&C 132), however, suggests that it was actually emphasizing the default position of the Church (monogamy) but also that Joseph was the one who could authorize plural marriage. Later notes by Church historians, then, were arguably a mere _elaboration_ of its original meaning rather than a contradiction or reversal of it.
+
+Historian Dan Vogel explains in this youtube video:
+
+[Michelle Stone - polygamy denier (JS journal 5 Oct 1843)](https://www.youtube.com/watch?v=FfwUg6e6mas)
 
 ### Original Entry
 
@@ -34,13 +38,10 @@ The final print version, found in [History of the Church 6:2 as published at BYU
 
 > Evening, at home, and walked up and down the streets with my scribe. Gave instructions to try those persons who were preaching, teaching, or practicing the doctrine of plurality of wives: for, according to the law, I hold the keys of this power in the last days; for there is never but one on earth at a time on whom the power and its keys are conferred; *and I have constantly said no man shall have but one wife at a time, unless the Lord directs otherwise.*
 
-### Interpretation
-
-There are many ways to interpret the original entry and the later changes (some involving dishonesty of one or more parties).  Meg Stout has advanced the [tactical mandate hypothesis](http://www.millennialstar.org/commentary-on-joseph-smiths-monogamy/).
 
 ### Joseph Fielding Smith attestation[^jfsheardthrough]
 
-In the book [Blood Atonement and the Origin of Plural Marriage](https://www.gutenberg.org/ebooks/50535), Joseph Fielding Smith (JFS) corresponded with Richard G. Evans, second counselor in the Presidency of the RLDS Church:
+A discussion about the accuracy of historical transmission centered on the journal entry, apparently under the assumption that it was intended to be seen as a denial of polygamy (which Dan Vogel argues against, as discussed previously). In the book [Blood Atonement and the Origin of Plural Marriage](https://www.gutenberg.org/ebooks/50535), Joseph Fielding Smith (JFS) corresponded with Richard G. Evans, second counselor in the Presidency of the RLDS Church:
 
 > You "confidently affirm that there is not a single word in a single sermon, lecture, statement, newspaper or Church publication printed during the life of Joseph Smith, wherein he by word has endorsed the doctrine of plurality of wives, not a single statement." Whether any such statement was ever printed in his lifetime or not I am not prepared to say. But I do know of such evidence being recorded during his lifetime, for I have seen it.
 
@@ -50,7 +51,7 @@ In the book [Blood Atonement and the Origin of Plural Marriage](https://www.gute
 
 The Manuscript History Draft and Final Manuscript History Draft differ in two places: capitalization of the word "No" in "No man shall have" and the use of a final comma between "time" and "unless".  JFS follows the Final Draft with the lowercase "no" and the First Draft with the absence of a comma.  The lowercase "no" seems less substantive than the final comma (few would let stand the capitalized "No" in a sentence like that but many might overlook the unnecessary comma in a transcription), but JFS could have lowercased the "no" and and also dropped the final comma in accordance with good English grammar regardless of which source he was referring to.  So, scrutiny of the sources directs us more towards the First Draft (if we weigh the comma as being more substantive than the odd capitalization), but it is in no way conclusive since JFS could have dropped the final comma regardless.
 
-If JFS was referring to the Final Manuscript History Draft then he may have been acting in ignorance of the nature of the original entry and its alteration by earlier historians.  To some extent, then, he may have overstated attribution ("such evidence being recorded during his [Joseph Smith's] lifetime, for I have seen it").  Were he referring to the initial draft (with corrections) or were he aware of the original journal entry, then it would be reasonable to conclude that he was guilty of duplicity to some degree.  At the very least, JFS overstated the significance of the evidence to which he referred.
+If JFS was referring to the Final Manuscript History Draft then he may have been acting in ignorance of the nature of the original entry and its alteration by earlier historians.  To some extent, then, he may have overstated attribution ("such evidence being recorded during his [Joseph Smith's] lifetime, for I have seen it").  Were he referring to the initial draft (with corrections) or were he aware of the original journal entry, then it would be reasonable to conclude that he was guilty of duplicity to some degree.  At the very least, JFS overstated the significance of the evidence to which he referred?
 
 [^jfsheardthrough]: The JFS attestation h/t kinderhookandzelph and ThomasTTEngine [here](https://www.reddit.com/r/mormon/comments/a0b4ii/the_handwritten_nauvoo_diary_of_joseph_smith_for/).
 
