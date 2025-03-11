@@ -330,9 +330,7 @@ In general, the Book of Mormon is fairly modular in creation. The relatively few
 
 > <span style="color:red; margin-left:-10px;"> Does literary evidence undeniably verify the Book of Mormon’s claim of divine origin? Not quite. However, isn’t it interesting? Compelling? Worth exploring?
 
-It is interesting. I personally like the N-S-L model which advances evidence
-and an argument that the three major voices in the Book of Mormon are related
-to the 
+It is interesting. I personally like the N-S-L model which advances evidence and an argument that the three major voices in the Book of Mormon are related to the 
 
 ## Hebraisms
 

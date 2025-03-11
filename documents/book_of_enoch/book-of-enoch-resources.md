@@ -17,6 +17,7 @@ layout: page
 
 1. [Revisiting Joseph Smith and the Availability of the Book of Enoch](https://www.dialoguejournal.com/articles/revisiting-joseph-smith-and-the-availability-of-the-book-of-enoch/) (Colby Townsend's Dialogue Fall 2020 article)
 1. [Returning to the Sources: Integrating Textual Criticism in the Study of Early Mormon Texts and History](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/) (Colby Townsend's Intermountain West Journal of Religious Studies 2019 article with a section on Mahijah, Mahujah, and Mahaway)
+1. [Joseph Smith, Mormonism and Enochic Tradition](https://etheses.dur.ac.uk/236/) (Salvatore Cirillo Masters thesis, superseded in large part by Townsend's research)
 
 ## Apologetic
 
@@ -27,3 +28,7 @@ layout: page
 1.  [Where Did the Names Mahaway and Mahujah Come From? A Response to Colby Townsend’s “Returning to the Sources,” Part 2 of 2](https://journal.interpreterfoundation.org/where-did-the-names-mahaway-and-mahujah-come-from-a-response-to-colby-townsends-returning-to-the-sources-part-2-of-2/) (Interpreter 2020)
 
     Pushes back against Townsend's argument that Mahaway from the Qumran Book of Giants scroll is not a good linguistic match for Mahijah/Mahujah from the book of Moses.
+
+1. [Could Joseph Smith Have Drawn on Ancient Manuscripts When He Translated the Story of Enoch?: Recent Updates on a Persistent Question](https://scripturecentral.org/archive/periodicals/journal-article/could-joseph-smith-have-drawn-ancient-manuscripts-when-he-translated-story-enoch-recent) (Interpreter 2020)
+
+    Argues against Joseph Smith's reliance on 1 Enoch and other ancient pseudepigrapha.
