@@ -28,7 +28,9 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) ([relevant text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/)) (churchistrue)
 1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/) (churchistrue)
 1. [Anachronistic Christian Doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
-1. [Similarities with Jonathon Edwards Sr/Jr sermons](https://imgur.com/a/q2AcO)
+1. Similarities with Jonathan Edwards Sr/Jr sermons
+    * [short table](https://imgur.com/a/q2AcO)
+    * [intertextuality](https://www.mobom.org/jonathan-edwards) (Jonathan Neville, author of Infinite Goodness)
 1. [Moroni quotes sections of Mark that are of dubious origin]({{ "/moroni-quotes-sections-of-mark-dubious-origin/" | relative_url }}) (bwv549)
 1. [The Book of Ether and A Key to the Chronology of the Hindus](https://atoponce.keybase.pub/Book%20of%20Mormon%20Sources%20Project_%20Jaredites.pdf) (Keri Toponce)
 1. [650 phrases from the New Testament in the BoM]({{"/nt-in-bom-lhales-interview-frederick/" | relative_url }}) (BYU Professor Nick Frederick)
