@@ -1,17 +1,17 @@
 ---
-title: "LDS Garments and Modesty"
-permalink: /garment-and-modesty/
+title: "The LDS garment and modesty"
+permalink: /garments-and-modesty/
 doctype: notes
 layout: page
 ---
 
-## LDS Garment Updates and the Modesty Conversation
+## Introduction
 
 Recent [changes to LDS garments for hot climates](https://www.sltrib.com/religion/2024/10/17/latter-day-saints-react-news/) have sparked discussion about the connection between garments and modesty. Although garments are officially described as symbols of temple covenants, they also seem to function as a modesty standard—especially for women.
 
 Some, like [LDS media influencer Victoria Froelich](https://www.instagram.com/vikafroelich/reel/DH1e06_yJQN/), argue that the link between garments and modesty is more cultural than doctrinal. Others maintain that modesty is a core, unchanging principle tied to the garment.
 
-The Church states that garments are symbolic, but modesty is frequently emphasized in official publications, lesson manuals, and Church media. Below is a collection of quotes and materials from *churchofjesuschrist.org* related to garments and modesty.
+The Church states that garments are symbolic, but modesty is emphasized in official publications, lesson manuals, and Church media. Below is a collection of quotes and materials from *churchofjesuschrist.org* related to garments and modesty.
 
 ---
 
@@ -68,12 +68,11 @@ As quoted in [Modesty Matters](https://www.churchofjesuschrist.org/study/ensign/
 
 > A Protection Against Temptation
 
-> “Modesty in dress and manner will assist in protecting against temptation. It may be difficult to find modest clothing, but it can be found with enough effort. … You can be attractive without being immodest. … Draw some rigid parameters, a line in the sand, as it were, beyond which you will not go.”  
+> “Modesty in dress and manner will assist in protecting against temptation. It may be difficult to find modest clothing, but it can be found with enough effort. … You can be attractive without being immodest. … Draw some rigid parameters, a line in the sand, as it were, beyond which you will not go.”
+
 > —President Gordon B. Hinckley, “Stay on the High Road,” *Liahona* and *Ensign*, May 2004, 114.
 
----
-
-## Never lower your standards of dress
+### Never lower your standards of dress
 
 From the *For the Strength of Youth* pamphlet [retrieved from the Wayback Machine, 28 Dec 2019](https://web.archive.org/web/20220309023153/https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/ForTheStrengthOfYouth-eng.pdf?lang=eng):
 
