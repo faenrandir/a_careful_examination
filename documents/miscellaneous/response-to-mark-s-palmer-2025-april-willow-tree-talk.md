@@ -103,26 +103,26 @@ From within the LDS Church worldview, these words suggest that only within the L
 
 > So, as you consider the Savior’s invitation to return unto Him, what might you learn from the story of the willow tree?
 
-> 1. **The journey back is often not easy or comfortable—but it is worth it.**  
+> 1\. **The journey back is often not easy or comfortable—but it is worth it.**  
 >    When our willow was stood back up, all its branches were cut away. It was not pretty. We too may feel vulnerable as we discard old ways and are stripped of pride. But focusing your faith on Jesus Christ and His gospel—the trunk and the roots—will give you the hope and the courage to take that first step back.
 
 "stripped of pride" suggests that members who leave do so, ultimately, for prideful reasons. Most former members I know describe exercising significant levels of humility to _leave_ the Church they once loved at the risk of losing precious relationships and as the anchor to their life that they had once enjoyed. Of course returning to the Church after leaving would require humility, but persisting in trying to build a life of goodness and truth outside of the institution may require similar levels of (unseen) humility?
 
-> 2. **It took many years for our willow to regain its former strength and beauty.**  
+> 2\. **It took many years for our willow to regain its former strength and beauty.**  
 >    Now, it is even stronger and more beautiful than before. Be patient as your faith and testimony also grow. This includes not taking offense at thoughtless comments like, “Where have you been all these years?”
 
 This reminder also could be read to imply that former members are especially prone to taking offense compared to active LDS members. That remains undemonstrated as far as I am aware.
 
-> 3. **The willow would never have survived without constant care and nourishment.**  
+> 3\. **The willow would never have survived without constant care and nourishment.**  
 >    You will nourish your faith and your testimony as you feast at the sacrament table each week and as you worship in the house of the Lord.
 
 Members who leave the LDS Church survive and find nourishment in different ways.
 
-> 4. Just as **the willow needed sunshine for its branches and leaves to grow again**, so your testimony will grow as you stay sensitive to the feelings and the witness of the Spirit. Learn from Amulek, who described his time as a less active member by saying: “I was called many times and I would not hear.”
+> 4\. Just as **the willow needed sunshine for its branches and leaves to grow again**, so your testimony will grow as you stay sensitive to the feelings and the witness of the Spirit. Learn from Amulek, who described his time as a less active member by saying: “I was called many times and I would not hear.”
 
 Most former members view Amulek as a fictional character whose experience does not reflect their own.
 
-> 5. **My neighbor knew what the willow could once again become.** So too, the Lord knows your divine potential and what your faith and your testimony can become. He will never give up on you. Through the Atonement of Jesus Christ, all that is broken can be healed.
+> 5\. **My neighbor knew what the willow could once again become.** So too, the Lord knows your divine potential and what your faith and your testimony can become. He will never give up on you. Through the Atonement of Jesus Christ, all that is broken can be healed.
 
 Former members do not view themselves as broken but as normal humans trying to do the best they can.
 
