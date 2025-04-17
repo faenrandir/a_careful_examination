@@ -77,7 +77,7 @@ Thus, while Ogden’s reconciliation is earnest and thoughtfully presented, it u
 
 ## Conclusion
 
-Dr. Ogden’s chapter offers thoughtful contributions toward reconciling evolution and the restored gospel. However, his treatment of scriptural data concerning when, where, and how Adam and Eve lived understates the specificity found in Latter-day Saint teachings, and his proposed reinterpretation of Adam as merely the first covenantal human requires significant semantic and theological redefinition. A more persuasive reconciliation—if it is even possible given the constraints and inherent tensions between LDS scripture and the human evolution/migration data—would need to more fully account for the historical scriptural framework while preserving the traditional doctrinal structure.
+Dr. Ogden’s chapter offers thoughtful contributions toward reconciling evolution and LDS theology. However, his treatment of scriptural data concerning when, where, and how Adam and Eve lived understates the specificity found in Latter-day Saint teachings, and his proposed reinterpretation of Adam as merely the first covenantal human requires significant semantic and theological redefinition. A more persuasive reconciliation—if it is even possible given the constraints and inherent tensions between LDS scripture and the human evolution/migration data—would need to more fully account for the historical scriptural framework while preserving the traditional doctrinal structure.
 
 ---
 
