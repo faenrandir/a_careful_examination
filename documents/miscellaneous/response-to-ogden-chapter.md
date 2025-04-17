@@ -7,15 +7,17 @@ layout: page
 
 ## Introduction
 
-This essay reviews the chapter "Accepting Evolution with Joy Is Possible" by T. Heath Ogden from [The Restored Gospel of Jesus Christ and Evolution](https://lifesciences.byu.edu/00000196-3fde-d175-add6-bfdf50c80001/gospel-evolution-pdf), a new volume authored by BYU scholars. The collection appears to be an important and valuable resource on the intersection of evolution and LDS theology. Though I have not yet read the entire collection (I'm familiar with the work of most of the scholars contributing, and I have high expectations), I can say that I found both chapters by Ben Spackman to be excellent. I also appreciate Dr. Ogden’s goals and commend his efforts to reconcile science and LDS faith. He makes several compelling arguments, particularly in presenting strong evidence for human biological continuity with other primates and in suggesting that later First Presidency statements moderated the anti-evolution stance of the 1909 declaration. His reasoning on these points is persuasive and well-argued. The core of his reconciliation, however, is less persuasive to me.
+This essay reviews the chapter “Accepting Evolution with Joy Is Possible” by T. Heath Ogden, from The Restored Gospel of Jesus Christ and Evolution, a new volume authored by BYU scholars. The collection appears to be an important and valuable resource at the intersection of evolution and LDS theology. Although I have not yet read the entire volume, I am familiar with the work of most of its contributors and have high expectations. I also follow Ben Spackman’s work closely and found both of his chapters to be excellent.
 
-*disclaimer: this is a topic I have been studying for decades, but I used chatgpt in focused ways to help me formulate and better articulate my response, as well as condense some of my arguments. I take full responsibility for the contents of the essay.*
+I appreciate Dr. Ogden’s goals and commend his efforts to reconcile science and LDS faith. He makes several compelling arguments, particularly in presenting strong evidence for human biological continuity with other primates and in suggesting that later First Presidency statements moderated the anti-evolution stance of the 1909 declaration. His reasoning on these points is persuasive and well-argued.
+
+However, while I respect his attempt—and believe that such a reconciliation, if successful, would be among the most valuable contributions this volume could offer—the core of his reconciliation, as it currently stands, is less persuasive to me.
 
 Ogden states his purpose succinctly:
 
 > "I will attempt here simply to demonstrate that what the scriptures say about Adam and Eve can be reconciled with evolution."
 
-While the effort is admirable, I argue that his proposed reconciliation ultimately falls short in two major respects:
+I argue that his proposed reconciliation ultimately falls short in two major respects:
 
 1. He treats the data concerning when, where, and how Adam and Eve lived as "nebulous."
 2. He interprets "first man" narrowly, reducing it to a description of Adam and Eve as the first spiritual offspring to receive covenants rather than the first biological humans.
@@ -89,3 +91,6 @@ Summary of Van Orden’s article:
 - Brigham Young and other early leaders reaffirmed this location.
 - Primary documentation is limited due to gaps in early recordkeeping.
 - D&C 116 identifies Adam-ondi-Ahman in Missouri as a key post-Edenic location.
+
+
+*disclaimer: this is a topic I have been studying for decades, but I used chatgpt in focused ways to help me formulate and better articulate my response, as well as condense some of my arguments. I take full responsibility for the contents of the essay.*
