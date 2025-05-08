@@ -685,7 +685,7 @@ Jeremy discusses this generally in his [geography FAIR rebuttal](https://ceslett
 
 > <span style="color:red; margin-left:-10px;"> Alma was a small, unincorporated community in Tyler County, West Virginia. It does not appear on the maps Joseph would have used, and it was settled in the early 1830s.
 
-This is correct. Also, the name Alma was a relatively common male name in Joseph's vicinity, as substantiated in [this discuss mormonism thread](https://discussmormonism.com/viewtopic.php?f=4&t=26).
+This is correct. The name Alma was relatively common in Joseph's vicinity. Some have argued that it was a name used for males ([for example](https://discussmormonism.com/viewtopic.php?f=4&t=26)), but further inspection has [called that into doubt](https://journal.interpreterfoundation.org/more-evidence-for-alma-as-a-semitic-name/). Regardless of how it was gendered, the name itself does appear to be relatively common in that time.
 
 > <span style="color:red; margin-left:-10px;"> Irish migrants named Conner, Canada, after the migrant's hometown in Ireland. The name came in 1865, thirty-five years after the publication of the Book of Mormon.
 
@@ -750,10 +750,10 @@ I've updated the chart to reflect a more nuanced analysis.
 | Ephrem, Saint (Ephraim, Hill)     | ❌ |  | ❌ | ✅|
 | Sherbrooke (Shurr) | NA |  ✅ |  ✅| ✅ (Shur) |
 
-\* Alma was a common male name in Joseph's vicinity, as sourced above. I am
-keeping it in the chart to demonstrate that it would have been readily
-accessible as a name while acknowledging that the location shown in the
-CES Letter (as an extant location in the late 1820s) is not likely defensible.
+\* Alma was a common name in Joseph's vicinity. I am keeping it in the chart to
+demonstrate that it would have been readily accessible as a name while
+acknowledging that the location shown in the CES Letter (as an extant location
+in the late 1820s) is not likely defensible.
 
 Note that some of the locations that Mary Ann located do not necessarily correspond with the location on the CES Letter geography map.
 

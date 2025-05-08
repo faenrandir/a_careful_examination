@@ -164,7 +164,7 @@ If Joseph Smith were author, then we do not require him to be a "good fiction wr
 > <span style="color:red; margin-left:-10px;"> The Book of Mormon also has several Hebrew names that are not in the Bible. They include Sariah, Alma, Abish, Aha, Ammonihah, Chemish, Hagoth, Himni, Isabel, Jarom, Josh, Luram, Mathoni, Mathonihah, Muloki, and Sam. The connection these names have to ancient Hebrew was unknown in Joseph Smith's day.7
 
 * Sariah - similar to Sarai (Genesis 11:29)
-* Alma - common male name from Joseph's milieu.
+* Alma - common name from Joseph's milieu.
 * Abish - Abishai (1 Samuel 26:6)
 * Aha - found as an exclamation in Psalm 35:21 and Ezekiel 25:3. Similar to Bible names like "Ahaz."
 * Ammonihah - Ammon (Genesis 19:39) + "ihah"
@@ -188,7 +188,9 @@ If Joseph Smith were author, then we do not require him to be a "good fiction wr
 
 > <span style="color:red; margin-left:-10px;"> How did Joseph Smith know that Alma was an ancient male name in ancient Israel? Why did Joseph Smith not amend the Book of Mormon when his critics mocked him? Have any critics apologized to Joseph Smith yet?
 
-Alma was a common male name in Joseph Smith's vicinity, as demonstrated [here](https://discussmormonism.com/viewtopic.php?f=4&t=26) and discussed on [this Mormonism Live podcast episode](https://radiofreemormon.org/2020/12/mormonism-live-004-the-rise-and-fall-of-alma-the-apologetic/).
+I'm not aware of any critics _ever_ "panning" Joseph Smith for this "obvious" mistake (i.e., this is an unsubstantiated assertion).
+
+Some have argued that it was a name used for males ([for example](https://discussmormonism.com/viewtopic.php?f=4&t=26)), but further inspection has [called that into doubt](https://journal.interpreterfoundation.org/more-evidence-for-alma-as-a-semitic-name/). Regardless of how it was gendered, the name itself does appear to be relatively common in Joseph Smith's time and place.
 
 > <span style="color:red; margin-left:-10px;"> Sariah - Critics mocked Joseph for naming Lehi’s wife Sariah, which was understood at the time to be an ancient male Hebrew name. That is until the name Sariah appeared on papyri in the Egyptian Jewish community of Elephantine, dating to around 500 BC for two women.10
 
