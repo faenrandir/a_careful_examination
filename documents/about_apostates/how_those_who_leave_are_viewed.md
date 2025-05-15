@@ -107,6 +107,8 @@ Dieter Uchtdorf. General Conference, Oct, 2013. [Come, Join with Us](https://www
 
 > It is hard to understand all the reasons why some people take another path. The best we can do in these circumstances is just to love and embrace them, pray for their well-being, and seek for the Lord’s help to know what to do and say. Sincerely rejoice with them in their successes; be their friends and look for the good in them. We should never give up on them but preserve our relationships. Never reject or misjudge them. Just love them! The parable of the prodigal son teaches us that when children come to themselves, they often desire to come home. If that happens with your dear ones, fill your hearts with compassion, run to them, fall on their neck, and kiss them, like the father of the prodigal son did.
 
+Ulisses Soares. General Conference, Apr, 2019. [How Can I Understand](https://www.churchofjesuschrist.org/study/general-conference/2019/04/11soares?lang=eng)
+
 ## Negative statements about those who leave
 
 *Individuals who leave the LDS Church...*
