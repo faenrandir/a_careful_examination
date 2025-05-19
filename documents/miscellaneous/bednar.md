@@ -17,7 +17,7 @@ Some examples of a behavior or teaching of David Bednar that some former members
     * [Threatened to revoke apostolic blessing at youth event](https://www.reddit.com/r/mormon/comments/1iu1fml/lds_leader_david_bednar_was_upset_people_were_not/mdvgv88/)
     * [A "rebuke": "When the spirit leaves, so must I"](https://www.reddit.com/r/mormon/comments/1iu1fml/lds_leader_david_bednar_was_upset_people_were_not/)
 1. [Expects wife to stand after him in deference to his apostolic authority](https://www.youtube.com/watch?v=CPBsWbopjXU)
-1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8)
+1. [Moral agency means you are free to obey the commandments](https://www.youtube.com/watch?v=mmErOV9oQZ8) (and you [already made the decision to serve a mission in pre-mortality](https://www.reddit.com/r/exmormon/comments/1kpayis/susans_husband_was_in_my_city_last_night/msxfox8/?context=3))
 1. ["faith _not_ to be healed"](https://www.churchofjesuschrist.org/study/ensign/2016/08/accepting-the-lords-will-and-timing?lang=eng)
 1. [Intense teaching technique "The Lord's Side of the Line" to young man](https://www.youtube.com/watch?v=ftp4-kT9VSg)
 1. [Telling missionaries he would not give them a referral](https://www.reddit.com/r/exmormon/comments/sqjhqw/bednar_missionary_guilt_tripping/)
@@ -28,6 +28,7 @@ Some examples of a behavior or teaching of David Bednar that some former members
 1. [Publicly chastises two YSA women for standing while singing](https://www.reddit.com/r/exmormon/comments/4n51z1/the_time_elder_bednar_chastised_two_young_girls/)
 1. [Make people re-sing the opening hymn because not forceful enough](https://web.archive.org/web/20161106043357/https://www.reddit.com/r/exmormon/comments/5bdk4e/that_time_bednar_made_us_all_resing_the_opening/)
 1. [Stops YSA group because not singing with enough vigor, then for standing](https://www.reddit.com/r/exmormon/comments/1hhfaup/summary_of_bednar_at_arizona_state_institute/) (also critiques the choir's appearance)
+1. [Interrupted closing hymn and "told everybody to sing with a smile"](https://www.reddit.com/r/exmormon/comments/1kpayis/susans_husband_was_in_my_city_last_night/msxfox8/?context=3)
 
 ## Positive or Neutral
 
