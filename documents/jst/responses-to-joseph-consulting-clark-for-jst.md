@@ -8,7 +8,7 @@ layout: page
 
 # Initial claim
 
-* [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
+* [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](https://web.archive.org/web/20250210101017/http://jur.byu.edu/?p=21296) (original publication in BYU's Journal of Undergraduate Research)
 * [Producing Ancient Scripture: Joseph Smith's Translation Projects in the Development of Mormon Christianity](https://uofupress.lib.utah.edu/producing-ancient-scripture/) (chapter 11 is the official publication)
 
 ## Ancillary
