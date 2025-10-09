@@ -550,7 +550,7 @@ One reasonable response to this parable is to simply extend the analogy:  Imagin
 
 * We know that he would frequently claim to find treasure but its existence was never verified (see discussions [here](https://www.mormonstories.org/truth-claims/joseph-smith/treasure/) and [here](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1504&context=byusq)).
 * We know that he could synthesize rubies from other material (consider these LDS scholars discussing how Joseph [generated the Book of Abraham text from Egyptian papyri](https://www.youtube.com/watch?v=tznpRR0Fos8)).
-* We know he was capable of [synthesizing emeralds](http://jur.byu.edu/?p=21296).
+* We know he was capable of [synthesizing emeralds](https://faenrandir.github.io/a_careful_examination/joseph-consulting-clarkes-commentary/).
 
 Finally, we find out that a number of researchers actually *have* [carefully analyzed the diamond](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/), and they find that it contains [the exact same kinds of contaminants as diamonds from the next county over]({{ "/bom-parallels-to-1800s-thought/" | relative_url }}).  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then [buy the land from him](http://www.mrm.org/attempt-to-sell-copyright) in search of diamonds.
 
