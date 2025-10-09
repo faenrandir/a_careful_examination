@@ -49,7 +49,7 @@ However:
 * Lucy Mack Smith, Joseph's mother, [recalls Joseph](https://web.archive.org/web/20191121145958/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#Question:_Was_the_young_Joseph_Smith_a_teller_of_.22tall_tales.22.3F) giving "some of the most amusing recitals that could be imagined ... with as much ease, seemingly, as if he had spent his whole life among them."[^lucymackstories]
 * Joseph continued producing well-written material in the years following (e.g., [Letter to Emma 1832](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-6-june-1832/1) and [his 1832 history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2)) 
 * As a youth, Joseph was, according to his own account, [steeped in the religious conversations of his day]({{ "/religious-interest-and-capability-from-1832-statement/" | relative_url }}).
-* Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in ["hundreds" of instances into his Joseph Smith Translation of the bible](http://jur.byu.edu/?p=21296).
+* Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in ["hundreds" of instances into his Joseph Smith Translation of the bible]({{ "/joseph-consulting-clarkes-commentary/" | relative_url }}).
 * Joseph [had an extraordinary intellect]({{ "/joseph-smith-capable-of-authoring-the-book-of-mormon/#intellectual-powers" | relative_url }}).
 
 ## Losing track
