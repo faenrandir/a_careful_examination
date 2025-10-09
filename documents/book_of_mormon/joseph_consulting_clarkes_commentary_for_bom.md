@@ -43,7 +43,7 @@ For a fuller catalogue, see the tables in Townsend’s appendix (pp. 77–83) or
 
 ## Rebuttal & further debate  
 
-[as they accumulate]
+[Adam Clarke and Isaiah in the Book of Mormon](https://journal.interpreterfoundation.org/adam-clarke-and-isaiah-in-the-book-of-mormon/) (Kent P. Jackson response in the Interpreter argues the evidence is insufficient to conclude Clarke commentary usage)
 
 ## Related scholarship  
 
