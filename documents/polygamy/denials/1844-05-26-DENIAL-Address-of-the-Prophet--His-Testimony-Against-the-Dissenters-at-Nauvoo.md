@@ -6,7 +6,11 @@ doctype: historical-source
 layout: page
 ---
 
-* Copied from History of the Church, [vol. 6 ch. 19](https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.  Last accessed 2017-02-05.
+* Copied from History of the Church, [vol. 6 ch. 19](https://web.archive.org/web/20201021184740/https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.
+* Slight more context and explanatory footnotes can be found in The Words of Joseph Smith: The Contemporary Accounts of the Nauvoo Discourses of the Prophet Joseph, [26 May 1844 (Sunday Morning)](https://rsc.byu.edu/words-joseph-smith/26-may-1844-sunday-morning). In particular this note about provenance:
+    > The report of this discourse published in History of the Church was made by Thomas Bullock, but has either been lost or misplaced. The brief accounts by Willard Richards (Joseph Smith Diary) and Thomas Bullock (personal diary) are here published for the first time.
+    * Joseph Smith Diary, by Willard Richards: "10 A M. preached at the stand about Joseph Jackson and the Mobocrats."
+    * Thomas Bullock Diary: "At the Stand recording J. Smith's sermon. —26 May 1844"
 * [FairMormon's contextualization](http://en.fairmormon.org/Joseph_Smith/Polygamy/Hiding_the_truth)
 
 (emphasis added)
