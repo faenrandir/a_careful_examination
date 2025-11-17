@@ -125,6 +125,7 @@ They reference the following footnotes:
 
 Did Joseph Smith and other leaders lie or deceive?
 
+* [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) on Joseph Smith's polygamy: ["obviously he lied"]({{ "/laurel-thatcher-ulrich-obviously-he-lied/" | relative_url }})
 * [The verbiage used by Joseph Smith's wives to describe their unions]({{ "/how-did-js-wives-refer-to-unions/" | relative_url }}).
 * [Definitions of words related to "lie" and "deceive"]({{ "/definitions-of-terms-polygamy-denials/" | relative_url }}) (from Merriam-Webster, the Gospel Principles Manual, General Conference addresses, and Wikipedia).
 * [Response to Hales' challenge: "Please show me even one 'lie' by Joseph regarding plural marriage"](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/)
