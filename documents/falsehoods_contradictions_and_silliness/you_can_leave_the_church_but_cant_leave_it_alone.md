@@ -166,6 +166,7 @@ A variety of perspectives have been expressed on the topic (or are closely relat
 * [Why ExMormons can't leave the Church alone](https://open.spotify.com/episode/35MbCitmWkVRGbAZiAm0Lo) (The Tomsters Podcast)
 * [Why ex-mormons “can’t leave the church alone”](https://www.youtube.com/watch?v=xdBSmbNwBN8) (Zelph On the Shelf youtube)
 * [The Unexamined Faith: Leave it Alone? No. Just No.](https://unexaminedfaith.blogspot.com/2019/04/leave-it-alone-no-just-no.html)
+* [Why I Can't Stop Talking about Jesus](https://www.youtube.com/watch?v=jU5x0H5Wrg0) (Rhett [from Rhett and Link] relative to Christianity)
 
 ### LDS perspective
 
