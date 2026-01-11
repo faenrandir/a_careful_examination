@@ -160,7 +160,7 @@ The flow of "pure intelligence" may indeed represent communication from/with a h
 For instance, incredible feats of authorship have been performed in [automatic
 writing](https://en.wikipedia.org/wiki/Automatic_writing), and the technique itself can be [learned](http://annasayce.com/how-to-do-automatic-writing).  Inspection of fantastic examples (e.g.,  Helene Smith) have shown that the content was "derived largely from forgotten sources (for example, books read as a child)."
 
-The communication facilitators of severely handicapped students depicted in the Frontline documentary ["Prisoners of Silence"](http://www.pbs.org/wgbh/pages/frontline/programs/transcripts/1202.html) are likely responsible for generating volumes of content without being aware that they were the generators.
+The communication facilitators of severely handicapped students depicted in the Frontline documentary ["Prisoners of Silence"](https://archive.org/details/PrisonersofSilence) are likely responsible for generating volumes of content without being aware that they were the generators.
 
 ### The power of suggestion
 
