@@ -29,6 +29,7 @@ Some examples of a behavior or teaching of David Bednar that some former members
 1. [Make people re-sing the opening hymn because not forceful enough](https://web.archive.org/web/20161106043357/https://www.reddit.com/r/exmormon/comments/5bdk4e/that_time_bednar_made_us_all_resing_the_opening/)
 1. [Stops YSA group because not singing with enough vigor, then for standing](https://www.reddit.com/r/exmormon/comments/1hhfaup/summary_of_bednar_at_arizona_state_institute/) (also critiques the choir's appearance)
 1. [Interrupted closing hymn and "told everybody to sing with a smile"](https://www.reddit.com/r/exmormon/comments/1kpayis/susans_husband_was_in_my_city_last_night/msxfox8/?context=3)
+1. [Should not stand while singing (USU devotional)](https://www.reddit.com/r/exmormon/comments/1qaoqbf/usu_bednar_devotional_recap/nz4mkn3/)
 
 ## Positive or Neutral
 
