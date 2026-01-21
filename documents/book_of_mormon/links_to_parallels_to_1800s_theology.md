@@ -25,7 +25,7 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 *Each of these analyses is significant in its own right, but these are comparatively minor compilations and analyses.  Please consult the extensive compilations to fully appreciate the extent of the parallels.*
 
 1. [Echoes](https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/echoes/echoes_of_1800s.pdf) (pdf)
-1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) ([relevant text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/)) (churchistrue)
+1. [Of The State of the Dead Chapter III compared to selected verses from Alma 40](https://web.archive.org/web/20241128154344/https://www.churchistrue.com/wp-content/uploads/2019/04/state-of-souls.jpg) ([relevant text](https://www.reddit.com/r/mormon/comments/5dgo1o/okay_assuming_the_book_of_mormon_is_just_derived/da4efgf/)) (churchistrue)
 1. [19th Century Protestant Phrases in the Book of Mormon](https://wheatandtares.org/2017/11/08/19th-century-protestant-phrases-in-the-book-of-mormon/) (churchistrue)
 1. [Anachronistic Christian Doctrine](http://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) (churchistrue)
 1. Similarities with Jonathan Edwards Sr/Jr sermons
