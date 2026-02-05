@@ -47,6 +47,10 @@ Due to the various shades of meaning found in the world of magic and the inheren
 
 *Adapted from /u/Rushclock [here](https://www.reddit.com/r/exmormon/comments/kwnsha/how_many_absurdities_can_we_list_that_mormons/gj58zlb/), originally list by /u/curious\_mormon*
 
+## See more
+
+[Lost Mormonism section on "magic"](https://www.lostmormonism.com/category/magic/)
+
 [banishing]: https://en.wikipedia.org/wiki/Banishing
 [boc-rod]: https://www.josephsmithpapers.org/paper-summary/book-of-commandments-1833/23
 [clairvoyance]: https://en.wikipedia.org/wiki/Clairvoyance
