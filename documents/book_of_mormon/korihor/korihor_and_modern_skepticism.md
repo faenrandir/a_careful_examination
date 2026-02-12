@@ -95,6 +95,6 @@ If Alma 30 is read as a response to arrogance and corrosive relativism, its crit
 
 Clarifying this distinction may sharpen both faith and doubt. It prevents believers from answering a weaker version of skepticism while overlooking stronger forms, and it invites skeptics to engage religious claims at their most thoughtful rather than their most vulnerable.
 
-## Authorial and AI Contribution Statement
+#### Authorial and AI Contribution Statement
 
-The core arguments, conceptual framework, and primary analysis presented in this manuscript originated with the author. ChatGPT (OpenAI, GPT-5) was used as an editorial and developmental tool to assist with organization, restructuring, stylistic refinement, and clarification of prose. The AI system did not introduce substantive new claims or independent arguments beyond those developed in the author’s original drafts. All interpretive positions, analytical judgments, and final editorial decisions are the responsibility of the author.
+*The core arguments, conceptual framework, and primary analysis presented in this manuscript originated with the author. ChatGPT (OpenAI, GPT-5) was used as an editorial and developmental tool to assist with organization, restructuring, stylistic refinement, and clarification of prose. The AI system did not introduce substantive new claims or independent arguments beyond those developed in the author’s original drafts. All interpretive positions, analytical judgments, and final editorial decisions are the responsibility of the author.*
