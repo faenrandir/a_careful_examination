@@ -5,6 +5,8 @@ doctype: notes
 layout: page
 ---
 
+[[I haven't vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]
+
 ## Abstract
 
 Claims of communication with divine or disembodied agents are common across religious traditions. Such claims can yield profound moral, psychological, and social consequences. This paper proposes a structured framework for evaluating purported divine communication by integrating signal detection theory, information theory, cognitive psychology, and moral risk analysis. 
@@ -201,6 +203,8 @@ When private revelation carries behavioral weight, epistemic calibration proport
 ---
 
 ## References (Selected)
+
+[[I haven't vetted most of these references yet. Could be AI hallucinations]]
 
 - Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies.*
 - Dorfman, J., Shames, V., & Kihlstrom, J. (1996). Intuition, incubation, and insight.
