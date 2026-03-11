@@ -10,16 +10,16 @@ layout: page
 
 [Saints volume 1][saints-volume-1] discusses a second sealing ceremony
 performed between Joseph Smith and Eliza and Emily Partridge in the presence
-of Emma Smith.  Eliza and Emily had already been sealed to Joseph a few months
-early, but Emma was given an opportunity to select additional wives for Joseph
-and she chose Emily and Eliza.
+of Emma Smith. Eliza and Emily had already been sealed to Joseph a few months
+earlier, but Emma was later given an opportunity to select additional wives
+for Joseph, and she chose Emily and Eliza.
 
-The Saints account is somewhat misleading about what motivated the second
-ceremony, implying that it was Emily who "believed that keeping silent on the
-matter was the best thing for her to do."  While that may be true, Emily
-clearly attributed the second sealing (which only made sense if the
-participants were silent about the first ceremony) directly to Joseph Smith,
-and this is not mentioned in Saints.
+The Saints narrative states that Emily chose to remain silent about her prior
+sealing when Emma selected the sisters. This may accurately describe Emily’s
+decision not to disclose the earlier ceremony. However, Emily’s own later
+account indicates that the decision to perform a second sealing ceremony was
+initiated by Joseph Smith in order to avoid conflict with Emma. This aspect of
+the episode is not mentioned in Saints.
 
 ### The account
 
@@ -45,14 +45,21 @@ Saints volume 1, [chapter 40][saints-volume-1-chapter-40] on page 490, states:
 > on the matter was the best thing for her to do. A few days later, she and
 > Eliza were again sealed to Joseph, this time with Emma as a witness.
 
-### Who was primarily responsible for the second ceremony?
+### The question of responsibility for the second ceremony
 
-Saints states "Rather than mention her former sealing, Emily believed that
-keeping silent on the matter was the best thing for her to do", but the
-assertion is not accompanied with a footnote.
+The Saints narrative highlights Emily’s decision to remain silent about the
+earlier sealing. This helps explain why Emma proceeded to select the Partridge
+sisters as plural wives without realizing they had already been sealed to
+Joseph.
 
-We know something of who was primarily responsible for holding the second
-ceremony because Emily [wrote about the incident][jensen-historical-record-pg240] (emphasis added):
+Because the narrative focuses on Emily’s silence and does not discuss who
+initiated the second ceremony, a reader could reasonably come away with the
+impression that the second sealing simply followed from Emily’s decision not
+to disclose the earlier marriage. However, a separate question concerns why a
+second ceremony was performed once Emma had made her selection. Saints does
+not explicitly address who initiated the second sealing.
+
+Emily later described the episode in the *Historical Record* (emphasis added):
 
 > ... We had been there about a year when the principle of plural marriage was
 > made known to us, and I was married to Joseph Smith on the 4th of March,
@@ -66,8 +73,19 @@ ceremony because Emily [wrote about the incident][jensen-historical-record-pg240
 > second time, in Emma’s presence, she giving her free and full consent
 > thereto. From that very hour, however, Emma was our bitter enemy.
 
-Hence, Emily points to Joseph as driver of the second ceremony in order to
-"save family trouble".
+In Emily’s account, the second ceremony was performed because Joseph “thought
+it best” to repeat the sealing in order to “save family trouble.” Her
+description therefore attributes the decision to Joseph rather than to Emily
+herself.
+
+Emily’s silence explains how Emma remained unaware of the earlier sealing.
+But the decision to repeat the ceremony appears, in Emily’s telling, to have
+been Joseph’s attempt to reconcile the situation once Emma had selected the
+Partridge sisters as plural wives.
+
+**Note on revisions:**  
+
+Minor wording adjustments were suggested with the assistance of ChatGPT to improve clarity and sharpen the logical structure of the argument. These edits did not change the substance of the analysis but help more clearly distinguish between Emily Partridge’s silence about the earlier sealing and the later decision to perform a second ceremony.
 
 [saints-volume-1]: https://www.churchofjesuschrist.org/study/history/saints-v1?lang=eng
 [saints-volume-1-chapter-40]: https://www.churchofjesuschrist.org/study/history/saints-v1/40-united-in-an-everlasting-covenant?lang=eng
