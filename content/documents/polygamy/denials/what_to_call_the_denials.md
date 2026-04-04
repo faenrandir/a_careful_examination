@@ -13,7 +13,7 @@ What are the appropriate words to use when speaking of the deceptiveness of thes
 
 ### Definitions
 
-I compiled a list of definitions from Merriam Webster (MW), Wikipedia's entry on lying (WK), and the Gospel Principles (GP) manual's discussion of lying [here](TODO-FIX-URL).
+I compiled a list of definitions from Merriam Webster (MW), Wikipedia's entry on lying (WK), and the Gospel Principles (GP) manual's discussion of lying {{ link(text="here", path="/definitions-of-terms-polygamy-denials/") }}.
 
 Given these definitions, Joseph Smith and other leaders were, _at a minimum_ guilty of **deception** and **lying**---the denials easily fit within the usage of those terms as defined and used *by all three sources*.
 

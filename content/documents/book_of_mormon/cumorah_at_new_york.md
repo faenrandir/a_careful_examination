@@ -13,7 +13,7 @@ updated = "2023-08-01"
 
 ## Statements of Church leaders on Cumorah
 
-I borrowed most of these from a compilation by NewNameNoah [here](https://web.archive.org/web/20070629160718/http://www.josephlied.com:80/cumorah.html).
+_Note: I borrowed most of these from a compilation by NewNameNoah [here](https://web.archive.org/web/20070629160718/http://www.josephlied.com:80/cumorah.html). Need to systematize on internet archive links (w/ the page) and validate._
 
 Elder Orson Pratt, Feb. 11, 1872 [Journal of Discourses Vol. 14, pg. 331](http://jod.mrm.org/14/323):
 
@@ -23,19 +23,19 @@ Elder George Albert Smith, Conference Report, April 1906, p.56:
 
 > We visited the Hill Cumorah and were accorded the courtesy of going thereon by the wife of Mr. George Sampson, a brother of Admiral Wm. Sampson, who before his death owned the property.....We were delighted to be there. Looking over the surrounding country we remembered that two great races of people had wound up their existence in the vicinity, had fought their last fight, and that hundreds of thousands had been slain within sight of that hill.
 
-Elder Orson Pratt, May 18, 1873 [Journal of Discourses Vol. 16, pg. 50](TODO-FIX-URL):
+Elder Orson Pratt, May 18, 1873 [Journal of Discourses Vol. 16, pg. 50](https://archive.org/details/JoDV16):
 
 > These records were carried by Ether from the hill Ramah, afterwards called Cumorah, where the Jaredites were destroyed, as well as the Nephites.
 
-Orson Pratt, Aug. 25, 1878 [Journal of Discourses Vol. 20, pg. 62](TODO-FIX-URL):
+Orson Pratt, Aug. 25, 1878 [Journal of Discourses Vol. 20, pg. 62](https://archive.org/details/JoDV20):
 
 > Thirty-six years prior to this time his nation was destroyed in what we term the State of New York, around about a hill, called by that people the Hill of Cumorah, when many hundreds of thousands of the Nephites-men, women and children, fell, during the greatest battle that they had had with the Lamanites.
 
-Elder Orson Pratt, Sept. 18, 1881 [Journal of Discourses Vol. 22, pg. 224](TODO-FIX-URL):
+Elder Orson Pratt, Sept. 18, 1881 [Journal of Discourses Vol. 22, pg. 224](https://archive.org/details/JoDV22):
 
 > It will be, next Thursday night, 54 years since the Prophet Joseph Smith, then but a lad, was permitted by the angel of the Lord to take the gold plates of the Book of Mormon from the hill Cumorah, as it was called in ancient times, located in the State of New York.
 
-Elder Orson Pratt, April 6, 1874 [Journal of Discourses Vol. 17, pg. 24](TODO-FIX-URL):
+Elder Orson Pratt, April 6, 1874 [Journal of Discourses Vol. 17, pg. 24](https://archive.org/details/JoDV17):
 
 > Finally, they became so utterly wicked, so fully ripened for destruction, that one branch of the nation, called the Nephites, gathered their entire people around  the hill Cumorah, in the State of New York , in Ontario County; and the Lamanites, the opposite army, gathered by millions in the same region.  The two nations were four years in gathering their forces, during which no fighting took place; but at the end of that time, having marshalled all their hosts, the fighting commenced, the Lamanites coming upon the Nephites, and destroying all of them, except a very few, who had previously deserted over to the Lamanites.
 
