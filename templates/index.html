@@ -24,9 +24,9 @@
 
   <ul>
     {% for page in section.pages %}
-       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "faith-transitions" %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-       {% endif %}
+      {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "faith-transitions" %}
+      <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 
@@ -34,11 +34,11 @@
 
   <ul>
     {% for page in section.pages %}
-       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
+      {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
         {% if page.extra.doctype is not defined or (page.extra.doctype != "historical-resource" and page.extra.doctype != "historical-source") %}
         <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
         {% endif %}
-       {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
 
@@ -46,11 +46,11 @@
 
   <ul>
     {% for page in section.pages %}
-       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
+      {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
         {% if page.extra.doctype is defined and (page.extra.doctype == "historical-resource" or page.extra.doctype == "historical-source") %}
         <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
         {% endif %}
-       {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
 
@@ -58,9 +58,11 @@
 
   <ul>
     {% for page in section.pages %}
-      {% if page.extra is defined and page.extra.doctype is defined and page.extra.doctype != "resource" %}
-        {% if page.extra.maintopic is not defined or (page.extra.maintopic != "polygamy" and page.extra.maintopic != "faith-transitions") %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="doctype-annotation"> {{ page.extra.doctype }}</span></li>
+      {% if page.extra is defined and page.extra.doctype is defined %}
+        {% set p_doctype = page.extra.doctype %}
+        {% set p_maintopic = page.extra.maintopic | default(value="") %}
+        {% if p_doctype != "resource" and p_doctype != "" and p_maintopic != "polygamy" and p_maintopic != "faith-transitions" %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="doctype-annotation"> {{ p_doctype }}</span></li>
         {% endif %}
       {% endif %}
     {% endfor %}
