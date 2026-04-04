@@ -2,6 +2,8 @@
 title = "The All Powerful Partition Algorithm"
 path = "/the-all-powerful-partition-algorithm/"
 extra = {doctype = "notes"}
+updated = "2019-10-15"
+
 +++
 Members deal with difficult problems with history or doctrine by stating that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of some God-like ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't") or was merely meant to [test the Saints and make them stronger](https://www.reddit.com/r/exmormon/comments/7c3b57/thoughts_been_having_good_convos_with_tbm_gf_shes/).
 

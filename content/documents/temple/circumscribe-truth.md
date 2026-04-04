@@ -2,6 +2,8 @@
 title = "Origins of the phrase: \"All truth may be circumscribed into one great whole\""
 path = "/origins-of-phrase-all-truth-may-be-circumscribed/"
 extra = {doctype = "short-analysis", maintopic = "temple"}
+updated = "2019-08-18"
+
 +++
 ## Introduction
 

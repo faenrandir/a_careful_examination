@@ -2,6 +2,8 @@
 title = "Statements related to Book of Mormon geography"
 path = "/statements-related-to-bom-geography/"
 extra = {doctype = "simple-list", maintopic = "book-of-mormon"}
+updated = "2023-08-01"
+
 +++
 ## Canonized
 

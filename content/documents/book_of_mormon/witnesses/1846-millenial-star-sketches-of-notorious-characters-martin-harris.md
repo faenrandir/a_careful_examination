@@ -2,6 +2,8 @@
 title = "1846 Millenial Star Excerpt: Sketches of Notorious Characters, Martin Harris"
 path = "/1846-millenial-star-notorious-characters-harris/"
 extra = {doctype = "excerpt", maintopic = "book-of-mormon"}
+updated = "2020-03-18"
+
 +++
 From The Latter-day Saints' [Millennial Star Vol. 08](https://contentdm.lib.byu.edu/digital/collection/MStar/id/938); "Sketches of Notorious Characters" 
 

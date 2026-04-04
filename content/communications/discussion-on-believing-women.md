@@ -2,6 +2,8 @@
 title = "Response to Stephen Smoot's believing women article"
 path = "/response-to-smoot-believing-women/"
 extra = {doctype = "response"}
+updated = "2023-08-01"
+
 +++
 On March 23, 2018, Stephen Smoot published an article entitled [“Believing Women” Includes Believing Joseph Smith’s Plural Wives](https://www.plonialmonimormon.com/2018/03/believing-women-includes-believing-joseph-smiths-plural-wives.html).
 

@@ -2,6 +2,8 @@
 title = "Rationale for the Word of Wisdom"
 path = "/rationale-for-word-of-wisdom/"
 extra = {doctype = "shower-thought"}
+updated = "2021-03-29"
+
 +++
 Those unfamiliar with the nuances of the Word of Wisdom will sometimes assume that tea and coffee are forbidden because of the caffeine or defend other distinctions to make sense of the prohibition of those drinks and not other similar drinks.  In each case the defense of different attributes of the drinks as the active principle behind the prohibition breaks down:
 

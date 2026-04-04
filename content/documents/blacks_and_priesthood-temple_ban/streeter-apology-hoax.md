@@ -2,6 +2,8 @@
 title = "Jonathon Streeter's racism apology Mormon Newsroom hoax"
 path = "/streeters-racism-apology-mormon-newsroom-hoax/"
 extra = {doctype = "notes", maintopic = "race-and-priesthood"}
+updated = "2022-01-19"
+
 +++
 ### Introduction
 

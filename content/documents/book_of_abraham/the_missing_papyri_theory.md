@@ -2,6 +2,8 @@
 title = "Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today'"
 path = "/hauglid-against-missing-papyri-theory/"
 extra = {doctype = "notes", maintopic = "book-of-abraham"}
+updated = "2023-08-01"
+
 +++
 ### Introduction
 

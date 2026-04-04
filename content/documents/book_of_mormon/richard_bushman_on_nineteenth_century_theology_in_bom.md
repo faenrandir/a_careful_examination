@@ -2,6 +2,8 @@
 title = "Richard Bushman on 19th century phrasing and theology in the Book of Mormon"
 path = "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 The well-known Mormon historian Richard Bushman, [in an interview with Bill Reel](http://www.mormondiscussionpodcast.org/2017/05/premium-book-mormon-historicity/) (~8:28), stated:
 

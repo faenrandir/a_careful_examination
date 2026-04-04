@@ -2,6 +2,8 @@
 title = "Motivation to resign from the LDS Church"
 path = "/motivation-to-resign/"
 extra = {doctype = "personal-history"}
+updated = "2022-11-10"
+
 +++
 After having carefully and near-comprehensively analyzed the source data and both apologetic and antagonistic explanations of the foundational truth claims of the Church, I am convinced that the foundational truth claims of the Church do not stand up to scrutiny.
 

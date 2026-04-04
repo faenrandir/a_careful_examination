@@ -2,6 +2,8 @@
 title = "Why don't Mormons have paid clergy page removed"
 path = "/why-dont-mormons-have-paid-clergy-page-removed/"
 extra = {doctype = "notes"}
+updated = "2018-09-12"
+
 +++
 mormon.org used to have a page entitled "Why don't Mormons have paid clergy?"
 

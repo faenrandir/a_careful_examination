@@ -2,6 +2,8 @@
 title = "The Spirit of Discernment"
 path = "/the-spirit-of-discernment/"
 extra = {doctype = "notes"}
+updated = "2020-09-18"
+
 +++
 ## Introduction
 

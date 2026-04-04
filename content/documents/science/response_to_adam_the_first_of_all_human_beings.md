@@ -2,6 +2,8 @@
 title = "Exchange regarding evidence for evolution of humans"
 path = "/evidence-of-humans-r-gary-exchange/"
 extra = {doctype = "discussion"}
+updated = "2023-08-01"
+
 +++
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between June 22, 2014 and June 27, 2014.
 

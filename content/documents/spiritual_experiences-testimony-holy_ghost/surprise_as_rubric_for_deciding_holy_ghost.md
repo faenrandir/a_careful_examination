@@ -2,6 +2,8 @@
 title = "Surprise as a rubric for deciding communication from the Holy Ghost"
 path = "/surprise-as-rubric-for-deciding-holy-ghost/"
 extra = {doctype = "short-analysis"}
+updated = "2021-12-09"
+
 +++
 A common rubric for deciphering communication between oneself and the Holy Ghost is whether the communication contravenes ones expectations or prior thinking on a topic. [For instance](https://np.reddit.com/r/latterdaysaints/comments/rc74ds/how_do_i_really_know_that_what_i_feel_is_the/hntkkiq/):
 

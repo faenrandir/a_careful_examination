@@ -2,6 +2,8 @@
 title = "How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?"
 path = "/how-likely-trito-isaiah-avoided-in-bom/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 ### Introduction
 

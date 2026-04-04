@@ -2,6 +2,8 @@
 title = "Science is as substantive as religion in helping us to derive morality's ought"
 path = "/science-vs-religion-in-deriving-moralitys-ought/"
 extra = {doctype = "short-analysis"}
+updated = "2023-05-22"
+
 +++
 Science seems to be every bit as substantive (or un-substantive) as religion when it comes to deriving the _ought_ in morality.
 

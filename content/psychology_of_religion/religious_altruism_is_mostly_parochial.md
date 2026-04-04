@@ -2,6 +2,8 @@
 title = "Beit-Hallahmi on religiously inspired altruism"
 path = "/beit-hallahmi-on-religiously-inspired-altruism/"
 extra = {doctype = "book-exerpt"}
+updated = "2018-09-12"
+
 +++
 In his textbook on the psychology of religion, [Beit-Hallahmi writes](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA136&dq=%22What+emerges+from+the+research+is+that+most+religiously%22&hl=en&sa=X&ved=0ahUKEwjGrMCzpPvXAhWe0YMKHSx-DKEQ6AEIKTAA#v=onepage&q=%22What%20emerges%20from%20the%20research%20is%20that%20most%20religiously%20inspired%20altruism%20is%20parochial%2C%20limited%20to%20in-group%20members%22&f=false):
 

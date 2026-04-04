@@ -2,6 +2,8 @@
 title = "Spiritual confirmations received since leaving the LDS Church"
 path = "/spiritual-confirmation-since-resignation/"
 extra = {doctype = "anecdotal"}
+updated = "2018-09-12"
+
 +++
 On March 22, 2016, I knelt down in the basement with nobody around.  I prayed the following prayer [as nearly as I can remember the wording] and listened to the response in my mind and heart.
 

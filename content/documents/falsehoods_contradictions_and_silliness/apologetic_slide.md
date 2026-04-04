@@ -2,6 +2,8 @@
 title = "The Apologetic Slide"
 path = "/the-apologetic-slide/"
 extra = {doctype = "shower-thought"}
+updated = "2018-09-12"
+
 +++
 * No prophet or apostle ever taught that.
 * If they did, they didn't mean it.

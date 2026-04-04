@@ -2,6 +2,8 @@
 title = "Asking: What is the complete list of books held in the the vault?"
 path = "/asking-what-is-the-complete-list-of-books-held-in-the-the-vault/"
 extra = {doctype = "notes"}
+updated = "2019-12-03"
+
 +++
 Submitted the following to the Church History Library:
 

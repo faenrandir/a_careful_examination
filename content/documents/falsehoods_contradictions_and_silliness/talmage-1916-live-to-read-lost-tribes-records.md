@@ -2,6 +2,8 @@
 title = "James E. Talmage's 1916 prediction on records of the Lost Tribes of Israel"
 path = "/talmage-1916-live-to-read-lost-tribes-records/"
 extra = {doctype = "short-analysis"}
+updated = "2020-05-19"
+
 +++
 James Talmage stated in [April General Conference April of 1916](https://archive.org/details/conferencereport1916sa/page/n77/mode/2up/search/some+here+present+who+shall+live+to+read+the+records+of+the+Lost+Tribes+of+Israel) (emphasis added):
 

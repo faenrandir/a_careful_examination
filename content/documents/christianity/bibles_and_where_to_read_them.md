@@ -2,6 +2,8 @@
 title = "Academic Bibles and where to read them"
 path = "/academic-bibles-and-where-to-read-them/"
 extra = {doctype = "notes", maintopic = "christianity"}
+updated = "2022-07-06"
+
 +++
 ## Academic standards
 

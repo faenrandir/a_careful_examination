@@ -2,6 +2,8 @@
 title = "William Davis on Early Modern English in the Book of Mormon"
 path = "/william-davis-on-early-modern-english-in-the-bom/"
 extra = {doctype = "quotation", maintopic = "book-of-mormon"}
+updated = "2021-07-06"
+
 +++
 In his [response to a roundtable review in Dialogue](https://www.dialoguejournal.com/2020/06/author-response-to-dialogue-book-review-roundtable-visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-by-william-davis/), William Davis offers an explanation for how Early Modern English may have been introduced into the Book of Mormon:[^facebook_post]
 

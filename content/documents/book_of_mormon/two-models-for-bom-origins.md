@@ -2,6 +2,8 @@
 title = "Models for the creation of the Book of Mormon"
 path = "/two-models-for-bom-origins/"
 extra = {doctype = "short-summary", maintopic = "book-of-mormon"}
+updated = "2021-06-21"
+
 +++
 ### Modern Origin Model
 

@@ -2,6 +2,8 @@
 title = "Common religious issues being discussed in an 1824 publication also found in the Book of Mormon"
 path = "/common-religious-issues-1824-the-christian-quaker-and-bom/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2022-01-11"
+
 +++
 In discussing the idea of revelation and whether perfection is attainable, the authors of the book [The Christian Quaker, and his divine testimony stated and vindicated](https://archive.org/embed/christianquakerh00penn), published in Philadelphia in 1824, rhetorically point to disagreements among Christians at that time ([page 289](https://archive.org/details/christianquakerh00penn/page/288/mode/2up?q=devil)):
 

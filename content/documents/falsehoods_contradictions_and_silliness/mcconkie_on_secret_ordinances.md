@@ -2,6 +2,8 @@
 title = "McConkie: no secret doctrines, no private practices"
 path = "/mcconkie-no-secret-doctrines-no-private-practices/"
 extra = {doctype = "notes"}
+updated = "2018-10-04"
+
 +++
 /u/frogontrombone recently wrote:
 

@@ -2,6 +2,8 @@
 title = "Stories of Traumatic Faith Transitions"
 path = "/stories-of-traumatic-faith-transitions/"
 extra = {doctype = "anecdotal", maintopic = "faith-transitions"}
+updated = "2018-11-12"
+
 +++
 ### FIL in front of group --- no forgiveness
 

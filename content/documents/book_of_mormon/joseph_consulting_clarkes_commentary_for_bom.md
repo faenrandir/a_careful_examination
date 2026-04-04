@@ -2,6 +2,8 @@
 title = "Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon"
 path = "/townsend-js-using-clarke-in-bom-2025/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2025-10-09"
+
 +++
 *this is a draft - this resource page was produced after giving chatgpt-o3 a very specific set of instructions on how to summarize this topic. I then modified the output. I still need to verify all the particulars and touch up.*
 

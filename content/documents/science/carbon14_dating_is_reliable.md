@@ -2,6 +2,8 @@
 title = "Carbon-14 dating is generally reliable"
 path = "/carbon-14-dating-generally-reliable/"
 extra = {doctype = "notes"}
+updated = "2018-09-12"
+
 +++
 BYU Geology Professor and Associate Dean of the College of Physical and Mathematical Sciences, Bart Kowallis, was recently asked about the reliability of carbon 14 dating.  Here is my transcript of [the exchange](https://www.youtube.com/watch?v=gpx9nWuRZe4&t=24m10s):
 

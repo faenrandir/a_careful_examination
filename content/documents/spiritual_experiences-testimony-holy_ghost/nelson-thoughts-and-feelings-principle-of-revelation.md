@@ -2,6 +2,8 @@
 title = "President Nelson on “the principle of revelation”: “write the thoughts that come to your mind... record your feelings”"
 path = "/president-nelson-write-the-thoughts-record-your-feelings/"
 extra = {doctype = "transcript"}
+updated = "2022-03-12"
+
 +++
 In his [April 2018 General Conference address](https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&para=29#p29), President Nelson stated:
 

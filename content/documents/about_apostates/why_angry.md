@@ -2,6 +2,8 @@
 title = "Why former members are angry"
 path = "/why-former-members-are-angry/"
 extra = {doctype = "short-analysis", maintopic = "faith-transitions"}
+updated = "2020-12-04"
+
 +++
 [rough draft]
 

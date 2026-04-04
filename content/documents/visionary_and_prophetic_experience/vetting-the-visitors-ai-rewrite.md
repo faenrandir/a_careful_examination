@@ -2,6 +2,8 @@
 title = "Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework"
 path = "/vetting-the-visitors-integration/"
 extra = {doctype = "notes"}
+updated = "2026-04-04"
+
 +++
 [[I haven't vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]
 

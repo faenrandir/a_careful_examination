@@ -2,6 +2,8 @@
 title = "Beliefs in Resonance"
 path = "/beliefs-in-resonance/"
 extra = {doctype = "notes"}
+updated = "2018-09-12"
+
 +++
 I share many basic beliefs with the conscientious, moral citizens of our world.
 

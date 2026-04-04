@@ -2,6 +2,8 @@
 title = "Chart of Book of Mormon Translation Witness Statements"
 path = "/chart-of-bom-translation-witness-statements/"
 extra = {doctype = "notes", maintopic = "book-of-mormon-witnesses"}
+updated = "2021-02-28"
+
 +++
 [WIP]
 

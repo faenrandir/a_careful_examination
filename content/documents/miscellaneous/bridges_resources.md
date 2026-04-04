@@ -2,6 +2,8 @@
 title = "Resources related to David Ostler's book “Bridges: Ministering to Those Who Question”"
 path = "/bridges-resources/"
 extra = {doctype = "links"}
+updated = "2024-05-05"
+
 +++
 ## The Book
 

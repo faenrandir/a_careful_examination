@@ -2,6 +2,8 @@
 title = "Matt Harris on LDS transparency"
 path = "/matt-harris-transcript-on-lds-transparency/"
 extra = {doctype = "transcript"}
+updated = "2020-11-03"
+
 +++
 Matt Harris, an active, believing Latter-day Saint historian, was asked by John Dehlin about access to contemporary material in Mormon Stories interview #1350, October 5, 2020, at [47:43](https://www.youtube.com/watch?v=PQ9MNpmwpZY&feature=youtu.be&t=2863).  Interjections (non-lexical conversational sounds) and some other minor missteps have been removed from the transcript.
 

@@ -2,6 +2,8 @@
 title = "When was 'repair' removed from Alma 39:13?"
 path = "/when-was-repair-removed-from-alma-39-13/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 The assertion has made [in a leaked document](https://www.reddit.com/r/exmormon/comments/9fky8z/new_leaked_document_eli5/) related to the Mickelson case that "repair" was removed from the 1981 version of the BoM by LDS leadership in order to grant sex abuse perps a pass in making restitution.  If we examine various editions of the BoM, we can see that they are mistaken: the word [was in the original handwritten manuscript](https://www.deseretnews.com/article/865576118/BYU-professor-Royal-Skousen-concludes-his-discussion-on-changes-to-the-Book-of-Mormon-original-text.html) but it was mistakenly shifted to "retain", which makes little sense with the verse.  "retain" was used from 1830 until 1879.  In 1921, "retain" was removed.  "repair" has never been used in any official printing, so it can't have been removed in some kind of consipiracy.
 

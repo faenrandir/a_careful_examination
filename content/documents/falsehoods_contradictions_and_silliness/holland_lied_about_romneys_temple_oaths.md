@@ -2,6 +2,8 @@
 title = "Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths"
 path = "/semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 In the 2008 BBC Documentary "The Mormon Candidate" [John Sweeney interviews Jeffrey Holland about the nature of the oaths Mitt Romney would have performed in the temple](https://www.youtube.com/watch?v=0zE8JKDZazc) (among other topics).  Given the nature of the presidential office and potential conflicts of interest such oaths might entail, a frank discussion of the topic seems relevant for the time.
 

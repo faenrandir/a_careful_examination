@@ -2,6 +2,8 @@
 title = "Lucy Walker 1888 autobiography in Reminiscences of Latter-day Saints"
 path = "/lucy-walker-1888-autobiography-in-reminiscences/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2018-09-24"
+
 +++
 Lucy Walker published a fairly extensive autobiographical account of her experience with polygamy in [Reminiscences of Latter-day Saints: Giving an Account of Much Individual Suffering Endured for Religious Conscience](http://www.boap.org/LDS/Early-Saints/LLittlefield.html) (retrieved 2018-09-24).  Lyman Omer Littlefield,  (Logan: Utah Journal Co, 1888), 46–48.  Hales [also uses a typed transcript from the above linked www.boap.org site](http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JSP_Book_56.pdf). 
 

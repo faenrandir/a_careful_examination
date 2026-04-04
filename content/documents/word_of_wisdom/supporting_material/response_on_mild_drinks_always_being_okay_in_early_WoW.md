@@ -2,6 +2,8 @@
 title = "Notes on mild drinks always being okay for early Word of Wisdom"
 path = "/notes-on-mild-drinks-always-okay-early/"
 extra = {doctype = "notes", maintopic = "word-of-wisdom"}
+updated = "2018-09-12"
+
 +++
 [rough notes]
 

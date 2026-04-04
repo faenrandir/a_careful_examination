@@ -3,6 +3,8 @@ title = "Recommended"
 
 [extra]
 featuredimage = "/media/cover_photo.jpg"
+updated = "2020-05-16"
+
 +++
 
 ### book-of-mormon

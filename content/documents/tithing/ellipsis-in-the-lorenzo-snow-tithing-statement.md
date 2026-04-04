@@ -2,6 +2,8 @@
 title = "Ellipsis in tithing statement of the 2013 Lorenzo Snow manual"
 path = "/ellipsis-in-lorenzo-snow-tithing-statement/"
 extra = {doctype = "notes"}
+updated = "2020-09-28"
+
 +++
 Lorenzo Snow originally taught during [October 1899 General Conference](https://archive.org/details/conferencereport1899sa/page/28/mode/2up) (emphasis added):
 

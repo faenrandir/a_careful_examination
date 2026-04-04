@@ -2,6 +2,8 @@
 title = "Attitude towards those who do not believe but stay"
 path = "/how-those-who-stay-are-viewed/"
 extra = {doctype = "compilation", maintopic = "faith-transitions"}
+updated = "2023-08-01"
+
 +++
 [Need to add in discussion of Holland about those who do not believe but stay, which is friendly]
 

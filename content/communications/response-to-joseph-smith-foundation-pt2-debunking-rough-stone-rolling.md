@@ -2,6 +2,8 @@
 title = "Response to Joseph Smith Foundation video “Part 2: Debunking Rough Stone Rolling's treasure digging sources”"
 path = "/response-to-joseph-smith-foundation-pt2-debunking-treasure-digging-sources/"
 extra = {doctype = "response"}
+updated = "2022-07-29"
+
 +++
 ### My Comment
 

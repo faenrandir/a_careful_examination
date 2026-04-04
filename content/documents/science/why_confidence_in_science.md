@@ -2,6 +2,8 @@
 title = "Why we have confidence in science"
 path = "/why-we-have-confidence-in-science/"
 extra = {doctype = "short-analysis"}
+updated = "2021-01-28"
+
 +++
 [rough draft]
 

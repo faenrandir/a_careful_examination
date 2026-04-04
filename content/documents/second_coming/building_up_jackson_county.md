@@ -2,6 +2,8 @@
 title = "Statements on building up Jackson county"
 path = "/statements-on-building-up-jackson-county/"
 extra = {doctype = "notes"}
+updated = "2022-11-01"
+
 +++
 As discussed somewhat in [chapter 8 of Millenialism and the Anti-Polygamy Campaign](http://web.archive.org/web/20220129041219/https://signaturebookslibrary.org/as-a-thief-in-the-night-08/), leaders made promises that arguably went unfulfilled.  I've tracked down some regarding the building up of Jackson county:
 

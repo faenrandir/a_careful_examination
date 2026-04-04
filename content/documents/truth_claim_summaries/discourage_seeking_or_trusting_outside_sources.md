@@ -2,6 +2,8 @@
 title = "Examples to avoid or discourage consulting unapproved sources"
 path = "/examples-discouraging-unapproved-sources/"
 extra = {doctype = "notes", maintopic = "truth-claims"}
+updated = "2023-08-01"
+
 +++
 [DRAFT]
 

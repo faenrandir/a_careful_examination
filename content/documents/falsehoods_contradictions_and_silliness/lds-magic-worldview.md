@@ -2,6 +2,8 @@
 title = "Analogy between the LDS and a magic worldview"
 path = "/the-lds-magic-worldview/"
 extra = {doctype = "notes"}
+updated = "2023-11-02"
+
 +++
 ## Introduction
 

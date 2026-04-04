@@ -2,6 +2,8 @@
 title = "Beit-Hallahmi on religious biases"
 path = "/beit-hallahmi-on-religious-biases/"
 extra = {doctype = "book-exerpt"}
+updated = "2021-04-08"
+
 +++
 Benjamin Beit-Hallahmi, Psychological Perspectives on Religion and Religiosity, [pg 26-27](https://books.google.com/books?id=EfNTBAAAQBAJ&q=%22Human+brains+look+at+the+environment%22#v=snippet&q=%22Human%20brains%20look%20at%20the%20environment%22&f=false):
 

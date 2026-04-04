@@ -2,6 +2,8 @@
 title = "Contemporary evidence that Joseph Smith practiced polygamy"
 path = "/contemporary-evidence-that-joseph-smith-practiced-polygamy/"
 extra = {doctype = "short-analysis", maintopic = "polygamy"}
+updated = "2023-08-12"
+
 +++
 ### Introduction
 

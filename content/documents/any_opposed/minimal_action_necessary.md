@@ -2,6 +2,8 @@
 title = "Any Opposed took the minimal action necessary"
 path = "/any-opposed-minimal-action-necessary/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 Several have suggested that the vocal "opposed" of these individuals was inappropriate.  After reviewing the history of opposed votes, as well as a statement regarding these individuals' intent, it seems that the manner in which they expressed their opposing vote was the minimal action necessary in order to ensure that the vote would be noted (and hence, I would argue, was not inappropriate).
 

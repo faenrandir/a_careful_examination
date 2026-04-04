@@ -2,6 +2,8 @@
 title = "Featherstone's vision of the South"
 path = "/featherstones-vision-of-the-south/"
 extra = {doctype = "notes"}
+updated = "2018-09-12"
+
 +++
 [The Vision of the South](https://yourfriendlymormonneighbor.wordpress.com/2013/03/21/the-vision-of-the-south-elder-vaughn-j-featherstone/) by Elder Vaughn J. Featherstone
 

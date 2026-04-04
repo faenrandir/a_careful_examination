@@ -2,6 +2,8 @@
 title = "LDS Retentive Socialization"
 path = "/lds-indoctrination-and-retentive-socialization/"
 extra = {doctype = "resource", maintopic = "sociology-and-psychology", featuredimage = "/media/Childe_Hassam-Boston_Common_at_Twilight.jpg"}
+updated = "2025-03-26"
+
 +++
 ## Introduction
 

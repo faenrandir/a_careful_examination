@@ -2,6 +2,8 @@
 title = "Conclusion: God and the LDS Church as surrogate parent"
 path = "/conclusion-surrogate-parent-hypothesis/"
 extra = {doctype = "short-analysis"}
+updated = "2022-11-11"
+
 +++
 _March 3, 2018_
 

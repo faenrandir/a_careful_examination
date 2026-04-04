@@ -2,6 +2,8 @@
 title = "Morality is an emergent principle"
 path = "/morality-is-an-emergent-principle/"
 extra = {doctype = "short-analysis"}
+updated = "2023-03-22"
+
 +++
 ## Moral judgement emerges any time the following conditions exist:
 

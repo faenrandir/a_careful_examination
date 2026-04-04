@@ -2,6 +2,8 @@
 title = "Chronology: “You can leave but you can't leave it alone”"
 path = "/chronology-cant-leave-it-alone/"
 extra = {doctype = "short-compilation"}
+updated = "2022-08-18"
+
 +++
 [pre-draft form]
 

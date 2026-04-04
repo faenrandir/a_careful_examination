@@ -2,6 +2,8 @@
 title = "Definitions of terms related to LDS Leaders' Polygamy Denials"
 path = "/definitions-of-terms-polygamy-denials/"
 extra = {doctype = "definitions", maintopic = "polygamy"}
+updated = "2023-08-01"
+
 +++
 ### Merriam-Webster
 

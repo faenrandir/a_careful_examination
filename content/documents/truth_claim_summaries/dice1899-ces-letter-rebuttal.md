@@ -2,6 +2,8 @@
 title = "Sarah Allen's (dice1899) response to the CES Letter"
 path = "/dice1899-sarah-allen-response-to-ces-letter/"
 extra = {doctype = "links", maintopic = "truth-claims"}
+updated = "2023-06-10"
+
 +++
 * [The lds subreddit collection of dice1899's CES Rebuttal](https://www.reddit.com/r/lds/collection/11be9581-6e2e-4837-9ed4-30f5e37782b2/) (note that the link does not work correctly on old Reddit and all you will see is the post for Part 1)
 * [FAIR's listing](https://www.fairlatterdaysaints.org/answers/Sarah_Allen_CES_Response_Posts) and their [introductory post](https://www.fairlatterdaysaints.org/blog/2021/08/25/ces-rebuttal-part-1-extended-version)

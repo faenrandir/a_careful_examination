@@ -2,6 +2,8 @@
 title = "Brigham Young sealed Martha Brotherton to himself with proxy"
 path = "/brigham-young-sealed-to-martha-brotherton/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2022-10-20"
+
 +++
 Martha Brotherton, who was maligned by Church leaders throughout the end of
 1842, was sealed by proxy to Brigham Young in 1870.

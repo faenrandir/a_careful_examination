@@ -2,6 +2,8 @@
 title = "Similarities between King Benjamin's speech and the early 1800s milieu"
 path = "/similarities-between-benjamins-speech-and-1800s-milieu/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2022-04-03"
+
 +++
 ## Introduction
 

@@ -2,6 +2,8 @@
 title = "Helen Mar Kimball Whitney 1882 Woman's Exponent"
 path = "/helen-mar-kimball-whitney-1882-womans-exponent-11-5/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2021-10-21"
+
 +++
 A column written by Helen Mar Kimball Whitney was published in the Woman's
 Exponent in 1882 ([vol 11, no 5 pgs 39-40](https://archive.org/details/exponent1882/page/38/mode/2up)) giving more details of her experience with polygamy in Nauvoo.

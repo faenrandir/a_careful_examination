@@ -2,6 +2,8 @@
 title = "Response to Jim Bennett's response about the angel with a drawn sword"
 path = "/response-to-bennett-response-to-angel-with-drawn-sword/"
 extra = {doctype = "short-analysis", maintopic = "polygamy"}
+updated = "2021-06-28"
+
 +++
 ### Introduction
 

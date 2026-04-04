@@ -2,6 +2,8 @@
 title = "The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth"
 path = "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/"
 extra = {doctype = "resource", maintopic = "sociology-and-psychology", featuredimage = "/media/australia-1040062_960_720.jpg"}
+updated = "2023-08-01"
+
 +++
 Teachings and actions of the Church, its leaders, and its members may be categorized into three prominent mindsets: **corporate**, **totalistic**, and **individual-growth** (aka "growth-mindset"):
 

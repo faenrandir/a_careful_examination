@@ -2,6 +2,8 @@
 title = "The parts of an LDS spiritual experience"
 path = "/parts-of-an-lds-spiritual-experience/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 ## Introduction
 

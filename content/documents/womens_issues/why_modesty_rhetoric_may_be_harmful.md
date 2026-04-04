@@ -2,6 +2,8 @@
 title = "Why modesty rhetoric may be harmful"
 path = "/why-modesty-rhetoric-may-be-harmful/"
 extra = {doctype = "links"}
+updated = "2018-09-12"
+
 +++
 Links
 

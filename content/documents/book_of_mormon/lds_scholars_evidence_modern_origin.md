@@ -2,6 +2,8 @@
 title = "Recent LDS Scholar observations favoring a modern origin for the Book of Mormon"
 path = "/lds-scholars-modern-origin-evidence/"
 extra = {doctype = "compilation", maintopic = "book-of-mormon"}
+updated = "2025-10-09"
+
 +++
 LDS scholars have been presenting research or observations over the past decade or so that collectively lend weight to the modern origin theory.  To be clear, none of these scholars would likely endorse the modern origin theory themselves; rather, they would tend to interpret their individual observations in other ways (e.g., via an [expansionist theory](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf)).  Still, when viewed collectively, and especially in light of other historical and literary anlysis by non-LDS researchers on the Book of Mormon,[^nonldsresearchers] the modern origin theory unifies and makes sense of these observations:
 

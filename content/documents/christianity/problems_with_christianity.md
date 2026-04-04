@@ -2,6 +2,8 @@
 title = "Problems with Christianity from a former LDS perspective"
 path = "/problems-with-christianity-from-former-lds-perspective/"
 extra = {doctype = "analysis", maintopic = "christianity"}
+updated = "2024-10-08"
+
 +++
 # Introduction
 

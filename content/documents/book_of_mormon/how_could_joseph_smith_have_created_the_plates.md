@@ -2,6 +2,8 @@
 title = "How could Joseph Smith have created the Golden Plates?"
 path = "/how-could-joseph-smith-created-plates/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2021-07-21"
+
 +++
 Trent Told created a tin plate prototype of Joseph Smith's Book of Mormon
 plates using tools that would have been available in Joseph Smith's time.

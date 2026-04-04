@@ -2,6 +2,8 @@
 title = "Questions to Ask"
 path = "/questions-to-ask/"
 extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/Dunnottar_castle.jpg"}
+updated = "2025-05-19"
+
 +++
 ## Introduction
 

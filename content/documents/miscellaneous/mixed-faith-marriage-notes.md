@@ -2,6 +2,8 @@
 title = "Notes on LDS mixed-faith marriages"
 path = "/notes-on-lds-mixed-faith-marriages/"
 extra = {doctype = "notes"}
+updated = "2023-08-01"
+
 +++
 ## Introduction
 

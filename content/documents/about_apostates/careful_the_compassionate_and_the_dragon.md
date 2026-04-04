@@ -2,6 +2,8 @@
 title = "Careful the Compassionate and the Dragon over the Mountain"
 path = "/careful-the-compassionate-and-the-dragon-over-the-mountain/"
 extra = {doctype = "resource", maintopic = "faith-transitions", featuredimage = "/media/driftwood-dragon-sculptures-james-doran-webb-4.jpg"}
+updated = "2018-10-15"
+
 +++
 There once was a village nestled at the base of a large mountain range.  Villagers told stories to one another about a terrible Dragon that lived on the other side of the mountain.  Parents would warn their children: "The Dragon devours all who pass over to the other side of the mountain---do not venture to the other side, or you will surely die!"  The townspeople wrote down their stories, they read them to one another, and no one dared to venture to the other side of the mountain.
 

@@ -2,6 +2,8 @@
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
 extra = {doctype = "links", maintopic = "book-of-abraham"}
+updated = "2023-08-01"
+
 +++
 # Critical
 

@@ -2,6 +2,8 @@
 title = "Open thy mouth, and it shall be filled"
 path = "/book-of-enoch-open-thy-mouth-and-it-shall-be-filled/"
 extra = {doctype = "short-analysis", maintopic = "book-of-enoch"}
+updated = "2019-03-08"
+
 +++
 ### "Open thy mouth, and it shall be filled"
 

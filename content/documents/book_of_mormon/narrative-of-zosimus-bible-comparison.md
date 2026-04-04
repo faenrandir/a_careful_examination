@@ -2,6 +2,8 @@
 title = "Comparison of the Narrative of Zosimus with the Bible"
 path = "/narrative-of-zosimus-bible-comparison/"
 extra = {doctype = "analysis"}
+updated = "2024-09-22"
+
 +++
 Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch's original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:
 

@@ -3,6 +3,8 @@ title = "Hermetically Sealed Systems in LDS Thought"
 path = "/hermetically-sealed-systems-in-lds-thought/"
 toc = true
 extra = {doctype = "analysis", maintopic = "epistemology"}
+updated = "2025-09-24"
+
 +++
 ## Introduction
 

@@ -2,6 +2,8 @@
 title = "Resources on the Book of Enoch"
 path = "/resources-on-the-book-of-enoch/"
 extra = {doctype = "links", maintopic = "book-of-enoch"}
+updated = "2025-03-11"
+
 +++
 ## Introduction
 

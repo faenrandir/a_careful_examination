@@ -2,6 +2,8 @@
 title = "Book of Mormon parallels with Solomon Spalding's Oberlin Manuscript "
 path = "/bom-parallels-with-spalding-oberlin-manuscript/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2022-04-25"
+
 +++
 [incomplete rough draft]
 

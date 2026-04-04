@@ -2,6 +2,8 @@
 title = "Mixed messages on working outside the home"
 path = "/mixed-messages-on-working-outside-the-home/"
 extra = {doctype = "notes"}
+updated = "2023-08-01"
+
 +++
 Women have received mixed messages over time about the relative importance/evil of working outside the home.
 

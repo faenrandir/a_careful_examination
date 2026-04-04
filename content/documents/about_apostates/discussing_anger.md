@@ -2,6 +2,8 @@
 title = "Former members discuss their anger"
 path = "/former-members-discuss-their-anger/"
 extra = {doctype = "anecdotal", maintopic = "faith-transitions"}
+updated = "2018-11-14"
+
 +++
 ## Introduction
 

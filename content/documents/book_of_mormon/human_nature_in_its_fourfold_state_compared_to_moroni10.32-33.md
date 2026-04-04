@@ -2,6 +2,8 @@
 title = "Human Nature in its Fourfold State compared with Moroni 10:32--33"
 path = "/human-nature-in-its-fourfold-state-compared-with-moroni-10-32-33/"
 extra = {doctype = "excerpts", maintopic = "book-of-mormon"}
+updated = "2023-08-01"
+
 +++
 [Moroni 10:32–33](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.32-33?lang=eng):
 

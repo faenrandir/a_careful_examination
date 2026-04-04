@@ -2,6 +2,8 @@
 title = "1838 Danite Manifesto"
 path = "/1838-danite-manifesto/"
 extra = {doctype = "transcript", maintopic = "book-of-mormon"}
+updated = "2020-03-18"
+
 +++
 Validation of the transcript may be found by buying Gentry's 1965 dissertation, but the introduction is quoted in his BYU Studies article. The below transcript is copied from the transcript produced by "Joseph Smith's History Vault".
 

@@ -2,6 +2,8 @@
 title = "Legrand Richards in 'Your Fringe Benefits' compares secular research on the Americas to the history learned from the Book of Mormon"
 path = "/legrand-richards-your-fringe-benefits-secular-bom-comparison/"
 extra = {doctype = "quotation", maintopic = "book-of-mormon"}
+updated = "2018-12-04"
+
 +++
 In his [1975 BYU Devotional](https://speeches.byu.edu/talks/legrand-richards_fringe-benefits/), Elder Legrand Richards, a member of the Quorum of the Twelve, related the following:
 

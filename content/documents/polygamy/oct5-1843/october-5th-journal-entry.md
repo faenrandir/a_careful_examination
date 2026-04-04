@@ -2,6 +2,8 @@
 title = "The October 5, 1843 Journal Entry"
 path = "/oct-5-1843-journal-entry/"
 extra = {doctype = "short-analysis", maintopic = "polygamy"}
+updated = "2025-03-05"
+
 +++
 ### Summary
 

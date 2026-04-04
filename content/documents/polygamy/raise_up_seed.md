@@ -2,6 +2,8 @@
 title = "Polygamy for raising up seed?"
 path = "/was-polygamy-to-raise-up-seed/"
 extra = {doctype = "resource-transcription", maintopic = "polygamy"}
+updated = "2023-08-01"
+
 +++
 From /u/pipesBcallin
 

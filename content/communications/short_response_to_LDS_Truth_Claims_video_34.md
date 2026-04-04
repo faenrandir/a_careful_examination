@@ -2,6 +2,8 @@
 title = "Short response to LDS Truth Claims video #34"
 path = "/response-to-lds-truth-claims-video-34/"
 extra = {doctype = "response"}
+updated = "2025-12-12"
+
 +++
 In [LDS Truth Claims video #34](https://www.youtube.com/watch?v=c8YqQs5sDE0) Brett McDonald appears to mis-characterize Runnell's argument, which Brett attempts to outline at the beginning of the lecture:
 

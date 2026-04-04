@@ -2,6 +2,8 @@
 title = "Bruce R. McConkie taught 'No Death Before the Fall'"
 path = "/brm-taught-ndbf/"
 extra = {doctype = "notes"}
+updated = "2023-08-01"
+
 +++
 https://www.churchofjesuschrist.org/general-conference/1977/04/come-know-the-lord-jesus?lang=eng
 

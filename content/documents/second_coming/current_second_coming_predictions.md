@@ -2,6 +2,8 @@
 title = "Modern LDS second coming expectations and predictions"
 path = "/modern-second-coming-predictions/"
 extra = {doctype = "notes"}
+updated = "2023-03-22"
+
 +++
 # LDS leadership (general)
 

@@ -2,6 +2,8 @@
 title = "Dan McClellan on better understanding the Book of Mormon by studying the 19th century literature"
 path = "/dan-mcclellan-better-understand-bom-study-19th-century/"
 extra = {doctype = "transcript", maintopic = "book-of-mormon"}
+updated = "2022-01-05"
+
 +++
 Dan McClellan, the [Scripture Translation Supervisor for the LDS Church](https://www.linkedin.com/in/danielomcclellan/), commented on how to better understand the Book of Mormon ([#387, How to better understand the Book of Mormon, posted 2021-12-22](https://www.tiktok.com/@maklelan/video/7044681223708658990)):
 

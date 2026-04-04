@@ -2,6 +2,8 @@
 title = "Response to Brian Hales about Bays and the 1835 statement on marriage"
 path = "/response-to-hales-on-bays-1835/"
 extra = {doctype = "response", maintopic = "polygamy"}
+updated = "2019-01-10"
+
 +++
 posted [here](https://www.reddit.com/r/mormon/comments/7mz62z/response_to_brian_hales_bays_defense_of_the_1835/)
 

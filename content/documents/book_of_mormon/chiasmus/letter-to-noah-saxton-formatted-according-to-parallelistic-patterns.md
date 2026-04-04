@@ -2,6 +2,8 @@
 title = "Joseph Smith January 4, 1833 letter to Noah Saxton formatted according to parallelistic patterns"
 path = "/js-1833-01-04-letter-to-saxton-formatted-parallelistic/"
 extra = {doctype = "analysis", maintopic = "book-of-mormon"}
+updated = "2023-01-05"
+
 +++
 [draft]
 

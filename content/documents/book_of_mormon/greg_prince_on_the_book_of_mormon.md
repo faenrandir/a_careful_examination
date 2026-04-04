@@ -2,6 +2,8 @@
 title = "LDS scholar Greg Prince on the Book of Mormon"
 path = "/greg-prince-on-the-bom-sunstone-2018/"
 extra = {doctype = "excerpt", maintopic = "book-of-mormon"}
+updated = "2022-09-25"
+
 +++
 An excerpt from Greg Prince's 2018 Sunstone presentation, ["Own Your Religion"](https://web.archive.org/web/20220513061006/https://sunstone.org/own-your-religion/):
 

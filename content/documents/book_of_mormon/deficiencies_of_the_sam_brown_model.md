@@ -2,6 +2,8 @@
 title = "Deficiencies in the Sam Brown model"
 path = "/deficiencies-in-the-sam-brown-model/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2023-08-01"
+
 +++
 Rough draft thoughts from my original comment [here](https://www.reddit.com/r/mormondebate/comments/6x4gkh/i_am_very_curious_to_know_what_active_mormons/dmdxs4h/)
 

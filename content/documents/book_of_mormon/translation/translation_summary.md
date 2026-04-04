@@ -2,6 +2,8 @@
 title = "The Book of Mormon translation process in summary"
 path = "/bom-translation-process-summary/"
 extra = {doctype = "table", maintopic = "book-of-mormon"}
+updated = "2019-10-16"
+
 +++
 [Work in very early stages of progress]
 

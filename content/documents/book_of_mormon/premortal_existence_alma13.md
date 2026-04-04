@@ -2,6 +2,8 @@
 title = "The premortal existence in pre-1830's thought"
 path = "/premortal-existence-pre-1830s/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2023-08-01"
+
 +++
 ### Alma 13
 

@@ -2,6 +2,8 @@
 title = "Summary of my beliefs relative to core LDS doctrine"
 path = "/summary-of-beliefs-relative-to-LDS-doctrine/"
 extra = {doctype = "simple-outline", maintopic = "my-beliefs"}
+updated = "2022-08-22"
+
 +++
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:
 

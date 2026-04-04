@@ -2,6 +2,8 @@
 title = "Lester Bush's research on the priesthood/temple ban was discouraged"
 path = "/lester-bush-research-on-priesthood-ban-discouraged/"
 extra = {doctype = "notes"}
+updated = "2021-12-07"
+
 +++
 Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for his essay "Mormonism's Negro Doctrine":[^mormonisms_negro_doctrine]
 

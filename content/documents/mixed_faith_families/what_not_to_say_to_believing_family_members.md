@@ -2,6 +2,8 @@
 title = "What NOT to say to your LDS believing family members"
 path = "/julie-hanks-facebook-what-not-to-say-to-believers/"
 extra = {doctype = "notes", maintopic = "faith-transitions"}
+updated = "2024-10-09"
+
 +++
 In [this facebook post](https://www.facebook.com/photo?fbid=2625144390851853&set=a.236681833031466), Dr. Julie Hanks suggested that these are things NOT to say to your believing family members after leaving the Church (even if you believe them to be true):
 

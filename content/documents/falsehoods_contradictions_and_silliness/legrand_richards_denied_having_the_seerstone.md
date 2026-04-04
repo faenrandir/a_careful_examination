@@ -2,6 +2,8 @@
 title = "Legrand Richards denied the existence of the seerstone"
 path = "/legrand-richards-denied-existence-of-seerstone/"
 extra = {doctype = "notes"}
+updated = "2023-09-19"
+
 +++
 Whether to prevaricate or from benign ignorance of the facts, LeGrand Richards denied the existence of the seerstone:
 

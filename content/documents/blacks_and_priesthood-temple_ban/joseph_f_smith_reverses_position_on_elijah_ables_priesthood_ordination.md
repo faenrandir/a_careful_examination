@@ -2,6 +2,8 @@
 title = "Joseph F. Smith reverses position on Elijah Able's Priesthood ordination"
 path = "/joseph-f-smith-contradicts-himself-on-elijah-ables-priesthood/"
 extra = {doctype = "short-analysis", maintopic = "race-and-priesthood"}
+updated = "2023-08-01"
+
 +++
 W. Paul Reeve, {{ link(text="initial draft author", path="/reeve-poor-justifications-for-black-priesthood-ban/") }} of [the Race and Priesthood gospel topics essay](https://www.churchofjesuschrist.org/topics/race-and-the-priesthood?lang=eng) documented Joseph F. Smith's "memory change" on Able's ordination ([here](http://www.keepapitchinin.org/2019/01/18/guest-post-newly-discovered-document-provides-dramatic-details-about-elijah-able-and-the-priesthood/)):
 

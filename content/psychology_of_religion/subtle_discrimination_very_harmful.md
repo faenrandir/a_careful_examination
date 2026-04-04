@@ -2,6 +2,8 @@
 title = "Subtle discrimination as harmful as overt"
 path = "/subtle-discrimination-as-harmful-as-overt/"
 extra = {doctype = "notes"}
+updated = "2018-09-12"
+
 +++
 [Probably applies to how former Mormons feel around Mormon friends and family.] 
 

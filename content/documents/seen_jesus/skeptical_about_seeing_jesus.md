@@ -2,6 +2,8 @@
 title = "Why be skeptical of reports of LDS Apostles seeing Jesus?"
 path = "/why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 ## Introduction
 

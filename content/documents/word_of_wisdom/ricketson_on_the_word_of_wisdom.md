@@ -2,6 +2,8 @@
 title = "Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom"
 path = "/excerpts-from-means-of-preserving-health-and-preventing-diseases-and-wow/"
 extra = {doctype = "excerpts"}
+updated = "2022-08-23"
+
 +++
 [pre-draft]
 

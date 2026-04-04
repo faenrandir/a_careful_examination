@@ -2,6 +2,8 @@
 title = "Alex Douglas “Afterword: The Old Testament and the Book of Mormon”"
 path = "/alex-douglas-afterword-ot-and-bom/"
 extra = {doctype = "excerpt"}
+updated = "2024-10-08"
+
 +++
 _Below is the Afterword from Alex Douglas's book "The Old Testament for Latter-day Saints" ([worldcat](https://search.worldcat.org/title/1416095544), [amazon](https://www.amazon.com/dp/1560854685) [not an affiliate link---I make nothing from it]). For full disclosure, while Douglas wrote the book as an active member he has since stepped away from activity (private communication)._
 

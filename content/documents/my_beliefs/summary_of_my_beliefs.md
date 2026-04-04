@@ -2,6 +2,8 @@
 title = "Outline of my beliefs"
 path = "/summary-of-my-beliefs/"
 extra = {doctype = "simple-outline", maintopic = "my-beliefs"}
+updated = "2023-01-01"
+
 +++
 Here is a basic summary of my beliefs in my own words.  My beliefs can be subdivided into three categories: the importance of good models, agency and morality, and living well.
 

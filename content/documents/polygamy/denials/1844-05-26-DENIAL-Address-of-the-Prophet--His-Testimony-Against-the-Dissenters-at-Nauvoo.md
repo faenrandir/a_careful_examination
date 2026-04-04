@@ -2,6 +2,8 @@
 title = "Address of the Prophet: His Testimony Against the Dissenters at Nauvoo."
 path = "/joseph-smith-testimony-against-dissenters-at-nauvoo/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2025-11-16"
+
 +++
 * Copied from History of the Church, [vol. 6 ch. 19](https://web.archive.org/web/20201021184740/https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.
 * Slight more context and explanatory footnotes can be found in The Words of Joseph Smith: The Contemporary Accounts of the Nauvoo Discourses of the Prophet Joseph, [26 May 1844 (Sunday Morning)](https://rsc.byu.edu/words-joseph-smith/26-may-1844-sunday-morning). In particular this note about provenance:

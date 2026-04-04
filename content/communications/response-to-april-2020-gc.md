@@ -2,6 +2,8 @@
 title = "Response to representations of former members in the April 2020 General Conference"
 path = "/response-to-april-2020-general-conference/"
 extra = {doctype = "response"}
+updated = "2020-05-06"
+
 +++
 #### Introduction
 

@@ -2,6 +2,8 @@
 title = "The Pearl of Great Price provided justification for the priesthood ban"
 path = "/pogp-justification-for-priesthood-ban/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 A simplistic reading of the Book of Moses and the Book of Abraham together lends apparent justification for the priesthood ban.
 

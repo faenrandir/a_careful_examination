@@ -2,6 +2,8 @@
 title = "Health studies on coffee"
 path = "/health-studies-on-coffee/"
 extra = {doctype = "notes", maintopic = "word-of-wisdom"}
+updated = "2018-09-12"
+
 +++
 ## Caffeine is not formally "addictive"
 

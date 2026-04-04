@@ -2,6 +2,8 @@
 title = "Hugh Nibley discovers his daughter left the Church"
 path = "/martha-beck-hugh-nibley-cant-leave-it-alone/"
 extra = {doctype = "excerpt"}
+updated = "2022-09-05"
+
 +++
 A short excerpt from Marth Beck's book [Leaving the Saints: one child's story of survival and hope](https://archive.org/details/leavingsaintshow00beck_0) discussing, from Martha's perspective, Hugh Nibley's reaction to learning that she had left the LDS faith. Pages [252 to 254](https://archive.org/details/leavingsaintsone0000beck_n3i7/page/252/mode/2up):
 

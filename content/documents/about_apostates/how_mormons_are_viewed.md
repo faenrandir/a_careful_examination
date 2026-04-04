@@ -2,6 +2,8 @@
 title = "How Latter-day Saints are viewed by former Mormons"
 path = "/how-latter-day-saints-are-viewed-by-former-mormons/"
 extra = {doctype = "notes"}
+updated = "2019-03-15"
+
 +++
 This is a place to note the ways in which believing members sometimes feel (or are) judged by former members.
 

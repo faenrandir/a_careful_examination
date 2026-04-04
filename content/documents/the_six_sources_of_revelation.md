@@ -2,6 +2,8 @@
 title = "The 6 Sources of Revelation"
 path = "/six-sources-of-revelation/"
 extra = {doctype = "notes"}
+updated = "2022-05-20"
+
 +++
 ## Introduction
 

@@ -2,6 +2,8 @@
 title = "The 1832 First Vision account was suppressed between 11 and ~30 years"
 path = "/1832-first-vision-account-suppressed/"
 extra = {doctype = "resource", maintopic = "first-vision", featuredimage = "/media/1832-first-vision-text.png"}
+updated = "2022-11-11"
+
 +++
 ## The evidence
 

@@ -2,6 +2,8 @@
 title = "Bill Reel and Stake President ask five questions to LDS leadership"
 path = "/bill-reel-stk-pes-ask-five-questions/"
 extra = {doctype = "notes"}
+updated = "2019-03-06"
+
 +++
 _From Bill Reel's Facebook page, 2018-09-19.  I've made a couple of minor corrections and alterations in spelling and punctuation._
 

@@ -2,6 +2,8 @@
 title = "Stephen Clarke's notes on Hyrum Smith at Moor's Charity School"
 path = "/stephen-clarke-notes-on-hryum-smith-at-moors/"
 extra = {doctype = "transcript"}
+updated = "2024-10-24"
+
 +++
 ## Introduction
 

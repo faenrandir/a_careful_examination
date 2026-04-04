@@ -2,6 +2,8 @@
 title = "Beit-Hallahmi on the lessons of history argument"
 path = "/beit-hallahmi-on-the-lessons-of-history-argument/"
 extra = {doctype = "book-exerpt"}
+updated = "2018-09-12"
+
 +++
 Quoting Bejamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.amazon.com/Psychological-Perspectives-Religion-Religiosity-Beit-Hallahmi/dp/0415682878), pages 131-132.
 

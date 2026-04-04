@@ -2,6 +2,8 @@
 title = "The Book of Mormon, the twelve points of Pelagianism, and Protestant thought in the early 1800s"
 path = "/bom-and-twelve-points-of-pelagianism-in-early-1800s/"
 extra = {doctype = "analysis", maintopic = "book-of-mormon", featuredimage = "/media/Nuremberg_chronicles_f_135r_2.jpg"}
+updated = "2023-01-23"
+
 +++
 Summary: The Book of Mormon flatly contradicts or significantly modifies virtually every point espoused by Pelagius and does so in a manner similar to standard Protestant discourse of the time, although significant variance in justification, rationale, and presentation is certainly observed across the various works from the early 1800s.
 

@@ -2,6 +2,8 @@
 title = "Joseph Smith instructed others to destroy communication"
 path = "/joseph-smith-instructed-others-to-burn-communication/"
 extra = {doctype = "short-compilation", maintopic = "polygamy"}
+updated = "2023-09-19"
+
 +++
 ## Introduction
 

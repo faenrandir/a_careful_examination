@@ -2,6 +2,8 @@
 title = "Links to First Vision accounts, essay, and responses"
 path = "/links-first-vision-accounts/"
 extra = {doctype = "links", maintopic = "first-vision"}
+updated = "2021-06-19"
+
 +++
 ## Primary data[^primary_data]
 

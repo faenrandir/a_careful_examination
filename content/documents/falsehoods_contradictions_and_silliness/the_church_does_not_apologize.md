@@ -2,6 +2,8 @@
 title = "The Church does not apologize"
 path = "/the-church-does-not-apologize/"
 extra = {doctype = "short-analysis"}
+updated = "2024-03-07"
+
 +++
 The Church [teaches its members](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-19-repentance?lang=eng) "If we have sinned against another person, we should confess to the person we have injured."
 

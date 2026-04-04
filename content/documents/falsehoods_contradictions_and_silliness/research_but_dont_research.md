@@ -2,6 +2,8 @@
 title = "You should have known vs. be wary of critical sources"
 path = "/you-should-have-known-vs-be-wary-of-critical-sources/"
 extra = {doctype = "meme"}
+updated = "2019-03-15"
+
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/b1gll8/its_your_fault_that_you_neglected_to_research/)
 

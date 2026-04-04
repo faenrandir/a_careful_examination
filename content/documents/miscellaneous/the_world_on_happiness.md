@@ -2,6 +2,8 @@
 title = "The world's view of happiness"
 path = "/the-worlds-view-of-happiness/"
 extra = {doctype = "short-analysis"}
+updated = "2022-10-20"
+
 +++
 ## Secular Humanists
 

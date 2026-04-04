@@ -2,6 +2,8 @@
 title = "Simple 14 word test for prophetic ability"
 path = "/simple-test-for-prophetic-ability/"
 extra = {doctype = "notes"}
+updated = "2020-12-19"
+
 +++
 ### Introduction
 

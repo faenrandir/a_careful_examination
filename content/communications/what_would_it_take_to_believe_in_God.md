@@ -2,6 +2,8 @@
 title = "What would it take for you to believe in God again?"
 path = "/what-would-it-take-to-believe-in-God-again/"
 extra = {doctype = "personal"}
+updated = "2023-08-01"
+
 +++
 > "so, what would it take for you to believe in God again?"
 

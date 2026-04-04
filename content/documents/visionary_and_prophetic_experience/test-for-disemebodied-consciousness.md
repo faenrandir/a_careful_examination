@@ -2,6 +2,8 @@
 title = "Test for disembodied consciousness"
 path = "/test-for-disembodied-consciousness/"
 extra = {doctype = "notes"}
+updated = "2020-07-19"
+
 +++
 ## The Test
 

@@ -2,6 +2,8 @@
 title = "Book of Abraham analogy: Thomas Edison biography from a TV manual in Korean"
 path = "/book-of-abraham-thomas-edison-biography-tv-manual/"
 extra = {doctype = "analogy", maintopic = "book-of-abraham"}
+updated = "2023-08-01"
+
 +++
 The [Translation and Historicity of the Book of Abraham](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng) gospel topics essay advances the idea that Joseph Smith was using Egyptian papyri (the Breathing Permit of Hor is dated no earlier than 150 BCE) as catalyst for the text of the Book of Abraham (BoA).  The catalyst theory is especially important now that top BYU scholars have begun {{ link(text="arguing explicitly against the missing papryus theory", path="/hauglid-against-missing-papyri-theory/") }}.  The catalyst theory is the primary fallback once we acknowledge that we have the papyrus used in preparing significant portions of the BoA manuscript, and we know how Egyptians are likely to have interpreted the text, which is acknowledged by most LDS scholars.
 

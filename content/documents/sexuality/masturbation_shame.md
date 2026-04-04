@@ -2,6 +2,8 @@
 title = "Example of masturbation shame"
 path = "/example-of-masturbation-shame/"
 extra = {doctype = "anecdotal"}
+updated = "2018-09-12"
+
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/92xyrj/my_first_confession_to_a_bishop_age_9/)
 

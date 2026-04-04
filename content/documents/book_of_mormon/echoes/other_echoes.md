@@ -2,6 +2,8 @@
 title = "Other pre-1830 sources reminiscent of the Book of Mormon"
 path = "/other-pre-1830-sources-reminiscent-of-bom/"
 extra = {doctype = "links", maintopic = "book-of-mormon"}
+updated = "2024-08-08"
+
 +++
 Many theological doctrines and themes advanced in the Book of Mormon appear to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s.  The best sources and examples are here:
 

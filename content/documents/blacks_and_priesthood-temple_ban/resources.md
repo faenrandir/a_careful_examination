@@ -2,6 +2,8 @@
 title = "Primary resources on the Priesthood/Temple Ban"
 path = "/primary-resources-on-the-priesthood-ban/"
 extra = {doctype = "list-of-resources"}
+updated = "2021-06-10"
+
 +++
 # Primary Resources
 

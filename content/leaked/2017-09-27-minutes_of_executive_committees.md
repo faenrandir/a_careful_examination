@@ -2,6 +2,8 @@
 title = "Highlights from recently leaked documents (2017)"
 path = "/highlights-from-recently-leaked-documents-2017/"
 extra = {doctype = "summary"}
+updated = "2020-09-07"
+
 +++
 ## No SSA missionaries allowed 
 

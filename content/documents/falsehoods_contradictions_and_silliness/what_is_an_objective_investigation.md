@@ -2,6 +2,8 @@
 title = "An objective investigation"
 path = "/an-objective-investigation/"
 extra = {doctype = "notes"}
+updated = "2023-08-01"
+
 +++
 ### Introduction
 

@@ -2,6 +2,8 @@
 title = "Five Key Facts: my conclusions"
 path = "/five-key-facts-my-conclusions/"
 extra = {doctype = "notes"}
+updated = "2023-06-10"
+
 +++
 1. Joseph claimed he could translate ancient documents.  He could not.
 2. The Book of Mormon, regardless of its status as an ancient or partially ancient document, bears a strong imprint of being a modern document.

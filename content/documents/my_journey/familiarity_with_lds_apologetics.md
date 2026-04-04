@@ -2,6 +2,8 @@
 title = "Familiarity with LDS scholarship"
 path = "/familiarity-with-lds-scholarship/"
 extra = {doctype = "notes"}
+updated = "2020-12-28"
+
 +++
 For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, the books I had been reading/studying prior to my faith transition on the Book of Mormon were:
 

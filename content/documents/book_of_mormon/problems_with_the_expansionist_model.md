@@ -2,6 +2,8 @@
 title = "Problems with the expansionist model"
 path = "/problems-with-the-expansionist-model/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 [very rough draft]
 

@@ -2,6 +2,8 @@
 title = "Quotations suggesting The Book of Abraham was a literal translation attempt"
 path = "/quotations-boa-literal-translation-attempt/"
 extra = {doctype = "compilation", maintopic = "book-of-abraham"}
+updated = "2020-02-18"
+
 +++
 Copied with my editorial changes from [a post by curious_mormon](https://old.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/) and [follow up comment by PhallicMin](https://www.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/ctkfs8a/?context=3).
 

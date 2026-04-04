@@ -2,6 +2,8 @@
 title = "Influences on the Word of Wisdom: Hot Drinks"
 path = "/influences-on-word-of-wisdom-notes-on-hot-drinks/"
 extra = {doctype = "notes", maintopic = "word-of-wisdom"}
+updated = "2018-09-12"
+
 +++
 [just some random notes]
 

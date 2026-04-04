@@ -2,6 +2,8 @@
 title = "1825 Anti-theist rhetoric: “A Second Call to Unbelievers”"
 path = "/a-second-call-to-unbelievers-1825/"
 extra = {doctype = "transcript", maintopic = "book-of-mormon"}
+updated = "2023-01-02"
+
 +++
 ## Introduction
 

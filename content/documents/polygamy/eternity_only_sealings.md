@@ -2,6 +2,8 @@
 title = "Sealing for eternity only"
 path = "/sealing-for-eternity-only/"
 extra = {doctype = "notes", maintopic = "polygamy"}
+updated = "2021-07-18"
+
 +++
 ## Ruth Vose Sayers
 

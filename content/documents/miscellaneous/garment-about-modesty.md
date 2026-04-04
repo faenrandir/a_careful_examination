@@ -2,6 +2,8 @@
 title = "The LDS garment and modesty"
 path = "/garments-and-modesty/"
 extra = {doctype = "notes"}
+updated = "2025-04-02"
+
 +++
 ## Introduction
 

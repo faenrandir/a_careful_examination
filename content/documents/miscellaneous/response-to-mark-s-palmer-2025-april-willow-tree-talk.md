@@ -2,6 +2,8 @@
 title = "A response to Mark S. Palmer's April 2025 General Conference ‘Willow’ talk"
 path = "/response-to-mark-palmer-april-2025-willow-talk/"
 extra = {doctype = "response"}
+updated = "2025-04-09"
+
 +++
 ### Introduction
 

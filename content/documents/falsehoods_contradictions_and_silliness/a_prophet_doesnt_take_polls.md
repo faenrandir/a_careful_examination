@@ -2,6 +2,8 @@
 title = "A Prophet doesn't poll to see wind of public opinion"
 path = "/a-prophet-does-not-poll-to-see-wind-of-public-opinion/"
 extra = {doctype = "short-compilation"}
+updated = "2023-08-01"
+
 +++
 According to Glenn L. Pace, Second Counselor in the Presiding Bishopric in the April 1989 General Conference:
 

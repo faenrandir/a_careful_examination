@@ -2,6 +2,8 @@
 title = "Second coming expectations in the early LDS Church"
 path = "/failed-second-coming-predictions-in-early-lds-church/"
 extra = {doctype = "compilation"}
+updated = "2023-08-01"
+
 +++
 ### Introduction
 

@@ -2,6 +2,8 @@
 title = "Affidavits against Bennett's letters: focus on Martha Brotherton"
 path = "/affidavits-against-bennets-letters-brotherton-focus/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2020-09-07"
+
 +++
 ## AFFIDAVITS AND CERTIFICATES, DISPROVING THE STATEMENTS AND AFFIDAVITS CONTAINED IN JOHN C. BENNETT’S LETTERS. NAUVOO AUG. 31, 1842.
 

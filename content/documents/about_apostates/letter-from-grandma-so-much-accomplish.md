@@ -2,6 +2,8 @@
 title = "Example Letter from Grandma: 'so much you could accomplish for good'"
 path = "/example-letter-from-grandma-so-much-could-accomplish-for-good/"
 extra = {doctype = "anecdotal", maintopic = "faith-transitions"}
+updated = "2018-09-11"
+
 +++
 [Letter From My Grandma](https://www.reddit.com/r/exmormon/comments/74cvlc/letter_from_my_grandma/)
 

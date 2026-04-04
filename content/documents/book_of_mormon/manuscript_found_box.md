@@ -2,6 +2,8 @@
 title = "Solomon Spaulding 'Manuscript Found' box excerpt"
 path = "/solomon-spaulding-manuscript-found-box-excerpt/"
 extra = {doctype = "excerpt", maintopic = "book-of-mormon"}
+updated = "2023-08-01"
+
 +++
 From the introduction (Chapter 1) of [Manuscript Found](https://archive.bookofmormoncentral.org/content/manuscript-found-complete-original-spaulding-manuscript)[^no_literary_dependence]:
 

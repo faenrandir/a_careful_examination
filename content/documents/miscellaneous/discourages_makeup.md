@@ -2,6 +2,8 @@
 title = "LDS Church discourages make-up"
 path = "/discouraging-makeup/"
 extra = {doctype = "compilation"}
+updated = "2023-08-01"
+
 +++
 I came from a family where my sisters were strongly encouraged to only use a very light amount of makeup.  This advice (i.e., use some makeup but only a light amount) is explicit and implicit throughout the Church.
 

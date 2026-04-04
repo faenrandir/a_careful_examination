@@ -2,6 +2,8 @@
 title = "Brigham discusses honesty in women during Q12 meeting"
 path = "/brigham-young-q12-minutes-1847-12-09/"
 extra = {doctype = "transcript", maintopic = "transparency"}
+updated = "2020-08-25"
+
 +++
 ### Introduction
 

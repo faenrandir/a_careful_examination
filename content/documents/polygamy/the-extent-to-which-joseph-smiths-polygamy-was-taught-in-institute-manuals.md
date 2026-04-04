@@ -2,6 +2,8 @@
 title = "The extent to which Joseph Smith's polygamy was taught in LDS Institute Manuals"
 path = "/extent-joseph-smiths-polygamy-taught-institute-manuals/"
 extra = {doctype = "analysis", maintopic = "polygamy"}
+updated = "2023-08-01"
+
 +++
 ## Summary
 

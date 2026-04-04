@@ -2,6 +2,8 @@
 title = "BYU-I dresses cheerleaders modestly"
 path = "/byui-dresses-cheerleaders-modestly/"
 extra = {doctype = "shower-thought"}
+updated = "2018-09-12"
+
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/78wm9t/i_wonder_if_our_young_sisters_realize_the/)
 

@@ -2,6 +2,8 @@
 title = "Abial Fisher, Jr., 1816 sermon: “The Existence of God.”"
 path = "/fisher-the-existence-of-god-1816/"
 extra = {doctype = "transcript", maintopic = "book-of-mormon"}
+updated = "2023-01-02"
+
 +++
 ## Introduction
 

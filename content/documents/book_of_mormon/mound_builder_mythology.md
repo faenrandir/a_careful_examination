@@ -2,6 +2,8 @@
 title = "The Book of Mormon as Mound Builder Mythology"
 path = "/bom-as-mound-builder-mythology/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 From [“…and The Mound-builders Vanished From The Earth”](https://www.americanheritage.com/content/%E2%80%9C%E2%80%A6and-mound-builders-vanished-earth%E2%80%9D), a page from the site American Heritage (with the tagline: "Trusted Writing on History, Travel, Food and Culture Since 1949").
 

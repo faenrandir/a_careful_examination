@@ -2,6 +2,8 @@
 title = "Faith of a naturalist: response to “Faith of a Science Teacher” questions"
 path = "/faith-naturalist-response-faith-science-teacher-questions/"
 extra = {doctype = "response", maintopic = "truth-claims", featuredimage = "/media/sun_over_earth.5091372229_ebca868ffd_o.jpg"}
+updated = "2023-08-01"
+
 +++
 ### Introduction
 

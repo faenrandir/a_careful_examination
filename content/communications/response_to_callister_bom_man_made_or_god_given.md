@@ -2,6 +2,8 @@
 title = "Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?”"
 path = "/response-to-callister-bom-manmade-or-godgiven/"
 extra = {doctype = "response"}
+updated = "2025-10-09"
+
 +++
 ## Introduction
 

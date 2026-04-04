@@ -2,6 +2,8 @@
 title = "Kara Cooney on Muhlestein"
 path = "/cooney-on-muhlestein/"
 extra = {doctype = "email-communication-transcript", maintopic = "book-of-abraham"}
+updated = "2020-05-16"
+
 +++
 [Screenshot](https://imgur.com/DydhCny) of email response from Dr. Kara Cooney, last accessed 2018-09-03.
 

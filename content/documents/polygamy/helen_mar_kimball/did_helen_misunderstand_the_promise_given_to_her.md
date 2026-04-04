@@ -2,6 +2,8 @@
 title = "Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her?"
 path = "/did-helen-mar-kimball-misunderstand/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2021-10-21"
+
 +++
 [very rough draft]
 

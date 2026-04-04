@@ -2,6 +2,8 @@
 title = "Millenial Star denial, August 1842"
 path = "/millenial-star-denial-aug-1842/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2022-10-23"
+
 +++
 ### Context
 

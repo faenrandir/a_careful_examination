@@ -2,6 +2,8 @@
 title = "Excerpt from 'A Social History of the Nation's Favourite Drink'"
 path = "/excerpt-from-social-history-of-tea/"
 extra = {doctype = "excerpt", maintopic = "word-of-wisdom"}
+updated = "2018-09-16"
+
 +++
 Copied from [A Social History of the Nation's Favourite Drink](https://www.tea.co.uk/a-social-history)
 

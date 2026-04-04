@@ -2,6 +2,8 @@
 title = "Critique of Richard and Pamela Price analysis of Martha Brotherton"
 path = "/critique-of-price-analysis-on-brotherton/"
 extra = {doctype = "resource", maintopic = "polygamy"}
+updated = "2022-10-30"
+
 +++
 [ROUGH DRAFT]
 

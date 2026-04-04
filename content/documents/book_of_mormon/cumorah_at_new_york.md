@@ -4,6 +4,8 @@ path = "/archaeology-of-cumorah/"
 [extra]
 doctype = "short-compilation"
 maintopic = "book-of-mormon"
+updated = "2023-08-01"
+
 +++
 [Archaeology and Cumorah Questions](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1369&context=jbms). Journal of Book of Mormon Studies 13:1, article 15.
 

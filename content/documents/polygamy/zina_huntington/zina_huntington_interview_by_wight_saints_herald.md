@@ -2,6 +2,8 @@
 title = "Zina Huntington Jacobs Smith Young interview in the Saints' Herald"
 path = "/zina-huntington-interview-saints-herald/"
 extra = {doctype = "transcript", maintopic = "polygamy"}
+updated = "2021-06-28"
+
 +++
 John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day Saints, interviewed Zina Huntington Jacobs Smith Young at her home in Utah, October 1, 1898. The interview was later published in [the Saints' Herald 1905](https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0752.pdf).  This is a complete transcript[^complete_transcript] of the entire Saints' Herald article,[^initialized_transcript] which contains the interview.
 

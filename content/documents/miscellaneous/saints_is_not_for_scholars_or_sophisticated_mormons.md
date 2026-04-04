@@ -2,6 +2,8 @@
 title = "Saints is not for scholars or sophisticated Mormons"
 path = "/mason-saints-is-not-for-scholars/"
 extra = {doctype = "quotation"}
+updated = "2018-10-15"
+
 +++
 Patrick Mason addressed the target audience of the new narrative history book "Saints" [in a recent SLTrib article](https://www.sltrib.com/religion/2018/09/04/mormon-church-publishes/):
 

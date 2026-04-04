@@ -2,6 +2,8 @@
 title = "Martha Brotherton and the Five Ironies"
 path = "/martha-brotherton-and-the-five-ironies/"
 extra = {doctype = "resource", maintopic = "polygamy", featuredimage = "/media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg"}
+updated = "2020-05-13"
+
 +++
 [**VERY ROUGH DRAFT**]
 

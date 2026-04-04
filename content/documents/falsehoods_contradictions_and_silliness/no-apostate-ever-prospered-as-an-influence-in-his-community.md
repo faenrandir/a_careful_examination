@@ -2,6 +2,8 @@
 title = "“No apostate who ever left ... prospered as an influence in his community thereafter”"
 path = "/no-apostate-who-ever-left-prospered/"
 extra = {doctype = "short-analysis", maintopic = "faith-transitions"}
+updated = "2020-05-18"
+
 +++
 ## Original statement
 

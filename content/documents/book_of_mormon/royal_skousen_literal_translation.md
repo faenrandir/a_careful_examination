@@ -2,6 +2,8 @@
 title = "Royal Skousen: Is the Book of Mormon English translation a literal translation of what was on the plates?"
 path = "/skousen-literal-translation-of-the-plates/"
 extra = {doctype = "excerpt", maintopic = "book-of-mormon"}
+updated = "2020-11-27"
+
 +++
 ## Introduction
 

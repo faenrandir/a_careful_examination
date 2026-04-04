@@ -2,6 +2,8 @@
 title = "Links to Hales's footnoted denials"
 path = "/links-to-hales-footnoted-denials/"
 extra = {doctype = "links", maintopic = "polygamy"}
+updated = "2018-09-12"
+
 +++
 _note: I've recently stumbled upon [Hales's compilation at mormonpolygamydocuments.org](http://mormonpolygamydocuments.org/chart-twenty-three-polygamy-denials/) which probably supercedes the below one, although my links are still very useful since Hales's doesn't provide many links to resources.  This should be redone with that list in mind._
 

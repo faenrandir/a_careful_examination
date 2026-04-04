@@ -2,6 +2,8 @@
 title = "Types of Latter-day Saint Spiritual Experiences"
 path = "/types-of-lds-spiritual-experiences-uplift/"
 extra = {doctype = "notes"}
+updated = "2020-06-02"
+
 +++
 *List originally provided by a member of the Uplift Community of Faith [here](https://onedrive.live.com/view.aspx?resid=A56D8779391AC5B!25425&ithint=file%2cdocx&authkey=!AJibi0WduDIWmhQ)*
 

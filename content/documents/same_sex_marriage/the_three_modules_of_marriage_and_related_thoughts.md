@@ -2,6 +2,8 @@
 title = "Musings on Same Sex Marriage"
 path = "/musings-on-same-sex-marriage/"
 extra = {doctype = "notes"}
+updated = "2020-09-07"
+
 +++
 ### The 3 "modules" of marriage
 

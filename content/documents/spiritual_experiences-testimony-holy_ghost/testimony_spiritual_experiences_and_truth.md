@@ -3,6 +3,8 @@ title = "Testimony, spiritual experiences, and truth: A careful examination"
 path = "/testimony-spiritual-experiences-truth/"
 toc = true
 extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/a-crater-lake.jpg"}
+updated = "2024-04-25"
+
 +++
 # Introduction
 

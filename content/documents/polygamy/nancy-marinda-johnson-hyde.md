@@ -2,6 +2,8 @@
 title = "Notes on Nancy Marinda Johnson Hyde marriage to Joseph Smith"
 path = "/nancy-marinda-johnson-hyde-marriage-to-js/"
 extra = {doctype = "notes", maintopic = "polygamy"}
+updated = "2019-08-15"
+
 +++
 ## Orson Hyde on Mission to Palestine
 

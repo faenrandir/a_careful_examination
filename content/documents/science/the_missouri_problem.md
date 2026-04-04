@@ -2,6 +2,8 @@
 title = "The Missouri Garden of Eden Problem"
 path = "/missouri-garden-of-eden-problem/"
 extra = {doctype = "notes"}
+updated = "2023-01-24"
+
 +++
 Introduction
 

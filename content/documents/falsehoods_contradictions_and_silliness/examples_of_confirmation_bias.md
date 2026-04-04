@@ -2,6 +2,8 @@
 title = "Wicca and confirmation bias"
 path = "/wicca-and-confirmation-bias/"
 extra = {doctype = "shower-thought"}
+updated = "2018-09-12"
+
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/8zwnoe/explain_this_tbms_aka_how_i_became_a_witch/)
 

@@ -2,6 +2,8 @@
 title = "Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript"
 path = "/metcalfe-joseph-and-oliver-consulted-manuscript/"
 extra = {doctype = "transcription", maintopic = "book-of-mormon"}
+updated = "2020-01-02"
+
 +++
 *Conversation transcribed from the Mormon Historians facebook group from a post dated June 27, 2018.  This transcript is limited to the exchange between John Prince and Brent Metcalfe.*
 

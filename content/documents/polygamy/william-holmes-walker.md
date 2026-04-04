@@ -2,6 +2,8 @@
 title = "William Holmes Walker not sealed by JS to Olive Hovey Farr"
 path = "/william-holmes-walker-and-olive-hovey-farr/"
 extra = {doctype = "notes", maintopic = "polygamy"}
+updated = "2018-09-12"
+
 +++
 Joseph Smith was sealed/married to his (effective) foster daughter, Lucy Walker May 1, 1843.  We know that JS introduced plural marriage to her brother William in the early 1840s, and he then asked William (23 yrs old) for permission to marry his younger sister (who was 17).  Please note the verbiage William used to describe the situation:
 

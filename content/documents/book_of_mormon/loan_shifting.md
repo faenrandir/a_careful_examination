@@ -2,6 +2,8 @@
 title = "Who is doing the loan shifting?"
 path = "/excerpt-who-is-doing-the-loan-shifting/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 Excerpt from [here](http://shamelesspopery.com/animals-in-the-book-of-mormon/)
 

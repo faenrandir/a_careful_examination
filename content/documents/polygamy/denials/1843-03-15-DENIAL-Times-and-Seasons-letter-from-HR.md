@@ -2,6 +2,8 @@
 title = "Letter to editor from 'H. R.' - Times and Seasons, 15 March 1843"
 path = "/letter-to-ed-from-hr-times-and-seasons-1843/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2018-09-11"
+
 +++
 * [Times and Seasons Vol 4. (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8618) No. 9
 * [pg 143 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/58c283672f6581747865c84db2942e3a5f80ac81/documents/polygamy/denials/original-1843-03-15-Times-and-Seasons-Letter-to-Editor.pdf)

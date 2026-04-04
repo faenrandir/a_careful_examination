@@ -2,6 +2,8 @@
 title = "Transparency in the modern LDS Church"
 path = "/transparency-in-the-modern-lds-church/"
 extra = {doctype = "short-analysis"}
+updated = "2023-02-18"
+
 +++
 ## Introduction
 

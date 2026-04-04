@@ -2,6 +2,8 @@
 title = "Adam “the first man of all men” and “father of all living in his day”"
 path = "/adam-and-eve-the-first-couple/"
 extra = {doctype = "notes"}
+updated = "2022-08-20"
+
 +++
 ## Introduction
 

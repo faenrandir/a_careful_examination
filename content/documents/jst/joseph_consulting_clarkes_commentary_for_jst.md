@@ -2,6 +2,8 @@
 title = "Joseph was consulting Adam Clarke's Commentary in creation of the JST"
 path = "/joseph-consulting-clarkes-commentary/"
 extra = {doctype = "notes", maintopic = "jst"}
+updated = "2025-10-09"
+
 +++
 ## Synopsis
 

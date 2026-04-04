@@ -2,6 +2,8 @@
 title = "Light and Truth Response pt 3: Linguistic Evidence"
 path = "/response-to-light-and-truth-letter-linguistic-evidence/"
 extra = {doctype = "analysis"}
+updated = "2025-05-08"
+
 +++
 Responding to Linguistic Evidence as [captured on 2024-09-22](https://web.archive.org/web/20240922105606/https://www.lightandtruthletter.org/letter/book-of-mormon/linguistic-evidence).
 

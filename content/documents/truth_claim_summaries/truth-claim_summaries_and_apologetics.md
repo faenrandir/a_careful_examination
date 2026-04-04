@@ -2,6 +2,8 @@
 title = "Truth-claim summaries and apologetics"
 path = "/truth-claim-summaries/"
 extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/thomas_cole_hb_03.27.jpg"}
+updated = "2024-06-20"
+
 +++
 # Summaries
 

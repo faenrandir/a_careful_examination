@@ -2,6 +2,8 @@
 title = "Summarizing the best arguments against chiasmus as evidence of ancientness"
 path = "/best-arguments-against-chiasmus-as-evidence-of-ancientness/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2024-01-19"
+
 +++
 Chiasmus in the Book of Mormon is often advanced as evidence of the ancient origin of the book.  However, the argument may not be as strong as when originally conceived:
 

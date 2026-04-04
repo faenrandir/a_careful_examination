@@ -2,6 +2,8 @@
 title = "Evaluating Zemnarihah's execution--is chopping down of the tree evidence favoring an ancient Book of Mormon?"
 path = "/zemnarihah-execution-cut-down-the-tree/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
+updated = "2020-05-16"
+
 +++
 There are at least two problems with viewing the ["chopping down the tree" story of Zemnarihah's execution](https://knowhy.bookofmormoncentral.org/content/why-did-the-people-cut-down-the-tree-after-hanging-zemnarihah) as evidence of an ancient origin for the Book of Mormon:
 

@@ -2,6 +2,8 @@
 title = "We are not a wealthy people"
 path = "/we-are-not-a-wealthy-people/"
 extra = {doctype = "notes"}
+updated = "2020-08-25"
+
 +++
 On the 9th of December, 2018, during his meeting with Zimbabwe's Vice President, Elder Neil L. Andersen stated:
 

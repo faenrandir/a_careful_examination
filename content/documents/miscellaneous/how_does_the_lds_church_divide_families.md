@@ -2,6 +2,8 @@
 title = "How does the LDS Church divide families?"
 path = "/how-does-the-lds-church-divide-families/"
 extra = {doctype = "short-analysis"}
+updated = "2022-01-17"
+
 +++
 [very rough draft]
 

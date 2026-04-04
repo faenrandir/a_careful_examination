@@ -1,6 +1,8 @@
 +++
 title = "Endorsements"
 path = "/endorsements/"
+updated = "2020-11-04"
+
 +++
 #### Candidate to moderate /r/mormon
 

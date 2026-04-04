@@ -2,6 +2,8 @@
 title = "Resources on 1800s marriage practices"
 path = "/resources-on-1800s-marriage-practices/"
 extra = {doctype = "resources", maintopic = "polygamy"}
+updated = "2023-01-01"
+
 +++
 1. Romantic love and marriage. A study of age homogamy in 19th century Leuven. ([abstract](https://www.journalbelgianhistory.be/nl/journal/belgisch-tijdschrift-voor-nieuwste-geschiedenis-2001-3-4/romantic-love-marriage-study-age) \| [pdf](https://www.journalbelgianhistory.be/nl/system/files/article_pdf/BTNG-RBHC%2C%2031%2C%202001%2C%203-4%2C%20pp%20579-619.pdf))
 1. "Women and the age gap between spouses: An accepted domination?" **Population.** Bozon. 1991. ([jstor](https://www.jstor.org/stable/2949134) [login to read])

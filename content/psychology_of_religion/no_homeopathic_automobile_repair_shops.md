@@ -2,6 +2,8 @@
 title = "Lamport on homeophathic automobile repair shops"
 path = "/lamport-on-homeophathic-automobile-repair/"
 extra = {doctype = "quotation"}
+updated = "2018-09-12"
+
 +++
 Leslie Lamport, an early Computer Scientist, [said](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf):
 

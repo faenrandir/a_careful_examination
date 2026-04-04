@@ -2,6 +2,8 @@
 title = "No-fail responses to critical comments"
 path = "/no-fail-responses-to-critical-comments/"
 extra = {doctype = "good-ideas", maintopic = "faith-transitions"}
+updated = "2018-11-12"
+
 +++
 *From a post [here](https://www.reddit.com/r/exmormon/comments/9wl0vb/feeling_judged_heres_10_nofail_responses_to/)*
 

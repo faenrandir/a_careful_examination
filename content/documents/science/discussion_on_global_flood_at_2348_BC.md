@@ -2,6 +2,8 @@
 title = "Discussion on a global flood at 2348 BCE"
 path = "/discussion-global-flood-at-2348-bc/"
 extra = {doctype = "discussion"}
+updated = "2019-01-09"
+
 +++
 A discussion in the spring of 2015 between me ("bwv549") and "tmgproductions", a pastor(?) and blogger for the Grace with Salt site on the global flood.
 

@@ -2,6 +2,8 @@
 title = "On the efficacy of paying tithing"
 path = "/efficacy-of-paying-tithing/"
 extra = {doctype = "short-analysis"}
+updated = "2023-11-20"
+
 +++
 Members of the Church will often claim that they know they are blessed (financial or otherwise) *because* they pay their tithing.  These claims seem shortsighted, or at least insufficiently demonstrated, for the following reasons:
 

@@ -2,6 +2,8 @@
 title = "The divine visitor identity problem"
 path = "/divine-visitor-identity-problem/"
 extra = {doctype = "short-analysis"}
+updated = "2021-03-08"
+
 +++
 ### The divine visitor identity problem
 

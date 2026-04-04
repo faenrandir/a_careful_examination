@@ -3,6 +3,8 @@ title = "Book of Mormon parallels to 1800s thought"
 path = "/bom-parallels-to-1800s-thought/"
 extra = {doctype = "resource", maintopic = "book-of-mormon", featuredimage = "/media/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.smaller.jpg"}
 categories = ["Book of Mormon", "Truth-Claims"]
+updated = "2025-04-30"
+
 +++
 ### Introduction
 

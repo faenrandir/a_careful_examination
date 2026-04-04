@@ -2,6 +2,8 @@
 title = "When did Adam and Eve live?"
 path = "/when-did-adam-and-eve-live/"
 extra = {doctype = "short-analysis"}
+updated = "2023-08-01"
+
 +++
 ### Introduction
 

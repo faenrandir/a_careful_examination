@@ -2,6 +2,8 @@
 title = "Time and Seasons May 1, 1845 'Mormonism Unveiled'"
 path = "/times-and-seasons-may-1-1845-mormonism-unveiled/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
+updated = "2019-01-10"
+
 +++
 * [Times and Seasons Vol 6 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9684) no 8.
 * {{ link(text="pgs 893-895 (standalone PDF)", path="/documents/polygamy/denials/originals/1845-05-01-Times-and-Seasons-Mormonism-Unveiled.pdf") }}

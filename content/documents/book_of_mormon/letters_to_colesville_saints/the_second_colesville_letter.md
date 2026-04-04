@@ -2,6 +2,8 @@
 title = "The Second Colesville Letter: Transcript and Biblical allusions"
 path = "/the-second-colesville-letter-transcript-and-allusions/"
 extra = {doctype = "transcript", maintopic = "book-of-mormon"}
+updated = "2021-07-18"
+
 +++
 ## Attribution
 

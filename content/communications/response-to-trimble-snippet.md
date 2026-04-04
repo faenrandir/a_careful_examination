@@ -2,6 +2,8 @@
 title = "Response to Greg Trimble's 11 questions"
 path = "/response-to-trimble-11-questions/"
 extra = {doctype = "response"}
+updated = "2018-09-04"
+
 +++
 This is a partial response to the issues brought up in a reddit forum.  At some point I should probably just respond to all 11 questions, but this covers a lot of it.
 
