@@ -100,5 +100,5 @@ Let us, on the whole, lay these things seriously to heart, and profit by them. W
 
 ## See also
 
-* {{ link(text="1825 Anti-theist rhetoric: “A Second Call to Unbelievers”", path="/a-second-call-to-unbelievers-1825/") }}
+* {{ link(text="1825 Anti-theist rhetoric: 'A Second Call to Unbelievers", path="/a-second-call-to-unbelievers-1825/") }}
 * ["All Things Show There is a God"](https://docs.google.com/document/d/16odCn1NBtBHICtSp05NZXh4VHtiktQpwGqbHHIdLL-8/edit#heading=h.mc3hp8tg1efq) (BoM Google Book Cross References)

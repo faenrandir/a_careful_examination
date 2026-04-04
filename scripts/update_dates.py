@@ -72,7 +72,10 @@ def update_front_matter(filepath: str, date: str) -> bool:
     # Match TOML front matter
     fm_match = re.match(r'^\+\+\+\n(.*?)\n\+\+\+', content, re.DOTALL)
     if not fm_match:
-        return False
+        # No front matter at all - add it
+        new_content = f'+++\nupdated = "{date}"\n+++\n\n' + content.lstrip()
+        open(filepath, "w").write(new_content)
+        return True
 
     fm_content = fm_match.group(1)
 
@@ -90,8 +93,12 @@ def update_front_matter(filepath: str, date: str) -> bool:
             flags=re.MULTILINE
         )
     else:
-        # Add new field before the closing +++
-        new_fm = fm_content.rstrip() + f'\nupdated = "{date}"\n'
+        # Add new field
+        if fm_content.strip():
+            new_fm = fm_content.rstrip() + f'\nupdated = "{date}"\n'
+        else:
+            # Empty front matter
+            new_fm = f'updated = "{date}"\n'
 
     new_content = content.replace(fm_content, new_fm, 1)
     open(filepath, "w").write(new_content)
@@ -112,13 +119,10 @@ def main():
             filepath = os.path.join(root, filename)
             rel_path = filepath  # Already relative to repo root
 
-            # Skip auto-generated _index.md files that have no git history
+            # Skip _index.md files (sections don't display updated dates)
             if filename == "_index.md":
-                # Check if it's a transparent section we created (no git history)
-                file_content = open(filepath).read()
-                if "transparent = true" in file_content:
-                    skipped_count += 1
-                    continue
+                skipped_count += 1
+                continue
 
             orig_path = get_original_path(rel_path)
             date = get_last_commit_date(orig_path)

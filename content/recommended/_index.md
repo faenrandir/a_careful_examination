@@ -113,7 +113,7 @@ updated = "2020-05-16"
 
 ### temple
 
-* {{ link(text="Origins of the phrase: "All truth may be circumscribed into one great whole"", path="/origins-of-phrase-all-truth-may-be-circumscribed/") }}
+* {{ link(text="Origins of the phrase: 'All truth may be circumscribed into one great whole", path="/origins-of-phrase-all-truth-may-be-circumscribed/") }}
 
 ### truth-claims
 
@@ -178,7 +178,7 @@ updated = "2020-05-16"
 
 ### responses
 
-* {{ link(text="Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?”", path="/response-to-callister-bom-manmade-or-godgiven/") }}
+* {{ link(text="Response to Tad Callister's talk 'The Book of Mormon: Man-Made or God-Given?", path="/response-to-callister-bom-manmade-or-godgiven/") }}
 * {{ link(text="Response to LDS Living article on Evidence supporting the Book of Mormon", path="/response-to-lds-living-article-supporting-the-bom/") }}
 * {{ link(text="Response to Five Compelling Archeological Evidences For the Book of Mormon", path="/response-to-bmc-five-compelling-archeological-evidences-for-bom/") }}
 * {{ link(text="Response to representations of former members in the April 2020 General Conference", path="/response-to-april-2020-general-conference/") }}

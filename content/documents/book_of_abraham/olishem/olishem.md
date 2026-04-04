@@ -85,9 +85,9 @@ A map located in Allegheny College (in Pennsylvania), a few hundred miles from w
     -al Sham + Shem => Olishem
 
 Note that "al Sham" preserves all of the consonants of "Olishem", while Ulišu
-Note that the same map {{ link(text="also contains "Nehem"", path="/documents/book_of_abraham/olishem/barrai-alSham_and_Nehem.png") }} in its approximate location.
+Note that the same map {{ link(text="also contains 'Nehem", path="/documents/book_of_abraham/olishem/barrai-alSham_and_Nehem.png") }} in its approximate location.
 
-Another old map of the Arabian Peninsula, "Accuratissima et Maxima Totius Turcici Imperii Tabula", {{ link(text="has the word "Olim"", path="/documents/book_of_abraham/olishem/Accuratissima_et_Maxima_Totius_Turcici_Imperii_Tabula.png") }} right in the middle of the top part of the peninsula roughly where we'd expect the plains of Olishem to be located.  Adjacent to the word "Olim" is written "Meschel Ocem" which could have easily provided the 'sh' sound for "Olishem".
+Another old map of the Arabian Peninsula, "Accuratissima et Maxima Totius Turcici Imperii Tabula", {{ link(text="has the word 'Olim", path="/documents/book_of_abraham/olishem/Accuratissima_et_Maxima_Totius_Turcici_Imperii_Tabula.png") }} right in the middle of the top part of the peninsula roughly where we'd expect the plains of Olishem to be located.  Adjacent to the word "Olim" is written "Meschel Ocem" which could have easily provided the 'sh' sound for "Olishem".
 
     Olim + "sh" sound from "Meschel Ocem" => Olishem
 

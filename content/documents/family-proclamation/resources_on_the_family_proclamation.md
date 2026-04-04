@@ -9,7 +9,7 @@ updated = "2020-09-24"
 
 1. [Is the Family Proclamation Scripture?](http://rationalfaiths.com/is-the-family-proclamation-scripture/) (analysis by James Patterson)
 1. [Is "The Proclamation" official doctrine?](https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F#https://www.fairmormon.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F) (FairMormon)
-1. {{ link(text=""The Proclamation on the Family: Scripture or Revelation?"", path="/proclamation-on-the-family-scripture-or-revelation/") }} (bwv549)
+1. {{ link(text="The Proclamation on the Family: Scripture or Revelation?", path="/proclamation-on-the-family-scripture-or-revelation/") }} (bwv549)
 
 ## Chronology
 

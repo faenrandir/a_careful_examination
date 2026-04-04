@@ -38,6 +38,6 @@ updated = "2024-12-16"
 
 ### Other
 
-* {{ link(text="Faith of a naturalist: response to “Faith of a Science Teacher” questions", path="/faith-naturalist-response-faith-science-teacher-questions/") }}
+* {{ link(text="Faith of a naturalist: response to 'Faith of a Science Teacher' questions", path="/faith-naturalist-response-faith-science-teacher-questions/") }}
 
 *Acknowledgements: [Fuzzy Thoughts](https://www.reddit.com/user/fuzzy_thoughts) encouraged me to compile this list and alerted me to a resource I had missed.*

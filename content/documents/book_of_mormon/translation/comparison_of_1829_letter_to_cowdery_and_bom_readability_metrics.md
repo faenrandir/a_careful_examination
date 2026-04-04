@@ -1,4 +1,8 @@
 +++
+updated = "2020-01-22"
++++
+
++++
 +++
 
 Comparison of Joseph Smith's 1829 Letter to Oliver Cowdery with the Book of Mormon on common readability scores.

@@ -51,7 +51,7 @@ A few notes:
 
 > “All legal contracts of marriage made before a person is baptized into this church, should be held sacred and fulfilled. Inasmuch as this church of Christ has been reproached with the crime of fornication, and polygamy: *we declare that we believe, that one man should have one wife; and one woman, but one husband*, except in case of death, when either is at liberty to marry again. It is not right to persuade a woman to be baptized contrary to the will of her husband neither is it lawful to influence her to leave her husband.”
 
-#### {{ link(text=""On Marriage" October 1, 1842, Times and Seasons", path="/on-marriage-1842-times-and-seasons/") }}---RESPONSIBLE FOR
+#### {{ link(text="On Marriage' October 1, 1842, Times and Seasons", path="/on-marriage-1842-times-and-seasons/") }}---RESPONSIBLE FOR
 
 *Joseph Smith was editor of the Times and Seasons when this document was published.  Two of the women who signed the document were Joseph's plural wives ([Sara M. Cleveland](http://josephsmithspolygamy.org/plural-wives-overview/sarah-kingsley/) and [Eliza R. Snow](http://josephsmithspolygamy.org/plural-wives-overview/eliza-r-snow/)).  Bishop Newel K. Whitney had [performed a plural marriage of his daughter to Joseph](http://josephsmithspolygamy.org/plural-wives-overview/sarah-ann-whitney/) the previous July.  John Taylor and Wilford Woodruff had also likely been taught about polygamy by this time.[^quorumofannointed]  Joseph Smith had at least 13 wives when this was published.*
 
@@ -123,9 +123,9 @@ They reference the following footnotes:
 
 Did Joseph Smith and other leaders lie or deceive?
 
-* [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) on Joseph Smith's polygamy: {{ link(text=""obviously he lied"", path="/laurel-thatcher-ulrich-obviously-he-lied/") }}
+* [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) on Joseph Smith's polygamy: {{ link(text="obviously he lied", path="/laurel-thatcher-ulrich-obviously-he-lied/") }}
 * {{ link(text="The verbiage used by Joseph Smith's wives to describe their unions", path="/how-did-js-wives-refer-to-unions/") }}.
-* {{ link(text="Definitions of words related to "lie" and "deceive"", path="/definitions-of-terms-polygamy-denials/") }} (from Merriam-Webster, the Gospel Principles Manual, General Conference addresses, and Wikipedia).
+* {{ link(text="Definitions of words related to 'lie' and 'deceive'", path="/definitions-of-terms-polygamy-denials/") }} (from Merriam-Webster, the Gospel Principles Manual, General Conference addresses, and Wikipedia).
 * [Response to Hales' challenge: "Please show me even one 'lie' by Joseph regarding plural marriage"](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/)
 
 ### Appendix-E Official and Apologetic explanations

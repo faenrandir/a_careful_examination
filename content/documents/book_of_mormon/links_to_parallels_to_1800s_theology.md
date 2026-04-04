@@ -60,7 +60,7 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 
 ### See also
 
-* {{ link(text="Alex Douglas “Afterword: The Old Testament and the Book of Mormon”", path="/alex-douglas-afterword-ot-and-bom/") }}
+* {{ link(text="Alex Douglas 'Afterword: The Old Testament and the Book of Mormon", path="/alex-douglas-afterword-ot-and-bom/") }}
 * {{ link(text="Other pre-1830 sources reminiscent of the Book of Mormon", path="/other-pre-1830-sources-reminiscent-of-bom/") }}
 * {{ link(text="How could Joseph Smith have composed the Book of Mormon?", path="/how-could-joseph-smith-composed-bom/") }}
 * {{ link(text="Recent LDS Scholar observations favoring a modern origin for the Book of Mormon", path="/lds-scholars-modern-origin-evidence/") }}

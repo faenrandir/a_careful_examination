@@ -49,5 +49,5 @@ SHEBAGO
 
 ### See also
 
-* {{ link(text="Abial Fisher, Jr., 1816 sermon: “The Existence of God.”", path="/fisher-the-existence-of-god-1816/") }}
+* {{ link(text="Abial Fisher, Jr., 1816 sermon: 'The Existence of God.", path="/fisher-the-existence-of-god-1816/") }}
 * ["All Things Show There is a God"](https://docs.google.com/document/d/16odCn1NBtBHICtSp05NZXh4VHtiktQpwGqbHHIdLL-8/edit#heading=h.mc3hp8tg1efq) (BoM Google Book Cross References)
