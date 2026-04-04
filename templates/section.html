@@ -4,6 +4,9 @@
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ section.title }}</h1>
+    {% if section.updated %}
+    <div class="last-update">last update: {{ section.updated | date(format="%Y-%m-%d") }}</div>
+    {% endif %}
 
     {% if section.extra.featuredimage is defined %}
     <figure class="featured-image-figure-div">

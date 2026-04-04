@@ -49,6 +49,9 @@ def main():
         # Pull latest changes
         run("git pull")
 
+        # Update last-modified dates from git history
+        run("python3 scripts/update_dates.py")
+
         # Clean build
         run("rm -rf docs")
         run("zola build")
