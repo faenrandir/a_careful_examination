@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="home">
+  <p>A collection of resources, research, and thoughts on the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints.</p>
+
+  <h2 id="for-your-initial-consideration">For your initial consideration</h2>
+
+  <p><a href="{{ config.base_url | safe }}/to-peek-behind-the-curtain/">To peek behind the curtain: the decision to critically investigate LDS truth-claims</a></p>
+
+  <h2 id="general-resources">General Resources</h2>
+
+  <ul>
+    {% for page in section.pages %}
+      {% if page.extra is defined and page.extra.doctype is defined and page.extra.doctype == "resource" %}
+        {% if page.extra.maintopic is not defined or (page.extra.maintopic != "polygamy" and page.extra.maintopic != "faith-transitions") %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2 id="faith-transitions">Faith Transitions</h2>
+
+  <ul>
+    {% for page in section.pages %}
+       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "faith-transitions" %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+       {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2 id="polygamy">Polygamy</h2>
+
+  <ul>
+    {% for page in section.pages %}
+       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
+        {% if page.extra.doctype is not defined or (page.extra.doctype != "historical-resource" and page.extra.doctype != "historical-source") %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+        {% endif %}
+       {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h3 id="polygamy-historical-resources">Polygamy historical resources</h3>
+
+  <ul>
+    {% for page in section.pages %}
+       {% if page.extra is defined and page.extra.maintopic is defined and page.extra.maintopic == "polygamy" %}
+        {% if page.extra.doctype is defined and (page.extra.doctype == "historical-resource" or page.extra.doctype == "historical-source") %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+        {% endif %}
+       {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2 id="miscellaneous">Miscellaneous</h2>
+
+  <ul>
+    {% for page in section.pages %}
+      {% if page.extra is defined and page.extra.doctype is defined and page.extra.doctype != "resource" %}
+        {% if page.extra.maintopic is not defined or (page.extra.maintopic != "polygamy" and page.extra.maintopic != "faith-transitions") %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="doctype-annotation"> {{ page.extra.doctype }}</span></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endblock content %}

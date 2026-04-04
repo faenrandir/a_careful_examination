@@ -1,0 +1,41 @@
+# The URL the site will be served from
+base_url = "/a_careful_examination"
+
+# The site title and description
+title = "A Careful Examination"
+description = "Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church)."
+
+# The directory where the output HTML/CSS/JS/etc. will be generated
+output_dir = "docs"
+
+# The default language
+default_language = "en"
+
+# Whether to automatically compile Sass files
+compile_sass = true
+
+# Whether to generate a feed file (replaces jekyll-feed)
+generate_feeds = true
+
+# The filename for the feed
+feed_filenames = ["atom.xml"]
+
+
+# Taxonomies for categorization (replaces Jekyll categories)
+taxonomies = [
+    {name = "maintopic", feed = true},
+    {name = "doctype", feed = true},
+]
+
+# Markdown processing settings
+[markdown]
+bottom_footnotes = true
+smart_punctuation = true
+
+# Search (disabled for now)
+[search]
+enabled = false
+
+# Link checker - skip internal anchor checks (Zola slugifies differently from Jekyll)
+[link_checker]
+skip_prefixes = ["#"]

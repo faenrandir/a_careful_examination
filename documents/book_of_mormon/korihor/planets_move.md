@@ -1,3 +1,0 @@
-[Annual Report of the American Bible Society, vol 137, 1816](https://books.google.com/books?id=QSTPAAAAMAAJ&q=%22existence+of+god%22&dq=%22existence+of+god%22&hl=en&sa=X&ved=2ahUKEwiZk8ym5ZrkAhVKoZ4KHVKjBM0Q6AEwBXoECAQQAg):
-
-> "If you can prove to me the existence of God, I will believe," said a medical doctor to colporteur Faustino Arcia of the State of Tabasco.  The colporteur immediately replied: "You know, God is a spirit, and a spirit cannot be seen."--"That is why I cannot believe in the existence of God," replied the doctor.  Then the colporteur asked the ... [This is the only snippet I can find on google books]

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="post">
+  <header class="post-header">
+    {% if page.extra is defined and page.extra.doctype is defined and page.extra.doctype == "resource" %}
+      <h1 class="resource-post-title">{{ page.title }}</h1>
+      {% if page.updated %}
+      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
+      {% endif %}
+    {% else %}
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.updated %}
+      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
+      {% endif %}
+      {% if page.extra is defined and page.extra.doctype is defined %}
+      <div class="doctype-display">({{ page.extra.doctype }})</div>
+      {% endif %}
+    {% endif %}
+
+    {% if page.extra is defined and page.extra.featuredimage is defined %}
+    <figure class="featured-image-figure-div">
+      <img class="featured-image" src="{{ get_url(path=page.extra.featuredimage) }}" alt="{{ page.title }}" title="{{ page.title }}">
+    </figure>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ page.content | safe }}
+  </div>
+</article>
+{% endblock content %}
