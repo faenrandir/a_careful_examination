@@ -7,7 +7,7 @@ updated = "2021-07-16"
 +++
 ## Background
 
-From [Jeni Broberg Holzapfel and Richard Neitzel Holzapfel, eds., A Woman’s View: Helen Mar Whitney’s Reminiscences of Early Church History (Provo, UT: Religious Studies Center, Brigham Young University, 1997), 481–487](https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one):
+From [Jeni Broberg Holzapfel and Richard Neitzel Holzapfel, eds., A Woman’s View: Helen Mar Whitney’s Reminiscences of Early Church History (Provo, UT: Religious Studies Center, Brigham Young University, 1997), 481–487](http://web.archive.org/web/20181004234644/https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one):
 
 > On 30 March 1881, Helen Mar Whitney wrote a frank autobiographical letter to her children relating her parents’ conversion to Mormonism and also her own baptism. She discusses in intimate detail her feelings when she first learned of the doctrine of plural marriage from her father, Heber C. Kimball. Helen Mar reveals in a straightforward manner the struggle and conflict that she and her mother confronted when Joseph Smith asked Helen Mar to marry him as a plural wife. She adds to her autobiographical letter a poem detailing this period of turmoil. Helen Mar continues her story two years after the Prophet’s martyrdom when she married Horace K. Whitney in the Nauvoo Temple in 1846. She mentions Horace’s plural marriages and leaves her posterity a brief testimony and exhortation to remain faithful to God and his plan. Helen Mar admits that despite her earlier struggles and present trials she would not change anything for the eternal promises she received. An interesting aspect of this letter is Helen Mar’s signature at the end. She signed it “Helen Mar Kimball Whitney,” and then went back and added “Smith” to her name. The original letter, “Autobiography, 30 March, 1881,” is located in the Archives Division, Church Historical Department, The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah. It consists of three leaves (27 cm) written with pen on a semitransparent type of writing paper._
 
@@ -19,7 +19,7 @@ From [Jeni Broberg Holzapfel and Richard Neitzel Holzapfel, eds., A Woman’s Vi
 
 ## Transcript
 
-[From [Holzapfel Appendix](https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one)]
+[From [Holzapfel Appendix](http://web.archive.org/web/20181004234644/https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one)]
 
 ---
 
