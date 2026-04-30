@@ -100,6 +100,7 @@ updated = "2024-06-20"
 * [Conflict of Justice #CES Letter Fail](http://web.archive.org/web/20210423205835/http://www.conflictofjustice.com/ces-letter-fail-contents/)
 * [Bamboozled by the "CES Letter"](http://shakenfaithsyndrome.com/bamboozle/bamboozled.pdf) (Michael Ash)
 * [Evidence and Criticism of LDS Truth Claims, Theology, and Practice](https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U) (video series by Brett M. McDonald) 
+* [A Christian's Response to Jeremy Runnells' CES Letter](https://search.worldcat.org/title/1538478965?oclcNum=1538478965) (David Liscum; Amazon summary: "affirming the hard questions Runnells raises ... [and] reveal[ing] why the LDS narrative collapses under the weight of Scripture, history, and reason.")
 
 ## See also
 
