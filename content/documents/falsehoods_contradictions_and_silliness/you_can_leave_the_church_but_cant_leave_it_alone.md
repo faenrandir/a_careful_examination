@@ -103,7 +103,7 @@ political decisions and those decisions influence me, or my nation, directly.
 Many LDS politicians are strongly influenced by LDS doctrine in how they
 approach legislation. For example:
 
-* [Gordon Smith discusses politics with LDS leadership]https://www.youtube.com/watch?v=z4FPVZH8fIg)
+* [Gordon Smith discusses politics with LDS leadership](https://www.youtube.com/watch?v=z4FPVZH8fIg)
 * [David Farnsworth](https://www.yahoo.com/news/spent-two-half-hours-david-130000672.html)
 
     > My foundation is the doctrine of my church, and it flavors everything I do ... I believe this is the word of God. I'm reading the Old Testament right now, three chapters every morning. Really enjoying it.
