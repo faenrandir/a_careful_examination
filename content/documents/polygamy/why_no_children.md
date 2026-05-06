@@ -9,6 +9,8 @@ updated = "2024-04-29"
 
 The dominant scholarly position[^some_skeptical_of_smith_polygamy] is that Joseph Smith was married/sealed to between 30 and 40 women. While many of his plural wives gave [first-hand accounts](https://faenrandir.github.io/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/) that they had sexual relations with Joseph Smith, [scholars debate](https://josephsmithspolygamy.org/dialogues/hales-vogel-2/) whether sexual relations extended to wives who were already married to other husbands and the youngest teenagers ([particularly 14 year old Helen Mar Kimball](https://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)). Regardless, since Joseph [had many children](https://en.wikipedia.org/wiki/Children_of_Joseph_Smith) with Emma, the question naturally arises: if Joseph Smith was practicing polygamy with so many women and sexual relations were part of some or all of them, **why did Joseph not produce offspring with these other women?**
 
+**Update 2026-05-05**: Dan Vogel discussed this topic in depth in [this youtube video](https://www.youtube.com/watch?v=7fXc1iagM7w). His analysis mostly supersedes mine.
+
 ## Possible reasons
 
 Below are _possible_ solutions to the above stated problem. Given that the practice of polygamy in the early LDS Church was extremely secretive and participants were likely highly motivated to conceal evidence of sexual relations, it is unlikely that a single solution will ever be well-corroborated, but individually or collectively the following provide plausible reasons for the discrepancy between progeny with Emma and lack of progeny with other wives/sealants.
