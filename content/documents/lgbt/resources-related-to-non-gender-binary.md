@@ -19,10 +19,9 @@ updated = "2024-08-15"
 
 ## Relevant Scientific Research
 
-* [Sexual differentiation of the human brain: Relation to gender identity, sexual orientation and neuropsychiatric disorders](https://www.sciencedirect.com/science/article/abs/pii/S0091302211000252) (cited by [BYU Bio 461 appendix](https://books.byui.edu/bio_461_principles_o/appendix_a_gender))
-* [Gene variants provide insight into brain, body incongruence in transgender](https://www.sciencedaily.com/releases/2020/02/200205084203.htm)
-* [Only two sex forms but multiple gender variants: How to explain?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5824932/)
-    "... it follows from the principles of Ca<sup>2+</sup>- physiology and homeostasis that all individuals of a sexually reproducing animal population have a personalized gender behaviour"
+* Bakker 2021. The role of steroid hormones in the sexual differentiation of the human brain. [pubmed](https://pubmed.ncbi.nlm.nih.gov/34708466/) [pdf](https://sci-hub.ru/10.1111/jne.13050)
+* Theisen et al. 2019. Gene variants provide insight into brain, body incongruence in transgender. [article](https://www.sciencedaily.com/releases/2020/02/200205084203.htm) [ScienceDaily](https://www.sciencedaily.com/releases/2020/02/200205084203.htm)
+* Bao and Swaab 2011. Sexual differentiation of the human brain: Relation to gender identity, sexual orientation and neuropsychiatric disorders. [pubmed](https://pubmed.ncbi.nlm.nih.gov/21334362/) [pdf](https://sci-hub.ru/10.1016/j.yfrne.2011.02.007) (cited by [BYU Bio 461 appendix](https://books.byui.edu/bio_461_principles_o/appendix_a_gender))
 
 ## Multi-cultural
 
@@ -48,13 +47,14 @@ Nonetheless, there is still some significant room within broader LDS theology to
 
 ## Related
 
-* [Sex and Sensibility](https://www.youtube.com/watch?v=szf4hzQ5ztg) (discussion of sex and gender from a biologist's perspective)
+* [Sex and Sensibility](https://www.youtube.com/watch?v=nVQplt7Chos) (discussion of sex and gender from a biologist's perspective)
 * [wikipedia: Fraternal birth order and male sexual orientation](https://en.wikipedia.org/wiki/Fraternal_birth_order_and_male_sexual_orientation)
 * Sex determination is [very complex](https://i.redd.it/sidxs9i62rlz.jpg) (from [Beyond XX and XY: The Extraordinary Complexity of Sex Determination](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/))
 * Human Sexuality [part 1](https://www.youtube.com/watch?v=LOY3QH_jOtE), [part 2](https://www.youtube.com/watch?v=95OP9rSjxzw), [part 3](https://www.youtube.com/watch?v=JPYmarGO5jM) (lectures from Professor Robert Sapolsky's Human Behavioral Biology course at Stanford University)
 * On a biological origin of homosexuality [podcast](https://www.mormonstories.org/podcast/byu-professor-bill-bradshaw-on-a-biological-origin-of-homosexuality/), [video](https://www.youtube.com/watch?v=8IHw9DVI3hE), [overhead slides](https://mormonstories.wpengine.com/podcast/dropbox/bradshaw-overheads/) (BYU Professor Bill Bradshaw lecture)
 * BYU USGA [resource page](https://www.usgabyu.com/resources-for-you)
 * [Finding Your True Voice: A Guide to Gender-Affirming Verbal Communication](https://onlinespeechpathologyprograms.org/gender-affirming-verbal-communication/)
+* De Loof 2018. Only two sex forms but multiple gender variants: How to explain? [pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5824932/) [article](https://www.tandfonline.com/doi/full/10.1080/19420889.2018.1427399#d1e169) (a more speculative framework for thinking about gender variation)
 
 
 [^progressive]: Admittedly, most of those exploring this territory are progressive and/or queer members, but there still may be some validity to their perspective, even to more orthodox members.
