@@ -4,18 +4,21 @@ See [About](https://faenrandir.github.io/a_careful_examination/about/)
 
 ## To Build
 
-Make sure you can gem install, then navigate into the root folder of this
-project and:
+The site is built with [Zola](https://www.getzola.org/). Make sure `zola` is
+installed and in your PATH, then navigate into the root folder of this project.
 
-    bundle install
+Preview changes (serves locally with live reload):
 
-Preview changes:
+    zola serve
 
-    bundle exec jekyll serve
+Build the site (outputs static files to `docs/`):
 
-Finally, build the docs for production (and commit any changes):
+    zola build
 
-    JEKYLL_ENV=production bundle exec jekyll build
+Release (switches to the release git user, pulls latest, rebuilds, commits,
+and pushes):
+
+    python3 scripts/release.py
 
 
 ## LICENSE
