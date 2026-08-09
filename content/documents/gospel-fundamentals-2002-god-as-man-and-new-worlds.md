@@ -2,7 +2,7 @@
 title = "Gospel Fundamentals (2002): Creating New Worlds and God as Once a Man"
 path = "/gospel-fundamentals-2002-god-as-man-and-new-worlds/"
 extra = {doctype = "resource", maintopic = "truth-claims"}
-updated = "2026-08-05"
+updated = "2026-08-09"
 
 +++
 Two doctrines are stated plainly in the Church's 2002 manual *Gospel Fundamentals*, and in the Church's current official materials each is qualified or reframed. This page sets the manual's wording and the Church's subsequent wording side by side.
