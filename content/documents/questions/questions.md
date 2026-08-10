@@ -29,7 +29,7 @@ _If any question contains incorrect information or is misleading in any way, ple
 
 1. Why did [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young) become Brigham Young's wife after Joseph died and not Henry Jacob's wife (especially considering that Henry already had children with Zina)?
 
-1. Joseph Smith directly or implicitly {{ link(text="denied practicing polygamy", path="/joseph-smith-polygamy-denials/") }} 5 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and {{ link(text="other early leaders", path="/documents/polygamy/denials/denial_analysis.pdf") }}) to repeatedly lie about their practice of polygamy?[^lie_rebuttal]
+1. Joseph Smith directly or implicitly {{ link(text="denied practicing polygamy", path="/joseph-smith-polygamy-denials/") }} 4 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and {{ link(text="other early leaders", path="/documents/polygamy/denials/denial_analysis.pdf") }}) to repeatedly mislead others about their practice of polygamy?[^mislead_rebuttal]
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Jacobs and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
@@ -145,7 +145,7 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 [^hales_no_sealing]: In [a reddit comment](https://www.reddit.com/r/mormon/comments/5quvd8/questions_for_brian_and_laura_hales_upcoming_ama/dd7jbbq/), Brian Hales, LDS Historian (and likely primary author of the [Nauvoo Polygamy lds.org essay](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng)), stated: "Keep in mind Joseph died without being sealed to his children or parents."
 
-[^lie_rebuttal]:  LDS apologist Brian Hales has attempted to argue that Joseph Smith wasn't lying about polygamy but using "carefully worded denials" instead (so he was "technically" honest).  I have examined that argument in great depth [here](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/).
+[^mislead_rebuttal]:  LDS apologist Brian Hales has argued that Joseph Smith wasn't lying about polygamy but rather using "carefully worded denials" instead (so he was "technically" honest in some manner).  I examine that argument in some depth [here](https://www.reddit.com/r/mormonscholar/comments/66qepx/response_to_hales_challenge_please_show_me_even/). Regardless of what we call these statements, they seem intended to convince others that he was not practicing polygamy when he (according to most historians today) was indeed doing that. See [this document](https://faenrandir.github.io/a_careful_examination/definitions-of-terms-polygamy-denials/) for definitions around lying, equivocate, prevaricate, etc. and [how the Gospel Principles manual discusses honesty](https://faenrandir.github.io/a_careful_examination/definitions-of-terms-polygamy-denials/#gospel-principles).
 
 [^detailed_revelation]: Joseph Smith apparently received precise dimensions for the construction of, for example, a printing house ([D&C 94:10-11](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/94.10-11)):
 
