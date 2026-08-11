@@ -2,7 +2,7 @@
 title = "Helen Mar Kimball Whitney 1881 Autobiography"
 path = "/helen-mar-kimball-whitney-1881-autobiography/"
 extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2021-07-16"
+updated = "2026-04-27"
 
 +++
 ## Background

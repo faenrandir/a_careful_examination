@@ -2,7 +2,7 @@
 title = "Caricature or Critic? Rethinking Korihor as a Proxy for Modern Naturalism"
 path = "/korihor-and-modern-naturalism/"
 extra = {doctype = "analysis"}
-updated = "2026-08-10"
+updated = "2026-02-12"
 
 +++
 ## Introduction

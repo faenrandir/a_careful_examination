@@ -47,21 +47,46 @@ def get_original_path(content_path: str) -> str:
     return content_path
 
 
-def get_last_commit_date(filepath: str) -> str | None:
+def get_last_commit_date(orig_path: str, content_path: str) -> str | None:
     """Get the last commit date for a file in YYYY-MM-DD format.
-    Finds the last change BEFORE the migration commit."""
+
+    Walks the full history of the file across both the original (pre-migration)
+    path and the current content path, newest first, and returns the date of the
+    most recent commit that actually changed the file's content. Commits that
+    only touched the `updated` front-matter line (self-stamping from a previous
+    release) and the migration commit itself are skipped.
+    """
     try:
         result = subprocess.run(
-            ["git", "log", "-1", "--format=%ci", "--before", MIGRATION_COMMIT, "--", filepath],
+            ["git", "log", "--format=%H %ci", "--", orig_path, content_path],
             capture_output=True, text=True, check=True
         )
-        if not result.stdout.strip():
-            return None
-        # Parse: "2026-04-04 15:00:00 -0600"
-        date_str = result.stdout.strip().split()[0]
-        return date_str
+        for line in result.stdout.strip().splitlines():
+            commit_hash, commit_date = line.split()[:2]
+            # Skip the migration commit itself (file move, not a content change).
+            if commit_hash.startswith(MIGRATION_COMMIT):
+                continue
+            # Skip commits that only re-stamped the `updated` front-matter line.
+            if _only_updated_line_changed(commit_hash, orig_path, content_path):
+                continue
+            # Parse: "2026-04-04 15:00:00 -0600"
+            return commit_date.split()[0]
+        return None
     except subprocess.CalledProcessError:
         return None
+
+
+def _only_updated_line_changed(commit_hash: str, orig_path: str, content_path: str) -> bool:
+    """True if the commit's diff for this file only touches the `updated`
+    front-matter line (plus surrounding blank lines)."""
+    try:
+        result = subprocess.run(
+            ["git", "show", "--format=", commit_hash, "--", orig_path, content_path],
+            capture_output=True, text=True, check=True
+        )
+    except subprocess.CalledProcessError:
+        return False
+    return not _contains_substantive_change(result.stdout)
 
 
 def update_front_matter(filepath: str, date: str) -> bool:
@@ -105,6 +130,48 @@ def update_front_matter(filepath: str, date: str) -> bool:
     return True
 
 
+def has_uncommitted_changes(filepath: str) -> bool:
+    """True if the file has real (non-`updated`-line) differences from HEAD.
+
+    A difference that consists only of the `updated` front-matter line is the
+    script's own prior output, not a user edit, so it does not count.
+    """
+    try:
+        result = subprocess.run(
+            ["git", "status", "--porcelain", "--", filepath],
+            capture_output=True, text=True, check=True
+        )
+        status_line = result.stdout.strip()
+        if not status_line:
+            return False
+        # Untracked/new file: nothing in HEAD to compare against.
+        if status_line.startswith("??"):
+            return True
+        # Any substantive change in the working-tree diff counts.
+        diff_result = subprocess.run(
+            ["git", "diff", "HEAD", "--", filepath],
+            capture_output=True, text=True, check=True
+        )
+        return _contains_substantive_change(diff_result.stdout)
+    except subprocess.CalledProcessError:
+        return False
+
+
+def _contains_substantive_change(diff_text: str) -> bool:
+    """True if a unified diff has any +/- line beyond the `updated` front-matter
+    line (and surrounding blank lines)."""
+    for line in diff_text.splitlines():
+        if line.startswith("+++") or line.startswith("---") or line.startswith("@@") \
+                or line.startswith("diff ") or line.startswith("index ") \
+                or line.startswith("new file") or line.startswith("deleted file"):
+            continue
+        if line.startswith("+") or line.startswith("-"):
+            body = line[1:].strip()
+            if body and not body.startswith("updated"):
+                return True
+    return False
+
+
 def main():
     content_dir = "content"
     updated_count = 0
@@ -125,7 +192,13 @@ def main():
                 continue
 
             orig_path = get_original_path(rel_path)
-            date = get_last_commit_date(orig_path)
+
+            # If the file has uncommitted changes it was just edited; that edit
+            # is what this release will commit, so stamp today's date.
+            if has_uncommitted_changes(rel_path):
+                date = datetime.now().strftime("%Y-%m-%d")
+            else:
+                date = get_last_commit_date(orig_path, rel_path)
 
             if date is None:
                 # File has no git history (new file)

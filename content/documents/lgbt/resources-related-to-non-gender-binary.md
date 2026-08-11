@@ -2,7 +2,7 @@
 title = "Resources related to non gender-binary"
 path = "/resources-related-to-non-gender-binary/"
 extra = {doctype = "notes"}
-updated = "2024-08-15"
+updated = "2026-08-04"
 
 +++
 ## Quick

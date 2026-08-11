@@ -4,7 +4,7 @@ path = "/vetting-the-visitors-editorial/"
 
 [extra]
 doctype = "notes"
-updated = "2026-08-10"
+updated = "2026-02-23"
 
 +++
 [VERY ROUGH DRAFT]

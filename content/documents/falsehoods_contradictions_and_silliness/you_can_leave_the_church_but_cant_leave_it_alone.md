@@ -2,7 +2,7 @@
 title = "You can leave the Church but you can't leave it alone"
 path = "/you-can-leave-the-church-but-you-cant-leave-it-alone/"
 extra = {doctype = "short-analysis"}
-updated = "2025-12-17"
+updated = "2026-05-03"
 
 +++
 [pre-draft form]

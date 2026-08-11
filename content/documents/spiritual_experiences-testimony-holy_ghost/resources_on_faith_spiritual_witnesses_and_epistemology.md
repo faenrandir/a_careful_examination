@@ -2,7 +2,7 @@
 title = "Resources on faith, spiritual witnesses, and epistemology"
 path = "/resources-on-faith-spiritual-witnesses-and-epistemology/"
 extra = {doctype = "resource", maintopic = "truth-claims"}
-updated = "2024-12-15"
+updated = "2026-04-04"
 
 +++
 ## Basic Data

@@ -2,7 +2,7 @@
 title = "Analysis of Olishem as evidence for the antiquity of the Book of Abraham"
 path = "/olishem-as-evidence-for-boa/"
 extra = {doctype = "short-analysis"}
-updated = "2021-06-16"
+updated = "2026-04-04"
 
 +++
 [still in draft form]

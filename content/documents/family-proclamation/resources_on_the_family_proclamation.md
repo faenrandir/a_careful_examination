@@ -2,7 +2,7 @@
 title = "Resources on the Family Proclamation"
 path = "/resources-on-the-family-proclamation/"
 extra = {doctype = "resources-on-family-proclamation", maintopic = "family-proclamation"}
-updated = "2020-09-24"
+updated = "2026-04-04"
 
 +++
 ## Status of the Proclamation
