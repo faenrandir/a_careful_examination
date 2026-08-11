@@ -2,9 +2,9 @@
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors-editorial/"
 
+updated = "2026-02-23"
 [extra]
 doctype = "notes"
-updated = "2026-02-23"
 
 +++
 [VERY ROUGH DRAFT]

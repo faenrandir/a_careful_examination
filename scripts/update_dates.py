@@ -104,27 +104,35 @@ def update_front_matter(filepath: str, date: str) -> bool:
 
     fm_content = fm_match.group(1)
 
+    # Only manage the top-level `updated` field (before any [table] header,
+    # e.g. [extra]). An `updated` inside a table is not page.updated and must
+    # not be mistaken for it.
+    top_level, separator, table_part = fm_content.partition("\n[")
+    if separator:
+        table_part = "[" + table_part
+
     # Check if updated date already exists and matches
-    existing_match = re.search(r'^updated = "([^"]+)"', fm_content, re.MULTILINE)
+    existing_match = re.search(r'^updated = "([^"]+)"', top_level, re.MULTILINE)
     if existing_match and existing_match.group(1) == date:
         return False  # Already up to date
 
     if existing_match:
         # Update existing
-        new_fm = re.sub(
+        new_top = re.sub(
             r'^updated = "[^"]+"',
             f'updated = "{date}"',
-            fm_content,
+            top_level,
             flags=re.MULTILINE
         )
     else:
-        # Add new field
-        if fm_content.strip():
-            new_fm = fm_content.rstrip() + f'\nupdated = "{date}"\n'
+        # Add new field at top level
+        if top_level.strip():
+            new_top = top_level.rstrip() + f'\nupdated = "{date}"\n'
         else:
             # Empty front matter
-            new_fm = f'updated = "{date}"\n'
+            new_top = f'updated = "{date}"\n'
 
+    new_fm = new_top.rstrip("\n") + ("\n" + table_part if table_part else "") + "\n"
     new_content = content.replace(fm_content, new_fm, 1)
     open(filepath, "w").write(new_content)
     return True
