@@ -1,5 +1,5 @@
 +++
-title = "The divine visitor identity problem"
+title = "The Divine Visitor Problem: Objectivity, intersubjective identity, and identification"
 path = "/divine-visitor-identity-problem/"
 extra = {doctype = "short-analysis"}
 updated = "2026-08-11"
