@@ -2,76 +2,183 @@
 title = "The divine visitor identity problem"
 path = "/divine-visitor-identity-problem/"
 extra = {doctype = "short-analysis"}
-updated = "2021-03-08"
-
+updated = "2026-08-11"
 +++
+
 ### The divine visitor identity problem
 
-Those who believe in the objective reality of visionary experiences describe visionary experiences like this: Person A sees a visionary being and person B is also seeing the same visionary being (e.g., the Jesus of Nazareth).
+When people report visionary experiences involving divine visitors, there are at least three distinct questions:
+
+1. Is the visitor objectively real, or is the experience generated subjectively?
+2. If the visitor is objectively real, are different people experiencing the same visitor?
+3. If different people are experiencing the same visitor, does that visitor actually correspond to the person they believe it to be (e.g., Jesus of Nazareth)?
+
+These questions are logically distinct.
+
+### 1. Objective existence
+
+Suppose person A sees a visionary being:
 
     A -> V
-    B -> V
 
-    # another way of showing the same thing:
+This is compatible with at least two possibilities. A may be perceiving an objectively existing visitor:
+
+    A -> V
+
+or A may be experiencing a subjectively generated representation:
+
+    A -> V'
+
+The distinction is difficult to establish from A's experience alone. Human experience is necessarily mediated through subjective perception, and some subjective experiences can be indistinguishable from ordinary perception to the person experiencing them.
+
+One useful distinction is between experiences that have the usual hallmarks of objectivity and those that do not. Experiences that have high information content, orthogonality, transmissibility, and reproducibility tend to be treated as features of an external world rather than as purely subjective phenomena.
+
+### 2. Visitor identity across people
+
+Suppose A and B both report seeing Jesus.
+
+The naïve interpretation is:
+
     A -> V <- B
 
-But it could be that they are each seeing their own subjective version of this visionary being and they have wrongly assumed they were witnessing the same being?  For example, each thinks they are seeing Jesus but maybe one is seeing [red-robe Caucasian Jesus](https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-christ-39623-gallery.jpg) and the other is seeing [an Arabic looking Jesus](https://www.ancient-origins.net/sites/default/files/Jesus%20face.jpg)?
+That is, both people encountered the same visitor.
 
-    A -> V
-    B -> V'
+But it is also possible that each person experienced a separate representation:
 
-    # another way of showing the same thing
-    A -> V | V' <- B
+    A -> Vₐ
+
+    B -> Vᵦ
+
+For example, A might see a red-robed, Caucasian-looking Jesus while B sees an Arabic-looking Jesus. Both may identify what they experienced as "Jesus," without actually experiencing the same entity.
+
+More generally, agreement on a category or general description is weak evidence of shared identity. The relevant question is whether the experiences contain enough independently verifiable information to establish that the same entity was present in both cases.
+
+### 3. Identification of the visitor
+
+Even if we establish that A and B encountered the same objectively existing entity, another question remains:
+
+    A -> V <- B
+
+    V ?= Jesus of Nazareth
+
+An objectively real and stable visitor need not be the person the visitor is presumed to be.
+
+Thus, evidence that a visitor is objectively real does not by itself establish that the visitor is Jesus; and evidence that two people encountered the same visitor does not establish that the visitor is Jesus.
 
 ### Potential solution
 
-In general, we are seeking methods that identify a visitor with great precision.  The greater the information content we can associate with a given visitor that can be independently verified, the greater our confidence that the visitor is the *same* visitor across visits to differt people.
+In general, we are seeking methods that identify a visitor with great precision. The greater the information content we can associate with a given visitor that can be independently verified, the greater our confidence that the visitor is the *same* visitor across encounters with different people.
 
-"Real-world" transactions regularly exhibit this high information content transfer,[^md5checksums] so if divine beings are objectively real, we would prima facie expect their persona and their ability to transmit information to be similar to transactions in the real world.
+"Real-world" transactions regularly exhibit this kind of high-information transfer. If divine beings are objectively real, we would prima facie expect their interactions with the physical world to exhibit at least some of the same properties: information content, orthogonality, transmissibility, and reproducibility.
 
-#### Copious details
+### Copious details
 
-A simple way to help establish the subjective/objective nature of these experiences and help establish visitor identity would be for participants to carefully record all the details of the being independent of one another (e.g., in {{ link(text="this kind of survey", path="/proposed-survey-divine-manifestations/") }}).  If the details all match up (especially trivial details where there could be lots of possibilities), then we would have some justification for thinking the visitors identified as the same being were actually the same being and had an objective reality.[^copiousdetails]
+A simple way to test the objective and intersubjective nature of these experiences would be for participants to independently record as many details of the visitor as possible.
 
-#### High entropy information transmission
+For example, A and B could separately record:
 
-One way to establish the objective reality of a visitor with confidence would be through the use of an encryption-handshake-like procedure:
+* physical characteristics;
+* clothing;
+* location;
+* objects held;
+* exact words spoken;
+* sequence of events;
+* unusual or unexpected details.
 
-One of the key features of our objective experience is durable information
-transfer.  I can deliver a message to another person and that person can
-deliver the message to a third person.  The third person could then relay that
-information back to me and we could presumably engage in this exchange with no
-loss of information, even with a high information entropy message.
+The reports should be recorded independently, before the participants communicate with one another.
 
-All we need for a demonstration that visionary beings have an objective
-existence is to get one of them to transmit a high entropy information to
-another person in the physical world (who cannot have obtained the message
-from the first physical person).  This could be done with a 10 random word
-passphrase, for instance.
+If the reports contain a large number of matching, independently verifiable details—especially trivial or unexpected details where there are many possible alternatives—this would provide some evidence that the two participants encountered the same visitor.
 
-Those who believe they are entertaining divine visitors ought to engage them
-like this:
+Conversely, substantial disparities would suggest either that the visitors were different or that the experiences were substantially constructed by the individual observers.
 
-> Now, just to assure myself that you exist independently of my subjective
-experience, I'm going to need you to deliver this ten word passphrase to some
-other person in my objective world with instructions to relay that passphrase
-back to me.  Okay, the phrase is "recent patrol combat ranch turquoise ..."
+This would not establish objectivity with certainty. Two people can share expectations, information, cultural imagery, or other sources of correlation. But sufficiently detailed and unexpected agreement would be considerably stronger evidence than merely reporting that both people "saw Jesus."
+
+### High-entropy information transmission
+
+An even stronger test would use information that the participants could not plausibly have generated from shared expectations.
+
+One of the key features of our objective experience is durable information transfer. I can deliver a message to another person, and that person can deliver the message to a third person. The third person can then relay the information back to me. We can repeat this process with very high-information messages with little or no degradation.
+
+This gives us a potentially powerful test for an alleged divine visitor.
+
+Suppose A claims to be communicating with a visitor. A could ask the visitor to transmit a randomly generated, high-entropy message to B, who is physically separated from A and has no opportunity to obtain the message from A.
+
+For example:
+
+> Now, just to assure myself that you exist independently of my subjective experience, I'm going to need you to deliver this ten-word passphrase to some other person in my objective world, with instructions to relay that passphrase back to me. Okay, the phrase is "recent patrol combat ranch turquoise ..."
+
+A and B would independently record the results before communicating.
+
+If the visitor successfully transmitted the same randomly generated message to B, and B subsequently returned it to A, this would be strong evidence that the information originated from some source external to A's subjective experience.
+
+The test can be made arbitrarily more discriminating by increasing the entropy of the message and controlling the possible information channels between the participants.
+
+This is importantly different from merely asking two people whether they "felt the Spirit" or whether they saw similar things. The latter provides relatively little information with which to distinguish a shared external cause from independently generated subjective experiences. A successful high-entropy information transfer would provide substantially more.
+
+### What such a test would establish
+
+A successful test would not establish everything one might want to know about a visitor.
+
+It could provide evidence for:
+
+* **objective existence:** the information appears to originate from something external to the individual observer;
+* **agentic communication:** the source is capable of intentionally transmitting information;
+* **cross-observer identity:** if the same visitor repeatedly performs the same kind of independently verifiable transmission for different observers, this provides evidence that the observers are interacting with the same agent.
+
+It would not, by itself, establish:
+
+* that the visitor is omniscient;
+* that the visitor is benevolent;
+* that the visitor is God;
+* that the visitor is Jesus of Nazareth.
+
+Those are additional claims requiring additional evidence.
 
 ### Precedent in LDS history
 
-Latter-day Saints who might be inclined to think such procedures absurd may consider that early LDS leaders were genuinely interested in similar kinds of tests:
+Latter-day Saints who might be inclined to regard such procedures as absurd may consider that early LDS leaders were genuinely interested in methods for distinguishing genuine divine messengers from deceptive ones.
 
-* [D&C 129](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng) is essentially a test used to presumably detect the devil who might be appearing as an angel of light: "When a messenger comes saying he has a message from God, offer him your hand and request him to shake hands with you. If he be an angel he will do so, and you will feel his hand.  If he be the spirit of a just man made perfect he will come in his glory; for that is the only way he can appear—Ask him to shake hands with you, but he will not move, because it is contrary to the order of heaven for a just man to deceive; but he will still deliver his message.  If it be the devil as an angel of light, when you ask him to shake hands he will offer you his hand, and you will not feel anything; you may therefore detect him. These are three grand keys whereby you may know whether any administration is from God."
-* The LDS temple ceremony includes tokens and signs so that participants might know who are true messengers: "How shall I know that you are true messengers? ... By our giving unto you the token and sign you received in the garden of Eden."
+* [D&C 129](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng) describes a procedure for testing a purported messenger by asking the messenger to shake hands. The response is supposed to distinguish an angel, a perfected spirit, and the devil appearing as an angel of light. The procedure is therefore, in effect, an authentication protocol: a purported supernatural visitor is asked to exhibit a property that distinguishes it from competing explanations.
 
-### See also
+* The LDS temple ceremony likewise includes the question, "How shall I know that you are true messengers?" The answer involves tokens and signs by which the messenger is to be authenticated.
 
-[Distinguishing shared and objective reality: information content, orthogonality, transmissability, reproducibility](https://www.reddit.com/r/mormon/comments/f8watk/does_god_have_a_spleen_when_we_are_resurrected/fkiw2mn/) (comment)
+These examples do not establish the validity of any particular modern test. They do, however, illustrate that the underlying epistemic problem is recognizably LDS: if supernatural messengers can appear, then it is reasonable to ask how one can distinguish a genuine messenger from a false or deceptive one.
 
-[^copiousdetails]: Observing that two individuals experienced a divine being having a large number of independently verifiable characteristics would provide support for (but not definitively establish) the unique identity of the visitor.  Observing many disparaties in the description suggests the visitors were either different beings or more subjective in nature (either because the visitors were entirely subjective or because the visitor assumes different characteristics per visit).
+### A broader vetting problem
 
-[^md5checksums]: Imagine that I know a checksum and I then ask two other individuals to transmit that checksum to one another. The chance that they could deliver the same checksum to one another without actually knowing the original checksum is:
+The identity problem is actually part of a larger problem.
 
-    (1 / (2^128 ) )^2 ~= 8.7 x 10^-78
+If a person believes that they are receiving communication from a third party, there are at least four questions:
 
-    There are somewhere around 10<sup>78</sup> atoms in the known universe, so the probability that they could produce the same checksum by chance is roughly the same as independently pointing to the exact same atom in all of the known universe. But "real-life" regularly produces independent verification on this order of magnitude (and often much, much higher). And, it's a verification we could do several days in a row. And someone could transmit the information along to someone else, etc. "Real life" tends to be ridiculously high in information content, orthogonality, transmissability, and reproducibility.
+1. **Is there actually a third party?**
+2. **Is the communication reliably attributable to that third party?**
+3. **Does the entity possess the claimed knowledge or abilities?**
+4. **Is the entity benevolent and worthy of trust?**
+
+The first question is prior to the others. If the apparent visitor is entirely subjective, then claims about its knowledge, authority, or benevolence cannot straightforwardly be attributed to an external being.
+
+The stakes also make this more than an abstract epistemological exercise. A purported divine communication can acquire considerably more authority than an ordinary thought precisely because the recipient believes it comes from an external, superior agent. Consequently, errors in attribution can have consequences that ordinary mistakes in introspection do not.
+
+### Conclusion
+
+The central problem is therefore not simply:
+
+> "Did you see Jesus?"
+
+It is:
+
+> **What evidence distinguishes an objectively existing visitor from a subjectively generated experience, what evidence establishes that different people encountered the same visitor, and what evidence establishes the visitor's identity?**
+
+Detailed independent observations provide one possible test.
+
+High-entropy information transfer provides a stronger one.
+
+Neither test is guaranteed to establish the ultimate identity or benevolence of a purported divine visitor. But if objectively existing divine visitors routinely interact with human beings, there should in principle be some way for those interactions to exhibit the ordinary hallmarks by which we distinguish external, information-bearing agents from internally generated experiences.
+
+---
+
+[^copiousdetails]: Observing that two individuals experienced a divine being having a large number of independently verifiable characteristics would provide support for—but not definitively establish—the unique identity of the visitor. Observing many disparities in the descriptions suggests that the visitors were either different beings or that the experiences were substantially subjective, either because the visitor was entirely subjective or because the visitor assumed different characteristics on different occasions.
+
+---
+
+*Acknowledgement: bwv549 was the author of these ideas, but ChatGPT refined and reorganized the ideas a bit, particularly the distinction between objective existence, cross-observer identity, and identification of the visitor, and it tweaked the formulation of the high-entropy information-transfer test very slightly.*
