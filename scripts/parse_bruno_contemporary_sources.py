@@ -26,18 +26,16 @@ NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 
 # recognizes docx_link and script_link
 INTRODUCTION = """
-On August 22, in a post in the Mormon Polygamy Documents Facebook group, Cheryl L. Bruno 
-shared her ongoing document containing a chart describing all the contemporary documents 
-bearing on the question of Joseph Smith practicing polygamy (or not). She revised and 
-explanded on the work of Mark Tensmeyer from "Secret Covenants: New Insights on Early 
-Mormon Polygamy".
+On August 22, Cheryl L. Bruno shared her ongoing documentary catalog in the Mormon Polygamy 
+Documents Facebook group detailing contemporary sources on Joseph Smith's practice of polygamy. 
+Her work revises and expands upon Mark Tensmeyer’s work published in 
+"Secret Covenants: New Insights on Early Mormon Polygamy."
 
 **Source document:** {docx_link} (original `.docx` from Bruno's Facebook post)
 
-**How this page was made:** the table is extracted automatically from the `.docx` by the {script_link} 
-(Python, standard library only). Re-running the script regenerates the introduction and the markdown 
-from this `.docx`. To suggest edits to the underlying data, prefer editing the `.docx` (and re-running 
-the script) over editing this generated page directly.
+Below is the table programmatically extracted from her document with this script: {script_link}.
+Edits to the md/html docs will be overwritten when the script is rerun, so modify the script to 
+change this document.
 
 ```
 CCLA – Community of Christ Library and Archives
