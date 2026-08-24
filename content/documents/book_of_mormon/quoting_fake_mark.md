@@ -2,7 +2,7 @@
 title = "Moroni quotes sections of Mark that are of dubious origin"
 path = "/moroni-quotes-sections-of-mark-dubious-origin/"
 extra = {doctype = "resource", maintopic = "book-of-mormon", featuredimage = "/media/800px-Sanapolinclasse05.jpg"}
-updated = "2024-03-23"
+updated = "2026-08-23"
 
 +++
 Many [theological anachronisms exist in the Book of Mormon](/bom-parallels-to-1800s-thought/), but among the most problematic is the quotation of the end of the book of Mark by Moroni.

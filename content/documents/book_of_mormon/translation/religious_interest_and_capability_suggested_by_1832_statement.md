@@ -2,7 +2,7 @@
 title = "Religious interest and capability suggested by Joseph Smith's 1832 statement and 1830 Colseville letters"
 path = "/religious-interest-and-capability-from-1832-statement/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2022-11-28"
+updated = "2026-08-23"
 
 +++
 ## Introduction

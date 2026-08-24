@@ -2,7 +2,7 @@
 title = "Consequences of leaving the group tend to be proportional to the level of totalism"
 path = "/consequences-of-leaving-the-group-and-totalism/"
 extra = {doctype = "short-analysis", maintopic = "faith-transitions"}
-updated = "2020-09-07"
+updated = "2026-08-23"
 
 +++
 *Mildly Totalistic -> Fully Totalistic*

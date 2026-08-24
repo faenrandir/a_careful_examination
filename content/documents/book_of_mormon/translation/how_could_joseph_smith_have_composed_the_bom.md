@@ -2,7 +2,7 @@
 title = "How could Joseph Smith have composed the Book of Mormon?"
 path = "/how-could-joseph-smith-composed-bom/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2024-02-03"
+updated = "2026-08-23"
 
 +++
 ### The oral composition model

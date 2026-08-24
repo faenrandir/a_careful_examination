@@ -2,7 +2,7 @@
 title = "Chronology of my views on evolution and LDS doctrine"
 path = "/chronology-of-my-views-on-evolution-and-lds-doctrine/"
 extra = {doctype = "notes"}
-updated = "2024-02-12"
+updated = "2026-08-23"
 
 +++
 ## Introduction

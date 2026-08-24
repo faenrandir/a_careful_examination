@@ -2,7 +2,7 @@
 title = "Joseph Smith's Polygamy Denials"
 path = "/joseph-smith-polygamy-denials/"
 extra = {doctype = "resource", maintopic = "polygamy", featuredimage = "/media/1835-marriage-doc.png"}
-updated = "2026-04-04"
+updated = "2026-08-23"
 
 +++
 ### Introduction

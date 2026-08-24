@@ -2,7 +2,7 @@
 title = "Hyrum Smith attended Moor's Indian Charity School"
 path = "/hyrum-attended-moor-school/"
 extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2024-10-23"
+updated = "2026-08-23"
 
 +++
 ### Research by Stephen Clarke

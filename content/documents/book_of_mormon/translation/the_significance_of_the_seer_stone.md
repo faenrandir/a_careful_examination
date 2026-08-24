@@ -2,7 +2,7 @@
 title = "The significance of the seer stone for LDS truth-claims"
 path = "/the-significance-of-the-seer-stone/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2024-10-24"
+updated = "2026-08-23"
 
 +++
 ## Introduction

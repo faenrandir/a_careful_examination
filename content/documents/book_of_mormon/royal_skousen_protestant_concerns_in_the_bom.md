@@ -2,7 +2,7 @@
 title = "Royal Skousen: Protestant concerns in the Book of Mormon"
 path = "/skousen-protestant-concerns-in-bom/"
 extra = {doctype = "excerpt", maintopic = "book-of-mormon"}
-updated = "2020-11-27"
+updated = "2026-08-23"
 
 +++
 ## Introduction

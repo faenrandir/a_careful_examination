@@ -2,7 +2,7 @@
 title = "On the existence of ghosts"
 path = "/on-the-existence-of-ghosts/"
 extra = {doctype = "short-analysis"}
-updated = "2020-09-13"
+updated = "2026-08-23"
 
 +++
 ### Ghosts do not seem to be objective phenomena

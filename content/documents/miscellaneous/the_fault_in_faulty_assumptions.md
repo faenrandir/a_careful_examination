@@ -2,7 +2,7 @@
 title = "The Fault in Faulty Assumptions"
 path = "/the-fault-in-faulty-assumptions/"
 extra = {doctype = "short-analysis"}
-updated = "2023-08-01"
+updated = "2026-08-23"
 
 +++
 *With some modification and the addition of some sources from reddit user jamesallred's post [here](https://www.reddit.com/r/exmormon/comments/a3dbc3/crappy_mormon_apologetics_its_your_fault_you_lost/)*

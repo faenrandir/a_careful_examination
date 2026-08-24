@@ -2,7 +2,7 @@
 title = "email transcript: “Noah's flood: the case for a faithful LDS interpretation as a local flood”"
 path = "/email-transcript-noahs-flood-case-for-faithful-lds-interpretation/"
 extra = {doctype = "email-transcript", maintopic = "flood"}
-updated = "2023-08-01"
+updated = "2026-08-23"
 
 +++
 ### Foreword

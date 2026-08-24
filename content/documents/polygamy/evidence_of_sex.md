@@ -2,7 +2,7 @@
 title = "Evidence of sex within Joseph Smith's polygamy"
 path = "/evidence-of-sex-in-joseph-smith-polygamy/"
 extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2021-06-24"
+updated = "2026-08-23"
 
 +++
 ## Todd Compton's assessment

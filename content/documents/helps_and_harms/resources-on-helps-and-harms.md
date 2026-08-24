@@ -2,7 +2,7 @@
 title = "Resources related to the helps and harms of the LDS Church"
 path = "/resources-related-to-helps-and-harms/"
 extra = {doctype = "links"}
-updated = "2023-11-08"
+updated = "2026-08-23"
 
 +++
 ## Both helps and harms

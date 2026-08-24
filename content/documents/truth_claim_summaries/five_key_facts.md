@@ -2,7 +2,7 @@
 title = "Five Key Facts"
 path = "/five-key-facts/"
 extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/old-key-1463663104cis.jpg"}
-updated = "2025-03-04"
+updated = "2026-08-23"
 
 +++
 This is a very short summary of what I view as the 5 most important facts in understanding alternative models for LDS truth claims.  To the best of my knowledge, every point made in this document is accepted as factual by both LDS and non-LDS scholars (please correct me if I am mistaken and I will alter the document).[^hales]

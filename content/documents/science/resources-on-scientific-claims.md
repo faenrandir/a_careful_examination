@@ -2,7 +2,7 @@
 title = "Resources related to science claims"
 path = "/resources-related-to-science-claims/"
 extra = {doctype = "links", maintopic = "science"}
-updated = "2026-04-04"
+updated = "2026-08-23"
 
 +++
 ### Adam, Eve and Creation related

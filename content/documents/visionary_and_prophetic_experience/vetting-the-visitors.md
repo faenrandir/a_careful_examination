@@ -2,7 +2,7 @@
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors/"
 extra = {doctype = "notes"}
-updated = "2022-03-29"
+updated = "2026-08-23"
 
 +++
 [VERY ROUGH DRAFT]

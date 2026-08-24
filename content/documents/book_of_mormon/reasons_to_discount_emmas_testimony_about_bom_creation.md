@@ -2,7 +2,7 @@
 title = "Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon"
 path = "/reasons-to-discount-emmas-bom-testimony/"
 extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2026-04-04"
+updated = "2026-08-23"
 
 +++
 ## Introduction

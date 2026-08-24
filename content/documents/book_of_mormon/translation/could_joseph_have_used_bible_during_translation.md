@@ -2,7 +2,7 @@
 title = "Could Joseph Smith have used the Bible during the dictation process?"
 path = "/could-js-used-bible-during-dictation/"
 extra = {doctype = "analysis", maintopic = "book-of-mormon"}
-updated = "2023-09-22"
+updated = "2026-08-23"
 
 +++
 [Draft]
