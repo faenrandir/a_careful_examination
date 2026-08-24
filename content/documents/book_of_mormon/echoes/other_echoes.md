@@ -7,7 +7,7 @@ updated = "2024-08-08"
 +++
 Many theological doctrines and themes advanced in the Book of Mormon appear to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s.  The best sources and examples are here:
 
-{{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+[Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 Other sources or analyses, listed below, may also have merit.
 
@@ -23,7 +23,7 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Slippery treasure](https://www.reddit.com/r/mormon/comments/d897gd/treasure_in_the_book_of_mormon/) (ArchimedesPPL)
 1. [Secret combinations](https://www.reddit.com/r/exmormon/comments/exoyeg/bom_product_of_its_times_secret_combinations_the/)
 1. [Fascination with ancient America demonstrated with newspaper articles](https://www.reddit.com/r/exmormon/comments/evqmci/bom_product_of_its_time_speculation_about_and/)
-1. {{ link(text="The Book of Mormon and 12 points of Pelagius", path="/bom-and-twelve-points-of-pelagianism-in-early-1800s/") }}
+1. [The Book of Mormon and 12 points of Pelagius](/bom-and-twelve-points-of-pelagianism-in-early-1800s/)
 1. [Arminianism in the Book of Mormon](https://www.reddit.com/r/mormonscholar/comments/92e2sl/similarities_between_dartmouth_professor_john/e359nrd/) (comment by [FuzzyThoughts](https://www.reddit.com/user/Fuzzy_Thoughts))
 1. [Jesus sweat drops of blood out of pores a common 1800s argument, with commentary on it in Clarke's bible notes](https://www.reddit.com/r/exmormon/comments/7z6jg3/the_idea_that_jesus_sweated_drops_of_blood_out_of/)
 1. [The Glory of America](https://wallbuilders.com/sermon-century-1801/) 1801 sermon by Rev. Timothy Alden Jr delivered in New Hampshire (discussion [here](https://www.reddit.com/r/exmormon/comments/cyepfk/do_joseph_smiths_revelations_and_preaching_mimic/))
@@ -42,5 +42,5 @@ The following sources *also* seem reminiscent of the Book of Mormon in some way(
 1. [Other protestant material in the Book of Mormon](https://www.reddit.com/r/mormon/comments/3uvrl5/nineteenthcentury_protestant_material_in_the_book/)
 1. [19th Century Protestant Phrases in Book of Mormon](http://www.churchistrue.com/blog/19th-century-protestant-phrases-in-book-of-mormon/)
 1. [Possible sources of plagiarism for Joseph Smith](https://exploringmormonism.com/possible-sources-for-plagiarism-for-joseph-smith/)
-1. {{ link(text="Original Stories of the Book of Mormon", path="/documents/book_of_mormon/original_stories_of_the_book_of_mormon/Original_Stories_of_the_Book_of_Mormon.pdf") }}
+1. [Original Stories of the Book of Mormon](/documents/book_of_mormon/original_stories_of_the_book_of_mormon/Original_Stories_of_the_Book_of_Mormon.pdf)
 1. [Motif criticism-anachronist theology](https://mormonmemo.com/key-topics/the-book-of-mormon/#motif)

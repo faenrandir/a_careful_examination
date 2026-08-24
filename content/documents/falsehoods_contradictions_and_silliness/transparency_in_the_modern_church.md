@@ -31,7 +31,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **~1930s--1963**&nbsp; Knowledge of the 1832 First Vision account suppressed
 
-    The 1832 First Vision account appears to have been {{ link(text="suppressed between 11 and ~30 years", path="/1832-first-vision-account-suppressed/") }}.
+    The 1832 First Vision account appears to have been [suppressed between 11 and ~30 years](/1832-first-vision-account-suppressed/).
 
 * **1966**&nbsp; The Tanners first to publish copies of the Kirtland Egyptian Papers
 
@@ -39,7 +39,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **~1970-1993**&nbsp; Arrington describes efforts to prevent 'real' history from being published
 
-    In journals and diary entries, Leonard Arrington---first professional historian appointed as Church Historian---documented {{ link(text="suppressive attitudes and actions", path="/leonard-arrington-and-real-history/") }}: 
+    In journals and diary entries, Leonard Arrington---first professional historian appointed as Church Historian---documented [suppressive attitudes and actions](/leonard-arrington-and-real-history/): 
 
     * records "dissappear[ing] from scrutiny"
     * "we are not required to tell the whole truth"
@@ -49,7 +49,7 @@ The following examples demonstrate or indicate some level of transparency failur
     
 * **~1973**&nbsp; Publication of Lester Bush's research on the Priesthood Ban discouraged
 
-    Lester Bush {{ link(text="has described the attitude of LDS leadership", path="/lester-bush-research-on-priesthood-ban-discouraged/") }} related to his research and publication of [Mormonism's Negro Doctrine](https://www.jstor.org/stable/45226775?seq=1#metadata_info_tab_contents):
+    Lester Bush [has described the attitude of LDS leadership](/lester-bush-research-on-priesthood-ban-discouraged/) related to his research and publication of [Mormonism's Negro Doctrine](https://www.jstor.org/stable/45226775?seq=1#metadata_info_tab_contents):
 
     * "the Church didn’t want every 'Tom, Dick, or Harry' looking through its records" [or even those with temple recommends]
     * The vast collection of Manuscript History was off limits to Bush
@@ -61,11 +61,11 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **1978**&nbsp; LeGrand Richards denied the existence of the seerstone
 
-    Elder Richards denies the existence of the seerstone {{ link(text="in an interview", path="/legrand-richards-denied-existence-of-seerstone/") }}.
+    Elder Richards denies the existence of the seerstone [in an interview](/legrand-richards-denied-existence-of-seerstone/).
 
 * **1981**&nbsp; Bruce R. McConkie misleads about teaching of the Adam God theory
 
-    Elder McConkie appears to have {{ link(text="misled on the teaching of the Adam God theory", path="/bruce-r-mcconkie-misled-on-adam-god/") }}.  Also, consider Boyd Kirkland's allegations in that same link demonstrating general suppression by LDS leadership of the idea that Adam-God was taught by Brigham Young.
+    Elder McConkie appears to have [misled on the teaching of the Adam God theory](/bruce-r-mcconkie-misled-on-adam-god/).  Also, consider Boyd Kirkland's allegations in that same link demonstrating general suppression by LDS leadership of the idea that Adam-God was taught by Brigham Young.
 
 * **1984**&nbsp; Speaking bans to limit the influence of "Mormon Enigma"
 
@@ -75,7 +75,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **~1985**&nbsp; Attempted suppression of publication of Roberts's Studies of the Book of Mormon
 
-    When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see {{ link(text="footnote #11", path="/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress") }}).
+    When B. H. Roberts's descendants tried to get his Book of Mormon scholarship published decades after his death, it is alleged by one of the contributors to the volume, Sterling McMurrin, that the Church tried to suppress its publication (see [footnote #11](/response-to-callister-bom-manmade-or-godgiven/#fn:mcmurrinsuppress)).
 
 * **1993**&nbsp; Lavina Fielding Anderson is excommunicated for documenting LDS intellectual suppression
 
@@ -92,7 +92,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **2001, 2003**&nbsp; Church manuals leave out difficult polygamy details
 
-    The D&C and Church History manuals include {{ link(text="very limited coverage of Joseph Smith's polygamy", path="/extent-joseph-smiths-polygamy-taught-institute-manuals/") }}.  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
+    The D&C and Church History manuals include [very limited coverage of Joseph Smith's polygamy](/extent-joseph-smiths-polygamy-taught-institute-manuals/).  For instance, there is no mention of Fanny Alger and no mention that many of those Joseph had sealed to him were already married to other men.
 
 * **2008**&nbsp; Church compels handbook removal from Wikimedia site
 
@@ -104,7 +104,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
     > acknowledged that an "internal team" at LDS headquarters was already working on "position papers" to address concerns raised in the survey [Dehlin and Stratford's initial survey]. But he opined that the team did not have the "political capital" to get the papers published.  To this end, he invited Stratford to Salt Lake City to present his work to other church authorities hoping that senior leaders would see the urgent need to release the "position papers" when they were completed.
 
-    Stratford's {{ link(text="Faith Crisis Report", path="/2013-faith-crisis-study/") }} and presentation was described as playing a "significant role" in getting the Gospel Topics Essays released publicly:
+    Stratford's [Faith Crisis Report](/2013-faith-crisis-study/) and presentation was described as playing a "significant role" in getting the Gospel Topics Essays released publicly:
 
     > Several general authorities communicated to Stratford that his work had pushed the "position papers" forward.[27]
 
@@ -117,11 +117,11 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **2012**&nbsp; Lorenzo Snow manual ellipsis on tithing
 
-    The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of {{ link(text="Snow's statement on tithing", path="/ellipsis-in-lorenzo-snow-tithing-statement/") }}.
+    The ellipsis used in the Lorenzo Snow manual (published at the end of 2012 and used during the 2013 Sunday School year) altered at least some of the meaning of [Snow's statement on tithing](/ellipsis-in-lorenzo-snow-tithing-statement/).
 
 * **2012**&nbsp; Denial of access to Joseph Fielding Smith's diaries
 
-    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 First Vision account, {{ link(text="he was denied access", path="/1832-first-vision-account-suppressed/#why-not-an-earlier-dating") }}.
+    When Stan Larson asked for access to Joseph Fielding Smith's diaries to better understand the context and motivation for handling and suppression of the 1832 First Vision account, [he was denied access](/1832-first-vision-account-suppressed/#why-not-an-earlier-dating).
 
 * **2012**&nbsp; Wickman portrays prop 8 efforts in California as primarily a grassroots effort
 
@@ -154,11 +154,11 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **2018**&nbsp; Anderson states "we are not a wealthy people"
 
-    Elder Anderson may have misled Zimbabwe's prime minister {{ link(text="regarding the wealth of the Church", path="/we-are-not-a-wealthy-people/") }}.
+    Elder Anderson may have misled Zimbabwe's prime minister [regarding the wealth of the Church](/we-are-not-a-wealthy-people/).
 
 * **2018**&nbsp; obfuscation of living allowances
 
-    {{ link(text="An analysis", path="/how-transparent-was-lds-church-with-living-allowances/") }} of the transparency of the Church regarding living allowances suggests some lack of transparency.  For example, the Church newsroom appears to have obfuscated living allowances in {{ link(text="this section", path="/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation") }}.
+    [An analysis](/how-transparent-was-lds-church-with-living-allowances/) of the transparency of the Church regarding living allowances suggests some lack of transparency.  For example, the Church newsroom appears to have obfuscated living allowances in [this section](/how-transparent-was-lds-church-with-living-allowances/#lds-newsroom-obfuscation).
 
 * **2013--2020**&nbsp; misleading footnotes in Gospel Topics essays and Come Follow Me Manual
 
@@ -192,7 +192,7 @@ The following examples demonstrate or indicate some level of transparency failur
 
 * **present**&nbsp; Papers of leaders donated decades ago, under stipulation that they be open, are still closed
 
-    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ({{ link(text="transcript", path="/matt-harris-transcript-on-lds-transparency/") }}), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984. Kimball's journals were [finally released in 2023](https://religionnews.com/2023/02/17/spencer-w-kimball-diaries-shine-a-light-behind-the-scenes-of-modern-mormonism/), but the Henry Moyle papers are still not available today.
+    According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin ([transcript](/matt-harris-transcript-on-lds-transparency/)), the Spencer W. Kimball papers and Henry W.  Moyle's papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle's papers were donated under stipulation that they be open for access by 1984. Kimball's journals were [finally released in 2023](https://religionnews.com/2023/02/17/spencer-w-kimball-diaries-shine-a-light-behind-the-scenes-of-modern-mormonism/), but the Henry Moyle papers are still not available today.
 
 ## Discussion
 
@@ -221,7 +221,7 @@ Should we label these instances "hiding"?  *Hiding* tends to imply a particular 
 7. A desire to follow the various scriptural admonitions to be cautious in sharing sacred material
 8. A desire to wait until such time as a source can be properly understood and disseminated
 
-A few accounts in the timeline above capture the motivation of leadership, and several of the possible motivations enumerated were represented.  For instance, historian [Linda Newell noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf) that Elder Oaks "admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason" and that "despite his ... reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to 'protect what is most unique about the LDS church' and [limit detrimental influence on] the reputation of Joseph Smith."  Further, when leaders argued against sharing damaging information, it was coupled with an {{ link(text="insistence on a kind of truthfulness", path="/leonard-arrington-and-real-history/") }}: "We are required to tell the truth but we are not required to tell the whole truth."
+A few accounts in the timeline above capture the motivation of leadership, and several of the possible motivations enumerated were represented.  For instance, historian [Linda Newell noted](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf) that Elder Oaks "admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason" and that "despite his ... reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to 'protect what is most unique about the LDS church' and [limit detrimental influence on] the reputation of Joseph Smith."  Further, when leaders argued against sharing damaging information, it was coupled with an [insistence on a kind of truthfulness](/leonard-arrington-and-real-history/): "We are required to tell the truth but we are not required to tell the whole truth."
 
 And, in general, leaders who seem to have been least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.[^sacrificing_transparency]
 
@@ -235,7 +235,7 @@ What responsibility does an organization have for making accessible or publicizi
 
 Other remaining questions include: 
 
-* Should {{ link(text="institutions apologize", path="/the-church-does-not-apologize/") }} for times they were not fully transparent?  Should the Church?
+* Should [institutions apologize](/the-church-does-not-apologize/) for times they were not fully transparent?  Should the Church?
 * If these are the instances we are aware of today, how many instances have still not been brought to light?  If needed, can the Church "fully repent" (or make amends) as an institution without a full accounting?
 * Can we say that the Church is fully transparent today?  How would we know if that were the case?
 * Are the cultural forces that hindered transparency in the past still active in the Church today?
@@ -255,7 +255,7 @@ The author received valuable feedback on a first draft of this document from the
 
 [^sacrificing_transparency]: Leaders and institutions tend to sacrifice transparency in proportion to perceived existential threats.  It is well established in the social science literature that perceived existential threats modulate hawkish or dovish stances (but sometimes [in nuanced ways](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01877/full)).  It seems self-evident that hawkish stances tend to promote less information sharing (transparency) than dovish stances.  For instance, in wartime generals do not broadcast their army's weaknesses to the opposition but in peacetime an organization may be more inclined to be transparent about its weaknesses with the hope that others will use that information for everyone's benefit and in the process improve rather than seek to destroy the institution.
 
-    The LDS Church also has some {{ link(text="innate totalistic tendencies", path="/three-fold-nature-lds-church-corporate-totalistic-individual-growth/") }}.  For instance, totalistic groups tend to polarize individuals into in/out-groups (consider {{ link(text="how those who leave are characterized", path="/how-those-who-leave-are-viewed/") }}), often perceive opposition as [emanating from Satan](https://www.youtube.com/watch?v=e4mH-2W5nbg), and have a strong sense of devotion to a sacred and all-imporant cause.  All of these would seem to diminish an emphasis on transparency, especially if transparency would increase perception of potential weaknesses.
+    The LDS Church also has some [innate totalistic tendencies](/three-fold-nature-lds-church-corporate-totalistic-individual-growth/).  For instance, totalistic groups tend to polarize individuals into in/out-groups (consider [how those who leave are characterized](/how-those-who-leave-are-viewed/)), often perceive opposition as [emanating from Satan](https://www.youtube.com/watch?v=e4mH-2W5nbg), and have a strong sense of devotion to a sacred and all-imporant cause.  All of these would seem to diminish an emphasis on transparency, especially if transparency would increase perception of potential weaknesses.
 
 [^candidates]:  Some of the examples seem better supported or more clear cut than others.  In addition, it is not always clear if leaders were acting to deliberately deceive or whether they themselves were working from incomplete or mistaken models of the translation process.  Regardless, it seems clear that the Church as a whole has struggled to be consistent and accurate in how it has dealt with the seer stone in at least a few instances among the candidates mentioned.
 
@@ -269,9 +269,9 @@ The author received valuable feedback on a first draft of this document from the
 
 [^dishonesty]: Intentional dishonesty can be difficult to demonstrate in the historical record. To demonstrate it, a person typically needs to establish who knew what and when, and even then a case to establish motivation may merely be suggestive.
 
-[^self_determination]: Transparency allows individuals to make choices for their lives with all the relevant data in hand.  For instance, in the late 1830s and 1840s thousands of recent LDS converts left their homes to immigrate to the U.S., but they did so under the assumption that the group was not practicing polygamy (based on {{ link(text="copious denials of the practice", path="/joseph-smith-polygamy-denials/") }}).  Arguably, many would not have made the journey had they known the early Saints were engaging in non-traditional marriage arrangements.
+[^self_determination]: Transparency allows individuals to make choices for their lives with all the relevant data in hand.  For instance, in the late 1830s and 1840s thousands of recent LDS converts left their homes to immigrate to the U.S., but they did so under the assumption that the group was not practicing polygamy (based on [copious denials of the practice](/joseph-smith-polygamy-denials/)).  Arguably, many would not have made the journey had they known the early Saints were engaging in non-traditional marriage arrangements.
 
-[^betrayal]: Accounts of LDS faith crises were accumulated during {{ link(text="a 2011 study and later follow-up", path="/2013-faith-crisis-study/") }}.  A significant number of these suggest a feeling of betrayal for how the Church handled transparency.  {{ link(text="For example", path="/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf") }}:
+[^betrayal]: Accounts of LDS faith crises were accumulated during [a 2011 study and later follow-up](/2013-faith-crisis-study/).  A significant number of these suggest a feeling of betrayal for how the Church handled transparency.  [For example](/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf):
 
     > (pg 84) It is painful enough to find out you have been lied to. But to discover that you have been used to propagate that lie unknowingly is the ultimate betrayal. And this, coming from a church who has the nerve to ask me if I am an honest in my dealings with my fellow men in order to enter into the temple.
 

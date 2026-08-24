@@ -29,12 +29,12 @@ updated = "2023-08-01"
 
 ### Hauglid and Jensen
 
-* {{ link(text="Brian Hauglid argues against missing papyri theory", path="/hauglid-against-missing-papyri-theory/") }} (see also [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/))
+* [Brian Hauglid argues against missing papyri theory](/hauglid-against-missing-papyri-theory/) (see also [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/))
 * [Maxwell Institute lecture: Brian Hauglid and Robin Jensen, “A Window into Joseph Smith's Translation”](https://www.youtube.com/watch?v=tznpRR0Fos8)
 
 ### Olishem
 
-* {{ link(text="Analysis of Olishem as evidence for the antiquity of the Book of Abraham", path="/olishem-as-evidence-for-boa/") }}
+* [Analysis of Olishem as evidence for the antiquity of the Book of Abraham](/olishem-as-evidence-for-boa/)
 
 # LDS apologetic
 

@@ -8,7 +8,7 @@ updated = "2026-04-04"
 +++
 ### Introduction
 
-Richard Bushman, well-known Mormon historian, {{ link(text="stated", path="/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/") }}:[^bushman]
+Richard Bushman, well-known Mormon historian, [stated](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):[^bushman]
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
@@ -29,9 +29,9 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 1. Similarities with Jonathan Edwards Sr/Jr sermons
     * [short table](https://imgur.com/a/q2AcO)
     * [intertextuality](https://www.mobom.org/jonathan-edwards) (Jonathan Neville, author of Infinite Goodness)
-1. {{ link(text="Moroni quotes sections of Mark that are of dubious origin", path="/moroni-quotes-sections-of-mark-dubious-origin/") }} (bwv549)
+1. [Moroni quotes sections of Mark that are of dubious origin](/moroni-quotes-sections-of-mark-dubious-origin/) (bwv549)
 1. [The Book of Ether and A Key to the Chronology of the Hindus](https://atoponce.keybase.pub/Book%20of%20Mormon%20Sources%20Project_%20Jaredites.pdf) (Keri Toponce)
-1. {{ link(text="650 phrases from the New Testament in the BoM", path="/nt-in-bom-lhales-interview-frederick/") }} (BYU Professor Nick Frederick)
+1. [650 phrases from the New Testament in the BoM](/nt-in-bom-lhales-interview-frederick/) (BYU Professor Nick Frederick)
 1. [Creation of the Book of Mormon](http://www.mormonorigins.com/HowTheBookOfMormonWasCreated.html) (mormonorigins.com)
 
 ### Extensive compilations or analyses
@@ -48,7 +48,7 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
     * [Malachi in the Book of Mormon](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V51N02_14.pdf) (Dialogue 2018)
     * [Rewriting Eden with the Book of Mormon](https://digitalcommons.usu.edu/etd/7681/) (MA Thesis)
     * [“The Robe of Righteousness”: Exilic and Post-Exilic Isaiah in The Book of Mormon](https://www.dialoguejournal.com/articles/the-robe-of-righteousness-exilic-and-post-exilic-isaiah-in-the-book-of-mormon/) (Dialogue)
-    * {{ link(text="Early Nineteenth-Century Biblical Scholarship and the Production of _The Book of Mormon_", path="/townsend-js-using-clarke-in-bom-2025/") }} (resource page on the publication)
+    * [Early Nineteenth-Century Biblical Scholarship and the Production of _The Book of Mormon_](/townsend-js-using-clarke-in-bom-2025/) (resource page on the publication)
 
 1. [The Book of Mormon: Likely Sources](http://www.bomsource.com/Symbols%20and%20Explanations%20-%20TBOMLS/) (Dan Wees)
 1. [The Book of Mormon: A Voice from 19th Century Dust](http://www.exmormonfoundation.org/files/BookofMormon07.PDF) (Ray Anderson)
@@ -60,11 +60,11 @@ In many ways, at least, the theological debates, doctrines, and themes advanced 
 
 ### See also
 
-* {{ link(text="Alex Douglas 'Afterword: The Old Testament and the Book of Mormon", path="/alex-douglas-afterword-ot-and-bom/") }}
-* {{ link(text="Other pre-1830 sources reminiscent of the Book of Mormon", path="/other-pre-1830-sources-reminiscent-of-bom/") }}
-* {{ link(text="How could Joseph Smith have composed the Book of Mormon?", path="/how-could-joseph-smith-composed-bom/") }}
-* {{ link(text="Recent LDS Scholar observations favoring a modern origin for the Book of Mormon", path="/lds-scholars-modern-origin-evidence/") }}
+* [Alex Douglas 'Afterword: The Old Testament and the Book of Mormon](/alex-douglas-afterword-ot-and-bom/)
+* [Other pre-1830 sources reminiscent of the Book of Mormon](/other-pre-1830-sources-reminiscent-of-bom/)
+* [How could Joseph Smith have composed the Book of Mormon?](/how-could-joseph-smith-composed-bom/)
+* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon](/lds-scholars-modern-origin-evidence/)
 
-[^bushman]: Richard Bushman frequently implies that he believes the Book of Mormon to possess an ancient core, so these statements of his should be understood in that context, as I discuss with more nuance in the introduction {{ link(text="here", path="/lds-scholars-modern-origin-evidence/") }}.
+[^bushman]: Richard Bushman frequently implies that he believes the Book of Mormon to possess an ancient core, so these statements of his should be understood in that context, as I discuss with more nuance in the introduction [here](/lds-scholars-modern-origin-evidence/).
 
-[^ostler]:  Blake Ostler frequently defends the Book of Mormon as an ancient record, so his statement should be understood within that context. I discuss the tension between what an LDS scholar might concede and what they might believe about the modern and ancient influences on the Book of Mormon with more nuance in the introduction {{ link(text="here", path="/lds-scholars-modern-origin-evidence/") }}.
+[^ostler]:  Blake Ostler frequently defends the Book of Mormon as an ancient record, so his statement should be understood within that context. I discuss the tension between what an LDS scholar might concede and what they might believe about the modern and ancient influences on the Book of Mormon with more nuance in the introduction [here](/lds-scholars-modern-origin-evidence/).

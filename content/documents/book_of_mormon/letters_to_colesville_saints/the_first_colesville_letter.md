@@ -63,7 +63,7 @@ In [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10
 
 ## See Also
 
-{{ link(text="The Second Colesville Letter: Transcript and Biblical allusions", path="/the-second-colesville-letter-transcript-and-allusions/") }}
+[The Second Colesville Letter: Transcript and Biblical allusions](/the-second-colesville-letter-transcript-and-allusions/)
 
 
 [^editing_transcript]: Citations and most page references have been removed.  Two copyediting marks were removed for readability.

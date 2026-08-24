@@ -5,7 +5,7 @@ extra = {doctype = "notes"}
 updated = "2018-11-06"
 
 +++
-*Note: As it stands right now, this is the draft I wrote before my resignation.  I have received additional feedback from my family on this document (which needs to be incorporated), and I also realize now that part of achieving understanding between affected parties is understanding what generates a rift **for some family members and not others** in the first place.  {{ link(text="The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth", path="/three-fold-nature-lds-church-corporate-totalistic-individual-growth/") }} and {{ link(text="To peek behind the curtain: weighing the decision to investigate LDS truth-claims", path="/to-peek-behind-the-curtain/") }} begin to get at the underlying issues.  In some ways, then, this document is a very superficial (and naive?) treatment of this topic.*
+*Note: As it stands right now, this is the draft I wrote before my resignation.  I have received additional feedback from my family on this document (which needs to be incorporated), and I also realize now that part of achieving understanding between affected parties is understanding what generates a rift **for some family members and not others** in the first place.  [The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth](/three-fold-nature-lds-church-corporate-totalistic-individual-growth/) and [To peek behind the curtain: weighing the decision to investigate LDS truth-claims](/to-peek-behind-the-curtain/) begin to get at the underlying issues.  In some ways, then, this document is a very superficial (and naive?) treatment of this topic.*
 
 In order to build strong relationships in a mixed faith family, the following principles are paramount:
 

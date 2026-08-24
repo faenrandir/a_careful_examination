@@ -9,7 +9,7 @@ updated = "2023-09-22"
 
 One of the arguments that seems consistently repeated (e.g., Hales and Callister) is the idea that Joseph could not have been consulting other documents (e.g., the Bible). [cite specific examples]
 
-The section that contains, by far, the largest block quoting of the Bible was produced {{ link(text="during a time when observation by others would have been much more difficult", path="/first-part-bom-upstairs-peter-whitmer-home/") }}. This leaves open the possibility that their statements reflected their observations consistent with parts of the translation process, but Joseph may have consulted the Bible explicitly during the translation later on (e.g., resulting in the "Isaiah chapters").
+The section that contains, by far, the largest block quoting of the Bible was produced [during a time when observation by others would have been much more difficult](/first-part-bom-upstairs-peter-whitmer-home/). This leaves open the possibility that their statements reflected their observations consistent with parts of the translation process, but Joseph may have consulted the Bible explicitly during the translation later on (e.g., resulting in the "Isaiah chapters").
 
 Whitmer's statement is more explicit with "or other means of knowledge", but Emma's could be read as referring to other material _besides_ a Bible? In both instances, it seems that they may have been referring only to the Harmony era---translation at the Whitmer home would have afforded JS and OC more privacy.
 

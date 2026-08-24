@@ -25,9 +25,9 @@ The restrictive adverb cannot be seen to legitimately modify/restrict the meanin
 
 The straightforward meaning of the 1835 statement is also corrobarated by the manner in which LDS officials used the 1835 statement.
 
-{{ link(text="Martha Brotherton's affidavit", path="/martha-brotherton-affidavit/") }} is an example of one of the claims made by Bennett.  In it Martha describes a polygamous marriage proposal to her from Brigham Young and endorsed by Joseph Smith.  It explicitly involved Martha becoming a second wife to Brigham Young.  Also, please note that the wives of Joseph Smith referred to their unions {{ link(text="in precisely the same manner", path="/how-did-js-wives-refer-to-unions/") }} as Brotherton.
+[Martha Brotherton's affidavit](/martha-brotherton-affidavit/) is an example of one of the claims made by Bennett.  In it Martha describes a polygamous marriage proposal to her from Brigham Young and endorsed by Joseph Smith.  It explicitly involved Martha becoming a second wife to Brigham Young.  Also, please note that the wives of Joseph Smith referred to their unions [in precisely the same manner](/how-did-js-wives-refer-to-unions/) as Brotherton.
 
-Both the {{ link(text="September 1, 1842", path="/times-and-seasons-sep-1842-notice/") }} and {{ link(text="October 1, 1842", path="/on-marriage-1842-times-and-seasons/") }} Times and Seasons articles are addressing these _kinds_ of claims, and both use the 1835 D&C statement to _mean_ that they were not taking more than one wife.
+Both the [September 1, 1842](/times-and-seasons-sep-1842-notice/) and [October 1, 1842](/on-marriage-1842-times-and-seasons/) Times and Seasons articles are addressing these _kinds_ of claims, and both use the 1835 D&C statement to _mean_ that they were not taking more than one wife.
 
 And, lest we believe that the 1835 statement was only meant to apply to accusations of "spiritual wifery" given the proximity in time to Bennett's accusations, John Taylor published an 1850 pamphlet in France which defended the Saints against the broad accusation of "polygamy" [by again referring to the 1835 statement on marriage](http://olivercowdery.com/texts/1850Tayl.htm#pg08b).  Hence, in a context divorced in space and time from Bennett, the 1835 statement was still used to _mean_ that the Saints were not practicing polygamy.
 

@@ -9,7 +9,7 @@ Three Nights' Public Discussion between the Revds. C.W. Cleeve, James Robertson,
 
 * The [Pamphlet at BYU Digital Collections](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/18011)
 * [Complete transcription](http://www.olivercowdery.com/texts/1850Tayl.htm) at Oliver's Bookshelf
-* {{ link(text="pg 8 (standalone PDF)", path="/documents/polygamy/denials/originals/1850-Three-Nights-Public-Discussion-JohnTaylor-pg8-from-OrsonPratt-A-Series-Of-Pamphlets.pdf") }}
+* [pg 8 (standalone PDF)](/documents/polygamy/denials/originals/1850-Three-Nights-Public-Discussion-JohnTaylor-pg8-from-OrsonPratt-A-Series-Of-Pamphlets.pdf)
 
 According to the D. Michael Quinn article "LDS Church Authority and New Plural Marriages, 1890-1904" in [Dialogue, vol 18, no. 1, Spring 1985](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V18N01.pdf), "By this date in 1850, John Taylor had married twelve polygamous wives who had already borne him eight children.[63]"
 

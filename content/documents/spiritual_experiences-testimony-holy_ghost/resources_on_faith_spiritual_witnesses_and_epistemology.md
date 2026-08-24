@@ -16,21 +16,21 @@ updated = "2026-04-04"
 
 ## Analyses, interpretations, or questions
 
-1. {{ link(text="Testimony, spiritual experiences, and truth: A careful examination", path="/testimony-spiritual-experiences-truth/") }} (analysis)
+1. [Testimony, spiritual experiences, and truth: A careful examination](/testimony-spiritual-experiences-truth/) (analysis)
 1. [Testimony / Feeling the Spirit](https://www.mormonstories.org/truth-claims/mormon-culture/testimony-feeling-the-spirit/) (Mormon Stories resource page)
-1. {{ link(text="Questions to Ask: section on Spiritual Confirmation and Priesthood Guidance", path="/questions-to-ask/#spiritual-confirmation-and-priesthood-guidance") }}
-1. {{ link(text="The parts of an LDS spiritual experience", path="/parts-of-an-lds-spiritual-experience/") }} (short analysis)
-1. {{ link(text="Hermetically Sealed Systems in LDS Thought", path="/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf") }} (pdf)
-1. {{ link(text="A Different Way of Knowing': The uses of irrationality ... and its limitations", path="/different-way-of-knowing-uses-limitations-irrationality/") }} (Greta Christina essay)
+1. [Questions to Ask: section on Spiritual Confirmation and Priesthood Guidance](/questions-to-ask/#spiritual-confirmation-and-priesthood-guidance)
+1. [The parts of an LDS spiritual experience](/parts-of-an-lds-spiritual-experience/) (short analysis)
+1. [Hermetically Sealed Systems in LDS Thought](/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf) (pdf)
+1. [A Different Way of Knowing': The uses of irrationality ... and its limitations](/different-way-of-knowing-uses-limitations-irrationality/) (Greta Christina essay)
 1. [How do you know?](https://sapiencuriosus.wordpress.com/2018/03/29/how-do-you-know/)
 1. [Comment on "salt"](https://www.reddit.com/r/exmormon/comments/1rj0l1/in_case_you_ever_sit_by_boyd_k_packer_on_a_plane/cdnvt29/) (reddit post)
 1. [On epistemology from DebateAnAtheist](https://www.reddit.com/r/DebateAnAtheist/comments/9caiv8/on_epistemology/) (reddit post)
 1. [Another circularity](https://www.reddit.com/r/exmormon/comments/9eq1ym/seminary_circular_reasoning/) (reddit post)
-1. {{ link(text="5 Questions about spiritual experiences and real intent", path="/5-questions-about-spiritual-experiences-and-real-intent/") }}
+1. [5 Questions about spiritual experiences and real intent](/5-questions-about-spiritual-experiences-and-real-intent/)
 1. [Appeals to Personal Experience](https://www.youtube.com/watch?v=4rOvxshInuc) (Matt Dillahunty lecture)
 1. [Dealing with "Inner Witness" claims](https://www.youtube.com/watch?v=D-Xa4WBzBwc) (Matt Dillahunty)
 1. [Counter apologetics: CA42 Argument From Personal Experience](http://counterapologetics.blubrry.net/2018/11/17/ca42-argument-from-personal-experience/) (podcast)
-1. {{ link(text="Faith vs. religious faith", path="/faith-vs-religious-faith/") }}
+1. [Faith vs. religious faith](/faith-vs-religious-faith/)
 1. [What are the goods of "elective faith"](https://www.reddit.com/r/mormon/comments/81bn53/what_are_the_goods_of_elective_faith_serious/) (reddit post)
 1. [The Triple Path](http://triplepath.org) (especially chapter 5)
 1. [MormonThink - Testimony & Spiritual Witnesses](http://www.mormonthink.com/testimonyweb.htm)

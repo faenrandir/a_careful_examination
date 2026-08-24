@@ -74,7 +74,7 @@ In [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10
 
 ## See Also
 
-{{ link(text="The First Colesville Letter: Transcript and Biblical allusions", path="/the-first-colesville-letter-transcript-and-allusions/") }}
+[The First Colesville Letter: Transcript and Biblical allusions](/the-first-colesville-letter-transcript-and-allusions/)
 
 
 [^editing_transcript]: Citations and page references have been removed. Strikethroughs were removed.

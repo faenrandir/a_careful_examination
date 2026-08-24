@@ -37,8 +37,8 @@ letter, Frederick noted:
 
 ### See also
 
-* {{ link(text="Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/") }}.
-* {{ link(text="Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon", path="/reasons-to-discount-emmas-bom-testimony/") }}
+* [Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?](/joseph-smith-capable-of-authoring-the-book-of-mormon/).
+* [Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon](/reasons-to-discount-emmas-bom-testimony/)
 
 
 [^authorship]: Frederick treats Joseph Smith as author of the letters in his analysis, even though he also discusses complications with that assessment.  The links above contain complete notes discussing attribution.

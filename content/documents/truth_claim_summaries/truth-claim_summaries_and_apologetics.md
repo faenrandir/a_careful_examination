@@ -9,7 +9,7 @@ updated = "2026-04-29"
 
 ## Very short
 
-* {{ link(text="Five Key Facts", path="/five-key-facts/") }} (~ 1 page)
+* [Five Key Facts](/five-key-facts/) (~ 1 page)
 * [Just One Page](https://web.archive.org/web/20181119205038/https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf)
 * [50 Problems with the Mormon Church](https://www.youtube.com/watch?v=qcQthyiTA7c) (10 minutes) \| [50 more problems](https://www.youtube.com/watch?v=1Bu7yZsvh1Y) (~37 minutes, more moral issues)
 
@@ -34,7 +34,7 @@ updated = "2026-04-29"
 ## Other
 
 * [Mormonism with the Murph](https://www.youtube.com/@mormonismwiththemurph/videos) (believing member podcast that examines both sides)
-* {{ link(text="Questions to Ask", path="/questions-to-ask/") }}
+* [Questions to Ask](/questions-to-ask/)
 * [The Mormon Paradox: A List of Inconsistencies That Challenge Faith](https://mormondiscussionpodcast.org/the-mormon-paradox/) (Bill Reel crowd-sourced from [here](https://www.reddit.com/r/exmormon/comments/e6lgt6/bill_reel_here_trying_to_create_a_cumulative_list/))
 * [Brother Jake Videos](https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ) (more light-hearted but summaries)
 
@@ -74,7 +74,7 @@ updated = "2026-04-29"
     * [Runnells' response](https://cesletter.org/debunkings/jim-bennett-ces-letter-reply-canonizer-stallion-cornell/)
     * [A pointed response to Jim Bennett](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) (by bwv549)
         * [CES Reply: A Pointed Response to a Pointed Response](https://canonizer.com/blog/ces-reply-a-pointed-response-to-a-pointed-response/) (by Jim Bennett)
-1. {{ link(text="dice1899's CES Letter Rebuttal", path="/dice1899-sarah-allen-response-to-ces-letter/") }} (Sarah Allen)
+1. [dice1899's CES Letter Rebuttal](/dice1899-sarah-allen-response-to-ces-letter/) (Sarah Allen)
     * [Runnells' response](https://cesletter.org/debunkings/the-ces-letter-rebuttal-fair-fairmormon-sarah-allen/)
     * ImTheMarmotKing responses
         * [KVJ Errors](https://www.reddit.com/r/mormon/comments/lld31r/ces_letter_response_kjv_errors/)
@@ -104,4 +104,4 @@ updated = "2026-04-29"
 
 ## See also
 
-{{ link(text="Resources related to the helps and harms of the LDS Church", path="/resources-related-to-helps-and-harms/") }}
+[Resources related to the helps and harms of the LDS Church](/resources-related-to-helps-and-harms/)

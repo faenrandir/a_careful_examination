@@ -75,7 +75,7 @@ According to John's gospel, Jesus said to Thomas, "Thomas, because thou hast see
 
 And in Mark 16:16 Jesus says "He who believes and is baptized will be saved; but he who does not believe will be condemned."
 
-I have not encountered a convincing argument or demonstration that belief without sufficient justification is a virtue, as I discuss {{ link(text="in this essay", path="/faith-vs-religious-faith/") }}.  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.
+I have not encountered a convincing argument or demonstration that belief without sufficient justification is a virtue, as I discuss [in this essay](/faith-vs-religious-faith/).  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.
 
 *Why would I teach my children that they must believe things on inadequate evidence under penalty of some kind of eternal torment (of one form or another, whether separation from family or God for eternity or misery inherent to the condition)?*
 
@@ -171,7 +171,7 @@ LDS leaders have taught [really disparaging things](https://faenrandir.github.io
 
 Religious belief is correlated with teenage pregnancy (see [this plot](https://www.reddit.com/r/exmormon/comments/6stywg/graph_of_teen_pregnancies_by_state_as_compared_to/)).  In addition, while an emphasis on total abstinence before marriage may be beneficial for some individuals and has some clear advantages (e.g., no risk of pregnancy or STDs), the all "off" and then all "on" nature of sexuality in this model seems detrimental to some individuals and relationships.
 
-Sexuality is {{ link(text="rife with moral concerns", path="/why-sex-linked-to-morality/") }}.  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
+Sexuality is [rife with moral concerns](/why-sex-linked-to-morality/).  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is [next to murder in severity](http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/), which again, may warp an individual's moral calculus.
 
 *Why would I want my children to be taught that sexual "sin" is "next to murder" instead of teaching and supporting them in how to navigate this difficult moral landscape with an emphasis on consequences that are proportional to genuine consequences?*
 
@@ -244,7 +244,7 @@ And speaking directly to an LDS audience, could I really teach my children a nua
 
 [^greater_depth]: Many books and articles have been written on the positive aspects of Christianity and/or attempting to weigh the good verses the bad of religion and religiosity in general, and I am only scratching the surface in this essay by listing a few examples. For a good overview, see chapter 6 of Benjamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.google.com/books/edition/Psychological_Perspectives_on_Religion_a/gPNTBAAAQBAJ?hl=en&gbpv=1).
 
-[^totalism_and_avoiding_introspection]: I explore totalism along with other influential mindsets in the LDS Church in {{ link(text="this essay", path="/three-fold-nature-lds-church-corporate-totalistic-individual-growth/") }}. 
+[^totalism_and_avoiding_introspection]: I explore totalism along with other influential mindsets in the LDS Church in [this essay](/three-fold-nature-lds-church-corporate-totalistic-individual-growth/). 
 
 [^second_coming_expected_in_lifetime_of_adherents]: Regardless of typical Christian anticipation for the second coming, the data suggest that the writers of the New Testament anticipated the second coming to occur within _their own_ lifetime.  For instance, here is Dan McClellan, Bible scholar and former scripture translation supervisor for the LDS Church, [discussing Luke 21:10-11](https://www.tiktok.com/@maklelan/video/7204470714240339243?lang=en), "the data indicate that these authors anticipated these things [cataclysms typically associated with the second coming] happening within their lifetimes in the first century CE And the same is true of the book of Revelation."
 

@@ -39,7 +39,7 @@ Dan Vogel [has noted](https://josephsmithspolygamy.org/hales-vogel-1-facebook-ex
 
 ## Zina Huntington
 
-John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day Saints, interviewed Zina Huntington Jacobs Smith Young at her home in Utah, October 1, 1898, and published it in the saints herald (see {{ link(text="complete transcript", path="/zina-huntington-interview-saints-herald/") }}).
+John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day Saints, interviewed Zina Huntington Jacobs Smith Young at her home in Utah, October 1, 1898, and published it in the saints herald (see [complete transcript](/zina-huntington-interview-saints-herald/)).
 
 > ... He married me. The Lord told him to take me and he did so.
 

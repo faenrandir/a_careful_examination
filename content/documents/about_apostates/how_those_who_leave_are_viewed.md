@@ -49,7 +49,7 @@ As suggested by the LDS scriptural canon, *Individuals who leave the LDS Church.
 
 ### are servants of sin and children of disobedience
 
-Most of those who leave the LDS Church over truth-claim issues are at least implying the possibility that Joseph Smith was being deceitful about his translation abilities (e.g., [with the Book of Abraham](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)) and that the manner in which he implemented polygamy is ethically problematic---for example, lying about polygamy publicly, performing duplicate ceremonies to hide first sealings from his wife, proposing to a seven month pregnant newlywed woman, and marrying a 14 year old who was reluctant to do so (see {{ link(text="five key facts for credible references", path="/five-key-facts/") }}).  Doctrine and Covenants 121 suggests these individuals are the "servants of sin" and "children of disobedience" themselves:
+Most of those who leave the LDS Church over truth-claim issues are at least implying the possibility that Joseph Smith was being deceitful about his translation abilities (e.g., [with the Book of Abraham](https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng)) and that the manner in which he implemented polygamy is ethically problematic---for example, lying about polygamy publicly, performing duplicate ceremonies to hide first sealings from his wife, proposing to a seven month pregnant newlywed woman, and marrying a 14 year old who was reluctant to do so (see [five key facts for credible references](/five-key-facts/)).  Doctrine and Covenants 121 suggests these individuals are the "servants of sin" and "children of disobedience" themselves:
 
 > 11 And they who do charge thee with transgression, their hope shall be blasted, and their prospects shall melt away as the hoar frost melteth before the burning rays of the rising sun;
 
@@ -706,4 +706,4 @@ Presendia Lathrop Huntington Buell Smith Kimball as quoted in [Four Zinas: A Sto
 ### Other resources
 
 * [25 Things NOT to Say to a Loved One Leaving the Church (& what to say instead)](https://bycommonconsent.com/2017/01/15/25-things-not-to-say-to-a-loved-one-leaving-the-church-what-to-say-instead/)
-* {{ link(text="How those who stay are viewed", path="/how-those-who-stay-are-viewed/") }}
+* [How those who stay are viewed](/how-those-who-stay-are-viewed/)

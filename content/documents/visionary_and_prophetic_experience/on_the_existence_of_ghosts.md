@@ -30,5 +30,5 @@ For these reasons, we can have some confidence that ghosts are not an objective 
 
 ### See also
 
-* {{ link(text="Vetting the visitors", path="/vetting-the-visitors/") }}
-* {{ link(text="Test for disembodied consciousness", path="/test-for-disembodied-consciousness/") }}
+* [Vetting the visitors](/vetting-the-visitors/)
+* [Test for disembodied consciousness](/test-for-disembodied-consciousness/)

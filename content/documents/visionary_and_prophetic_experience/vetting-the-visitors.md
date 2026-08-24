@@ -50,7 +50,7 @@ Our personal, subjective experience mediates our interaction with what seems to 
 **All** of our experience is ultimately mediated through subjective experience, but we tend to accept that the features having the hallmarks of objectivity are probably objective:
 
 <figure>
-  {{ img(path="/documents/visionary_and_prophetic_experience/media/subjective_to_objective-flat-white.png", alt="Classifying experience as objective or subjective", style="width:100%") }}
+  <img src="/documents/visionary_and_prophetic_experience/media/subjective_to_objective-flat-white.png" alt="Classifying experience as objective or subjective" style="width:100%">
   <figcaption><strong>Left:</strong>Each dot represents an experience in our life.  Every single experience we have is mediated subjectively, meaning that <em>we</em> ultimately experience each experience through our senses, feelings, and mental states as the subject.  To view it in the extreme, it is possible that our mind is in a vat somewhere and our senses are being artificially manipulated (a though experiment first proposed by Descarte), or, according to hard solipsism that our mind is the only thing that actually exists.  In any case, our experience as a mind demonstrates, at least to ourselves, our own existence (<em>Cogito, ergo sum</em>)<br/><br/><strong>Right:</strong>We interpret some experiences as objective which means we believe they are features of the world that exist independent of our own interpretation or observation of them.  We typically interpret experiences which possess high information content, orthogonality, transmissability, and reproducibility as possessing some objectivity while those ranking low in those features are normally interpreted as being completely or mostly subjective, such as most fantastical dreams.</figcaption>
 </figure>
 
@@ -102,9 +102,9 @@ There are some reasonable ways to test for objective existence and omniscience. 
 
 Does this being have an objective existence?
 
-* **Is it disembodied?**  Then validate with a {{ link(text="test for disembodied consciousness", path="/test-for-disembodied-consciousness/") }}.
-* **Can it communicate?**  Validate with {{ link(text="a high-information transmission test", path="/divine-visitor-identity-problem/#high-entropy-information-transmission") }}.
-* **Can others see it?**  Validate with a test of independent {{ link(text="visitor details", path="/divine-visitor-identity-problem/#copious-details") }}.
+* **Is it disembodied?**  Then validate with a [test for disembodied consciousness](/test-for-disembodied-consciousness/).
+* **Can it communicate?**  Validate with [a high-information transmission test](/divine-visitor-identity-problem/#high-entropy-information-transmission).
+* **Can others see it?**  Validate with a test of independent [visitor details](/divine-visitor-identity-problem/#copious-details).
 
 ### Test for potential omniscience
 
@@ -112,7 +112,7 @@ An omniscient entity can potentially guide us in innumerable ways towards paths 
 
 Is the entity omniscient or do they claim to be able to communicate with an omniscient being?  The only being capable of an *exhaustive* test of omniscience would be an omniscient being (and in that case it would be unnecessary), but we can test a minimum threshold.  In other words, we can propose a test that should eliminate 100% of standard human thought that is not associated with true omniscience.  Hence, the test is most useful for weeding out claimants rather than establishing complete omniscience *per se*.
 
-The {{ link(text="test for prophetic ability", path="/simple-test-for-prophetic-ability/") }} is geared towards interaction with a human that claims access one aspect of omniscience (the ability to see the future), but it could be adapted towards interaction with almost any divine visitor, disembodied or not.
+The [test for prophetic ability](/simple-test-for-prophetic-ability/) is geared towards interaction with a human that claims access one aspect of omniscience (the ability to see the future), but it could be adapted towards interaction with almost any divine visitor, disembodied or not.
 
 ### Test for omnibenevolence
 
@@ -128,7 +128,7 @@ Ultimately, trust in their benevolence might need to be earned just as it is in 
 
 ## Precedent and equivalencies
 
-See {{ link(text="Precedent in LDS history", path="/divine-visitor-identity-problem/#precedent-in-lds-history") }}
+See [Precedent in LDS history](/divine-visitor-identity-problem/#precedent-in-lds-history)
 
 Latter-day Saint leadership circumscribes divine communiction (do not seek revelation contrary, reject revelation that is not in harmony, do not seek and also discard revelation beyond one's stewardship.)
 

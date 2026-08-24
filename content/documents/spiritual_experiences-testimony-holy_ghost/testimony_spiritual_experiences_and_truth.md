@@ -282,7 +282,7 @@ Taken together, this analysis suggests that using spiritual feelings and an inte
 
 Although this examination suggests that we should apply due skepticism to spiritual experiences, it does not rule out the possibility that God speaks to us through our mind and heart.
 
-A believing Latter-day Saint may also take heart in the knowledge that their testimony is buttressed by a belief in external events, particularly miracles (e.g., Christ's resurrection) and personal visitations (several prophets and apostles, not to mention Church members, claim to have spoken with God or Christ face to face[^heavenlyvisitors])---members do not rely on the interpretation of personal spiritual experiences alone to confirm their faith (see, for instance, [Moroni 7:25](https://www.churchofjesuschrist.org/scriptures/bofm/moro/7.25) and this {{ link(text="list of LDS spiritual experiences", path="/types-of-lds-spiritual-experiences-uplift/") }}.
+A believing Latter-day Saint may also take heart in the knowledge that their testimony is buttressed by a belief in external events, particularly miracles (e.g., Christ's resurrection) and personal visitations (several prophets and apostles, not to mention Church members, claim to have spoken with God or Christ face to face[^heavenlyvisitors])---members do not rely on the interpretation of personal spiritual experiences alone to confirm their faith (see, for instance, [Moroni 7:25](https://www.churchofjesuschrist.org/scriptures/bofm/moro/7.25) and this [list of LDS spiritual experiences](/types-of-lds-spiritual-experiences-uplift/).
 
 Skepticism of spiritual experiences may be helpful for many believing Latter-day Saints---healthy skepticism of spiritual experiences can help members avoid scrupulously following every intrusive thought,[^intrusive_thoughts] be open to continuing revelation and direction,[^current_revelation_may_not_be_complete] and may help them to properly contextualize the spiritual experiences of others.  In addition, these principles may offer a person wrapped up in the next "spiritual" fad good reason to question the validity of underlying assumptions and truth-claims.
 
@@ -402,4 +402,4 @@ The reward for such investigation is likely worth the discomfort---the more accu
 
 # Additional reading
 
-See {{ link(text="Resources on faith, spiritual witnesses, and epistemology", path="/resources-on-faith-spiritual-witnesses-and-epistemology/") }} 
+See [Resources on faith, spiritual witnesses, and epistemology](/resources-on-faith-spiritual-witnesses-and-epistemology/) 

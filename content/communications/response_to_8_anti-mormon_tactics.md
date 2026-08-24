@@ -73,11 +73,11 @@ Regardless, Joseph Smith points to specific characters *on the facsimiles* and g
 
 > When someone tries to appeal to the authority or knowledge of man rely upon the testimony of the Deity!
 
-If you have had a sit-down with the creator of the universe, then by all means, take their word on things.  However, most of us rely on {{ link(text="very imprecise spiritual impressions", path="/testimony-spiritual-experiences-truth/") }}, and these spiritual impressions tend to confirm to us whatever position we already hold and want to believe.
+If you have had a sit-down with the creator of the universe, then by all means, take their word on things.  However, most of us rely on [very imprecise spiritual impressions](/testimony-spiritual-experiences-truth/), and these spiritual impressions tend to confirm to us whatever position we already hold and want to believe.
 
 For instance, [a recent poll](http://www.religioustolerance.org/god_pra6.htm) asked people to pray to ascertain God's will on the subject of gay marriage.  Of the 68% of the participants who believed that they were able to assess the will of God, every single person found that God agreed with their prior stance on same sex marriage—even though the stances were evenly divided and diametrically opposed among the collection of participants.
 
-Spiritual confirmation tends to track our familiarity and comfort with a given topic.  Consider, for instance, Marlin K. Jensen's frank discussion during the "Swedish Rescue" of {{ link(text="his daughter's experience with not feeling the Spirit in the temple", path="/testimony-spiritual-experiences-truth/#fn:jensendaughter") }}
+Spiritual confirmation tends to track our familiarity and comfort with a given topic.  Consider, for instance, Marlin K. Jensen's frank discussion during the "Swedish Rescue" of [his daughter's experience with not feeling the Spirit in the temple](/testimony-spiritual-experiences-truth/#fn:jensendaughter)
 
 Data like this call into question the reliability of the "pray-feel" method for determining objective truth (even if it is useful for personal reflection).
 
@@ -133,11 +133,11 @@ This appears to be a hasty generalization.  Why can't apostates be a trustworthy
 [^byexample]: For instance, [according to FairMormon](http://en.fairmormon.org/Mormonism_and_doctrine/Repudiated_concepts/Adam-God_theory) (on 2017-03-23), "Brigham claimed to have received these beliefs [doctrines related to Adam-God theory] by revelation, and, on at least three occasions, claimed that he learned it from Joseph Smith."  For those who reject the validity of the Adam-God theory, this seems like the kind of contradiction that may call into question the validity of the claim that Brigham is a genuine prophet of God.
 
 [^misleadingbyldsleaders]: LDS leaders have misled or told half-truths on at least several occasions:
-    * Joseph Smith, at least two of his wives, and several Church leaders misled others about polygamy {{ link(text="on multiple occasions", path="/joseph-smith-polygamy-denials/") }}.
+    * Joseph Smith, at least two of his wives, and several Church leaders misled others about polygamy [on multiple occasions](/joseph-smith-polygamy-denials/).
     * The 1890 Manifesto (aka [Declaration 1](https://www.churchofjesuschrist.org/scriptures/dc-testament/od/1)) states, "We are not teaching polygamy or plural marriage, nor permitting any person to enter into its practice ...", when in fact [plural marriages were being permitted and authorized by leaders](https://www.churchofjesuschrist.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=eng&old=true) and would be for another 14 years.
-    * {{ link(text="Bruce R. McConkie misled the public about the teaching of the Adam God theory", path="/bruce-r-mcconkie-misled-on-adam-god/") }}
+    * [Bruce R. McConkie misled the public about the teaching of the Adam God theory](/bruce-r-mcconkie-misled-on-adam-god/)
     * When asked questions about the temple and the Strengthening Church Members Committee, both [Jeffery R. Holland](https://www.youtube.com/watch?v=lX-S4Nu2qd8) and [Michael Purdy](https://www.youtube.com/watch?v=KgKVCyGf-Ak) attempted to mislead John Sweeney.
 
     Consider many other examples [here](https://proveallthingsholdfasttogood.wordpress.com/the-hiding-of-church-history/)
 
-[^testimony]: See {{ link(text="Testimony, Spiritual Experiences, and Truth: A Careful Examination", path="/testimony-spiritual-experiences-truth/") }} for my complete analysis of spiritual feelings.
+[^testimony]: See [Testimony, Spiritual Experiences, and Truth: A Careful Examination](/testimony-spiritual-experiences-truth/) for my complete analysis of spiritual feelings.

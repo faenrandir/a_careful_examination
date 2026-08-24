@@ -15,4 +15,4 @@ Smoot then quotes Joseph Smith from [D&C 128](https://www.churchofjesuschrist.or
 
 ## See also
 
-{{ link(text="Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages", path="/scholar-survey-kjv-translation-errors-in-bom-isaiah/") }}
+[Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages](/scholar-survey-kjv-translation-errors-in-bom-isaiah/)

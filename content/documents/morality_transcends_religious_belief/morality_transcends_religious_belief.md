@@ -41,7 +41,7 @@ Atheist philosophers regularly argue for moral realism (i.e., morals are real, a
 
 My own thoughts on morality:
 
-{{ link(text="Morality is an emergent principle", path="/morality-is-an-emergent-principle/") }}
+[Morality is an emergent principle](/morality-is-an-emergent-principle/)
 
 ### Conclusion
 

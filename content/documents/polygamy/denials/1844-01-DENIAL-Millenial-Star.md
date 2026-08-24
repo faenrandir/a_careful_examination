@@ -6,7 +6,7 @@ updated = "2019-01-10"
 
 +++
 * [January 1844 Millenial Star magazine (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4)
-* {{ link(text="The editorial section (standalone PDF)", path="/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf") }}:
+* [The editorial section (standalone PDF)](/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):
 
 (emphasis added)
 

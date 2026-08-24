@@ -17,7 +17,7 @@ Callister's devotional is quoted in full except for the omission of a few relati
 
 To easily distinguish Callister's voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced "[<Abbr>:<ParagraphNumber>]" (so, [Arg2:1] corresponds to Callister's Argument #2, first paragraph).
 
-Virtually all modern non-LDS scholars seem to view the {{ link(text="oral composition model", path="/how-could-joseph-smith-composed-bom/") }} as most likely, but {{ link(text="other models exist", path="/two-models-for-bom-origins/") }} and will occasionally be referenced.
+Virtually all modern non-LDS scholars seem to view the [oral composition model](/how-could-joseph-smith-composed-bom/) as most likely, but [other models exist](/two-models-for-bom-origins/) and will occasionally be referenced.
 
 ## The Book of Mormon is the Keystone of our Religion ("Keystone")
 
@@ -51,7 +51,7 @@ Naturalist explanations for the witnesses' experiences and statements also seem 
 
 > <span style="color:red; margin-left:-30px;">[Keystone:6c] millions of believers have testified of its truthfulness, </span>
 
-Billions will testify of the truthfulness of the Quran.  Millions will testify of the truthfulness of Ellen White's revelations, millions the truthfulness of Dianetics, and there are many devout followers ready to swear by [many other holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) (also consider [these video testimonies](https://www.youtube.com/watch?v=l3EfXz5VzR8), {{ link(text="this analysis", path="/testimony-spiritual-experiences-truth/") }}, and {{ link(text="these resources", path="/resources-on-faith-spiritual-witnesses-and-epistemology/") }} on testimony and spiritual experiences).
+Billions will testify of the truthfulness of the Quran.  Millions will testify of the truthfulness of Ellen White's revelations, millions the truthfulness of Dianetics, and there are many devout followers ready to swear by [many other holy books](https://www.reddit.com/r/exmormon/comments/4wiv06/the_other_holy_books_and_spiritual_claims_book_of/) (also consider [these video testimonies](https://www.youtube.com/watch?v=l3EfXz5VzR8), [this analysis](/testimony-spiritual-experiences-truth/), and [these resources](/resources-on-faith-spiritual-witnesses-and-epistemology/) on testimony and spiritual experiences).
 
 > <span style="color:red; margin-left:-30px;">[Keystone:6d] and the book is readily available for examination</span>
 
@@ -67,7 +67,7 @@ What follows are a few alternatives which are consistent with much of the histor
 
 > <span style="color:red; margin-left:-30px;">[Arg1:1–4] In 1831 a clergyman named Alexander Campbell proposed that Joseph Smith wrote rather than translated the Book of Mormon ... the early critics concluded there must be some other explanation for the origin of the Book of Mormon than the unlikely possibility that Joseph wrote it.</span>
 
-As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the "Joseph composed it" model: Joseph was a {{ link(text="fairly educated, religiously and scripturally proficient young man", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/") }}.  The model with Joseph as primary author will be considered in greater detail along with argument #5 below.
+As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith---as an "ignorant ...  knave"---authored the Book of Mormon.  However, we should not too hastily dismiss the "Joseph composed it" model: Joseph was a [fairly educated, religiously and scripturally proficient young man](/joseph-smith-capable-of-authoring-the-book-of-mormon/).  The model with Joseph as primary author will be considered in greater detail along with argument #5 below.
 
 ## Argument 2: Someone else wrote it
 
@@ -85,7 +85,7 @@ Second, before the translation of the Book of Mormon was complete, Oliver Cowder
 
 Finally, [a few witnesses claim that Cowdery was a co-conspirator](http://www.mormonthink.com/witnessesweb.htm#didoliver).
 
-Or, if Cowdery were somehow being fooled during the translation process (e.g., {{ link(text="Joseph hiding material in his hat", path="/hidden-material-in-hat-hypothesis/") }} or Joseph generating the text ad hoc), then we would expect him to testify of the truthfulness of the book, not necessarily realizing that he had been fooled.
+Or, if Cowdery were somehow being fooled during the translation process (e.g., [Joseph hiding material in his hat](/hidden-material-in-hat-hypothesis/) or Joseph generating the text ad hoc), then we would expect him to testify of the truthfulness of the book, not necessarily realizing that he had been fooled.
 
 > <span style="color:red; margin-left:-30px;">[Arg2:3] Even though Oliver was excommunicated from the Church and it was some years before he returned, he remained true at all times to his testimony, even on his deathbed. As a result, this argument receives little acceptance today.[8]</span>
 
@@ -99,7 +99,7 @@ Were Rigdon and Smith conspiring together to produce the Book of Mormon it would
 
 To be clear, only one of the several modern origin models necessitates Rigdon as co-author.  Still, it seems worth examining the evidence Callister presents that argues against Rigdon's participation.  Footnote nine of Callister's address points to an interview of Emma Smith by her son Joseph Smith III where she states that the Book of Mormon had already been published "some time before" she knew Sidney Rigdon or had heard of him.  Is there any reason to doubt her testimony?
 
-If Rigdon were involved, two possibilities might account for her statement about Rigdon: Emma was in on the production of the Book of Mormon (a co-conspirator to some extent), or she was being fooled by Joseph Smith, too (i.e., he kept his association with Rigdon hidden from her until after publication).  Problems with Emma's testimony are detailed {{ link(text="here", path="/reasons-to-discount-emmas-bom-testimony/") }}.
+If Rigdon were involved, two possibilities might account for her statement about Rigdon: Emma was in on the production of the Book of Mormon (a co-conspirator to some extent), or she was being fooled by Joseph Smith, too (i.e., he kept his association with Rigdon hidden from her until after publication).  Problems with Emma's testimony are detailed [here](/reasons-to-discount-emmas-bom-testimony/).
 
 > <span style="color:red; margin-left:-30px;">[Arg2:5] First, Sidney Rigdon’s daughter, Nancy Rigdon Ellis, was eight years old when Parley P. Pratt and Oliver Cowdery presented her father with a copy of the Book of Mormon in their home. She said that she recalled the event because of the conflict that arose:</span>
 
@@ -139,9 +139,9 @@ Still, we should not completey ignore the ways in which Book of Mormon data exhi
 
     > As Joseph was translating the text of the Book of Mormon, he would find himself translating something that he recognized as being roughly similar to texts from the Bible. ...  Instead of translating Nephi's quotations of Isaiah, Joseph deferred to the KJV translation of those chapters.  This may have been done to save time and to respect the quality of the KJV Bible. ... The version of Isaiah 48-52 that we have now in the Book of Mormon **is not taken from Nephi's plates**, but rather **copied from the KJV Bible** for reasons suggested above.
 
-1. Specific translation errors (or at least idiosyncrasies) {{ link(text="preserved in the 1769 King James Bible", path="/scholar-survey-kjv-translation-errors-in-bom-isaiah/") }} suggest that the Book of Mormon's author was consulting the 1769 King James Bible and not an ancient source (which likely would have conveyed the concepts differently).
+1. Specific translation errors (or at least idiosyncrasies) [preserved in the 1769 King James Bible](/scholar-survey-kjv-translation-errors-in-bom-isaiah/) suggest that the Book of Mormon's author was consulting the 1769 King James Bible and not an ancient source (which likely would have conveyed the concepts differently).
 
-1. The inclusion of a chunk of Mark 16 that follows after the 1769 King James bible that had a dubious, later origin in the New Testament tradition. ({{ link(text="short-analysis", path="/moroni-quotes-sections-of-mark-dubious-origin/") }})
+1. The inclusion of a chunk of Mark 16 that follows after the 1769 King James bible that had a dubious, later origin in the New Testament tradition. ([short-analysis](/moroni-quotes-sections-of-mark-dubious-origin/))
 
 > <span style="color:red; margin-left:-30px;">[Arg3:1b] One such theory alleged that Joseph Smith copied from the Solomon Spaulding manuscript—an unpublished manuscript written about 1812 by a man named Solomon Spaulding, who had once been a Protestant minister. It is a fictional account of ancient Romans who were sailing for England but were blown off course and landed in North America. When the critics were asked to produce the manuscript for comparison with the Book of Mormon, they conveniently claimed it was lost.[12]</span>
 
@@ -191,7 +191,7 @@ Argument 4 is nearly 100 years old and is not seriously entertained by modern sc
 
 > <span style="color:red; margin-left:-30px;">[Arg5:1a] This argument has become a principal one used by many if not most critics today.</span>
 
-Top LDS scholars today acknowledge the critical role that a modern milieu must have played in the creation of the book (as discussed generally {{ link(text="here", path="/lds-scholars-modern-origin-evidence/") }}).  Skousen {{ link(text="writes", path="/skousen-literal-translation-of-the-plates/") }} (emphasis added):
+Top LDS scholars today acknowledge the critical role that a modern milieu must have played in the creation of the book (as discussed generally [here](/lds-scholars-modern-origin-evidence/)).  Skousen [writes](/skousen-literal-translation-of-the-plates/) (emphasis added):
 
 > **Is the Book of Mormon English translation a literal translation of what was on the plates?**
 
@@ -207,7 +207,7 @@ How much data was available to Campbell in 1831 when forming his first theory ab
 
 > <span style="color:red; margin-left:-30px;">[Arg5:4] When one contemplates that assertion, it is nothing short of mind-boggling. Was it this same inexperience that helped him create hundreds of names, weave them into the most complex set of events, and then thread them together in a harmonious story resplendent with profound doctrinal insights? By her very acknowledgment of Joseph’s inexperience, she has magnified the improbability of Joseph writing this monumental work on his own.</span>
 
-The historical data suggests that {{ link(text="Joseph was both intellectually and educationally capable of producing the Book of Mormon", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/") }}.  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, consider the case of Andrew Jackson Davis and his trance performance of The Principles of Nature ([discussed by Bill Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis)) and others who were able to perform incredible feats of authorship during [automatic writing](https://en.wikipedia.org/wiki/Automatic_writing).  These examples suggest that the model having Joseph as primary composer does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
+The historical data suggests that [Joseph was both intellectually and educationally capable of producing the Book of Mormon](/joseph-smith-capable-of-authoring-the-book-of-mormon/).  In addition, the timeline for the creation of the Book of Mormon leaves Joseph [at least four years of preparation](https://www.fairmormon.org/answers/Question:_What_do_we_know_about_the_chronology_of_the_Book_of_Mormon_translation_and_publication%3F) before the actual dictation event.  Finally, consider the case of Andrew Jackson Davis and his trance performance of The Principles of Nature ([discussed by Bill Davis](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis)) and others who were able to perform incredible feats of authorship during [automatic writing](https://en.wikipedia.org/wiki/Automatic_writing).  These examples suggest that the model having Joseph as primary composer does not necessarily exceed the realm of naturalistic possibility (see [Hales for counterarguments](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/)).
 
 > <span style="color:red; margin-left:-30px;">[Arg5:5a] Nonetheless, others have bought into this argument---lock, stock, and barrel. Why? Because they have nowhere else to go except to admit that Joseph translated the Book of Mormon by the gift and power of God---a place they desperately do not want to go.</span>
 
@@ -247,7 +247,7 @@ The fact that Joseph referred to View of the Hebrews in 1842 merely confirms tha
 
 > <span style="color:red; margin-left:-30px;">[Arg5:11] • Is there any record that he had any of these books present when he translated the Book of Mormon? No.</span>
 
-Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was {{ link(text="published originally in eight volumes between 1810 and 1826", path="/clarkes-commentary-published-between-1810-and-1826/") }} and had an "extensive circulation".  BYU Scholars recently concluded that {{ link(text="Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation", path="/joseph-consulting-clarkes-commentary/") }} (aka, the JST).  We can ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
+Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1810_clarke_commentary.html) was [published originally in eight volumes between 1810 and 1826](/clarkes-commentary-published-between-1810-and-1826/) and had an "extensive circulation".  BYU Scholars recently concluded that [Clarke's commentary was copied from in the creation of Joseph Smith's Inspired Translation](/joseph-consulting-clarkes-commentary/) (aka, the JST).  We can ask the above questions about Clarke's commentary, knowing that it was a source used in the production of the JST.
 
 > • Is there a single reference—just one—in Joseph’s journals or written correspondence suggesting he might have read or had conversations concerning Clarke's Commentary before working on the JST? **[No](http://www.josephsmithpapers.org/search?query=Clarke&sort=relevance&page=1&perpage=50&startdate=&enddate=&transcripts=false&issuggestion=false&types=documents-papers%7Cdocuments-papers-documents%7Cdocuments-papers-administrative%7Cdocuments-papers-legal%7Cdocuments-papers-histories%7Cdocuments-papers-journals%7Crelated-materials%7Cbiographical-directory%7Cgeographical-directory%7Cglossary%7Cevent)**.[^oblique_reference_to_jst]
 
@@ -259,9 +259,9 @@ Adam Clarke's [Commentary on the Bible](https://www.preteristarchive.com/Books/1
 
 This exercise with Adam Clarke's commentary and the JST demonstrates that sources may be consulted without leaving the kind of record Callister demands.  It suggests that the historical record is sometimes sparse pertaining to what people were reading and consulting and says little about the likelihood that individuals at the time were reading various books and engaging in various discussions on topics of relevance.
 
-The historical record strongly suggests that Palmyra and its immediate vicinity {{ link(text="were rich in available literature", path="/palmyra-was-rich-in-books/") }} on the kinds of topics (e.g., [indians](http://signaturebookslibrary.org/scripture-test/), [war and liberty](http://www.mormonthink.com/influences.htm#part2), and [religion](http://www.mormonthink.com/influences.htm#part3)) that may have influenced Joseph Smith or other potential authors.
+The historical record strongly suggests that Palmyra and its immediate vicinity [were rich in available literature](/palmyra-was-rich-in-books/) on the kinds of topics (e.g., [indians](http://signaturebookslibrary.org/scripture-test/), [war and liberty](http://www.mormonthink.com/influences.htm#part2), and [religion](http://www.mormonthink.com/influences.htm#part3)) that may have influenced Joseph Smith or other potential authors.
 
-Especially as it pertains to theological matters, we should remember that [Joseph Smith himself states](https://www.churchofjesuschrist.org/scriptures/pgp/js-h/1?lang=eng&country=ca) that _as a young teenager_ he was attending "their several meetings as often as occasion would permit" and {{ link(text="studying the Bible", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/#own-statements") }}, and then bold enough to converse with the local preachers about religion ("I happened to be in company with one of the Methodist preachers, who was very active in the before mentioned religious excitement; and, conversing with him on the subject of religion").  How much could Joseph have gleaned on the topic of religion had he maintained such a trajectory over the next decade, particularly if he began reading other sources besides the Bible?
+Especially as it pertains to theological matters, we should remember that [Joseph Smith himself states](https://www.churchofjesuschrist.org/scriptures/pgp/js-h/1?lang=eng&country=ca) that _as a young teenager_ he was attending "their several meetings as often as occasion would permit" and [studying the Bible](/joseph-smith-capable-of-authoring-the-book-of-mormon/#own-statements), and then bold enough to converse with the local preachers about religion ("I happened to be in company with one of the Methodist preachers, who was very active in the before mentioned religious excitement; and, conversing with him on the subject of religion").  How much could Joseph have gleaned on the topic of religion had he maintained such a trajectory over the next decade, particularly if he began reading other sources besides the Bible?
 
 > <span style="color:red; margin-left:-30px;">[Arg5:12] How many "no"s does it take to expose the critics’ arguments as pure speculation—nothing more than sand castles that come crashing down when the first waves of honest questions appear on the scene.</span>
 
@@ -277,15 +277,15 @@ As noted before, were Joseph the author, he had at least four years to develop s
 
 We also know from Oliver Cowdery's revelation mentioned above that he (and Joseph) were going back and consulting the manuscript before its completion.  It is much easier to maintain consistent characters and story if the developing manuscript were being consulted between sessions.
 
-Finally, what is viewed by most as a major character mistake [was recorded in the original manuscript](https://web.archive.org/web/20191113054643/https://www.fairmormon.org/answers/Book_of_Mormon/Textual_changes/%22Benjamin%22_changed_to_%22Mosiah%22#Question:_When_and_where_was_the_name_.22Benjamin.22_changed_to_.22Mosiah.22_in_the_Book_of_Mormon.3F).  And the narrator often seems to {{ link(text="lose track of their location", path="/reasons-to-discount-emmas-bom-testimony/#fn:losingtrack/") }}.
+Finally, what is viewed by most as a major character mistake [was recorded in the original manuscript](https://web.archive.org/web/20191113054643/https://www.fairmormon.org/answers/Book_of_Mormon/Textual_changes/%22Benjamin%22_changed_to_%22Mosiah%22#Question:_When_and_where_was_the_name_.22Benjamin.22_changed_to_.22Mosiah.22_in_the_Book_of_Mormon.3F).  And the narrator often seems to [lose track of their location](/reasons-to-discount-emmas-bom-testimony/#fn:losingtrack/).
 
 > <span style="color:red; margin-left:-30px;">[Arg5:13c] ... and then dictated it with perfect recollection, without any notes whatsoever—no outline, no three-by-five cards, nothing—a fact acknowledged even among the critics?[30]</span>
 
 There are a few ways to deal with the composition event:
 
-* Joseph {{ link(text="demonstrated significant oral compositional capability", path="/how-could-joseph-smith-composed-bom/") }}. We know, for instance, that he extemporaneously delivered many of the revelations in the Doctrine and Covenants (consider [D&C 132:7]).  The modern origin theory also fits with what seem like extemporaneous material created to account for the lost 116 pages (e.g., Words of Mormon 1:3--9).  Finally, most of us were raised to organize our thoughts via writing, so it is difficult to imagine others composing extensive structure primarily in their minds, but this was not an uncommon ability in that era (e.g., regularly demonstrated among preachers).
-* Witnesses who observed the translation process {{ link(text="may not have been present when sources were being consulted", path="/reasons-to-discount-emmas-bom-testimony/#emma-may-not-have-been-present-when-sources-were-consulted") }}.
-* Perhaps Joseph hid notes in his hat, as explained {{ link(text="here", path="/hidden-material-in-hat-hypothesis/") }}.
+* Joseph [demonstrated significant oral compositional capability](/how-could-joseph-smith-composed-bom/). We know, for instance, that he extemporaneously delivered many of the revelations in the Doctrine and Covenants (consider [D&C 132:7]).  The modern origin theory also fits with what seem like extemporaneous material created to account for the lost 116 pages (e.g., Words of Mormon 1:3--9).  Finally, most of us were raised to organize our thoughts via writing, so it is difficult to imagine others composing extensive structure primarily in their minds, but this was not an uncommon ability in that era (e.g., regularly demonstrated among preachers).
+* Witnesses who observed the translation process [may not have been present when sources were being consulted](/reasons-to-discount-emmas-bom-testimony/#emma-may-not-have-been-present-when-sources-were-consulted).
+* Perhaps Joseph hid notes in his hat, as explained [here](/hidden-material-in-hat-hypothesis/).
 * Cowdery, a schoolteacher, may have been a co-conspirator, as discussed above.
 
 > <span style="color:red; margin-left:-30px;">[Arg5:13d] And during it all, no one remembered him going to these libraries, bringing any such books home, ...</span>
@@ -294,11 +294,11 @@ As discussed with the Adam Clarke commentary and its ubiquitous insertion into t
 
 Regarless, as we have already demonstrated:
 
-1. Palmyra was {{ link(text="rich in books", path="/palmyra-was-rich-in-books/") }}.
-1. Joseph Smith lived in {{ link(text="an educationally and religiously rich environment", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/") }}.
+1. Palmyra was [rich in books](/palmyra-was-rich-in-books/).
+1. Joseph Smith lived in [an educationally and religiously rich environment](/joseph-smith-capable-of-authoring-the-book-of-mormon/).
 1. Other potential authors or co-authors (if we look outside of Joseph's capabilities) were well-equipped with the kind of exposure necessary to write such a book, as discussed above.
 
-So, exposure to such material (e.g., {{ link(text="John Smith lectures", path="/similarities-between-john-smiths-writings-and-bom/") }}) may not have been noteworthy in such an environment.
+So, exposure to such material (e.g., [John Smith lectures](/similarities-between-john-smiths-writings-and-bom/)) may not have been noteworthy in such an environment.
 
 > <span style="color:red; margin-left:-30px;">[Arg5:13e] ... having any conversations concerning this research, ...</span>
 
@@ -310,9 +310,9 @@ Joseph did not start writing in a diary until *after* the publication of the Boo
 
 > <span style="color:red; margin-left:-30px;">[Arg5:13g] ... Where, I ask you, is the hard evidence?</span>
 
-It seems that Joseph was capable of generating scripture *ad hoc* (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see [this discussion on compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)).  And, as previously discussed, Joseph consulted and {{ link(text="inserted significant material", path="/joseph-consulting-clarkes-commentary/") }} from Clarke's commentary into the Joseph Smith Translation without leaving a single historical trace of such insertion---we only know that it happened via textual inference.
+It seems that Joseph was capable of generating scripture *ad hoc* (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see [this discussion on compenential creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/)).  And, as previously discussed, Joseph consulted and [inserted significant material](/joseph-consulting-clarkes-commentary/) from Clarke's commentary into the Joseph Smith Translation without leaving a single historical trace of such insertion---we only know that it happened via textual inference.
 
-Hard data also seems inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  The historical record suggests at least {{ link(text="four instances", path="/joseph-smith-instructed-others-to-burn-communication/") }} where Joseph instructed or suggested to others to burn communication.
+Hard data also seems inherently difficult to come by for conspiracies because---by definition---those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  The historical record suggests at least [four instances](/joseph-smith-instructed-others-to-burn-communication/) where Joseph instructed or suggested to others to burn communication.
 
 Finally---and most importantly---there is ample textual evidence to demonstrate that the Book of Mormon came from the mind of someone in the early 1800s, as will be demonstrated in the next section on doctrine.
 
@@ -320,15 +320,15 @@ Finally---and most importantly---there is ample textual evidence to demonstrate 
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:1a] Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?</span>
 
-The vast majority of the doctrine taught in the Book of Mormon appears to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see {{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
+The vast majority of the doctrine taught in the Book of Mormon appears to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s (see [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)).  Specific responses to the doctrines Callister advances below will help demonstrate how these purportedly unique doctrines may be found represented in the early 1800s cultural milieu.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:1b] For example, contemporary Christianity taught that the Fall was a negative, not a positive, step forward, as taught in the Book of Mormon (see 2 Nephi 2).</span>
 
-The concept of felix culpa was widely taught and expressed by many Christian thinkers {{ link(text="including Ambrose, Augustine, Aquinas, Wycliffe, Leibniz, and John Milton", path="/pre-1830-felix-cupa-fortunate-fall/") }} long before and also closely preceding the time of Joseph Smith.
+The concept of felix culpa was widely taught and expressed by many Christian thinkers [including Ambrose, Augustine, Aquinas, Wycliffe, Leibniz, and John Milton](/pre-1830-felix-cupa-fortunate-fall/) long before and also closely preceding the time of Joseph Smith.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2a] Likewise, contrary to contemporary beliefs, the Book of Mormon refers to a premortal existence in Alma 13 (see Alma 13:1--11)</span>
 
-The author of the Book of Mormon refers to the premortal existence in almost {{ link(text="exactly the same fashion as preachers from that time", path="/premortal-existence-pre-1830s/") }}.
+The author of the Book of Mormon refers to the premortal existence in almost [exactly the same fashion as preachers from that time](/premortal-existence-pre-1830s/).
 
 >  <span style="color:red; margin-left:-30px;">[Doctrine:2b] ... and to a postmortal spirit world in Alma 40 (see Alma 40:11–14).</span>
 
@@ -356,7 +356,7 @@ Also, the description King Benjamin gives of Christ's suffering is similar to ot
 
 > I became flesh and blood to dwell with men; and like man I became an infant of days, to be born of the woman.  Here I became in all things like man, to suffer temptations, to suffer persecution; to resemble man's weakness, by hiding myself. All this I have done, to be a judge of the infirmities of man, that 1 might be a judge of what man had to go through, and a clear judge of the different conduct in mankind.
 
-In general, King Benjamin's speech may be viewed as [typical of revival conference speeches from the early 1800s](https://truthisrestoredagain.wordpress.com/2014/02/01/revival-sermons-in-the-book-of-mormon/), and it is {{ link(text="full of ideas permeating Smith's milieu", path="/similarities-between-benjamins-speech-and-1800s-milieu/") }}.
+In general, King Benjamin's speech may be viewed as [typical of revival conference speeches from the early 1800s](https://truthisrestoredagain.wordpress.com/2014/02/01/revival-sermons-in-the-book-of-mormon/), and it is [full of ideas permeating Smith's milieu](/similarities-between-benjamins-speech-and-1800s-milieu/).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2f] Or the allegory of the olive tree with all its complexity and doctrinal richness (see Jacob 5)? When I read that allegory, I have to map it out to follow its intricacies.</span>
 
@@ -364,7 +364,7 @@ The parable of the Olive Tree may be viewed primarily as an amalgamation and emb
 
 Halfway through the parable, the Jacob 5 author shifts from a focus on *the olive tree* to a focus on *the whole vineyard* (in Jacob 5:41).  As Curt van den Heuvel has pointed out "the break appears at the same point that the Book of Mormon quotes a passage from Isaiah."  From then on, the the author of Jacob 5 "refers exclusively to the 'fruit of the vineyard', apparently forgetting that vineyards yield grapes, not olives." (see Curt van den Heuvel, [here](http://mormonthink.com/book-of-mormon-problems.htm#Bible), and [here](https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/)).
 
-Consider other possible influences and sources for Jacob 5 discussed {{ link(text="here", path="/potential-sources-allegory-olive-tree/") }}.
+Consider other possible influences and sources for Jacob 5 discussed [here](/potential-sources-allegory-olive-tree/).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:2g] Are we supposed to believe that Joseph Smith just dictated these sermons off the top of his head with no notes whatsoever?</span>
 
@@ -408,11 +408,11 @@ And covenants similar to that found in Mosiah 18 were tied to baptism for many e
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:5d] Should infants be baptized?</span>
 
-The idea that infant baptism was an abomination was being discussed widely at that time.  For instance, Stephen Blanchard, in a letter to Ethan Smith, the congregationalist minister in Hopkinton NH where Oliver Cowdery may have attended Church, {{ link(text="argues", path="/letter-from-stephen-blanchard-to-ethan-smith/") }}:
+The idea that infant baptism was an abomination was being discussed widely at that time.  For instance, Stephen Blanchard, in a letter to Ethan Smith, the congregationalist minister in Hopkinton NH where Oliver Cowdery may have attended Church, [argues](/letter-from-stephen-blanchard-to-ethan-smith/):
 
 > To me it seems strange, that you can see ... absurdities in the Episcopal plan relative to *infant baptism* and *confirmation* ...  and not see, that the *doctrine* of *infant baptism* itself is the very foundation of all those inconsistencies ... I contend, that no one can have a right to the *outward* and *visible* sign, unless he possess the *inward* and *spiritual* grace. 
 
-And, in the course of his writing on the topic, Blanchard gives {{ link(text="an informal bibliography of all those writing against infant baptism at the time", path="/letter-from-stephen-blanchard-to-ethan-smith/#informal-bibliography-against-infant-baptism") }}:
+And, in the course of his writing on the topic, Blanchard gives [an informal bibliography of all those writing against infant baptism at the time](/letter-from-stephen-blanchard-to-ethan-smith/#informal-bibliography-against-infant-baptism):
 
 > Without going into the elaborate productions of Dr. Gill against Clarke, Booth's pedo-baptism examined, Baldwin against Worcester, or Merrill's seven sermons; if we take a candid survey of Foot's letters to bishop Hoadly, P. Chapin's letter to N. Worcester, and Baldwin's letter to a Friend; we find, these short essays contain the sum of the arguments, and are sufficient to convince every rational and unprejudiced enquirer of the futility of all, that has been said in favor of infant sprinkling And these had been entirely unnecessary, if nothing had been published attempting to establish that, which is not found in the bible.
 
@@ -426,13 +426,13 @@ As has already been demonstrated, Joseph Smith was immersed in the religious dis
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:8a] 2a. 2 Nephi 2 is a mind-expanding sermon on the relationship between the Fall and Christ’s Atonement. </span>
 
-2 Nephi 2 follows very closely {{ link(text="the anti-Pelagian arc of thought among Protestants of his time", path="/bom-and-twelve-points-of-pelagianism-in-early-1800s/") }} and echoed a common, {{ link(text="positive view of the Fall of Adam and Eve", path="/pre-1830-felix-cupa-fortunate-fall/") }}.
+2 Nephi 2 follows very closely [the anti-Pelagian arc of thought among Protestants of his time](/bom-and-twelve-points-of-pelagianism-in-early-1800s/) and echoed a common, [positive view of the Fall of Adam and Eve](/pre-1830-felix-cupa-fortunate-fall/).
 
-Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the Fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas {{ link(text="are at some odds", path="/questions-to-ask/#adam-and-eve") }}.
+Less than three decades from the publication of the Book of Mormon, Darwin would publish The Origin of Species.  The theory of evolution and common descent both imply that humans came to be through evolutionary processes.  The Book of Mormon deals with the Fall in very literal terms and even suggests that had Adam and Eve remained in the Garden of Eden that they would have had no children and remained in a state of innocence.  These two ideas [are at some odds](/questions-to-ask/#adam-and-eve).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:8b] While the rest of the Christian world believes that the Fall was a step backward in man’s progress, Lehi taught us the truth—that the Fall coupled with the Atonement is a giant step forward.</span>
 
-As discussed above, the concept of felix culpa was widely taught and expressed by {{ link(text="many Christian thinkers", path="/pre-1830-felix-cupa-fortunate-fall/") }} preceding the creation of the Book of Mormon
+As discussed above, the concept of felix culpa was widely taught and expressed by [many Christian thinkers](/pre-1830-felix-cupa-fortunate-fall/) preceding the creation of the Book of Mormon
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:9] b. 2 Nephi 9:7 introduces for the first time the phrase "an infinite atonement," revealing the expansiveness, scope, and depth of Christ’s saving power.</span>
 
@@ -492,7 +492,7 @@ Stories have been demonstrated to evoke powerful, confirmatory feelings, but whi
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:13] f. The Bible teaches us that, through the Atone­ment, Christ can make us clean; the Book of Mormon teaches us that, through the Atonement, Christ can also make us perfect (see Moroni 10:32–33).[31]</span>
 
-As documented {{ link(text="here", path="/human-nature-in-its-fourfold-state-compared-with-moroni-10-32-33/") }}, "Human Nature in its Fourfold State," published originally in Scotland in 1787, deals with the same themes as Moroni 10:32–33 in very similar fashion, arguing for a similar interplay between our own efforts and Christ's enabling atonement.
+As documented [here](/human-nature-in-its-fourfold-state-compared-with-moroni-10-32-33/), "Human Nature in its Fourfold State," published originally in Scotland in 1787, deals with the same themes as Moroni 10:32–33 in very similar fashion, arguing for a similar interplay between our own efforts and Christ's enabling atonement.
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:14] Does anyone honestly believe that Joseph Smith somehow invented these profound doctrines with their compelling powers of reason, their mind-expanding insights, and their language, which is divinely eloquent? If these doctrines were the product of Joseph’s creative mind, one might ask, “Were there no other creative geniuses in the 1,800 years following Christ’s ministry who could produce similar doctrines?”</span>
 
@@ -523,17 +523,17 @@ And a vast number of themes and doctrines found in the Book of Mormon find close
 
 4. Compare this exact 10-gram match from [Alma 45:16](https://www.churchofjesuschrist.org/scriptures/bofm/alma/45.16?lang=eng) with [A compendium of the travels of the children of Israel](https://books.google.com/books?id=IMU2AAAAMAAJ&pg=PA11&dq="the+least+degree+of+allowance"&hl=en&sa=X&ved=0ahUKEwjvtI-gzrjJAhVN3mMKHWkuAEsQ6AEIIjAB#v=onepage&q="the%20least%20degree%20of%20allowance"&f=false) published in Albany, NY 1823: "when he looks forward, he beholds an angry God that **cannot look upon sin with the least degree of allowance**"
 
-See many more {{ link(text="here", path="/documents/book_of_mormon/echoes/echoes_of_1800s.pdf") }}, [here](https://www.reddit.com/r/exmormon/comments/3uvm9j/nineteenthcentury_protestant_material_in_the_book/) and the entire collection of parallels with the early 1800s literature {{ link(text="here", path="/bom-parallels-to-1800s-thought/") }}.
+See many more [here](/documents/book_of_mormon/echoes/echoes_of_1800s.pdf), [here](https://www.reddit.com/r/exmormon/comments/3uvm9j/nineteenthcentury_protestant_material_in_the_book/) and the entire collection of parallels with the early 1800s literature [here](/bom-parallels-to-1800s-thought/).
 
 > <span style="color:red; margin-left:-30px;">[Doctrine:15a] The argument that Joseph Smith wrote the Book of Mormon is simply counter to the realities of life.  It is one thing to have creative ideas; it is quite another to put them into a complex but coherent and harmonious whole, inundated with majestic doctrinal truths and all done in a single draft in less than ninety days.</span>
 
 Humans write an [extraordinary number](https://en.wikipedia.org/wiki/Books_published_per_country_per_year) of complex, coherent books every single year.  Many complex books are composed [in less time](https://bookstr.com/article/10-novels-written-in-about-a-month/) than it took the Book of Mormon to be created.  Many notable books are composed [by those who are young](https://en.wikipedia.org/wiki/List_of_books_written_by_children_or_teenagers) (many far younger than Joseph Smith).  And, as demonstrated above, the doctrine found in the Book of Mormon was rather typical for its time.
 
-See {{ link(text="How could Joseph Smith have composed the Book of Mormon?", path="/how-could-joseph-smith-composed-bom/") }} for a simple model of how Joseph could have orally composed the Book of Mormon.
+See [How could Joseph Smith have composed the Book of Mormon?](/how-could-joseph-smith-composed-bom/) for a simple model of how Joseph could have orally composed the Book of Mormon.
 
 > Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]
 
-There are good reasons to question Emma's testimony of these events, and first hand primary documentation refutes her characterization of Joseph's literary abilities, as discussed {{ link(text="here", path="/reasons-to-discount-emmas-bom-testimony/") }}.
+There are good reasons to question Emma's testimony of these events, and first hand primary documentation refutes her characterization of Joseph's literary abilities, as discussed [here](/reasons-to-discount-emmas-bom-testimony/).
 
 ## A Parable That Counters The Arguments Proposed By Critics ("Parable")
 
@@ -551,9 +551,9 @@ One reasonable response to this parable is to simply extend the analogy:  Imagin
 * We know that he could synthesize rubies from other material (consider these LDS scholars discussing how Joseph [generated the Book of Abraham text from Egyptian papyri](https://www.youtube.com/watch?v=tznpRR0Fos8)).
 * We know he was capable of [synthesizing emeralds](https://faenrandir.github.io/a_careful_examination/joseph-consulting-clarkes-commentary/).
 
-Finally, we find out that a number of researchers actually *have* [carefully analyzed the diamond](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/), and they find that it contains {{ link(text="the exact same kinds of contaminants as diamonds from the next county over", path="/bom-parallels-to-1800s-thought/") }}.  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then [buy the land from him](http://www.mrm.org/attempt-to-sell-copyright) in search of diamonds.
+Finally, we find out that a number of researchers actually *have* [carefully analyzed the diamond](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/), and they find that it contains [the exact same kinds of contaminants as diamonds from the next county over](/bom-parallels-to-1800s-thought/).  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then [buy the land from him](http://www.mrm.org/attempt-to-sell-copyright) in search of diamonds.
 
-It comes as no suprise that those who had lost their fortune buying land from the farmer refused to acknowledge the careful research of those who had {{ link(text="presented copious evidence that the diamond was a fake", path="/bom-parallels-to-1800s-thought/") }}.  Those who had invested in the land tried to [discredit and belittle the researchers](https://www.youtube.com/watch?v=HkcS-v_DolQ), and they warned others to avoid their work because if it were true [it would only bring the investors feelings of darkness and gloom](https://www.youtube.com/watch?v=NSEsLtwKzvw) to think of all they had lost by trading their fortunes for synthetic diamonds of no special market value.
+It comes as no suprise that those who had lost their fortune buying land from the farmer refused to acknowledge the careful research of those who had [presented copious evidence that the diamond was a fake](/bom-parallels-to-1800s-thought/).  Those who had invested in the land tried to [discredit and belittle the researchers](https://www.youtube.com/watch?v=HkcS-v_DolQ), and they warned others to avoid their work because if it were true [it would only bring the investors feelings of darkness and gloom](https://www.youtube.com/watch?v=NSEsLtwKzvw) to think of all they had lost by trading their fortunes for synthetic diamonds of no special market value.
 
 ## Other Evidences That The Book Of Mormon Is Not Man-Made ("OtherEvidences")
 
@@ -561,17 +561,17 @@ It comes as no suprise that those who had lost their fortune buying land from th
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:2] My belief is that the Book of Mormon is of divine authenticity—I have not the slightest doubt of it. I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, your father would dictate to me hour after hour; and when returning after meals, or after interruptions, he would at once begin where he had left off, without either seeing the manuscript or having any portion of it read to him. This was a usual thing for him to do. It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.[34]</span>
 
-There are {{ link(text="good reasons to discount aspects of Emma's testimony", path="/reasons-to-discount-emmas-bom-testimony/") }}.
+There are [good reasons to discount aspects of Emma's testimony](/reasons-to-discount-emmas-bom-testimony/).
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:3] This may seem insignificant to some, but to me it is astounding. For thirty-four years, as a lawyer, I regularly dictated to my secretary. As I did so, I was often interrupted by a phone call or a question. After such interruptions I would invariably ask my secretary, “Where was I?”</span>
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:4] But Joseph was not dictating or writing a new work; he was receiving revelation by the power of God and therefore did not need to ask, “Where was I?”</span>
 
-We have {{ link(text="reason to be skeptical of Emma's testimony", path="/reasons-to-discount-emmas-bom-testimony/") }}, especially as it relates to production of the Book of Mormon pages, and internal evidence in the Book of Mormon itself suggests that the narrator [often lost track of their position](http://127.0.0.1:4000/a_careful_examination/reasons-to-discount-emmas-bom-testimony/#fn:losingtrack).
+We have [reason to be skeptical of Emma's testimony](/reasons-to-discount-emmas-bom-testimony/), especially as it relates to production of the Book of Mormon pages, and internal evidence in the Book of Mormon itself suggests that the narrator [often lost track of their position](http://127.0.0.1:4000/a_careful_examination/reasons-to-discount-emmas-bom-testimony/#fn:losingtrack).
 
 > <span style="color:red; margin-left:-30px;">[OtherEvidences:5] When all is said and done, Joseph Smith’s explanation of the coming forth of the Book of Mormon is the only viable option on the table. Why? Because it is as true as true can be.[35]</span>
 
-In almost every way we can test the book it matches our expectations of being produced in the early 1800s, and even {{ link(text="mainstream LDS scholars independently observe data which collectively supports a modern origin", path="/lds-scholars-modern-origin-evidence/") }}:
+In almost every way we can test the book it matches our expectations of being produced in the early 1800s, and even [mainstream LDS scholars independently observe data which collectively supports a modern origin](/lds-scholars-modern-origin-evidence/):
 
 <figure>
   <center><img src="{{ get_url(path="/communications/images/two_flowers.png") }}" atl="Convergence on a modern origin" style="width:100%"></center>
@@ -584,7 +584,7 @@ In almost every way we can test the book it matches our expectations of being pr
 
 > <span style="color:red; margin-left:-30px;">[Discover:2] The Spirit is the decisive, determining factor—not archaeology, not linguistics, not DNA, and certainly not the theories of man. The Spirit is the only witness that is sure and certain and infallible.</span>
 
-There are good reasons to doubt the reliability of spiritual feelings and impressions as explained in the essay {{ link(text="Testimony, spiritual experiences, and truth: A careful examination", path="/testimony-spiritual-experiences-truth/") }} and more comprehensively in this {{ link(text="collection of resources on faith, spiritual witnesses, and epistemology", path="/resources-on-faith-spiritual-witnesses-and-epistemology/") }}.
+There are good reasons to doubt the reliability of spiritual feelings and impressions as explained in the essay [Testimony, spiritual experiences, and truth: A careful examination](/testimony-spiritual-experiences-truth/) and more comprehensively in this [collection of resources on faith, spiritual witnesses, and epistemology](/resources-on-faith-spiritual-witnesses-and-epistemology/).
 
 > <span style="color:red; margin-left:-30px;">[Discover:3] As a boy of about fifteen or sixteen, I was reading the story of the 2,000 sons of Helaman. I marveled at their bravery and the Lord’s protecting hand. Then a voice came to my mind: “That story is true.” Since then, other confirmations have come.[37]</span>
 
@@ -594,7 +594,7 @@ As discussed earlier, stories have been demonstrated to evoke powerful, confirma
 
 > <span style="color:red; margin-left:-30px;">[Discover:5] The Lord has promised that if we pray “with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto [us], by the power of the Holy Ghost” (Moroni 10:4). If we want the truth that badly, if we are willing to pay that price and be unrelenting in that quest, the answer will eventually come.</span>
 
-Moroni's promise is one of several "hermetically sealed" epistemological systems in LDS thought (see {{ link(text="diagram #4", path="/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf") }} in {{ link(text="Hermetically Sealed Systems in LDS Thought", path="/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf") }}): a person can only ever receive a positive answer by applying the promise, and the same outcome could be expected were a person to apply the procedure to any inspiring book.
+Moroni's promise is one of several "hermetically sealed" epistemological systems in LDS thought (see [diagram #4](/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf) in [Hermetically Sealed Systems in LDS Thought](/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf)): a person can only ever receive a positive answer by applying the promise, and the same outcome could be expected were a person to apply the procedure to any inspiring book.
 
 > <span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span>
 
@@ -636,7 +636,7 @@ Callister insists that divine intervention is the only way to explain the creati
 * [A Case Against A Case for the Book of Mormon](https://medium.com/@wagslane/a-case-against-a-case-for-the-book-of-mormon-3ed943ef19c1) (Lane Wagner)
 
 
-[^settling_provenance]: Despite the fact that the Church taught that the Kinderhook plates and Joseph Smith's translation of them were geniune (see {{ link(text="Joseph Smith Papers footnote on the Kinderhook plates", path="/jspapers-kinderhook-plates-commentary/") }} and [this analysis](http://www.mormonthink.com/kinderhookweb.htm#churchteach)), an examination of the plates themselves in 1981 [demonstrated them to be a hoax](https://churchofjesuschrist.org/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng).  And, because we have recovered the original papyri related to the Book of Abraham, LDS scholars have translated the original Egyptian (see [Joseph Smith Papers Book of Abraham and Related Manuscripts](https://www.josephsmithpapers.org/intro/introduction-to-revelations-and-translations-volume-4) and other {{ link(text="Book of Abraham resources", path="/resources-on-the-book-of-abraham/") }}).  As [the LDS essay on the Book of Abraham](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng) summarizes: "None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham ..."
+[^settling_provenance]: Despite the fact that the Church taught that the Kinderhook plates and Joseph Smith's translation of them were geniune (see [Joseph Smith Papers footnote on the Kinderhook plates](/jspapers-kinderhook-plates-commentary/) and [this analysis](http://www.mormonthink.com/kinderhookweb.htm#churchteach)), an examination of the plates themselves in 1981 [demonstrated them to be a hoax](https://churchofjesuschrist.org/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng).  And, because we have recovered the original papyri related to the Book of Abraham, LDS scholars have translated the original Egyptian (see [Joseph Smith Papers Book of Abraham and Related Manuscripts](https://www.josephsmithpapers.org/intro/introduction-to-revelations-and-translations-volume-4) and other [Book of Abraham resources](/resources-on-the-book-of-abraham/)).  As [the LDS essay on the Book of Abraham](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng) summarizes: "None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham ..."
 
 [^shared_by_others]: Elder Holland's story (also told by Kim B. Clark) was shared by many others (all last retrieved 2017-09-06): [1](http://rogerwilco-ldsreport.blogspot.com/), [2](https://web.archive.org/web/20170801050830/http://www.texashoustonsouthmission.com/weekly-presidents-pen/2016/4/25/presidents-pen-4-25-16), [3](https://eldercowansouthafrica.blogspot.com/2017/07/zone-conference.html) [4](http://savvysmissionaryblog.blogspot.com/2015/11/carry-on.html), [5](http://hermanaalisonknight.blogspot.com/2015/11/one-month-down-17-to-go.html), and [6](http://eldergideonbenge.blogspot.com/2017/07/an-invitation-to-come-home.html).  The story profoundly influenced many hearers:
 
@@ -661,11 +661,11 @@ Callister insists that divine intervention is the only way to explain the creati
 
 [^witnesses]:  Although the testimony of the 3 and 8 witnesses does lend significant support to aspects of the orthodox narrative for the creation of the Book of Mormon there are good reasons to question at least aspects of that testimony.  See [chapter 3 of Letter for My Wife](https://www.letterformywife.com/the-letter), [Book of Mormon Witnesses page](http://www.mormonthink.com/witnessesweb.htm) at MormonThink, and [Witnesses summary page](https://www.mormonstories.org/truth-claims/the-books/the-book-of-mormon/book-of-mormon-witnesses/) at the Mormon Stories essays.  Note that the argument about Cowdery potentially forging the signatures of the witnesses since the signatures are all in his handwriting is unsound (see point #3 [here](https://lecturesondoubt.com/2019/03/27/top-6-exmormon-myths/)).
 
-[^deuteroIsaiah]: There is very good evidence suggesting that the deutero Isaiah found in the Book of Mormon (Isaiah chapters 48--52) [was written _after_ Lehi left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/).  Some scholars have hypothesized that deutero-Isaiah was based on some kind of proto-text, and Latter-day Saints have latched onto this possibility.  At the very least, it is likely that the deutero-Isaiah chapters in the Book of Mormon were not equivalent to modern versions, such as that from the King James Bible.  LDS scholar Grant Hardy summarizes and also points to the fact that the Proto-Isaiah text would not have looked similar to what is preserved in the modern Bible ({{ link(text="source", path="/excerpt-on-isaiah-from-hardys-readers-guide/") }}):
+[^deuteroIsaiah]: There is very good evidence suggesting that the deutero Isaiah found in the Book of Mormon (Isaiah chapters 48--52) [was written _after_ Lehi left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/).  Some scholars have hypothesized that deutero-Isaiah was based on some kind of proto-text, and Latter-day Saints have latched onto this possibility.  At the very least, it is likely that the deutero-Isaiah chapters in the Book of Mormon were not equivalent to modern versions, such as that from the King James Bible.  LDS scholar Grant Hardy summarizes and also points to the fact that the Proto-Isaiah text would not have looked similar to what is preserved in the modern Bible ([source](/excerpt-on-isaiah-from-hardys-readers-guide/)):
 
     > Latter-day Saints sometimes brush such criticism aside [that "scholarly consensus for more than a century has attributed (Isa. 40--55) to the time of the Exile or even later"], asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis. ... Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today.
 
-[^ntinbom]: See transcript of Frederick discussing parallels between the Book of Mormon and the New Testament {{ link(text="here", path="/nt-in-bom-lhales-interview-frederick/") }}.  See a comprehensive list of Bible verses that share significant similarity with Book of Mormon verses {{ link(text="here", path="/comparison-table-book-of-mormon-and-bible-verses-origins-project/") }} and some individual examples: [Paul vs. Moroni](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/) and [Matthew vs. Ether](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/).
+[^ntinbom]: See transcript of Frederick discussing parallels between the Book of Mormon and the New Testament [here](/nt-in-bom-lhales-interview-frederick/).  See a comprehensive list of Bible verses that share significant similarity with Book of Mormon verses [here](/comparison-table-book-of-mormon-and-bible-verses-origins-project/) and some individual examples: [Paul vs. Moroni](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/) and [Matthew vs. Ether](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/).
 
 [^entheogenic]: A recent hypothesis relevant to the creation of the Book of Mormon is the entheogenic theory, recently published in [the Journal of Psychedelic Studies](https://akademiai.com/doi/pdf/10.1556/2054.2019.020).
 
@@ -681,4 +681,4 @@ Callister insists that divine intervention is the only way to explain the creati
 
 [^books_by_young_uneducated]:  Joseph was about 23 when the Book of Mormon was primarily dictated.  Many young authors wrote significant works of fiction [even before the age of 20](https://en.wikipedia.org/wiki/List_of_books_written_by_children_or_teenagers).  Significant novels have been penned [in under one month](https://mentalfloss.com/article/29126/6-famous-novels-penned-under-month) (the Book of Mormon was dictated over a much longer period).  And many famous authors [had little or no formal education](http://guyportman.com/2015/06/26/10-famous-self-educated-authors/).  Still, Hales has argued that the convergence of several measures positions the Book of Mormon [as a unique creation](https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/) (his analysis rests on multiple assumptions which are arguable, and he does not consider other possible authors for the Book of Mormon).
 
-[^oblique_reference_to_jst]: There is one {{ link(text="oblique reference to Joseph Smith and Clarke's commentary", path="/joseph-consulting-clarkes-commentary/") }}, but it does not suggest that Joseph even read the work, much less had it in his possession.
+[^oblique_reference_to_jst]: There is one [oblique reference to Joseph Smith and Clarke's commentary](/joseph-consulting-clarkes-commentary/), but it does not suggest that Joseph even read the work, much less had it in his possession.

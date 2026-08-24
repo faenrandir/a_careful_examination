@@ -7,7 +7,7 @@ updated = "2026-04-04"
 +++
 ## Introduction
 
-The core of {{ link(text="Emma's testimony as it relates to the Book of Mormon", path="/last-testimony-of-sister-emma/") }}[^platesexisted] is summarized in condensed form below (emphasis added):
+The core of [Emma's testimony as it relates to the Book of Mormon](/last-testimony-of-sister-emma/)[^platesexisted] is summarized in condensed form below (emphasis added):
 
 * "[I] wrote day after day, often sitting at the table close by him [Joseph], he sitting with his face buried in his hat, with the stone in it, and dictating hour after hour with nothing between us ... [with] **neither manuscript nor book to read from** ... [which] he **could not have concealed ... from me**." 
 * "[Question] Where did father and Oliver Cowdery write? [Answer] ... **in the room where I was at work**."
@@ -27,7 +27,7 @@ Many witnesses corroborate that Joseph dictated with his face in a hat containin
 
 ## Denied Joseph Smith's polygamy 
 
-As explained in greater detail {{ link(text="here", path="/context-of-emma-smiths-bom-witness/") }}, Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy, but overwhelming evidence suggests that he did.[^josephpracticedpolygamy]  If Joseph was practicing polygamy then we can conclude that Emma was either lying about his polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
+As explained in greater detail [here](/context-of-emma-smiths-bom-witness/), Emma's witness of the Book of Mormon follows directly after her testimony on polygamy.  In the same interview, she claims that Joseph never practiced polygamy, but overwhelming evidence suggests that he did.[^josephpracticedpolygamy]  If Joseph was practicing polygamy then we can conclude that Emma was either lying about his polygamy or she was naive about the actions of her husband,[^emmanaive] either of which weaken our confidence in any given assertation about the translation.
 
 ## Motivated reasoning
 
@@ -44,12 +44,12 @@ Emma claims that Joseph "could neither write nor dictate a coherent and well-wor
 However:
 
 * Joseph wrote (or dictated?) the [preface to the Book of Mormon](https://www.josephsmithpapers.org/paper-summary/preface-to-book-of-mormon-circa-august-1829/1) and dictated (?) a [letter to Oliver Cowdery](https://www.josephsmithpapers.org/paper-summary/letter-to-oliver-cowdery-22-october-1829/1) shortly after completing the Book of Mormon.  When punctuation and grammar corrected [like the Book of Mormon](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-manuscript-excerpt-circa-june-1829-1-nephi-22b-318a/1#full-transcript), the documents appear to be both coherent and well-worded.  A reading comprehension analysis of the letter to Oliver Cowdery shows it to be near the average of all the individual chapters of the Book of Mormon (see preliminary work [here](https://www.reddit.com/user/bwv549/comments/eq9xfx/draft_comparison_of_book_of_mormon_bom/) and [here](https://www.reddit.com/user/bwv549/comments/eriqnu/draft_joseph_smiths_1829_letter_to_cowdery/)), suggesting that the letter Joseph dictated to Cowdery is consistent in basic complexity measures with Book of Mormon material.
-* Joseph Smith's 1830 letters to the Colesville Saints ({{ link(text="first", path="/the-first-colesville-letter-transcript-and-allusions/") }} and {{ link(text="second", path="/the-second-colesville-letter-transcript-and-allusions/") }}) are coherent, well-worded, and packed full of allusion to Biblical passages.
+* Joseph Smith's 1830 letters to the Colesville Saints ([first](/the-first-colesville-letter-transcript-and-allusions/) and [second](/the-second-colesville-letter-transcript-and-allusions/)) are coherent, well-worded, and packed full of allusion to Biblical passages.
 * Lucy Mack Smith, Joseph's mother, [recalls Joseph](https://web.archive.org/web/20191121145958/https://www.fairmormon.org/answers/Joseph_Smith/%22Amusing_recitals%22_of_ancient_American_inhabitants#Question:_Was_the_young_Joseph_Smith_a_teller_of_.22tall_tales.22.3F) giving "some of the most amusing recitals that could be imagined ... with as much ease, seemingly, as if he had spent his whole life among them."[^lucymackstories]
 * Joseph continued producing well-written material in the years following (e.g., [Letter to Emma 1832](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-6-june-1832/1) and [his 1832 history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2)) 
-* As a youth, Joseph was, according to his own account, {{ link(text="steeped in the religious conversations of his day", path="/religious-interest-and-capability-from-1832-statement/") }}.
-* Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in {{ link(text="hundreds' of instances into his Joseph Smith Translation of the bible", path="/joseph-consulting-clarkes-commentary/") }}.
-* Joseph {{ link(text="had an extraordinary intellect", path="/joseph-smith-capable-of-authoring-the-book-of-mormon/#intellectual-powers") }}.
+* As a youth, Joseph was, according to his own account, [steeped in the religious conversations of his day](/religious-interest-and-capability-from-1832-statement/).
+* Within just a few years since the translation of the Book of Mormon Joseph was consulting Clarke's commentary, a sophisticated Bible commentary, and incorporating it in [hundreds' of instances into his Joseph Smith Translation of the bible](/joseph-consulting-clarkes-commentary/).
+* Joseph [had an extraordinary intellect](/joseph-smith-capable-of-authoring-the-book-of-mormon/#intellectual-powers).
 
 ## Losing track
 
@@ -81,7 +81,7 @@ I solicited feedback on an early draft of this document [in this forum](https://
 
 [^lucymackstories]: Non-member scholars differ with believing scholars as to the genesis of Joseph's source material for these stories.  Believing scholars would say that the source material was derived from visitations with Moroni.  Non-members would suggest that the material was indicative of Joseph's forethought on the topic.  Regardless, few if any scholars question the general accuracy of the account of Joseph being capable of such recitals.
 
-[^josephpracticedpolygamy]: The LDS Church recently published [an essay](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) attempting to explain and contextualize Joseph Smith's practice of polygamy, even going so far as to suggest that Emma approved of some other marriages/sealings for at least a time.  In general, {{ link(text="solid contemporary evidence exists", path="/contemporary-evidence-that-joseph-smith-practiced-polygamy/") }} supporting Joseph Smith's practice of polygamy. 
+[^josephpracticedpolygamy]: The LDS Church recently published [an essay](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) attempting to explain and contextualize Joseph Smith's practice of polygamy, even going so far as to suggest that Emma approved of some other marriages/sealings for at least a time.  In general, [solid contemporary evidence exists](/contemporary-evidence-that-joseph-smith-practiced-polygamy/) supporting Joseph Smith's practice of polygamy. 
 
 [^emmanaive]: Emma may have been in the dark about some/many of Joseph's polygamous relationships either because she was merely naive (i.e., did not pay close attention or scrutinize his actions) or because Joseph was adept at hiding his actions (or some combination).  Joseph's [handwritten letter to the Whitneys in August of 1842](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-and-sarah-ann-whitney-18-august-1842/1) asks them to burn the communication and keep his actions hidden from Emma, so there is some direct support for the latter.
 

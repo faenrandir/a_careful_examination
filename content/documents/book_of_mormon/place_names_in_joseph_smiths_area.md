@@ -11,7 +11,7 @@ The Book of Mormon contains 337 proper names---188 of these are unique to the Bo
 
 [Sandra Tanner has argued](http://utlm.org/onlineresources/bomnames.htm) that the extra-Biblical names could be based on rearrangements of Bible names or by simply adding "hah" to existing names.  Others have generated a list of *possible* sources for [200 of 219 Book of Mormon names](https://web.archive.org/web/20200206052103/http://lds-mormon.com/names.shtml)[^tentative], most of which derive in some way from the Bible.
 
-If we assume Joseph authored the book, and given what we know about [creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/) (a creator necessarily draws upon elements to which they have been exposed), then we would expect the raw elements to exist in Joseph's environment.  By his own admission, Joseph was {{ link(text="very familiar with the Bible", path="/religious-interest-and-capability-from-1832-statement/") }}, so this seems like a reasonable creative source for new names.  In addition, some names in the Book of Mormon seem similar to names found in Joseph Smith's vicinity.  A modern author may have drawn inspiration from one or more of the names in their own locale.
+If we assume Joseph authored the book, and given what we know about [creativity theory](https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/) (a creator necessarily draws upon elements to which they have been exposed), then we would expect the raw elements to exist in Joseph's environment.  By his own admission, Joseph was [very familiar with the Bible](/religious-interest-and-capability-from-1832-statement/), so this seems like a reasonable creative source for new names.  In addition, some names in the Book of Mormon seem similar to names found in Joseph Smith's vicinity.  A modern author may have drawn inspiration from one or more of the names in their own locale.
 
 ## Place names
 
@@ -93,7 +93,7 @@ The Bible could have been the source of inspiration for names that are found wit
 
 Mary Ann also located these places on a map:
 
-{{ img(path="/media/Mary-Ann-1829-plagiarism-yes-cropped.jpg", alt="place names existing in 1829") }}
+<img src="/media/Mary-Ann-1829-plagiarism-yes-cropped.jpg" alt="place names existing in 1829">
 
 ## Could Joseph have known these?
 
@@ -111,7 +111,7 @@ Still, it does offer a counterpoint to the query, "where could Joseph have gotte
 * Locations around his locale or that he had heard before
 * Proper names from various name guides being sold at the time. For example:
     * [This pronunciation guide for Greek, Latin, and Scripture names ](https://archive.org/stream/keytoclassicalpr00walkrich#page/182/mode/2up)
-    * Charles Anthon's {{ link(text="Classical Dictionary of ancient proper names", path="/charles-anthon-proper-names-and-the-bom/") }}
+    * Charles Anthon's [Classical Dictionary of ancient proper names](/charles-anthon-proper-names-and-the-bom/)
 
 There is no direct evidence that Joseph Smith consulted any of these, but nor would a modern author of the Book of Mormon have been working in a vacuum void of potential inspirational name material.
 

@@ -10,7 +10,7 @@ The following table represents identical or similar language or chapters between
 ## See also
 
 * [Book of Mormon Depot comparison with KJV](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/)
-* {{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+* [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 ## 1 Nephi (600-570 BC)
 

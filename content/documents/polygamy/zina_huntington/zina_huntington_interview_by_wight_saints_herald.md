@@ -9,7 +9,7 @@ John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day 
 
 
 
-[full text](https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0752.pdf) \| {{ link(text="backup", path="/documents/polygamy/zina_huntington/JS0752.pdf") }}
+[full text](https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0752.pdf) \| [backup](/documents/polygamy/zina_huntington/JS0752.pdf)
 
 [transcript follows]
 

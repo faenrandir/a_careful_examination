@@ -53,6 +53,6 @@ Conference Report, October 1951, 116. [Awake, Ye Defenders of Zion](http://scrip
 
 ## Other resources
 
-* {{ link(text="How those who leave are viewed", path="/how-those-who-leave-are-viewed/") }}
+* [How those who leave are viewed](/how-those-who-leave-are-viewed/)
 
 [^fromtruthwillprevail]: Most (or all) of the statements about those who stay in the Church but do not believe are from the blog post ["Wolves In Sheep's Clothing"](http://www.truthwillprevail.xyz/2016/04/wolves-in-sheeps-clothing.html) from the blog "Truth Will Prevail".

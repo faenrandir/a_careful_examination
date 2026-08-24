@@ -57,13 +57,13 @@ lifestyles resulting in a desire to protect the accumulation of land and propert
 
 [The Creation of Patriarchy](http://w3.salemstate.edu/~hbenne/pdfs/patriarchy_creation.pdf)
 
-In many ways, {{ link(text="sex is intrinsically linked to morality", path="/why-sex-linked-to-morality/") }}, so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).
+In many ways, [sex is intrinsically linked to morality](/why-sex-linked-to-morality/), so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).
 
 ### Scriptural condemnation of homosexual marriage
 
 The New Testament Jesus himself never condemned homosexual marriage.  The Old Testament condemns homosexuality, but it condemns so much that it seems like cherry-picking to focus *only* on the things that happen to agree with our current conservative-Christian view of morality.  Incidentally, some fundamentalist Christians actually *do* keep the other strange prohibitions in the Old Testament or New Testament.  For instance, many fundamentalist churches prohibit women from speaking, and my cousin-in-law's father, in Georgia, used to keep the Old Testament prohibitions.  Those who cherry-pick some Old Testament teachings and not others have the burden of explaining why some prohibitions on behavior (and prescriptions of punishment) should be strictly adhered to while others are so easily sluffed off.
 
-It seems to me that if a group or individual is interested in Old Testament (or even New Testament) prohibitions, then they need some coherent reason for selecting some and not others.  Latter-day Saints argue "modern day revelation" when dealing with same-sex marriage, but I am not aware of any modern day revelation having been received on that topic, ever. (note that all available evidence suggests {{ link(text="the family proclamation should not be viewed as revelation", path="/proclamation-on-the-family-scripture-or-revelation/") }})
+It seems to me that if a group or individual is interested in Old Testament (or even New Testament) prohibitions, then they need some coherent reason for selecting some and not others.  Latter-day Saints argue "modern day revelation" when dealing with same-sex marriage, but I am not aware of any modern day revelation having been received on that topic, ever. (note that all available evidence suggests [the family proclamation should not be viewed as revelation](/proclamation-on-the-family-scripture-or-revelation/))
 
 #### God _may_ not have destroyed Sodom and Gomorrah for homosexuality
 

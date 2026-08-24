@@ -34,6 +34,6 @@ William Clayton | April 1843 | July 1843
 
 ---
 
-The data clearly show that the initial emphasis of the sealing ceremony was on enacting plural sealings---sealings for civilly  married couples appears to have been of much less concern.  This emphasis also seems to be confirmed in other instances, such as JS's sealing to Lucy Walker but {{ link(text="lack of a sealing for William Holmes Walker", path="/william-holmes-walker-and-olive-hovey-farr/") }}.
+The data clearly show that the initial emphasis of the sealing ceremony was on enacting plural sealings---sealings for civilly  married couples appears to have been of much less concern.  This emphasis also seems to be confirmed in other instances, such as JS's sealing to Lucy Walker but [lack of a sealing for William Holmes Walker](/william-holmes-walker-and-olive-hovey-farr/).
 
 _originally posted [here](https://www.reddit.com/r/mormon/comments/85fvza/the_primary_focus_of_the_sealing_ceremony_in_its/)_

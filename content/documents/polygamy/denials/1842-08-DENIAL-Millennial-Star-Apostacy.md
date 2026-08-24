@@ -11,8 +11,8 @@ The time and audience (England) of this publication indicates that it was likely
 
 See also:
 
-* {{ link(text="Conference minutes from April 6, 1842", path="/times-and-seasons-apr-15-1842-conference-minutes/") }}
-* {{ link(text="Martha Brotherton affidavit", path="/a_careful_examination/martha-brotherton-affidavit/") }}
+* [Conference minutes from April 6, 1842](/times-and-seasons-apr-15-1842-conference-minutes/)
+* [Martha Brotherton affidavit](/a_careful_examination/martha-brotherton-affidavit/)
 
 ### Original
 

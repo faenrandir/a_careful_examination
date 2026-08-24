@@ -142,7 +142,7 @@ Below are the twelve points of Pelagianism.  The teachings of the the Book of Mo
 
 ## See also
 
-{{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+[Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 
 [^respondtotwelvepoints]: Religionists often responded to Collier's twelve summary points of Pelagianism.  I refer to two works published in 1807 and 1827.  A third is found in [Part I. of Horae Ecclesiasticae](https://books.google.com/books?id=e2xjAAAAcAAJ&pg=RA1-PA23&lpg=RA1-PA23&dq=%22Adam+had+mortality+in+his+nature%22&source=bl&ots=m-EnDetECi&sig=cevh_i_w96UHvi-tU1FPLcBSzGo&hl=en&sa=X&ved=0ahUKEwicqq2EqpvRAhXny1QKHUGiD50Q6AEIKjAG#v=onepage&q=%22Adam%20had%20mortality%20in%20his%20nature%22&f=false) published in 1819 in London.

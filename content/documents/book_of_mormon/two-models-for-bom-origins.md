@@ -11,7 +11,7 @@ The modern origin model suggests that someone or some people composed the Book o
 
 #### Oral composition by Joseph Smith
 
-This model holds that Joseph Smith was primarily responsible for the creation of the text ({{ link(text="explanation and sources", path="/how-could-joseph-smith-composed-bom/") }}). Most modern non-LDS historians seem to have adopted this basic model including Fawn Brodie, [William Davis](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/), [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe, and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/).
+This model holds that Joseph Smith was primarily responsible for the creation of the text ([explanation and sources](/how-could-joseph-smith-composed-bom/)). Most modern non-LDS historians seem to have adopted this basic model including Fawn Brodie, [William Davis](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/), [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/), Brent Metcalfe, and [John Hamer](https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/).
 
 #### Other small groups authored it
 
@@ -44,4 +44,4 @@ The models may be arranged in order of increasing modern influence:
 
 It is possible that parts of the text were produced in somewhat different ways.
 
-For instance, Royal Skousen---the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon---has suggested some [mixture of tight and loose control](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), and {{ link(text="more recently for the expansionist/cultural model", path="/skousen-literal-translation-of-the-plates/") }}, at least in part.
+For instance, Royal Skousen---the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon---has suggested some [mixture of tight and loose control](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&context=jbms), and [more recently for the expansionist/cultural model](/skousen-literal-translation-of-the-plates/), at least in part.

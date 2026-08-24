@@ -18,19 +18,19 @@ Provided the data upon which the following reports were based, at least in large
 
 ### Faith Crisis Report 
 
-{{ link(text="Faith_Crisis_R28e.pdf", path="/documents/faith_crisis_study/Faith_Crisis_R28e.pdf") }}
+[Faith_Crisis_R28e.pdf](/documents/faith_crisis_study/Faith_Crisis_R28e.pdf)
 
 For context, please see the Prologue on page iii (pdf pg. 3) and Project Impetus & Background on pages 135–139 (pdf pgs. 68–70).
 
 ### Faith Crisis Chronicles
 
-{{ link(text="Faith_Crisis_Accounts_R3.pdf", path="/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf") }}
+[Faith_Crisis_Accounts_R3.pdf](/documents/faith_crisis_study/Faith_Crisis_Accounts_R3.pdf)
 
 Includes a number of qualitative narratives collected in 2013 as part of a separate survey (some of these inputs were included in the Uchtdorf report).  Uchtdorf later indicated that he read each of these narratives.
 
 ### BYU-H Symposium Presentation
 
-{{ link(text="BYU_H_Social+Faith_R5.pdf", path="/documents/faith_crisis_study/BYU_H_Social+Faith_R5.pdf") }}
+[BYU_H_Social+Faith_R5.pdf](/documents/faith_crisis_study/BYU_H_Social+Faith_R5.pdf)
 
 Part of this presentation focused on “user generated content” in the post-Mormon community and included a site-traffic analysis and growth projection for the r/exmormon subreddit. Back in Oct 2016, there were 34K registered members of that community. Today there are almost 97K registered members, which is more or less on target per the projection to reach 200K in 2020. And while the number of registered users is impressive, the number of “lurkers” and level of engagement per user is especially fascinating. See Slides 17–31 for more info.
 

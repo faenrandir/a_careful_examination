@@ -10,7 +10,7 @@ updated = "2026-08-23"
 
 ### Introduction
 
-Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's analysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and {{ link(text="my analysis", path="/joseph-smith-polygamy-denials/") }}).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
+Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's analysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and [my analysis](/joseph-smith-polygamy-denials/)).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
 
 However, some *contemporary* evidence exists that Joseph Smith practiced polygamy.
 
@@ -29,7 +29,7 @@ However, some *contemporary* evidence exists that Joseph Smith practiced polygam
 [D&C 132, received 12 July 1843](http://www.josephsmithpapers.org/paper-summary/revelation-12-july-1843-dc-132/1)
 
 * Mormon Stories episode 1797 ([notes](https://web.archive.org/web/20230812234615/https://www.mormonstories.org/podcast/joseph-smith-polygamy-rfm/), [youtube](https://www.youtube.com/watch?v=OH0fILAzdno)) : Radio Free Mormon argues that the affidavits in the Nauvoo Expositor recapitulate all material aspects of D&C 132 and hence demonstrate that it existed at the time of the Expositor's publication.
-    * {{ link(text="Color coded D&C 132", path="media/dc132-color-coded-by-expositor-affidavits.png") }} demonstrating themes mentioned by William and/or Jane Law (yellow), unique aspects by Jane Law (green), and Austin Cowles (blue).
+    * [Color coded D&C 132](media/dc132-color-coded-by-expositor-affidavits.png) demonstrating themes mentioned by William and/or Jane Law (yellow), unique aspects by Jane Law (green), and Austin Cowles (blue).
 * Brian Hales discusses [the provenance of Joseph C. Kingsbury's copy of D&C 132](https://mormonpolygamydocuments.org/provenance-dc-132-documented/).
 
 ### Sarah Ann Whitney documents

@@ -54,7 +54,7 @@ LDS members spend a considerable amount of time in meetings teaching one another
 
 #### Moroni's Promise
 
-Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see [Moroni 10:4--5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5)).  The practice may be viewed as open-ended and respectful of the agency of the truth-seeker, but it may also be viewed as a process with only one inevitable outcome (see {{ link(text="this diagram", path="/hermetically-sealed-systems-in-lds-thought/#4-moronis-promise") }} and discussion on {{ link(text="hermetically sealed systems of thought", path="/hermetically-sealed-systems-in-lds-thought/") }}).
+Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see [Moroni 10:4--5](https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5)).  The practice may be viewed as open-ended and respectful of the agency of the truth-seeker, but it may also be viewed as a process with only one inevitable outcome (see [this diagram](/hermetically-sealed-systems-in-lds-thought/#4-moronis-promise) and discussion on [hermetically sealed systems of thought](/hermetically-sealed-systems-in-lds-thought/)).
 
 #### Self-conditioning?
 
@@ -126,7 +126,7 @@ The very thought of dating a non-return missionary (non-RM) is [considered jaw-d
 
     > When ... inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.
 
-1. In general, logic is carefully arranged {{ link(text="to support belief", path="/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf") }}.
+1. In general, logic is carefully arranged [to support belief](/documents/hermetically_sealed_stacked_deck/hermetically-sealed-systems-in-lds-thought.pdf).
 1. [BYU's Academic Freedom Policy](https://policy.byu.edu/view/index.php?p=9) explains how human reason is subordinate to divine revelation: "Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation."  Hence, when ways of knowing clash, LDS authorities always win.
 
 #### LDS Orthodoxy
@@ -228,10 +228,10 @@ LDS members are generally reluctant to consult sources known to be critical of t
 
 #### Expression of ideas countering orthodoxy may be suppressed
 
-1. Expression of thoughts that run counter to teachings may be silenced in open microphone meetings ({{ link(text="example", path="/savannahs-testimony/") }}).
+1. Expression of thoughts that run counter to teachings may be silenced in open microphone meetings ([example](/savannahs-testimony/)).
 1. Members who publicly express reasoned opposition to specific activities of the Church may be asked to remove the video or face loss of their temple recommend (recommends confer upon the holder a number of benefits and publicly signal the faithfulness of the member to others at family events such as temple weddings) or face Church disciplinary action.
 
-    For example, this mother of five was {{ link(text="threatened with the loss of her temple recommend and her Church calling", path="/pressure-against-beliefs-counter-to-lds-position-wallys-mom/") }} if she did not remove [this video](https://www.youtube.com/watch?v=ygibBz-AsRQ) calmly expressing disagreement with the Church's disapproval of same sex marriage.
+    For example, this mother of five was [threatened with the loss of her temple recommend and her Church calling](/pressure-against-beliefs-counter-to-lds-position-wallys-mom/) if she did not remove [this video](https://www.youtube.com/watch?v=ygibBz-AsRQ) calmly expressing disagreement with the Church's disapproval of same sex marriage.
 
 1. Videos which are critical of the Church have been subject to [concerted copyright take-down attacks](https://www.reddit.com/r/exmormon/comments/6cz6wt/thoughts_on_things_and_stuffs_video_channel_was/).
 1. Sites with information critical of the LDS Church (e.g., mormonthink.com) [are blocked on wifi in LDS buildings](https://www.reddit.com/r/exmormon/comments/2wbuoi/tbm_i_saw_a_link_called_mormonthink_but_the/).
@@ -245,7 +245,7 @@ The compartmentalization of information may hinder a lay member's ability to fai
 
 1. Aspects of the temple are obfuscated or kept secret from the uninitiated.
 
-    Consider Elder Holland's [reluctance to discuss Mitt Romney's temple oath](https://youtu.be/G9v2GxDs4To?t=81) and compare how believing members answer the question "What are the covenants that are made in a Mormon temple?" (e.g., [here](http://qr.ae/TbSsIH), [here](http://qr.ae/TbSsIk), and [here](http://qr.ae/TbSsIw)) with the direct answer of a former member, [here](http://qr.ae/TbSsIO).  A typical temple initiate will only be vaguely aware of the extensive promises they will be asked to make in the temple---specific covenant verbiage is only revealed after the opportunity to withdraw has been offered and refused by the initiate (see #3 {{ link(text="here", path="/is-leaving-breaking-promises/") }}).
+    Consider Elder Holland's [reluctance to discuss Mitt Romney's temple oath](https://youtu.be/G9v2GxDs4To?t=81) and compare how believing members answer the question "What are the covenants that are made in a Mormon temple?" (e.g., [here](http://qr.ae/TbSsIH), [here](http://qr.ae/TbSsIk), and [here](http://qr.ae/TbSsIw)) with the direct answer of a former member, [here](http://qr.ae/TbSsIO).  A typical temple initiate will only be vaguely aware of the extensive promises they will be asked to make in the temple---specific covenant verbiage is only revealed after the opportunity to withdraw has been offered and refused by the initiate (see #3 [here](/is-leaving-breaking-promises/)).
 
 1. Until [very recently](https://newsroom.churchofjesuschrist.org/article/new-general-handbook-coming-in-february-2020), Handbook 1---the book that defines which activities and beliefs are considered apostate and what kind of discipline should be dispensed for various infractions---was not available to the lay member.
 1. Finances have [not been disclosed to the membership since 1959](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V48N01_112.pdf).
@@ -308,8 +308,8 @@ And Elder M Russell Ballard recently [taught](https://www.churchofjesuschrist.or
 1. Those who disagree with orthodox doctrine [are considered either ignorant or proud](https://www.churchofjesuschrist.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/false-teachings?lang=eng).
 1. When the prophet speaks, the debate is over: "Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over." ([Aaronic Priesthood Manual 1](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng))
 1. Those who "sin against the Holy Ghost" may be [wiped from existence](https://www.fairmormon.org/answers/Plan_of_salvation/Sons_of_Perdition/Eventual_fate) as a Son of Perdition.  This is typically downplayed, but the possibility may act to discourage those who have had the strongest spiritual confirmations from considering alternative models of LDS truth-claims.
-1. As {{ link(text="taught in recent manuals and official Church material", path="/how-those-who-leave-are-viewed/") }}, those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.
-1. Members are taught to "shun" and "flee" from those who openly disagree with accepted Church doctrine (see {{ link(text="The Shunning Key", path="/the-shunning-key/") }}).  Not only does this counsel help members to avoid ideas or data that might contradict the LDS worldview (listed earlier), it also serves to stigmatize dissenters.
+1. As [taught in recent manuals and official Church material](/how-those-who-leave-are-viewed/), those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.
+1. Members are taught to "shun" and "flee" from those who openly disagree with accepted Church doctrine (see [The Shunning Key](/the-shunning-key/)).  Not only does this counsel help members to avoid ideas or data that might contradict the LDS worldview (listed earlier), it also serves to stigmatize dissenters.
 
 #### Tragic, disastrous consequences for not following
 
@@ -335,7 +335,7 @@ As of 2019, those who have committed an honor code violation [will be taught in 
 
 > This is also why if you ever hear sarcastic words coming out of your mouth like: "So, what are you, the Honor Code Nazi?" or "Why are you so dressed up?" or any other words of scorn and ridicule directed at your classmates who are living the Honor Code, you should immediately recall the words of Mormon, repent on the spot, apologize to them, and ask their forgiveness.
 
-Members may refer to these consequences when attempting to persuade those who are leaving to return.  For example, an LDS father sent {{ img(path="/media/lf6n6iylqlw41-pronuke-conversation-between-wife-and-father.png", alt="this text") }}[^textcontext] to his daughter and all her siblings when she was leaving the LDS Church:
+Members may refer to these consequences when attempting to persuade those who are leaving to return.  For example, an LDS father sent <img src="/media/lf6n6iylqlw41-pronuke-conversation-between-wife-and-father.png" alt="this text">[^textcontext] to his daughter and all her siblings when she was leaving the LDS Church:
 
 > I am very aware of what you ... are doing and so is God our Father.. And you have the right to choose... but remember there will be consequences for your choices...
 

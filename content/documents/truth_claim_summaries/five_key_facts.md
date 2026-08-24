@@ -15,12 +15,12 @@ Joseph refers to Egyptian characters in specific locations on facsimile 3 and [h
 
 **More**:
 
-* {{ link(text="Resources on the Book of Abraham", path="/resources-on-the-book-of-abraham/") }}
-* {{ link(text="Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today'", path="/hauglid-against-missing-papyri-theory/") }}
+* [Resources on the Book of Abraham](/resources-on-the-book-of-abraham/)
+* [Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today'](/hauglid-against-missing-papyri-theory/)
 
 ## 2. The Book of Mormon is packed with 19th century ideas
 
-{{ link(text="In a recent interview", path="/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/") }}, the well-known Mormon historian Richard Bushman stated:
+[In a recent interview](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/), the well-known Mormon historian Richard Bushman stated:
 
 > ... there is phrasing everywhere [in the Book of Mormon], long phrases, that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible ...
 
@@ -31,8 +31,8 @@ By any measure the Book of Mormon contains an immense number of ideas, phrases, 
 
 **More**:
 
-* {{ link(text="Recent LDS Scholar observations favoring a modern origin for the Book of Mormon", path="/lds-scholars-modern-origin-evidence/") }}
-* {{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+* [Recent LDS Scholar observations favoring a modern origin for the Book of Mormon](/lds-scholars-modern-origin-evidence/)
+* [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 ## 3. Spiritual confirmations common to members of many religions
 
@@ -40,7 +40,7 @@ Members interpret spiritual experiences as a confirmation that their faith is tr
 
 **More**:
 
-{{ link(text="Resources on faith, spiritual witnesses, and epistemology", path="/resources-on-faith-spiritual-witnesses-and-epistemology/") }}
+[Resources on faith, spiritual witnesses, and epistemology](/resources-on-faith-spiritual-witnesses-and-epistemology/)
 
 ## 4. LDS leaders taught that the Priesthood/Temple ban was divine
 
@@ -66,8 +66,8 @@ Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 3
 
 * [According to Brian Hales](https://web.archive.org/web/20191030232021/http://josephsmithspolygamy.org:80/plural-wives-overview/fanny-alger/), Joseph's first polygamous relationship (with the teenage maid, Fanny Alger) was viewed as adulterous by his first wife, Emma, and close friend Oliver Cowdery.
 * After the death of the Walker family's mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, [encouraging the father to leave on a two year mission to the eastern states](http://www.wivesofjosephsmith.org/23-LucyWalker.htm).  While the father was away, [he married the 17 year old, Lucy](http://josephsmithspolygamy.org/plural-wives-overview/lucy-walker/).
-* Joseph {{ link(text="frequently misled others about practicing polygamy", path="/joseph-smith-polygamy-denials/") }}.
-* Joseph apparently promised a 14 year old girl---one [who said](https://archive.org/stream/representativewo00crocrich#page/112/search/hated+polygamy) "I hated polygamy in my heart"---that, {{ link(text="in her own words", path="/helen-mar-kimball-whitney-1881-autobiography/") }}, "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
+* Joseph [frequently misled others about practicing polygamy](/joseph-smith-polygamy-denials/).
+* Joseph apparently promised a 14 year old girl---one [who said](https://archive.org/stream/representativewo00crocrich#page/112/search/hated+polygamy) "I hated polygamy in my heart"---that, [in her own words](/helen-mar-kimball-whitney-1881-autobiography/), "If you will take this step, it will ensure your eternal salvation and exaltation & that of your father’s household & all of your kindred."
 * After other failed marriage proposals to Zina Huntington, Joseph Smith proposed again to the [happily newlywed, seven month pregnant mother](https://en.wikipedia.org/wiki/Zina_D._H._Young): "I [Joseph] have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further." ([source](http://imgur.com/a/uprjM))
 * According to Saints volume 1 (see [chapter 40][saints-v1-chapter40]), Emily and Eliza Partridge were first sealed to Joseph Smith unbeknownst to Emma.  When Emma later selected them to be sealed to Joseph, according to Emily, "to save family trouble Brother Joseph thought it best to have another ceremony performed." (see Jensen Historical Record [pg 240][jensen-historical-record-pg240]).
 
@@ -81,7 +81,7 @@ Nearly all LDS scholars acknowledge that Joseph Smith was married to [at least 3
 
 ### More Complete Analyses
 
-See {{ link(text="Problem Summaries: resources discussing LDS-truth claims", path="/truth-claim-summaries/") }}
+See [Problem Summaries: resources discussing LDS-truth claims](/truth-claim-summaries/)
 
 [^character_legibility]: I asked an Egyptologist (reddit user junkholiday) about the legibility of the characters on Facsimile 3. He responded, "it's damn near illegible. Imagine if there were just blobs in place of letters, or whole words. ... And some of them could be recognizable glyphs, but drawn by a drunk toddler." Hence translations are performed in some large part based on context gleaned from other similar documents. He elaborated, "Yeah, it's matching up best guesses, but these sorts of texts are super formulaic, so we can make decent sense of [them]." He compared it to being able to make out "Never gonna \_\_\_\_ you \_\_" which is probably "Never gonna give you up" but could be "Never gonna give you fleas".  But in no universe could it be "Four score and seven years ago." The reader may consult [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs.
 
@@ -93,7 +93,7 @@ See {{ link(text="Problem Summaries: resources discussing LDS-truth claims", pat
 
 [^fidelity_of_translation]: See [Quinten Barney's 2019 thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&context=etd), especially table 2.2, to judge the extent to which the characters are legible and correspond with known heiroglyphs. An argument is made [here]( https://web.archive.org/web/20210712210347/https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel-appendix-e-how.html) and in [this video](https://www.youtube.com/watch?v=Ftpk15fPMIM) that the legible characters are indeed translated correctly.
 
-[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  {{ link(text="They wrote", path="/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response") }}: 
+[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote](/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response): 
 
     > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.
 

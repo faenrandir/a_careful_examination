@@ -7,7 +7,7 @@ updated = "2021-06-24"
 +++
 ## Todd Compton's assessment
 
-* {{ link(text="Assessment of the evidence for sexuality", path="/compton-sexuality-in-joseph-smiths-plural-marriages/") }}
+* [Assessment of the evidence for sexuality](/compton-sexuality-in-joseph-smiths-plural-marriages/)
 * [Assessment of evidence for sexuality with Helen Mar Kimball](https://web.archive.org/web/20201008222509/http://toddmcompton.com/revhmk5.html)
 
 ## Brian Hales' assessment

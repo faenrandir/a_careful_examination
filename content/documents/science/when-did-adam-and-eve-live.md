@@ -53,4 +53,4 @@ Latter-day Saint models positing the existence of a literal man and wife from wh
 * D&C 77 --- at about 4,000 BCE
 
 
-[^literalinterpretation]: A literal interpretation of these verses is strongly implied by numerous official LDS publications, as documented in {{ link(text="The 6000 year problem", path="/the-6000-year-problem/") }}.  
+[^literalinterpretation]: A literal interpretation of these verses is strongly implied by numerous official LDS publications, as documented in [The 6000 year problem](/the-6000-year-problem/).  

@@ -5,7 +5,7 @@ extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
 updated = "2023-08-01"
 
 +++
-{{ link(text="Emma Smith's last testimony", path="/last-testimony-of-sister-emma/") }} is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]
+[Emma Smith's last testimony](/last-testimony-of-sister-emma/) is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]
 
 > *Question*. What of the truth of Mormonism?
 
@@ -48,9 +48,9 @@ In any event, because several of Joseph Smith's other compositions (e.g., letter
 
 ### See also
 
-* {{ link(text="Last Testimony of Sister Emma", path="/last-testimony-of-sister-emma/") }}
-* {{ link(text="Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon", path="/reasons-to-discount-emmas-bom-testimony/") }}
+* [Last Testimony of Sister Emma](/last-testimony-of-sister-emma/)
+* [Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon](/reasons-to-discount-emmas-bom-testimony/)
 
 [^examples]: The youth video [Compelling Witness](https://www.churchofjesuschrist.org/youth/video/compelling-witness?lang=eng) (at about 4:50) presents a courtroom scenario where Emma Smith is called as witness and she quotes from her last testimony.
 
-[^contemporary_evidence]: {{ link(text="Contemporary evidence", path="/contemporary-evidence-that-joseph-smith-practiced-polygamy/") }} supports that Joseph Smith practiced polygamy.
+[^contemporary_evidence]: [Contemporary evidence](/contemporary-evidence-that-joseph-smith-practiced-polygamy/) supports that Joseph Smith practiced polygamy.

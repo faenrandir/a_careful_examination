@@ -52,6 +52,6 @@ Additional historical context for the letters: ["Do Not Lecture the Brethren": S
 [Race and the Priesthood Essay - Footnote 9](https://drive.google.com/file/d/1uGbG1kvsluwiKvqrkQP7h7RocsrWC4cb/view) (Fuzzy_Thoughts)
 
 
-[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  {{ link(text="They wrote", path="/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response") }}: 
+[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote](/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response): 
 
     > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.

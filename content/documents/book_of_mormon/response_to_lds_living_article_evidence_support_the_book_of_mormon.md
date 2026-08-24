@@ -22,7 +22,7 @@ ideas floating around Joseph Smith's milieu.
 
 I am not the first to notice these correspondences with Joseph's environment.
 For instance, Richard Bushman---a devout member and emeritus Professor of History at Columbia
-University---{{ link(text="recently observed", path="/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/") }}:
+University---[recently observed](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):
 
 > … there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …
 
@@ -204,7 +204,7 @@ testimony.  She says:
 
 > Testimony comes only from reading with real intent, pondering, and praying. If you haven't yet done so, apply the formula found in Moroni 10:3--5. Rely on the Holy Ghost to teach and testify to you. It works every time.
 
-Even though Moroni's promise is viewed by members as a silver bullet, there are legitimate problems with this approach, as detailed in {{ link(text="Testimony, Spiritual Experiences, and Truth: A Careful Examination", path="/testimony-spiritual-experiences-truth/") }}.  The primary issues with using Moroni's promise to determine the Book of Mormon's truthfulness are:
+Even though Moroni's promise is viewed by members as a silver bullet, there are legitimate problems with this approach, as detailed in [Testimony, Spiritual Experiences, and Truth: A Careful Examination](/testimony-spiritual-experiences-truth/).  The primary issues with using Moroni's promise to determine the Book of Mormon's truthfulness are:
 
 1. There are many other religious and quasi-religious groups---each with many
    mutually exclusive truth claims---who rely on this method for convincing
@@ -219,7 +219,7 @@ Even though Moroni's promise is viewed by members as a silver bullet, there are 
 
 ## Correspondences with early 1800s Protestant America
 
-The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see {{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }} for a comprehensive list).  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
+The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/) for a comprehensive list).  For instance there are *many* similarities with [the sermons of Jonathon Edwards Jr. and Sr.](https://imgur.com/a/q2AcO) (the father/son duo were well-known preachers during and directly preceding Joseph Smith's day).  Also, ["The Late War"](https://wordtreefoundation.github.io/thelatewar/), by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains [extensive chiastic structures](https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png), and many [similar "Hebraisms"](https://wordtreefoundation.github.io/thelatewar/#hebraisms).
 
 [The Mormon Challenge](http://www.themormonchallenge.com/) presents many additional religious influences, and Thomas Donofrio has written extensively on modern [historical](http://mormonthink.com/influences.htm#part2) and [religious influences](http://mormonthink.com/influences.htm#part3) on the Book of Mormon.
 

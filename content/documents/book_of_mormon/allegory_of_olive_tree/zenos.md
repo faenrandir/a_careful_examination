@@ -9,7 +9,7 @@ An interesting apologetic argument for Zenos [documented at Book of Mormon centr
 
 A few notes in counter:
 
-Primarily, there are {{ link(text="a substantial numbers of modern sources which can explain the allegory", path="/potential-sources-allegory-olive-tree/") }}.
+Primarily, there are [a substantial numbers of modern sources which can explain the allegory](/potential-sources-allegory-olive-tree/).
 
 There is not a great correspondence between the Zenos of the BoM and Cenez:
 > However, after careful analysis, Welch concluded that a direct identification between Cenez and Zenos is not likely.

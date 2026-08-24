@@ -6,7 +6,7 @@ updated = "2019-01-10"
 
 +++
 * [Times and Seasons Vol 6 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9684) no 8.
-* {{ link(text="pgs 893-895 (standalone PDF)", path="/documents/polygamy/denials/originals/1845-05-01-Times-and-Seasons-Mormonism-Unveiled.pdf") }}
+* [pgs 893-895 (standalone PDF)](/documents/polygamy/denials/originals/1845-05-01-Times-and-Seasons-Mormonism-Unveiled.pdf)
 
 Note that John Taylor had [four wives](https://restorationbookstore.org/articles/nopoligamy/jsfp-vol2/2chp17.htm) when he published and endorsed this letter as editor of the Times and Seasons.
 

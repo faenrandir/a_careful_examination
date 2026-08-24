@@ -8,7 +8,7 @@ updated = "2023-11-08"
 ## Both helps and harms
 
 * [Religion, Mental Health, and the Latter-Day Saints: A Review of Literature 2005–2022](https://www.mdpi.com/2077-1444/14/6/701) (Dyer et al. from BYU)
-* {{ link(text="Helps and harms", path="/documents/helps_and_harms/Helps_and_Harms.pdf") }} (one page summary)
+* [Helps and harms](/documents/helps_and_harms/Helps_and_Harms.pdf) (one page summary)
 * [The Pros and Cons of Mormonism](https://web.archive.org/web/20190428215610/http://prosandconsofmormonism.com/) (extensive analysis)
 
 ## Focusing on helps
@@ -26,4 +26,4 @@ updated = "2023-11-08"
 ## See also
 
 * [Is Christianity Harmful?](https://www.youtube.com/watch?v=FnbHal6vL4o) (argues against data/arguments suggesting that religion is harmful)
-* {{ link(text="Beit-Hallahmi on the religious engagement paradox", path="/beit-hallahmi-on-the-religious-engagement-paradox/") }}
+* [Beit-Hallahmi on the religious engagement paradox](/beit-hallahmi-on-the-religious-engagement-paradox/)

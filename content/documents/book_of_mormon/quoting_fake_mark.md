@@ -5,7 +5,7 @@ extra = {doctype = "resource", maintopic = "book-of-mormon", featuredimage = "/m
 updated = "2024-03-23"
 
 +++
-Many {{ link(text="theological anachronisms exist in the Book of Mormon", path="/bom-parallels-to-1800s-thought/") }}, but among the most problematic is the quotation of the end of the book of Mark by Moroni.
+Many [theological anachronisms exist in the Book of Mormon](/bom-parallels-to-1800s-thought/), but among the most problematic is the quotation of the end of the book of Mark by Moroni.
 
 ### The verses in question
 
@@ -99,7 +99,7 @@ Moroni states that Jesus spoke to the disciples in the New World using the exact
 ### See also
 
 * [The Long Ending of Mark and the Book of Mormon](https://www.ldsdiscussions.com/mark) (ldsdiscussions)
-* {{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+* [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 ### Acknowledgements
 

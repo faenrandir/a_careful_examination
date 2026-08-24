@@ -59,7 +59,7 @@ I was only able to locate a few of these on my own, but redditor `TruthIsAntiMor
 
 ### See also
 
-{{ link(text="Palmyra was rich in books", path="/palmyra-was-rich-in-books/") }}
+[Palmyra was rich in books](/palmyra-was-rich-in-books/)
 
 
 [^rollin]: This is “The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Grecians and Macedonians – in Two Volumes” by Charles Rollin.

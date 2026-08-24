@@ -9,10 +9,10 @@ updated = "2023-08-01"
 
 On April 17, 2014 at 4:32PM, I sent this email to four of my research students at BYU (3 grad students and one undergrad) who I thought might appreciate it, all of my siblings, and to my parents.
 
-It is indicative of the kind of research I was doing in reconciling issues with a faithful LDS perspective but also how some of the conclusions I reached during that quest led me to seriously consider the hypothesis that much of LDS doctrine---my faith transition occurred when I finally concluded it was likely all---was simply a product of an earlier cultural milieu.  This was not the first time I had noticed or relied upon {{ link(text="milieu transferance", path="/george-mccready-price-inspired-ndbf/") }} in finding LDS faithful reconciliations between science and LDS doctrine (see discussions {{ link(text="here", path="/evidence-of-humans-r-gary-exchange/") }} and {{ link(text="here", path="/1910-priesthood-quorums-table-r-gary-exchange/") }}).
+It is indicative of the kind of research I was doing in reconciling issues with a faithful LDS perspective but also how some of the conclusions I reached during that quest led me to seriously consider the hypothesis that much of LDS doctrine---my faith transition occurred when I finally concluded it was likely all---was simply a product of an earlier cultural milieu.  This was not the first time I had noticed or relied upon [milieu transferance](/george-mccready-price-inspired-ndbf/) in finding LDS faithful reconciliations between science and LDS doctrine (see discussions [here](/evidence-of-humans-r-gary-exchange/) and [here](/1910-priesthood-quorums-table-r-gary-exchange/)).
 
 My research into the origin in LDS thought of the Flood as the Earth's baptism
-culminated with this document:  {{ link(text="The Flood as the Earth's Baptism: origin in LDS thought", path="/flood-as-baptism-origin-in-LDS-thought/") }}
+culminated with this document:  [The Flood as the Earth's Baptism: origin in LDS thought](/flood-as-baptism-origin-in-LDS-thought/)
 
 
 ---

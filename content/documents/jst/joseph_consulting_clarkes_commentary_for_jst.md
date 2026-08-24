@@ -23,7 +23,7 @@ In a Mormon Stories podcast, Haley Wilson Lemmón gave some [specific examples](
 
 ## Rebuttal
 
-See {{ link(text="Responses to Joseph Smith relying on Clarke for JST", path="/responses-to-js-relying-on-clarke-for-jst/") }}
+See [Responses to Joseph Smith relying on Clarke for JST](/responses-to-js-relying-on-clarke-for-jst/)
 
 ## Original academic publications
 

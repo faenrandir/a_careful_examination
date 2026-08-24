@@ -16,7 +16,7 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
 ### Religious and educational environment
 
 1. Joseph Smith's father had "been a merchant and a teacher." ([Ensign 1971](https://www.churchofjesuschrist.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng)).
-1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College.  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to {{ link(text="the teachings of Professor John Smith", path="/similarities-between-john-smiths-writings-and-bom/") }} who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
+1. Hyrum attended [Moor's Indian Charity School](https://faenrandir.github.io/a_careful_examination/hyrum-attended-moor-school/) which was co-located with Dartmouth College.  Students attended "daily chapel services at the White Church on campus" and Hyrum may have been exposed to [the teachings of Professor John Smith](/similarities-between-john-smiths-writings-and-bom/) who had recently died after 23 years as Hanover's minister and influential Dartmouth professor.[^hyrum_smith_at_moor]
 1. Joseph's grandmother had been a schoolteacher and had taught Joseph's mother. ([source](https://books.google.com/books?id=A-cWAQAAIAAJ&pg=RA1-PA257#v=snippet&q=%22Lydia%20Gates%20Mack%2C%20was%20a%20school-teacher%20and%20taught%20his%20mother%22&f=false))
 1. Joseph Smith had 3 years of "formal" education.  Compare that with other prolific authors of his era:
     * Andrew Jackson Davis: [claimed 5 months](https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis)---dictated the 320,000 word volume "The Principles of Nature" at the age of 20.
@@ -29,7 +29,7 @@ Latter-day Saints tend to focus on Joseph Smith's lack of significant formal edu
     Each of the above had similar levels of formal education and it goes without saying that they were able to compose works of outstanding literary quality.
 1. A recent analysis of Joseph's education puts the number of years at possibly closer to seven ([Reassessing Joseph Smith Jr.’s Formal Education in the Winter 2016 Dialogue](https://www.academia.edu/31771595/Reassessing_Joseph_Smith_Jr._s_Formal_Education?auto=download)).
 1. In Joseph Smith's time it was commonplace to downplay "a person's education in order to accentuate the miraculous nature of his or her accomplishments." (see pgs 62--65 of [William Davis's Dissertation](https://escholarship.org/uc/item/86h814zv) for many examples)
-1. Palmyra was {{ link(text="rich in books", path="/palmyra-was-rich-in-books/") }}, generally.
+1. Palmyra was [rich in books](/palmyra-was-rich-in-books/), generally.
 
 ### Religious immersion
 
@@ -39,7 +39,7 @@ In his earliest history, [Joseph Smith wrote](https://www.josephsmithpapers.org/
 
 > I was born in the town of Charon [Sharon] in the State of Vermont North America on the twenty third day of December AD 1805 of goodly Parents **who spared no pains to instructing me in the christian religion**. at the age of about ten years my Father Joseph Smith Seignior moved to Palmyra Ontario County in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren and as it required the exertions of all that were able to render any assistance for the support of the Family **therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading writing and the ground rules of Arithmatic which constituted my whole literary acquirements. **At about the age of twelve years** my mind become seriously imprest with regard to the all importent concerns for the wellfare of my immortal Soul which **led me to searching the scriptures** believeing as I was taught, that they contained the word of God thus applying myself to them and **my intimate acquaintance with those of differant denominations** led me to marvel excedingly for I discovered that they did not adorn their profession by a holy walk and Godly conversation agreeable to what I found contained in that sacred depository this was a grief to my Soul thus **from the age of twelve years to fifteen I pondered many things in my heart concerning the sittuation of the world of mankind the contentions and divisions the wickedness and abominations and the darkness which pervaded the minds of mankind my mind become excedingly distressed for I become convicted of my sins and by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith** and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament and I felt to mourn for my own sins and for the sins of the world ...
 
-So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how {{ link(text="familiar he was with the scriptures and the religious arguments of the day", path="/religious-interest-and-capability-from-1832-statement/") }}.  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
+So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how [familiar he was with the scriptures and the religious arguments of the day](/religious-interest-and-capability-from-1832-statement/).  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.
 
 #### Biblical allusion in the Colesville Letters
 
@@ -125,13 +125,13 @@ As an adult he attended some high school.  His teacher, William E. McLellin, [de
 
 ### Emma's last testimony
 
-The most frequent testimony advanced to suggest that Joseph was not be capable of composing the Book of Mormon was delivered by his wife, Emma.  Her {{ link(text="last testimony", path="/last-testimony-of-sister-emma/") }} reads (emphasis added):
+The most frequent testimony advanced to suggest that Joseph was not be capable of composing the Book of Mormon was delivered by his wife, Emma.  Her [last testimony](/last-testimony-of-sister-emma/) reads (emphasis added):
 
 > Question. Could not father have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?
 
 > Answer. Joseph Smith (and for the first time she used his name direct, having usually used the words, “your father” or “my husband”) **could neither write nor dictate a coherent and well-worded letter**, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me, “a marvel and a wonder,” as much so as to anyone else.
 
-However, there are {{ link(text="good reasons to discount aspects of Emma's testimony", path="/reasons-to-discount-emmas-bom-testimony/") }}.
+However, there are [good reasons to discount aspects of Emma's testimony](/reasons-to-discount-emmas-bom-testimony/).
 
 ## The case against Joseph's potential capability
 
@@ -152,7 +152,7 @@ Finally, Brian Hales has written some other documents generally arguing against 
 
 Despite lacking extensive formal training, Joseph was raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, some of those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.  On the other hand, the argument can be made that many did not attribute great intellectual powers to Joseph, and that he lacked the necessary education or prepartion in order to be able to compose a book like the Book of Mormon, especially under the circumstances witnessed.
 
-[^hyrum_smith_at_moor]: Hyrum Smith's time at Moor's School, along with substantiation of all the above-mentioned points may be found {{ link(text="here", path="/hyrum-attended-moor-school/") }}
+[^hyrum_smith_at_moor]: Hyrum Smith's time at Moor's School, along with substantiation of all the above-mentioned points may be found [here](/hyrum-attended-moor-school/)
 
 [^williamdaviscredit]: The instances from 1832 and beyond where Joseph is recorded to have been engaged in reading for the day, along with other first hand accounts of Joseph's reading, were first brought to my attention in reading William Davis's [PhD dissertation](https://escholarship.org/uc/item/86h814zv).
 

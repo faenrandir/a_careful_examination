@@ -29,7 +29,7 @@ _If any question contains incorrect information or is misleading in any way, ple
 
 1. Why did [Zina Huntington](https://en.wikipedia.org/wiki/Zina_D._H._Young) become Brigham Young's wife after Joseph died and not Henry Jacob's wife (especially considering that Henry already had children with Zina)?
 
-1. Joseph Smith directly or implicitly {{ link(text="denied practicing polygamy", path="/joseph-smith-polygamy-denials/") }} 4 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and {{ link(text="other early leaders", path="/documents/polygamy/denials/denial_analysis.pdf") }}) to repeatedly mislead others about their practice of polygamy?[^mislead_rebuttal]
+1. Joseph Smith directly or implicitly [denied practicing polygamy](/joseph-smith-polygamy-denials/) 4 times in his own words and was responsible for 3 additional direct denials.  What made it okay for Joseph Smith (and [other early leaders](/documents/polygamy/denials/denial_analysis.pdf)) to repeatedly mislead others about their practice of polygamy?[^mislead_rebuttal]
 
 1. What was the point of a union with [14 year old Helen Mar Kimball](http://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)?  Specifically, if polyandrous unions with Joseph were good enough for the Jacobs and Hyde families, why would a potential polyandrous union with Vilate be inadequate for sealing to the Kimball family?
 
@@ -47,27 +47,27 @@ Why do the translations of the facsimile characters not match up?[^consider_sect
 
 ## The Book of Mormon
 
-Richard Bushman, a well-known Mormon historian, {{ link(text="recently stated", path="/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/") }}:
+Richard Bushman, a well-known Mormon historian, [recently stated](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):
 
 > ... there is phrasing everywhere--long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament ...
 
-The number of {{ link(text="similarities with early 1800s thought is _extensive_", path="/bom-parallels-to-1800s-thought/") }}.
+The number of [similarities with early 1800s thought is _extensive_](/bom-parallels-to-1800s-thought/).
 
 1. If the Book of Mormon is a historical record, and if we accept as accurate the stories of how it was translated (i.e., [words appeared on the stone in a hat until they were written correctly](https://www.churchofjesuschrist.org/ensign/1993/07/a-treasured-testament?lang=eng)) why does it bear such a strong imprint of having been composed in the early 19th century?
 
-1. Why are there {{ link(text="translation errors in the Book of Mormon", path="/scholar-survey-kjv-translation-errors-in-bom-isaiah/") }} which follow after [the 1769 King James edition of the Bible](https://web.archive.org/web/20230127044107/https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Translation_Errors_from_the_KJV) that Joseph Smith's family owned?
+1. Why are there [translation errors in the Book of Mormon](/scholar-survey-kjv-translation-errors-in-bom-isaiah/) which follow after [the 1769 King James edition of the Bible](https://web.archive.org/web/20230127044107/https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Translation_Errors_from_the_KJV) that Joseph Smith's family owned?
 
 1. Why does the Book of Mormon [closely quote deutero-Isaiah](https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/) which likely wasn't written (at least in its current form) [until _after_ Lehi and his family would have left Jerusalem](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/)?
 
-1. Why would Moroni have quoted Jesus speaking the precise words found at the end of the book of Mark when the section he was quoting is, according to most Biblical scholars today, of {{ link(text="dubious origin", path="/moroni-quotes-sections-of-mark-dubious-origin/") }}?
+1. Why would Moroni have quoted Jesus speaking the precise words found at the end of the book of Mark when the section he was quoting is, according to most Biblical scholars today, of [dubious origin](/moroni-quotes-sections-of-mark-dubious-origin/)?
 
-1. If the book is ancient in origin, why did the author of the Book of Mormon quote or paraphrase New Testament scripture more often than Old Testament scripture (see [here](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/) or {{ link(text="here", path="/comparison-table-book-of-mormon-and-bible-verses-origins-project/") }}), even before the New Testament was written?
+1. If the book is ancient in origin, why did the author of the Book of Mormon quote or paraphrase New Testament scripture more often than Old Testament scripture (see [here](https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/) or [here](/comparison-table-book-of-mormon-and-bible-verses-origins-project/)), even before the New Testament was written?
 
 ## Spiritual Confirmation and Priesthood Guidance
 
-1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in {{ link(text="Testimony, Spiritual Experiences, and Truth: A Careful Examination", path="/testimony-spiritual-experiences-truth/") }})
+1. Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) and additional discussion in [Testimony, Spiritual Experiences, and Truth: A Careful Examination](/testimony-spiritual-experiences-truth/))
 
-1. Given {{ link(text="how missionaries instruct members to pray about the Book of Mormon", path="/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf") }}, in what fashion could a person arrive at the conclusion that the Book of Mormon is _not_ true?  If a person persistently followed Moroni's promise with any sufficiently inspiring book, what would be the end result?
+1. Given [how missionaries instruct members to pray about the Book of Mormon](/documents/hermetically_sealed_stacked_deck/bom-standalone.pdf), in what fashion could a person arrive at the conclusion that the Book of Mormon is _not_ true?  If a person persistently followed Moroni's promise with any sufficiently inspiring book, what would be the end result?
 
 1. Elder Holland shared ["the missionary speech of all time"](https://web.archive.org/web/20170707173418/http://www.deseretnews.com/article/865683974/The-divine-companionship-includes-the-Holy-Ghost-in-missionary-work-Elder-Holland-says.html) at a New Mission President Seminar.  It was shared by many others,[^shared_by_others] who also found it to be very powerful.  Ultimately, key parts of the story were [found to be in error](https://web.archive.org/web/20170801011757/http://www.deseretnews.com/article/865685840/Elder-Holland-withdraws-Church-News-missionary-story.html), calling into question [the validity of the entire story](http://www.mormondiscussionpodcast.org/2017/08/radio-free-mormon-016-make-way-dodos/).  Why did people report feeling so touched (e.g., "the most powerful message to my heart...") by a story that was deeply flawed factually?  Is it possible for a person to have received a similar witness of the "truth" of the Book of Mormon and for it to be factually flawed?
 
@@ -85,11 +85,11 @@ The number of {{ link(text="similarities with early 1800s thought is _extensive_
 
 ## Adam and Eve
 
-The Church teaches {{ link(text="in multiple current manuals", path="/the-6000-year-problem/") }} that Adam lived at approximately 4000 BC; Joseph Smith claimed that [Adam and Eve walked out of the Garden of Eden into Missouri, USA](http://en.fairmormon.org/Joseph_Smith/Garden_of_Eden_in_Missouri),[^eden_in_missiour] and modern leaders [affirm the physical, literal reality of Adam and Eve](https://www.churchofjesuschrist.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=eng).  In addition, restored LDS scripture describes Adam and Eve tilling the ground immediately upon their explusion from the Garden of Eden (see [Moses 4:29](https://www.churchofjesuschrist.org/scriptures/pgp/moses/4.29)).  Given that agriculture was not invented [until about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution), it appears that all accounts of Adam and Eve from LDS prophetic sources place them somewhere between 4,000 BCE and 10,000 BCE (in Missouri, USA).
+The Church teaches [in multiple current manuals](/the-6000-year-problem/) that Adam lived at approximately 4000 BC; Joseph Smith claimed that [Adam and Eve walked out of the Garden of Eden into Missouri, USA](http://en.fairmormon.org/Joseph_Smith/Garden_of_Eden_in_Missouri),[^eden_in_missiour] and modern leaders [affirm the physical, literal reality of Adam and Eve](https://www.churchofjesuschrist.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=eng).  In addition, restored LDS scripture describes Adam and Eve tilling the ground immediately upon their explusion from the Garden of Eden (see [Moses 4:29](https://www.churchofjesuschrist.org/scriptures/pgp/moses/4.29)).  Given that agriculture was not invented [until about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution), it appears that all accounts of Adam and Eve from LDS prophetic sources place them somewhere between 4,000 BCE and 10,000 BCE (in Missouri, USA).
 
 However, many data points [support a migration out of Africa beginning about 70,000 years ago](https://en.wikipedia.org/wiki/Early_human_migrations).  Aboriginal Australians likely migrated to Australia about _50,000_ years ago, and extensive evidence shows migrations into the Pacific islands [around _20,000_ years ago](https://en.wikipedia.org/wiki/History_of_the_Pacific_Islands#Philippines).[^dating]  In addition, all human genetic sequence data and inferences about viable population size suggest that there was never a time when there were only two humans on earth ([example 1](https://newrepublic.com/article/115759/adam-eve-theologians-try-reconcile-science-and-fail), [example 2](https://whyevolutionistrue.wordpress.com/2011/09/18/how-big-was-the-human-population-bottleneck-not-anything-close-to-2/)).
 
-1. In what fashion was Adam "the first man of all men" (Moses 1:34) and the "primal parent of our race" (according to [the 1909 First Presidency Statement](https://www.churchofjesuschrist.org/ensign/2002/02/the-origin-of-man?lang=eng) and {{ link(text="many other similar statements", path="/adam-and-eve-the-first-couple/") }}) respective to the Australian Aborigines and Pacific Islanders?  Are those people descendants of Adam and Eve?  If not, what makes Adam and Eve their "parent"?
+1. In what fashion was Adam "the first man of all men" (Moses 1:34) and the "primal parent of our race" (according to [the 1909 First Presidency Statement](https://www.churchofjesuschrist.org/ensign/2002/02/the-origin-of-man?lang=eng) and [many other similar statements](/adam-and-eve-the-first-couple/)) respective to the Australian Aborigines and Pacific Islanders?  Are those people descendants of Adam and Eve?  If not, what makes Adam and Eve their "parent"?
     
 1. If Adam and Eve were literal people, what is one possible time or place they could have lived that is also compatible with our understanding of the human migration data?
 
@@ -109,9 +109,9 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
 ## See also
 
-* {{ link(text="Truth-claim summaries and apologetics", path="/truth-claim-summaries/") }}
-* {{ link(text="Five Key Facts", path="/five-key-facts/") }}
-* {{ link(text="Bill Reel and Stake President ask five questions to LDS leadership", path="/bill-reel-stk-pes-ask-five-questions/") }}
+* [Truth-claim summaries and apologetics](/truth-claim-summaries/)
+* [Five Key Facts](/five-key-facts/)
+* [Bill Reel and Stake President ask five questions to LDS leadership](/bill-reel-stk-pes-ask-five-questions/)
 * [220 Questions for Mormons with Doubting Loved Ones](http://questioningthechurch.blogspot.com/2019/10/220-questions-for-mormons-with-doubting.html)
 
 
@@ -183,9 +183,9 @@ Joseph Smith also emphasized "there is no error in the revelations which I have 
 
     > Strictly speaking, we do not know where the Garden of Eden was.  Joseph Smith established a settlement called Adam-ondi-Ahman in Daviess County, Missouri.  While not an important or foundational doctrine, **Latter-day Saints believe that Adam and Eve dwelt in that area after being expelled from the Garden of Eden**. (emphasis added)
 
-[^dating]: The various methods used to date these events are accepted as generally accurate by every BYU scientist who operates within these domains ({{ link(text="for example", path="/carbon-14-dating-generally-reliable/") }}).  In part, that's because these methods are verified and calibrated by highly orthogonal measures of the passage of time (position of the stars relative to stonehenge, varve layers, speleothem deposition, tree-rings, etc).
+[^dating]: The various methods used to date these events are accepted as generally accurate by every BYU scientist who operates within these domains ([for example](/carbon-14-dating-generally-reliable/)).  In part, that's because these methods are verified and calibrated by highly orthogonal measures of the passage of time (position of the stars relative to stonehenge, varve layers, speleothem deposition, tree-rings, etc).
 
-[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  {{ link(text="They wrote", path="/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response") }}: 
+[^fp1949]: In August 2020, a Church Historian from the Church History Library responded to my inquiry about the 1949 First Presidency Statement.  [They wrote](/aug-2020-church-historian-communication-on-1949-first-presidency-statement/#first-written-response): 
 
     > We can confirm that [The text of the 1949 Statement] was used by the First Presidency in responses to inquiries about the priesthood restriction for several years beginning in 1949. The text was never issued publicly but, rather, was used as standard language in private correspondence.
 

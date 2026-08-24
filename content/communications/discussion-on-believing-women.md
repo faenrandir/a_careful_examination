@@ -19,7 +19,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
 2. Since it is related to how women’s stories were received during the polygamy era, we probably shouldn’t neglect Martha Brotherton’s experience with polygamy and how she was treated after refusing to enter the institution. Her experience offers a window into the kind of choice the brides had that accepted polygamy (i.e., what kinds of consequences might befall someone who did not accept an offer of polygamy?).
 
-    {{ link(text="Martha Brotherton's Affidavit", path="/martha-brotherton-affidavit/") }}
+    [Martha Brotherton's Affidavit](/martha-brotherton-affidavit/)
 
     We should remind ourselves that Brotherton’s affidavit is almost certainly factual, at the very least [in its general outline](https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/).
 
@@ -29,11 +29,11 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
 
     Then, Joseph Smith was primarily responsible for distributing affidavits against Bennett (see [footnote #5](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/#fn:josephinstigatedaffidavits)) which included sound denunciations of Martha Brotherton’s affidavit from BY (“the affidavit…is a base falsehood”) and HCK (“the affidavit…is false and without foundation in truth”). They even enlisted Martha’s SIL and sister to tongue lash Martha in defense of the good names of the Brethren (“Martha Brotherton is a deliberate liar, and also a wilful inventor of lies”).
 
-    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to {{ link(text="defame Brotherton", path="/a_careful_examination/millenial-star-denial-aug-1842/") }} in the most vigorous terms for daring to suggest that these brothers were practicing polygamy.
+    Finally, following in the footsteps of JS, BY, and HCK, Parley P. Pratt would also go on to [defame Brotherton](/a_careful_examination/millenial-star-denial-aug-1842/) in the most vigorous terms for daring to suggest that these brothers were practicing polygamy.
 
     The irony in all of this is that the only person who told the truth was Martha, and the later history/actions of everyone involved would vindicate Martha:
 
-    * BY would eventually have {{ link(text="Brotherton sealed to him", path="/brigham-young-sealed-to-martha-brotherton/") }}
+    * BY would eventually have [Brotherton sealed to him](/brigham-young-sealed-to-martha-brotherton/)
     * PPP would eventually take Elizabeth Brotherton [as a polygamous wife](https://history.churchofjesuschrist.org/overlandtravel/pioneers/936/elizabeth-brotherton-pratt).
     * JS [lied repeatedly about practicing polygamy](https://faenrandir.github.io/a_careful_examination/joseph-smith-polygamy-denials/), but he was doing it nonetheless!
     * HCK ended up marrying [a total of 43 women](https://en.wikipedia.org/wiki/Heber_C._Kimball#Wives_and_children)
@@ -55,7 +55,7 @@ First of all, I agree with your main point (i.e., there is some hypocrisy involv
     * Emma viewed Joseph’s relationship with Fanny as adulterous, suggesting that Joseph didn’t get adequate buy-in from Emma. This is ethically problematic.
     * After the death of the Walker family’s mother, Joseph Smith volunteered to act as foster parent to the four oldest Walker children, encouraging the father to leave on a two year mission to the eastern states. While the father was away, he married the 17 year old, Lucy. Under these circumstances, she should not have been made to feel pressured into this situation, regardless of her later disposition towards polygamy.
 
-    See {{ link(text="Five Key Facts", path="/five-key-facts/") }} for sources.
+    See [Five Key Facts](/five-key-facts/) for sources.
 
 ---
 
@@ -119,8 +119,8 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
     I am happy to engage with any documentation that is publicly available. I’ve read most everything you have posted online and have spent a while digging in mormonpolygamydocuments, so I am comfortable suggesting that you have not directly addressed these problems yet:
 
-    * Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and {{ link(text="besmirched Brotherton in doing so", path="/times-and-seasons-apr-15-1842-conference-minutes/") }}).
-    * Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith {{ link(text="would have known those statements were false and misleading", path="/affidavits-against-bennets-letters-brotherton-focus/") }}.
+    * Joseph Smith’s conference talk denouncing Brotherton constitutes a lie (two claims were discussed, one likely an exaggeration and one of them was absolutely true; Joseph denounced the claims in totality and [besmirched Brotherton in doing so](/times-and-seasons-apr-15-1842-conference-minutes/)).
+    * Joseph Smith encouraged the spreading of the affidavits against Bennett. These included multiple lies against Martha Brotherton’s statement, and Joseph Smith [would have known those statements were false and misleading](/affidavits-against-bennets-letters-brotherton-focus/).
 
     > I maintain if these women had stayed silent, JS would have stayed silent too.
 
@@ -136,7 +136,7 @@ Thank you for the thoughtful response, Brian. I respect your contributions to LD
 
     What impact did this sealing have on the relationship between Zina and Henry Jacobs? To whom will Zina’s children (2 from Henry and one from BY) belong in the eternities? What moral goods were brought about as a result of this sealing? What moral harms were experienced?
 
-    Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See {{ link(text="primary focus of early sealing ceremonies", path="/a_careful_examination/primary-focus-of-sealing-for-polygamy/") }}
+    Perhaps more importantly, the pattern of sealings in the first 2 years (of which Zina was a part) could hardly be characterized as promoting anything other than plural marriage itself. See [primary focus of early sealing ceremonies](/a_careful_examination/primary-focus-of-sealing-for-polygamy/)
 
     So, in its first 2 years, the “sealing” was not focused on linking families together, but linking polygamous wives to priesthood leaders. (This changed in the spring of 1843, perhaps related to when PPP was introduced to the practice)
 

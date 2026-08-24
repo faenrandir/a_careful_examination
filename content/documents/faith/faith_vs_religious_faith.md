@@ -79,7 +79,7 @@ I may have missed something in my thinking, though, and I am open to considering
 
 ### A Case Study: Faith in Priesthood blessings
 
-In {{ link(text="The efficacy of Priesthood Blessings", path="/the-efficacy-of-priesthood-blessings/") }} I outline data and arguments suggesting that LDS Priesthood blessings do not seem to surpass natural bounds (i.e., what might be accomplished via the placebo effect) and in many instances seem to have failed (e.g., dozens of patriarchal blessings promising individuals that they would live to see the second coming that were not fulfilled).
+In [The efficacy of Priesthood Blessings](/the-efficacy-of-priesthood-blessings/) I outline data and arguments suggesting that LDS Priesthood blessings do not seem to surpass natural bounds (i.e., what might be accomplished via the placebo effect) and in many instances seem to have failed (e.g., dozens of patriarchal blessings promising individuals that they would live to see the second coming that were not fulfilled).
 
 After scrutinizing that data and determining that it is sound, it seems to me that our faith in Priesthood Blessings _ought_ to be constrained (at least a little bit) if it is indeed confidence-based faith.  To my mind, only religious faith would refuse to study/acknowledge potential failures and adjust confidence level in the efficacy of Priesthood blessings in light of available data.[^coherentism]
 

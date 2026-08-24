@@ -41,7 +41,7 @@ The idea of ancient metal plates or tablets containing writing appears to have b
 
 Other similarities from the early 1800s cultural milieu echo other aspects of the metal plates---both the story of their retrieval and descriptions within the Book of Mormon itself.
 
-* Manuscript Found, written by Solomon Spaulding in the early 1800s, begins with a description of stone boxes, caves, and "earthen" boxes containing ancient documents that {{ link(text="echoes aspects of the metal plates", path="/solomon-spaulding-manuscript-found-box-excerpt/") }}.
+* Manuscript Found, written by Solomon Spaulding in the early 1800s, begins with a description of stone boxes, caves, and "earthen" boxes containing ancient documents that [echoes aspects of the metal plates](/solomon-spaulding-manuscript-found-box-excerpt/).
 
 ### See also
 

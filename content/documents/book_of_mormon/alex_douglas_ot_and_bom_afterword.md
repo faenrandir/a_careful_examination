@@ -113,7 +113,7 @@ Does a non-historical Book of Mormon mean that Mormonism is untrue? I cannot den
 
 ## See also
 
-{{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+[Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 [^footnote_1]: While the prophetic books were not compiled until quite late, the prophecies themselves were most likely written during the time of the prophets. Thus the prophecies in Isaiah 2, for example, were probably written down in the time of Isaiah, but they would have been preserved and passed down by his disciples (see Isa. 8:16), not by some central authority that kept “the prophecies of the holy prophets, from the beginning, even down to the commencement of the reign of Zedekiah; and also many prophecies which have been spoken by the mouth of Jeremiah” (1 Ne. 5:13). If they had been kept by some central authority, we would expect the Deuteronomistic History to have known and quoted from them, particularly when covering the time when these prophets were active.
 

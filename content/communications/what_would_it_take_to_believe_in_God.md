@@ -17,7 +17,7 @@ One way to allow them to see the problem from your perspective is to ask some co
 
 Regardless of their response to the above (which is sort of a dodge, but a fair one given the signs teaching of Jesus), a question that you *can* reasonably answer is: why is the evidence that influences most believers to believe not sufficient for me to believe?  In other words, why do I set my bar so high for believing in God?  For me, the answer is:
 
-* We can demonstrate that the *kinds* of things that most people use to build their faith in God on are either epistemologically questionable or have been demonstrated to be self-generatable (e.g. , see {{ link(text="these", path="/resources-on-faith-spiritual-witnesses-and-epistemology/") }} and especially the [Intervention experiment](https://www.youtube.com/watch?v=ust-pJC-9j8&feature=youtu.be&t=1931)).
+* We can demonstrate that the *kinds* of things that most people use to build their faith in God on are either epistemologically questionable or have been demonstrated to be self-generatable (e.g. , see [these](/resources-on-faith-spiritual-witnesses-and-epistemology/) and especially the [Intervention experiment](https://www.youtube.com/watch?v=ust-pJC-9j8&feature=youtu.be&t=1931)).
 * An argument can be made that [religious faith is not a virtue](https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/).  *For me*, based on the evidence I've been exposed to and sought out, to "choose" to believe in God in spite of this evidence seems like it would be some kind of immoral act (at the very least, not authentic at all).  To be clear, I'm not certain that some kind of God doesn't exist, but most LDS believers want more than that (they want positive, specific belief[^faith_in_god]).
 
 God (if he/she/it exists) knows *why* I am skeptical: and it's not because I don't want to believe in God or because I am adulterous in my heart.[^adulterous_heart]
@@ -44,7 +44,7 @@ Most educated Latter-day Saints and former members fall into two pools[^the_othe
 
 * **1/2**: Those who choose naturalism because of #1, even if they believe that the religious model is somewhat better for many people (#2), are simply asserting that the misery caused because of bad predictions (#1) outweighs the good of subscribing to religious models.
 
-I would argue that nobody has conclusively demonstrated that either 2/1 or 1/2 is maximally optimal for *everyone* on all the measures of joy/happiness/pain/suffering we care about (take the religious engagement paradox {{ link(text="for example", path="/beit-hallahmi-on-the-religious-engagement-paradox/") }}).
+I would argue that nobody has conclusively demonstrated that either 2/1 or 1/2 is maximally optimal for *everyone* on all the measures of joy/happiness/pain/suffering we care about (take the religious engagement paradox [for example](/beit-hallahmi-on-the-religious-engagement-paradox/)).
 
 So, framing the discussion like this focuses us on how we weigh the goodness of our models, and it finally gives us a framework to answer the original question without "sign-seeking", *per se*.
 
@@ -60,7 +60,7 @@ Maybe the symmetrical counter-question for believers (no more loaded that their 
 
 [^faith_in_god]: The first principle of the Gospel is [Faith in the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/ensign/2000/10/the-first-principles-and-ordinances-of-the-gospel?lang=eng), which is roughly synonymous with exercising positive belief in God.
 
-[^adulterous_heart]: If homosexuals {{ link(text="can't pray away their orientation", path="/lds-statements-on-cause-and-cure-for-homosexuality/") }}, then perhaps some people really do not believe *because* of how they see the evidence and *not because* they want to cheat on and lie to their wife?
+[^adulterous_heart]: If homosexuals [can't pray away their orientation](/lds-statements-on-cause-and-cure-for-homosexuality/), then perhaps some people really do not believe *because* of how they see the evidence and *not because* they want to cheat on and lie to their wife?
 
 [^why_do_good]: There is plenty of good evidence suggesting that other consciousnesses (i.e., humans) really do exist and that their conscious experience matters to them as much as mine does to me.
 

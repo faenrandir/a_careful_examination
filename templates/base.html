@@ -5,17 +5,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {% elif section.title %}{{ section.title }} | {% endif %}{{ config.title }}</title>
-  {% if page.description %}
+  <title>{% if page is defined and page.title %}{{ page.title }} | {% elif section is defined and section.title %}{{ section.title }} | {% endif %}{{ config.title }}</title>
+  {% if page is defined and page.description %}
   <meta name="description" content="{{ page.description }}">
-  {% elif section.description %}
+  {% elif section is defined and section.description %}
   <meta name="description" content="{{ section.description }}">
   {% elif config.description %}
   <meta name="description" content="{{ config.description }}">
   {% endif %}
-  {% if page.permalink %}
+  {% if page is defined and page.permalink %}
   <link rel="canonical" href="{{ page.permalink | safe }}">
-  {% elif section.path %}
+  {% elif section is defined and section.path %}
   <link rel="canonical" href="{{ config.base_url | safe }}{{ section.path | safe }}">
   {% endif %}
   <link rel="stylesheet" href="{{ get_url(path="main.css") }}">

@@ -52,7 +52,7 @@ A visual demonstrating (at a superficial level) the documentary evidence that th
 Also see:
 
 * [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/) ("Prove All Things; Hold Fast to Good" blog)
-* {{ link(text="General resources on the Book of Abraham", path="/resources-on-the-book-of-abraham/") }}.
+* [General resources on the Book of Abraham](/resources-on-the-book-of-abraham/).
 * [Egyptomania and Ohio: Thoughts on a Lecture from Terryl Givens and a Questionable Statement in the Joseph Smith Papers, Vol. 4](https://mormanity.blogspot.com/2019/05/egyptomania-and-ohio-thoughts-on.html) (Critical response of Hauglid's position by Jeff Lindsay)
 * [Meditations on Vogel](https://meditationsandmeaning.blogspot.com/2020/05/meditations-on-vogel.html) (Critical response of Vogel and Hauglid's position by LatterDayData)
 

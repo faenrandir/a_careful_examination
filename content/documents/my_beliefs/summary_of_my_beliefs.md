@@ -22,7 +22,7 @@ If my beliefs are incorrect or based on insufficient or faulty data, please do n
 
 1. While acknowledging that our present circumstances and selves are the product of a seemingly infinite causal chain, most of which we did not consciously choose, I believe that within this milieu we may still act as free agents---we have some control of the contours of our destiny via the decisions we make.
 1. I believe that moral agents (all beings with certain properties of self-reflection, awareness, and agency) are duty bound to act according to basic moral principles in their relationships with other conscious life.
-1. I believe that any time beings with properties of a moral agent exist, then {{ link(text="morality exists also", path="/a_careful_examination/morality-is-an-emergent-principle/") }} (e.g., if a silicon based life-form had all the properties of humans but had evolved or was created independently of biological life, then moral principles would apply equally to them).
+1. I believe that any time beings with properties of a moral agent exist, then [morality exists also](/a_careful_examination/morality-is-an-emergent-principle/) (e.g., if a silicon based life-form had all the properties of humans but had evolved or was created independently of biological life, then moral principles would apply equally to them).
 1. I believe that our ethical duty to other living entities is in some way proportional to the extent that they are conscious or have potential for consciousness (i.e., it is unethical to torture monkeys or dolphins, but it is not unethical to eat bacteria just for fun since they undoubtedly are not conscious and have no capacity for consciousness).
 1. I believe the core moral principles include: caring, fairness, and liberty.
 1. I believe that acting morally tends to bring us and those around us happiness.  However, even if acting morally did not generate feelings of content, I believe we would still have a rational obligation to act morally.
@@ -42,4 +42,4 @@ If I am living poorly or failing to live well, please do not hesitate to share y
 
 ## See Also
 
-{{ link(text="beliefs in resonance with others", path="/beliefs-in-resonance/") }}
+[beliefs in resonance with others](/beliefs-in-resonance/)

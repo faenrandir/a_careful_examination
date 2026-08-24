@@ -9,7 +9,7 @@ updated = "2020-09-07"
 
 * [source](https://ia902505.us.archive.org/1/items/AffidavitsCertificates/Affidavits%20And%20Certificates.pdf)
 
-These are the affidavits relating specifically to {{ link(text="Marth Brotheron's affidavit", path="/martha-brotherton-affidavit/") }}.  Many other topics are covered in the affidavits and certificates linked in 'source' above.
+These are the affidavits relating specifically to [Marth Brotheron's affidavit](/martha-brotherton-affidavit/).  Many other topics are covered in the affidavits and certificates linked in 'source' above.
 
 ---
 

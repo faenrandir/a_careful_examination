@@ -798,7 +798,7 @@ After defending the idea that Joseph could have known most of the placenames in 
 > * Locations around his locale or that he had heard before
 > * Proper names from various name guides being sold at the time. For example:
 >     * [This pronunciation guide for Greek, Latin, and Scripture names ](https://archive.org/stream/keytoclassicalpr00walkrich#page/182/mode/2up)
->     * Charles Anthon's {{ link(text="Classical Dictionary of ancient proper names", path="/charles-anthon-proper-names-and-the-bom/") }}
+>     * Charles Anthon's [Classical Dictionary of ancient proper names](/charles-anthon-proper-names-and-the-bom/)
 
 > There is no direct evidence that Joseph Smith consulted any of these, but nor would a modern author of the Book of Mormon have been working in a vacuum void of potential inspirational name material.
 

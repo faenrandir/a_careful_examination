@@ -56,4 +56,4 @@ The following accounts are listed by publication year:
 ## See also
 
 * [Theophany Mine](https://web.archive.org/web/20230412121915/https://thoughtsonthingsandstuff.com/theophany-mine/) (Thoughts on Things and Stuff [archived])
-* {{ link(text="Joseph's first vision accounts", path="/links-first-vision-accounts/") }}
+* [Joseph's first vision accounts](/links-first-vision-accounts/)

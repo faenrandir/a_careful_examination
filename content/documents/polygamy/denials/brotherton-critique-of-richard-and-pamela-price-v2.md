@@ -103,7 +103,7 @@ Regardless of their defense of Joseph Smith himself, nearly all other individual
 
 #### Theological coherence
 
-As explained in {{ link(text="Assessing the accuracy of Martha Brotherton's affidavit", path="/assessing-accuracy-brotherton-affidavit/") }}, Brotherton's affidavit coheres with the basic theology of Joseph Smith's polygamy and significantly deviates from the claims made by Bennett about how Joseph Smith was practicing spiritual wifery. Most significantly:
+As explained in [Assessing the accuracy of Martha Brotherton's affidavit](/assessing-accuracy-brotherton-affidavit/), Brotherton's affidavit coheres with the basic theology of Joseph Smith's polygamy and significantly deviates from the claims made by Bennett about how Joseph Smith was practicing spiritual wifery. Most significantly:
 
 * Restoration of Old Testament polygamy
 * A ceremony was required

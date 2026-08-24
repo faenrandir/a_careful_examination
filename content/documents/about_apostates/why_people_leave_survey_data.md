@@ -7,7 +7,7 @@ updated = "2023-08-04"
 +++
 ### Why are people leaving?
 
-* {{ link(text="2013 report, account, and presentation on LDS Faith Crises", path="/2013-faith-crisis-study/") }} (Greg Prince, John Dehlin, Travis Stratford and others created report presented to LDS leadership)
+* [2013 report, account, and presentation on LDS Faith Crises](/2013-faith-crisis-study/) (Greg Prince, John Dehlin, Travis Stratford and others created report presented to LDS leadership)
 * [Understanding Mormon Disbelief](http://www.whymormonsquestion.org/wp-content/uploads/2012/05/Survey-Results_Understanding-Mormon-Disbelief-Mar20121.pdf) (initial survey related to above 2013 report)
 * [The Next Mormons: Survey by Jana Reiss](https://thenextmormons.org/survey-results/) (large unbiased survey producing multiple downstream analyses like [this](https://thenextmormons.org/survey-results/) or [this](https://www.dialoguejournal.com/archive/dialogue-premium-content/fall-2017/))
 * [Do leaders understand members who are in a faith crisis?](https://web.archive.org/web/20180915204341/http://www.stakeandwardresources.org/Faith-Crisis-Analysis) (David Ostler's survey and analysis of hundreds of leaders and former members about faith crises [archived])

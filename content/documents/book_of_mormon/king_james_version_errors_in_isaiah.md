@@ -107,7 +107,7 @@ At least four LDS scholars acknowledge errors in or significant divergence betwe
 
     > If the Book of Mormon’s rendering of Isaiah 6 and 7 constituted a more accurate translation than the KJV, it would be expected to differ from the KJV in ways that parallel at least some of these revisions. **It does not. In every case it more closely follows the KJV**. (emphasis added)
 
-* Grant Hardy, a foremost [LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) has suggested that the Isaiah in the Book of Mormon is not what we would expect from an ancient source at 600 BC.  {{ link(text="He wrote", path="/excerpt-on-isaiah-from-hardys-readers-guide/") }}:
+* Grant Hardy, a foremost [LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) has suggested that the Isaiah in the Book of Mormon is not what we would expect from an ancient source at 600 BC.  [He wrote](/excerpt-on-isaiah-from-hardys-readers-guide/):
 
     > Latter-day Saints sometimes brush such criticism [that the Book of Mormon pulls from deutero-Isaiah] aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but **this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis**.
 
@@ -128,7 +128,7 @@ At least four LDS scholars acknowledge errors in or significant divergence betwe
     > going to have to confront the fact that Joseph Smith played a role in the
     > articulation of the text in some way, shape, or form.
 
-* LDS scholar Stephen Smoot {{ link(text="acknowledged", path="/smoot-king-james-errors/") }} (emphasis added):
+* LDS scholar Stephen Smoot [acknowledged](/smoot-king-james-errors/) (emphasis added):
 
     > ...and so I think **all parties can agree that there are King James citations and errors**, but the question is what kind of a translation is it ...
 
@@ -143,7 +143,7 @@ These LDS scholar observations seem consistent with the idea that the Book of Mo
 
 [^joosten]: Joosten was recently [sentenced to a year in jail](https://www.theguardian.com/world/2020/jun/22/oxford-university-professor-jan-joosten-jailed-france-child-abuse-images) from downloading child pornography.  Arguably, his expertise and *scholarly* interpretations should stand on their own merit, but in the interest of transparency and because some may not be inclined to trust scholarship coming from a source that is morally compromised, I include this footnote.
 
-[^1769kingjames]: The reliance of the Book of Mormon on the 1769 King James version as opposed to the 1611 King James version may be easily demonstrated by lining up Book of Mormon verses pulled from the Bible using [the original manuscript](https://github.com/wordtreefoundation/bomdb) or first printer's edition (where the original manuscript is not extant) and comparing them to the [1611 King James](https://www.kingjamesbibleonline.org/1611-Bible/) and [the 1769 King James Bibles](https://www.kingjamesbibleonline.org/).  I give one typical example in the introduction {{ link(text="here", path="/errors-represented-across-both-1611-and-1769-kjv/") }}.
+[^1769kingjames]: The reliance of the Book of Mormon on the 1769 King James version as opposed to the 1611 King James version may be easily demonstrated by lining up Book of Mormon verses pulled from the Bible using [the original manuscript](https://github.com/wordtreefoundation/bomdb) or first printer's edition (where the original manuscript is not extant) and comparing them to the [1611 King James](https://www.kingjamesbibleonline.org/1611-Bible/) and [the 1769 King James Bibles](https://www.kingjamesbibleonline.org/).  I give one typical example in the introduction [here](/errors-represented-across-both-1611-and-1769-kjv/).
 
 [^errorclaim]: For instance, see [this comment on mormonscholar](https://www.reddit.com/r/mormonscholar/comments/8ip30l/top_10_book_of_mormon_evidences_by_gently_hew/dyx8qfu/)
 
@@ -157,7 +157,7 @@ These LDS scholar observations seem consistent with the idea that the Book of Mo
 
     > What are 1769 King James Version edition errors doing in the Book of Mormon? A purported ancient text? *Errors which are unique to the 1769 edition that Joseph Smith owned?*
 
-    It is worth noting that the KJV carries these specific translation errors across both the 1611 and 1769 King James versions, so {{ link(text="they are not unique to the 1769 version", path="/errors-represented-across-both-1611-and-1769-kjv/") }} and no other version or printing of the King James Bible, as implied by the question.  That said, the Bible verses embedded in the Book of Mormon do show a clear reliance on the 1769 King James version of the Bible and _not_ on the 1611 version.[^1769kingjames]  So, until someone demonstrates the uniqueness of translation errors to the 1769 version (say, compared to other editions or printings of the King James Bible), the question is probably better shortened, as I did in this analysis.
+    It is worth noting that the KJV carries these specific translation errors across both the 1611 and 1769 King James versions, so [they are not unique to the 1769 version](/errors-represented-across-both-1611-and-1769-kjv/) and no other version or printing of the King James Bible, as implied by the question.  That said, the Bible verses embedded in the Book of Mormon do show a clear reliance on the 1769 King James version of the Bible and _not_ on the 1611 version.[^1769kingjames]  So, until someone demonstrates the uniqueness of translation errors to the 1769 version (say, compared to other editions or printings of the King James Bible), the question is probably better shortened, as I did in this analysis.
 
 [^historical]:  None of these statements should be viewed as concessions for a non-historical Book of Mormon: in various ways, these scholars have argued for a divine and/or a historical Book of Mormon despite these acknowledgements and in some instances have provided contextualizations for understanding the errors as part of a divine/historical process.
 

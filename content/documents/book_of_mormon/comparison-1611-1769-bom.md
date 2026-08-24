@@ -5,7 +5,7 @@ extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
 updated = "2018-10-11"
 
 +++
-Of the 8 verses from the Book of Mormon that contain possible or likely {{ link(text="KJV translation errors", path="/scholar-survey-kjv-translation-errors-in-bom-isaiah/") }} all of these "errors" seem to be preserved in the 1611 King James Version.
+Of the 8 verses from the Book of Mormon that contain possible or likely [KJV translation errors](/scholar-survey-kjv-translation-errors-in-bom-isaiah/) all of these "errors" seem to be preserved in the 1611 King James Version.
 
 In general, the Book of Mormon appears to rely exclusively on the 1769 King James translation (compared with the 1611 King James Version or other derivatives) in *other* instances where the two texts diverge.
 

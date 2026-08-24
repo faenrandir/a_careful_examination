@@ -14,7 +14,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
 ## LDS Scholar observations
 
-1. Nick Frederick, [BYU Religion Professor](https://religion.byu.edu/nick_frederick) --- The Book of Mormon {{ link(text="contains at least 650 phrases that can convincingly be shown to be from the New Testament", path="/nt-in-bom-lhales-interview-frederick/") }} (i.e., not accidental).  Language and themes from the New Testament are deliberately used in the Book of Mormon.
+1. Nick Frederick, [BYU Religion Professor](https://religion.byu.edu/nick_frederick) --- The Book of Mormon [contains at least 650 phrases that can convincingly be shown to be from the New Testament](/nt-in-bom-lhales-interview-frederick/) (i.e., not accidental).  Language and themes from the New Testament are deliberately used in the Book of Mormon.
 
     > what we have here is **a conscious attempt to bring the language of the Book of Revelation into the Book of Mormon**.
 
@@ -22,13 +22,13 @@ LDS scholars have been presenting research or observations over the past decade 
 
     **Significance**: We do not expect ancient authors to be pulling extensively from New Testament phraseology and themes in such a manner since the NT had not even been written at the time ancient authors were first engraving the plates and the books being pulled from were not transmitted by Jesus in the New World, at least based on the record of what was transmitted.
 
-1. Richard Bushman, famous LDS Historian and [advisor of the Joseph Smith Papers Project](https://www.josephsmithpapers.org/articles/project-team) made {{ link(text="two public observations about the early 1800s literature in the Book of Mormon", path="/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/") }}:
+1. Richard Bushman, famous LDS Historian and [advisor of the Joseph Smith Papers Project](https://www.josephsmithpapers.org/articles/project-team) made [two public observations about the early 1800s literature in the Book of Mormon](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):
 
     > ... there is phrasing everywhere–**long phrases that if you google them you will find them in 19th century writings**. **The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament**.
 
     > **The Book of Mormon has a lot of nineteenth-century Protestant material in it, both in terms of theology and of wording.** I am looking for an explanation of how and why it is there.
 
-1. Grant Hardy, [a foremost LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) --- The Isaiah we see in the Book of Mormon is {{ link(text="not what we would expect to see from someone who came from Jerusalem in 600BC", path="/excerpt-on-isaiah-from-hardys-readers-guide/") }}.
+1. Grant Hardy, [a foremost LDS Scholar on the Book of Mormon](https://en.wikipedia.org/wiki/Grant_Hardy) --- The Isaiah we see in the Book of Mormon is [not what we would expect to see from someone who came from Jerusalem in 600BC](/excerpt-on-isaiah-from-hardys-readers-guide/).
 
     > Latter-day Saints sometimes brush such criticism [that the Book of Mormon pulls from deutero-Isaiah] aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but **this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis**.
 
@@ -42,9 +42,9 @@ LDS scholars have been presenting research or observations over the past decade 
 
     > ... others [of the early Christian fathers] seem not to have known about them [Mark 16:9–20] or were unsure of their authenticity ...
 
-    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that is thought by most Bible scholars today {{ link(text="to be a later addition", path="/moroni-quotes-sections-of-mark-dubious-origin/") }} to the book of Mark.
+    **Significance**: Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that is thought by most Bible scholars today [to be a later addition](/moroni-quotes-sections-of-mark-dubious-origin/) to the book of Mark.
 
-1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith {{ link(text="was influenced by Adam Clarke's famous commentary on the Bible", path="/joseph-consulting-clarkes-commentary/") }} in production of the JST.
+1. Thomas Wayment, [BYU Religion Professor](https://rsc.byu.edu/authors/wayment-thomas) --- Joseph Smith [was influenced by Adam Clarke's famous commentary on the Bible](/joseph-consulting-clarkes-commentary/) in production of the JST.
 
     > Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply too numerous and explicit to posit happenstance or coincidental overlap. **The parallels between the two texts number into the hundreds**, a number that is well beyond the limits of this paper to discuss. A few of them, however, **demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance**.
 
@@ -62,7 +62,7 @@ LDS scholars have been presenting research or observations over the past decade 
 
     > there are numerous issues which show that the Book of Mormon is concerned with what the Protestants dealt with and argued over during the 1500s and 1600s
 
-    And Skousen {{ link(text="now concedes", path="/skousen-literal-translation-of-the-plates/") }} that the process "involve[d] considerable intervention by the translator" (emphasis added):
+    And Skousen [now concedes](/skousen-literal-translation-of-the-plates/) that the process "involve[d] considerable intervention by the translator" (emphasis added):
 
     > *Is the Book of Mormon English translation a literal translation of what was on the plates?* It appears once more that the answer is no. The blending in of specific King James phraseology, from the New Testament as well as the Old Testament, tells us otherwise. The Book of Mormon is **a creative translation that involves considerable intervention by the translator** (or shall we say translators, since we’re in a speculative mood). There is **also evidence that the Book of Mormon is a cultural translation**. Consider, for instance, the interesting case of the anachronistic use in the Book of Mormon of the noun bar, which consistently refers to the bar of judgment that we will stand in front of (and hold on to) on the day of judgment. The judgment bar is not a biblical or ancient term, but instead dates from medieval times.
 
@@ -70,13 +70,13 @@ LDS scholars have been presenting research or observations over the past decade 
 
 ### Conclusion
 
-Most of the above scholars seem unaware of {{ link(text="the vast body of evidence suggesting a modern origin", path="/bom-parallels-to-1800s-thought/") }} and are likely to explain their observations using other models (for example, [an expansionist model](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf) or [to expect anachronisms](http://www.churchistrue.com/blog/samuel-brown-mormon-scholar/)); still, many of their honest observations lend significant credence to the possibility that the Book of Mormon was not produced by ancient minds.
+Most of the above scholars seem unaware of [the vast body of evidence suggesting a modern origin](/bom-parallels-to-1800s-thought/) and are likely to explain their observations using other models (for example, [an expansionist model](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf) or [to expect anachronisms](http://www.churchistrue.com/blog/samuel-brown-mormon-scholar/)); still, many of their honest observations lend significant credence to the possibility that the Book of Mormon was not produced by ancient minds.
 
-Regardless, anyone who parses the early 1800s literature will observe that many, if not all, theological doctrines and themes advanced in the Book of Mormon had {{ link(text="close precursors, variants, or a deep foundation in", path="/bom-parallels-to-1800s-thought/") }}, the {{ link(text="theology and thought of the early 1800s", path="/documents/book_of_mormon/echoes/echoes_of_1800s.pdf") }}.
+Regardless, anyone who parses the early 1800s literature will observe that many, if not all, theological doctrines and themes advanced in the Book of Mormon had [close precursors, variants, or a deep foundation in](/bom-parallels-to-1800s-thought/), the [theology and thought of the early 1800s](/documents/book_of_mormon/echoes/echoes_of_1800s.pdf).
 
 ### See also
 
-{{ link(text="Book of Mormon parallels to 1800s thought", path="/bom-parallels-to-1800s-thought/") }}
+[Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)
 
 *posted [here](https://www.reddit.com/r/exmormon/comments/9gm1vt/recent_lds_scholar_observations_favoring_a_modern/) and [here](https://www.reddit.com/r/mormon/comments/9gm3ho/recent_lds_scholar_observations_favoring_a_modern/)*
 
