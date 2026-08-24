@@ -44,13 +44,17 @@ DOCX_LINK_URL = f"{BASE_URL}{DOCX_STATIC_PATH}"
 
 # Scoped layout CSS emitted into the generated Bruno page only (see
 # render_markdown). The <style> block lives in this one generated page, so the
-# rules apply solely to its tables: give the first two columns a min-width so the
-# "Date"/"Source" headings don't wrap mid-word, and let Notes take the slack.
+# rules apply solely to its tables: widen the reading column a bit and split the
+# columns into the Date:Source:Location:Notes ratio (~1.8:2.5:3:4) using a fixed
+# layout, so the first two columns stop dominating and the table fills its width.
 TABLE_STYLES = """<style>
-table { width: 100%; max-width: 100%; table-layout: auto; }
+.page-content .wrapper { max-width: min(1000px, 100vw); }
+table { width: 100%; max-width: 100%; table-layout: fixed; }
 table td, table th { vertical-align: top; word-wrap: anywhere; }
-table th:nth-child(1), table td:nth-child(1) { min-width: 120px; }
-table th:nth-child(2), table td:nth-child(2) { min-width: 220px; }
+table th:nth-child(1), table td:nth-child(1) { width: 16%; }
+table th:nth-child(2), table td:nth-child(2) { width: 22%; }
+table th:nth-child(3), table td:nth-child(3) { width: 27%; }
+table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 </style>"""
 
 

@@ -14,10 +14,13 @@ To suggest edits to the underlying data, prefer editing the `.docx` (and re-runn
 
 
 <style>
-table { width: 100%; max-width: 100%; table-layout: auto; }
+.page-content .wrapper { max-width: min(1000px, 100vw); }
+table { width: 100%; max-width: 100%; table-layout: fixed; }
 table td, table th { vertical-align: top; word-wrap: anywhere; }
-table th:nth-child(1), table td:nth-child(1) { min-width: 120px; }
-table th:nth-child(2), table td:nth-child(2) { min-width: 220px; }
+table th:nth-child(1), table td:nth-child(1) { width: 16%; }
+table th:nth-child(2), table td:nth-child(2) { width: 22%; }
+table th:nth-child(3), table td:nth-child(3) { width: 27%; }
+table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 </style>
 
 ## Table of contents
