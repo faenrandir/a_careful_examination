@@ -2,9 +2,12 @@
 title = "Contemporary evidence that Joseph Smith practiced polygamy"
 path = "/contemporary-evidence-that-joseph-smith-practiced-polygamy/"
 extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2023-08-12"
+updated = "2026-08-23"
 
 +++
+
+> **Editor's note:** For a comprehensive, source-level chart of the contemporary documents that support (and contradict) the claim that Joseph Smith practiced polygamy, see [Cheryl L. Bruno's contemporary sources chart](/bruno-contemporary-sources-for-js-polygamy/).
+
 ### Introduction
 
 Joseph Smith made *many* public denials that he was practicing polygamy (see [Hales's analysis](http://josephsmithspolygamy.org/common-questions/polygamy-denials/) and {{ link(text="my analysis", path="/joseph-smith-polygamy-denials/") }}).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.[^examples_of_polygamy_deniers]
