@@ -5,12 +5,26 @@ extra = {doctype = "resource", maintopic = "polygamy"}
 updated = "2026-08-23"
 +++
 
-In a Facebook post on August 22 at 3:34 PM MT, Cheryl L. Bruno shared a chart of the contemporary-source evidence that bears directly on whether Joseph Smith practiced plural marriage. The chart is a single large table (subdivided into the sections below) compiled by Bruno and posted to the Mormon Polygamy Documents Facebook group. The original `.docx`, preserved here for reference and version control, is downloadable via the link below. This page was generated automatically from that document by the script linked in the next paragraph.
+
+On August 22, in a post in the Mormon Polygamy Documents Facebook group, Cheryl L. Bruno 
+shared her ongoing document containing a chart describing all the contemporary documents 
+bearing on the question of Joseph Smith practicing polygamy (or not). She revised and 
+explanded on the work of Mark Tensmeyer from "Secret Covenants: New Insights on Early 
+Mormon Polygamy".
 
 **Source document:** [Contemporary_Sources_for_JS_Polygamy_(chart)_8.22.26.docx](</a_careful_examination/media/Contemporary_Sources_for_JS_Polygamy_(chart)_8.22.26.docx>) (original `.docx` from Bruno's Facebook post)
 
-**How this page was made:** the table is extracted automatically from the `.docx` by the [parser script](https://github.com/faenrandir/a_careful_examination/blob/main/scripts/parse_bruno_contemporary_sources.py) (Python, standard library only). Re-running the script regenerates this Markdown from the current `.docx`.
-To suggest edits to the underlying data, prefer editing the `.docx` (and re-running the script) over editing this generated page directly.
+**How this page was made:** the table is extracted automatically from the `.docx` by the [parser script](https://github.com/faenrandir/a_careful_examination/blob/main/scripts/parse_bruno_contemporary_sources.py) 
+(Python, standard library only). Re-running the script regenerates the introduction and the markdown 
+from this `.docx`. To suggest edits to the underlying data, prefer editing the `.docx` (and re-running 
+the script) over editing this generated page directly.
+
+```
+CCLA – Community of Christ Library and Archives
+CHL – Church History Library
+JSP – Joseph Smith Papers
+WWP – Wilford Woodruff Papers
+```
 
 
 <style>

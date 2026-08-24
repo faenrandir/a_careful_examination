@@ -24,6 +24,29 @@ import xml.etree.ElementTree as ET
 
 NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 
+# recognizes docx_link and script_link
+INTRODUCTION = """
+On August 22, in a post in the Mormon Polygamy Documents Facebook group, Cheryl L. Bruno 
+shared her ongoing document containing a chart describing all the contemporary documents 
+bearing on the question of Joseph Smith practicing polygamy (or not). She revised and 
+explanded on the work of Mark Tensmeyer from "Secret Covenants: New Insights on Early 
+Mormon Polygamy".
+
+**Source document:** {docx_link} (original `.docx` from Bruno's Facebook post)
+
+**How this page was made:** the table is extracted automatically from the `.docx` by the {script_link} 
+(Python, standard library only). Re-running the script regenerates the introduction and the markdown 
+from this `.docx`. To suggest edits to the underlying data, prefer editing the `.docx` (and re-running 
+the script) over editing this generated page directly.
+
+```
+CCLA – Community of Christ Library and Archives
+CHL – Church History Library
+JSP – Joseph Smith Papers
+WWP – Wilford Woodruff Papers
+```
+"""
+
 # A full-width header row spans all four columns; these divide the single mega
 # table into its logical sub-tables.
 HEADER_COL_COUNT = 4
@@ -276,31 +299,14 @@ def _front_matter() -> str:
 def _provenance() -> str:
     docx_link = f"[{DOCX_FILENAME}](<{DOCX_LINK_URL}>)"
     script_link = f"[parser script]({SCRIPT_URL})"
-    return (
-        "In a Facebook post on August 22 at 3:34 PM MT, Cheryl L. Bruno shared a "
-        "chart of the contemporary-source evidence that bears directly on whether "
-        "Joseph Smith practiced plural marriage. The chart is a single large table "
-        "(subdivided into the sections below) compiled by Bruno and posted to the "
-        "Mormon Polygamy Documents Facebook group. The original `.docx`, preserved "
-        "here for reference and version control, is downloadable via the link below. "
-        "This page was generated automatically from that document by the "
-        "script linked in the next paragraph.\n"
-        "\n"
-        "**Source document:** " + docx_link + " (original `.docx` from Bruno's "
-        "Facebook post)\n"
-        "\n"
-        "**How this page was made:** the table is extracted automatically from the "
-        "`.docx` by the " + script_link + " (Python, standard library only). "
-        "Re-running the script regenerates this Markdown from the current `.docx`.\n"
-        "To suggest edits to the underlying data, prefer editing the `.docx` "
-        "(and re-running the script) over editing this generated page directly.\n"
-    )
+    return INTRODUCTION.format(docx_link=docx_link, script_link=script_link)
 
 
 def main(argv: list[str] | None = None) -> int:
     argv = argv if argv is not None else sys.argv[1:]
     repo_root = Path(__file__).resolve().parent.parent
-    docx = repo_root / "static/media/Contemporary_Sources_for_JS_Polygamy_(chart)_8.22.26.docx"
+    docx = repo_root / \
+        "static/media/Contemporary_Sources_for_JS_Polygamy_(chart)_8.22.26.docx"
     out = repo_root / "content/documents/polygamy/bruno_contemporary_sources.md"
     if argv:
         docx = Path(argv[0])
