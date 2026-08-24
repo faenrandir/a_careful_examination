@@ -42,6 +42,18 @@ SCRIPT_URL = f"https://github.com/{REPO}/blob/{BRANCH}/{SCRIPT_PATH}"
 DOCX_LINK_URL = f"{BASE_URL}{DOCX_STATIC_PATH}"
 
 
+# Scoped layout CSS emitted into the generated Bruno page only (see
+# render_markdown). The <style> block lives in this one generated page, so the
+# rules apply solely to its tables: give the first two columns a min-width so the
+# "Date"/"Source" headings don't wrap mid-word, and let Notes take the slack.
+TABLE_STYLES = """<style>
+table { width: 100%; max-width: 100%; table-layout: auto; }
+table td, table th { vertical-align: top; word-wrap: anywhere; }
+table th:nth-child(1), table td:nth-child(1) { min-width: 120px; }
+table th:nth-child(2), table td:nth-child(2) { min-width: 220px; }
+</style>"""
+
+
 def _local(tag: str) -> str:
     """Return the local part of a Clark-notation XML tag."""
     return tag.split("}", 1)[-1]
@@ -222,6 +234,8 @@ def render_markdown(sections: list[tuple[str, list[list[str]]]]) -> str:
     lines.append(_front_matter())
     lines.append("")
     lines.append(_provenance())
+    lines.append("")
+    lines.append(TABLE_STYLES)
     lines.append("")
     lines.append("## Table of contents")
     lines.append("")

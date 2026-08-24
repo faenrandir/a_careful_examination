@@ -13,6 +13,13 @@ In a Facebook post on August 22 at 3:34 PM MT, Cheryl L. Bruno shared a chart of
 To suggest edits to the underlying data, prefer editing the `.docx` (and re-running the script) over editing this generated page directly.
 
 
+<style>
+table { width: 100%; max-width: 100%; table-layout: auto; }
+table td, table th { vertical-align: top; word-wrap: anywhere; }
+table th:nth-child(1), table td:nth-child(1) { min-width: 120px; }
+table th:nth-child(2), table td:nth-child(2) { min-width: 220px; }
+</style>
+
 ## Table of contents
 
 - [Explicit Contemporary Sources supporting JS Polygamy](#explicit-contemporary-sources-supporting-js-polygamy)
