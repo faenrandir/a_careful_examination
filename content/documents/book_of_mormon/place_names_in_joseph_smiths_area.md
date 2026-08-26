@@ -93,7 +93,7 @@ The Bible could have been the source of inspiration for names that are found wit
 
 Mary Ann also located these places on a map:
 
-<img src="/media/Mary-Ann-1829-plagiarism-yes-cropped.jpg" alt="place names existing in 1829">
+<img src="/a_careful_examination/media/Mary-Ann-1829-plagiarism-yes-cropped.jpg" alt="place names existing in 1829">
 
 ## Could Joseph have known these?
 

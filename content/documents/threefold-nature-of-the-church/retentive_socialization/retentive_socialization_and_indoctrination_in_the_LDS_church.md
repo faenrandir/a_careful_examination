@@ -335,7 +335,7 @@ As of 2019, those who have committed an honor code violation [will be taught in 
 
 > This is also why if you ever hear sarcastic words coming out of your mouth like: "So, what are you, the Honor Code Nazi?" or "Why are you so dressed up?" or any other words of scorn and ridicule directed at your classmates who are living the Honor Code, you should immediately recall the words of Mormon, repent on the spot, apologize to them, and ask their forgiveness.
 
-Members may refer to these consequences when attempting to persuade those who are leaving to return.  For example, an LDS father sent <img src="/media/lf6n6iylqlw41-pronuke-conversation-between-wife-and-father.png" alt="this text">[^textcontext] to his daughter and all her siblings when she was leaving the LDS Church:
+Members may refer to these consequences when attempting to persuade those who are leaving to return.  For example, an LDS father sent <img src="/a_careful_examination/media/lf6n6iylqlw41-pronuke-conversation-between-wife-and-father.png" alt="this text">[^textcontext] to his daughter and all her siblings when she was leaving the LDS Church:
 
 > I am very aware of what you ... are doing and so is God our Father.. And you have the right to choose... but remember there will be consequences for your choices...
 

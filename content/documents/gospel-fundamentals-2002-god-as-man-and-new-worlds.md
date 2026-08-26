@@ -27,7 +27,7 @@ Chapter 36, "Eternal Life," addresses exaltation in the celestial kingdom ([p. 2
 
 > To live in the highest part of the celestial kingdom is called exaltation\* or eternal life. To be able to live in this part of the celestial kingdom, people must have been married in the temple and must have kept the sacred promises they made in the temple. They will receive everything our Father in Heaven has and will become like Him. They will even be able to have spirit children and make new worlds for them to live on, and do all the things our Father in Heaven has done. People who are not married in the temple may live in other parts of the celestial kingdom, but they will not be exalted.
 
-<img src="/media/gospel-fundamentals/p201-make-new-worlds.png" alt="Gospel Fundamentals p. 201: the exalted 'make new worlds' for spirit children" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/p201-make-new-worlds.png" alt="Gospel Fundamentals p. 201: the exalted 'make new worlds' for spirit children" width="400">
 
 The manual does not use the phrase "getting your own planet." It teaches that exalted members will *make new worlds* for their spirit children to inhabit. This is the substance underlying the common "own planet" characterization.
 
@@ -45,7 +45,7 @@ Chapter 36 states that God the Father was once a man ([p. 204](https://www.churc
 
 > It will help us to remember that our Father in Heaven was once a man who lived on an earth, the same as we do. He became our Father in Heaven by overcoming problems, just as we have to do on this earth. However, the Prophet Joseph Smith said we will not learn everything we need to learn while in this world. It will take us a long time after we complete this life to know all the things we need to know in order to become like our Father in Heaven.
 
-<img src="/media/gospel-fundamentals/p204-god-once-a-man.png" alt="Gospel Fundamentals p. 204: 'our Father in Heaven was once a man'" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/p204-god-once-a-man.png" alt="Gospel Fundamentals p. 204: 'our Father in Heaven was once a man'" width="400">
 
 The same chapter frames man's potential to become like God as a direct climb toward divinity ([p. 204](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/31129_eng.pdf#page=213)):
 
@@ -63,9 +63,9 @@ The Newsroom [FAQ](https://newsroom.churchofjesuschrist.org/article/frequently-a
 
 *Gospel Fundamentals* was published by The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah, and is © 1992, 2002 by Intellectual Reserve, Inc.
 
-<img src="/media/gospel-fundamentals/cover.png" alt="Cover page of Gospel Fundamentals" width="400">
-<img src="/media/gospel-fundamentals/title.png" alt="Title page of Gospel Fundamentals" width="400">
-<img src="/media/gospel-fundamentals/copyright.png" alt="Copyright page of Gospel Fundamentals" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/cover.png" alt="Cover page of Gospel Fundamentals" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/title.png" alt="Title page of Gospel Fundamentals" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/copyright.png" alt="Copyright page of Gospel Fundamentals" width="400">
 
 ## Appendix B: Context (Preface)
 
@@ -73,8 +73,8 @@ The Preface states without qualification that the book's teachings are true ([p.
 
 > The principles explained in this book are true. As you study these principles and ponder and pray about them, you will come to know for yourself, and the Holy Ghost will bear witness to you, that they are true.
 
-<img src="/media/gospel-fundamentals/preface-1.png" alt="Preface, part 1, of Gospel Fundamentals" width="400">
-<img src="/media/gospel-fundamentals/preface-2.png" alt="Preface, part 2, of Gospel Fundamentals" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/preface-1.png" alt="Preface, part 1, of Gospel Fundamentals" width="400">
+<img src="/a_careful_examination/media/gospel-fundamentals/preface-2.png" alt="Preface, part 2, of Gospel Fundamentals" width="400">
 
 ## Sources
 

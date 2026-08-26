@@ -11,7 +11,7 @@ updated = "2026-08-23"
 A hermetic seal is one which is entirely airtight (see an example of a hermetically sealed vial to the right). A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]
 
 <div style="float: right; margin-left: 15px; margin-right: 0px: margin-top: 5px; margin-bottom: 10px;">
-    <img src="/media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas" style="margin: 0px">
+    <img src="/a_careful_examination/media/hermetically_sealed_neon_gas.png" alt="A vial of hermetically sealed neon gas" style="margin: 0px">
     <p style="margin:2px; width: 180px; font-size: 80%"><em>A hermetically sealed vial of Neon gas.</em></p>
 </div>
 
@@ -29,7 +29,7 @@ These diagrams say nothing (directly) about how well these systems of thought co
 
 ### 1\. On seeking revelation
 
-<img src="/media/01-dont_seek_revelation_on_contradictory.png" alt="Sealed system - do not seek revelation on that which contradicts the Brethren">
+<img src="/a_careful_examination/media/01-dont_seek_revelation_on_contradictory.png" alt="Sealed system - do not seek revelation on that which contradicts the Brethren">
 
 **Figure 1: Do not seek revelation on that which contradicts the Brethren.**
 
@@ -43,7 +43,7 @@ Assumption derived from Foundations of the Restoration Teacher Manual (Religion 
 
 ### 2\. Divine origin of teachings
 
-<img src="/media/02-revelations_contradicting_brethren_not_from_god.png" alt="Sealed system - revelations contradictin the Brethren">
+<img src="/a_careful_examination/media/02-revelations_contradicting_brethren_not_from_god.png" alt="Sealed system - revelations contradictin the Brethren">
 
 **Figure 2: Revelations contradicting the Brethren are not from God.**
 
@@ -57,7 +57,7 @@ Assumption derived from a 1913 First Presidency Statement about erroneous doctri
 
 ### 3\. Certainty of prayer
 
-<img src="/media/03-prayers_are_always_answered.png" alt="Sealed system - all answers to prayer are correct">
+<img src="/a_careful_examination/media/03-prayers_are_always_answered.png" alt="Sealed system - all answers to prayer are correct">
 
 **Figure 3: All answers to prayer are ultimately correct.**
 
@@ -71,7 +71,7 @@ Assumption derived from Jeffrey R. Holland's [Wrong Roads](https://www.churchofj
 
 ### 4\. Moroni's promise
 
-<img src="/media/04-pray_about_bom.png" alt="Sealed system - Moroni's Promise">
+<img src="/a_careful_examination/media/04-pray_about_bom.png" alt="Sealed system - Moroni's Promise">
 
 **Figure 4: Follow Moroni's Promise to know that the Book of Mormon is true.**
 
@@ -83,7 +83,7 @@ For assumption sources, see [Supplement to Sealed System #4 (Moroni's Promise)](
 
 ### 5\. Those who preach false doctrine
 
-<img src="/media/05-lazy_or_proud.png" alt="Sealed system - the ignorant and proud">
+<img src="/a_careful_examination/media/05-lazy_or_proud.png" alt="Sealed system - the ignorant and proud">
 
 **Figure 5: Invariably, only the ignorant and proud disagree with accepted LDS doctrine.**
 
@@ -103,7 +103,7 @@ Assumption derived from Teachings of the Prophet Joseph F. Smith [chapter 13](ht
 
 ### 6\. Doubt your doubts
 
-<img src="/media/06-doubt_your_doubts.png" alt="Sealed system - ">
+<img src="/a_careful_examination/media/06-doubt_your_doubts.png" alt="Sealed system - ">
 
 **Figure 6: Ask the right questions and doubt your doubts.**
 
