@@ -6,7 +6,7 @@ updated = "2026-08-27"
 +++
 
 
-On August 22, Cheryl L. Bruno shared her ongoing documentary catalog in the Mormon Polygamy 
+Cheryl L. Bruno has shared her ongoing documentary catalog in the Mormon Polygamy 
 Documents Facebook group detailing contemporary sources on Joseph Smith's practice of polygamy. 
 Her work revises and expands upon Mark Tensmeyer’s work published in 
 "Secret Covenants: New Insights on Early Mormon Polygamy."
@@ -15,7 +15,7 @@ Her work revises and expands upon Mark Tensmeyer’s work published in
 
 Below is the table programmatically extracted from her document with this script: [parser script](https://github.com/faenrandir/a_careful_examination/blob/main/scripts/parse_bruno_contemporary_sources.py).
 Edits to the md/html docs will be overwritten when the script is rerun, so modify the script to 
-change this document.
+change this document. As she releases new updates, I update this document.
 
 ```
 CCLA – Community of Christ Library and Archives
