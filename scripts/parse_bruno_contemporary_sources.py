@@ -16,6 +16,7 @@ Only the Python standard library is used (docx files are zip archives of XML).
 
 from __future__ import annotations
 
+import datetime
 import re
 import sys
 import zipfile
@@ -289,7 +290,7 @@ def _front_matter() -> str:
         "title = \"Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy\"\n"
         'path = "/bruno-contemporary-sources-for-js-polygamy/"\n'
         'extra = {doctype = "resource", maintopic = "polygamy"}\n'
-        'updated = "2026-08-23"\n'
+        f'updated = "{datetime.date.today().isoformat()}"\n'
         "+++"
     )
 
