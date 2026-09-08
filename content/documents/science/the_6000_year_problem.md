@@ -2,7 +2,7 @@
 title = "The 6000 year problem"
 path = "/the-6000-year-problem/"
 extra = {doctype = "resource", featuredimage = "/media/Faed_Expulsion_of_Adam_and_Eve.jpg"}
-updated = "2026-08-23"
+updated = "2026-09-08"
 
 +++
 ## Abstract
@@ -39,7 +39,7 @@ Especially when coupled [with teachings that](https://faenrandir.github.io/a_car
 
 The LDS Church *currently* teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its *current* version (as of September 2020).
 
-1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng) (emphasis added):
+1. [The Doctrine and Covenants manual on section 77](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual/section-77-questions-and-answers-on-the-book-of-revelation?lang=eng&id=title8#title8) (emphasis added):
 
     > D&C 77:6–7. Why Was the Book Sealed That John Saw?
 
@@ -51,7 +51,7 @@ The LDS Church *currently* teaches the idea that the earth began its temporal ex
 
 1. Various New Testatment teacher and student manuals
 
-    * [The New Testament teacher resource manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-resource-manual/the-revelation-of-saint-john-the-divine/revelation-6-7?lang=eng):
+    * [The New Testament teacher resource manual](https://www.churchofjesuschrist.org/study/manual/new-testament-teacher-resource-manual/the-revelation-of-saint-john-the-divine/revelation-6-7?lang=eng):
 
         > In Revelation 6–7 Jesus Christ opens the book with seven seals. As each seal is opened, John sees a representation of an event or events of a thousand years of the earth’s history.
 
@@ -71,13 +71,14 @@ The LDS Church *currently* teaches the idea that the earth began its temporal ex
 
         > Explain that the 7,000-year period refers to the time since the Fall of Adam and Eve.  It does not refer to the actual age of the earth, including the periods of creation.
 
-    * [The current New Testament Teacher Manual](https://www.churchofjesuschrist.org/manual/new-testament-teacher-manual/the-revelation-of-st-john-the-divine/lesson-54-revelation-4-11?lang=eng) (from 2014):
+    * [The current New Testament Teacher Manual](https://www.churchofjesuschrist.org/study/manual/new-testament-teacher-manual/the-revelation-of-st-john-the-divine/lesson-54-revelation-4-11?lang=eng) (from 2014):
 
         > John saw visions associated with the opening of the first six seals of the book, which symbolize the earth’s first six thousand years of temporal existence.
 
         > Ask students to recall what each of the seven seals on the book represented (see D&C 77:7). Tell students that Revelation 6 contains John’s visions of the earth’s first 7,000 years of temporal existence.
 
-1. The Pearl of Great Price Student Manual [introduction to The Book of Abraham](https://www.churchofjesuschrist.org/manual/the-pearl-of-great-price-student-manual/the-book-of-abraham?lang=eng&_r=1):
+1. The Pearl of Great Price Student Manual [introduction to The Book of Abraham](https://www.churchofjesuschrist.org/study/manual/the-pearl-of-great-price-student-manual-2018/the-book-of-abraham?lang=eng):
+
 
     > Who Is Abraham and When Did He Live?
 
@@ -181,7 +182,7 @@ The general 6000 year timeline has been taught frequently and consistently by th
 
     > So wicked men, in every age, Far from the God of heav’n have stray’d, **Till near six thousand years have fled**, And left the world with faith that’s dead.
 
-[^confusion]: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77 [as diagrammed here](http://ndbf.net/002m/Overview.jpg)).  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
+[^confusion]: The idea that the earth began its temporal existence 6,000 years ago should not be confused with the length of creation (i.e., the 6 "days" of creation are different than the 7 seals referred to by Joseph Smith in D&C 77.  The Church freely admits the earth could have been created over a long period of time, suggesting that the "the Hebrew word for day ... can also be used in the sense of an indeterminate length of time" ([Encyclopedia of Mormonism: Earth](http://eom.byu.edu/index.php/Earth)).
 
 [^lds_scientists]: Ugo Perego is an institute director and one of the world's experts on ancient DNA and American migrations.  He appears to accepts the basic dating for an ancient migration from Asia ([for example](https://vimeo.com/202998094) at 1:34:27).
 
