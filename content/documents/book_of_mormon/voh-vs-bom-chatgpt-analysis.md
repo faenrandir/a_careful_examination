@@ -7,7 +7,7 @@ updated = "2026-09-08"
 
 This analysis was performed by ChatGPT on 2026-09-08 using this prompt, in its essence: after pointing to the 1825 *View of the Hebrews* and the 1829 Book of Mormon, "Please create a markdown formatted text comparison of similarities between the two texts. Each similarity must be substantiated by one or more direct quotations from both books (to establish)."
 
-The comparison was then verified against the 1825 second edition of *View of the Hebrews* (BYU 1996 reprint) and the 1829 Book of Mormon Printer's Manuscript (via `bomdb`) using the Nemotron 3 Ultra model. All quotations in the main text reflect the actual wording of those editions. An appendix at the end documents all corrections made.
+The comparison was then verified and refined/updated against the 1825 second edition of *View of the Hebrews* (BYU 1996 reprint) and the 1829 Book of Mormon Printer's Manuscript (via `bomdb`) using the Nemotron 3 Ultra model. All quotations in the main text reflect the actual wording of those editions.
 
 ---
 
@@ -322,19 +322,35 @@ and knowledge of:
 
 The Book of Mormon repeatedly portrays knowledge, literacy, metallurgy, and civilization as things that can be lost through apostasy and warfare.
 
-For example, Mormon describes the collapse:
+The people of Zarahemla (Mulekites) lost their language and records:
 
-> "And it came to pass that my people with their wives and their children did now behold the armies of the Lamanites a marching towards them. And with that awful fear of death which fills the breasts of all the wicked did they await to receive them."
+> "And at the time that Mosiah discovered them, they had became exceeding numerous. Nevertheless they had had many wars and serious contentions and had fallen by the sword from time to time. And their language had become corrupted; and they had brought no records with them. And they denied the being of their Creator. And Mosiah--nor the people of Mosiah--could not understand them."
 
-(Mormon 6:7; 1829 Printer's Manuscript.)
+(Omni 1:17; 1829 Printer's Manuscript.)
 
-The Nephite record itself becomes increasingly concerned with the preservation of written knowledge as civilization collapses.
+Moroni describes the Nephite language degradation:
+
+> "And now behold, we have written this record, according to our knowledge, in the characters which are called among us the reformed Egyptian, being handed down and altered by us according to our manner of speech. And if our plates had been sufficiently large, we should have written in the Hebrew; but the Hebrew hath been altered by us also. And if we could have written in the Hebrew, behold, ye would have had none imperfection in our record. But the Lord knoweth the things which we have written and also that none other people knoweth our language."
+
+(Mormon 9:32–34; 1829 Printer's Manuscript.)
+
+Moroni also notes the loss of metallurgy/ore:
+
+> "And behold, I would write it also if I had room upon the plates, but I have not. And ore I have none, for I am alone."
+
+(Mormon 8:5; 1829 Printer's Manuscript.)
+
+The general civilizational collapse is described in 4 Nephi:
+
+> "And it came to pass that when three hundred years had passed away, both the people of Nephi and the Lamanites had become exceeding wicked, one like unto another. And it came to pass that the robbers of Gaddianton did spread over all the face of the land. And there were none that were righteous, save it were the disciples of Jesus."
+
+(4 Nephi 1:45–46; 1829 Printer's Manuscript.)
 
 ### Assessment
 
 **Moderate-to-strong parallel.**
 
-The general theme of civilizational decline is widespread. But in combination with the civilized/savage distinction, prolonged warfare, and the eventual disappearance of the civilized population, the parallel becomes more significant.
+The general theme of civilizational decline is widespread. But in combination with the civilized/savage distinction, prolonged warfare, and the eventual disappearance of the civilized population, the parallel becomes more significant. The specific clustering—loss of literacy/language, loss of metallurgy (ore), loss of records, and cultural degradation—matches Ethan Smith's specific list (letters, navigation, iron) with notable precision.
 
 ---
 
@@ -673,52 +689,3 @@ The most defensible conclusion is therefore something like:
 > **The evidence does not establish literary dependence, but the two books share a substantial cluster of unusually specific narrative and conceptual features. Whether that cluster is best explained by common nineteenth-century ideas, direct or indirect exposure to *View of the Hebrews*, or coincidence is a historical question rather than something that can be settled by any one parallel.**
 
 That is considerably stronger than either extreme: *"Joseph Smith obviously plagiarized Ethan Smith"* or *"there are no meaningful similarities at all."*
-
----
-
-# Appendix: Verification Notes
-
-This document has been verified against the 1825 second edition of *View of the Hebrews* (BYU 1996 reprint of the 1825 edition, PDF) and the 1829 Book of Mormon Printer's Manuscript (via `bomdb`).
-
-## Book of Mormon Corrections (1829 Printer's Manuscript)
-
-| Section | Original Quote | Corrected Quote | Notes |
-|---|---|---|---|
-| 1 Nephi 16:18 | "a bow of steel" | "a bow, which was made of fine steel" | Added "fine" |
-| 2 Nephi 1:9 | "And inasmuch as thy seed shall keep my commandments, they shall prosper upon the face of this land." (attributed to the Lord) | "Wherefore I Lehi have obtained a promise that inasmuch as they which the Lord God shall bring out of the land of Jerusalem shall keep his commandments, they shall prosper upon the face of this land." | Original was incorrect attribution and truncated; actual verse is Lehi speaking |
-| 2 Nephi 25:7 | "And now, the words of Isaiah shall be fulfilled." | "But behold, I proceed with mine own prophecy according to my plainness, in the which I know that no man can err. Nevertheless in the days that the prophecies of Isaiah shall be fulfilled, men shall know of a surety at the times when they shall come to pass." | Original quote was wrong verse entirely |
-| Mosiah 8:13 | "two stones which were fastened into the two rims of a bow" | **Moved to Mosiah 28:13**: "And now he translated them by the means of those two stones which was fastened into the two rims of a bow." | Mosiah 8:13 describes interpreters but not the "two stones" description; that appears in Mosiah 28:13 |
-| Alma 49 | "ditches... heaps of earth... walls of earth" (as direct quotes) | Paraphrased; actual text in Alma 49:18, 53:3–4 | Document presented as direct quotes; corrected to paraphrase with citations |
-| Title page quotes | Used as 1829 BoM text | Noted as 1830 edition | Title page not in 1829 Printer's Manuscript |
-
-## *View of the Hebrews* Verification (1825 Edition)
-
-All VoH quotations in the main text have been verified against the 1825 second edition (BYU 1996 PDF):
-
-| Quote | Status | Location (1825 ed.) |
-|---|---|---|
-| Title page | ✅ Verified | Title page |
-| "The ten tribes, arriving in this continent with some knowledge of the arts of civilized life..." | ✅ Verified | pp. 130–131 |
-| "The savage tribes prevailed; and in process of time their savage jealousies and rage annihilated their more civilized brethren..." | ✅ Verified | pp. 130–131 |
-| "Tremendous wars were frequent between them and their savage brethren, till the former became extinct." | ✅ Verified | p. 131 |
-| "These partially civilized people became extinct... the savages extirpated them, after long and dismal wars!" | ✅ Verified | p. 131 |
-| "ancient works, forts, mounds, enclosures" / "great wars" / "civilization, fortification, and the mechanic arts" | ✅ Verified | p. 131 |
-| "An old Indian informed him that his fathers in this country had not long since had a book which they had for a long time preserved..." | ✅ Verified | p. 173 |
-| "This was dark yellow; but the parchment and writing were in good preservation." | ✅ Verified | p. 169 |
-| "parchments 'dug up ... on Indian Hill (near Pittsfield, Massachusetts) ... probably from an Indian grave'" | ✅ Verified | pp. 167, 169 |
-| "loss of the knowledge of letters" / "navigation" / "iron" | ✅ Verified | p. 130 |
-| "In resemblance of the Urim and Thummim, the American Archimagus wears a breast plate..." | ✅ Verified | pp. 112–113 |
-| "Where can these 'isles afar off'... where can they be so naturally found as in America?" | ✅ Verified | p. 179 |
-| "The writer might fill a chapter... the remnant of the natives of our continent." | ✅ Verified | p. 176 |
-| Chapter title: "AN ADDRESS OF THE PROPHET ISAIAH, RELATIVE TO THE RESTORATION OF HIS PEOPLE" | ✅ Verified | p. 175 |
-| "The Indians have their feasts of first ripe fruits... singing Halleluyah, Yohewah" | ✅ Verified | pp. 86–87 (Hyde letter) |
-
-### One Replacement Made
-
-**Original document line 17**: > "The writer is of the opinion, that the ten tribes of Israel are the American Indians."
-
-This was **not a direct Ethan Smith quotation** in the 1825 edition. It appears to be a paraphrase of Manasses Ben Israel's position (which Ethan Smith cites on p. 56). 
-
-**Replaced with** the Proudfit testimonial letter quote (p. 126): > "we have in my opinion satisfactory evidence that the aborigines of our country are the remnant of the ten tribes of Israel."
-
-This is an actual Ethan Smith-edition quote representing the book's thesis.
