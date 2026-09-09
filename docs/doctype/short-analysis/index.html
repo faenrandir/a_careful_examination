@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A Careful Examination</title>
+  
+  <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  
+  
+  <link rel="stylesheet" href="/a_careful_examination/main.css">
+  
+  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-125187615-1');
+  </script>
+</head>
+
+<body>
+    <input type="checkbox" id="sidebar-trigger" class="sidebar-trigger" aria-hidden="true">
+    <label for="sidebar-trigger" class="sidebar-overlay" aria-hidden="true"></label>
+
+    <aside id="sidebar" class="sidebar" role="navigation" aria-label="Browse by topic">
+      <div class="sidebar-header">
+        <h2>Browse</h2>
+        <label for="sidebar-trigger" class="sidebar-close" aria-label="Close sidebar">
+          <svg viewBox="0 0 24 24" width="24" height="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </label>
+      </div>
+
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <!-- Populated by JavaScript from taxonomy_index.json -->
+        <div class="sidebar-loading">Loading navigation...</div>
+      </nav>
+    </aside>
+
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
+
+        <label for="sidebar-trigger" class="sidebar-toggle" aria-label="Open navigation sidebar">
+          <svg viewBox="0 0 24 24" width="24" height="24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
+        </label>
+
+        <nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewBox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+              </svg>
+            </span>
+          </label>
+          <div class="trigger">
+            <a class="page-link" href="/a_careful_examination/about/">About</a>
+            <a class="page-link" href="/a_careful_examination/recommended/">Recommended</a>
+            <a class="page-link search-link" href="/a_careful_examination/search/">Search</a>
+          </div>
+        </nav>
+
+        <form class="header-search" action="/a_careful_examination/search/" role="search" aria-label="Site search">
+          <label for="header-search-input" class="visually-hidden">Search</label>
+          <input type="search" id="header-search-input" name="q" placeholder="Search..." autocomplete="off">
+          <button type="submit" class="search-submit" aria-label="Submit search">
+            <svg viewBox="0 0 24 24" width="18" height="18"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5z"/></svg>
+          </button>
+        </form>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
+<article class="taxonomy-term-page">
+  <header class="taxonomy-term-header">
+    <h1>short-analysis</h1>
+  </header>
+
+  <div class="taxonomy-term-content">
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/consequences-of-leaving-the-group-and-totalism/">Consequences of leaving the group tend to be proportional to the level of totalism</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/why-former-members-are-angry/">Why former members are angry</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/any-opposed-minimal-action-necessary/">Any Opposed took the minimal action necessary</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/joseph-f-smith-contradicts-himself-on-elijah-ables-priesthood/">Joseph F. Smith reverses position on Elijah Able&#39;s Priesthood ordination</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/pogp-justification-for-priesthood-ban/">The Pearl of Great Price provided justification for the priesthood ban</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/olishem-as-evidence-for-boa/">Analysis of Olishem as evidence for the antiquity of the Book of Abraham</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/laurence-1821-book-of-enoch-may-have-been-available/">Laurence&#39;s 1821 Book of Enoch may have been available in the US</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/book-of-enoch-open-thy-mouth-and-it-shall-be-filled/">Open thy mouth, and it shall be filled</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/best-arguments-against-chiasmus-as-evidence-of-ancientness/">Summarizing the best arguments against chiasmus as evidence of ancientness</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/errors-represented-across-both-1611-and-1769-kjv/">Errors represented across both 1611 and 1769 KJV</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/short-critique-horses-bom/">A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/short-critique-metal-tablets-as-evidence-for-bom/">A short critique of discovered metal tablets as evidence for the authenticity of the Book of Mormon</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/premortal-existence-pre-1830s/">The premortal existence in pre-1830&#39;s thought</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/how-likely-trito-isaiah-avoided-in-bom/">How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/problems-with-the-expansionist-model/">Problems with the expansionist model</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/reasons-to-discount-emmas-bom-testimony/">Reasons to discount aspects of Emma&#39;s testimony of the creation of the Book of Mormon</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/similarities-between-benjamins-speech-and-1800s-milieu/">Similarities between King Benjamin&#39;s speech and the early 1800s milieu</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/context-of-emma-smiths-bom-witness/">The context of Emma Smith&#39;s Book of Mormon witness</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/how-could-joseph-smith-composed-bom/">How could Joseph Smith have composed the Book of Mormon?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/">Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/religious-interest-and-capability-from-1832-statement/">Religious interest and capability suggested by Joseph Smith&#39;s 1832 statement and 1830 Colseville letters</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-significance-of-the-seer-stone/">The significance of the seer stone for LDS truth-claims</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/voh-vs-bom-chatgpt-analysis/">View of the Hebrews and Book of Mormon: Textual Comparison (ChatGPT Analysis)</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/when-was-repair-removed-from-alma-39-13/">When was &#39;repair&#39; removed from Alma 39:13?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/zemnarihah-execution-cut-down-the-tree/">Evaluating Zemnarihah&#39;s execution--is chopping down of the tree evidence favoring an ancient Book of Mormon?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/">Conclusion: God and the LDS Church as surrogate parent</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-efficacy-of-priesthood-blessings/">The efficacy of LDS Priesthood Blessings</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/bednar-april6-birthday-of-jesus/">Elder Bednar and the April 6th Birthday of Jesus</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/science-vs-religion-in-deriving-moralitys-ought/">Science is as substantive as religion in helping us to derive morality&#39;s ought</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/effecting-change-from-within-short-analysis-2017/">Effecting change from within the LDS Church -- is it really possible?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/">Did Holland Lie? Semantic analysis of Jeffrey R. Holland&#39;s discussion with John Sweeney about Mitt Romney&#39;s Temple Oaths</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/nelson-attributes-goodness-in-paradise-to-believers/">Nelson attributes goodness in Paradise to those believing in God, but most are not religious</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/no-apostate-who-ever-left-prospered/">“No apostate who ever left ... prospered as an influence in his community thereafter”</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/suicide-an-old-sectarian-notion/">Suicide and hell: an old sectarian notion?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/talmage-1916-live-to-read-lost-tribes-records/">James E. Talmage&#39;s 1916 prediction on records of the Lost Tribes of Israel</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-church-does-not-apologize/">The Church does not apologize</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/transparency-in-the-modern-lds-church/">Transparency in the modern LDS Church</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/">How transparent was LDS Church with living allowances</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/you-can-leave-the-church-but-you-cant-leave-it-alone/">You can leave the Church but you can&#39;t leave it alone</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/">The Proclamation on the Family: Scripture or Revelation?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/lds-statements-on-cause-and-cure-for-homosexuality/">“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/how-does-the-lds-church-divide-families/">How does the LDS Church divide families?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-fault-in-faulty-assumptions/">The Fault in Faulty Assumptions</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-worlds-view-of-happiness/">The world&#39;s view of happiness</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/documents/miscellaneous/unparallels-and-the-hypergeometric-distribution/">Unparallels and the hypergeometric distribution</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/morality-is-an-emergent-principle/">Morality is an emergent principle</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/morality-transcends-religious-belief/">Morality Transcends Religious Belief</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/response-to-bennett-response-to-angel-with-drawn-sword/">Response to Jim Bennett&#39;s response about the angel with a drawn sword</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">Contemporary evidence that Joseph Smith practiced polygamy</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/how-did-js-wives-refer-to-unions/">How did Joseph Smith&#39;s wives refer to their unions?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/evidence-suggesting-emmas-approval/">Evidence suggesting Emma approved of some marriages</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/">Evidence of sex within Joseph Smith&#39;s polygamy</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/joseph-smith-polygamy-lds-marriage-and-honesty/">Joseph Smith&#39;s polygamy and current LDS principles of marriage and honesty</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/arguing-that-joseph-smith-did-practice-polygamy/">Arguing that Joseph Smith did practice polygamy</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/oct-5-1843-journal-entry/">The October 5, 1843 Journal Entry</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/primary-focus-of-sealing-for-polygamy/">The primary focus of the sealing ceremony in its first 2 years was to enable polygamy</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/logic-behind-the-sealing-ceremony/">Logic behind the sealing ceremony</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/why-joseph-not-sire-children-plural-wives/">Why did Joseph not sire children with his plural wives?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/april-1910-table-not-likely-fp-statement/">The April 1910 Priesthood Quorums&#39; Table entry &#39;Origin of Man&#39; is likely misconstrued to be a First Presidency Statement</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/explain-how-it-was-made/">Explain how it was made: Shroud of Turin and BoM apologetics</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/">The Flood as the Earth&#39;s Baptism: origin in LDS thought</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/believing-in-god-based-on-miracles/">Believing in God based on miracles</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/when-did-adam-and-eve-live/">When did Adam and Eve live?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/why-we-have-confidence-in-science/">Why we have confidence in science</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/secular-prophecy-of-the-end-times/">A secular prophecy for our time</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/reasons-for-skepticims-of-second-coming-predictions/">Reasons for skepticism of second coming predictions</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/">Why be skeptical of reports of LDS Apostles seeing Jesus?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/divine-visitor-identity-problem/">The Divine Visitor Problem: Objectivity, intersubjective identity, and identification</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/lds-church-ban-on-oral-sex/">The LDS Church ban on oral sex</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/why-sex-linked-to-morality/">Why is sex linked to morality?</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/parts-of-an-lds-spiritual-experience/">The parts of an LDS spiritual experience</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/surprise-as-rubric-for-deciding-holy-ghost/">Surprise as a rubric for deciding communication from the Holy Ghost</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/origins-of-phrase-all-truth-may-be-circumscribed/">Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot;</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/documents/the-50-50-scenario/">The 50/50 Scenario</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/the-dominant-narrative/">The Dominant Narrative and Apologetic Fallback</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/efficacy-of-paying-tithing/">On the efficacy of paying tithing</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+    <article class="term-page-item">
+      <h2><a href="/a_careful_examination/on-the-existence-of-ghosts/">On the existence of ghosts</a></h2>
+      
+      <div class="item-meta">
+        
+      </div>
+    </article>
+    
+  </div>
+</article>
+
+      </div>
+    </main>
+
+  <footer class="site-footer h-card">
+    <data class="u-url" href="/a_careful_examination/"></data>
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li class="p-name">bwv549</li>
+            <li><a class="u-email" href="mailto:faenrandir@gmail.com">faenrandir@gmail.com</a></li>
+          </ul>
+        </div>
+        <div class="footer-col footer-col-3">
+          <p>Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).</p>
+        </div>
+      </div>
+    </div>
+</footer>
+
+  <script>
+  (function() {
+    'use strict';
+
+    // Load taxonomy index and render sidebar
+    async function loadTaxonomyIndex() {
+      try {
+        const base = '/a_careful_examination';
+        const response = await fetch(base + '/taxonomy_index.json');
+        if (!response.ok) throw new Error('Failed to load taxonomy index');
+        const data = await response.json();
+        renderSidebar(data);
+        renderTagClouds(data);
+      } catch (err) {
+        console.error('Failed to load taxonomy index:', err);
+        document.getElementById('sidebar-nav').innerHTML = '<p class="sidebar-error">Navigation unavailable</p>';
+      }
+    }
+
+    function renderSidebar(data) {
+      const nav = document.getElementById('sidebar-nav');
+      if (!nav) return;
+
+      let html = '';
+      const base = '/a_careful_examination';
+
+      if (data.maintopic && data.maintopic.length > 0) {
+        html += '<section class="sidebar-section"><h3>Topics</h3><ul class="sidebar-list">';
+        data.maintopic.forEach(term => {
+          html += '<li><a href="' + base + '/maintopic/' + term.slug + '/" class="sidebar-link">';
+          html += '<span class="sidebar-term">' + escapeHtml(term.name) + '</span>';
+          if (term.count) html += '<span class="sidebar-count">' + term.count + '</span>';
+          html += '</a></li>';
+        });
+        html += '</ul></section>';
+      }
+
+      if (data.doctype && data.doctype.length > 0) {
+        html += '<section class="sidebar-section"><h3>Types</h3><ul class="sidebar-list">';
+        data.doctype.forEach(term => {
+          html += '<li><a href="' + base + '/doctype/' + term.slug + '/" class="sidebar-link">';
+          html += '<span class="sidebar-term">' + escapeHtml(term.name) + '</span>';
+          if (term.count) html += '<span class="sidebar-count">' + term.count + '</span>';
+          html += '</a></li>';
+        });
+        html += '</ul></section>';
+      }
+
+      nav.innerHTML = html || '<p class="sidebar-error">No navigation available</p>';
+    }
+
+    function renderTagClouds(data) {
+      const base = '/a_careful_examination';
+      
+      // Render maintopic tag cloud
+      const maintopicCloud = document.getElementById('tag-cloud-maintopic');
+      if (maintopicCloud && data.maintopic) {
+        maintopicCloud.innerHTML = data.maintopic.map(term => 
+          '<a href="' + base + '/maintopic/' + term.slug + '/" class="tag-pill tag-maintopic">' +
+          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+          '</a>'
+        ).join('');
+      }
+
+      // Render doctype tag cloud
+      const doctypeCloud = document.getElementById('tag-cloud-doctype');
+      if (doctypeCloud && data.doctype) {
+        doctypeCloud.innerHTML = data.doctype.map(term => 
+          '<a href="' + base + '/doctype/' + term.slug + '/" class="tag-pill tag-doctype">' +
+          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+          '</a>'
+        ).join('');
+      }
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Initialize on DOM ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadTaxonomyIndex);
+    } else {
+      loadTaxonomyIndex();
+    }
+  })();
+  </script>
+</body>
+</html>

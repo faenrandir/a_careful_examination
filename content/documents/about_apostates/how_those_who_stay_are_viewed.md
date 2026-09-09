@@ -1,8 +1,9 @@
 +++
 title = "Attitude towards those who do not believe but stay"
 path = "/how-those-who-stay-are-viewed/"
-extra = {doctype = "compilation", maintopic = "faith-transitions"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["compilation"]
 
 +++
 [Need to add in discussion of Holland about those who do not believe but stay, which is friendly]

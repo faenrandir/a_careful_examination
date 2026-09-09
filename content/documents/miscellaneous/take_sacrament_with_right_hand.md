@@ -1,8 +1,8 @@
 +++
 title = "“Important to take the sacrament with the right hand”"
 path = "/important-to-take-sacrament-with-right-hand/"
-extra = {doctype = "notes"}
-updated = "2018-11-26"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/a0pxsh/only_take_the_magic_bread_with_your_right_hand/?utm_content=comments&utm_medium=new&utm_source=reddit&utm_name=multi)

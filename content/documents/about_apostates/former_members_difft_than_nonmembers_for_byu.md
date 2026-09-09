@@ -1,8 +1,9 @@
 +++
 title = "Former members treated differently than members at BYU"
 path = "/former-members-treated-differently-than-members-at-byu/"
-extra = {doctype = "anecdotal", maintopic = "faith-transitions"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["anecdotal"]
 
 +++
 [posted by I_Am_An_ExMormon on /r/exmormon May 9, 2017]

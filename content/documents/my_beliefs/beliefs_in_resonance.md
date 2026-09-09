@@ -1,8 +1,8 @@
 +++
 title = "Beliefs in Resonance"
 path = "/beliefs-in-resonance/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 I share many basic beliefs with the conscientious, moral citizens of our world.

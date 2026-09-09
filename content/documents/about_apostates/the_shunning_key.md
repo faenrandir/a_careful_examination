@@ -1,8 +1,10 @@
 +++
 title = "The Shunning Key: Whom Latter-day Saints shun and why"
 path = "/the-shunning-key/"
-extra = {doctype = "resource", maintopic = "faith-transitions", featuredimage = "/media/Kernel_Machine.half2_.png"}
-updated = "2026-08-23"
+extra = {featuredimage = "/media/Kernel_Machine.half2_.png"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["resource"]
 
 +++
 ## Introduction

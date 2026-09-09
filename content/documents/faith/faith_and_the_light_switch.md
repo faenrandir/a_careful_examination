@@ -1,9 +1,9 @@
 +++
 title = "Difference between faith and knowledge"
 path = "/light-bulb-and-difference-between-faith-and-knowledge/"
-extra = {doctype = "shower-thought"}
 categories = ["Beliefs"]
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["shower-thought"]
 
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/729ndt/dear_tbms_turning_on_a_light_switch_does_not/?utm_content=title&utm_medium=new&utm_source=reddit&utm_name=multi)

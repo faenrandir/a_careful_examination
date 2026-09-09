@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set terms = get_taxonomy(kind=taxonomy.name) %}
+<article class="taxonomy-list-page">
+  <header class="taxonomy-list-header">
+    <h1>{{ taxonomy.name }} Index</h1>
+  </header>
+
+  <div class="taxonomy-list-content">
+    <ul class="taxonomy-terms">
+      {% for term in terms %}
+      {% if term.name %}
+      <li>
+        <a href="{{ config.base_url | safe }}/{{ taxonomy.name }}/{{ term.name | slugify }}/">
+          {{ term.name }}
+        </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</article>
+{% endblock content %}

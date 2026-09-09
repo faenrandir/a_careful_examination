@@ -1,8 +1,8 @@
 +++
 title = "Why is sex linked to morality?"
 path = "/why-sex-linked-to-morality/"
-extra = {doctype = "short-analysis"}
-updated = "2024-01-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## What is morality?

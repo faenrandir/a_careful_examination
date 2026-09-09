@@ -1,8 +1,9 @@
 +++
 title = "Perhaps asking whether the Church is a cult is not the best question?"
 path = "/asking-if-its-a-cult-is-wrong-question/"
-extra = {doctype = "notes", maintopic = "sociology-and-psychology"}
-updated = "2022-05-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["sociology-and-psychology"]
+taxonomies.doctype = ["notes"]
 
 +++
 ### Introduction

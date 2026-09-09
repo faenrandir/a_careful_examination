@@ -1,8 +1,10 @@
 +++
 title = "How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed/"
-extra = {doctype = "resource", maintopic = "faith-transitions", featuredimage = "/media/degas-BelleliFamily1862.jpg"}
-updated = "2026-08-23"
+extra = {featuredimage = "/media/degas-BelleliFamily1862.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["resource"]
 
 +++
 ## Contents

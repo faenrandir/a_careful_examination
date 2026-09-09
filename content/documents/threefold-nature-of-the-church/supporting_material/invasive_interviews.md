@@ -1,8 +1,8 @@
 +++
 title = "Example of invasive interview: facebook stalking"
 path = "/example-of-invasive-interview-facebook-stalking/"
-extra = {doctype = "anecdotal"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["anecdotal"]
 
 +++
 Some interviews in the LDS Church may become highly invasive.

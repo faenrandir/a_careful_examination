@@ -1,8 +1,8 @@
 +++
 title = "Test for disembodied consciousness"
 path = "/test-for-disembodied-consciousness/"
-extra = {doctype = "notes"}
-updated = "2020-07-19"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## The Test

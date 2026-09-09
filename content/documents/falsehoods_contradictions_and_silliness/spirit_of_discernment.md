@@ -1,8 +1,8 @@
 +++
 title = "The Spirit of Discernment"
 path = "/the-spirit-of-discernment/"
-extra = {doctype = "notes"}
-updated = "2020-09-18"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## Introduction

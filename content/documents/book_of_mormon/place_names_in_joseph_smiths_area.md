@@ -1,8 +1,9 @@
 +++
 title = "Place names near or somewhat near Joseph Smith"
 path = "/place-names-near-joseph-smith/"
-extra = {doctype = "short-compilation", maintopic = "book-of-mormon"}
-updated = "2026-08-25"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["short-compilation"]
 
 +++
 ## Introduction

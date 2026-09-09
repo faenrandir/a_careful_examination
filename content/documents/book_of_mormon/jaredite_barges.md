@@ -1,8 +1,9 @@
 +++
 title = "Jaredite barges and submarines in the early 1800s"
 path = "/jaredite-barges-and-submarines-in-the-early-1800s/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2020-05-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 Submarines had just been invented some 30 years before the publicaiton of the Book of Mormon. See, for example [the page on Robert Fulton](https://en.wikipedia.org/wiki/Robert_Fulton).

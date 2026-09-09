@@ -1,8 +1,9 @@
 +++
 title = "Time and Seasons March 15, 1844"
 path = "/times-and-seasons-march-15-1844/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 6.

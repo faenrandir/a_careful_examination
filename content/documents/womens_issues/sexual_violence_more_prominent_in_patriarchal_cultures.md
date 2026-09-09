@@ -1,8 +1,8 @@
 +++
 title = "Sexual violence more prominent in patriarchal cultures"
 path = "/sexual-violence-more-prominent-in-patriarchal-cultures/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777345/

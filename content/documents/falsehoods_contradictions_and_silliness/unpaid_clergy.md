@@ -1,8 +1,8 @@
 +++
 title = "How transparent was LDS Church with living allowances"
 path = "/how-transparent-was-lds-church-with-living-allowances/"
-extra = {doctype = "short-analysis"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Introduction

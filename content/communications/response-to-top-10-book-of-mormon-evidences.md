@@ -1,8 +1,8 @@
 +++
 title = "Response to Top 10 Book of Mormon Evidences"
 path = "/response-to-top-10-bom-evidences/"
-extra = {doctype = "response"}
-updated = "2019-09-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["response"]
 
 +++
 * [Updated response to "Top 10 Book of Mormon Evidences" by Jamie Huston](https://www.reddit.com/r/mormonscholar/comments/d88sw6/updated_response_to_top_10_book_of_mormon/)

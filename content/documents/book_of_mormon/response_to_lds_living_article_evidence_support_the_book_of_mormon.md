@@ -1,8 +1,9 @@
 +++
 title = "Response to LDS Living article on Evidence supporting the Book of Mormon"
 path = "/response-to-lds-living-article-supporting-the-bom/"
-extra = {doctype = "response", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["response"]
 
 +++
 Kathryn Jenkins Gordon recently read through the Book of Mormon with a distinct purpose:

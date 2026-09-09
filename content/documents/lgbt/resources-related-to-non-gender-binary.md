@@ -1,8 +1,8 @@
 +++
 title = "Resources related to non gender-binary"
 path = "/resources-related-to-non-gender-binary/"
-extra = {doctype = "notes"}
-updated = "2026-08-04"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## Quick

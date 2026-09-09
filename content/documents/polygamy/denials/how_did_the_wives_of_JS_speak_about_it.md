@@ -1,8 +1,9 @@
 +++
 title = "How did Joseph Smith's wives refer to their unions?"
 path = "/how-did-js-wives-refer-to-unions/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2024-01-12"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.

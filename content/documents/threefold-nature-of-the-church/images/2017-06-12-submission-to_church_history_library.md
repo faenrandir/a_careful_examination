@@ -1,8 +1,8 @@
 +++
 title = "Asking: What is the complete list of books held in the the vault?"
 path = "/asking-what-is-the-complete-list-of-books-held-in-the-the-vault/"
-extra = {doctype = "notes"}
-updated = "2019-12-03"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 Submitted the following to the Church History Library:

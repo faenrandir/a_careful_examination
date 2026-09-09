@@ -1,8 +1,8 @@
 +++
 title = "Notes on LDS mixed-faith marriages"
 path = "/notes-on-lds-mixed-faith-marriages/"
-extra = {doctype = "notes"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## Introduction

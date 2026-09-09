@@ -1,8 +1,8 @@
 +++
 title = "Resources related to the helps and harms of the LDS Church"
 path = "/resources-related-to-helps-and-harms/"
-extra = {doctype = "links"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["links"]
 
 +++
 ## Both helps and harms

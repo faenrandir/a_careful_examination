@@ -1,8 +1,9 @@
 +++
 title = "Resources on faith, spiritual witnesses, and epistemology"
 path = "/resources-on-faith-spiritual-witnesses-and-epistemology/"
-extra = {doctype = "resource", maintopic = "truth-claims"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["truth-claims"]
+taxonomies.doctype = ["resource"]
 
 +++
 ## Basic Data

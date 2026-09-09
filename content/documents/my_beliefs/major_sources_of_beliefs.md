@@ -1,8 +1,8 @@
 +++
 title = "Major sources of beliefs, light and knowledge"
 path = "/sources-of-beliefs-light-knowledge/"
-extra = {doctype = "notes"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 I find spiritual insight and inspiration in the following (even though I also tend to disagree with aspects of each):

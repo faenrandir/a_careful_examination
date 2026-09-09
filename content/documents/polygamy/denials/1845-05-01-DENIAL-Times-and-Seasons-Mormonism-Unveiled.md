@@ -1,8 +1,9 @@
 +++
-title = "Time and Seasons May 1, 1845 'Mormonism Unveiled'"
+title = "Time and Seasons May 1, 1845 'Mormonism Unveiled"
 path = "/times-and-seasons-may-1-1845-mormonism-unveiled/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 6 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9684) no 8.

@@ -1,8 +1,9 @@
 +++
 title = "Dan McClellan on the documentary hypothesis and Book of Mormon historicity"
 path = "/dan-mcclellan-documentary-hypothesis-and-bom-historicity/"
-extra = {doctype = "transcript", maintopic = "book-of-mormon"}
-updated = "2021-09-13"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["transcript"]
 
 +++
 Dan McClellan, the [Scripture Translation Supervisor for the LDS

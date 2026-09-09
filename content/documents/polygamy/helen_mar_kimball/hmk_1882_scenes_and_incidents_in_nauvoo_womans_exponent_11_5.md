@@ -1,8 +1,9 @@
 +++
 title = "Helen Mar Kimball Whitney 1882 Woman's Exponent"
 path = "/helen-mar-kimball-whitney-1882-womans-exponent-11-5/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2021-10-21"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 A column written by Helen Mar Kimball Whitney was published in the Woman's

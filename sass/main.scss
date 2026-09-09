@@ -5,3 +5,702 @@ code {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
   line-height: 1.45;
 }
+
+/* ==========================================================================
+   Sidebar Navigation
+   ========================================================================== */
+
+.sidebar-trigger {
+  display: none;
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 998;
+}
+
+.sidebar-toggle {
+  display: none;
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  color: $grey-color-dark;
+  line-height: 1;
+}
+
+.sidebar-toggle:hover {
+  color: $text-color;
+}
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 100vh;
+  background: $background-color;
+  border-right: 1px solid $grey-color-light;
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(0);
+  transition: transform 0.3s ease;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: $spacing-unit;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.sidebar-header h2 {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.sidebar-close {
+  display: none;
+  background: none;
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  color: $grey-color;
+  line-height: 1;
+}
+
+.sidebar-close:hover {
+  color: $text-color;
+}
+
+.sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+  padding: $spacing-unit;
+}
+
+.sidebar-section {
+  margin-bottom: $spacing-unit * 1.5;
+}
+
+.sidebar-section h3 {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $grey-color;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.sidebar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-list li {
+  margin: 0;
+}
+
+.sidebar-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 8px;
+  border-radius: 4px;
+  color: $text-color;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+}
+
+.sidebar-link:hover {
+  background-color: $grey-color-light;
+  text-decoration: none;
+}
+
+.sidebar-term {
+  font-size: 0.9375rem;
+}
+
+.sidebar-count {
+  font-size: 0.75rem;
+  color: $grey-color;
+  background: $grey-color-light;
+  padding: 2px 6px;
+  border-radius: 10px;
+  min-width: 1.5em;
+  text-align: center;
+}
+
+.sidebar-link:hover .sidebar-count {
+  background: $brand-color;
+  color: white;
+}
+
+/* ==========================================================================
+   Header Search
+   ========================================================================== */
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: $spacing-unit / 2;
+}
+
+.site-title {
+  flex-shrink: 0;
+}
+
+.site-nav {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: $spacing-unit;
+  float: none;
+  line-height: 1;
+}
+
+.header-search {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.header-search input {
+  padding: 6px 10px;
+  border: 1px solid $grey-color-light;
+  border-radius: 4px 0 0 4px;
+  font-size: 0.875rem;
+  width: 160px;
+  background: $background-color;
+  color: $text-color;
+  transition: border-color 0.15s ease, width 0.2s ease;
+}
+
+.header-search input:focus {
+  outline: none;
+  border-color: $brand-color;
+  width: 220px;
+}
+
+.search-submit {
+  background: $brand-color;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  padding: 6px 10px;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.15s ease;
+}
+
+.search-submit:hover {
+  background: darken($brand-color, 10%);
+}
+
+.search-link {
+  display: none;
+}
+
+/* ==========================================================================
+   Tag Clouds (Home Page)
+   ========================================================================== */
+
+.tag-clouds {
+  margin: $spacing-unit * 2 0;
+  padding: $spacing-unit * 1.5;
+  background: $grey-color-light;
+  border-radius: 6px;
+}
+
+.tag-cloud-section {
+  margin-bottom: $spacing-unit;
+}
+
+.tag-cloud-section:last-child {
+  margin-bottom: 0;
+}
+
+.tag-cloud-section h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: $spacing-unit / 2;
+  color: $grey-color-dark;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-unit / 2;
+}
+
+.tag-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  background: $background-color;
+  border: 1px solid $grey-color-light;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  color: $text-color;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.tag-pill:hover {
+  background: $brand-color;
+  border-color: $brand-color;
+  color: white;
+  text-decoration: none;
+}
+
+.tag-pill:hover .tag-count {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.tag-count {
+  font-size: 0.75rem;
+  color: $grey-color;
+  font-weight: 500;
+}
+
+.tag-maintopic {
+  border-color: #c8d8e8;
+}
+
+.tag-maintopic:hover {
+  background: #3a7bc8;
+  border-color: #3a7bc8;
+}
+
+.tag-doctype {
+  border-color: #d8c8e8;
+}
+
+.tag-doctype:hover {
+  background: #8a4fc8;
+  border-color: #8a4fc8;
+}
+
+/* ==========================================================================
+   Post/Page Taxonomy Tags
+   ========================================================================== */
+
+.post-taxonomies {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
+  padding-top: $spacing-unit / 2;
+  border-top: 1px solid $grey-color-light;
+  font-size: 0.875rem;
+}
+
+.taxonomy-label {
+  font-weight: 600;
+  color: $grey-color;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+.tag {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 16px;
+  font-size: 0.8125rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.tag-maintopic {
+  background: #e8f0f8;
+  color: #2a5ba0;
+  border: 1px solid #c8d8e8;
+}
+
+.tag-maintopic:hover {
+  background: #3a7bc8;
+  color: white;
+  border-color: #3a7bc8;
+  text-decoration: none;
+}
+
+.tag-doctype {
+  background: #f0e8f8;
+  color: #6a3d9a;
+  border: 1px solid #d8c8e8;
+}
+
+.tag-doctype:hover {
+  background: #8a4fc8;
+  color: white;
+  border-color: #8a4fc8;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Taxonomy Term Pages
+   ========================================================================== */
+
+.taxonomy-term-page {
+  max-width: 800px;
+}
+
+.taxonomy-term-header {
+  margin-bottom: $spacing-unit * 1.5;
+  padding-bottom: $spacing-unit;
+  border-bottom: 2px solid $grey-color-light;
+}
+
+.taxonomy-term-header h1 {
+  margin-bottom: $spacing-unit / 4;
+}
+
+.term-count {
+  color: $grey-color;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.term-page-item {
+  margin-bottom: $spacing-unit * 1.5;
+  padding-bottom: $spacing-unit;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.term-page-item:last-child {
+  border-bottom: none;
+}
+
+.term-page-item h2 {
+  margin-bottom: $spacing-unit / 4;
+  font-size: 1.5rem;
+}
+
+.term-page-item h2 a {
+  color: $grey-color-dark;
+}
+
+.term-page-item h2 a:hover {
+  color: $brand-color;
+}
+
+.item-description {
+  color: $grey-color;
+  margin-bottom: $spacing-unit / 2;
+  line-height: 1.5;
+}
+
+.item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $spacing-unit / 2;
+  font-size: 0.875rem;
+  color: $grey-color;
+}
+
+.item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: $spacing-unit * 2;
+  padding-top: $spacing-unit;
+  border-top: 1px solid $grey-color-light;
+}
+
+.pagination-link {
+  padding: 8px 16px;
+  background: $grey-color-light;
+  border-radius: 4px;
+  color: $text-color;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.pagination-link:hover {
+  background: $brand-color;
+  color: white;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Search Page
+   ========================================================================== */
+
+.search-page {
+  max-width: 800px;
+}
+
+.search-header {
+  margin-bottom: $spacing-unit * 2;
+}
+
+.search-header h1 {
+  margin-bottom: $spacing-unit;
+}
+
+.search-form {
+  position: relative;
+  max-width: 600px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 14px 20px;
+  font-size: 1.125rem;
+  border: 2px solid $grey-color-light;
+  border-radius: 8px;
+  background: $background-color;
+  color: $text-color;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: $brand-color;
+  box-shadow: 0 0 0 3px rgba($brand-color, 0.15);
+}
+
+.search-status {
+  margin-top: $spacing-unit / 2;
+  font-size: 0.875rem;
+  color: $grey-color;
+  min-height: 1.25em;
+}
+
+.search-status.error {
+  color: #c00;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-unit;
+}
+
+.search-result {
+  padding: $spacing-unit;
+  background: $grey-color-light;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+.search-result:hover {
+  background: lighten($grey-color-light, 5%);
+}
+
+.search-result h2 {
+  margin-bottom: $spacing-unit / 4;
+  font-size: 1.25rem;
+}
+
+.search-result h2 a {
+  color: $grey-color-dark;
+}
+
+.search-result h2 a:hover {
+  color: $brand-color;
+}
+
+.result-snippet {
+  color: $grey-color;
+  line-height: 1.6;
+  font-size: 0.9375rem;
+}
+
+.result-snippet mark {
+  background: #fff3a0;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.result-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
+  font-size: 0.8125rem;
+  color: $grey-color;
+}
+
+.result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.no-results {
+  text-align: center;
+  padding: $spacing-unit * 3;
+  color: $grey-color;
+}
+
+.no-results p:first-child {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: $text-color;
+  margin-bottom: $spacing-unit / 2;
+}
+
+/* ==========================================================================
+   Mobile Responsive
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .sidebar-toggle {
+    display: flex;
+  }
+
+  .site-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 280px;
+    background: $background-color;
+    border-left: 1px solid $grey-color-light;
+    z-index: 999;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: $spacing-unit * 2;
+    gap: $spacing-unit;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+  }
+
+  .nav-trigger:checked ~ .site-nav {
+    transform: translateX(0);
+  }
+
+  .site-nav .trigger {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .site-nav .page-link {
+    padding: 12px 16px;
+    border-radius: 4px;
+    background: $grey-color-light;
+    text-align: center;
+  }
+
+  .header-search {
+    order: -1;
+    width: 100%;
+  }
+
+  .header-search input {
+    width: 100%;
+    border-radius: 4px;
+  }
+
+  .header-search input:focus {
+    width: 100%;
+  }
+
+  .search-submit {
+    border-radius: 4px;
+    margin-top: 8px;
+    width: 100%;
+  }
+
+  .search-link {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  #sidebar {
+    transform: translateX(-100%);
+  }
+
+  .sidebar-trigger:checked ~ #sidebar {
+    transform: translateX(0);
+  }
+
+  .sidebar-trigger:checked ~ .sidebar-overlay {
+    display: block;
+  }
+
+  .sidebar-close {
+    display: flex;
+  }
+
+  .sidebar-header h2 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .site-header .wrapper {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .site-title {
+    text-align: center;
+    padding: $spacing-unit / 2 0;
+  }
+
+  .site-nav {
+    width: 100vw;
+    right: -1px;
+  }
+
+  .tag-pill {
+    font-size: 0.8125rem;
+    padding: 5px 10px;
+  }
+}
+
+/* ==========================================================================
+   Print Styles
+   ========================================================================== */
+
+@media print {
+  .sidebar-toggle,
+  .sidebar-overlay,
+  #sidebar,
+  .sidebar-toggle,
+  .header-search,
+  .tag-clouds,
+  .post-taxonomies {
+    display: none !important;
+  }
+
+  .site-nav {
+    position: static !important;
+    transform: none !important;
+    flex-direction: row;
+    width: auto;
+  }
+}

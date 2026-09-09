@@ -1,8 +1,9 @@
 +++
 title = "The 6000 year problem"
 path = "/the-6000-year-problem/"
-extra = {doctype = "resource", featuredimage = "/media/Faed_Expulsion_of_Adam_and_Eve.jpg"}
-updated = "2026-09-08"
+extra = {featuredimage = "/media/Faed_Expulsion_of_Adam_and_Eve.jpg"}
+updated = "2026-09-09"
+taxonomies.doctype = ["resource"]
 
 +++
 ## Abstract

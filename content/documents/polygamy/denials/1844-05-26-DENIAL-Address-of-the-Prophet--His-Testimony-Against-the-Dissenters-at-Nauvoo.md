@@ -1,8 +1,9 @@
 +++
 title = "Address of the Prophet: His Testimony Against the Dissenters at Nauvoo."
 path = "/joseph-smith-testimony-against-dissenters-at-nauvoo/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2025-11-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * Copied from History of the Church, [vol. 6 ch. 19](https://web.archive.org/web/20201021184740/https://byustudies.byu.edu/content/volume-6-chapter-19) hosted at BYU studies.

@@ -1,8 +1,9 @@
 +++
 title = "Why did Joseph not sire children with his plural wives?"
 path = "/why-joseph-not-sire-children-plural-wives/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Introduction

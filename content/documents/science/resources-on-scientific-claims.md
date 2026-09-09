@@ -1,8 +1,9 @@
 +++
 title = "Resources related to science claims"
 path = "/resources-related-to-science-claims/"
-extra = {doctype = "links", maintopic = "science"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["science"]
+taxonomies.doctype = ["links"]
 
 +++
 ### Adam, Eve and Creation related

@@ -1,8 +1,9 @@
 +++
 title = "Alcohol usage among Latter-day Saint Prophets"
 path = "/alcohol-usage-of-lds-prophets/"
-extra = {doctype = "short-compilation", maintopic = "word-of-wisdom"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["word-of-wisdom"]
+taxonomies.doctype = ["short-compilation"]
 
 +++
 The scripture and history of the Church is full of many examples of people drinking mild drinks (beer and wine).

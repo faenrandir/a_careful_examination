@@ -1,8 +1,8 @@
 +++
 title = "What I've taught my older children about LDS truth claims"
 path = "/what-i-taught-older-children-lds-truth-claims/"
-extra = {doctype = "notes"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 _[From sometime in 2016]_

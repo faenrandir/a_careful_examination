@@ -1,8 +1,8 @@
 +++
 title = "5 Questions about spiritual experiences and real intent"
 path = "/5-questions-about-spiritual-experiences-and-real-intent/"
-extra = {doctype = "notes"}
-updated = "2018-09-13"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 Modified from /u/jamesallred's post [here](https://www.reddit.com/me/m/ldsrelated/new/)

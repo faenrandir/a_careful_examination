@@ -1,8 +1,9 @@
 +++
 title = "Links to First Vision accounts, essay, and responses"
 path = "/links-first-vision-accounts/"
-extra = {doctype = "links", maintopic = "first-vision"}
-updated = "2021-06-19"
+updated = "2026-09-09"
+taxonomies.maintopic = ["first-vision"]
+taxonomies.doctype = ["links"]
 
 +++
 ## Primary data[^primary_data]

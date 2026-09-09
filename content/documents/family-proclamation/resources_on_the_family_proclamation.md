@@ -1,8 +1,9 @@
 +++
 title = "Resources on the Family Proclamation"
 path = "/resources-on-the-family-proclamation/"
-extra = {doctype = "resources-on-family-proclamation", maintopic = "family-proclamation"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["family-proclamation"]
+taxonomies.doctype = ["resources-on-family-proclamation"]
 
 +++
 ## Status of the Proclamation

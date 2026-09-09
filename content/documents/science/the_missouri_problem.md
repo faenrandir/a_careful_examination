@@ -1,8 +1,8 @@
 +++
 title = "The Missouri Garden of Eden Problem"
 path = "/missouri-garden-of-eden-problem/"
-extra = {doctype = "notes"}
-updated = "2023-01-24"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 Introduction

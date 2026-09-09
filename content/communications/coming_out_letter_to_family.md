@@ -1,8 +1,9 @@
 +++
 title = "Faith transition coming out letter to family"
 path = "/faith-transition-coming-out-letter/"
-extra = {doctype = "personal-letter", maintopic = "faith-transitions"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["personal-letter"]
 
 +++
 Dear family,

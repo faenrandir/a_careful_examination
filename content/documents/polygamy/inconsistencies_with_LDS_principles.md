@@ -1,8 +1,9 @@
 +++
 title = "Joseph Smith's polygamy and current LDS principles of marriage and honesty"
 path = "/joseph-smith-polygamy-lds-marriage-and-honesty/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 There appear to be major inconsistencies between how Joseph Smith practiced polygamy and the modern LDS teachings of these principles.

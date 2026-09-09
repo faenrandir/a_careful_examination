@@ -1,8 +1,10 @@
 +++
 title = "Could Joseph have hidden material in his hat to draw upon during the dictation process?"
 path = "/hidden-material-in-hat-hypothesis/"
-extra = {doctype = "analysis", maintopic = "book-of-mormon", featuredimage = "/media/anthony-sweat-hat-1024x694.jpg"}
-updated = "2026-08-23"
+extra = {featuredimage = "/media/anthony-sweat-hat-1024x694.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["analysis"]
 
 +++
 ### Foreword

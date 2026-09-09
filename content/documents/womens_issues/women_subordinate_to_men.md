@@ -1,8 +1,8 @@
 +++
 title = "Subordination of women to men in the LDS Church"
 path = "/subordination-of-women-to-men-in-the-lds-church/"
-extra = {doctype = "short-compilation"}
-updated = "2024-03-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-compilation"]
 
 +++
 In many ways, women in the LDS Church are subordinate to men.  A few formal and informal examples follow.

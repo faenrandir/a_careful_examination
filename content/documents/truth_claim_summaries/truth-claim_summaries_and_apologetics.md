@@ -1,8 +1,10 @@
 +++
 title = "Truth-claim summaries and apologetics"
 path = "/truth-claim-summaries/"
-extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/thomas_cole_hb_03.27.jpg"}
-updated = "2026-08-23"
+extra = {featuredimage = "/media/thomas_cole_hb_03.27.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["truth-claims"]
+taxonomies.doctype = ["resource"]
 
 +++
 # Summaries

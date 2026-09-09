@@ -1,8 +1,9 @@
 +++
 title = "Proposed survey on divine manifestations"
 path = "/proposed-survey-divine-manifestations/"
-extra = {doctype = "transcript", maintopic = "manifestations"}
-updated = "2021-07-13"
+updated = "2026-09-09"
+taxonomies.maintopic = ["manifestations"]
+taxonomies.doctype = ["transcript"]
 
 +++
 ## Introduction

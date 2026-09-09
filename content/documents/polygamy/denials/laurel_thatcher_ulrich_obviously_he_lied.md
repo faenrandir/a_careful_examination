@@ -1,8 +1,9 @@
 +++
 title = "Laurel Thatcher Ulrich on Joseph Smith's polygamy: “Obviously he lied.”"
 path = "/laurel-thatcher-ulrich-obviously-he-lied/"
-extra = {doctype = "notes", maintopic = "polygamy"}
-updated = "2026-08-25"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["notes"]
 
 +++
 At the end of her discussion of Joseph Smith's polygamy with Patrick Mason on [the Nov 4, 2025 Faith Matters podcast](https://podcasts.apple.com/us/podcast/unpacking-polygamy-joseph-smiths-polygamy-with-laurel/id1307757928?i=1000735172741), Laurel Thatcher Ulrich (an [esteemed LDS historian](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich)) was discussing the legacy of Joseph Smith's polygamy.  

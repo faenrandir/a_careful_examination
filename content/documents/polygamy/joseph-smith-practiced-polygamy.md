@@ -1,8 +1,9 @@
 +++
 title = "Arguing that Joseph Smith did practice polygamy"
 path = "/arguing-that-joseph-smith-did-practice-polygamy/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 [very rough draft]

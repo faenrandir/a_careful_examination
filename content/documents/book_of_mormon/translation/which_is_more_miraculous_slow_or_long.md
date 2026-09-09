@@ -1,8 +1,9 @@
 +++
 title = "The BOM is true because it was written so quickly - VS - The Quran is true because it took so long to write"
 path = "/bom-written-quickly-vs-quran-took-so-long/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/7bg14y/the_bom_is_true_because_it_was_written_so_quickly/)

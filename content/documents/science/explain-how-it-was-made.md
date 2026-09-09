@@ -1,11 +1,11 @@
 +++
 title = "Explain how it was made: Shroud of Turin and BoM apologetics"
 path = "/explain-how-it-was-made/"
-extra = {doctype = "short-analysis", maintopic = "science"}
-updated = "2026-08-29"
+updated = "2026-09-09"
+taxonomies.maintopic = ["science"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
-
 ## Introduction
 
 On Dan McClellan's recent Shroud of Turin post (#maklelan3227) on Facebook, I kept seeing comments like:

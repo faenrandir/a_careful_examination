@@ -1,8 +1,8 @@
 +++
 title = "When did Adam and Eve live?"
 path = "/when-did-adam-and-eve-live/"
-extra = {doctype = "short-analysis"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ### Introduction

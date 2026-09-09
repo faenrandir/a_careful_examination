@@ -1,8 +1,8 @@
 +++
 title = "What would it take for you to believe in God again?"
 path = "/what-would-it-take-to-believe-in-God-again/"
-extra = {doctype = "personal"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["personal"]
 
 +++
 > "so, what would it take for you to believe in God again?"

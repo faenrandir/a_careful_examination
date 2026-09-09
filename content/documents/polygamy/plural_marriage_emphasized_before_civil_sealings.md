@@ -1,8 +1,9 @@
 +++
 title = "The primary focus of the sealing ceremony in its first 2 years was to enable polygamy"
 path = "/primary-focus-of-sealing-for-polygamy/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 Virtually all early sealings were polygamous sealings (_in stead of_ a sealing to an existing civil wife).  The one exception, the sealing of Newel and Elizabeth Whitney, was associated with a polygamous sealing (Joseph to their daughter, Sarah Ann).[^loyalty_reward]

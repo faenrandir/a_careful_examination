@@ -1,8 +1,8 @@
 +++
 title = "LDS Church wrong on moral issues of the day"
 path = "/wrong-on-moral-issues-of-the-day/"
-extra = {doctype = "shower-thought"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["shower-thought"]
 
 +++
 > The LDS church has always been behind the times on the social issues.

@@ -1,8 +1,8 @@
 +++
 title = "The LDS Church ban on oral sex"
 path = "/lds-church-ban-on-oral-sex/"
-extra = {doctype = "short-analysis"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## The 1982 First Presidency Letter

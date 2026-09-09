@@ -1,8 +1,9 @@
 +++
 title = "1835 Doctrine and Covenants 101:4"
 path = "/1835-doctrine-and-covenants-101-4/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Joseph Smith Papers](http://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/259)

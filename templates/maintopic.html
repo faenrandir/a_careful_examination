@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="taxonomy-term-page">
+  <header class="taxonomy-term-header">
+    <h1>{{ term.name }}</h1>
+    <p class="term-count">{{ term.pages | length }} article{{ term.pages | length | pluralize }}</p>
+  </header>
+
+  <div class="taxonomy-term-content">
+    {% for page in term.pages %}
+    <article class="term-page-item">
+      <h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
+      {% if page.description %}
+      <p class="item-description">{{ page.description }}</p>
+      {% endif %}
+      <div class="item-meta">
+        <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">
+          {{ page.date | date(format="%b %d, %Y") }}
+        </time>
+        {% if page.taxonomies.doctype %}
+        <span class="item-tags">
+          {% for dt in page.taxonomies.doctype %}
+          <a href="{{ config.base_url | safe }}/doctype/{{ dt | slugify }}/" class="tag tag-doctype">{{ dt }}</a>
+          {% endfor %}
+        </span>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if term.pages | length > 10 %}
+  <nav class="pagination" aria-label="Pagination">
+    {% if paginator.previous %}
+    <a href="{{ paginator.previous.permalink | safe }}" class="pagination-link prev">&larr; Previous</a>
+    {% endif %}
+    {% if paginator.next %}
+    <a href="{{ paginator.next.permalink | safe }}" class="pagination-link next">Next &rarr;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</article>
+{% endblock content %}

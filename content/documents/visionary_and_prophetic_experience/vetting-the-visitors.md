@@ -1,8 +1,8 @@
 +++
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors/"
-extra = {doctype = "notes"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 [VERY ROUGH DRAFT]

@@ -1,8 +1,8 @@
 +++
 title = "Pinegar deals with unhappy missionary"
 path = "/pinegar-deals-with-unhappy-missionary/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 An Emeritus Member of the Presidency of the Seventy, Rex D. Pinegar, told this

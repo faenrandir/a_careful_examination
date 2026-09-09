@@ -1,8 +1,8 @@
 +++
 title = "The LDS garment and modesty"
 path = "/garments-and-modesty/"
-extra = {doctype = "notes"}
-updated = "2025-04-02"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## Introduction

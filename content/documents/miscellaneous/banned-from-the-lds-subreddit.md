@@ -1,8 +1,8 @@
 +++
 title = "bwv549 banned from the lds subreddit"
 path = "/bwv549-banned-from-the-lds-subreddit/"
-extra = {doctype = "notes"}
-updated = "2022-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## The context

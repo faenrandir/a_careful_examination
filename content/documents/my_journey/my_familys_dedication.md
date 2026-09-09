@@ -1,8 +1,8 @@
 +++
 title = "My Family's Dedication to the Gospel"
 path = "/my-familys-dedication-to-gospel/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 The family I grew up in was highly faithful to the Church way of life (not perfect, of course, but actively striving).  A few examples:

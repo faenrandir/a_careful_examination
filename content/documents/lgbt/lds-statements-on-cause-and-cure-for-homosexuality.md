@@ -1,8 +1,9 @@
 +++
 title = "“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality"
 path = "/lds-statements-on-cause-and-cure-for-homosexuality/"
-extra = {doctype = "short-analysis", maintopic = "lgbt"}
-updated = "2024-01-26"
+updated = "2026-09-09"
+taxonomies.maintopic = ["lgbt"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Introduction

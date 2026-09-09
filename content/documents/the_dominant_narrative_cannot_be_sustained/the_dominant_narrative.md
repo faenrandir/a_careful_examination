@@ -1,8 +1,9 @@
 +++
 title = "The Dominant Narrative and Apologetic Fallback"
 path = "/the-dominant-narrative/"
-extra = {doctype = "short-analysis", maintopic = "truth-claims"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["truth-claims"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## The Dominant Narrative

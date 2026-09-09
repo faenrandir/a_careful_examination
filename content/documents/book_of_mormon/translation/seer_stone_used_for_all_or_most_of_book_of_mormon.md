@@ -1,8 +1,9 @@
 +++
 title = "Eyewitnesses claiming the seer stone was used to translate the Book of Mormon"
 path = "/eyewitnesses-claiming-the-seer-stone-was-used/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2021-03-31"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 ## Introduction

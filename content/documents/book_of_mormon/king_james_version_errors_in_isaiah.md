@@ -1,8 +1,9 @@
 +++
 title = "Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages"
 path = "/scholar-survey-kjv-translation-errors-in-bom-isaiah/"
-extra = {doctype = "expert-survey", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["expert-survey"]
 
 +++
 ## Introduction

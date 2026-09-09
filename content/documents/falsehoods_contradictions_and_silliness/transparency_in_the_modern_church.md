@@ -1,8 +1,8 @@
 +++
 title = "Transparency in the modern LDS Church"
 path = "/transparency-in-the-modern-lds-church/"
-extra = {doctype = "short-analysis"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Introduction

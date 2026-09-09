@@ -1,8 +1,8 @@
 +++
 title = "Irene Bates patriarchal blessing theme table"
 path = "/irene-bates-patriarchal-blessing-theme-table/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 Irene Bates, in her [1993 Dialogue article on patriarchal blessings](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N03_11.pdf) (Vol.26, No.3) cataloged the themes she observed in 744 patriarchal blessings.  They are as follows:

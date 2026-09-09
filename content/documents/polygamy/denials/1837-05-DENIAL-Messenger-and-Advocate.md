@@ -1,8 +1,9 @@
 +++
 title = "1837. Messenger and Advocate, vol. 3, no. 8"
 path = "/messenger-and-advocate-1837-vol3no8/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Messenger and Advocate vol. 3 (hosted at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/7468)

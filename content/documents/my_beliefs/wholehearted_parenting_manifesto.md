@@ -1,9 +1,9 @@
 +++
 title = "The Wholehearted Parenting Manifesto"
 path = "/the-wholehearted-parenting-manifesto/"
-extra = {doctype = "notes"}
 categories = ["My beliefs"]
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 From Brené Brown's book, Daring Greatly ([pdf](http://brenebrown.com/wp-content/uploads/2017/10/Wholehearted_ParentingManifesto.pdf)):

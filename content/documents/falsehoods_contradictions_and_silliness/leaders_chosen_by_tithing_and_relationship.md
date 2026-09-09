@@ -1,8 +1,8 @@
 +++
 title = "Factors in LDS leadership selection"
 path = "/factors-in-lds-leadership-selection/"
-extra = {doctype = "notes"}
-updated = "2019-01-09"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 Leadership selection will likely always be at least somewhat idiosyncratic,

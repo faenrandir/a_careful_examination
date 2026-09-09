@@ -1,8 +1,9 @@
 +++
 title = "Evidence suggesting Emma approved of some marriages"
 path = "/evidence-suggesting-emmas-approval/"
-extra = {doctype = "short-analysis", maintopic = "polygamy"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 #### lds.org Nauvoo Plural Marriage essay

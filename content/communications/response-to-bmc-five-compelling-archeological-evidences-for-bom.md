@@ -1,8 +1,9 @@
 +++
 title = "Response to Five Compelling Archeological Evidences For the Book of Mormon"
 path = "/response-to-bmc-five-compelling-archeological-evidences-for-bom/"
-extra = {doctype = "response", maintopic = "book-of-mormon"}
-updated = "2020-05-14"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["response"]
 
 +++
 ### Introduction

@@ -1,8 +1,9 @@
 +++
 title = "The Prophet's Answers to Sundry Questions"
 path = "/prophets-answers-to-sundry-questions-1838/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2025-11-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 Context from Joseph Smith's Journal [8th May 1838](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/25) (recorded by George W. Robinson):

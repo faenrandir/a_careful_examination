@@ -1,8 +1,9 @@
 +++
 title = "Laurence's 1821 Book of Enoch may have been available in the US"
 path = "/laurence-1821-book-of-enoch-may-have-been-available/"
-extra = {doctype = "short-analysis", maintopic = "book-of-enoch"}
-updated = "2025-02-17"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-enoch"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Forward

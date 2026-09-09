@@ -1,8 +1,8 @@
 +++
 title = "Prophecy: Not long until calamities overtake human family"
 path = "/prophecy-calamities-overtake-human-family/"
-extra = {doctype = "notes"}
-updated = "2019-02-19"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 George Albert Smith, in the [1950 Conference Report, pg 169](https://archive.org/stream/conferencereport1950a#page/n169/mode/2up):

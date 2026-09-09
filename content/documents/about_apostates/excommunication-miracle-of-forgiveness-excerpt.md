@@ -1,8 +1,9 @@
 +++
 title = "Spencer W. Kimball on the effects of Excommunication"
 path = "/spencer-w-kimball-on-effects-of-excommunication/"
-extra = {doctype = "excerpt", maintopic = "faith-transitions"}
-updated = "2020-08-30"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["excerpt"]
 
 +++
 ## Introduction

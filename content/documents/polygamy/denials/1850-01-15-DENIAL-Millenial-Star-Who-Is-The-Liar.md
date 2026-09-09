@@ -1,8 +1,9 @@
 +++
 title = "Millenial Star - Who is the Liar?"
 path = "/millenial-star-1850-who-is-the-liar/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Millenial Star Vo. 12, 1850](http://contentdm.lib.byu.edu/cdm/ref/collection/MStar/id/2051) no. 2

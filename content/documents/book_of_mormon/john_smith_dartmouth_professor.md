@@ -1,8 +1,9 @@
 +++
 title = "Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)"
 path = "/similarities-between-john-smiths-writings-and-bom/"
-extra = {doctype = "compilation", maintopic = "book-of-mormon"}
-updated = "2023-02-18"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["compilation"]
 
 +++
 * [Post discussing parallels](https://www.reddit.com/r/exmormon/comments/8imnd8/mormon_theology_originated_in_dartmouth_in_vermont/)

@@ -12,6 +12,22 @@
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {% endif %}
     </p>
+    {% if page.taxonomies %}
+    <div class="post-taxonomies">
+      {% if page.taxonomies.maintopic %}
+      <span class="taxonomy-label">Topics:</span>
+      {% for term in page.taxonomies.maintopic %}
+      <a href="{{ config.base_url | safe }}/maintopic/{{ term | slugify }}/" class="tag tag-maintopic">{{ term }}</a>
+      {% endfor %}
+      {% endif %}
+      {% if page.taxonomies.doctype %}
+      <span class="taxonomy-label">Type:</span>
+      {% for term in page.taxonomies.doctype %}
+      <a href="{{ config.base_url | safe }}/doctype/{{ term | slugify }}/" class="tag tag-doctype">{{ term }}</a>
+      {% endfor %}
+      {% endif %}
+    </div>
+    {% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

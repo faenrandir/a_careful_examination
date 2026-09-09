@@ -1,8 +1,9 @@
 +++
 title = "Mahijah/Mahujah or Mahujah/Mahujah?"
 path = "/townsend-2019-mahijah-mahujah-excerpt/"
-extra = {doctype = "excerpt", maintopic = "book-of-enoch"}
-updated = "2025-02-17"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-enoch"]
+taxonomies.doctype = ["excerpt"]
 
 +++
 ## Introduction

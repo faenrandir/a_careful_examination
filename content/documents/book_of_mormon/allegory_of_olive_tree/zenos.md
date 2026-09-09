@@ -1,8 +1,9 @@
 +++
 title = "Zenos and the Allegory of the Olive Tree"
 path = "/examination-of-zenos/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 An interesting apologetic argument for Zenos [documented at Book of Mormon central](https://knowhy.bookofmormoncentral.org/content/is-anything-known-of-the-prophet-zenos-outside-of-the-book-of-mormon).

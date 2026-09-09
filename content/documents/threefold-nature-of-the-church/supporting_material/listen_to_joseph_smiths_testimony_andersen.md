@@ -1,8 +1,8 @@
 +++
 title = "Listen to a recording of your testimony"
 path = "/listen-to-a-recording-of-your-testimony/"
-extra = {doctype = "notes"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 In his [October 2014 Conference Address](https://www.churchofjesuschrist.org/general-conference/2014/10/joseph-smith?lang=eng) on Joseph Smith, Neil L. Andersen stated:

@@ -1,8 +1,8 @@
 +++
 title = "A secular prophecy for our time"
 path = "/secular-prophecy-of-the-end-times/"
-extra = {doctype = "short-analysis"}
-updated = "2020-10-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ### Introduction

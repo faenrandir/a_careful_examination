@@ -1,9 +1,10 @@
 +++
 title = "Hermetically Sealed Systems in LDS Thought"
 path = "/hermetically-sealed-systems-in-lds-thought/"
-toc = true
-extra = {doctype = "analysis", maintopic = "epistemology"}
-updated = "2026-08-25"
+toc = "true"
+updated = "2026-09-09"
+taxonomies.maintopic = ["epistemology"]
+taxonomies.doctype = ["analysis"]
 
 +++
 ## Introduction

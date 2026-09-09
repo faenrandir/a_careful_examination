@@ -1,8 +1,8 @@
 +++
 title = "Unpaid clergy anecdotes"
 path = "/unpaid-clergy-anecdotes/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ### LDS Living Article

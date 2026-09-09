@@ -1,8 +1,9 @@
 +++
 title = "Conference Minutes from April 6, 1842"
 path = "/times-and-seasons-apr-15-1842-conference-minutes/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons April 15, 1842 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200)

@@ -1,8 +1,8 @@
 +++
 title = "Mennonite apology for treatment of LGBTQ people"
 path = "/mennonite-apology-for-treatment-of-lgbtq-people/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 See [Mennonite Church Canada General Board Confession, September 28, 2017](https://imgur.com/a/g7xoV#I0NJD9y)

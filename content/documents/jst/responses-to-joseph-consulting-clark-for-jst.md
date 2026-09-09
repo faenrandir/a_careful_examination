@@ -1,8 +1,9 @@
 +++
 title = "Responses to Joseph Smith relying on Clarke for JST"
 path = "/responses-to-js-relying-on-clarke-for-jst/"
-extra = {doctype = "notes", maintopic = "jst"}
-updated = "2025-10-09"
+updated = "2026-09-09"
+taxonomies.maintopic = ["jst"]
+taxonomies.doctype = ["notes"]
 
 +++
 # Initial claim

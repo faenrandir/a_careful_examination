@@ -1,8 +1,10 @@
 +++
 title = "Brief Sketch of Events Surrounding My Resignation"
 path = "/sketch-of-my-faith-journey/"
-extra = {doctype = "resource", maintopic = "faith-transitions", featuredimage = "/media/mountain-941501_640.jpg"}
-updated = "2026-08-23"
+extra = {featuredimage = "/media/mountain-941501_640.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["resource"]
 
 +++
 ### My Spiritual and Apologetic Background

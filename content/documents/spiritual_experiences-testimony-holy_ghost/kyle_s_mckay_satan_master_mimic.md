@@ -1,8 +1,8 @@
 +++
 title = "Kyle S. McKay letter excerpt on spiritual experiences"
 path = "/kyle-s-mckay-letter-excerpt-on-spiritual-experiences/"
-extra = {doctype = "excerpt"}
-updated = "2023-06-11"
+updated = "2026-09-09"
+taxonomies.doctype = ["excerpt"]
 
 +++
 ## Context

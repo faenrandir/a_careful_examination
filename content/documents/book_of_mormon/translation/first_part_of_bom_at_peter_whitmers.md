@@ -1,8 +1,9 @@
 +++
 title = "The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home"
 path = "/first-part-bom-upstairs-peter-whitmer-home/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2023-09-22"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 ### First part of the Book of Mormon produced upstairs at Peter Whitmer home

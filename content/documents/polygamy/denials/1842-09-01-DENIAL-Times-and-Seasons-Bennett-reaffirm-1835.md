@@ -1,8 +1,9 @@
 +++
 title = "Time and Seasons Sept 1842 Notice"
 path = "/times-and-seasons-sep-1842-notice/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 3 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200) no 21.

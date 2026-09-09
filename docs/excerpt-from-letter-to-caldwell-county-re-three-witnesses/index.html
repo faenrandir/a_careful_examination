@@ -27,39 +27,84 @@
 </head>
 
 <body>
-  <header class="site-header" role="banner">
-    <div class="wrapper">
-      <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-        <div class="trigger">
-          <a class="page-link" href="/a_careful_examination/about/">About</a>
-          <a class="page-link" href="/a_careful_examination/recommended/">Recommended</a>
-        </div>
-      </nav>
-    </div>
-  </header>
+    <input type="checkbox" id="sidebar-trigger" class="sidebar-trigger" aria-hidden="true">
+    <label for="sidebar-trigger" class="sidebar-overlay" aria-hidden="true"></label>
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      
+    <aside id="sidebar" class="sidebar" role="navigation" aria-label="Browse by topic">
+      <div class="sidebar-header">
+        <h2>Browse</h2>
+        <label for="sidebar-trigger" class="sidebar-close" aria-label="Close sidebar">
+          <svg viewBox="0 0 24 24" width="24" height="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </label>
+      </div>
+
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <!-- Populated by JavaScript from taxonomy_index.json -->
+        <div class="sidebar-loading">Loading navigation...</div>
+      </nav>
+    </aside>
+
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
+
+        <label for="sidebar-trigger" class="sidebar-toggle" aria-label="Open navigation sidebar">
+          <svg viewBox="0 0 24 24" width="24" height="24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
+        </label>
+
+        <nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewBox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+              </svg>
+            </span>
+          </label>
+          <div class="trigger">
+            <a class="page-link" href="/a_careful_examination/about/">About</a>
+            <a class="page-link" href="/a_careful_examination/recommended/">Recommended</a>
+            <a class="page-link search-link" href="/a_careful_examination/search/">Search</a>
+          </div>
+        </nav>
+
+        <form class="header-search" action="/a_careful_examination/search/" role="search" aria-label="Site search">
+          <label for="header-search-input" class="visually-hidden">Search</label>
+          <input type="search" id="header-search-input" name="q" placeholder="Search..." autocomplete="off">
+          <button type="submit" class="search-submit" aria-label="Submit search">
+            <svg viewBox="0 0 24 24" width="18" height="18"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5z"/></svg>
+          </button>
+        </form>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
 <article class="post">
   <header class="post-header">
     
       <h1 class="post-title">Excerpt from Letter to the Church in Caldwell County regarding the Three Witnesses</h1>
       
-      <div class="last-update">last update: 2020-03-18</div>
+      <div class="last-update">last update: 2026-09-09</div>
+      
+    
+
+    
+    <div class="post-taxonomies">
+      
+      <span class="taxonomy-label">Topics:</span>
+      
+      <a href="/a_careful_examination/maintopic/book-of-mormon/" class="tag tag-maintopic">book-of-mormon</a>
       
       
-      <div class="doctype-display">(excerpt)</div>
       
+      <span class="taxonomy-label">Type:</span>
+      
+      <a href="/a_careful_examination/doctype/excerpt/" class="tag tag-doctype">excerpt</a>
+      
+      
+    </div>
     
 
     
@@ -74,8 +119,8 @@
   </div>
 </article>
 
-    </div>
-  </main>
+      </div>
+    </main>
 
   <footer class="site-footer h-card">
     <data class="u-url" href="/a_careful_examination/"></data>
@@ -92,7 +137,96 @@
         </div>
       </div>
     </div>
-  </footer>
-</body>
+</footer>
 
+  <script>
+  (function() {
+    'use strict';
+
+    // Load taxonomy index and render sidebar
+    async function loadTaxonomyIndex() {
+      try {
+        const base = '/a_careful_examination';
+        const response = await fetch(base + '/taxonomy_index.json');
+        if (!response.ok) throw new Error('Failed to load taxonomy index');
+        const data = await response.json();
+        renderSidebar(data);
+        renderTagClouds(data);
+      } catch (err) {
+        console.error('Failed to load taxonomy index:', err);
+        document.getElementById('sidebar-nav').innerHTML = '<p class="sidebar-error">Navigation unavailable</p>';
+      }
+    }
+
+    function renderSidebar(data) {
+      const nav = document.getElementById('sidebar-nav');
+      if (!nav) return;
+
+      let html = '';
+      const base = '/a_careful_examination';
+
+      if (data.maintopic && data.maintopic.length > 0) {
+        html += '<section class="sidebar-section"><h3>Topics</h3><ul class="sidebar-list">';
+        data.maintopic.forEach(term => {
+          html += '<li><a href="' + base + '/maintopic/' + term.slug + '/" class="sidebar-link">';
+          html += '<span class="sidebar-term">' + escapeHtml(term.name) + '</span>';
+          if (term.count) html += '<span class="sidebar-count">' + term.count + '</span>';
+          html += '</a></li>';
+        });
+        html += '</ul></section>';
+      }
+
+      if (data.doctype && data.doctype.length > 0) {
+        html += '<section class="sidebar-section"><h3>Types</h3><ul class="sidebar-list">';
+        data.doctype.forEach(term => {
+          html += '<li><a href="' + base + '/doctype/' + term.slug + '/" class="sidebar-link">';
+          html += '<span class="sidebar-term">' + escapeHtml(term.name) + '</span>';
+          if (term.count) html += '<span class="sidebar-count">' + term.count + '</span>';
+          html += '</a></li>';
+        });
+        html += '</ul></section>';
+      }
+
+      nav.innerHTML = html || '<p class="sidebar-error">No navigation available</p>';
+    }
+
+    function renderTagClouds(data) {
+      const base = '/a_careful_examination';
+      
+      // Render maintopic tag cloud
+      const maintopicCloud = document.getElementById('tag-cloud-maintopic');
+      if (maintopicCloud && data.maintopic) {
+        maintopicCloud.innerHTML = data.maintopic.map(term => 
+          '<a href="' + base + '/maintopic/' + term.slug + '/" class="tag-pill tag-maintopic">' +
+          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+          '</a>'
+        ).join('');
+      }
+
+      // Render doctype tag cloud
+      const doctypeCloud = document.getElementById('tag-cloud-doctype');
+      if (doctypeCloud && data.doctype) {
+        doctypeCloud.innerHTML = data.doctype.map(term => 
+          '<a href="' + base + '/doctype/' + term.slug + '/" class="tag-pill tag-doctype">' +
+          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+          '</a>'
+        ).join('');
+      }
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Initialize on DOM ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadTaxonomyIndex);
+    } else {
+      loadTaxonomyIndex();
+    }
+  })();
+  </script>
+</body>
 </html>

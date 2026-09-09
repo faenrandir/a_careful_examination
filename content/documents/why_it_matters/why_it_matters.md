@@ -1,7 +1,8 @@
 +++
 title = "Why does it matter?"
-extra = {doctype = "notes", maintopic = "truth-claims"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.maintopic = ["truth-claims"]
+taxonomies.doctype = ["notes"]
 
 +++
 "Why does it matter?" asked my SP after not being able to address any of the church problems.

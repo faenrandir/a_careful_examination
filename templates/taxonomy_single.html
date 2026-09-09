@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="taxonomy-term-page">
+  <header class="taxonomy-term-header">
+    <h1>{{ term.name }}</h1>
+  </header>
+
+  <div class="taxonomy-term-content">
+    {% for page in term.pages %}
+    <article class="term-page-item">
+      <h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
+      {% if page.description %}
+      <p class="item-description">{{ page.description }}</p>
+      {% endif %}
+      <div class="item-meta">
+        {% if page.date %}
+        <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">
+          {{ page.date | date(format="%b %d, %Y") }}
+        </time>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</article>
+{% endblock content %}

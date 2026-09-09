@@ -1,8 +1,9 @@
 +++
 title = "On Marriage - 1842 Times and Seasons vol 3, no 23"
 path = "/on-marriage-1842-times-and-seasons/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 3 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200) no 23, 

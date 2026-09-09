@@ -1,8 +1,9 @@
 +++
 title = "Errors represented across both 1611 and 1769 KJV"
 path = "/errors-represented-across-both-1611-and-1769-kjv/"
-extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 Of the 8 verses from the Book of Mormon that contain possible or likely [KJV translation errors](/scholar-survey-kjv-translation-errors-in-bom-isaiah/) all of these "errors" seem to be preserved in the 1611 King James Version.

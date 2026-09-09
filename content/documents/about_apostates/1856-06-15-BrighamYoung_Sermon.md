@@ -1,8 +1,9 @@
 +++
 title = "Never love your wives one hair's breadth further than they adorn the Gospel"
 path = "/never-love-wives-more-than-they-adorn-gospel/"
-extra = {doctype = "historical-resource", maintopic = "faith-transitions"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["historical-resource"]
 
 +++
 [Journal of Discourses vol 3, pg 360--361](http://jod.mrm.org/3/354)

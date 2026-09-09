@@ -1,8 +1,9 @@
 +++
 title = "Letter to parents: Thoughts on the Word of Wisdom"
 path = "/letter-thoughts-on-the-word-of-wisdom/"
-extra = {doctype = "personal-letter", maintopic = "word-of-wisdom"}
-updated = "2022-10-20"
+updated = "2026-09-09"
+taxonomies.maintopic = ["word-of-wisdom"]
+taxonomies.doctype = ["personal-letter"]
 
 +++
 ### Foreword

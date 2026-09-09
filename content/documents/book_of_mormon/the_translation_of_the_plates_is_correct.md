@@ -1,8 +1,9 @@
 +++
 title = "The translation of [the plates] ... is correct"
 path = "/the-translation-of-the-plates-is-correct/"
-extra = {doctype = "transcript", maintopic = "book-of-mormon"}
-updated = "2022-07-26"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["transcript"]
 
 +++
 ### Introduction

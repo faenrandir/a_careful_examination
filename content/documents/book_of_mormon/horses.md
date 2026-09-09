@@ -1,8 +1,9 @@
 +++
 title = "A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-horses-bom/"
-extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Some evidence for recent Pre-Columbian Horses exists

@@ -1,8 +1,9 @@
 +++
 title = "Influences on the Word of Wisdom: Hot Drinks"
 path = "/influences-on-word-of-wisdom-notes-on-hot-drinks/"
-extra = {doctype = "notes", maintopic = "word-of-wisdom"}
-updated = "2026-02-22"
+updated = "2026-09-09"
+taxonomies.maintopic = ["word-of-wisdom"]
+taxonomies.doctype = ["notes"]
 
 +++
 [just some random notes]

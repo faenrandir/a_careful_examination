@@ -1,8 +1,9 @@
 +++
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
-extra = {doctype = "links", maintopic = "book-of-abraham"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-abraham"]
+taxonomies.doctype = ["links"]
 
 +++
 # Critical

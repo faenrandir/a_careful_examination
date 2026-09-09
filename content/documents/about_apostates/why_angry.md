@@ -1,8 +1,9 @@
 +++
 title = "Why former members are angry"
 path = "/why-former-members-are-angry/"
-extra = {doctype = "short-analysis", maintopic = "faith-transitions"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 [rough draft]

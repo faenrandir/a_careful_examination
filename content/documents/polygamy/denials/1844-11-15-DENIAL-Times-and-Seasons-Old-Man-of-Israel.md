@@ -1,8 +1,9 @@
 +++
 title = "Time and Seasons November 15, 1844 - An Old Man of Israel"
 path = "/times-and-seasons-nov-15-1844-an-old-man-of-israel/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 21.

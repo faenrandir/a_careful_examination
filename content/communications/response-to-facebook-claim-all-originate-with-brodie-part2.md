@@ -1,8 +1,8 @@
 +++
 title = "Response to claim that all originate with Brodie, pt 2, assumptions"
 path = "/response-to-facebook-claim-all-originate-with-brodie-pt2-assumptions/"
-extra = {doctype = "response"}
-updated = "2025-10-09"
+updated = "2026-09-09"
+taxonomies.doctype = ["response"]
 
 +++
 Thank you for the thoughtful response and reading through some of the documents I posted.

@@ -1,8 +1,8 @@
 +++
 title = "The Flood as the Earth's Baptism: origin in LDS thought"
 path = "/flood-as-baptism-origin-in-LDS-thought/"
-extra = {doctype = "short-analysis"}
-updated = "2022-01-25"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ### Foreword

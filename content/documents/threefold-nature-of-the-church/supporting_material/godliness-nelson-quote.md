@@ -1,8 +1,8 @@
 +++
 title = "Example of totalistic attitude: accomplishments only important if building kingdom"
 path = "/accomplishments-only-important-if-building-kingdom/"
-extra = {doctype = "notes"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 An example of totalistic attitude

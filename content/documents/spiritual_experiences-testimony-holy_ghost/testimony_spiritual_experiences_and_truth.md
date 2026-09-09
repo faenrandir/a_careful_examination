@@ -1,9 +1,11 @@
 +++
 title = "Testimony, spiritual experiences, and truth: A careful examination"
 path = "/testimony-spiritual-experiences-truth/"
-toc = true
-extra = {doctype = "resource", maintopic = "truth-claims", featuredimage = "/media/a-crater-lake.jpg"}
-updated = "2026-08-23"
+toc = "true"
+extra = {featuredimage = "/media/a-crater-lake.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["truth-claims"]
+taxonomies.doctype = ["resource"]
 
 +++
 # Introduction

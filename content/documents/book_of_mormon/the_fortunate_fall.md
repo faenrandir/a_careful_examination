@@ -1,8 +1,9 @@
 +++
 title = "Pre-1830 teachings of felix culpa (fortunate fall)"
 path = "/pre-1830-felix-cupa-fortunate-fall/"
-extra = {doctype = "short-compilation", maintopic = "book-of-mormon"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["short-compilation"]
 
 +++
 ## Introduction

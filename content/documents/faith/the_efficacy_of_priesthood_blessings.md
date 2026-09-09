@@ -1,8 +1,8 @@
 +++
 title = "The efficacy of LDS Priesthood Blessings"
 path = "/the-efficacy-of-priesthood-blessings/"
-extra = {doctype = "short-analysis"}
-updated = "2022-11-03"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 Priesthood blessings do not appear to heal people beyond what may be experienced through the placebo effect, and predictions and counsel given during blessings do not appear to outstrip the conscious or subconcious capabilities of whomever is acting as voice.  I derive my confidence from the following data and observations:

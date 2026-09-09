@@ -1,8 +1,9 @@
 +++
 title = "1844 Millenial Star polygamy denial"
 path = "/1844-millenial-star-polygamy-denial/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [January 1844 Millenial Star magazine (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4)

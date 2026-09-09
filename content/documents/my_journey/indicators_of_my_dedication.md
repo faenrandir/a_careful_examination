@@ -1,8 +1,8 @@
 +++
 title = "Indicators of my dedication and spiritual development"
 path = "/indicators-of-dedication-and-spiritual-development/"
-extra = {doctype = "notes"}
-updated = "2023-04-26"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 It's difficult to quantify spiritual development and dedication.  Nonetheless, here are some indicators that I took the Gospel and my spiritual development very seriously:

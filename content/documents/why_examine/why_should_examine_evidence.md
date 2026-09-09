@@ -1,8 +1,10 @@
 +++
 title = "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
 path = "/to-peek-behind-the-curtain/"
-extra = {doctype = "analysis", maintopic = "questioning", featuredimage = "/media/o-WOMAN-WINDOW-facebook.half_.jpg"}
-updated = "2023-08-01"
+extra = {featuredimage = "/media/o-WOMAN-WINDOW-facebook.half_.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["questioning"]
+taxonomies.doctype = ["analysis"]
 
 +++
 # Why *not* investigate?

@@ -1,8 +1,8 @@
 +++
 title = "Luna Lindsey on polarization of cultic studies"
 path = "/luna-lindsey-on-polarization-of-cultic-studies/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 > Hi! Luna Lindsey here. Great stuff. I’m glad that my work is reaching people and inspiring people to do their own writing on the topic. ^\_^ I hope you keep at it.

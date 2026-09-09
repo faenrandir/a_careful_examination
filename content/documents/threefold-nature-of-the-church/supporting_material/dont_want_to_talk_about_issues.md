@@ -1,8 +1,8 @@
 +++
 title = "Most members don't seem to care about Church issues"
 path = "/most-members-dont-seem-to-care-about-church-issues/"
-extra = {doctype = "shower-thought"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["shower-thought"]
 
 +++
 From [here](https://www.reddit.com/r/exmormon/comments/6ipikx/after_leaving_the_church_was_anyone_else/)

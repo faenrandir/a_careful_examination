@@ -1,8 +1,9 @@
 +++
 title = "McConkie and Ostler argue against the seer stone"
 path = "/mcconkie-and-ostler-argue-against-the-seer-stone/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 Compare [the Book of Mormon Translation Essay](https://www.churchofjesuschrist.org/topics/book-of-mormon-translation?lang=eng) with

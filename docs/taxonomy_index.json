@@ -1,0 +1,371 @@
+{
+  "maintopic": [
+    {
+      "name": "book-of-abraham",
+      "count": 5,
+      "slug": "book-of-abraham"
+    },
+    {
+      "name": "book-of-enoch",
+      "count": 4,
+      "slug": "book-of-enoch"
+    },
+    {
+      "name": "book-of-mormon",
+      "count": 89,
+      "slug": "book-of-mormon"
+    },
+    {
+      "name": "book-of-mormon-witnesses",
+      "count": 1,
+      "slug": "book-of-mormon-witnesses"
+    },
+    {
+      "name": "christianity",
+      "count": 2,
+      "slug": "christianity"
+    },
+    {
+      "name": "epistemology",
+      "count": 2,
+      "slug": "epistemology"
+    },
+    {
+      "name": "faith",
+      "count": 1,
+      "slug": "faith"
+    },
+    {
+      "name": "faith-transitions",
+      "count": 22,
+      "slug": "faith-transitions"
+    },
+    {
+      "name": "family-proclamation",
+      "count": 1,
+      "slug": "family-proclamation"
+    },
+    {
+      "name": "first-vision",
+      "count": 4,
+      "slug": "first-vision"
+    },
+    {
+      "name": "flood",
+      "count": 1,
+      "slug": "flood"
+    },
+    {
+      "name": "jst",
+      "count": 2,
+      "slug": "jst"
+    },
+    {
+      "name": "lgbt",
+      "count": 1,
+      "slug": "lgbt"
+    },
+    {
+      "name": "magic",
+      "count": 1,
+      "slug": "magic"
+    },
+    {
+      "name": "manifestations",
+      "count": 1,
+      "slug": "manifestations"
+    },
+    {
+      "name": "my-beliefs",
+      "count": 2,
+      "slug": "my-beliefs"
+    },
+    {
+      "name": "polygamy",
+      "count": 58,
+      "slug": "polygamy"
+    },
+    {
+      "name": "questioning",
+      "count": 1,
+      "slug": "questioning"
+    },
+    {
+      "name": "race-and-priesthood",
+      "count": 5,
+      "slug": "race-and-priesthood"
+    },
+    {
+      "name": "science",
+      "count": 2,
+      "slug": "science"
+    },
+    {
+      "name": "secular-humanism",
+      "count": 2,
+      "slug": "secular-humanism"
+    },
+    {
+      "name": "sociology-and-psychology",
+      "count": 3,
+      "slug": "sociology-and-psychology"
+    },
+    {
+      "name": "temple",
+      "count": 1,
+      "slug": "temple"
+    },
+    {
+      "name": "transparency",
+      "count": 1,
+      "slug": "transparency"
+    },
+    {
+      "name": "truth-claims",
+      "count": 12,
+      "slug": "truth-claims"
+    },
+    {
+      "name": "word-of-wisdom",
+      "count": 9,
+      "slug": "word-of-wisdom"
+    }
+  ],
+  "doctype": [
+    {
+      "name": "analogy",
+      "count": 1,
+      "slug": "analogy"
+    },
+    {
+      "name": "analysis",
+      "count": 18,
+      "slug": "analysis"
+    },
+    {
+      "name": "anecdotal",
+      "count": 9,
+      "slug": "anecdotal"
+    },
+    {
+      "name": "book-excerpt",
+      "count": 2,
+      "slug": "book-excerpt"
+    },
+    {
+      "name": "book-exerpt",
+      "count": 6,
+      "slug": "book-exerpt"
+    },
+    {
+      "name": "compilation",
+      "count": 7,
+      "slug": "compilation"
+    },
+    {
+      "name": "definitions",
+      "count": 1,
+      "slug": "definitions"
+    },
+    {
+      "name": "discussion",
+      "count": 3,
+      "slug": "discussion"
+    },
+    {
+      "name": "email-communication-transcript",
+      "count": 1,
+      "slug": "email-communication-transcript"
+    },
+    {
+      "name": "email-transcript",
+      "count": 1,
+      "slug": "email-transcript"
+    },
+    {
+      "name": "essay",
+      "count": 1,
+      "slug": "essay"
+    },
+    {
+      "name": "excerpt",
+      "count": 16,
+      "slug": "excerpt"
+    },
+    {
+      "name": "excerpts",
+      "count": 2,
+      "slug": "excerpts"
+    },
+    {
+      "name": "expert-survey",
+      "count": 1,
+      "slug": "expert-survey"
+    },
+    {
+      "name": "footnote",
+      "count": 1,
+      "slug": "footnote"
+    },
+    {
+      "name": "good-ideas",
+      "count": 1,
+      "slug": "good-ideas"
+    },
+    {
+      "name": "historical-resource",
+      "count": 2,
+      "slug": "historical-resource"
+    },
+    {
+      "name": "historical-source",
+      "count": 23,
+      "slug": "historical-source"
+    },
+    {
+      "name": "infographic",
+      "count": 1,
+      "slug": "infographic"
+    },
+    {
+      "name": "links",
+      "count": 12,
+      "slug": "links"
+    },
+    {
+      "name": "list-of-resources",
+      "count": 1,
+      "slug": "list-of-resources"
+    },
+    {
+      "name": "meme",
+      "count": 1,
+      "slug": "meme"
+    },
+    {
+      "name": "notes",
+      "count": 122,
+      "slug": "notes"
+    },
+    {
+      "name": "personal",
+      "count": 1,
+      "slug": "personal"
+    },
+    {
+      "name": "personal-history",
+      "count": 1,
+      "slug": "personal-history"
+    },
+    {
+      "name": "personal-letter",
+      "count": 2,
+      "slug": "personal-letter"
+    },
+    {
+      "name": "quotation",
+      "count": 9,
+      "slug": "quotation"
+    },
+    {
+      "name": "quotations",
+      "count": 1,
+      "slug": "quotations"
+    },
+    {
+      "name": "report",
+      "count": 1,
+      "slug": "report"
+    },
+    {
+      "name": "resource",
+      "count": 23,
+      "slug": "resource"
+    },
+    {
+      "name": "resource-transcription",
+      "count": 2,
+      "slug": "resource-transcription"
+    },
+    {
+      "name": "resources",
+      "count": 2,
+      "slug": "resources"
+    },
+    {
+      "name": "resources-on-family-proclamation",
+      "count": 1,
+      "slug": "resources-on-family-proclamation"
+    },
+    {
+      "name": "response",
+      "count": 18,
+      "slug": "response"
+    },
+    {
+      "name": "short-analysis",
+      "count": 77,
+      "slug": "short-analysis"
+    },
+    {
+      "name": "short-compilation",
+      "count": 11,
+      "slug": "short-compilation"
+    },
+    {
+      "name": "short-essay",
+      "count": 1,
+      "slug": "short-essay"
+    },
+    {
+      "name": "short-summary",
+      "count": 1,
+      "slug": "short-summary"
+    },
+    {
+      "name": "shower-thought",
+      "count": 9,
+      "slug": "shower-thought"
+    },
+    {
+      "name": "simple-list",
+      "count": 1,
+      "slug": "simple-list"
+    },
+    {
+      "name": "simple-outline",
+      "count": 2,
+      "slug": "simple-outline"
+    },
+    {
+      "name": "summary",
+      "count": 1,
+      "slug": "summary"
+    },
+    {
+      "name": "survey",
+      "count": 1,
+      "slug": "survey"
+    },
+    {
+      "name": "table",
+      "count": 2,
+      "slug": "table"
+    },
+    {
+      "name": "transcript",
+      "count": 20,
+      "slug": "transcript"
+    },
+    {
+      "name": "transcription",
+      "count": 2,
+      "slug": "transcription"
+    },
+    {
+      "name": "transcription-of-analysis",
+      "count": 1,
+      "slug": "transcription-of-analysis"
+    }
+  ]
+}

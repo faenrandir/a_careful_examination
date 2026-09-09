@@ -1,8 +1,9 @@
 +++
 title = "The context of Emma Smith's Book of Mormon witness"
 path = "/context-of-emma-smiths-bom-witness/"
-extra = {doctype = "short-analysis", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["short-analysis"]
 
 +++
 [Emma Smith's last testimony](/last-testimony-of-sister-emma/) is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]

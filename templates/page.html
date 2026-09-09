@@ -3,7 +3,7 @@
 {% block content %}
 <article class="post">
   <header class="post-header">
-    {% if page.extra is defined and page.extra.doctype is defined and page.extra.doctype == "resource" %}
+    {% if page.taxonomies.doctype is defined and "resource" in page.taxonomies.doctype %}
       <h1 class="resource-post-title">{{ page.title }}</h1>
       {% if page.updated %}
       <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
@@ -13,9 +13,23 @@
       {% if page.updated %}
       <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
       {% endif %}
-      {% if page.extra is defined and page.extra.doctype is defined %}
-      <div class="doctype-display">({{ page.extra.doctype }})</div>
+    {% endif %}
+
+    {% if page.taxonomies %}
+    <div class="post-taxonomies">
+      {% if page.taxonomies.maintopic %}
+      <span class="taxonomy-label">Topics:</span>
+      {% for term in page.taxonomies.maintopic %}
+      <a href="{{ config.base_url | safe }}/maintopic/{{ term | slugify }}/" class="tag tag-maintopic">{{ term }}</a>
+      {% endfor %}
       {% endif %}
+      {% if page.taxonomies.doctype %}
+      <span class="taxonomy-label">Type:</span>
+      {% for term in page.taxonomies.doctype %}
+      <a href="{{ config.base_url | safe }}/doctype/{{ term | slugify }}/" class="tag tag-doctype">{{ term }}</a>
+      {% endfor %}
+      {% endif %}
+    </div>
     {% endif %}
 
     {% if page.extra is defined and page.extra.featuredimage is defined %}

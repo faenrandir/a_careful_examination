@@ -1,8 +1,9 @@
 +++
 title = "“The Principles of Nature” Challenge"
 path = "/the-principles-of-nature-challenge/"
-extra = {doctype = "notes", maintopic = "book-of-mormon"}
-updated = "2020-12-21"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["notes"]
 
 +++
 1. The author or translator must be only twenty years of age or younger when he or she produces the work.

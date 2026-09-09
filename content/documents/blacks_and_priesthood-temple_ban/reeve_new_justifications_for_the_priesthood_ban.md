@@ -1,8 +1,9 @@
 +++
 title = "Paul Reeve: New justifications for the Black Priesthood/Temple ban"
 path = "/reeve-poor-justifications-for-black-priesthood-ban/"
-extra = {doctype = "notes", maintopic = "race-and-priesthood"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["race-and-priesthood"]
+taxonomies.doctype = ["notes"]
 
 +++
 ### Paul Reeve wrote initial Race and Priesthood draft

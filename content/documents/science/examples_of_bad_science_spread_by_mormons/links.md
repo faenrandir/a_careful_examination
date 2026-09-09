@@ -1,8 +1,8 @@
 +++
 title = "Examples of bad science spread by Mormons"
 path = "/bad-science-spread-by-mormons/"
-extra = {doctype = "notes"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 * An Arizona legislator [believes the earth is 6000 years old](http://accmag.com/az-lawmaker-who-believes-earth-6000-years-old-leads-education-panel/).  She has [self identified as Mormon previous to this and comes from the Mormon community of Snowflake](https://www.reddit.com/r/exmormon/comments/6da61w/mormon_az_lawmaker_who_believes_earth_6000_years/).

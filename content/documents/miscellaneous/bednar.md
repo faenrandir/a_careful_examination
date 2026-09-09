@@ -1,8 +1,8 @@
 +++
 title = "Behavior or teachings of David Bednar that some former members find objectionable"
 path = "/bednar-objectionable-to-former-mormons/"
-extra = {doctype = "short-compilation"}
-updated = "2026-01-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-compilation"]
 
 +++
 ## Negative

@@ -1,8 +1,9 @@
 +++
 title = "Saints Volume 1: The Partridge Sisters' second sealing to Joseph Smith"
 path = "/saints-v1-partridge-sisters-second-sealing/"
-extra = {doctype = "transcript", maintopic = "polygamy"}
-updated = "2026-03-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["transcript"]
 
 +++
 ### Introduction

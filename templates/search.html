@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="search-page">
+  <header class="search-header">
+    <h1>Search</h1>
+    <form id="search-form" class="search-form">
+      <label for="search-input" class="visually-hidden">Search site</label>
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search articles..."
+        autocomplete="off"
+        aria-describedby="search-hint"
+      >
+      <span id="search-hint" class="visually-hidden">Type to search across all articles</span>
+    </form>
+    <div id="search-status" class="search-status" aria-live="polite"></div>
+  </header>
+
+  <div id="search-results" class="search-results"></div>
+
+  <template id="result-template">
+    <article class="search-result">
+      <h2><a href="" class="result-link"></a></h2>
+      <p class="result-snippet"></p>
+      <div class="result-meta">
+        <span class="result-tags"></span>
+      </div>
+    </article>
+  </template>
+
+  <div id="no-results" class="no-results" hidden>
+    <p>No results found for "<span id="search-query-display"></span>"</p>
+    <p>Try different keywords or check your spelling.</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  'use strict';
+
+  const input = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+  const statusEl = document.getElementById('search-status');
+  const noResultsEl = document.getElementById('no-results');
+  const queryDisplay = document.getElementById('search-query-display');
+  const template = document.getElementById('result-template');
+
+  let searchData = null;
+  let debounceTimer = null;
+  const DEBOUNCE_MS = 150;
+
+  // Show status message
+  function setStatus(msg, isError = false) {
+    statusEl.textContent = msg;
+    statusEl.classList.toggle('error', isError);
+  }
+
+  // Load the search index
+  async function loadIndex() {
+    try {
+      setStatus('Loading search index...');
+      const base = '{{ config.base_url | safe }}';
+      const response = await fetch(base + '/search_index.json');
+      if (!response.ok) throw new Error('Failed to load search index');
+
+      const data = await response.json();
+      searchData = data.pages || [];
+      setStatus('Ready. Type to search.');
+      input.disabled = false;
+      input.focus();
+    } catch (err) {
+      setStatus('Search unavailable: ' + err.message, true);
+      console.error(err);
+    }
+  }
+
+  // Escape HTML
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  // Highlight query terms in snippet
+  function highlightSnippet(snippet, query) {
+    const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+    let html = escapeHtml(snippet);
+    terms.forEach(term => {
+      const regex = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+      html = html.replace(regex, '<mark>$1</mark>');
+    });
+    return html;
+  }
+
+  // Simple search function
+  function searchPages(query) {
+    const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+    if (terms.length === 0) return [];
+
+    return searchData.filter(page => {
+      const title = (page.title || '').toLowerCase();
+      const snippet = (page.snippet || '').toLowerCase();
+      const url = (page.url || '').toLowerCase();
+      
+      return terms.every(term => 
+        title.includes(term) || snippet.includes(term) || url.includes(term)
+      );
+    }).slice(0, 50); // Limit results
+  }
+
+  // Render results
+  function renderResults(results, query) {
+    resultsContainer.innerHTML = '';
+    noResultsEl.hidden = results.length > 0;
+    queryDisplay.textContent = query;
+
+    if (results.length === 0) return;
+
+    results.forEach(page => {
+      const clone = template.content.cloneNode(true);
+      const article = clone.querySelector('.search-result');
+      const link = clone.querySelector('.result-link');
+      const snippet = clone.querySelector('.result-snippet');
+      const tagsEl = clone.querySelector('.result-tags');
+
+      link.href = page.url;
+      link.textContent = page.title || 'Untitled';
+
+      if (page.snippet) {
+        snippet.innerHTML = highlightSnippet(page.snippet, query);
+      } else {
+        snippet.textContent = '';
+      }
+
+      resultsContainer.appendChild(clone);
+    });
+  }
+
+  // Perform search
+  function doSearch(query) {
+    if (!searchData) return;
+
+    if (!query.trim()) {
+      resultsContainer.innerHTML = '';
+      noResultsEl.hidden = true;
+      setStatus('Ready. Type to search.');
+      return;
+    }
+
+    setStatus('Searching...');
+    const results = searchPages(query);
+    setStatus(results.length === 1 ? '1 result' : `${results.length} results`);
+    renderResults(results, query);
+  }
+
+  // Debounced search on input
+  input.addEventListener('input', function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => doSearch(this.value), DEBOUNCE_MS);
+  });
+
+  // Handle Enter key
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      clearTimeout(debounceTimer);
+      doSearch(this.value);
+    }
+  });
+
+  // Initialize
+  input.disabled = true;
+  loadIndex();
+})();
+</script>
+{% endblock content %}

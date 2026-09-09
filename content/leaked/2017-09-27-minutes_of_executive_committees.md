@@ -1,8 +1,8 @@
 +++
 title = "Highlights from recently leaked documents (2017)"
 path = "/highlights-from-recently-leaked-documents-2017/"
-extra = {doctype = "summary"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["summary"]
 
 +++
 ## No SSA missionaries allowed 

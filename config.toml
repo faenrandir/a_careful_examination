@@ -32,9 +32,9 @@ taxonomies = [
 bottom_footnotes = true
 smart_punctuation = true
 
-# Search (disabled for now)
+# Search
 [search]
-enabled = false
+enabled = true
 
 # Link checker - skip internal anchor checks (Zola slugifies differently from Jekyll)
 [link_checker]

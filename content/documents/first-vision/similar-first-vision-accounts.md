@@ -1,8 +1,9 @@
 +++
 title = "Similar First Vision accounts"
 path = "/similar-first-vision-accounts/"
-extra = {doctype = "links", maintopic = "first-vision"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["first-vision"]
+taxonomies.doctype = ["links"]
 
 +++
 ## Introduction

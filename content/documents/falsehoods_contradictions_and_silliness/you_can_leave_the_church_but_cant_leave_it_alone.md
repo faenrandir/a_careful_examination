@@ -1,8 +1,8 @@
 +++
 title = "You can leave the Church but you can't leave it alone"
 path = "/you-can-leave-the-church-but-you-cant-leave-it-alone/"
-extra = {doctype = "short-analysis"}
-updated = "2026-05-03"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 [pre-draft form]

@@ -1,8 +1,9 @@
 +++
 title = "Asking experts about Miller et al. 2022"
 path = "/validating-miller-et-al-2022/"
-extra = {doctype = "report", maintopic = "book-of-mormon"}
-updated = "2024-02-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["report"]
 
 +++
 # Introduction

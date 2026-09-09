@@ -1,8 +1,9 @@
 +++
 title = "Summary of my beliefs relative to core LDS doctrine"
 path = "/summary-of-beliefs-relative-to-LDS-doctrine/"
-extra = {doctype = "simple-outline", maintopic = "my-beliefs"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["my-beliefs"]
+taxonomies.doctype = ["simple-outline"]
 
 +++
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:

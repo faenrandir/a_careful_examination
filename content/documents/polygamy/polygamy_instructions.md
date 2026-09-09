@@ -1,8 +1,9 @@
 +++
 title = "Scriptural instructions for practicing polygamy"
 path = "/scriptural-instructions-for-practicing-polygamy/"
-extra = {doctype = "resource-transcription", maintopic = "polygamy"}
-updated = "2023-08-01"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["resource-transcription"]
 
 +++
 *Modified from [here](https://www.reddit.com/r/exmormon/comments/7xfo3i/although_the_lord_commanded_the_adoption_of/)*

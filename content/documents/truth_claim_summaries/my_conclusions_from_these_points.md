@@ -1,8 +1,8 @@
 +++
 title = "Five Key Facts: my conclusions"
 path = "/five-key-facts-my-conclusions/"
-extra = {doctype = "notes"}
-updated = "2023-06-10"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 1. Joseph claimed he could translate ancient documents.  He could not.

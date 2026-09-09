@@ -1,8 +1,9 @@
 +++
-title = "Excerpt from 'A Social History of the Nation's Favourite Drink'"
+title = "Excerpt from 'A Social History of the Nation's Favourite Drink"
 path = "/excerpt-from-social-history-of-tea/"
-extra = {doctype = "excerpt", maintopic = "word-of-wisdom"}
-updated = "2018-09-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["word-of-wisdom"]
+taxonomies.doctype = ["excerpt"]
 
 +++
 Copied from [A Social History of the Nation's Favourite Drink](https://www.tea.co.uk/a-social-history)

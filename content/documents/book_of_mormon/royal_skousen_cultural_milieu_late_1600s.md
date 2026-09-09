@@ -1,8 +1,9 @@
 +++
 title = "Royal Skousen: cultural milieu dates to late 1600s"
 path = "/royal-skousen-cultural-milieu-dates-to-late-1600s/"
-extra = {doctype = "quotation", maintopic = "book-of-mormon"}
-updated = "2020-05-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["quotation"]
 
 +++
 Royal Skousen, a believing Latter-day Saint scholar, [recently wrote in the pro-LDS Interpreter](https://www.mormoninterpreter.com/tyndale-versus-more-in-the-book-of-mormon/#more-6220):

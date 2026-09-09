@@ -1,8 +1,9 @@
 +++
 title = "Report, chronicles, and presentation on LDS faith crises"
 path = "/2013-faith-crisis-study/"
-extra = {doctype = "resource", maintopic = "faith-transitions"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["resource"]
 
 +++
 Greg Prince, John Dehlin, and Travis Stratford, members of the team that led this project, have granted permission for release of the following:

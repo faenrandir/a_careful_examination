@@ -1,8 +1,8 @@
 +++
 title = "Primary resources on the Priesthood/Temple Ban"
 path = "/primary-resources-on-the-priesthood-ban/"
-extra = {doctype = "list-of-resources"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.doctype = ["list-of-resources"]
 
 +++
 # Primary Resources

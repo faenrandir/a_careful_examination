@@ -1,7 +1,7 @@
 +++
 title = "Unparallels and the hypergeometric distribution"
-extra = {doctype = "short-analysis"}
-updated = "2023-03-22"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 [pre-draft]

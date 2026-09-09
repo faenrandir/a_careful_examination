@@ -1,8 +1,8 @@
 +++
 title = "The LDS practice of soaking is real"
 path = "/lds-soaking-is-real/"
-extra = {doctype = "notes"}
-updated = "2023-03-09"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ### Exmo lex, first hand account

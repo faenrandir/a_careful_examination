@@ -1,8 +1,9 @@
 +++
 title = "Martha Brotherton Affidavit"
 path = "/martha-brotherton-affidavit/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 ### Background

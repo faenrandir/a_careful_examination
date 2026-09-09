@@ -1,8 +1,8 @@
 +++
 title = "A Critical Review of T. Heath Ogden’s Chapter ‘Accepting Evolution with Joy Is Possible’"
 path = "/review-of-ogdens-chapter-accepting-evolution-with-joy/"
-extra = {doctype = "essay"}
-updated = "2025-04-17"
+updated = "2026-09-09"
+taxonomies.doctype = ["essay"]
 
 +++
 ## Introduction

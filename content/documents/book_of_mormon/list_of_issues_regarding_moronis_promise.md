@@ -1,8 +1,9 @@
 +++
 title = "Laundry List of Issues Regarding Moroni's Promise"
 path = "/list-of-issues-regarding-moronis-promise/"
-extra = {doctype = "transcription-of-analysis", maintopic = "book-of-mormon"}
-updated = "2020-05-16"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["transcription-of-analysis"]
 
 +++
 *The remainder of this page is taken directly from [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html) blog.  Some of these points are stronger than others, I think.  (Minor spelling changes have been made)*

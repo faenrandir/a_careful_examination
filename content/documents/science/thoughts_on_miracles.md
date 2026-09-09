@@ -1,8 +1,8 @@
 +++
 title = "Believing in God based on miracles"
 path = "/believing-in-god-based-on-miracles/"
-extra = {doctype = "short-analysis"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["short-analysis"]
 
 +++
 ## Abstract

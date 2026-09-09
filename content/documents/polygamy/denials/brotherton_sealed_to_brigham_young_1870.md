@@ -1,8 +1,9 @@
 +++
 title = "Brigham Young sealed Martha Brotherton to himself with proxy"
 path = "/brigham-young-sealed-to-martha-brotherton/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2022-10-20"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 Martha Brotherton, who was maligned by Church leaders throughout the end of

@@ -56,6 +56,10 @@ def main():
         run("rm -rf docs")
         run("zola build")
 
+        # Generate search and taxonomy indices
+        run("python3 scripts/generate_search_index.py")
+        run("python3 scripts/generate_taxonomy_index.py")
+
         # Verify build succeeded
         import os
         if not os.path.isfile("docs/index.html"):

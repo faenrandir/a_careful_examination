@@ -1,8 +1,9 @@
 +++
 title = "Why do people leave the LDS Church?"
 path = "/why-do-people-leave-the-lds-church/"
-extra = {doctype = "links", maintopic = "faith-transitions"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith-transitions"]
+taxonomies.doctype = ["links"]
 
 +++
 ### Why are people leaving?

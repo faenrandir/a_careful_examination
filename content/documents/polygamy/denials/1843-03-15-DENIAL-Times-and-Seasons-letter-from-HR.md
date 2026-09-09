@@ -1,8 +1,9 @@
 +++
 title = "Letter to editor from 'H. R.' - Times and Seasons, 15 March 1843"
 path = "/letter-to-ed-from-hr-times-and-seasons-1843/"
-extra = {doctype = "historical-source", maintopic = "polygamy"}
-updated = "2018-09-11"
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["historical-source"]
 
 +++
 * [Times and Seasons Vol 4. (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8618) No. 9

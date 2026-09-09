@@ -1,8 +1,8 @@
 +++
 title = "The Apologetic Slide"
 path = "/the-apologetic-slide/"
-extra = {doctype = "shower-thought"}
-updated = "2018-09-12"
+updated = "2026-09-09"
+taxonomies.doctype = ["shower-thought"]
 
 +++
 * No prophet or apostle ever taught that.

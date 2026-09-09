@@ -1,8 +1,10 @@
 +++
 title = "Assessing the accuracy of Martha Brotherton's affidavit"
 path = "/assessing-accuracy-brotherton-affidavit/"
-extra = {doctype = "resource", maintopic = "polygamy", featuredimage = "/media/800px-Saints_Innocents_1550_Hoffbauer.jpg"}
-updated = "2024-10-05"
+extra = {featuredimage = "/media/800px-Saints_Innocents_1550_Hoffbauer.jpg"}
+updated = "2026-09-09"
+taxonomies.maintopic = ["polygamy"]
+taxonomies.doctype = ["resource"]
 
 +++
 [**VERY ROUGH DRAFT**]

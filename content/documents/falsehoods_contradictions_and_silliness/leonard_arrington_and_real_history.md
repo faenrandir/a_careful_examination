@@ -1,8 +1,8 @@
 +++
 title = "Leonard Arrington documents suppressive attitudes towards LDS history"
 path = "/leonard-arrington-and-real-history/"
-extra = {doctype = "notes"}
-updated = "2021-11-27"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 ## Introduction

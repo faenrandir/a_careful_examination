@@ -1,8 +1,9 @@
 +++
 title = "Confidence faith vs. religious faith: personal reflections on faith, hope, and love"
 path = "/faith-vs-religious-faith/"
-extra = {doctype = "analysis", maintopic = "faith"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["faith"]
+taxonomies.doctype = ["analysis"]
 
 +++
 ### What is faith?

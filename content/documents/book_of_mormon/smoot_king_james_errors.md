@@ -1,8 +1,9 @@
 +++
 title = "Stephen Smoot acknowledges King James Version errors in the Book of Mormon"
 path = "/smoot-king-james-errors/"
-extra = {doctype = "quotation", maintopic = "book-of-mormon"}
-updated = "2026-08-23"
+updated = "2026-09-09"
+taxonomies.maintopic = ["book-of-mormon"]
+taxonomies.doctype = ["quotation"]
 
 +++
 ## Introduction

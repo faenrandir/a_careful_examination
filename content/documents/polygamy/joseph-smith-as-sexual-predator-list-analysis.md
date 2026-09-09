@@ -1,8 +1,8 @@
 +++
 title = "The case for Joseph Smith as sexual predator analysis"
 path = "/case-for-joseph-smith-as-sexual-predator-analysis"
-extra = {doctype = "analysis"}
-updated = "2023-08-24"
+updated = "2026-09-09"
+taxonomies.doctype = ["analysis"]
 
 +++
 [draft notes]

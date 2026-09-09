@@ -1,8 +1,8 @@
 +++
 title = "Infallibility"
 path = "/infallability/"
-extra = {doctype = "notes"}
-updated = "2024-09-09"
+updated = "2026-09-09"
+taxonomies.doctype = ["notes"]
 
 +++
 # Introduction
