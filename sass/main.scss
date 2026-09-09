@@ -43,7 +43,7 @@ code {
   position: fixed;
   top: 0;
   left: 0;
-  width: 280px;
+  width: 260px;
   height: 100vh;
   background: $background-color;
   border-right: 1px solid $grey-color-light;
@@ -52,6 +52,10 @@ code {
   flex-direction: column;
   transform: translateX(0);
   transition: transform 0.3s ease;
+}
+
+#sidebar.collapsed {
+  transform: translateX(-100%);
 }
 
 .sidebar-header {
@@ -82,10 +86,26 @@ code {
   color: $text-color;
 }
 
+.sidebar-collapse-btn {
+  background: none;
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  color: $grey-color;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-collapse-btn:hover {
+  color: $text-color;
+}
+
 .sidebar-nav {
   flex: 1;
   overflow-y: auto;
-  padding: $spacing-unit;
+  padding: $spacing-unit * 0.6;
 }
 
 .sidebar-section {
@@ -144,6 +164,75 @@ code {
 .sidebar-link:hover .sidebar-count {
   background: $brand-color;
   color: white;
+}
+
+/* ==========================================================================
+   Main Content Layout (respects sidebar)
+   ========================================================================== */
+
+.page-content {
+  margin-left: 260px;
+  transition: margin-left 0.3s ease;
+}
+
+.page-content .wrapper {
+  max-width: calc(#{$content-width} - 260px - #{$spacing-unit});
+}
+
+/* Sidebar collapsed state */
+.sidebar-collapsed ~ .page-content {
+  margin-left: 0;
+}
+
+.sidebar-collapsed ~ .page-content .wrapper {
+  max-width: calc(#{$content-width} - #{$spacing-unit});
+}
+
+/* Floating restore button */
+.sidebar-restore {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 997;
+  display: none;
+  background: $brand-color;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+}
+
+.sidebar-restore:hover {
+  background: darken($brand-color, 10%);
+  transform: scale(1.05);
+}
+
+.sidebar-restore:focus {
+  outline: 2px solid $brand-color;
+  outline-offset: 2px;
+}
+
+.sidebar-collapsed .sidebar-restore {
+  display: flex;
+}
+
+/* Mobile: keep existing hamburger behavior */
+@media (max-width: 768px) {
+  .page-content {
+    margin-left: 0;
+  }
+  .page-content .wrapper {
+    max-width: calc(#{$content-width} - #{$spacing-unit});
+  }
+  .sidebar-restore {
+    display: none !important;
+  }
 }
 
 /* ==========================================================================

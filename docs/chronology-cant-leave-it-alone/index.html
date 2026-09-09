@@ -36,6 +36,9 @@
         <label for="sidebar-trigger" class="sidebar-close" aria-label="Close sidebar">
           <svg viewBox="0 0 24 24" width="24" height="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
         </label>
+        <button class="sidebar-collapse-btn" id="sidebar-collapse-btn" aria-label="Collapse sidebar" title="Collapse sidebar">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"/></svg>
+        </button>
       </div>
 
       <nav class="sidebar-nav" id="sidebar-nav">
@@ -43,6 +46,10 @@
         <div class="sidebar-loading">Loading navigation...</div>
       </nav>
     </aside>
+
+    <button class="sidebar-restore" id="sidebar-restore" aria-label="Restore sidebar" title="Restore sidebar">
+      <svg viewBox="0 0 24 24" width="20" height="20"><path d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.5l6 6-6 6z"/></svg>
+    </button>
 
     <header class="site-header" role="banner">
       <div class="wrapper">
@@ -345,6 +352,37 @@ the “can’t leave it alone” phrase and the “leaves neutral ground” stor
     } else {
       loadTaxonomyIndex();
     }
+  })();
+  </script>
+
+  <script>
+  (function() {
+    'use strict';
+
+    const sidebar = document.getElementById('sidebar');
+    const collapseBtn = document.getElementById('sidebar-collapse-btn');
+    const restoreBtn = document.getElementById('sidebar-restore');
+    const STORAGE_KEY = 'sidebar_collapsed';
+
+    function setCollapsed(collapsed) {
+      document.body.classList.toggle('sidebar-collapsed', collapsed);
+      if (sidebar) sidebar.classList.toggle('collapsed', collapsed);
+      localStorage.setItem(STORAGE_KEY, collapsed);
+    }
+
+    // Initialize from localStorage (desktop only)
+    if (window.innerWidth > 768) {
+      const saved = localStorage.getItem(STORAGE_KEY) === 'true';
+      setCollapsed(saved);
+    }
+
+    collapseBtn?.addEventListener('click', () => setCollapsed(true));
+    restoreBtn?.addEventListener('click', () => setCollapsed(false));
+
+    // Reset on mobile resize
+    window.addEventListener('resize', () => {
+      if (window.innerWidth <= 768) setCollapsed(false);
+    });
   })();
   </script>
 </body>

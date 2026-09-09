@@ -60,6 +60,9 @@ def main():
         run("python3 scripts/generate_search_index.py")
         run("python3 scripts/generate_taxonomy_index.py")
 
+        # Stage generated index files explicitly (they were deleted by rm -rf)
+        run("git add docs/search_index.json docs/taxonomy_index.json")
+
         # Verify build succeeded
         import os
         if not os.path.isfile("docs/index.html"):
