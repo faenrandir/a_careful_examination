@@ -176,7 +176,7 @@ code {
 }
 
 .page-content .wrapper {
-  max-width: calc(#{$content-width} - 260px - #{$spacing-unit});
+  max-width: calc(#{$content-width} - #{$spacing-unit});
 }
 
 /* Sidebar collapsed state */
