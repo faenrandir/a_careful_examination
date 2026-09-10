@@ -528,6 +528,34 @@ or sealed to President Joseph Smith, in the City of Nauvoo … by [remaining bla
       return div.innerHTML;
     }
 
+    // Load taxonomy for browse page
+    function loadBrowseTaxonomy() {
+      const categoriesList = document.getElementById('categories-list');
+      const tagsList = document.getElementById('tags-list');
+      if (!categoriesList && !tagsList) return;
+
+      const base = '/a_careful_examination';
+      fetch(base + '/taxonomy_index.json')
+        .then(response => response.json())
+        .then(data => {
+          if (categoriesList && data.categories) {
+            categoriesList.innerHTML = data.categories.map(term => 
+              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+          if (tagsList && data.tags) {
+            tagsList.innerHTML = data.tags.map(term => 
+              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load taxonomy index:', err);
+          if (categoriesList) categoriesList.innerHTML = '<li>Failed to load categories</li>';
+          if (tagsList) tagsList.innerHTML = '<li>Failed to load topics</li>';
+        });
+    }
+
     // Fix absolute links that don't have the base_url prefix
     function fixAbsoluteLinks() {
       const base = '/a_careful_examination';
@@ -545,10 +573,12 @@ or sealed to President Joseph Smith, in the City of Nauvoo … by [remaining bla
       document.addEventListener('DOMContentLoaded', () => {
         loadTaxonomyIndex();
         fixAbsoluteLinks();
+        loadBrowseTaxonomy();
       });
     } else {
       loadTaxonomyIndex();
       fixAbsoluteLinks();
+      loadBrowseTaxonomy();
     }
   })();
   </script>

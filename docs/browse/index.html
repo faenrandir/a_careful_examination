@@ -58,35 +58,26 @@
 
   <section class="browse-section">
     <h2>Categories</h2>
-    <ul class="taxonomy-grid">
-      
-      
-      
+    <ul class="taxonomy-grid" id="categories-list">
+      <li class="loading">Loading categories...</li>
     </ul>
   </section>
 
   <section class="browse-section">
     <h2>Topics</h2>
-    <ul class="taxonomy-grid">
-      
-      
-      
-    </ul>
-  </section>
-
-  <section class="browse-section" id="recently-updated">
-    <h2>Recently Updated</h2>
-    <ul class="resource-list">
-      
-      
+    <ul class="taxonomy-grid" id="tags-list">
+      <li class="loading">Loading topics...</li>
     </ul>
   </section>
 
   <section class="browse-section">
+    <h2>Recently Updated</h2>
+    <p>Use the <a href="/a_careful_examination/search/">search</a> or browse by <a href="#categories">category</a> / <a href="#topics">topic</a> to find recently updated resources.</p>
+  </section>
+
+  <section class="browse-section">
     <h2>All Resources (A–Z)</h2>
-    <ul class="resource-list az-list">
-      
-    </ul>
+    <p>Use the <a href="/a_careful_examination/search/">search</a> or browse by <a href="#categories">category</a> / <a href="#topics">topic</a> to find all resources alphabetically.</p>
   </section>
 </article>
 
@@ -157,6 +148,34 @@
       return div.innerHTML;
     }
 
+    // Load taxonomy for browse page
+    function loadBrowseTaxonomy() {
+      const categoriesList = document.getElementById('categories-list');
+      const tagsList = document.getElementById('tags-list');
+      if (!categoriesList && !tagsList) return;
+
+      const base = '/a_careful_examination';
+      fetch(base + '/taxonomy_index.json')
+        .then(response => response.json())
+        .then(data => {
+          if (categoriesList && data.categories) {
+            categoriesList.innerHTML = data.categories.map(term => 
+              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+          if (tagsList && data.tags) {
+            tagsList.innerHTML = data.tags.map(term => 
+              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load taxonomy index:', err);
+          if (categoriesList) categoriesList.innerHTML = '<li>Failed to load categories</li>';
+          if (tagsList) tagsList.innerHTML = '<li>Failed to load topics</li>';
+        });
+    }
+
     // Fix absolute links that don't have the base_url prefix
     function fixAbsoluteLinks() {
       const base = '/a_careful_examination';
@@ -174,10 +193,12 @@
       document.addEventListener('DOMContentLoaded', () => {
         loadTaxonomyIndex();
         fixAbsoluteLinks();
+        loadBrowseTaxonomy();
       });
     } else {
       loadTaxonomyIndex();
       fixAbsoluteLinks();
+      loadBrowseTaxonomy();
     }
   })();
   </script>
