@@ -5,8 +5,9 @@ Run after `zola build` to create taxonomy_index.json
 """
 
 import json
-import os
+import re
 from pathlib import Path
+import tomllib
 
 CONTENT_DIR = Path("/home/jtprince/projects/a_careful_examination/content")
 OUTPUT_DIR = Path("/home/jtprince/projects/a_careful_examination/docs")
@@ -34,35 +35,25 @@ def main():
             
             fm_text = parts[1].strip()
             
-            # Simple TOML parsing for taxonomies
-            categories = []
-            tags = []
+            # Parse TOML frontmatter
+            try:
+                fm = tomllib.loads(fm_text)
+            except Exception:
+                continue
             
-            for line in fm_text.split('\n'):
-                line = line.strip()
-                if line.startswith('taxonomies.categories'):
-                    val = line.split('=', 1)[1].strip()
-                    if val.startswith('[') and val.endswith(']'):
-                        items = val[1:-1].split(',')
-                        for item in items:
-                            item = item.strip().strip('"\'')
-                            if item:
-                                categories.append(item)
-                elif line.startswith('taxonomies.tags'):
-                    val = line.split('=', 1)[1].strip()
-                    if val.startswith('[') and val.endswith(']'):
-                        items = val[1:-1].split(',')
-                        for item in items:
-                            item = item.strip().strip('"\'')
-                            if item:
-                                tags.append(item)
+            # Extract categories and tags from taxonomies
+            taxonomies = fm.get('taxonomies', {})
+            categories = taxonomies.get('categories', [])
+            tags = taxonomies.get('tags', [])
             
             for cat in categories:
-                categories_terms[cat] = categories_terms.get(cat, 0) + 1
+                if isinstance(cat, str):
+                    categories_terms[cat] = categories_terms.get(cat, 0) + 1
             
             for tag in tags:
-                tags_terms[tag] = tags_terms.get(tag, 0) + 1
-                
+                if isinstance(tag, str):
+                    tags_terms[tag] = tags_terms.get(tag, 0) + 1
+                    
         except Exception as e:
             print(f"Error processing {md_path}: {e}")
     
