@@ -33,47 +33,32 @@
 </article>
 
 <script>
-  // Load taxonomy from JSON file with detailed error logging
-  (function() {
-    const categoriesList = document.getElementById('categories-list');
-    const tagsList = document.getElementById('tags-list');
-    if (!categoriesList || !tagsList) return;
-
-    const base = '/a_careful_examination';
-    
-    console.log('Attempting to load taxonomy from:', '/a_careful_examination/taxonomy_index.json');
-    
-    fetch('/a_careful_examination/taxonomy_index.json', { 
-      credentials: 'same-origin',
-      cache: 'no-cache'
+  // Simple test to see if fetch works at all
+  fetch('/a_careful_examination/taxonomy_index.json', { 
+    credentials: 'same-origin',
+    cache: 'no-cache'
+  })
+    .then(response => {
+      console.log('Fetch response status:', response.status);
+      return response.json();
     })
-      .then(response => {
-        console.log('Fetch response:', response.status, response.statusText);
-        if (!response.ok) {
-          throw new Error('HTTP error ' + response.status + ': ' + response.statusText);
-        }
-        return response.json();
-      })
-      .then(data => {
-        console.log('Taxonomy data received:', data);
-        
-        if (data.categories) {
-          document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-            '<li><a href="/a_careful_examination/categories/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
-          ).join('');
-        }
-        
-        if (data.tags) {
-          document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-            '<li><a href="/a_careful_examination/tags/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
-          ).join('');
-        }
-      })
-      .catch(err => {
-        console.error('Failed to load taxonomy:', err);
-        document.getElementById('categories-list').innerHTML = '<li>Failed to load categories: ' + err.message + '</li>';
-        document.getElementById('tags-list').innerHTML = '<li>Failed to load topics: ' + err.message + '</li>';
-      });
-  })();
+    .then(data => {
+      console.log('Taxonomy data loaded:', data);
+      if (data.categories) {
+        document.getElementById('categories-list').innerHTML = data.categories.map(term => 
+          '<li><a href="/a_careful_examination/categories/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+        ).join('');
+      }
+      if (data.tags) {
+        document.getElementById('tags-list').innerHTML = data.tags.map(term => 
+          '<li><a href="/a_careful_examination/tags/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+        ).join('');
+      }
+    })
+    .catch(err => {
+      console.error('Fetch error:', err);
+      document.getElementById('categories-list').innerHTML = '<li>Error: ' + err.message + '</li>';
+      document.getElementById('tags-list').innerHTML = '<li>Error: ' + err.message + '</li>';
+    });
 </script>
 {% endblock content %}
