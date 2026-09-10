@@ -31,4 +31,31 @@
     <p>Use the <a href="{{ config.base_url | safe }}/search/">search</a> or browse by <a href="#categories">category</a> / <a href="#topics">topic</a> to find all resources alphabetically.</p>
   </section>
 </article>
+
+<script>
+  // Load taxonomy from JSON file
+  fetch('/a_careful_examination/taxonomy_index.json')
+    .then(response => response.json())
+    .then(data => {
+      const categoriesList = document.getElementById('categories-list');
+      const tagsList = document.getElementById('tags-list');
+      
+      if (data.categories) {
+        document.getElementById('categories-list').innerHTML = data.categories.map(term => 
+          '<li><a href="/a_careful_examination/categories/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+        ).join('');
+      }
+      
+      if (data.tags) {
+        document.getElementById('tags-list').innerHTML = data.tags.map(term => 
+          '<li><a href="/a_careful_examination/tags/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+        ).join('');
+      }
+    })
+    .catch(err => {
+      console.error('Failed to load taxonomy:', err);
+      document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+      document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+    });
+</script>
 {% endblock content %}
