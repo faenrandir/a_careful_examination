@@ -209,6 +209,34 @@
       return div.innerHTML;
     }
 
+    // Load taxonomy for browse page
+    function loadBrowseTaxonomy() {
+      const categoriesList = document.getElementById('categories-list');
+      const tagsList = document.getElementById('tags-list');
+      if (!categoriesList && !tagsList) return;
+
+      const base = '/a_careful_examination';
+      fetch(base + '/taxonomy_index.json')
+        .then(response => response.json())
+        .then(data => {
+          if (data.categories) {
+            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
+              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+          if (data.tags) {
+            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
+              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+            ).join('');
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load taxonomy index:', err);
+          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+        });
+    }
+
     // Fix absolute links that don't have the base_url prefix
     function fixAbsoluteLinks() {
       const base = '/a_careful_examination';
@@ -226,10 +254,12 @@
       document.addEventListener('DOMContentLoaded', () => {
         loadTaxonomyIndex();
         fixAbsoluteLinks();
+        loadBrowseTaxonomy();
       });
     } else {
       loadTaxonomyIndex();
       fixAbsoluteLinks();
+      loadBrowseTaxonomy();
     }
   })();
   </script>
