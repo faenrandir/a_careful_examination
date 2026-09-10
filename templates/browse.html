@@ -41,14 +41,18 @@
 
     const base = '/a_careful_examination';
     
+    // Try fetching with credentials
     fetch('/a_careful_examination/taxonomy_index.json', { credentials: 'same-origin' })
       .then(response => {
+        console.log('Fetch response status:', response.status);
         if (!response.ok) {
           throw new Error('HTTP error ' + response.status);
         }
         return response.json();
       })
       .then(data => {
+        console.log('Taxonomy data loaded:', data);
+        
         if (data.categories) {
           document.getElementById('categories-list').innerHTML = data.categories.map(term => 
             '<li><a href="/a_careful_examination/categories/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
