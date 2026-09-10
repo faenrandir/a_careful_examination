@@ -33,7 +33,7 @@
 </article>
 
 <script>
-  // Load taxonomy from JSON file with better error handling
+  // Load taxonomy from JSON file with detailed error logging
   (function() {
     const categoriesList = document.getElementById('categories-list');
     const tagsList = document.getElementById('tags-list');
@@ -41,17 +41,21 @@
 
     const base = '/a_careful_examination';
     
-    // Try fetching with credentials
-    fetch('/a_careful_examination/taxonomy_index.json', { credentials: 'same-origin' })
+    console.log('Attempting to load taxonomy from:', '/a_careful_examination/taxonomy_index.json');
+    
+    fetch('/a_careful_examination/taxonomy_index.json', { 
+      credentials: 'same-origin',
+      cache: 'no-cache'
+    })
       .then(response => {
-        console.log('Fetch response status:', response.status);
+        console.log('Fetch response:', response.status, response.statusText);
         if (!response.ok) {
-          throw new Error('HTTP error ' + response.status);
+          throw new Error('HTTP error ' + response.status + ': ' + response.statusText);
         }
         return response.json();
       })
       .then(data => {
-        console.log('Taxonomy data loaded:', data);
+        console.log('Taxonomy data received:', data);
         
         if (data.categories) {
           document.getElementById('categories-list').innerHTML = data.categories.map(term => 
@@ -68,7 +72,7 @@
       .catch(err => {
         console.error('Failed to load taxonomy:', err);
         document.getElementById('categories-list').innerHTML = '<li>Failed to load categories: ' + err.message + '</li>';
-        document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+        document.getElementById('tags-list').innerHTML = '<li>Failed to load topics: ' + err.message + '</li>';
       });
   })();
 </script>
