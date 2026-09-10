@@ -9,19 +9,15 @@
 
   <section class="browse-section">
     <h2>Categories</h2>
-    <ul class="taxonomy-grid">
-      {% for term in get_taxonomy(kind="categories") %}
-        <li>{{ term }}</li>
-      {% endfor %}
+    <ul class="taxonomy-grid" id="categories-list">
+      <li class="loading">Loading categories...</li>
     </ul>
   </section>
 
   <section class="browse-section">
     <h2>Topics</h2>
-    <ul class="taxonomy-grid">
-      {% for term in get_taxonomy(kind="tags") %}
-        <li>{{ term }}</li>
-      {% endfor %}
+    <ul class="taxonomy-grid" id="tags-list">
+      <li class="loading">Loading topics...</li>
     </ul>
   </section>
 
@@ -35,4 +31,41 @@
     <p>Use the <a href="{{ config.base_url | safe }}/search/">search</a> or browse by <a href="#categories">category</a> / <a href="#topics">topic</a> to find all resources alphabetically.</p>
   </section>
 </article>
+
+<script>
+  // Load taxonomy from JSON file with better error handling
+  (function() {
+    const categoriesList = document.getElementById('categories-list');
+    const tagsList = document.getElementById('tags-list');
+    if (!categoriesList || !tagsList) return;
+
+    const base = '/a_careful_examination';
+    
+    fetch('/a_careful_examination/taxonomy_index.json', { credentials: 'same-origin' })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('HTTP error ' + response.status);
+        }
+        return response.json();
+      })
+      .then(data => {
+        if (data.categories) {
+          document.getElementById('categories-list').innerHTML = data.categories.map(term => 
+            '<li><a href="/a_careful_examination/categories/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+          ).join('');
+        }
+        
+        if (data.tags) {
+          document.getElementById('tags-list').innerHTML = data.tags.map(term => 
+            '<li><a href="/a_careful_examination/tags/' + term.slug + '/">' + term.name + ' (' + term.count + ')</a></li>'
+          ).join('');
+        }
+      })
+      .catch(err => {
+        console.error('Failed to load taxonomy:', err);
+        document.getElementById('categories-list').innerHTML = '<li>Failed to load categories: ' + err.message + '</li>';
+        document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+      });
+  })();
+</script>
 {% endblock content %}
