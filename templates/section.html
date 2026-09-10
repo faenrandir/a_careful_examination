@@ -16,7 +16,7 @@
   </header>
 
   <div class="post-content">
-    {{ section.content | replace(from="/(?![/a])", to=config.base_url | safe ~ "/") | safe }}
+    {{ section.content | safe }}
   </div>
 </article>
 {% endblock content %}

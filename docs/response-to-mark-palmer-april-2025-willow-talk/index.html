@@ -342,11 +342,27 @@ You will nourish your faith and your testimony as you feast at the sacrament tab
       return div.innerHTML;
     }
 
+    // Fix absolute links that don't have the base_url prefix
+    function fixAbsoluteLinks() {
+      const base = '/a_careful_examination';
+      const links = document.querySelectorAll('a[href^="/"]:not([href^="/a_careful_examination/"])');
+      links.forEach(link => {
+        const href = link.getAttribute('href');
+        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+          link.setAttribute('href', base + href);
+        }
+      });
+    }
+
     // Initialize on DOM ready
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', loadTaxonomyIndex);
+      document.addEventListener('DOMContentLoaded', () => {
+        loadTaxonomyIndex();
+        fixAbsoluteLinks();
+      });
     } else {
       loadTaxonomyIndex();
+      fixAbsoluteLinks();
     }
   })();
   </script>
