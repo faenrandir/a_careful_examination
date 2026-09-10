@@ -2,9 +2,10 @@
 title = "Book of Mormon parallels with Solomon Spalding's Oberlin Manuscript "
 path = "/bom-parallels-with-spalding-oberlin-manuscript/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [incomplete rough draft]
 
 ## Introduction

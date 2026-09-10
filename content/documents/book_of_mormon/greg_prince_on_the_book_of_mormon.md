@@ -2,9 +2,10 @@
 title = "LDS scholar Greg Prince on the Book of Mormon"
 path = "/greg-prince-on-the-bom-sunstone-2018/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "archaeology",
@@ -21,9 +22,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 An excerpt from Greg Prince's 2018 Sunstone presentation, ["Own Your Religion"](https://web.archive.org/web/20220513061006/https://sunstone.org/own-your-religion/):
 
 ---

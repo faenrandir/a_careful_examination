@@ -2,9 +2,10 @@
 title = "Chronology: “You can leave but you can't leave it alone”"
 path = "/chronology-cant-leave-it-alone/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "compilation",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [pre-draft form]
 
 ## Introduction

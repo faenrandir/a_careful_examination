@@ -2,6 +2,7 @@
 title = "Questions to Ask"
 path = "/questions-to-ask/"
 updated = "2026-09-10"
+
 [extra]
 featuredimage = "/media/Dunnottar_castle.jpg"
 type = "resource"
@@ -10,7 +11,7 @@ importance = 10
 
 [taxonomies]
 categories = [
-    "truth-claims",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -18,9 +19,7 @@ tags = [
     "polygamy",
     "resource",
 ]
-
 +++
-
 ## Introduction
 
 These questions are designed to probe various aspects of the LDS Church's history and truth-claims.[^other_questions]  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders. Some kind of LDS-faithful response to each question is to be expected (see [the Appendix](#appendix)), but the ease with which different models fit the data may suggest that one model is superior to another in explaining all the data.

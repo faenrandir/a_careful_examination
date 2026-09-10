@@ -2,9 +2,10 @@
 title = "Stories of Traumatic Faith Transitions"
 path = "/stories-of-traumatic-faith-transitions/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### FIL in front of group --- no forgiveness
 
 *From [here](https://www.reddit.com/r/exmormon/comments/6526jy/fil_to_me_no_forgiveness_in_this_life_nor_the_next/)*

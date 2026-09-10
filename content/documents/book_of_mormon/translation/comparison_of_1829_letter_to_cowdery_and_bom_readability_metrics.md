@@ -1,8 +1,9 @@
 +++
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -13,9 +14,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 +++
 +++
 

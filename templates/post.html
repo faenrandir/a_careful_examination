@@ -31,7 +31,7 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ page.content | safe }}
+    {{ page.content | replace(from="/(?![/a])", to=config.base_url | safe ~ "/") | safe }}
   </div>
 
   <a class="u-url" href="{{ page.permalink | safe }}" hidden></a>

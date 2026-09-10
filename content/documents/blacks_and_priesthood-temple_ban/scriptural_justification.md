@@ -2,9 +2,10 @@
 title = "The Pearl of Great Price provided justification for the priesthood ban"
 path = "/pogp-justification-for-priesthood-ban/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 A simplistic reading of the Book of Moses and the Book of Abraham together lends apparent justification for the priesthood ban.
 
 It appears from [various communication](http://thoughtsonthingsandstuff.com/joseph-smith-vs-the-abolitionsts/) that Joseph Smith himself interpreted these verses in the straightforward manner, too.  For instance, please consider in full his [open letter to Oliver Cowdery in the Messenger and Advocate in April of 1836](https://www.josephsmithpapers.org/paper-summary/letter-to-oliver-cowdery-circa-9-april-1836/1#full-transcript) ("but I can say, that the curse is not yet taken off the sons of Canaan").

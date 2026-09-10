@@ -2,9 +2,10 @@
 title = "Time and Seasons November 15, 1844 - An Old Man of Israel"
 path = "/times-and-seasons-nov-15-1844-an-old-man-of-israel/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 21.
 * [pg 715 (standalone PDF)](/documents/polygamy/denials/originals/1844-11-15-Times-and-Seasons-Old-Man-of-Israel.pdf)
 

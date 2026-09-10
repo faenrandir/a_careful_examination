@@ -2,9 +2,10 @@
 title = "The extent to which Joseph Smith's polygamy was taught in LDS Institute Manuals"
 path = "/extent-joseph-smiths-polygamy-taught-institute-manuals/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "analysis",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Summary
 
 An analysis of the two college-level manuals (published in the early 2000s) used

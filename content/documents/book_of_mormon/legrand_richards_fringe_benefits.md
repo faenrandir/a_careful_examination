@@ -2,9 +2,10 @@
 title = "Legrand Richards in 'Your Fringe Benefits' compares secular research on the Americas to the history learned from the Book of Mormon"
 path = "/legrand-richards-your-fringe-benefits-secular-bom-comparison/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 In his [1975 BYU Devotional](https://speeches.byu.edu/talks/legrand-richards_fringe-benefits/), Elder Legrand Richards, a member of the Quorum of the Twelve, related the following:
 
 > While I was president of the Southern States Mission, an article appeared in the newspaper from the Associated Press about a man who came here to the United States from Lima, Peru. His name was William A. Kennedy. I read that article and I included it in the book A Marvelous Work and a Wonder that I wrote. He came here for the purpose of raising money to establish a school or seminary down in Lima, Peru, to study the early inhabitants of this land of America—the Incan and Mayan civilizations. The article said that he had collected enough money here and, when backed by the small American countries, he’d have thirty million dollars. The article also said that former President Herbert Hoover had agreed to serve on the board. The promises to this Peruvian man indicated that within ten years that sum would increase to seventy million dollars.

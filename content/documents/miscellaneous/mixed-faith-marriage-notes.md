@@ -2,9 +2,10 @@
 title = "Notes on LDS mixed-faith marriages"
 path = "/notes-on-lds-mixed-faith-marriages/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 Many LDS couples experience much tension with their relationship when one undergoes a faith crisis.  When one spouse stops believing, divorce is often the result, even when both individuals are committed to their spouse and marriage.  LDS leaders appear to have been made aware of this, yet virtually no direct statements have been made on this issue, despite verses from the New Testament speaking explicitly on the topic.

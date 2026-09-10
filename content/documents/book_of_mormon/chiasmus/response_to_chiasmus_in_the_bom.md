@@ -2,9 +2,10 @@
 title = "Summarizing the best arguments against chiasmus as evidence of ancientness"
 path = "/best-arguments-against-chiasmus-as-evidence-of-ancientness/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Chiasmus in the Book of Mormon is often advanced as evidence of the ancient origin of the book.  However, the argument may not be as strong as when originally conceived:
 
 1. **Chiasmus may occur by chance, and may be demonstrated in many forms of communication---particularly if a researcher is willing to cherry-pick themes.**

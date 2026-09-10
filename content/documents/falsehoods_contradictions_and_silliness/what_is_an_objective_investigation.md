@@ -2,9 +2,10 @@
 title = "An objective investigation"
 path = "/an-objective-investigation/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "apologetics",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Introduction
 
 In order to fairly compare the LDS orthodox or apologetic models to other existing models (e.g., the naturalist model), _all_ the relevant data should be compiled and considered (including data which is in tension with LDS truth-claims).  Only after we are in posssession of existing data and after we understand the manner in which different models explain the data can the LDS model properly be compared to alternatives.

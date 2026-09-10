@@ -2,9 +2,10 @@
 title = "The Dominant Narrative and Apologetic Fallback"
 path = "/the-dominant-narrative/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "apologetics",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## The Dominant Narrative
 
 Many apologists admit that the standard Mormon narrative we are taught to believe in Church is difficult to sustain given the data:[^admitproblems]

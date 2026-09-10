@@ -2,9 +2,10 @@
 title = "Izapa Stela 5 does not support the Book of Mormon"
 path = "/izapa-stela-5-and-bom/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 From [A New Artistic Rendering of Izapa Stela 5: A Step toward Improved Interpretation](https://scholarsarchive.byu.edu/jbms/vol8/iss1/6/) by John E. Clark:
 
 > Given the nature of LDS interest in Stela 5, most of my discussion has been forced to focus on what the scene is not. If it does not show Lehi’s dream, what does it show?

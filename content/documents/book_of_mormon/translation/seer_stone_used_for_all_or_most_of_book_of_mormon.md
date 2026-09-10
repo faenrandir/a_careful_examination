@@ -2,9 +2,10 @@
 title = "Eyewitnesses claiming the seer stone was used to translate the Book of Mormon"
 path = "/eyewitnesses-claiming-the-seer-stone-was-used/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -18,9 +19,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 One of the most consistent claims made by eyewitnesses[^except_joseph_and_oliver] to Joseph Smith's translation process is that Joseph used a chocolate colored seer stone, placed in a hat, to translate much or all of what would become the book.

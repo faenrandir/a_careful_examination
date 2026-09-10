@@ -2,9 +2,10 @@
 title = "The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home"
 path = "/first-part-bom-upstairs-peter-whitmer-home/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -18,9 +19,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### First part of the Book of Mormon produced upstairs at Peter Whitmer home
 
 The first part of the Book of Mormon (1 Nephi through the Words of Mormon) was very likely produced in an upstairs room of the Peter Whitmer home.

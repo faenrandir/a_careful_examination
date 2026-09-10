@@ -2,9 +2,10 @@
 title = "You can leave the Church but you can't leave it alone"
 path = "/you-can-leave-the-church-but-you-cant-leave-it-alone/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = true
 importance = 10
-
 +++
-
 [pre-draft form]
 
 ## Introduction

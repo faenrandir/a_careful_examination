@@ -2,9 +2,10 @@
 title = "Stephen Smoot acknowledges King James Version errors in the Book of Mormon"
 path = "/smoot-king-james-errors/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -18,9 +19,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 In a recent interview while Stephen Smoot was defending a historical Book of Mormon and its divine translation, he also [conceded that King James Version translation errors appear in the Book of Mormon](https://www.youtube.com/watch?v=9wvuMW63-OM&t=3371s) (emphasis added):

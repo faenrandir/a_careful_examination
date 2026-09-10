@@ -2,9 +2,10 @@
 title = "Caricature or Critic? Rethinking Korihor as a Proxy for Modern Naturalism"
 path = "/korihor-and-modern-naturalism/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "analysis",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 Latter-day Saints sometimes invoke Korihor (Alma 30) as a scriptural prototype of the modern secular or scientific critic. The implication is that the Book of Mormon has already answered contemporary skepticism by depicting and refuting it in narrative form. I would like to suggest a more modest claim: **Korihor does not closely resemble the strongest versions of modern naturalism**, and therefore the chapter may not directly address the kind of skepticism many thoughtful people actually hold today.

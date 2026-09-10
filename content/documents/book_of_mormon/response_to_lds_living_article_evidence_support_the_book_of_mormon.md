@@ -2,9 +2,10 @@
 title = "Response to LDS Living article on Evidence supporting the Book of Mormon"
 path = "/response-to-lds-living-article-supporting-the-bom/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Kathryn Jenkins Gordon recently read through the Book of Mormon with a distinct purpose:
 
 > I wanted to determine how many evidences were found in the Book of Mormon itself supporting the fact that it was translated from an ancient document and not written by Joseph Smith in the early 19th century.

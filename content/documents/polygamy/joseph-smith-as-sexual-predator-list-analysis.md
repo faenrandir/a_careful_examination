@@ -2,9 +2,10 @@
 title = "The case for Joseph Smith as sexual predator analysis"
 path = "/case-for-joseph-smith-as-sexual-predator-analysis"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "analysis",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [draft notes]
 
 Researchers compile scripts for various kinds of crime (introduced [by Cornish in 1994](https://popcenter.asu.edu/sites/default/files/Library/CrimePrevention/Volume_03/06_cornish.pdf)), and researchers have compiled scripts for sexual abuse (e.g., [Leclerc and Cale in 2015](https://www.aic.gov.au/sites/default/files/2020-05/tandi497.pdf)). The recent analysis of how Coaches perpetrated sex offenses by [St-Pierre et al. in 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.856798/full)) provides a scaffold of [frequent script components](https://www.frontiersin.org/files/Articles/856798/fpsyg-13-856798-HTML/image_m/fpsyg-13-856798-t002.jpg):

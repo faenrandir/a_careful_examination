@@ -2,9 +2,10 @@
 title = "Response to evidence in support of the Book of Mormon"
 path = "/response-to-evidence-in-support-of-bom/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 A response to [this post](https://www.reddit.com/r/MormonDoctrine/comments/8n5noq/evidence_book_of_mormon/) on /r/MormonDoctrine which points to the article [Evidence in Support of the Book of Mormon](https://hubpages.com/religion-philosophy/Evidence-in-Support-of-the-Book-of-Mormon).
 
 ---

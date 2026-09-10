@@ -2,9 +2,10 @@
 title = "The Missouri Garden of Eden Problem"
 path = "/missouri-garden-of-eden-problem/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Introduction
 
 The Church teaches that Adam and Eve left the Garden of Eden and went to Missouri, USA. A couple of early Church leaders taught that the Garden of Eden was in Jackson County (or Independence), Missouri but one stated that its location was unknown.

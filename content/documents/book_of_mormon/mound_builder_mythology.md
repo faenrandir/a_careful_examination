@@ -2,9 +2,10 @@
 title = "The Book of Mormon as Mound Builder Mythology"
 path = "/bom-as-mound-builder-mythology/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 From [“…and The Mound-builders Vanished From The Earth”](https://www.americanheritage.com/content/%E2%80%9C%E2%80%A6and-mound-builders-vanished-earth%E2%80%9D), a page from the site American Heritage (with the tagline: "Trusted Writing on History, Travel, Food and Culture Since 1949").
 
 > Such vivid depictions caught the public fancy, and other “historians” were soon profiting from the fad. In 1833 a journalist named Josiah Priest published an elaborate explanation of the mounds in a jumbled volume, American Antiquities . It was a best seller: some 22,000 copies were bought in thirty months.

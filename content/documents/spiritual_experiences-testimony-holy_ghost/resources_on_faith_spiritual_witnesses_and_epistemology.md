@@ -2,9 +2,10 @@
 title = "Resources on faith, spiritual witnesses, and epistemology"
 path = "/resources-on-faith-spiritual-witnesses-and-epistemology/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "epistemology",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Basic Data
 
 1. [Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go) (youtube)

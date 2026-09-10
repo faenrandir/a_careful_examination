@@ -2,9 +2,10 @@
 title = "Joseph Smith instructed others to destroy communication"
 path = "/joseph-smith-instructed-others-to-burn-communication/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "compilation",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 The historical record suggests four cases when Joseph Smith instructed others to burn, bury, and/or destroy records or communication. Three of these four incidents suggesting a request for document destruction are tied to polygamy: two are related to a polygamous marriage proposal and the other was regarding a meeting shortly after the polygamous marriage had taken place.

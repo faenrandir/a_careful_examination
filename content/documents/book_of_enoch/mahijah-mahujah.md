@@ -2,9 +2,10 @@
 title = "Mahijah/Mahujah or Mahujah/Mahujah?"
 path = "/townsend-2019-mahijah-mahujah-excerpt/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "excerpt",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 LDS scholars, beginning with Hugh Nibley, have argued that the Mahijah in the Book of Moses corresponds with Mahawai from the Book of Giants, which was found with the Dead Sea Scrolls.  In his [2019 article on early Mormon texts](https://digitalcommons.usu.edu/imwjournal/vol10/iss1/6/), Colby Townsend makes a case that they are *fundamentally different names* and that Nibley only thought they were the same because he was relying on an English transliteration where the *English* characters were the same. Colby Townsend has argued against this, and LDS scholars have pushed back against his view.

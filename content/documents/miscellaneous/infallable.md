@@ -2,9 +2,10 @@
 title = "Infallibility"
 path = "/infallability/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 # Introduction
 
 Leaders sometime indicate that the Prophet (or collective First Presidency and Quorum of the Twelve Apostles) of the Church of Jesus Christ of Latter-day Saints may be infallible (or close to infallible) in some ways.

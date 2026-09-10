@@ -2,9 +2,10 @@
 title = "View of the Hebrews and Book of Mormon: Textual Comparison (ChatGPT Analysis)"
 path = "/voh-vs-bom-chatgpt-analysis/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 This analysis was performed by ChatGPT on 2026-09-08 using this prompt, in its essence: after pointing to the 1825 *View of the Hebrews* and the 1829 Book of Mormon, "Please create a markdown formatted text comparison of similarities between the two texts. Each similarity must be substantiated by one or more direct quotations from both books (to establish)."
 
 The comparison was then verified and refined/updated against the 1825 second edition of *View of the Hebrews* (BYU 1996 reprint) and the 1829 Book of Mormon Printer's Manuscript (via `bomdb`) using the Nemotron 3 Ultra model. All quotations in the main text reflect the actual wording of those editions.

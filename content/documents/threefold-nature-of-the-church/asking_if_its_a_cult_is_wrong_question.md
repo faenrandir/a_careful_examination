@@ -2,9 +2,10 @@
 title = "Perhaps asking whether the Church is a cult is not the best question?"
 path = "/asking-if-its-a-cult-is-wrong-question/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Introduction
 
 It is common for individuals to invoke the BITE model and other cultic research, showing how the LDS Church fits many (but not necessarily all) of those criteria, and then wondering if the LDS Church ought to be categorized as "a cult" ([for example](https://www.reddit.com/r/mormon/comments/g1janh/lets_discuss_cults_and_the_bite_model/)). While that exercise may be useful in some ways (e.g., better understanding group influence and potential manipulation), the underlying question of whether an organization is a "cult" may not be the best focus from an academic perspective. Arguments about whether an organization is a "cult" are foundationally suspect on some level because the legitimacy of the cult research movement as an academic enterprise itself is somewhat suspect---most researchers of the psychology and sociology of religion today would not consider the exercise of classifying a group as a "cult" particularly valid or helpful.

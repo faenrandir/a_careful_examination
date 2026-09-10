@@ -2,9 +2,10 @@
 title = "Joseph Smith's polygamy and current LDS principles of marriage and honesty"
 path = "/joseph-smith-polygamy-lds-marriage-and-honesty/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 There appear to be major inconsistencies between how Joseph Smith practiced polygamy and the modern LDS teachings of these principles.
 
 1. If sealing was so important, why did Joseph never get sealed to his parents or children during his lifetime?

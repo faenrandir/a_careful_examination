@@ -2,9 +2,10 @@
 title = "Joseph was consulting Adam Clarke's Commentary in creation of the JST"
 path = "/joseph-consulting-clarkes-commentary/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Synopsis
 
 Thomas Wayment, the BYU professor who co-discovered the use of Clarke's Commentary in the JST notes (emphasis added):[^lds-perspectives-podcast-wayment]

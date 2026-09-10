@@ -2,9 +2,10 @@
 title = "Response to Russell M. Nelson's October 2022 General Conference Talk “Overcome the World and Find Rest”"
 path = "/response-to-nelson-oct-2022-gc/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "response",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [pre-draft]
 
 General Conference, October 2022, [Overcome the World and Find Rest](https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=eng)

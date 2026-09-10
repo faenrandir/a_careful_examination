@@ -2,9 +2,10 @@
 title = "Palmyra was rich in books"
 path = "/palmyra-was-rich-in-books/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 From [Joseph Smith, Captain Kidd Lore, and Treasure-Seeking in New York and New England during the Early Republic](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V46N03_412b.pdf) by Noel A. Carmack. pgs 105--109
 
 *Note: although Carmack is focusing on Captain Kidd literature, many of his observations apply to literature available in the region generally.*

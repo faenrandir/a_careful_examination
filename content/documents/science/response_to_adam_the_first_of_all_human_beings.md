@@ -2,9 +2,10 @@
 title = "Exchange regarding evidence for evolution of humans"
 path = "/evidence-of-humans-r-gary-exchange/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "discussion",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between June 22, 2014 and June 27, 2014.
 
 ##### [Adam, the first of all human beings](https://ndbf.blogspot.com/2014/06/first-humans.html) [original post by R. Gary]

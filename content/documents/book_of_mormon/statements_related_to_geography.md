@@ -2,9 +2,10 @@
 title = "Statements related to Book of Mormon geography"
 path = "/statements-related-to-bom-geography/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Canonized
 
 [Doctrine and Covenants 28:8--9](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/28.8-9?lang=eng)

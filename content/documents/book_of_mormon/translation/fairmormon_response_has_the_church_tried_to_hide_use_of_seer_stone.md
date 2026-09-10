@@ -2,9 +2,10 @@
 title = "FairMormon Response: Has the Church tried to hide Joseph's use of a seer stone?"
 path = "/fairmormon-transcript-has-the-church-tried-to-hide-use-of-seer-stone/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Transcript of the first part of the response to the Question "Has the Church
 tried to hide Joseph's use of a seer stone?", copied 2021-03-13 from [this
 url](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Translation/Urim_and_Thummim#Question:_Has_the_Church_tried_to_hide_Joseph.27s_use_of_a_seer_stone.3F).

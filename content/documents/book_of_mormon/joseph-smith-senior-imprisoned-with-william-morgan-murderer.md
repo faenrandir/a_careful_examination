@@ -2,9 +2,10 @@
 title = "Joseph Smith Sr. jailed with Eli Bruce, apparent murderer of William Morgan"
 path = "/joseph-smith-sr-jailed-with-eli-bruce-murderer-william-morgan/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Everything below the horizontal rule is taken from A Documentary History of the Book of Mormon, [Section 1.12](https://books.google.com/books?id=T0SCDwAAQBAJ&pg=PT88&lpg=PT88&dq=Diary+of+Eli+Bruce&source=bl&ots=EyXDko7CxS&sig=ACfU3U3Alw-qPa3r4v9IvibHwHXriI1ZAg&hl=en&sa=X&ved=2ahUKEwjOsbrkxt3pAhVTHzQIHXQGDoEQ6AEwAHoECAkQAQ#v=onepage&q=%22Had%20a%20long%20talk%20with%20the%20father%20of%20the%20Smith%22&f=false)
 
 ---

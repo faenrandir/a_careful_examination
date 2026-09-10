@@ -2,9 +2,10 @@
 title = "Behavior or teachings of David Bednar that some former members find objectionable"
 path = "/bednar-objectionable-to-former-mormons/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "compilation",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Negative
 
 Some examples of a behavior or teaching of David Bednar that some former members of the Church of Jesus Christ of Latter-day Saints seem to find objectionable:

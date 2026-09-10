@@ -2,9 +2,10 @@
 title = "NHM (Nahom) as evidence for the ancientness of the Book of Mormon"
 path = "/nhm-nahom-resources/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Neutral
 
 [Nahom](https://en.wikipedia.org/wiki/Nahom) (Wikipedia)

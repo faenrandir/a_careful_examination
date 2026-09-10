@@ -1,5 +1,8 @@
 @import "minima";
 
+// Aggressive spacing reduction - 50% reduction
+$spacing-unit: 15px !default;
+
 pre,
 code {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;

@@ -2,9 +2,10 @@
 title = "Last Testimony of Sister Emma"
 path = "/last-testimony-of-sister-emma/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Joseph Smith III interviewed Emma Hale Smith shortly before her death and the interview was published in the [October 1, 1879 edition of The Saints Herald](http://www.mormonthink.com/files/emma-interview-1879.pdf).  This transcript was produced using ["Uncle Dale's" transcript](http://www.sidneyrigdon.com/dbroadhu/IL/sain1872.htm#100179).
 
 ---

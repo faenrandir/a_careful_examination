@@ -2,9 +2,10 @@
 title = "The premortal existence in pre-1830's thought"
 path = "/premortal-existence-pre-1830s/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Alma 13
 
 In support of the idea that the doctrines contained in the Book of Mormon must have been from a divine source because they were not taught in Joseph Smith's contemporary Christianity, [Tad Callister argued](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/):

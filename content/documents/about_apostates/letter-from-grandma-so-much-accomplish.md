@@ -2,9 +2,10 @@
 title = "Example Letter from Grandma: 'so much you could accomplish for good"
 path = "/example-letter-from-grandma-so-much-could-accomplish-for-good/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [Letter From My Grandma](https://www.reddit.com/r/exmormon/comments/74cvlc/letter_from_my_grandma/)
 
 ---

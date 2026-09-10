@@ -2,9 +2,10 @@
 title = "email transcript: “Noah's flood: the case for a faithful LDS interpretation as a local flood”"
 path = "/email-transcript-noahs-flood-case-for-faithful-lds-interpretation/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Foreword
 
 On April 17, 2014 at 4:32PM, I sent this email to four of my research students at BYU (3 grad students and one undergrad) who I thought might appreciate it, all of my siblings, and to my parents.

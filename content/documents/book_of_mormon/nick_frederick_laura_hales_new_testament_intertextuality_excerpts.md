@@ -2,9 +2,10 @@
 title = "The New Testament in the Book of Mormon: Excerpts from Laura Hales's interview of BYU Religion Professor Nick Frederick"
 path = "/nt-in-bom-lhales-interview-frederick/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Excerpts from [Laura Hales's interview of BYU Religion Professor Nick Frederick](https://ldsperspectives.com/2018/08/22/intertextuality-book-mormon/) (last retrieved 2022-10-23).
 
 The following are all statements from Nick Frederick (emphasis added).

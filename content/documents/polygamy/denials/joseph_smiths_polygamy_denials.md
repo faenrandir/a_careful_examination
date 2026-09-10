@@ -2,6 +2,7 @@
 title = "Joseph Smith's Polygamy Denials"
 path = "/joseph-smith-polygamy-denials/"
 updated = "2026-09-10"
+
 [extra]
 featuredimage = "/media/1835-marriage-doc.png"
 type = "resource"
@@ -10,16 +11,14 @@ importance = 5
 
 [taxonomies]
 categories = [
-    "joseph-smith",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
     "polygamy",
     "resource",
 ]
-
 +++
-
 ### Introduction
 
 Joseph Smith denied the practice of polygamy[^polygamydenials] on several occasions.  He was also responsible for the publication or distribution of several additional denials.  A complete listing of early Church leader polygamy denials up to 1850 is [available here](/documents/polygamy/denials/denial_analysis.pdf).

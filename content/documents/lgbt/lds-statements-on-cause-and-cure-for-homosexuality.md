@@ -2,9 +2,10 @@
 title = "“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality"
 path = "/lds-statements-on-cause-and-cure-for-homosexuality/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "gender",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 Between the 1970s and to about 2010, official LDS publications have declared in absolute terms that homosexuality "is curable", is not "preset", and that no one is born "that way".

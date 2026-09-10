@@ -2,9 +2,10 @@
 title = "The LDS garment and modesty"
 path = "/garments-and-modesty/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "gender",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 Recent [changes to LDS garments for hot climates](https://www.sltrib.com/religion/2024/10/17/latter-day-saints-react-news/) have sparked discussion about the connection between garments and modesty. Although garments are officially described as symbols of temple covenants, they also seem to function as a modesty standard—especially for women.

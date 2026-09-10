@@ -2,9 +2,10 @@
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "apologetics",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 # Critical
 
 ### Introductory

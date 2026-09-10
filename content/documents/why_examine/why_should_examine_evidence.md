@@ -2,6 +2,7 @@
 title = "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
 path = "/to-peek-behind-the-curtain/"
 updated = "2026-09-10"
+
 [extra]
 featuredimage = "/media/o-WOMAN-WINDOW-facebook.half_.jpg"
 type = "analysis"
@@ -10,15 +11,13 @@ importance = 10
 
 [taxonomies]
 categories = [
-    "questioning",
+    "doctrine-teachings",
 ]
 tags = [
     "analysis",
     "book-of-mormon",
 ]
-
 +++
-
 # Why *not* investigate?
 
 From the perspective of a believing member, there are many valid reasons to *avoid* critically[^definition] investigating the truth-claims of the Church.[^validreasons]

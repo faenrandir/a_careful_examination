@@ -2,9 +2,10 @@
 title = "The primary focus of the sealing ceremony in its first 2 years was to enable polygamy"
 path = "/primary-focus-of-sealing-for-polygamy/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Virtually all early sealings were polygamous sealings (_in stead of_ a sealing to an existing civil wife).  The one exception, the sealing of Newel and Elizabeth Whitney, was associated with a polygamous sealing (Joseph to their daughter, Sarah Ann).[^loyalty_reward]
 
 Data assembled from Table 1 and Table 2 of Gary Bergera's article [The Earliest Eternal Sealings for Civilly Married Couples Living and Dead](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N03_49.pdf)

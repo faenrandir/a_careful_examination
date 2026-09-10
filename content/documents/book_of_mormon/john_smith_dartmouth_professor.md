@@ -2,9 +2,10 @@
 title = "Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)"
 path = "/similarities-between-john-smiths-writings-and-bom/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 * [Post discussing parallels](https://www.reddit.com/r/exmormon/comments/8imnd8/mormon_theology_originated_in_dartmouth_in_vermont/)
 * [John Smith papers at Dartmouth](https://ead.dartmouth.edu/html/ms1266_fullguide.html)
 * [John Smith writings on mormonorigins.com](http://www.mormonorigins.com/ProfessorJohnSmithsWritings.html)

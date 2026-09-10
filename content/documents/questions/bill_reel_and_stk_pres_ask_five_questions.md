@@ -2,9 +2,10 @@
 title = "Bill Reel and Stake President ask five questions to LDS leadership"
 path = "/bill-reel-stk-pes-ask-five-questions/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "lgbt",
@@ -18,9 +19,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 _From Bill Reel's Facebook page, 2018-09-19.  I've made a couple of minor corrections and alterations in spelling and punctuation._
 
 > Here are the five Questions to my stake president for which we unitedly agreed to pass up the chain and for which they sent back down to him and said these should be answered by him to me and not answered by them. And for which he responded by admitting he is unable to answer them but is stuck not able to get answers from up the chain.

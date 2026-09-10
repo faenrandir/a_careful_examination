@@ -2,9 +2,10 @@
 title = "Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages"
 path = "/scholar-survey-kjv-translation-errors-in-bom-isaiah/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 The first question of the CES Letter, [version 2.0](https://cesletter.org/CES-Letter.pdf), asks:[^a_better_question]

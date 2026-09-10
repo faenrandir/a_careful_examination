@@ -2,9 +2,10 @@
 title = "2017 Seminary end-of-year survey"
 path = "/seminary-2017-end-of-year-survey/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 At the end of the LDS Seminary 2017 Student Learning Assessment Packet (New Testament), students were surveyed:
 
 ---

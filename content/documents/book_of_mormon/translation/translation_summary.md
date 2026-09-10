@@ -2,9 +2,10 @@
 title = "The Book of Mormon translation process in summary"
 path = "/bom-translation-process-summary/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [Work in very early stages of progress]
 
 Various witnesses described the process of Joseph translating the plates.  The accounts often use different terms or describe the process differently.  This is a collection of the major discrepancies between accounts.  The discrepancies may be resolved in various ways (i.e., ambiguity of language, different processes used in different time and place), but it is useful to realize that no single, straightforward translation method is attested to.

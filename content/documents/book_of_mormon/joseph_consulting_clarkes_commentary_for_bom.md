@@ -2,9 +2,10 @@
 title = "Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon"
 path = "/townsend-js-using-clarke-in-bom-2025/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 *this is a draft - this resource page was produced after giving chatgpt-o3 a very specific set of instructions on how to summarize this topic. I then modified the output. I still need to verify all the particulars and touch up.*
 
 ## Synopsis  

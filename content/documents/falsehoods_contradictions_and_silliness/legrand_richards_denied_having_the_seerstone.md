@@ -2,9 +2,10 @@
 title = "Legrand Richards denied the existence of the seerstone"
 path = "/legrand-richards-denied-existence-of-seerstone/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -19,9 +20,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Whether to prevaricate or from benign ignorance of the facts, LeGrand Richards denied the existence of the seerstone:
 
 > We don't have a seer stone.  That went back with the plates...

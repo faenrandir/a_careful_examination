@@ -2,9 +2,10 @@
 title = "1838 Danite Manifesto"
 path = "/1838-danite-manifesto/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Validation of the transcript may be found by buying Gentry's 1965 dissertation, but the introduction is quoted in his BYU Studies article. The below transcript is copied from the transcript produced by "Joseph Smith's History Vault".
 
 * Scholarly transcript in [Leland Gentry's 1965 dissertation](https://byustudies.byu.edu/content/history-latter-day-saints-northern-missouri-from-1836-1839-0)

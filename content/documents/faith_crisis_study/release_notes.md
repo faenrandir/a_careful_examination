@@ -2,9 +2,10 @@
 title = "Report, chronicles, and presentation on LDS faith crises"
 path = "/2013-faith-crisis-study/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Greg Prince, John Dehlin, and Travis Stratford, members of the team that led this project, have granted permission for release of the following:
 
 ### Initial Report

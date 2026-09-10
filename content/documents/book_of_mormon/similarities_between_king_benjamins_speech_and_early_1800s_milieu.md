@@ -2,9 +2,10 @@
 title = "Similarities between King Benjamin's speech and the early 1800s milieu"
 path = "/similarities-between-benjamins-speech-and-1800s-milieu/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 There are many parallels between King Bejamin's speech (found in Mosiah 2–5) and phrases and ideas already present in Joseph Smith's early 1800s milieu. The first sections focus on phrases/ideas from specific verses.[^tompainesbones] The second section looks more generally at Mosiah 2–5, primarily in table form.

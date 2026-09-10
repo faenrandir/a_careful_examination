@@ -2,9 +2,10 @@
 title = "Beit-Hallahmi on the religious engagement paradox"
 path = "/beit-hallahmi-on-the-religious-engagement-paradox/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-excerpt",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Quoting Bejamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.amazon.com/Psychological-Perspectives-Religion-Religiosity-Beit-Hallahmi/dp/0415682878), pages 123-125.
 
 ---

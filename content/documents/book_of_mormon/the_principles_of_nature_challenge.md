@@ -2,9 +2,10 @@
 title = "“The Principles of Nature” Challenge"
 path = "/the-principles-of-nature-challenge/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 1. The author or translator must be only twenty years of age or younger when he or she produces the work.
 1. The author or translator cannot receive ﬁnancial support from outside sources during the course of the project but must financially support himself or herself and an associate for the duration of the work.
 1. The inspired text must consist of no less than 300,000 words, without being artificially expanded by the incorporation of extensive passages from other texts, especially the Bible.

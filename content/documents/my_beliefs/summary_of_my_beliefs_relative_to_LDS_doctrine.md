@@ -2,9 +2,10 @@
 title = "Summary of my beliefs relative to core LDS doctrine"
 path = "/summary-of-beliefs-relative-to-LDS-doctrine/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "faith-transition",
@@ -14,9 +15,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 My beliefs relative to core LDS doctrine is best understood in the context of my beliefs in general, which I've outlined here:
 
 [Outline of my beliefs](/summary-of-my-beliefs/)

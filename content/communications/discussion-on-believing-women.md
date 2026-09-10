@@ -2,9 +2,10 @@
 title = "Response to Stephen Smoot's believing women article"
 path = "/response-to-smoot-believing-women/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "gender",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 On March 23, 2018, Stephen Smoot published an article entitled [“Believing Women” Includes Believing Joseph Smith’s Plural Wives](https://www.plonialmonimormon.com/2018/03/believing-women-includes-believing-joseph-smiths-plural-wives.html).
 
 I have made a few minor changes (mostly cosmetic) but a few to point to slightly better or up-to-date resources

@@ -2,9 +2,10 @@
 title = "Major sources of beliefs, light and knowledge"
 path = "/sources-of-beliefs-light-knowledge/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "epistemology",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 I find spiritual insight and inspiration in the following (even though I also tend to disagree with aspects of each):
 
 * [The Bible and LDS scripture](https://www.churchofjesuschrist.org/scriptures?lang=eng)

@@ -2,9 +2,10 @@
 title = "Asking experts about Miller et al. 2022"
 path = "/validating-miller-et-al-2022/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "geography",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 # Introduction
 
 In October of 2022 I emailed 4 different professors who had published similar kinds of research

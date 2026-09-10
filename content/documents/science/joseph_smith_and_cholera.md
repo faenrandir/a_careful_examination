@@ -2,9 +2,10 @@
 title = "Joseph Smith's cure for cholera"
 path = "/joseph-smith-cure-for-cholera/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 From [Joseph Smith's Journal 30 December 1842 Friday](http://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843/22#full-transcript) (recorded by Willard Richards?)
 
 > Joseph gave a lecture on med[ic]ine salt vinegar & pepper given internally. & plunging in the river when the parozyism [paroxysm] begin. will cure the Cholera

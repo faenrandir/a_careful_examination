@@ -2,9 +2,10 @@
 title = "Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus"
 path = "/early-mormonism-quinn-footnote-108-chiasmus/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 The following is footnote 108 from [Early Mormonism and the Magic World View](https://www.goodreads.com/book/show/1179665.Early_Mormonism_and_the_Magic_World_View?ac=1&from_search=true), revised and enlarged edition, 1998, pgs 499-504.
 
 ---

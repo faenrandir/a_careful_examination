@@ -2,9 +2,10 @@
 title = "Critique of Richard and Pamela Price analysis of Martha Brotherton"
 path = "/critique-of-price-analysis-on-brotherton/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [ROUGH DRAFT]
 
 A response to Joseph Smith Fought Polygamy, vol 2, [chapter 1](https://web.archive.org/web/20191220192033/http://restorationbookstore.org:80/articles/nopolygamy/jsfp-vol2/2chp1.htm) ([pdf](https://cdn.shopify.com/s/files/1/0106/5887/3380/files/JSFP2-chp01.pdf?v=1588802732) (need to find a better link))

@@ -2,9 +2,10 @@
 title = "Notes on mild drinks always being okay for early Word of Wisdom"
 path = "/notes-on-mild-drinks-always-okay-early/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 [rough notes]
 
 http://onthisdayinmormonhistory.blogspot.com/2008/10/july-11th.html

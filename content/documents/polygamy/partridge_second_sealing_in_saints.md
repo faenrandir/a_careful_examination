@@ -2,9 +2,10 @@
 title = "Saints Volume 1: The Partridge Sisters' second sealing to Joseph Smith"
 path = "/saints-v1-partridge-sisters-second-sealing/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "gender",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Introduction
 
 [Saints volume 1][saints-volume-1] discusses a second sealing ceremony

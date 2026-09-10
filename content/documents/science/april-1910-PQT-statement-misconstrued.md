@@ -2,9 +2,10 @@
 title = "The April 1910 Priesthood Quorums' Table entry 'Origin of Man' is likely misconstrued to be a First Presidency Statement"
 path = "/april-1910-table-not-likely-fp-statement/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -17,9 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ### Introduction
 
 Since the early 1990's, it has been written and published that the April 1910 Priesthood Quorums' Table (PQT) entry entitled "Origin of Man" represented a First Presidency Statement on the topic.  A few examples:

@@ -2,9 +2,10 @@
 title = "A Critical Review of T. Heath Ogden’s Chapter ‘Accepting Evolution with Joy Is Possible’"
 path = "/review-of-ogdens-chapter-accepting-evolution-with-joy/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "essay",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 This essay reviews the chapter “Accepting Evolution with Joy Is Possible” by T. Heath Ogden, from The Restored Gospel of Jesus Christ and Evolution, a new volume authored by BYU scholars. The collection appears to be an important and valuable resource at the intersection of evolution and LDS theology. Although I have not yet read the entire volume, I am familiar with the work of most of its contributors and have high expectations. I also follow Ben Spackman’s work closely and found both of his chapters to be excellent.

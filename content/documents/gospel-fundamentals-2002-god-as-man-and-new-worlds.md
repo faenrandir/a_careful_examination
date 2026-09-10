@@ -2,9 +2,10 @@
 title = "Gospel Fundamentals (2002): Creating New Worlds and God as Once a Man"
 path = "/gospel-fundamentals-2002-god-as-man-and-new-worlds/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "compilation",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 Two doctrines are stated plainly in the Church's 2002 manual *Gospel Fundamentals*, and in the Church's current official materials each is qualified or reframed. This page sets the manual's wording and the Church's subsequent wording side by side.
 
 Both doctrines appear in chapter 36, "Eternal Life." The operative passages are quoted verbatim below and reproduced as images; a short amount of framing is added where noted, but the quotations themselves are unmodified. The [full manual (PDF)](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/31129_eng.pdf) is the primary source.

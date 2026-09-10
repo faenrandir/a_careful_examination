@@ -50,7 +50,7 @@
   </header>
 
   <div class="post-content">
-    {{ page.content | safe }}
+    {{ page.content | replace(from="/(?![/a])", to=config.base_url | safe ~ "/") | safe }}
   </div>
 </article>
 {% endblock content %}

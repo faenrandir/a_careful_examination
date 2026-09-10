@@ -2,9 +2,10 @@
 title = "Joseph Smith's Marriage/Sealing Dates"
 path = "/joseph-smith-marriage-sealing-dates/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "historical-resource",
@@ -16,9 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 I compiled a list of dates from Brian and Laura Hales (LDS apologists) Joseph Smith's Polygamy [Biographies of Joseph’s Plural Wives](http://josephsmithspolygamy.org/plural-wives-overview/) page and extracted sealing or marriage dates from each biography (extraction performed February 23, 2017). To easily calculate the wife count and list given a specific date see [`joseph_smtih_wife_count_calculator.rb`](https://github.com/faenrandir/a_careful_examination/blob/main/scripts/joseph_smith_wife_count_calculator.rb).
 
 | latest possible date of first marriage/sealing |name | exact verbiage |

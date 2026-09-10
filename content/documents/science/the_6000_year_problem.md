@@ -2,6 +2,7 @@
 title = "The 6000 year problem"
 path = "/the-6000-year-problem/"
 updated = "2026-09-10"
+
 [extra]
 featuredimage = "/media/Faed_Expulsion_of_Adam_and_Eve.jpg"
 type = "resource"
@@ -10,16 +11,14 @@ importance = 5
 
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "archaeology",
     "joseph-smith",
     "resource",
 ]
-
 +++
-
 ## Abstract
 
 The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.

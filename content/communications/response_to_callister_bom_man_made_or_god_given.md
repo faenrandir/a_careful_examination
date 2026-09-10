@@ -2,9 +2,10 @@
 title = "Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?”"
 path = "/response-to-callister-bom-manmade-or-godgiven/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "book-of-mormon",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 ## Introduction
 
 On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled [The Book of Mormon: Man-Made or God-Given?](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/)  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion[^37footnotes] various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.[^followedupwithgctalk]  More recently, he published a book on the topic, [A Case for the Book of Mormon](https://www.goodreads.com/book/show/43914093-a-case-for-the-book-of-mormon).

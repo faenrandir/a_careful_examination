@@ -2,9 +2,10 @@
 title = "Logic behind the sealing ceremony"
 path = "/logic-behind-the-sealing-ceremony/"
 updated = "2026-09-10"
+
 [taxonomies]
 categories = [
-    "other",
+    "doctrine-teachings",
 ]
 tags = [
     "joseph-smith",
@@ -15,9 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
-
 +++
-
 The LDS Church today views the sealing ceremony---the means by which family relationships may be secured beyond the grave---as one of the most important doctrines revealed in this dispensation (e.g., [1](https://www.churchofjesuschrist.org/ensign/2011/09/the-sealing-ordinance-links-families-eternally?lang=eng), [2](https://www.churchofjesuschrist.org/ensign/1998/06/marriage-in-the-lords-way-part-one?lang=eng), [2](https://www.churchofjesuschrist.org/media-library/video/2011-03-121-the-sealing-power?lang=eng)).
 
 However, if the _raison d'être_ of the sealing ceremony is to extend the family unit into the afterlife, we would expect one of the first sealings in this dispensation to have been Joseph Smith to his wife Emma:
