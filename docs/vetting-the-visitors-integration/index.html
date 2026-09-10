@@ -325,7 +325,7 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
     // Fix absolute links that don't have the base_url prefix
     function fixAbsoluteLinks() {
       const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]:not([href^="/a_careful_examination/"])');
+      const links = document.querySelectorAll('a[href^="/"]');
       links.forEach(link => {
         const href = link.getAttribute('href');
         if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
