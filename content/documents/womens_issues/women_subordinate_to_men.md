@@ -1,10 +1,24 @@
 +++
 title = "Subordination of women to men in the LDS Church"
 path = "/subordination-of-women-to-men-in-the-lds-church/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "gender",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In many ways, women in the LDS Church are subordinate to men.  A few formal and informal examples follow.
 
 ### In the Temple

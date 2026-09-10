@@ -1,10 +1,24 @@
 +++
 title = "Five Key Facts: my conclusions"
 path = "/five-key-facts-my-conclusions/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 1. Joseph claimed he could translate ancient documents.  He could not.
 2. The Book of Mormon, regardless of its status as an ancient or partially ancient document, bears a strong imprint of being a modern document.
 3. The manner in which Mormons ask people to confirm their truthfulness is not unique, suggesting that the feel/pray method could be used to confirm almost anything with the proper pre-conditioning.

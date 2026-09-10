@@ -1,11 +1,23 @@
 +++
 title = "\"A Different Way of Knowing\": The uses of irrationality ... and its limitations"
 path = "/different-way-of-knowing-uses-limitations-irrationality/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["epistemology"]
-taxonomies.doctype = ["short-essay"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "epistemology",
+    "essay",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *The following is a short essay written by Greta Christina, published May 18, 2008 on [her blog](https://gretachristina.typepad.com/greta_christinas_weblog/2008/05/a-different-way.html).  Her arguments also seem relevant to facets of LDS epistemology.*
 
 *I've made a minor grammatical change, added topic headings drawing upon the essay itself which represent my own judgement on natural subdivisions and appropriate topic headings, and updated missing links to appropriate substitutes.*

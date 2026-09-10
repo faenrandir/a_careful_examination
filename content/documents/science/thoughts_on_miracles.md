@@ -1,10 +1,22 @@
 +++
 title = "Believing in God based on miracles"
 path = "/believing-in-god-based-on-miracles/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Abstract
 
 We can classify miraculous phenomena as type I (within the bounds of natural law) and type II (far beyond the limits of natural law).  If miracles are genuinely part of this earth life, we expect to see evidence of type II miracles.  Given that we only ever observe type I miracles, we are logically compelled to conclude that we should not believe in the existence of a higher power due to type I miracles alone: either 1) there is no higher power through which type II miracles are performed 2) the higher power does not intervene *at all*, or 3) The higher power does not want us to believe in it based on its ability to supercede natural law.

@@ -1,10 +1,23 @@
 +++
 title = "Transcript: Narrative of Zosimus"
 path = "/narrative-of-zosimus-transcript/"
-updated = "2026-09-09"
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 _I copied this transcript the transcript and columnar comparison with the Book of Mormon from Jack Welch's chapter [The Narrative of Zosimus (History of the Rechabites) and the Book of Mormon](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2019-12-30/13_john_w._welch_the_narrative_of_zosimus_and_the_book_of_mormon_323-374.pdf) published in 1997._
 
 ---

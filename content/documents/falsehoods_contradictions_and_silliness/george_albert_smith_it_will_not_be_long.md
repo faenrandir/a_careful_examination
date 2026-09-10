@@ -1,10 +1,23 @@
 +++
 title = "Prophecy: Not long until calamities overtake human family"
 path = "/prophecy-calamities-overtake-human-family/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "prophecy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 George Albert Smith, in the [1950 Conference Report, pg 169](https://archive.org/stream/conferencereport1950a#page/n169/mode/2up):
 
 > It will not be long until calamities will overtake the human family unless there is speedy repentance. It will not be long before those who are scattered over the face of the earth by millions will die like flies because of what will come.

@@ -1,11 +1,22 @@
 +++
 title = "Consequences of leaving the group tend to be proportional to the level of totalism"
 path = "/consequences-of-leaving-the-group-and-totalism/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *Mildly Totalistic -> Fully Totalistic*
 
 * Mild Atheism: generally few repercussions

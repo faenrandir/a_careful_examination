@@ -1,11 +1,22 @@
 +++
 title = "Resources related to science claims"
 path = "/resources-related-to-science-claims/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["science"]
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Adam, Eve and Creation related
 
 * [The 6000 year problem](/the-6000-year-problem/)

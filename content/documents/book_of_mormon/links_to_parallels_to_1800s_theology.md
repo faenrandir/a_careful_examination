@@ -1,13 +1,29 @@
 +++
 title = "Book of Mormon parallels to 1800s thought"
 path = "/bom-parallels-to-1800s-thought/"
-extra = {featuredimage = "/media/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.smaller.jpg"}
-categories = ["Book of Mormon", "Truth-Claims"]
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["resource"]
+categories = [
+    "Book of Mormon",
+    "Truth-Claims",
+]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.smaller.jpg"
+type = "resource"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "book-of-mormon",
+]
+tags = [
+    "book-of-mormon",
+    "resource",
+    "scholarship",
+]
 
 +++
+
 ### Introduction
 
 Richard Bushman, well-known Mormon historian, [stated](/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/):[^bushman]

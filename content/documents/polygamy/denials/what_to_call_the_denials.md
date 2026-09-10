@@ -1,13 +1,25 @@
 +++
 title = "What to call the polygamy denials?"
 path = "/what-to-call-polygamy-denials/"
-updated = "2026-08-23"
+updated = "2026-09-10"
 [extra]
 doctype = "short-analysis"
 maintopic = "polygamy"
+type = "notes"
+featured = false
+importance = 5
 
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+]
 
 +++
+
 The denials of polygamy led people to believe one thing (Joseph and other leaders were *not* marrying more than one wife) while the exact opposite of that thing was occurring (Joseph and other leaders *were* marrying more than one wife).  But leaders made these denials, at times, using word definitions and codes that were only familiar to the Saints even though the leaders knew that others would interpret the *meaning* of those words very differently. 
 
 What are the appropriate words to use when speaking of the deceptiveness of these denials?

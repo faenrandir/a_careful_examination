@@ -1,11 +1,25 @@
 +++
 title = "The Wholehearted Parenting Manifesto"
 path = "/the-wholehearted-parenting-manifesto/"
-categories = ["My beliefs"]
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+categories = [
+    "My beliefs",
+]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From Brené Brown's book, Daring Greatly ([pdf](http://brenebrown.com/wp-content/uploads/2017/10/Wholehearted_ParentingManifesto.pdf)):
 
 * Above all else, I want you to know that you are loved and lovable. You will learn this from my words and actions--the lessons on love are in how I treat you and how I treat myself.

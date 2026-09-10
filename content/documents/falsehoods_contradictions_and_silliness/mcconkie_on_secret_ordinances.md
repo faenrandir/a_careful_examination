@@ -1,10 +1,23 @@
 +++
 title = "McConkie: no secret doctrines, no private practices"
 path = "/mcconkie-no-secret-doctrines-no-private-practices/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 /u/frogontrombone recently wrote:
 
 ---

@@ -1,10 +1,22 @@
 +++
 title = "The Divine Visitor Problem: Objectivity, intersubjective identity, and identification"
 path = "/divine-visitor-identity-problem/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### The divine visitor identity problem
 
 When people report visionary experiences involving divine visitors, there are at least three distinct questions:

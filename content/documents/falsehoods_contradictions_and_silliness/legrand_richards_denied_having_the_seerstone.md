@@ -1,10 +1,27 @@
 +++
 title = "Legrand Richards denied the existence of the seerstone"
 path = "/legrand-richards-denied-existence-of-seerstone/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "notes",
+    "polygamy",
+    "seer-stones",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Whether to prevaricate or from benign ignorance of the facts, LeGrand Richards denied the existence of the seerstone:
 
 > We don't have a seer stone.  That went back with the plates...

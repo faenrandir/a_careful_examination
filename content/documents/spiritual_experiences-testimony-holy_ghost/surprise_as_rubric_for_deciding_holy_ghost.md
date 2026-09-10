@@ -1,10 +1,22 @@
 +++
 title = "Surprise as a rubric for deciding communication from the Holy Ghost"
 path = "/surprise-as-rubric-for-deciding-holy-ghost/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 A common rubric for deciphering communication between oneself and the Holy Ghost is whether the communication contravenes ones expectations or prior thinking on a topic. [For instance](https://np.reddit.com/r/latterdaysaints/comments/rc74ds/how_do_i_really_know_that_what_i_feel_is_the/hntkkiq/):
 
 > You know that you're really beyond confirmation bias when the Spirit starts teaching you things that are different from what you thought was true. And that can happen pretty frequently when you're really working at it.

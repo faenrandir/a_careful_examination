@@ -1,11 +1,24 @@
 +++
 title = "Apparent contradiction in Joseph Smith's account of considering all sects wrong"
 path = "/apparent-contradiction-all-sects-wrong/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["first-vision"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "first-vision",
+    "joseph-smith",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Joseph Smith's 1838 account, canonized in the Pearl of Great Price, includes an apparent contradiction related to how he viewed the wrongness of other sects before his first vision:
 
 ![](https://i.redd.it/epf1x0vtj1j61.jpg)

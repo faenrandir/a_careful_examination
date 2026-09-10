@@ -1,10 +1,23 @@
 +++
 title = "Saints is not for scholars or sophisticated Mormons"
 path = "/mason-saints-is-not-for-scholars/"
-updated = "2026-09-09"
-taxonomies.doctype = ["quotation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "quotation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Patrick Mason addressed the target audience of the new narrative history book "Saints" [in a recent SLTrib article](https://www.sltrib.com/religion/2018/09/04/mormon-church-publishes/):
 
 > “Saints” is not for scholars or even sophisticated Mormons, said Patrick Mason, chair of Mormon studies at Claremont Graduate University. “This is for the person who has never picked up a book of church history or a volume of the Joseph Smith Papers Project — and is never going to.”

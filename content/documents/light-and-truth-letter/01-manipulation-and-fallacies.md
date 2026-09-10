@@ -1,10 +1,23 @@
 +++
 title = "Light and Truth Response pt 1: Manipulation and Fallacies"
 path = "/response-to-light-and-truth-letter-manipulation-and-fallacies/"
-updated = "2026-09-09"
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+    "faith-transition",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [very rough draft]
 
 # (Introduction)

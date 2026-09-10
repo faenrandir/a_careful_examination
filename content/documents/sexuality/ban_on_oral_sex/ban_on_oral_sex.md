@@ -1,10 +1,23 @@
 +++
 title = "The LDS Church ban on oral sex"
 path = "/lds-church-ban-on-oral-sex/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## The 1982 First Presidency Letter
 
 The First Presidency, in [January of 1982](https://imgur.com/a/ME6ST), sent a letter to all "Stake, Mission, and District Presidents; Bishops; and Branch Presidents".  In it, they emphasized that:

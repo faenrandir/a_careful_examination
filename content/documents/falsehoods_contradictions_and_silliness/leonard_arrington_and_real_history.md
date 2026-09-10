@@ -1,10 +1,22 @@
 +++
 title = "Leonard Arrington documents suppressive attitudes towards LDS history"
 path = "/leonard-arrington-and-real-history/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Leonard Arrington, the first professional historian ever appointed as LDS Church Historian, documented actions and attitudes of LDS leadership towards how its own history should be portrayed.  Many of these revolved around the reception to his Sesquicentennial History of the Church which was meant to "update and complement" B. H. Roberts's Comprehensive History which had been published at the centennial of the Church's founding.  After initial First Presidency approval, Arrington "had sixteen subjects and sixteen authors committed [with contracts signed] to the project. Furthermore, the church’s Deseret Book Company agreed to publish the series" (Prince pg 170, as presented in [Clark's Review](http://associationmormonletters.org/blog/reviews/older-reviews/prince-leonard-arrington-and-the-writing-of-mormon-history-reviewed-by-dennis-clark/)).  Opposition led by Ezra Taft Benson and Mark E. Petersen "later amplified by Boyd K. Packer", eventually cancelled the work (only 9 of the 16 volumes were ever published) and the entire History Divison would be dismantled roughly by the end of the 1970s (again, as discussed by Clark in his review of Prince).

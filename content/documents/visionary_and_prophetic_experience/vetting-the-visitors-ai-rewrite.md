@@ -1,10 +1,22 @@
 +++
 title = "Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework"
 path = "/vetting-the-visitors-integration/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [[I haven't vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]
 
 ## Abstract

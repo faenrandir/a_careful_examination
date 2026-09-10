@@ -1,11 +1,23 @@
 +++
 title = "Why former members are angry"
 path = "/why-former-members-are-angry/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "faith-transition",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [rough draft]
 
 ## Introduction

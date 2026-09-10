@@ -1,10 +1,27 @@
 +++
 title = "Response to Joseph Smith Foundation video “Part 2: Debunking Rough Stone Rolling's treasure digging sources”"
 path = "/response-to-joseph-smith-foundation-pt2-debunking-treasure-digging-sources/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "primary-source",
+    "response",
+    "seer-stones",
+    "testimony",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### My Comment
 
 On May 3, 2021 under the handle "Faenrandir Turion" I posted the following

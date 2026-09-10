@@ -1,10 +1,23 @@
 +++
 title = "Nelson attributes goodness in Paradise to those believing in God, but most are not religious"
 path = "/nelson-attributes-goodness-in-paradise-to-believers/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Russell M. Nelson recently contributed [an opinion piece to Arizona Central](https://www.azcentral.com/story/opinion/op-ed/2019/02/10/viewpoints-lds-leader-urges-spirituality-secular-world-visits-phoenix-area/2776270002/), a USA Today newspaper, as part of his visit to the Phoenix area.  In part, he focused on the "best of humanity" revealed in the recent Paradise, California tragedy:
 
 > ... In Paradise, we witnessed utter devastation. The city was destroyed. The aftermath was staggering — families homeless, businesses gone, children still haunted by the night they fled for their lives.

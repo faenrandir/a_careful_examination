@@ -1,10 +1,22 @@
 +++
 title = "The LDS practice of soaking is real"
 path = "/lds-soaking-is-real/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Exmo lex, first hand account
 
 Exmo Lex admits to soaking [in this video](https://www.youtube.com/watch?v=d0rsI9W9BsE&t=293s):

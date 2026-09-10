@@ -1,10 +1,24 @@
 +++
 title = "Subtle discrimination as harmful as overt"
 path = "/subtle-discrimination-as-harmful-as-overt/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "priesthood-ban",
+    "race",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [Probably applies to how former Mormons feel around Mormon friends and family.] 
 
 [Not So Subtle: A Meta-Analytic Investigation of the Correlates of Subtle and Overt Discrimination](https://www.researchgate.net/publication/274064738_Not_So_Subtle_A_Meta-Analytic_Investigation_of_the_Correlates_of_Subtle_and_Overt_Discrimination) DOI: 10.1177/0149206313506466   Kristen P. Jones, Chad I. Peddie, Veronica L. Gilrane, Eden B. King and Alexis L. Gray.  published online 11 October 2013Journal of Management

@@ -1,10 +1,23 @@
 +++
 title = "A secular prophecy for our time"
 path = "/secular-prophecy-of-the-end-times/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "prophecy",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 Using scientific and secular models I have generated a prophecy in the

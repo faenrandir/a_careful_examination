@@ -1,10 +1,22 @@
 +++
 title = "Chronology of my views on evolution and LDS doctrine"
 path = "/chronology-of-my-views-on-evolution-and-lds-doctrine/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 This is a brief chronology of my vacillation and exploration of the issues between evolution (especially human evolution) and LDS doctrine.

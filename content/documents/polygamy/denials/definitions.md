@@ -1,11 +1,23 @@
 +++
 title = "Definitions of terms related to LDS Leaders' Polygamy Denials"
 path = "/definitions-of-terms-polygamy-denials/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["definitions"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "definitions",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Merriam-Webster
 
 Merriam-Webster provides a disambiguation of three words: lie, prevaricate, and equivocate.  I will present the definitions and then the disambiguation.

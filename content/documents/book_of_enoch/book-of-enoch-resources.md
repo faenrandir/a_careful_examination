@@ -1,11 +1,24 @@
 +++
 title = "Resources on the Book of Enoch"
 path = "/resources-on-the-book-of-enoch/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-enoch"]
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "apologetics",
+    "joseph-smith",
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 1. [wikipedia: The Book of Giants (A Book of Moses connection)](https://en.m.wikipedia.org/wiki/The_Book_of_Giants#A_'Book_of_Moses'_connection)

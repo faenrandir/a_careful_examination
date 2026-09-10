@@ -1,10 +1,22 @@
 +++
 title = "The All Powerful Partition Algorithm"
 path = "/the-all-powerful-partition-algorithm/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Members deal with difficult problems with history or doctrine by stating that everything good and wonderful done or said by leaders or members is motivated by God and is evidence of the truthfulness of the LDS Church while everything that falls short of some God-like ideal is considered the failings of man (e.g., "speaking as man" or "the church is perfect but the people aren't") or was merely meant to [test the Saints and make them stronger](https://www.reddit.com/r/exmormon/comments/7c3b57/thoughts_been_having_good_convos_with_tbm_gf_shes/).
 
 This process of attributing some actions to God and others to man, or good actions as blessings and bad actions as tests, may be viewed as an extremely powerful [partitioning algorithm](https://stackoverflow.com/a/4578605/422075).  The LDS Church comes out looking divine---no matter what difficult history a person may be exposed to---*by algorithmic definition*.  The good things are from God and the bad things are either the mistakes of men or are merely God testing (and strengthening) his people.  With this algorithm in place, no bad things can *ever* be associated with the LDS Church itself.

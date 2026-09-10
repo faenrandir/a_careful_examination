@@ -1,10 +1,24 @@
 +++
 title = "Why don't Mormons have paid clergy page removed"
 path = "/why-dont-mormons-have-paid-clergy-page-removed/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "geography",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 mormon.org used to have a page entitled "Why don't Mormons have paid clergy?"
 
 https://www.mormon.org/faq/no-paid-clergy

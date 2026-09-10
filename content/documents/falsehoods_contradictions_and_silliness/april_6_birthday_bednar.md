@@ -1,10 +1,22 @@
 +++
 title = "Elder Bednar and the April 6th Birthday of Jesus"
 path = "/bednar-april6-birthday-of-jesus/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Towards the end of [his April 2014 General Conference address, [Elder Bednar stated](https://www.churchofjesuschrist.org/study/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=eng) (emphasis added):
 
 > Today is April 6. We **know by revelation** that today is the **actual and accurate** date of the Savior’s birth. April 6 also is the day on which The Church of Jesus Christ of Latter-day Saints was organized.  On this special and sacred Sabbath day, I declare my witness that Jesus the Christ is our Redeemer. He lives and will cleanse, heal, guide, protect, and strengthen us. **Of these things I joyfully testify** in the sacred name of Jesus Christ, amen.

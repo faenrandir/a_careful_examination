@@ -1,11 +1,22 @@
 +++
 title = "Jane Manning James Patriarchal Blessing indicates she has 'a mark' and 'lineage of Cainaan the Son of Ham"
 path = "/jane-manning-james-patriarchal-blessing-indicates-a-mark/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["race-and-priesthood"]
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "excerpt",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Hyrum Smith 1844 Blessing
 
 My transcript from [this image](https://i.redd.it/hqpgnlp1jgo91.jpg), which is a photo of Quincy D. Newell's book ["Your Sister in the Gospel: the Life of Jane Manning James, a Nineteenth-Century Black Mormon"](https://www.worldcat.org/title/your-sister-in-the-gospel-the-life-of-jane-manning-james-a-nineteenth-century-black-mormon/oclc/949911883) page 140.

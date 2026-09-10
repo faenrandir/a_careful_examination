@@ -1,11 +1,23 @@
 +++
 title = "Time and Seasons March 15, 1844"
 path = "/times-and-seasons-march-15-1844/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 6.
 * [pg 474 (standalone PDF)](/documents/polygamy/denials/originals/1843-03-15-Times-and-Seasons-Letter-to-Editor.pdf)
 

@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="browse-page">
+  <header>
+    <h1>Browse the Collection</h1>
+    <p>Explore all resources by category, topic, recency, or alphabetically.</p>
+  </header>
+
+  <section class="browse-section">
+    <h2>Categories</h2>
+    <ul class="taxonomy-grid">
+      {% set categories = [] %}
+      {% for page in section.pages %}
+        {% for cat in page.taxonomies.categories %}
+          {% if cat not in categories %}
+            {% set categories = categories + [cat] %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% for cat in categories %}
+        {% set count = 0 %}
+        {% for page in section.pages %}
+          {% for cat in page.taxonomies.categories %}
+            {% if cat == cat %}{% set count = count + 1 %}{% endif %}
+          {% endfor %}
+        {% endfor %}
+        <li><a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }} ({{ count }})</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="browse-section">
+    <h2>Topics</h2>
+    <ul class="taxonomy-grid">
+      {% set tags = [] %}
+      {% for page in section.pages %}
+        {% for tag in page.taxonomies.tags %}
+          {% if tag not in tags %}
+            {% set tags = tags + [tag] %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% for tag in tags %}
+        {% set count = 0 %}
+        {% for page in section.pages %}
+          {% for t in page.taxonomies.tags %}
+            {% if t == tag %}{% set count = count + 1 %}{% endif %}
+          {% endfor %}
+        {% endfor %}
+        <li><a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }} ({{ count }})</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="browse-section" id="recently-updated">
+    <h2>Recently Updated</h2>
+    <ul class="resource-list">
+      {% set count = 0 %}
+      {% for page in section.pages | sort(attribute="updated", reverse=true) %}
+        {% if count < 20 %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          <span class="resource-meta">{{ page.extra.type | upper }} · {{ page.taxonomies.categories[0] }}</span>
+          <time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %d, %Y') }}</time>
+        </li>
+        {% set count = count + 1 %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="browse-section">
+    <h2>All Resources (A–Z)</h2>
+    <ul class="resource-list az-list">
+      {% for page in section.pages | sort(attribute="title") %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          <span class="resource-meta">{{ page.extra.type | upper }} · {{ page.taxonomies.categories[0] }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</article>
+{% endblock content %}

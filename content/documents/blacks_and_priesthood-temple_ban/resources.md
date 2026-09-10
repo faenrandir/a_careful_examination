@@ -1,10 +1,23 @@
 +++
 title = "Primary resources on the Priesthood/Temple Ban"
 path = "/primary-resources-on-the-priesthood-ban/"
-updated = "2026-09-09"
-taxonomies.doctype = ["list-of-resources"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "list-of-resources",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 # Primary Resources
 
 These are primary resources on the Black Priesthood/Temple ban.

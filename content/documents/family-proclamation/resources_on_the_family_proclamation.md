@@ -1,11 +1,22 @@
 +++
 title = "Resources on the Family Proclamation"
 path = "/resources-on-the-family-proclamation/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["family-proclamation"]
-taxonomies.doctype = ["resources-on-family-proclamation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Status of the Proclamation
 
 1. [Is the Family Proclamation Scripture?](http://rationalfaiths.com/is-the-family-proclamation-scripture/) (analysis by James Patterson)

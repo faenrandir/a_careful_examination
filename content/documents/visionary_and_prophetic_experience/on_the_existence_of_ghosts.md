@@ -1,10 +1,22 @@
 +++
 title = "On the existence of ghosts"
 path = "/on-the-existence-of-ghosts/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Ghosts do not seem to be objective phenomena
 
 1. Ghosts, if they are real, do not seem to emit or reflect light in the visual spectrum.

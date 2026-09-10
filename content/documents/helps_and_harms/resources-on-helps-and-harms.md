@@ -1,10 +1,22 @@
 +++
 title = "Resources related to the helps and harms of the LDS Church"
 path = "/resources-related-to-helps-and-harms/"
-updated = "2026-09-09"
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Both helps and harms
 
 * [Religion, Mental Health, and the Latter-Day Saints: A Review of Literature 2005–2022](https://www.mdpi.com/2077-1444/14/6/701) (Dyer et al. from BYU)

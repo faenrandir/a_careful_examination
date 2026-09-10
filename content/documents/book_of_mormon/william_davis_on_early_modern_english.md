@@ -1,11 +1,23 @@
 +++
 title = "William Davis on Early Modern English in the Book of Mormon"
 path = "/william-davis-on-early-modern-english-in-the-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["quotation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "quotation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In his [response to a roundtable review in Dialogue](https://www.dialoguejournal.com/2020/06/author-response-to-dialogue-book-review-roundtable-visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-by-william-davis/), William Davis offers an explanation for how Early Modern English may have been introduced into the Book of Mormon:[^facebook_post]
 
 > ... The presence of non-biblical, late sixteenth and early seventeenth-century language, for example, has captured the attention of researchers.  How would such language find its way into the Book of Mormon, particularly if it originated from a nineteenth-century translator?  The role of oral performance offers clues.  Children growing up in religious households—especially in families like the Smiths, who participated in domestic worship—were regularly exposed to family members reading aloud the scriptures and other religious texts (e.g., sermons, theological treatises).  Such oral practices exposed children to the vocabulary, syntax, and phraseology of biblical-style language, imprinting such structures in their minds before they could even read and at the same time that they were in their most active period of first language acquisition, creating a fluency in a biblical register that modern observers often fail to appreciate.  Moreover, the Bible was not the only source for such archaic language.

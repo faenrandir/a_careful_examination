@@ -1,11 +1,23 @@
 +++
 title = "Bill Davis: Evidence of Oral Revision during the Dictation of the Book of Mormon"
 path = "/bill-davis-collection-of-evidences-of-oral-revision/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["quotations"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The first two examples below were shared by Bill Davis on December 20 and 21 of 2021.

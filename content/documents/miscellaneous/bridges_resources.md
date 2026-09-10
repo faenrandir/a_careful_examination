@@ -1,10 +1,23 @@
 +++
 title = "Resources related to David Ostler's book “Bridges: Ministering to Those Who Question”"
 path = "/bridges-resources/"
-updated = "2026-09-09"
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "faith-transition",
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## The Book
 
 [Bridges: Ministering to Those Who Question](https://www.amazon.com/Bridges-Ministering-Those-Who-Question/dp/1589587596/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.KVgx9LNbBc1X503jv0LygfcGbntpZ3m2zXMi8b2Ga-ZqDxSsZ43rzXdYrWKWLmFG.3rmZuJ5avmM2hOYZDSAncHVqt6cT_kffqXxjj9SXA6M&qid=1714954762&sr=8-1) (link to Amazon)[^amazon]

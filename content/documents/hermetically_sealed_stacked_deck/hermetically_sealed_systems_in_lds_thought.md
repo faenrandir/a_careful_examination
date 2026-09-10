@@ -2,11 +2,22 @@
 title = "Hermetically Sealed Systems in LDS Thought"
 path = "/hermetically-sealed-systems-in-lds-thought/"
 toc = "true"
-updated = "2026-09-09"
-taxonomies.maintopic = ["epistemology"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 A hermetic seal is one which is entirely airtight (see an example of a hermetically sealed vial to the right). A hermetically sealed system of thought is, by analogy, one which is cutoff from, or virtually impervious to, outside ways of thinking.[^hermetically_sealed]

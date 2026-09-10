@@ -1,10 +1,23 @@
 +++
 title = "Individuals in the past 100 years who claim to have seen Jesus Christ"
 path = "/individuals-claim-to-seen-christ/"
-updated = "2026-09-09"
-taxonomies.doctype = ["compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Draft originally posted [here](https://www.reddit.com/r/mormondebate/comments/4g68ev/when_was_the_last_time_a_mormon_credibly_saw/d2g63n2/).
 
 Note: this analysis does not include those who claim to have been visited by Jesus while in a dream (like many of these from [a 2019 LDS Living article](http://www.ldsliving.com/8-Divine-Accounts-of-Prophets-and-Apostles-Seeing-the-Savior/s/86605?page=1#story-content)).

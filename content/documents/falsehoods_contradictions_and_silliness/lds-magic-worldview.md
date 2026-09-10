@@ -1,10 +1,23 @@
 +++
 title = "Analogy between the LDS and a magic worldview"
 path = "/the-lds-magic-worldview/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "seer-stones",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Latter-day Saints, like most believers of the Bible, take for granted that witchcraft or sorceries exist on some level, but they may be nuanced about magic's efficacy ([for example](https://askgramps.org/how-can-i-stay-away-from-the-consequences-and-influence-of-black-magic/)).

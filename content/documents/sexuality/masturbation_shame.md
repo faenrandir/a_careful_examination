@@ -1,10 +1,22 @@
 +++
 title = "Example of masturbation shame"
 path = "/example-of-masturbation-shame/"
-updated = "2026-09-09"
-taxonomies.doctype = ["anecdotal"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From [here](https://www.reddit.com/r/exmormon/comments/92xyrj/my_first_confession_to_a_bishop_age_9/)
 
 ---

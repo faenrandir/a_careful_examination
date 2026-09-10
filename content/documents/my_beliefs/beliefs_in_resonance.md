@@ -1,10 +1,22 @@
 +++
 title = "Beliefs in Resonance"
 path = "/beliefs-in-resonance/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 I share many basic beliefs with the conscientious, moral citizens of our world.
 
 ## The Universal Moral Code

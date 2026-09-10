@@ -1,11 +1,26 @@
 +++
 title = "Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon"
 path = "/reasons-to-discount-emmas-bom-testimony/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "short-analysis",
+    "testimony",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The core of [Emma's testimony as it relates to the Book of Mormon](/last-testimony-of-sister-emma/)[^platesexisted] is summarized in condensed form below (emphasis added):

@@ -1,11 +1,26 @@
 +++
 title = "Evidence suggesting Emma approved of some marriages"
 path = "/evidence-suggesting-emmas-approval/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+    "short-analysis",
+    "temple",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 #### lds.org Nauvoo Plural Marriage essay
 
 The lds.org essay [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:

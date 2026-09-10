@@ -1,11 +1,25 @@
 +++
 title = "Three Nights' Public Discussion: John Taylor "
 path = "/three-nights-public-discussion-john-taylor-polygamy-denial/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "joseph-smith",
+    "polygamy",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Three Nights' Public Discussion between the Revds. C.W. Cleeve, James Robertson, and Philip Carter, and Elder John Taylor of the Church of Jesus Christ of Latter-day Saints, at Boulogne-Sur-Mer, France
 
 * The [Pamphlet at BYU Digital Collections](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/18011)

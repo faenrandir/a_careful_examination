@@ -1,10 +1,23 @@
 +++
 title = "Simple 14 word test for prophetic ability"
 path = "/simple-test-for-prophetic-ability/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "prophecy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 Those who claim prophetic ability claim to see events before they happen.  Those unconvinced of this ability suggest that the mind makes many kinds of projections and those who see the future tend to forget the misses and then remember (and perhaps slightly retrofit) the hits, and this provides the prophesier with the impression that they have seen into the future.

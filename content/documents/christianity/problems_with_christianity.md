@@ -1,11 +1,22 @@
 +++
 title = "Problems with Christianity from a former LDS perspective"
 path = "/problems-with-christianity-from-former-lds-perspective/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["christianity"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 # Introduction
 
 So much of what Jesus Christ taught (or is purported to have taught) is helpful, inspiring, and/or good.[^veridicality]  I think we should embrace these messages, generally.  Still, some of what he taught when interpreted by mainstream Christianity is problematic to my mind.  And a few things that Jesus taught are problematic when taken at their plain meaning.  A similar pattern emerges when extending the analysis to include the words of Jesus's various disciples as recorded in the books of the New Testament.[^authorship]

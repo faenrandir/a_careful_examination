@@ -1,11 +1,25 @@
 +++
 title = "How did Joseph Smith's wives refer to their unions?"
 path = "/how-did-js-wives-refer-to-unions/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "joseph-smith",
+    "polygamy",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.
 
 For clarity on what the word "marriage" means, Merriam-Webster's [first definition of the

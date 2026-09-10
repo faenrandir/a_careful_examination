@@ -1,10 +1,22 @@
 +++
 title = "Why be skeptical of reports of LDS Apostles seeing Jesus?"
 path = "/why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 [Many accounts](https://www.fairmormon.org/answers/Question:_Did_any_twentieth_century_leader_after_Joseph_Smith_report_divine_visions%3F) are interpreted by Latter-day Saints to mean that their leaders have seen and/or spoken with Jesus.

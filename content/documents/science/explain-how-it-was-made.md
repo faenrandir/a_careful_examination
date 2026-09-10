@@ -1,11 +1,24 @@
 +++
 title = "Explain how it was made: Shroud of Turin and BoM apologetics"
 path = "/explain-how-it-was-made/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["science"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "apologetics",
+    "book-of-mormon",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 On Dan McClellan's recent Shroud of Turin post (#maklelan3227) on Facebook, I kept seeing comments like:

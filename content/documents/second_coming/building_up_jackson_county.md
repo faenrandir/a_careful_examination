@@ -1,10 +1,25 @@
 +++
 title = "Statements on building up Jackson county"
 path = "/statements-on-building-up-jackson-county/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "notes",
+    "polygamy",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 As discussed somewhat in [chapter 8 of Millenialism and the Anti-Polygamy Campaign](http://web.archive.org/web/20220129041219/https://signaturebookslibrary.org/as-a-thief-in-the-night-08/), leaders made promises that arguably went unfulfilled.  I've tracked down some regarding the building up of Jackson county:
 
 **Brigham Young**, April 6, 1845 (Times and Seasons, vol 6 [no. 12](http://www.centerplace.org/history/ts/v6n12.htm) pg 965):

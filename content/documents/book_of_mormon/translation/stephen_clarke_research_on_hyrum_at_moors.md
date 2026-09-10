@@ -1,10 +1,22 @@
 +++
 title = "Stephen Clarke's notes on Hyrum Smith at Moor's Charity School"
 path = "/stephen-clarke-notes-on-hryum-smith-at-moors/"
-updated = "2026-09-09"
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The following is [a comment by Stephen Clarke (as Nevo) on MormonDialogue.org](https://www.mormondialogue.org/topic/75869-how-the-book-of-mormon-came-to-pass/page/4/#comment-1210185310) (last edited May 5, 2024) arguing from Vogel's notes on tax assessment records that Hyrum Smith likely spent somewhere between "7 or 8 months" to "less than a year and a half altogether" at Moor's Charity School and offering a different perspective on the curriculum that may have been taught than what has been advanced by William Davis. This is followed by a personal communication (received Oct 22, 2024) substantiating and elaborating on the original post regarding curriculum. Clarke acquired original Moor's School documents and argues from these that since Hyrum stopped attending before completing arithmetic studies and we have no record of him being examined in any topic that he likely would not have been learning New Testament Greek or Latin while there. Posting with author's permission.*

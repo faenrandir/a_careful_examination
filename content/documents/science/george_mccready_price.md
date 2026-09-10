@@ -1,10 +1,23 @@
 +++
 title = "George McCready Price inspired the 'No death before the Fall' teachings of Joseph Fielding Smith"
 path = "/george-mccready-price-inspired-ndbf/"
-updated = "2026-09-09"
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+    "book-of-mormon",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [George McCready Price](https://en.wikipedia.org/wiki/George_McCready_Price) was a Seventh Day Adventist "scientist" and [an inspiration for many of the teachings of Joseph Fielding Smith](http://signaturebookslibrary.org/the-b-h-robertsjoseph-fielding-smithjames-e-talmage-affair/).
 
 A core teaching of Price's was that there was no death on the Earth for any living thing before the Fall of Adam.  [The Case for Divine Design explains](https://books.google.com/books?id=UaR6KXQncbwC&pg=PA194&lpg=PA194&dq=george+mccready+price+death+all+living+things&source=bl&ots=1tDpvYDLjF&sig=WBfLhMCgKr2XvRkuR5oH0EfejGs&hl=en&sa=X&ved=0ahUKEwiNwq76yZPRAhUJ6WMKHXLYDNgQ6AEIUDAJ#v=onepage&q=george%20mccready%20price%20death%20all%20living%20things&f=false):

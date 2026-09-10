@@ -1,11 +1,23 @@
 +++
 title = "Columbus was mythologized in a popular 1828 biography"
 path = "/columbus-mythologized-in-1828-biography/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Washington Irving, author of the highly popular book [The Legend of Sleepy Hollow](https://en.wikipedia.org/wiki/The_Legend_of_Sleepy_Hollow) (1820), wrote and published a biography about Christopher Columbus in 1828.  The Columbus of the Book of Mormon may have been inspired by this source.
 
 See:

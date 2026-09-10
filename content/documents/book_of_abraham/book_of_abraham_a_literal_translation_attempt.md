@@ -1,11 +1,24 @@
 +++
 title = "Quotations suggesting The Book of Abraham was a literal translation attempt"
 path = "/quotations-boa-literal-translation-attempt/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-abraham"]
-taxonomies.doctype = ["compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "joseph-smith",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Copied with my editorial changes from [a post by curious_mormon](https://old.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/) and [follow up comment by PhallicMin](https://www.reddit.com/r/exmormon/comments/3f1kqk/official_lds_quotes_and_sources_showing_joseph/ctkfs8a/?context=3).
 
 ## Summary

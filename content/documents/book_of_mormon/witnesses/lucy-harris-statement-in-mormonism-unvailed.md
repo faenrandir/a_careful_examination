@@ -1,11 +1,23 @@
 +++
 title = "Lucy Harris's Testimony"
 path = "/lucy-harris-testimony-mormonism-unvailed/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "testimony",
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From [Mormonism Unvailed](https://www.archive.org/stream/mormonismunvaile00howe#page/254/mode/2up) published 1834, by E.D. Howe.
 
 ---

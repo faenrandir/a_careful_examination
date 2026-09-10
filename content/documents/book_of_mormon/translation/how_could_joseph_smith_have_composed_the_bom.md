@@ -1,11 +1,25 @@
 +++
 title = "How could Joseph Smith have composed the Book of Mormon?"
 path = "/how-could-joseph-smith-composed-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "seer-stones",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### The oral composition model
 
 The oral composition model is discussed in some detail by William Davis in his dissertation, [Performing Revelation: Joseph Smith and the Creation of the Book of Mormon](https://escholarship.org/uc/item/86h814zv), and book [Visions in a Seer Stone](https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/).  However, the following is my own summary and synthesis, somewhat independent of Davis's work:

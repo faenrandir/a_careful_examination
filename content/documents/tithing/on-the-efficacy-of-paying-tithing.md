@@ -1,10 +1,22 @@
 +++
 title = "On the efficacy of paying tithing"
 path = "/efficacy-of-paying-tithing/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Members of the Church will often claim that they know they are blessed (financial or otherwise) *because* they pay their tithing.  These claims seem shortsighted, or at least insufficiently demonstrated, for the following reasons:
 
 1. **No broad correlation between paying tithing and financial success**:  I am not aware of any statistical correlation between paying tithing and household income (or total wealth).  For instance, Latter-day Saints seem pretty average in household income according to [this Pew 2016 survey](https://www.pewresearch.org/fact-tank/2016/10/11/how-income-varies-among-u-s-religious-groups/).

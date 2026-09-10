@@ -1,9 +1,23 @@
 +++
 title = "Unparallels and the hypergeometric distribution"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "apologetics",
+    "book-of-mormon",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [pre-draft]
 
 ## Introduction

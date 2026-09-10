@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="category-page">
+  <header class="category-header">
+    <h1>{{ term.name }}</h1>
+    <p class="category-desc">
+      {% set descs = {
+        "book-of-mormon": "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon.",
+        "joseph-smith": "Polygamy, seer stones, First Vision, treasure digging, folk magic, education, and intellectual background of Joseph Smith.",
+        "lds-history-leadership": "Prophets, priesthood/temple ban, historical statements and reversals, predictions, transparency, and institutional behavior.",
+        "doctrine-teachings": "Revelation/testimony epistemology, God/scripture/salvation, temple/priesthood, family/gender/sexuality, Word of Wisdom, morality, science/evolution.",
+        "faith-transitions": "Why people leave, treatment of former members, faith crisis research, testimony/spiritual experiences, mixed-faith relationships, communication with family.",
+        "apologetics-responses": "General apologetic methods, specific responses to LDS truth claims, FairMormon/Evidence Central arguments, and critical responses.",
+        "research-primary-sources": "Transcripts, quotations, historical documents, scholarly excerpts, tables/datasets/surveys, and external resources.",
+        "social-moral-issues": "Race, LGBTQ issues, gender, sexuality, family, and institutional harm/coercion.",
+        "personal-reflections": "Personal history, beliefs, chronologies, essays, and reflections.",
+        "other": "Miscellaneous, communications, leaked documents, and unclassifiable items.",
+        "book-of-abraham": "Historicity, translation, and apologetics related to the Book of Abraham.",
+        "book-of-enoch": "The Book of Enoch and its relationship to LDS scripture and theology.",
+        "book-of-mormon-witnesses": "Testimonies and accounts of the Book of Mormon witnesses.",
+        "christianity": "Comparative studies and perspectives on Christianity.",
+        "epistemology": "Epistemological questions related to religious belief and knowledge.",
+        "faith": "Faith, belief, and religious epistemology.",
+        "family-proclamation": "The Family: A Proclamation to the World and related topics.",
+        "first-vision": "Joseph Smith's First Vision accounts and historicity.",
+        "flood": "Noah's flood, baptism of the earth, and related geological/topical studies.",
+        "jst": "Joseph Smith Translation of the Bible.",
+        "lgbt": "LGBTQ issues, same-sex marriage, and related LDS policies.",
+        "magic": "Folk magic, treasure digging, and occult practices in early Mormonism.",
+        "manifestations": "Visions, revelations, and supernatural manifestations in LDS history.",
+        "my-beliefs": "Personal statements of belief and theological positions.",
+        "polygamy": "Plural marriage in early LDS history and theology.",
+        "questioning": "Critical questions and inquiries about LDS truth claims.",
+        "race-and-priesthood": "Priesthood and temple restrictions based on race.",
+        "science": "Science, evolution, and their relationship to LDS theology.",
+        "secular-humanism": "Secular humanist perspectives on religion and morality.",
+        "sociology-and-psychology": "Sociological and psychological perspectives on LDS culture and belief.",
+        "temple": "LDS temple ceremonies, covenants, and symbolism.",
+        "transparency": "Transparency, financial disclosure, and institutional accountability.",
+        "truth-claims": "Core truth claims of the LDS Church and critical examinations.",
+        "word-of-wisdom": "The Word of Wisdom health code and its history.",
+      } %}
+      {{ descs[term.name] | default(value="Resources and analysis on this topic.") }}
+    </p>
+  </header>
+
+  <section class="featured">
+    <h2>Featured</h2>
+    <ul class="resource-list">
+      {% for page in term.pages %}
+        {% if page.extra is defined and page.extra.featured %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          {% if page.description %}<span class="resource-desc">{{ page.description }}</span>{% endif %}
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="all-resources">
+    <h2>All {{ term.name }} Resources</h2>
+    <nav class="sort-options" aria-label="Sort options">
+      <span>Sort:</span>
+      <a href="?sort=featured" class="{% if not sort or sort == 'featured' %}active{% endif %}">Featured</a>
+      <a href="?sort=recent" class="{% if sort == 'recent' %}active{% endif %}">Recently Updated</a>
+      <a href="?sort=az" class="{% if sort == 'az' %}active{% endif %}">A–Z</a>
+    </nav>
+    <ul class="resource-list">
+      {% set pages = term.pages %}
+      {% if sort == 'recent' %}{% set pages = pages | sort(attribute="updated", reverse=true) %}
+      {% elif sort == 'az' %}{% set pages = pages | sort(attribute="title") %}
+      {% else %}{% set pages = pages | sort(attribute="extra.importance", reverse=true) %}{% endif %}
+      {% for page in pages %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          <span class="resource-meta">
+            {{ page.extra.type | upper }} · 
+            {% set count = 0 %}
+            {% for tag in page.taxonomies.tags %}
+              {% if count > 0 %} · {% endif %}
+              {{ tag }}
+              {% set count = count + 1 %}
+            {% endfor %}
+            {% if page.updated %}<time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %d, %Y') }}</time>{% endif %}
+          </span>
+          {% if page.description %}<span class="resource-desc">{{ page.description }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</article>
+{% endblock content %}

@@ -1,90 +1,88 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="home">
-  <p>A collection of resources, research, and thoughts on the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints.</p>
+<article class="homepage">
+  <header class="homepage-header">
+    <h1>{{ config.title }}</h1>
+    <p class="homepage-description">{{ config.description }}</p>
+    <nav class="homepage-nav" aria-label="Quick links">
+      <a href="{{ config.base_url | safe }}/about/">About</a> ·
+      <a href="{{ config.base_url | safe }}/recommended/">Recommended</a> ·
+      <a href="{{ config.base_url | safe }}/browse/">Browse</a> ·
+      <a href="{{ config.base_url | safe }}/search/">Search</a>
+    </nav>
+  </header>
 
-  <h2 id="for-your-initial-consideration">For your initial consideration</h2>
-
-  <p><a href="{{ config.base_url | safe }}/to-peek-behind-the-curtain/">To peek behind the curtain: the decision to critically investigate LDS truth-claims</a></p>
-
-  <nav class="tag-clouds" aria-label="Browse by topic and type">
-    <section class="tag-cloud-section">
-      <h3>Browse by Topic</h3>
-      <div class="tag-cloud" id="tag-cloud-maintopic">
-        <!-- Populated by JavaScript from taxonomy_index.json -->
-      </div>
-    </section>
-
-    <section class="tag-cloud-section">
-      <h3>Browse by Type</h3>
-      <div class="tag-cloud" id="tag-cloud-doctype">
-        <!-- Populated by JavaScript from taxonomy_index.json -->
-      </div>
-    </section>
-  </nav>
-
-  <h2 id="general-resources">General Resources</h2>
-
-  <ul>
-    {% for page in section.pages %}
-      {% if page.taxonomies.doctype is defined and "resource" in page.taxonomies.doctype %}
-        {% set mt = page.taxonomies.maintopic | default(value=[]) %}
-        {% if "polygamy" not in mt and "faith-transitions" not in mt %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <section class="start-here">
+    <h2>Start Here</h2>
+    <p>New to this collection? Begin with these foundational resources.</p>
+    <ul class="resource-list">
+      {% for page in section.pages %}
+        {% if page.extra is defined and page.extra.featured %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          {% if page.description %}
+          <span class="resource-desc">{{ page.description }}</span>
+          {% endif %}
+        </li>
         {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  </section>
 
-  <h2 id="faith-transitions">Faith Transitions</h2>
-
-  <ul>
-    {% for page in section.pages %}
-      {% if page.taxonomies.maintopic is defined and "faith-transitions" in page.taxonomies.maintopic %}
-      <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <h2 id="polygamy">Polygamy</h2>
-
-  <ul>
-    {% for page in section.pages %}
-      {% if page.taxonomies.maintopic is defined and "polygamy" in page.taxonomies.maintopic %}
-        {% set dt = page.taxonomies.doctype | default(value=[]) %}
-        {% if "historical-resource" not in dt and "historical-source" not in dt %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <section class="browse-collection">
+    <h2>Browse the Collection</h2>
+    <div class="category-grid">
+      {% set cat_terms = get_taxonomy(kind="categories") %}
+      {% for cat_name, cat_desc in config.extra.categories %}
+      {% set cat_term = "" %}
+      {% for term in cat_terms %}
+        {% if term.name == cat_name %}
+          {% set cat_term = term %}
         {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul>
+      {% endfor %}
+      <section class="category-card">
+        <h3><a href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">{{ cat_name }}</a></h3>
+        <p class="category-desc">{{ cat_desc }}</p>
+        <ul class="featured-links">
+          {% if cat_term %}
+            {% set count = 0 %}
+            {% for page in cat_term.pages %}
+              {% if count < 5 %}
+              <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+              {% set count = count + 1 %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </ul>
+        <a class="view-all" href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">View all →</a>
+      </section>
+      {% endfor %}
+    </div>
+  </section>
 
-  <h3 id="polygamy-historical-resources">Polygamy historical resources</h3>
-
-  <ul>
-    {% for page in section.pages %}
-      {% if page.taxonomies.maintopic is defined and "polygamy" in page.taxonomies.maintopic %}
-        {% set dt = page.taxonomies.doctype | default(value=[]) %}
-        {% if "historical-resource" in dt or "historical-source" in dt %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <section class="recently-updated">
+    <h2>Recently Updated</h2>
+    <ul class="resource-list">
+      {% set count = 0 %}
+      {% for page in section.pages | sort(attribute="updated", reverse=true) %}
+        {% if count < 8 %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          <time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %d, %Y') }}</time>
+        </li>
+        {% set count = count + 1 %}
         {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+    <a href="{{ config.base_url | safe }}/browse/#recently-updated">View all →</a>
+  </section>
 
-  <h2 id="miscellaneous">Miscellaneous</h2>
-
-  <ul>
-    {% for page in section.pages %}
-      {% if page.taxonomies.doctype is defined %}
-        {% set p_doctype = page.taxonomies.doctype %}
-        {% set p_maintopic = page.taxonomies.maintopic | default(value=[]) %}
-        {% if "resource" not in p_doctype and p_doctype != "" and "polygamy" not in p_maintopic and "faith-transitions" not in p_maintopic %}
-        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="doctype-annotation"> {{ p_doctype[0] }}</span></li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+  <footer class="homepage-footer">
+    <a href="{{ config.base_url | safe }}/about/">About</a> ·
+    <a href="{{ config.base_url | safe }}/recommended/">Recommended</a> ·
+    <a href="{{ config.base_url | safe }}/browse/">Browse all</a> ·
+    <a href="{{ config.base_url | safe }}/search/">Search</a>
+  </footer>
+</article>
 {% endblock content %}

@@ -1,10 +1,22 @@
 +++
 title = "How Latter-day Saints are viewed by former Mormons"
 path = "/how-latter-day-saints-are-viewed-by-former-mormons/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 This is a place to note the ways in which believing members sometimes feel (or are) judged by former members.
 
 

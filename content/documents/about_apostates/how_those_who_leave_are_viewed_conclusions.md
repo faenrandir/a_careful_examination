@@ -1,11 +1,22 @@
 +++
 title = "Discussion and Conclusions: How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed-discussion-and-conclusions/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Primary data
 
 LDS scripture, leaders, lesson manuals, and other material published by the Church speak extensively about those who leave the Church and apostasize (leaving the Church is synonymous with apostasy).  Collectively, these writings emphasize that those who leave the Church are one or more of the following:

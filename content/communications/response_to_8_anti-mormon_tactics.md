@@ -1,10 +1,22 @@
 +++
 title = "Finding Truth: Response to '8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints"
 path = "/response-to-8-anti-mormon-tactics-gogogoff/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In March of 2017, MyLifeByGogoGoff published a piece entitled [8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints](http://mylifebygogogoff.com/2017/03/8-anti-mormon-tactics-that-satan-uses-to-attack-the-latter-day-saints.html).  The piece was then [reblogged by LDS Living](http://www.ldsdaily.com/personal-lds-blog/8-anti-mormon-tactics-satan-uses-attack-latter-day-saints/).
 
 I am certainly no expert logician, but I have taken a couple philosophy courses, and I spent many years in the sciences attempting to avoid committing the logical fallacies the author discusses.  I offer brief reflection on and some counterpoint to these 8 points.

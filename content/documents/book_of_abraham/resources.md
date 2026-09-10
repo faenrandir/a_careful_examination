@@ -1,11 +1,25 @@
 +++
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-abraham"]
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "apologetics",
+    "joseph-smith",
+    "list-of-resources",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 # Critical
 
 ### Introductory

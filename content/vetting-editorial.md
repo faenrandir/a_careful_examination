@@ -1,12 +1,21 @@
 +++
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors-editorial/"
-
-updated = "2026-02-23"
+updated = "2026-09-10"
 [extra]
 doctype = "notes"
+type = "notes"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "other",
+]
+tags = []
 
 +++
+
 [VERY ROUGH DRAFT]
 
 [[EXTENDED ABSTRACT]]

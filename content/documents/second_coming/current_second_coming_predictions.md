@@ -1,10 +1,22 @@
 +++
 title = "Modern LDS second coming expectations and predictions"
 path = "/modern-second-coming-predictions/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 # LDS leadership (general)
 
 * [Russell M Nelson: Quotes about the 2nd Coming](https://www.youtube.com/watch?v=YDY9x-4Qrf8)

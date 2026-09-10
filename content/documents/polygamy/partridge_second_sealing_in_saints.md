@@ -1,11 +1,25 @@
 +++
 title = "Saints Volume 1: The Partridge Sisters' second sealing to Joseph Smith"
 path = "/saints-v1-partridge-sisters-second-sealing/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "joseph-smith",
+    "polygamy",
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 [Saints volume 1][saints-volume-1] discusses a second sealing ceremony

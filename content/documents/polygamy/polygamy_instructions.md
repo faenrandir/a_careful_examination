@@ -1,11 +1,23 @@
 +++
 title = "Scriptural instructions for practicing polygamy"
 path = "/scriptural-instructions-for-practicing-polygamy/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["resource-transcription"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *Modified from [here](https://www.reddit.com/r/exmormon/comments/7xfo3i/although_the_lord_commanded_the_adoption_of/)*
 
 The lds.org essay on [polygamy in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng) states:

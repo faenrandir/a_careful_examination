@@ -1,10 +1,22 @@
 +++
 title = "Discussion on a global flood at 2348 BCE"
 path = "/discussion-global-flood-at-2348-bc/"
-updated = "2026-09-09"
-taxonomies.doctype = ["discussion"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "discussion",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 A discussion in the spring of 2015 between me ("bwv549") and "tmgproductions", a pastor(?) and blogger for the Grace with Salt site on the global flood.
 
 I'll include all relevant comments leading to and following the discussion on the global flood for completeness.

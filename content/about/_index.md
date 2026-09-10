@@ -4,7 +4,8 @@ title = "About"
 [extra]
 featuredimage = "/media/cover_photo.jpg"
 updated = "2018-09-03"
-
+type = "notes"
+importance = 5
 +++
 
 This site is a collection of resources, research, and thoughts on the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (referred to as "the LDS Church" herein).

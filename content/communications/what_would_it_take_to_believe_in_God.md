@@ -1,10 +1,22 @@
 +++
 title = "What would it take for you to believe in God again?"
 path = "/what-would-it-take-to-believe-in-God-again/"
-updated = "2026-09-09"
-taxonomies.doctype = ["personal"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "personal",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 > "so, what would it take for you to believe in God again?"
 
 If a Christian asks you this question, you cannot really answer it directly, because according to Jesus if you assert that some *additional* evidence is wanted, then your additional evidence will be viewed as hypocrisy and [associate you with the wicked and adulterous](https://www.biblehub.com/matthew/12-39.htm).  As Matthew Henry explains [in commentary to Matthew 16:1-4](https://www.biblehub.com/matthew/16-4.htm): "It is great hypocrisy, when we slight the signs of God's ordaining, to seek for signs of our own devising."  And, from their perspective, the problem lies in your refusal to interpret the kinds of things they think are evidence for God's existence, not that you *lack* evidence in the first place.

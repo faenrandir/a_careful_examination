@@ -1,11 +1,23 @@
 +++
 title = "Millenial Star denial, August 1842"
 path = "/millenial-star-denial-aug-1842/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "joseph-smith",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Context
 
 The time and audience (England) of this publication indicates that it was likely written in response to Martha Brotherton's claims about her proposal from Brigham Young which (allegedly endorsed in person by Joseph Smith).  For example, see Richard and Pamela Price's interpretation [here](https://web.archive.org/web/20191220192033/http://restorationbookstore.org:80/articles/nopolygamy/jsfp-vol2/2chp1.htm).

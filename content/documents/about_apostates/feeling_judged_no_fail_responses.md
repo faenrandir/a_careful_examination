@@ -1,11 +1,22 @@
 +++
 title = "No-fail responses to critical comments"
 path = "/no-fail-responses-to-critical-comments/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["good-ideas"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "good-ideas",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *From a post [here](https://www.reddit.com/r/exmormon/comments/9wl0vb/feeling_judged_heres_10_nofail_responses_to/)*
 
 When you leave the church, it’s possible to hear comments like this directed at you:

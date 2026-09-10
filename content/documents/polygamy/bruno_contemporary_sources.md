@@ -1,11 +1,24 @@
 +++
 title = "Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy"
 path = "/bruno-contemporary-sources-for-js-polygamy/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["resource"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+    "resource",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Cheryl L. Bruno has shared her ongoing documentary catalog in the Mormon Polygamy 
 Documents Facebook group detailing contemporary sources on Joseph Smith's practice of polygamy. 
 Her work revises and expands upon Mark Tensmeyer’s work published in 

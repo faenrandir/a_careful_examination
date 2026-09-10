@@ -1,10 +1,22 @@
 +++
 title = "Analysis of Olishem as evidence for the antiquity of the Book of Abraham"
 path = "/olishem-as-evidence-for-boa/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [still in draft form]
 
 ### Introduction

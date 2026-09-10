@@ -1,10 +1,22 @@
 +++
 title = "Matt Harris on LDS transparency"
 path = "/matt-harris-transcript-on-lds-transparency/"
-updated = "2026-09-09"
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Matt Harris, an active, believing Latter-day Saint historian, was asked by John Dehlin about access to contemporary material in Mormon Stories interview #1350, October 5, 2020, at [47:43](https://www.youtube.com/watch?v=PQ9MNpmwpZY&feature=youtu.be&t=2863).  Interjections (non-lexical conversational sounds) and some other minor missteps have been removed from the transcript.
 
 > [Dehlin] Really quickly, this is kind of a tiny bit of a tangent, but since we just recently talked about his journals and your access to it in the archives, I remember a conversation once with Ted Lyon who was the interpreter for Jeffery R. Holland while Holland lived in Chile for 3 years, and Ted Lyon was a professor of mine at BYU and he was the son of T. Edgar Lyon, a really important figure in the history of the church, he was buddies with Lowell Bennion, and

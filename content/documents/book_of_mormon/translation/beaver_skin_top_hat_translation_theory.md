@@ -1,12 +1,25 @@
 +++
 title = "Could Joseph have hidden material in his hat to draw upon during the dictation process?"
 path = "/hidden-material-in-hat-hypothesis/"
-extra = {featuredimage = "/media/anthony-sweat-hat-1024x694.jpg"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/anthony-sweat-hat-1024x694.jpg"
+type = "analysis"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "book-of-mormon",
+]
+tags = [
+    "analysis",
+    "book-of-mormon",
+    "joseph-smith",
+]
 
 +++
+
 ### Foreword
 
 The most compelling model for the creation of the Book of Mormon is that [Joseph Smith primarily composed the book orally](/how-could-joseph-smith-composed-bom/).  Still, the following is an interesting counter-theory (or perhaps supplement) to that model.

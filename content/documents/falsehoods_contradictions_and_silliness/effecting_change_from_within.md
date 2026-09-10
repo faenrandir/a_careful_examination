@@ -1,10 +1,24 @@
 +++
 title = "Effecting change from within the LDS Church -- is it really possible?"
 path = "/effecting-change-from-within-short-analysis-2017/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "short-analysis",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Summary: people and groups have attempted to catalyze change in the LDS Church using a wide variety of methods.  To date, it appears that most of them have failed to bring about substantive changes.
 
 ## Introduction

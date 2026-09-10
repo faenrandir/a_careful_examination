@@ -1,10 +1,22 @@
 +++
 title = "How does the LDS Church divide families?"
 path = "/how-does-the-lds-church-divide-families/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [very rough draft]
 
 ## Introduction

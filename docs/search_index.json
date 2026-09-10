@@ -3,7 +3,7 @@
     {
       "title": "A Careful Examination",
       "url": "/a_careful_examination/",
-      "snippet": "A collection of resources, research, and thoughts on the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints."
+      "snippet": "Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church)."
     },
     {
       "title": "Bookmarks",
@@ -259,6 +259,11 @@
       "title": "The Apologetic Slide",
       "url": "/a_careful_examination/the-apologetic-slide/",
       "snippet": "modified from here"
+    },
+    {
+      "title": "Browse the Collection",
+      "url": "/a_careful_examination/browse/",
+      "snippet": "Explore all resources by category, topic, recency, or alphabetically."
     },
     {
       "title": "Consequences of leaving the group tend to be proportional to the level of totalism",
@@ -2119,6 +2124,41 @@
       "title": "Why does it matter?",
       "url": "/a_careful_examination/documents/why_it_matters/why-it-matters/",
       "snippet": "“Why does it matter?” asked my SP after not being able to address any of the church problems."
+    },
+    {
+      "title": "questioning",
+      "url": "/categories/questioning/",
+      "snippet": "Critical questions and inquiries about LDS truth claims."
+    },
+    {
+      "title": "faith-transitions",
+      "url": "/categories/faith-transitions/",
+      "snippet": "Why people leave, treatment of former members, faith crisis research, testimony/spiritual experiences, mixed-faith relationships, communication with family."
+    },
+    {
+      "title": "other",
+      "url": "/categories/other/",
+      "snippet": "Miscellaneous, communications, leaked documents, and unclassifiable items."
+    },
+    {
+      "title": "truth-claims",
+      "url": "/categories/truth-claims/",
+      "snippet": "Core truth claims of the LDS Church and critical examinations."
+    },
+    {
+      "title": "joseph-smith",
+      "url": "/categories/joseph-smith/",
+      "snippet": "Polygamy, seer stones, First Vision, treasure digging, folk magic, education, and intellectual background of Joseph Smith."
+    },
+    {
+      "title": "book-of-mormon",
+      "url": "/categories/book-of-mormon/",
+      "snippet": "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon."
+    },
+    {
+      "title": "sociology-and-psychology",
+      "url": "/categories/sociology-and-psychology/",
+      "snippet": "Sociological and psychological perspectives on LDS culture and belief."
     }
   ]
 }

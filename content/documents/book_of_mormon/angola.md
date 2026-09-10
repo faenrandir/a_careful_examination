@@ -1,11 +1,24 @@
 +++
 title = "Angola as a placename in the Book of Mormon"
 path = "/angola-as-placename-in-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "geography",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [Angola is a name uniquely out of place in the BoM](https://www.reddit.com/r/exmormon/comments/7g2y11/angola_is_a_name_uniquely_out_of_place_in_the_bom/)
 
 ---

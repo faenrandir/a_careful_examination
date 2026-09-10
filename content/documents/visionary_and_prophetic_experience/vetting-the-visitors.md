@@ -1,10 +1,22 @@
 +++
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [VERY ROUGH DRAFT]
 
 ## Draft outline

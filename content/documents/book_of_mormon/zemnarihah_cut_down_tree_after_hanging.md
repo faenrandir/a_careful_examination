@@ -1,11 +1,23 @@
 +++
 title = "Evaluating Zemnarihah's execution--is chopping down of the tree evidence favoring an ancient Book of Mormon?"
 path = "/zemnarihah-execution-cut-down-the-tree/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 There are at least two problems with viewing the ["chopping down the tree" story of Zemnarihah's execution](https://knowhy.bookofmormoncentral.org/content/why-did-the-people-cut-down-the-tree-after-hanging-zemnarihah) as evidence of an ancient origin for the Book of Mormon:
 
 1.  It's anachronistic, as far as we understand it.  As [stated by Welch](https://knowhy.bookofmormoncentral.org/content/why-did-the-people-cut-down-the-tree-after-hanging-zemnarihah) "Although the practice cannot be documented as early as the time of Lehi, Jewish practice shortly after the time of Christ expressly required that the tree upon which the culprit was hung had to be buried with the body."

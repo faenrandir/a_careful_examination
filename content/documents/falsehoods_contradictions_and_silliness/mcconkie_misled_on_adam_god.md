@@ -1,10 +1,22 @@
 +++
 title = "Bruce R. McConkie misled in public about the teaching of the Adam God theory"
 path = "/bruce-r-mcconkie-misled-on-adam-god/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In a private [letter to Eugene England](http://www.eugeneengland.org/a-professor-and-apostle-correspond-eugene-england-and-bruce-r-mcconkie-on-the-nature-of-god) written February 19, 1981, [McConkie stated](https://imgur.com/gallery/I0EerKb) (emphasis added):
 
 > **Yes, President Young did teach that Adam was the father of our spirits, and all the related things that the cultists ascribe to him. This, however, is not true. He expressed views that are out of harmony with the gospel.** But, be it known, Brigham Young also taught accurately and correctly, the status and position of Adam in the eternal scheme of things. What I am saying is that Brigham Young, contradicted Brigham Young, and the issue becomes one of which Brigham Young we will believe. The answer is we will believe the expressions that accord with the teachings in the Standard Works.

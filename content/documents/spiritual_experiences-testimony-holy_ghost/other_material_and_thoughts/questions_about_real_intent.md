@@ -1,10 +1,24 @@
 +++
 title = "5 Questions about spiritual experiences and real intent"
 path = "/5-questions-about-spiritual-experiences-and-real-intent/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "notes",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Modified from /u/jamesallred's post [here](https://www.reddit.com/me/m/ldsrelated/new/)
 
 1. When you say you know, what do you really mean?

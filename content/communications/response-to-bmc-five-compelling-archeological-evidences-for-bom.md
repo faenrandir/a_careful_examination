@@ -1,11 +1,23 @@
 +++
 title = "Response to Five Compelling Archeological Evidences For the Book of Mormon"
 path = "/response-to-bmc-five-compelling-archeological-evidences-for-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 Book of Mormon Central recently posted [Five Compelling Archeological Evidences For the Book of Mormon](https://bookofmormoncentral.org/blog/five-compelling-archeological-evidences-for-the-book-of-mormon).  Without going into much depth on every point, I offer up a few counter arguments or resources that might be helpful for putting each evidence in proper context.

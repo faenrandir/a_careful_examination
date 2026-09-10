@@ -1,11 +1,25 @@
 +++
 title = "Arguing that Joseph Smith did practice polygamy"
 path = "/arguing-that-joseph-smith-did-practice-polygamy/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+    "short-analysis",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [very rough draft]
 
 ## Introduction

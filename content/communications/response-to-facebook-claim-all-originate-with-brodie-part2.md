@@ -1,10 +1,24 @@
 +++
 title = "Response to claim that all originate with Brodie, pt 2, assumptions"
 path = "/response-to-facebook-claim-all-originate-with-brodie-pt2-assumptions/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Thank you for the thoughtful response and reading through some of the documents I posted.
 
 > True that my choice of the word ‘originate’ is incorrect. The original claims of the Book of Mormon being written by Joseph Smith were from critics during his lifetime. 

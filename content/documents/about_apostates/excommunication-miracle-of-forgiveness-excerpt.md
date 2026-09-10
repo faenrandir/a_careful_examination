@@ -1,11 +1,22 @@
 +++
 title = "Spencer W. Kimball on the effects of Excommunication"
 path = "/spencer-w-kimball-on-effects-of-excommunication/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "excerpt",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 When Spencer W. Kimball wrote these statements, they would have applied equally to a member of the Church who was resigning their membership since the only way to resign at that time was via excommunication.[^name_removal_same_as_excommunication]

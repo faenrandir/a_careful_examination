@@ -1,10 +1,23 @@
 +++
 title = "Mixed messages on working outside the home"
 path = "/mixed-messages-on-working-outside-the-home/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Women have received mixed messages over time about the relative importance/evil of working outside the home.
 
 Brigham Young:

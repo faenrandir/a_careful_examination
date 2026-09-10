@@ -1,11 +1,23 @@
 +++
 title = "Stories of Acceptance"
 path = "/faith-transition-stories-of-acceptance/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["anecdotal"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Many believing members are supportive of those who decide to leave the LDS Church.
 
 ### Supported her

@@ -1,11 +1,24 @@
 +++
 title = "Those who knew about plural marriage but not sealed"
 path = "/knew-about-plural-marriage-but-not-sealed/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "joseph-smith",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Joseph Bates Noble was in Joseph Smith's inner circle (helped dress/bury him and Hyrum), a member of the First Quorum of the Seventy, was the Bishop of Joseph Smith's ward in Nauvoo, and was the person Joseph asked to officiate for one of the earliest plural marriages to Noble's sister-in-law, Louisa Beaman.[^sources]  He was married to [Mary Adeline Beman](https://www.familysearch.org/tree/person/details/KWJ6-1HN).  Apparently, Joseph was not concerned that Joseph be sealed to Mary (I cannot find a record of their sealing).
 
 To my knowledge, none of these couples were sealed in Nauvoo.  Why was Joseph unconcerned that these faithful members be sealed?  Was the sealing to Joseph Smith the only sealing that really mattered?

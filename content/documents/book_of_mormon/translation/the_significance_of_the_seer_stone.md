@@ -1,11 +1,26 @@
 +++
 title = "The significance of the seer stone for LDS truth-claims"
 path = "/the-significance-of-the-seer-stone/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "seer-stones",
+    "short-analysis",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = true
+importance = 10
 
 +++
+
 ## Introduction
 
 The Gospel Topics essay [Book of Mormon Translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng) suggests that some significant number of those who are critical of LDS truth-claims do so because they question that God would use such an instrument.[^other_examples]  The essay states:

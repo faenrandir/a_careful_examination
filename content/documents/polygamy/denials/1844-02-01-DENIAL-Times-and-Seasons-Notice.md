@@ -1,11 +1,24 @@
 +++
 title = "Time and Seasons February 1, 1844 Notice"
 path = "/times-and-seasons-feb1-1844-notice/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "joseph-smith",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 * [Times and Seasons Vol 5 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375) no 3.
 * [pg 423 (standalone PDF)](/documents/polygamy/denials/originals/1844-02-01-Times-and-Seasons-Notice.pdf)
 

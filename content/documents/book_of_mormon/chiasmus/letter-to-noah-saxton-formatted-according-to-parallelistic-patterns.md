@@ -1,11 +1,24 @@
 +++
 title = "Joseph Smith January 4, 1833 letter to Noah Saxton formatted according to parallelistic patterns"
 path = "/js-1833-01-04-letter-to-saxton-formatted-parallelistic/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+    "book-of-mormon",
+    "joseph-smith",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [draft]
 
 ### Introduction

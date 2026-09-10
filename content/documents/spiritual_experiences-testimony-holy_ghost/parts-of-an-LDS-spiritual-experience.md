@@ -1,10 +1,23 @@
 +++
 title = "The parts of an LDS spiritual experience"
 path = "/parts-of-an-lds-spiritual-experience/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The Church of Jesus Christ of Latter-day Saints teaches that the Holy Ghost (aka the Spirit) is central to understanding truth.[^understanding_truth] Knowledge gained by the Holy Ghost is considered the foundation of a testimony, which is, [according to Elder Dallin H. Oaks](https://www.churchofjesuschrist.org/general-conference/2008/04/testimony?lang=eng), a “personal witness borne to our souls by the Holy Ghost that certain facts of eternal significance are true and that we know them to be true.”

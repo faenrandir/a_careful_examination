@@ -1,10 +1,22 @@
 +++
 title = "Test for disembodied consciousness"
 path = "/test-for-disembodied-consciousness/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## The Test
 
 The [The Handbook of Near-Death Experiences: Thirty Years of Investigation](https://www.goodreads.com/book/show/6536319-the-handbook-of-near-death-experiences) details an experimental protocol to test for disembodied consciousness, otherwise known as "apparently nonphysical veridical perception" (as quoted [here](https://www.theatlantic.com/magazine/archive/2015/04/the-science-of-near-death-experiences/386231/)):

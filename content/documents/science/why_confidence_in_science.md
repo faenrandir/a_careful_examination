@@ -1,10 +1,22 @@
 +++
 title = "Why we have confidence in science"
 path = "/why-we-have-confidence-in-science/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [rough draft]
 
 There are many potential knowledge yielding systems, each of which begin with certain premises, and at least some of those premises are untestable.  For instance, the scientific method itself cannot be verified with the scientific method.

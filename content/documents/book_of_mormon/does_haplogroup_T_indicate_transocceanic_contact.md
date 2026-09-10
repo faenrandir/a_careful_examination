@@ -1,11 +1,24 @@
 +++
 title = "Does Haplogroup T indicate transoceanic contact?"
 path = "/does-haplogroup-t-indicate-transoceanic-contact/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "dna",
+    "notes",
+    "scholarship",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Donald Yates claims in [Anomalous Mitochondrial DNA Lineages in the Cherokee](https://www.academia.edu/9494507/Anomalous_Mitochondrial_DNA_Lineages_in_the_Cherokee) (self published in Cherokee DNA Studies: Real People Who Provied the Geneticists wrong) that a significant portion of Cherokee contain haplogroup T and because of the step-wise nature of the group, that this is evidence of a transoceanic dispersal.
 
 There are a few problems with this claim:

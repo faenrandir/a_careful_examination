@@ -1,10 +1,22 @@
 +++
 title = "Beit-Hallahmi on the lessons of history argument"
 path = "/beit-hallahmi-on-the-lessons-of-history-argument/"
-updated = "2026-09-09"
-taxonomies.doctype = ["book-exerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-excerpt",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Quoting Bejamin Beit-Hallahmi's textbook [Psychological Perspectives on Religion and Religiosity](https://www.amazon.com/Psychological-Perspectives-Religion-Religiosity-Beit-Hallahmi/dp/0415682878), pages 131-132.
 
 ### The lessons of history argument

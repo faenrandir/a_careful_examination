@@ -1,10 +1,24 @@
 +++
 title = "Chronology: “You can leave but you can't leave it alone”"
 path = "/chronology-cant-leave-it-alone/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "joseph-smith",
+    "scholarship",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [pre-draft form]
 
 ## Introduction

@@ -1,11 +1,22 @@
 +++
 title = "Examples to avoid or discourage consulting unapproved sources"
 path = "/examples-discouraging-unapproved-sources/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["truth-claims"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [DRAFT]
 
 ## Encourage outside sources

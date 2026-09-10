@@ -1,10 +1,22 @@
 +++
 title = "Response to representations of former members in the April 2020 General Conference"
 path = "/response-to-april-2020-general-conference/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 #### Introduction
 
 I don't follow general conference too closely anymore, but I do hear about talks that refer to or are addressed to former members in some way.[^source]

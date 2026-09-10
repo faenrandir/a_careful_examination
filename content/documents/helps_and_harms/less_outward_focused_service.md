@@ -1,10 +1,22 @@
 +++
 title = "Most LDS service inwardly focused"
 path = "/most-lds-service-inwardly-focused/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From [Without faith-based work, Provo and Utah not so high in volunteerism, study says](http://www.heraldextra.com/news/local/central/provo/without-faith-based-work-provo-and-utah-not-so-high/article_c823734f-ce16-5cc5-96af-487174ebc7ac.html)
 
 h/t /u/Apricot-tree [here](https://www.reddit.com/r/exmormon/comments/7ifp1j/talking_to_my_brother_who_claims_that_tbms/)

@@ -1,11 +1,24 @@
 +++
 title = "Sealing for eternity only"
 path = "/sealing-for-eternity-only/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "notes",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Ruth Vose Sayers
 
 ### 1869 Affidavit - "married or Sealed"

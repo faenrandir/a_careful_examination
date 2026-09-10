@@ -1,11 +1,23 @@
 +++
 title = "Charles Anthon's Proper Names and the Book of Mormon"
 path = "/charles-anthon-proper-names-and-the-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "compilation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 The likelihood of matches like these _at random_ between a work as large as Anthon's and the Book of Mormon is high and there is no evidence that Joseph ever even looked at a book like this (although he seems to have [been aware of Anthon](https://www.josephsmithpapers.org/person/charles-anthon)).  Still, this provides one reasonable source at the right time and place for many of the 'kinds' of names that appear in the Book of Mormon.
 
 1. [Memnon](https://archive.org/stream/1827classicaldic00lempuoft#page/n3/mode/2up/search/Memnon) → Mormon?

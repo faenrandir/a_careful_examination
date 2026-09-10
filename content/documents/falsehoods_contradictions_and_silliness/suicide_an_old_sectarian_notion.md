@@ -1,10 +1,22 @@
 +++
 title = "Suicide and hell: an old sectarian notion?"
 path = "/suicide-an-old-sectarian-notion/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 This article discusses suicide and some potentially disturbing doctrinal statements about suicide.  If you are feeling suicidal, please call a suicide prevention lifeline, such as the National Suicide Prevention Lifeline at 1-800-273-8255.
 
 ---

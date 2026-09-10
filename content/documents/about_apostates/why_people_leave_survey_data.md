@@ -1,11 +1,23 @@
 +++
 title = "Why do people leave the LDS Church?"
 path = "/why-do-people-leave-the-lds-church/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "faith-transition",
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Why are people leaving?
 
 * [2013 report, account, and presentation on LDS Faith Crises](/2013-faith-crisis-study/) (Greg Prince, John Dehlin, Travis Stratford and others created report presented to LDS leadership)

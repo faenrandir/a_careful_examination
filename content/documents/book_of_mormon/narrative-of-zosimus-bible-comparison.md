@@ -1,10 +1,24 @@
 +++
 title = "Comparison of the Narrative of Zosimus with the Bible"
 path = "/narrative-of-zosimus-bible-comparison/"
-updated = "2026-09-09"
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+    "book-of-mormon",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch's original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:
 
 _Please make two columns. On the left, the entire text that I'm pasting in, in reasonable thematic chunks for comparison. On the right, please include the bible reference and text for the bible verses that are most similar to the text I have input. The final output should be markdown formatted code._

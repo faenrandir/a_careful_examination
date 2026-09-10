@@ -1,11 +1,23 @@
 +++
 title = "1825 Anti-theist rhetoric: “A Second Call to Unbelievers”"
 path = "/a-second-call-to-unbelievers-1825/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 A letter from a "Shenago" to the Republican (a London periodical) in 1825 is reminiscent of the kinds of rhetoric and arguments employed by the character Korihor from the Book of Mormon (see [Alma 30](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng)).

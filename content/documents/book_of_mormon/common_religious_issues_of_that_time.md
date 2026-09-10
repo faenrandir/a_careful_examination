@@ -1,11 +1,24 @@
 +++
 title = "Common religious issues being discussed in an 1824 publication also found in the Book of Mormon"
 path = "/common-religious-issues-1824-the-christian-quaker-and-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "notes",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In discussing the idea of revelation and whether perfection is attainable, the authors of the book [The Christian Quaker, and his divine testimony stated and vindicated](https://archive.org/embed/christianquakerh00penn), published in Philadelphia in 1824, rhetorically point to disagreements among Christians at that time ([page 289](https://archive.org/details/christianquakerh00penn/page/288/mode/2up?q=devil)):
 
 > Nay, further, do you not much differ among yourselves in several principal matters? As about personal election, and general redemption, and so about the death of Christ, whether for all, or some, and about free will, the seventh-day sabbath, and laying on of hands, and about the manner of administering your pretended Lord's supper, and about the immortality of the soul: some also affirming water baptism to be of necessity to salvation, others not, with several other things ; and yet most of you that thus differ, profess the scriptures to be your rule. If then I should from hence argue, that therefore the scriptures are not the rule, because you that profess them to be so, are repugnant one to another, thou wouldst readily reflect absurdity upon me, though to the undermining of thy own cause. ...

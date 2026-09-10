@@ -1,11 +1,26 @@
 +++
 title = "Helen Mar Kimball Whitney 1881 Autobiography"
 path = "/helen-mar-kimball-whitney-1881-autobiography/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "joseph-smith",
+    "polygamy",
+    "temple",
+    "testimony",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Background
 
 From [Jeni Broberg Holzapfel and Richard Neitzel Holzapfel, eds., A Woman’s View: Helen Mar Whitney’s Reminiscences of Early Church History (Provo, UT: Religious Studies Center, Brigham Young University, 1997), 481–487](http://web.archive.org/web/20181004234644/https://rsc.byu.edu/archived/womans-view-helen-mar-whitneys-reminiscences-early-church-history/11-appendix-one):

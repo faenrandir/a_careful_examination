@@ -1,11 +1,24 @@
 +++
 title = "Millenial Star - Who is the Liar?"
 path = "/millenial-star-1850-who-is-the-liar/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "joseph-smith",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 * [Millenial Star Vo. 12, 1850](http://contentdm.lib.byu.edu/cdm/ref/collection/MStar/id/2051) no. 2
 * [pg 29-31 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/ac70e2248f686ff039f6dce0dd93a987d5f45a15/documents/polygamy/denials/originals/1850-01-15-ThomasSmith-MillenialStar-WhoIsTheLiar.pdf)
 

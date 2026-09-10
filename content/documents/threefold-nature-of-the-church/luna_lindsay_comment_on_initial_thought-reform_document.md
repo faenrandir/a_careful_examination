@@ -1,10 +1,22 @@
 +++
 title = "Luna Lindsey on polarization of cultic studies"
 path = "/luna-lindsey-on-polarization-of-cultic-studies/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 > Hi! Luna Lindsey here. Great stuff. I’m glad that my work is reaching people and inspiring people to do their own writing on the topic. ^\_^ I hope you keep at it.
 
 > I’d like to point out that the field is not actually polarized, and there is a great deal of consensus. I’m a member of the International Cultic Studies Association, receive their publications, and have been to their conferences. Lifton’s work is not controversial, and has only been built upon since by these researchers.

@@ -1,11 +1,24 @@
 +++
 title = "Solomon Spaulding 'Manuscript Found' box excerpt"
 path = "/solomon-spaulding-manuscript-found-box-excerpt/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "excerpt",
+    "priesthood-ban",
+    "race",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From the introduction (Chapter 1) of [Manuscript Found](https://archive.bookofmormoncentral.org/content/manuscript-found-complete-original-spaulding-manuscript)[^no_literary_dependence]:
 
 > Near the west Bank of the Coneaught River there are the remains of an ancient fort. As I was walking and forming vario\[us\] conjectures respecting the character situatuation & numbers of those people, who far exceeded the present race of Indians in works of art & inginuety I hapned to tread on a flat stone. This was \<at\> a small distance from the fort; & it lay on the top of a smal\[l\] mound of Earth exactly horizontal-The face of it had a singular appearance. I discovered a number of characters which appeared to me to be letters-but so much effaced by the ravages of time, that I could not read the inscription.  With the assistance of a leaver I raised the stone- But you may easily conjecture my astonishmen\[t\] when I discovered that ttt its ends & sides it \[rJested on stones & that it was designed \[-]\ a cover to an artificial Cave.-1 found\[-\] examining that its sides were lined with \[-1 built in a connical form with 1.-\] down-& that it was abou\[t\] \[p. 2\] \[e\]ight feet deep- Determined to investigate~ design of this extraordinary work of antiquity-I prepared myself with necesary requisites for that purpose & decended to thf el Bottom of the Cave- Observing one side to be bttttt \<perpendicular\> nearly three feet from the bottom, I began to inspect that part with accuracy; Here I noticed a big fla\[t\] stone fixed in the form of a doar, I imm\[e\]diatly tore it down & Lo a cavity wit\[h\]in the wall presented itself-it being about three feet in diamiter from side to side & about two feet high Within this cavity I found an earthan Box with a B6't \<cover\> which shut it perfect\[ly\] tite- The Box was two feet in length one & half in breadth & one & three inche\[s\] in diameter. My mind filled with awful sensations which crowded fast upon me would hardly permit my hands to remove this venerable deposit, but curiosity soon gained the assendan\[- -\] the box was taken & raised to open\[-\] When I had removed the Cover I f\[ound\] that it contained twenty eig\[ht -J of parchment. & that when \[ - -\] \[p. 3\] appeared to be manuscri ps written in eligant hand with Roman Letters & in the Latin Language.  They were written on a variety of Subjects. But the Roll whic\[h\] principally attracted \<my attention\> contained a history of the authors life & that part of America which extends along the gr\<e\>at Lakes & the waters of the Mississppy.

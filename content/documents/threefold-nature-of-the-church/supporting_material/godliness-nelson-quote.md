@@ -1,10 +1,22 @@
 +++
 title = "Example of totalistic attitude: accomplishments only important if building kingdom"
 path = "/accomplishments-only-important-if-building-kingdom/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 An example of totalistic attitude
 
 [These … Were Our Examples](https://www.churchofjesuschrist.org/general-conference/1991/10/these-were-our-examples?lang=eng) (Russell M. Nelson, October 1991 GC)

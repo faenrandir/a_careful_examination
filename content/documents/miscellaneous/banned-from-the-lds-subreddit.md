@@ -1,10 +1,22 @@
 +++
 title = "bwv549 banned from the lds subreddit"
 path = "/bwv549-banned-from-the-lds-subreddit/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## The context
 
 On Tuesday November 30, 2021 `dice1899` posted another part of her rebuttal to the CES Letter ([part 44, section

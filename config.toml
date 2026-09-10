@@ -23,8 +23,8 @@ feed_filenames = ["atom.xml"]
 
 # Taxonomies for categorization (replaces Jekyll categories)
 taxonomies = [
-    {name = "maintopic", feed = true},
-    {name = "doctype", feed = true},
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
 ]
 
 # Markdown processing settings
@@ -39,3 +39,16 @@ enabled = true
 # Link checker - skip internal anchor checks (Zola slugifies differently from Jekyll)
 [link_checker]
 skip_prefixes = ["#"]
+
+# Category descriptions for homepage
+[extra.categories]
+book-of-mormon = "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon."
+joseph-smith = "Polygamy, seer stones, First Vision, treasure digging, folk magic, education, and intellectual background of Joseph Smith."
+lds-history-leadership = "Prophets, priesthood/temple ban, historical statements and reversals, predictions, transparency, and institutional behavior."
+doctrine-teachings = "Revelation/testimony epistemology, God/scripture/salvation, temple/priesthood, family/gender/sexuality, Word of Wisdom, morality, science/evolution."
+faith-transitions = "Why people leave, treatment of former members, faith crisis research, testimony/spiritual experiences, mixed-faith relationships, communication with family."
+apologetics-responses = "General apologetic methods, specific responses to LDS truth claims, FairMormon/Evidence Central arguments, and critical responses."
+research-primary-sources = "Transcripts, quotations, historical documents, scholarly excerpts, tables/datasets/surveys, and external resources."
+social-moral-issues = "Race, LGBTQ issues, gender, sexuality, family, and institutional harm/coercion."
+personal-reflections = "Personal history, beliefs, chronologies, essays, and reflections."
+other = "Miscellaneous, communications, leaked documents, and unclassifiable items."

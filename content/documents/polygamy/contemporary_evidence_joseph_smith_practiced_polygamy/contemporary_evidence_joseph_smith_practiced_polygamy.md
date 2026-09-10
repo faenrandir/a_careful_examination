@@ -1,11 +1,24 @@
 +++
 title = "Contemporary evidence that Joseph Smith practiced polygamy"
 path = "/contemporary-evidence-that-joseph-smith-practiced-polygamy/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 > **Editor's note:** For a comprehensive, source-level chart of the contemporary documents that support (and contradict) the claim that Joseph Smith practiced polygamy, see [Cheryl L. Bruno's contemporary sources chart](/bruno-contemporary-sources-for-js-polygamy/).
 
 ### Introduction

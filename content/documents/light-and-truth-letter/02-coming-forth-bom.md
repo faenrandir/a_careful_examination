@@ -1,10 +1,24 @@
 +++
 title = "Light and Truth Response pt 2: The Coming Forth of the Book of Mormon"
 path = "/response-to-light-and-truth-letter-coming-forth-bom/"
-updated = "2026-09-09"
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+    "book-of-mormon",
+    "joseph-smith",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Responding to The Coming Forth of the Book of Mormon as [captured on 2024-09-29](https://web.archive.org/web/20240926134227mp_/https://www.lightandtruthletter.org/letter/book-of-mormon/the-coming-forth-of-the-bom).
 
 [very rough draft]

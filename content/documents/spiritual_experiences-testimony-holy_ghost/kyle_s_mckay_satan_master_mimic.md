@@ -1,10 +1,22 @@
 +++
 title = "Kyle S. McKay letter excerpt on spiritual experiences"
 path = "/kyle-s-mckay-letter-excerpt-on-spiritual-experiences/"
-updated = "2026-09-09"
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "excerpt",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Context
 
 A former seminary teacher, identifying as "Joe", [explained the context of the exchange](https://web.archive.org/web/20230610195057/https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2023/06/In-Defense-of-Doubt-Final.pdf)

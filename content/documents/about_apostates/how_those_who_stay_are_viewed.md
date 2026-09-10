@@ -1,11 +1,24 @@
 +++
 title = "Attitude towards those who do not believe but stay"
 path = "/how-those-who-stay-are-viewed/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+    "first-vision",
+    "gender",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [Need to add in discussion of Holland about those who do not believe but stay, which is friendly]
 
 Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.[^fromtruthwillprevail]  These people are sometimes referred to as "wolves in sheeps clothing".

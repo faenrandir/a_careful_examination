@@ -1,10 +1,25 @@
 +++
 title = "Resources related to non gender-binary"
 path = "/resources-related-to-non-gender-binary/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "lgbt",
+    "notes",
+    "sexuality",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Quick
 
 * [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)

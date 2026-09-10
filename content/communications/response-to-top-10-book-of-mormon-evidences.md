@@ -1,9 +1,22 @@
 +++
 title = "Response to Top 10 Book of Mormon Evidences"
 path = "/response-to-top-10-bom-evidences/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 * [Updated response to "Top 10 Book of Mormon Evidences" by Jamie Huston](https://www.reddit.com/r/mormonscholar/comments/d88sw6/updated_response_to_top_10_book_of_mormon/)
 * Originally discussed at mormonscholar [here](https://www.reddit.com/r/mormonscholar/comments/8ip30l/top_10_book_of_mormon_evidences_by_gently_hew/).

@@ -1,11 +1,22 @@
 +++
 title = "Confidence faith vs. religious faith: personal reflections on faith, hope, and love"
 path = "/faith-vs-religious-faith/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith"]
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### What is faith?
 
 When I talk about "faith" I mean: trust, reliance, confidence, or conviction.[^other_faith_definitions]  This is also how Paul seemed to define faith [in Hebrews 11](https://www.biblegateway.com/passage/?search=Hebrews+11%3A1&version=KJV): "Now faith is the substance of things hoped for, the evidence of things not seen."  We have faith (aka trust) in things we cannot directly observe or control.  It goes without saying that our predictions of all future events and the grounding of all our actions is in this kind of faith.

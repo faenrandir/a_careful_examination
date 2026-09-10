@@ -1,11 +1,24 @@
 +++
 title = "A short critique of discovered metal tablets as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-metal-tablets-as-evidence-for-bom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "archaeology",
+    "book-of-mormon",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 The discovery of [metal plates in the ancient world](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Metal_plates_in_Mormon_studies) lends some significant credibility to the authenticity of the Book of Mormon narrative, which describes [a variety of metal plates used in the Old World and the New](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement_and_engraved_metal_plates#Other_plates_referred_to_in_the_Book_of_Mormon).  However, in a few ways there is still room to question whether what has been found fits especially well with what was described in relation to the Book of Mormon.
 
 ## Current parallels with the ancient world are lacking

@@ -1,11 +1,23 @@
 +++
 title = "Jonathon Streeter's racism apology Mormon Newsroom hoax"
 path = "/streeters-racism-apology-mormon-newsroom-hoax/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["race-and-priesthood"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 In May of 2018, as LDS leaders were about to meet with NAACP leaders, a fake Mormon Newsroom release was made that closely mimicked the look and feel of the actual Mormon Newsroom.  The release included a (fake) letter from the First Presidency formally apologizing for its racist teachings and the Priesthood/temple ban.

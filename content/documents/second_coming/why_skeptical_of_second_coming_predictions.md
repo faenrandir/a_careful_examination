@@ -1,10 +1,22 @@
 +++
 title = "Reasons for skepticism of second coming predictions"
 path = "/reasons-for-skepticims-of-second-coming-predictions/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [work in progress]
 
 ### Introduction

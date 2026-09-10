@@ -1,11 +1,22 @@
 +++
 title = "Proposed survey on divine manifestations"
 path = "/proposed-survey-divine-manifestations/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["manifestations"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 This is a survey I designed and began to administer.  Unfortunely, change in employment prevented me from conducting the survey.  Nonetheless, the kinds of questions being asked should give researchers a better understanding of the objective/subjective nature of purported divine manifestations.

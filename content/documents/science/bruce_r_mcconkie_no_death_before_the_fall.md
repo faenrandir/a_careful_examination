@@ -1,10 +1,22 @@
 +++
 title = "Bruce R. McConkie taught 'No Death Before the Fall"
 path = "/brm-taught-ndbf/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 https://www.churchofjesuschrist.org/general-conference/1977/04/come-know-the-lord-jesus?lang=eng
 
 > In due course came Adam and Eve; the fall of man, with its temporal and

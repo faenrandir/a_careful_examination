@@ -1,10 +1,23 @@
 +++
 title = "Highlights from recently leaked documents (2017)"
 path = "/highlights-from-recently-leaked-documents-2017/"
-updated = "2026-09-09"
-taxonomies.doctype = ["summary"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "lgbt",
+    "sexuality",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## No SSA missionaries allowed 
 
 From [Jan 8, 2016 Area Council Meeting Minutes](https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf):

@@ -1,10 +1,23 @@
 +++
 title = "Lester Bush's research on the priesthood/temple ban was discouraged"
 path = "/lester-bush-research-on-priesthood-ban-discouraged/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+    "temple",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Lester Bush [described the attitude of LDS leadership and the difficulties in performing research](https://www.jstor.org/stable/23287744) for his essay "Mormonism's Negro Doctrine":[^mormonisms_negro_doctrine]
 
 > In attempting to gain access to some materials in the Church Historian’s Office, I was required to meet with its head, ninety-two-year-old Apostle Joseph Fielding Smith.  His main points in our interview were that the work on blacks and the priesthood already had been done (i.e., his own work), and that the Church didn’t want every “Tom, Dick, or Harry” looking through its records. Naively—and armed with my temple recommend—I said I didn’t think I was any “Tom, Dick, or Harry.” He replied, with a smile, that they didn’t want any “Tom, Dick, or Bob” either.

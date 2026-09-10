@@ -1,10 +1,22 @@
 +++
 title = "Healings: Comparing James and Albert Talmage's stories"
 path = "/healings-comparing-james-and-albert-talmage-stories/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Compare the story of James Talmage (some molten metal splashed into his eye, and his eye eventually healed after doctors removed all the slag---his sight was "preserved") with his brother Albert who lost one eye completely (removed) and was blinded by a pitchfork and, despite many blessing from Apostles and Prophets, never had his sight restored.
 
 From [Faith to Heal and to Be Healed: Insights Drawn from Inspirational Accounts of Faith, Blessing the Sick, and Healing](https://books.google.com/books/about/Faith_to_Heal_and_to_Be_Healed.html?id=ROp_24jZV5kC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)

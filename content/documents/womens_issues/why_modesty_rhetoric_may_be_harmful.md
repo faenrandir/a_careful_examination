@@ -1,10 +1,23 @@
 +++
 title = "Why modesty rhetoric may be harmful"
 path = "/why-modesty-rhetoric-may-be-harmful/"
-updated = "2026-09-09"
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "list-of-resources",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Links
 
 * http://www.patheos.com/blogs/unfundamentalistchristians/2015/07/why-we-shouldnt-say-modest-is-hottest/

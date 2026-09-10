@@ -1,11 +1,25 @@
 +++
 title = "Similar First Vision accounts"
 path = "/similar-first-vision-accounts/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["first-vision"]
-taxonomies.doctype = ["links"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "first-vision",
+    "joseph-smith",
+    "list-of-resources",
+    "scholarship",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Theophanies similar in some regards to the one Joseph would record [in his journal in 1832](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1), conveyed to Robert Matthews (aka "Matthias") [in 1835](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/24), and elaborate on [in 1838](https://www.josephsmithpapers.org/paper-summary/history-circa-june-1839-circa-1841-draft-2/2) were somewhat common in the religious literature preceding Joseph's first written account.

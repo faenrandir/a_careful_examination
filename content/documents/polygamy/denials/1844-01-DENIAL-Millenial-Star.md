@@ -1,11 +1,23 @@
 +++
 title = "1844 Millenial Star polygamy denial"
 path = "/1844-millenial-star-polygamy-denial/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+    "polygamy",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 * [January 1844 Millenial Star magazine (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4)
 * [The editorial section (standalone PDF)](/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):
 

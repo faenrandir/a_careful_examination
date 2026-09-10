@@ -1,11 +1,20 @@
 +++
 title = "Outline of my beliefs"
 path = "/summary-of-my-beliefs/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["my-beliefs"]
-taxonomies.doctype = ["simple-outline"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = []
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Here is a basic summary of my beliefs in my own words.  My beliefs can be subdivided into three categories: the importance of good models, agency and morality, and living well.
 
 ## The Importance of Good Models

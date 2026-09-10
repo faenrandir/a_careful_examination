@@ -1,10 +1,22 @@
 +++
 title = "Ellipsis in tithing statement of the 2013 Lorenzo Snow manual"
 path = "/ellipsis-in-lorenzo-snow-tithing-statement/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Lorenzo Snow originally taught during [October 1899 General Conference](https://archive.org/details/conferencereport1899sa/page/28/mode/2up) (emphasis added):
 
 > ... I plead with you in the name of the Lord, and I pray that every man, woman and child **who has means** shall pay one-tenth of their income as a tithing. ...

@@ -1,10 +1,22 @@
 +++
 title = "The logic of our family interview policy"
 path = "/logic-family-interview-policy/"
-updated = "2026-09-09"
-taxonomies.doctype = ["analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *Background: I originally posted a comment on /r/latterdaysaints about [our family ecclesiastical interview policy](https://www.reddit.com/r/latterdaysaints/comments/3h7nb1/our_family_ecclesiastical_interview_policy_a/).  It was met with [some resistance](https://www.reddit.com/r/latterdaysaints/comments/3h7nb1/our_family_ecclesiastical_interview_policy_a/cu4zrke/), so I wrote out my logic [here](https://www.reddit.com/r/latterdaysaints/comments/3hehbx/formalization_of_the_logic_behind_our_family/).  The post was shadowbanned by latterdaysaint mods (which means they deleted it without informing me it was deleted).  Then, I submitted the post to r/exmormon  [here](https://www.reddit.com/r/exmormon/comments/43xbfh/formalization_of_the_logic_behind_family/).  I formulated this logic, which was influenced by lots of stories and stances shared on /r/exmormon, a couple of years before the [protectldschildren](https://protectldschildren.org/) campaign began.*
 
 Our family policy, which I think should be adopted at a church-wide level is:

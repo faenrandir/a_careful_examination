@@ -1,10 +1,22 @@
 +++
 title = "Unpaid clergy anecdotes"
 path = "/unpaid-clergy-anecdotes/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### LDS Living Article
 
 The LDS Living article [10 Reasons You Should Be Mormon](http://www.ldsliving.com/10-Reasons-You-Should-Be-a-Mormon/s/80340) initially ran with this statement:

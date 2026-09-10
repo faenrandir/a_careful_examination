@@ -1,11 +1,25 @@
 +++
 title = "Pre-1830 teachings of felix culpa (fortunate fall)"
 path = "/pre-1830-felix-cupa-fortunate-fall/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "compilation",
+    "joseph-smith",
+    "scholarship",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 In support of the idea that the doctrines contained in the Book of Mormon must have been from a divine source because they were not taught in Joseph Smith's contemporary Christianity, [Tad Callister argued](https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/):

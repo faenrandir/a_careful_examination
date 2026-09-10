@@ -1,10 +1,22 @@
 +++
 title = "A response to Mark S. Palmer's April 2025 General Conference ‘Willow’ talk"
 path = "/response-to-mark-palmer-april-2025-willow-talk/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 [Elder Mark S. Palmer’s April 2025 General Conference talk](https://www.youtube.com/watch?v=YygKh4dIsXw) was addressed to those who have stepped away from The Church of Jesus Christ of Latter-day Saints. In many ways, the talk is beautiful—marked by compassion and a sincere spirit of invitation. Through metaphor and anecdote, Elder Palmer seeks to offer hope and spiritual renewal to those considering a return. At the same time, his framing—though pastorally delivered—reflects institutional assumptions about what it means to be “rooted,” “lost,” or “healed.” In a spirit of respectful engagement, this response affirms the talk’s sincerity while offering counterpoints drawn from the experiences of many former members, including alternative understandings of spiritual growth, belonging, and the ethical and conscientious reasons people leave the LDS faith.

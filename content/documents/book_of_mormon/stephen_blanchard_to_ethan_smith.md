@@ -1,11 +1,22 @@
 +++
 title = "Letter from Stephen Blanchard to Ethan Smith"
 path = "/letter-from-stephen-blanchard-to-ethan-smith/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "excerpt",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Below is a partial transcript of a letter preached in 1816 and published in Concord in 1817 from Stephen Blanchard to Ethan Smith, The Congregationalist Minister In Hopkinton, N. H., taken from Rick Grunder's [Mormon Parallels](http://www.rickgrunder.com/parallels.htm) (which includes commentary and additional document information).  For commentary, see Grunder.  I have added headings to organize the content, following roughly after Grunder's commentary.
 
 ### Arguments against Infant Baptism

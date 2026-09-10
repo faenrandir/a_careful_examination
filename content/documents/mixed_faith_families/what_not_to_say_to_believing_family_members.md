@@ -1,11 +1,23 @@
 +++
 title = "What NOT to say to your LDS believing family members"
 path = "/julie-hanks-facebook-what-not-to-say-to-believers/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 In [this facebook post](https://www.facebook.com/photo?fbid=2625144390851853&set=a.236681833031466), Dr. Julie Hanks suggested that these are things NOT to say to your believing family members after leaving the Church (even if you believe them to be true):
 
 1. You’re being lied to.

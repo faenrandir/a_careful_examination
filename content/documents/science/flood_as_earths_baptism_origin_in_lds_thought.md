@@ -1,10 +1,22 @@
 +++
 title = "The Flood as the Earth's Baptism: origin in LDS thought"
 path = "/flood-as-baptism-origin-in-LDS-thought/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Foreword
 
 Shortly after I posted this analysis to reddit, an article on the topic was published by Paul Hoskisson and Stephen Smoot: [Was Noah’s Flood the Baptism of the Earth?](https://rsc.byu.edu/es/archived/let-us-reason-together/was-noah-s-flood-baptism-earth).  They pushed the earliest known usage back to W.W. Phelps. in 1835.  They confirm that the idea of the flood as Earth's baptism was taught fairly widely in Protestantism and the role that Orson Pratt may have had in promulgating the idea among Latter-day Saints.[^pratt_taught_it_multiple_times] The research presented below compliments their work since it is not clear where Pratt was first exposed to the idea and this demonstrates penetrance of the idea in sources that Pratt might have been exposed to.

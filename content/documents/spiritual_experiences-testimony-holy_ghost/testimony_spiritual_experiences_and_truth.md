@@ -2,12 +2,24 @@
 title = "Testimony, spiritual experiences, and truth: A careful examination"
 path = "/testimony-spiritual-experiences-truth/"
 toc = "true"
-extra = {featuredimage = "/media/a-crater-lake.jpg"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["truth-claims"]
-taxonomies.doctype = ["resource"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/a-crater-lake.jpg"
+type = "resource"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "truth-claims",
+]
+tags = [
+    "resource",
+    "testimony",
+]
 
 +++
+
 # Introduction
 
 ## Know the truth of all things

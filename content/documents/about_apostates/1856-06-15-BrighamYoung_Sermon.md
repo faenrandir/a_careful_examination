@@ -1,11 +1,22 @@
 +++
 title = "Never love your wives one hair's breadth further than they adorn the Gospel"
 path = "/never-love-wives-more-than-they-adorn-gospel/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["historical-resource"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-resource",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [Journal of Discourses vol 3, pg 360--361](http://jod.mrm.org/3/354)
 
 A Discourse by President Brigham Young, Delivered in the Bowery, Great Salt Lake City, June 15, 1856.

@@ -1,10 +1,22 @@
 +++
 title = "The Spirit of Discernment"
 path = "/the-spirit-of-discernment/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The spirit of discernment is considered a "gift of the spirit" which allows

@@ -1,10 +1,22 @@
 +++
 title = "Example of invasive interview: facebook stalking"
 path = "/example-of-invasive-interview-facebook-stalking/"
-updated = "2026-09-09"
-taxonomies.doctype = ["anecdotal"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Some interviews in the LDS Church may become highly invasive.
 
 One former Mormon [described their experience](https://www.reddit.com/me/m/ldsrelated/new/).  They had a girlfriend who had slept with other boys but not this particular boy.  The boy moved to Utah, and eventually the girl confessed and blamed it on this boy:

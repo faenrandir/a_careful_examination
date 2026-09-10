@@ -1,10 +1,26 @@
 +++
 title = "Transparency in the modern LDS Church"
 path = "/transparency-in-the-modern-lds-church/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "book-of-mormon-historicity",
+    "first-vision",
+    "polygamy",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 In Elder Ballard's [2017 YSA Face to Face](https://www.churchofjesuschrist.org/broadcasts/face-to-face/oaks-ballard?lang=eng) he stated:

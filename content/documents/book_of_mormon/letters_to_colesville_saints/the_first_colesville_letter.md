@@ -1,11 +1,24 @@
 +++
 title = "The First Colesville Letter: Transcript and Biblical allusions"
 path = "/the-first-colesville-letter-transcript-and-allusions/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "transcript",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Attribution
 
 Nicholas J. Frederick in footnote #23 of [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10.5406/jmormhist.47.2.0023) explains:

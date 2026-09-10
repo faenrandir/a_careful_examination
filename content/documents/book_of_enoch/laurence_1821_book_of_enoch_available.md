@@ -1,11 +1,24 @@
 +++
 title = "Laurence's 1821 Book of Enoch may have been available in the US"
 path = "/laurence-1821-book-of-enoch-may-have-been-available/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-enoch"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "short-analysis",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Forward
 
 I wrote the following analysis before Colby Townsend released his more extensive analysis of Book of Enoch and its availability to Joseph Smith. Anyone interested in the topic should probably consult that document first:

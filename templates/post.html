@@ -14,16 +14,16 @@
     </p>
     {% if page.taxonomies %}
     <div class="post-taxonomies">
-      {% if page.taxonomies.maintopic %}
+      {% if page.taxonomies.categories %}
       <span class="taxonomy-label">Topics:</span>
-      {% for term in page.taxonomies.maintopic %}
-      <a href="{{ config.base_url | safe }}/maintopic/{{ term | slugify }}/" class="tag tag-maintopic">{{ term }}</a>
+      {% for term in page.taxonomies.categories %}
+      <a href="{{ config.base_url | safe }}/categories/{{ term | slugify }}/" class="tag tag-category">{{ term }}</a>
       {% endfor %}
       {% endif %}
-      {% if page.taxonomies.doctype %}
+      {% if page.taxonomies.tags %}
       <span class="taxonomy-label">Type:</span>
-      {% for term in page.taxonomies.doctype %}
-      <a href="{{ config.base_url | safe }}/doctype/{{ term | slugify }}/" class="tag tag-doctype">{{ term }}</a>
+      {% for term in page.taxonomies.tags %}
+      <a href="{{ config.base_url | safe }}/tags/{{ term | slugify }}/" class="tag tag-tag">{{ term }}</a>
       {% endfor %}
       {% endif %}
     </div>

@@ -1,11 +1,22 @@
 +++
 title = "Bushman on magic and treasure digging from friendly sources"
 path = "/bushman-on-magic-and-treasure-digging-friendly-sources/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["magic"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Richard Bushman in the September 1987 Sunstone article ["Treasure-seeking Then and Now" ](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1462&context=cgu_fac_pub):
 
 > There had always been evidence of it [Joseph’s treasure hunting activities] in hostile affidavits from the Smith’s neighbors, evidence which Mormons dismissed as hopelessly biased. But when I got into the sources, I found evidence from friendly contemporaries as well, Martin Harris, Joseph Knight, Oliver Cowdery, and Lucy Mack Smith. All of these witnesses persuaded me treasure-seeking and vernacular magic were part of the Smith family tradition, and that the hostile witnesses, including the 1826 trial record, had to be taken seriously.

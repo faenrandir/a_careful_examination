@@ -1,10 +1,22 @@
 +++
 title = "The world's view of happiness"
 path = "/the-worlds-view-of-happiness/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Secular Humanists
 
 From [here](https://www.journals.uchicago.edu/doi/full/10.14318/hau5.3.005):

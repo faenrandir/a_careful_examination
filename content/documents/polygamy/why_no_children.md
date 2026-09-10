@@ -1,11 +1,25 @@
 +++
 title = "Why did Joseph not sire children with his plural wives?"
 path = "/why-joseph-not-sire-children-plural-wives/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "joseph-smith",
+    "polygamy",
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 The dominant scholarly position[^some_skeptical_of_smith_polygamy] is that Joseph Smith was married/sealed to between 30 and 40 women. While many of his plural wives gave [first-hand accounts](https://faenrandir.github.io/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/) that they had sexual relations with Joseph Smith, [scholars debate](https://josephsmithspolygamy.org/dialogues/hales-vogel-2/) whether sexual relations extended to wives who were already married to other husbands and the youngest teenagers ([particularly 14 year old Helen Mar Kimball](https://josephsmithspolygamy.org/plural-wives-overview/helen-mar-kimball/)). Regardless, since Joseph [had many children](https://en.wikipedia.org/wiki/Children_of_Joseph_Smith) with Emma, the question naturally arises: if Joseph Smith was practicing polygamy with so many women and sexual relations were part of some or all of them, **why did Joseph not produce offspring with these other women?**

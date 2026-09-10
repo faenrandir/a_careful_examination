@@ -1,11 +1,23 @@
 +++
 title = "Brigham discusses honesty in women during Q12 meeting"
 path = "/brigham-young-q12-minutes-1847-12-09/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["transparency"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "gender",
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 John D. Lee was in a disciplinary (?) council with the Q12.  Towards the end of the council, Brigham Young discussed his personal philosophy on women and honesty (some minor punctuation and spelling errors have been corrected; see appendix for original D. Michael Quinn transcription):

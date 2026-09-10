@@ -1,12 +1,24 @@
 +++
 title = "The 1832 First Vision account was suppressed between 11 and ~30 years"
 path = "/1832-first-vision-account-suppressed/"
-extra = {featuredimage = "/media/1832-first-vision-text.png"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["first-vision"]
-taxonomies.doctype = ["resource"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/1832-first-vision-text.png"
+type = "resource"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "joseph-smith",
+]
+tags = [
+    "first-vision",
+    "resource",
+]
 
 +++
+
 ## The evidence
 
 LaMar Petersen, an amateur LDS historian,[^later_excommunicated] met with Levi Young (senior President of the First Council of the Seventy) on February 3, 1953, and took these notes:

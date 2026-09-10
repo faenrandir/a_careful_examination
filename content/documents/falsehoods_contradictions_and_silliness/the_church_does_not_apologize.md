@@ -1,10 +1,22 @@
 +++
 title = "The Church does not apologize"
 path = "/the-church-does-not-apologize/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 The Church [teaches its members](https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-19-repentance?lang=eng) "If we have sinned against another person, we should confess to the person we have injured."
 
 [Steven Covey wrote](http://wealthygorilla.com/44-wise-stephen-covey-quotes-memorize/): "A person must possess himself and have a deep sense of security in fundamental principles and values in order to genuinely apologize."

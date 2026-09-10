@@ -1,10 +1,22 @@
 +++
 title = "Factors in LDS leadership selection"
 path = "/factors-in-lds-leadership-selection/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Leadership selection will likely always be at least somewhat idiosyncratic,
 and there can be little doubt that those doing the selection are trying their
 best to select the very best leaders.

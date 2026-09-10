@@ -1,12 +1,23 @@
 +++
 title = "LDS Retentive Socialization"
 path = "/lds-indoctrination-and-retentive-socialization/"
-extra = {featuredimage = "/media/Childe_Hassam-Boston_Common_at_Twilight.jpg"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["sociology-and-psychology"]
-taxonomies.doctype = ["resource"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/Childe_Hassam-Boston_Common_at_Twilight.jpg"
+type = "resource"
+featured = true
+importance = 10
+
+[taxonomies]
+categories = [
+    "sociology-and-psychology",
+]
+tags = [
+    "resource",
+]
 
 +++
+
 ## Introduction
 
 In [A Message To The Most Ardent Critic Of The Mormon Church](http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/), Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) of the Church of Jesus Christ of Latter-day Saints (emphasis added):

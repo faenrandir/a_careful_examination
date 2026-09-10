@@ -1,11 +1,25 @@
 +++
 title = "Royal Skousen: Is the Book of Mormon English translation a literal translation of what was on the plates?"
 path = "/skousen-literal-translation-of-the-plates/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "excerpt",
+    "joseph-smith",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Skousen argues that the concerns for the Book of Mormon are more resonant with older Protestant concerns than with debates happening in Joseph Smith's day.[^whynotmodern]  Nonetheless, he clearly points to elements which indicate a modern rather than ancient origin.

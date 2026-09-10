@@ -3,7 +3,7 @@
 {% block content %}
 <article class="post">
   <header class="post-header">
-    {% if page.taxonomies.doctype is defined and "resource" in page.taxonomies.doctype %}
+    {% if page.taxonomies.categories is defined and "resource" in page.taxonomies.categories %}
       <h1 class="resource-post-title">{{ page.title }}</h1>
       {% if page.updated %}
       <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
@@ -15,22 +15,32 @@
       {% endif %}
     {% endif %}
 
-    {% if page.taxonomies %}
-    <div class="post-taxonomies">
-      {% if page.taxonomies.maintopic %}
-      <span class="taxonomy-label">Topics:</span>
-      {% for term in page.taxonomies.maintopic %}
-      <a href="{{ config.base_url | safe }}/maintopic/{{ term | slugify }}/" class="tag tag-maintopic">{{ term }}</a>
-      {% endfor %}
+    <div class="article-meta">
+      <span class="resource-type">{{ page.extra.type | upper }}</span>
+      {% if page.taxonomies.categories %}
+      <span class="resource-categories">
+        {% for cat in page.taxonomies.categories %}
+        <a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} · {% endif %}
+        {% endfor %}
+      </span>
       {% endif %}
-      {% if page.taxonomies.doctype %}
-      <span class="taxonomy-label">Type:</span>
-      {% for term in page.taxonomies.doctype %}
-      <a href="{{ config.base_url | safe }}/doctype/{{ term | slugify }}/" class="tag tag-doctype">{{ term }}</a>
-      {% endfor %}
+      {% if page.taxonomies.tags %}
+      <span class="resource-tags">
+        {% set count = 0 %}
+        {% for tag in page.taxonomies.tags %}
+          {% if count < 5 %}
+          <a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% if not loop.last %} · {% endif %}
+          {% set count = count + 1 %}
+          {% endif %}
+        {% endfor %}
+      </span>
+      {% endif %}
+      {% if page.updated %}
+      <time class="resource-updated" datetime="{{ page.updated | date(format='%Y-%m-%d') }}">
+        Updated: {{ page.updated | date(format='%b %d, %Y') }}
+      </time>
       {% endif %}
     </div>
-    {% endif %}
 
     {% if page.extra is defined and page.extra.featuredimage is defined %}
     <figure class="featured-image-figure-div">

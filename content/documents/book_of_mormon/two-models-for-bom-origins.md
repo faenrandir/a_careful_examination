@@ -1,11 +1,26 @@
 +++
 title = "Models for the creation of the Book of Mormon"
 path = "/two-models-for-bom-origins/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["short-summary"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "joseph-smith",
+    "seer-stones",
+    "short-summary",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Modern Origin Model
 
 The modern origin model suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:

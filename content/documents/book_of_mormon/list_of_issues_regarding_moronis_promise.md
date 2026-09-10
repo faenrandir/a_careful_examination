@@ -1,11 +1,23 @@
 +++
 title = "Laundry List of Issues Regarding Moroni's Promise"
 path = "/list-of-issues-regarding-moronis-promise/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["transcription-of-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-of-mormon",
+    "epistemology",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 *The remainder of this page is taken directly from [The Unexamined Faith](https://unexaminedfaith.blogspot.com/2016/10/if-there-is-hub-around-which.html) blog.  Some of these points are stronger than others, I think.  (Minor spelling changes have been made)*
 
 If there is a hub around which LDS epistemology revolves, surely it is to be found in Moroni’s Promise:

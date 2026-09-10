@@ -1,10 +1,23 @@
 +++
 title = "Adam “the first man of all men” and “father of all living in his day”"
 path = "/adam-and-eve-the-first-couple/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "joseph-smith",
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Official Latter-day Saint material states that:

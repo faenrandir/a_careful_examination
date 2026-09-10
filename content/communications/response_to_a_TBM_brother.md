@@ -1,10 +1,25 @@
 +++
 title = "Response to a brother's list of why church is true"
 path = "/response-to-a-brothers-list-of-why-church-true/"
-updated = "2026-09-09"
-taxonomies.doctype = ["response"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "archaeology",
+    "book-of-mormon",
+    "joseph-smith",
+    "response",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 This is my response to: [brother's list of why the church is true for him- many holes, could use some help](https://www.reddit.com/r/exmormon/comments/713n8k/brothers_list_of_why_the_church_is_true_for_him/).
 
 > Joseph Smith got too many thing right for it to be an accident.

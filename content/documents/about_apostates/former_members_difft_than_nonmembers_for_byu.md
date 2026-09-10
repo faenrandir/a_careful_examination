@@ -1,11 +1,22 @@
 +++
 title = "Former members treated differently than members at BYU"
 path = "/former-members-treated-differently-than-members-at-byu/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["faith-transitions"]
-taxonomies.doctype = ["anecdotal"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 [posted by I_Am_An_ExMormon on /r/exmormon May 9, 2017]
 
 https://www.reddit.com/r/exmormon/comments/6a7g4p/exmormons_and_byu_the_epitome_of_it_would_have/

@@ -1,10 +1,22 @@
 +++
 title = "Most members don't seem to care about Church issues"
 path = "/most-members-dont-seem-to-care-about-church-issues/"
-updated = "2026-09-09"
-taxonomies.doctype = ["shower-thought"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "shower-thought",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From [here](https://www.reddit.com/r/exmormon/comments/6ipikx/after_leaving_the_church_was_anyone_else/)
 
 > After leaving the church, was anyone else completely shocked to discover that most TBM's really don't care about church issues?

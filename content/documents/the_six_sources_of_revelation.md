@@ -1,10 +1,22 @@
 +++
 title = "The 6 Sources of Revelation"
 path = "/six-sources-of-revelation/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Nearly all humans recognize that some kinds of transcendent experience open our minds to new ideas and perspectives.  While a theist typically believes that the most important revelation originates from a divine source, all humans are united in seeking revelation, broadly defined---all of us value insight into our nature and connectedness with one another and the universe regardless of our belief in God(s).

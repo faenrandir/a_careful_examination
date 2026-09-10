@@ -1,10 +1,22 @@
 +++
 title = "Second coming expectations in the early LDS Church"
 path = "/failed-second-coming-predictions-in-early-lds-church/"
-updated = "2026-09-09"
-taxonomies.doctype = ["compilation"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "compilation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 Some predictions (or implied predictions) of Christ's return seem genuinely open to alternative interpretation, while others less so. Regardless, they seem to collectively point to a shared understanding that Jesus's return in their lifetime was imminent.

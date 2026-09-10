@@ -1,10 +1,22 @@
 +++
 title = "The efficacy of LDS Priesthood Blessings"
 path = "/the-efficacy-of-priesthood-blessings/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Priesthood blessings do not appear to heal people beyond what may be experienced through the placebo effect, and predictions and counsel given during blessings do not appear to outstrip the conscious or subconcious capabilities of whomever is acting as voice.  I derive my confidence from the following data and observations:
 
 1. I've listened to many stories online, from my own siblings, and other friends of blessings which were pronounced in good faith and under the influence of what they felt was the Spirit which did not come to pass.

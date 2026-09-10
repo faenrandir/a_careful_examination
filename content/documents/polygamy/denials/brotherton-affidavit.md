@@ -1,11 +1,22 @@
 +++
 title = "Martha Brotherton Affidavit"
 path = "/martha-brotherton-affidavit/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["historical-source"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "historical-source",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Background
 
 First published [in the St. Louis American Bulletin on July 16th](http://www.sidneyrigdon.com/dbroadhu/MO/miscstl2.htm#071642), Martha's affidavit would go on to be published in other local newspapers like the [Quincy Whig, August 6, 1842](https://ia902608.us.archive.org/4/items/QuincyWhig06August1842/Quincy%20Whig%2006%20August%201842_text.pdf) and finally in [Bennett's History of the Saints expose](https://archive.org/stream/historysaints00benngoog#page/n247/mode/1up).[^jspolygamy]

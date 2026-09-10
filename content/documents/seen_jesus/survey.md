@@ -1,10 +1,22 @@
 +++
 title = "2019 Divine Visitation Survey"
 path = "/2019-divine-visitation-survey/"
-updated = "2026-09-09"
-taxonomies.doctype = ["survey"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "survey",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Introduction
 
 This survey has been designed to better understand the experiences of those who have had visitations with divine messengers/beings (for example, a visitation with Jesus Christ, an angelic messenger, or perhaps a demonic messenger)

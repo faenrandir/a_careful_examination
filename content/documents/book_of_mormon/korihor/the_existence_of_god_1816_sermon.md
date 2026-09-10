@@ -1,11 +1,22 @@
 +++
 title = "Abial Fisher, Jr., 1816 sermon: “The Existence of God.”"
 path = "/fisher-the-existence-of-god-1816/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["transcript"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "transcript",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ## Introduction
 
 Abial Fisher, Jr. delivered a sermon on Exodus 3:14 in the Bellingham, Massachusetts Baptist Church on October 13, 1816. The sermon was published in 1817 in Worcester, Massachusetts.  Some of the rhetoric and arguments he advanced seem reminiscent of that employed by Alma advanced to defend belief in God against Korihor in [Alma 30](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng).

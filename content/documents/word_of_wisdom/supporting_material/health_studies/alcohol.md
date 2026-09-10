@@ -1,11 +1,22 @@
 +++
 title = "Health studies on alcohol consumption"
 path = "/health-studies-alcohol-consumption/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["word-of-wisdom"]
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Note: two recent, very comprehensive studies suggest that alcohol [isn't as great for protecting against heart disease as previously thought](https://www.jsad.com/doi/abs/10.15288/jsad.2017.78.375?journalCode=jsad) and that [no level of alcohol was beneficial for overall health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31571-X/fulltext).  I believe these studies supercede the research discussed below.
 
 ---

@@ -1,10 +1,22 @@
 +++
 title = "Adam Clarke's commentary was originally published between 1810 and 1826"
 path = "/clarkes-commentary-published-between-1810-and-1826/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 From [The New Schaff-Herzog Encyclopedia of Religious Knowledge, Vol. III: Chamier - Draendorf](http://www.ccel.org/ccel/schaff/encyc03) entry on Adam Clarke ([pg 126](http://www.ccel.org/ccel/schaff/encyc03/Page_126.html)) (emphasis added):
 
 > ... He served in various places and traveled throughout Great Britain, **achieving fame** as a preacher, and being president of the British Conference in 1806, 1814, and 1822.

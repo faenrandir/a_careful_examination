@@ -1,10 +1,22 @@
 +++
 title = "Science is as substantive as religion in helping us to derive morality's ought"
 path = "/science-vs-religion-in-deriving-moralitys-ought/"
-updated = "2026-09-09"
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "short-analysis",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Science seems to be every bit as substantive (or un-substantive) as religion when it comes to deriving the _ought_ in morality.
 
 Why _should_ we be good/moral?[^ultimate_reason]  Religion says we should be good for these reasons:

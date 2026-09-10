@@ -1,11 +1,26 @@
 +++
 title = "Excerpt on Isaiah from Hardy's Reader's Guide"
 path = "/excerpt-on-isaiah-from-hardys-readers-guide/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["book-of-mormon"]
-taxonomies.doctype = ["book-excerpt"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "book-excerpt",
+    "book-of-mormon",
+    "prophecy",
+    "seer-stones",
+    "translation",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Quoting from [Understanding the Book of Mormon: A Reader's Guide](https://books.google.com/books?id=aXw7DwAAQBAJ&pg=PA69&lpg=PA69&dq=Grant+Hardy+%22simply+the+work+of+academics+who+do+not+believe+in+prophecy%22&source=bl&ots=RxqfVdU4bs&sig=yfeviy2oXA2jrr1cIMGBRnrA5-k&hl=en&sa=X&ved=0ahUKEwi3wJ6Z-LrbAhVQXq0KHTnuBf8Q6AEIKTAA#v=onepage&q=Grant%20Hardy%20%22simply%20the%20work%20of%20academics%20who%20do%20not%20believe%20in%20prophecy%22&f=false) by Grant Hardy
 
 (Emphasis [in bold] added)

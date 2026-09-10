@@ -1,10 +1,22 @@
 +++
 title = "Asking: What is the complete list of books held in the the vault?"
 path = "/asking-what-is-the-complete-list-of-books-held-in-the-the-vault/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 Submitted the following to the Church History Library:
 
 https://chl.libraryresearch.info/reft100.aspx?pmi=XWDEKHOHSt

@@ -1,10 +1,23 @@
 +++
 title = "LDS Church wrong on moral issues of the day"
 path = "/wrong-on-moral-issues-of-the-day/"
-updated = "2026-09-09"
-taxonomies.doctype = ["shower-thought"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "polygamy",
+    "shower-thought",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 > The LDS church has always been behind the times on the social issues.
 
 > The church thought polygamy was right until it was wrong.

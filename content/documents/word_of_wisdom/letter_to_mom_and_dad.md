@@ -1,11 +1,23 @@
 +++
 title = "Letter to parents: Thoughts on the Word of Wisdom"
 path = "/letter-thoughts-on-the-word-of-wisdom/"
-updated = "2026-09-09"
-taxonomies.maintopic = ["word-of-wisdom"]
-taxonomies.doctype = ["personal-letter"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "personal",
+    "word-of-wisdom",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 ### Foreword
 
 This is a letter I wrote to my mother and father about my current approach to the Word of Wisdom.  At the time of writing I had recently resigned from the Church, and I had other siblings who have left and others who I suspected would leave (and they all did), so I wanted to establish some common ground and explain my current thinking as a way to build bridges of understanding.  I've added a few headers, simplified some of the wording, changed some formatting to make it more readable, and added a few thoughts that weren't in the original.

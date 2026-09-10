@@ -1,11 +1,22 @@
 +++
 title = "The 50/50 Scenario"
-extra = {featuredimage = "/media/800px-Half_Dome_with_Eastern_Yosemite_Valley.jpg"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["truth-claims"]
-taxonomies.doctype = ["short-analysis"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/800px-Half_Dome_with_Eastern_Yosemite_Valley.jpg"
+type = "short-analysis"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "truth-claims",
+]
+tags = [
+    "short-analysis",
+]
 
 +++
+
 Givens embraces the scenario where significant evidence weighs against the LDS Church in [Letter to a doubter](https://www.mormoninterpreter.com/letter-to-a-doubter/) (and also Crucible of Doubt).  This embrace is also implicit in the reasoning of Patrick Mason's "Planted" [need to pick best example, still].  Here's how it is described:
 
 > There must be grounds for doubt as well as belief in order to render the choice more truly a choice, and therefore more deliberate and laden with more personal vulnerability and investment. An overwhelming preponderance of evidence on either side would make our choice as meaningless as would a loaded gun pointed at our heads. The option to believe must appear on one’s personal horizon like the fruit of paradise, perched precariously between sets of demands held in dynamic tension. Fortunately, in this world, one is always provided with sufficient materials out of which to fashion a life of credible conviction or dismissive denial. We are acted upon, in other words, by appeals to our personal values, our yearnings, our fears, our appetites, and our egos. What we choose to embrace, to be responsive to, is the purest reflection of who we are and what we love. That is why faith, the choice to believe, is, in the final analysis, an action that is positively laden with moral significance.

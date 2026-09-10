@@ -1,10 +1,22 @@
 +++
 title = "My Family's Dedication to the Gospel"
 path = "/my-familys-dedication-to-gospel/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 The family I grew up in was highly faithful to the Church way of life (not perfect, of course, but actively striving).  A few examples:
 
 * We either woke up early for family scripture study or my mom would read scriptures to us at the table growing up fairly regularly.

@@ -1,10 +1,22 @@
 +++
 title = "We are not a wealthy people"
 path = "/we-are-not-a-wealthy-people/"
-updated = "2026-09-09"
-taxonomies.doctype = ["notes"]
+updated = "2026-09-10"
+[taxonomies]
+categories = [
+    "other",
+]
+tags = [
+    "notes",
+]
+
+[extra]
+type = "notes"
+featured = false
+importance = 5
 
 +++
+
 On the 9th of December, 2018, during his meeting with Zimbabwe's Vice President, Elder Neil L. Andersen stated:
 
 > We are not a wealthy people but we are good people, and we share what we have

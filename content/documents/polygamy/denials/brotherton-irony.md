@@ -1,12 +1,25 @@
 +++
 title = "Martha Brotherton and the Five Ironies"
 path = "/martha-brotherton-and-the-five-ironies/"
-extra = {featuredimage = "/media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg"}
-updated = "2026-09-09"
-taxonomies.maintopic = ["polygamy"]
-taxonomies.doctype = ["resource"]
+updated = "2026-09-10"
+[extra]
+featuredimage = "/media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg"
+type = "resource"
+featured = false
+importance = 5
+
+[taxonomies]
+categories = [
+    "joseph-smith",
+]
+tags = [
+    "joseph-smith",
+    "polygamy",
+    "resource",
+]
 
 +++
+
 [**VERY ROUGH DRAFT**]
 
 ### Introduction
