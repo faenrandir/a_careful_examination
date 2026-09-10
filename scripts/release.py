@@ -56,6 +56,9 @@ def main():
         run("rm -rf docs")
         run("zola build")
 
+        # Fix absolute links in generated HTML
+        run("python3 scripts/fix_links.py")
+
         # Generate search and taxonomy indices
         run("python3 scripts/generate_search_index.py")
         run("python3 scripts/generate_taxonomy_index.py")
