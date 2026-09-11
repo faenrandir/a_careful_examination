@@ -2,55 +2,76 @@
 
 {% block content %}
 <article class="post">
-  <header class="post-header">
-    {% if page.taxonomies.categories is defined and "resource" in page.taxonomies.categories %}
-      <h1 class="resource-post-title">{{ page.title }}</h1>
-      {% if page.updated %}
-      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
-      {% endif %}
-    {% else %}
-      <h1 class="post-title">{{ page.title }}</h1>
-      {% if page.updated %}
-      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
-      {% endif %}
-    {% endif %}
+  {% set toc_items = page.toc %}
+  {% set toc_has_items = toc_items | length > 4 %}
 
-    <div class="article-meta">
-      <span class="resource-type">{{ page.extra.type | upper }}</span>
-      {% if page.taxonomies.categories %}
-      <span class="resource-categories">
-        {% for cat in page.taxonomies.categories %}
-        <a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} · {% endif %}
-        {% endfor %}
-      </span>
-      {% endif %}
-      {% if page.taxonomies.tags %}
-      <span class="resource-tags">
-        {% set count = 0 %}
-        {% for tag in page.taxonomies.tags %}
-          {% if count < 5 %}
-          <a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% if not loop.last %} · {% endif %}
-          {% set count = count + 1 %}
+  <div class="post-container" style="display: flex; gap: 2rem; align-items: flex-start;">
+    <div class="post-main" style="flex: 1; min-width: 0;">
+      <header class="post-header">
+        {% if page.taxonomies.categories is defined and "resource" in page.taxonomies.categories %}
+          <h1 class="resource-post-title">{{ page.title }}</h1>
+          {% if page.updated %}
+          <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
           {% endif %}
-        {% endfor %}
-      </span>
-      {% endif %}
-      {% if page.updated %}
-      <time class="resource-updated" datetime="{{ page.updated | date(format='%Y-%m-%d') }}">
-        Updated: {{ page.updated | date(format='%b %d, %Y') }}
-      </time>
-      {% endif %}
+        {% else %}
+          <h1 class="post-title">{{ page.title }}</h1>
+          {% if page.updated %}
+          <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
+          {% endif %}
+        {% endif %}
+
+        <div class="article-meta">
+          <span class="resource-type">{{ page.extra.type | upper }}</span>
+          {% if page.taxonomies.categories %}
+          <span class="resource-categories">
+            {% for cat in page.taxonomies.categories %}
+            <a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} · {% endif %}
+            {% endfor %}
+          </span>
+          {% endif %}
+          {% if page.taxonomies.tags %}
+          <span class="resource-tags">
+            {% set count = 0 %}
+            {% for tag in page.taxonomies.tags %}
+              {% if count < 5 %}
+              <a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% if not loop.last %} · {% endif %}
+              {% set count = count + 1 %}
+              {% endif %}
+            {% endfor %}
+          </span>
+          {% endif %}
+          {% if page.updated %}
+          <time class="resource-updated" datetime="{{ page.updated | date(format='%Y-%m-%d') }}">
+            Updated: {{ page.updated | date(format='%b %d, %Y') }}
+          </time>
+          {% endif %}
+        </div>
+
+        {% if page.extra is defined and page.extra.featuredimage is defined %}
+        <figure class="featured-image-figure-div">
+          <img class="featured-image" src="{{ get_url(path=page.extra.featuredimage) }}" alt="{{ page.title }}" title="{{ page.title }}">
+        </figure>
+        {% endif %}
+      </header>
+
+      <div class="post-content">
+        {{ page.content | safe }}
+      </div>
     </div>
 
-    {% if page.extra is defined and page.extra.featuredimage is defined %}
-    <figure class="featured-image-figure-div">
-      <img class="featured-image" src="{{ get_url(path=page.extra.featuredimage) }}" alt="{{ page.title }}" title="{{ page.title }}">
-    </figure>
+    {% if toc_has_items %}
+    <aside class="toc" aria-label="Table of contents">
+      <nav class="toc-nav" aria-label="In-page navigation">
+        <strong>Contents</strong>
+        <ul>
+        {% for item in toc_items %}
+          <li><a href="#{{ item.id }}">{{ item.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </nav>
+    </aside>
+    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
     {% endif %}
-  </header>
-
-  <div class="post-content">
-    {{ page.content | safe }}
   </div>
 </article>
 {% endblock content %}

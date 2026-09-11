@@ -17,8 +17,8 @@
     <h2>Start Here</h2>
     <p>New to this collection? Begin with these foundational resources.</p>
     <ul class="resource-list">
-      {% for page in section.pages %}
-        {% if page.extra is defined and page.extra.featured %}
+      {% for page in section.pages | sort(attribute="extra.importance") %}
+        {% if page.extra is defined and page.extra.featured and page.extra.featured == true %}
         <li class="resource-item">
           <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
           {% if page.description %}

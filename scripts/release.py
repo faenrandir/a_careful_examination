@@ -56,6 +56,10 @@ def main():
         run("rm -rf docs")
         run("zola build")
 
+        # Copy static assets to docs (fix broken images)
+        run("cp -r static/documents docs/")
+        run("cp -r static/images docs/ 2>/dev/null || true")
+
         # Fix absolute links in generated HTML
         run("python3 scripts/fix_links.py")
 

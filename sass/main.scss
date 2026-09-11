@@ -1,3 +1,4 @@
+@import "tokens";
 @import "minima";
 
 // ============================================================================
@@ -57,372 +58,6 @@ $shadow-xl: 0 20px 25px rgba(0,0,0,0.1);
 $transition-fast: 150ms ease;
 $transition-base: 200ms ease;
 $transition-slow: 300ms ease;
-
-@import "minima";
-
-// ============================================================================
-// COMPREHENSIVE SPACING OVERRIDES - 50% reduction from Minima defaults
-// ============================================================================
-
-// Base layout
-.page-content {
-  padding: $space-4 0;
-}
-
-.wrapper {
-  max-width: 800px;
-  padding: 0 $space-4;
-}
-
-// Header
-.site-header .wrapper {
-  gap: $space-2;
-  padding: $space-2 0;
-}
-
-.main-nav {
-  gap: $space-3;
-}
-
-.main-nav a {
-  padding: $space-1 0;
-}
-
-.header-search input {
-  padding: $space-1 $space-2;
-  width: 120px;
-}
-
-.header-search input:focus {
-  width: 160px;
-}
-
-.search-submit {
-  padding: $space-1 $space-2;
-}
-
-.search-submit:hover {
-  background: darken($brand-color, 10%);
-}
-
-.search-link {
-  padding: $space-2 $space-3;
-  border-radius: $radius-md;
-  margin-top: $space-2;
-  width: 100%;
-}
-
-// Page content
-.page-content {
-  padding: $space-5 $space-4;
-}
-
-.wrapper {
-  max-width: 800px;
-  padding: 0 $space-4;
-}
-
-// Homepage
-.homepage-header {
-  margin-bottom: $space-5;
-  padding-bottom: $space-4;
-}
-
-.homepage-header h1 {
-  margin-bottom: $space-2;
-}
-
-.homepage-nav {
-  gap: $space-4;
-}
-
-.resource-list {
-  margin: 0;
-}
-
-.resource-item {
-  margin-bottom: $space-2;
-}
-
-.category-grid {
-  gap: $space-3;
-  margin-bottom: $space-5;
-}
-
-.category-card {
-  padding: $space-4;
-}
-
-.category-card h3 {
-  margin-bottom: $space-2;
-}
-
-.featured-links li {
-  margin-bottom: $space-2;
-}
-
-.view-all {
-  margin-top: $space-2;
-}
-
-.homepage-footer {
-  margin-top: $space-6;
-  padding-top: $space-4;
-}
-
-// Header search
-.header-search input {
-  padding: $space-1 $space-2;
-  width: 120px;
-}
-
-.header-search input:focus {
-  width: 160px;
-}
-
-.search-submit {
-  padding: $space-1 $space-2;
-}
-
-.search-submit:hover {
-  background: darken($brand-color, 10%);
-}
-
-.search-link {
-  padding: $space-2 $space-3;
-  border-radius: $radius-md;
-  margin-top: $space-2;
-  width: 100%;
-}
-
-// Page content
-.page-content {
-  padding: $space-5 $space-4;
-}
-
-.wrapper {
-  max-width: 800px;
-  padding: 0 $space-4;
-}
-
-// Homepage
-.homepage-header {
-  margin-bottom: $space-5;
-  padding-bottom: $space-4;
-}
-
-.homepage-header h1 {
-  margin-bottom: $space-2;
-}
-
-.homepage-nav {
-  gap: $space-4;
-}
-
-.resource-list {
-  margin: 0;
-}
-
-.resource-item {
-  margin-bottom: $space-2;
-}
-
-.category-grid {
-  gap: $space-3;
-  margin-bottom: $space-5;
-}
-
-.category-card {
-  padding: $space-4;
-}
-
-.category-card h3 {
-  margin-bottom: $space-2;
-}
-
-.featured-links li {
-  margin-bottom: $space-2;
-}
-
-.view-all {
-  margin-top: $space-2;
-}
-
-.homepage-footer {
-  margin-top: $space-6;
-  padding-top: $space-4;
-}
-
-// Header search
-.header-search input {
-  padding: $space-1 $space-2;
-  width: 120px;
-}
-
-.header-search input:focus {
-  width: 160px;
-}
-
-.search-submit {
-  padding: $space-1 $space-2;
-}
-
-.search-submit:hover {
-  background: darken($brand-color, 10%);
-}
-
-.search-link {
-  padding: $space-2 $space-3;
-  border-radius: $radius-md;
-  margin-top: $space-2;
-  width: 100%;
-}
-
-// Page content
-.page-content {
-  padding: $space-5 $space-4;
-}
-
-.wrapper {
-  max-width: 800px;
-  padding: 0 $space-4;
-}
-
-// Homepage
-.homepage-header {
-  margin-bottom: $space-5;
-  padding-bottom: $space-4;
-}
-
-.homepage-header h1 {
-  margin-bottom: $space-2;
-}
-
-.homepage-nav {
-  gap: $space-4;
-}
-
-.resource-list {
-  margin: 0;
-}
-
-.resource-item {
-  margin-bottom: $space-2;
-}
-
-.category-grid {
-  gap: $space-3;
-  margin-bottom: $space-5;
-}
-
-.category-card {
-  padding: $space-4;
-}
-
-.category-card h3 {
-  margin-bottom: $space-2;
-}
-
-.featured-links li {
-  margin-bottom: $space-2;
-}
-
-.view-all {
-  margin-top: $space-2;
-}
-
-.homepage-footer {
-  margin-top: $space-6;
-  padding-top: $space-4;
-}
-
-// Header search
-.header-search input {
-  padding: $space-1 $space-2;
-  width: 120px;
-}
-
-.header-search input:focus {
-  width: 160px;
-}
-
-.search-submit {
-  padding: $space-1 $space-2;
-  font-size: 1.5rem;
-  font-weight: 300;
-  line-height: 1.2;
-  letter-spacing: -0.5px;
-  margin: 0;
-  color: $grey-color-dark;
-  text-decoration: none;
-  flex-shrink: 0;
-}
-
-.site-title:hover {
-  color: $brand-color;
-}
-
-.main-nav {
-  display: flex;
-  align-items: center;
-  gap: $spacing-unit * 2;
-  flex-wrap: wrap;
-  margin-left: auto;
-}
-
-.main-nav a {
-  color: $text-color;
-  text-decoration: none;
-  font-size: 0.9375rem;
-  padding: $spacing-unit / 2 0;
-  transition: color 0.15s ease;
-}
-
-.main-nav a:hover {
-  color: $brand-color;
-  text-decoration: none;
-}
-
-/* Header Search */
-.header-search {
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-}
-
-.header-search input {
-  padding: 6px 10px;
-  border: 1px solid $grey-color-light;
-  border-radius: 4px 0 0 4px;
-  font-size: 0.875rem;
-  width: 180px;
-  background: $background-color;
-  color: $text-color;
-  transition: border-color 0.15s ease, width 0.2s ease;
-}
-
-.header-search input:focus {
-  outline: none;
-  border-color: $brand-color;
-  width: 240px;
-}
-
-.search-submit {
-  background: $brand-color;
-  border: none;
-  border-radius: 0 4px 4px 0;
-  padding: 6px 10px;
-  cursor: pointer;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background-color 0.15s ease;
-}
-
-.search-submit:hover {
-  background: darken($brand-color, 10%);
-}
 
 /* ==========================================================================
    Main Content Layout
@@ -1311,6 +946,118 @@ $transition-slow: 300ms ease;
   color: white;
   border-color: #8a4fc8;
   text-decoration: none;
+}
+
+.related-articles a:hover {
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   Table of Contents (TOC)
+   ========================================================================== */
+
+.toc {
+  position: sticky;
+  top: $space-4;
+  align-self: start;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  padding: $space-4;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: $radius-lg;
+  font-size: 0.875rem;
+}
+
+.toc-nav {
+  display: flex;
+  flex-direction: column;
+  gap: $space-2;
+}
+
+.toc-nav a {
+  display: block;
+  padding: $space-1 0;
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  transition: color $transition-fast;
+}
+
+.toc-nav a:hover {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+
+.toc-nav ul {
+  list-style: none;
+  padding-left: $space-4;
+  margin: $space-1 0;
+}
+
+.toc-nav li {
+  margin: $space-1 0;
+}
+
+@media (max-width: 768px) {
+  .toc {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-height: 50vh;
+    background: var(--card-bg);
+    border-top: 1px solid var(--border-color);
+    border-radius: 16px 16px 0 0;
+    padding: 16px;
+    z-index: 100;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+  }
+
+  .toc.open {
+    transform: translateY(0);
+  }
+
+  .toc-toggle {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    z-index: 100;
+    background: var(--link-color);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .toc-toggle:hover {
+    background: #1d4ed8;
+  }
+
+  .toc.open {
+    transform: translateY(0);
+  }
+
+  .toc-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border: none;
+    background: var(--link-color);
+    color: white;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
 }
 
 /* ==========================================================================
