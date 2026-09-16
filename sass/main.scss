@@ -85,8 +85,8 @@ $transition-slow: 300ms ease;
 }
 
 .homepage-header {
-  margin-bottom: $spacing-unit * 3;
-  padding-bottom: $spacing-unit * 2;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
   border-bottom: 1px solid $grey-color-light;
 }
 
@@ -101,8 +101,8 @@ $transition-slow: 300ms ease;
 .homepage-description {
   font-size: 1.125rem;
   color: $grey-color;
-  margin-bottom: $spacing-unit * 2;
-  line-height: 1.6;
+  margin-bottom: 12px;
+  line-height: 1.5;
 }
 
 .homepage-nav {
@@ -123,16 +123,16 @@ $transition-slow: 300ms ease;
 }
 
 .homepage h2 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 600;
-  margin-bottom: $spacing-unit;
-  padding-bottom: $spacing-unit / 2;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
   border-bottom: 2px solid $grey-color-light;
 }
 
 .start-here p {
   color: $grey-color;
-  margin-bottom: $spacing-unit;
+  margin-bottom: 8px;
   font-size: 1rem;
 }
 
@@ -143,8 +143,8 @@ $transition-slow: 300ms ease;
 }
 
 .resource-item {
-  margin-bottom: $spacing-unit / 2;
-  line-height: 1.6;
+  margin-bottom: 4px;
+  line-height: 1.5;
 }
 
 .resource-item a {
@@ -175,7 +175,7 @@ $transition-slow: 300ms ease;
 }
 
 .category-card {
-  padding: $spacing-unit * 1.5;
+  padding: 12px;
   background: $grey-color-light;
   border-radius: 6px;
   border: 1px solid $grey-color-light;
@@ -249,8 +249,8 @@ $transition-slow: 300ms ease;
 }
 
 .homepage-footer {
-  margin-top: $spacing-unit * 3;
-  padding-top: $spacing-unit;
+  margin-top: 24px;
+  padding-top: 8px;
   border-top: 1px solid $grey-color-light;
   display: flex;
   gap: $spacing-unit * 2;
@@ -493,15 +493,15 @@ $transition-slow: 300ms ease;
    ========================================================================== */
 
 .post-header {
-  margin-bottom: $spacing-unit * 2;
+  margin-bottom: 16px;
 }
 
 .post-title {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 300;
   letter-spacing: -1px;
   line-height: 1.2;
-  margin-bottom: $spacing-unit;
+  margin-bottom: 8px;
 }
 
 .resource-post-title {
@@ -967,6 +967,9 @@ $transition-slow: 300ms ease;
   border: 1px solid var(--card-border);
   border-radius: $radius-lg;
   font-size: 0.875rem;
+  width: 250px;
+  margin-left: $space-4;
+  flex-shrink: 0;
 }
 
 .toc-nav {
@@ -1065,7 +1068,7 @@ $transition-slow: 300ms ease;
    ========================================================================== */
 
 .post-content {
-  line-height: 1.7;
+  line-height: 1.45;
   font-size: 1rem;
 }
 
@@ -1073,8 +1076,8 @@ $transition-slow: 300ms ease;
 .post-content h2,
 .post-content h3,
 .post-content h4 {
-  margin-top: $spacing-unit * 2;
-  margin-bottom: $spacing-unit;
+  margin-top: 16px;
+  margin-bottom: 8px;
   color: $grey-color-dark;
   line-height: 1.3;
 }
@@ -1085,8 +1088,8 @@ $transition-slow: 300ms ease;
 .post-content h4 { font-size: 1.25rem; }
 
 .post-content p {
-  margin-bottom: $spacing-unit;
-  line-height: 1.7;
+  margin-bottom: 8px;
+  line-height: 1.6;
 }
 
 .post-content a {
