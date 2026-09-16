@@ -952,14 +952,23 @@ $transition-slow: 300ms ease;
   text-decoration: underline;
 }
 
-/* ==========================================================================
-   Table of Contents (TOC)
-   ========================================================================== */
+.content-container {
+  display: flex;
+  gap: $spacing-unit * 2;
+  align-items: start;
+}
+
+.post-content-wrapper {
+  flex: 1;
+  order: 1;
+  margin-top: $space-4;
+}
 
 .toc {
-  position: sticky;
+  position: fixed;
   top: $space-4;
-  align-self: start;
+  right: $space-4;
+  width: 250px;
   max-height: calc(100vh - 100px);
   overflow-y: auto;
   padding: $space-4;
@@ -967,9 +976,9 @@ $transition-slow: 300ms ease;
   border: 1px solid var(--card-border);
   border-radius: $radius-lg;
   font-size: 0.875rem;
-  width: 250px;
-  margin-left: $space-4;
   flex-shrink: 0;
+  z-index: 1000;
+  transform: translateZ(0);
 }
 
 .toc-nav {

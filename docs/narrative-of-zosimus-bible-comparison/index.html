@@ -103,8 +103,36 @@
     
   </header>
 
-  <div class="post-content">
-    <p>Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch’s original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:</p>
+  <div class="post-content-wrapper">
+    
+    <aside class="toc" aria-label="Table of contents">
+      <nav class="toc-nav" aria-label="In-page navigation">
+        <strong>Contents</strong>
+        <ul>
+        
+          <li><a href="#chapter-1">Chapter 1</a></li>
+        
+          <li><a href="#chapter-2">Chapter 2</a></li>
+        
+          <li><a href="#chapter-3">Chapter 3</a></li>
+        
+          <li><a href="#chapter-4">Chapter 4</a></li>
+        
+          <li><a href="#chapter-five-greek">Chapter Five (Greek)</a></li>
+        
+          <li><a href="#chapter-six-greek">Chapter Six (Greek)</a></li>
+        
+          <li><a href="#chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</a></li>
+        
+          <li><a href="#chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</a></li>
+        
+        </ul>
+      </nav>
+    </aside>
+    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
+    
+    <div class="post-content">
+      <p>Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch’s original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:</p>
 <p><em>Please make two columns. On the left, the entire text that I’m pasting in, in reasonable thematic chunks for comparison. On the right, please include the bible reference and text for the bible verses that are most similar to the text I have input. The final output should be markdown formatted code.</em></p>
 <p>I then took each reference and re-looked it up in https://bible-api.com using the “kjv” translation (or the KJV of https://www.biblegateway.com/ for the Song of Solomon reference since was giving trouble through the API) to ensure that the text was the complete kjv text for the given reference (so that the representative text corresponds with the verse to avoid LLM hallucination).</p>
 <p><em>I have not yet carefully validated chatgpt4o’s output, and it is known to make mistakes, so all output should be taken with caution.</em></p>
@@ -237,34 +265,8 @@
 <tr><td>…praying to the Lord that he may cease from his anger and spare your offences.</td><td><strong>Ezekiel 18:32</strong> - “For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.”</td></tr>
 </tbody></table>
 
+    </div>
   </div>
-  
-  <aside class="toc" aria-label="Table of contents">
-    <nav class="toc-nav" aria-label="In-page navigation">
-      <strong>Contents</strong>
-      <ul>
-      
-        <li><a href="#chapter-1">Chapter 1</a></li>
-      
-        <li><a href="#chapter-2">Chapter 2</a></li>
-      
-        <li><a href="#chapter-3">Chapter 3</a></li>
-      
-        <li><a href="#chapter-4">Chapter 4</a></li>
-      
-        <li><a href="#chapter-five-greek">Chapter Five (Greek)</a></li>
-      
-        <li><a href="#chapter-six-greek">Chapter Six (Greek)</a></li>
-      
-        <li><a href="#chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</a></li>
-      
-        <li><a href="#chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</a></li>
-      
-      </ul>
-    </nav>
-  </aside>
-  <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-  
 </article>
 
       </div>
