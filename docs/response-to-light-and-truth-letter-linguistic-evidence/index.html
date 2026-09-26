@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Light and Truth Response pt 3: Linguistic Evidence | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Light and Truth Response pt 3: Linguistic Evidence | A Careful Examination</title>
+<meta property="og:title" content="Light and Truth Response pt 3: Linguistic Evidence | A Careful Examination" />
+<meta name="twitter:title" content="Light and Truth Response pt 3: Linguistic Evidence | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-light-and-truth-letter-linguistic-evidence/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-light-and-truth-letter-linguistic-evidence/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Light and Truth Response pt 3: Linguistic Evidence</h1>
@@ -98,13 +214,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>Responding to Linguistic Evidence as <a rel="external" href="https://web.archive.org/web/20240922105606/https://www.lightandtruthletter.org/letter/book-of-mormon/linguistic-evidence">captured on 2024-09-22</a>.</p>
+  
+  
+
+  <div class="post-content">
+    <p>Responding to Linguistic Evidence as <a rel="external" href="https://web.archive.org/web/20240922105606/https://www.lightandtruthletter.org/letter/book-of-mormon/linguistic-evidence">captured on 2024-09-22</a>.</p>
 <p>[very rough draft]</p>
-<h1 id="linguistic-evidence">Linguistic Evidence</h1>
-<h2 id="names-in-the-book-of-mormon">Names in the Book of Mormon</h2>
+<h1 id="linguistic-evidence">Linguistic Evidence<a class="zola-anchor" href="#linguistic-evidence" aria-label="Anchor link for: linguistic-evidence"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="names-in-the-book-of-mormon">Names in the Book of Mormon<a class="zola-anchor" href="#names-in-the-book-of-mormon" aria-label="Anchor link for: names-in-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> There are 188 unique names in the Book of Mormon that are not found in the Bible. Many of these names are Hebrew or Egyptian in origin, which is to be expected for a people who emigrated from ancient Jerusalem in 600 B.C.</p>
 </blockquote>
@@ -393,7 +512,8 @@
 <p><span style="color:red; margin-left:-10px;"> Update: Critics harp on “mistakes” in the Book of Mormon until researchers find evidence to support its ancient origins. As more ancient linguistic connections are uncovered, critics rarely credit the Book of Mormon. Instead, they seem to double down on the increasingly shorter list of “mistakes” in the Book of Mormon.</p>
 </blockquote>
 <p>We expect that as more is discovered about the ancient world (and as BYU researchers trawl through that information looking for connections), then we expect that these kinds of parallels would occur by chance (basically, there are more possible things to hit as that knowledge base grows so more things could hit at random). The fact that some of the “mistakes” are not adequately resolved is exactly what the naturalist model might predict for a modern BoM. Remaining “mistakes” are the only way for researchers to determine a book is modern that is trying to assert it is of ancient origin. One can read into motivations whatever they like, but a dispassionate view of the data would necessarily be drawn towards the remaining “mistakes” since they potentially hold the key of situating the book with modern authorship.</p>
-<h2 id="reformed-egyptian-and-hebrew">Reformed Egyptian and Hebrew</h2>
+<h2 id="reformed-egyptian-and-hebrew">Reformed Egyptian and Hebrew<a class="zola-anchor" href="#reformed-egyptian-and-hebrew" aria-label="Anchor link for: reformed-egyptian-and-hebrew"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> In 721 BC, the Assyrians invaded the northern kingdom (Israel) and took thousands into captivity. From that point on, the northern tribes were lost to history. Thousands sought refuge in the southern kingdom (Judah). 120 years later, it is plausible that Lehi would not have known his lineage from the tribe of Manasseh.</p>
 </blockquote>
@@ -417,7 +537,8 @@
 <p><span style="color:red; margin-left:-10px;"> On the surface, an uninspired Joseph Smith would have likely suspected that Hebrew was the language of Lehi. How did Joseph understand Egypt’s cultural influence in Israel in 600 BC? How did he come up with what turns out to be a very plausible narrative in the book?</p>
 </blockquote>
 <p>As mentioned, the storyline with Egyptian influence could have been generated as an etiology (i.e., an attempt to account for perceived Egyptian influence in the Americas).</p>
-<h3 id="caractors-document">Caractors Document</h3>
+<h3 id="caractors-document">Caractors Document<a class="zola-anchor" href="#caractors-document" aria-label="Anchor link for: caractors-document"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Historians believe14 that John Whitmer copied characters (given to him by Joseph) from the Book of Mormon in the “Caractors” document.</p>
 </blockquote>
@@ -473,7 +594,8 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <li><a rel="external" href="https://www.youtube.com/watch?v=aMPFKZ2E4MM">Book of Mormon Characters Examined</a> (pt 2)</li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=eoy_n_wwupA">How Joseph Smith Invented Reformed Egyptian</a> (pt 3) <em>Postulates how the author of the Caractors document might have produced the various caractors.</em></li>
 </ol>
-<h3 id="uto-aztecan-language">Uto-Aztecan Language</h3>
+<h3 id="uto-aztecan-language">Uto-Aztecan Language<a class="zola-anchor" href="#uto-aztecan-language" aria-label="Anchor link for: uto-aztecan-language"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Linguist Brian D. Stubbs published a study identifying 1528 connections between the Uto-Aztecan and Semitic/Egyptian languages.16 He estimates that approximately 30 % - 40 % of the Uto-Aztecan language is derived from Semitic and Egyptian languages.17 He concludes that the Uto-Aztecan and Near Eastern languages integrated between 2500 and 3000 years ago.18</p>
 </blockquote>
@@ -490,7 +612,8 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <p><span style="color:red; margin-left:-10px;"> Do parallels between Uto-Aztecan and Semitic/Egyptian languages absolutely prove the Book of Mormon’s divine authenticity? They do not. However, why do we continue to discover more things supporting the Book of Mormon’s claims if it was fabricated by a no-name man in 1829?</p>
 </blockquote>
 <p>[need to link to discussion about why additional discoveries are still being made, even if the BoM is a modern book.]</p>
-<h2 id="voices-in-the-book-of-mormon">Voices in the Book of Mormon</h2>
+<h2 id="voices-in-the-book-of-mormon">Voices in the Book of Mormon<a class="zola-anchor" href="#voices-in-the-book-of-mormon" aria-label="Anchor link for: voices-in-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Lewis Theobald produced a play called Double Falsehood in 1727. He claimed its author was the great William Shakespeare. The problem is that Shakespeare had passed away over 100 years earlier. Theobald’s claim was nearly impossible to prove. Most skeptics believed Lewis Theobald made up the claim to bolster ticket sales. Some believed that Shakespeare and John Fletcher co-wrote the play (they had written a couple of plays together early in Shakespeare’s career). Unfortunately, the original manuscript was destroyed in a fire. Without the original handwriting, no one could prove the authorship. Until recently, most believed the Double Falsehood was a Theobald production. Then in 2015, researchers from the University of Texas leveraged computing power to solve the mystery. Using a sophisticated computer model, they analyzed Shakespeare’s, Theobald’s, and Fletcher’s language, style, and voice. From this, they could create a psychological signature for each author. The model could determine who wrote Double Falsehood.19 They determined that Shakespeare likely authored the first three acts—the final two being authored by Flecher. Theobald’s editorial hand was also identified.</p>
 </blockquote>
@@ -537,14 +660,16 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <p><span style="color:red; margin-left:-10px;"> Does literary evidence undeniably verify the Book of Mormon’s claim of divine origin? Not quite. However, isn’t it interesting? Compelling? Worth exploring?</p>
 </blockquote>
 <p>It is interesting. I personally like the N-S-L model which advances evidence and an argument that the three major voices in the Book of Mormon are related to the</p>
-<h2 id="hebraisms">Hebraisms</h2>
+<h2 id="hebraisms">Hebraisms<a class="zola-anchor" href="#hebraisms" aria-label="Anchor link for: hebraisms"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Ancient Hebrew’s unique characteristics are evident even when translated into different languages. Hebraisms are when these features occur in another language.</p>
 </blockquote>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> The Book of Mormon contains hundreds of Hebraisms;28 how? Below are a small sample of some of them.</p>
 </blockquote>
-<h3 id="and-it-came-to-pass">And it Came to Pass</h3>
+<h3 id="and-it-came-to-pass">And it Came to Pass<a class="zola-anchor" href="#and-it-came-to-pass" aria-label="Anchor link for: and-it-came-to-pass"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> “’And it came to pass,’ was [Joseph Smith’s] pet. If he had left that out, his bible would have been only a pamphlet.” – MARK TWAIN29</p>
@@ -557,7 +682,8 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <p><span style="color:red; margin-left:-10px;"> As a more narrative text, extensive use of “it came to pass” shows the Book of Mormon’s ancient Hebrew fingerprints. How did Joseph Smith figure that out?</p>
 </blockquote>
 <p>The answer, from the naturalistic perspective, is embedded in the context of the question. The phrase “and it came to pass” is used extensively in the Bible, too. A person who was very familiar with the Bible[^familiar_with_the_bible] and is orally dictating<sup class="footnote-reference" id="fr-oral_dictation-1"><a href="/a_careful_examination/response-to-light-and-truth-letter-linguistic-evidence/#fn-oral_dictation">[2]</a></sup> is very likely to fall back on “filler” kinds of phrases in order to maintain flow. Hence, it is unsurprising that “And it came to pass” is used extensively in the Book of Mormon, were someone like Joseph Smith the person dictating it.</p>
-<h3 id="if-and-conditionals">If-And Conditionals</h3>
+<h3 id="if-and-conditionals">If-And Conditionals<a class="zola-anchor" href="#if-and-conditionals" aria-label="Anchor link for: if-and-conditionals"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> If-and conditionals are a Hebrew literary form not used in modern-day English. It is not present in the Bible or found in other accessible books for Joseph Smith. Linguist Royal Skousen first identified if-and conditionals in the original version and printer’s manuscript of the Book of Mormon. Joseph Smith later removed most of them to make the passages more readable in 1837. The original publication of the Book of Mormon has fifteen if-and conditionals.</p>
 </blockquote>
@@ -575,7 +701,8 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> How did Joseph Smith pick up on this ancient Hebrew literary if-and conditional when it is not correct English? A one-off could have been a grammatical error, but fifteen instances?</p>
 </blockquote>
-<h3 id="chiasmus">Chiasmus</h3>
+<h3 id="chiasmus">Chiasmus<a class="zola-anchor" href="#chiasmus" aria-label="Anchor link for: chiasmus"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> “Chiasmus” was a popular literary device in ancient languages like Greek, Latin, and Hebrew.32 It is a type of poetic inverted parallelism. Its existence in the Book of Mormon demonstrates a high level of sophistication by Hebrew writers. Chiasmus was not consciously used in American writing until the 1850s. John Welch was the first scholar to identify chiasmus in the Book of Mormon in 1967.33 There are dozens of chiasmi in the Book of Mormon, though not every one may be deliberate. A statistical analysis from Edwards and Edwards demonstrates that the chiasmus in Alma 36, Mosiah 3:18-19, Mosiah 5:10-12, and Helaman 9:6-11 were likely created by thoughtful design.34</p>
 </blockquote>
@@ -594,7 +721,8 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Are Hebraisms a bullseye for the Book of Mormon? Not quite. Nevertheless, aren’t they at least interesting? Worth exploring?</p>
 </blockquote>
-<h2 id="book-of-mormon-linguistic-evidence-conclusion">Book of Mormon | Linguistic Evidence Conclusion</h2>
+<h2 id="book-of-mormon-linguistic-evidence-conclusion">Book of Mormon | Linguistic Evidence Conclusion<a class="zola-anchor" href="#book-of-mormon-linguistic-evidence-conclusion" aria-label="Anchor link for: book-of-mormon-linguistic-evidence-conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> The further along my faith journey I traveled, the less comfortable I was with critical explanations for the Book of Mormon. I marveled at the critic’s conspiracy theory-like reconstruction of how Joseph Smith created the Book of Mormon. When I mentally recreated the critic’s narrative, I felt like I was left with a scenario more unbelievable than an angel simply giving golden plates to Joseph. Then, as I learned more about the linguistic connections between ancient languages and the Book of Mormon, I was even more baffled by the book. While linguistic evidence for the Book of Mormon was not enough on its own to convince me of the truth claims of the restoration, I was starting to feel unsettled as a potential atheist.</p>
 </blockquote>
@@ -609,16 +737,15 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -633,105 +760,9 @@ Source: Robert Boylan at https://scripturalmormonism.blogspot.com/2020/08/on-def
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

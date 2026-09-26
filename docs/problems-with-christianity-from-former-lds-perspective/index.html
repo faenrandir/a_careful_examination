@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Problems with Christianity from a former LDS perspective | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Problems with Christianity from a former LDS perspective | A Careful Examination</title>
+<meta property="og:title" content="Problems with Christianity from a former LDS perspective | A Careful Examination" />
+<meta name="twitter:title" content="Problems with Christianity from a former LDS perspective | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/">
-  
+  <meta property="og:url" content="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Problems with Christianity from a former LDS perspective</h1>
@@ -93,38 +209,20 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#the-good">The Good</a></li>
-        
-          <li><a href="#the-problematic">The Problematic</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-          <li><a href="#moving-forward">Moving forward</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h1 id="introduction">Introduction</h1>
+  
+  
+
+  <div class="post-content">
+    <h1 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h1>
 <p>So much of what Jesus Christ taught (or is purported to have taught) is helpful, inspiring, and/or good.<sup class="footnote-reference" id="fr-veridicality-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-veridicality">[1]</a></sup>  I think we should embrace these messages, generally.  Still, some of what he taught when interpreted by mainstream Christianity is problematic to my mind.  And a few things that Jesus taught are problematic when taken at their plain meaning.  A similar pattern emerges when extending the analysis to include the words of Jesus’s various disciples as recorded in the books of the New Testament.<sup class="footnote-reference" id="fr-authorship-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-authorship">[2]</a></sup></p>
 <p>This document focuses mainly on the purported words of Jesus Christ and occasionally dips into other New Testament writing to deal with highly problematic aspects of Christian culture and practice, generally.  I will also call out specific aspects of Latter-day Saint culture<sup class="footnote-reference" id="fr-latterdaysaints-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-latterdaysaints">[3]</a></sup> since I know it best and it will be more relevant to most of my readers.  Still, many of these examples will apply to some extent to larger swaths of Christianity.</p>
 <p>Also, because I have been evaluating Christianity from the perspective of a parent wanting to raise my children well, I follow up some of the problematic teachings with thought questions related to parenting.</p>
-<h1 id="the-good">The Good</h1>
+<h1 id="the-good">The Good<a class="zola-anchor" href="#the-good" aria-label="Anchor link for: the-good"><i class="fas fa-link"></i></a> 
+</h1>
 <p>I touch on a few of the many good aspects of Jesus’s teachings and Christian culture below.<sup class="footnote-reference" id="fr-greater_depth-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-greater_depth">[4]</a></sup></p>
-<h2 id="christianity-promotes-love-and-selflessness">Christianity promotes love and selflessness.</h2>
+<h2 id="christianity-promotes-love-and-selflessness">Christianity promotes love and selflessness.<a class="zola-anchor" href="#christianity-promotes-love-and-selflessness" aria-label="Anchor link for: christianity-promotes-love-and-selflessness"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Gospels promote many beautiful ideals:</p>
 <ul>
 <li>“Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.” (Matthew 7:12)</li>
@@ -132,16 +230,21 @@
 <li>“Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.  Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?  When saw we thee a stranger, and took thee in? or naked, and clothed thee?  Or when saw we thee sick, or in prison, and came unto thee?  And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.” (Matthew 25:34–40)</li>
 </ul>
 <p>It’s difficult to overstate the power of these ideals.  These ideas existed (though sometimes to a lesser degree) in other cultures or religions, but they are persistently and emphatically stressed by Jesus in the Gospels and echoed elsewhere in the New Testament.  Much of the good that has been done in the Western world in the past 2000 years was motivated, at least in part, by these ideals.</p>
-<h2 id="idea-of-eternal-life-may-diminish-existential-anxiety">Idea of eternal life may diminish existential anxiety</h2>
+<h2 id="idea-of-eternal-life-may-diminish-existential-anxiety">Idea of eternal life may diminish existential anxiety<a class="zola-anchor" href="#idea-of-eternal-life-may-diminish-existential-anxiety" aria-label="Anchor link for: idea-of-eternal-life-may-diminish-existential-anxiety"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The idea of an after-life may diminish existential anxiety for some people (see <a rel="external" href="https://www.psychology.org.au/for-members/publications/inpsych/2018/December-Issue-6/Death-anxiety-The-worm-at-the-core-of-mental-heal">here</a> but note that neutral acceptance is associated with the lowest levels of death anxiety).</p>
-<h2 id="attending-church-is-healthy">Attending Church is healthy</h2>
+<h2 id="attending-church-is-healthy">Attending Church is healthy<a class="zola-anchor" href="#attending-church-is-healthy" aria-label="Anchor link for: attending-church-is-healthy"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Attending Church regularly was shown to be associated with <a rel="external" href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827">33% less all-cause mortality</a> compared with women who never attended.</p>
-<h2 id="in-some-ways-jesus-promoted-equality-of-the-sexes">In some ways Jesus promoted equality of the sexes</h2>
+<h2 id="in-some-ways-jesus-promoted-equality-of-the-sexes">In some ways Jesus promoted equality of the sexes<a class="zola-anchor" href="#in-some-ways-jesus-promoted-equality-of-the-sexes" aria-label="Anchor link for: in-some-ways-jesus-promoted-equality-of-the-sexes"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In <em>some</em> ways that may have transcended his society <a rel="external" href="https://radicaljesusfollowers.blogspot.com/2016/12/11-ways-jesus-fought-patriarchy.html">Jesus fought against patriarchy</a>.</p>
-<h1 id="the-problematic">The Problematic</h1>
+<h1 id="the-problematic">The Problematic<a class="zola-anchor" href="#the-problematic" aria-label="Anchor link for: the-problematic"><i class="fas fa-link"></i></a> 
+</h1>
 <p>There are aspects of Christian teaching, some which derive directly from the words of Jesus, which seem problematic to me.</p>
 <p><strong><em>A belief in the teachings of Jesus may promote:</em></strong></p>
-<h2 id="reluctance-to-question">Reluctance to question</h2>
+<h2 id="reluctance-to-question">Reluctance to question<a class="zola-anchor" href="#reluctance-to-question" aria-label="Anchor link for: reluctance-to-question"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The desire to maintain a belief in God and Christ can hinder a person from searching for and then fairly evaluating the evidence that might contradict or deservedly weaken that belief.</p>
 <p><strong>Mark 4:28–29</strong></p>
 <blockquote>
@@ -161,12 +264,14 @@
 </blockquote>
 <p>This avoidance of introspection seems to be directly correlated with level of cultural totalism (i.e., JW &gt; Mormon &gt; Seventh Day Adventist &gt; Evangelical &gt; Catholic &gt; Protestant &gt; Unitarian Universalist).  Generally, the stronger the belief in God and Jesus and the literalness of Biblical claims, the less likely a person or group seems to be willing to confront facts which might potentially undermine that belief.<sup class="footnote-reference" id="fr-totalism_and_avoiding_introspection-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-totalism_and_avoiding_introspection">[5]</a></sup></p>
 <p><em>How do I encourage my children to follow truth when asking for sufficient evidence for some religious premises is considered adulterous?</em></p>
-<h2 id="inadequate-skepticism">Inadequate skepticism</h2>
+<h2 id="inadequate-skepticism">Inadequate skepticism<a class="zola-anchor" href="#inadequate-skepticism" aria-label="Anchor link for: inadequate-skepticism"><i class="fas fa-link"></i></a> 
+</h2>
 <p>According to John’s gospel, Jesus said to Thomas, “Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.” (John 20:29)</p>
 <p>And in Mark 16:16 Jesus says “He who believes and is baptized will be saved; but he who does not believe will be condemned.”</p>
 <p>I have not encountered a convincing argument or demonstration that belief without sufficient justification is a virtue, as I discuss <a href="/a_careful_examination/faith-vs-religious-faith/">in this essay</a>.  In general, I believe the most moral way to live is to exercise our confidence in a proposition in direct proportion to the weight of the evidence for the proposition.</p>
 <p><em>Why would I teach my children that they must believe things on inadequate evidence under penalty of some kind of eternal torment (of one form or another, whether separation from family or God for eternity or misery inherent to the condition)?</em></p>
-<h2 id="second-coming-nihilism-and-anxiety">Second-coming nihilism and anxiety</h2>
+<h2 id="second-coming-nihilism-and-anxiety">Second-coming nihilism and anxiety<a class="zola-anchor" href="#second-coming-nihilism-and-anxiety" aria-label="Anchor link for: second-coming-nihilism-and-anxiety"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Whereas the belief in the resurrection may quell anxiety, a belief in Jesus is also tied to a belief in his second coming, and the second coming may promote nihilism and anxiety.</p>
 <p>Belief in the imminent return of Jesus with accompanying cataclysms (see Matthew 24 and the Book of Revelation) is <a rel="external" href="https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming_of_Christ">woven deeply into Christianity</a><sup class="footnote-reference" id="fr-second_coming_expected_in_lifetime_of_adherents-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-second_coming_expected_in_lifetime_of_adherents">[6]</a></sup></p>
 <ul>
@@ -176,7 +281,8 @@
 <li>LDS members today have vivid and concrete expectations for Jesus’s <a rel="external" href="https://faenrandir.github.io/a_careful_examination/modern-second-coming-predictions/">immediate return</a>.</li>
 </ul>
 <p><em>Why would I want my children to have the expectation that life is for sure going to become cataclysmically bad and then all problems will essentially be “solved” by Jesus coming again?</em></p>
-<h2 id="eternal-judgement-anxiety">Eternal judgement anxiety</h2>
+<h2 id="eternal-judgement-anxiety">Eternal judgement anxiety<a class="zola-anchor" href="#eternal-judgement-anxiety" aria-label="Anchor link for: eternal-judgement-anxiety"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Most people focus on the immediate consequences of their actions.  What harm
 will my actions cause?  What good will this do?</p>
 <p>In the back of many orthodox Christian minds is the idea that the wrong beliefs or
@@ -186,7 +292,8 @@ short visitation rights) and persist in this state full of regret for what might
 been (missing out on living a life of complete joy and endless creation)
 if they fail to live strict covenants.</p>
 <p><em>A single unrepentant “sin”, no matter how small, may be enough to separate a person from God and their family for all of eternity.  Why would I want my children to believe that?</em></p>
-<h2 id="an-attitude-of-doctrine-over-person">An attitude of “doctrine over person”</h2>
+<h2 id="an-attitude-of-doctrine-over-person">An attitude of “doctrine over person”<a class="zola-anchor" href="#an-attitude-of-doctrine-over-person" aria-label="Anchor link for: an-attitude-of-doctrine-over-person"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The viability of any individual relationship is conditioned at least somewhat on both parties upholding certain fundamental <em>principles</em> related to minimum levels of respect or consideration for the other (e.g., respect for the other’s body and/or autonomy); however, some New Testament verses put undue weight on the nature of a person’s religious commitments compared with a person’s existing relationships (what has been referred to elsewhere as “doctrine over person”).</p>
 <ul>
 <li>
@@ -206,15 +313,18 @@ if they fail to live strict covenants.</p>
 </li>
 </ul>
 <p><em>Why would I want my children to be taught that they should not greet people who believe differently than them?  Why would I want my children to be taught to hate their family if they don’t subscribe to the same set of unfalsifiable beliefs?</em></p>
-<h2 id="an-emphasis-on-sin-instead-of-morality">An emphasis on “sin” instead of morality</h2>
+<h2 id="an-emphasis-on-sin-instead-of-morality">An emphasis on “sin” instead of morality<a class="zola-anchor" href="#an-emphasis-on-sin-instead-of-morality" aria-label="Anchor link for: an-emphasis-on-sin-instead-of-morality"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Christianity and Mormonism both place a strong emphasis on “sin”, and this can stunt moral reasoning and warp behavior so that what is most moral is secondary to what is considered “sin”, <a rel="external" href="https://www.youtube.com/watch?v=S-dfOQUc8vQ&amp;feature=emb_logo">no matter the moral consequence or magnitude</a>.<sup class="footnote-reference" id="fr-sin-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-sin">[7]</a></sup></p>
 <p>Consider Richard Bellrock’s arguments in <a rel="external" href="https://sunstonemagazine.com/sin-does-not-exist/">Sin Does Not Exist: And Believing That It Does Is Ruining Us</a>.</p>
 <p><em>Why would I want my children hyper-focused on whether their actions offend God or the Holy Ghost (i.e., a focus on “sin”) versus having them focus in a measured way on seeing how their actions impact others for good or bad in the here and now (i.e., a focus on morality)?</em></p>
-<h2 id="an-emphasis-on-obedience-instead-of-morality">An emphasis on obedience instead of morality</h2>
+<h2 id="an-emphasis-on-obedience-instead-of-morality">An emphasis on obedience instead of morality<a class="zola-anchor" href="#an-emphasis-on-obedience-instead-of-morality" aria-label="Anchor link for: an-emphasis-on-obedience-instead-of-morality"><i class="fas fa-link"></i></a> 
+</h2>
 <p>According to John, Jesus said “If ye love me, keep my commandments” (John 14:15).  Obedience is sometimes emphasized by Christians, <a rel="external" href="https://www.reddit.com/r/Christianity/comments/l2kxic/matthew_7_kjv_highlighting_how_obedience_to_jesus/">for example</a>.  The LDS Church amplifies the importance of obedience by claiming that <a rel="external" href="https://www.churchofjesuschrist.org/search?lang=eng&amp;query=obedience%20first%20law%20of%20heaven&amp;highlight=true&amp;page=1">obedience is the first law of heaven</a> and encourages members to follow the prophet, <a rel="external" href="https://www.churchofjesuschrist.org/search?lang=eng&amp;query=%22and%20it%20is%20wrong%2C%20and%20you%20do%20it%2C%20the%20Lord%20will%20bless%20you%20for%20it%22&amp;highlight=true&amp;page=1">even if they know that what is being asked is wrong</a>: “Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it.” (with a wink that they would never ask you to do anything wrong).</p>
 <p>I currently view obedience as a neutral value: it merely amplifies the intrinsic morality of the thing that was instructed (because now an additional actor has been engaged in the activity, whether it was good or bad).  We should obey when the thing is good and there are good reasons to obey.  We should decline to obey when the thing requested is morally bad (at least in the vast majority of cases).  I can imagine only very extreme circumstances—like the heat of battle—where high-stake instructions must be executed without a chance to explain the rationale for a specific request that would otherwise be questionable, and those exceptions would be made clear to soldiers in advance.  Even then, soldiers are taught that <a rel="external" href="https://warontherocks.com/2017/07/when-can-a-soldier-disobey-an-order/">they must disobey unlawful commands</a>.</p>
 <p><em>Why would I want my children to be taught that they should obey leaders, even if leaders are wrong?</em></p>
-<h2 id="division-in-families-over-belief">Division in families over belief</h2>
+<h2 id="division-in-families-over-belief">Division in families over belief<a class="zola-anchor" href="#division-in-families-over-belief" aria-label="Anchor link for: division-in-families-over-belief"><i class="fas fa-link"></i></a> 
+</h2>
 <p>If everyone does not believe in Jesus (in the same way), this may generate conflict.</p>
 <p>Matthew 10:35-37:</p>
 <blockquote>
@@ -224,24 +334,29 @@ if they fail to live strict covenants.</p>
 <blockquote>
 <p>And he said to them, “Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive manifold more in this time, and in the age to come eternal life.”</p>
 </blockquote>
-<h2 id="disunity-based-on-unfalsifiable-beliefs">Disunity based on unfalsifiable beliefs</h2>
+<h2 id="disunity-based-on-unfalsifiable-beliefs">Disunity based on unfalsifiable beliefs<a class="zola-anchor" href="#disunity-based-on-unfalsifiable-beliefs" aria-label="Anchor link for: disunity-based-on-unfalsifiable-beliefs"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Beliefs grounded dogmatically in the unverifiable promotes eventual disunity, I think.  There are tens, if not hundreds, of Latter-day Saint <a rel="external" href="https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement">schismatic groups</a> and hundreds if not thousands of <a rel="external" href="https://en.wikipedia.org/wiki/List_of_Christian_denominations">schismatic Christian groups</a>.</p>
 <p>The history of Christianity can be viewed as one of unreconcilable differences centered in dogmatism over unfalsifiable beliefs (e.g., consider the <a rel="external" href="https://en.wikipedia.org/wiki/Trinity#History">history of the Trinity</a>).</p>
 <p>And the emphasis in the LDS Church is sometimes on <a rel="external" href="https://i.redd.it/wsfqsxjjok961.jpg">separation</a>, not
 unification.</p>
 <p><em>Why would I want my children to adopt unfalsifiable beliefs that would then separate them from all the other humans with contradicting unfalsifiable beliefs?“</em></p>
-<h2 id="disparaging-outsiders">Disparaging outsiders</h2>
+<h2 id="disparaging-outsiders">Disparaging outsiders<a class="zola-anchor" href="#disparaging-outsiders" aria-label="Anchor link for: disparaging-outsiders"><i class="fas fa-link"></i></a> 
+</h2>
 <p>LDS leaders have taught <a rel="external" href="https://faenrandir.github.io/a_careful_examination/how-those-who-leave-are-viewed/">really disparaging things</a> about former members across the history of the Church.</p>
 <p><em>Why would I attend a church where leaders consistently speak in ways that egregiously, inaccurately, and unfairly undermine the character and motivation of former members—me, my wife, my children, and my own brothers and sister?</em></p>
-<h2 id="potentially-harmful-sexual-attitudes">Potentially harmful sexual attitudes</h2>
+<h2 id="potentially-harmful-sexual-attitudes">Potentially harmful sexual attitudes<a class="zola-anchor" href="#potentially-harmful-sexual-attitudes" aria-label="Anchor link for: potentially-harmful-sexual-attitudes"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Religious belief is correlated with teenage pregnancy (see <a rel="external" href="https://www.reddit.com/r/exmormon/comments/6stywg/graph_of_teen_pregnancies_by_state_as_compared_to/">this plot</a>).  In addition, while an emphasis on total abstinence before marriage may be beneficial for some individuals and has some clear advantages (e.g., no risk of pregnancy or STDs), the all “off” and then all “on” nature of sexuality in this model seems detrimental to some individuals and relationships.</p>
 <p>Sexuality is <a href="/a_careful_examination/why-sex-linked-to-morality/">rife with moral concerns</a>.  Christianity tends to deal with sex via guilt and shame, and Latter-day Saint leaders have consistently taught that sexual sin is <a rel="external" href="http://ldsanswers.org/is-sexual-sin-next-to-murder-book-of-mormon-central-fact-check/">next to murder in severity</a>, which again, may warp an individual’s moral calculus.</p>
 <p><em>Why would I want my children to be taught that sexual “sin” is “next to murder” instead of teaching and supporting them in how to navigate this difficult moral landscape with an emphasis on consequences that are proportional to genuine consequences?</em></p>
-<h2 id="racism-or-the-idea-of-specialness-of-certain-groups">Racism or the idea of specialness of certain groups</h2>
+<h2 id="racism-or-the-idea-of-specialness-of-certain-groups">Racism or the idea of specialness of certain groups<a class="zola-anchor" href="#racism-or-the-idea-of-specialness-of-certain-groups" aria-label="Anchor link for: racism-or-the-idea-of-specialness-of-certain-groups"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Both the Bible and the Book of Mormon can be read as condemnations of racism.<sup class="footnote-reference" id="fr-condemning_racism-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-condemning_racism">[8]</a></sup> However, the Book of Mormon and Bible both deal with race in ways which <em>sometimes</em> amplify racial differences and diminish some races compared with others.  Racism is arguably <a rel="external" href="http://anti-religion.net/racism_torah.htm">part of the Old Testament worldview</a>, and some actions of Jesus can be viewed as racist (e.g., initial actions <a rel="external" href="https://www.biblegateway.com/passage/?search=matthew+15%3A21-28&amp;version=NRSV">towards the Canaanite woman</a>).  The Book of Mormon spends considerable energy on <a rel="external" href="https://www.fairmormon.org/answers/Book_of_Mormon/Lamanites/Curse">curses and marks of the curse</a> that are related to race, and modern LDS leadership <a rel="external" href="https://archive.org/details/conferencereport1960sa/page/n33/mode/2up">expected Native Americans to become white</a> as they embraced Mormonism.</p>
 <p><em>Why would I want my children to ever have reason to view racial differences as anything other than interesting (and relatively minor) human variation?</em></p>
 <p><em>Latter-day Saints, in particular, view themselves as a “special” people (peculiar, treasure, salt, etc), and even though this is meant to imply extra duty and service and not necessarily that God loves them any more than other people, the message is still implied.  Isn’t it enough that my children know they are special because of who they are intrinsically and the love we share for one another as a family?</em></p>
-<h2 id="reluctance-to-unequivocally-condemn-slavery">Reluctance to unequivocally condemn slavery</h2>
+<h2 id="reluctance-to-unequivocally-condemn-slavery">Reluctance to unequivocally condemn slavery<a class="zola-anchor" href="#reluctance-to-unequivocally-condemn-slavery" aria-label="Anchor link for: reluctance-to-unequivocally-condemn-slavery"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Because neither the Old Testament nor the New Testament unequivocally condemn slavery, the Bible was used as justification for slavery for centuries (discussed <a rel="external" href="https://time.com/5171819/christianity-slavery-book-excerpt/">here</a> among many other places).</p>
 <p>Brigham Young’s <a rel="external" href="https://archive.org/details/CR100317B0001F0014">speech to the Legislature in 1852</a> demonstrates this connection:</p>
 <blockquote>
@@ -249,14 +364,17 @@ unification.</p>
 </blockquote>
 <p>And you will still find some run-of-the-mill Christians today <strong>still</strong> justifying slavery (<a rel="external" href="https://www.youtube.com/watch?v=HSKj3LQilcI&amp;feature=youtu.be">for example</a>).<sup class="footnote-reference" id="fr-justifying_slavery-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-justifying_slavery">[9]</a></sup></p>
 <p><em>The Bible repeatedly implies that slavery is acceptable, so how do I teach my uniquevical condemnation of it when the Bible is so lax about it?</em></p>
-<h2 id="unsustainable-injunctions">Unsustainable injunctions</h2>
+<h2 id="unsustainable-injunctions">Unsustainable injunctions<a class="zola-anchor" href="#unsustainable-injunctions" aria-label="Anchor link for: unsustainable-injunctions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Jesus asks us to turn the other cheek and walk a mile with our oppressors, but everyone accepts the necessity of and praises our military (by far the largest on earth).  At least in the New Testament Jesus’s teachings leave us mostly in the dark in deciding how and when we are justified in raising up a giant military for our defense and the boundaries for extracting information from combatants (consider that Bruce Jessen considered himself a devoted followers of Christ while creating and executing disturbing enhanced interrogation techniques, aka torturing terrorists and suspected terrorists).  Do we ever even have a chance to be kind to our enemies or oppressors?  It seems like we equip and expect our military to obliterate any potential threat before there is a possibility that we might be harmed in any way.  But nobody even questions our need to have the most supreme military on earth, so it feels like we only give lip services to Jesus’s teachings in this arena and just assume that he would be fine with our military efforts.</p>
 <p>“Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?” (Matthew 6:25)  Latter-day Saints scope this injunction to apply to the apostles, but other Christians have little reason to discard this statement.  Everyone realizes that this kind of life is basically unsustainable for any significant portion of the population.  401Ks, insurance, savings accounts, the stock market are all things the vast majority Christians believe in or otherwise accept as the way things are simply done.</p>
 <p><em>Why should I teach my children those sayings of Jesus that seem untranslatable to their lives and which most Christians downplay or ignore anyway?</em></p>
-<h2 id="reluctance-to-fully-accept-homosexuals">Reluctance to fully accept homosexuals</h2>
+<h2 id="reluctance-to-fully-accept-homosexuals">Reluctance to fully accept homosexuals<a class="zola-anchor" href="#reluctance-to-fully-accept-homosexuals" aria-label="Anchor link for: reluctance-to-fully-accept-homosexuals"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Because the Bible is typically interpreted<sup class="footnote-reference" id="fr-bible_homosexuality_alternate-1"><a href="/a_careful_examination/problems-with-christianity-from-former-lds-perspective/#fn-bible_homosexuality_alternate">[10]</a></sup> as <a rel="external" href="https://en.wikipedia.org/wiki/The_Bible_and_homosexuality">condemning homosexuality</a> on some level, many Christians and most Latter-day Saints discourage homosexual relationships.  I believe that homosexuals are just as deserving as anyone to live a life that includes sexual intimacy (practiced in responsible and thoughtful ways).</p>
 <p><em>Why would I want my children to be taught that homosexuality is a “temptation” or “affliction” that must be struggled against instead of teaching them the principles of morality?</em></p>
-<h1 id="conclusion">Conclusion</h1>
+<h1 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h1>
 <p>Even though there are so many wonderful teachings in Christianity, I have argued above that it is also layered with many questionable or potentially damaging teachings.  My hope is that I can teach all of the wonderful parts of Christianity to my children and simply leave behind all the things that are of questionable value.</p>
 <p>And speaking directly to an LDS audience, could I really teach my children a nuanced position in the LDS Church when the LDS Church declares most of its positions in absolute terms?  For example:</p>
 <ul>
@@ -265,9 +383,11 @@ unification.</p>
 <li>“When … inspiration conveys something out of harmony with the accepted revelations of the Church or contrary to the decisions of its constituted authorities, Latter-day Saints may know that it is not of God, no matter how plausible it may appear.” First Presidency Message from <a rel="external" href="https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng">here</a></li>
 </ul>
 <p><em>Why wouldn’t teaching all the good things of Christianity and leaving behind all the bad or questionable things be <em>an</em> optimal approach for myself and my children?</em></p>
-<h1 id="moving-forward">Moving forward</h1>
+<h1 id="moving-forward">Moving forward<a class="zola-anchor" href="#moving-forward" aria-label="Anchor link for: moving-forward"><i class="fas fa-link"></i></a> 
+</h1>
 <p><em>What are the transcendent teachings of Jesus and his disciples that I ought to be incorporating into what and how I teach my children?</em></p>
-<h1 id="see-also">See also</h1>
+<h1 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h1>
 <p><a rel="external" href="https://www.reddit.com/r/exmormon/comments/80ptga/christian_agnostic_or_atheist/duxjp6t/">A comment on /r/exmormon</a> discussing similar points, some in slightly different ways.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -304,16 +424,15 @@ unification.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -328,105 +447,9 @@ unification.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

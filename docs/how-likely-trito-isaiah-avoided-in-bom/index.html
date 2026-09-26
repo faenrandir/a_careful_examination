@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation? | A Careful Examination</title>
+<meta property="og:title" content="How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation? | A Careful Examination" />
+<meta name="twitter:title" content="How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/how-likely-trito-isaiah-avoided-in-bom/">
-  
+  <meta property="og:url" content="/a_careful_examination/how-likely-trito-isaiah-avoided-in-bom/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?</h1>
@@ -108,10 +224,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>It <a rel="external" href="https://www.reddit.com/r/mormon/comments/8nts0v/a_response_to_the_recently_posted_document_on_the/e02105x/">has been claimed</a> that the absence of Trito-Isaiah in the Book of Mormon supports a claim for the historicity of the Book of Mormon:</p>
 <blockquote>
 <p>We can probably agree that there is no way JS could have known about deutero and trito Isaiah. If he knew about it, he certainly would be careful with quoting anything beyond first Isaiah, but we know he did. The thing is, critics only talk about deutero-Isaiah, but the absence of trito-Isaiah strongly supports JS as prophet. If JS didn’t know about these Isaiah issues he had nothing to guide his choices of which chapters to include. 21 Isaiah chapters are quoted in the BoM. If you randomly choose 21 Isaiah chapters, there is a less than 1% probability that you will not choose any of the chapters 56-66 (trito-Isaiah)!</p>
@@ -120,7 +238,8 @@
 <p>Let’s compare that with deutero-Isaiah. Would you say it’s less than 1% probability that a version of deutero-Isaiah was written initially sometime between Isaiah and Lehi? I certainly wouldn’t. We know little about the origins of specific bible texts, but scholars know a bit about the general process. It’s not someone sitting down and writing a text, never to be altered. There are initial oral versions, preliminary written versions, redaction, translations back and forth, etc. For instance, there could have been a text at Lehi’s time, slightly altered in the exile period (like including “Cyrus”). We know very little about this, so I would not place a bet on this with the less than 1% odds. My conclusion is that the deutero/trito-Isaiah issue combined supports my belief.</p>
 </blockquote>
 <p>I agree that on some level the absence of trito-Isaiah in the Book of Mormon is evidence in favor of an ancient origin.  However, a closer examination of the likelihood that trito-Isaiah could randomly be excluded from the Book of Mormon lessens the significance of the find.</p>
-<h3 id="choosing-the-right-model">Choosing the right model</h3>
+<h3 id="choosing-the-right-model">Choosing the right model<a class="zola-anchor" href="#choosing-the-right-model" aria-label="Anchor link for: choosing-the-right-model"><i class="fas fa-link"></i></a> 
+</h3>
 <p>If we assume that Smith were drawing upon Isaiah chapters randomly, then the above is absolutely correct in probability assessment.  The probability that 20 Isaiah chapters could have been selected at random from the set of 66 Isaiah chapters without once selecting a chapter from trito-Isaiah (chapters 55-66, or 12 chapters) is properly modeled by a cumulative hypergeometric distribution, and yields a probability of 0.0079, or roughly 0.8% that someone could make such a biased selection randomly.</p>
 <pre><code># http://stattrek.com/online-calculator/hypergeometric.aspx
 # hyperg. dist; pop:66, successes:54, sample:20, &gt;= 20 required
@@ -146,22 +265,22 @@ probability in trito: 0.261 (12 / 46)
 probability not in trito: 0.739 (34 / 46)
 </code></pre>
 <p>In conclusion, it is difficult to argue that the chapters quoted in the Book of Mormon were randomly selected, and selecting blocks of consecutive chapters shifts the probability in favor of Smith randomly avoiding a single trito-Isaiah chapter.</p>
-<h3 id="the-remaining-isaiah-problem">The Remaining Isaiah Problem</h3>
+<h3 id="the-remaining-isaiah-problem">The Remaining Isaiah Problem<a class="zola-anchor" href="#the-remaining-isaiah-problem" aria-label="Anchor link for: the-remaining-isaiah-problem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The above analysis is important for demonstrating that Smith could have randomly avoided the trito-Isaiah chapters with only a minor amount of luck.  Still, it misses the deeper point about the Isaiah found in the Book of Mormon: We don’t expect to see deutero-Isaiah in the form we see it in, and, according to Grant Hardy, we don’t even expect to see Isaiah 2–14 in the form we find it.  Consider <a rel="external" href="https://github.com/faenrandir/a_careful_examination/blob/e5a43715b09837fcabdc6664f3f0d00b0fbacaf1/documents/book_of_mormon/the_puzzle_of_the_King_James_Version__Grant_Hardy.md">his words</a>:</p>
 <blockquote>
 <p>For non-Mormon scholars, imagining the Brass Plates (ostensibly Nephi’s source) as a historic artifact from 600 BC is made even more difficult by the presence in the Book of Mormon of chapters from Second Isaiah (Isa. 40–55), which scholarly consensus for more than a century has attributed to the time of the Exile or even later (though, interestingly enough, the Book of Mormon never cites Third Isaiah [chs. 56–66]). <strong>Latter-day Saints sometimes brush such criticism aside, asserting that such interpretations are simply the work of academics who do not believe in prophecy, but this is clearly an inadequate (and inaccurate) response to a significant body of detailed historical and literary analysis</strong>.[28] William Hamblin has suggested that the problem might be alleviated if we regard Second Isaiah as a prophet contemporary with Nephi, but even this is not an entirely satisfactory solution.[29] Recent Isaiah scholarship has moved away from the strict differentiation of the work of First and Second Isaiah (though still holding to the idea of multiple authorship) in favor of seeing the book of Isaiah as the product of several centuries of intensive redaction and accretion. In other words, <strong>even Isaiah 2–14 would have looked very different in Nephi’s time than it did four hundred years later at the time of the Dead Sea Scrolls, when it was quite similar to what we have today</strong>. (emphasis added)</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -176,105 +295,9 @@ probability not in trito: 0.739 (34 / 46)
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

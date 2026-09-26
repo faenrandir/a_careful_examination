@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon | A Careful Examination</title>
+<meta property="og:title" content="Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon | A Careful Examination" />
+<meta name="twitter:title" content="Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/townsend-js-using-clarke-in-bom-2025/">
-  
+  <meta property="og:url" content="/a_careful_examination/townsend-js-using-clarke-in-bom-2025/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon</h1>
@@ -108,53 +224,34 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#synopsis">Synopsis</a></li>
-        
-          <li><a href="#townsend-s-background-expertise">Townsend’s background &amp; expertise</a></li>
-        
-          <li><a href="#primary-academic-publication">Primary academic publication</a></li>
-        
-          <li><a href="#podcast-streaming-discussions">Podcast &amp; streaming discussions</a></li>
-        
-          <li><a href="#historical-corroboration">Historical corroboration</a></li>
-        
-          <li><a href="#specific-examples-of-usage-in-the-book-of-mormon">Specific examples of usage in the Book of Mormon</a></li>
-        
-          <li><a href="#rebuttal-further-debate">Rebuttal &amp; further debate</a></li>
-        
-          <li><a href="#related-scholarship">Related scholarship</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p><em>this is a draft - this resource page was produced after giving chatgpt-o3 a very specific set of instructions on how to summarize this topic. I then modified the output. I still need to verify all the particulars and touch up.</em></p>
-<h2 id="synopsis">Synopsis</h2>
+  
+  
+
+  <div class="post-content">
+    <p><em>this is a draft - this resource page was produced after giving chatgpt-o3 a very specific set of instructions on how to summarize this topic. I then modified the output. I still need to verify all the particulars and touch up.</em></p>
+<h2 id="synopsis">Synopsis<a class="zola-anchor" href="#synopsis" aria-label="Anchor link for: synopsis"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In a peer-reviewed essay published in <em>Journal of the Bible and its Reception</em>, Colby Townsend demonstrates that many of the textual deviations found in the <em>Book of Mormon</em>’s Isaiah material (especially Isaiah 2–14, 29, 48–54) correspond not to the King James Version (KJV) but to variant readings and explanatory glosses preserved in Adam Clarke’s multi-volume <em>Commentary on the Holy Bible</em> (1825–26). Townsend shows that Joseph Smith engaged Clarke’s scholarship “creatively,” weaving Clarke’s wording and critical notes into his dictation rather than copying slavishly, thereby “restoring” Isaiah through the lens of early-nineteenth-century Methodist exegesis.</p>
 <p>Townsend identifies dozens of unique phrase-level matches (e.g., emendations to Isaiah 11:15; 49:24; 52:10) and argues that the pattern of dependence becomes unmistakable when read against Clarke’s commentary on those chapters. The article situates Smith’s borrowing within a broader reception-history story: non-elite Bible readers in the early United States had increasing access to—and made pragmatic use of—contemporary critical scholarship.</p>
-<h2 id="townsend-s-background-expertise">Townsend’s background &amp; expertise</h2>
+<h2 id="townsend-s-background-expertise">Townsend’s background &amp; expertise<a class="zola-anchor" href="#townsend-s-background-expertise" aria-label="Anchor link for: townsend-s-background-expertise"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Colby Townsend is a dual PhD candidate in English and Religious Studies at Indiana University Bloomington, specializing in eighteenth- and nineteenth-century transatlantic religion and literature. He holds HBA degrees in Comparative Literature and Religious Studies (University of Utah) and an MA in History (Utah State University), and has published in <em>Dialogue: A Journal of Mormon Thought</em>, <em>Journal of Mormon History</em>, and related venues.</p>
-<h2 id="primary-academic-publication">Primary academic publication</h2>
+<h2 id="primary-academic-publication">Primary academic publication<a class="zola-anchor" href="#primary-academic-publication" aria-label="Anchor link for: primary-academic-publication"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li>Townsend, Colby. “<strong>Early Nineteenth-Century Biblical Scholarship and the Production of <em>The Book of Mormon</em></strong>.” <em>Journal of the Bible and its Reception</em> 12, no. 1 (2025): 57–84. DOI: <a rel="external" href="https://doi.org/10.1515/jbr-2024-0001">10.1515/jbr-2024-0001</a>. <sup>🔒 paywall</sup></li>
 </ul>
-<h2 id="podcast-streaming-discussions">Podcast &amp; streaming discussions</h2>
+<h2 id="podcast-streaming-discussions">Podcast &amp; streaming discussions<a class="zola-anchor" href="#podcast-streaming-discussions" aria-label="Anchor link for: podcast-streaming-discussions"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://www.youtube.com/watch?v=Vbt5bPaPiQg"><strong>Mormon Stories Podcast ep 2002</strong> – “Did Joseph Smith Use 19th-Century Bible Scholarship to Produce the <em>Book of Mormon</em>?”</a></li>
 <li><a rel="external" href="https://radiofreemormon.org/2025/04/cracking-the-code-tracing-book-of-mormon-origins/"><strong>Mormonism Live ep 225</strong> – “Cracking the Code: Tracing <em>Book of Mormon</em> Origins”</a></li>
 </ul>
-<h2 id="historical-corroboration">Historical corroboration</h2>
+<h2 id="historical-corroboration">Historical corroboration<a class="zola-anchor" href="#historical-corroboration" aria-label="Anchor link for: historical-corroboration"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Townsend re-examines contemporary evidence (e.g., family reminiscences about a Clarke set in Emma Smith’s extended family) and earlier bibliographic work by Thomas Wayment and Haley Wilson-Lemmón, concluding that Joseph Smith had ample opportunity—through Methodist networks and personal borrowing—to consult Clarke well before 1828. These contextual findings dovetail with the textual parallels to strengthen the case for dependence.</p>
-<h2 id="specific-examples-of-usage-in-the-book-of-mormon">Specific examples of usage in the <em>Book of Mormon</em></h2>
+<h2 id="specific-examples-of-usage-in-the-book-of-mormon">Specific examples of usage in the <em>Book of Mormon</em><a class="zola-anchor" href="#specific-examples-of-usage-in-the-book-of-mormon" aria-label="Anchor link for: specific-examples-of-usage-in-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Townsend’s article and podcast interviews highlight several illustrative cases (chapter/verse numbering follows the KJV / 1830 BofM alignment):</p>
 <ol>
 <li><strong>Isaiah 11:15 / 2 Nephi 21:15</strong> – Smith’s phrase “<em>smite the tongue of the Egyptian sea</em>” becomes “<em>utterly destroy the tongue of the Egyptian sea</em>,” echoing Clarke’s comment that God would “<em>utterly</em> destroy” that obstacle.</li>
@@ -162,24 +259,25 @@
 <li><strong>Isaiah 52:10 / Mosiah 12:24</strong> – Adoption of Clarke’s expansion “<em>the Lord hath made bare his holy arm in the eyes of all the nations</em>,” including the explanatory connective absent in the KJV.</li>
 </ol>
 <p>For a fuller catalogue, see the tables in Townsend’s appendix (pp. 77–83) or podcast visual aids.</p>
-<h2 id="rebuttal-further-debate">Rebuttal &amp; further debate</h2>
+<h2 id="rebuttal-further-debate">Rebuttal &amp; further debate<a class="zola-anchor" href="#rebuttal-further-debate" aria-label="Anchor link for: rebuttal-further-debate"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="https://journal.interpreterfoundation.org/adam-clarke-and-isaiah-in-the-book-of-mormon/">Adam Clarke and Isaiah in the Book of Mormon</a> (Kent P. Jackson response in the Interpreter argues the evidence is insufficient to conclude Clarke commentary usage)</p>
-<h2 id="related-scholarship">Related scholarship</h2>
+<h2 id="related-scholarship">Related scholarship<a class="zola-anchor" href="#related-scholarship" aria-label="Anchor link for: related-scholarship"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li>Thomas A. Wayment &amp; Haley Wilson-Lemmón, “A Recovered Resource: The Use of Adam Clarke’s Bible Commentary in Joseph Smith’s Bible Translation,” in <a rel="external" href="https://uofupress.lib.utah.edu/producing-ancient-scripture/"><em>Producing Ancient Scripture</em> (2020)</a></li>
 <li>Thomas A. Wayment, “Joseph Smith, Adam Clarke, and the Making of a Bible Revision,” <em>Journal of Mormon History</em> 46, no. 3 (2020): 1–22.</li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -194,105 +292,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

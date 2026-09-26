@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Proclamation on the Family: Scripture or Revelation? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The Proclamation on the Family: Scripture or Revelation? | A Careful Examination</title>
+<meta property="og:title" content="The Proclamation on the Family: Scripture or Revelation? | A Careful Examination" />
+<meta name="twitter:title" content="The Proclamation on the Family: Scripture or Revelation? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/">
-  
+  <meta property="og:url" content="/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The Proclamation on the Family: Scripture or Revelation?</h1>
@@ -98,35 +214,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#none-of-the-15-have-ever-called-it-scripture">None of the 15 have ever called it “scripture”</a></li>
-        
-          <li><a href="#never-been-voted-on">Never been voted on</a></li>
-        
-          <li><a href="#when-called-revelation-by-an-apostle-the-statement-was-redacted">When called “revelation” by an Apostle the statement was redacted</a></li>
-        
-          <li><a href="#considered-to-have-come-from-god-but-never-called-scripture-or-revelation-in-correlated-material">Considered to have come “from God”, but never called scripture or revelation in correlated material</a></li>
-        
-          <li><a href="#written-for-world-conferences-on-the-family">Written for World Conferences on the Family</a></li>
-        
-          <li><a href="#likely-drafted-to-be-used-as-a-legal-document">Likely drafted to be used as a legal document</a></li>
-        
-          <li><a href="#major-sources">Major sources</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>Members of the LDS Church will sometimes claim that “The Family: A Proclamation to the World” is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view the document in this way, but Apostolic statements about the document during its first 20 years tend to stop just short of calling it “scripture” or “revelation” <em>directly</em> (though it is sometimes strongly implied).</p>
-<h2 id="none-of-the-15-have-ever-called-it-scripture">None of the 15 have ever called it “scripture”</h2>
+  
+  
+
+  <div class="post-content">
+    <p>Members of the LDS Church will sometimes claim that “The Family: A Proclamation to the World” is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view the document in this way, but Apostolic statements about the document during its first 20 years tend to stop just short of calling it “scripture” or “revelation” <em>directly</em> (though it is sometimes strongly implied).</p>
+<h2 id="none-of-the-15-have-ever-called-it-scripture">None of the 15 have ever called it “scripture”<a class="zola-anchor" href="#none-of-the-15-have-ever-called-it-scripture" aria-label="Anchor link for: none-of-the-15-have-ever-called-it-scripture"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Proclamation has been called “scriptural” and “scipturelike” but it has never been given the appellation “scripture” by the 15. Summarizing <a rel="external" href="https://www.fairlatterdaysaints.org/answers/Question:_Is_the_Mormon_document_%22The_Family:_A_Proclamation_to_the_World%22_official_doctrine%3F">this compilation by FAIR</a>:</p>
 <ul>
 <li>“A prophetic document”, “inspired” —Ballard</li>
@@ -138,7 +232,8 @@
 <li>“the doctrine of the family and the home was recently reiterated” —Perry</li>
 <li>“we were all blessed recently to receive an important message” —Hales</li>
 </ul>
-<h2 id="never-been-voted-on">Never been voted on</h2>
+<h2 id="never-been-voted-on">Never been voted on<a class="zola-anchor" href="#never-been-voted-on" aria-label="Anchor link for: never-been-voted-on"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Within the D&amp;C and within the words of the brethren one can find disagreement on what makes something scripture, “binding”, or “accepted”. (<a rel="external" href="https://dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N03_73.pdf">source</a>)</p>
 <p>Still, a very strong case can be made for the need for a vote.</p>
 <blockquote>
@@ -152,7 +247,8 @@
 <p>no revelation given through the head of the church ever becomes binding and authoritative upon the members of the church until it has been presented to the church and accepted by them. (Joseph F. Smith in the Reed Smoot Trial in 1904, <a rel="external" href="https://dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N03_73.pdf">source</a>)</p>
 </blockquote>
 <p>“The Family: A Proclamation to the World” has never been voted on.</p>
-<h2 id="when-called-revelation-by-an-apostle-the-statement-was-redacted">When called “revelation” by an Apostle the statement was redacted</h2>
+<h2 id="when-called-revelation-by-an-apostle-the-statement-was-redacted">When called “revelation” by an Apostle the statement was redacted<a class="zola-anchor" href="#when-called-revelation-by-an-apostle-the-statement-was-redacted" aria-label="Anchor link for: when-called-revelation-by-an-apostle-the-statement-was-redacted"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Only one of the 15 (Packer) has ever labeled the Proclamation “a revelation”, and this was redacted from the official version of his talk. (Oct 2010 GC, Boyd K. Packer, <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng">Cleansing the Inner Vessel</a>)</p>
 <p>The original (about the 1 minute mark):</p>
 <blockquote>
@@ -167,18 +263,22 @@
 <p>Again the proclamation on the family, modern-day revelation:….As we ponder these inspired words of modern revelation….I leave you my witness that the proclamation on the family, which I referred to earlier, is modern-day revelation provided to us by the Lord through His latter-day prophets. (<a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1998/04/children-and-the-family?lang=eng">source</a>)</p>
 </blockquote>
 <p>However, “a single statement made by a single leader…is not meant to be officially binding for the whole Church.” (<a rel="external" href="http://www.mormonnewsroom.org/article/approaching-mormon-doctrine">Approaching Mormon Doctrine</a>).  Arguably, the redaction from Elder Packer’s talk is a much better indication of the Proclamation’s revelatory status than a statement by a President of the Seventy.</p>
-<h2 id="considered-to-have-come-from-god-but-never-called-scripture-or-revelation-in-correlated-material">Considered to have come “from God”, but never called scripture or revelation in correlated material</h2>
+<h2 id="considered-to-have-come-from-god-but-never-called-scripture-or-revelation-in-correlated-material">Considered to have come “from God”, but never called scripture or revelation in correlated material<a class="zola-anchor" href="#considered-to-have-come-from-god-but-never-called-scripture-or-revelation-in-correlated-material" aria-label="Anchor link for: considered-to-have-come-from-god-but-never-called-scripture-or-revelation-in-correlated-material"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Proclamation has been suggested to have “[come] from God”, but it has never been called scripture or revelation in correlated material (of which I am aware).</p>
 <p>For instance, the <a rel="external" href="https://www.churchofjesuschrist.org/manual/2014-outline-for-sharing-time-families-are-forever/october-the-family-a-proclamation-to-the-world-came-from-god-to-help-my-family?lang=eng">October 2014 sharing time</a> is entitled “‘The Family: A Proclamation to the World’ Came from God to Help My Family”.  The Proclamation is shown together with Moses holding the ten commandments and a bible.  However, the Proclamation is never referred to as “scripture” or “revelation” in the lesson itself.</p>
-<h2 id="written-for-world-conferences-on-the-family">Written for World Conferences on the Family</h2>
+<h2 id="written-for-world-conferences-on-the-family">Written for World Conferences on the Family<a class="zola-anchor" href="#written-for-world-conferences-on-the-family" aria-label="Anchor link for: written-for-world-conferences-on-the-family"><i class="fas fa-link"></i></a> 
+</h2>
 <p>According to Boyd K. Packer in a <a rel="external" href="https://speeches.byu.edu/talks/boyd-k-packer_instrument-mind-foundation-character/">2003 CES Fireside</a>, the document was written to be used at a world conference on the family being held in SLC:</p>
 <blockquote>
 <p>I can tell you how that came about. They had a world conference on the family sponsored by the United Nations in Beijing, China. We sent representatives. It was not pleasant what they heard. They called another one in Cairo. Some of our people were there. I read the proceedings of that. The word marriage was not mentioned. It was at a conference on the family, but marriage was not even mentioned.  It was then they announced that they were going to have such a conference here in Salt Lake City. Some of us made the recommendation: “They are coming here. We had better proclaim our position.”</p>
 </blockquote>
-<h2 id="likely-drafted-to-be-used-as-a-legal-document">Likely drafted to be used as a legal document</h2>
+<h2 id="likely-drafted-to-be-used-as-a-legal-document">Likely drafted to be used as a legal document<a class="zola-anchor" href="#likely-drafted-to-be-used-as-a-legal-document" aria-label="Anchor link for: likely-drafted-to-be-used-as-a-legal-document"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The circumstantial evidence strongly suggests that the Proclamation was written as a legal document in response to court battles over same-sex marriage in which the church was engaged at the time.  As early as 1988 the church was working to influence legislation regarding same-sex marriage.  In March of 1995, the church was rejected as a party to the Baehr case in Hawaii because it failed to demonstrate having any “property” in the issue.  In 1997, the Proclamation was used as a legal exhibit in an amicus brief filed by the church.</p>
 <hr />
-<h2 id="major-sources">Major sources</h2>
+<h2 id="major-sources">Major sources<a class="zola-anchor" href="#major-sources" aria-label="Anchor link for: major-sources"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="http://en.fairmormon.org/Mormonism_and_prophets/Mormonism_and_the_Proclamation_on_the_Family/Official_doctrine#cite_note-4">FAIR Mormon - Mormonism and the Proclamation on the Family, Official Doctrine?</a></li>
 <li><a rel="external" href="http://rationalfaiths.com/is-the-family-proclamation-scripture/">Is the Family Proclamation Scripture?</a></li>
@@ -192,16 +292,15 @@
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/4c41n1/why_the_family_proclamation_should_not_be_called/">mormon</a></li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -216,105 +315,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

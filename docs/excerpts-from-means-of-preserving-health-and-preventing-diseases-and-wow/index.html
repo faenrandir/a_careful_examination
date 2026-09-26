@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom | A Careful Examination</title>
+<meta property="og:title" content="Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom | A Careful Examination" />
+<meta name="twitter:title" content="Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/excerpts-from-means-of-preserving-health-and-preventing-diseases-and-wow/">
-  
+  <meta property="og:url" content="/a_careful_examination/excerpts-from-means-of-preserving-health-and-preventing-diseases-and-wow/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom</h1>
@@ -93,15 +209,17 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[pre-draft]</p>
+  
+  
+
+  <div class="post-content">
+    <p>[pre-draft]</p>
 <p>Shadrach Ricketson, a physician in New York, published the book <a rel="external" href="https://archive.org/details/meansofpreservin00rick/page/n5/mode/2up">“Means of Preserving Health and Preventing Diseases”</a> in 1806 in New York. In addition to pulling from “instructive” encyclopedias of the day, he also quoted extensively from other sources who he described as “practical writers of established reputation … who stand foremost on the subjects on which they wrote.”</p>
 <p>This document aims to provide faithful transcripts of all
 mentions of the various substances or practices considered unique to the
 purported revelation known as <a rel="external" href="https://www.churchofjesuschrist.org/study/history/topics/word-of-wisdom-dc-89?lang=eng">“the Word of Wisdom”</a>.</p>
-<h2 id="recommendations">Recommendations</h2>
+<h2 id="recommendations">Recommendations<a class="zola-anchor" href="#recommendations" aria-label="Anchor link for: recommendations"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Just prior to the introduction, the book includes a recommendation <a rel="external" href="https://archive.org/details/meansofpreservin00rick/page/n7/mode/2up">under the signature of 8 others</a>, most of whom seem to have been influential physicians at that time. Some quick web searches suggest the following identities:</p>
 <ul>
 <li>Nichs (Nicholas) Romayne: <a rel="external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1806896/">The First President of the College of Physicians
@@ -131,7 +249,8 @@ recommendation:</p>
 <blockquote>
 <p>Your humble servant, DAVID HOSACK.</p>
 </blockquote>
-<h2 id="hot-drinks">Hot drinks</h2>
+<h2 id="hot-drinks">Hot drinks<a class="zola-anchor" href="#hot-drinks" aria-label="Anchor link for: hot-drinks"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The most common interpretation of “hot drinks” near the time of the Word of Wisdom was a reference to tea and coffee (e.g., <a rel="external" href="https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-89-the-word-of-wisdom?lang=eng">Hyrum Smith in 1842</a>, “I say it does refer to tea, and coffee.”</p>
 <p>However, it also seems possible that the “hot” was in reference to temperature.  For instance, when giving his opinion on the meaning of the phrase, Hyrum Smith in 1842 acknowledged the inherent ambiguity in the term “hot drinks”: “And again ‘hot drinks are not for the body, or belly;’ there are many who wonder what this can mean; whether it refers to tea, or coffee, or not.”  In 1868, George Q. Cannon defined “hot drinks” as “tea, coffee, chocolate, cocoa, and all drinks of this kind,” and in the same talk stated (emphasis added), “We must not permit them to drink liquor or hot drinks, <em>or hot soups</em> …” which seems to indicate a concern with temperature.</p>
 <p>Brigham Young also saw tea and coffee as the meaning behind the phrase “hot drinks”, but his words also underscore the <em>possibility</em> of temperature as the underlying unifying characteristic:</p>
@@ -140,29 +259,34 @@ recommendation:</p>
 </blockquote>
 <p>Finally, for what it is worth, modern LDS sponsored web sites draw the connection between “hot drinks” and temperature when research demonstrates health risks to consuming hot (temperature) drinks, <a rel="external" href="https://www.ldsliving.com/new-research-confirms-hot-drinks-are-not-good-for-your-body-but-its-not-about-the-caffeine/s/82418">for example</a>.</p>
 <p>Given the ambiguity involved, this compilation also includes references to drinks and hotness (i.e., temperature).</p>
-<h3 id="tea">Tea</h3>
+<h3 id="tea">Tea<a class="zola-anchor" href="#tea" aria-label="Anchor link for: tea"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
-<h3 id="coffee">Coffee</h3>
+<h3 id="coffee">Coffee<a class="zola-anchor" href="#coffee" aria-label="Anchor link for: coffee"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
-<h3 id="hot-drinks-temperature">Hot Drinks (temperature)</h3>
+<h3 id="hot-drinks-temperature">Hot Drinks (temperature)<a class="zola-anchor" href="#hot-drinks-temperature" aria-label="Anchor link for: hot-drinks-temperature"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
-<h3 id="tobacco">Tobacco</h3>
+<h3 id="tobacco">Tobacco<a class="zola-anchor" href="#tobacco" aria-label="Anchor link for: tobacco"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
-<h3 id="meat">Meat</h3>
+<h3 id="meat">Meat<a class="zola-anchor" href="#meat" aria-label="Anchor link for: meat"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
-<h3 id="vegetables-and-grain">Vegetables and Grain</h3>
+<h3 id="vegetables-and-grain">Vegetables and Grain<a class="zola-anchor" href="#vegetables-and-grain" aria-label="Anchor link for: vegetables-and-grain"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -177,105 +301,9 @@ recommendation:</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

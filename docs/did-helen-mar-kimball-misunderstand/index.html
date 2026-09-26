@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her? | A Careful Examination</title>
+<meta property="og:title" content="Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her? | A Careful Examination" />
+<meta name="twitter:title" content="Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/did-helen-mar-kimball-misunderstand/">
-  
+  <meta property="og:url" content="/a_careful_examination/did-helen-mar-kimball-misunderstand/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her?</h1>
@@ -98,11 +214,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[very rough draft]</p>
-<h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[very rough draft]</p>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In her <a href="/a_careful_examination/helen-mar-kimball-whitney-1881-autobiography/">1881 autobiographical
 letter</a>, Helen Mar
 Kimball wrote:</p>
@@ -121,7 +239,8 @@ because:</p>
 <p>… one year later Helen clarified that she may not have understood everything correctly: “I confess that I was too young or too ‘foolish’ to comprehend and appreciate all” that Joseph Smith then taught.</p>
 </blockquote>
 <p>[quotes from her family]</p>
-<h3 id="sarah-ann-whitney-blessing">Sarah Ann Whitney blessing</h3>
+<h3 id="sarah-ann-whitney-blessing">Sarah Ann Whitney blessing<a class="zola-anchor" href="#sarah-ann-whitney-blessing" aria-label="Anchor link for: sarah-ann-whitney-blessing"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/blessing-to-sarah-ann-whitney-23-march-1843/1">Sarah Ann Whitney blessing</a>:</p>
 <blockquote>
 <p>Oh Lord my God thou that dwellest on high bless I beseach of thee the one
@@ -140,17 +259,20 @@ Jesus Christ by the Law of the holy preisthood Even so Amen</p>
 <p>Joseph Smith <br/>
 Sarah Ann Whitney)</p>
 </blockquote>
-<h4 id="breaking-down-the-promises">Breaking down the promises</h4>
+<h4 id="breaking-down-the-promises">Breaking down the promises<a class="zola-anchor" href="#breaking-down-the-promises" aria-label="Anchor link for: breaking-down-the-promises"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Besides the potential ambuiguity of the meaning of the word “shall”, the
 blessing is a conglomerate of conditional unconditional statements.</p>
-<h5 id="conditional">Conditional</h5>
+<h5 id="conditional">Conditional<a class="zola-anchor" href="#conditional" aria-label="Anchor link for: conditional"><i class="fas fa-link"></i></a> 
+</h5>
 <ol>
 <li>“I beseach of thee …”</li>
 <li>“… <em>let it</em> [be] Sealed …”</li>
 <li>“if She remain in the Everlasting covenant to the end”</li>
 <li>“… [family] be Saived in and by repentance …”</li>
 </ol>
-<h5 id="unconditional">Unconditional</h5>
+<h5 id="unconditional">Unconditional<a class="zola-anchor" href="#unconditional" aria-label="Anchor link for: unconditional"><i class="fas fa-link"></i></a> 
+</h5>
 <ol>
 <li>“… let it [be] <em>Sealed</em> …”</li>
 <li>“… She <em>Shall</em> come forth in the first reserrection …”<sup class="footnote-reference" id="fr-shall-1"><a href="/a_careful_examination/did-helen-mar-kimball-misunderstand/#fn-shall">[1]</a></sup></li>
@@ -162,7 +284,8 @@ blessing is a conglomerate of conditional unconditional statements.</p>
 </ol>
 <p>Most importantly, at least some of these promises are clearly directed towards
 the entire family: “… these promises I Seal upon <em>all of their heads</em> …”</p>
-<h4 id="reconciling-the-conditional-unconditionals">Reconciling the conditional unconditionals</h4>
+<h4 id="reconciling-the-conditional-unconditionals">Reconciling the conditional unconditionals<a class="zola-anchor" href="#reconciling-the-conditional-unconditionals" aria-label="Anchor link for: reconciling-the-conditional-unconditionals"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Joseph Smith’s proposal to Lucy Walker, according to a later reminiscence of
 Lucy, included verbiage of a gate being closed were she to “reject this
 message”:</p>
@@ -181,11 +304,13 @@ only on continual righteous.  By entering into plural marriage with Joseph,
 Helen had entered into “the gate” to secure these higher blessings.</p>
 <p>In colloquial terms, the promises were <em>guaranteed</em> but certain terms and
 conditions still apply for the guarantee to be honored.</p>
-<h3 id="dramatic-reversal-of-position">Dramatic reversal of position</h3>
+<h3 id="dramatic-reversal-of-position">Dramatic reversal of position<a class="zola-anchor" href="#dramatic-reversal-of-position" aria-label="Anchor link for: dramatic-reversal-of-position"><i class="fas fa-link"></i></a> 
+</h3>
 <p>[discuss how HMK was very non-plussed about the situation and what Joseph
 Smith said was a huge turning point in her mind.  Did she really misunderstand or did
 Joseph oversell it?]</p>
-<h3 id="why-we-do-not-marry-14-year-olds">Why we do not marry 14 year olds</h3>
+<h3 id="why-we-do-not-marry-14-year-olds">Why we do not marry 14 year olds<a class="zola-anchor" href="#why-we-do-not-marry-14-year-olds" aria-label="Anchor link for: why-we-do-not-marry-14-year-olds"><i class="fas fa-link"></i></a> 
+</h3>
 <p>[If Hales’s argument is correct, then this is a great reason not to marry 14
 year olds (regardless of whether you have sex with them)!]</p>
 <p>[Why didn’t Joseph postpone the marriage?  What was the rush??]</p>
@@ -200,16 +325,15 @@ either immediately or deferred]</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -224,105 +348,9 @@ either immediately or deferred]</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

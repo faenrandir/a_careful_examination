@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The LDS garment and modesty | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The LDS garment and modesty | A Careful Examination</title>
+<meta property="og:title" content="The LDS garment and modesty | A Careful Examination" />
+<meta name="twitter:title" content="The LDS garment and modesty | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/garments-and-modesty/">
-  
+  <meta property="og:url" content="/a_careful_examination/garments-and-modesty/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The LDS garment and modesty</h1>
@@ -103,17 +219,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Recent <a rel="external" href="https://www.sltrib.com/religion/2024/10/17/latter-day-saints-react-news/">changes to LDS garments for hot climates</a> have sparked discussion about the connection between garments and modesty. Although garments are officially described as symbols of temple covenants, they also seem to function as a modesty standard—especially for women.</p>
 <p>Some, like <a rel="external" href="https://www.instagram.com/vikafroelich/reel/DH1e06_yJQN/">LDS media influencer Victoria Froelich</a>, argue that the link between garments and modesty is more cultural than doctrinal. Others maintain that modesty is a core, unchanging principle tied to the garment.</p>
 <p>The Church states that garments are symbolic, but modesty is emphasized in official publications, lesson manuals, and Church media. Below is a collection of quotes and materials from <em>churchofjesuschrist.org</em> related to garments and modesty.</p>
 <hr />
-<h2 id="statements-on-churchofjesuschrist-org">Statements on churchofjesuschrist.org</h2>
+<h2 id="statements-on-churchofjesuschrist-org">Statements on churchofjesuschrist.org<a class="zola-anchor" href="#statements-on-churchofjesuschrist-org" aria-label="Anchor link for: statements-on-churchofjesuschrist-org"><i class="fas fa-link"></i></a> 
+</h2>
 <p><em>As of 2025-04-02.</em></p>
-<h3 id="the-modest-temple-garment">“the modest temple garment”</h3>
+<h3 id="the-modest-temple-garment">“the modest temple garment”<a class="zola-anchor" href="#the-modest-temple-garment" aria-label="Anchor link for: the-modest-temple-garment"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From the <a rel="external" href="https://newsroom.churchofjesuschrist.org/article/temple-garments">LDS Newsroom: Temple Garments</a>:</p>
 <blockquote>
 <p>“…Similar in design to ordinary modest underclothing…”</p>
@@ -121,12 +241,14 @@
 <blockquote>
 <p>“To Church members, the modest temple garment, worn under normal clothing…”</p>
 </blockquote>
-<h3 id="encourages-modesty">“encourages modesty”</h3>
+<h3 id="encourages-modesty">“encourages modesty”<a class="zola-anchor" href="#encourages-modesty" aria-label="Anchor link for: encourages-modesty"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From the <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/gospel-topics/garments?lang=eng">Gospel Topics essay: Garments</a>:</p>
 <blockquote>
 <p>“In our day the garment encourages modesty, but its significance is much deeper. …”</p>
 </blockquote>
-<h3 id="wear-clothing-that-is-garment-appropriate">Wear clothing that is [garment appropriate]</h3>
+<h3 id="wear-clothing-that-is-garment-appropriate">Wear clothing that is [garment appropriate]<a class="zola-anchor" href="#wear-clothing-that-is-garment-appropriate" aria-label="Anchor link for: wear-clothing-that-is-garment-appropriate"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <em>Ensign</em> (now <em>Liahona</em>), March 2003 article <a rel="external" href="https://www.churchofjesuschrist.org/study/liahona/2003/03/everything-good-and-beautiful?lang=eng">Everything Good and Beautiful</a>:</p>
 <blockquote>
 <p>Set a family standard by always dressing appropriately yourself. If you have been to the temple, wear clothing that completely covers the garment. Even if you have not yet been to the temple, wear clothing that is appropriate to wear once you have. …</p>
@@ -141,8 +263,10 @@
 <p>“Immodest clothing includes short shorts and skirts, tight clothing, shirts that do not cover the stomach, and other revealing attire. Young women should wear clothing that covers the shoulder and avoid clothing that is low-cut in the front or the back or revealing in any other manner. Young men should also maintain modesty in their appearance.”</p>
 </blockquote>
 <hr />
-<h2 id="previously-on-churchofjesuschrist-org">Previously on churchofjesuschrist.org</h2>
-<h3 id="example-modesty-images-in-primary-lessons-emphasized-covering-shoulders">Example modesty images in Primary lessons emphasized covering shoulders</h3>
+<h2 id="previously-on-churchofjesuschrist-org">Previously on churchofjesuschrist.org<a class="zola-anchor" href="#previously-on-churchofjesuschrist-org" aria-label="Anchor link for: previously-on-churchofjesuschrist-org"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="example-modesty-images-in-primary-lessons-emphasized-covering-shoulders">Example modesty images in Primary lessons emphasized covering shoulders<a class="zola-anchor" href="#example-modesty-images-in-primary-lessons-emphasized-covering-shoulders" aria-label="Anchor link for: example-modesty-images-in-primary-lessons-emphasized-covering-shoulders"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From August 2016 Primary lesson <a rel="external" href="https://web.archive.org/web/20181010094330/https://www.lds.org/manual/2016-outline-for-sharing-time/august?lang=eng">My Body Is a Temple of God</a>:</p>
 <blockquote>
 <p>Encourage understanding: Discuss what dressing modestly means (see the “Dress and Appearance” section of <em>For the Strength of Youth</em>). Prepare several posters with “I will dress modestly by …” written at the top. Divide the children into groups, and ask each group to write their commitment to dress modestly or draw a picture of themselves in modest dress on one of the posters. Display the posters in the Primary room.</p>
@@ -150,8 +274,10 @@
 <p><img src="https://web.archive.org/web/20181010094330im_/https://broadcast.lds.org/crowdsource/mobile/images/1437317/79033a3923a244aba4c84cdcfa2dc6f6/460x597.jpg" alt="I will be modest primary lesson manual image" /><br />
 <em>Image from the lesson manual, illustrating modesty (note: covered shoulders)</em></p>
 <hr />
-<h2 id="suggesting-the-standard-should-will-not-change">Suggesting the standard should/will not change</h2>
-<h3 id="draw-some-rigid-parameters-beyond-which-you-will-not-go">Draw some rigid parameters … beyond which you will not go</h3>
+<h2 id="suggesting-the-standard-should-will-not-change">Suggesting the standard should/will not change<a class="zola-anchor" href="#suggesting-the-standard-should-will-not-change" aria-label="Anchor link for: suggesting-the-standard-should-will-not-change"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="draw-some-rigid-parameters-beyond-which-you-will-not-go">Draw some rigid parameters … beyond which you will not go<a class="zola-anchor" href="#draw-some-rigid-parameters-beyond-which-you-will-not-go" aria-label="Anchor link for: draw-some-rigid-parameters-beyond-which-you-will-not-go"><i class="fas fa-link"></i></a> 
+</h3>
 <p>As quoted in <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/2006/06/modesty-matters?lang=eng">Modesty Matters</a>, June 2006:</p>
 <blockquote>
 <p>A Protection Against Temptation</p>
@@ -162,7 +288,8 @@
 <blockquote>
 <p>—President Gordon B. Hinckley, “Stay on the High Road,” <em>Liahona</em> and <em>Ensign</em>, May 2004, 114.</p>
 </blockquote>
-<h3 id="never-lower-your-standards-of-dress">Never lower your standards of dress</h3>
+<h3 id="never-lower-your-standards-of-dress">Never lower your standards of dress<a class="zola-anchor" href="#never-lower-your-standards-of-dress" aria-label="Anchor link for: never-lower-your-standards-of-dress"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From the <em>For the Strength of Youth</em> pamphlet <a rel="external" href="https://web.archive.org/web/20220309023153/https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/ForTheStrengthOfYouth-eng.pdf?lang=eng">retrieved from the Wayback Machine, 28 Dec 2019</a>:</p>
 <blockquote>
 <p>Never lower your standards of dress. Do not use a special occasion as an excuse to be immodest. When you dress immodestly, you send a message that is contrary to your identity as a son or daughter of God. You also send the message that you are using your body to get attention and approval.</p>
@@ -171,16 +298,15 @@
 <p><strong>Immodest clothing is any clothing that is tight, sheer, or revealing in any other manner</strong>. Young women should avoid short shorts and short skirts, shirts that do not cover the stomach, <strong>and clothing that does not cover the shoulders</strong> or is low-cut in the front or the back. Young men should also maintain modesty in their appearance. Young men and young women should be neat and clean and avoid being extreme or inappropriately casual in clothing, hairstyle, and behavior. They should choose appropriately modest apparel when participating in sports. <strong>The fashions of the world will change, but the Lord’s standards will not change.</strong></p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -195,105 +321,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

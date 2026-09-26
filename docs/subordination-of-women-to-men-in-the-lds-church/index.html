@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Subordination of women to men in the LDS Church | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Subordination of women to men in the LDS Church | A Careful Examination</title>
+<meta property="og:title" content="Subordination of women to men in the LDS Church | A Careful Examination" />
+<meta name="twitter:title" content="Subordination of women to men in the LDS Church | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/subordination-of-women-to-men-in-the-lds-church/">
-  
+  <meta property="og:url" content="/a_careful_examination/subordination-of-women-to-men-in-the-lds-church/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Subordination of women to men in the LDS Church</h1>
@@ -103,35 +219,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#in-the-temple">In the Temple</a></li>
-        
-          <li><a href="#submission-to-a-really-righteous-husband-in-everything">Submission to a really righteous husband in everything</a></li>
-        
-          <li><a href="#don-t-talk-too-much">Don’t talk too much</a></li>
-        
-          <li><a href="#storm-relief">Storm relief</a></li>
-        
-          <li><a href="#god-does-not-reveal-any-great-principle-through-women">God does not reveal any great principle through women</a></li>
-        
-          <li><a href="#chieko-n-okazaki-s-experiences">Chieko N. Okazaki’s experiences</a></li>
-        
-          <li><a href="#measuring-equality">Measuring equality</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>In many ways, women in the LDS Church are subordinate to men.  A few formal and informal examples follow.</p>
-<h3 id="in-the-temple">In the Temple</h3>
+  
+  
+
+  <div class="post-content">
+    <p>In many ways, women in the LDS Church are subordinate to men.  A few formal and informal examples follow.</p>
+<h3 id="in-the-temple">In the Temple<a class="zola-anchor" href="#in-the-temple" aria-label="Anchor link for: in-the-temple"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Until January 1, 2019, women were subordinate to men in the temple in the following ways:</p>
 <ol>
 <li>Adam helps make the earth; Eve does not.</li>
@@ -148,57 +242,65 @@
 <li>In the sealing, <a rel="external" href="https://www.quora.com/What-are-the-covenants-that-are-made-in-a-Mormon-temple">only women give themselves to their husband</a> (men and women both receive one another).</li>
 </ol>
 <p><em>With correction and some modification, from <a rel="external" href="http://exmormon.org/phorum/read.php?2,1305696,1305696,quote=1">here</a></em></p>
-<h3 id="submission-to-a-really-righteous-husband-in-everything">Submission to a really righteous husband in everything</h3>
+<h3 id="submission-to-a-really-righteous-husband-in-everything">Submission to a really righteous husband in everything<a class="zola-anchor" href="#submission-to-a-really-righteous-husband-in-everything" aria-label="Anchor link for: submission-to-a-really-righteous-husband-in-everything"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>A woman would have no fears of being imposed upon, nor of any dictatorial measures, nor of improper demands if the husband were self-sacrificing and worthy. <strong>Certainly no sane woman would hesitate to give submission to her own really righteous husband in everything.</strong> (emphasis added)</p>
 </blockquote>
 <p>Doctrines of the Gospel Student Manual, <a rel="external" href="https://www.churchofjesuschrist.org/manual/doctrines-of-the-gospel-student-manual/chapter-29-the-importance-of-the-family?lang=eng">ch. 29 The Importance of the Family</a> [quoting Spencer W. Kimball, in Stockholm Sweden Area Conference Report 1974, 46–47]</p>
-<h3 id="don-t-talk-too-much">Don’t talk too much</h3>
+<h3 id="don-t-talk-too-much">Don’t talk too much<a class="zola-anchor" href="#don-t-talk-too-much" aria-label="Anchor link for: don-t-talk-too-much"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Elder Ballard <a rel="external" href="https://www.youtube.com/watch?v=WSWPrzICnlQ">recently taught</a> in the Europe Area Sisters’ Meeting:</p>
 <blockquote>
 <p>Let your voices be heard.  We cannot meet our destiny as the Church of Jesus Christ of Latter-day Saints in preparing this world for the Second Coming of the Savior of the world without the support and the faith and the strength of the women of this church.  We need you; we need your voices.  They need to be heard. They need to be heard in your community, in your neighborhoods.  They need to be heard in your Ward Council or the Branch Council.  <strong>But don’t talk too much in those council meetings</strong>—just straighten the Brethren out quickly and move the work on!  We’re building the Kingdom of God!  We’re preparing the world for the Second Coming of the Savior and the Redeemer of the World. (emphasis added)</p>
 </blockquote>
 <p>This was originally posted on lds.org at this address: “https://www.churchofjesuschrist.org/broadcasts/watch/europe-area-sisters-meeting/2014/09?lang=eng” but it was subsequently pulled.</p>
-<h3 id="storm-relief">Storm relief</h3>
+<h3 id="storm-relief">Storm relief<a class="zola-anchor" href="#storm-relief" aria-label="Anchor link for: storm-relief"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Women were <a rel="external" href="https://www.reddit.com/r/exmormon/comments/6wrq0b/women_not_welcome/">excluded from at least some hurricane Harvey cleanup efforts</a>, even though males as young as 16 were included.</p>
-<h3 id="god-does-not-reveal-any-great-principle-through-women">God does not reveal any great principle through women</h3>
+<h3 id="god-does-not-reveal-any-great-principle-through-women">God does not reveal any great principle through women<a class="zola-anchor" href="#god-does-not-reveal-any-great-principle-through-women" aria-label="Anchor link for: god-does-not-reveal-any-great-principle-through-women"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph F. Smith <a rel="external" href="https://books.google.com/books?id=ombUAAAAMAAJ&amp;pg=PA257&amp;lpg=PA259#v=onepage&amp;q&amp;f=false">taught in the Oneida Stake Conference, January 20th 1895</a>:</p>
 <blockquote>
 <p><strong>Our Heavenly Father has never yet to my knowledge revealed to this Church any great principle through a woman</strong>. Now, sisters, do not cast me off nor deny the faith, because I tell you that god has never revealed any great and essential truth for the guidance of the Latter-day Saints through any woman. “Oh! but,” says one, “what about Eliza Snow’s beautiful hymn, ‘O my Father, Thou that dwellest,’ etc? Did not the Lord reveal through her that great and glorious principle that we have a mother as well as a father in heaven? No. God revealed that principle to Joseph Smith; Joseph Smith revealed it to Eliza Snow Smith, his wife; and Eliza Snow was inspired, being a poet, to put it into verse. If we give anybody on earth credit for that, we give it to the Prophet Joseph Smith. But first of all we give it to God, who revealed it to His servant the Prophet. <strong>God reveals Himself and His truths through the channels of the Priesthood</strong>.</p>
 </blockquote>
-<h3 id="chieko-n-okazaki-s-experiences">Chieko N. Okazaki’s experiences</h3>
+<h3 id="chieko-n-okazaki-s-experiences">Chieko N. Okazaki’s experiences<a class="zola-anchor" href="#chieko-n-okazaki-s-experiences" aria-label="Anchor link for: chieko-n-okazaki-s-experiences"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Chieko Okazaki was the first woman to serve on the general level of all three LDS women’s auxiliaries (Primary, YW, and RS).  After serving on the Primary General Board she became First Counselor of the Relief Society presidency, serving from 1990 to 1997.</p>
 <p>An interview of her by Greg Prince was published in <a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V45N01_CO.pdf#23">Dialogue: A Journal of Mormon Thought, 45, no. 1, 2012</a>.</p>
 <p><em>h/t Deepythoughts <a rel="external" href="https://www.reddit.com/r/exmormon/comments/a0dgqw/searching_for_ostracizing_quotes_toward_women/">here</a></em></p>
-<h4 id="on-writing-a-relief-society-manual">On writing a Relief Society manual</h4>
+<h4 id="on-writing-a-relief-society-manual">On writing a Relief Society manual<a class="zola-anchor" href="#on-writing-a-relief-society-manual" aria-label="Anchor link for: on-writing-a-relief-society-manual"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>I had written a general outline, and the Relief Society presidency approved it. So I talked about it to a man on the Curriculum Committee. He went to his boss, and the boss said, “We don’t need a new manual for the Relief Society.” “Why don’t we need a new manual?” “We already are writing a manual for them.” So he came back and told me that a new manual was already being prepared. I asked what it was, and he said, “Well, it’s the manual on Harold B. Lee.” It was the first one in that series of teachings of the Church presidents. I asked, “Why are they writing a manual for us on Harold B. Lee?” He didn’t know. I told the presidency, so we went and asked the Curriculum Committee, “What is this all about?” They said, “Well, we’re already almost finished with the first book.” We said, “You’re almost finished with the first book, and you didn’t tell us that you were doing this? Why is this is the first time we have heard about it? Chieko has been writing an outline in relation to what women need.” So I asked, “Who is writing this manual?” It turned out to be five men, and the Melchizedek Priesthood quorums and Relief Society would have the same lessons.</p>
 </blockquote>
-<h4 id="on-exclusion-from-committees">On exclusion from committees</h4>
+<h4 id="on-exclusion-from-committees">On exclusion from committees<a class="zola-anchor" href="#on-exclusion-from-committees" aria-label="Anchor link for: on-exclusion-from-committees"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>We asked one time if we could be on the building committee and the temple committee, because sometimes we think, “Why did they build it this way?”because it doesn’t work very well for the women’s needs. And we wanted to be on the temple committee, because there are many things that affect women in the temple. But we were never allowed to be a part of those committees.</p>
 </blockquote>
-<h4 id="on-the-proclamation-to-the-world">On the Proclamation to the World</h4>
+<h4 id="on-the-proclamation-to-the-world">On the Proclamation to the World<a class="zola-anchor" href="#on-the-proclamation-to-the-world" aria-label="Anchor link for: on-the-proclamation-to-the-world"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>In contrast, in 1995 when “The Family: A Proclamation to the World” was written, the Relief Society presidency was asked to come to a meeting. We did, and they read this proclamation. It was all finished. The only question was whether they should present it at the priesthood meeting or at the Relief Society meeting. It didn’t matter to me where it was presented. What I wanted to know was, “How come we weren’t consulted?” Greg Prince: You didn’t even know it was in the works? Chieko Okazaki: No. They just asked us which meeting to present it in, and we said, “Whatever President Hinckley decides is fine with us.” He decided to do it at the Relief Society meeting. The apostle who was our liaison said, “Isn’t it wonderful that he made the choice to present it at the Relief Society meeting?” Well, that was fine, but as I read it I thought that we could have made a few changes in it. Sometimes I think they get so busy that they forget that we are there.</p>
 </blockquote>
-<h3 id="measuring-equality">Measuring equality</h3>
+<h3 id="measuring-equality">Measuring equality<a class="zola-anchor" href="#measuring-equality" aria-label="Anchor link for: measuring-equality"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Measurements of equality confirm that women are considered subordinates in the LDS Church.  Kate Kelly <a rel="external" href="https://web.archive.org/web/20180909191849/http://www.dovesandserpents.org/wp/2013/10/equality-is-not-a-feeling/">articulated</a> the difference between feelings of equality and measurements of equality:</p>
 <blockquote>
 <p>I have heard from many women, ‘I see nothing wrong with the status quo. I feel equal.’ To them I say: ‘You can feel respected, supported and validated in the church, but equality can be measured. Equality is not a feeling. In our church men and women are not equal.</p>
 </blockquote>
 <p>See <a rel="external" href="https://web.archive.org/web/20230325233324/http://www.dovesandserpents.org/wp/category/columns/equality-is-not-feeling/">the Equality Archive</a> at Doves &amp; Serpents for many specific examples.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -213,105 +315,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

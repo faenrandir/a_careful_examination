@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Response to claim that all originate with Brodie, pt 1 | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Response to claim that all originate with Brodie, pt 1 | A Careful Examination</title>
+<meta property="og:title" content="Response to claim that all originate with Brodie, pt 1 | A Careful Examination" />
+<meta name="twitter:title" content="Response to claim that all originate with Brodie, pt 1 | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-facebook-claim-all-originate-with-brodie/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-facebook-claim-all-originate-with-brodie/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Response to claim that all originate with Brodie, pt 1</h1>
@@ -113,42 +229,24 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#i-wrote-several-of-the-linked-articles-and-i-ve-never-read-brodie">I wrote several of the linked articles and I’ve never read Brodie</a></li>
-        
-          <li><a href="#the-other-sources">The other sources</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-          <li><a href="#ad-hominem-as-distraction">Ad hominem as distraction</a></li>
-        
-          <li><a href="#i-welcome-correction">I welcome correction</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In response to the document <a rel="external" href="https://faenrandir.github.io/a_careful_examination/how-could-joseph-smith-composed-bom/">How could Joseph Smith have composed the Book of Mormon?</a>, the following comment was posted to facebook:</p>
 <blockquote>
 <p>It looks like all the above sources originate from Fawn McKay Brodie who was a well known anti-Mormon writer. She was also a Freudian psychoanalyst. Her works on Joseph Smith are considered dubious by many scholars. Search FairMormon Wiki (as a start) for responses to all things Brodie.</p>
 </blockquote>
 <p>Thanks for raising this concern.  If Brodie is a dubious source and “all the above sources originate from [her]” then that would be cause for great concern.</p>
-<h2 id="i-wrote-several-of-the-linked-articles-and-i-ve-never-read-brodie">I wrote several of the linked articles and I’ve never read Brodie</h2>
+<h2 id="i-wrote-several-of-the-linked-articles-and-i-ve-never-read-brodie">I wrote several of the linked articles and I’ve never read Brodie<a class="zola-anchor" href="#i-wrote-several-of-the-linked-articles-and-i-ve-never-read-brodie" aria-label="Anchor link for: i-wrote-several-of-the-linked-articles-and-i-ve-never-read-brodie"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A huge chunk of what I have posted and linked to is my own original research using primary source documents.  I’ve actually never read Fawn Brodie’s book.  I studiously avoided the book while a member of the Church.  Several years after my faith transition I tried to read it but never got more than a couple of pages into it—I’m far more interested in the primary documents and most of those are easily accessible today.</p>
 <p>I’ve been writing on and researching Mormonism for a while now, and I am careful about citing my sources.  You can search <a rel="external" href="https://faenrandir.github.io/a_careful_examination/">all of my research</a> for “Brodie” and you will find her mentioned in only <a rel="external" href="https://duckduckgo.com/?t=lm&amp;q=site%3Ahttps%3A%2F%2Ffaenrandir.github.io%2Fa_careful_examination%2F+Brodie&amp;ia=web">3 of my ~377 documents</a> totaling about 400,000 words.  I personally only cited her <a rel="external" href="https://faenrandir.github.io/a_careful_examination/short-critique-metal-tablets-as-evidence-for-bom/">one time</a> and that was when I was unable to find a primary source document and so was relying on her conveyance of a newspaper article from Joseph Smith’s time.  Another mention was by Tad Callister and I was <a rel="external" href="https://faenrandir.github.io/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/">only quoting Callister</a>. The third mention of her was in <a rel="external" href="https://faenrandir.github.io/a_careful_examination/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/">an analysis of one of Brian Hales’s documents</a> where he used Brodie to buttress one of his points, and I was discussing the merit of her analysis of Joseph Smith’s polygamy denials.</p>
 <p>Hence, since I wrote many of the documents cited your claim “all the above sources originate from … Brodie” seems factually incorrect on those grounds.</p>
-<h2 id="the-other-sources">The other sources</h2>
+<h2 id="the-other-sources">The other sources<a class="zola-anchor" href="#the-other-sources" aria-label="Anchor link for: the-other-sources"><i class="fas fa-link"></i></a> 
+</h2>
 <p>We can also dig into each of the other documents and authors I reference to understand whether they “originate” from Brodie.</p>
 <ol>
 <li>
@@ -198,9 +296,11 @@
 <p>I also cited one document inline which is not represented in the bulleted documents which was an exchange with Brent Metcalfe on the Mormon historian facebook group.  He conveys his own personal observations and primary data which he links to on the Joseph Smith Papers project.  It is difficult to imagine any direct influence from Brodie on his observation.</p>
 </li>
 </ol>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>So, of 17 links, 15 do not appear to “originate” with Brodie by any reasonable stretch.  Several of these reference ideas or research generated decades after she wrote on Joseph Smith (and some directly contradict her position at the time, like the Mosiah Priority).  I acknowledge that Hamer (2 of the links) was inspired by Brodie when he was younger, but as an actual published historian we also expect that his syntheses are original (although I’m open to demonstrations of <em>how</em> his commentary “originates” with Brodie).</p>
-<h2 id="ad-hominem-as-distraction">Ad hominem as distraction</h2>
+<h2 id="ad-hominem-as-distraction">Ad hominem as distraction<a class="zola-anchor" href="#ad-hominem-as-distraction" aria-label="Anchor link for: ad-hominem-as-distraction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>To some extent, though, all of this seems like a distraction.  Does it ultimately matter if an idea or primary reference first originated with or was discovered by Brodie?</p>
 <p>Let’s just say that Brodie was wrong 50% of the time and correct 50% of the time.  If we only referenced the 50% of her work that was correct and repudiated the other 50% that was wrong, then we are correct 100% of the time, even if we referenced Brodie.  Ultimately, <em>it’s not about Brodie</em> but rather the accuracy of any given claim.</p>
 <p>If her claims (or anyone’s claims) are based on sound evidence and even-handed analysis then, barring additional evidence or superior argumentation, we should adopt those.  If her claims (or anyone’s claims) are based on bad evidence or biased/poor analysis then we should reject those.</p>
@@ -212,20 +312,20 @@
 <pre><code>* Which, if any, of these claims are relevant to my analysis?
 * Is it possible to fairly interpret the data in a manner that differs from FairMormon?
 </code></pre>
-<h2 id="i-welcome-correction">I welcome correction</h2>
+<h2 id="i-welcome-correction">I welcome correction<a class="zola-anchor" href="#i-welcome-correction" aria-label="Anchor link for: i-welcome-correction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I am careful about my work and will correct anything that is wrong, that is unfair, or that lacks even-handedness.  I welcome your corrections and suggestions.</p>
 <p>edits: some grammar issues; minor changes in tone; formatting</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -240,105 +340,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -34,29 +34,36 @@
     <h2>Browse the Collection</h2>
     <div class="category-grid">
       {% set cat_terms = get_taxonomy(kind="categories") %}
+      {% set groups = cat_terms.items | group_by(attribute="slug") %}
+      {% set slugs = groups | keys %}
       {% for cat_name, cat_desc in config.extra.categories %}
-      {% set cat_term = "" %}
-      {% for term in cat_terms %}
-        {% if term.name == cat_name %}
-          {% set cat_term = term %}
-        {% endif %}
-      {% endfor %}
-      <section class="category-card">
-        <h3><a href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">{{ cat_name }}</a></h3>
-        <p class="category-desc">{{ cat_desc }}</p>
-        <ul class="featured-links">
-          {% if cat_term %}
-            {% set count = 0 %}
-            {% for page in cat_term.pages %}
-              {% if count < 5 %}
-              <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-              {% set count = count + 1 %}
-              {% endif %}
-            {% endfor %}
+        {% if cat_name in slugs %}
+          {% set cat_term = groups[cat_name][0] %}
+          <section class="category-card">
+            <h3><a href="{{ cat_term.permalink | safe }}">{{ cat_name }}</a></h3>
+            <p class="category-desc">{{ cat_desc }}</p>
+            <ul class="featured-links">
+              {% for page in cat_term.pages %}
+                {% if loop.index0 < 5 %}
+                <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+            <a class="view-all" href="{{ cat_term.permalink | safe }}">View all →</a>
+          </section>
+        {% else %}
+          {% if cat_name == "book-of-mormon" %}
+            {% set cat_href = config.base_url | safe ~ "/documents/book_of_mormon/" %}
+          {% else %}
+            {% set cat_href = config.base_url | safe ~ "/browse/" %}
           {% endif %}
-        </ul>
-        <a class="view-all" href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">View all →</a>
-      </section>
+          <section class="category-card">
+            <h3><a href="{{ cat_href | safe }}">{{ cat_name }}</a></h3>
+            <p class="category-desc">{{ cat_desc }}</p>
+            <ul class="featured-links"></ul>
+            <a class="view-all" href="{{ cat_href | safe }}">View all →</a>
+          </section>
+        {% endif %}
       {% endfor %}
     </div>
   </section>
@@ -64,14 +71,12 @@
   <section class="recently-updated">
     <h2>Recently Updated</h2>
     <ul class="resource-list">
-      {% set count = 0 %}
       {% for page in section.pages | sort(attribute="updated", reverse=true) %}
-        {% if count < 8 %}
+        {% if loop.index0 < 8 %}
         <li class="resource-item">
           <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
           <time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %d, %Y') }}</time>
         </li>
-        {% set count = count + 1 %}
         {% endif %}
       {% endfor %}
     </ul>

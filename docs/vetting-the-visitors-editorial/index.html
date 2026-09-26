@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vetting (potentially) divine visitors | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Vetting (potentially) divine visitors | A Careful Examination</title>
+<meta property="og:title" content="Vetting (potentially) divine visitors | A Careful Examination" />
+<meta name="twitter:title" content="Vetting (potentially) divine visitors | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/vetting-the-visitors-editorial/">
-  
+  <meta property="og:url" content="/a_careful_examination/vetting-the-visitors-editorial/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,21 +168,14 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Vetting (potentially) divine visitors</h1>
       
-      <div class="last-update">last update: 2026-09-10</div>
+      <div class="last-update">last update: 2026-09-26</div>
       
     
 
@@ -74,8 +190,8 @@
       
       
       
-      <time class="resource-updated" datetime="2026-09-10">
-        Updated: Sep 10, 2026
+      <time class="resource-updated" datetime="2026-09-26">
+        Updated: Sep 26, 2026
       </time>
       
     </div>
@@ -83,40 +199,98 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
+  
+  <div class="toc" data-pagefind-ignore>
+    <strong>Contents</strong>
+    <div>
+      <nav id="TableOfContents">
         <ul>
         
-          <li><a href="#draft-outline">Draft outline</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#draft-outline">Draft outline</a>
+            
+          </li>
         
-          <li><a href="#introduction">Introduction</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#introduction">Introduction</a>
+            
+          </li>
         
-          <li><a href="#signal-processing">Signal processing</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#signal-processing">Signal processing</a>
+            
+          </li>
         
-          <li><a href="#subjective-and-objective-experience">Subjective and objective experience</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#subjective-and-objective-experience">Subjective and objective experience</a>
+            
+          </li>
         
-          <li><a href="#potential-for-good">Potential for good</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#potential-for-good">Potential for good</a>
+            
+          </li>
         
-          <li><a href="#potential-for-harm">Potential for harm</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#potential-for-harm">Potential for harm</a>
+            
+            <ul>
+            
+              <li>
+                <a href="/a_careful_examination/vetting-the-visitors-editorial/#the-agentic-state">The agentic state</a>
+                
+              </li>
+            
+            </ul>
+            
+          </li>
         
-          <li><a href="#the-tests">The Tests</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#the-tests">The Tests</a>
+            
+            <ul>
+            
+              <li>
+                <a href="/a_careful_examination/vetting-the-visitors-editorial/#test-for-objective-existence">Test for objective existence</a>
+                
+              </li>
+            
+              <li>
+                <a href="/a_careful_examination/vetting-the-visitors-editorial/#test-for-potential-omniscience">Test for potential omniscience</a>
+                
+              </li>
+            
+              <li>
+                <a href="/a_careful_examination/vetting-the-visitors-editorial/#test-for-omnibenevolence">Test for omnibenevolence</a>
+                
+              </li>
+            
+            </ul>
+            
+          </li>
         
-          <li><a href="#precedent-and-equivalencies">Precedent and equivalencies</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#precedent-and-equivalencies">Precedent and equivalencies</a>
+            
+          </li>
         
-          <li><a href="#conclusions">Conclusions</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#conclusions">Conclusions</a>
+            
+          </li>
         
-          <li><a href="#see-also">See also</a></li>
+          <li>
+            <a href="/a_careful_examination/vetting-the-visitors-editorial/#see-also">See also</a>
+            
+          </li>
         
         </ul>
       </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[VERY ROUGH DRAFT]</p>
+    </div>
+  </div>
+
+  <div class="post-content">
+    <p>[VERY ROUGH DRAFT]</p>
 <p>[[EXTENDED ABSTRACT]]</p>
 <p>This paper proposes a framework for evaluating claims of communication with divine or otherwise transcendent third-party beings. The central concern is epistemic: when an individual experiences what appears to be communication from an independent, intelligent agent (e.g., God, spirits, angels, visions), how can they determine whether the experience corresponds to an objectively existing third party or is instead auto-generated by their own cognitive processes?</p>
 <p>The paper situates the problem within signal processing and information theory. Just as signal processing distinguishes true signal from noise, human cognition must distinguish externally sourced information from internally generated experience. Receiver operating characteristic (ROC) analysis is invoked as an analogy: increasing sensitivity to perceived divine communication increases false positives (mistaking internal processes for external communication), while decreasing sensitivity reduces false positives but increases false negatives (missing genuine communication, if it exists). This establishes the tradeoff inherent in calibrating belief.</p>
@@ -126,7 +300,8 @@
 <p>Finally, the paper addresses omnibenevolence. Even if objectivity and superior intelligence were established, benevolence remains difficult to verify. A sufficiently intelligent being could deceive for extended periods. Thus, caution is warranted, and trust should be earned gradually, analogous to human relationships.</p>
 <p>The paper situates these concerns within LDS historical precedent, noting that institutional structures already impose constraints on claimed revelation. It concludes by implying that epistemic humility and systematic testing are warranted before surrendering agency to any purported divine communicator.</p>
 <hr />
-<h2 id="draft-outline">Draft outline</h2>
+<h2 id="draft-outline">Draft outline<a class="zola-anchor" href="#draft-outline" aria-label="Anchor link for: draft-outline"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Signal processing and information theory: Distinguishing between 3rd party and auto-generated signals</p>
 <ul>
 <li>People claim to be communicating with 3rd parties</li>
@@ -145,72 +320,84 @@
 <li>Is the entity interested in our (collective) well-being?</li>
 </ul>
 <p>[[EDITORIAL NOTE: Consider briefly defining “auto-generated signals” in cognitive or neuroscientific terms (e.g., predictive processing, confabulation, auditory verbal hallucinations) to anchor the analogy more concretely.]]</p>
-<h2 id="introduction">Introduction</h2>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: You may want to clarify early whether this paper is addressing believers, skeptics, or both. Stating your intended audience would sharpen the framing.]]</p>
 <p>…</p>
-<h2 id="signal-processing">Signal processing</h2>
+<h2 id="signal-processing">Signal processing<a class="zola-anchor" href="#signal-processing" aria-label="Anchor link for: signal-processing"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: The ROC analogy is promising but currently underdeveloped. Consider adding a concrete mapping table: receptor sensitivity → spiritual receptivity; false positives → mistaking internal states for revelation; false negatives → dismissing genuine revelation. A visual ROC curve adapted to the divine-communication problem could significantly strengthen this section.]]</p>
 <p>[[EDITORIAL NOTE: You might reference Bayesian reasoning explicitly. The question of divine communication is fundamentally about prior probability and likelihood ratios. This would reinforce the signal-processing analogy.]]</p>
-<h2 id="subjective-and-objective-experience">Subjective and objective experience</h2>
+<h2 id="subjective-and-objective-experience">Subjective and objective experience<a class="zola-anchor" href="#subjective-and-objective-experience" aria-label="Anchor link for: subjective-and-objective-experience"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>Fully XXXXX % of individuals hallucinate and a significant portion of the population experiences hallucinations of such vividness that they are not able to distinguish them from an objective reality (XXXX add source XXXX).</p>
 <p>[[EDITORIAL NOTE: Insert epidemiological data on lifetime prevalence of hallucinations in the general population (non-clinical). Research suggests figures ranging roughly from 5–15% depending on definition. Provide citation to peer-reviewed literature rather than secondary summaries.]]</p>
 <p>[[EDITORIAL NOTE: Consider distinguishing between pathological hallucinations and non-pathological anomalous experiences. This prevents overgeneralization and increases credibility.]]</p>
 <p>…</p>
-<h2 id="potential-for-good">Potential for good</h2>
+<h2 id="potential-for-good">Potential for good<a class="zola-anchor" href="#potential-for-good" aria-label="Anchor link for: potential-for-good"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[gather more examples of potential for good]</p>
 <p>[[EDITORIAL NOTE: Add at least 2–3 well-documented cases where claimed divine impressions plausibly prevented harm, ideally with corroboration. Balance anecdotal tone with caution about post hoc interpretation.]]</p>
 <p>[[EDITORIAL NOTE: You might include examples from medical intuition claims, disaster avoidance impressions, or historical religious reform movements that yielded measurable social good.]]</p>
-<h2 id="potential-for-harm">Potential for harm</h2>
+<h2 id="potential-for-harm">Potential for harm<a class="zola-anchor" href="#potential-for-harm" aria-label="Anchor link for: potential-for-harm"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: Consider grouping the violent examples into a summarized paragraph rather than a long bullet list, unless rhetorical impact is the goal. Too many headlines may weaken perceived rigor.]]</p>
 <p>[[EDITORIAL NOTE: Clarify whether you are arguing that divine communication causes harm, or that misattribution of internal cognition to divine authority amplifies harm. The latter is more defensible and consistent with your framework.]]</p>
 <p>…</p>
-<h3 id="the-agentic-state">The agentic state</h3>
+<h3 id="the-agentic-state">The agentic state<a class="zola-anchor" href="#the-agentic-state" aria-label="Anchor link for: the-agentic-state"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 <p>[[EDITORIAL NOTE: It may strengthen this section to briefly mention related constructs: locus of control, moral disengagement, diffusion of responsibility, and authority bias. This situates Milgram within a broader literature.]]</p>
 <p>[[EDITORIAL NOTE: You could clarify that the “agentic state” does not eliminate agency but redistributes perceived moral responsibility.]]</p>
-<h2 id="the-tests">The Tests</h2>
+<h2 id="the-tests">The Tests<a class="zola-anchor" href="#the-tests" aria-label="Anchor link for: the-tests"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: Consider prefacing the tests with a brief epistemological clarification: these are falsification-oriented tests, not confirmation-oriented tests.]]</p>
-<h3 id="test-for-objective-existence">Test for objective existence</h3>
+<h3 id="test-for-objective-existence">Test for objective existence<a class="zola-anchor" href="#test-for-objective-existence" aria-label="Anchor link for: test-for-objective-existence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 <p>[[EDITORIAL NOTE: It would help to summarize each linked test in 1–2 sentences so the paper stands alone without requiring navigation.]]</p>
 <p>[[EDITORIAL NOTE: Define “high-information transmission” quantitatively (e.g., Shannon entropy, unpredictability relative to prior knowledge). This would strengthen the analytic tone.]]</p>
-<h3 id="test-for-potential-omniscience">Test for potential omniscience</h3>
+<h3 id="test-for-potential-omniscience">Test for potential omniscience<a class="zola-anchor" href="#test-for-potential-omniscience" aria-label="Anchor link for: test-for-potential-omniscience"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 <p>[[EDITORIAL NOTE: You might formalize the “minimum threshold” idea. For example: propose a prediction task with pre-registered criteria, time-locked, and publicly verifiable outcomes.]]</p>
 <p>[[EDITORIAL NOTE: Address the problem of vague prophecy explicitly (Barnum statements, post hoc reinterpretation).]]</p>
-<h3 id="test-for-omnibenevolence">Test for omnibenevolence</h3>
+<h3 id="test-for-omnibenevolence">Test for omnibenevolence<a class="zola-anchor" href="#test-for-omnibenevolence" aria-label="Anchor link for: test-for-omnibenevolence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 <p>[[EDITORIAL NOTE: This is philosophically the strongest and most underdeveloped section. You might engage briefly with classical theodicy, skeptical theism, or alignment problems (AI alignment literature provides a useful analogy).]]</p>
 <p>[[EDITORIAL NOTE: Consider whether moral consistency over time, willingness to submit to reciprocal moral constraints, or transparency of reasoning could serve as provisional indicators.]]</p>
-<h2 id="precedent-and-equivalencies">Precedent and equivalencies</h2>
+<h2 id="precedent-and-equivalencies">Precedent and equivalencies<a class="zola-anchor" href="#precedent-and-equivalencies" aria-label="Anchor link for: precedent-and-equivalencies"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: Expand this section. Briefly summarize how LDS leadership historically constrained claims of revelation (e.g., stewardship boundaries, harmony with prior revelation, institutional ratification). This strengthens your argument that vetting is not foreign to faith traditions.]]</p>
 <p>[[EDITORIAL NOTE: You might draw equivalence to scientific peer review or legal standards of evidence as parallel institutional vetting mechanisms.]]</p>
-<h2 id="conclusions">Conclusions</h2>
+<h2 id="conclusions">Conclusions<a class="zola-anchor" href="#conclusions" aria-label="Anchor link for: conclusions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p>[[EDITORIAL NOTE: The conclusion should restate the central thesis: the epistemic burden scales with the potential magnitude of consequences. You may wish to explicitly argue that caution is a moral obligation when authority claims are extraordinary.]]</p>
 <p>[[EDITORIAL NOTE: The Star Trek reference is rhetorically effective but shifts tone. Decide whether you want a philosophical ending or a cultural one. If retained, briefly connect it analytically to your thesis.]]</p>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Confirmation bias</p>
 <p>[[EDITORIAL NOTE: Add links to related cognitive biases: hyperactive agency detection, patternicity, authority bias, motivated reasoning.]]</p>
 <p>[[EDITORIAL NOTE: Complete this footnote. Likely define “subjective communication” as internally generated experience lacking independent verification, while acknowledging phenomenological realism to the experiencer.]]</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -225,105 +412,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

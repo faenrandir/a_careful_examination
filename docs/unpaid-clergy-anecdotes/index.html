@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Unpaid clergy anecdotes | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Unpaid clergy anecdotes | A Careful Examination</title>
+<meta property="og:title" content="Unpaid clergy anecdotes | A Careful Examination" />
+<meta name="twitter:title" content="Unpaid clergy anecdotes | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/unpaid-clergy-anecdotes/">
-  
+  <meta property="og:url" content="/a_careful_examination/unpaid-clergy-anecdotes/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Unpaid clergy anecdotes</h1>
@@ -93,33 +209,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#lds-living-article">LDS Living Article</a></li>
-        
-          <li><a href="#we-have-no-paid-clergy">We have no paid clergy</a></li>
-        
-          <li><a href="#online-chat-with-missionaries">Online chat with missionaries</a></li>
-        
-          <li><a href="#asking-sets-of-missionaries">Asking sets of missionaries</a></li>
-        
-          <li><a href="#by-common-consent-anecdotes">By Common Consent anecdotes</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="lds-living-article">LDS Living Article</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="lds-living-article">LDS Living Article<a class="zola-anchor" href="#lds-living-article" aria-label="Anchor link for: lds-living-article"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The LDS Living article <a rel="external" href="http://www.ldsliving.com/10-Reasons-You-Should-Be-a-Mormon/s/80340">10 Reasons You Should Be Mormon</a> initially ran with this statement:</p>
 <blockquote>
-<h3 id="we-have-no-paid-clergy">We have no paid clergy</h3>
+<h3 id="we-have-no-paid-clergy">We have no paid clergy<a class="zola-anchor" href="#we-have-no-paid-clergy" aria-label="Anchor link for: we-have-no-paid-clergy"><i class="fas fa-link"></i></a> 
+</h3>
 </blockquote>
 <blockquote>
 <p>Most faiths have a paid bishop or pastor, and that’s their life career. But out of our 14+ million members worldwide, from the prophet to the bishops to the members, NO ONE is paid. It is because of our faith in Christ and in the order which God has used to create His Church that we are all willing to volunteer much of our time to it.</p>
@@ -131,7 +230,8 @@
 <blockquote>
 <p><em>A small aside:</em> To help settle some disputes, I feel I should mention that a small stipend for living expenses is served to the prophet and apostles. However, most have retired from successful jobs when they are called. There are also jobs associated with the Church media and such–but these are not callings. What I am getting at is that we don’t have people that go to school to become prophets and apostles and bishops and that becomes their job. They are called by God and volunteer their time to serve.</p>
 </blockquote>
-<h3 id="online-chat-with-missionaries">Online chat with missionaries</h3>
+<h3 id="online-chat-with-missionaries">Online chat with missionaries<a class="zola-anchor" href="#online-chat-with-missionaries" aria-label="Anchor link for: online-chat-with-missionaries"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The following conversation was <a rel="external" href="https://www.reddit.com/r/exmormon/comments/647s2j/why_dont_mormons_have_paid_clergy_faq_on/">reported to the exmormon subreddit April 8, 2017</a>.  (Emphasis added)</p>
 <blockquote>
 <p>[Elder1] Hello! How are you?</p>
@@ -193,12 +293,14 @@
 <blockquote>
 <p>[Elder1] Yeah. But everyone has the chance to behave and become more like Jesus Christ if they put their mind and heart to it.</p>
 </blockquote>
-<h3 id="asking-sets-of-missionaries">Asking sets of missionaries</h3>
+<h3 id="asking-sets-of-missionaries">Asking sets of missionaries<a class="zola-anchor" href="#asking-sets-of-missionaries" aria-label="Anchor link for: asking-sets-of-missionaries"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Reddit user GettingReadyToLive <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5nfh8h/mormonorg_chat_can_you_guess_what_they_told_me/dcc5d2i/">reported conversations with several sets of missionaries</a> about the existence of paid ministry<sup class="footnote-reference" id="fr-originalpost-1"><a href="/a_careful_examination/unpaid-clergy-anecdotes/#fn-originalpost">[1]</a></sup>:</p>
 <blockquote>
 <p>For fun, I asked four different sets about paid ministry. 2 sets emphatically insisted that there was no paid ministry, not even the Q12 or President. I didn’t press them further. Another set (late at night) actually knew that there was some kind of living allowance, and they were pretty up front about it. The last set also claimed that there was no paid ministry, but then I confronted them with the leaked news. They said they asked a supervisor and acknowledged the living allowance, but insisted it was a very small expense reimbursement.</p>
 </blockquote>
-<h3 id="by-common-consent-anecdotes">By Common Consent anecdotes</h3>
+<h3 id="by-common-consent-anecdotes">By Common Consent anecdotes<a class="zola-anchor" href="#by-common-consent-anecdotes" aria-label="Anchor link for: by-common-consent-anecdotes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In 2007, Kevin Barney wrote an article <a rel="external" href="https://bycommonconsent.com/2007/11/29/are-gas-paid-salaries-or-stipends/">Are GAs Paid Salaries or Stipends?</a>.  In it he stated:</p>
 <blockquote>
 <p>… many Saints have no idea that full-time GAs are paid; they assume they are like local bishops and serve without payment. This is not the case. When I correct this misimpression, how should I refer to these payments?</p>
@@ -215,16 +317,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -239,105 +340,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Endorsements | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Endorsements | A Careful Examination</title>
+<meta property="og:title" content="Endorsements | A Careful Examination" />
+<meta name="twitter:title" content="Endorsements | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/endorsements/">
-  
+  <meta property="og:url" content="/a_careful_examination/endorsements/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Endorsements</h1>
@@ -103,59 +219,18 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#candidate-to-moderate-r-mormon">Candidate to moderate /r/mormon</a></li>
-        
-          <li><a href="#objective-well-researched-heavily-sourced-and-positive-take">objective, well-researched, heavily-sourced, and positive take</a></li>
-        
-          <li><a href="#respectful-tone-corrects-misinformation-on-both-sides">Respectful tone; corrects misinformation on “both sides”</a></li>
-        
-          <li><a href="#true-academic">True academic</a></li>
-        
-          <li><a href="#responds-to-incivility-with-civility">Responds to incivility with civility</a></li>
-        
-          <li><a href="#extremely-measured-gives-credit">Extremely measured, gives credit</a></li>
-        
-          <li><a href="#one-of-the-most-insightful-redditors">one of the most insightful Redditors</a></li>
-        
-          <li><a href="#very-polite">very polite</a></li>
-        
-          <li><a href="#as-objective-as-possible">As objective as possible</a></li>
-        
-          <li><a href="#fantastic">Fantastic</a></li>
-        
-          <li><a href="#sizeable-amount-of-the-content-in-those-references">Sizeable amount of the content in those references</a></li>
-        
-          <li><a href="#well-organized-and-referenced">Well organized and referenced</a></li>
-        
-          <li><a href="#needs-to-be-the-new-ces-letter-we-all-hand-out">needs to be the new CES [Letter] we all hand out</a></li>
-        
-          <li><a href="#truly-appreciated-and-valuable-work">truly appreciated and valuable [work]</a></li>
-        
-          <li><a href="#amazing-scholarly-writings">Amazing scholarly writings</a></li>
-        
-          <li><a href="#scholarly-interesting">Scholarly/interesting</a></li>
-        
-          <li><a href="#fantastic-post">Fantastic post</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h4 id="candidate-to-moderate-r-mormon">Candidate to moderate /r/mormon</h4>
+  
+  
+
+  <div class="post-content">
+    <h4 id="candidate-to-moderate-r-mormon">Candidate to moderate /r/mormon<a class="zola-anchor" href="#candidate-to-moderate-r-mormon" aria-label="Anchor link for: candidate-to-moderate-r-mormon"><i class="fas fa-link"></i></a> 
+</h4>
 <p>/u/VultureofUruguay <a rel="external" href="https://www.reddit.com/r/mormon/comments/8simfu/bridge_building_with_new_moderators/e108lgd/?context=3">wrote</a>:</p>
 <blockquote>
 <p>Similar to Marmot, I’ve found /u/bwv549 to have good content and a respectful tone. <a rel="external" href="https://www.reddit.com/r/mormon/comments/8r20g1/_/e0vl96v">Here’s a great recent example.</a></p>
 </blockquote>
-<h4 id="objective-well-researched-heavily-sourced-and-positive-take">objective, well-researched, heavily-sourced, and positive take</h4>
+<h4 id="objective-well-researched-heavily-sourced-and-positive-take">objective, well-researched, heavily-sourced, and positive take<a class="zola-anchor" href="#objective-well-researched-heavily-sourced-and-positive-take" aria-label="Anchor link for: objective-well-researched-heavily-sourced-and-positive-take"><i class="fas fa-link"></i></a> 
+</h4>
 <p>/u/Practical_Condition <a rel="external" href="https://www.reddit.com/r/mormon/comments/ejmjs3/my_husband_is_trying_to_control_my_spirituality/fczvydb">wrote</a>:</p>
 <blockquote>
 <p>I’ve just gotta tell you, u/bwv549, I have LOVED your blog, “A Careful Examination.” I’ve never seen a more objective, well-researched, heavily-sourced, and positive take on the church. I found it looking for a response to Callister’s book, “A Case for the Book of Mormon” and loved your responses.</p>
@@ -163,12 +238,14 @@
 <blockquote>
 <p>I just saw your comment here and wanted to say thanks. :)</p>
 </blockquote>
-<h4 id="respectful-tone-corrects-misinformation-on-both-sides">Respectful tone; corrects misinformation on “both sides”</h4>
+<h4 id="respectful-tone-corrects-misinformation-on-both-sides">Respectful tone; corrects misinformation on “both sides”<a class="zola-anchor" href="#respectful-tone-corrects-misinformation-on-both-sides" aria-label="Anchor link for: respectful-tone-corrects-misinformation-on-both-sides"><i class="fas fa-link"></i></a> 
+</h4>
 <p>/u/Fuzzy_Thoughts <a rel="external" href="https://www.reddit.com/r/mormon/comments/8simfu/bridge_building_with_new_moderators/e10ugd5/">wrote</a>:</p>
 <blockquote>
 <p>/u/bwv549 is by far the best example of maintaining a respectful tone during debates as far as I’ve seen. His willingness to correct those with misinformation on “both sides of the aisle” has inspired me. I have been attempting to follow his example in my posts. His well-researched essays and criticical [sic] thinking have been instrumental in my ongoing faith transition.</p>
 </blockquote>
-<h4 id="true-academic">True academic</h4>
+<h4 id="true-academic">True academic<a class="zola-anchor" href="#true-academic" aria-label="Anchor link for: true-academic"><i class="fas fa-link"></i></a> 
+</h4>
 <p>From <a rel="external" href="https://www.reddit.com/r/mormon/comments/aq8eup/profiling_the_actors_on_the_stage_of_mormonism/">this post</a></p>
 <blockquote>
 <p>Complex Logic (Truth-Centered):</p>
@@ -179,32 +256,38 @@
 <blockquote>
 <p>Examples: Richard Dawkins &amp; Friends, <strong>u/bwv549</strong>, Fowler Stage 5.</p>
 </blockquote>
-<h4 id="responds-to-incivility-with-civility">Responds to incivility with civility</h4>
+<h4 id="responds-to-incivility-with-civility">Responds to incivility with civility<a class="zola-anchor" href="#responds-to-incivility-with-civility" aria-label="Anchor link for: responds-to-incivility-with-civility"><i class="fas fa-link"></i></a> 
+</h4>
 <p>/u/frogontrombone, acting as a moderator of MormonDoctrine, <a rel="external" href="https://www.reddit.com/r/MormonDoctrine/comments/88cc6z/salt_lake_tribune_tripe_10_the_doctrines_of_men/dwl29mk/?context=3">wrote</a>:</p>
 <blockquote>
 <p>However, as long as other mods agree, I will let this one post stand because other users (especially /u/bwv549) have decided to respond with civility despite the rule-breaking. I hope that this debate continues in a civil manner.</p>
 </blockquote>
-<h4 id="extremely-measured-gives-credit">Extremely measured, gives credit</h4>
+<h4 id="extremely-measured-gives-credit">Extremely measured, gives credit<a class="zola-anchor" href="#extremely-measured-gives-credit" aria-label="Anchor link for: extremely-measured-gives-credit"><i class="fas fa-link"></i></a> 
+</h4>
 <p>frogontrombone <a rel="external" href="https://www.reddit.com/r/mormon/comments/aai7nr/welcome_to_exmormon/ecujvd2/?context=3">wrote</a>:</p>
 <blockquote>
 <p>… I’ve really admired the approach of /u/bwv549. He is an unbeliever like me. However, he is always extremely measured in his arguments and is careful to give credit where it is due. His approach to debate and discourse made me realize that I was being too harsh and militant. I’ve followed his lead and attempted to soften my tone and ensure my arguments are as tight and balanced as possible.</p>
 </blockquote>
-<h4 id="one-of-the-most-insightful-redditors">one of the most insightful Redditors</h4>
+<h4 id="one-of-the-most-insightful-redditors">one of the most insightful Redditors<a class="zola-anchor" href="#one-of-the-most-insightful-redditors" aria-label="Anchor link for: one-of-the-most-insightful-redditors"><i class="fas fa-link"></i></a> 
+</h4>
 <p>A user who later deleted their profile <a rel="external" href="https://www.reddit.com/r/mormon/comments/a6ia93/how_did_you_decide_what_you_believe_or_not/ebw3f2g/">wrote</a>:</p>
 <blockquote>
 <p>Also, there are a lot of insightful Redditors to borrow from, and I think that one of the most insightful Redditors participating in this space at the moment (in a really accessible but stupidly smart way) is /u/bwv549 (among others, I’m just calling him out because he’s got this great summary of his beliefs that are handy and thoughtful).</p>
 </blockquote>
-<h4 id="very-polite">very polite</h4>
+<h4 id="very-polite">very polite<a class="zola-anchor" href="#very-polite" aria-label="Anchor link for: very-polite"><i class="fas fa-link"></i></a> 
+</h4>
 <p>MagusSanguis <a rel="external" href="https://www.reddit.com/r/exmormon/comments/9pcgds/text_convo_with_tbm_dw_not_going_well_feeing/e8114a9/?context=3">wrote</a>:</p>
 <blockquote>
 <p>Another thread earlier today by u/bwv549 on r/Mormon was a letter he wrote to Elder Oaks and Bednar about this very topic. I would highly recommend you read that letter. It’s very polite and matter of fact and addresses the stigma that non believers deal with.</p>
 </blockquote>
-<h4 id="as-objective-as-possible">As objective as possible</h4>
+<h4 id="as-objective-as-possible">As objective as possible<a class="zola-anchor" href="#as-objective-as-possible" aria-label="Anchor link for: as-objective-as-possible"><i class="fas fa-link"></i></a> 
+</h4>
 <p>In response to the question “Is there any “objective” Mormon historical research“, /u/Fuzzy_Thoughts <a rel="external" href="https://www.reddit.com/r/exmormon/comments/900n46/is_there_any_objective_mormon_historical_research/e2nee4g/?context=3">wrote</a>:</p>
 <blockquote>
 <p>/u/bwv549’s posts attempt to remain as objective as possible and let the data speak for itself.</p>
 </blockquote>
-<h4 id="fantastic">Fantastic</h4>
+<h4 id="fantastic">Fantastic<a class="zola-anchor" href="#fantastic" aria-label="Anchor link for: fantastic"><i class="fas fa-link"></i></a> 
+</h4>
 <p>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/apm8sm/love_the_growth_of_this_sub_over_the_last_few/">a post bemoaning the waning levels of scholarship on exmormon</a>:</p>
 <blockquote>
 <p>Love the growth of this sub [/r/exmormon] over the last few years. But also don’t love the dwindling amount of sources backing up sourcable information.</p>
@@ -213,32 +296,38 @@
 <blockquote>
 <p>Also, I recently found r/mormonscholar [which I started]. It is a great resource for anyone who is looking for a more scholarly critique of Mormonism. It is still small, but lots of posts there by u/bwv549, who is fantastic.</p>
 </blockquote>
-<h4 id="sizeable-amount-of-the-content-in-those-references">Sizeable amount of the content in those references</h4>
+<h4 id="sizeable-amount-of-the-content-in-those-references">Sizeable amount of the content in those references<a class="zola-anchor" href="#sizeable-amount-of-the-content-in-those-references" aria-label="Anchor link for: sizeable-amount-of-the-content-in-those-references"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Fuzzy Thoughts <a rel="external" href="https://www.reddit.com/r/exmormon/comments/agb8u1/detailed_response_to_january_2019_devotional_with/">wrote</a>:</p>
 <blockquote>
 <p>Credit to /u/bwv549 for creating a sizable amount of the content in those references!</p>
 </blockquote>
-<h4 id="well-organized-and-referenced">Well organized and referenced</h4>
+<h4 id="well-organized-and-referenced">Well organized and referenced<a class="zola-anchor" href="#well-organized-and-referenced" aria-label="Anchor link for: well-organized-and-referenced"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Fuzzy Thoughts <a rel="external" href="https://www.reddit.com/r/exmormon/comments/ae7e4t/omg_read_this_if_you_have_any_doubt_left_that/ednzvkb/">wrote</a>:</p>
 <blockquote>
 <p>I pretty much only send people material from his [bwv549’s] site… it’s so well organized and referenced.</p>
 </blockquote>
-<h4 id="needs-to-be-the-new-ces-letter-we-all-hand-out">needs to be the new CES [Letter] we all hand out</h4>
+<h4 id="needs-to-be-the-new-ces-letter-we-all-hand-out">needs to be the new CES [Letter] we all hand out<a class="zola-anchor" href="#needs-to-be-the-new-ces-letter-we-all-hand-out" aria-label="Anchor link for: needs-to-be-the-new-ces-letter-we-all-hand-out"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Browningtons1 <a rel="external" href="https://www.reddit.com/r/exmormon/comments/ae7e4t/omg_read_this_if_you_have_any_doubt_left_that/edntheq/">wrote</a>:</p>
 <blockquote>
 <p>Woot woot 🙌🙌 u/bwv549 for the win. His site (linked website) needs to be the new CES we all “hand out”.</p>
 </blockquote>
-<h4 id="truly-appreciated-and-valuable-work">truly appreciated and valuable [work]</h4>
+<h4 id="truly-appreciated-and-valuable-work">truly appreciated and valuable [work]<a class="zola-anchor" href="#truly-appreciated-and-valuable-work" aria-label="Anchor link for: truly-appreciated-and-valuable-work"><i class="fas fa-link"></i></a> 
+</h4>
 <p>ammonthenephite <a rel="external" href="https://www.reddit.com/r/mormon/comments/9xeaev/my_response_to_129_archaeological_evidences_for/e9s69p9/">wrote</a>:</p>
 <blockquote>
 <p>Seriously though, props to people like you, /u/bwv549 and many others that take the time to put together resources like this that others of us can both learn from as well as point to later on during future discussions on these topics. Keep up the good work, it is truly appreciated and valuable!</p>
 </blockquote>
-<h4 id="amazing-scholarly-writings">Amazing scholarly writings</h4>
+<h4 id="amazing-scholarly-writings">Amazing scholarly writings<a class="zola-anchor" href="#amazing-scholarly-writings" aria-label="Anchor link for: amazing-scholarly-writings"><i class="fas fa-link"></i></a> 
+</h4>
 <p>MagusSanguis <a rel="external" href="https://www.reddit.com/r/exmormon/comments/9gyuln/looking_for_someone_to_talk_to_in_these_tough/e697dwp/?context=3">wrote</a>:</p>
 <blockquote>
 <p>I also find great value in exploring the amazing scholarly writing of <code>u/fuzzy_thoughts</code> and u/bwv549! There’s something cathartic about going through and reading the well informed thoughts and research of others who have gone through (and are currently going through) similar experiences. It makes you realize that you’re not alone in your thoughts and conclusions.</p>
 </blockquote>
-<h4 id="scholarly-interesting">Scholarly/interesting</h4>
+<h4 id="scholarly-interesting">Scholarly/interesting<a class="zola-anchor" href="#scholarly-interesting" aria-label="Anchor link for: scholarly-interesting"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Browningtons1 <a rel="external" href="https://www.reddit.com/r/exmormon/comments/9gyuln/looking_for_someone_to_talk_to_in_these_tough/e68qbmo/?context=3">wrote</a>:</p>
 <blockquote>
 <p>Also, following the scholarly/interesting posters here and on r/mormon has been incredibly helpful. If you have an insatiable thirst for everything mormon look into posts by <code>u/Fuzzy_Thoughts</code> <code>u/bwv549</code> and <code>u/MagusSanguis</code>.</p>
@@ -246,22 +335,22 @@
 <blockquote>
 <p>Pure Gold for days!</p>
 </blockquote>
-<h4 id="fantastic-post">Fantastic post</h4>
+<h4 id="fantastic-post">Fantastic post<a class="zola-anchor" href="#fantastic-post" aria-label="Anchor link for: fantastic-post"><i class="fas fa-link"></i></a> 
+</h4>
 <p><code>/u/but_muh_shelf</code> <a rel="external" href="https://www.reddit.com/r/exmormon/comments/93dfk4/what_even_is_the_spirit/e3dtcfy/?context=3">wrote</a>:</p>
 <blockquote>
 <p><a rel="external" href="https://mormonbandwagon.com/bwv549/testimony-spiritual-experiences-truth-careful-examination/">Here is a fantastic post</a> about this exact topic written by u/bwv549</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -276,105 +365,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

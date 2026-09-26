@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus | A Careful Examination</title>
+<meta property="og:title" content="Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus | A Careful Examination" />
+<meta name="twitter:title" content="Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/">
-  
+  <meta property="og:url" content="/a_careful_examination/early-mormonism-quinn-footnote-108-chiasmus/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus</h1>
@@ -103,12 +219,14 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>The following is footnote 108 from <a rel="external" href="https://www.goodreads.com/book/show/1179665.Early_Mormonism_and_the_Magic_World_View?ac=1&amp;from_search=true">Early Mormonism and the Magic World View</a>, revised and enlarged edition, 1998, pgs 499-504.</p>
+  
+  
+
+  <div class="post-content">
+    <p>The following is footnote 108 from <a rel="external" href="https://www.goodreads.com/book/show/1179665.Early_Mormonism_and_the_Magic_World_View?ac=1&amp;from_search=true">Early Mormonism and the Magic World View</a>, revised and enlarged edition, 1998, pgs 499-504.</p>
 <hr />
-<h3 id="footnote-108">Footnote 108</h3>
+<h3 id="footnote-108">Footnote 108<a class="zola-anchor" href="#footnote-108" aria-label="Anchor link for: footnote-108"><i class="fas fa-link"></i></a> 
+</h3>
 <p>As a graduate student at Brigham Young University in the late-1960s John W.  Welch made the extraordinarily important discovery that there are many examples in the Book of Mormon text of a complex pattern of poetic parallelism which also occurs in the Hebrew Bible. Known as chiasmus to modem scholars, this ancient poetic method states a series of ideas (A-B-C …) and then immediately rephrases them in reverse order (… C-B-A).</p>
 <p>As Welch noted in his early writings about chiasmus (see below), Anglican bishop Robert Lowth discovered (and first published in Latin) that textual parallelism was an essential characteristic of the Hebrew Bible. The <em>British Museum General Catalogue of Printed Books: Photolithographic Edition to 1955</em>, 145:558, showed that Lowth’s study of biblical parallelism first appeared in English in 1787 as his two-volume <em>Lectures on the Sacred Poetry of the Hebrews</em> and again in 1816 (both editions at London). Volume 107:138 showed that Thomas Hartwell Horne’s <em>Introduction To the Critical Study and Knowledge of the Holy Scriptures</em> had its first London edition in 1818 and its “Third American edition” in 1827.  These two volumes of the British Museum’s author-title catalog were in BYU’s library shortly after their publication in 1961-62. The <em>National Union Catalog of Pre-1956 Imprints</em>, 343:550, also showed that in 1815 there was a one-volume American edition of Lowth’s <em>Lectures on the Sacred Poetry of the Hebrews</em>, which was popular enough to have a second American edition in 1829. As indicated in this chapter’s narrative, Lowth’s scholarly study of the Book of Isaiah was on sale in 1820 by the Canandaigua Bookstore, only nine miles from Joseph Smith’s home. This American-based National Union author-title catalog-volume was in BYU’s library shortly after its publication in 1974. The presence of these standard bibliographic sources in BYU’s library (first in 1961-62 and second in 1974) is crucial for evaluating what John W. Welch claimed in publications from 1969 onward. In 1969 Welch was a BYU graduate student, and later became a professor in BYU’s law school and founder of the Foundation for Ancient Research and Mormon Studies (FARMS).</p>
 <p>Advertised for sale in Joseph Smith’s neighborhood, Horne’s 1825 <em>Introduction To the Critical Study and Knowledge of the Holy Scriptures</em> emphasized (2:449): “The grand, and indeed, the sole characteristic of Hebrew Poetry, is what Bishop Lowth entitles <em>Parallelism</em>, that is, a certain equality, resemblance, or relationship, between the members of each period; so that in two lines, or members of the same period, things shall answer to things, and words to words, as if fitted to each other by a kind of rale or measure. This is the general strain of the Hebrew poetry; instances of which occur in almost every part of the Old Testament…” (emphasis in original). Horne further explained (2:519-20) that these “<em>Parallel constructions and figures</em>’’ referred to “those passages in which the same sentence is expressed not precisely in the same words, but in <em>similar</em> words, more full as well as more perspicuous, and concerning the force and meaning of which there can be no doubt. Such are the parallelisms of the sacred poets; which, from the light they throw on the poetical books of the Scriptures, demand a distinct consideration” (emphasis in original). Aside from Palmyra’s advertising of Horne’s 1825 American edition, the 1818 London edition was on sale in 1820 by the Canandaigua Bookstore, only nine miles from Joseph Smith’s home (see text discussion).</p>
@@ -145,16 +263,15 @@ Joseph Smith’s neighborhood).</p>
 <p>To support the myth he created in 1969 that Joseph Smith and all other Americans were ignorant of biblical parallelism, Welch by the 1980s simply withheld from his Mormon listeners and readers his knowledge that there were American printings of such studies in 1815 and 1825. Instead, Welch’s 1988 FARMS publication cited only an 1820 publication by John Jebb and an 1825 publication by Thomas Boys, both published in London and neither reprinted in the United States. He emphasized (13) that these British books by Jebb and Boys were not in American libraries before 1830. And despite the Palmyra newspaper s advertise­ ment for Horne’s 1825 American edition (which Welch in 1988 did not acknowledge the existence of) and despite the fact that Horne’s 1825 American edition discussed Jebb’s views at length, Welch’s 1988 FARMS presentation stated (13): “And even if some of these books had made it to the United States, it is quite another thing to believe that Joseph Smith knew anything about John Jebb’s pioneering hypothesis that this complex chiasmus existed in the Bible …” In a 1993 video-cassette sold by FARMS, Welch repeated his 1988 statements and concluded: “So 1 think that there was really very little chance— what should we say, a statistically insignificant chance— that Joseph Smith had any awareness of this through regular scholarly channels.” See Welch, <em>Chiasmus in the Book of Mormon</em> [ “this transcript of the video lecture was prepared by the staff of the Portland Institute of Religion” ] (Provo, UT: Foundation for Ancient Research and Mormon Studies, 1994), 18.</p>
 <p>As I told John W. Welch in a 1995 letter, I have always admired and praised his discovery of the ancient poetic technique of <em>chiasmus</em> in the <em>Book of Mormon</em>. However, I believe that he has done a disservice to all Mormon believers by his decades of misrepresent­ing America’s pre-1830 knowledge of this biblical parallelism. As stated in my text discus­sion, Hugh Nibley’s misstatements in 1975 occurred because of his lack of access to information that was not yet published or not easily available to him. That was not the case with John W. Welch, whose publications for the LDS audience since 1969, in my opinion, have manifested an escalating, intentional concealment of pre-1830 American publications about <em>chiasmus</em>.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -169,105 +286,9 @@ Joseph Smith’s neighborhood).</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

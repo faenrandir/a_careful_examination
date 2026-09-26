@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hyrum Smith attended Moor&#39;s Indian Charity School | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Hyrum Smith attended Moor&#39;s Indian Charity School | A Careful Examination</title>
+<meta property="og:title" content="Hyrum Smith attended Moor&#39;s Indian Charity School | A Careful Examination" />
+<meta name="twitter:title" content="Hyrum Smith attended Moor&#39;s Indian Charity School | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/hyrum-attended-moor-school/">
-  
+  <meta property="og:url" content="/a_careful_examination/hyrum-attended-moor-school/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Hyrum Smith attended Moor&#39;s Indian Charity School</h1>
@@ -93,47 +209,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#research-by-stephen-clarke">Research by Stephen Clarke</a></li>
-        
-          <li><a href="#excerpt-from-o-driscoll">Excerpt from O’Driscoll</a></li>
-        
-          <li><a href="#behrens-2006-jwh-article">Behrens 2006 JWH article</a></li>
-        
-          <li><a href="#the-preceptor-was-joseph-perry">The “preceptor” was Joseph Perry</a></li>
-        
-          <li><a href="#description-of-moor-s-school-from-worldcat">Description of Moor’s School from worldcat</a></li>
-        
-          <li><a href="#professor-john-smith-in-the-annals-of-the-american-pulpit">Professor John Smith in the Annals of the American Pulpit</a></li>
-        
-          <li><a href="#entry-requirements-for-dartmouth-college">Entry requirements for Dartmouth College</a></li>
-        
-          <li><a href="#shurtleff-sermons-preached-after-his-death">Shurtleff sermons preached “after his death”</a></li>
-        
-          <li><a href="#a-history-of-dartmouth-college-and-moor-s-school">A History of Dartmouth College and Moor’s School</a></li>
-        
-          <li><a href="#ministers-in-hanover">Ministers in Hanover</a></li>
-        
-          <li><a href="#roswell-shurtleff-alumni-biography">Roswell Shurtleff alumni biography</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="research-by-stephen-clarke">Research by Stephen Clarke</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="research-by-stephen-clarke">Research by Stephen Clarke<a class="zola-anchor" href="#research-by-stephen-clarke" aria-label="Anchor link for: research-by-stephen-clarke"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Stephen Clarke on MormonDialogue.org (last edited May 5, 2024) argues from Vogel’s notes on tax assessments that Hyrum Smith likely spent somewhere between “7 or 8 months” to “less than a year and a half altogether” at Moor’s Charity School. Clarke also acquired original Moor’s School documents and argues from these that since Hyrum stopped attending before completing arithmetic studies and we have no record of him being examined in any topic that he likely would not have been learning New Testament Greek or Latin while there.</p>
 <p>See <a href="/a_careful_examination/stephen-clarke-notes-on-hryum-smith-at-moors/">Stephen Clarke’s notes on Hyrum Smith at Moor’s Charity School</a>.</p>
-<h3 id="excerpt-from-o-driscoll">Excerpt from O’Driscoll</h3>
+<h3 id="excerpt-from-o-driscoll">Excerpt from O’Driscoll<a class="zola-anchor" href="#excerpt-from-o-driscoll" aria-label="Anchor link for: excerpt-from-o-driscoll"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Excerpt from <a rel="external" href="https://archive.org/details/hyrumsmithlifeof00odri">Hyrum Smith: a life of integrity</a> by Jeffrey S. O’Driscoll</p>
 <blockquote>
 <p>…</p>
@@ -170,16 +255,20 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]</p>
 <li>[25] Copies of school records are in the possession of the author.</li>
 <li>[26] Documenting Hyrum’s presence from school records is difficult.  His name cannot be located in the records of 1811, and the rolls for the school years ending in 1812 and 1813 are missing.  Records show a “Hiram Smith” from Lebanon attending the session from August 1814 to August 1815.  Hyrum Smith had moved from Lebanon to nearby Norwich, Vermont, by that time, but the record is probably referring to him.</li>
 </ul>
-<h3 id="behrens-2006-jwh-article">Behrens 2006 JWH article</h3>
+<h3 id="behrens-2006-jwh-article">Behrens 2006 JWH article<a class="zola-anchor" href="#behrens-2006-jwh-article" aria-label="Anchor link for: behrens-2006-jwh-article"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In 2006, Richard K. Behrens published an article in the John Whitmer Historical Association Journal <a rel="external" href="https://faenrandir.github.io/a_careful_examination/documents/book_of_mormon/translation/Dartmouth-Arminianism-Behrens-2006-JWH.pdf">Dartmouth Arminianism And Its Impact on Hyrum Smith and the Smith Family</a> which gives great background information.</p>
-<h3 id="the-preceptor-was-joseph-perry">The “preceptor” was Joseph Perry</h3>
+<h3 id="the-preceptor-was-joseph-perry">The “preceptor” was Joseph Perry<a class="zola-anchor" href="#the-preceptor-was-joseph-perry" aria-label="Anchor link for: the-preceptor-was-joseph-perry"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Perry was <a rel="external" href="https://www.cga.ct.gov/hco/books/Sketches_of_the_Alumni_of_Dartmouth.pdf">an 1811 Dartmouth Alumni</a> who may have listened to the lectures of John Smith until John Smith’s death in 1809.  He “taught at Moor’s charity school at Hanover from 1811 to 1818.”</p>
-<h3 id="description-of-moor-s-school-from-worldcat">Description of Moor’s School from worldcat</h3>
+<h3 id="description-of-moor-s-school-from-worldcat">Description of Moor’s School from worldcat<a class="zola-anchor" href="#description-of-moor-s-school-from-worldcat" aria-label="Anchor link for: description-of-moor-s-school-from-worldcat"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From the worldcat description of <a rel="external" href="https://www.worldcat.org/title/moors-indian-charity-school-records-1760-1915/oclc/122590791?fbclid=IwAR2qYXVncWOQzP-ljLpxqnfCankdFSuFmxx1hUDXBgoPv7r0637I_r_hp0E">Moor’s Indian Charity School records, 1760-1915.</a>:</p>
 <blockquote>
 <p>Named for early benefactor Joshua Moor, founded by the Rev. Eleazar Wheelock in Lebanon Crank (now Columbia), Connecticut, and receiving much of its financial support from funds provided by the Scottish Society for Propagating Christian Knowledge, Moors Indian Charity School relocated to Hanover, New Hampshire, in 1770, along with the founding and establishment of Dartmouth College. Records are primarily financial and document revenue and expenses of the School, the Fund, and include accounts with students, faculty, and merchants.</p>
 </blockquote>
-<h3 id="professor-john-smith-in-the-annals-of-the-american-pulpit">Professor John Smith in the Annals of the American Pulpit</h3>
+<h3 id="professor-john-smith-in-the-annals-of-the-american-pulpit">Professor John Smith in the Annals of the American Pulpit<a class="zola-anchor" href="#professor-john-smith-in-the-annals-of-the-american-pulpit" aria-label="Anchor link for: professor-john-smith-in-the-annals-of-the-american-pulpit"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Annals of the American pulpit multi-volume set contains biographies and memoirs of well-known religionists.  Volume II includes an entry on Professor John Smith with a memoir from the Reverend Roswell Shurtleff, D. D., professor in Dartmouth College</p>
 <p><a rel="external" href="https://archive.org/details/annalsamericanp31spragoog/page/n104/mode/2up?q=John+Smith">pg 90–92</a>.</p>
 <ul>
@@ -193,7 +282,8 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]</p>
 <li>“In 1803, the degree of Doctor of Divinity was conferred upon him by Brown University.”</li>
 <li>“His funeral sermon was preached by the Rev. Dr. Burroughs of Hanover” and the accompanying footnote states: “He [Burroughs] was honoured with the degree of Doctor of Divinity from Dartmouth College in 1773, and was one of its Overseers from that year till his death.”</li>
 </ul>
-<h3 id="entry-requirements-for-dartmouth-college">Entry requirements for Dartmouth College</h3>
+<h3 id="entry-requirements-for-dartmouth-college">Entry requirements for Dartmouth College<a class="zola-anchor" href="#entry-requirements-for-dartmouth-college" aria-label="Anchor link for: entry-requirements-for-dartmouth-college"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A tnanscript of Dartmouth College’s “Course of Instruction”, c. 1800, is suggestive of the <em>kinds</em> of things that a student at Moor’s School might have been instructed in.</p>
 <p><a rel="external" href="http://solomonspalding.com/docs1/1867chap.htm#course1">page 1</a></p>
 <blockquote>
@@ -203,14 +293,17 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]</p>
 <blockquote>
 <p>Lectures are delivered in the Chapel, every Saturday, by the Professor of Divinity.</p>
 </blockquote>
-<h3 id="shurtleff-sermons-preached-after-his-death">Shurtleff sermons preached “after his death”</h3>
+<h3 id="shurtleff-sermons-preached-after-his-death">Shurtleff sermons preached “after his death”<a class="zola-anchor" href="#shurtleff-sermons-preached-after-his-death" aria-label="Anchor link for: shurtleff-sermons-preached-after-his-death"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The introductory note to <a rel="external" href="https://archives-manuscripts.dartmouth.edu/repositories/2/resources/2494">the Dartmouth Library Roswell Shurtleff sermons</a> collection states, in full:</p>
 <blockquote>
 <p>The collection contains sermons written by Roswell Shurtleff, which were delivered by him and, after his death, by others at Dartmouth College.</p>
 </blockquote>
-<h3 id="a-history-of-dartmouth-college-and-moor-s-school">A History of Dartmouth College and Moor’s School</h3>
+<h3 id="a-history-of-dartmouth-college-and-moor-s-school">A History of Dartmouth College and Moor’s School<a class="zola-anchor" href="#a-history-of-dartmouth-college-and-moor-s-school" aria-label="Anchor link for: a-history-of-dartmouth-college-and-moor-s-school"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The American Quarterly Register, Volume 5, 1827, <a rel="external" href="https://archive.org/details/americanquarterlv5amer/page/280/mode/2up">pages 281–282</a> contains a history of Dartmouth College and begins with a history of Moor’s school, out of which branched off Dartmouth College.</p>
-<h3 id="ministers-in-hanover">Ministers in Hanover</h3>
+<h3 id="ministers-in-hanover">Ministers in Hanover<a class="zola-anchor" href="#ministers-in-hanover" aria-label="Anchor link for: ministers-in-hanover"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The American Quarterly Register, Volume 6, 1834, lists the pastors in New Hampshire cities and towns and Hanover is listed on <a rel="external" href="https://archive.org/details/americanquarterlv6amer/page/240/mode/2up">page 240</a>.</p>
 <p>Settlement dates of those with a “Settlement” date before 1816 and who had not died or been dismissed before 1811:</p>
 <ul>
@@ -218,27 +311,28 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]</p>
 <li>Roswell Shurtleff: 1809</li>
 </ul>
 <p>The chronology of the register suggests that John Smith, D. D. was the pastor of Hanover for the 23 years before Shurtleff (settlement 1786 and died in 1809).</p>
-<h3 id="roswell-shurtleff-alumni-biography">Roswell Shurtleff alumni biography</h3>
+<h3 id="roswell-shurtleff-alumni-biography">Roswell Shurtleff alumni biography<a class="zola-anchor" href="#roswell-shurtleff-alumni-biography" aria-label="Anchor link for: roswell-shurtleff-alumni-biography"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Sketches of the Alumni of Dartmouth College by the Rev. George T. Chapman, D.D., Cambridge, 1867. <a rel="external" href="https://www.cga.ct.gov/hco/books/Sketches_of_the_Alumni_of_Dartmouth.pdf">page 99</a>:</p>
 <blockquote>
 <p>Roswell Shurtleff, A. M.–D. D. the son of William and Hannah (Cady) Shurtleff, was born at Ellington, Ct, Aug. 29, 1773, and died at Hanover, Feb. 4, 1861, AE. 87. He was tutor at Dart. from 1800 to 1804; studied divinity; was Prof. of Theology from 1804 to 1827; ordained an Evangelist at Lyme, Jan. 1, 1810: was pastor of the Cong. Ch. at Dart. Coll. from that date to 1835; College Librarian from 1810 to 1820; Prof. of Moral Phil. and Political Economy from 1827 to 1838; Prof. Emeritus from 1838 to 1861. The Univ. of Vt conferred the D. D. in 1834.  Dr. Shurtleff resided at Hanover to the close of life, retaining in a remarkable degree his social vivacity and mental acumen. He married Anna, dau. of the Rev. Joseph Pope of Spencer, Ms, Sept. 2, 1810.</p>
 </blockquote>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://faenrandir.github.io/a_careful_examination/similarities-between-john-smiths-writings-and-bom/">Similarities between Dartmouth professor John Smith’s writings and the Book of Mormon</a></li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=RwS1r9kpglI">Other Scriptures: Grief, Gratitude, and the Haudenosaunee Great Peace</a> (Thomas Murphy discusses Moor’s beginning at ~17:10)</li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -253,105 +347,9 @@ One of the school’s tutors, Andrew Mack, was also a distant relative.[24]</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

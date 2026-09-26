@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>1825 Anti-theist rhetoric: “A Second Call to Unbelievers” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>1825 Anti-theist rhetoric: “A Second Call to Unbelievers” | A Careful Examination</title>
+<meta property="og:title" content="1825 Anti-theist rhetoric: “A Second Call to Unbelievers” | A Careful Examination" />
+<meta name="twitter:title" content="1825 Anti-theist rhetoric: “A Second Call to Unbelievers” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/a-second-call-to-unbelievers-1825/">
-  
+  <meta property="og:url" content="/a_careful_examination/a-second-call-to-unbelievers-1825/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">1825 Anti-theist rhetoric: “A Second Call to Unbelievers”</h1>
@@ -98,13 +214,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A letter from a “Shenago” to the Republican (a London periodical) in 1825 is reminiscent of the kinds of rhetoric and arguments employed by the character Korihor from the Book of Mormon (see <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng">Alma 30</a>).</p>
 <p>The Republican, vol 12 no 22, December 2, 1825, <a rel="external" href="https://www.google.com/books/edition/The_Republican/Cx8rAAAAYAAJ?hl=en&amp;gbpv=1&amp;pg=PA684&amp;printsec=frontcover">pgs 684–688</a>).</p>
-<h2 id="selected-excerpts">Selected excerpts</h2>
+<h2 id="selected-excerpts">Selected excerpts<a class="zola-anchor" href="#selected-excerpts" aria-label="Anchor link for: selected-excerpts"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>… And we boldly assert, that such a man never was, never had a being; that the whole story is a fabrication, and we call, with triumphant superiority and conscious victory, on his tens of thousands of well paid priests, to produce a single proof of his ever having existed. We reject the New Testament as an uncorroborated narrative.</p>
 </blockquote>
@@ -126,7 +245,8 @@
 <blockquote>
 <p>… Then why do you doubt of his having a soul?—I have no doubt about it, my mind is made up on the subject and my reasons are, that having sense to know whatever is for my benefit I have no knowledge of a second self existing being within me. We have no more proof of it than of deity. And before I believe in a God, I must see him, <em>and at work</em> too, making a world or two out of nothing. As for the being of a soul, I know on what your idea rests and know also that it is nothing more than the action of the body. …</p>
 </blockquote>
-<h2 id="complete-transcript">Complete transcript</h2>
+<h2 id="complete-transcript">Complete transcript<a class="zola-anchor" href="#complete-transcript" aria-label="Anchor link for: complete-transcript"><i class="fas fa-link"></i></a> 
+</h2>
 <p><strong>A SECOND CALL TO UNBELIEVERS</strong></p>
 <p>FRIENDS OF MANKIND,</p>
 <p>The humble being, who thus addresses you, is well aware, that the virtuous and just require no exterior incitement to do good, nor any stimulus to perform their duty. It is truly distressing to the benevolent and humane, who wish well to the whole human race, and who are endeavouring to break the yoke of despotic superstition, to observe with what zeal and indefatigable industry, the ignorant, the base and sordid Christians are extending the chain of fraud and binding the human mind in hopeless slavery. Every exertion is made by the rich, the powerful, the ambitious, the interested, the foolish; the vain, the hypocritical, the deceiver and the deceived, to keep up the farce of religion. No matter what the creed, Christians of all denominations, Turks, Jews, fire-worshippers, the devout slaves of all sects, even the Deist is esteemed or nearly tolerated; every thing that bears the name of religion meets with encouragement. Nothing, now, is religiously absurd, but truth! Amidst this war of fraud, injustice and fable against reason, right and verity, shall we stand neuter? Awed by an idea of prudent cowardice, shall our tongues and pens rest in shameless inactivity, while knavery and folly stride triumphant “from Indus to the Pole?”</p>
@@ -136,22 +256,22 @@
 <p>Let us ask, is there a man possessed of sense and reason, who has diligently read the books called the holy scriptures, an epithet ridiculous enough to say nothing worse, who can for a moment imagine, that an immutable God can change what he has decreed and which must necessarily happen? The truth is, that the reading of those scriptures destroy thought in the embryo, as they forbid investigation, announce terrible punishments against every doubt, threaten the wrath of God on those who differ even in thought from the precept given, or who disbelieve the tale told by them, however repugnant to sense and reason the one, or absurd, idle and childish the other. What then, men are taught to believe; but the privilege of thinking is conferred on very few. Hence the Christian world now consists of two classes—Knaves who deceive, and fools who are deceived. To destroy this connection, to shame the knaves and reduce them to honesty and reason, to enlighten the ignorant and give wisdom to fools, must be the ardent task of the Materialist. Truth, honour and justice inspire the undertaking. And why not the laudable ambition to do good. The interesting duty of decrying vice, the noble courage to promote human happiness, the heroic resolution of assisting the fallen and freeing the enslaved; are these not honourable and powerful motives to stimulate us to action? We see, daily and hourly before our faces men, whom we know to be base hypocrites, mean and ignorant, leading what are called respectable lives and living in comfort and plenty, if not in affluence, by preaching stale lies and absurd conjectures and nonsense, about heaven, hell, and the world to come, as if they had been there. A deluded populace invariably aids the impostors, by swallowing whatever ribaldry is uttered among them.  They make their disciples miserable by the repetition of inconceivable terrors, and the more they frighten and afflict their audience, the better they are paid. They speak not of any thing which can be understood. They are not possessed of logic, science or historical information, and are in general but slightly gifted with the article <em>sense</em>. Yet, by dint of importunate clamour and persevering impudence, they, at once, cheat their auditors of their reason and their pence, fill them with superstitious horrors, and abandon them to misery in this world and despair as to the next.</p>
 <p>I am but a weak advocate; yet, I can safely say, that I have relieved many from these vain terrors of the imagination. Many, when I first knew them, were stupid bigots and miserable from a confusion of religious ideas, who were tortured with an incomprehensible category of intrusive nothings, now own themselves cured, feel comfortable and thank me for the happy change in their mental condition. When asked, what religion are you, I answer <em>none</em>.—What, do not you believe in any thing?—That is no question.—Do you believe in God?—No.—Then you are an Atheist?—Yes or no, as you like.—Yes or no!  What does that mean?—Having no proof of what you call God, I cannot avert myself from it.  You must prove an existence before you can prove me an Atheist.  Why every thing says there is a God.  Look at the sun, the moon and the stars, how came they? Who made them?—I know not; and not knowing, conclude that they exist as independent properties, subject only to partial changes.—Oh! hear me a moment on this subject and answer me a question or two?—Certainly.—You say, if nothing had been to make the sun, moon, stars and this world, they had remained unmade?  Then every thing must have had a beginning? Certainly.  How came God? who you say had no beginning? Who made him? That is impious: I can speak to you no longer.— Hear me for a minute or two more.  I confess, that if nothing else tended to make me an Atheist, the very science of Astronomy would.  When I stand on the surface of this earth and view the vast illimitable field of space continued above, beneath and around, system on system scattered in countless millions, all as they are regulated and upheld by their own energies, or by those of each other.  I ask, who or what self-existent, itself nothing, could make all these out of nothing?  How can intelligence act upon such bodies? No idea of such a being can enter the imagination.— Then who or what did make every thing?—I do not know.—As I said before, I believe they never were made; but that they are eternal and will endure eternally. Utterly destroyed they cannot be, for, to destroy the smallest particle of matter, is impossible.  How came men into existence?  By some energy or mixture of matter unknown and inconceivable to us; as is the case with every vegetable and animal production in life.—Do you think the account given by Moses of the creation not true?—I do not think it Moses’ account, he, if such a man wrote had it from some person who lived before him and palmed it on the Jews, who were the most brutal and ignorant people in the world. Beside, the geographical and astronomical ideas of the Bible are enough to destroy its veracity. The ends of the earth, the sun standing still, flying from one place to another to shun the Almighty, makes it nonsense to a man of science and annihilates the Mosaic cosmogony at a blow.—So, you do not believe the you have an immortal soul to be saved?  No, nor to be damned.—You think you are like the cows and horses?  I do not, I think man the noblest production of matter.  He is calculated for superior intellectual and social attainments; his powers are little short of making worlds, had he space, footing and materials.—Then why do you doubt of his having a soul?—I have no doubt about it, my mind is made up on the subject and my reasons are, that having sense to know whatever is for my benefit I have no knowledge of a second self existing being within me. We have no more proof of it than of deity. And before I believe in a God, I must see him, <em>and at work</em> too, making a world or two out of nothing. As for the being of a soul, I know on what your idea rests and know also that it is nothing more than the action of the body. Where is it in syncope, or in other suspended animation? These opinions and principles, so far from being afraid or ashamed to own, I modestly confess when occasion requires; I am proud of their superiority over all that I meet, and they contribute in no small degree to the happiness of</p>
 <p>SHEBAGO</p>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/fisher-the-existence-of-god-1816/">Abial Fisher, Jr., 1816 sermon: ’The Existence of God.</a></li>
 <li><a rel="external" href="https://docs.google.com/document/d/16odCn1NBtBHICtSp05NZXh4VHtiktQpwGqbHHIdLL-8/edit#heading=h.mc3hp8tg1efq">“All Things Show There is a God”</a> (BoM Google Book Cross References)</li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -166,105 +286,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

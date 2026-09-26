@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The 6 Sources of Revelation | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The 6 Sources of Revelation | A Careful Examination</title>
+<meta property="og:title" content="The 6 Sources of Revelation | A Careful Examination" />
+<meta name="twitter:title" content="The 6 Sources of Revelation | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/six-sources-of-revelation/">
-  
+  <meta property="og:url" content="/a_careful_examination/six-sources-of-revelation/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The 6 Sources of Revelation</h1>
@@ -93,33 +209,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#six-sources-of-revelation">Six Sources of Revelation</a></li>
-        
-          <li><a href="#typical-sources-for-members-of-the-church-of-jesus-christ-of-latter-day-saints">Typical sources for members of The Church of Jesus Christ of Latter-day Saints</a></li>
-        
-          <li><a href="#typical-sources-for-a-secular-humanist">Typical sources for a secular humanist</a></li>
-        
-          <li><a href="#acknowledgement">Acknowledgement</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Nearly all humans recognize that some kinds of transcendent experience open our minds to new ideas and perspectives.  While a theist typically believes that the most important revelation originates from a divine source, all humans are united in seeking revelation, broadly defined—all of us value insight into our nature and connectedness with one another and the universe regardless of our belief in God(s).</p>
 <p>Like “love languages,” sources of revelation can be thought of as “spiritual languages.”  Some people may receive more revelation from one source than another, and perhaps the volume of revelation from different sources may change over the course of a person’s life.  There is probably value in trying to understand which sources others resonate with most and occasionally exploring or revisiting sources that we may have neglected in our spiritual development.</p>
-<h2 id="six-sources-of-revelation">Six Sources of Revelation</h2>
+<h2 id="six-sources-of-revelation">Six Sources of Revelation<a class="zola-anchor" href="#six-sources-of-revelation" aria-label="Anchor link for: six-sources-of-revelation"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li><strong>Personal Revelation</strong>: Personal revelation is arguably the most important source of revelation, because it emphasizes personal responsibility for discovery and growth. Benjamin Franklin once wrote “God helps those who help themselves.”  Personal revelation encourages a person to learn as much as they can and sift through ideas to find what resonates most with them and what they view as being most grounded in transcendent goodness.</li>
 <li><strong>Teachers</strong>: Life is a very difficult journey for all of us. Going to those who are personally trusted for guidance often makes life easier to navigate. Those whom we seek guidance from can have many different titles and can include family, friends, or spiritual leaders.</li>
@@ -128,7 +227,8 @@
 <li><strong>Tools</strong>: Tools are often used as a reminder of something or are used to produce greater understanding.  Tools may include things like jewelry, symbols, clothing, grooming styles, names or titles, food, or entheogens.  Tools may also include places of worship or reflection such as churches, temples, or being in nature.</li>
 <li><strong>Rituals</strong>: Rituals are formalized and/or symbolic actions that are based in tradition. They often mark a milestone in life, symbolize a commitment, give advice or comfort, or convey a desire for things to change.  Formal religious rituals might include things such as prayer, fasting, baptism, or weddings.  More secular (but still sacred) rituals might be graduation ceremonies and memorial services.</li>
 </ol>
-<h2 id="typical-sources-for-members-of-the-church-of-jesus-christ-of-latter-day-saints">Typical sources for members of The Church of Jesus Christ of Latter-day Saints</h2>
+<h2 id="typical-sources-for-members-of-the-church-of-jesus-christ-of-latter-day-saints">Typical sources for members of The Church of Jesus Christ of Latter-day Saints<a class="zola-anchor" href="#typical-sources-for-members-of-the-church-of-jesus-christ-of-latter-day-saints" aria-label="Anchor link for: typical-sources-for-members-of-the-church-of-jesus-christ-of-latter-day-saints"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Latter-day Saints may receive revelation during or through the following means (not meant to be exhaustive, merely suggestive):</p>
 <ol>
 <li><strong>Personal Revelation</strong>: Latter-day Saints view the most important sources of personal as the Light of Christ, the Gift of the Holy Ghost, and perhaps for some the Second Comforter (i.e., personal visitations from Jesus Christ and maybe even God the Father).</li>
@@ -138,7 +238,8 @@
 <li><strong>Tools</strong>: Oil for blessings, conservative business apparel (especially white shirts), garments, ceremonial temple clothing, appellations like “brother”, “sister”, “President”, and “Bishop” may be viewed as tools that call to remembrance or help in the reception of revelation.</li>
 <li><strong>Rituals</strong>: Latter-day Saints engage in fasting, prayer, blessings on food, annual tithing settlement, baby-blessings, baptism, setting apart, conferral of priesthood and ordination to offices.  In temples, publicly recognized rituals include washings and anointings, the endowment, the sealing ceremony, and baptisms for the dead.</li>
 </ol>
-<h2 id="typical-sources-for-a-secular-humanist">Typical sources for a secular humanist</h2>
+<h2 id="typical-sources-for-a-secular-humanist">Typical sources for a secular humanist<a class="zola-anchor" href="#typical-sources-for-a-secular-humanist" aria-label="Anchor link for: typical-sources-for-a-secular-humanist"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Secular humanists are not tightly grouped as a culture, so any representation will be vastly inadequate.  I will speak from my own experience as a secular humanist as to sources of revelation for me, but that is admittedly only one possible instantiation.</p>
 <p>Perhaps the major difference between my past time as a devout member of the LDS faith and my current perspective is that I am much more <em>eager</em> now to embrace widely different sources for inspiration/revelation. While I certainly appreciated alternative perspectives as a member, I put LDS sources on a bit of a pedestal in how I viewed them as capable of bringing the best or purest forms of inspiration.<sup class="footnote-reference" id="fr-lds_best_inspiration-1"><a href="/a_careful_examination/six-sources-of-revelation/#fn-lds_best_inspiration">[1]</a></sup>  Now, I see deep/inspiration at almost every turn—I had to stop myself listing examples because I view most of these lists as having <em>hundreds</em> of diverse influences within them now.</p>
 <ol>
@@ -190,7 +291,8 @@
 <p><strong>Rituals</strong>: Barbecue night with neighbors, dinner with family and extended family, skiing together, cleaning the kitchen, doing the lawn, playing ultimate frisbee together, going to school performances, attending rock/classical concerts together, doing holiday celebrations with the neighbors that always include graham cracker houses, gathering around the gas fire for smores all provide a time to enjoy being together, working towards a common end, and reflecting on life, its challenges, and its joys.</p>
 </li>
 </ol>
-<h2 id="acknowledgement">Acknowledgement</h2>
+<h2 id="acknowledgement">Acknowledgement<a class="zola-anchor" href="#acknowledgement" aria-label="Anchor link for: acknowledgement"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The 6 sources of revelation were first compiled by Gileriodekel <a rel="external" href="https://www.reddit.com/r/mormon/comments/f2vqrj/6_sources_of_revelation/">here</a>.  This presentation follows closely after his.  I originally copied the post, but I have made fairly extensive modifications over time.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -200,16 +302,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -224,105 +325,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

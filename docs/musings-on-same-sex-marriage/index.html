@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Musings on Same Sex Marriage | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Musings on Same Sex Marriage | A Careful Examination</title>
+<meta property="og:title" content="Musings on Same Sex Marriage | A Careful Examination" />
+<meta name="twitter:title" content="Musings on Same Sex Marriage | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/musings-on-same-sex-marriage/">
-  
+  <meta property="og:url" content="/a_careful_examination/musings-on-same-sex-marriage/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Musings on Same Sex Marriage</h1>
@@ -103,32 +219,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#the-3-modules-of-marriage">The 3 “modules” of marriage</a></li>
-        
-          <li><a href="#the-preamble-to-the-constitution">The preamble to the Constitution</a></li>
-        
-          <li><a href="#the-word-marriage">The word ‘marriage’</a></li>
-        
-          <li><a href="#property-patriarchy-and-marriage">Property, Patriarchy, and marriage</a></li>
-        
-          <li><a href="#scriptural-condemnation-of-homosexual-marriage">Scriptural condemnation of homosexual marriage</a></li>
-        
-          <li><a href="#latter-day-saints-used-to-condemn-monogamy-with-vehemence">Latter-day Saints used to condemn monogamy with vehemence</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="the-3-modules-of-marriage">The 3 “modules” of marriage</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="the-3-modules-of-marriage">The 3 “modules” of marriage<a class="zola-anchor" href="#the-3-modules-of-marriage" aria-label="Anchor link for: the-3-modules-of-marriage"><i class="fas fa-link"></i></a> 
+</h3>
 <p>There are three “modules” related to traditional heterosexual marriage:</p>
 <ul>
 <li>committed companionship</li>
@@ -139,7 +235,8 @@
 <p>The government has an interest in supporting parents in their child-rearing duties regardless of the other two modules.  This is why the government offers support to both single mothers and adoptive couples—from a government perspective it makes sense to support <em>any</em> parent / legal guardian!</p>
 <p>Virtually all of our legislation regarding marriage over the past 50 years has focused on committed companionship and parenting.  The state has virtually ignored the sexual reproduction module in how it interacts with marriage.  If you look at the rulings it is clear that judges looked carefully at the parenting aspect.  Homosexual marriage fulfills the goals of the state because where homosexual couples intend to raise children, a committed two partner home is far superior to a single home.  Basically, marriage between homosexuals has been deemed <em>close enough</em> in the eyes of the state.  So, when one acknowledges the manner in which the state <em>currently</em> treats marriage, it is clearly unequal treatment of homosexuals to deny them participation in the institution.</p>
 <p>In one sense, the legal battle over SSM was lost decades before the issue was fought in the courts and at election booths because marriage had already been defined societally primarily in terms of “committed companionship” and not in the intersection between committed companionship, parenting, and sexual reproduction.  In one sense, this seems unfortunate for opponents of SSM.  However, one can also argue that the intersection of the three “modules” is already strongly incentivized and supported via our biological heritage.  Our species will continue to value the intersection between committed companionship, parenting, and sexual reproduction with or without state sanction because there are deep biological drivers which incentivize it.  Given that the state offers massive support for the education of all children, we can acknowledge that the state is <em>already</em> committing the most resources to that module which requires the most assistance from the state (in a modern nation-state), and it is doing so in a manner that is mostly likely to benefit <em>all</em> children, regardless of the union which produced them or the nature of the relationships of their caretakers which, relative to the parenting module, are of secondary concern to the state.</p>
-<h3 id="the-preamble-to-the-constitution">The preamble to the Constitution</h3>
+<h3 id="the-preamble-to-the-constitution">The preamble to the Constitution<a class="zola-anchor" href="#the-preamble-to-the-constitution" aria-label="Anchor link for: the-preamble-to-the-constitution"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Preamble to the Constitution explains when/how/why a government may act in behalf of its constituents:</p>
 <blockquote>
 <p>We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.</p>
@@ -160,20 +257,25 @@
 </ol>
 <p>Ergo, government intrusion/sanction of heterosexual committment may be justified in order to promote the general welfare and secure liberty for posterity.  This particular logic does not <em>inherently</em> apply to homosexual couples because point 4 above—this argument pivots on point #4 and not point #5, even though point number 5 is also necessary.</p>
 <p>The counter-argument, of course, is that marriage <em>today</em> is hardly even concerned with offspring (not to mention that homosexual parents are roughly as successful as heterosexual ones in raising productive members of society, insofar as the state is concerned).  When viewed in this light, there is no compelling reason to distinguish between homosexual and heterosexual unions.  However, the question then becomes this: <em>why should government privilege and/or intrude on marriage at all?</em>  If the meaning of marriage is completely divorced from the idea of children, then government is intruding.  Or, seen from another angle, why should two homosexuals living under the same roof together in a committed relationship be given any more tax breaks and/or responsibilities than two sisters who have committed to one another that they will live together and share their property til the end of their life (but who are not sexually active) and want to raise adopted children together?  On the flipside, the question asked by homosexuals about older couples who marry beyond the years of fertility is completely valid when viewed through this lens—why should they be priviledged over a homosexual couple, when there is no expectation of children?  Why would the state care about sanctioning that union?</p>
-<h3 id="the-word-marriage">The word ‘marriage’</h3>
+<h3 id="the-word-marriage">The word ‘marriage’<a class="zola-anchor" href="#the-word-marriage" aria-label="Anchor link for: the-word-marriage"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Although we like to think of the word “marriage” in a lofty, idyllic sense, the fact is that <a rel="external" href="https://web.archive.org/web/20190212134626/http://images.elephantjournal.com/wp-content/uploads/2008/09/marriage.jpg">the Christian God appears to have condoned a wide variety of couplings in the past</a>.</p>
-<h3 id="property-patriarchy-and-marriage">Property, Patriarchy, and marriage</h3>
+<h3 id="property-patriarchy-and-marriage">Property, Patriarchy, and marriage<a class="zola-anchor" href="#property-patriarchy-and-marriage" aria-label="Anchor link for: property-patriarchy-and-marriage"><i class="fas fa-link"></i></a> 
+</h3>
 <p>One way to view marriage is through the lens of patriarchal systems which were
 a response to an awareness of paternity combined with relatively sedentary
 lifestyles resulting in a desire to protect the accumulation of land and property:</p>
 <p><a rel="external" href="http://w3.salemstate.edu/~hbenne/pdfs/patriarchy_creation.pdf">The Creation of Patriarchy</a></p>
 <p>In many ways, <a href="/a_careful_examination/why-sex-linked-to-morality/">sex is intrinsically linked to morality</a>, so one challenge of modern life is creating or condoning institutions which serve and protect all stakeholders (individuals, couples, and children).</p>
-<h3 id="scriptural-condemnation-of-homosexual-marriage">Scriptural condemnation of homosexual marriage</h3>
+<h3 id="scriptural-condemnation-of-homosexual-marriage">Scriptural condemnation of homosexual marriage<a class="zola-anchor" href="#scriptural-condemnation-of-homosexual-marriage" aria-label="Anchor link for: scriptural-condemnation-of-homosexual-marriage"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The New Testament Jesus himself never condemned homosexual marriage.  The Old Testament condemns homosexuality, but it condemns so much that it seems like cherry-picking to focus <em>only</em> on the things that happen to agree with our current conservative-Christian view of morality.  Incidentally, some fundamentalist Christians actually <em>do</em> keep the other strange prohibitions in the Old Testament or New Testament.  For instance, many fundamentalist churches prohibit women from speaking, and my cousin-in-law’s father, in Georgia, used to keep the Old Testament prohibitions.  Those who cherry-pick some Old Testament teachings and not others have the burden of explaining why some prohibitions on behavior (and prescriptions of punishment) should be strictly adhered to while others are so easily sluffed off.</p>
 <p>It seems to me that if a group or individual is interested in Old Testament (or even New Testament) prohibitions, then they need some coherent reason for selecting some and not others.  Latter-day Saints argue “modern day revelation” when dealing with same-sex marriage, but I am not aware of any modern day revelation having been received on that topic, ever. (note that all available evidence suggests <a href="/a_careful_examination/proclamation-on-the-family-scripture-or-revelation/">the family proclamation should not be viewed as revelation</a>)</p>
-<h4 id="god-may-not-have-destroyed-sodom-and-gomorrah-for-homosexuality">God <em>may</em> not have destroyed Sodom and Gomorrah for homosexuality</h4>
+<h4 id="god-may-not-have-destroyed-sodom-and-gomorrah-for-homosexuality">God <em>may</em> not have destroyed Sodom and Gomorrah for homosexuality<a class="zola-anchor" href="#god-may-not-have-destroyed-sodom-and-gomorrah-for-homosexuality" aria-label="Anchor link for: god-may-not-have-destroyed-sodom-and-gomorrah-for-homosexuality"><i class="fas fa-link"></i></a> 
+</h4>
 <p><a rel="external" href="http://rationalfaiths.com/old-testament-prohibit-homosexuality/">Sheldon Greaves</a> advances the idea that every time Sodom and Gomorrah is referenced God appears to be condemning something else besides homosexuality.  However, other <a rel="external" href="http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah">convincing exegetical analyses</a> dispute this interpretation.</p>
-<h3 id="latter-day-saints-used-to-condemn-monogamy-with-vehemence">Latter-day Saints used to condemn monogamy with vehemence</h3>
+<h3 id="latter-day-saints-used-to-condemn-monogamy-with-vehemence">Latter-day Saints used to condemn monogamy with vehemence<a class="zola-anchor" href="#latter-day-saints-used-to-condemn-monogamy-with-vehemence" aria-label="Anchor link for: latter-day-saints-used-to-condemn-monogamy-with-vehemence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>See the many quotes by Brigham Young and Orson Pratt in <a rel="external" href="http://rationalfaiths.com/why-god-allowed-gays-to-marry/">this article</a>.  Modern day condemnations of homosexuality should probably be interpreted in light of former condemnation of monogamy.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -183,16 +285,15 @@ lifestyles resulting in a desire to protect the accumulation of land and propert
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -207,105 +308,9 @@ lifestyles resulting in a desire to protect the accumulation of land and propert
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

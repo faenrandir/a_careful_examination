@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Could Joseph have hidden material in his hat to draw upon during the dictation process? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Could Joseph have hidden material in his hat to draw upon during the dictation process? | A Careful Examination</title>
+<meta property="og:title" content="Could Joseph have hidden material in his hat to draw upon during the dictation process? | A Careful Examination" />
+<meta name="twitter:title" content="Could Joseph have hidden material in his hat to draw upon during the dictation process? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/hidden-material-in-hat-hypothesis/">
-  
+  <meta property="og:url" content="/a_careful_examination/hidden-material-in-hat-hypothesis/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Could Joseph have hidden material in his hat to draw upon during the dictation process?</h1>
@@ -107,32 +223,15 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#foreword">Foreword</a></li>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#the-model-requirements">The Model Requirements</a></li>
-        
-          <li><a href="#doing-the-math">Doing the math</a></li>
-        
-          <li><a href="#other-data-points-explained-by-this-model">Other data points explained by this model</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="foreword">Foreword</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="foreword">Foreword<a class="zola-anchor" href="#foreword" aria-label="Anchor link for: foreword"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The most compelling model for the creation of the Book of Mormon is that <a href="/a_careful_examination/how-could-joseph-smith-composed-bom/">Joseph Smith primarily composed the book orally</a>.  Still, the following is an interesting counter-theory (or perhaps supplement) to that model.</p>
-<h3 id="introduction">Introduction</h3>
+<h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Two main data points converge to suggest that a pre-written text of some kind was used for the dictation of the Book of Mormon.</p>
 <ol>
 <li>
@@ -164,7 +263,8 @@
 <p>There are good reasons, then, to suggest that no individual (divine aid or not) could have impromptu woven together so many ideas and blocks of text regardless of any prodigious story-telling and doctrinal-generating abilities they may have possessed.</p>
 <p>The <a rel="external" href="https://www.churchofjesuschrist.org/topics/book-of-mormon-translation?lang=eng">current orthodox/apologetic model</a> for the translation of the Book of Mormon primarily involves Joseph Smith placing his seer stone in his hat and then dictating the manuscript to a scribe.  Eyewitness accounts of the dictation process do not indicate that Smith was referring to a manuscript or other notes, and Emma’s account explicitly rules out the use of a manuscript.  The LDS believer is quick to conclude from these accounts that a divine transmission process is the only viable explanation.  For the naturalist, the alignment of all these facts presents an interesting problem: besides invoking a conspiracy on a grand scale (i.e., everyone was, or at least all key players were, in on it), what possible method(s) could allow Smith access to a manuscript or manuscript sections without detection of his scribes or passive observers (so, assuming that dictation proceeded as many witnesses indicated)?</p>
 <p>This document explores the possibility that Joseph hid material in his hat which he was able to draw upon during the dictation process.</p>
-<h3 id="the-model-requirements">The Model Requirements</h3>
+<h3 id="the-model-requirements">The Model Requirements<a class="zola-anchor" href="#the-model-requirements" aria-label="Anchor link for: the-model-requirements"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The model whereby Joseph hides material in his hat to aid him during the dictation process depends upon six main elements in order to be viable.  If any one of these were found to <em>not</em> be viable, the model may be considered falsified.  If all six of these elements can be demonstrated viable, then the model as a whole may also be viewed as viable, it would seem.</p>
 <ol>
 <li>
@@ -223,7 +323,8 @@ text could be viewed within it, in part because the material was somewhat
 translucent.<sup class="footnote-reference" id="fr-bill_reel_hat_experiment-1"><a href="/a_careful_examination/hidden-material-in-hat-hypothesis/#fn-bill_reel_hat_experiment">[3]</a></sup></p>
 </li>
 </ol>
-<h3 id="doing-the-math">Doing the math</h3>
+<h3 id="doing-the-math">Doing the math<a class="zola-anchor" href="#doing-the-math" aria-label="Anchor link for: doing-the-math"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Given what we know about the translation process, what would a typical
 Smith/Cowdery dictation session have looked like under this model?</p>
 <p>[Note, the following uses <em>modern</em> page numbers and verse demarcations for an analysis easier to grasp for the modern reader.  So, the following assumes the content of the modern BoM is similar in length to the content of the original manuscript.]</p>
@@ -238,7 +339,8 @@ Smith/Cowdery dictation session have looked like under this model?</p>
 <p>In other words, under the naturalist model, Joseph Smith seems capable of embellishing scripture associated with representations that could have easily been contained on a fragment that would have fit neatly inside his hat.</p>
 <p>Perhaps this would have been more difficult to do with extended sections of Isaiah, but remember that only a subset of the Isaiah verses are word for word.  In addition, Joseph would only need to request more breaks and shorter sessions in order to increase the amount of text he could refer to for a given section in the Book of Mormon.</p>
 <p>Finally, the Quran has about the same number of verses in it as the Book of Mormon and <a rel="external" href="https://www.quora.com/How-much-time-does-it-take-an-average-to-memorize-the-Quran">the Quran can be memorized in between 8 months to 1.5 years</a>.  So, given that the dictation process was spread out over time, it is also seems possible that Joseph could commit verses to short term memory (or become very familiar with them) between dictation sessions (particularly if aided by a fragment).</p>
-<h3 id="other-data-points-explained-by-this-model">Other data points explained by this model</h3>
+<h3 id="other-data-points-explained-by-this-model">Other data points explained by this model<a class="zola-anchor" href="#other-data-points-explained-by-this-model" aria-label="Anchor link for: other-data-points-explained-by-this-model"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The following find a good explanation with the manuscript in a hat theory.  <em>This theory may help to explain why</em>:</p>
 <ol>
 <li>
@@ -326,16 +428,15 @@ Smith/Cowdery dictation session have looked like under this model?</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -350,105 +451,9 @@ Smith/Cowdery dictation session have looked like under this model?</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

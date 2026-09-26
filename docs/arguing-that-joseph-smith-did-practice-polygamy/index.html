@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Arguing that Joseph Smith did practice polygamy | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Arguing that Joseph Smith did practice polygamy | A Careful Examination</title>
+<meta property="og:title" content="Arguing that Joseph Smith did practice polygamy | A Careful Examination" />
+<meta name="twitter:title" content="Arguing that Joseph Smith did practice polygamy | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/arguing-that-joseph-smith-did-practice-polygamy/">
-  
+  <meta property="og:url" content="/a_careful_examination/arguing-that-joseph-smith-did-practice-polygamy/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Arguing that Joseph Smith did practice polygamy</h1>
@@ -108,32 +224,41 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[very rough draft]</p>
-<h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[very rough draft]</p>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Explain the narrative.</p>
-<h2 id="main-arguments-for-why-joseph-did-not-practice-polygamy">Main arguments for why Joseph did <em>not</em> practice polygamy</h2>
+<h2 id="main-arguments-for-why-joseph-did-not-practice-polygamy">Main arguments for why Joseph did <em>not</em> practice polygamy<a class="zola-anchor" href="#main-arguments-for-why-joseph-did-not-practice-polygamy" aria-label="Anchor link for: main-arguments-for-why-joseph-did-not-practice-polygamy"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The following are the primary arguments people use to posit that Joseph did not practice polygamy:</p>
-<h3 id="joseph-left-no-progeny">Joseph left no progeny.</h3>
+<h3 id="joseph-left-no-progeny">Joseph left no progeny.<a class="zola-anchor" href="#joseph-left-no-progeny" aria-label="Anchor link for: joseph-left-no-progeny"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>There are <a href="/a_careful_examination/why-joseph-not-sire-children-plural-wives/">good reasons</a> that might explain why Joseph did not sire progeny in these relationships.</li>
 <li>There are potential progeny that have not yet been tested (see <a href="/a_careful_examination/why-joseph-not-sire-children-plural-wives/">same document</a>)</li>
 </ul>
-<h3 id="joseph-s-denials">Joseph’s denials</h3>
+<h3 id="joseph-s-denials">Joseph’s denials<a class="zola-anchor" href="#joseph-s-denials" aria-label="Anchor link for: joseph-s-denials"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph may have lied or misled about many other events:</p>
 <ul>
 <li>Book of Commandment retrofit</li>
 <li>Account of visiting Charles Anthon</li>
 <li>JST copies Clarke in hundreds of cases with no attribution</li>
 </ul>
-<h3 id="other-testimony-denying-he-practiced-polygamy">Other testimony denying he practiced polygamy</h3>
+<h3 id="other-testimony-denying-he-practiced-polygamy">Other testimony denying he practiced polygamy<a class="zola-anchor" href="#other-testimony-denying-he-practiced-polygamy" aria-label="Anchor link for: other-testimony-denying-he-practiced-polygamy"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Emma, etc.</p>
-<h3 id="conflicting-evidence">Conflicting evidence</h3>
+<h3 id="conflicting-evidence">Conflicting evidence<a class="zola-anchor" href="#conflicting-evidence" aria-label="Anchor link for: conflicting-evidence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Conflicting and impossible testimony.</p>
-<h2 id="arguments-for-why-joseph-did-practice-polygamy">Arguments for why Joseph <em>did</em> practice polygamy</h2>
-<h3 id="the-sarah-ann-whitney-documents">The Sarah Ann Whitney documents</h3>
+<h2 id="arguments-for-why-joseph-did-practice-polygamy">Arguments for why Joseph <em>did</em> practice polygamy<a class="zola-anchor" href="#arguments-for-why-joseph-did-practice-polygamy" aria-label="Anchor link for: arguments-for-why-joseph-did-practice-polygamy"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="the-sarah-ann-whitney-documents">The Sarah Ann Whitney documents<a class="zola-anchor" href="#the-sarah-ann-whitney-documents" aria-label="Anchor link for: the-sarah-ann-whitney-documents"><i class="fas fa-link"></i></a> 
+</h3>
 <p>We have primary documentation—all in Joseph Smith’s handwriting—suggesting intense interest in the 17-18 year old Sarah Ann Whitney expressed in a variety of ways:</p>
 <ul>
 <li>a blessing that seems consistent with a polygamous relationship</li>
@@ -141,21 +266,23 @@
 <li>A deed of property to Sarah Ann</li>
 </ul>
 <p>These documents all align with the claims of the Whitneys that Joseph was involved in a polygamous relationship with Sarah Ann. If there are alternative theories that make sense of all three of these documents outside of a polygamous relationship, I am not aware of them. In addition, there exists other contemporary documentation pointing to Joseph Smith’s polygamy (see <a href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">here</a> for all the documentation including the 3 Sarah Ann docs)</p>
-<h3 id="oliver-s-letter">Oliver’s letter</h3>
-<h3 id="other-contemporary-evidence">Other contemporary evidence</h3>
-<h3 id="testimony-with-opposing-bias">Testimony with opposing bias</h3>
+<h3 id="oliver-s-letter">Oliver’s letter<a class="zola-anchor" href="#oliver-s-letter" aria-label="Anchor link for: oliver-s-letter"><i class="fas fa-link"></i></a> 
+</h3>
+<h3 id="other-contemporary-evidence">Other contemporary evidence<a class="zola-anchor" href="#other-contemporary-evidence" aria-label="Anchor link for: other-contemporary-evidence"><i class="fas fa-link"></i></a> 
+</h3>
+<h3 id="testimony-with-opposing-bias">Testimony with opposing bias<a class="zola-anchor" href="#testimony-with-opposing-bias" aria-label="Anchor link for: testimony-with-opposing-bias"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Both antagonists (e.g., <a href="/a_careful_examination/martha-brotherton-affidavit/">Martha Brotherton</a>) and most supporters of Smith claimed (at least eventually) that he practiced polygamy. When those with opposing bias all point to the same observation, it strengthens the claim (consider the <a rel="external" href="https://en.wikipedia.org/wiki/Source_criticism#Principles">principles of source criticism</a>).</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -170,105 +297,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

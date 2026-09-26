@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality | A Careful Examination</title>
+<meta property="og:title" content="“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality | A Careful Examination" />
+<meta name="twitter:title" content="“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/lds-statements-on-cause-and-cure-for-homosexuality/">
-  
+  <meta property="og:url" content="/a_careful_examination/lds-statements-on-cause-and-cure-for-homosexuality/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">“‘God made them that way’—It is blasphemy”: LDS Statements on the causes and cure for homosexuality</h1>
@@ -108,10 +224,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Between the 1970s and to about 2010, official LDS publications have declared in absolute terms that homosexuality “is curable”, is not “preset”, and that no one is born “that way”.</p>
 <p>At least as early as 1995 this message began to change.  Elder Dallin Oaks, in <a rel="external" href="https://www.churchofjesuschrist.org/ensign/1995/10/same-gender-attraction?lang=eng&amp;_r=1">a 1995 Ensign article</a>, stated:</p>
 <blockquote>
@@ -121,15 +239,18 @@
 <blockquote>
 <p>… Many people pray for years and do all they can to be obedient in an effort to reduce same-sex attraction, yet find they are still attracted to the same sex. …</p>
 </blockquote>
-<h2 id="official-publications">Official Publications</h2>
+<h2 id="official-publications">Official Publications<a class="zola-anchor" href="#official-publications" aria-label="Anchor link for: official-publications"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The following statements were all published by the Church of Jesus Christ of Latter-day Saints.  I am not aware that any apology or redaction exists for any of these statements. Statements are listed in chronological order.</p>
 <p>A major part of many of these statements is simply encouragement to not yield to homosexual urges or inclination which is consistent with the current day stance of the Church (i.e., homosexuality may be set at or near birth but that does not mean homosexuals should ever engage in homosexual relationships).  However, these statements also seem to imply or state outright that homosexuals are not “born that way” and in various ways suggest that homosexual <em>orientation</em> may be overcome (i.e., that the orientation may be reversed or significantly diminished).  The position was presented as “fact”.<sup class="footnote-reference" id="fr-opinionorfact-1"><a href="/a_careful_examination/lds-statements-on-cause-and-cure-for-homosexuality/#fn-opinionorfact">[1]</a></sup></p>
-<h3 id="they-can-overcome-and-return-to-normal-living">They can overcome and return to normal … living</h3>
+<h3 id="they-can-overcome-and-return-to-normal-living">They can overcome and return to normal … living<a class="zola-anchor" href="#they-can-overcome-and-return-to-normal-living" aria-label="Anchor link for: they-can-overcome-and-return-to-normal-living"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>homosexuals can be assured that in spite of all they may have heard from other sources, they can overcome and return to normal, happy living.</p>
 </blockquote>
 <p>First Presidency Circular Letter, March 19, 1970, LDS Church Archives.</p>
-<h3 id="born-that-way-a-base-lie">born “that way” … a base lie</h3>
+<h3 id="born-that-way-a-base-lie">born “that way” … a base lie<a class="zola-anchor" href="#born-that-way-a-base-lie" aria-label="Anchor link for: born-that-way-a-base-lie"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p><strong>IT IS CURABLE</strong></p>
 </blockquote>
@@ -149,12 +270,14 @@
 <p>God did not make men evil.  He did not make people ‘that way.’</p>
 </blockquote>
 <p><a rel="external" href="http://www.mormonthink.com/files/New-Horizons-for-Homosexuals-by-Apostle-Spencer-W-Kimball.pdf">New Horizons for Homosexuals</a>, published by the church in 1971</p>
-<h3 id="born-with-an-attraction-a-malicious-lie">born with an attraction a malicious lie</h3>
+<h3 id="born-with-an-attraction-a-malicious-lie">born with an attraction a malicious lie<a class="zola-anchor" href="#born-with-an-attraction-a-malicious-lie" aria-label="Anchor link for: born-with-an-attraction-a-malicious-lie"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>There is a falsehood that some are born with an attraction to their own kind, with nothing they can do about it. They are just “that way” and can only yield to those desires. That is a malicious and destructive lie.  While it is a convincing idea to some, it is of the devil. No one is locked into that kind of life. From our premortal life we were directed into a physical body. There is no mismatching of bodies and spirits. Boys are to become men—masculine, manly men—ultimately to become husbands and fathers. No one is predestined to a perverted use of these powers.</p>
 </blockquote>
 <p><a rel="external" href="https://archive.org/details/ToYoungMenOnly/page/n15">To Young Men Only</a> which is based on Boyd K. Packer’s <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1976/10/media/session_5_talk_1/2680671857001?lang=eng">1976 General Conference address Message to Young Men</a> (begin 11:51).</p>
-<h3 id="homosexuality-is-curable">homosexuality is curable</h3>
+<h3 id="homosexuality-is-curable">homosexuality is curable<a class="zola-anchor" href="#homosexuality-is-curable" aria-label="Anchor link for: homosexuality-is-curable"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>After consideration of the evil aspects, the ugliness and prevalence of the evil of homosexuality, the glorious thing to remember is that it [homosexuality] is curable and forgiveable.  … Certainly it can be overcome, for there are numerous happy people who were once involved in its clutches and who have since completely transformed their lives.  Therefore to those who say that this practice or any other evil is incurable, I respond: “How can you say the door cannot be opened until your knuckles are bloody, till your head is bruised, till your muscles are sore?”</p>
 </blockquote>
@@ -162,7 +285,8 @@
 <p>Many have been misinformed that they are powerless in the matter, not responsible for the tendency, and that ‘God made them that way.’ This is as untrue as any other of the diabolical lies Satan has concocted. It is blasphemy. Man is made in the image of God. Does the pervert think God to be ‘that way’?”</p>
 </blockquote>
 <p>LDS Institute Manual <a rel="external" href="https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n321">The Life And Teachings Of Jesus And His Apostles</a>  pg 317 (quoting Spencer W. Kimball’s The Miracle of Forgiveness) (The manual was copyrighted in <a rel="external" href="https://archive.org/details/TheLifeAndTeachingsOfJesusAndHisApostlesLDSManual/page/n1">1978 and 1979</a> and was superceded by <a rel="external" href="https://www.churchofjesuschrist.org/manual/new-testament-student-manual/title-page?lang=eng">a new manual in 2014</a>, I believe)</p>
-<h3 id="homosexuality-can-be-changed">homosexuality can be changed</h3>
+<h3 id="homosexuality-can-be-changed">homosexuality can be changed<a class="zola-anchor" href="#homosexuality-can-be-changed" aria-label="Anchor link for: homosexuality-can-be-changed"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The 1981 booklet <a rel="external" href="https://mormonleaks.io/wiki/documents/4/4c/Homosexuality-1981.pdf">Homosexuality</a>, published by the First Presidency and Twelve Apostles states the following:</p>
 <blockquote>
 <p>Modern day prophets have clearly promised that homosexuality can be changed. You should convey this positive attitude because it encourages change. (pg 4)</p>
@@ -194,7 +318,8 @@
 <blockquote>
 <p>Repentant members and those who counsel with them succeed only to the extent that they have the Spirit of the Lord. Those who truly overcome homosexual activity do not seek mild adaption or limited change. They seek complete change, total repentance and acceptance before God. Even though these high objectives are not easy to attain, they will always be goals of those who follow the Lord’s way.  (pg 9)</p>
 </blockquote>
-<h3 id="attempting-to-prove-that-these-impulses-are-inborn">attempting to prove that these impulses are inborn</h3>
+<h3 id="attempting-to-prove-that-these-impulses-are-inborn">attempting to prove that these impulses are inborn<a class="zola-anchor" href="#attempting-to-prove-that-these-impulses-are-inborn" aria-label="Anchor link for: attempting-to-prove-that-these-impulses-are-inborn"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted; and therefore, such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.</p>
 </blockquote>
@@ -205,12 +330,14 @@
 <p>All of us are subject to feelings and impulses. Some are worthy and some of them are not; some of them are natural and some of them are not. We are to control them, meaning we are to direct them according to the moral law.</p>
 </blockquote>
 <p>Elder Boyd K. Packer, October 1990 General Conference <a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/1990/10/covenants?lang=eng">Covenants</a></p>
-<h3 id="some-suppose-that-they-were-preset">some suppose that they were preset</h3>
+<h3 id="some-suppose-that-they-were-preset">some suppose that they were preset<a class="zola-anchor" href="#some-suppose-that-they-were-preset" aria-label="Anchor link for: some-suppose-that-they-were-preset"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Some suppose that they were preset and cannot overcome what they feel are inborn temptations toward the impure and unnatural. Not so! [Why would our Heavenly Father do that to anyone?] Remember, God is our Heavenly Father.  (bracketed text in audio/video only)</p>
 </blockquote>
 <p>Elder Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles, October 2010 General Conference <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng">Cleansing the Inner Vessel</a></p>
-<h2 id="see-also">See Also</h2>
+<h2 id="see-also">See Also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://lattergaystories.org/record/">On the Record | A Chronology of LGBTQ+ Messaging</a></li>
 <li><a rel="external" href="https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/">What Do We Know of God’s Will For His LGBT Children? An Examination of the LDS Church’s Position on Homosexuality</a></li>
@@ -225,16 +352,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -249,105 +375,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

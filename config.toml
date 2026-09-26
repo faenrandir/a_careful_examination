@@ -14,6 +14,9 @@ default_language = "en"
 # Whether to automatically compile Sass files
 compile_sass = true
 
+# The site theme to use.
+theme = "zola-pickles"
+
 # Whether to generate a feed file (replaces jekyll-feed)
 generate_feeds = true
 
@@ -31,6 +34,8 @@ taxonomies = [
 [markdown]
 bottom_footnotes = true
 smart_punctuation = true
+# Show the anchor link on the right of each heading so the TOC links resolve to a target.
+insert_anchor_links = "right"
 
 # Search
 [search]
@@ -41,6 +46,10 @@ enabled = true
 skip_prefixes = ["#"]
 
 # Category descriptions for homepage
+# Top-level extra keys consumed by the pickles theme.
+[extra]
+katex_enable = true
+
 [extra.categories]
 book-of-mormon = "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon."
 joseph-smith = "Polygamy, seer stones, First Vision, treasure digging, folk magic, education, and intellectual background of Joseph Smith."

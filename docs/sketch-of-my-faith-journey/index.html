@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Brief Sketch of Events Surrounding My Resignation | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Brief Sketch of Events Surrounding My Resignation | A Careful Examination</title>
+<meta property="og:title" content="Brief Sketch of Events Surrounding My Resignation | A Careful Examination" />
+<meta name="twitter:title" content="Brief Sketch of Events Surrounding My Resignation | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/sketch-of-my-faith-journey/">
-  
+  <meta property="og:url" content="/a_careful_examination/sketch-of-my-faith-journey/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Brief Sketch of Events Surrounding My Resignation</h1>
@@ -102,50 +218,36 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#my-spiritual-and-apologetic-background">My Spiritual and Apologetic Background</a></li>
-        
-          <li><a href="#investigating-other-models">Investigating Other Models</a></li>
-        
-          <li><a href="#resignation">Resignation</a></li>
-        
-          <li><a href="#the-present">The Present</a></li>
-        
-          <li><a href="#more">More</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="my-spiritual-and-apologetic-background">My Spiritual and Apologetic Background</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="my-spiritual-and-apologetic-background">My Spiritual and Apologetic Background<a class="zola-anchor" href="#my-spiritual-and-apologetic-background" aria-label="Anchor link for: my-spiritual-and-apologetic-background"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I grew up in a highly faithful LDS family,<sup class="footnote-reference" id="fr-highlyfaithful-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-highlyfaithful">[1]</a></sup> and I was serious about living the Gospel as a child and youth (for instance, I participated in the conversion of a friend during my Senior year of high school), but my fervor for the Gospel diminished somewhat during my late teen years until I went into the MTC.</p>
 <p>I was in a pretty low place when I entered the MTC, but I decided to give it my best effort to see if there was any real validity to the Gospel.  In the MTC I had strong, confirmatory spiritual experiences,<sup class="footnote-reference" id="fr-confirmatoryexperiences-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-confirmatoryexperiences">[2]</a></sup> determined that the Gospel was indeed true, and decided I could do nothing better with my life than to sacrifice it completely for the cause.<sup class="footnote-reference" id="fr-dedicated-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-dedicated">[3]</a></sup>  I was a fully dedicated missionary and deeply enjoyed my missionary experience.</p>
 <p>Shortly before I started high school, a close relative—who was a member of the Stake Presidency at the time—<a rel="external" href="http://www.mormonstories.org/331-the-bill-prince-family-story-from-stake-presidency-and-houston-mormon-royalty-to-ex-mormons/">left the Church due to “anti-mormon” literature</a>.<sup class="footnote-reference" id="fr-antimormon-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-antimormon">[4]</a></sup>  His departure cast a sort of pall over my family’s beliefs and seemed to me like a sort of intellectual challenge just left hanging in the air.  Nobody in my family seemed willing or able to mount an intellectual defense against his arguments<sup class="footnote-reference" id="fr-intellectualdefense-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-intellectualdefense">[5]</a></sup> so on my mission I began an intense study of the apologetic arguments for the Church’s truthfulness, attempting to sustain intellectually what I felt certain of spiritually.</p>
 <p>I was guided by the idea that if the Gospel was really true then there was no reason to fear investigating it comprehensively.<sup class="footnote-reference" id="fr-nofearinvestigation-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-nofearinvestigation">[6]</a></sup>  I reasoned that the problem with my close relative was not that he had studied too much, but that he had not studied deeply enough, and he had not lived with enough dedication to prevent his loss of faith.</p>
 <p>From my missionary experience I was very familiar with the tight relationship between spirituality and testimony, so I focused equally intensely on my spiritual development.  I consistently tried to live the most important aspects of the Gospel (love, service, and humility) while not neglecting all the other facets that seemed important (scripture study, prayer, fasting, Sabbath observance, magnify callings, do Home Teaching consistently and for the right reasons, etc.).<sup class="footnote-reference" id="fr-nobodyperfect-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-nobodyperfect">[7]</a></sup></p>
 <p>So, for the past twenty years I remained firm in that pattern of intensely studying apologetics,<sup class="footnote-reference" id="fr-apologetics-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-apologetics">[8]</a></sup> focusing on my spiritual development, and building my testimony.<sup class="footnote-reference" id="fr-spiritualdeveloment-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-spiritualdeveloment">[9]</a></sup>  Of course, even though mounting a defense against my close relative was an initial catalyst and continual motivator, I also enjoyed living the Gospel for its own sake and was happy to be doing the right things for their intrinsic value and not necessarily as a challenge to my close relative.</p>
-<h3 id="investigating-other-models">Investigating Other Models</h3>
+<h3 id="investigating-other-models">Investigating Other Models<a class="zola-anchor" href="#investigating-other-models" aria-label="Anchor link for: investigating-other-models"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Over the years, multiple data points that I had come across did not square well with the LDS narratives (or apologetic arguments), and these had piled onto my “shelf” over time.<sup class="footnote-reference" id="fr-majorpoints-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-majorpoints">[10]</a></sup>  However, as a faculty member whose paycheck depended on having a temple recommend (and hence testimony) it was fairly easy to downplay these concerns in my mind while I was at BYU.</p>
 <p>After leaving BYU<sup class="footnote-reference" id="fr-whyleaveBYU-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-whyleaveBYU">[11]</a></sup> I no longer felt that it was imperative that I defend the Church’s position.  Rather, I could freely investigate all the issues that had been bothering me, and I could do so in an unbiased<sup class="footnote-reference" id="fr-unbiased-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-unbiased">[12]</a></sup> and scientifically rigorous fashion.<sup class="footnote-reference" id="fr-rigorous-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-rigorous">[13]</a></sup>  I also felt confident with my spiritual foundation, internal motivations, and general behavior to know that I was not seeking to justify any sinful behavior.  Finally, my experience in science and apologetics had taught me the importance of examining the primary data myself and not relying on the interpretations of others.  So, I dug into it—but unlike during my years as an apologist, <a rel="external" href="https://faenrandir.github.io/a_careful_examination/">I examined <em>all</em> the evidence and <em>all</em> the interpretations</a>.</p>
 <p>After carefully examining alternative models for the Church’s foundational truth claims, I decided that alternative models fit the data <em>much</em> better than the LDS narratives (<a href="/a_careful_examination/the-dominant-narrative/">either official or apologetic</a>).  In my opinion, the fit is remarkable even using only the data that is generally accepted / acknowledged by LDS apologists.<sup class="footnote-reference" id="fr-differentinterpretations-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-differentinterpretations">[14]</a></sup></p>
 <p>My wife and I worked through this analysis and its consequences together (we read a lot and took many long walks together talking through the data and arguments).  Spiritually, this change in perspective felt to us more like a natural outgrowth of a positive spiritual and life trajectory, hence terms like “faith-crisis” and “faith-transition” don’t do a great job of capturing the contours of this experience for us.</p>
-<h3 id="resignation">Resignation</h3>
+<h3 id="resignation">Resignation<a class="zola-anchor" href="#resignation" aria-label="Anchor link for: resignation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>After about a year of having decided alternative models fit better and only becoming more confident in that assessment over time, I felt morally obligated to resign from the Church. I finished out tithing season as ward finance clerk, trained a replacement, and then formally resigned from the Church in January 2016.</p>
-<h3 id="the-present">The Present</h3>
+<h3 id="the-present">The Present<a class="zola-anchor" href="#the-present" aria-label="Anchor link for: the-present"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Even though this has been a positive experience in general, it’s still very challenging to transition from the faith that I held dearly for the vast majority of my life.  My wife and I are still working through the various stages of grief.</p>
 <p>This transition has also influenced many of my relationships with friends and family.<sup class="footnote-reference" id="fr-relationshipcommonground-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-relationshipcommonground">[15]</a></sup>  The process of rebuilding those relationships has been quite challenging but has generally gone well.</p>
 <p>This time of viewing life from outside the Gospel/Church perspective—which is the only perspective I’ve ever really known—has been one of the most enlightening phases of my life (similar to the major enlightenment I experienced on my mission).  Many things that never quite made sense suddenly have an explanation to my mind, and that’s extremely satisfying.<sup class="footnote-reference" id="fr-makingsense-1"><a href="/a_careful_examination/sketch-of-my-faith-journey/#fn-makingsense">[16]</a></sup>  And, as far as my own sense of moral obligation goes, I feel confident that <a href="/a_careful_examination/morality-transcends-religious-belief/">morality transcends religious belief</a> and is still central to living a good life.</p>
 <p>A general outline of my current beliefs about life and morality, including the resonance my beliefs share with other belief systems, may be found <a href="/a_careful_examination/summary-of-my-beliefs/">here</a>.</p>
 <p>At least to this point, I have found that the contours of life and friendship remain mostly the same: life is meaningful as we serve, love, and try to understand one another.  We feel good about ourselves as we try to remain humble, to stretch ourselves to do better, and to become more.  And life is intrinsically wonderful, especially as we focus on all that is good and the common threads that bind us together on our journey.</p>
-<h3 id="more">More</h3>
+<h3 id="more">More<a class="zola-anchor" href="#more" aria-label="Anchor link for: more"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.youtube.com/watch?v=qX2-_aLpcEI">Interview with Kennet Jõgi</a></p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -212,16 +314,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -236,105 +337,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

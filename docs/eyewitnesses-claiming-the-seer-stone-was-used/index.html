@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Eyewitnesses claiming the seer stone was used to translate the Book of Mormon | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Eyewitnesses claiming the seer stone was used to translate the Book of Mormon | A Careful Examination</title>
+<meta property="og:title" content="Eyewitnesses claiming the seer stone was used to translate the Book of Mormon | A Careful Examination" />
+<meta name="twitter:title" content="Eyewitnesses claiming the seer stone was used to translate the Book of Mormon | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/">
-  
+  <meta property="og:url" content="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Eyewitnesses claiming the seer stone was used to translate the Book of Mormon</h1>
@@ -113,83 +229,104 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>One of the most consistent claims made by eyewitnesses<sup class="footnote-reference" id="fr-except_joseph_and_oliver-1"><a href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/#fn-except_joseph_and_oliver">[1]</a></sup> to Joseph Smith’s translation process is that Joseph used a chocolate colored seer stone, placed in a hat, to translate much or all of what would become the book.</p>
-<h2 id="eyewitness-statements-on-use-of-the-seer-stone">Eyewitness statements on use of the seer stone</h2>
+<h2 id="eyewitness-statements-on-use-of-the-seer-stone">Eyewitness statements on use of the seer stone<a class="zola-anchor" href="#eyewitness-statements-on-use-of-the-seer-stone" aria-label="Anchor link for: eyewitness-statements-on-use-of-the-seer-stone"><i class="fas fa-link"></i></a> 
+</h2>
 <p>All witness statements are taken from John Welch’s <a rel="external" href="https://archive.bookofmormoncentral.org/content/miraculous-translation-book-mormon">The Miraculous Translation of the Book of Mormon</a><sup class="footnote-reference" id="fr-book_chapter-1"><a href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/#fn-book_chapter">[2]</a></sup>, and I provide Welch’s title for each in italics. They are arranged according to a simple estimate of the likely frequency that each individual observed the translation process<sup class="footnote-reference" id="fr-likelihood_of_observing-1"><a href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/#fn-likelihood_of_observing">[3]</a></sup> and chronologically per individual.</p>
-<h3 id="emma-smith">Emma Smith</h3>
-<h4 id="emma-smith-1870">Emma Smith - 1870</h4>
+<h3 id="emma-smith">Emma Smith<a class="zola-anchor" href="#emma-smith" aria-label="Anchor link for: emma-smith"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="emma-smith-1870">Emma Smith - 1870<a class="zola-anchor" href="#emma-smith-1870" aria-label="Anchor link for: emma-smith-1870"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>Emma Smith Bidamon to Emma Pilgrim (1870)</em></p>
 <blockquote>
 <p>Now, the first part my husband translated, was translated by the use of Urim and Thummim, and that was the part that Martin Harris lost After that he used a small stone, not exactly black, but was rather a dark color.</p>
 </blockquote>
-<h4 id="emma-smith-1879">Emma Smith - 1879</h4>
+<h4 id="emma-smith-1879">Emma Smith - 1879<a class="zola-anchor" href="#emma-smith-1879" aria-label="Anchor link for: emma-smith-1879"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>Emma Smith Bidamon, as interviewed by Joseph Smith III (1879)</em></p>
 <blockquote>
 <p>… In writing for your father I frequently wrote day after day, often sitting at the table close by him, he sitting with his face buried in his hat, with the stone in it, and dictating hour after hour with nothing between us.</p>
 </blockquote>
-<h3 id="martin-harris">Martin Harris</h3>
-<h4 id="martin-harris-1881">Martin Harris - 1881</h4>
+<h3 id="martin-harris">Martin Harris<a class="zola-anchor" href="#martin-harris" aria-label="Anchor link for: martin-harris"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="martin-harris-1881">Martin Harris - 1881<a class="zola-anchor" href="#martin-harris-1881" aria-label="Anchor link for: martin-harris-1881"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>Martin Harris, as recorded by Edward Stevenson (1881)</em></p>
 <blockquote>
 <p>By aid of the seer stone, sentences would appear … Martin said further that the seer stone differed in appearance entirely from the Urim and Thummim that was obtained with the plates, which were two clear stones set in two rims, very much resembled spectacles, only they were larger.</p>
 </blockquote>
-<h4 id="martin-harris-1886">Martin Harris - 1886</h4>
+<h4 id="martin-harris-1886">Martin Harris - 1886<a class="zola-anchor" href="#martin-harris-1886" aria-label="Anchor link for: martin-harris-1886"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>Martin Harris, as interviewed by Edward Stevenson (1886)</em></p>
 <blockquote>
 <p>[Martin Harris] also stated that the Prophet translated a portion of the Book of Mormon, with the seer stone in his possession. The stone was placed in a hat that was used for that purpose, and with the aid of this seer stone the Prophet would read sentence by sentence as Martin wrote,</p>
 </blockquote>
-<h4 id="martin-harris-1887">Martin Harris - 1887</h4>
+<h4 id="martin-harris-1887">Martin Harris - 1887<a class="zola-anchor" href="#martin-harris-1887" aria-label="Anchor link for: martin-harris-1887"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>Martin Harris, as published by Andrew Jenson (1887)</em></p>
 <blockquote>
 <p>the Prophet possessed a seer stone, by which he was enabled to translate as well as from the Urim and Thummim, and for convenience he then used the seer stone.</p>
 </blockquote>
-<h3 id="david-whitmer">David Whitmer</h3>
-<h4 id="david-whitmer-1885a">David Whitmer - 1885a</h4>
+<h3 id="david-whitmer">David Whitmer<a class="zola-anchor" href="#david-whitmer" aria-label="Anchor link for: david-whitmer"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="david-whitmer-1885a">David Whitmer - 1885a<a class="zola-anchor" href="#david-whitmer-1885a" aria-label="Anchor link for: david-whitmer-1885a"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>David Whitmer, as interviewed by Zenas H. Gurley (1885)</em></p>
 <blockquote>
 <p>Q—Did Joseph use his “peep stone” to finish up the translation? if so why?  Ans—He used a stone called a “Seers stone,” the “Interpreters” having been taken away from him because of transgression. . . .</p>
 </blockquote>
-<h4 id="david-whitmer-1885b">David Whitmer - 1885b</h4>
+<h4 id="david-whitmer-1885b">David Whitmer - 1885b<a class="zola-anchor" href="#david-whitmer-1885b" aria-label="Anchor link for: david-whitmer-1885b"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>David Whitmer, as interviewed by the Chicago Tribune (1885)</em></p>
 <blockquote>
 <p>… The plates, however, were not returned [after 116 pages], but instead Smith was given by the angel a Urim and Thummim of another pattern, it being shaped in oval or kidney form. This seer’s stone he was instructed to place in his hat, and on covering his face with the hat the character and translation would appear on the stone.</p>
 </blockquote>
-<h4 id="david-whitmer-1886">David Whitmer - 1886</h4>
+<h4 id="david-whitmer-1886">David Whitmer - 1886<a class="zola-anchor" href="#david-whitmer-1886" aria-label="Anchor link for: david-whitmer-1886"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>David Whitmer, as interviewed by the Omaha Herald (1886)</em></p>
 <blockquote>
 <p>[After the loss of the 116 pages, the Lord] took from the prophet the urim and thummum and otherwise expressed his condemnation. By fervent prayer and by otherwise humbling himself, the prophet, however, again found favor, and was presented with a strange oval-shaped, chocolate-colored stone about the size of an egg, only more flat, which, it was promised, should serve the same purpose as the missing urim and thummim. . . . With this stone all of the present Book of Mormon was translated.</p>
 </blockquote>
-<h4 id="david-whitmer-1909">David Whitmer - 1909</h4>
+<h4 id="david-whitmer-1909">David Whitmer - 1909<a class="zola-anchor" href="#david-whitmer-1909" aria-label="Anchor link for: david-whitmer-1909"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>David Whitmer, as interviewed by Nathan A. Tanner Jr. (1909)</em></p>
 <p>Whitmer describes the Urim and Thummim and seer stone as being used “alternately” in this account.</p>
 <blockquote>
 <p>He [David Whitmer] said that Joseph was separated from the scribe by a blanket, as I remember; that he had the Urim and Thummim, and a chocolate colored stone, which he used alternately, as suited his convenience, and he said he believed Joseph could as well accomplish the translation by looking into a hat, or any other stone, as by the use of the Urim and Thummim or the chocolate colored stone.</p>
 </blockquote>
-<h3 id="william-smith">William Smith</h3>
-<h4 id="william-smith-1883">William Smith (1883)</h4>
+<h3 id="william-smith">William Smith<a class="zola-anchor" href="#william-smith" aria-label="Anchor link for: william-smith"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="william-smith-1883">William Smith (1883)<a class="zola-anchor" href="#william-smith-1883" aria-label="Anchor link for: william-smith-1883"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>William Smith (1883)</em><sup class="footnote-reference" id="fr-william_smith_1883-1"><a href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/#fn-william_smith_1883">[4]</a></sup></p>
 <p>William Smith uses the term Urim and Thummim and describes them as being found with the plates, but his description is consistent with the use of the chocolate colored seer stone.</p>
 <blockquote>
 <p>where he translated them by means of the Urim and Thummim, (which he obtained with the plates), and the power of God. The manner in which this was done was by looking into the Urim and Thummim, which was placed in a hat to exclude the light, (the plates lying near by covered up), and reading off the translation, which appeared in the stone by the power of God.</p>
 </blockquote>
-<h4 id="william-smith-1884">William Smith (1884)</h4>
+<h4 id="william-smith-1884">William Smith (1884)<a class="zola-anchor" href="#william-smith-1884" aria-label="Anchor link for: william-smith-1884"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>William Smith (1884)</em><sup class="footnote-reference" id="fr-william_smith_1884-1"><a href="/a_careful_examination/eyewitnesses-claiming-the-seer-stone-was-used/#fn-william_smith_1884">[5]</a></sup></p>
 <p>William Smith uses the term Urim and Thummim and describes them as being found with the plates, but his description is consistent with the use of the chocolate colored seer stone.</p>
 <blockquote>
 <p>When Joseph received the plates he a[l]so received the Urim and Thummim, which he would place in a hat to exclude all light, and with the plates by his side he translated the characters …</p>
 </blockquote>
-<h4 id="william-smith-as-interviewed-by-j-w-peterson-and-w-s-pender-1921">William Smith, as interviewed by J. W. Peterson and W. S. Pender (1921)</h4>
+<h4 id="william-smith-as-interviewed-by-j-w-peterson-and-w-s-pender-1921">William Smith, as interviewed by J. W. Peterson and W. S. Pender (1921)<a class="zola-anchor" href="#william-smith-as-interviewed-by-j-w-peterson-and-w-s-pender-1921" aria-label="Anchor link for: william-smith-as-interviewed-by-j-w-peterson-and-w-s-pender-1921"><i class="fas fa-link"></i></a> 
+</h4>
 <p><em>William Smith, as interviewed by J. W. Peterson and W. S. Pender (1921)</em></p>
 <p>In this account, William Smith describes the Urim and Thummim and the seer stone as separate instruments and their use alternating based on Joseph Smith’s eye strain.</p>
 <blockquote>
 <p>Explaining the expression as to the stones in the Urim and thummim being set in two rims of a bow he said: A silver bow ran over one stone, under the other, arround over that one and under the first in the shape of a horizontal figure 8 much like a pair of spectacles. That they were much too large for Joseph and he could only see through one at a time using sometimes one and sometimes the other. By putting his head in a hat or some dark object it was not necessary to close one eye while looking through the stone with the other. In that way sometimes when his eyes grew tires [tired] he releaved them of the strain.</p>
 </blockquote>
-<h2 id="analysis">Analysis</h2>
-<h3 id="a-narrative-spectrum">A narrative spectrum</h3>
+<h2 id="analysis">Analysis<a class="zola-anchor" href="#analysis" aria-label="Anchor link for: analysis"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="a-narrative-spectrum">A narrative spectrum<a class="zola-anchor" href="#a-narrative-spectrum" aria-label="Anchor link for: a-narrative-spectrum"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Oliver Cowdery and Joseph Smith consistently claimed Joseph translated the
 Book of Mormon with the Urim and Thummum (or Nephite Interpreters), which they
 identified as having been obtained with the plates.  For instance, in 1834
@@ -212,7 +349,8 @@ in a spectrum.</p>
 <li>[After some initial period, identified by several as the lost 116 pages episode] [entirely] with the seer stone (Emma Smith 1870, Martin Harris 1887 “then used the seer stone”, David Whitmer 1885a, 1885b, 1886).</li>
 </ul>
 <p>At least the far ends of the spectrum seem irreconcilable.  On one hand we have Oliver Cowdery and Joseph Smith claiming that Joseph translated with the Urim &amp; Thummim found with the plates and on the other end Emma Smith, Martin Harris, and David Whitmer claiming that the seer stone was used for all of the Book of Mormon after the lost 116 pages.</p>
-<h3 id="alternate-versus-consecutive">Alternate versus consecutive</h3>
+<h3 id="alternate-versus-consecutive">Alternate versus consecutive<a class="zola-anchor" href="#alternate-versus-consecutive" aria-label="Anchor link for: alternate-versus-consecutive"><i class="fas fa-link"></i></a> 
+</h3>
 <p>There is some tension between descriptions of A) alternate usage, and B) consecutive usage where the seer stone was used for all of the Book of Mormon after a period of using the Urim and Thummim.  We can observe that:</p>
 <ul>
 <li>The most complete description (that of David Whitmer) of A is later than <em>several</em> earlier statements of his indicating B.</li>
@@ -243,16 +381,15 @@ in a spectrum.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -267,105 +404,9 @@ in a spectrum.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,50 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends "index.html" %}
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{# Wrap the site's content in pickles' base layout (header/footer/css/katex)
+   and add the site-specific stylesheet + scripts on top. #}
+
+{% block title -%}
   <title>{% if page is defined and page.title %}{{ page.title }} | {% elif section is defined and section.title %}{{ section.title }} | {% endif %}{{ config.title }}</title>
-  {% if page is defined and page.description %}
+  <meta property="og:title" content="{% if page is defined and page.title %}{{ page.title }} | {{ config.title }}{% elif section is defined and section.title %}{{ section.title }} | {{ config.title }}{% else %}{{ config.title }}{% endif %}" />
+  <meta name="twitter:title" content="{% if page is defined and page.title %}{{ page.title }} | {{ config.title }}{% elif section is defined and section.title %}{{ section.title }} | {{ config.title }}{% else %}{{ config.title }}{% endif %}" />
+{%- endblock title %}
+
+{% block description -%}
+  {% if page is defined and page.description -%}
   <meta name="description" content="{{ page.description }}">
-  {% elif section is defined and section.description %}
+  <meta property="og:description" content="{{ page.description }}">
+  <meta name="twitter:description" content="{{ page.description | truncate(length=200) }}">
+  {%- elif section is defined and section.description %}
   <meta name="description" content="{{ section.description }}">
-  {% elif config.description %}
+  <meta property="og:description" content="{{ section.description }}">
+  <meta name="twitter:description" content="{{ section.description | truncate(length=200) }}">
+  {%- elif config.description %}
   <meta name="description" content="{{ config.description }}">
-  {% endif %}
-  {% if page is defined and page.permalink %}
+  <meta property="og:description" content="{{ config.description }}">
+  <meta name="twitter:description" content="{{ config.description | truncate(length=200) }}">
+  {%- endif %}
+{%- endblock description %}
+
+{% block meta -%}
+  <meta property="og:site_name" content="{{ config.title }}" />
+  {% if page is defined and page.permalink -%}
   <link rel="canonical" href="{{ page.permalink | safe }}">
-  {% elif section is defined and section.path %}
+  <meta property="og:url" content="{{ page.permalink | safe }}">
+  <meta name="twitter:card" content="summary">
+  {%- elif section is defined and section.path %}
   <link rel="canonical" href="{{ config.base_url | safe }}{{ section.path | safe }}">
-  {% endif %}
-  <link rel="stylesheet" href="{{ get_url(path="main.css") }}">
-  {% if config.generate_feeds %}
-  <link type="application/atom+xml" rel="alternate" href="{{ get_url(path="atom.xml") }}" title="{{ config.title }}">
-  {% endif %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-125187615-1');
-  </script>
-</head>
+  {%- endif %}
+{%- endblock meta %}
 
-<body>
+{% block header -%}
   {% include "partials/header.html" %}
+{%- endblock header %}
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        {% block content %}{% endblock content %}
-      </div>
-    </div>
-  </main>
-
+{% block footer -%}
   <footer class="site-footer h-card">
-    <data class="u-url" href="{{ config.base_url | safe }}/"></data>
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -59,105 +56,112 @@
       </div>
     </div>
   </footer>
+{%- endblock footer %}
 
+{% block extra_head -%}
+  {# Site-specific layer on top of pickles' base.css. Loads after pickles' css
+     block, so site styles take precedence where they overlap. #}
+  <link rel="stylesheet" href="{{ get_url(path="main.css") }}">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '{{ config.base_url | safe }}';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '{{ config.base_url | safe }}';
-      
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '{{ config.base_url | safe }}';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '{{ config.base_url | safe }}';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-125187615-1');
   </script>
-</body>
-</html>
+  <script>
+    (function() {
+      'use strict';
+
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '{{ config.base_url | safe }}';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '{{ config.base_url | safe }}';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '{{ config.base_url | safe }}';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '{{ config.base_url | safe }}';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('{{ config.base_url | safe }}/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+{%- endblock extra_head %}

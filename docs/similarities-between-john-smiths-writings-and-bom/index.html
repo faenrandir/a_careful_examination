@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Similarities between Dartmouth professor John Smith&#39;s writings and the Book of Mormon (astronatusaurus posts 1-10) | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Similarities between Dartmouth professor John Smith&#39;s writings and the Book of Mormon (astronatusaurus posts 1-10) | A Careful Examination</title>
+<meta property="og:title" content="Similarities between Dartmouth professor John Smith&#39;s writings and the Book of Mormon (astronatusaurus posts 1-10) | A Careful Examination" />
+<meta name="twitter:title" content="Similarities between Dartmouth professor John Smith&#39;s writings and the Book of Mormon (astronatusaurus posts 1-10) | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/similarities-between-john-smiths-writings-and-bom/">
-  
+  <meta property="og:url" content="/a_careful_examination/similarities-between-john-smiths-writings-and-bom/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Similarities between Dartmouth professor John Smith&#39;s writings and the Book of Mormon (astronatusaurus posts 1-10)</h1>
@@ -103,16 +219,18 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <ul>
+  
+  
+
+  <div class="post-content">
+    <ul>
 <li><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8imnd8/mormon_theology_originated_in_dartmouth_in_vermont/">Post discussing parallels</a></li>
 <li><a rel="external" href="https://ead.dartmouth.edu/html/ms1266_fullguide.html">John Smith papers at Dartmouth</a></li>
 <li><a rel="external" href="http://www.mormonorigins.com/ProfessorJohnSmithsWritings.html">John Smith writings on mormonorigins.com</a></li>
 <li><a rel="external" href="https://books.google.com/books?id=q7RBAAAAIAAJ&amp;pg=PA211&amp;lpg=PA211&amp;dq=professor+john+smith+dartmouth&amp;source=bl&amp;ots=q0XRFz-sPP&amp;sig=oGyZz-hFYJ37eNqjVKWU6wbJjr8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwip6LKIhunbAhViIDQIHb6PA0gQ6AEIbDAP#v=onepage&amp;q=professor%20john%20smith%20dartmouth&amp;f=false">John Smith biography</a></li>
 </ul>
-<h2 id="20-point-summary-of-john-smith-lectures">20 point summary of John Smith Lectures</h2>
+<h2 id="20-point-summary-of-john-smith-lectures">20 point summary of John Smith Lectures<a class="zola-anchor" href="#20-point-summary-of-john-smith-lectures" aria-label="Anchor link for: 20-point-summary-of-john-smith-lectures"><i class="fas fa-link"></i></a> 
+</h2>
 <p>As published in Kathleen Kimball Melonakos, Secret Combinations: Evidence of Early Mormon Counterfeiting 1800-1847, pages 83-84; 2016, copied from <a rel="external" href="https://web.archive.org/web/20190204093635/http://realbookofmormon.org/random-fact/page/20/">realbookofmormon.org</a> (see “Fact 976”) <em>Note, I have not seen the original source myself, so I’m skeptical until I see the primary source.</em></p>
 <ol>
 <li>Greek philosophy provided his concept of the Pre-existence.</li>
@@ -136,10 +254,12 @@
 <li>Millions of peopled worlds.</li>
 <li>Father argues for justice and Son argues for mercy.</li>
 </ol>
-<h2 id="comparison-of-writings">Comparison of Writings</h2>
+<h2 id="comparison-of-writings">Comparison of Writings<a class="zola-anchor" href="#comparison-of-writings" aria-label="Anchor link for: comparison-of-writings"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Reddit user /u/astronautsaurus has been transcribing the writings of John Smith and pointing out similarities between his writings and the Book of Mormon (and LDS theology generally).</p>
 <p><em>Note: I’ve slightly abridged and compiled the work below as well as made some minor adjustments for clarity and tone, softening some of the commentary (e.g., “undoubtedly -&gt; “seems to be”), and correction of some mistakes (this John Smith was not JS’s uncle) etc.  Consult the originals (which I linked to for each heading) for astronautsaurus’s exact verbiage</em></p>
-<h3 id="pt-1-planetary-motion-indicates-god"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kdop7/rev_john_smith_v_the_bom_pt1/">Pt 1 - planetary motion indicates God</a></h3>
+<h3 id="pt-1-planetary-motion-indicates-god"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kdop7/rev_john_smith_v_the_bom_pt1/">Pt 1 - planetary motion indicates God</a><a class="zola-anchor" href="#pt-1-planetary-motion-indicates-god" aria-label="Anchor link for: pt-1-planetary-motion-indicates-god"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Alma 30:44</p>
 <blockquote>
 <p>But Alma said unto him: Thou hast had <strong>signs</strong> enough; will ye tempt your God? Will ye say, Show unto me a sign, when ye have the testimony of all these thy brethren, and also all the holy prophets? The scriptures are laid before thee, yea, and <strong>all things denote there is a God</strong>; yea, even the earth, and call things that are upon the face of it, yea, and its motion, yea, and also <strong>all the planets</strong> which move in their regular form do witness that there is a Supreme Creator.</p>
@@ -151,7 +271,8 @@
 <p>[from comment]</p>
 <p>Alma 30 is the chapter with Korihor, the anti-christ and atheist.</p>
 <p>Chapter 1 of John Smith’s lectures opens with demonstrating how nature and its uniformity and motions are indicative of an omnipotent God. It closes with a criticism of atheists and how miserable and misguided they are for not seeing the evidence of God in nature.</p>
-<h3 id="pt-2-knows-all-accomplishes"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kgad4/rev_john_smith_v_bom_pt2/">Pt 2 - knows all, accomplishes</a></h3>
+<h3 id="pt-2-knows-all-accomplishes"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kgad4/rev_john_smith_v_bom_pt2/">Pt 2 - knows all, accomplishes</a><a class="zola-anchor" href="#pt-2-knows-all-accomplishes" aria-label="Anchor link for: pt-2-knows-all-accomplishes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>1 Nephi 6:3</p>
 <blockquote>
 <p>But the Lord <strong>knoweth all things</strong> from the beginning; wherefore, <strong>he prepareth a way to accomplish all his works</strong> among the children of men; for behold, he hath all power unto the fulfilling of all his words. And thus it is. Amen.</p>
@@ -160,7 +281,8 @@
 <blockquote>
 <p>As he <strong>knows all things</strong> which actually exist…He knows how, in all respects, to order and <strong>adapt means for the accomplishment of what is best</strong> in its kind, or on the whole; and in a word, what is best and most fit in its end.</p>
 </blockquote>
-<h3 id="pt-3-the-law-and-ignominious-death"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kxdlq/rev_john_smith_v_bom_pt3/">Pt 3 - the law and ignominious death</a></h3>
+<h3 id="pt-3-the-law-and-ignominious-death"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8kxdlq/rev_john_smith_v_bom_pt3/">Pt 3 - the law and ignominious death</a><a class="zola-anchor" href="#pt-3-the-law-and-ignominious-death" aria-label="Anchor link for: pt-3-the-law-and-ignominious-death"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Alma 1:14-15</p>
 <blockquote>
 <p>14 Therefore thou art condemned to die, according to the law which has been given us by Mosiah, our last king; and it has been acknowledged by this people; therefore <strong>this people must abide by the law</strong>.</p>
@@ -179,7 +301,8 @@
 <p>Edit:
 Meaning, Christ, the King (cough, Mosiah, cough) who gave the law to the people, and was above it until he chose to submit himself to it. Whereupon he suffered a terrible death. Nehor, was subject to the laws given by the King, and suffered a terrible death.</p>
 <p>Regarding Mosiah, it is often thought Mosiah is derivative of the word Messiah.</p>
-<h3 id="pt-4-jaredite-record-discrepancy"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8l3u6u/rev_john_smith_v_bom_pt4_or_the_jaredite_record/">Pt 4 - Jaredite Record Discrepancy</a></h3>
+<h3 id="pt-4-jaredite-record-discrepancy"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8l3u6u/rev_john_smith_v_bom_pt4_or_the_jaredite_record/">Pt 4 - Jaredite Record Discrepancy</a><a class="zola-anchor" href="#pt-4-jaredite-record-discrepancy" aria-label="Anchor link for: pt-4-jaredite-record-discrepancy"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Omni 1:20</p>
 <blockquote>
 <p>And it came to pass in the days of Mosiah, there was <em>a large stone</em> brought unto him with engravings on it; and he did interpret the engravings by the gift and power of God.</p>
@@ -195,7 +318,8 @@ Meaning, Christ, the King (cough, Mosiah, cough) who gave the law to the people,
 <p>Here we find some interesting parallels.</p>
 <p>First, John Smith had used the idea of having important truths hidden because they were written in an unknowng language. This concept is most clearly seen in Ether 3:22, but is also found in Omni 1:20, which is about the people of Zarahemla finding a stone stele with the story of Coriantmur, the Last Jaredite. (I suppose the whole Book of Mormon also fits into this symbolism).</p>
 <p>Yet once we get to the story of Mosiah in Mosiah 8, the story changes. Instead of a stone stele being brought to, (or I would guess Mosiah would have had to go see it, those things are huge), it turned into 24 plates of gold being found by the people of Limhi which were brought to Mosiah. In Mosiah 21, the plates are referred to as plates of ore. Chronologically, Mosiah 21 happens before Mosiah 8. I might be wrong here, but it also seems that after the story branches reconnect Limhi, Alma, and Mosiah together, the Jaredite plates are dropped from the narrative until Ether. You’d think Mosiah would’ve had something to say about that.</p>
-<h3 id="pt-5-constraineth-wrath-judgments-just"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8lzwoz/rev_john_smith_v_bom_pt5/">Pt 5 - constraineth, wrath, judgments, just</a></h3>
+<h3 id="pt-5-constraineth-wrath-judgments-just"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8lzwoz/rev_john_smith_v_bom_pt5/">Pt 5 - constraineth, wrath, judgments, just</a><a class="zola-anchor" href="#pt-5-constraineth-wrath-judgments-just" aria-label="Anchor link for: pt-5-constraineth-wrath-judgments-just"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Alma 14:11</p>
 <blockquote>
 <p>But Alma said unto him: The Spirit <strong>constraineth</strong> me that I must not stretch forth mine hand; for behold the Lord receiveth them up unto himself, in glory; and he doth suffer that they may do this thing, or that the people may do this thing unto them, according to the hardness of their hearts, that the <strong>judgments</strong> which he shall exercise upon them in his <strong>wrath</strong> may be <strong>just</strong>; and the blood of the innocent shall stand as a witness against them, yea, and cry mightily against them at the last day.</p>
@@ -206,7 +330,8 @@ Meaning, Christ, the King (cough, Mosiah, cough) who gave the law to the people,
 In time, we may rest assured, that <em>all evil, both moral and natural, will, in the issue, be overruled to answer great and wise purposes</em> in the universe. Nor is the darkness or imperfection of our understandings, which, at present, are unable to comprehend how this can be, any reasonable objection to the truth of the assertion. It should satisfy us, that the supreme Being is infinitely powerful and good; and that he will forever do what is fit and <strong>just</strong>, although, in various respects, his <strong>judgements</strong> are to us, a great deep which we cannot fathom.</p>
 </blockquote>
 <p>Note the tonal similarities between John Smith’s writings and the scene in Alma 14 where women and children believers were cast into a pit of fire and burned alive.</p>
-<h3 id="pt-6-according-to-their-works"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8mgfpk/rev_john_smith_v_the_bom_pt6/">Pt 6 - according to their works</a></h3>
+<h3 id="pt-6-according-to-their-works"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8mgfpk/rev_john_smith_v_the_bom_pt6/">Pt 6 - according to their works</a><a class="zola-anchor" href="#pt-6-according-to-their-works" aria-label="Anchor link for: pt-6-according-to-their-works"><i class="fas fa-link"></i></a> 
+</h3>
 <p>John Smith Ch.5.11</p>
 <blockquote>
 <p>In this world, it is not unfrequently the case, that men are not rewarded or punished according to their characters and works. Vice often escapes with impunity. Civil <strong>justice</strong> is frequently eluded. And it is not rare to be behold the wicked proffering, and the virtuous depressed and unjustly suffering.</p>
@@ -269,12 +394,14 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <p>this mortal body is <strong>raised</strong> to an <strong>immortal</strong> body, that is <strong>from death, even from the first death unto life</strong>, that they can die no more; their spirits uniting with their bodies, never to be divided; thus the whole becoming <strong>spiritual and immortal</strong>, that they can no more see corruption.“</p>
 </blockquote>
 <p>Summary: Amulek’s speech/theology in Alma 11 seems borrowed from John Smith and by extension, Socrates.</p>
-<h3 id="pt-7-christian-virtues"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8of91a/rev_john_smith_v_bom_pt7/">Pt 7 - Christian virtues</a></h3>
+<h3 id="pt-7-christian-virtues"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8of91a/rev_john_smith_v_bom_pt7/">Pt 7 - Christian virtues</a><a class="zola-anchor" href="#pt-7-christian-virtues" aria-label="Anchor link for: pt-7-christian-virtues"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Comparing Alma 48 with John Smith’s theology</p>
 <p><strong>Summary - Story beats and the Christian virtues displayed in Alma 48 seem to be highly influcenced by, if not directly lifted from, John Smith’s lectures.</strong></p>
 <p><em>Alma 48 TL;DR - This chapter spends time discussing how Moroni and his crew exemplified Christian virtues; were passivists who would only take up violence as a last resort to defend their country and liberty. Meanwhile, Nephite dissenters and Lamanites have no qualms massacring people.</em></p>
 <p><em>John Smith TL;DR - Passive courage is best; acting out of love, patience, and longsuffering to defend your rights and liberties is the Christian way. Active courage is bad; acting out of passion, vanity, and desires to conquer and enslave is un-Christian.</em></p>
-<h5 id="excerpt-from-john-s-writings-ch-8-section-19">Excerpt from John’s writings, Ch.8, section 19:</h5>
+<h5 id="excerpt-from-john-s-writings-ch-8-section-19">Excerpt from John’s writings, Ch.8, section 19:<a class="zola-anchor" href="#excerpt-from-john-s-writings-ch-8-section-19" aria-label="Anchor link for: excerpt-from-john-s-writings-ch-8-section-19"><i class="fas fa-link"></i></a> 
+</h5>
 <blockquote>
 <p>We ought to exert our valour in defending and maintaining our just rights, against any power which would extort them from our hands. For this purpose we should employ every lawful expedient. But valour, exerted by heroes to gain applause, or in any way against the innocent, has no place in the catalogue of <strong>Christian virtues</strong>. <strong>Christians</strong> are not to hate, but love and pray for, their enemies.</p>
 </blockquote>
@@ -287,7 +414,8 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <blockquote>
 <p>In the class of heathen virtues patriotism is ranked; <strong>patriotism</strong>, so highly extolled at the present day. It was this which long preserved <strong>the liberties of Greece</strong>, and exalted Rome to the empire of the world. When men are actuated by sincere love to their country to vindicate its rights and <strong>liberties</strong>, and promote its realy happiness and glory, but <strong>justifiable means</strong>, they manifest laudable patriotism: but that which urges men to <strong>conquer</strong> and <strong>enslave</strong> other countires, to advance the prosperity and grandeur of their own, is exlcluded from the catalogue of Christian virtues.</p>
 </blockquote>
-<h5 id="compare-this-to-the-story-beats-in-alma-48-10-11-14-23">Compare this to the story beats in Alma 48:10-11,14,23:</h5>
+<h5 id="compare-this-to-the-story-beats-in-alma-48-10-11-14-23">Compare this to the story beats in Alma 48:10-11,14,23:<a class="zola-anchor" href="#compare-this-to-the-story-beats-in-alma-48-10-11-14-23" aria-label="Anchor link for: compare-this-to-the-story-beats-in-alma-48-10-11-14-23"><i class="fas fa-link"></i></a> 
+</h5>
 <blockquote>
 <ol start="10">
 <li>And thus he was preparing to support their <strong>liberty,</strong> their lands, their wives, and their children, and their <strong>peace</strong>, and that they might live unto the Lord their God, and that they might maintain that which was called by their enemies the <strong>cause of Christians.</strong></li>
@@ -308,7 +436,8 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <li>Now, they were sorry to take up arms against the Lamanites, because they did not delight in the shedding of blood;</li>
 </ol>
 </blockquote>
-<h3 id="pt-8-moroni-s-promise"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8p7qrc/rev_john_smith_v_bom_pt8_moronis_promise/">Pt 8 - Moroni’s Promise</a></h3>
+<h3 id="pt-8-moroni-s-promise"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8p7qrc/rev_john_smith_v_bom_pt8_moronis_promise/">Pt 8 - Moroni’s Promise</a><a class="zola-anchor" href="#pt-8-moroni-s-promise" aria-label="Anchor link for: pt-8-moroni-s-promise"><i class="fas fa-link"></i></a> 
+</h3>
 <p>When writing about how we can know whether the scriptures are true, John Smith said (Ch.8,Sec.28):</p>
 <blockquote>
 <p>The gospel invariably inculcates piety and good morals. Its precepts are such as unbiased reason will forever approve. Its spirit is divine. And, if we <strong>receive</strong> it with <strong>honest and believing heart,</strong> it opens to our view the path of life and unfading glory.</p>
@@ -317,7 +446,8 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <blockquote>
 <p>Moroni 10:4 And when ye shall <strong>receive</strong> these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a <strong>sincere heart, with real intent</strong>, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.</p>
 </blockquote>
-<h3 id="pt-9-the-catholic-church"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8qqeyu/rev_john_smith_v_bom_pt9_the_catholic_church/">Pt 9 - The Catholic Church</a></h3>
+<h3 id="pt-9-the-catholic-church"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8qqeyu/rev_john_smith_v_bom_pt9_the_catholic_church/">Pt 9 - The Catholic Church</a><a class="zola-anchor" href="#pt-9-the-catholic-church" aria-label="Anchor link for: pt-9-the-catholic-church"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Summary: John Smith links scriptures by St. John in Revelation about the ‘mother of harlots, abomination of the earth’ to the apostasy of the Catholic church. 1 Nephi describes at length a vision given to Nephi how the whore of the earth is the church of the devil, and points out John by name as the apostle who will write about it.</p>
 <blockquote>
 <p>Has the <strong>Roman church</strong> <strong>greatly apostatized</strong> from the puritiy of the Christian faith and worship? This Saint Paul has foretold, 2 Thess. 2:3 “That day shall not come, except there come a falling away first, and that man of sin be revealed, the Son of Perdition.” And <strong>Saint John has predicted, that the church of Rome would be so corrupt, as to become “the mother of harlots, and the abomination of the earth</strong>.</p>
@@ -326,7 +456,8 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <blockquote>
 <p>Rev.17:5 And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.</p>
 </blockquote>
-<h5 id="note-the-word-church-is-missing-from-revelation-in-this-context-but-is-prevalent-in-john-smith-s-writing">Note the word ‘church’ is missing from Revelation in this context, but is prevalent in John Smith’s writing.</h5>
+<h5 id="note-the-word-church-is-missing-from-revelation-in-this-context-but-is-prevalent-in-john-smith-s-writing">Note the word ‘church’ is missing from Revelation in this context, but is prevalent in John Smith’s writing.<a class="zola-anchor" href="#note-the-word-church-is-missing-from-revelation-in-this-context-but-is-prevalent-in-john-smith-s-writing" aria-label="Anchor link for: note-the-word-church-is-missing-from-revelation-in-this-context-but-is-prevalent-in-john-smith-s-writing"><i class="fas fa-link"></i></a> 
+</h5>
 <p>1 Nephi 13:5,8,34, 14:27</p>
 <blockquote>
 <p>Behold the formation of a <strong>church</strong> which is most <strong>abominable</strong> above all other churches…Behold the gold, and the silver, and the silks, and the scarlets, and the fine-twined linen, and the precious clothing, and the <strong>harlots</strong>, are the desires of this great and abominable church…the Gentiles do stumble exceedingly, because of the most <strong>plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots</strong></p>
@@ -334,7 +465,8 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <blockquote>
 <p>And I, Nephi, heard and bear record, that the name of the apostle of the Lamb was <strong>John</strong>, according to the word of the angel.</p>
 </blockquote>
-<h3 id="pt-10-isaiah"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8qgacp/rev_john_smith_v_bom_pt10_isaiah/">Pt 10 - Isaiah</a></h3>
+<h3 id="pt-10-isaiah"><a rel="external" href="https://www.reddit.com/r/exmormon/comments/8qgacp/rev_john_smith_v_bom_pt10_isaiah/">Pt 10 - Isaiah</a><a class="zola-anchor" href="#pt-10-isaiah" aria-label="Anchor link for: pt-10-isaiah"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Book of Mormon quotes 30% of Isaiah, most of which is found in 2 Nephi. These quoted verses usually are there for the purpose of talking about Christ.</p>
 <p>Summary: John Smith’s favorite OT prophet to quote was Isaiah.</p>
 <p>In the manuscripts of John Smith written 30 years prior, Isaiah is the most quoted Old Testament prophet (I’ve seen Isaiah 40,42,49,53 quoted so far, up to Ch.9), used to support the veracity of the scriptures. To prove that the prophecies of Isaiah have been fulfilled,</p>
@@ -364,16 +496,15 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
 <p><strong>They endeavour to convince men of the insufficiency of forms and ceremonies, without unfeined love to God and man, and that obedience to the moral law which is of more importance than “sacrifices and burnt offerings.</strong></p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -388,105 +519,9 @@ In time, we may rest assured, that <em>all evil, both moral and natural, will, i
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

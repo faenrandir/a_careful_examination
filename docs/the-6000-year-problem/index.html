@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The 6000 year problem | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The 6000 year problem | A Careful Examination</title>
+<meta property="og:title" content="The 6000 year problem | A Careful Examination" />
+<meta name="twitter:title" content="The 6000 year problem | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/the-6000-year-problem/">
-  
+  <meta property="og:url" content="/a_careful_examination/the-6000-year-problem/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The 6000 year problem</h1>
@@ -107,12 +223,15 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="abstract">Abstract</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="abstract">Abstract<a class="zola-anchor" href="#abstract" aria-label="Anchor link for: abstract"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Church currently teaches that Adam and Eve ushered in the temporal existence of the earth approximately 6000 years ago.  At least on its face, this idea is incompatible with the archaeological record.</p>
-<h3 id="introduction">Introduction</h3>
+<h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith claimed to receive direct revelation from God on various topics, and this Q&amp;A session is recorded as Doctrine and Covenants 77.  <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/77.6-7#p6">Verses 6–7, 10, 12 read</a>:</p>
 <blockquote>
 <p>6 Q. What are we to understand by the book which John saw, which was sealed on the back with seven seals?</p>
@@ -141,7 +260,8 @@
 <p>Doctrine and Covenants <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.108-110?lang=eng#p108?lang=eng">88:108–110</a> and Joseph Smith’s translation of 2 Peter <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/jst/jst-2-pet/3.3-6,8?lang=eng#p3#3">3:3–6,8</a> echo this understanding.  The historical record indicates that Joseph Smith and the early Saints understood the 6000 years in literal terms—they were occupying the end of the sixth thousand year period.<sup class="footnote-reference" id="fr-earlysaints6000-1"><a href="/a_careful_examination/the-6000-year-problem/#fn-earlysaints6000">[1]</a></sup></p>
 <p>Given their understanding of this timeline, the earth would have began its temporal existence<sup class="footnote-reference" id="fr-confusion-1"><a href="/a_careful_examination/the-6000-year-problem/#fn-confusion">[2]</a></sup> and Adam and Eve made mortal sometime around 4,000 BCE.</p>
 <p>Especially when coupled <a rel="external" href="https://faenrandir.github.io/a_careful_examination/adam-and-eve-the-first-couple/">with teachings that</a> “we are all descendants of Adam and Eve” and they are our “first parents” a 4,000 BCE date for the existence of Adam and Eve is difficult to reconcile with the human migration data.  For instance, <a rel="external" href="https://en.wikipedia.org/wiki/History_of_Indigenous_Australians#Origins">Australian aboriginal artifacts</a>, <a rel="external" href="https://en.wikipedia.org/wiki/History_of_agriculture">the invention of agriculture</a>, the evidence suggesting <a rel="external" href="https://en.wikipedia.org/wiki/Jericho#History_and_archaeology">continuous inhabitation of the city of Jericho since 9,000 BCE</a> and the <a rel="external" href="https://en.wikipedia.org/wiki/Settlement_of_the_Americas#Chronology,_reasons_for,_and_sources_of_migration">migration of ancient Siberians to the Americas</a> are all in tension with the idea of an Adam, “father of all,” living at 4,000 BCE.  Regardless, LDS scientists<sup class="footnote-reference" id="fr-lds_scientists-1"><a href="/a_careful_examination/the-6000-year-problem/#fn-lds_scientists">[3]</a></sup> and even the Church in its essay on DNA and the Book of Mormon seem to accept the basic validity of these migration events and their timing.<sup class="footnote-reference" id="fr-lds_church_tacitly_accepts-1"><a href="/a_careful_examination/the-6000-year-problem/#fn-lds_church_tacitly_accepts">[4]</a></sup></p>
-<h3 id="current-teachings">Current Teachings</h3>
+<h3 id="current-teachings">Current Teachings<a class="zola-anchor" href="#current-teachings" aria-label="Anchor link for: current-teachings"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The LDS Church <em>currently</em> teaches the idea that the earth began its temporal existence (beginning with the Fall) roughly 6,000 years ago.  To my knowledge, every manual linked below is its <em>current</em> version (as of September 2020).</p>
 <ol>
 <li>
@@ -220,7 +340,8 @@
 <p><a rel="external" href="https://www.churchofjesuschrist.org/bc/content/shared/content/images/gospel-library/manual/32489/32489_000_004_06_dispensation.pdf">Old Testament Chronology Chart</a> (part of the <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/old-testament-student-manual-genesis-2-samuel/maps-and-charts?lang=eng">Maps and Charts</a> resource section of the OT Student Manual).</p>
 </li>
 </ol>
-<h3 id="recent-teaching-on-churchofjesuschrist-org">Recent teaching on churchofjesuschrist.org</h3>
+<h3 id="recent-teaching-on-churchofjesuschrist-org">Recent teaching on churchofjesuschrist.org<a class="zola-anchor" href="#recent-teaching-on-churchofjesuschrist-org" aria-label="Anchor link for: recent-teaching-on-churchofjesuschrist-org"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The following statements were recently part of official LDS discourse (general conference or approved manuals) and can currently be found on churchofjesuschrist.org:</p>
 <ol>
 <li>
@@ -245,7 +366,8 @@
 <p>The January 2002 Ensign published a chart, <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/2002/01/old-testament-times-at-a-glance?lang=eng">Old Testament Times at a Glance</a>, which positions Adam at roughly 4,000 BCE.  The chart was <a rel="external" href="https://web.archive.org/web/20170327180913/https://si.churchofjesuschrist.org/bc/seminary/content/library/student-resources/ot/old-testament-times-at-a-glance-chart_eng.pdf">a student resource</a> until at least 2017.  The chart is available on churchofjesuschrist.org as <a rel="external" href="https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/09233_eng.pdf?lang=eng">a standalone PDF</a>.</p>
 </li>
 </ol>
-<h3 id="other-recent-teaching">Other recent teaching</h3>
+<h3 id="other-recent-teaching">Other recent teaching<a class="zola-anchor" href="#other-recent-teaching" aria-label="Anchor link for: other-recent-teaching"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Elder Holland spoke in a Fireside in Arizona in 2016 and included discussion about <a rel="external" href="https://www.youtube.com/watch?v=K4_LcENySzQ&amp;feature=youtu.be&amp;t=4m11s">the time between Adam and Eve and Jesus Christ</a>:</p>
 <blockquote>
 <p>… For all these generations, for four-thousand years, Adam and Eve and their descendants took these little lambs and offered them on an altar as devotion and loyalty and love of God.  That we trust the future.  We <em>trust</em> the future.  How far away is the Savior from Adam and Eve?  We don’t know all the dating in the world but traditionally, scripturally we mark it as at least 4,000 years—that’s a lot of time to live by faith.  That’s a lot of time to believe that somebody is going to come and help.  Well, you can trust in it because divine beings said it’s so.  And for 4,000 years God’s children offered a little lamb to represent the great lamb who would come and save the world. …</p>
@@ -275,7 +397,8 @@ I cannot find these anymore, may need to dig up a PDF
 
     > •What work will take place during the seventh thousand years of the earth’s temporal existence, or the Millennium? (see v. 12).
 -->
-<h3 id="this-idea-has-been-repeatedly-taught-in-the-past">This idea has been repeatedly taught in the past</h3>
+<h3 id="this-idea-has-been-repeatedly-taught-in-the-past">This idea has been repeatedly taught in the past<a class="zola-anchor" href="#this-idea-has-been-repeatedly-taught-in-the-past" aria-label="Anchor link for: this-idea-has-been-repeatedly-taught-in-the-past"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The general 6000 year timeline has been taught frequently and consistently by the Church and its leaders in the past:</p>
 <ol>
 <li>
@@ -307,7 +430,8 @@ I cannot find these anymore, may need to dig up a PDF
 </ul>
 </li>
 </ol>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="http://thoughtsonthingsandstuff.com/6000-years-of-so-what/">6,000 Years of So What!</a></p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -337,16 +461,15 @@ I cannot find these anymore, may need to dig up a PDF
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -361,105 +484,9 @@ I cannot find these anymore, may need to dig up a PDF
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

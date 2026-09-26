@@ -1,18 +1,20 @@
 +++
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors-editorial/"
-updated = "2026-09-10"
+updated = "2026-09-26"
 [extra]
 doctype = "notes"
 type = "notes"
 featured = false
 importance = 5
+toc = true
 
 [taxonomies]
 categories = [
     "other",
 ]
 tags = []
+
 
 +++
 

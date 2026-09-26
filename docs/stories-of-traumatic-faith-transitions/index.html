@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Stories of Traumatic Faith Transitions | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Stories of Traumatic Faith Transitions | A Careful Examination</title>
+<meta property="og:title" content="Stories of Traumatic Faith Transitions | A Careful Examination" />
+<meta name="twitter:title" content="Stories of Traumatic Faith Transitions | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/stories-of-traumatic-faith-transitions/">
-  
+  <meta property="og:url" content="/a_careful_examination/stories-of-traumatic-faith-transitions/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Stories of Traumatic Faith Transitions</h1>
@@ -98,30 +214,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#fil-in-front-of-group-no-forgiveness">FIL in front of group — no forgiveness</a></li>
-        
-          <li><a href="#message-from-father-to-father-we-can-no-longer-be-friends">Message from Father to Father—We can no longer be friends</a></li>
-        
-          <li><a href="#miscellaneous-statements">Miscellaneous statements</a></li>
-        
-          <li><a href="#text-from-sister-now-in-outer-darkness">Text from sister — Now in outer darkness</a></li>
-        
-          <li><a href="#facebook-message-from-priesthood-leader-venom-in-your-heart">Facebook message from Priesthood Leader — Venom in your heart</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="fil-in-front-of-group-no-forgiveness">FIL in front of group — no forgiveness</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="fil-in-front-of-group-no-forgiveness">FIL in front of group — no forgiveness<a class="zola-anchor" href="#fil-in-front-of-group-no-forgiveness" aria-label="Anchor link for: fil-in-front-of-group-no-forgiveness"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/6526jy/fil_to_me_no_forgiveness_in_this_life_nor_the_next/">here</a></em></p>
 <blockquote>
 <p>I wasn’t going to share this here, but I will anyway. I took the night off work to attend my TBM MIL’s 70th b-day party. My SIL was kinda shaken when it came up that I had left the church (over 1 year ago). That prompted my FIL to go off on me in front of a house full of people. He said things like how I would not have forgiveness in this life nor the next and how I wouldn’t be able to baptize my kids when they’re 8 and they’d have to grow up with no priesthood in the home. He also said he talked to my mom and that I had broken her heart. My SIL who started the conversation told him he was being unchristlike and unkind to me and that he’s lucky I don’t punch him in his mouth. I kept my cool. I told him I didn’t appreciate being called out publicly and that it was pretty low of him to resort to fear tactics and manipulation. I told him the conversation was unfair because if I told my side it would create a huge riff in the family, but he’s allowed to say whatever he wants. I wasn’t about to unleash the messed up stuff with someone else’s kids in the room. My TBM wife sat by my side until she had to leave to go cry in the next room. I did fine until he stood up and tried to get in my face where I was sitting. People were physically trying to stop him from approaching me. At that point, I stood up and left the house without saying a word. As I was walking out he continued to yell at me about how I knew what I was doing was wrong and that I served a mission and knew the church was true. All my nieces and nephews heard that part of the conversion….</p>
@@ -129,12 +227,14 @@
 <blockquote>
 <p>Believe it or not, this is the ONLY run-in I’ve had with him. He is a very generous, loving and kind person….</p>
 </blockquote>
-<h3 id="message-from-father-to-father-we-can-no-longer-be-friends">Message from Father to Father—We can no longer be friends</h3>
+<h3 id="message-from-father-to-father-we-can-no-longer-be-friends">Message from Father to Father—We can no longer be friends<a class="zola-anchor" href="#message-from-father-to-father-we-can-no-longer-be-friends" aria-label="Anchor link for: message-from-father-to-father-we-can-no-longer-be-friends"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/67dpv6/lost_a_friend_today/?utm_content=title&amp;utm_medium=new&amp;utm_source=reddit&amp;utm_name=multi">here</a></em></p>
 <blockquote>
 <p>Saturday I had a friend who used to live in my ward come back and visit. Her and I used to be GREAT friends and still are to this day. She’s always had a hard time fitting in everywhere she went, even though she was a gorgeous girl, and doesn’t have very many friends. Saturday her and I went out to Sonic. I then laid down the truth to her that “ I had quit the church and that I had left over church history“ … I never had any intentions of shelf-breaking but she asked me further about what I had problems with, so I simply stated “Joseph Smith Translation, Polygamy/Polyandry, and Brigham Young “revelation”. Nothing more, nothing less. She then asks her father a little about it and he proceeds to call my father (Extremely TBM) and tell him that her and I can no longer be friends… After our visit she told me she had no harsh feelings towards me, respected me, and loved me, as did I tell her. Yet, she has one friend back where she lives now and her father just took away one of her friends down here. Sad, very sad. I’ve been about three months into this journey, I’ll say today I admit, probably one of the worst days out of all of this, and I do admit a little defeat in my soul, but there are better ahead. I’d also like to take this time to say fuck Joseph Smith. Never said that before, feels liberating.</p>
 </blockquote>
-<h3 id="miscellaneous-statements">Miscellaneous statements</h3>
+<h3 id="miscellaneous-statements">Miscellaneous statements<a class="zola-anchor" href="#miscellaneous-statements" aria-label="Anchor link for: miscellaneous-statements"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/76yodg/things_my_tbm_parents_said_as_i_transitioned_out/?utm_content=title&amp;utm_medium=new&amp;utm_source=reddit&amp;utm_name=multi">here</a></em></p>
 <blockquote>
 <p>“A light has left your countenance.”</p>
@@ -181,13 +281,15 @@
 <blockquote>
 <p>And more. Suffice it to say, things were a bit rocky with them for awhile. We don’t talk about religion any more. Everything is pretty surface level. Exiting a cult sucks</p>
 </blockquote>
-<h3 id="text-from-sister-now-in-outer-darkness">Text from sister — Now in outer darkness</h3>
+<h3 id="text-from-sister-now-in-outer-darkness">Text from sister — Now in outer darkness<a class="zola-anchor" href="#text-from-sister-now-in-outer-darkness" aria-label="Anchor link for: text-from-sister-now-in-outer-darkness"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/8f49yg/this_is_so_unreal_what_my_sister_is_doing/">here</a></em></p>
 <blockquote>
 <p>When I left the church Feb 2016, she texted me simply to tell my I was now in outer darkness with Satan. Never to hear a word again from her, nor Christmas card or anything at all. NOTHING. (Although we had been close
 close before I left)</p>
 </blockquote>
-<h3 id="facebook-message-from-priesthood-leader-venom-in-your-heart">Facebook message from Priesthood Leader — Venom in your heart</h3>
+<h3 id="facebook-message-from-priesthood-leader-venom-in-your-heart">Facebook message from Priesthood Leader — Venom in your heart<a class="zola-anchor" href="#facebook-message-from-priesthood-leader-venom-in-your-heart" aria-label="Anchor link for: facebook-message-from-priesthood-leader-venom-in-your-heart"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>From <a rel="external" href="https://www.reddit.com/r/exmormon/comments/8zrkzj/you_absolutely_will_become_an_enemy_to_the_very/">here</a></em></p>
 <blockquote>
 <p>During the peak of my so-called “faith crisis” as a TBM 6 years ago, I mistakenly confided in a local Priesthood leader. I ran across an old Facebook message that he had sent me. It’s actually making me sick with anger as I re-read this. It reeks of astounding arrogance and disgusting shame and scare tactics - but at the time, I thought it was “inspired”:</p>
@@ -229,16 +331,15 @@ close before I left)</p>
 <p>I will never give up my hope for you. I will hope you somehow decide to make a different choice – to become humble and use the gifts you have been given to serve the Father who loves you… who has told you and showed you His love.“</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -253,105 +354,9 @@ close before I left)</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

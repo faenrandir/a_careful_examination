@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Stephen Clarke&#39;s notes on Hyrum Smith at Moor&#39;s Charity School | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Stephen Clarke&#39;s notes on Hyrum Smith at Moor&#39;s Charity School | A Careful Examination</title>
+<meta property="og:title" content="Stephen Clarke&#39;s notes on Hyrum Smith at Moor&#39;s Charity School | A Careful Examination" />
+<meta name="twitter:title" content="Stephen Clarke&#39;s notes on Hyrum Smith at Moor&#39;s Charity School | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/stephen-clarke-notes-on-hryum-smith-at-moors/">
-  
+  <meta property="og:url" content="/a_careful_examination/stephen-clarke-notes-on-hryum-smith-at-moors/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Stephen Clarke&#39;s notes on Hyrum Smith at Moor&#39;s Charity School</h1>
@@ -93,14 +209,17 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The following is <a rel="external" href="https://www.mormondialogue.org/topic/75869-how-the-book-of-mormon-came-to-pass/page/4/#comment-1210185310">a comment by Stephen Clarke (as Nevo) on MormonDialogue.org</a> (last edited May 5, 2024) arguing from Vogel’s notes on tax assessment records that Hyrum Smith likely spent somewhere between “7 or 8 months” to “less than a year and a half altogether” at Moor’s Charity School and offering a different perspective on the curriculum that may have been taught than what has been advanced by William Davis. This is followed by a personal communication (received Oct 22, 2024) substantiating and elaborating on the original post regarding curriculum. Clarke acquired original Moor’s School documents and argues from these that since Hyrum stopped attending before completing arithmetic studies and we have no record of him being examined in any topic that he likely would not have been learning New Testament Greek or Latin while there. Posting with author’s permission.*</p>
 <p><em>All of the following text besides the two main headers is Stephen Clarke’s</em></p>
 <hr />
-<h2 id="original-comment">Original Comment</h2>
+<h2 id="original-comment">Original Comment<a class="zola-anchor" href="#original-comment" aria-label="Anchor link for: original-comment"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Behrens has Hyrum entering Moor’s in 1811, based on the chronology Lucy Mack Smith gives in her narrative (Bushman accepts Lucy’s dating too). But Dan Vogel has noted that the family doesn’t appear on tax assessment records in Lebanon, New Hampshire, until 1813, suggesting that they “arrived after the assessment of 1812 and before the assessment of 1813, which were conducted every May” (EMD 1: 663; see also, Anderson, Lucy’s Book, 169, 296n33; Van Wagoner, Natural Born Seer, 25, 30ff; Esplin, “Hyrum Smith,” in Walker, ed., United by Faith: The Joseph Sr. and Lucy Mack Smith Family, 123). So it appears likely that Hyrum entered Moor’s in the fall of 1812.</p>
 <p>Lucy Smith related in her draft history: “the typhus fever came into Lebanon and raged there horribly among the rest who were seized with this complaint complaint were my my oldest daughter Sophronia who was sick 4 weeks next Hyrum came from Hanover <sick> with the same disease then Alvin my oldest and so on till there was not one of my Family left well save Mr S Smith and myself.”</p>
 <p>Lavina Fielding Anderson notes here that “the Smith family was most likely afflicted from the late summer or fall of 1812 (Hyrum’s school was in session) to the late spring of 1813, as dated by the availability of Dr. Nathan Smith at Dartmouth. (He went to Yale after the spring of 1813.)” Behrens claims Hyrum returned home from Hanover in March 1813, but that is just a guess. He may well have come home earlier than that, perhaps when the second quarter ended in February 1813. Dr. Nathan Smith wrote in a letter in March 1813: “[F]our of my children have lately been affected by the prevailing epidemic, but by the Divine Goodness have nearly recovered. I believe this country has never before been visited by sickness which has carried off so great a number of adult persons in so short a time. In some towns of this vicinity which contain perhaps from 1000 to 1500 inhabitants they have buried over 50 persons since last January. The disease has not yet much abated either in its violence or frequency of attack. We hear of new cases every day, and almost every day brings me an account of the death of some friend or acquaintance” (quoted in Van Wagoner, Natural Born Seer, 36).</p>
@@ -109,7 +228,8 @@
 <p>So Hyrum was probably at Moor’s for less than a year and a half altogether. Perhaps as few as 7 or 8 months if he stayed home to work on the farm after the move to Norwich (which seems probable under the circumstances). He very likely studied reading and writing in his first months at Moor’s in 1812–13 and added arithmetic (and perhaps English grammar) during his second year at Moor’s in 1814–15. Hyrum almost certainly didn’t study Latin or the Greek New Testament, which was reserved for third- and fourth-year students.</p>
 <p>William L. Davis thinks that Hyrum would have studied John Walker’s Rhetorical Grammar in his freshman year at Moor’s, and would have studied Hugh Blair’s Lectures on Rhetoric and Belles Lettres in the latter part of his sophomore year, “which, among numerous other lessons, would have exposed Hyrum to the fundamental techniques of sermon composition and pulpit eloquence, including explicit instructions on the method of laying down heads” (Visions in a Seer Stone, 31). Davis thinks this because these books were listed in the Dartmouth College’s freshman and sophomore curriculum in 1824, and Davis believes that Moor’s followed the same curriculum as Dartmouth. I highly doubt it. Some of the students at Moor’s studying “reading” were only 6 or 7 years old. I don’t think it’s plausible that they were studying college-level texts in rhetorical grammar and sermon composition techniques.</p>
 <p>The evidence suggests that Hyrum probably received a “common school” education similar to his siblings (and his mission journals would seem to confirm it). Hyrum would have attended weekly chapel services while at Moor’s, so he probably heard dozens of Congregationalist sermons, but he would not have learned Arminian theology or cosmology or ancient language studies, as Behrens claims in his article. Behrens’s fantasy that John Smith’s unpublished and long forgotten lectures on natural philosophy and theology influenced the future development of Mormon doctrine—via Hyrum—is totally without merit. As is Randy Bell’s statement that Hyrum was “the real intellectual giant behind Mormonism.” If Hyrum tutored 7-year-old Joseph after the latter’s leg surgery based on Hyrum’s first months at Moor’s school, he may have been able to teach him some of the rudiments of reading and writing but that’s about it.</p>
-<h2 id="personal-communication">Personal Communication</h2>
+<h2 id="personal-communication">Personal Communication<a class="zola-anchor" href="#personal-communication" aria-label="Anchor link for: personal-communication"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The last paragraph may be overstating things a bit. It’s possible that Hyrum took away more from his months on the Dartmouth campus than “the rudiments of reading and writing.” It’s possible that he was also influenced by theological ideas he encountered there, but I don’t think there’s any reason to suppose that he encountered proto-Mormon ideas (Behrens) or an actual proto-Book of Mormon (Nielsen) there. Dartmouth was still theologically conservative in the early 1800s and Hyrum’s affiliation with the Presbyterian Church in Palmyra in the 1820s suggests that he was orthodox in his religious views (unlike Joseph Smith Sr.).</p>
 <p>I’m attaching links to some Moor’s School records I obtained earlier this year from Rauner Special Collections Library at Dartmouth:</p>
 <ul>
@@ -122,16 +242,15 @@
 <p>I point out more problems with Behrens’s “Dartmouth Arminianism” article here: <a rel="external" href="https://www.mormondialogue.org/topic/75869-how-the-book-of-mormon-came-to-pass/page/3/#comment-1210184720">https://www.mormondialogue.org/topic/75869-how-the-book-of-mormon-came-to-pass/page/3/#comment-1210184720</a>.</p>
 <p>I also recently uncovered conclusive evidence from family papers at the Massachusetts Historical Society that Rev. John Smith wasn’t related to Joseph Smith (not that it really matters). I can share that too if you’re interested, but I notice online discussion seems to have moved on. …</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -146,105 +265,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

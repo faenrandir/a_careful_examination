@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Transcript: Narrative of Zosimus | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Transcript: Narrative of Zosimus | A Careful Examination</title>
+<meta property="og:title" content="Transcript: Narrative of Zosimus | A Careful Examination" />
+<meta name="twitter:title" content="Transcript: Narrative of Zosimus | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/narrative-of-zosimus-transcript/">
-  
+  <meta property="og:url" content="/a_careful_examination/narrative-of-zosimus-transcript/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Transcript: Narrative of Zosimus</h1>
@@ -98,75 +214,47 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#chapter-1">Chapter 1</a></li>
-        
-          <li><a href="#chapter-2">Chapter 2</a></li>
-        
-          <li><a href="#chapter-3">Chapter 3</a></li>
-        
-          <li><a href="#chapter-4">Chapter 4</a></li>
-        
-          <li><a href="#chapter-five-syriac-five-and-six">Chapter Five (Syriac Five and Six)</a></li>
-        
-          <li><a href="#chapter-five-greek">Chapter Five (Greek)</a></li>
-        
-          <li><a href="#chapter-six-syriac-seven">Chapter Six (Syriac Seven)</a></li>
-        
-          <li><a href="#chapter-six-greek">Chapter Six (Greek)</a></li>
-        
-          <li><a href="#chapters-seven-to-nine-syriac-eight-to-ten">Chapters Seven to Nine (Syriac Eight to Ten)</a></li>
-        
-          <li><a href="#chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</a></li>
-        
-          <li><a href="#chapters-ten-and-eleven-syriac-eleven-and-twelve">Chapters Ten and Eleven (Syriac Eleven and Twelve)</a></li>
-        
-          <li><a href="#chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</a></li>
-        
-          <li><a href="#the-final-chapters">The Final Chapters</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p><em>I copied this transcript the transcript and columnar comparison with the Book of Mormon from Jack Welch’s chapter <a rel="external" href="https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2019-12-30/13_john_w._welch_the_narrative_of_zosimus_and_the_book_of_mormon_323-374.pdf">The Narrative of Zosimus (History of the Rechabites) and the Book of Mormon</a> published in 1997.</em></p>
+  
+  
+
+  <div class="post-content">
+    <p><em>I copied this transcript the transcript and columnar comparison with the Book of Mormon from Jack Welch’s chapter <a rel="external" href="https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/welch/2019-12-30/13_john_w._welch_the_narrative_of_zosimus_and_the_book_of_mormon_323-374.pdf">The Narrative of Zosimus (History of the Rechabites) and the Book of Mormon</a> published in 1997.</em></p>
 <hr />
-<h2 id="chapter-1">Chapter 1</h2>
+<h2 id="chapter-1">Chapter 1<a class="zola-anchor" href="#chapter-1" aria-label="Anchor link for: chapter-1"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>About that time there was in the desert a certain man named Zosimus, [who for forty years ate no bread, and drank no wine, and saw not the face of man.] This man was entreating God that he might see the way of life of the blessed, and behold an angel of the Lord was sent saying to him, Zosimus, man of God, behold I am sent by the Most High, the God of all, to tell thee that thou shalt journey to the blessed, but shall not dwell with them. [But exalt not thy heart, saying, For forty years I have not eaten bread, for the word of God is more than bread, and the spirit of God is more than wine. And as for thy saying, I have not seen the face of man, behold the face of the great king is nigh thee.] Zosimus said, I know that the Lord can do whatsoever he will. The angel said to him, Know this also, that thou art not worthy of one of their delights, but arise and set out.</p>
 </blockquote>
-<h2 id="chapter-2">Chapter 2</h2>
+<h2 id="chapter-2">Chapter 2<a class="zola-anchor" href="#chapter-2" aria-label="Anchor link for: chapter-2"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>And I, Zosimus, issuing from my cave with God leading me, set out not knowing which way I went, and after I had travelled forty days my spirit grew faint and my body failed, and being exhausted I sat down, and continued praying in that place for three days. beast from the desert, whose name is the camel, and placing its knees on the ground, it received me upon its neck and went into the desert and set me down. There there was much howling of wild beasts, and gnashing of teeth, and deadly poison. And becoming afraid, I prayed to the Lord] and there came in that place a great earthquake with noise, and a storm of wind blew and lifted me from the earth, and exalted me on its wing, and I was praying and journeying till it set me upon a place beside a river, and the name of the river is Eumeles. And behold when I desired to cross the river, some one cried as if from the water, saying, Zosimus, man of God, thou canst not pass through me, for no man can divide my waters: but look up from the waters to the heaven. And looking up I saw a wall of cloud stretching from the waters to the heaven, and the cloud said, Zosimus, man of God, through me no bird passes out of this world, not breath of wind, nor the sun itself, nor can the tempter in this world pass through me [the wall of cloud].</p>
 </blockquote>
-<h2 id="chapter-3">Chapter 3</h2>
+<h2 id="chapter-3">Chapter 3<a class="zola-anchor" href="#chapter-3" aria-label="Anchor link for: chapter-3"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>And I was astonished at these words, and at the voice that spake these things to me. And as I prayed, behold two trees sprang up out of the earth, fair and beautiful, laden with fragrant fruits. And the tree on this side bent down and received me on its top, and was lifted up exceedingly above the middle of the river, and the other tree met me and received me in its branches and bending down set me on the ground; and both trees were lifted up and set me away from the river on the other side. [In that place I rested three days, and arising again.] I went forward, whither I knew not, and that place was filled with much fragrance, and there was no mountain on either hand, but the place was level and flowery, all crowned with garlands, and all the land was beautiful.</p>
 </blockquote>
-<h2 id="chapter-4">Chapter 4</h2>
+<h2 id="chapter-4">Chapter 4<a class="zola-anchor" href="#chapter-4" aria-label="Anchor link for: chapter-4"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>And I saw there a naked man sitting, and said in myself, Surely this is not the tempter. And I remembered the voice of the cloud that it said to me, Not even the tempter in this world passes through me. And thus taking courage I said to him, Hail, brother. And he answering said to me, The grace of my God be with thee. Again I said to him, Tell me, man of God, who thou art? He answered and said to me, Who art thou rather? And I answered and told him all concerning myself, and that I had prayed to God and he had brought me into that place. He answered and said to me, I also know that thou art a man of God, for if not, thou couldst not have passed through the cloud and the river and the air. For the breadth of the river is about thirty thousand paces, and the cloud reaches to heaven, and the depth of the river to the abyss.</p>
 </blockquote>
-<h2 id="chapter-five-syriac-five-and-six">Chapter Five (Syriac Five and Six)</h2>
+<h2 id="chapter-five-syriac-five-and-six">Chapter Five (Syriac Five and Six)<a class="zola-anchor" href="#chapter-five-syriac-five-and-six" aria-label="Anchor link for: chapter-five-syriac-five-and-six"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>5 [Syriac] And again he asked me, “Have you come from the world of vanity?” Then I said to him, “In truth I come from the world of vanity in order to see all of you. However, tell me, why are you naked?” But he said to me, “You are he who is naked, and you do not discern that your garment is corrupted, but my own garment is not corrupted. If you wish to see me, however, come, gaze toward the height of heaven.” And while gazing above I saw his face to be like the face of an angel. And my eyes were dimmed from fear; and I fell upon the land.</p>
 </blockquote>
 <blockquote>
 <p>6 [Syriac] And then he approached me and grasped me by my hands, and raised me up upon my feet. And he said to me, “Do not fear; for I am one of the Blessed Ones, whom you have earnestly desired to visit. But come with me and I shall take you to the holy Blessed Ones, my brothers. And traveling with me, holding my hands, he asked me concerning the world and all that is in it. And then he brought me to the assembly of the Blessed Ones. And after watching them I fell to the land and worshiped them. It was the assembly of elect ones, comprising both splendid youths and honorable holy ones. And when these Blessed Ones saw me, they greatly marveled and asked each other simultaneously, “My brothers, has the end of the world arrived and consequently a man was able to come here?” And all of them rose up and prayed and petitioned the Lord to inform them of the reason for my incursion among them. And God heard their prayer; and I watched and behold two angels descended from heaven, stood before the assembly of the Blessed Ones, and said to them, “The end has not yet arrived; do not be afraid by the coming of this man who is among you. He will remain among you for seven days. Write out for him and inform him about all of God’s providence respecting you, and that he visits with you; however, that man shall soon go out from you, and return to his place rejoicing.” And after the angels said these things to them, they ascended to heaven.</p>
 </blockquote>
-<h2 id="chapter-five-greek">Chapter Five (Greek)</h2>
+<h2 id="chapter-five-greek">Chapter Five (Greek)<a class="zola-anchor" href="#chapter-five-greek" aria-label="Anchor link for: chapter-five-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>And having ended this discourse the man spoke again, Hast thou come hither out of the vanity of the world? I said to him, Wherefore art thou naked? He said, How knowest thou that I am naked? Thou wearest skins of the cattle of the earth, that decay together with thy body, but look up to the height of heaven and behold of what nature my clothing is. And looking up into heaven I saw his face as the face of an angel, and his clothing as lightning, which passes from the east to the west, and I was greatly afraid, thinking that it was the son of God, and trembled, falling upon the ground. And giving me his hand he raised me up, saying, Arise, I also am one of the blessed. Come with me, that I may lead thee to the elders. And laying hold of my hand he walked about with me and led me toward a certain crowd, and there were in that crowd elders like sons of God, and young men were standing beside the elders. And as I came near to them, they said, This man has come hither out of the vanity of the world; come, let us beseech the Lord and he will reveal to us this mystery. Surely the end is not at hand, that the man of vanity is come hither? Then they arose and besought the Lord with one accord, and behold two angels came down from heaven and said, Fear not the man, for God has sent him, that he may remain seven days and learn your ways of life, and then he shall go forth and depart to his own place. The angels of God having said this ascended into heaven before our eyes.</p>
 </blockquote>
-<h2 id="chapter-six-syriac-seven">Chapter Six (Syriac Seven)</h2>
+<h2 id="chapter-six-syriac-seven">Chapter Six (Syriac Seven)<a class="zola-anchor" href="#chapter-six-syriac-seven" aria-label="Anchor link for: chapter-six-syriac-seven"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>7 [Syriac] Then the Blessed Ones rejoiced, and received me in peace. And the holy ones, the Blessed Ones, delivered me to an attendant. And the holy ones said to him, “Keep him, this our brother, with you for seven days.” And the holy attendant received me, and brought me to his tent, and I sat with him under these fair trees. And in his presence I took delight in the delight of his prayers. For that place is like the Paradise of God and these Blessed Ones are like Adam and Eve before they sinned. They fast from the ninth hour until the ninth; and then they eat what they need from the fruits of these trees; for water which is sweet and delightful as honey flows from the roots of the trees. And each one drinks what he needs. And immediately they stop eating; from the ninth hour on they live alone.</p>
 </blockquote>
@@ -176,11 +264,13 @@
 <blockquote>
 <p>And many noble elders and spiritual youths, who were like angels of heaven, assembled, formed an assembly, and said to me, “O man of sin, go, exit from among us. We do not know how you prepared yourself so that you were able to come among us; perhaps you wish to deceive us as the Evil One deceived our father Adam.” However, I, miserable Zosimus, fell upon my face before them, and with mournful tears entreated them earnestly and said, “Have mercy upon me, O Blessed Ones; and forgive me my offense, O Earthly Angels.” And after I entreated them earnestly and abundantly, with difficulty they had mercy upon me. And all of them became very silent, and after a short time they said to me, “Tell us, our brother, all of those things which transpired so that you were able to visit us; be at rest and do not fear.” Then I told them the entire story, in what manner I requested God, “Show me your place.” Then the elders responded to me, “And now, our beloved, since God has answered you and you have seen us and our place, what do you wish?” Then I said to them, “I beg you from your blessedness to write for me the history of how your entrance here was possible, so that your history may be a good introduction and a beautiful example for everyone who wishes to be guided by the fear of God.”</p>
 </blockquote>
-<h2 id="chapter-six-greek">Chapter Six (Greek)</h2>
+<h2 id="chapter-six-greek">Chapter Six (Greek)<a class="zola-anchor" href="#chapter-six-greek" aria-label="Anchor link for: chapter-six-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>Then the elders of the blessed gave me over to one of the attendants, saying, Keep him for seven days. So the attendant receiving me led me to his cave, and we sat under a tree partaking of food. For from the sixth hour even to the sixth, then we ate, and the water came out from the root of the tree sweeter than honey, and we drank our fill, and again the water sank down into its place. And all the country of those there heard of me, that there had come thither a man out of the vanity of the world, and all the country was stirred up, and they came to see me because it seemed strange to them. Therefore they were asking me all things and I was answering them, and I became faint in spirit and in body, and besought the man of God that served me, and said, I beseech thee, brother, if any come to see me, tell them He is not here, so that I may rest a little. And the man of God cried out saying, Woe is me, that the story of Adam is summed up in me, for Satan deceived him through Eve, and this man by his flattery desires to make me a liar while he is here. Take me away from hence, for I shall flee from the place. For behold he wishes to sow in me seeds of the world of vanity. And all the multitude and the elders rose up against me, and said, Depart from us, man; we know not whence thou art come to us. But I lamented with great lamentation, and my senses left me, and I cried out to the elders, saying, Forgive me, my lords, and the elders stilled them and made quietness. Then I related to them all from the beginning till that time, and said, I besought the Lord to come to you, and he deemed me worthy. And the elders said, And now what wilt thou we should do to thee? I said to them, I desire to learn of you your way of life.</p>
 </blockquote>
-<h2 id="chapters-seven-to-nine-syriac-eight-to-ten">Chapters Seven to Nine (Syriac Eight to Ten)</h2>
+<h2 id="chapters-seven-to-nine-syriac-eight-to-ten">Chapters Seven to Nine (Syriac Eight to Ten)<a class="zola-anchor" href="#chapters-seven-to-nine-syriac-eight-to-ten" aria-label="Anchor link for: chapters-seven-to-nine-syriac-eight-to-ten"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>8 [Syriac] And they took tablets of stone and wrote on them as follows: Hear, all of you who are in the world of vanity, and perceive all the providence which has occurred after this manner; we are called the sons of Rechab, we are from you; and behold we departed from your world to this place in which we are today. For in that time when Jeremiah, the prophet, announced and prophesied the ravaging and devastation of Jerusalem because of the sins of the sons of Israel, then behold shortly thereafter the destroyer came to ravage and slay them. Then Jeremiah, the prophet, rent his garments and was clothed in sackcloth, and sprinkled dust upon his head. And he showed to the common folk the way of goodness; and urged them to return to the Lord.</p>
 </blockquote>
@@ -196,7 +286,8 @@
 <blockquote>
 <p>On the first night, a brilliant light shone upon us; and angels of God in glorious form appeared to us. And they led all of us out from prison, and placed us in the air that is above the land, and brought us to this place in which you now see us, and allowed us to dwell in it. And our virtuous wives, who with us had surrendered themselves to God, now abide separately among us in this land, while remaining as we do in a fast and prayer and praise to God. And after the angels of God brought us and placed us in this place in the midst of the water of this great sea, God commanded and the waters rose up from the deep abyss and encircled this place. And by the command of God a cloud became a bulwark above the water and rose up as far as heaven.</p>
 </blockquote>
-<h2 id="chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</h2>
+<h2 id="chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)<a class="zola-anchor" href="#chapters-seven-to-nine-greek" aria-label="Anchor link for: chapters-seven-to-nine-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>7. And they rejoiced with great joy, And taking up tables of stone they wrote on them with their nails, thus, hear, ye sons of men, Hear ye us who are become blessed, that we also are of you; for when the prophet Jeremiah proclaimed that the city of Jerusalem should be delivered into the hands of the destroyers, he rent his garments, and put sackcloth upon his loins, and sprinkled dust upon his head, and took earth upon his bed, and told all people to turn from their wicked way. And our father Rechab, the son of Aminadab, heard him and said to us, Ye sons and daughters of Rechab, hearken to your father, and put off your garments from your body, and drink no vessel of wine, and eat no bread from the fire, and drink not strong drink and honey until the Lord hear your entreaty. And we said, All that he has commanded us we shall do and hearken. So we cast away our clothing from our bodies, and we ate no bread from the fire, and drank no vessel of wine nor honey nor strong drink, and we lamented with a great lamentation and besought the Lord, and he heard our prayer and turned away his anger from the city of Jerusalem, and there came to the city of Jerusalem mercy from the Lord, and he pitied its people, and turned away his deadly anger.</p>
 </blockquote>
@@ -206,7 +297,8 @@
 <blockquote>
 <p>9. And the king said to us, Ye have done well. Now therefore mingle with my people, and eat bread and drink wine, and glorify your Lord, and ye shall be serving God and the king. But we said, We will not disobey God. Then the king was enraged and set us in prison, and we passed that night there. And behold a light shone in the building, and an angel uncovered the prison and laid hold of the crowns of our heads, and took us out of the prison, and set us beside the water of the river, and said to us, Whithersoever the water goes, go ye also. And we travelled with the water and with the angel. When therefore he had brought us to this place, the river was dried up and the water was swallowed up by the abyss, and he made a wall round this country, and there came a wall of cloud, and shadowed above the water; and he did not scatter us over all the earth, but gave to us this country.</p>
 </blockquote>
-<h2 id="chapters-ten-and-eleven-syriac-eleven-and-twelve">Chapters Ten and Eleven (Syriac Eleven and Twelve)</h2>
+<h2 id="chapters-ten-and-eleven-syriac-eleven-and-twelve">Chapters Ten and Eleven (Syriac Eleven and Twelve)<a class="zola-anchor" href="#chapters-ten-and-eleven-syriac-eleven-and-twelve" aria-label="Anchor link for: chapters-ten-and-eleven-syriac-eleven-and-twelve"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>11 [Syriac] And according to his will God assembled us on this island and did not scatter us upon the whole land; but God placed us on this holy land. And we are without sins and evil and abominable thoughts. And we are mortals; however, we are purified and spotless, and our souls and bodies are cleansed from all defilement; and we depend upon the hope of our Lord; and our sight is fixed continuously and unceasingly on the light of the future life. And from prayer to God we are not silent by night and by day, for this offering of praise is our occupation. And God commanded and this land brought forth for us pleasant and splendid trees which are filled with lovely, marvelous, and abundant fruits. And again from the roots of the trees flows sweet and delightful water; and from these fruits and water we take delight and rest and are sustained.</p>
 </blockquote>
@@ -225,14 +317,16 @@
 <blockquote>
 <p>To us the holy angels of God announce both the incarnation of the Word of God, who is from the holy virgin, the mother of God, and all those things which he provides and perfects and endures for the sake of the salvation of mortals. And then we worship and acknowledge and glorify him for the sake of the glory of his incarnate life. Then we ask for your love, O people, that you will not be unfaithful when you chance to read this history. Do not surrender to the cruel and merciless ruler, but be shrouded by the secrets which were entrusted to you. And let this history be for you the salvation of your lives. Have regard to us in your hidden thoughts, be imitators of our way of life, pursue peace, cherish the love that is unchangeable, and love purity and holiness. And you will be made perfect in all good things and inherit the kingdom of God.</p>
 </blockquote>
-<h2 id="chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</h2>
+<h2 id="chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)<a class="zola-anchor" href="#chapters-ten-and-eleven-greek" aria-label="Anchor link for: chapters-ten-and-eleven-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>10. Hear, ye sons of men, hear the way of life of the blessed. For God placed us in this land, for we are holy but not immortal. For the earth produces most fragrant fruit, and out of the trunks of the trees comes water sweeter than honey, and these are our food and drink. We are also praying night and day, and this is all our occupation. Hear, ye sons of men; with us there is no vine, nor ploughed field, nor works of wood or iron, nor have we any house or building, nor fire nor sword, nor iron wrought or unwrought, nor silver nor gold, nor air too heavy or too keen. Neither do any of us take to themselves wives, except for so long as to beget two children, and after they have produced two children they withdraw from each other and continue in chastity, not knowing that they were ever in the intercourse of marriage, but being in virginity as from the beginning. And the one child remains for marriage, and the other for virginity.</p>
 </blockquote>
 <blockquote>
 <p>11. And there is no count of time, neither weeks nor months nor years, for all our day is one day. In our caves lie the leaves of trees, and this is our couch under the trees. But we are not naked of body, as ye wrongly imagine, for we have the garment of immortality and are not ashamed of each other. At the sixth hour of every day we eat, for the fruit of the tree falls of itself at the sixth hour, and we eat and drink our fill, and again the water sinks into its place. We also know you who are there in the world, and who are in sins, and your works, for every day the angels of the Lord come and tell them to us, and the number of your years. But we pray for you to the Lord, because we also are of you and of your race, except that God has chosen us, and has set us in this place without sin. And the angels of God dwell with us every day, and tell us all things concerning you, and we rejoice with the angels over the works of the just, but over the works of sinners we mourn and lament, praying to the Lord that he may cease from his anger and spare your offences.</p>
 </blockquote>
-<h2 id="the-final-chapters">The Final Chapters</h2>
+<h2 id="the-final-chapters">The Final Chapters<a class="zola-anchor" href="#the-final-chapters" aria-label="Anchor link for: the-final-chapters"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>13 [Syriac] We perceive that the holy fast of forty days of our Lord has begun when the fruits of the trees are withheld and cease developing. And on each of the days of the holy fast God causes to rain down upon us from heaven manna similar to that which he gave to our fathers when he led them out of Egypt. We learn that the holy Passover will arrive when these trees among us flourish and produce magnificently sweet and abundant fruits. Then we know that the Passover of our Lord has arrived. But on the feast of our Lord’s resurrection from the grave we watch for three days and three nights. Then we are filled with gladness and rejoicing, perceiving that the holy feast of the resurrection of our Lord has arrived. And with a spiritual cheerfulness we rejoice while celebrating with the holy angels; likewise also we exult and sing praises during all of the noble and saving feasts of the providence of our Lord. And all the assembly which are above us and all the heavenly hosts rejoice with us in these feasts.</p>
 </blockquote>
@@ -264,16 +358,15 @@
 <p>18 [Syriac] And suddenly that animal arrived and carried me; and it brought me to the cave while I praised and exalted God, who had answered me and heard my petition and fulfilled my desire. To him be praise, amen, from heavenly and earthly beings for all time, amen.</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -288,105 +381,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

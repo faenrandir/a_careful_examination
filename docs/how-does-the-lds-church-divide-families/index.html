@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How does the LDS Church divide families? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>How does the LDS Church divide families? | A Careful Examination</title>
+<meta property="og:title" content="How does the LDS Church divide families? | A Careful Examination" />
+<meta name="twitter:title" content="How does the LDS Church divide families? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/how-does-the-lds-church-divide-families/">
-  
+  <meta property="og:url" content="/a_careful_examination/how-does-the-lds-church-divide-families/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">How does the LDS Church divide families?</h1>
@@ -93,11 +209,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[very rough draft]</p>
-<h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[very rough draft]</p>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The first time a believing member of the Church of Jesus Christ of Latter-day
 Saints hears a former member suggest that the LDS Church may actually contribute to the <em>division</em> of families, they are likely to view the statement as completely nonsensical.  That’s because the LDS Church consistently and strongly <em>emphasizes</em> the family and its importance across all its activities and messaging.  A few of many exmamples:</p>
 <ul>
@@ -113,9 +231,11 @@ Saints hears a former member suggest that the LDS Church may actually contribute
 <p>With all of this emphasis on and dedication to the family, how could anyone view the LDS Church as a source of division in families?</p>
 <p>To be clear, in a family where all the family members are active LDS members who enjoy their membership, it’s safe to say that division isn’t likely to occur. As discussed above, the LDS program focuses on families and the LDS Church encourages and facilitates many kinds of behaviors that <em>promote</em> family togetherness.</p>
 <p>But when a family member leaves the LDS Church, significant family division often occurs.</p>
-<h2 id="division-is-not-necessarily-inevitable">Division is not necessarily inevitable</h2>
+<h2 id="division-is-not-necessarily-inevitable">Division is not necessarily inevitable<a class="zola-anchor" href="#division-is-not-necessarily-inevitable" aria-label="Anchor link for: division-is-not-necessarily-inevitable"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Why would a family member leaving the Church be <em>a problem</em>, in the first place?  Why can’t the family just keep being a very happy family?  Why can’t this be viewed as the family growing stronger because they are gaining some new perspectives?  For instance, when a family member leaves to serve in the military or start a new career or move to a new city, this is not usually viewed as destroying or dividing the family.  So, why is it such a problem for an LDS family when someone leaves the LDS Church?</p>
-<h2 id="division-may-be-promoted-by-totalism">Division may be promoted by totalism</h2>
+<h2 id="division-may-be-promoted-by-totalism">Division may be promoted by totalism<a class="zola-anchor" href="#division-may-be-promoted-by-totalism" aria-label="Anchor link for: division-may-be-promoted-by-totalism"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Totalism is when a single entity or ideology wields absolute control over a group, so totalistic groups are those with some tendency towards totalism (i.e., manifesting a strong, <em>singular</em> purpose or ideology).  The LDS Church <a rel="external" href="https://faenrandir.github.io/a_careful_examination/three-fold-nature-lds-church-corporate-totalistic-individual-growth/">is at least somewhat totalistic</a>. While this tendency provides some major benefits to adherents (e.g., a strong sense of purpose and family like relationships) it also tends to view the world in binaries:</p>
 <ul>
 <li>member vs. non-member</li>
@@ -128,7 +248,8 @@ Saints hears a former member suggest that the LDS Church may actually contribute
 <blockquote>
 <p>If they do not walk up to every covenant they make at these altars in this temple this day, they will be in my power!</p>
 </blockquote>
-<h3 id="policy-and-procedure">Policy and procedure</h3>
+<h3 id="policy-and-procedure">Policy and procedure<a class="zola-anchor" href="#policy-and-procedure" aria-label="Anchor link for: policy-and-procedure"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Participation (or even witnessing) certain key life events are divided based
 on active membership (either active or holding <a rel="external" href="https://abn.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng">a current Temple
 Recommend</a>.</p>
@@ -144,7 +265,8 @@ LDS temple recommend (i.e., they are active, tithe-paying
 members).<sup class="footnote-reference" id="fr-marriage_accomodation-1"><a href="/a_careful_examination/how-does-the-lds-church-divide-families/#fn-marriage_accomodation">[1]</a></sup></li>
 <li>The Church Handbook <a rel="external" href="https://abn.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng">implies that only endowed members</a> are meant to dress deceased endowed members for burial (non-members are not typically invited for this event, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/s4te6d/im_an_active_member_what_do_you_want_me_to_know/hstlwn9/">for example</a>).</li>
 </ol>
-<h3 id="doctrine">Doctrine</h3>
+<h3 id="doctrine">Doctrine<a class="zola-anchor" href="#doctrine" aria-label="Anchor link for: doctrine"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>LDS theology has been set up so that the only way to guarantee eternal togetherness is if everyone is doing the program (a prominent LDS family in my area had the family motto “no empty chairs” and this was meant to imply everyone in the Gospel and in the Celestial Kingdom together).  When someone is not doing the program this is likely to generate some friction/concern/anxiety and depending on how that’s handled it can be very damaging.</li>
 <li>A major theme of Christianity from the beginning (emphasized to varying extents) is the idea of prioritizing belief over people (even family).
@@ -182,12 +304,15 @@ members).<sup class="footnote-reference" id="fr-marriage_accomodation-1"><a href
 <li><a rel="external" href="https://faenrandir.github.io/a_careful_examination/lds-indoctrination-and-retentive-socialization/">LDS Indoctrination and Retentive Socialization</a></li>
 <li><a rel="external" href="https://archive.org/details/watchvpxa6nt-ydqc">Journey To Become One Family’s Journey ( 2013)</a> (7:33: “I think about the success of my kids and if ran into someone 30 years from today and they say to me, how are your kids doing?  If my son has a temple recommend and is a worthy Melchizedek priesthood holder then I will say that my son is doing fantastic. If, on the other hand, my children are wealthy beyond measure and famous, but they are not worthy of a temple recommend, I will say ‘my children are struggling’”.)</li>
 </ul>
-<h2 id="appendix">Appendix</h2>
-<h3 id="wouldn-t-everyone-staying-lds-solve-the-problem">Wouldn’t everyone staying LDS solve the problem?</h3>
+<h2 id="appendix">Appendix<a class="zola-anchor" href="#appendix" aria-label="Anchor link for: appendix"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="wouldn-t-everyone-staying-lds-solve-the-problem">Wouldn’t everyone staying LDS solve the problem?<a class="zola-anchor" href="#wouldn-t-everyone-staying-lds-solve-the-problem" aria-label="Anchor link for: wouldn-t-everyone-staying-lds-solve-the-problem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Why don’t the children/family just stay in the Church!?  Can the Church be
 blamed for the problem when it could alternatively be said that the problem is
 <em>generated</em> by those who leave?<sup class="footnote-reference" id="fr-repair_relationship-1"><a href="/a_careful_examination/how-does-the-lds-church-divide-families/#fn-repair_relationship">[2]</a></sup></p>
-<h4 id="people-leaving-the-church-is-part-of-family-life">People leaving the Church is part of family life</h4>
+<h4 id="people-leaving-the-church-is-part-of-family-life">People leaving the Church is part of family life<a class="zola-anchor" href="#people-leaving-the-church-is-part-of-family-life" aria-label="Anchor link for: people-leaving-the-church-is-part-of-family-life"><i class="fas fa-link"></i></a> 
+</h4>
 <p>It is simply the case that one or more children are likely to leave the LDS Church based on the statistics—roughly 25% of the silent generation, 28% of Boomers, 37% of gen-Xers, and 54% of millenials <a rel="external" href="https://religionnews.com/2019/03/27/how-many-millennials-are-really-leaving-the-lds-church/">were not retained</a>. Regardless of what <em>should</em> happen, this is what <em>does</em> happen, and it occurs frequently.</p>
 <p>If a common occurrence is that a person will leave the LDS faith, then how the
 family responds to or handles that situation is <em>part of</em> the behaviors that
@@ -201,7 +326,8 @@ frequency/need for the anti-lock-braking system is rare. And suggesting that a
 person always drive in such a manner that the anti-lock-braking system is
 never needed can be viewed as unrealistic since we know that situations where
 it is needed sometimes arise, even with the most careful driving.</p>
-<h4 id="generalization-suggests-that-this-idea-is-dictatorial-and-goes-too-far">Generalization suggests that this idea is dictatorial and goes too far</h4>
+<h4 id="generalization-suggests-that-this-idea-is-dictatorial-and-goes-too-far">Generalization suggests that this idea is dictatorial and goes too far<a class="zola-anchor" href="#generalization-suggests-that-this-idea-is-dictatorial-and-goes-too-far" aria-label="Anchor link for: generalization-suggests-that-this-idea-is-dictatorial-and-goes-too-far"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Just as strongly as members feel that the LDS Church is “true” and that it is a major source of that which is good, former members often feel unconvinced that LDS truth-claims stand up to scrutiny and they see or have lived experience with cases where the LDS Church caused some significant harm.</p>
 <p>Since former members are also part of the family unit, then a former member might also suggest that if all active members were to <em>leave</em> the LDS institution, then any family division would be resolved. From a former member perspective, this request is equally as valid, but both seem unrealistic (even nonsensical) to those who are firmly committed to their religious/non-religious position.</p>
 <p>A “family” is in some part composed of individual perspectives, so a solution which unilaterally imposes that a member leaving the Church is <em>the problem</em> for family togetherness isn’t really “a family” solution but a dictatorial one.  And if the roles were reversed religious individuals would balk at the over-reach of solution in reverse: A family of non-religious people arguing that family divisiveness should be rectified by religious family members <em>abandoning</em> their religious faith seems like it goes too far.</p>
@@ -231,16 +357,15 @@ communicated (i.e., it “wouldn’t mean anything.”) <a href="/a_careful_exam
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -255,105 +380,9 @@ communicated (i.e., it “wouldn’t mean anything.”) <a href="/a_careful_exam
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

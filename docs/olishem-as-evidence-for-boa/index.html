@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Analysis of Olishem as evidence for the antiquity of the Book of Abraham | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Analysis of Olishem as evidence for the antiquity of the Book of Abraham | A Careful Examination</title>
+<meta property="og:title" content="Analysis of Olishem as evidence for the antiquity of the Book of Abraham | A Careful Examination" />
+<meta name="twitter:title" content="Analysis of Olishem as evidence for the antiquity of the Book of Abraham | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/olishem-as-evidence-for-boa/">
-  
+  <meta property="og:url" content="/a_careful_examination/olishem-as-evidence-for-boa/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Analysis of Olishem as evidence for the antiquity of the Book of Abraham</h1>
@@ -93,41 +209,20 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#counterpoint">Counterpoint</a></li>
-        
-          <li><a href="#relocating-ur">Relocating Ur</a></li>
-        
-          <li><a href="#ur-haran-canaan-and-olishem">Ur, Haran, Canaan and Olishem</a></li>
-        
-          <li><a href="#abraham-as-a-historical-figure">Abraham as a historical figure</a></li>
-        
-          <li><a href="#maps-with-words-like-olishem">Maps with words like Olishem</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[still in draft form]</p>
-<h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <p>[still in draft form]</p>
+<h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The <a rel="external" href="https://en.wikipedia.org/wiki/Ebla_tablets">Ebla tablets</a> contain an inscription boasting that the ruler Naram-Sin had slain the cities Arman and Ibla and from the Euphrates river to an “Ulisim” (alternatively Ulišim, Ulisum, Ulisu, or Ullis) (see <a rel="external" href="http://www.etana.org/sites/default/files/coretexts/20361.pdf">here pg 76 Col. II</a>.  The ancient city or land referred to, Ulisim, <a rel="external" href="http://www.hurriyetdailynews.com/prophet-abrahams-lost-city-found-in-turkeys-kilis-52591">may correspond to new ruins found at Oylum Höyük</a>.</p>
 <p>The Book of Abraham discusses a hill on which human sacrifices were performed in the land of Ur “at the head of the plain of Olishem.”  The existence of a city named Ulisim somewhere near Haran (another city in which Abraham apparently lived) mentioned in approximately the time period in which Abraham is conjectured to have lived according to standard biblical chronology</p>
 <p>Ur adjacent to the plains of Olishem and its location (west of Haran) seems to make it a putative source for the phrase “plains of Olishem” in the Book of Abraham (so, the idea would be that the plains were named after the city, which may have been impressive in its time).</p>
 <p>The idea that the existence of “Ulisum” provides evidence for the Book of Abraham (BoA) was recently mentioned <a rel="external" href="https://np.reddit.com/r/latterdaysaints/comments/8oyb98/i_need_some_clarification/e07y53w/">here</a> and this comment points to a chapter from <a rel="external" href="https://rsc.byu.edu/award-winning/no-weapon-shall-prosper-new-light-sensitive-issues">No Weapon Shall Prosper: New Light on Sensitive Issues</a> called <a rel="external" href="https://rsc.byu.edu/archived/no-weapon-shall-prosper/egyptian-papyri-and-book-abraham-faithful-egyptological-point-view">Egyptian Papyri and the Book of Abraham: A Faithful, Egyptological Point of View</a>.</p>
 <p>The Ulisum/Olishem connection is also discussed in depth by John Gee <a rel="external" href="https://publications.mi.byu.edu/publications/jbms/22/2/9Gee_Olishem%20Discovered.pdf">here</a>.</p>
-<h3 id="counterpoint">Counterpoint</h3>
+<h3 id="counterpoint">Counterpoint<a class="zola-anchor" href="#counterpoint" aria-label="Anchor link for: counterpoint"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Problems with this potential match have been discussed at <a rel="external" href="https://www.exmormon.org/phorum/read.php?2,513409">RFM</a>:</p>
 <ol>
 <li>
@@ -143,7 +238,8 @@
 </blockquote>
 </li>
 </ol>
-<h3 id="relocating-ur">Relocating Ur</h3>
+<h3 id="relocating-ur">Relocating Ur<a class="zola-anchor" href="#relocating-ur" aria-label="Anchor link for: relocating-ur"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The plains of Olishem appear to be adjacent to Abraham’s Ur (Abraham 1:10, 20):</p>
 <blockquote>
 <p>Even the thank-offering of a child did the priest of Pharaoh offer upon the altar which stood by the hill called Potiphar’s Hill, at the head of the plain of Olishem.</p>
@@ -164,12 +260,14 @@
 <p>Some have associated <a rel="external" href="http://www.accuracyingenesis.com/ur.html#journey">Ur with Urfa</a> (see <a rel="external" href="https://www.google.com/maps/dir/%C5%9Eanl%C4%B1urfa,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Harran,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@35.1706292,37.9404716,421418a,35y,27.68t/data=!3m1!1e3!4m20!4m19!1m5!1m1!1s0x153471ebdc619091:0x8e788516b709466c!2m2!1d38.7955149!2d37.1674039!1m5!1m1!1s0x15343dad4905e597:0x6a17c99b458fad05!2m2!1d39.024276!2d36.863131!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2">this map</a> showing a walking path between Sanliurfa [Urfa or Ur], Harran [Haran] and Oylum Höyük [Ulišum or Olishem]), but this means the plains associated with Oylum Höyük, or Olishem, wouldn’t necessarily be adjacent to Urfa.  Perhaps this is why Gee proposes an unknown city in the Kilis plain (which is to the west of Haran) rather than Urfa?</p>
 <p>It is worth noting that if we assume that Ur is the Ur much farther to the Southeast (the Ur of current scholarly concensus) or Urfa (another proposed site for Ur), then the support for the BoA is weakened (Oylum Höyük is ~<a rel="external" href="https://www.google.com/maps/dir/Ur,+Iraq/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@34.5024016,36.487441,1886640m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x3fde0f1d03e2508d:0x1c61717f6cc10dc3!2m2!1d46.1061111!2d30.9608333!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2">730 miles away</a> and Urfa <a rel="external" href="https://www.google.com/maps/dir/%C5%9Eanl%C4%B1urfa,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Harran,+%C5%9Eanl%C4%B1urfa+Province,+Turkey/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@35.1706292,37.9404716,421418a,35y,27.68t/data=!3m1!1e3!4m20!4m19!1m5!1m1!1s0x153471ebdc619091:0x8e788516b709466c!2m2!1d38.7955149!2d37.1674039!1m5!1m1!1s0x15343dad4905e597:0x6a17c99b458fad05!2m2!1d39.024276!2d36.863131!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2">doesn’t seem adjacent to any plains</a> that could be associated with Oylum Höyük).</p>
 <p><a rel="external" href="https://www.google.com/maps/dir/Ur,+Iraq/Oylum+Mahallesi,+Oylum+H%C3%B6y%C3%BCk,+Kilis+Merkez%2FKilis,+Turkey/@34.284826,37.2345113,1891551m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x3fde0f1d03e2508d:0x1c61717f6cc10dc3!2m2!1d46.1061111!2d30.9608333!1m5!1m1!1s0x152fd17b391dd463:0xe0e1ee39ecfd0cce!2m2!1d37.1785498!2d36.6991866!3e2">Map of the walk between Ur and Oylum Höyük (Olishem)</a> (~730 miles or ~1180 km)</p>
-<h3 id="ur-haran-canaan-and-olishem">Ur, Haran, Canaan and Olishem</h3>
+<h3 id="ur-haran-canaan-and-olishem">Ur, Haran, Canaan and Olishem<a class="zola-anchor" href="#ur-haran-canaan-and-olishem" aria-label="Anchor link for: ur-haran-canaan-and-olishem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Genesis 11:31 and Abraham 2:15 set up a geography where Haraan is in between
 Ur and Canaan.  If that is the case, then Olishem in the proposed location of
 Ulisum seems inconsistent with those descriptions.</p>
 <p>Complete argument summarized <a rel="external" href="https://www.reddit.com/r/mormon/comments/m503b8/geographic_problems_with_olishem_and_a_northern_ur/">here</a>.</p>
-<h3 id="abraham-as-a-historical-figure">Abraham as a historical figure</h3>
+<h3 id="abraham-as-a-historical-figure">Abraham as a historical figure<a class="zola-anchor" href="#abraham-as-a-historical-figure" aria-label="Anchor link for: abraham-as-a-historical-figure"><i class="fas fa-link"></i></a> 
+</h3>
 <p>All of the above discussion assumes that Abraham was an actual historical figure, which most scholars today doubt.  To begin with:</p>
 <blockquote>
 <p>we have no extrabiblical information about prominent biblical figures such as Abraham and Moses, or even David and Solomon. <a rel="external" href="https://books.google.com/books?id=hd28MdGNyTYC&amp;q=Abraham#v=snippet&amp;q=Abraham&amp;f=false">source</a></p>
@@ -179,7 +277,8 @@ Ulisum seems inconsistent with those descriptions.</p>
 <p>A common hypothesis among scholars is that it [the Abraham story] was composed in the early Persian period (late 6th century BCE) as a result of tensions between Jewish landowners who had stayed in Judah during the Babylonian captivity and traced their right to the land through their “father Abraham”, and the returning exiles who based their counter-claim on Moses and the Exodus tradition.  (from <a rel="external" href="https://en.wikipedia.org/wiki/Abraham">Abraham</a> in Wikipedia)</p>
 </blockquote>
 <p>Of course, for a believing member the existence of the Book of Abraham <em>is</em> evidence for a literal Abraham.  Perhaps God facilitated its translation in order to buttress wavering faith in the historicity of Abraham?  Needless to say, the skepticism of scholars in a historical Abraham weighs at least somewhat against the legitimacy of the BoA in total—if we grant that findings for the historical Abraham would increase our confidence that the BoA is a legitimate record then evidence and arguments against the historical Abraham ought to weaken our confidence in the BoA.</p>
-<h3 id="maps-with-words-like-olishem">Maps with words like Olishem</h3>
+<h3 id="maps-with-words-like-olishem">Maps with words like Olishem<a class="zola-anchor" href="#maps-with-words-like-olishem" aria-label="Anchor link for: maps-with-words-like-olishem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Two older maps of the Saudi Arabian peninsula also contain word variants similar to Olishem and which are located on the map in roughly the position Joseph Smith might have expected Olishem to have been.</p>
 <p>A map located in Allegheny College (in Pennsylvania), a few hundred miles from where Joseph Smith lived during the Book of Mormon translation, also <a href="/a_careful_examination/documents/book_of_abraham/olishem/barrai-alSham.png">contains the words ‘Barrai-al Sham’</a> right where the plains of Olishem would be located.  Next to the name is written: “In this Desert are found the Ruins of several ancient Cities”.  Not far below is written the text “Beled Shemer”.  Someone seeing this map could easily notice the last part of Barrai-al Sham (“al Sham”) and convolute it with the “Shem” from Shemer right below to form “Olishem”.</p>
 <pre><code>-al Sham + Shem =&gt; Olishem
@@ -190,7 +289,8 @@ Note that the same map <a href="/a_careful_examination/documents/book_of_abraham
 <pre><code>Olim + &quot;sh&quot; sound from &quot;Meschel Ocem&quot; =&gt; Olishem
 </code></pre>
 <p>I have no information at present about how accessible or widespread the “Accuratissima” map may have been in Joseph Smith’s day.</p>
-<h3 id="conclusion">Conclusion</h3>
+<h3 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In conclusion, I agree with the tenor of John Gee’s conclusion about a potential link between Ulišu and Olishem when he stated:</p>
 <blockquote>
 <p>At present, given the many uncertainties, we can regard this identification as promising but not proven.</p>
@@ -202,16 +302,15 @@ Note that the same map <a href="/a_careful_examination/documents/book_of_abraham
 <p>The linkage between Ulišu and Olishem would be consistent with the Book of Abraham, and may be considered evidence in favor of the historicity of the Book of Abraham, especially if we are willing to abandon existing positionings for the city-state Ur.</p>
 <p>For the naturalist, several potential sources for the name “Olishem” present themselves based on Hebrew roots Joseph may have been studying at the time and/or maps from the era of the northern Saudi Arabian peninsula (or western Mesopotamian region) with similar word variants (“-al Sham” and “Olim”), both positioned in the approximate location as the plains of Olishem mentioned in the BoA.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -226,105 +325,9 @@ Note that the same map <a href="/a_careful_examination/documents/book_of_abraham
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

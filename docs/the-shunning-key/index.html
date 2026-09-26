@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Shunning Key: Whom Latter-day Saints shun and why | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The Shunning Key: Whom Latter-day Saints shun and why | A Careful Examination</title>
+<meta property="og:title" content="The Shunning Key: Whom Latter-day Saints shun and why | A Careful Examination" />
+<meta name="twitter:title" content="The Shunning Key: Whom Latter-day Saints shun and why | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/the-shunning-key/">
-  
+  <meta property="og:url" content="/a_careful_examination/the-shunning-key/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The Shunning Key: Whom Latter-day Saints shun and why</h1>
@@ -102,32 +218,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#the-shunning-key">The Shunning Key</a></li>
-        
-          <li><a href="#shunning-sleight-of-hand">Shunning sleight of hand</a></li>
-        
-          <li><a href="#penetrance-in-lds-thought-and-action">Penetrance in LDS thought and action</a></li>
-        
-          <li><a href="#moving-forward">Moving Forward</a></li>
-        
-          <li><a href="#other-relevant-perspectives">Other relevant perspectives</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The leaders and manuals of The Church of Jesus Christ of Latter-day Saints frequently emphasize <a rel="external" href="https://www.churchofjesuschrist.org/search?lang=eng&amp;query=%22brotherly+love%22">brotherly love</a> and <a rel="external" href="https://www.churchofjesuschrist.org/search?lang=eng&amp;query=%22charity+for+all%22">charity to all</a>.  Consider this statement by Elder M. Russell Ballard:</p>
 <blockquote>
 <p>Let us reach out in friendship and love to our neighbors, <strong>including those of other faiths</strong>, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for <strong>all</strong> men, women, and children, <strong>help them to understand and to feel accepted and appreciated</strong>. (emphasis added) <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng">source</a></p>
@@ -144,10 +240,12 @@
 <p>[BYU Professor 2] There is nothing in Mormonism that would condone the type of behavior you are talking about.</p>
 </blockquote>
 <p>So, is it possible that Latter-day Saints shun?<sup class="footnote-reference" id="fr-shundefinition-1"><a href="/a_careful_examination/the-shunning-key/#fn-shundefinition">[2]</a></sup>  And how is it possible in the face of so many inclusive and loving messages such as the one given by Elder Ballard and those of the two BYU professors?</p>
-<h2 id="the-shunning-key">The Shunning Key</h2>
+<h2 id="the-shunning-key">The Shunning Key<a class="zola-anchor" href="#the-shunning-key" aria-label="Anchor link for: the-shunning-key"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The key to understanding most<sup class="footnote-reference" id="fr-othershunning-1"><a href="/a_careful_examination/the-shunning-key/#fn-othershunning">[3]</a></sup> shunning in the LDS Church is to realize that Latter-day Saints would typically never shun someone who merely left the Church or became less-active—these are the kinds of individuals that Church members will often reach out to.  Official Latter-day Saint material is rich in examples of members reaching out to less actives or those who had merely wandered from the Gospel path (see <a rel="external" href="https://www.churchofjesuschrist.org/ensign/2016/02/when-a-child-leaves-the-church?lang=eng">this example</a>).</p>
 <p>However, while a lost or wayward “former member” or “less-active” is not typically shunned, there are some categories of individuals whom members <em>are</em> explicitly taught to avoid: <strong>false prophets</strong>, <strong>false teachers</strong> (used synonymously with the terms “deceivers” and “antichrists”<sup class="footnote-reference" id="fr-synonymous-1"><a href="/a_careful_examination/the-shunning-key/#fn-synonymous">[4]</a></sup>), and <strong>faith-killers</strong> (“apostate” is a term sometimes used-synonymously with faith-killers).  These terms sound extreme—they <em>must</em> be a rare exception, right?  Who are these false prophets, false teachers, and faith-killers?</p>
-<h3 id="flee-from-false-teachers-and-false-prophets">Flee from false teachers and false prophets</h3>
+<h3 id="flee-from-false-teachers-and-false-prophets">Flee from false teachers and false prophets<a class="zola-anchor" href="#flee-from-false-teachers-and-false-prophets" aria-label="Anchor link for: flee-from-false-teachers-and-false-prophets"><i class="fas fa-link"></i></a> 
+</h3>
 <p>M. Russell Ballard taught in General Conference that <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng">false prophets and false teachers are those who</a> (with minor wording changes to make a list):</p>
 <ol>
 <li>Declare that the Prophet Joseph Smith was a duplicitous deceiver</li>
@@ -169,7 +267,8 @@
 <blockquote>
 <p>Our safety, our peace, lies in … <strong>fleeing from false prophets and false teachers</strong>…<sup class="footnote-reference" id="fr-tofleeistoshun-1"><a href="/a_careful_examination/the-shunning-key/#fn-tofleeistoshun">[5]</a></sup></p>
 </blockquote>
-<h3 id="shun-faith-killers">Shun faith-killers</h3>
+<h3 id="shun-faith-killers">Shun faith-killers<a class="zola-anchor" href="#shun-faith-killers" aria-label="Anchor link for: shun-faith-killers"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In his 1981 General Conference talk <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1981/10/opposition-to-the-work-of-god?lang=eng">Opposition to the Work of God</a>, Carlos E. Asay instructed members<sup class="footnote-reference" id="fr-taughtinmanuals-1"><a href="/a_careful_examination/the-shunning-key/#fn-taughtinmanuals">[6]</a></sup>:</p>
 <blockquote>
 <p>Avoid those who would teardown your faith. <strong>Faith-killers are to be shunned</strong>. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit. (emphasis added)</p>
@@ -183,7 +282,8 @@
 <li>Pin their hopes for salvation upon things other than those related to living prophets and living faith</li>
 </ol>
 <p>What constitutes a “faith-killer” is driven home in Asay’s discussion of “a very dedicated apostate” towards the beginning of his address.  This “dedicated apostate” did two things: “to discredit Joseph Smith and subsequent prophets, the apostate cited changes made in Church publications over the years” and the apostate pointed out this information to a recent convert.</p>
-<h3 id="how-often-do-former-members-qualify">How often do former members qualify?</h3>
+<h3 id="how-often-do-former-members-qualify">How often do former members qualify?<a class="zola-anchor" href="#how-often-do-former-members-qualify" aria-label="Anchor link for: how-often-do-former-members-qualify"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A <a rel="external" href="http://www.whymormonsquestion.org/wp-content/uploads/2012/05/Survey-Results_Understanding-Mormon-Disbelief-Mar20121.pdf">recent survey</a> was conducted on former members to better understand why they left the Church.  The top 5 reasons given were:</p>
 <ul>
 <li>I ceased to believe in the church’s doctrine/theology (74%)</li>
@@ -195,7 +295,8 @@
 <p>If this survey is at all representative of former Mormons, the majority of Mormons who leave do so <em>because</em> they do not believe in the core truth-claims of the Church any more.  In addition, the majority of those who disbelieve (53%) now consider themselves Agnostic, Atheist, or Humanist.</p>
 <p>Hence a typical former Latter-day Saint, if they ever openly discuss their rationale for doubting the Church’s truth-claims or write anything online, will easily qualify as a false prophet or false teacher.  At a minimum, they will likely be a tight fit for Ballard’s criteria #2, #3, #5, #8, #9,  and they will likely meet <em>all</em> of Asay’s list characterizing a faith-killer.</p>
 <p>We can surmise, then, that those who leave the Church because they grow tired of living the lifestyle (“lazy”) or who would rather live a different lifestyle (“wanting to sin”) are likely to be reached out to and fellowshipped, at least to a degree.  Those who left because they investigated the truth-claims and decided the truth-claims are not sustainable are susceptible to being classified as “false prophets”, “false teachers”, or “faith-killers” (or alternatively, “deceiver”, “anti-Christ”, or “apostate”).  Those who are willing and able to share <em>why</em> they think the Church truth-claims do not hold up, <em>ought</em> to be shunned—according to Ballard and Asay—and these constitute the <em>majority</em> of those who leave the LDS Church.</p>
-<h2 id="shunning-sleight-of-hand">Shunning sleight of hand</h2>
+<h2 id="shunning-sleight-of-hand">Shunning sleight of hand<a class="zola-anchor" href="#shunning-sleight-of-hand" aria-label="Anchor link for: shunning-sleight-of-hand"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The quote from the introduction used as an example of inclusivity in LDS teachings was from Elder Ballard’s General Conference address on false prophets and false teachers.  I will reproduce it here:</p>
 <blockquote>
 <p>Let us reach out in friendship and love to our neighbors, including those of other faiths, thus helping to build better family-to-family relationships and greater harmony in our neighborhoods. Remember, too often our behavior is a bigger deterrent to others than is our doctrine. In the spirit of love for <strong>all</strong> men, women, and children, <strong>help them to understand and to feel accepted and appreciated</strong>. (emphasis added)</p>
@@ -205,14 +306,17 @@
 <p>Let us remember that it is our duty to be faithful to the restored truths of the gospel of Jesus Christ. It takes faith—real faith, total and unreserved—to accept and strive to live prophetic counsel. Lucifer, the adversary of truth, does not want us to feel or exhibit that kind of faith. He encourages disobedience, planting defiance in the hearts of the unwary. If he is successful, they will turn away from the light into the darkness of the world. Our safety, our peace, lies in working as hard as we can to live as the Father and Son would have us live, <strong>in fleeing from false prophets and false teachers</strong>, and in being anxiously engaged in good causes. (emphasis added)</p>
 </blockquote>
 <p>So, members are taught to help “<em>all</em> men, women, and children … feel accepted and appreciated” <em>but</em> to simultaneously “flee” from false prophets and false teachers—and most former members easily qualify as such.<sup class="footnote-reference" id="fr-outofexistence-1"><a href="/a_careful_examination/the-shunning-key/#fn-outofexistence">[7]</a></sup></p>
-<h2 id="penetrance-in-lds-thought-and-action">Penetrance in LDS thought and action</h2>
+<h2 id="penetrance-in-lds-thought-and-action">Penetrance in LDS thought and action<a class="zola-anchor" href="#penetrance-in-lds-thought-and-action" aria-label="Anchor link for: penetrance-in-lds-thought-and-action"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The pattern of shunning those who speak openly about why they do not believe in the Church’s truth claims is followed in nearly all official LDS material.  I’m aware of only one exception—a story by Elder Uchtdorf about an ex-member “David” who debated with members online and was converted through the patient efforts of “Jacob.”<sup class="footnote-reference" id="fr-davidandjacob-1"><a href="/a_careful_examination/the-shunning-key/#fn-davidandjacob">[8]</a></sup></p>
 <p>Besides the story of “David” and “Jacob” given by Elder Uchtdorf, I am not aware of a single instance in Church produced material when someone who openly discusses their rationale for rejecting Church truth-claims is reached out to for fellowship (much less engaged with in substantive discussion).<sup class="footnote-reference" id="fr-pleasesendmaterial-1"><a href="/a_careful_examination/the-shunning-key/#fn-pleasesendmaterial">[9]</a></sup>  As presented in official Church material, all former members who are fellowshipped either have no intellectual justification for leaving or are completely silent about their rationale.<sup class="footnote-reference" id="fr-pleasesendmaterial2-1"><a href="/a_careful_examination/the-shunning-key/#fn-pleasesendmaterial2">[10]</a></sup></p>
 <p>The seventh temple recommend question is a good example of this attitude generally.  The question <a rel="external" href="http://lds4u.com/lesson5/templequestions.htm">asks members</a>: “Do you support, affiliate with, or agree with any group or individual whose teachings or practices are contrary to or oppose those accepted by the Church of Jesus Christ of Latter-day Saints?” which strongly implies that such affiliation is to be avoided or one is not worthy of entrance into the temple.</p>
-<h3 id="spotty-in-practice">Spotty in practice</h3>
+<h3 id="spotty-in-practice">Spotty in practice<a class="zola-anchor" href="#spotty-in-practice" aria-label="Anchor link for: spotty-in-practice"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Ecclesiastical discipline of individuals who have spoken out about their disbelief generally follows the trend described above.  To the degree they speak out and adopt the points outlined by Ballard and Asay is generally the degree to which the individual is likely to be shunned (or their likelihood of excommunication for openly disagreeing with the Church<sup class="footnote-reference" id="fr-excommunicationexamples-1"><a href="/a_careful_examination/the-shunning-key/#fn-excommunicationexamples">[11]</a></sup>).</p>
 <p>Although many members shun “faith-killers” to some degree, other members either ignore or are not aware of Ballard’s and Asays direction (or similar directives in Church literature).   These other members follow the <em>preponderance</em> of messages focused on the inclusive and embracing aspects of the Gospel message and lean towards these when deciding how to treat former members.<sup class="footnote-reference" id="fr-threefold-1"><a href="/a_careful_examination/the-shunning-key/#fn-threefold">[12]</a></sup>  The tension between avoiding those who speak openly about their disbelief (and protecting others from their influence) and loving and accepting those individuals is demonstrated in the 2014 FAIR (then known as “FairMormon”) panel discussion <a rel="external" href="https://web.archive.org/web/20170429021558/https://www.fairmormon.org/conference/august-2014/panel-discussion-family-members-left">Family Members Who Left</a>.</p>
-<h2 id="moving-forward">Moving Forward</h2>
+<h2 id="moving-forward">Moving Forward<a class="zola-anchor" href="#moving-forward" aria-label="Anchor link for: moving-forward"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Mormon Newsroom, in speaking about dialog with those of different religions and those without religion, <a rel="external" href="http://www.mormonnewsroom.org/article/pew-study-faith-talk#prclt-R2XpUabP">offer up this wisdom</a>:</p>
 <blockquote>
 <p>We generally avoid controversial topics (such as politics, money or religion) at the dinner table. But this can be problematic because if believers aren’t talking faith with family and friends — especially with those who aren’t religious — we leave the door of misunderstanding wide open…“</p>
@@ -231,7 +335,8 @@ because they no longer accept the truth-claims:</p>
 <p>My answer is please do not preach to them! Your family members or friends already know the Church’s teachings. They don’t need another lecture! What they need—what we all need—is love and understanding, not judging. Share your positive experiences of living the gospel. The most powerful thing you can do is share your spiritual experiences with family and friends. Also, <strong>be genuinely interested in their lives, their successes, and their challenges. Always be warm, gentle, loving, and kind</strong>.</p>
 </blockquote>
 <p>Although the question was narrowly posed (applies to “less actives”), perhaps this signals a general shift in attitude towards those who have left and openly share their rationale for doing so?</p>
-<h2 id="other-relevant-perspectives">Other relevant perspectives</h2>
+<h2 id="other-relevant-perspectives">Other relevant perspectives<a class="zola-anchor" href="#other-relevant-perspectives" aria-label="Anchor link for: other-relevant-perspectives"><i class="fas fa-link"></i></a> 
+</h2>
 <p>These resources address—from a variety of viewpoints—the question of how Latter-day Saints should treat or respond to former or dis-believing members or otherwise discuss the topic of shunning in the LDS Church.</p>
 <ul>
 <li>Saints Unscripted: Should Mormons SHUN people who leave the Church? (<a rel="external" href="https://www.youtube.com/watch?v=_9-G6fAI10M">youtube</a>)</li>
@@ -327,16 +432,15 @@ because they no longer accept the truth-claims:</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -351,105 +455,9 @@ because they no longer accept the truth-claims:</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

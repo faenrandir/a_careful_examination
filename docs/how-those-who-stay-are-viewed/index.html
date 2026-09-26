@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Attitude towards those who do not believe but stay | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Attitude towards those who do not believe but stay | A Careful Examination</title>
+<meta property="og:title" content="Attitude towards those who do not believe but stay | A Careful Examination" />
+<meta name="twitter:title" content="Attitude towards those who do not believe but stay | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/how-those-who-stay-are-viewed/">
-  
+  <meta property="og:url" content="/a_careful_examination/how-those-who-stay-are-viewed/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Attitude towards those who do not believe but stay</h1>
@@ -103,40 +219,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#lack-moral-courage-intellectual-integrity-and-honor">lack moral courage, intellectual integrity, and honor</a></li>
-        
-          <li><a href="#wrest-the-scriptures">wrest the scriptures</a></li>
-        
-          <li><a href="#are-the-worst-enemies-of-the-church-and-poison-minds">are the worst enemies of the Church and poison minds</a></li>
-        
-          <li><a href="#are-worse-than-a-den-of-serpents">are worse than a den of serpents</a></li>
-        
-          <li><a href="#are-acting-as-a-satanic-trap-for-the-faithful">are acting as a Satanic trap for the faithful</a></li>
-        
-          <li><a href="#other-resources">Other resources</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[Need to add in discussion of Holland about those who do not believe but stay, which is friendly]</p>
+  
+  
+
+  <div class="post-content">
+    <p>[Need to add in discussion of Holland about those who do not believe but stay, which is friendly]</p>
 <p>Church leaders have spoken openly and strongly about those who stay in the Church but do not believe in it.<sup class="footnote-reference" id="fr-fromtruthwillprevail-1"><a href="/a_careful_examination/how-those-who-stay-are-viewed/#fn-fromtruthwillprevail">[1]</a></sup>  These people are sometimes referred to as “wolves in sheeps clothing”.</p>
 <p><em>Individuals who stay in the Church, doubt foundational truth-claims or current policies, and share these views with others…</em></p>
-<h3 id="lack-moral-courage-intellectual-integrity-and-honor">lack moral courage, intellectual integrity, and honor</h3>
+<h3 id="lack-moral-courage-intellectual-integrity-and-honor">lack moral courage, intellectual integrity, and honor<a class="zola-anchor" href="#lack-moral-courage-intellectual-integrity-and-honor" aria-label="Anchor link for: lack-moral-courage-intellectual-integrity-and-honor"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>No man or woman is a true member of the Church who does not fully accept the First Vision, just as no man is a Christian who does not accept, first, the Fall of Adam, and second, the Atonement of Jesus Christ. Any titular Church member who does not accept the First Vision but who continues to pose as a Church member, lacks not only moral courage but intellectual integrity and honor if he does not avow himself an apostate and discontinue going about the Church, and among the youth particularly, as a Churchman, teaching not only lack-faith but faith-destroying doctrines. He is a true wolf in sheep’s clothing.</p>
 </blockquote>
 <p>“<a rel="external" href="http://emp.byui.edu/marrottr/ClarkWhenAreWritings.pdf">When Are the Writings or Sermons of Church Leaders Entitled to the Claim of Scripture?</a>” part of an address delivered 7 July 1954 at Brigham Young University</p>
-<h3 id="wrest-the-scriptures">wrest the scriptures</h3>
+<h3 id="wrest-the-scriptures">wrest the scriptures<a class="zola-anchor" href="#wrest-the-scriptures" aria-label="Anchor link for: wrest-the-scriptures"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Several publications are now being circulated about the Church which defend and promote gay or lesbian conduct. They wrest the scriptures, attempting to prove that these impulses are inborn, cannot be overcome, and should not be resisted, and that therefore such conduct has a morality of its own. They quote scriptures to justify perverted acts between consenting adults. That same logic would justify incest or the molesting of little children of either gender. Neither the letter nor the spirit of moral law condones any such conduct.</p>
 </blockquote>
@@ -147,7 +244,8 @@
 <p>Some choose to reject the scriptures out of hand and forsake their covenants. But they cannot choose to avoid the consequences. That choice is not theirs or ours or anybody’s.</p>
 </blockquote>
 <p>Boyd K. Packer. General Conference, October 1990. <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1990/10/covenants?lang=eng">Covenants</a></p>
-<h3 id="are-the-worst-enemies-of-the-church-and-poison-minds">are the worst enemies of the Church and poison minds</h3>
+<h3 id="are-the-worst-enemies-of-the-church-and-poison-minds">are the worst enemies of the Church and poison minds<a class="zola-anchor" href="#are-the-worst-enemies-of-the-church-and-poison-minds" aria-label="Anchor link for: are-the-worst-enemies-of-the-church-and-poison-minds"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>The greatest and worst enemies we have of the Church are those within our ranks whom we haven’t caught up with yet.</p>
 </blockquote>
@@ -155,12 +253,14 @@
 <p>I sat in with one of our teachers who was rebelling. He’d written a text to be used in the institutes and when it was turned down and was not acceptable because it was not correct, he just campaigned. He now has such a rank apostate attitude that he declares that he doesn’t believe the Church was organized as section 20 of the Doctrine and Covenants says it was. He doesn’t believe that Joseph Smith had the Vision as he testified he had. He thinks the Book of Mormon was written by somebody, but he doesn’t know who. He is irritated by things that go on in the temple and the temple endowments and so on. Now all the spleen and the ugliness of his soul come out when he’s no longer retained as a teacher, but while he was there, how many minds he poisoned.</p>
 </blockquote>
 <p>“Viewpoint of a Giant,” Summer School Devotional Address, Department of Seminaries and Institutes of Religion, Brigham Young University, July 18, 1968, 5.</p>
-<h3 id="are-worse-than-a-den-of-serpents">are worse than a den of serpents</h3>
+<h3 id="are-worse-than-a-den-of-serpents">are worse than a den of serpents<a class="zola-anchor" href="#are-worse-than-a-den-of-serpents" aria-label="Anchor link for: are-worse-than-a-den-of-serpents"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>May I speak boldly of a few of the dangers of today. There have been some institute teachers in the past who have sometimes been allowed to go too long unchallenged in their unorthodox teachings. We should have retired them long before they were released from service. We have today in the Church, some students who were under some of these teachers of that particular time who have lost the faith; and parents in tears have lamented the day they ever allowed their child to be under the influence of a teacher who had no testimony. It reminded me of what President Karl G. Maeser used to say. “I would rather a child of mine be in a den of serpents than under the influence of a teacher who has no faith in God.” And we have had some.</p>
 </blockquote>
 <p>“Viewpoint of a Giant,” Summer School Devotional Address, Department of Seminaries and Institutes of Religion, Brigham Young University, July 18, 1968, 5.</p>
-<h3 id="are-acting-as-a-satanic-trap-for-the-faithful">are acting as a Satanic trap for the faithful</h3>
+<h3 id="are-acting-as-a-satanic-trap-for-the-faithful">are acting as a Satanic trap for the faithful<a class="zola-anchor" href="#are-acting-as-a-satanic-trap-for-the-faithful" aria-label="Anchor link for: are-acting-as-a-satanic-trap-for-the-faithful"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>One more item and I shall conclude. There is a worldly threat to our theological teaching and to the faith of youth. Sporadically it has always been so, but in recent years it is more pronounced. This is not a frontal attack by the foe. We have never had too much difficulty in meeting open charges or criticisms. The foe is striking from ambush, with snipers and fifth columnists, with traps for the unwary.</p>
 </blockquote>
@@ -171,7 +271,8 @@
 <p>Unfortunately, some people within the Church subscribing to these views do not realize that they are falling into a trap themselves. They are giving aid and comfort to the foe; they are undermining their own testimonies and those of others, I warn the Church against them, and I warn them against themselves; and I plead with them to desist, to abandon their agnostic discussions, and to join with the faithful in promoting the cause which in their hearts they once loved, and I think they still love.</p>
 </blockquote>
 <p>Conference Report, October 1951, 116. <a rel="external" href="http://scriptures.byu.edu/gettalk.php?ID=551">Awake, Ye Defenders of Zion</a></p>
-<h2 id="other-resources">Other resources</h2>
+<h2 id="other-resources">Other resources<a class="zola-anchor" href="#other-resources" aria-label="Anchor link for: other-resources"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/how-those-who-leave-are-viewed/">How those who leave are viewed</a></li>
 </ul>
@@ -183,16 +284,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -207,105 +307,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

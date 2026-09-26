@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Finding Truth: Response to &#39;8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Finding Truth: Response to &#39;8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints | A Careful Examination</title>
+<meta property="og:title" content="Finding Truth: Response to &#39;8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints | A Careful Examination" />
+<meta name="twitter:title" content="Finding Truth: Response to &#39;8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-8-anti-mormon-tactics-gogogoff/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-8-anti-mormon-tactics-gogogoff/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Finding Truth: Response to &#39;8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints</h1>
@@ -93,46 +209,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#1-half-truths">1. Half truths</a></li>
-        
-          <li><a href="#2-irrelevant-appeals">2. Irrelevant Appeals</a></li>
-        
-          <li><a href="#3-argumentum-ad-hominem-personal-attacks">3.  Argumentum ad hominem (personal attacks)</a></li>
-        
-          <li><a href="#4-argumentum-ad-lapidem-appeals-to-the-stone">4. Argumentum Ad Lapidem (Appeals to the Stone)</a></li>
-        
-          <li><a href="#5-argumentum-ad-verecundiam-appeals-to-authority">5. Argumentum Ad Verecundiam (Appeals to Authority)</a></li>
-        
-          <li><a href="#6-false-dilemma">6. False Dilemma</a></li>
-        
-          <li><a href="#7-argumentum-ad-populum-appeals-to-the-people">7. Argumentum Ad Populum (Appeals to the People)</a></li>
-        
-          <li><a href="#8-hasty-generalizations">8. Hasty Generalizations</a></li>
-        
-          <li><a href="#9-conclusion">(9.) Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>In March of 2017, MyLifeByGogoGoff published a piece entitled <a rel="external" href="http://mylifebygogogoff.com/2017/03/8-anti-mormon-tactics-that-satan-uses-to-attack-the-latter-day-saints.html">8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints</a>.  The piece was then <a rel="external" href="http://www.ldsdaily.com/personal-lds-blog/8-anti-mormon-tactics-satan-uses-attack-latter-day-saints/">reblogged by LDS Living</a>.</p>
+  
+  
+
+  <div class="post-content">
+    <p>In March of 2017, MyLifeByGogoGoff published a piece entitled <a rel="external" href="http://mylifebygogogoff.com/2017/03/8-anti-mormon-tactics-that-satan-uses-to-attack-the-latter-day-saints.html">8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints</a>.  The piece was then <a rel="external" href="http://www.ldsdaily.com/personal-lds-blog/8-anti-mormon-tactics-satan-uses-attack-latter-day-saints/">reblogged by LDS Living</a>.</p>
 <p>I am certainly no expert logician, but I have taken a couple philosophy courses, and I spent many years in the sciences attempting to avoid committing the logical fallacies the author discusses.  I offer brief reflection on and some counterpoint to these 8 points.</p>
-<h3 id="1-half-truths">1. Half truths</h3>
+<h3 id="1-half-truths">1. Half truths<a class="zola-anchor" href="#1-half-truths" aria-label="Anchor link for: 1-half-truths"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I agree wholeheartedly that we should avoid believing in half-truths and lies.</p>
 <p>I also agree that much literature critical of the LDS Church is not nearly careful enough in how it represents the data, and it often fails to present alternative interpretations.  The same can also be said for much pro-LDS literature and scholarship.  In general, when people engage in debate/dialogue over highly emotional and polarizing topics they tend to be especially biased in how they present their arguments (see, for example, <a rel="external" href="http://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone">this discussion</a> on the polarization of Christian pro-cult/anti-cult scholarship).</p>
 <p>While acknowledging that much anti-LDS literature engages in telling half-truths, LDS leaders themselves have also engaged in misleading and telling half-truths on various occasions.<sup class="footnote-reference" id="fr-misleadingbyldsleaders-1"><a href="/a_careful_examination/response-to-8-anti-mormon-tactics-gogogoff/#fn-misleadingbyldsleaders">[1]</a></sup></p>
 <p>Church leaders appeared to engage in telling half-truths when they felt it was for a higher cause.  Critics of the Church sometimes do the same thing in their haste to point out problems with the Church.  I think we can all agree that nothing less than <em>all</em> the facts—presented honestly, carefully, and as un-biasedly  as possible—is the standard both pro and anti LDS advocates should work to achieve.</p>
 <p>Nobody is bound to accept a half-truth.</p>
-<h3 id="2-irrelevant-appeals">2. Irrelevant Appeals</h3>
+<h3 id="2-irrelevant-appeals">2. Irrelevant Appeals<a class="zola-anchor" href="#2-irrelevant-appeals" aria-label="Anchor link for: 2-irrelevant-appeals"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>When someone testifies that the Book of Mormon is true, Satan will say “But Joseph used a seer stone in a hat!” And? What does that have to do with [whether] or not it is true? It is an irrelevant appeal.  It is a distraction.</p>
 </blockquote>
@@ -146,7 +237,8 @@
 <p>Never let something distract you from your own testimony!</p>
 </blockquote>
 <p>What if the evidence strongly suggests you ought to reconsider your testimony?  For instance, imagine if you tried to provide evidence to a member of the FLDS group that Warren Jeffs was not a prophet or they shouldn’t be practicing polygamy and they refused to consider your arguments by responding: “I should never let something distract me from my own testimony!”</p>
-<h3 id="3-argumentum-ad-hominem-personal-attacks">3.  Argumentum ad hominem (personal attacks)</h3>
+<h3 id="3-argumentum-ad-hominem-personal-attacks">3.  Argumentum ad hominem (personal attacks)<a class="zola-anchor" href="#3-argumentum-ad-hominem-personal-attacks" aria-label="Anchor link for: 3-argumentum-ad-hominem-personal-attacks"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>“Joseph Smith is a Prophet of God.” Then Satan or someone believing his anti, replies “But Joseph Smith did X, Y or Z!” Instead of addressing the question, “Is he or is he not a prophet?”</p>
 </blockquote>
@@ -155,9 +247,11 @@
 <p>Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.  Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?  Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.  A good tree cannot bring forth evil fruit, neither can  a corrupt tree bring forth good fruit.  Every tree that bringeth not forth good fruit is hewn  down, and cast into the fire.  <em>Wherefore by their fruits ye shall know them.</em> (emphasis added)</p>
 </blockquote>
 <p>Generally, an <em>ad hominem</em> argument is considered a logical fallacy when the discussion about the person is unrelated to a discussion about the topic.  However, discussion about Joseph Smith’s character and actions is <em>relevant</em> to a discussion of whether or not he was a genuine prophet of God, so it’s not necessarily a logical fallacy.</p>
-<h3 id="4-argumentum-ad-lapidem-appeals-to-the-stone">4. Argumentum Ad Lapidem (Appeals to the Stone)</h3>
+<h3 id="4-argumentum-ad-lapidem-appeals-to-the-stone">4. Argumentum Ad Lapidem (Appeals to the Stone)<a class="zola-anchor" href="#4-argumentum-ad-lapidem-appeals-to-the-stone" aria-label="Anchor link for: 4-argumentum-ad-lapidem-appeals-to-the-stone"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I agree that sometimes those making critical claims regarding the LDS Church fail to provide justification for why the absurd is also unlikely or untrue.</p>
-<h3 id="5-argumentum-ad-verecundiam-appeals-to-authority">5. Argumentum Ad Verecundiam (Appeals to Authority)</h3>
+<h3 id="5-argumentum-ad-verecundiam-appeals-to-authority">5. Argumentum Ad Verecundiam (Appeals to Authority)<a class="zola-anchor" href="#5-argumentum-ad-verecundiam-appeals-to-authority" aria-label="Anchor link for: 5-argumentum-ad-verecundiam-appeals-to-authority"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Wikipedia defines Argument from Authority like this:</p>
 <blockquote>
 <p>An argument from authority (Latin: argumentum ad verecundiam), also called an appeal to authority, is a common type of argument which can be fallacious, such as when an authority is cited on a topic outside their area of expertise or when the authority cited is not a true expert. On the other hand, a “true expert” can have valuable insight.</p>
@@ -187,15 +281,19 @@
 </blockquote>
 <p>A member of The True and Living Church of Jesus Christ and Saints of the Last Days <a rel="external" href="https://www.youtube.com/watch?v=ycUvC9s4VYA#t=311">received a testimony</a> that their Church is true (a Church that practices polygamy and claims a different prophet at its head).  Imagine trying to have a conversation with this individual and suggesting their spiritual feelings may not mean exactly what they originally thought (for instance, that Thomas S. Monson is the true prophet and not James Harmston and they shouldn’t be practicing polygamy).  What if they were to respond as you did above, “Nothing should ever trump what the Holy Ghost has told me!”?</p>
 <p>This entire discussion about the witness of the Holy Ghost hinges on whether the receipt of powerful, elevating emotions should be interpreted to mean that God is speaking to the individual.  Members of different churches receive powerful witnesses of the truth of their Church (see <a rel="external" href="https://www.youtube.com/watch?v=UJMSU8Qj6Go">here</a> and <a rel="external" href="http://mostcorrectreligionsurvey.weebly.com/">here</a>), suggesting spiritual feelings may not be as sure a guide to truth as we have been taught.<sup class="footnote-reference" id="fr-testimony-1"><a href="/a_careful_examination/response-to-8-anti-mormon-tactics-gogogoff/#fn-testimony">[3]</a></sup></p>
-<h3 id="6-false-dilemma">6. False Dilemma</h3>
+<h3 id="6-false-dilemma">6. False Dilemma<a class="zola-anchor" href="#6-false-dilemma" aria-label="Anchor link for: 6-false-dilemma"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The author wisely urges us to avoid the false dilemma logical fallacy (humans commit this fallacy frequently).  However, given that we apparently have many of the words of God recorded in scripture, it seems fair to point out (apparent) contradictions and suggest that these inconsistencies might indicate, at the very least, that both sets of words were not written by God (this assumes that God won’t contradict himself).  If God says, “A equals B” and then goes on to say “A is not equal to B” then merely stating that “God’s ways are … infinitely superior [to man’s ways]” seems like a bit of a dodge.  Even if his ways are infinitely superior, we don’t expect him to contradict himself.</p>
 <p>The main problem with the argument “we cannot fully understand God, therefore nobody can point out a genuine contradiction in scripture or a belief system”, is that such logic can be used to defend <em>any</em> religious system of thought.  Try telling a Catholic that they don’t have genuine apostolic authority (“Of course we do: God’s ways are not man’s ways!”) or a Jehovah’s Witness that they should question their beliefs because <a rel="external" href="https://en.wikipedia.org/wiki/Watch_Tower_Society_unfulfilled_predictions">their second coming predictions went unfulfilled</a> (“It’s difficult to understand, but God’s ways are not man’s ways”).  Such a defense goes too far.</p>
-<h3 id="7-argumentum-ad-populum-appeals-to-the-people">7. Argumentum Ad Populum (Appeals to the People)</h3>
+<h3 id="7-argumentum-ad-populum-appeals-to-the-people">7. Argumentum Ad Populum (Appeals to the People)<a class="zola-anchor" href="#7-argumentum-ad-populum-appeals-to-the-people" aria-label="Anchor link for: 7-argumentum-ad-populum-appeals-to-the-people"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I agree with the author, we shouldn’t just accept an argument because many people do.  This principle applies equally to Mormons as to non-Mormons.</p>
-<h3 id="8-hasty-generalizations">8. Hasty Generalizations</h3>
+<h3 id="8-hasty-generalizations">8. Hasty Generalizations<a class="zola-anchor" href="#8-hasty-generalizations" aria-label="Anchor link for: 8-hasty-generalizations"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I agree with the author that we need to be careful of extrapolating from one or a few data points.  I personally had a wonderful time as a member and cannot directly relate with many who did not.</p>
 <p>We should also be careful of the reverse hasty generalization:  I had a good experience in the Church, therefore <em>everyone</em> had a good experience in the Church.  Perhaps some people earnestly living the LDS lifestyle and attending Church did not find it as rewarding as I did.</p>
-<h3 id="9-conclusion">(9.) Conclusion</h3>
+<h3 id="9-conclusion">(9.) Conclusion<a class="zola-anchor" href="#9-conclusion" aria-label="Anchor link for: 9-conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>At the end of the day, the only way to detect and prevent Satan’s lies…</p>
 </blockquote>
@@ -241,16 +339,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -265,105 +362,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

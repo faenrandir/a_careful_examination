@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Divine Visitor Problem: Objectivity, intersubjective identity, and identification | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The Divine Visitor Problem: Objectivity, intersubjective identity, and identification | A Careful Examination</title>
+<meta property="og:title" content="The Divine Visitor Problem: Objectivity, intersubjective identity, and identification | A Careful Examination" />
+<meta name="twitter:title" content="The Divine Visitor Problem: Objectivity, intersubjective identity, and identification | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/divine-visitor-identity-problem/">
-  
+  <meta property="og:url" content="/a_careful_examination/divine-visitor-identity-problem/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The Divine Visitor Problem: Objectivity, intersubjective identity, and identification</h1>
@@ -93,42 +209,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#the-divine-visitor-identity-problem">The divine visitor identity problem</a></li>
-        
-          <li><a href="#1-objective-existence">1. Objective existence</a></li>
-        
-          <li><a href="#2-visitor-identity-across-people">2. Visitor identity across people</a></li>
-        
-          <li><a href="#3-identification-of-the-visitor">3. Identification of the visitor</a></li>
-        
-          <li><a href="#potential-solution">Potential solution</a></li>
-        
-          <li><a href="#copious-details">Copious details</a></li>
-        
-          <li><a href="#high-entropy-information-transmission">High-entropy information transmission</a></li>
-        
-          <li><a href="#what-such-a-test-would-establish">What such a test would establish</a></li>
-        
-          <li><a href="#precedent-in-lds-history">Precedent in LDS history</a></li>
-        
-          <li><a href="#a-broader-vetting-problem">A broader vetting problem</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="the-divine-visitor-identity-problem">The divine visitor identity problem</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="the-divine-visitor-identity-problem">The divine visitor identity problem<a class="zola-anchor" href="#the-divine-visitor-identity-problem" aria-label="Anchor link for: the-divine-visitor-identity-problem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>When people report visionary experiences involving divine visitors, there are at least three distinct questions:</p>
 <ol>
 <li>Is the visitor objectively real, or is the experience generated subjectively?</li>
@@ -136,7 +222,8 @@
 <li>If different people are experiencing the same visitor, does that visitor actually correspond to the person they believe it to be (e.g., Jesus of Nazareth)?</li>
 </ol>
 <p>These questions are logically distinct.</p>
-<h3 id="1-objective-existence">1. Objective existence</h3>
+<h3 id="1-objective-existence">1. Objective existence<a class="zola-anchor" href="#1-objective-existence" aria-label="Anchor link for: 1-objective-existence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Suppose person A sees a visionary being:</p>
 <pre><code>A -&gt; V
 </code></pre>
@@ -148,7 +235,8 @@
 </code></pre>
 <p>The distinction is difficult to establish from A’s experience alone. Human experience is necessarily mediated through subjective perception, and some subjective experiences can be indistinguishable from ordinary perception to the person experiencing them.</p>
 <p>One useful distinction is between experiences that have the usual hallmarks of objectivity and those that do not. Experiences that have high information content, orthogonality, transmissibility, and reproducibility tend to be treated as features of an external world rather than as purely subjective phenomena.</p>
-<h3 id="2-visitor-identity-across-people">2. Visitor identity across people</h3>
+<h3 id="2-visitor-identity-across-people">2. Visitor identity across people<a class="zola-anchor" href="#2-visitor-identity-across-people" aria-label="Anchor link for: 2-visitor-identity-across-people"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Suppose A and B both report seeing Jesus.</p>
 <p>The naïve interpretation is:</p>
 <pre><code>A -&gt; V &lt;- B
@@ -161,7 +249,8 @@ B -&gt; Vᵦ
 </code></pre>
 <p>For example, A might see a red-robed, Caucasian-looking Jesus while B sees an Arabic-looking Jesus. Both may identify what they experienced as “Jesus,” without actually experiencing the same entity.</p>
 <p>More generally, agreement on a category or general description is weak evidence of shared identity. The relevant question is whether the experiences contain enough independently verifiable information to establish that the same entity was present in both cases.</p>
-<h3 id="3-identification-of-the-visitor">3. Identification of the visitor</h3>
+<h3 id="3-identification-of-the-visitor">3. Identification of the visitor<a class="zola-anchor" href="#3-identification-of-the-visitor" aria-label="Anchor link for: 3-identification-of-the-visitor"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Even if we establish that A and B encountered the same objectively existing entity, another question remains:</p>
 <pre><code>A -&gt; V &lt;- B
 
@@ -169,10 +258,12 @@ V ?= Jesus of Nazareth
 </code></pre>
 <p>An objectively real and stable visitor need not be the person the visitor is presumed to be.</p>
 <p>Thus, evidence that a visitor is objectively real does not by itself establish that the visitor is Jesus; and evidence that two people encountered the same visitor does not establish that the visitor is Jesus.</p>
-<h3 id="potential-solution">Potential solution</h3>
+<h3 id="potential-solution">Potential solution<a class="zola-anchor" href="#potential-solution" aria-label="Anchor link for: potential-solution"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In general, we are seeking methods that identify a visitor with great precision. The greater the information content we can associate with a given visitor that can be independently verified, the greater our confidence that the visitor is the <em>same</em> visitor across encounters with different people.</p>
 <p>“Real-world” transactions regularly exhibit this kind of high-information transfer. If divine beings are objectively real, we would prima facie expect their interactions with the physical world to exhibit at least some of the same properties: information content, orthogonality, transmissibility, and reproducibility.</p>
-<h3 id="copious-details">Copious details</h3>
+<h3 id="copious-details">Copious details<a class="zola-anchor" href="#copious-details" aria-label="Anchor link for: copious-details"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A simple way to test the objective and intersubjective nature of these experiences would be for participants to independently record as many details of the visitor as possible.</p>
 <p>For example, A and B could separately record:</p>
 <ul>
@@ -188,7 +279,8 @@ V ?= Jesus of Nazareth
 <p>If the reports contain a large number of matching, independently verifiable details—especially trivial or unexpected details where there are many possible alternatives—this would provide some evidence that the two participants encountered the same visitor.</p>
 <p>Conversely, substantial disparities would suggest either that the visitors were different or that the experiences were substantially constructed by the individual observers.</p>
 <p>This would not establish objectivity with certainty. Two people can share expectations, information, cultural imagery, or other sources of correlation. But sufficiently detailed and unexpected agreement would be considerably stronger evidence than merely reporting that both people “saw Jesus.”</p>
-<h3 id="high-entropy-information-transmission">High-entropy information transmission</h3>
+<h3 id="high-entropy-information-transmission">High-entropy information transmission<a class="zola-anchor" href="#high-entropy-information-transmission" aria-label="Anchor link for: high-entropy-information-transmission"><i class="fas fa-link"></i></a> 
+</h3>
 <p>An even stronger test would use information that the participants could not plausibly have generated from shared expectations.</p>
 <p>One of the key features of our objective experience is durable information transfer. I can deliver a message to another person, and that person can deliver the message to a third person. The third person can then relay the information back to me. We can repeat this process with very high-information messages with little or no degradation.</p>
 <p>This gives us a potentially powerful test for an alleged divine visitor.</p>
@@ -201,7 +293,8 @@ V ?= Jesus of Nazareth
 <p>If the visitor successfully transmitted the same randomly generated message to B, and B subsequently returned it to A, this would be strong evidence that the information originated from some source external to A’s subjective experience.</p>
 <p>The test can be made arbitrarily more discriminating by increasing the entropy of the message and controlling the possible information channels between the participants.</p>
 <p>This is importantly different from merely asking two people whether they “felt the Spirit” or whether they saw similar things. The latter provides relatively little information with which to distinguish a shared external cause from independently generated subjective experiences. A successful high-entropy information transfer would provide substantially more.</p>
-<h3 id="what-such-a-test-would-establish">What such a test would establish</h3>
+<h3 id="what-such-a-test-would-establish">What such a test would establish<a class="zola-anchor" href="#what-such-a-test-would-establish" aria-label="Anchor link for: what-such-a-test-would-establish"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A successful test would not establish everything one might want to know about a visitor.</p>
 <p>It could provide evidence for:</p>
 <ul>
@@ -217,7 +310,8 @@ V ?= Jesus of Nazareth
 <li>that the visitor is Jesus of Nazareth.</li>
 </ul>
 <p>Those are additional claims requiring additional evidence.</p>
-<h3 id="precedent-in-lds-history">Precedent in LDS history</h3>
+<h3 id="precedent-in-lds-history">Precedent in LDS history<a class="zola-anchor" href="#precedent-in-lds-history" aria-label="Anchor link for: precedent-in-lds-history"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Latter-day Saints who might be inclined to regard such procedures as absurd may consider that early LDS leaders were genuinely interested in methods for distinguishing genuine divine messengers from deceptive ones.</p>
 <ul>
 <li>
@@ -228,7 +322,8 @@ V ?= Jesus of Nazareth
 </li>
 </ul>
 <p>These examples do not establish the validity of any particular modern test. They do, however, illustrate that the underlying epistemic problem is recognizably LDS: if supernatural messengers can appear, then it is reasonable to ask how one can distinguish a genuine messenger from a false or deceptive one.</p>
-<h3 id="a-broader-vetting-problem">A broader vetting problem</h3>
+<h3 id="a-broader-vetting-problem">A broader vetting problem<a class="zola-anchor" href="#a-broader-vetting-problem" aria-label="Anchor link for: a-broader-vetting-problem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The identity problem is actually part of a larger problem.</p>
 <p>If a person believes that they are receiving communication from a third party, there are at least four questions:</p>
 <ol>
@@ -239,7 +334,8 @@ V ?= Jesus of Nazareth
 </ol>
 <p>The first question is prior to the others. If the apparent visitor is entirely subjective, then claims about its knowledge, authority, or benevolence cannot straightforwardly be attributed to an external being.</p>
 <p>The stakes also make this more than an abstract epistemological exercise. A purported divine communication can acquire considerably more authority than an ordinary thought precisely because the recipient believes it comes from an external, superior agent. Consequently, errors in attribution can have consequences that ordinary mistakes in introspection do not.</p>
-<h3 id="conclusion">Conclusion</h3>
+<h3 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The central problem is therefore not simply:</p>
 <blockquote>
 <p>“Did you see Jesus?”</p>
@@ -255,16 +351,15 @@ V ?= Jesus of Nazareth
 <hr />
 <p><em>Acknowledgement: bwv549 was the author of these ideas, but ChatGPT refined and reorganized the ideas a bit, particularly the distinction between objective existence, cross-observer identity, and identification of the visitor, and it tweaked the formulation of the high-entropy information-transfer test very slightly.</em></p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -279,105 +374,9 @@ V ?= Jesus of Nazareth
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

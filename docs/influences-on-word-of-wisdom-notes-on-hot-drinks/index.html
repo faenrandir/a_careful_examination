@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Influences on the Word of Wisdom: Hot Drinks | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Influences on the Word of Wisdom: Hot Drinks | A Careful Examination</title>
+<meta property="og:title" content="Influences on the Word of Wisdom: Hot Drinks | A Careful Examination" />
+<meta name="twitter:title" content="Influences on the Word of Wisdom: Hot Drinks | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/influences-on-word-of-wisdom-notes-on-hot-drinks/">
-  
+  <meta property="og:url" content="/a_careful_examination/influences-on-word-of-wisdom-notes-on-hot-drinks/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Influences on the Word of Wisdom: Hot Drinks</h1>
@@ -103,13 +219,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[just some random notes]</p>
-<h3 id="discussion-in-the-journal-of-discourse">Discussion in the Journal of Discourse</h3>
+  
+  
+
+  <div class="post-content">
+    <p>[just some random notes]</p>
+<h3 id="discussion-in-the-journal-of-discourse">Discussion in the Journal of Discourse<a class="zola-anchor" href="#discussion-in-the-journal-of-discourse" aria-label="Anchor link for: discussion-in-the-journal-of-discourse"><i class="fas fa-link"></i></a> 
+</h3>
 <p>We have heard considerable of late, especially since twelve months today, on the subject of the Word of Wisdom. Almost every elder who has spoken from this stand has felt the necessity and importance of calling the attention of the people to this subject. We are told, and very plainly too, that hot drinks—tea, coffee, chocolate, cocoa, and all drinks of this kind are not good for man. (Elder George Q. Cannon, 1868 <a rel="external" href="http://jod.mrm.org/12/221">Journal of Discourses vol. 12, pg 221</a>)</p>
-<h3 id="paul-peterson-s-masters-thesis">Paul Peterson’s Masters Thesis</h3>
+<h3 id="paul-peterson-s-masters-thesis">Paul Peterson’s Masters Thesis<a class="zola-anchor" href="#paul-peterson-s-masters-thesis" aria-label="Anchor link for: paul-peterson-s-masters-thesis"><i class="fas fa-link"></i></a> 
+</h3>
 <p>An Historical Analysis of the Word of Wisdom (Masters Thesis by Paul H. Peterson, August 1972) (<a rel="external" href="https://scholarsarchive.byu.edu/etd/5039/">scholars archive</a>)</p>
 <blockquote>
 <p>Apparently by the mid-1830’s it was well-understood that “hot drinks” specifically referred to tea and coffee.  In 1833 a Sister Brown apostatized from the Church, giving as one of her reasons that Joseph Smith’s wife had offered her a cup of tea or coffee after a long, arduous journey.[2]  In 1835, two Mormon missionaries, Wilford Woodruff and Harry Brown, surprised a Mr.  Jerrew and his wife by not drinking coffee.[3]  That same year William W. Phelps noted that the Kirtland Saints were living the Word of Wisdom and refraining from tea and coffee.[4]  The minutes of ecclesiastical trials of prominent Mormons at Far West, Missouri provide additional evidence that abstinence from these articles was stressed.  Oliver Cowdery justified drinking tea for health purposes, while David and John Whitmer claimed they used tea and coffee but never considered them to be hot drinks.[5]  Lyman Johnson was also charged with drinking tea and coffee, as well as whiskey,[6] and at Far West the Saints voted to not support stores selling these items.[7]</p>
@@ -126,22 +245,22 @@
 <li>[7] Joseph Smith, History of the Church of Jesus Christ of Latter-day Saints, ed. B. H. Roberts (2nd. ed. ref.; Salt Lake City: Deseret Book Co., 1967), II, 524, hereafter cited as Smith, History of the Church.</li>
 <li>[8] Madge E. Pickard and R. Carlyle Buley, The Midwest Pinoeer–His Ills, Cures, and Doctores (Crawfordsville, Indiana: R. E. Banta, 1945), pp. 35-97, provides an excellent treatment of frontier medicinal procedures and curatives.</li>
 </ul>
-<h3 id="tea-in-the-uk">Tea in the UK</h3>
+<h3 id="tea-in-the-uk">Tea in the UK<a class="zola-anchor" href="#tea-in-the-uk" aria-label="Anchor link for: tea-in-the-uk"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.tea.co.uk/a-social-history">this resource on tea in the UK</a>:</p>
 <blockquote>
 <p>In 1706 a book by a doctor from Montpelier, France, was translated into English. Its title: Wholesome Advice against the Abuse of Hot Liquors’. Its particular targets were tea, coffee and hot chocolate. In the late seventeenth century, great medicinal claims had been made for hot drinks, including tea, and this book was a response to them, arguing that though while moderate consumption could be beneficial, an excess of hot drinks caused the blood and insides to heat up and that ‘Excess of Heat is the most Common Cause of Sickness and Death’. Indeed, noted the doctor, ‘The name of Phlegeton, one of the rivers of Hell, coming from a word that signifies to Burn, denotes, That the Abuse of Hot Liquors contributes very much to People the Kingdom of Death’. Medical science at the time was so basic that the ‘evidence’ presented in the book was based largely upon vague anatomical knowledge and references to Bible stories and classical Greek and Roman texts. It is noted, for example, that Methuselah, the Old Testament figure who lived almost a thousand years, never drank hot liquors.</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -156,105 +275,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

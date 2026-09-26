@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Chronology: “You can leave but you can&#39;t leave it alone” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Chronology: “You can leave but you can&#39;t leave it alone” | A Careful Examination</title>
+<meta property="og:title" content="Chronology: “You can leave but you can&#39;t leave it alone” | A Careful Examination" />
+<meta name="twitter:title" content="Chronology: “You can leave but you can&#39;t leave it alone” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/chronology-cant-leave-it-alone/">
-  
+  <meta property="og:url" content="/a_careful_examination/chronology-cant-leave-it-alone/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Chronology: “You can leave but you can&#39;t leave it alone”</h1>
@@ -103,11 +219,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[pre-draft form]</p>
-<h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[pre-draft form]</p>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A refrain spoken by members of the Church of Jesus Christ of Latter-day
 Saints when referring to former members is “they can leave, but they can’t
 leave it alone.”</p>
@@ -120,13 +238,16 @@ the Bible and Restoration scripture. The chronology begins with reminiscent
 scripture verses, then moves into usage of the 1892 account that is very
 similar, and finally documents instances where leaders used the phrase itself
 beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
-<h1 id="chronology">Chronology</h1>
-<h2 id="potential-scriptural-precedent">Potential Scriptural Precedent</h2>
+<h1 id="chronology">Chronology<a class="zola-anchor" href="#chronology" aria-label="Anchor link for: chronology"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="potential-scriptural-precedent">Potential Scriptural Precedent<a class="zola-anchor" href="#potential-scriptural-precedent" aria-label="Anchor link for: potential-scriptural-precedent"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The following are scriptures reminiscent of the phrase <a rel="external" href="https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html">identified by LDS scholar Blair Hodges</a>. Hodges does caution:</p>
 <blockquote>
 <p>There is also some precedence in LDS scripture for the idea that “apostates” have sinned, though I believe taking the verses too literally is problematic</p>
 </blockquote>
-<h3 id="luke-11-taketh-to-him-other-spirits-more-wicked-than-himself-state-of-that-man-is-worse-than-the-first">Luke 11, “taketh to him … other spirits more wicked than himself … state of that man is worse than the first”</h3>
+<h3 id="luke-11-taketh-to-him-other-spirits-more-wicked-than-himself-state-of-that-man-is-worse-than-the-first">Luke 11, “taketh to him … other spirits more wicked than himself … state of that man is worse than the first”<a class="zola-anchor" href="#luke-11-taketh-to-him-other-spirits-more-wicked-than-himself-state-of-that-man-is-worse-than-the-first" aria-label="Anchor link for: luke-11-taketh-to-him-other-spirits-more-wicked-than-himself-state-of-that-man-is-worse-than-the-first"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.biblegateway.com/passage/?search=Luke%2011%3A24-26&amp;version=KJV">Luke 11:24-26</a> states:</p>
 <blockquote>
 <p>24 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.</p>
@@ -137,13 +258,15 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <blockquote>
 <p>26 Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first.</p>
 </blockquote>
-<h3 id="alma-24-30-fallen-away-into-sin-and-transgression-their-state-becomes-worse">Alma 24:30 “fallen away into sin and transgression … their state becomes worse”</h3>
+<h3 id="alma-24-30-fallen-away-into-sin-and-transgression-their-state-becomes-worse">Alma 24:30 “fallen away into sin and transgression … their state becomes worse”<a class="zola-anchor" href="#alma-24-30-fallen-away-into-sin-and-transgression-their-state-becomes-worse" aria-label="Anchor link for: alma-24-30-fallen-away-into-sin-and-transgression-their-state-becomes-worse"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=eng&amp;id=30">Alma 24:30</a>:</p>
 <blockquote>
 <p>30 And thus we can plainly discern, that after a people have been once enlightened by the Spirit of God, and have had great knowledge of things pertaining to righteousness, and then have fallen away into sin and transgression, they become more hardened, and thus their state becomes worse than though they had never known these things.</p>
 </blockquote>
 <p>See also 2 Nephi 31:12, “After ye have repented [and been baptised by water and HG] and after this should deny me, it would have been better for you that ye had not known me.” and Alma 9:23, “if they [who have received so many blessings] should fall into transgression, it would be far more tolerable for the Lamanites than for them.”</p>
-<h3 id="d-c-93-38-39-taketh-away-light-and-truth-through-disobedience">D&amp;C 93:38-39 “taketh away light and truth, through disobedience”</h3>
+<h3 id="d-c-93-38-39-taketh-away-light-and-truth-through-disobedience">D&amp;C 93:38-39 “taketh away light and truth, through disobedience”<a class="zola-anchor" href="#d-c-93-38-39-taketh-away-light-and-truth-through-disobedience" aria-label="Anchor link for: d-c-93-38-39-taketh-away-light-and-truth-through-disobedience"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=38-39">D&amp;C 93:38-39</a>:</p>
 <blockquote>
 <p>38 Every spirit of man was innocent in the beginning; and God having redeemed man from the fall, men became again, in their infant state, innocent before God.</p>
@@ -152,14 +275,18 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <p>39 And that wicked one cometh and taketh away light and truth, through disobedience, from the children of men, and because of the tradition of their fathers.</p>
 </blockquote>
 <p>See also D&amp;C 121:17, “those who cry transgression [about “mine anointed”] do it because they are the servants of sin, and are the children of disobedience themselves.“</p>
-<h2 id="leaves-neutral-ground">“leaves neutral ground”</h2>
+<h2 id="leaves-neutral-ground">“leaves neutral ground”<a class="zola-anchor" href="#leaves-neutral-ground" aria-label="Anchor link for: leaves-neutral-ground"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Blair Hodges suggests that Daniel Tyler’s 1892 recounting of Joseph Smith and apostates leaving “neutral ground” is “very similar in meaning” to Maxwell’s quote.</p>
-<h3 id="1892">1892</h3>
+<h3 id="1892">1892<a class="zola-anchor" href="#1892" aria-label="Anchor link for: 1892"><i class="fas fa-link"></i></a> 
+</h3>
 <p>…</p>
 <p>[and a bulleted list of all other uses?]</p>
-<h2 id="can-t-leave-it-alone">“can’t Leave it alone”</h2>
+<h2 id="can-t-leave-it-alone">“can’t Leave it alone”<a class="zola-anchor" href="#can-t-leave-it-alone" aria-label="Anchor link for: can-t-leave-it-alone"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Emboldened text is my own emphasis to capture the usage of the phrase.</p>
-<h3 id="1979-neal-a-maxwell">1979 Neal A. Maxwell</h3>
+<h3 id="1979-neal-a-maxwell">1979 Neal A. Maxwell<a class="zola-anchor" href="#1979-neal-a-maxwell" aria-label="Anchor link for: 1979-neal-a-maxwell"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From his 1979 book All These Things Shall Give Thee Experience, <a rel="external" href="https://archive.org/details/allthesethingssh0000maxw/page/108/mode/2up?q=%22The+Prophet+Joseph+spoke%22">page 108</a>:</p>
 <blockquote>
 <p>… And even though it is true that there must be an “opposition in all things,” none of us has the personal obligation to provide that opposition.</p>
@@ -173,7 +300,8 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <blockquote>
 <p>Strange, <strong>how often defectors leave the Church, but they cannot leave it alone</strong>!</p>
 </blockquote>
-<h3 id="1979-hugh-nibley">1979 Hugh Nibley</h3>
+<h3 id="1979-hugh-nibley">1979 Hugh Nibley<a class="zola-anchor" href="#1979-hugh-nibley" aria-label="Anchor link for: 1979-hugh-nibley"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Nibley’s 1979 Dialogue article <a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N04_31.pdf">How Firm a Foundation! What Makes It So</a>:</p>
 <blockquote>
 <p>If the Church has any first foundation it is the unimpeachable testimony of the individual. Since this is nontransmissable one might dismiss it as irrelevant, an absolute beyond discussion, criticism or demonstration. Even for the individual the testimony comes and goes in accordance with faith and behavior. If it is real, then it is indeed unassailable and imponderable. I cannot force my testimony on you, but there are certain indications to which I might call your attention. People who lose their testimonies and renounce the church or drop out of it, if they are convinced of their position, should be totally indifferent to the folly of their deluded one-time brethren and sisters: if they want to make fools of themselves, that is up to them, but we are intellectually and socially above all that. Well and good, that is how it is in other churches; but here it does not work that way.</p>
@@ -181,7 +309,8 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <blockquote>
 <p>Apostates become sometimes feverishly active, determined to prove to the world and themselves that it is a fraud after all. What is that to them? Apparently it is everything–<strong>it will not let them alone</strong>. At the other end of the scale are those who hold no rancor and even retain a sentimental affection for the Church- -they just don’t believe the Gospel. I know quite a few of them. But <strong>how many of them can leave it alone</strong>? It haunts them all the days of their life. No one who has ever had a testimony ever forgets or denies that he once did have it–that it was something that really happened to him. Even for such people who do not have it any more, a testimony cannot be reduced to an illusion.</p>
 </blockquote>
-<h3 id="1980-neal-a-maxwell">1980 Neal A. Maxwell</h3>
+<h3 id="1980-neal-a-maxwell">1980 Neal A. Maxwell<a class="zola-anchor" href="#1980-neal-a-maxwell" aria-label="Anchor link for: 1980-neal-a-maxwell"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From his November 1980 General Conference talk <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/1980/11/the-net-gathers-of-every-kind?lang=eng">“The Net Gathers of Every Kind”</a>:</p>
 <blockquote>
 <p>… Newcomers, you may even see a few <strong>leave the Church who cannot then leave the Church alone</strong>. Let these few departees take their brief bows in the secular spotlight; someday they will bow deeply before the throne of the Almighty, confessing that Jesus is the Christ and that this is his work. Meanwhile, be unsurprised if, as the little stone seen by Daniel rolls relentlessly forth, some seek to chip away at it (see Dan. 2).</p>
@@ -189,12 +318,14 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <blockquote>
 <p>Happily, mingled among the hundreds of thousands of “recruits” will be precious returnees who, like the prodigal son, have come to their senses (see Luke 15:11–32). Filled with tender resolve, they, too, need a warm welcome. Let us emulate the father of the prodigal son, who ran to greet his son while the son was still a great distance away, rather than waiting passively and then skeptically asking the son if he had merely come home to pick up his things! …</p>
 </blockquote>
-<h3 id="1984-james-e-faust">1984 James E. Faust</h3>
+<h3 id="1984-james-e-faust">1984 James E. Faust<a class="zola-anchor" href="#1984-james-e-faust" aria-label="Anchor link for: 1984-james-e-faust"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From his April 1983 General Conference talk <a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/1983/04/enriching-family-life?lang=eng">“Enriching Family Life”</a></p>
 <blockquote>
 <p>Among the assaults on families are the attacks on our faith, for which parents should prepare their children. Some of it is coming from apostates who had testimonies and now seem unable to leave the Church alone. One, complaining of Church policy, was heard to say: “I am so mad: if I had been paying my tithing I would quit.” Persecution is not new to the devoted followers of Christ. More recently, however, the anger and venom of our enemies seems to be increasing. Brigham Young said, “We never began to build a temple without the bells of hell beginning to ring.” (Discourses of Brigham Young, sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1973, p. 410.) With twenty-two temples under construction or in the planning stage, there seems to be a lot of bells to be rung.</p>
 </blockquote>
-<h3 id="1989-glen-l-pace">1989 Glen L. Pace</h3>
+<h3 id="1989-glen-l-pace">1989 Glen L. Pace<a class="zola-anchor" href="#1989-glen-l-pace" aria-label="Anchor link for: 1989-glen-l-pace"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Although it seems likely that the “leaves neutral ground” story influenced Maxwell’s coining of the phrase,<sup class="footnote-reference" id="fr-confirmed_by_blair_hodges-1"><a href="/a_careful_examination/chronology-cant-leave-it-alone/#fn-confirmed_by_blair_hodges">[3]</a></sup> Elder Pace’s 1989 Conference address, <a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/1989/04/follow-the-prophet?lang=eng">“Follow the Prophet”</a> , appears to be the first instance where the phrase “You can leave the Church, but you can’t leave it alone” is tied explicitly to Daniel Tyler’s story about Joseph Smith and leaving the neutral ground:</p>
 <blockquote>
 <p>The second category of critics is former members who have become disenchanted with the Church but who are obsessed with making vicious and vile attacks upon it. Most members and nonmembers alike see these attacks for what they really are. What credibility can possibly be given to a person who mocks beliefs held sacred by another? Anyone who would resort to these attacks unwittingly discloses his or her true character—or lack of the same. As members of the Church, we are appalled by such attacks. Hopefully, however, they make us more sensitive and extra careful not to make light of the sacred beliefs of other denominations.</p>
@@ -211,12 +342,14 @@ beginning with the first published usage in 1979 by Neal A. Maxwell.</p>
 <blockquote>
 <p>It seems that history continues to teach us: <strong>You can leave the Church, but you can’t leave it alone</strong>. The basic reason for this is simple. Once someone has received a witness of the Spirit and accepted it, he leaves neutral ground. One loses his testimony only by listening to the promptings of the evil one, and Satan’s goal is not complete when a person leaves the Church, but when he comes out in open rebellion against it.</p>
 </blockquote>
-<h3 id="1996-neal-a-maxwell">1996 Neal A. Maxwell</h3>
+<h3 id="1996-neal-a-maxwell">1996 Neal A. Maxwell<a class="zola-anchor" href="#1996-neal-a-maxwell" aria-label="Anchor link for: 1996-neal-a-maxwell"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From his April 1996 General Conference talk <a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/1996/04/becometh-as-a-child?lang=eng">“Becometh As a Child”</a>:</p>
 <blockquote>
 <p>… Church members will live in this wheat-and-tares situation until the Millennium. Some real tares even masquerade as wheat, including the few eager individuals who lecture the rest of us about Church doctrines in which they no longer believe. They criticize the use of Church resources to which they no longer contribute. They condescendingly seek to counsel the Brethren whom they no longer sustain. Confrontive, except of themselves, of course, <strong>they leave the Church, but they cannot leave the Church alone</strong> (Ensign, Nov. 1980, 14). Like the throng on the ramparts of the “great and spacious building,” they are intensely and busily preoccupied, pointing fingers of scorn at the steadfast iron-rodders (1 Ne. 8:26–28, 33). Considering their ceaseless preoccupation, one wonders, Is there no diversionary activity available to them, especially in such a large building—like a bowling alley? Perhaps in their mockings and beneath the stir are repressed doubts of their doubts. In any case, given the perils of popularity, Brigham Young advised that this “people must be kept where the finger of scorn can be pointed at them” (Discourses of Brigham Young, sel. John A. Widtsoe [1941], 434). …</p>
 </blockquote>
-<h3 id="2004-neal-a-maxwell">2004 Neal A. Maxwell</h3>
+<h3 id="2004-neal-a-maxwell">2004 Neal A. Maxwell<a class="zola-anchor" href="#2004-neal-a-maxwell" aria-label="Anchor link for: 2004-neal-a-maxwell"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>In later years, I saw a few <strong>leave the Church who could then never leave it alone</strong>. They used often their intellectual reservations to cover their behavioral lapses (see Neal A. Maxwell, All These Things Shall Give Thee Experience [1979], 110). You will see some of that. By the way, do not expect the world’s solutions to the world’s problems to be very effective. Such solutions often resemble what C. S. Lewis wrote about those who go dashing back and forth with fire extinguishers in times of flood (see The Screwtape Letters [1959], 117–18). Only the gospel is constantly relevant, and the substitute things won’t work.</p>
 </blockquote>
@@ -235,16 +368,15 @@ the “can’t leave it alone” phrase and the “leaves neutral ground” stor
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -259,105 +391,9 @@ the “can’t leave it alone” phrase and the “leaves neutral ground” stor
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

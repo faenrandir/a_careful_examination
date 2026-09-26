@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sealing for eternity only | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Sealing for eternity only | A Careful Examination</title>
+<meta property="og:title" content="Sealing for eternity only | A Careful Examination" />
+<meta name="twitter:title" content="Sealing for eternity only | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/sealing-for-eternity-only/">
-  
+  <meta property="og:url" content="/a_careful_examination/sealing-for-eternity-only/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Sealing for eternity only</h1>
@@ -103,41 +219,14 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#ruth-vose-sayers">Ruth Vose Sayers</a></li>
-        
-          <li><a href="#zina-huntington">Zina Huntington</a></li>
-        
-          <li><a href="#patty-sessions">Patty Sessions</a></li>
-        
-          <li><a href="#temple-lot-case-malissa-lott">Temple Lot Case - Malissa Lott</a></li>
-        
-          <li><a href="#helen-mar-kimball-1881-account">Helen Mar Kimball 1881 account</a></li>
-        
-          <li><a href="#reed-smoot-hearings">Reed Smoot Hearings</a></li>
-        
-          <li><a href="#data-and-arguments-against-eternity-only">Data and arguments against “eternity only”</a></li>
-        
-          <li><a href="#affidavits">Affidavits</a></li>
-        
-          <li><a href="#married-or-sealed">“married or sealed”</a></li>
-        
-          <li><a href="#appendix">Appendix</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="ruth-vose-sayers">Ruth Vose Sayers</h2>
-<h3 id="1869-affidavit-married-or-sealed">1869 Affidavit - “married or Sealed”</h3>
+  
+  
+
+  <div class="post-content">
+    <h2 id="ruth-vose-sayers">Ruth Vose Sayers<a class="zola-anchor" href="#ruth-vose-sayers" aria-label="Anchor link for: ruth-vose-sayers"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="1869-affidavit-married-or-sealed">1869 Affidavit - “married or Sealed”<a class="zola-anchor" href="#1869-affidavit-married-or-sealed" aria-label="Anchor link for: 1869-affidavit-married-or-sealed"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Ruth Vose’s 1869 affidavit makes no distinction between sealing and marriage,
 but the verbiage seems like it was standardized across the 1869 affidavits.
 Those affidavits used the same verbiage “married or Sealed” whether the
@@ -150,7 +239,8 @@ added):</p>
 <p><a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n14/mode/1up?view=theater">Affidavits book 1</a> | <a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n252/mode/1up?view=theater">Affidavits book 4</a></p>
 <p>More context on and other examples of the affidavits <a rel="external" href="http://thoughtsonthingsandstuff.com/raiders-of-the-lost-archives-the-jfs-affidavit-books/">here</a>.</p>
 <p>Hales <a rel="external" href="https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/">notes</a>: “However the affidavit states that the sealing was performed by Hyrum Smith, which is unlikely because Hyrum did not accept plural marriage until May of that year.”</p>
-<h3 id="andrew-jenson-papers-should-be-sealed-for-eternity">Andrew Jenson Papers - “should be sealed … for eternity”</h3>
+<h3 id="andrew-jenson-papers-should-be-sealed-for-eternity">Andrew Jenson Papers - “should be sealed … for eternity”<a class="zola-anchor" href="#andrew-jenson-papers-should-be-sealed-for-eternity" aria-label="Anchor link for: andrew-jenson-papers-should-be-sealed-for-eternity"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Andrew Jenson [ca. 1871–1942] apparently had some documentation regarding Ruth Vose’s
 relationship and sealing:</p>
 <blockquote>
@@ -161,7 +251,8 @@ relationship and sealing:</p>
 </blockquote>
 <p>From Andrew Jenson Papers [ca. 1871–1942], LDS Archives <a rel="external" href="https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/#link_ajs-fn-id_7-5666">as cited by Hales</a>. “It appears that the documents in these folders were used to compile Jenson’s 1887 Historical Record article on plural marriage.</p>
 <p>Dan Vogel <a rel="external" href="https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/">has noted</a> that in this documentation it was apparently Edward Sayers who suggested the eternity sealing, so caution should be taken in extrapolating this to all the other polyandrous marriages.</p>
-<h2 id="zina-huntington">Zina Huntington</h2>
+<h2 id="zina-huntington">Zina Huntington<a class="zola-anchor" href="#zina-huntington" aria-label="Anchor link for: zina-huntington"><i class="fas fa-link"></i></a> 
+</h2>
 <p>John W. Wight, an Elder of the Reorganized Church of Jesus Christ of Latter-day Saints, interviewed Zina Huntington Jacobs Smith Young at her home in Utah, October 1, 1898, and published it in the saints herald (see <a href="/a_careful_examination/zina-huntington-interview-saints-herald/">complete transcript</a>).</p>
 <blockquote>
 <p>… He married me. The Lord told him to take me and he did so.</p>
@@ -229,9 +320,11 @@ relationship and sealing:</p>
 <blockquote>
 <p>Some interpreters place great weight on these statements [referring to above interview], as showing that Zina’s marriage was “spiritual” only. But the interview is so contradictory on this issue, as the elderly Zina sounds defensive and confused while answering an RLDS judge’s harsh questions, that it cannot be used as solid evidence. One even wonders if early Mormons did not use the term “marriage for eternity” to encompass “time and eternity,” as Mormons do today.</p>
 </blockquote>
-<h2 id="patty-sessions">Patty Sessions</h2>
+<h2 id="patty-sessions">Patty Sessions<a class="zola-anchor" href="#patty-sessions" aria-label="Anchor link for: patty-sessions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I am aware of three statements regarding the nature of Patty’s sealing to Joseph Smith.  One statement says she was “sealed … for Eternity”, the other that she was merely “sealed to Joseph Smith” and a journal entry that she was “sealed … for time and all eternity.”</p>
-<h3 id="sealed-for-eternity">“sealed … for Eternity”</h3>
+<h3 id="sealed-for-eternity">“sealed … for Eternity”<a class="zola-anchor" href="#sealed-for-eternity" aria-label="Anchor link for: sealed-for-eternity"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Brian Hales <a rel="external" href="https://josephsmithspolygamy.org/plural-wives-overview/patty-bartlett/">reproduces</a> a June 1860 handwritten diary entry (emphasis added):</p>
 <blockquote>
 <p>Patty Bartlett daughter of Enoch and Anne Bartlett was born February 4 1795 Bethel Mane/ and was married to David Session June 28th 1812 who was the son of David and Rachel Sessions, he was born April the 4th 1790 Veshire Vermont I was Batpised into the church of Jesus Christ of later day saints/ July 2 1834 Mr Sessions was Baptised Aug <st> 1735 we received our we received our endowment Dec 16 1845 in Nauvoo. …</p>
@@ -239,7 +332,8 @@ relationship and sealing:</p>
 <blockquote>
 <p>I was sealed to Joseph Smith by Willard Richards March 9 1842 in Newel K Whitneys chamber Nauvoo for Eternity and I and if I do not live to attend to it myself when there is a place prepared I want some one to attend to it for me according to order Sylvia my daughter/ was present when I was sealed to Joseph Smith.I was after Mr. Sessions death <strong>sealed to John Parry senior for time</strong> on the 27 of March 1852 G[reat] S[alt] L. City.</p>
 </blockquote>
-<h3 id="sealed-to-joseph-smith">“sealed to Joseph Smith”</h3>
+<h3 id="sealed-to-joseph-smith">“sealed to Joseph Smith”<a class="zola-anchor" href="#sealed-to-joseph-smith" aria-label="Anchor link for: sealed-to-joseph-smith"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Her <a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_1-4/page/n189/mode/1up?view=theater">1867 affidavit</a> reads (emphasis added):</p>
 <blockquote>
 <p>I Patty Bartlett daughter of Enoch and Anna Bartlett was born February 4th 1795 town of Bethel State of Maine[.]I was Baptised into the church of Jesus Christ of Latter Saints July 2d 1834[. I] <strong>was sealed to Joseph Smith the Prophet</strong> by Willard Richards March the 9th 1842 in Nauvoo in Newel K Whitneys chamber Sylvia my Daughter was present[.]I received my Endowment in Nauvoo Dec 16 1845. I Never was sealed at the alter to any one.</p>
@@ -250,20 +344,24 @@ relationship and sealing:</p>
 <blockquote>
 <p>Patty Sessions</p>
 </blockquote>
-<h3 id="sealed-for-time-and-all-eternity">“sealed  … for time and all eternity”</h3>
+<h3 id="sealed-for-time-and-all-eternity">“sealed  … for time and all eternity”<a class="zola-anchor" href="#sealed-for-time-and-all-eternity" aria-label="Anchor link for: sealed-for-time-and-all-eternity"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In her journal [is there any date information??], Patty Sessions stated:</p>
 <blockquote>
 <p>I was sealed to Joseph Smith by Willard Richards Mar 9, 1842, in Newel K. Whitney’s chamber, Nauvoo, for time and all eternity, and if I do not live to attend to it myself when there is a place prepared I want someone to attend to it for me according to order, Sylvia my daughter was present when I was sealed to Joseph Smith.  I was after Mr. Sessions’ death sealed to John Parry for time on the 27th, March, 1852, GSL City.</p>
 </blockquote>
 <p>From <a rel="external" href="https://babel.hathitrust.org/cgi/pt?id=wu.89077107258&amp;view=1up&amp;seq=1">“Intimate Discipline: A Portrait of Willard Richards”</a>, by Claire Noall. 1957, University of Utah Press. <a rel="external" href="https://i.redd.it/rq28s3bwl8771.png">pg 611</a>.</p>
-<h2 id="temple-lot-case-malissa-lott">Temple Lot Case - Malissa Lott</h2>
+<h2 id="temple-lot-case-malissa-lott">Temple Lot Case - Malissa Lott<a class="zola-anchor" href="#temple-lot-case-malissa-lott" aria-label="Anchor link for: temple-lot-case-malissa-lott"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In footnote #6 of Brian Hales’s <a rel="external" href="https://web.archive.org/web/20200708214336/https://josephsmithspolygamy.org/plural-wives-overview/ruth-vose/">Ruth Vose page</a>, Hales writes:</p>
 <blockquote>
 <p>Recognizing that Joseph Smith’s marriages could have been for either “time and eternity” or just “eternity,” P.P. Kelley questioned Malissa Lott in 1892 regarding the type of sealing ceremony that she experienced with the him: “Did you live with Joseph Smith as his wife, or were you just simply sealed to him for eternity?”(Temple Lot Case, complete transcript, part 3, pages 97, questions 94.) Malissa, who was single at the time of her sealing to the Prophet, had earlier stated: “I was married to him for time and all eternity.”(Ibid., page 95, question 56)</p>
 </blockquote>
 <p>note: I have not been able to find the testimony that Hales references, but it should be accessible in the transcripts on <a rel="external" href="https://archive.org/details/TempleLotCaseTranscript">archive.org</a> or <a rel="external" href="https://catalog.churchofjesuschrist.org/record/d41946ae-97f6-42c7-b8ca-747ee67d8dee/0?view=browse">online at the Church History Library</a>.</p>
-<h2 id="helen-mar-kimball-1881-account">Helen Mar Kimball 1881 account</h2>
-<h3 id="the-account">The account</h3>
+<h2 id="helen-mar-kimball-1881-account">Helen Mar Kimball 1881 account<a class="zola-anchor" href="#helen-mar-kimball-1881-account" aria-label="Anchor link for: helen-mar-kimball-1881-account"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="the-account">The account<a class="zola-anchor" href="#the-account" aria-label="Anchor link for: the-account"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Hales writes “The primary document referring to the relationship is an 1881
 poem penned by Helen that has been interpreted in different ways”. The letter,
 including the poem, is reproduced from a complete transcript
@@ -304,7 +402,8 @@ And receive every word as the word of the Lord.<br/>
 But had this not come through my dear father’s mouth,<br/>
 I should ne’r have received it as God’s sacred truth.<br/></p>
 </blockquote>
-<h3 id="hales-argument">Hales’ argument</h3>
+<h3 id="hales-argument">Hales’ argument<a class="zola-anchor" href="#hales-argument" aria-label="Anchor link for: hales-argument"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Hales also <a rel="external" href="https://josephsmithspolygamy.org/common-questions/14-year-old-wives-teenage-brides/">quotes some of Helen’s writing from a year later</a>:</p>
 <blockquote>
 <p>During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay home, as my father had been warned by the Prophet to keep his daughter away from there, because of the blacklegs and certain ones of questionable character who attended there. … I felt quite sore over it, and thought it a very unkind act in father to allow [my brother] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, for no girl loved dancing better than I did, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longer for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur.</p>
@@ -313,13 +412,15 @@ I should ne’r have received it as God’s sacred truth.<br/></p>
 <blockquote>
 <p>Helen’s feelings certainly don’t reflect those of one who considered herself married. Fourteen is young, but certainly old enough to understand the expectations of a married woman. It seems that if Helen were sexually involved with the Prophet as a plural wife, her anticipation of pregnancy and other wifely responsibilities might have made it clear to her that she was no longer single. In view of the conservative sexual standards embraced at that time, her longings to dance with teenage boys and otherwise socialize may have been subdued as she submitted to her wifehood.</p>
 </blockquote>
-<h3 id="arguments-against-eternity-alone">Arguments against “eternity alone”</h3>
+<h3 id="arguments-against-eternity-alone">Arguments against “eternity alone”<a class="zola-anchor" href="#arguments-against-eternity-alone" aria-label="Anchor link for: arguments-against-eternity-alone"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Others interpret her poem as indicating that the relationship was (or may have been) sexual, which argues against an “eternity only” sealing:</p>
 <ul>
 <li><a rel="external" href="http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm">Mormonthink: Plural Marriage in Kirtland &amp; Nauvoo - Response to LDS.org</a></li>
 <li><a rel="external" href="https://www.ldsdiscussions.com/polygamy-nauvoo">ldsdiscussions: Official LDS Essay on Plural Marriage in Kirtland and Nauvoo, Annotated</a></li>
 </ul>
-<h3 id="for-the-purpose-of-raising-a-righteous-seed">“for the purpose of raising a righteous seed”</h3>
+<h3 id="for-the-purpose-of-raising-a-righteous-seed">“for the purpose of raising a righteous seed”<a class="zola-anchor" href="#for-the-purpose-of-raising-a-righteous-seed" aria-label="Anchor link for: for-the-purpose-of-raising-a-righteous-seed"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In defending polygamy in 1884 in her pamphlet <a rel="external" href="https://ia800900.us.archive.org/30/items/whywepracticepl00whitgoog/whywepracticepl00whitgoog.pdf">Why We Practice Plural
 Marriage</a>
 Helen emphasized the purpose of polygamy (emphasis following <a rel="external" href="http://www.mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm">mormonthink
@@ -332,7 +433,8 @@ presentation</a>) (pg 7):</p>
 <p>My father had a number of wives, some were old ladies who chose to be sealed
 to him, but he never lived with them only to support them. …</p>
 </blockquote>
-<h2 id="reed-smoot-hearings">Reed Smoot Hearings</h2>
+<h2 id="reed-smoot-hearings">Reed Smoot Hearings<a class="zola-anchor" href="#reed-smoot-hearings" aria-label="Anchor link for: reed-smoot-hearings"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Reed Smoot Hearings from 1906 give some insight into how later leaders viewed
 sealings and the prevalence of eternity only sealings.</p>
 <p>Besides the quoted transcript, <em>all the below words are Johnny Stephenson’s</em> (as documented by Mithryn <a rel="external" href="https://www.reddit.com/r/exmormon/comments/4n5jbt/novery_few_eternityonly_sealings_dynastic/">here</a>).</p>
@@ -446,8 +548,10 @@ Mr. SMITH. Perfectly so.<br/></p>
 <p>“When first hearing the principle taught, believing that he would be called upon to enter into it, he had thought of two elderly ladies named Pitkin, great friends of my mother’s who, he believed, would cause her little, if any, unhappiness. But the woman he was commanded to take was an English lady named Sarah Noon, nearer my mother’s age, who came over with the company of Saints in the same ship in which father and Brother Brigham returned from Europe. She had been married and was the mother of two little girls, but left her husband on account of his drunken and dissolute habits. Father was told to take her as his wife and provide for her and her children, and he did so. ~<strong>Orson F. Whitney, Life of Heber C. Kimball, 336-337, Whitney writes in a footnote that Smith told Heber C. Kimball that if he did not do as he was told by Joseph he would “lose his Apostleship and be damned.”</strong></p>
 <p>I believe that Sarah Noon had a child by Heber in October, 1843 so she would have been sealed to Kimball in January, of 1842.</p>
 <p>[End of Johnny Stephenson commentary]</p>
-<h1 id="data-and-arguments-against-eternity-only">Data and arguments against “eternity only”</h1>
-<h2 id="josephine-lyon-the-daughter-of-joseph-smith">Josephine Lyon the daughter of Joseph Smith</h2>
+<h1 id="data-and-arguments-against-eternity-only">Data and arguments against “eternity only”<a class="zola-anchor" href="#data-and-arguments-against-eternity-only" aria-label="Anchor link for: data-and-arguments-against-eternity-only"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="josephine-lyon-the-daughter-of-joseph-smith">Josephine Lyon the daughter of Joseph Smith<a class="zola-anchor" href="#josephine-lyon-the-daughter-of-joseph-smith" aria-label="Anchor link for: josephine-lyon-the-daughter-of-joseph-smith"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In <a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_1-4/page/n53/mode/1up?view=theater">an affidavit signed by her daughter Josephine</a>, Sylvia Sessions—who was legally married to Windsor Lyon—told Josephine on her death bed that Joseph Smith was her father:</p>
 <blockquote>
 <p>Just prior to my mothers death in 1882 she called me to her bedside and told me that her days on earth were about numbered and before she passed away from mortality she desired to tell me something which she had kept as an entire secret from me and from all the others but which she now desired to communicate to me. She then told me that I was the daughter of the Prophet Joseph Smith, she having been sealed to the Prophet at the time that her husband Mr. Lyon was out of fellowship with the Church.</p>
@@ -462,29 +566,38 @@ relationship.</p>
 </blockquote>
 <p>But then one wonders why such information would need to have been “kept as an
 entire secret from me and from all the others” for Sylvia’s entire life.</p>
-<h1 id="affidavits">Affidavits</h1>
+<h1 id="affidavits">Affidavits<a class="zola-anchor" href="#affidavits" aria-label="Anchor link for: affidavits"><i class="fas fa-link"></i></a> 
+</h1>
 <p>Need to go through all the affidavits <a rel="external" href="http://thoughtsonthingsandstuff.com/raiders-of-the-lost-archives-the-jfs-affidavit-books/">here</a> to look at language patterns.</p>
-<h1 id="married-or-sealed">“married or sealed”</h1>
-<h2 id="sylvia-sessions-lyon">Sylvia Sessions Lyon</h2>
-<h3 id="1842-sealing-date-unsigned">1842 sealing date (unsigned)</h3>
+<h1 id="married-or-sealed">“married or sealed”<a class="zola-anchor" href="#married-or-sealed" aria-label="Anchor link for: married-or-sealed"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="sylvia-sessions-lyon">Sylvia Sessions Lyon<a class="zola-anchor" href="#sylvia-sessions-lyon" aria-label="Anchor link for: sylvia-sessions-lyon"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="1842-sealing-date-unsigned">1842 sealing date (unsigned)<a class="zola-anchor" href="#1842-sealing-date-unsigned" aria-label="Anchor link for: 1842-sealing-date-unsigned"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The unsigned affidavit <a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n67/mode/1up?view=theater">reads</a>:</p>
 <p>“… Sylvia Lyon … on the eighth day of February A.D. 1842, in the City of Nauvoo,…
 she was married or sealed to President Joseph Smith by [blank] in the presence
 of [blank]”</p>
-<h3 id="1843-sealing-date-unsigned">1843 sealing date (unsigned)</h3>
+<h3 id="1843-sealing-date-unsigned">1843 sealing date (unsigned)<a class="zola-anchor" href="#1843-sealing-date-unsigned" aria-label="Anchor link for: 1843-sealing-date-unsigned"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The unsigned affidavit <a rel="external" href="https://archive.org/details/AffidavitsOnCelestialMarriage/MS_3423_5-6/page/n308/mode/1up?view=theater">reads</a>:</p>
 <p>“… Sylvia Lyon … on the eighth day of February A.D. 1843 … was married
 or sealed to President Joseph Smith, in the City of Nauvoo … by [remaining blank]”</p>
-<h1 id="appendix">Appendix</h1>
-<h2 id="brian-hales-similar-to-the-language-found-in-other-eternity-only-sealings">Brian Hales “similar to the language found in other eternity-only sealings”</h2>
+<h1 id="appendix">Appendix<a class="zola-anchor" href="#appendix" aria-label="Anchor link for: appendix"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="brian-hales-similar-to-the-language-found-in-other-eternity-only-sealings">Brian Hales “similar to the language found in other eternity-only sealings”<a class="zola-anchor" href="#brian-hales-similar-to-the-language-found-in-other-eternity-only-sealings" aria-label="Anchor link for: brian-hales-similar-to-the-language-found-in-other-eternity-only-sealings"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Hales’s evidence for eternity only sealing verbiage is found in footnote 3
 <a rel="external" href="https://josephsmithspolygamy.org/plural-wives-overview/patty-bartlett/">here</a>:</p>
 <blockquote>
 <p>See the account of Ruth Vose Sayers in Andrew Jenson Papers [ca. 1871–1942], MS 17956; CHL, Box 49, Folder 16, fifth document; Zina Huntington in Wight interview, “Evidence from Zina D. Huntington Young,” Saints Herald (January 11, 1905): 29; Mary Elizabeth Rollins Lightner, “Remarks” at Brigham Young University, April 14. 1905, vault MSS 363, fd 6, Harold B. Lee Library, Special Collections, 7 (addendum); Oliver Huntington regarding Zina and Presendia in Journals, no.15, entry for February 18, 1883, HBLL, BYU; Bathsheba Smith’s testimony regarding Jane Law, deposition, Temple Lot transcript, respondent’s testimony, part 3, page 318, questions 564–77; John D. Lee regarding Marinda Hyde in Mormonism Unveiled (St. Louis: Bryan, Brand &amp; Company, 1877), 147; Lucy Meserve Smith, handwritten statement dated May 18, 1892, copy of holograph in Linda King Newell Collection, Marriott Library, University of Utah.</p>
 </blockquote>
-<h2 id="plural-marriage-in-kirtland-and-nauvoo-footnote">Plural Marriage in Kirtland and Nauvoo footnote</h2>
+<h2 id="plural-marriage-in-kirtland-and-nauvoo-footnote">Plural Marriage in Kirtland and Nauvoo footnote<a class="zola-anchor" href="#plural-marriage-in-kirtland-and-nauvoo-footnote" aria-label="Anchor link for: plural-marriage-in-kirtland-and-nauvoo-footnote"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/study/manual/gospel-topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng#25">The Kirtland/Nauvoo polygamy essay</a> states: “Neither these women nor Joseph explained much about these sealings, though several women said they were for eternity alone” points to Hales, Joseph Smith’s Polygamy, 1:421–37. [need to get and post photocopy of these pages or at least summarize]</p>
-<h2 id="notable-discussions">Notable discussions</h2>
+<h2 id="notable-discussions">Notable discussions<a class="zola-anchor" href="#notable-discussions" aria-label="Anchor link for: notable-discussions"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://josephsmithspolygamy.org/hales-vogel-1-facebook-exchanges/">Hales-Vogel #1 FaceBook Exchanges</a></li>
 <li><a rel="external" href="https://josephsmithspolygamy.org/wordpress/wp-content/uploads/2014/01/Quinns-FINAL-RESPONSE.pdf">Evidence for the Sexual Side of Joseph Smith’s Polygamy</a> (D. Michael Quinn)
@@ -494,16 +607,15 @@ or sealed to President Joseph Smith, in the City of Nauvoo … by [remaining bla
 </li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -518,105 +630,9 @@ or sealed to President Joseph Smith, in the City of Nauvoo … by [remaining bla
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

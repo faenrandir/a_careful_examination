@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Resources on the Book of Abraham | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Resources on the Book of Abraham | A Careful Examination</title>
+<meta property="og:title" content="Resources on the Book of Abraham | A Careful Examination" />
+<meta name="twitter:title" content="Resources on the Book of Abraham | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/resources-on-the-book-of-abraham/">
-  
+  <meta property="og:url" content="/a_careful_examination/resources-on-the-book-of-abraham/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Resources on the Book of Abraham</h1>
@@ -108,18 +224,22 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h1 id="critical">Critical</h1>
-<h3 id="introductory">Introductory</h3>
+  
+  
+
+  <div class="post-content">
+    <h1 id="critical">Critical<a class="zola-anchor" href="#critical" aria-label="Anchor link for: critical"><i class="fas fa-link"></i></a> 
+</h1>
+<h3 id="introductory">Introductory<a class="zola-anchor" href="#introductory" aria-label="Anchor link for: introductory"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.youtube.com/watch?v=f5FAFVVv_os&amp;feature=youtu.be">The Joseph Smith Papyri</a> (youtube)</li>
 <li><a href="/a_careful_examination/documents/book_of_abraham/The_Book_of_Abraham_Criticisms_Defenses_and_Implications.pdf">The Book of Abraham: Criticisms, Defenses, and Implications</a> (pdf)</li>
 <li><a rel="external" href="https://mormondiscussionpodcast.org/wp-content/uploads/sites/2/2017/04/My-Concerns-Book-of-Abraham-1.pdf">Problems with the Book of Abraham</a>
 (simplified pdf)</li>
 </ul>
-<h3 id="analysis-or-insights">Analysis or insights</h3>
+<h3 id="analysis-or-insights">Analysis or insights<a class="zola-anchor" href="#analysis-or-insights" aria-label="Anchor link for: analysis-or-insights"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.youtube.com/playlist?list=PLjxwXGB2KzRaejlyYHN1Lm9qDYmUpGgQw">Truth of the Book of Abraham</a> (youtube series, by Dan Vogel)
 <ul>
@@ -141,17 +261,21 @@ Stories interview with Robert Ritner and RFM)
 <li><a rel="external" href="http://www.mormonthink.com/book-of-abraham-issues.htm">The Book of Abraham</a> (Mormon Think)</li>
 <li>Radio Free Mormon and Bill Reel: The Book of Abraham <a rel="external" href="https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-049-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-1/">part 1</a> | <a rel="external" href="https://mormondiscussionpodcast.org/2018/12/radio-free-mormon-050-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-2/">part 2</a> | <a rel="external" href="https://radiofreemormon.org/2019/02/radio-free-mormon-055-the-book-of-abraham-missing-scrolls-catalyst-theories-and-bad-apologetics-part-3/">part 3</a></li>
 </ul>
-<h3 id="hauglid-and-jensen">Hauglid and Jensen</h3>
+<h3 id="hauglid-and-jensen">Hauglid and Jensen<a class="zola-anchor" href="#hauglid-and-jensen" aria-label="Anchor link for: hauglid-and-jensen"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/hauglid-against-missing-papyri-theory/">Brian Hauglid argues against missing papyri theory</a> (see also <a rel="external" href="https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/">Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”</a>)</li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=tznpRR0Fos8">Maxwell Institute lecture: Brian Hauglid and Robin Jensen, “A Window into Joseph Smith’s Translation”</a></li>
 </ul>
-<h3 id="olishem">Olishem</h3>
+<h3 id="olishem">Olishem<a class="zola-anchor" href="#olishem" aria-label="Anchor link for: olishem"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/olishem-as-evidence-for-boa/">Analysis of Olishem as evidence for the antiquity of the Book of Abraham</a></li>
 </ul>
-<h1 id="lds-apologetic">LDS apologetic</h1>
-<h3 id="introductory-1">Introductory</h3>
+<h1 id="lds-apologetic">LDS apologetic<a class="zola-anchor" href="#lds-apologetic" aria-label="Anchor link for: lds-apologetic"><i class="fas fa-link"></i></a> 
+</h1>
+<h3 id="introductory-1">Introductory<a class="zola-anchor" href="#introductory-1" aria-label="Anchor link for: introductory-1"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng">Gospel Topics Essay - “Translation and Historicity of the Book of Abraham”</a> (churchofjesuschrist.org)
 <ul>
@@ -163,7 +287,8 @@ Stories interview with Robert Ritner and RFM)
 <li><a rel="external" href="https://www.fairmormon.org/answers/Book_of_Abraham">FairMormon - Book of Abraham</a></li>
 <li><a rel="external" href="https://rsc.byu.edu/archived/no-weapon-shall-prosper/egyptian-papyri-and-book-abraham-faithful-egyptological-point-view">Egyptian Papyri and the Book of Abraham: A Faithful, Egyptological Point of View</a> (Kerry Muhlestein)</li>
 </ul>
-<h3 id="analysis-or-insights-1">Analysis or insights</h3>
+<h3 id="analysis-or-insights-1">Analysis or insights<a class="zola-anchor" href="#analysis-or-insights-1" aria-label="Anchor link for: analysis-or-insights-1"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.pearlofgreatpricecentral.org/category/book-of-abraham/">Pearl of Great Price Central: Book of Abraham
 Insights</a></li>
@@ -183,32 +308,34 @@ Insights</a></li>
 <li><a rel="external" href="http://web.archive.org/web/20190910004946/http://www.conflictofjustice.com/evidences-joseph-smiths-book-of-abraham-egyptology-archaeology/">42 Evidences For Joseph Smith’s Book of Abraham In Archaeology</a> (Conflict of Justice, archived)</li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=HLbFpWlVLx8">Lion Couch Scene in the Book of Abraham: Evidence of Authenticity</a> (FairMormon)</li>
 </ul>
-<h3 id="bibliography">Bibliography</h3>
+<h3 id="bibliography">Bibliography<a class="zola-anchor" href="#bibliography" aria-label="Anchor link for: bibliography"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.pearlofgreatpricecentral.org/bibliography-adv/">Pearl of Great Price Central: Book of Abraham Bibliography</a></li>
 </ul>
-<h3 id="older">Older</h3>
+<h3 id="older">Older<a class="zola-anchor" href="#older" aria-label="Anchor link for: older"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://rsc.byu.edu/archived/volume-4-number-2-2003/teaching-book-abraham-facsimiles">Teaching the Book of Abraham Facsimiles</a> (Michael Rhodes)</li>
 <li><a rel="external" href="http://abish.byui.edu/reserve/LenhartM/110/TheJosephSmithHypocephalus.htm">The Joseph Smith Hypocephalus: Seventeen Years Later</a> (Michael Rhodes)</li>
 <li><a rel="external" href="https://publications.mi.byu.edu/book/abraham-in-egypt/">Abraham in Egypt</a> (Hugh Nibley)</li>
 </ul>
-<h3 id="olishem-1">Olishem</h3>
+<h3 id="olishem-1">Olishem<a class="zola-anchor" href="#olishem-1" aria-label="Anchor link for: olishem-1"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.fairmormon.org/blog/2016/02/10/faith-and-reason-65-ur-and-olishem">Ur and Olishem</a> (FairMormon podcast)</li>
 </ul>
 <p><em>Acknowledgements: I used /u/dice1899’s list <a rel="external" href="https://www.reddit.com/r/latterdaysaints/comments/akdoo7/book_of_abraham_issues_for_a_returning_wife/ef46l5z/">here</a> for much of the apologetic section.</em></p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -223,105 +350,9 @@ Insights</a></li>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

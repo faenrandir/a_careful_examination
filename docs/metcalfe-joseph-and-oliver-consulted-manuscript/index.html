@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript | A Careful Examination</title>
+<meta property="og:title" content="Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript | A Careful Examination" />
+<meta name="twitter:title" content="Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/metcalfe-joseph-and-oliver-consulted-manuscript/">
-  
+  <meta property="og:url" content="/a_careful_examination/metcalfe-joseph-and-oliver-consulted-manuscript/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript</h1>
@@ -93,41 +209,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#prince">Prince:</a></li>
-        
-          <li><a href="#metcalfe">Metcalfe:</a></li>
-        
-          <li><a href="#prince-1">Prince:</a></li>
-        
-          <li><a href="#metcalfe-1">Metcalfe:</a></li>
-        
-          <li><a href="#prince-2">Prince:</a></li>
-        
-          <li><a href="#metcalfe-2">Metcalfe:</a></li>
-        
-          <li><a href="#prince-3">Prince:</a></li>
-        
-          <li><a href="#metcalfe-3">Metcalfe:</a></li>
-        
-          <li><a href="#prince-4">Prince:</a></li>
-        
-          <li><a href="#metcalfe-4">Metcalfe:</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p><em>Conversation transcribed from the Mormon Historians facebook group from a post dated June 27, 2018.  This transcript is limited to the exchange between John Prince and Brent Metcalfe.</em></p>
-<h4 id="prince">Prince:</h4>
+  
+  
+
+  <div class="post-content">
+    <p><em>Conversation transcribed from the Mormon Historians facebook group from a post dated June 27, 2018.  This transcript is limited to the exchange between John Prince and Brent Metcalfe.</em></p>
+<h4 id="prince">Prince:<a class="zola-anchor" href="#prince" aria-label="Anchor link for: prince"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>I recently considered the proposition of Joseph hiding material in his hat to aid in dictating the Book of Mormon. This is clearly a rough draft, but it captures the contours of the argument, I hope:</p>
 </blockquote>
@@ -137,21 +225,24 @@
 <blockquote>
 <p>I am interested in criticism and feedback here or at the mormonscholar subreddit.</p>
 </blockquote>
-<h4 id="metcalfe">Metcalfe:</h4>
+<h4 id="metcalfe">Metcalfe:<a class="zola-anchor" href="#metcalfe" aria-label="Anchor link for: metcalfe"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>This is an unnecessary speculation. The only clear literary dependence in the BoMor is JS’s use of extended portions of the KJV. I’m not talking about simple biblical phraseology (his familial vernacular), but larger passages, such as chapters from Isaiah and Micah and the Matthean Sermon on the Mount.</p>
 </blockquote>
 <blockquote>
 <p>Ex-Mormons and Mormons alike need to get over the notion that JS was an unimaginative nincompoop who couldn’t dictate his way out of a paper bag much less a hat. He was a creative soul and gifted storyteller.</p>
 </blockquote>
-<h4 id="prince-1">Prince:</h4>
+<h4 id="prince-1">Prince:<a class="zola-anchor" href="#prince-1" aria-label="Anchor link for: prince-1"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>I have no problem with the idea that Joseph was inventive enough to generate the themes and characters present in the book in the allotted time (including the years before the final dictation event). However, there is a level of internal coherence that argues in favor of a pre-written manuscript of some kind, I think. See <a rel="external" href="https://www.docdroid.net/sUW5NhW/book-of-mormon-details.pdf">https://www.docdroid.net/sUW5NhW/book-of-mormon-details.pdf</a></p>
 </blockquote>
 <blockquote>
 <p>Furthermore, if you acknowledge the literary dependence on the KJV, then you still need some mechanism to reconcile the general consensus that no manuscript was seen during dictation with the fact that these verses appear in similar form in the BoM. There are options to think about (various levels of collusion), but one of them is the method I described.</p>
 </blockquote>
-<h4 id="metcalfe-1">Metcalfe:</h4>
+<h4 id="metcalfe-1">Metcalfe:<a class="zola-anchor" href="#metcalfe-1" aria-label="Anchor link for: metcalfe-1"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>The BoMor is <em>generally</em> consistent, but not remarkably so. This issue is the leitmotif of an essay I published decades ago. See pp. 395–444 here…</p>
 </blockquote>
@@ -161,36 +252,42 @@
 <blockquote>
 <p>As I’ve noted elsewhere, an important caveat to my essay: Ignore most of what I wrote under the subheading “Textual Evidence” because I was working from photocopies of a copyflow of a poor b&amp;w microfilm generations removed from the original microfilm of the BoMor printer’s manuscript—it was all I had access to at the time. Before the LDS church purchased the document for $35 million, I examined the printer’s manuscript at Community of Christ Library-Archives and what I had assumed was consistent ink usage proved to be varying colors in some instances and graphite in others.</p>
 </blockquote>
-<h4 id="prince-2">Prince:</h4>
+<h4 id="prince-2">Prince:<a class="zola-anchor" href="#prince-2" aria-label="Anchor link for: prince-2"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>That’s a good point. There is no question that, for instance, the loss of the 116 pages led to a significant disjunct in the text (as you’ve demonstrated).</p>
 </blockquote>
 <blockquote>
 <p>I’ve read most of “New Approaches” (but wasn’t focusing on consistency/coherence when I read it). After skimming it again just now, I don’t see that any of the arguments in the book, or your essay in particular, fully undermine several instances of remarkable consistency/coherence that still remain in the text as documented in the above “Book of Mormon details.pdf”. To be clear, I don’t think that level of consistency/coherence is at all remarkable for a manuscript that was planned out or where the author was able to refer to some notes. That level of consistency/coherence (even with the issues your book points out) <em>does</em> seem remarkable for an ad hoc narration, to my mind. I’m open to being convinced, but I think it will require that someone grapple with the kinds of details presented in “Book of Mormon details.pdf” and demonstrate how those kinds of details are compatible with an ad hoc narration.</p>
 </blockquote>
-<h4 id="metcalfe-2">Metcalfe:</h4>
+<h4 id="metcalfe-2">Metcalfe:<a class="zola-anchor" href="#metcalfe-2" aria-label="Anchor link for: metcalfe-2"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>The BoMor text <em>wasn’t</em> fully ad hoc… Lucy Mack, JS’s mother, said he had been telling stories about indigenous populations for <em>years</em> before he dictated the Amerisraelite/Jaredite tale. That said, there are narrative aporias—fundamental discontinuities—that suggest portions <em>were</em> ad hoc, as in not fully planned in advance. These are not always trivial themes; rather, structural elements that render the notion of an urtext (ancient or modern) nonsensical.</p>
 </blockquote>
-<h4 id="prince-3">Prince:</h4>
+<h4 id="prince-3">Prince:<a class="zola-anchor" href="#prince-3" aria-label="Anchor link for: prince-3"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>Thank you, again, for your thoughts on this (I do appreciate them, even if I am pushing back a bit).</p>
 </blockquote>
 <blockquote>
 <p>The “notes in a hat” theory makes most sense when coupled with some extemporizing (see the section of my document discussing the “compression ratio”), and it’s not incompatible with discontinuities. It does, however, help to make sense of the things that <em>are</em> consistent. I do not consider it impossible that Joseph dictated the text ad hoc (based in part on the past generation of the storyline), I just think the “notes in a hat” may help to account for certain major and minor data points better than other theories.</p>
 </blockquote>
-<h4 id="metcalfe-3">Metcalfe:</h4>
+<h4 id="metcalfe-3">Metcalfe:<a class="zola-anchor" href="#metcalfe-3" aria-label="Anchor link for: metcalfe-3"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>Thanks for your amicable reply, John.</p>
 </blockquote>
 <blockquote>
 <p>There is strong evidence that JS et al. were reading the BoMor manuscript during the dictation (e.g., Oliver Cowdery issued a revelation in June 1829 that heavily borrows from the BoMor text)… such readings would account for both the consistencies and discontinuities.</p>
 </blockquote>
-<h4 id="prince-4">Prince:</h4>
+<h4 id="prince-4">Prince:<a class="zola-anchor" href="#prince-4" aria-label="Anchor link for: prince-4"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>When you have a chance, can you point me to the evidence or the best sources for that? Thank you.</p>
 </blockquote>
-<h4 id="metcalfe-4">Metcalfe:</h4>
+<h4 id="metcalfe-4">Metcalfe:<a class="zola-anchor" href="#metcalfe-4" aria-label="Anchor link for: metcalfe-4"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>John, most of this is from my own research (culled together in scattered notes—physical and digital)… I hope to write something on this at some point. In the interim, you can find OC’s June 1829 revelation here (the impetus for OC’s revelation was the injunction given in D&amp;C 18:2–5)…</p>
 </blockquote>
@@ -198,16 +295,15 @@
 <p><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1">https://www.josephsmithpapers.org/paper-summary/appendix-3-articles-of-the-church-of-christ-june-1829/1</a></p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -222,105 +318,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

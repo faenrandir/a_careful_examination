@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon | A Careful Examination</title>
+<meta property="og:title" content="A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon | A Careful Examination" />
+<meta name="twitter:title" content="A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/short-critique-horses-bom/">
-  
+  <meta property="og:url" content="/a_careful_examination/short-critique-horses-bom/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon</h1>
@@ -103,28 +219,35 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="some-evidence-for-recent-pre-columbian-horses-exists">Some evidence for recent Pre-Columbian Horses exists</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="some-evidence-for-recent-pre-columbian-horses-exists">Some evidence for recent Pre-Columbian Horses exists<a class="zola-anchor" href="#some-evidence-for-recent-pre-columbian-horses-exists" aria-label="Anchor link for: some-evidence-for-recent-pre-columbian-horses-exists"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Steven E. Jones has compiled a list of horse bones and data <a rel="external" href="https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus">which suggest the existence of some pre-Columbian horses</a> and his work has been amplified by Craig Downer <a rel="external" href="http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf">here</a>.  A skeptical view of these findings is presented by a person with some significant archeological training and practice at Archaeological Fantasies in <a rel="external" href="https://archyfantasies.com/a-horse-is-a-horse/">this post</a>.</p>
 <p>Book of Mormon Central points to a later fossil (~2540 YBP) discovered and dated by Wade Miller.  This find <a rel="external" href="https://www.reddit.com/r/exmormon/comments/8dovks/an_attempt_to_account_for_the_use_of_horse_in_the/dxoyvsk/">has been published in BYU Studies</a>, but not in a scientific journal, yet.</p>
 <p>In addition, Yvette Running Horse Collin has documented oral traditions among several native American tribes indicating pre-Columbian horse use, as well as highlighting archeological and dating research that might point to recent Pre-Columbian horse use.  She then points out many areas where additional research is needed to decisively resolve the question (see her 2017 dissertation: <a rel="external" href="https://search.proquest.com/docview/1895090520?pq-origsite=gscholar">The Relationship Between the Indigenous Peoples of the Americas and the Horse: Deconstructing a Eurocentric Myth</a>).  An informal critique of claims that the Native Americans had horse populations before New World contact may be found <a rel="external" href="https://www.reddit.com/r/mormon/comments/ewf5h4/follow_up_to_a_peterson_among_the_horses_and/">here</a>.</p>
 <p>For additional discussion, see the bibliography associated with this Book of Mormon central article <a rel="external" href="https://bookofmormoncentral.org/qa/why-does-the-book-of-mormon-mention-horses">here</a> and the Interpreter article <a rel="external" href="http://interpreterfoundation.org/animals-in-the-book-of-mormon-challenges-and-perspectives/">here</a>.</p>
 <p>Taken collectively, these findings suggest the possibility that horses may have existed on the American continent close to or during Book of Mormon times.  It is safe to say that the overwhelming scientific consensus remains that horses did not exist in the Americas during this time, but consenses tend to track orthogonal, well-validated data.  Only time and additional scrutiny will bring full resolution to this question.</p>
-<h2 id="absence-of-cultural-integration">Absence of cultural integration</h2>
+<h2 id="absence-of-cultural-integration">Absence of cultural integration<a class="zola-anchor" href="#absence-of-cultural-integration" aria-label="Anchor link for: absence-of-cultural-integration"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Even if we grant that wild horses were around a given culture, the use of horses and chariots (or large wheeled vehicles of any kind) in the manner implied by Alma 18 and 20 is undocumented among any pre-Columbian Americans.  The fallback apologetic model is that the chariot was more of a human-powered litter and the horses merely accompanied the kingly procession in order to provide food for the journey (there is some support for this in the text).  Still, we expect that such a program of domestication (for food or otherwise) would have left marks in a culture’s iconography and dramatically increased the odds that horse remains would be associated with archaeological digs (see, for instance, <a rel="external" href="https://www.sapiens.org/column/off-the-map/horse-domestication-mongolia/">the cultural evidence left behind as an artifact of Mongolian horse domestication</a> and <a rel="external" href="http://www.ancient-origins.net/news-history-archaeology/mesoamericans-teotihuacan-kept-ferocious-animals-captive-and-may-have-fed-020668">the kinds of fossil and cultural entanglement that can occur</a>). As it stands, there is no record of horses being domesticated for food by any pre-Columbian American culture of which I am aware.</p>
-<h2 id="word-loan-shifting">Word loan-shifting</h2>
-<h3 id="tapirs-alpacas-and-llamas">Tapirs, alpacas, and llamas</h3>
+<h2 id="word-loan-shifting">Word loan-shifting<a class="zola-anchor" href="#word-loan-shifting" aria-label="Anchor link for: word-loan-shifting"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="tapirs-alpacas-and-llamas">Tapirs, alpacas, and llamas<a class="zola-anchor" href="#tapirs-alpacas-and-llamas" aria-label="Anchor link for: tapirs-alpacas-and-llamas"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Word “loan-shifting” has also been suggested as a way of dealing with the horse problem (so, perhaps “horse” meant tapir).  The difficulty here is that tapir are not fully domesticable, so it is difficult to imagine any of these being used as described in the fallback model for Alma 18 and 20.  In addition, we have no evidence that these animals were used in that fashion among any pre-Columbian American culture.  Alpacas and llamas <a rel="external" href="http://www.llamapack.com/text/history.html">were used as beasts of burden</a> (and perhaps to some much lesser extent for food?) among some ancient Americans, but it is hard to imagine these not being described as <em>camels</em> instead of horses in the Book of Mormon text (i.e., describing these as “horses” seems silly when a “camel” would have been well-known to Middle Easterners and Joseph Smith).</p>
-<h3 id="travois-as-the-chariot">Travois as the “chariot”?</h3>
+<h3 id="travois-as-the-chariot">Travois as the “chariot”?<a class="zola-anchor" href="#travois-as-the-chariot" aria-label="Anchor link for: travois-as-the-chariot"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>The word “chariot” seems to imply carrying a human.</li>
 <li>The word chariot comes from the latin “carrus” which means “wheeled vehicle” and in common usage implies wheels.</li>
 </ol>
 <p>Also, it seems like a different available word (e.g., “sled”?) could easily have conveyed the idea of a travois?
 So, travois is a problematic candidate for “chariot”.</p>
-<h3 id="deer">Deer?</h3>
+<h3 id="deer">Deer?<a class="zola-anchor" href="#deer" aria-label="Anchor link for: deer"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The idea that Joseph would have shifted the concept of deer to horse seems implausible for the following reasons:</p>
 <ul>
 <li>Middle Easterners would have been familiar with <em>both</em> deer and horses.</li>
@@ -132,7 +255,8 @@ So, travois is a problematic candidate for “chariot”.</p>
 <li>I’m unaware of any loan-shifting (ever) from “deer” <strong>to</strong> “horse”.  We have American Indians which called “horses” “deer”, but that’s because they likely did not have any words for or experience with horses.</li>
 </ul>
 <p>Linguistically, then, the loan shift from “deer” to “horse” seems unlikely.</p>
-<h2 id="joseph-smith-s-milieu">Joseph Smith’s milieu?</h2>
+<h2 id="joseph-smith-s-milieu">Joseph Smith’s milieu?<a class="zola-anchor" href="#joseph-smith-s-milieu" aria-label="Anchor link for: joseph-smith-s-milieu"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The prevailing thought in Joseph Smith’s time was that horses were brought to the Americas by the Europeans.  However, the popular book “The Natural and Aboriginal History of Tennessee” published in 1823 interprets horse tracks as potentially ancient.  These potentially ancient horse tracks were found:</p>
 <ol>
 <li><a rel="external" href="https://archive.org/stream/naturalaborigina00hayw#page/n41/mode/2up/search/horse">In association with human foot prints</a></li>
@@ -143,16 +267,15 @@ So, travois is a problematic candidate for “chariot”.</p>
 <hr />
 <p>acknowledgements: /u/JohnH2 offered useful critiques</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -167,105 +290,9 @@ So, travois is a problematic candidate for “chariot”.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

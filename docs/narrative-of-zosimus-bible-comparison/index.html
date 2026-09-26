@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Comparison of the Narrative of Zosimus with the Bible | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Comparison of the Narrative of Zosimus with the Bible | A Careful Examination</title>
+<meta property="og:title" content="Comparison of the Narrative of Zosimus with the Bible | A Careful Examination" />
+<meta name="twitter:title" content="Comparison of the Narrative of Zosimus with the Bible | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/narrative-of-zosimus-bible-comparison/">
-  
+  <meta property="og:url" content="/a_careful_examination/narrative-of-zosimus-bible-comparison/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Comparison of the Narrative of Zosimus with the Bible</h1>
@@ -103,41 +219,17 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#chapter-1">Chapter 1</a></li>
-        
-          <li><a href="#chapter-2">Chapter 2</a></li>
-        
-          <li><a href="#chapter-3">Chapter 3</a></li>
-        
-          <li><a href="#chapter-4">Chapter 4</a></li>
-        
-          <li><a href="#chapter-five-greek">Chapter Five (Greek)</a></li>
-        
-          <li><a href="#chapter-six-greek">Chapter Six (Greek)</a></li>
-        
-          <li><a href="#chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</a></li>
-        
-          <li><a href="#chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch’s original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:</p>
+  
+  
+
+  <div class="post-content">
+    <p>Using chatgpt4o (2024-09-10) and my transcript (link) of the Greek version of the Narrative of Zosimus I created a side-by-side comparison similar to Welch’s original comparison with the Book of Mormon (Welch also only did a columnar comparison with the Greek). I used this prompt:</p>
 <p><em>Please make two columns. On the left, the entire text that I’m pasting in, in reasonable thematic chunks for comparison. On the right, please include the bible reference and text for the bible verses that are most similar to the text I have input. The final output should be markdown formatted code.</em></p>
 <p>I then took each reference and re-looked it up in https://bible-api.com using the “kjv” translation (or the KJV of https://www.biblegateway.com/ for the Song of Solomon reference since was giving trouble through the API) to ensure that the text was the complete kjv text for the given reference (so that the representative text corresponds with the verse to avoid LLM hallucination).</p>
 <p><em>I have not yet carefully validated chatgpt4o’s output, and it is known to make mistakes, so all output should be taken with caution.</em></p>
 <hr />
-<h2 id="chapter-1">Chapter 1</h2>
+<h2 id="chapter-1">Chapter 1<a class="zola-anchor" href="#chapter-1" aria-label="Anchor link for: chapter-1"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>About that time there was in the desert a certain man named Zosimus, [who for forty years ate no bread, and drank no wine, and saw not the face of man.]</td><td><strong>Matthew 4:1-2</strong> - “Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. And when he had fasted forty days and forty nights, he was afterward an hungred.”</td></tr>
 <tr><td>This man was entreating God that he might see the way of life of the blessed, and behold an angel of the Lord was sent saying to him, Zosimus, man of God, behold I am sent by the Most High, the God of all, to tell thee that thou shalt journey to the blessed, but shall not dwell with them.</td><td><strong>Genesis 28:12-13</strong> - “And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it. And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;”</td></tr>
@@ -146,7 +238,8 @@
 <tr><td>Zosimus said, I know that the Lord can do whatsoever he will.</td><td><strong>Job 42:2</strong> - “I know that thou canst do every thing, and that  no thought can be withholden from thee.”</td></tr>
 <tr><td>The angel said to him, Know this also, that thou art not worthy of one of their delights, but arise and set out.</td><td><strong>Isaiah 6:5</strong> - “Then said I, Woe is me! for I am undone; because I am  a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.”</td></tr>
 </tbody></table>
-<h2 id="chapter-2">Chapter 2</h2>
+<h2 id="chapter-2">Chapter 2<a class="zola-anchor" href="#chapter-2" aria-label="Anchor link for: chapter-2"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>And I, Zosimus, issuing from my cave with God leading me, set out not knowing which way I went…</td><td><strong>Genesis 12:1</strong> - “Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:”</td></tr>
 <tr><td>After I had travelled forty days my spirit grew faint and my body failed…</td><td><strong>1 Kings 19:8</strong> - “And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.”</td></tr>
@@ -161,7 +254,8 @@
 <tr><td>And looking up I saw a wall of cloud stretching from the waters to the heaven…</td><td><strong>Exodus 14:19</strong> - “And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:”</td></tr>
 <tr><td>The cloud said, Zosimus, man of God, through me no bird passes out of this world…</td><td><strong>Genesis 28:12</strong> - “And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.”</td></tr>
 </tbody></table>
-<h2 id="chapter-3">Chapter 3</h2>
+<h2 id="chapter-3">Chapter 3<a class="zola-anchor" href="#chapter-3" aria-label="Anchor link for: chapter-3"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>And I was astonished at these words, and at the voice that spake these things to me.</td><td><strong>Daniel 8:15-16</strong> - “And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man. And I heard a man’s voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.”</td></tr>
 <tr><td>And as I prayed, behold two trees sprang up out of the earth, fair and beautiful, laden with fragrant fruits.</td><td><strong>Genesis 2:9</strong> - “And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.”</td></tr>
@@ -172,7 +266,8 @@
 <tr><td>I went forward, whither I knew not, and that place was filled with much fragrance,</td><td><strong>Song of Solomon 2:13</strong> - “The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.”</td></tr>
 <tr><td>and there was no mountain on either hand, but the place was level and flowery, all crowned with garlands, and all the land was beautiful.</td><td><strong>Isaiah 35:1-2</strong> - “The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God.”</td></tr>
 </tbody></table>
-<h2 id="chapter-4">Chapter 4</h2>
+<h2 id="chapter-4">Chapter 4<a class="zola-anchor" href="#chapter-4" aria-label="Anchor link for: chapter-4"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>And I saw there a naked man sitting, and said in myself, Surely this is not the tempter.</td><td><strong>Genesis 3:10</strong> - “And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.”</td></tr>
 <tr><td>And I remembered the voice of the cloud that it said to me, Not even the tempter in this world passes through me.</td><td><strong>Job 1:7</strong> - “And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.”</td></tr>
@@ -183,7 +278,8 @@
 <tr><td>He answered and said to me, I also know that thou art a man of God, for if not, thou couldst not have passed through the cloud and the river and the air.</td><td><strong>2 Kings 5:15</strong> - “And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is  no God in all earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.”</td></tr>
 <tr><td>For the breadth of the river is about thirty thousand paces, and the cloud reaches to heaven, and the depth of the river to the abyss.</td><td><strong>Revelation 22:1</strong> - “And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.”</td></tr>
 </tbody></table>
-<h2 id="chapter-five-greek">Chapter Five (Greek)</h2>
+<h2 id="chapter-five-greek">Chapter Five (Greek)<a class="zola-anchor" href="#chapter-five-greek" aria-label="Anchor link for: chapter-five-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>And having ended this discourse the man spoke again, Hast thou come hither out of the vanity of the world?</td><td><strong>1 John 2:16-17</strong> - “For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.”</td></tr>
 <tr><td>I said to him, Wherefore art thou naked? He said, How knowest thou that I am naked?</td><td><strong>Genesis 3:10</strong> - “And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.”</td></tr>
@@ -200,7 +296,8 @@
 <tr><td>and then he shall go forth and depart to his own place.</td><td><strong>John 16:28</strong> - “I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.”</td></tr>
 <tr><td>The angels of God having said this ascended into heaven before our eyes.</td><td><strong>Acts 1:9</strong> - “And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.”</td></tr>
 </tbody></table>
-<h2 id="chapter-six-greek">Chapter Six (Greek)</h2>
+<h2 id="chapter-six-greek">Chapter Six (Greek)<a class="zola-anchor" href="#chapter-six-greek" aria-label="Anchor link for: chapter-six-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>Then the elders of the blessed gave me over to one of the attendants, saying, Keep him for seven days.</td><td><strong>Genesis 37:36</strong> - “And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, and captain of the guard.”</td></tr>
 <tr><td>So the attendant receiving me led me to his cave, and we sat under a tree partaking of food.</td><td><strong>1 Kings 19:4-5</strong> - “But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers. And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.”</td></tr>
@@ -217,7 +314,8 @@
 <tr><td>And the elders said, And now what wilt thou we should do to thee?</td><td><strong>Matthew 27:22</strong> - “Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.”</td></tr>
 <tr><td>I said to them, I desire to learn of you your way of life.</td><td><strong>Luke 10:39</strong> - “And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.”</td></tr>
 </tbody></table>
-<h2 id="chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)</h2>
+<h2 id="chapters-seven-to-nine-greek">Chapters Seven to Nine (Greek)<a class="zola-anchor" href="#chapters-seven-to-nine-greek" aria-label="Anchor link for: chapters-seven-to-nine-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>7. And they rejoiced with great joy,</td><td><strong>Nehemiah 8:12</strong> - “And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.”</td></tr>
 <tr><td>And taking up tables of stone they wrote on them with their nails,</td><td><strong>Exodus 24:12</strong> - “And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.”</td></tr>
@@ -244,7 +342,8 @@
 <tr><td>When therefore he had brought us to this place, the river was dried up and the water was swallowed up by the abyss…</td><td><strong>Revelation 16:12</strong> - “And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.”</td></tr>
 <tr><td>…and he made a wall round this country, and there came a wall of cloud, and shadowed above the water; and he did not scatter us over all the earth, but gave to us this country.</td><td><strong>Exodus 13:21</strong> - “And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:”</td></tr>
 </tbody></table>
-<h2 id="chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)</h2>
+<h2 id="chapters-ten-and-eleven-greek">Chapters Ten and Eleven (Greek)<a class="zola-anchor" href="#chapters-ten-and-eleven-greek" aria-label="Anchor link for: chapters-ten-and-eleven-greek"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th><strong>Narrative of Zosimus</strong></th><th><strong>Bible reference with similar theme</strong></th></tr></thead><tbody>
 <tr><td>10. Hear, ye sons of men, hear the way of life of the blessed. For God placed us in this land, for we are holy but not immortal.</td><td>“Blessed are the meek: for they shall inherit the earth.” - <strong>Matthew 5:5</strong> <br> “For the wages of sin is death; but the gift of God is  eternal life through Jesus Christ our Lord.” - <strong>Romans 6:23</strong></td></tr>
 <tr><td>For the earth produces most fragrant fruit, and out of the trunks of the trees comes water sweeter than honey, and these are our food and drink.</td><td>“And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.” - <strong>Genesis 2:9</strong> <br> “That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.” - <strong>Deuteronomy 11:14</strong></td></tr>
@@ -265,16 +364,15 @@
 <tr><td>…praying to the Lord that he may cease from his anger and spare your offences.</td><td><strong>Ezekiel 18:32</strong> - “For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.”</td></tr>
 </tbody></table>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -289,105 +387,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

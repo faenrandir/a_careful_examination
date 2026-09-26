@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?” | A Careful Examination</title>
+<meta property="og:title" content="Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?” | A Careful Examination" />
+<meta name="twitter:title" content="Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?”</h1>
@@ -98,17 +214,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>On November 1, 2016, Tad Callister, general president of the Sunday School and former General Authority, delivered a BYU Devotional entitled <a rel="external" href="https://speeches.byu.edu/talks/tad-r-callister_book-mormon-man-made-god-given/">The Book of Mormon: Man-Made or God-Given?</a>  The talk is somewhat unique among recent addresses by general officers of the Church in that it addresses in scholarly fashion<sup class="footnote-reference" id="fr-37footnotes-1"><a href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn-37footnotes">[1]</a></sup> various theories about the creation of the Book of Mormon.  Callister argues against these theories and then offers counter-evidence and argumentation supporting the orthodox LDS narrative.  Shortly after, he gave a highly condensed and slightly modified version of the talk in general conference.<sup class="footnote-reference" id="fr-followedupwithgctalk-1"><a href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn-followedupwithgctalk">[2]</a></sup>  More recently, he published a book on the topic, <a rel="external" href="https://www.goodreads.com/book/show/43914093-a-case-for-the-book-of-mormon">A Case for the Book of Mormon</a>.</p>
 <p>Although some responses were made to his conference address, very partial responses have been made to his book,<sup class="footnote-reference" id="fr-partialresponsetobook-1"><a href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn-partialresponsetobook">[3]</a></sup> and some responses have addressed portions of his devotional, none have yet responded to his arguments in full.  Given that Callister carefully and emphatically lays out a case in defense of the orthodox LDS position, and given his status as a general officer of the Church and the forum where the address was delivered, it seems appropriate to offer up a detailed counter-response to Callister’s core arguments.<sup class="footnote-reference" id="fr-nobookresponse-1"><a href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/#fn-nobookresponse">[4]</a></sup></p>
-<h1 id="response">Response</h1>
+<h1 id="response">Response<a class="zola-anchor" href="#response" aria-label="Anchor link for: response"><i class="fas fa-link"></i></a> 
+</h1>
 <p>Callister’s devotional is quoted in full except for the omission of a few relatively small chunks of text that are tangential to his primary thesis.  Callister’s headings are duplicated below to help orient the reader.</p>
 <p>To easily distinguish Callister’s voice from other block quotations and orient the reader, all Callister quotes are colored red and prefaced “[<Abbr>:<ParagraphNumber>]” (so, [Arg2:1] corresponds to Callister’s Argument #2, first paragraph).</p>
 <p>Virtually all modern non-LDS scholars seem to view the <a href="/a_careful_examination/how-could-joseph-smith-composed-bom/">oral composition model</a> as most likely, but <a href="/a_careful_examination/two-models-for-bom-origins/">other models exist</a> and will occasionally be referenced.</p>
-<h2 id="the-book-of-mormon-is-the-keystone-of-our-religion-keystone">The Book of Mormon is the Keystone of our Religion (“Keystone”)</h2>
+<h2 id="the-book-of-mormon-is-the-keystone-of-our-religion-keystone">The Book of Mormon is the Keystone of our Religion (“Keystone”)<a class="zola-anchor" href="#the-book-of-mormon-is-the-keystone-of-our-religion-keystone" aria-label="Anchor link for: the-book-of-mormon-is-the-keystone-of-our-religion-keystone"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Keystone:1–2] … Because the Book of Mormon is “the keystone of our religion,” as described by Joseph Smith, <strong>the Church rises or falls on the truth of it.</strong> (emphasis added)</span></p>
 </blockquote>
@@ -150,12 +270,14 @@
 <p><span style="color:red; margin-left:-30px;">[Keystone:6e] Critics must either dismiss the Book of Mormon with a sheepish shrug or produce a viable alternative to Joseph Smith’s account; namely, that he translated it by the gift and power of God.</span></p>
 </blockquote>
 <p>What follows are a few alternatives which are consistent with much of the historical data.  After considering these alternative points of view, the reader is then better equipped to decide which model—modern or ancient—fits the data best.</p>
-<h2 id="argument-1-joseph-smith-alleged-to-be-an-ignorant-man-wrote-the-book-of-mormon">Argument 1: Joseph Smith, Alleged to be an Ignorant Man, Wrote The Book Of Mormon</h2>
+<h2 id="argument-1-joseph-smith-alleged-to-be-an-ignorant-man-wrote-the-book-of-mormon">Argument 1: Joseph Smith, Alleged to be an Ignorant Man, Wrote The Book Of Mormon<a class="zola-anchor" href="#argument-1-joseph-smith-alleged-to-be-an-ignorant-man-wrote-the-book-of-mormon" aria-label="Anchor link for: argument-1-joseph-smith-alleged-to-be-an-ignorant-man-wrote-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Arg1:1–4] In 1831 a clergyman named Alexander Campbell proposed that Joseph Smith wrote rather than translated the Book of Mormon … the early critics concluded there must be some other explanation for the origin of the Book of Mormon than the unlikely possibility that Joseph wrote it.</span></p>
 </blockquote>
 <p>As Callister alludes, it has been well over 150 years since anyone has subscribed to the theory that Joseph Smith—as an “ignorant …  knave”—authored the Book of Mormon.  However, we should not too hastily dismiss the “Joseph composed it” model: Joseph was a <a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/">fairly educated, religiously and scripturally proficient young man</a>.  The model with Joseph as primary author will be considered in greater detail along with argument #5 below.</p>
-<h2 id="argument-2-someone-else-wrote-it">Argument 2: Someone else wrote it</h2>
+<h2 id="argument-2-someone-else-wrote-it">Argument 2: Someone else wrote it<a class="zola-anchor" href="#argument-2-someone-else-wrote-it" aria-label="Anchor link for: argument-2-someone-else-wrote-it"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Arg2:1] Accordingly, some critics proposed the theory that Joseph Smith conspired with someone who had the education, intelligence, and skills to write the Book of Mormon.[6] One candidate for its authorship was Oliver Cowdery. After all, he was a schoolteacher, a scribe, and later a lawyer. But a major problem arose for the critics: Oliver never claimed to have written any portion of the book; in fact, he testified to the contrary:</span></p>
 </blockquote>
@@ -212,7 +334,8 @@
 </blockquote>
 <p>This statement must be balanced by the fact that <a rel="external" href="http://www.mormonthink.com/mormonstudiesrigdon.htm#34">Ridgon instructed his wife to burn all of his writings upon his death</a>.  If Rigdon had nothing to hide, then why have his writings all burned?  Also, a co-conspirator stands to lose much by admitting to being part of a significant conspiracy, even on their death-bed (we are creatures who seek meaning, so admitting to a lie on one’s deathbed may be seen as undermining the very meaning behind one’s life).</p>
 <p>In any case, Rigdon is not an essential component of the model defended by most non-LDS scholars (Joseph composed the book orally), so even if he were definitively shown to have not been part of the creation of the Book of Mormon, that still would not undermine the modern origin theory, generally.</p>
-<h2 id="argument-3-the-book-of-mormon-was-plagiarized-from-other-books">Argument 3: The Book Of Mormon Was Plagiarized From Other Books</h2>
+<h2 id="argument-3-the-book-of-mormon-was-plagiarized-from-other-books">Argument 3: The Book Of Mormon Was Plagiarized From Other Books<a class="zola-anchor" href="#argument-3-the-book-of-mormon-was-plagiarized-from-other-books" aria-label="Anchor link for: argument-3-the-book-of-mormon-was-plagiarized-from-other-books"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Arg3:1a] Other critics offered a different line of attack; namely, that Joseph Smith plagiarized the Book of Mormon (at least its historical content) from other existing books.</span></p>
 </blockquote>
@@ -274,7 +397,8 @@
 <p><span style="color:red; margin-left:-30px;">[Arg3:6b] Any honest reader can determine that for himself.</span></p>
 </blockquote>
 <p>The implication here is that those who still see a potential <em>influence</em> of View of the Hebrews in the Book of Mormon, even though they acknowledge differences in purpose or style, lack honesty.  Given <a rel="external" href="https://i.redd.it/hiv3nejpu2611.png">the number of similarities</a> and B.H. Roberts’ observations noted above, such insinuation seems hasty.</p>
-<h2 id="argument-4-joseph-suffered-from-a-mental-illness">Argument 4: Joseph Suffered From A Mental Illness</h2>
+<h2 id="argument-4-joseph-suffered-from-a-mental-illness">Argument 4: Joseph Suffered From A Mental Illness<a class="zola-anchor" href="#argument-4-joseph-suffered-from-a-mental-illness" aria-label="Anchor link for: argument-4-joseph-suffered-from-a-mental-illness"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Arg4:1–5] [essence summarized in the last paragraph directly below]</span></p>
 </blockquote>
@@ -282,7 +406,8 @@
 <p><span style="color:red; margin-left:-30px;">[Arg4:6] … As you would expect, these arguments that Joseph Smith suffered from a mental illness never got much traction.</span></p>
 </blockquote>
 <p>Argument 4 is nearly 100 years old and is not seriously entertained by modern scholars today, so we both agree it is mostly irrelevant at this point.</p>
-<h2 id="argument-5-joseph-smith-was-a-creative-genius-who-shaped-by-his-environment-wrote-the-book-of-mormon">Argument 5: Joseph Smith Was A Creative Genius Who, Shaped By His Environment, Wrote The Book Of Mormon</h2>
+<h2 id="argument-5-joseph-smith-was-a-creative-genius-who-shaped-by-his-environment-wrote-the-book-of-mormon">Argument 5: Joseph Smith Was A Creative Genius Who, Shaped By His Environment, Wrote The Book Of Mormon<a class="zola-anchor" href="#argument-5-joseph-smith-was-a-creative-genius-who-shaped-by-his-environment-wrote-the-book-of-mormon" aria-label="Anchor link for: argument-5-joseph-smith-was-a-creative-genius-who-shaped-by-his-environment-wrote-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Arg5:1a] This argument has become a principal one used by many if not most critics today.</span></p>
 </blockquote>
@@ -417,7 +542,8 @@
 <p>It seems that Joseph was capable of generating scripture <em>ad hoc</em> (e.g., the Book of Abraham, the Book of Moses, and the Doctrine and Covenants), and so we do not necessarily expect to see a trail during the generative process (see <a rel="external" href="https://www.reddit.com/r/mormon/comments/b0stiu/creativity_theory_and_the_origin_of_the_book_of/">this discussion on compenential creativity theory</a>).  And, as previously discussed, Joseph consulted and <a href="/a_careful_examination/joseph-consulting-clarkes-commentary/">inserted significant material</a> from Clarke’s commentary into the Joseph Smith Translation without leaving a single historical trace of such insertion—we only know that it happened via textual inference.</p>
 <p>Hard data also seems inherently difficult to come by for conspiracies because—by definition—those involved in a conspiracy are working to hide and obfuscate data that might expose the fraud.  The historical record suggests at least <a href="/a_careful_examination/joseph-smith-instructed-others-to-burn-communication/">four instances</a> where Joseph instructed or suggested to others to burn communication.</p>
 <p>Finally—and most importantly—there is ample textual evidence to demonstrate that the Book of Mormon came from the mind of someone in the early 1800s, as will be demonstrated in the next section on doctrine.</p>
-<h2 id="where-did-joseph-get-the-doctrine-doctrine">Where Did Joseph Get The Doctrine? (“Doctrine”)</h2>
+<h2 id="where-did-joseph-get-the-doctrine-doctrine">Where Did Joseph Get The Doctrine? (“Doctrine”)<a class="zola-anchor" href="#where-did-joseph-get-the-doctrine-doctrine" aria-label="Anchor link for: where-did-joseph-get-the-doctrine-doctrine"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Doctrine:1a] Even if Joseph had obtained historical facts from local libraries or community conversations—for which there is no substantiating evidence—the real issue still remains: Where did he get the deep and expansive doctrine taught in the Book of Mormon—much of which is contrary to the religious beliefs of his time?</span></p>
 </blockquote>
@@ -653,7 +779,8 @@
 <p>Joseph Smith’s wife, Emma, the person who knew him better than any other, confirmed this conclusion: “Joseph Smith [as a young man] could neither write nor dictate a coherent and well-worded letter; let alone dictat[e] a book like the Book of Mormon.”[32]</p>
 </blockquote>
 <p>There are good reasons to question Emma’s testimony of these events, and first hand primary documentation refutes her characterization of Joseph’s literary abilities, as discussed <a href="/a_careful_examination/reasons-to-discount-emmas-bom-testimony/">here</a>.</p>
-<h2 id="a-parable-that-counters-the-arguments-proposed-by-critics-parable">A Parable That Counters The Arguments Proposed By Critics (“Parable”)</h2>
+<h2 id="a-parable-that-counters-the-arguments-proposed-by-critics-parable">A Parable That Counters The Arguments Proposed By Critics (“Parable”)<a class="zola-anchor" href="#a-parable-that-counters-the-arguments-proposed-by-critics-parable" aria-label="Anchor link for: a-parable-that-counters-the-arguments-proposed-by-critics-parable"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Parable:1] In response to critics’ arguments as to the origin of the Book of Mormon, Hugh Nibley published the following parable:</span></p>
 </blockquote>
@@ -678,7 +805,8 @@
 </ul>
 <p>Finally, we find out that a number of researchers actually <em>have</em> <a rel="external" href="http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon/">carefully analyzed the diamond</a>, and they find that it contains <a href="/a_careful_examination/bom-parallels-to-1800s-thought/">the exact same kinds of contaminants as diamonds from the next county over</a>.  The farmer stood to gain much from convincing others his diamond was naturally produced in his field, since others would then <a rel="external" href="http://www.mrm.org/attempt-to-sell-copyright">buy the land from him</a> in search of diamonds.</p>
 <p>It comes as no suprise that those who had lost their fortune buying land from the farmer refused to acknowledge the careful research of those who had <a href="/a_careful_examination/bom-parallels-to-1800s-thought/">presented copious evidence that the diamond was a fake</a>.  Those who had invested in the land tried to <a rel="external" href="https://www.youtube.com/watch?v=HkcS-v_DolQ">discredit and belittle the researchers</a>, and they warned others to avoid their work because if it were true <a rel="external" href="https://www.youtube.com/watch?v=NSEsLtwKzvw">it would only bring the investors feelings of darkness and gloom</a> to think of all they had lost by trading their fortunes for synthetic diamonds of no special market value.</p>
-<h2 id="other-evidences-that-the-book-of-mormon-is-not-man-made-otherevidences">Other Evidences That The Book Of Mormon Is Not Man-Made (“OtherEvidences”)</h2>
+<h2 id="other-evidences-that-the-book-of-mormon-is-not-man-made-otherevidences">Other Evidences That The Book Of Mormon Is Not Man-Made (“OtherEvidences”)<a class="zola-anchor" href="#other-evidences-that-the-book-of-mormon-is-not-man-made-otherevidences" aria-label="Anchor link for: other-evidences-that-the-book-of-mormon-is-not-man-made-otherevidences"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[OtherEvidences:1] What other evidence do we have that the Book of Mormon was a God-given translation and not a man-made creation? There are many evidences, but for the sake of time I refer to but one, because it is personal to me. Emma Smith gave the following testimony, as reported by her son Joseph Smith III:</span></p>
 </blockquote>
@@ -701,7 +829,8 @@
   <center><img src="/a_careful_examination/communications/images/two_flowers.png" atl="Convergence on a modern origin" style="width:100%"></center>
   <figcaption><strong>LDS scholarship converges on a modern origin</strong><br/><strong>Left:</strong> LDS scholar observations converge on a modern origin even though none individually would likely endorse a modern origin. See <a href="/a_careful_examination/lds-scholars-modern-origin-evidence">here</a> for links to the research and key observations. <br/><strong>Right:</strong> A number of other scholars have made more complete cases for a modern origin.  The modern origin theory unifies all these disparate observations.</figcaption>
 </figure>
-<h2 id="how-we-can-discover-the-truth-of-a-divine-work-discover">How We Can Discover The Truth Of A Divine Work (“Discover”)</h2>
+<h2 id="how-we-can-discover-the-truth-of-a-divine-work-discover">How We Can Discover The Truth Of A Divine Work (“Discover”)<a class="zola-anchor" href="#how-we-can-discover-the-truth-of-a-divine-work-discover" aria-label="Anchor link for: how-we-can-discover-the-truth-of-a-divine-work-discover"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p><span style="color:red; margin-left:-30px;">[Discover:1] If I were to ask my good Christian friends how they unquestionably know the Bible is the word of God, I do not believe they would cite archaeological discoveries or linguistic connections with ancient Hebrew or Greek as their prime evidence; rather, they would make reference to the Spirit. It always comes back to the Spirit. The Spirit that helps me know the Bible is true is the very same Spirit that helps me know the Book of Mormon is true.[36]</span></p>
 </blockquote>
@@ -724,9 +853,11 @@
 <p><span style="color:red; margin-left:-30px;">[Discover:6] By that promised power of the Holy Ghost I bear my personal witness that the Book of Mormon is God-given and that it is all it claims to be—a pure and powerful witness of Jesus Christ, His divinity, and His doctrine. In the name of Jesus Christ, amen.</span></p>
 </blockquote>
 <p>The author appreciates Elder Callister’s witness while also questioning whether these experiences are sufficient reason to draw the firm conclusions from them that he has.</p>
-<h2 id="conclusions">Conclusions</h2>
+<h2 id="conclusions">Conclusions<a class="zola-anchor" href="#conclusions" aria-label="Anchor link for: conclusions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Callister insists that divine intervention is the only way to explain the creation of the Book of Mormon; however, as has been demonstrated, when Callister’s specific claims about the production of the book and its content are closely examined there appears to be adequate room to account for the Book of Mormon through standard human creative processes, and the book fits comfortably within the early 1800s theological and cultural milieu.</p>
-<h2 id="see-also">See Also</h2>
+<h2 id="see-also">See Also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://www.academia.edu/44478471/_Corrected_Text_The_Book_of_Mormon_and_the_Limits_of_Naturalistic_Criteria_Comparing_Joseph_Smith_and_Andrew_Jackson_Davis">The Book of Mormon and the Limits of Naturalistic Criteria: Comparing Joseph Smith and Andrew Jackson Davis</a> (Bill Davis)</li>
 <li><a rel="external" href="https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/">Visions in a Seer Stone</a>
@@ -739,23 +870,27 @@
 </li>
 <li><a rel="external" href="https://www.mormoninterpreter.com/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/">Curiously Unique: Joseph Smith as Author of the Book of Mormon</a> (Brian Hales)</li>
 </ul>
-<h3 id="responses-to-callister-s-similar-general-conference-talk">Responses to Callister’s similar General Conference talk</h3>
+<h3 id="responses-to-callister-s-similar-general-conference-talk">Responses to Callister’s similar General Conference talk<a class="zola-anchor" href="#responses-to-callister-s-similar-general-conference-talk" aria-label="Anchor link for: responses-to-callister-s-similar-general-conference-talk"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://spiritualwellnesstheory.com/2017/10/15/off-by-just-a-tad/">Cody L. Anderson</a></li>
 <li><a rel="external" href="https://drive.google.com/file/d/1naIxrtrDrCBXRgMASMrkenjCvyxA-H0e/view">Response by 12th_Tribe</a></li>
 <li><a rel="external" href="http://www.mormonapologies.com/book-of-mormon/october-2017-conference-tad-callisters-talk/">Response by MosiasH</a></li>
 </ul>
-<h4 id="rebuttals-to-the-responses">Rebuttals to the responses</h4>
+<h4 id="rebuttals-to-the-responses">Rebuttals to the responses<a class="zola-anchor" href="#rebuttals-to-the-responses" aria-label="Anchor link for: rebuttals-to-the-responses"><i class="fas fa-link"></i></a> 
+</h4>
 <ul>
 <li>Believing member <a rel="external" href="https://scripturalmormonism.blogspot.com/2017/10/responding-to-critique-of-tad.html">rebuttal to Christian apologist response</a></li>
 </ul>
-<h3 id="partial-responses-to-callister-s-byu-speech">Partial responses to Callister’s BYU Speech</h3>
+<h3 id="partial-responses-to-callister-s-byu-speech">Partial responses to Callister’s BYU Speech<a class="zola-anchor" href="#partial-responses-to-callister-s-byu-speech" aria-label="Anchor link for: partial-responses-to-callister-s-byu-speech"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>Response to <a rel="external" href="https://www.docdroid.net/NT0LCsR/response-to-tad-callister-bom-talk.pdf">The Book of Mormon: Man-Made or God-Given</a> (<a rel="external" href="https://www.reddit.com/r/exmormon/comments/7438jq/response_to_tad_callisters_the_book_of_mormon/">by /u/animatorcollin</a>)</li>
 <li><a rel="external" href="http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/">churchistrue response</a></li>
 <li><a rel="external" href="http://www.sonsofliberty.co/a-response-the-byu-devotional-the-book-of-mormon-man-made-or-god-given/">Robert John Stevens response</a></li>
 </ul>
-<h3 id="partial-response-to-callister-s-book">Partial response to Callister’s book</h3>
+<h3 id="partial-response-to-callister-s-book">Partial response to Callister’s book<a class="zola-anchor" href="#partial-response-to-callister-s-book" aria-label="Anchor link for: partial-response-to-callister-s-book"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/c0lts8/partial_response_from_david_bokovoy_to_tad/">Partial response</a> (David Bokovoy)</li>
 <li><a rel="external" href="https://medium.com/@wagslane/a-case-against-a-case-for-the-book-of-mormon-3ed943ef19c1">A Case Against A Case for the Book of Mormon</a> (Lane Wagner)</li>
@@ -819,16 +954,15 @@ issues concerned B.H. Roberts. <a href="/a_careful_examination/response-to-calli
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -843,105 +977,9 @@ issues concerned B.H. Roberts. <a href="/a_careful_examination/response-to-calli
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

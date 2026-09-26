@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LDS Retentive Socialization | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>LDS Retentive Socialization | A Careful Examination</title>
+<meta property="og:title" content="LDS Retentive Socialization | A Careful Examination" />
+<meta name="twitter:title" content="LDS Retentive Socialization | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/">
-  
+  <meta property="og:url" content="/a_careful_examination/lds-indoctrination-and-retentive-socialization/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">LDS Retentive Socialization</h1>
@@ -97,10 +213,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In <a rel="external" href="http://www.mormonlight.org/2017/08/14/message-ardent-critic-church/">A Message To The Most Ardent Critic Of The Mormon Church</a>, Ben Arkell quotes a nameless member of the church who had recently dropped off their daughter and son at the Missionary Training Center (MTC) of the Church of Jesus Christ of Latter-day Saints (emphasis added):</p>
 <blockquote>
 <p>“I wish I could go to those who have walked away from the Church, and those who are its ardent critics, and say, “Come with me to the MTC on a Wednesday morning and let’s just watch. Let’s stand together and watch these families say goodbye to their sons and daughters.”</p>
@@ -112,19 +230,23 @@
 <p>“Never. They would never do it.’</p>
 </blockquote>
 <p>This document attempts to broadly address—from a scholarly perspective—the question of why many parents may be willing to send their children off as LDS missionaries for two years.</p>
-<h3 id="brainwashing">Brainwashing?</h3>
+<h3 id="brainwashing">Brainwashing?<a class="zola-anchor" href="#brainwashing" aria-label="Anchor link for: brainwashing"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Neither parents or their children are “brainwashed”—most psychologists today would reject such a term to describe behavior like this (e.g., see <a rel="external" href="https://en.wikipedia.org/wiki/Brainwashing#American_Psychological_Association_on_brainwashing">APA article on brainwashing</a> and <a rel="external" href="https://www.cesnur.org/2003/brain_conv.htm">Anthony and Robbins 2004</a>) .  Rather, psychologists are likely to view and analyze such actions in terms of socialization via <a rel="external" href="https://en.wikipedia.org/wiki/Social_learning_theory">social learning theory</a>.  Social learning suggests that not only is behavior modified based on direct instruction but also through the observation of rewards and punishments (vicarious reinforcement).  Virtually all psychologists recognize the power of <a rel="external" href="https://en.wikipedia.org/wiki/Socialization">socialization</a> in shaping human behavior—socialization encourages some kinds of behavior and discourages other behavior.</p>
 <p>The well-respected psychologist of religion, Benjamin Beit-Hallahmi, <a rel="external" href="https://books.google.com/books?id=EfNTBAAAQBAJ&amp;pg=PA43&amp;lpg=PA43&amp;dq=we+take+it+for+granted+benjamin+beit-hallahmi&amp;source=bl&amp;ots=Tgq6kGK3_5&amp;sig=SdRbPV6WkxQBtF0pPubciSq2B60&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&amp;q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&amp;f=false">explained</a>:</p>
 <blockquote>
 <p>Social learning, despite its seeming simplicity…remains the best explanation for most religious actions.  It is the best explanation for the overall prevalence of religion, for individual religiosity, and for … the most dramatic of religious acts and movements. … The variety of religious traditions and the correspondence between the dominant tradition in the social environment and the religious beliefs of the individual are the most obvious proofs to the validity of the social learning approach, which is also able to explain what are considered intense religious experiences….</p>
 </blockquote>
 <p>More specifically, then, this document attempts to tackle the question: <strong>What LDS programs or cultural phenomena might be contributing most to high levels of devotion and sacrifice observed in LDS members?</strong></p>
-<h3 id="what-about-the-truth-claims">What about the truth-claims?</h3>
+<h3 id="what-about-the-truth-claims">What about the truth-claims?<a class="zola-anchor" href="#what-about-the-truth-claims" aria-label="Anchor link for: what-about-the-truth-claims"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Whether or not the LDS Church is “true” (i.e., whether its truth-claims are veridical) is sidestepped in this document.  In addition, the manner in which the LDS socialization program reflects on LDS truth claims is unclear.  For instance, a believing member may argue that an effective socialization program is an indicator of the truth of the LDS Church: we might expect God to implement an effective socialization program to spread truth and encourage orthodoxy in the face of evil or ignorant forces intent on undermining it.  On the other hand, a critic might argue that such an intense socializing program is an indicator of the weakness of the LDS faith: why such a program if the truth-claims could stand on their own merit?  One may argue—from the same data—that the LDS Church fosters devotion in part <em>because of</em> the accuracy, power, and beauty of its truth-claims, or it may be foster devotion <em>in spite of</em> its truth-claims were we to suppose that the claims were false.</p>
 <p>A more productive question is whether the level of belief and devotion fostered in LDS members could be the product of an effective socializing culture and program <em>regardless of</em> the veridicality of LDS truth-claims.  We see, for instance, high levels of belief and devotion in groups like the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS) or in the Jehovah’s Witnesses, and presumably at most only one of these groups has fully accurate truth-claims.  The existence of high levels of devotion in groups with contradicting truth-claims itself suggests that socialization may account for some significant level of belief and devotion within the groups.  Nonetheless, it must be acknowledged that one cannot fully tease apart devotion behavior from truth-claim correctness, and this document makes no attempt to do so.</p>
-<h2 id="fourteen-socializing-influences">Fourteen socializing influences</h2>
+<h2 id="fourteen-socializing-influences">Fourteen socializing influences<a class="zola-anchor" href="#fourteen-socializing-influences" aria-label="Anchor link for: fourteen-socializing-influences"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Below are listed what I view as the main sources of socializing influence which may drive members towards activity and discourage them from activities which might diminish their belief and participation in the LDS Church.  I acknowledge that <strong>many counter-examples within Church approved resources exist which moderate some of the more extreme material and examples discussed below</strong>, even though I have not included them for the sake of brevity.  In addition, the level of emphasis on retentive doctrine and practices that any given member of the LDS Church experiences will vary significantly from family-to-family, location-to-location, and in which era of time a person experienced a particular LDS program.  Still, I have attempted to focus on examples which will likely resonate with <em>most</em> active members’ experiences and constitute the threads which most strongly encourage devotion and retention.</p>
-<h3 id="1-program-involves-extensive-time-learning-doctrine">1. Program involves extensive time learning doctrine</h3>
+<h3 id="1-program-involves-extensive-time-learning-doctrine">1. Program involves extensive time learning doctrine<a class="zola-anchor" href="#1-program-involves-extensive-time-learning-doctrine" aria-label="Anchor link for: 1-program-involves-extensive-time-learning-doctrine"><i class="fas fa-link"></i></a> 
+</h3>
 <p>LDS members spend a considerable amount of time in meetings teaching one another and learning LDS doctrine:</p>
 <ol>
 <li>Members attend <a rel="external" href="https://universe.byu.edu/2018/10/06/two-hour-church-block-announced-in-general-conference-1/">a minimum of 2 hours of Church each Sunday</a> (not counting other meetings like monthly or quarterly “firesides” [a meeting held in the evening]) where they teach one another LDS doctrine.  In addition, members are expected to engage in personal and family study at home using the <a rel="external" href="https://www.churchofjesuschrist.org/study/video/videos/2018-06-0010-introduction-to-come-follow-me-for-individuals-and-families?lang=eng">Come, Follow Me curricula</a>, which is <a rel="external" href="https://www.ldsdaily.com/home-and-family/10-tips-on-using-come-follow-me-for-sunday-school-teachers/">re-inforced in classes during the 2 hour block</a>.</li>
@@ -135,10 +257,13 @@
 <li><a rel="external" href="https://www.churchofjesuschrist.org/new-era/1981/05/president-kimball-speaks-out-on-being-a-missionary?lang=eng">All males are expected to serve a 2 year full-time mission</a> and <a rel="external" href="https://www.pri.org/stories/2014-08-25/mormon-women-are-flocking-mission-inequalities-remain">many females serve a 1.5 year mission</a>.  During this time, missionaries engage in daily individual and companion study of LDS material (<a rel="external" href="https://www.churchofjesuschrist.org/church/news/changes-to-missionaries-daily-schedule-allows-more-time-to-teach-gospel?lang=eng">at least 1 hour total daily</a>) and they will spend most of their day discussing LDS doctrine within their companionship and with investigators.  The socializing influence of missionary work on LDS members is considered significant enough that it merits its own point (see point #4).</li>
 <li>Members are to listen to <a rel="external" href="https://www.churchofjesuschrist.org/church/events/october-2017-general-conference?lang=eng">10 hours of instruction</a> from Church leadership each half year and <a rel="external" href="https://www.churchofjesuschrist.org/prophets-and-apostles/unto-all-the-world/conference-participation-brings-blessings-first-presidency-says?lang=eng">carefully review those teachings</a> between conferences.</li>
 </ol>
-<h3 id="2-members-strongly-encouraged-to-gain-a-testimony">2. Members strongly encouraged to gain a testimony</h3>
-<h4 id="moroni-s-promise">Moroni’s Promise</h4>
+<h3 id="2-members-strongly-encouraged-to-gain-a-testimony">2. Members strongly encouraged to gain a testimony<a class="zola-anchor" href="#2-members-strongly-encouraged-to-gain-a-testimony" aria-label="Anchor link for: 2-members-strongly-encouraged-to-gain-a-testimony"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="moroni-s-promise">Moroni’s Promise<a class="zola-anchor" href="#moroni-s-promise" aria-label="Anchor link for: moroni-s-promise"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Gaining a testimony of LDS doctrine is considered an essential part of being a Latter-day Saint.  The commonly prescribed method is to read and pray about the truthfulness of the Book of Mormon (see <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/bofm/moro/10.4-5">Moroni 10:4–5</a>).  The practice may be viewed as open-ended and respectful of the agency of the truth-seeker, but it may also be viewed as a process with only one inevitable outcome (see <a href="/a_careful_examination/hermetically-sealed-systems-in-lds-thought/#4-moronis-promise">this diagram</a> and discussion on <a href="/a_careful_examination/hermetically-sealed-systems-in-lds-thought/">hermetically sealed systems of thought</a>).</p>
-<h4 id="self-conditioning">Self-conditioning?</h4>
+<h4 id="self-conditioning">Self-conditioning?<a class="zola-anchor" href="#self-conditioning" aria-label="Anchor link for: self-conditioning"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Other recommended methods appear to border on self-conditioning.  For instance, members have been encouraged to record their testimony, share it with friends, and listen to it regularly.  Neil L. Andersen <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2014/10/joseph-smith?lang=eng">taught</a>:</p>
 <blockquote>
 <p>Consider recording the testimony of Joseph Smith in your own voice, listening to it regularly, and sharing it with friends. Listening to the Prophet’s testimony in your own voice will help bring the witness you seek.</p>
@@ -151,7 +276,8 @@
 <blockquote>
 <p>Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it. Someone even suggested that some testimonies are better gained on the feet bearing them than on the knees praying for them.</p>
 </blockquote>
-<h3 id="3-promise-to-sacrifice-anything-to-the-cause">3. Promise to sacrifice anything to the cause</h3>
+<h3 id="3-promise-to-sacrifice-anything-to-the-cause">3. Promise to sacrifice anything to the cause<a class="zola-anchor" href="#3-promise-to-sacrifice-anything-to-the-cause" aria-label="Anchor link for: 3-promise-to-sacrifice-anything-to-the-cause"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Every LDS person marrying in the temple or serving a mission must receive their endowment, and all adults are encouraged to receive their endowment.  In this ceremony a member will promise to:</p>
 <blockquote>
 <p>observe and keep the Law of Sacrifice, as contained in the Old and New Testament [as Jesus Christ has laid down his life for the redemption of mankind, so we should covenant to sacrifice all that we possess, even our own lives if necessary, in sustaining and defending the Kingdom of God]</p>
@@ -168,7 +294,8 @@
 <blockquote>
 <p>When my bishop at the time found out, he sat me down for the most intense church interview I’d had up to that point in my life. His core question was how I intended to fulfill my home teaching and other priesthood duties if I went on my adventure.</p>
 </blockquote>
-<h3 id="4-missions-are-highly-controlled-socializing-environments">4. Missions are highly controlled, socializing environments</h3>
+<h3 id="4-missions-are-highly-controlled-socializing-environments">4. Missions are highly controlled, socializing environments<a class="zola-anchor" href="#4-missions-are-highly-controlled-socializing-environments" aria-label="Anchor link for: 4-missions-are-highly-controlled-socializing-environments"><i class="fas fa-link"></i></a> 
+</h3>
 <p>All able males are expected to serve a two year LDS mission, and they typically serve at the age of 18 or 19.  Females are encouraged to consider service and many females leave at 19 years of age to serve a 1.5 year mission.  The mission is a time of complete focus on learning and teaching LDS doctrine and provides a strong socializing experience.</p>
 <p>The missionary environment, from reading material to schedule, is <a rel="external" href="https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/missionary/MissionaryHandbook2006Navigate.pdf"><em>very</em> tightly controlled</a>.  All communication to the missionary flows through Church controlled resources, and families must use LDS controlled email to write to their missionary.  <a rel="external" href="https://mormonleaks.io/wiki/documents/b/b6/2017-Mobile_Device_Standards.pdf">2017 Mobile Device Standards</a> for LDS missionaries outline the following expectations:</p>
 <blockquote>
@@ -178,10 +305,12 @@
 <p>With your companion, create a culture of helping each other be safe by regularly and thoroughly reviewing each other’s devices. In reviewing your companion’s device, look at his or her app histories, recent contacts, photos, notes, usage information, and so on. Do not reset your device or erase your online history. As directed by your mission president, missionary leaders may also conduct device reviews. …</p>
 </blockquote>
 <p>Anecdotes suggest that faith-disturbing content may be filtered before delivery to the missionary, and missionaries may only write home once per week.<sup class="footnote-reference" id="fr-exceptions_to_communication-1"><a href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/#fn-exceptions_to_communication">[2]</a></sup></p>
-<h4 id="leaving-a-mission-early">Leaving a mission early</h4>
+<h4 id="leaving-a-mission-early">Leaving a mission early<a class="zola-anchor" href="#leaving-a-mission-early" aria-label="Anchor link for: leaving-a-mission-early"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Leaving a mission can be extremely difficult.  Mission Presidents may use <a rel="external" href="https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/">an extraordinary number of tactics and gates</a> to prevent homesick or discouraged missionaries from returning home.  This includes requiring the missionary or their family to pay for their own flight home (regardless of whether the missionary or family pre-paid for their mission).  Mission Presidents also tend to hold missionaries’ passports so the missionary may not leave without their permission.<sup class="footnote-reference" id="fr-passports-1"><a href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/#fn-passports">[3]</a></sup>  Missionaries must also sign a document stating their intention to serve, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/2qlcqk/21_the_number_of_methods_and_gates_a_mission/cn77unk/">which may be used against them</a> if they decide to return home (i.e., “you signed up for this.”)</p>
 <p>Returning home early without sufficient justification (e.g., medical release) is considered dishonorable, and the importance of serving an honorable mission is <a rel="external" href="https://www.churchofjesuschrist.org/search?lang=eng&amp;query=%22honorable+mission%22">frequently and strongly emphasized</a>.  A young man or woman who was not honorably released from their mission may be viewed with suspicion in the LDS community (<a rel="external" href="https://mormonhub.com/forums/topic/28277-only-marry-return-missionaries/?do=findComment&amp;comment=460154">for example</a>) and considered less-desirable marriage potential (related to the next point, #5).</p>
-<h3 id="5-members-are-expected-to-date-and-marry-other-members">5. Members are expected to date and marry other members</h3>
+<h3 id="5-members-are-expected-to-date-and-marry-other-members">5. Members are expected to date and marry other members<a class="zola-anchor" href="#5-members-are-expected-to-date-and-marry-other-members" aria-label="Anchor link for: 5-members-are-expected-to-date-and-marry-other-members"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Ezra Taft Benson <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng">taught</a>:</p>
 <blockquote>
 <p>Our Heavenly Father wants you to date young men who are faithful members of the Church, who will be worthy to take you to the temple and be married the Lord’s way. There will be a new spirit in Zion when the young women will say to their boyfriends, “If you cannot get a temple recommend, then I am not about to tie my life to you, even for mortality!” And the young returned missionary will say to his girlfriend, “I am sorry, but as much as I love you, I will not marry out of the holy temple.”</p>
@@ -191,8 +320,10 @@
 <p>Back when I was in the Young Women program, I remember being told that RM [return missionary] needed to be at the top of my dating criteria list.</p>
 </blockquote>
 <p>The very thought of dating a non-return missionary (non-RM) is <a rel="external" href="http://www.ldsliving.com/Would-You-Date-a-Non-RM/s/71905">considered jaw-dropping</a>.  A person dishonorably released from service would likely be given even lower status than someone who never served a mission at all.</p>
-<h3 id="6-lds-doctrine-and-practice-often-trumps-all">6. LDS doctrine and practice often trumps all</h3>
-<h4 id="lds-doctrine">LDS Doctrine</h4>
+<h3 id="6-lds-doctrine-and-practice-often-trumps-all">6. LDS doctrine and practice often trumps all<a class="zola-anchor" href="#6-lds-doctrine-and-practice-often-trumps-all" aria-label="Anchor link for: 6-lds-doctrine-and-practice-often-trumps-all"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="lds-doctrine">LDS Doctrine<a class="zola-anchor" href="#lds-doctrine" aria-label="Anchor link for: lds-doctrine"><i class="fas fa-link"></i></a> 
+</h4>
 <ol>
 <li>
 <p>All spiritual feelings that contradict the accepted revelations or authorities is not considered revelation from God, <a rel="external" href="https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-gospel-doctrine-teachers-manual/lesson-6-i-will-tell-you-in-your-mind-and-in-your-heart-by-the-holy-ghost?lang=eng">by definition</a>:</p>
@@ -207,13 +338,15 @@
 <p><a rel="external" href="https://policy.byu.edu/view/index.php?p=9">BYU’s Academic Freedom Policy</a> explains how human reason is subordinate to divine revelation: “Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation.”  Hence, when ways of knowing clash, LDS authorities always win.</p>
 </li>
 </ol>
-<h4 id="lds-orthodoxy">LDS Orthodoxy</h4>
+<h4 id="lds-orthodoxy">LDS Orthodoxy<a class="zola-anchor" href="#lds-orthodoxy" aria-label="Anchor link for: lds-orthodoxy"><i class="fas fa-link"></i></a> 
+</h4>
 <ol>
 <li><a rel="external" href="http://byuiscroll.org/long-vs-short-engagements-what-is-the-way-to-go/">Short engagement/dating times relative to the rest of society</a> suggests that religious affiliation often trumps other considerations of personality and personality compatibility.</li>
 <li>A good reason not to marry someone is because <a rel="external" href="https://speeches.byu.edu/talks/david-a-bednar_quick-observe/">they didn’t immediately remove extra earrings when the Prophet said to only have one pair</a> (<a rel="external" href="https://www.youtube.com/watch?v=fqhK8fB9m-Q">short video clip</a>)</li>
 <li>Some leaders create <a rel="external" href="https://www.reddit.com/r/exmormon/comments/4w2g89/followup_returned_missionary_indoctrination_the/">contracts to ensure continued activity</a>.</li>
 </ol>
-<h3 id="7-most-major-life-events-are-tied-into-the-church">7. Most major life events are tied into the Church</h3>
+<h3 id="7-most-major-life-events-are-tied-into-the-church">7. Most major life events are tied into the Church<a class="zola-anchor" href="#7-most-major-life-events-are-tied-into-the-church" aria-label="Anchor link for: 7-most-major-life-events-are-tied-into-the-church"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Given that religions offer a scaffold of meaning, it makes sense that they would be involved in most major life events.  However, in the LDS Church the manner in which these events are gated by <a rel="external" href="http://www.mormonthink.com/glossary/templerecommend.htm">declarations of worthiness and belief</a> means that orthodoxy in belief and practice is frequently re-emphasized among <a rel="external" href="https://www.churchofjesuschrist.org/handbook/handbook-2-administering-the-church/priesthood-ordinances-and-blessings?lang=eng#20.1.2">those administering</a> and <a rel="external" href="http://forum.staylds.com/viewtopic.php?f=5&amp;t=2211">those receiving</a> each ordinance or advancement.</p>
 <ol>
 <li>Newborn babies are typically blessed in front of the congregation by their father.</li>
@@ -245,7 +378,8 @@
 </blockquote>
 </li>
 </ol>
-<h3 id="8-attributing-causation">8. Attributing causation</h3>
+<h3 id="8-attributing-causation">8. Attributing causation<a class="zola-anchor" href="#8-attributing-causation" aria-label="Anchor link for: 8-attributing-causation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Doctrine and Covenants 59:21 states:</p>
 <blockquote>
 <p>And in nothing doth man offend God, or against none is his wrath kindled, save those who confess not his hand in all things…</p>
@@ -257,7 +391,8 @@
 <li>Members tend to consider all positive economic windfall as <a rel="external" href="https://www.churchofjesuschrist.org/youth/article/grandfathers-testimony-tithing?lang=eng">evidence of the effectiveness of paying tithes</a>.</li>
 </ol>
 <p>Such a mindset and process provides a continual buttressing of confidence in the LDS worldview.</p>
-<h3 id="9-follow-the-leadership">9. Follow the leadership</h3>
+<h3 id="9-follow-the-leadership">9. Follow the leadership<a class="zola-anchor" href="#9-follow-the-leadership" aria-label="Anchor link for: 9-follow-the-leadership"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Members are taught that their eternal safety lies in always following their LDS leadership and that their leadership represents God to them.  <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/1.38f?lang=eng">D&amp;C 1:38</a> emphasizes this equivalency:</p>
 <blockquote>
 <p>What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.</p>
@@ -277,7 +412,8 @@
 <blockquote>
 <p>At times, following the prophet may be unpopular, but following the prophet is always right.</p>
 </blockquote>
-<h3 id="10-the-perilousness-of-unapproved-ideas-or-information">10. The perilousness of unapproved ideas or information</h3>
+<h3 id="10-the-perilousness-of-unapproved-ideas-or-information">10. The perilousness of unapproved ideas or information<a class="zola-anchor" href="#10-the-perilousness-of-unapproved-ideas-or-information" aria-label="Anchor link for: 10-the-perilousness-of-unapproved-ideas-or-information"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>
 <p>Members are warned against seeking information from unapproved sources:</p>
@@ -313,7 +449,8 @@
 </li>
 </ol>
 <p>LDS members are generally reluctant to consult sources known to be critical of the LDS Church (examples <a rel="external" href="https://askgramps.org/counseled-not-read-anti-mormon-literature/">1</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/45dfmt/life_after_divorce_is_it_better_or_worse/">2</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/1cek9w/am_i_seriously_going_to_lose_my_family_because_i/">3</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5klhmz/worst_xmas_ever_first_one_since_leaving_tscc/">4</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/6cf75l/just_had_a_close_tbm_friend_point_out_how_cultish/">5</a>) or sometimes resources discussing LDS-related topics which are simply unapproved by the LDS Church (<a rel="external" href="https://www.reddit.com/r/exmormon/comments/7jl8mo/why_are_the_essays_taboo/">for example</a>).  Avoiding potentially faith-damaging information may even extend to reluctance to read official churchofjesuschrist.org essays meant to faithfully address criticism of the LDS Church (examples <a rel="external" href="https://www.reddit.com/r/exmormon/comments/7v3rqr/i_finally_did_it_i_told_my_wife_sort_of/">1</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5jr865/my_father_refuses_to_read_the_essays_on_ldsorg/">2</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5t88id/how_do_believing_mormons_react_to_the_official/">3</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/2s2ghf/its_antimormon_hate_literature/">4</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/4gmplo/getting_harder_and_harder_to_talk_to_my_dad_and/">5</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/7jl8mo/why_are_the_essays_taboo/">6</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/3v68m9/i_want_to_write_a_letter_to_the_first_presidency/">7</a>).</p>
-<h4 id="expression-of-ideas-countering-orthodoxy-may-be-suppressed">Expression of ideas countering orthodoxy may be suppressed</h4>
+<h4 id="expression-of-ideas-countering-orthodoxy-may-be-suppressed">Expression of ideas countering orthodoxy may be suppressed<a class="zola-anchor" href="#expression-of-ideas-countering-orthodoxy-may-be-suppressed" aria-label="Anchor link for: expression-of-ideas-countering-orthodoxy-may-be-suppressed"><i class="fas fa-link"></i></a> 
+</h4>
 <ol>
 <li>
 <p>Expression of thoughts that run counter to teachings may be silenced in open microphone meetings (<a href="/a_careful_examination/savannahs-testimony/">example</a>).</p>
@@ -335,7 +472,8 @@
 </blockquote>
 </li>
 </ol>
-<h3 id="11-compartmentalization-of-information">11. Compartmentalization of information</h3>
+<h3 id="11-compartmentalization-of-information">11. Compartmentalization of information<a class="zola-anchor" href="#11-compartmentalization-of-information" aria-label="Anchor link for: 11-compartmentalization-of-information"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The compartmentalization of information may hinder a lay member’s ability to fairly criticize some doctrine and practices, administrative actions, or policies.</p>
 <ol>
 <li>
@@ -352,13 +490,16 @@
 <p>Permission for being sealed to a second wife in the temple <a rel="external" href="https://www.reddit.com/r/exmormon/comments/7a6w96/100_undeniable_proof_that_the_church_of_jesus/?utm_content=title&amp;utm_medium=hot&amp;utm_source=reddit&amp;utm_name=exmormon">is handled in secret</a>.<sup class="footnote-reference" id="fr-secondwife_secret-1"><a href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/#fn-secondwife_secret">[5]</a></sup></p>
 </li>
 </ol>
-<h3 id="12-monitoring-for-orthodoxy">12. Monitoring for orthodoxy</h3>
-<h4 id="worthiness-interviews">Worthiness Interviews</h4>
+<h3 id="12-monitoring-for-orthodoxy">12. Monitoring for orthodoxy<a class="zola-anchor" href="#12-monitoring-for-orthodoxy" aria-label="Anchor link for: 12-monitoring-for-orthodoxy"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="worthiness-interviews">Worthiness Interviews<a class="zola-anchor" href="#worthiness-interviews" aria-label="Anchor link for: worthiness-interviews"><i class="fas fa-link"></i></a> 
+</h4>
 <p><a rel="external" href="https://www.reddit.com/r/mormon/comments/3dqj2m/here_are_the_13_questions_lds_bishops_will_ask/">Worthiness interviews are regularly conducted</a>.  Those considered unworthy on some level may not be allowed to participate in ordinances, and this may carry some social stigma.  Others may notice if a person does not pass or take the sacrament, for instance.</p>
 <p>Interviews occur at expected intervals and can lead to intense pressure to conform to the LDS program.  Consider, for instance, the pressure to conform felt by <a rel="external" href="http://thoughtsonthingsandstuff.com/a-latter-day-tragedy-suicide-over-masturbation/">Kip Eliason</a> and Steven <a rel="external" href="https://www.youtube.com/watch?v=Xliwswh4GGU">as related by NewNameNoah</a> [warning: last half contains explicit temple references].  A typical adult worthiness interview where the interviewee responds with all the “correct” answers may be found in this <a rel="external" href="https://youtu.be/4DCeAK6vUb8?t=260">hidden-camera footage</a> [warning: this video is likely to be offensive to many LDS members].</p>
 <p>Leaders <a rel="external" href="https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf">were recently instructed</a> that worthiness interviews for prospective missionaries “need to be specific and explicit”.</p>
 <p>Although questions are prescribed and must be asked word-for-word, ecclesiastical leaders are given some latitude in how to conduct the interview, particularly when the answer runs counter to the approved answer.<sup class="footnote-reference" id="fr-invasive_interviews-1"><a href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/#fn-invasive_interviews">[6]</a></sup></p>
-<h4 id="other-kinds-of-monitoring">Other kinds of monitoring</h4>
+<h4 id="other-kinds-of-monitoring">Other kinds of monitoring<a class="zola-anchor" href="#other-kinds-of-monitoring" aria-label="Anchor link for: other-kinds-of-monitoring"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Besides worthiness interviews themselves, some other kinds of monitoring for orthodoxy may occur:</p>
 <ol>
 <li>Youth and adult members are assigned to visit and/or fellowship with one another in the <a rel="external" href="https://www.churchofjesuschrist.org/ministering/resources-for-ministering?lang=eng">“Ministering” program</a>.  In an effort to collectively help those they visit, the status and needs of those they visit are <a rel="external" href="https://www.churchofjesuschrist.org/church/news/ministering-to-replace-home-and-visiting-teaching?lang=eng">reported to senior ward leaders in quarterly interviews</a>.</li>
@@ -367,7 +508,8 @@
 <li>Leaders may be screened for agreement with the status quo in the leadership selection process (above and beyond worthiness interviews).  For instance, the recently leaked <a rel="external" href="https://mormonleaks.io/wiki/documents/a/a7/Utah_Area_Seventies_Correlation_Meeting-2015-11-11.pdf">Utah Area Seventies Correlation Meeting</a> states “Stake presidents may want to review this policy [the November 2015 policy excluding children of same-sex married couples] with prospective bishops to determine their willingness to support this policy before extending a call.”</li>
 <li>Leaders may scan social media looking to see if members are properly wearing garments (anecdote <a rel="external" href="https://www.reddit.com/r/exmormon/comments/6e8guv/in_case_you_dont_believe_they_are_watching_us/">here</a>).  Not likely typical, but nor is such behavior discouraged.</li>
 </ol>
-<h3 id="13-significant-in-group-out-group-emphasis">13. Significant in-group / out-group emphasis</h3>
+<h3 id="13-significant-in-group-out-group-emphasis">13. Significant in-group / out-group emphasis<a class="zola-anchor" href="#13-significant-in-group-out-group-emphasis" aria-label="Anchor link for: 13-significant-in-group-out-group-emphasis"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>
 <p>Employment with the Church or a Church owned school, visiting the temple, witnessing marriage/sealing ceremonies, all leadership callings, and other temple service is conditioned on <a rel="external" href="http://www.mormonthink.com/glossary/templerecommend.htm">worthiness interviews</a>.</p>
@@ -394,7 +536,8 @@
 <li>If a member marries a person of another faith tradition and that person never becomes Mormon, the relationships will be viewed as terminating at death (unlike marriages of members in the LDS temple which are <a rel="external" href="https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng">considered the only ones which can persist</a>).</li>
 </ol>
 <p>Other examples of the pressure that some feel may be found in the video <a rel="external" href="https://www.youtube.com/watch?v=opGwPHWvp5I">Families, Eternity, &amp; Collateral Damage</a> (LDS examples begin at 2:53).</p>
-<h3 id="14-no-viable-alternative-after-joining">14. No viable alternative after joining</h3>
+<h3 id="14-no-viable-alternative-after-joining">14. No viable alternative after joining<a class="zola-anchor" href="#14-no-viable-alternative-after-joining" aria-label="Anchor link for: 14-no-viable-alternative-after-joining"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Leaders repeatedly emphasize that there is no viable alternative to life within the LDS Church:</p>
 <p>Elder Jeffery R. Holland <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2004/04/abide-in-me?lang=eng">taught</a>:</p>
 <blockquote>
@@ -404,7 +547,8 @@
 <blockquote>
 <p>If you choose to become inactive or to leave the restored Church of Jesus Christ of Latter-day Saints, where will you go? What will you do? The decision to ‘walk no more’ with Church members and the Lord’s chosen leaders will have a long-term impact that cannot always be seen right now.</p>
 </blockquote>
-<h4 id="strongly-discourages-and-stigmatizes-dissent">Strongly discourages and stigmatizes dissent</h4>
+<h4 id="strongly-discourages-and-stigmatizes-dissent">Strongly discourages and stigmatizes dissent<a class="zola-anchor" href="#strongly-discourages-and-stigmatizes-dissent" aria-label="Anchor link for: strongly-discourages-and-stigmatizes-dissent"><i class="fas fa-link"></i></a> 
+</h4>
 <ol>
 <li>Those who disagree with orthodox doctrine <a rel="external" href="https://www.churchofjesuschrist.org/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/false-teachings?lang=eng">are considered either ignorant or proud</a>.</li>
 <li>When the prophet speaks, the debate is over: “Now, as he speaks to us … it is as if the Lord Jesus Christ himself were addressing us … Personal opinions vary. Eternal principles never do. When the prophet speaks … the debate is over.” (<a rel="external" href="https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/34820_eng.pdf?lang=eng">Aaronic Priesthood Manual 1</a>)</li>
@@ -412,7 +556,8 @@
 <li>As <a href="/a_careful_examination/how-those-who-leave-are-viewed/">taught in recent manuals and official Church material</a>, those who leave the LDS Church become servants of Satan, become darkened and will be burned, will feel guilt and bitterness, left because they transgressed, will experience darkness and unhappiness, become darkened in their minds, are deceived because of their pride, and are deceived by the false teachings of the world.</li>
 <li>Members are taught to “shun” and “flee” from those who openly disagree with accepted Church doctrine (see <a href="/a_careful_examination/the-shunning-key/">The Shunning Key</a>).  Not only does this counsel help members to avoid ideas or data that might contradict the LDS worldview (listed earlier), it also serves to stigmatize dissenters.</li>
 </ol>
-<h4 id="tragic-disastrous-consequences-for-not-following">Tragic, disastrous consequences for not following</h4>
+<h4 id="tragic-disastrous-consequences-for-not-following">Tragic, disastrous consequences for not following<a class="zola-anchor" href="#tragic-disastrous-consequences-for-not-following" aria-label="Anchor link for: tragic-disastrous-consequences-for-not-following"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Although the consequences are <a rel="external" href="https://youtu.be/mmErOV9oQZ8?t=222">often unnamed</a>, the implication is that not following the LDS program results in consequences that are always tragic.  For instance, M. Russell Ballard <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng">taught</a>:</p>
 <blockquote>
 <p>they leave the Old Ship Zion—they fall away; they apostatize. Tragically, they often experience short-term and eventually long-term unintended consequences, not only for themselves but also for their families.</p>
@@ -454,11 +599,14 @@
 <blockquote>
 <p>Keep your covenants and you will be safe. Break them and you will not.</p>
 </blockquote>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A significant number of teachings, cultural factors, and practices align to encourage LDS members to stay members and, outside of the veridicality of LDS truth-claims, might help to explain why a parent would send their teenager away from home to engage in full-time missionary work for more than a year.</p>
-<h2 id="see-also">See Also</h2>
+<h2 id="see-also">See Also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="http://mormonscholar.org/methods-used-by-the-lds-church-to-maintain-belief-in-its-members/">Methods used by the LDS church to maintain belief in its members</a> (mormonscholar.org)</p>
-<h3 id="acknowledgements">Acknowledgements</h3>
+<h3 id="acknowledgements">Acknowledgements<a class="zola-anchor" href="#acknowledgements" aria-label="Anchor link for: acknowledgements"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>Some personal communication with Benjamin Beit-Hallahmi influenced the general approach of this document.</li>
 <li>Reddit user JohnH2 provided valuable critique’s of an early draft of this work which eventually prompted me to write this draft (he also provided useful critique of this draft).</li>
@@ -502,16 +650,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -526,105 +673,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

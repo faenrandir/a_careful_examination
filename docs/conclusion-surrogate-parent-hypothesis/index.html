@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Conclusion: God and the LDS Church as surrogate parent | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Conclusion: God and the LDS Church as surrogate parent | A Careful Examination</title>
+<meta property="og:title" content="Conclusion: God and the LDS Church as surrogate parent | A Careful Examination" />
+<meta name="twitter:title" content="Conclusion: God and the LDS Church as surrogate parent | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/">
-  
+  <meta property="og:url" content="/a_careful_examination/conclusion-surrogate-parent-hypothesis/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Conclusion: God and the LDS Church as surrogate parent</h1>
@@ -98,17 +214,20 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p><em>March 3, 2018</em></p>
-<h2 id="conclusion">Conclusion</h2>
+  
+  
+
+  <div class="post-content">
+    <p><em>March 3, 2018</em></p>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>At this point, I have spent thousands of hours accumulating evidence and arguments which convincingly demonstrate (at least to me) that the LDS Church is not what it claims to be.  At best, the institution provides its adherents useful social and theological constructs around which to order their lives, but is still a somewhat poor disseminator of truth in much of its official discourse. At worst, the institution is guilty of <a href="/a_careful_examination/transparency-in-the-modern-lds-church/">at least a few major transparency failures</a>, and the culture it is responsible for is harmful in some regards to some kinds of people (e.g., many <a rel="external" href="https://mormonlgbtquestions.com/2017/03/17/what-do-we-know-of-gods-will-for-his-lgbt-children-an-examination-of-the-lds-churchs-position-on-homosexuality/">LGBT</a> individuals).  Whether we assume the best or worst case (or somewhere in-between), at least some individuals are probably better off leaving the institution, it would seem.</p>
 <p>After my faith-transition, I was somehow convinced that close friends, family members, or ward members would want to discuss truth-claim data and arguments with me, and this motivated me to take careful notes of the evidence and arguments.  I am easy to talk with, quickly acknowledge good points, and feel no compulsion to persuade another person to adopt my way of thinking—I merely hope that they would consider my thoughts, as I consider theirs and hopefully we’ll both arrive closer to the truth of a given issue.  At the very least, I thought that sharing the data I found compelling could help dispel the assumption that I had forfeited my soul to Satan—I chose a different path based on compelling evidence and arguments and not because of a deficiency in character.</p>
 <p><strong>No such discussions ever occurred.  Not once.</strong></p>
 <p>It has been nearly 3.5 years since my faith transition and over 3 years since my resignation.  I have never had a single <em>substantial</em> discussion about the truth-claim data with any believing individual (outside of anonymous online interaction) since my faith transition.<sup class="footnote-reference" id="fr-eventual_discussions-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-eventual_discussions">[1]</a></sup>  This single data point has been the most troubling of all to me.  To better describe the situation and capture how bemystifying it felt to me as time progressed, I recently composed this thinly veiled parable: <a href="/a_careful_examination/careful-the-compassionate-and-the-dragon-over-the-mountain/">Careful the Compassionate and the Dragon over the Mountain</a>.</p>
 <p>While moving through my faith transition, I was under the assumption that Latter-day Saints deeply valued understanding <em>all</em> truth and so at least some of them would want to discuss the data with me.  Of course, during this process I had somehow conveniently forgotten that for most of my earlier adult life I too had largely ignored the critical data, and I had religiously avoided discussion of the data with those who had left the LDS Church before me.<sup class="footnote-reference" id="fr-my_behavior-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-my_behavior">[2]</a></sup>  The deep desire I had felt for most of my life to avoid certain truth-claim data, and the deep desire manifest by friends, family, and ward members to avoid truth-claim data <em>seems</em> to suggest that most believing members are not compelled to seek truth—at least in this one critical domain.  For a people who are generally well-educated and who spend countless hours reading scripture and discussing God and the LDS Church—who literally organize their life around these concepts—what could account for this primal fear of discussing the truth-claim data?<sup class="footnote-reference" id="fr-members_avoiding_data-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-members_avoiding_data">[3]</a></sup></p>
-<h3 id="god-and-the-lds-church-as-surrogate-parent">God (and the LDS Church) as Surrogate Parent</h3>
+<h3 id="god-and-the-lds-church-as-surrogate-parent">God (and the LDS Church) as Surrogate Parent<a class="zola-anchor" href="#god-and-the-lds-church-as-surrogate-parent" aria-label="Anchor link for: god-and-the-lds-church-as-surrogate-parent"><i class="fas fa-link"></i></a> 
+</h3>
 <p>As discussed in <a rel="external" href="https://www.youtube.com/playlist?list=PLA0C3C1D163BE880A">this outstanding video series</a> :</p>
 <blockquote>
 <p>The primary psychological function of the concept of a personal god is to give the believer a surrogate parent. Some minds are able to become independent of parental figures; others cannot or fall into self-destructive behaviors without them. Minds in this category rely on religion. The God concept is useful for motivating and pacifying them.</p>
@@ -124,14 +243,17 @@
 <p>Ultimately, then, the desire and ability to voluntarily grapple directly with the truth-claim data about one’s own parental-like religion must be preceded by achieving some kind of <em>ideological</em> adulthood.</p>
 <p>The statement I have often heard repeated by friends and family: “Even if the LDS Church weren’t true, I would still want to live it” takes on new meaning.  The program and assurance the LDS Church provides insulates a member from making open-ended and difficult decisions about how to order their own life: it provides a scaffold upon which to hang and organize all of life’s activities.</p>
 <p>Unless/until a person has discovered or constructed enough independent ideological scaffold upon which to organize their worldview, the purely elective examination of LDS truth-claims would be akin to taking a sledgehammer to their own home to determine how sturdy the home is.  This would be an act of insanity unless or until they have constructed alternative ideological edifices which can be retreated to in the event that the LDS/God structure is found worthy of condemnation.  The process is accelerated for some individuals when an event shows to them the flimsiness of their edifice, and it becomes clear that their ideological lives are in danger due to imminent collapse.  Those individuals who took the sledgehammer of scrutiny to their ideological edifice before having constructing an alternative edifice experience a “faith crisis” while those with an existing alternative edifice experience the far less destabilizing, but still painful, “faith transition”.</p>
-<h4 id="disclaimers">Disclaimers</h4>
+<h4 id="disclaimers">Disclaimers<a class="zola-anchor" href="#disclaimers" aria-label="Anchor link for: disclaimers"><i class="fas fa-link"></i></a> 
+</h4>
 <p>A few disclaimers are in order.  This model is not to suggest that those who are yet incapable of genuinely examining LDS truth-claims are, on the whole, developmentally inferior to those who have investigated—these individuals may be psychologically independent or further developed in many <em>other</em> facets of life than a given truth-claim investigator.  It’s also safe to say that a former member may experience similar child-like vulnerability in defense of their cherished beliefs (so this analysis is not meant to elevate the former member above the current member even though it is focused on the LDS belief system).  In fact, I think it is possible for a believing member to have matured ideologically well beyond a given former member (so, perhaps corresponding to <a rel="external" href="https://www.institute4learning.com/2020/06/12/the-stages-of-faith-according-to-james-w-fowler/">a high level in Fowler’s stages of faith</a>) or a very high tolerance for and joy in introspecting on all the truth-claim data that may go beyond a typical former member.  In addition, these kinds of propensities may be based in large part on genetic-based tendencies or environmental contingencies outside the control of the individual, so reserving judgement is in order.  It’s also worth noting that a believing member unable or unwilling to explore the truth-claim data may be able to achieve more within the LDS scaffold than their truth-claim investigating counterparts outside the LDS scaffold since the believer must devote fewer mental and emotional resources to the daunting exploration of the existential than the investigator.</p>
-<h4 id="implications-and-discussion">Implications and Discussion</h4>
+<h4 id="implications-and-discussion">Implications and Discussion<a class="zola-anchor" href="#implications-and-discussion" aria-label="Anchor link for: implications-and-discussion"><i class="fas fa-link"></i></a> 
+</h4>
 <p>With the surrogate parent model in mind, we can reframe an answer to the question of truth-seeking among most (but not all) Latter-day Saints.  Latter-day Saints, for the most part, are genuine seekers of truth <em>within the confines of their religion</em>, much as a child or teen is genuinely curious about their home and the world around them.  They will venture and learn, and they are eager to explore on trips with their parents, but that exploration is always bounded to some significant degree by the authority of the primary parental figure in their life—in this metaphor the LDS institution.</p>
 <p>Discussion of difficult LDS truth-claim data is likely to be viewed as an assault on a believing member’s identity, and as demonstrated in MRI studies of those considering facts which threaten their core political ideology, such discussion is likely to activate <a rel="external" href="https://www.nature.com/articles/srep39589">the same brain structures responsible for assessing threats to <em>physical</em> safety</a>, accounting for the primal urge to either demonize the “attacker” or “anti-mormons” (fight) or flee from such discussion (flight).<sup class="footnote-reference" id="fr-also_guilty-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-also_guilty">[4]</a></sup>  Furthermore, for <a rel="external" href="https://web.archive.org/web/20190512185332/https://www.sunstonemagazine.com/passive-aggression-among-the-latter-day-saints/">various reasons</a> the LDS culture appears to cultivate the <a rel="external" href="https://imgur.com/F1eCW0L">“avoidance” conflict resolution style</a>, further distancing members from possible discussion of these topics.</p>
 <p>The surrogate parent model also suggests both productive and destructive modes for interacting with believing members.  <em>In matters of religion</em> (please note this does not necessarily extend to other facets of life), the believing member is best treated as a child or teen still under the guardianship of their parent <em>in proportion to how strongly they seem to rely on God or the LDS institution as ideological parent</em>.<sup class="footnote-reference" id="fr-metaphor_inversion-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-metaphor_inversion">[5]</a></sup>  Their growth can be encouraged, but not in opposition to their primary parental figure (the LDS institution).  To even suggest to a child that their parent is a poor guide for edification or truth would, in most cases, be highly destabilizing to them, and the same goes for criticism of the LDS institution in this model.  This also explains why members often distance themselves from those who share such information, even if the sharer is doing so in an honest effort to “share their truth” or is merely trying to explain the motivation behind their choices in an effort to obtain acceptance and understanding.  The most productive route for engagement, I would argue, is merely to encourage the believing member in their intellectual and religious growth with the expectation that, if or when they are developmentally ready, they will be able to achieve religious adulthood and less restrained conversation may ensue.<sup class="footnote-reference" id="fr-ideological_adulthood-1"><a href="/a_careful_examination/conclusion-surrogate-parent-hypothesis/#fn-ideological_adulthood">[6]</a></sup>  Like most stages of development (e.g., the butterfly exiting its cocoon), achieving ideological adulthood cannot be forced from the outside, and excessive effort to hurry the process along is likely to do more harm than good.</p>
 <p><em>I made a few minor clarifications, link updates, and added additional footnotes since the original composition date.</em></p>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.pnas.org/doi/epdf/10.1073/pnas.2203149119">Belief traps: Tackling the inertia of harmful beliefs</a> (2022 PNAS article)</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -156,16 +278,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -180,105 +301,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

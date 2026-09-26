@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Alex Douglas “Afterword: The Old Testament and the Book of Mormon” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Alex Douglas “Afterword: The Old Testament and the Book of Mormon” | A Careful Examination</title>
+<meta property="og:title" content="Alex Douglas “Afterword: The Old Testament and the Book of Mormon” | A Careful Examination" />
+<meta name="twitter:title" content="Alex Douglas “Afterword: The Old Testament and the Book of Mormon” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/alex-douglas-afterword-ot-and-bom/">
-  
+  <meta property="og:url" content="/a_careful_examination/alex-douglas-afterword-ot-and-bom/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Alex Douglas “Afterword: The Old Testament and the Book of Mormon”</h1>
@@ -113,16 +229,19 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p><em>Below is the Afterword from Alex Douglas’s book “The Old Testament for Latter-day Saints” (<a rel="external" href="https://search.worldcat.org/title/1416095544">worldcat</a>, <a rel="external" href="https://www.amazon.com/dp/1560854685">amazon</a> [not an affiliate link—I make nothing from it]). For full disclosure, while Douglas wrote the book as an active member he has since stepped away from activity (private communication).</em></p>
+  
+  
+
+  <div class="post-content">
+    <p><em>Below is the Afterword from Alex Douglas’s book “The Old Testament for Latter-day Saints” (<a rel="external" href="https://search.worldcat.org/title/1416095544">worldcat</a>, <a rel="external" href="https://www.amazon.com/dp/1560854685">amazon</a> [not an affiliate link—I make nothing from it]). For full disclosure, while Douglas wrote the book as an active member he has since stepped away from activity (private communication).</em></p>
 <hr />
-<h2 id="afterword-the-old-testament-and-the-book-of-mormon">AFTERWORD: The Old Testament and the Book of Mormon</h2>
+<h2 id="afterword-the-old-testament-and-the-book-of-mormon">AFTERWORD: The Old Testament and the Book of Mormon<a class="zola-anchor" href="#afterword-the-old-testament-and-the-book-of-mormon" aria-label="Anchor link for: afterword-the-old-testament-and-the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Over the course of this book, we have seen how the Old Testament may be read through many different lenses: myth, advice, law, and history. For LDS readers, mentioning this final classification almost invariably draws forth the question: What about the Book of Mormon? Can we understand the Book of Mormon to be history—an accurate account of events that actually took place?</p>
 <p>Before answering this question, I should clarify that Book of Mormon historicity is not my area of expertise. I am trained as a biblical scholar, and so my knowledge of Mesoamerican archaeology, for example, is limited to non-existent. Scholars’ conclusions are also limited by the quality and quantity of the available evidence. ‘The Bible may tell us a great deal about the world of the Bible, but it becomes less relevant when we move into the Book of Mormon.</p>
 <p>With these limitations in mind, in my opinion, the findings of biblical scholarship do not bode well for the Book of Mormon’s historicity. The reasons for this conclusion break down into four main categories: text-based problems, anachronisms, ideas we would expect to find but do not, and lack of change. Let us briefly consider each of these.</p>
-<h3 id="text-based-problems">Text-Based Problems</h3>
+<h3 id="text-based-problems">Text-Based Problems<a class="zola-anchor" href="#text-based-problems" aria-label="Anchor link for: text-based-problems"><i class="fas fa-link"></i></a> 
+</h3>
 <p>One of the most problematic pieces of evidence against the Book of Mormon’s historicity is the way it quotes from the Old Testament. The evidence is overwhelming that Isaiah 40–66 was written by a separate author during the exile, thus making it impossible for Book of Mormon authors to quote from these chapters—as happens in 1 Nephi 20–21, 2 Nephi 6–9, and Mosiah 12–15. Some LDS writers have tried for decades to prove that the entire book was written by Isaiah himself, thus solving the anachronism, but their arguments are roundly rejected outside of LDS circles.</p>
 <p>Even if we set Isaiah aside, the Book of Mormon still refers to Old Testament texts in a way that is impossible given what we know about the Old Testament’s development. For example, when Lehi leaves Jerusalem in 600 BCE, he sends his children back to get the brass plates. Upon receiving them, he finds</p>
 <blockquote>
@@ -135,7 +254,8 @@
 <p>The first difficulty here is that some of these narratives, such as the seven-day creation story, come from the Priestly source, which was not written until exile (see chapter three). Not only had some pieces of this story not yet been written, the continuous narrative itself—the story that moves from creation to conquest—did not exist either. Bits and pieces of this tradition circulated for a long time (see chapters one and two), but no one would bring it together into one coherent story until exile when the Israelites compiled their traditions into the grand narratives we know today. To see this, you need look no further than Jeremiah, who was contemporaneous with Lehi and yet who claims that “in the day that [God] brought your ancestors out of the land of Egypt, [he] did not speak to them or command them concerning burnt offerings and sacrifices” (Jer. 7:22; see also Amos 5:25 and the discussion in chapter seven). While Jeremiah talks frequently about the law that God gave the people (see Jer.2:8; 5:4–5; 8:8; 9:13; etc.), he never mentions Moses in connection with it—because that story had not yet been formulated. In every writing we have from before the exile, the traditions from the primeval history and the patriarchal narratives are practically never mentioned. No one talks about Adam and the Garden of Eden, no one mentions the Tower of Babel, and no one talks about Joseph’s sojourn in Egypt. The traditions existed, but they were not part of a larger salvation history that people could draw from.</p>
 <p>Scholars do not know everything about the world of the Old Testament, but everything they do know indicates that the brass plates could not have existed as Nephi describes them. Even their form is anachronistic. In the ancient world, any text longer than a few lines was written on scrolls that were rolled up. The idea of writing a text on separate pages and binding them together into a codex did not come about until the Roman period, around the first century CE. But the Book of Mormon describes the text taken from Laban not as a scroll, but as metal “plates.”</p>
 <p>The fact that these texts were written on metal makes the story even more implausible. Literacy was rare in the ancient world, and before the age of printing, creating and writing a scroll by hand was mind-bogglingly time-consuming and expensive. To get a sense of how difficult the process was, try copying out the first chapter of Isaiah by hand; but first make a long piece of “paper” by killing a sheep, removing all the hair, drying out its skin, and smoothing the surface as best you can. Then use a pen that you constantly have to dip in ink—and make the ink yourself. Of course, they did not have pristine, computer-printed texts to work from, so try copying the text from a faded, handwritten document. And do not work too fast; any mistakes you make are essentially permanent. Now time yourself, multiply that by 929, and you can start to get a sense of how long it would take to copy out the entire Old Testament. If that sounds expensive and difficult, just imagine how long it would take—and thus how expensive it would be—to carve the text into metal sheets thin enough that, together, they could contain the entire Old Testament story without being too heavy to carry.<sup class="footnote-reference" id="fr-footnote_2-1"><a href="/a_careful_examination/alex-douglas-afterword-ot-and-bom/#fn-footnote_2">[2]</a></sup> And all this would be to preserve a set of stories that Jeremiah barely seems to even know exists. In short, the idea of a codex containing the biblical stories—much less a codex made of metal—is so unlikely as to be practically impossible.</p>
-<h3 id="anachronisms">Anachronisms</h3>
+<h3 id="anachronisms">Anachronisms<a class="zola-anchor" href="#anachronisms" aria-label="Anchor link for: anachronisms"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The textual issues described above, such as Nephi quoting Second Isaiah and having access to an anachronistic form of the Old Testament, pose a significant problem for the ancient historicity of the Book of Mormon. But these issues are relatively minor when compared with the other anachronisms spread throughout the book. By anachronisms, I am not referring to minor issues such as Nephi’s “steel” bow or the presence of horses and sheep in the Americas; I am talking about anachronistic beliefs. From an academic perspective, it is these that place the Book of Mormon unquestionably outside the realm of history.</p>
 <p>The basic problem may be summed up as follows: the theological worldview of the Book of Mormon is entirely that of nineteenth-century Christians, not that of ancient Israelites 600 years before Christ. To cite the most obvious example, Book of Mormon prophets focus on the expectation of a Messiah, but such a belief did not exist in Lehi’s time. A Davidic monarch still ruled in Jerusalem and the Kingdom of Judah was independent. Why, in these circumstances, would people hope for a future Davidic king to restore the throne and deliver Israel? It was only after the Babylonian captivity that such a hope even began to take shape—and even then, it took centuries before that expectation developed into the full-blown Messianism of the first century CE. If you look through the King James translation of the Old Testament, you notice that the word “Messiah” is conspicuously absent, only appearing twice in the book of Daniel, which is the Old Testament’s latest book. In the New Revised Standard translation, the word “Messiah” does not appear at all. Yet before Lehi has even arrived at the promised land, he is teaching his family about “a Messiah, or, in other words, a Savior of the world” (1 Ne. 10:4).</p>
 <p>Not only do the Nephites expect a Messiah, they expect a particular kind of Messiah. As we saw in chapter ten, during the first century CE there were many ideas about who the Messiah would be—a king or a priest, an angel or a human, a political or religious leader—or even whether there would be more than one Messiah. Yet the Nephites believe in a Messiah who would be the Son of God (1 Ne. 11:7), who would offer himself as sacrifice (Alma 34:10) to atone for the sins of the world (Alma 33:22), and who would rise from the dead after three days (Mosiah 3:10).</p>
@@ -151,19 +271,22 @@
 <p>One common apologetic response to this evidence is that the Nephites received their Christian worldview through revelation. But revelation cannot resolve these difficulties for two reasons. First, if the Nephites received their doctrine through revelation, why does this revelation always mirror nineteenth-century Christian beliefs rather than twenty-first-century Latter-day Saint beliefs? For example, if Lehi previously believed in Sheol but was taught by an angel about the true nature of the afterlife, why should he be taught about heaven and hell instead of the three degrees of glory? Why should the Nephites believe that God curses people with black skin—a common belief among Christians of Joseph Smith’s time—when the LDS Church now “disavows the theories advanced in the past that black skin is a sign of divine disfavor or curse”?<sup class="footnote-reference" id="fr-footnote_4-1"><a href="/a_careful_examination/alex-douglas-afterword-ot-and-bom/#fn-footnote_4">[4]</a></sup> Why should they believe that Jesus Christ and God the Father are “one eternal God” (Alma 11:44; see also 2 Ne. 31:21, Mosiah 15:4, 3 Ne. 11:27, and Morm. 7:7) rather than the later LDS view that God the Father and Jesus Christ are separate beings? If the Book of Mormon prophets received their beliefs through revelation, then they received a very specific iteration of Christian belief that is no longer accurate considering subsequent LDS revelation.</p>
 <p>The second reason an appeal to revelation cannot adequately address these anachronistic beliefs is that, generally, the Book of Mormon does not present this knowledge as coming through revelation. It is true that Book of Mormon characters often talk about their belief in Christ as coming from angels and the Spirit, but the vast majority of these anachronisms are simply presented as part of the Israelite religion from whence the Nephites came (see, for example, worship in synagogues or the attribution of baptism to Isaiah).</p>
 <p>Simply put, according to the best scholarship we have, the theology presented in the Book of Mormon does not fit the state of Israelite theology in 600 BCE.</p>
-<h3 id="ideas-we-would-expect-fo-find-but-do-not">Ideas We Would Expect fo Find but Do Not</h3>
+<h3 id="ideas-we-would-expect-fo-find-but-do-not">Ideas We Would Expect fo Find but Do Not<a class="zola-anchor" href="#ideas-we-would-expect-fo-find-but-do-not" aria-label="Anchor link for: ideas-we-would-expect-fo-find-but-do-not"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Book of Mormon has nothing to say about any traits or practices we would expect to find among sixth-century Israelites. Take, for example, observing the law of Moses.<sup class="footnote-reference" id="fr-footnote_5-1"><a href="/a_careful_examination/alex-douglas-afterword-ot-and-bom/#fn-footnote_5">[5]</a></sup> Upon his arrival in the Americas, Nephi writes that “we did observe to keep the judgments, and the statutes, and the commandments of the Lord in all things, according to the law of Moses” (2 Ne. 5:10), yet aside from occasional mentions of the law, there is nothing distinctively Mosaic or even Israelite about what the Nephites observe. Aside from the Ten Commandments, not a single law is quoted or appealed to, including any mention of dietary considerations or how purity laws might apply to animals in the new world. Indeed, the Israelite concept of purity and the annual pilgrimage feasts of Booths, Weeks, and Passover—all central pillars of Israelite religion before exile—are never even mentioned.</p>
 <p>If you recall from chapter four, the single most important command in Deuteronomy (which Lehi would likely have had access to) was to centralize worship, prohibiting all sacrifice outside the temple. But Lehi offers sacrifice in the wilderness outside Jerusalem (1 Ne. 7:22). Nephi builds an entirely new temple (2 Ne. 5:16) without mentioning that they would need a priest or Levite to officiate in the temple—a real problem since Lehi’s family was descended from Manasseh. The law regarding centralization of worship was so important that every king in 1–2 Kings is judged on the extent to which he follows it. Thus, it scems very strange that upright Nephi would make no mention of why they repeatedly violated this commandment.</p>
 <p>The Davidic covenant was likewise central to early Israelite religion; in many ways it eclipsed the Mosaic covenant at Sinai. But aside from Nephi’s quotation of Isaiah, the Davidic covenant is never even mentioned in the Book of Mormon. Indeed, the only reference to David occurs in the book of Jacob, where David is condemned for his “many wives and concubines” (Jacob 2:24). Otherwise, this central piece of Israel’s religion and culture is entirely missing.</p>
 <p>The transition from judges to monarchy was a pivotal moment for Israel because, as we saw in chapter five, kings became the de facto head of the temple cult. Israel’s salvation came to be imagined in terms of a future king, and God came to be understood as a king reigning over Isracl. The king became God’s adopted son and stood as a mediator between God and the people (unlike the Mosaic covenant at Sinai, which conceptualized Israel itself as God’s son). When the Nephites make the reverse transition, from kings to judges, beyond a passing mention that bad kings could lead the people to wickedness, there is no acknowledgement of how central kings were within Israelite religion, nor is there talk of any religious realignment as the Nephites move from monarchy to judges. In over 500 years, from the beginning of the reign of the judges to the end of the Book of Mormon, the transition to judges has no discernible impact on the Nephites’ concept of God, salvation, or any other aspect of their theology.</p>
 <p>None of this is to say that the various authors and editors of the Book of Mormon could not have left those parts out, but doing so would be akin to, for example, a group of Mormons isolated on Mars deciding to ignore the Word of Wisdom, abandon temple worship, and restructure top church leadership without leaving anything in their official record about why they did so or without leaving any later evidence of how those changes affected their theology and religious practice.</p>
-<h3 id="lack-of-change">Lack of Change</h3>
+<h3 id="lack-of-change">Lack of Change<a class="zola-anchor" href="#lack-of-change" aria-label="Anchor link for: lack-of-change"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The fact that the shift from kings to judges had no impact on Nephite theology brings up one of the Book of Mormon’s most problematic issues: the lack of theological change over time.</p>
 <p>Biblical scholarship has uncovered huge amounts of change over the history of ancient Israelite religion. The early Israelite worship of El and the patterning of the patriarchal stories after the myths of Ugarit (see chapter two) contrast sharply with the strong condemnation of Canaanite religion that arose during the monarchic period. “The laws regarding slavery, rape, and manslaughter show significant differences as we move through time, from the Covenant Code in Exodus to the Holiness Code in Leviticus (see chapter four). The very nature of Israelite religion changed with the exile, with Judaism becoming separate from nationality and political affiliation. Then, after the exile, we see the emergence of Satan, a budding belief in heaven and hell, the advent of Messianism, and the reimagining of the Davidic covenant along Messianic lines. The Israclite religion of 1000 BCE bears only passing resemblance to the Jewish religion of 1 CE.</p>
 <p>Such significant change over a thousand years is not strange at all. The theology of both Judaism and Christianity changed drastically from the year 1 CE to 1000 CE, and similarly from the year 1000 CE to now. Even the LDS Church has changed profoundly since 1830. It reimagined polygamy; instituted and then revoked a temple-priesthood ban on those of African descent; dropped glossolalia; corporatized the institutional church; implemented correlation; ceased the law of consecration; emphasized temple work as part of regular worship; codified the Word of Wisdom; and largely dispensed with rituals such as women’s blessings, the second anointing, baptism for health, and anointing before childbirth. The church of the early nineteenth century differed drastically from the church today.</p>
 <p>However, the religion described in the Book of Mormon exhibits no such shifts. The theologies of Nephi and Moroni are indistinguishable, even though the two characters are separated by more than one thousand years. Think about that for a moment; not a single Nephite belief shows significant change from 600 BCE to 400 CE. Heaven and hell, resurrection, the final judgment, the Atonement, faith as power, the Godhead, baptism, angels, the structure of the church, the Millennium, the requirements for salvation, the fall—every single one of these beliefs remains unchanged.</p>
 <p>The Book of Mormon’s historicity also hinges on the historicity of stories such as the Tower of Babel. If there were no actual Tower of Babel where God confounded humankind’s languages, then Jared and his family could not have prayed to be spared or ultimately made their way across the sea to found the Jaredite civilization. But as we saw in chapter one, the Tower of Babel story is a myth, inspired by the towering temples of Babylon. The stories from the primeval history (Gen. 1–11) are not history in the same way that the Deuteronomistic History is. These stories are similar to the myths passed down by any ancient civilization.</p>
-<h3 id="mormonism-without-mormon">Mormonism without Mormon</h3>
+<h3 id="mormonism-without-mormon">Mormonism without Mormon<a class="zola-anchor" href="#mormonism-without-mormon" aria-label="Anchor link for: mormonism-without-mormon"><i class="fas fa-link"></i></a> 
+</h3>
 <p>It is true that Old Testament scholarship is not flawless; it cannot give us a 100 percent definitive verdict on the Book of Mormon’s historicity. However, everything we know about the Old Testament undermines the idea that the Book of Mormon recounts the lives of historical people. From its reliance on an actual Tower of Babel to its many anachronistic beliefs, from the difficulties involved with the brass plates to its unchanging nineteenth-century Christian theology, every indication is that the Book of Mormon story is not ancient history.</p>
 <p>Latter-day Saints often talk about the Book of Mormon as the keystone of our religion, that if we take the Book of Mormon out, the entire arch will crumble. If the Book of Mormon is not a historical text, does that then leave us with no religion? Does Mormonism depend on a historical Mormon, Moroni, and Nephi?</p>
 <p>Imagine that question framed this way: Did Israelite religion depend on the truthfulness of the stories in Genesis through Deuteronomy? The Pentateuch, after all, gives the account of how Yahweh created the world and chose Israel from among all the nations. If that foundational story had turned out to be untrue, would that have negated the Israelite religion?</p>
@@ -171,7 +294,8 @@
 <p>If the purpose of religion is to convey facts, then, yes, the reliability of a religion’s truth-claims is of utmost importance. But if the purpose of religion is something else, such as bringing people closer to God or binding communities together, then truth claims ultimately do not matter.</p>
 <p>Does a non-historical Book of Mormon mean that Mormonism is untrue? I cannot deny the problems I see when I examine the Book of Mormon through the lens of biblical scholarship, but I also cannot deny the experiences of millions of Latter-day Saints as they experience God in their lives. What a non-historical Book of Mormon does mean, however, is that Latter-day Saints need to reevaluate how we think and talk about it. Maybe the value of our religion lies not in how many facts we have about God, but in how much good it prompts us to do in the world. Or maybe it lies in the comfort that the plan of salvation can bring to those who mourn, or in the way it brings us closer to God, or in the strength of the community we build together. In the King James Version of the New Testament, James describes “pure religion” as “to visit the fatherless and widows in their affliction, and to keep himself unspotted from the world” (James 1:27). I may be in the minority of Latter-day Saints by holding this opinion, but I wonder if letting go of the historicity of the Book of Mormon may be exactly what is needed to more closely approach the “pure religion” spoken of by James.</p>
 <hr />
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a href="/a_careful_examination/bom-parallels-to-1800s-thought/">Book of Mormon parallels to 1800s thought</a></p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -193,16 +317,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -217,105 +340,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

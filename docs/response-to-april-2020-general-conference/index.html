@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Response to representations of former members in the April 2020 General Conference | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Response to representations of former members in the April 2020 General Conference | A Careful Examination</title>
+<meta property="og:title" content="Response to representations of former members in the April 2020 General Conference | A Careful Examination" />
+<meta name="twitter:title" content="Response to representations of former members in the April 2020 General Conference | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-april-2020-general-conference/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-april-2020-general-conference/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Response to representations of former members in the April 2020 General Conference</h1>
@@ -93,73 +209,46 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#elder-rasband">Elder Rasband</a></li>
-        
-          <li><a href="#elder-andersen">Elder Andersen</a></li>
-        
-          <li><a href="#douglas-d-holmes">Douglas D. Holmes</a></li>
-        
-          <li><a href="#elder-eyring">Elder Eyring</a></li>
-        
-          <li><a href="#elder-mccune">Elder McCune</a></li>
-        
-          <li><a href="#elder-renlund">Elder Renlund</a></li>
-        
-          <li><a href="#elder-nelson">Elder Nelson</a></li>
-        
-          <li><a href="#elder-oaks">Elder Oaks</a></li>
-        
-          <li><a href="#elder-cook">Elder Cook</a></li>
-        
-          <li><a href="#elder-gimenez">Elder Gimenez</a></li>
-        
-          <li><a href="#elder-uchtdorf">Elder Uchtdorf</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h4 id="introduction">Introduction</h4>
+  
+  
+
+  <div class="post-content">
+    <h4 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h4>
 <p>I don’t follow general conference too closely anymore, but I do hear about talks that refer to or are addressed to former members in some way.<sup class="footnote-reference" id="fr-source-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-source">[1]</a></sup></p>
 <p>Most of what is said does not bother me directly,<sup class="footnote-reference" id="fr-nobother-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-nobother">[2]</a></sup> but I do know that my LDS family and friends also hear these messages.  Experience has taught me that most members just aren’t tuned in to how former members are represented—members are focused on how the talks apply to them and how they can improve their lives.  And when former members are discussed, I understand that leadership intend no harm and are simply focused on helping members stay on the path they view as essential to happiness in this life and the next.</p>
 <p>Still, when former members are occasionally referred to or addressed by general authorities, it’s usually not in a very flattering light, and I wonder what kind of subconcious effect that has over time on how my member friends and family view me and other former members?  And even if we interpret their words in the most generous light, they still do not represent <em>my</em> feelings or thoughts very well.</p>
 <p>So, in the spirit of representing my own feelings and position and perhaps furthering dialog, I offer up these responses to a few points made in general conference that seem directed at or especially relevant to former members.<sup class="footnote-reference" id="fr-disclaimers-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-disclaimers">[3]</a></sup></p>
-<h4 id="elder-rasband"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/13rasband?lang=eng">Elder Rasband</a></h4>
+<h4 id="elder-rasband"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/13rasband?lang=eng">Elder Rasband</a><a class="zola-anchor" href="#elder-rasband" aria-label="Anchor link for: elder-rasband"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>We know that Alma also agonized about those whom he had led away from the truth. But Alma himself could not heal and restore all those he had led away. He could not himself ensure that they would be given a fair opportunity to learn the doctrine of Christ and to be blessed by living its joyful principles. He could not bring back those who may have died still blinded by his false teaching.</p>
 </blockquote>
 <p>Alma the younger can be viewed as a representation of a former member (raised in the Church but then left and taught against it).</p>
 <p>I don’t have any desire to lead people away from truth.  I believe truth can withstand scrutiny so I welcome correction and hope everyone finds all the truth they possibly can wherever they can.  And, unlike Alma the younger, my conscience is clean, and if I am mistaken then it is an honest mistake.</p>
-<h4 id="elder-andersen"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/15andersen?lang=eng">Elder Andersen</a></h4>
+<h4 id="elder-andersen"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/15andersen?lang=eng">Elder Andersen</a><a class="zola-anchor" href="#elder-andersen" aria-label="Anchor link for: elder-andersen"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>And when someone sets their defining memories aside and is lost or confused, we turn them toward the Savior as we share our faith and memories with them, helping them rediscover those precious spiritual moments they once treasured</p>
 </blockquote>
 <p>I do not feel that I have set aside my defining memories, and I don’t feel lost or confused.<sup class="footnote-reference" id="fr-lostconfused-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-lostconfused">[4]</a></sup></p>
 <p>I still appreciate the spiritual moments I had, even if I interpret their meaning differently now.  I also treasure the spiritual moments I continue to have and would love to build more.<sup class="footnote-reference" id="fr-spirituallife-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-spirituallife">[5]</a></sup></p>
-<h4 id="douglas-d-holmes"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/16holmes?lang=eng">Douglas D. Holmes</a></h4>
+<h4 id="douglas-d-holmes"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/16holmes?lang=eng">Douglas D. Holmes</a><a class="zola-anchor" href="#douglas-d-holmes" aria-label="Anchor link for: douglas-d-holmes"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>With ever-increasing secular forces pulling at us, we need the strength that comes from loving relationships.</p>
 </blockquote>
 <p>Whether something is “secular” or not has little bearing on its goodness, I think.  There is much in secular society that is good and much that is bad (just like there is much good and bad in religious societies).</p>
 <p>Regardless, life is difficult in many ways, so we all need loving relationships.</p>
-<h4 id="elder-eyring"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/17eyring?lang=eng">Elder Eyring</a></h4>
+<h4 id="elder-eyring"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/17eyring?lang=eng">Elder Eyring</a><a class="zola-anchor" href="#elder-eyring" aria-label="Anchor link for: elder-eyring"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>I know from experience that Satan and his servants try to make us feel that we must not pray.</p>
 </blockquote>
 <p>[Former members sometimes get lumped into the servant of Satan category.]</p>
 <p>I hope you continue to pray if you feel it is efficacious or brings you peace.  I find peace in various meditative practices and quiet reflection.  The world is an amazing place, people are amazing, and figuring out how best to navigate life is challenging, so we all need prayer, meditation, and/or reflection time.</p>
-<h4 id="elder-mccune"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/24mccune?lang=eng">Elder McCune</a></h4>
+<h4 id="elder-mccune"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/24mccune?lang=eng">Elder McCune</a><a class="zola-anchor" href="#elder-mccune" aria-label="Anchor link for: elder-mccune"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>There will be times when family members and close friends will face challenges. The voices of the world, and maybe their own desires, might cause them to question truth.</p>
 </blockquote>
@@ -174,12 +263,14 @@
 <p>The adversary would entice some to leave the joy of the gospel by separating Christ’s teachings from His Church.</p>
 </blockquote>
 <p>I feel to embrace all the truth and goodness I can find in the accounts of Jesus’s life and teachings.  I am not currently persuaded that Satan or any other supernatural entity exists (which is exactly what Satan would want, of course, but that loop, once constructed, cannot be escaped), so I do not believe he is enticing me to separate Christ’s teachings from the LDS Church.  I hope all organizations and people embrace all the truth and goodness they can find from Christ’s example and teachings.</p>
-<h4 id="elder-renlund"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=eng">Elder Renlund</a></h4>
+<h4 id="elder-renlund"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=eng">Elder Renlund</a><a class="zola-anchor" href="#elder-renlund" aria-label="Anchor link for: elder-renlund"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>Yet even new hearts may be “prone to wander, … prone to leave the God [we] love.” To fight this tendency, we need to reflect every day on the gifts we have received and on what they entailed.</p>
 </blockquote>
 <p>I often feel gratitude in my heart for all the service and sacrifices made on my and my children’s behalf, and I feel to embrace goodness, not wander from it.</p>
-<h4 id="elder-nelson"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=eng">Elder Nelson</a></h4>
+<h4 id="elder-nelson"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=eng">Elder Nelson</a><a class="zola-anchor" href="#elder-nelson" aria-label="Anchor link for: elder-nelson"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>Yet most people do not embrace these truths—either because they do not know where to look for them or because they are listening to those who do not have the whole truth or because they have rejected truth in favor of worldly pursuits.</p>
 </blockquote>
@@ -193,12 +284,14 @@
 <p>We simply cannot rely upon information we bump into on social media. With billions of words online and in a marketing-saturated world constantly infiltrated by noisy, nefarious efforts of the adversary, where can we go to hear Him?</p>
 </blockquote>
 <p>I think our confidence in a source should be proportional to its demonstrated predictive power and track record in conveying truths that we can verify to some degree.  As mentioned above, I am not yet persuaded that a supernatural being has infiltrated our social networks, but we can probably all agree that many human generated forces are seeking to distract us or gain our attention.<sup class="footnote-reference" id="fr-astroturfing-1"><a href="/a_careful_examination/response-to-april-2020-general-conference/#fn-astroturfing">[6]</a></sup>  We should be careful about the sources we trust, and this is admittedly a difficult task in the modern era (but was it any easier in other eras, or just different?)</p>
-<h4 id="elder-oaks"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/51oaks?lang=eng">Elder Oaks</a></h4>
+<h4 id="elder-oaks"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/51oaks?lang=eng">Elder Oaks</a><a class="zola-anchor" href="#elder-oaks" aria-label="Anchor link for: elder-oaks"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>In conclusion, I share the conviction that has come to me from many letters and by reviewing many requests to return to the Church after name removal or apostasy. Many of our members do not fully understand this plan of salvation, which answers most questions about the doctrine and inspired policies of the restored Church.</p>
 </blockquote>
 <p>I feel like I understand the LDS plan of salvation with some clarity (given that I studied it one way or another for almost 40 years).  I believe an answer <em>can</em> be generated for every question (because we are dealing with something like an <a rel="external" href="https://en.wikipedia.org/wiki/Underdetermined_system">underdetermined system</a>), but I am not convinced that good answers (i.e., fully consistent internally and externally and of higher probability than alternatives) exist for many of the toughest questions.</p>
-<h4 id="elder-cook"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/52cook?lang=eng">Elder Cook</a></h4>
+<h4 id="elder-cook"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/52cook?lang=eng">Elder Cook</a><a class="zola-anchor" href="#elder-cook" aria-label="Anchor link for: elder-cook"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>We also declare our heartfelt desire to be reunited with those who have been struggling with their testimonies, been less active, or had their names removed from Church records.</p>
 </blockquote>
@@ -236,12 +329,14 @@
 <p>… I assure you that revelatory guidance can be received by each of us as we humbly labor in the Lord’s vineyard.</p>
 </blockquote>
 <p>I have a different view of the meaning of spiritual experiences.</p>
-<h4 id="elder-gimenez"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/53gimenez?lang=eng">Elder Gimenez</a></h4>
+<h4 id="elder-gimenez"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/53gimenez?lang=eng">Elder Gimenez</a><a class="zola-anchor" href="#elder-gimenez" aria-label="Anchor link for: elder-gimenez"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>It is said that “to one who has faith, no explanation is necessary. To one without faith, no explanation is possible.” (This statement has been attributed to Thomas Aquinas but is most likely a loose paraphrase of things he taught.) However, we have limited understanding of the things that happen here on earth, and often we do not have answers to the question of why.”</p>
 </blockquote>
 <p>I think having confidence in things in proportion to their track record is good.  I think hoping for things is good.  I have faith in and hope for many things.  I am unconvinced that religious faith, which I define and discuss <a rel="external" href="https://www.reddit.com/r/mormon/comments/7qv2r4/faith_vs_religious_faith_thoughts_on_faith_hope/">here</a>, is a virtue.  Gimenez’s statement would position us between two extremes, and I think both extremes he presents are at least potentially dangerous.</p>
-<h4 id="elder-uchtdorf"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng">Elder Uchtdorf</a></h4>
+<h4 id="elder-uchtdorf"><a rel="external" href="https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng">Elder Uchtdorf</a><a class="zola-anchor" href="#elder-uchtdorf" aria-label="Anchor link for: elder-uchtdorf"><i class="fas fa-link"></i></a> 
+</h4>
 <p>[Elder Uchtdorf explicitly addressed non-members in his talk, generally]</p>
 <blockquote>
 <p>We are His beloved children.  Even those who reject Him.  Even those who, like a headstrong, unruly child, become angry with God and His Church, pack their bags, and storm out the door proclaiming that they’re running away and never coming back.</p>
@@ -309,16 +404,15 @@ unruly, right? <a href="/a_careful_examination/response-to-april-2020-general-co
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -333,105 +427,9 @@ unruly, right? <a href="/a_careful_examination/response-to-april-2020-general-co
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

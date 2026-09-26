@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How did Joseph Smith&#39;s wives refer to their unions? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>How did Joseph Smith&#39;s wives refer to their unions? | A Careful Examination</title>
+<meta property="og:title" content="How did Joseph Smith&#39;s wives refer to their unions? | A Careful Examination" />
+<meta name="twitter:title" content="How did Joseph Smith&#39;s wives refer to their unions? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/how-did-js-wives-refer-to-unions/">
-  
+  <meta property="og:url" content="/a_careful_examination/how-did-js-wives-refer-to-unions/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">How did Joseph Smith&#39;s wives refer to their unions?</h1>
@@ -108,35 +224,41 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.</p>
+  
+  
+
+  <div class="post-content">
+    <p>Denials of polygamy should be interpreted in light of how the women Joseph Smith married referred to their relationship with him.</p>
 <p>For clarity on what the word “marriage” means, Merriam-Webster’s <a rel="external" href="https://www.merriam-webster.com/dictionary/marry">first definition of the
 word “marry”</a> (last accessed 2017-02-05) is “to become the husband or wife of (someone)”.</p>
-<h2 id="terminology-used-by-joseph-s-wives">Terminology used by Joseph’s wives</h2>
+<h2 id="terminology-used-by-joseph-s-wives">Terminology used by Joseph’s wives<a class="zola-anchor" href="#terminology-used-by-joseph-s-wives" aria-label="Anchor link for: terminology-used-by-joseph-s-wives"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Except where noted, the following first-hand accounts are taken from Brian Hales site Joseph Smith’s Polygamy <a rel="external" href="https://web.archive.org/web/20161104210408/http://josephsmithspolygamy.org/stories-of-faith-joseph-smiths-plural-wives/">“Stories of Faith: Joseph Smith’s Plural Wives”</a> archived from October 2016.</p>
 <p>Special attention should be paid to these women’s usage of the words “marry”, “married”, “wife”, “wives”, “husband”, “plural marriage”, and “polygamy”.</p>
 <p>(emphasis added)</p>
-<h3 id="emily-dow-partridge">Emily Dow Partridge</h3>
+<h3 id="emily-dow-partridge">Emily Dow Partridge<a class="zola-anchor" href="#emily-dow-partridge" aria-label="Anchor link for: emily-dow-partridge"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>It was about this time [Feb. 1843] that the principles of Celestial marriage were being taught to a few.  I and my sister Eliza received it and were <strong>married</strong> to br. Joseph about the same time, but neither of us knew about the other at the time, everything was so secret. This was March of 1843. Joseph had tried to make these things known to me, several months before – I think, in the spring or summer of 1842, but I had shut him up so quick that he said no more to me until the 28th of Feb. 1843, (my nineteenth birthday) and <strong>I was married</strong> the 4th of March following.</p>
 </blockquote>
 <blockquote>
 <p>He told me then what he wanted to say to me, and he taught me this principle of <strong>plural marriage called polygamy now</strong>, but we called it celestial marriage, and he told me that this principle had been revealed to him but it was not generally known; and he went on and said that the Lord had given me to him, and he wanted to know if I would consent to a <strong>marriage</strong>, and I consented. . . . I was <strong>married</strong> to him on the 4th day of March, 1843.</p>
 </blockquote>
-<h3 id="eliza-partridge">Eliza Partridge</h3>
+<h3 id="eliza-partridge">Eliza Partridge<a class="zola-anchor" href="#eliza-partridge" aria-label="Anchor link for: eliza-partridge"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Times were not then as they are now in 1877 but a woman living in <strong>polygamy</strong> dare not let it be known and nothing but a firm desire to keep the commandments of the Lord could have <strong>induced a girl to marry in that way</strong>.</p>
 </blockquote>
 <blockquote>
 <p>This was truly a great trial for me, but I had the most implicit confidence in him as a Prophet of the Lord and not but believe his word and as a matter of course accept of the privilege <strong>of being sealed to him as a wife</strong> for time and all eternity.</p>
 </blockquote>
-<h3 id="mary-elizabeth-rollins">Mary Elizabeth Rollins</h3>
+<h3 id="mary-elizabeth-rollins">Mary Elizabeth Rollins<a class="zola-anchor" href="#mary-elizabeth-rollins" aria-label="Anchor link for: mary-elizabeth-rollins"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>But on going to the office [the] next day, I received the interpretation for what to my astonishment, when Joseph made known to me that God had commanded him in July, 1834, <strong>to take me for a wife</strong>.</p>
 </blockquote>
-<h3 id="lucy-walker">Lucy Walker</h3>
+<h3 id="lucy-walker">Lucy Walker<a class="zola-anchor" href="#lucy-walker" aria-label="Anchor link for: lucy-walker"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>In the year 1842, President Joseph Smith sought an interview with me, and said: “I have a message for you. <strong>I have been commanded of God to take another wife</strong>, and you are the woman.” My astonishment knew no bounds.</p>
 </blockquote>
@@ -149,17 +271,21 @@ word “marry”</a> (last accessed 2017-02-05) is “to become the husband or w
 <blockquote>
 <p>Shortly afterwards <strong>I consented to become the Prophet’s wife</strong>, and was <strong>married</strong> to him May 1, 1843, Elder William Clayton officiating. I am also able to testify that Emma Smith, <strong>the Prophet’s first wife</strong>, gave her consent to the <strong>marriage</strong> of at least four other girls to her husband, and that <strong>she was well aware that he associated with them as wives within the meaning of all that word implies</strong>.</p>
 </blockquote>
-<h3 id="alemera-johnson">Alemera Johnson</h3>
+<h3 id="alemera-johnson">Alemera Johnson<a class="zola-anchor" href="#alemera-johnson" aria-label="Anchor link for: alemera-johnson"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>That in the years 1842 and 1843, I resided most of the time at Macedonia, in the County of Hancock, State of Illinois, sometimes with my sister <strong>who was the wife of Almon W. Babbitt</strong>, and sometimes with my brother Benjamin F. Johnson. During that time the Prophet Joseph Smith taught me the principle of Celestial Marriage including <strong>plurality of wives</strong> and <strong>asked me to become his wife</strong>. He first spoke to me on this subject at the house of my brother Benjamin F. I also lived a portion of the time at Brother Joseph Smith’s in Nauvoo, when many conversations passed between him and myself on this subject. On a certain occasion in the spring of the year 1843, the exact date of/ which I do not now recollect, I went from Macedonia to Nauvoo to visit another of my sisters, the one who was the widow of Lyman R. Sherman, deceased, at which time I was sealed to the Prophet Joseph Smith. At the time this took place Hyrum Smith, Joseph’s brother, came to me and said, I need not be afraid. I had been fearing and doubting about the principle and so had he, but he now knew it was true. After this time <strong>I lived with the Prophet Joseph Smith as his wife</strong>, and he visited me at the home of my brother Benjamin F. at Macedonia.</p>
 </blockquote>
-<h3 id="eliza-snow-referring-to-fanny-alger">Eliza Snow referring to Fanny Alger</h3>
+<h3 id="eliza-snow-referring-to-fanny-alger">Eliza Snow referring to Fanny Alger<a class="zola-anchor" href="#eliza-snow-referring-to-fanny-alger" aria-label="Anchor link for: eliza-snow-referring-to-fanny-alger"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Here’s how Eliza R. Snow described the marriage of Fanny Alger to Joseph Smith (from <a rel="external" href="http://josephsmithspolygamy.org/andrew-jenson-papers-document-10/">here</a>):</p>
 <blockquote>
 <p>Alger, Fanny, Joseph Smith’s wife. <strong>One of the first wives Joseph married</strong>. <del>Emma made such a fuss about.</del> Sister E. R. Snow was well acquainted with her as she lived with the Prophet at the time. She <strong>afterwards married in Indiana</strong> where she became the mother of a large family. A brother Alger lives in St. George. Write to Pres Mc Allister</p>
 </blockquote>
-<h2 id="spiritual-wife">“Spiritual Wife”</h2>
-<h3 id="helen-mar-kimball-whitney">Helen Mar Kimball Whitney</h3>
+<h2 id="spiritual-wife">“Spiritual Wife”<a class="zola-anchor" href="#spiritual-wife" aria-label="Anchor link for: spiritual-wife"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="helen-mar-kimball-whitney">Helen Mar Kimball Whitney<a class="zola-anchor" href="#helen-mar-kimball-whitney" aria-label="Anchor link for: helen-mar-kimball-whitney"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In her work printed in 1882, <em>Plural Marriage as Taught by the Prophet Joseph:
 A reply to Joseph Smith, Editor of the Lamoni (Iowa) “Herald”</em>, <a rel="external" href="https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JSP_Book_68.pdf">Helen
 wrote</a>
@@ -169,7 +295,8 @@ wrote</a>
 entered into this order and not a temporal one, though it was always spoken
 of sneeringly by those who did not believe in it …</p>
 </blockquote>
-<h3 id="emily-partridge">Emily Partridge</h3>
+<h3 id="emily-partridge">Emily Partridge<a class="zola-anchor" href="#emily-partridge" aria-label="Anchor link for: emily-partridge"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Emily wrote in <a rel="external" href="http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0412.doc">her own personal diary</a>:</p>
 <blockquote>
 <p>July 29th, 1881, Sunday. … I am, as the world calls it, ‘spiritual wife’ of early days, when public ipinion [sic] was like an avalanche burying all such beneath its oppressive weight.  Some will understand what it is to be a woman, mother, or an unloved ‘spiritual wife’.</p>
@@ -178,7 +305,8 @@ of sneeringly by those who did not believe in it …</p>
 <p>August 1st, 1881.   Yesterday I was in a dark mood.  Today I am looking for the bright spots.  Although they may be few and far between they should not be over-looked and among the greatest blessings I class the fates that I am a mother, and was a <em>spiritual wife</em>. (emphasis in original)</p>
 </blockquote>
 <p>The first instance seems diminutive, while the second is viewed more positively.</p>
-<h3 id="summary">Summary</h3>
+<h3 id="summary">Summary<a class="zola-anchor" href="#summary" aria-label="Anchor link for: summary"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>The women considered these “marriages” and they considered themself a “wife” of Joseph Smith.</li>
 <li>Lucy Walker’s testimony establishes that the plural wives of Joseph Smith were living as husband and wife “within the meaning of all that word [wives] implies.”</li>
@@ -188,16 +316,15 @@ of sneeringly by those who did not believe in it …</p>
 <li>The term “spiritual wife” seems also to have been used by those involved.  Possibly this was the predominant contemporaneous usage.</li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -212,105 +339,9 @@ of sneeringly by those who did not believe in it …</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

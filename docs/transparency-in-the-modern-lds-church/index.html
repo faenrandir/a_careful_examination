@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Transparency in the modern LDS Church | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Transparency in the modern LDS Church | A Careful Examination</title>
+<meta property="og:title" content="Transparency in the modern LDS Church | A Careful Examination" />
+<meta name="twitter:title" content="Transparency in the modern LDS Church | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/transparency-in-the-modern-lds-church/">
-  
+  <meta property="og:url" content="/a_careful_examination/transparency-in-the-modern-lds-church/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Transparency in the modern LDS Church</h1>
@@ -113,30 +229,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#examples-of-transparency-failures">Examples of transparency failures</a></li>
-        
-          <li><a href="#discussion">Discussion</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-          <li><a href="#acknowledgements">Acknowledgements</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In Elder Ballard’s <a rel="external" href="https://www.churchofjesuschrist.org/broadcasts/face-to-face/oaks-ballard?lang=eng">2017 YSA Face to Face</a> he stated:</p>
 <blockquote>
 <p>We’re as transparent as we know how to be in telling the truth.</p>
@@ -150,7 +248,8 @@
 <p>The Church did not hide information from me, but the historical information was not emphasized to me</p>
 </blockquote>
 <p>However, the historical record supports several examples of when the Church or its representatives appear to have failed to inform members or investigators of things they perhaps should have, misrepresented the data, or influenced others to be less transparent with its history or administration.</p>
-<h2 id="examples-of-transparency-failures">Examples of transparency failures</h2>
+<h2 id="examples-of-transparency-failures">Examples of transparency failures<a class="zola-anchor" href="#examples-of-transparency-failures" aria-label="Anchor link for: examples-of-transparency-failures"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The following examples demonstrate or indicate some level of transparency failure:</p>
 <ul>
 <li>
@@ -330,14 +429,16 @@ is discussed in recent Harris and Bringhurst’s Gospel Tangents interviews
 <p>According to LDS historian Matt Harris, as he conveyed in an interview with John Dehlin (<a href="/a_careful_examination/matt-harris-transcript-on-lds-transparency/">transcript</a>), the Spencer W. Kimball papers and Henry W.  Moyle’s papers were donated by children to Church archives with stipulations that they be open (in some cases at some agreed upon point in time).  For instance, Harris stated that Moyle’s papers were donated under stipulation that they be open for access by 1984. Kimball’s journals were <a rel="external" href="https://religionnews.com/2023/02/17/spencer-w-kimball-diaries-shine-a-light-behind-the-scenes-of-modern-mormonism/">finally released in 2023</a>, but the Henry Moyle papers are still not available today.</p>
 </li>
 </ul>
-<h2 id="discussion">Discussion</h2>
+<h2 id="discussion">Discussion<a class="zola-anchor" href="#discussion" aria-label="Anchor link for: discussion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>It seems evident from the above examples that the institution and leadership have failed—and continue to fail—in at least some ways to make relevant data accessible to others.</p>
 <p>It is widely acknowledged that the Church is <em>more</em> transparent now than before.  Recent historical efforts such as the <a rel="external" href="https://www.josephsmithpapers.org/">Joseph Smith Papers</a>, the <a rel="external" href="https://www.churchhistorianspress.org/news/chpress-publishes-george-q-cannon-journals?lang=eng">publication of George Q. Cannon’s journal</a>, and the announcement that the Church <a rel="external" href="https://juvenileinstructor.org/breaking-news-lds-church-to-publish-the-william-clayton-diaries/">will publish the William Clayton diaries</a> are examples of this recent trend in openness to critical records.</p>
 <p>On the other hand, we cannot acknowledge recent <em>improvements</em> in transparency without acknowledging past failures.  Faithful Latter-day Saint historians like Leonard Arrington and Lester Bush clearly documented a general attitude of data suppression among top LDS leadership in decades past.  And, in emphasizing recent efforts at openness, Steven Snow <a rel="external" href="https://mi.byu.edu/truth-in-church-history-excerpts-from-the-religious-educators-qa-with-elder-steven-snow/">acknowledged</a>: “in the past there was a tendency to keep a lot of the records closed or at least not give access to information.”  And, as some of the examples above suggest, some of what has become transparent over the last century and even recently seems to have been catalyzed in some part as a response to outside efforts or forces rather than from internal motivation to be transparent (e.g., LDS approved releases and discussion of the 1832 First Vision and Kirtland Egyptian Papers were preceded by outsider efforts to make the material available).</p>
 <p>Administrative transparency has followed a similar trend to historical transparency.  Strides in administrative transparency have been made: for instance, the Church recently announced that the next Church handbook will be available to all <a rel="external" href="https://www.deseret.com/faith/2020/2/18/21142831/mormon-church-new-handbook-instructions-changes-latter-day-saints-lds">in its entirety</a>.  But how vigorous should be the applause when just a short time ago the Church was suing and enforcing copyright claims in order to prevent access to its handbooks?  And, current Church procedures still lack transparency in many regards.  For instance, financial information (total wealth, how money is used, whether donations are used in the manner marked), attendance and activity information, and information/reasoning about how decisions are made are typically not made clear to members or the public.<sup class="footnote-reference" id="fr-financial_transparency-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-financial_transparency">[5]</a></sup></p>
 <p>And, obvious failures in historical transparency remain in at least several areas:  First Presidency vault registers are still not public, talks that have been altered still lack annotation on churchofjesuschrist.org, leaders’ papers donated decades ago under stipulation that they be public are still not accessible, and historians are still routinely denied access to documents that are 70–90 years old.</p>
 <p>In the face of the evidence on historical and institutional transparency, it is difficult to understand how Elder Ballard would make such a statement that leaders had “never tried to hide anything from anybody.”  And the claim that “[t]he Church did not hide information from me, but the historical information was not emphasized to me” seems to fall flat.  One could argue that leaders were magnanimously motivated (see next section), but the cumulative effect of their actions—whatever their motivation—has been to hinder historical and institutional transparency in some significant part for many decades.  And, arguments about past motivation seem moot given the historical information known to still be inaccessible today.</p>
-<h3 id="motivation-and-consequences">Motivation and consequences</h3>
+<h3 id="motivation-and-consequences">Motivation and consequences<a class="zola-anchor" href="#motivation-and-consequences" aria-label="Anchor link for: motivation-and-consequences"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Should we label these instances “hiding”?  <em>Hiding</em> tends to imply a particular dishonest motivation.  Perhaps LDS leadership genuinely view their actions as honest or honorable in most or all cases?  A number of neutral or positive motivations could be conjectured.  Failures in transparency may be attributable to:<sup class="footnote-reference" id="fr-motivations_overlap-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-motivations_overlap">[6]</a></sup></p>
 <ol>
 <li>An honest mistake</li>
@@ -352,7 +453,8 @@ is discussed in recent Harris and Bringhurst’s Gospel Tangents interviews
 <p>A few accounts in the timeline above capture the motivation of leadership, and several of the possible motivations enumerated were represented.  For instance, historian <a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V35N02_15.pdf">Linda Newell noted</a> that Elder Oaks “admitted he had only read portions of [Mormon Enigma], citing time constraints as the reason” and that “despite his … reputation as a scholar and intellectual, his duty as an apostle meant he had an obligation to ‘protect what is most unique about the LDS church’ and [limit detrimental influence on] the reputation of Joseph Smith.”  Further, when leaders argued against sharing damaging information, it was coupled with an <a href="/a_careful_examination/leonard-arrington-and-real-history/">insistence on a kind of truthfulness</a>: “We are required to tell the truth but we are not required to tell the whole truth.”</p>
 <p>And, in general, leaders who seem to have been least transparent also seemed to view the institution and its truth-claims as under threat from forces set on undermining and perhaps destroying them.<sup class="footnote-reference" id="fr-sacrificing_transparency-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-sacrificing_transparency">[7]</a></sup></p>
 <p>Generosity towards the motivation of LDS leadership may be balanced with an appreciation of the potential harms of limiting transparency.  Individuals cannot act with a full measure of agency unless the facts of a given matter are accessible to them.  When leaders or institutions are transparent with the relevant data that allows others to fully exercise their agency.  Conversely, failures to make relevant information accessible, even if motivations were noble, tend to hinder individuals’ self-determination<sup class="footnote-reference" id="fr-self_determination-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-self_determination">[8]</a></sup> and make it more difficult to choose the best model among competing models.<sup class="footnote-reference" id="fr-models-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-models">[9]</a></sup>  Finally, when devoted members discover (sometimes through alternate channels) information that seems to have been withheld, they often feel a sense of betrayal.<sup class="footnote-reference" id="fr-betrayal-1"><a href="/a_careful_examination/transparency-in-the-modern-lds-church/#fn-betrayal">[10]</a></sup></p>
-<h3 id="responsibility-and-moving-forward">Responsibility and moving forward</h3>
+<h3 id="responsibility-and-moving-forward">Responsibility and moving forward<a class="zola-anchor" href="#responsibility-and-moving-forward" aria-label="Anchor link for: responsibility-and-moving-forward"><i class="fas fa-link"></i></a> 
+</h3>
 <p>What responsibility does an organization have for making accessible or publicizing accurate—but potentially damaging or uncomfortable—information to its members?  It seems fair to point out that the Church holds its members to exacting standards of honesty and transparency.  For instance, the <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/1994/10/thou-shalt-not-bear-false-witness?lang=eng">Ensign in 1994 taught</a>:</p>
 <blockquote>
 <p>We can also be guilty of bearing false witness and lying if we say nothing, particularly if we allow another to reach a wrong conclusion while we hold back information that would have led to a more accurate perception. In this case it is as though an actual lie were uttered… Lying and misrepresentation in all of their forms are wrong, no matter how they may be rationalized, and those who silently let these evils pass unchallenged are also doing wrong</p>
@@ -364,14 +466,16 @@ is discussed in recent Harris and Bringhurst’s Gospel Tangents interviews
 <li>Can we say that the Church is fully transparent today?  How would we know if that were the case?</li>
 <li>Are the cultural forces that hindered transparency in the past still active in the Church today?</li>
 </ul>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="http://signaturebookslibrary.org/on-being-a-mormon-historian/">On Being a Mormon Historian (and Its Aftermath)</a> (D. Michael Quinn)</li>
 <li>Fact-Checking Mormon History: <a rel="external" href="https://medium.com/@jellistx/fact-checking-mormon-history-did-the-church-lie-about-its-past-92e7beacb9be">Did the Church Lie about its Past</a> and <a rel="external" href="https://medium.com/@jellistx/fact-checking-mormon-history-the-brethren-didnt-know-enough-to-teach-accurate-history-88061781e6b6">The Brethren Didn’t Know Enough to Teach Accurate History</a> (Jonathan Ellis)</li>
 <li><a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V26N01_23.pdf">The LDS Intellectual Community and Church Leadership: A Contemporary Chronology</a> (Lavina Fielding Anderson)</li>
 <li><a rel="external" href="https://web.archive.org/web/20201128233229/https://clients.kayburningham.com/class/Gaddy_Amended_Complaint.pdf">Gaddy vs. Corporation of the President of the Church of Jesus Christ of Latter-day Saints</a> (amended class action complaint)</li>
 </ul>
-<h2 id="acknowledgements">Acknowledgements</h2>
+<h2 id="acknowledgements">Acknowledgements<a class="zola-anchor" href="#acknowledgements" aria-label="Anchor link for: acknowledgements"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The author received valuable feedback on a first draft of this document from the Mormon Historians facebook group, especially Anthony D. Miller, Jonathon Ellis, Ryan Larsen, Mary Ann Clements, Brian Hanson, Christian Anderson, James Davenport, Joe Geisner, and Robin Jensen.  The author received valuable feedback on <a rel="external" href="https://www.reddit.com/r/mormon/comments/jahrre/transparency_in_the_modern_lds_church/">a second draft</a> from the mormon subreddit, especially ammonthenephite, MR-Singer, and frogontrombone.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -422,16 +526,15 @@ is discussed in recent Harris and Bringhurst’s Gospel Tangents interviews
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -446,105 +549,9 @@ is discussed in recent Harris and Bringhurst’s Gospel Tangents interviews
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

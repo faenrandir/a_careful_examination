@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Resources on faith, spiritual witnesses, and epistemology | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Resources on faith, spiritual witnesses, and epistemology | A Careful Examination</title>
+<meta property="og:title" content="Resources on faith, spiritual witnesses, and epistemology | A Careful Examination" />
+<meta name="twitter:title" content="Resources on faith, spiritual witnesses, and epistemology | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/">
-  
+  <meta property="og:url" content="/a_careful_examination/resources-on-faith-spiritual-witnesses-and-epistemology/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Resources on faith, spiritual witnesses, and epistemology</h1>
@@ -103,32 +219,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#basic-data">Basic Data</a></li>
-        
-          <li><a href="#analyses-interpretations-or-questions">Analyses, interpretations, or questions</a></li>
-        
-          <li><a href="#discussions">Discussions</a></li>
-        
-          <li><a href="#special-insight-and-amazing-coincidences">Special insight and amazing coincidences</a></li>
-        
-          <li><a href="#epistemology">Epistemology</a></li>
-        
-          <li><a href="#apologetic">Apologetic</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="basic-data">Basic Data</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="basic-data">Basic Data<a class="zola-anchor" href="#basic-data" aria-label="Anchor link for: basic-data"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li><a rel="external" href="https://www.youtube.com/watch?v=UJMSU8Qj6Go">Spiritual Witnesses</a> (youtube)</li>
 <li><a rel="external" href="https://testimoniesofotherfaiths.blogspot.com/">Testimonies of Other Faiths</a> (collection of anecdotes)</li>
@@ -136,7 +232,8 @@
 <li><a rel="external" href="http://www.religioustolerance.org/god_pra6.htm">Can prayer determine the will of God?</a> (preliminary study)</li>
 <li><a rel="external" href="https://drive.google.com/file/d/1YYcp-aoAI_RHk1uwA2r49m3Ogb7sKS35/view?usp=sharing">Elevation Emotion Studies</a> (compilation of peer reviewed research )</li>
 </ol>
-<h2 id="analyses-interpretations-or-questions">Analyses, interpretations, or questions</h2>
+<h2 id="analyses-interpretations-or-questions">Analyses, interpretations, or questions<a class="zola-anchor" href="#analyses-interpretations-or-questions" aria-label="Anchor link for: analyses-interpretations-or-questions"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li><a href="/a_careful_examination/testimony-spiritual-experiences-truth/">Testimony, spiritual experiences, and truth: A careful examination</a> (analysis)</li>
 <li><a rel="external" href="https://www.mormonstories.org/truth-claims/mormon-culture/testimony-feeling-the-spirit/">Testimony / Feeling the Spirit</a> (Mormon Stories resource page)</li>
@@ -159,21 +256,25 @@
 <li><a rel="external" href="https://www.youtube.com/watch?v=NKY6jJbyCo0">Brian Dunning - Principles of Curiosity</a> (youtube)</li>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/7dyni3/the_story_of_my_faith_crisis_and_my_return_to_the/dq2fnwj/">Comment on evidence</a></li>
 </ol>
-<h2 id="discussions">Discussions</h2>
+<h2 id="discussions">Discussions<a class="zola-anchor" href="#discussions" aria-label="Anchor link for: discussions"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/a5jw5f/relieving_the_burden_on_the_shoulders_of_believers/ebpbb17/">Fuzzy_Thoughts and Craytun1 discuss witnesses and epistemology</a></li>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/9sphcv/when_confronted_by_difficult_questions_many/e8uonhi/">Reinterpreting spiritual experiences</a></li>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/9c74gq/faith_is_not_belief_faith_crisis_and_what_sam/e59621g/">Critique of Mormonado’s “Faith is NOT belief” episode</a></li>
 </ol>
-<h2 id="special-insight-and-amazing-coincidences">Special insight and amazing coincidences</h2>
+<h2 id="special-insight-and-amazing-coincidences">Special insight and amazing coincidences<a class="zola-anchor" href="#special-insight-and-amazing-coincidences" aria-label="Anchor link for: special-insight-and-amazing-coincidences"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li><a rel="external" href="https://www.youtube.com/watch?v=752V173e31o&amp;t=1195">Brian Dunning - Precognition</a> (youtube, beginning at ~19:55) <a rel="external" href="https://books.google.com/books?id=DpnWcMzeh8oC&amp;q=dying#v=onepage&amp;q=%22Premonition%3F%22&amp;f=false">Original analysis by Charpak and Broch</a></li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=I6uj1ruTmGQ">Derren Brown - Cold Readings</a> (youtube, relates to patriarchal and priesthood blessings)</li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=ust-pJC-9j8&amp;feature=youtu.be&amp;t=1931">Derren Brown - “Intervention” experiment</a> (youtube, demonstrates that we see intervention if we look for it regardless of whether an agent is responsible).</li>
 </ol>
-<h2 id="epistemology">Epistemology</h2>
+<h2 id="epistemology">Epistemology<a class="zola-anchor" href="#epistemology" aria-label="Anchor link for: epistemology"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Standards of Truth: Finding Reliable Epistemic Standards to Identify True Prophets (<a rel="external" href="https://www.standardsoftruth.org/">website</a>, <a rel="external" href="https://drive.usercontent.google.com/u/0/uc?id=1qNkRtGwR4ZM0hVlxV2hYhNQuSZHBKvZh&amp;export=download">doc</a>)</p>
-<h3 id="street-epistemology">Street Epistemology</h3>
+<h3 id="street-epistemology">Street Epistemology<a class="zola-anchor" href="#street-epistemology" aria-label="Anchor link for: street-epistemology"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://streetepistemology.com/">Street epistemology</a> sessions with Latter-day Saints:</p>
 <ol>
 <li>Street Knowledge
@@ -196,8 +297,10 @@
 </ul>
 </li>
 </ol>
-<h2 id="apologetic">Apologetic</h2>
-<h3 id="fairmormon">FairMormon</h3>
+<h2 id="apologetic">Apologetic<a class="zola-anchor" href="#apologetic" aria-label="Anchor link for: apologetic"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="fairmormon">FairMormon<a class="zola-anchor" href="#fairmormon" aria-label="Anchor link for: fairmormon"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li><a rel="external" href="https://www.fairlatterdaysaints.org/archive/publications/can-we-trust-our-feelings">FairMormon - Can We Trust Our Feelings</a></li>
 <li><a rel="external" href="https://www.fairlatterdaysaints.org/answers/Holy_Ghost/Burning_in_the_bosom">FairMormon -  Is the “burning in the bosom” a reliable method of determining truth?</a></li>
@@ -205,30 +308,31 @@
 <li><a rel="external" href="https://www.fairlatterdaysaints.org/answers/Holy_Ghost/%22Feeling_the_spirit%22_while_listening_to_ex-Mormon_exit_stories">FairMormon - “Feeling the spirit” while listening to ex-Mormon “exit stories”</a></li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=Og-ah5UIeHY">Spiritual Experiences as the Basis for Belief and Commitment</a> (Blake Ostler, 2007 FAIR address)</li>
 </ol>
-<h3 id="conflict-of-justice">Conflict of Justice</h3>
+<h3 id="conflict-of-justice">Conflict of Justice<a class="zola-anchor" href="#conflict-of-justice" aria-label="Anchor link for: conflict-of-justice"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li><a rel="external" href="http://web.archive.org/web/20210526234148/http://www.conflictofjustice.com/mormons-feel-spirit-paul-h-dunns-stories/">Why Did Latter-Day Saints ‘Feel The Spirit’ From Paul H. Dunn’s Made-Up Stories?</a></li>
 <li><a rel="external" href="http://web.archive.org/web/20210526234343/http://www.conflictofjustice.com/is-gods-method-of-revealing-truth-through-feelings-effective/">Is God’s Method Of Revealing Truth Through ‘Feelings’ Effective?</a></li>
 <li><a rel="external" href="http://web.archive.org/web/20210526234144/http://www.conflictofjustice.com/following-holy-ghost-lead-failure/">Why Does Following The Holy Ghost Sometimes Lead To Failure?</a></li>
 <li><a rel="external" href="http://web.archive.org/web/20210526234214/http://www.conflictofjustice.com/feel-spirit-r-rated-movies-church/">Can We Feel The Spirit From R-Rated Movies?</a></li>
 </ol>
-<h3 id="uplift-community-of-faith">Uplift Community of Faith</h3>
+<h3 id="uplift-community-of-faith">Uplift Community of Faith<a class="zola-anchor" href="#uplift-community-of-faith" aria-label="Anchor link for: uplift-community-of-faith"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li><a rel="external" href="https://www.docdroid.net/Y16AZ9U/epistemology-slides-uplift-community-of-faith-pdf">Latter-Day Saint Epistemology</a></li>
 <li><a rel="external" href="https://www.docdroid.net/quxhG25/faith-crisis-101-pdf">Faith Crisis 101</a></li>
 </ol>
 <p><em>acknowledgement: Many of these were first compiled into list form by /u/fuzzy_thoughts <a rel="external" href="https://www.reddit.com/r/mormon/comments/9fujov/why_are_you_sure_about_mormonism_being_true/e5zj8d4/">here</a> including several posts and videos that I wasn’t previously aware of.  He also alerted me to one of the street epistemology videos and the Dunning videos.</em></p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -243,105 +347,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

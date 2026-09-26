@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The October 5, 1843 Journal Entry | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The October 5, 1843 Journal Entry | A Careful Examination</title>
+<meta property="og:title" content="The October 5, 1843 Journal Entry | A Careful Examination" />
+<meta name="twitter:title" content="The October 5, 1843 Journal Entry | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/oct-5-1843-journal-entry/">
-  
+  <meta property="og:url" content="/a_careful_examination/oct-5-1843-journal-entry/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The October 5, 1843 Journal Entry</h1>
@@ -103,56 +219,41 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#summary">Summary</a></li>
-        
-          <li><a href="#original-entry">Original Entry</a></li>
-        
-          <li><a href="#first-manuscript-history-draft">First Manuscript History Draft</a></li>
-        
-          <li><a href="#final-manuscript-history-draft">Final Manuscript History Draft</a></li>
-        
-          <li><a href="#final-print-version">Final Print Version</a></li>
-        
-          <li><a href="#joseph-fielding-smith-attestation">Joseph Fielding Smith attestation</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="summary">Summary</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="summary">Summary<a class="zola-anchor" href="#summary" aria-label="Anchor link for: summary"><i class="fas fa-link"></i></a> 
+</h3>
 <p>On its face, Joseph Smith’s original journal entry for October 5, 1843 records him forbidding polygamy and instructing to try those who were preaching or teaching polygamy. A careful reading of the entry in its historical context (i.e., shortly after D&amp;C 132), however, suggests that it was actually emphasizing the default position of the Church (monogamy) but also that Joseph was the one who could authorize plural marriage. Later notes by Church historians, then, were arguably a mere <em>elaboration</em> of its original meaning rather than a contradiction or reversal of it.</p>
 <p>Historian Dan Vogel explains in this youtube video:</p>
 <p><a rel="external" href="https://www.youtube.com/watch?v=FfwUg6e6mas">Michelle Stone - polygamy denier (JS journal 5 Oct 1843)</a></p>
-<h3 id="original-entry">Original Entry</h3>
+<h3 id="original-entry">Original Entry<a class="zola-anchor" href="#original-entry" aria-label="Anchor link for: original-entry"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith’s <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-3-15-july-1843-29-february-1844/123">journal entry from October 5, 1843</a> reads:</p>
 <blockquote>
 <p>Thursday October 5. … eve at home walked up and down st. with scribe.— and gave instruction to try those who were preaching teaching or the doctrin of plurality of wives. on this Law. Joseph forbids it. and the practice thereof— No man shall have but one wife</p>
 </blockquote>
-<h3 id="first-manuscript-history-draft">First Manuscript History Draft</h3>
+<h3 id="first-manuscript-history-draft">First Manuscript History Draft<a class="zola-anchor" href="#first-manuscript-history-draft" aria-label="Anchor link for: first-manuscript-history-draft"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The [manuscript] History Draft includes a statement “to be revised” in the margin, and the original draft (in the pen of Thomas Bullock, I believe) was altered<sup class="footnote-reference" id="fr-alterations-1"><a href="/a_careful_examination/oct-5-1843-journal-entry/#fn-alterations">[1]</a></sup> somewhat drastically (<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/history-draft-1-march-31-december-1843/143">JS Papers link</a>; <a rel="external" href="https://github.com/faenrandir/a_careful_examination/raw/d6ee663e933a8cb01b79ddc33fe1232ac3ef12e5/documents/polygamy/oct5-1843/original-journal-entry-anonymous.jpg">image with red bounding box</a>):</p>
 <blockquote>
 <p>Evening at home, and walked up and down the streets with my scribe. Gave instructions to try those persons who were preaching, teaching, or practicing the doctrine of plurality of wives; <del>on this</del> <del>on this law</del> <strong>for according to the law I hold the keys of this power in the last days, for there is never but one on Earth at a time on whom the power and its keys are conferred—and I have constantly said</strong> <del>Joseph forbids it and the practice thereof.</del>  No man shall have but one wife <strong>at a time unless the Lord directs otherwise</strong>.</p>
 </blockquote>
-<h3 id="final-manuscript-history-draft">Final Manuscript History Draft</h3>
+<h3 id="final-manuscript-history-draft">Final Manuscript History Draft<a class="zola-anchor" href="#final-manuscript-history-draft" aria-label="Anchor link for: final-manuscript-history-draft"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Finally, the text <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-e-1-1-july-1843-30-april-1844/118">as it appears in the final draft</a> (<a rel="external" href="https://raw.githubusercontent.com/faenrandir/a_careful_examination/d6ee663e933a8cb01b79ddc33fe1232ac3ef12e5/documents/polygamy/oct5-1843/manuscript-history-of-the-church-october-5-1843-d1-720px.jpg">image</a>) includes all the alterations:</p>
 <blockquote>
 <p>Evening, at home, and walked up and down the Streets with my scribe. Gave instructions to try those persons who were preaching, teaching, or practicing the doctrine of plurality of wives; for according to the law I hold the keys of this power in the last days, for there is never but one on Earth at a time on whom the power and its keys are conferred— and I have constantly said no man shall have but one wife at a time, unless the Lord directs otherwise.</p>
 </blockquote>
-<h3 id="final-print-version">Final Print Version</h3>
+<h3 id="final-print-version">Final Print Version<a class="zola-anchor" href="#final-print-version" aria-label="Anchor link for: final-print-version"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The final print version, found in <a rel="external" href="https://byustudies.byu.edu/content/volume-6-chapter-2">History of the Church 6:2 as published at BYU Studies</a>, reads:</p>
 <blockquote>
 <p>Evening, at home, and walked up and down the streets with my scribe. Gave instructions to try those persons who were preaching, teaching, or practicing the doctrine of plurality of wives: for, according to the law, I hold the keys of this power in the last days; for there is never but one on earth at a time on whom the power and its keys are conferred; <em>and I have constantly said no man shall have but one wife at a time, unless the Lord directs otherwise.</em></p>
 </blockquote>
-<h3 id="joseph-fielding-smith-attestation">Joseph Fielding Smith attestation<sup class="footnote-reference" id="fr-jfsheardthrough-1"><a href="/a_careful_examination/oct-5-1843-journal-entry/#fn-jfsheardthrough">[2]</a></sup></h3>
+<h3 id="joseph-fielding-smith-attestation">Joseph Fielding Smith attestation<sup class="footnote-reference" id="fr-jfsheardthrough-1"><a href="/a_careful_examination/oct-5-1843-journal-entry/#fn-jfsheardthrough">[2]</a></sup><a class="zola-anchor" href="#joseph-fielding-smith-attestation" aria-label="Anchor link for: joseph-fielding-smith-attestation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A discussion about the accuracy of historical transmission centered on the journal entry, apparently under the assumption that it was intended to be seen as a denial of polygamy (which Dan Vogel argues against, as discussed previously). In the book <a rel="external" href="https://www.gutenberg.org/ebooks/50535">Blood Atonement and the Origin of Plural Marriage</a>, Joseph Fielding Smith (JFS) corresponded with Richard G. Evans, second counselor in the Presidency of the RLDS Church:</p>
 <blockquote>
 <p>You “confidently affirm that there is not a single word in a single sermon, lecture, statement, newspaper or Church publication printed during the life of Joseph Smith, wherein he by word has endorsed the doctrine of plurality of wives, not a single statement.” Whether any such statement was ever printed in his lifetime or not I am not prepared to say. But I do know of such evidence being recorded during his lifetime, for I have seen it.</p>
@@ -178,16 +279,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -202,105 +302,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

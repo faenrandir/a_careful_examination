@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot; | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot; | A Careful Examination</title>
+<meta property="og:title" content="Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot; | A Careful Examination" />
+<meta name="twitter:title" content="Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot; | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/origins-of-phrase-all-truth-may-be-circumscribed/">
-  
+  <meta property="og:url" content="/a_careful_examination/origins-of-phrase-all-truth-may-be-circumscribed/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Origins of the phrase: &quot;All truth may be circumscribed into one great whole&quot;</h1>
@@ -98,43 +214,29 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#primary-influence">Primary influence</a></li>
-        
-          <li><a href="#other-influences-before-the-lds-temple-ceremony">Other influences before the LDS temple ceremony</a></li>
-        
-          <li><a href="#similar-usage-post-dating-the-lds-temple-ceremony">Similar usage post-dating the LDS temple ceremony</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The LDS temple ceremony includes an explanation of the meaning of the compass symbol on the LDS garment:</p>
 <blockquote>
 <p>This one on the left is the mark of the compass. It is placed in the garment over the left breast, suggesting to the mind an undeviating course leading to eternal life; a constant reminder that desires, appetites, and passions are to be kept within the bounds the Lord has set; and that all truth may be circumscribed into one great whole.</p>
 </blockquote>
 <p>What are possible influences on the genesis of the phrase “all truth may be circumscribed into one great whole”?</p>
-<h2 id="primary-influence">Primary influence</h2>
+<h2 id="primary-influence">Primary influence<a class="zola-anchor" href="#primary-influence" aria-label="Anchor link for: primary-influence"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The primary influence for the phrase may be found in (presumably) existing masonic literature/ceremonies of the day.</p>
-<h3 id="circumscribe-our-desires-within-due-bounds">“Circumscribe our desires … within due bounds”</h3>
+<h3 id="circumscribe-our-desires-within-due-bounds">“Circumscribe our desires … within due bounds”<a class="zola-anchor" href="#circumscribe-our-desires-within-due-bounds" aria-label="Anchor link for: circumscribe-our-desires-within-due-bounds"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The phrase “circumscribe our desires and to keep our passions in [or sometimes “within”] due bounds with all mankind, especially the brethren“ is common <a rel="external" href="https://duckduckgo.com/?t=lm&amp;q=circumscribe+our+desires+and+to+keep+our+passions+in+due+bounds+with+all+mankind%2C+especially+the+brethren&amp;ia=web">across the masonic literature</a> and is part of how freemasons <a rel="external" href="https://www.masonic-lodge-of-education.com/square-and-compasses.html">describe their use of the square and compass</a> as part of their symbolism.</p>
 <p>So, the temple phrase may be seen as a simple commutation of the word/idea “circumscribe” from modifying “desires” and “passions” to a modifier of “all truth”.</p>
-<h2 id="other-influences-before-the-lds-temple-ceremony">Other influences before the LDS temple ceremony</h2>
+<h2 id="other-influences-before-the-lds-temple-ceremony">Other influences before the LDS temple ceremony<a class="zola-anchor" href="#other-influences-before-the-lds-temple-ceremony" aria-label="Anchor link for: other-influences-before-the-lds-temple-ceremony"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Other phrases and ideas from the time may have influenced the creation of the phrase.  These may have been direct (Joseph could have read these sources) or indirect (these represent the <em>kinds</em> of things people were saying in that period of time).</p>
-<h3 id="circumscribe-the-law-of-nature">“Circumscribe the law of nature”</h3>
+<h3 id="circumscribe-the-law-of-nature">“Circumscribe the law of nature”<a class="zola-anchor" href="#circumscribe-the-law-of-nature" aria-label="Anchor link for: circumscribe-the-law-of-nature"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A 1793 book on the Law of Scotland, by Thomas Erskine, <a rel="external" href="https://en.wikipedia.org/wiki/Thomas_Erskine,_Lord_Erskine">a Grand Master Mason of Scotland</a>, <a rel="external" href="https://books.google.com/books?id=5IE18rpqPF4C&amp;pg=PA7&amp;dq=%22circumscribe%22&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjhncCS7IrkAhXRHjQIHVHLCCIQ6AEwCHoECAIQAg#v=onepage&amp;q=%22circumscribe%22&amp;f=false">stated</a>:</p>
 <blockquote>
 <p>The supreme power may not only superadd, but even circumscribe or set bounds to the law of nature, without violating its authority.</p>
@@ -143,38 +245,42 @@
 <blockquote>
 <p>The supreme power may add to, or circumscribe the law of nature</p>
 </blockquote>
-<h3 id="divine-truth-gathered-from-the-wide-field-of-revelation">“Divine truth gathered from … the wide field of revelation”</h3>
+<h3 id="divine-truth-gathered-from-the-wide-field-of-revelation">“Divine truth gathered from … the wide field of revelation”<a class="zola-anchor" href="#divine-truth-gathered-from-the-wide-field-of-revelation" aria-label="Anchor link for: divine-truth-gathered-from-the-wide-field-of-revelation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In a collection of Dr. Samuel Clarke’s sermons in the Christian Spectator, 1827 in New Haven and New York, <a rel="external" href="https://books.google.com/books?id=doAUAAAAYAAJ&amp;pg=PA639&amp;dq=%22truth+gathered%22&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjK3s_16orkAhXfCTQIHUpqDVMQ6AEwA3oECAAQAg#v=onepage&amp;q=%22truth%20gathered%22&amp;f=false">we find</a>:</p>
 <blockquote>
 <p>Yet we do expect to see great conceptions of <strong>divine truth gathered from every part of the wide field of revelation</strong>, and brought down upon the hearer’s mind with force to overwhelm and crush, if not with skill to penetrate. (emphasis added)</p>
 </blockquote>
-<h3 id="mathematical-proofs-with-the-compass">Mathematical proofs with the compass</h3>
+<h3 id="mathematical-proofs-with-the-compass">Mathematical proofs with the compass<a class="zola-anchor" href="#mathematical-proofs-with-the-compass" aria-label="Anchor link for: mathematical-proofs-with-the-compass"><i class="fas fa-link"></i></a> 
+</h3>
 <p>One of the key tools in geometry was the compass, and constructing geometric shapes and relationships using it (and a straightedge) was <a rel="external" href="https://en.wikipedia.org/wiki/Straightedge_and_compass_construction">a big deal preceding the LDS temple ceremony</a>, in general.</p>
 <p>In 1796, “Carl Friedrich Gauss proves that the regular 17-gon can be constructed using only a compass and straightedge” (<a rel="external" href="https://en.wikipedia.org/wiki/Timeline_of_geometry#18th_century">wikipedia</a>)</p>
 <p>It is unreasonable to think that this finding influenced JS in creating the phrase directly since these findings would not be widely known until much later, but in 1837, “Pierre Wantzel proves that doubling the cube and trisecting the angle are impossible with only a compass and straightedge, as well as the full completion of the problem of constructibility of regular polygons” (<a rel="external" href="https://en.wikipedia.org/wiki/Timeline_of_geometry#18th_century">wikipedia</a>)  This merely shows that there was great interest in these <em>kinds</em> of solutions at the time.</p>
-<h2 id="similar-usage-post-dating-the-lds-temple-ceremony">Similar usage <em>post-dating</em> the LDS temple ceremony</h2>
+<h2 id="similar-usage-post-dating-the-lds-temple-ceremony">Similar usage <em>post-dating</em> the LDS temple ceremony<a class="zola-anchor" href="#similar-usage-post-dating-the-lds-temple-ceremony" aria-label="Anchor link for: similar-usage-post-dating-the-lds-temple-ceremony"><i class="fas fa-link"></i></a> 
+</h2>
 <p>It’s possible that later statements were influenced by the LDS temple phrase, but they may also indicate independent thought along similar lines in other masonic groups.</p>
-<h3 id="embrace-all-truth-within-its-scope">Embrace all truth … within its scope</h3>
+<h3 id="embrace-all-truth-within-its-scope">Embrace all truth … within its scope<a class="zola-anchor" href="#embrace-all-truth-within-its-scope" aria-label="Anchor link for: embrace-all-truth-within-its-scope"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph E. Morcombe, an editor of Masonic [historical?] material, wrote of listening to three Past Grand Masters of Iowa (sometime in the early 1900s?).  <a rel="external" href="https://archive.org/details/GouldRFALibraryOfFreemasonryVol51911_201705/page/n829">One of them stated</a>:</p>
 <blockquote>
 <p>“Masonry, as I understand it, lays claim to <strong>embrace all truth</strong>.  It is not limited to what is specified in its ritual or even that which is remotely hinted at in its extensive sybolism.  As it has borrowed and preserved truths from all the religions and philosophies of the past, and has shared in many social and political changes, all these must be closely studied to understand the course of development.  And as Masonry also professes a broad receptivity, and its best thought is ever in the formative stage, therefore <strong>all the arts and sciences are within its scope</strong>.  He is the best informed as a Mason who is <strong>most thoroughly versed in the ever-widening knowledge of the time</strong>.” (emphasis added)</p>
 </blockquote>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The phrase “all truth may be circumscribed into one great whole” may be seen primarily as the commutation of the word “circumscribe[d]” from the well-known masonic explanation of the compass as bounding “desires” and “passions” to an additional, new, phrase about circumscribing “all truth”.  Compass circumscription was a well-known endeavor in that period of time, and others used the word circumscribe in similar ways, or they spoke of truth being qualified with similar kinds of phrases.</p>
 <hr />
 <p><em>Acknowledgements: prompted to research the phrase based on a post by /u/KingRiplakish <a rel="external" href="https://www.reddit.com/r/mormon/comments/crquhk/all_truth_circumscribed_into_one_great_whole/">here</a></em></p>
 <p>Posted at <a rel="external" href="https://www.reddit.com/r/mormonscholar/comments/cs4mub/origins_of_the_phrase_all_truth_may_be/">mormonscholar</a> and crossposted to <a rel="external" href="https://www.reddit.com/r/mormonscholar/comments/cs4mub/origins_of_the_phrase_all_truth_may_be/">mormon</a></p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -189,105 +295,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

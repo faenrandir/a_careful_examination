@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home | A Careful Examination</title>
+<meta property="og:title" content="The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home | A Careful Examination" />
+<meta name="twitter:title" content="The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/">
-  
+  <meta property="og:url" content="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home</h1>
@@ -113,20 +229,24 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h3 id="first-part-of-the-book-of-mormon-produced-upstairs-at-peter-whitmer-home">First part of the Book of Mormon produced upstairs at Peter Whitmer home</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="first-part-of-the-book-of-mormon-produced-upstairs-at-peter-whitmer-home">First part of the Book of Mormon produced upstairs at Peter Whitmer home<a class="zola-anchor" href="#first-part-of-the-book-of-mormon-produced-upstairs-at-peter-whitmer-home" aria-label="Anchor link for: first-part-of-the-book-of-mormon-produced-upstairs-at-peter-whitmer-home"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The first part of the Book of Mormon (1 Nephi through the Words of Mormon) was very likely produced in an upstairs room of the Peter Whitmer home.</p>
 <p>The BYU Journeys video <a rel="external" href="https://www.youtube.com/watch?v=xzF_6oUU-Fc">Peter Whitmer Home and Farm, Fayette, New York</a> <a rel="external" href="https://www.youtube.com/watch?v=xzF_6oUU-Fc&amp;t=66s">at 1:06</a> states:</p>
 <blockquote>
 <p>During the Summer of 1829 the Whitmer’s provided one of their upstairs bedrooms for the prophet Joseph Smith and Oliver Cowdery to stay and translate the Book of Mormon plates.  A short time later Emma Smith also came to stay with the Whitmers.  It’s most likely that the translation of First Nephi through the end of the Words of Mormon took place in one of these upstairs bedrooms.</p>
 </blockquote>
 <p>See <a href="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/#appendix-scholarly-evidence">Appendix: scholarly evidence</a> for additional examples and discussion.</p>
-<h3 id="the-upstairs-room-was-likely-private">The upstairs room was likely private</h3>
+<h3 id="the-upstairs-room-was-likely-private">The upstairs room was likely private<a class="zola-anchor" href="#the-upstairs-room-was-likely-private" aria-label="Anchor link for: the-upstairs-room-was-likely-private"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Peter Whitmer home (aka “farmhouse”) has been reconstructed.  As described in <a rel="external" href="https://rsc.byu.edu/vol-12-no-3-2011/peter-whitmer-log-home-cradle-mormonism">Larry Porter’s article</a>, its original dimensions are based on discovery of the original foundation, and its construction patterned after a similar cabin from that time period.</p>
 <p>There is probably no way to know with absolute certainty how much privacy was afforded, but based on the reconstruction it seems reasonable to conclude that considerable privacy was very likely.<sup class="footnote-reference" id="fr-privacy_likely-1"><a href="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/#fn-privacy_likely">[1]</a></sup> Images from the reconstruction show that the upstairs was completely hidden from view from the downstairs (i.e., it was not merely a loft that could be viewed from downstairs).</p>
-<h3 id="appendix-scholarly-evidence">Appendix: scholarly evidence</h3>
+<h3 id="appendix-scholarly-evidence">Appendix: scholarly evidence<a class="zola-anchor" href="#appendix-scholarly-evidence" aria-label="Anchor link for: appendix-scholarly-evidence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Based on solid data and arguments,<sup class="footnote-reference" id="fr-compelling_arguments_for_mosiah_priority-1"><a href="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/#fn-compelling_arguments_for_mosiah_priority">[2]</a></sup> the overwhelming scholarly consensus<sup class="footnote-reference" id="fr-scholarly_consensus-1"><a href="/a_careful_examination/first-part-bom-upstairs-peter-whitmer-home/#fn-scholarly_consensus">[3]</a></sup> is that the first part of the Book of Mormon was translated last. Historical documents and all the circumstantial evidence surrounding the translation place Joseph and Oliver Cowdery at the Whitmer Farm during that time. These accounts also place Joseph and Oliver <em>upstairs</em> during the translation. For example, John Welch, in <a rel="external" href="https://web.archive.org/web/20230922202022/https://byustudies.byu.edu/online-chapters/the-miraculous-timing-of-the-translation-of-the-book-of-mormon/">The Miraculous Timing of the Translation of the Book of Mormon</a>, writes:</p>
 <blockquote>
 <p>June 5–end of June 1829. The translation of the Book of Mormon recommenced the day after their arrival (document 87) and was finished in the upstairs room of Peter Whitmer’s home by July 1, “about one month” later (document 86). Some of the Whitmers helped as scribes (document 82): “They continued so, boarded and lodged us according to arrangements; and John Whitmer, in particular, assisted us very much in writing during the remainder of the work” (document 25, see also 81, 82).[85] Christian Whitmer is also mentioned as a scribe (documents 80, 88). Oliver B. Huntington records in his ­journal a conversation in 1897 with Sarah (Sally) Heller Conrad, who may have been a cousin of the Whitmers and who was at the Whitmer home during these days. She recalled seeing the men “come down from translating room several times when they looked so exceedingly white and strange that she inquired of Mrs. Whitmer the cause of their unusual appearance” (document 114). She soon embraced the gospel.[86] An affidavit of Elizabeth Ann Whitmer Cowdery also pertains to this period: “I often sat by and saw and heard them translate and write for hours together. Joseph never had a curtain drawn between him and his scribe while he was translating”[87] (document 115). Concerning the translation in Fayette, David Whitmer reported a time when Joseph was “put out about … something that Emma, his wife, had done.” As a result, “he could not translate a single syllable. He went downstairs, out into the orchard and made supplication to the Lord; was gone about an hour—came back to the house, and asked Emma’s forgiveness and then came upstairs where we were and the translation went on all right”[88] (document 89, also 96, 98). Sometime probably during June 1829, Mary Musselman Whitmer, wife of Peter Whitmer Sr., who had taken on extra work because of the guests, was met by an “old man” who showed her the gold plates.[89]</p>
@@ -179,16 +299,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -203,105 +322,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

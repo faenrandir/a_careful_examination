@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Response to LDS Living article on Evidence supporting the Book of Mormon | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Response to LDS Living article on Evidence supporting the Book of Mormon | A Careful Examination</title>
+<meta property="og:title" content="Response to LDS Living article on Evidence supporting the Book of Mormon | A Careful Examination" />
+<meta name="twitter:title" content="Response to LDS Living article on Evidence supporting the Book of Mormon | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-lds-living-article-supporting-the-bom/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-lds-living-article-supporting-the-bom/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Response to LDS Living article on Evidence supporting the Book of Mormon</h1>
@@ -103,32 +219,11 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#olives-steel-and-horses">Olives, Steel, and Horses</a></li>
-        
-          <li><a href="#fortifications-and-the-land-of-bountiful">Fortifications and the Land of Bountiful</a></li>
-        
-          <li><a href="#the-language">The Language</a></li>
-        
-          <li><a href="#the-ultimate-test">The Ultimate Test</a></li>
-        
-          <li><a href="#correspondences-with-early-1800s-protestant-america">Correspondences with early 1800s Protestant America</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>Kathryn Jenkins Gordon recently read through the Book of Mormon with a distinct purpose:</p>
+  
+  
+
+  <div class="post-content">
+    <p>Kathryn Jenkins Gordon recently read through the Book of Mormon with a distinct purpose:</p>
 <blockquote>
 <p>I wanted to determine how many evidences were found in the Book of Mormon itself supporting the fact that it was translated from an ancient document and not written by Joseph Smith in the early 19th century.</p>
 </blockquote>
@@ -146,8 +241,10 @@ University—<a href="/a_careful_examination/bushman-on-19th-century-phrasing-an
 <p>… there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …</p>
 </blockquote>
 <p>I will address each of the evidences that Gordon presented and show how Joseph Smith may have been able to glean such ideas from his environment (most often the Bible, with which <a rel="external" href="https://mit.irr.org/files/did_young_joseph_smith_study_the_bible.pdf">Joseph was arguably very familiar</a>).  Finally, I’ll wrap up by pointing to some of the parallels between the Book of Mormon and other ideas common to the early 1800s.</p>
-<h2 id="olives-steel-and-horses">Olives, Steel, and Horses</h2>
-<h3 id="olives">Olives</h3>
+<h2 id="olives-steel-and-horses">Olives, Steel, and Horses<a class="zola-anchor" href="#olives-steel-and-horses" aria-label="Anchor link for: olives-steel-and-horses"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="olives">Olives<a class="zola-anchor" href="#olives" aria-label="Anchor link for: olives"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon writes:</p>
 <blockquote>
 <p>Honestly, think about it. Could Joseph Smith, who had only three years of formal schooling, have been acquainted enough with ancient horticultural practices to write the allegory of the olive tree, with all its detailed description? Not likely.</p>
@@ -155,7 +252,8 @@ University—<a href="/a_careful_examination/bushman-on-19th-century-phrasing-an
 <p>The parable of the Olive Tree may be viewed as an amalgamation and embellishment of Romans 11 and Isaiah 5.  Paul, in Romans 11, uses an olive tree as a metaphor and Isaiah uses a vinyard.  They are similar, but also somewhat distinct, and the slight difference is apparent in Jacob 5—in fact <a rel="external" href="https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/">the patchwork is still evident</a>.</p>
 <p>Halfway through the parable, the Jacob 5 author shifts from a focus on <em>the olive tree</em> to a focus on <em>the whole vineyard</em> (in Jacob 5:41).  As Curt van den Heuvel has pointed out “the break appears at the same point that the Book of Mormon quotes a passage from Isaiah.”  From then on, the the author of Jacob 5 “refers exclusively to the ‘fruit of the vineyard’, apparently forgetting that vineyards yield grapes, not olives.” (source: Curt van den Heuvel, <a rel="external" href="http://mormonthink.com/book-of-mormon-problems.htm#Bible">here</a>, and <a rel="external" href="https://exploringmormonism.com/jacob-5-why-vinyards-and-olives/">here</a>).</p>
 <p>In addition, Joseph grew up in a farming community and was undoubtedly familiar with apple cultivation and grafting, which is similar to that described for olive trees.</p>
-<h3 id="steel">Steel</h3>
+<h3 id="steel">Steel<a class="zola-anchor" href="#steel" aria-label="Anchor link for: steel"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon writes that early critics scoffed at the idea that steel would have existed when Nephi mentions breaking his bow of “fine steel”.  Later, Gordon reports, archaeologists found “that various combinations of iron and steel existed near Jerusalem as early as 600 B.C.”  This is clearly a win for viewing the Book of Mormon as an ancient record.  [edit: It’s possible that these were not actually steel swords, as originally presumed by some apologists.  See <a rel="external" href="https://www.reddit.com/r/exmormon/comments/7r2fs5/this_is_why_lds_believing_mormons_struggle_when/">this analysis</a> which suggests that the original claim may have been baseless].  However, other mentions of steel in the Book of Mormon run counter to available archaeological evidence.</p>
 <p>Steel is mentioned five times in the Book of Mormon (Ether 7:9, 1 Nephi 4:9, 1 Nephi 16:18, 2 Nephi 5:15 and Jar 1:8).  The discovery of steel being used in the ancient Middle East makes 1 Nephi 4:9 and 1 Nephi 16:18 historically plausible in that regard.  However, we have two references to the Nephites in the new world working in steel—and they exist 180 years apart:</p>
 <blockquote>
@@ -187,7 +285,8 @@ on the ancient American continent well before 600 BC:</p>
 Mormon may merely reflect the thinking of Joseph Smith’s time (there was steel
 in pre-Columbian America), rather than what is understood today (there was no
 steel in pre-Columbian America).</p>
-<h3 id="horses">Horses</h3>
+<h3 id="horses">Horses<a class="zola-anchor" href="#horses" aria-label="Anchor link for: horses"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon says:</p>
 <blockquote>
 <p>But once more, archaeological evidence discovered in the past few decades proves that horses existed on the American continent as early as 2600 B.C. There is no way Joseph Smith could have known such evidence existed as he was translating the ancient records.</p>
@@ -215,8 +314,10 @@ scholar of its legitimacy.</p>
 catalogued fairly extensively.  Archaeologists have found <a rel="external" href="http://www.ancient-origins.net/news-history-archaeology/mesoamericans-teotihuacan-kept-ferocious-animals-captive-and-may-have-fed-020668">the bones of all
 kinds of others animals integrated into meso-american civilization</a>—but they have not found evidence of horses.  This lack of evidence for horses in the face of much evidence for many other kinds of animals in mesoamerica have forced apologists to consider the alternative idea that Book of Mormon references to “horses” were in fact references to “tapirs”.</p>
 <p>What about Joseph Smith’s milieu in the early 1800s?  A frontiersman in the early 1830’s would have no reason to suspect that horses were not present in the ancient Americas.  For instance, ancient horse artifacts are mentioned in “The Natural and Aboriginal History of Tennessee”, published in Tennessee in 1823.  But dating techniques such as carbon-14 dating were still more than 100 years from being invented, so Joseph Smith would not have known that horses were not present in the Americas during Book of Mormon times.</p>
-<h2 id="fortifications-and-the-land-of-bountiful">Fortifications and the Land of Bountiful</h2>
-<h3 id="fortifications">Fortifications</h3>
+<h2 id="fortifications-and-the-land-of-bountiful">Fortifications and the Land of Bountiful<a class="zola-anchor" href="#fortifications-and-the-land-of-bountiful" aria-label="Anchor link for: fortifications-and-the-land-of-bountiful"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="fortifications">Fortifications<a class="zola-anchor" href="#fortifications" aria-label="Anchor link for: fortifications"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon quotes Sorenson to describe the discovery of fortifications similar to
 those described in the Book of Mormon:</p>
 <p>No doubt, this is a great correspondence between meso-American fortifications and the fortifications described in the Book of Mormon.</p>
@@ -231,7 +332,8 @@ Smith’s time?</p>
 <p>In the most pleasing positions of these prairies we have our Indian mounds, which proudly rise above the plain.  At first the eye mistakes them for hiss; but when it catches the regularity of their breastworks and ditches, it discovers at once that they are the labours of art and of men. (<a rel="external" href="https://books.google.com/books?id=iiMVAAAAYAAJ&amp;q=fortifications#v=onepage&amp;q=breastworks%20and%20ditches&amp;f=false">source</a>)</p>
 </blockquote>
 <p>And many other books of the time describe the impressive fortifications built in North America and Mexico (see <a rel="external" href="http://www.utlm.org/onlineresources/bomindianorigins.htm">compilation by Sandra Tanner</a>).</p>
-<h3 id="bountiful">Bountiful</h3>
+<h3 id="bountiful">Bountiful<a class="zola-anchor" href="#bountiful" aria-label="Anchor link for: bountiful"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I agree with Gordon that it is a great find for Book of Mormon apologists that such a place as Bountiful, in the approximate location it needed to be, was discovered.  However, the idea of an oasis in the desert may also be derived from a prominent description in the Bible (Exodus 15):</p>
 <pre><code>22 So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 23 And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.
@@ -240,8 +342,10 @@ Smith’s time?</p>
 26 And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.
 27 And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.
 </code></pre>
-<h2 id="the-language">The Language</h2>
-<h3 id="river-of-water">River of water</h3>
+<h2 id="the-language">The Language<a class="zola-anchor" href="#the-language" aria-label="Anchor link for: the-language"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="river-of-water">River of water<a class="zola-anchor" href="#river-of-water" aria-label="Anchor link for: river-of-water"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon suggests that a reference to a “river of water” is evidence of ancient
 origin since only a desert dweller would know to distinguish between dry
 rivers and year-round “rivers of water”.</p>
@@ -257,7 +361,8 @@ Mormon stylistically, frequently uses <a rel="external" href="https://wordtreefo
 state”</a>
 (e.g., “balls of lead”).</p>
 <p>Given the influence of the Bible and the potential influence of The Late War on Joseph, use of the phrase “river of water” seems less remarkable.</p>
-<h3 id="altar-of-stones">Altar of stones</h3>
+<h3 id="altar-of-stones">Altar of stones<a class="zola-anchor" href="#altar-of-stones" aria-label="Anchor link for: altar-of-stones"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon suggests that the author of the Book of Mormon understood the
 difference between an “altar of stones” and a “stone altar” and chose the
 appropriate description. However, “altar of stone” is used twice in the KJV
@@ -272,7 +377,8 @@ Bible while “stone altar” is never used:</p>
 state”</a>
 (e.g., “balls of lead”).</p>
 <p>Here again, use of the construct “altar of stones” is rather unremarkable if the book is of modern origin.</p>
-<h3 id="only-women-allowed-to-officially-mourn">Only women allowed to officially mourn</h3>
+<h3 id="only-women-allowed-to-officially-mourn">Only women allowed to officially mourn<a class="zola-anchor" href="#only-women-allowed-to-officially-mourn" aria-label="Anchor link for: only-women-allowed-to-officially-mourn"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Gordon writes:</p>
 <blockquote>
 <p>Another tidbit Joseph Smith almost certainly wouldn’t have known: in the desert Arab culture, only the women were allowed to officially mourn.</p>
@@ -283,7 +389,8 @@ state”</a>
 20 Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.
 </code></pre>
 <p>So, once again, we do not necessarily need to look any further than the Bible as an influence for the idea of women as the primary mourners.</p>
-<h2 id="the-ultimate-test">The Ultimate Test</h2>
+<h2 id="the-ultimate-test">The Ultimate Test<a class="zola-anchor" href="#the-ultimate-test" aria-label="Anchor link for: the-ultimate-test"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Gordon concludes by suggesting that all the evidences will not create a
 testimony.  She says:</p>
 <blockquote>
@@ -302,10 +409,12 @@ Moroni 10:3-5) to determine if the Book of Mormon itself is true is
 circular reasoning: “A is true because B is true; B is true because A is
 true.”</li>
 </ol>
-<h2 id="correspondences-with-early-1800s-protestant-america">Correspondences with early 1800s Protestant America</h2>
+<h2 id="correspondences-with-early-1800s-protestant-america">Correspondences with early 1800s Protestant America<a class="zola-anchor" href="#correspondences-with-early-1800s-protestant-america" aria-label="Anchor link for: correspondences-with-early-1800s-protestant-america"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Book of Mormon contains an immense number of ideas and phrases common to the early nineteenth century (see <a href="/a_careful_examination/bom-parallels-to-1800s-thought/">Book of Mormon parallels to 1800s thought</a> for a comprehensive list).  For instance there are <em>many</em> similarities with <a rel="external" href="https://imgur.com/a/q2AcO">the sermons of Jonathon Edwards Jr. and Sr.</a> (the father/son duo were well-known preachers during and directly preceding Joseph Smith’s day).  Also, <a rel="external" href="https://wordtreefoundation.github.io/thelatewar/">“The Late War”</a>, by Gilbert Hunt, contains many similar ideas (and phraseology).  Like the Book of Mormon, it also contains <a rel="external" href="https://wordtreefoundation.github.io/thelatewar/chiasmus_the_late_war.png">extensive chiastic structures</a>, and many <a rel="external" href="https://wordtreefoundation.github.io/thelatewar/#hebraisms">similar “Hebraisms”</a>.</p>
 <p><a rel="external" href="http://www.themormonchallenge.com/">The Mormon Challenge</a> presents many additional religious influences, and Thomas Donofrio has written extensively on modern <a rel="external" href="http://mormonthink.com/influences.htm#part2">historical</a> and <a rel="external" href="http://mormonthink.com/influences.htm#part3">religious influences</a> on the Book of Mormon.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Book of Mormon is generally viewed as a historical record of ancient
 peoples by believing members of the Church.  While there are certainly some
 correspondences between the book and recent discoveries from the ancient
@@ -315,16 +424,15 @@ early 1800s as a source or influence on the text, then an answer to these
 discrepancies appears—the content of the Book of Mormon fits comfortably
 within the mix of ideas present in Protestant America in the early 1800s.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -339,105 +447,9 @@ within the mix of ideas present in Protestant America in the early 1800s.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

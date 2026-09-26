@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Highlights from recently leaked documents (2017) | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Highlights from recently leaked documents (2017) | A Careful Examination</title>
+<meta property="og:title" content="Highlights from recently leaked documents (2017) | A Careful Examination" />
+<meta name="twitter:title" content="Highlights from recently leaked documents (2017) | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/highlights-from-recently-leaked-documents-2017/">
-  
+  <meta property="og:url" content="/a_careful_examination/highlights-from-recently-leaked-documents-2017/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Highlights from recently leaked documents (2017)</h1>
@@ -98,17 +214,20 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="no-ssa-missionaries-allowed">No SSA missionaries allowed</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="no-ssa-missionaries-allowed">No SSA missionaries allowed<a class="zola-anchor" href="#no-ssa-missionaries-allowed" aria-label="Anchor link for: no-ssa-missionaries-allowed"><i class="fas fa-link"></i></a> 
+</h2>
 <p>From <a rel="external" href="https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf">Jan 8, 2016 Area Council Meeting Minutes</a>:</p>
 <blockquote>
 <p>Same sex attraction of missionaries. It is critical that these issues are known and understood prior to a missionary being called. <strong>They don’t stay in the field if we know about them.</strong></p>
 </blockquote>
 <p>An anecdote was advanced suggesting this was recently applied: <a rel="external" href="https://www.reddit.com/r/exmormon/comments/72s2dc/mormonleaks_releases_meeting_minutes_from_various/dnl349q/">here</a>.  An anecdote from 2006 of someone <a rel="external" href="https://www.reddit.com/r/exmormon/comments/72s2dc/mormonleaks_releases_meeting_minutes_from_various/dnl2mxu/">who served while out of the closet</a> and <a rel="external" href="https://www.reddit.com/r/exmormon/comments/72s2dc/mormonleaks_releases_meeting_minutes_from_various/dnl8xrg/">an undated anecdote</a>.</p>
 <p>Apparently <a rel="external" href="http://radiowest.kuer.org/post/history-mormons-and-homosexuality">Greg Prince just stated on his radio west podcast</a> that SSA missionaries <em>can</em> serve on a mission and that this was a sign of progress.</p>
-<h2 id="worthiness-interviews-need-to-be-specific-and-explicit">Worthiness interviews need to be specific and explicit</h2>
+<h2 id="worthiness-interviews-need-to-be-specific-and-explicit">Worthiness interviews need to be specific and explicit<a class="zola-anchor" href="#worthiness-interviews-need-to-be-specific-and-explicit" aria-label="Anchor link for: worthiness-interviews-need-to-be-specific-and-explicit"><i class="fas fa-link"></i></a> 
+</h2>
 <p>From <a rel="external" href="https://mormonleaks.io/wiki/index.php?title=File:Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf">Jan 8, 2016 Area Council Meeting Minutes</a>:</p>
 <blockquote>
 <p>Worthiness interviews need to be <strong>specific</strong> and <strong>explicit</strong> (emphasis added)</p>
@@ -122,13 +241,16 @@
 <li>Missionaries frequently confess and reconfess all their sins in an effort to become worthy (<a rel="external" href="https://www.reddit.com/r/exmormon/comments/2fdcgt/one_of_the_worst_aspects_of_mormon_culture_imo/">example</a>)</li>
 <li>Bishops may conduct frequent and invasive interviews at their discretion and may use social media to find evidence of indiscretion (<a href="/a_careful_examination/example-of-invasive-interview-facebook-stalking/">example</a>)</li>
 </ul>
-<h2 id="discipline">Discipline</h2>
-<h3 id="lawyer-70s-sent-to-assist-in-high-profile-discipline">Lawyer 70s sent to assist in high-profile discipline</h3>
+<h2 id="discipline">Discipline<a class="zola-anchor" href="#discipline" aria-label="Anchor link for: discipline"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="lawyer-70s-sent-to-assist-in-high-profile-discipline">Lawyer 70s sent to assist in high-profile discipline<a class="zola-anchor" href="#lawyer-70s-sent-to-assist-in-high-profile-discipline" aria-label="Anchor link for: lawyer-70s-sent-to-assist-in-high-profile-discipline"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://mormonleaks.io/wiki/index.php?title=File:Area_Seventies_Meeting_Minutes_of_June_10_2016-2016-06-25.pdf">June 10, 2016 Area Seventies Minutes</a>:</p>
 <blockquote>
 <p>Elders Bangerter and McKay will be working with Elder Dewsnup to assist stake presidents with disciplinary situations where the matter may become public or involve media attention. Their involvement can come at the request of a General Authority, Area Seventy or Stake President. Issues may include: same sex marriage, ordained women, transgender issues, or other items that may not be addressed in the Church Handbook. These are not normal disciplinary situations. They will walk through procedures with the stake president and help him design a measured way to deal with the situation. Problems arise when priesthood leaders act in a precipitous way. Your role as Area Seventies is still essential.</p>
 </blockquote>
-<h3 id="leaders-unwilling-to-address-discipline-may-be-released">Leaders unwilling to address discipline may be released</h3>
+<h3 id="leaders-unwilling-to-address-discipline-may-be-released">Leaders unwilling to address discipline may be released<a class="zola-anchor" href="#leaders-unwilling-to-address-discipline-may-be-released" aria-label="Anchor link for: leaders-unwilling-to-address-discipline-may-be-released"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://mormonleaks.io/wiki/documents/d/d8/Area_Council_Meeting_Minutes_-_January-2016-02-10.pdf">here</a></p>
 <blockquote>
 <p>Stake presidents and bishops who are unwilling to address disciplinary matters are subject to being released.</p>
@@ -148,16 +270,15 @@
 </blockquote>
 <p>So, the statements are technically correct but at least somewhat misleading.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -172,105 +293,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

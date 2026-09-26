@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Critique of Richard and Pamela Price analysis of Martha Brotherton | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Critique of Richard and Pamela Price analysis of Martha Brotherton | A Careful Examination</title>
+<meta property="og:title" content="Critique of Richard and Pamela Price analysis of Martha Brotherton | A Careful Examination" />
+<meta name="twitter:title" content="Critique of Richard and Pamela Price analysis of Martha Brotherton | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/critique-of-price-analysis-on-brotherton/">
-  
+  <meta property="og:url" content="/a_careful_examination/critique-of-price-analysis-on-brotherton/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Critique of Richard and Pamela Price analysis of Martha Brotherton</h1>
@@ -103,46 +219,28 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#bennett-very-attracted-to-brotherton">Bennett “very attracted” to Brotherton</a></li>
-        
-          <li><a href="#martha-a-part-of-bennett-s-clique">Martha a “part of Bennett’s clique”</a></li>
-        
-          <li><a href="#martha-s-story-of-being-imprisoned-is-absurd">“Martha’s Story of Being Imprisoned Is Absurd”</a></li>
-        
-          <li><a href="#the-coherence-of-martha-s-account">The coherence of Martha’s account</a></li>
-        
-          <li><a href="#splitting-hairs">Splitting hairs</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[ROUGH DRAFT]</p>
+  
+  
+
+  <div class="post-content">
+    <p>[ROUGH DRAFT]</p>
 <p>A response to Joseph Smith Fought Polygamy, vol 2, <a rel="external" href="https://web.archive.org/web/20191220192033/http://restorationbookstore.org:80/articles/nopolygamy/jsfp-vol2/2chp1.htm">chapter 1</a> (<a rel="external" href="https://cdn.shopify.com/s/files/1/0106/5887/3380/files/JSFP2-chp01.pdf?v=1588802732">pdf</a> (need to find a better link))</p>
-<h3 id="bennett-very-attracted-to-brotherton">Bennett “very attracted” to Brotherton</h3>
+<h3 id="bennett-very-attracted-to-brotherton">Bennett “very attracted” to Brotherton<a class="zola-anchor" href="#bennett-very-attracted-to-brotherton" aria-label="Anchor link for: bennett-very-attracted-to-brotherton"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Price’s suggest that Bennett was “very attracted” to Martha:</p>
 <blockquote>
 <p>Bennett apparently was very attracted to Martha, for he wrote, “Miss Brotherton is a very good-looking, amiable, and accomplished English lady, of highly respectable parentage, cultivated intellect, and spotless moral character” (Bennett, History of the Saints, 236).</p>
 </blockquote>
 <p>Given Bennett’s rhetorical purpose (to demonstrate Joseph Smith’s illegal relationships and threats of violence), it seems to stretch beyond the data to assume that Bennett was <em>himself</em> attracted to Martha (or that this had anything directly to do with him soliciting her affidavit). The purpose of presenting her in such fashion seems designed to suggest to the reader that Brotherton was moral (i.e., would give an honest report), intelligent (i.e., capable of understanding and properly reporting the events), and attractive/amiable (would be desirable as a polygamous wife for LDS leadership). In other words, whether or not Bennett <em>himself</em> was attracted to Bennett seems beside the point and perhaps only suggested by the Prices in order to throw (additional) suspicion on Bennett or his motives.</p>
-<h3 id="martha-a-part-of-bennett-s-clique">Martha a “part of Bennett’s clique”</h3>
+<h3 id="martha-a-part-of-bennett-s-clique">Martha a “part of Bennett’s clique”<a class="zola-anchor" href="#martha-a-part-of-bennett-s-clique" aria-label="Anchor link for: martha-a-part-of-bennett-s-clique"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Price’s write:</p>
 <blockquote>
 <p>Martha soon became a part of Bennett’s clique, and began spreading rumors in which she accused Joseph of sanctioning a plurality of wives. She also stated that Brigham had tried to persuade her to become his plural wife.</p>
 </blockquote>
 <p>The idea that Martha was part of Bennett’s “clique” is unsubstantiated and appears to be an extrapolation based on the rumors that we can infer were going around based on the denials that <a rel="external" href="https://faenrandir.github.io/a_careful_examination/times-and-seasons-apr-15-1842-conference-minutes/">Hyrum and Joseph issued in April 1842 General Conference</a>. Besides Bennett’s testimony that he saw Martha being escorted to the room in the red brick store (referenced later), no data exist that directly link Martha with Bennett in Nauvoo, much less to suggest she was part of his “clique”—the “clique” seems to be an unwarranted extrapolation.</p>
-<h3 id="martha-s-story-of-being-imprisoned-is-absurd">“Martha’s Story of Being Imprisoned Is Absurd”</h3>
+<h3 id="martha-s-story-of-being-imprisoned-is-absurd">“Martha’s Story of Being Imprisoned Is Absurd”<a class="zola-anchor" href="#martha-s-story-of-being-imprisoned-is-absurd" aria-label="Anchor link for: martha-s-story-of-being-imprisoned-is-absurd"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>It is important to determine who was telling the truth in the controversy outlined above. Were Bennett and Martha telling the truth when they declared that Joseph was sponsoring polygamy, or were they lying to cover their own sins? Was Joseph teaching polygamy secretly and at the same time denying it openly? If so, he was a false prophet and a “Mormon demigod” as Bennett declared. There are some internal evidences in the above story about Martha Brotherton that help determine who was telling the truth.</p>
 </blockquote>
@@ -186,9 +284,11 @@
 <p>It is fair to say that seeing someone escorted up the stairs (especially for a mere 10 minutes) in a bustling store where visitors are probably frequent would not necessarily arouse <em>any</em> suspicion or recollections. Outside of the immediate participants Brotherton flagged, we simply have no data on whether someone else at the store witnessed Brotherton being escorted up the stairs. and there are reasons why a witness may not have wanted to come forward, so that ultimately is an argument from silence.  In addition, an outside observer, if they could see the door at all, would not likely know whether the door was being locked or not during a given visit, and indeed Bennett himself only mentions seeing her “taken into the accursed room.” His verbiage implies that he is leaning on her testimony to know that she was actually locked in the room.</p>
 <p>Finally, the busy nature of the store is a good reason why witnesses would not have taken any notice of someone being escorted up the stairs—presumably visitors and such movement was frequent. It is unreasonable that anyone would have been tracking Brotherton’s presence/absence in such conditions.</p>
 <p>Ultimately, the Price’s arguments against Brotherton’s account are strawmen primarily mustered against the rumor and not her affidavit.  The story as conveyed in her affidavit is quite plausible and resists all the above efforts to undermine it.</p>
-<h3 id="the-coherence-of-martha-s-account">The coherence of Martha’s account</h3>
+<h3 id="the-coherence-of-martha-s-account">The coherence of Martha’s account<a class="zola-anchor" href="#the-coherence-of-martha-s-account" aria-label="Anchor link for: the-coherence-of-martha-s-account"><i class="fas fa-link"></i></a> 
+</h3>
 <p>After migrating with other Saints from England, Brotherton’s account caused her such distress, and was believable enough to her parents, that she, her parents (, and one brother [need to look up again]??) left the Saints, never to rejoin their ranks. Hence, the account is consistent with her actions.</p>
-<h4 id="historical-vindication-of-primary-claim">Historical vindication of primary claim</h4>
+<h4 id="historical-vindication-of-primary-claim">Historical vindication of primary claim<a class="zola-anchor" href="#historical-vindication-of-primary-claim" aria-label="Anchor link for: historical-vindication-of-primary-claim"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The historical record demonstrates that those who impugned Martha’s character for sharing her story about a polygamous proposal (e.g., <a rel="external" href="https://faenrandir.github.io/a_careful_examination/affidavits-against-bennets-letters-brotherton-focus/">in affidavits</a> or <a rel="external" href="https://faenrandir.github.io/a_careful_examination/millenial-star-denial-aug-1842/">newspaper publications</a>) would indeed be taking plural wives in close temporal proximity to the alleged event.  The Prices acknowledge the claims against Brigham Young, Heber C. Kimball, and Parley P. Pratt—they only dispute that Joseph was practicing polygamy, also.</p>
 <ol>
 <li>Brigham Young took his first plural wife (Lucy Ann Decker Seeley, June 15, 1842) shortly after the Brotherton event, a mere two months after Joseph and Hyrum would denounce the rumors initiated by the Brotherton event. And, despite accusing Brotherton of lying, Brigham Young would later <a rel="external" href="https://faenrandir.github.io/a_careful_examination/brigham-young-sealed-to-martha-brotherton/">have Brotherton sealed to himself</a> (by proxy) as a plural wife.</li>
@@ -215,7 +315,8 @@ since before):
 <li>Elizabeth Brotherton and Mary Brotherton concurred with the testimony of their brother-in-law and husband (respectively) J. McIlwrick that Brotherton was “a wilful inventor of lies” and “has also to my certain knowledge at sundry times, circulated lies of a base kind, concerning those whom she knew to be innocent of what she alleged against them.” Within 2 years and 9 years respectively, the Brotherton sisters would become plural wives of Parley P. Pratt (for Mary, see <a rel="external" href="https://www.millennialstar.org/who-was-john-mcilwrick/">Meg Stout analysis</a>).</li>
 </ul>
 <p>Regardless of their defense of Joseph Smith himself, nearly all other individuals<sup class="footnote-reference" id="fr-besides_mcilwrick-1"><a href="/a_careful_examination/critique-of-price-analysis-on-brotherton/#fn-besides_mcilwrick">[3]</a></sup> whom the Prices used in an effort to argue that Martha was lying would eventually—by their actions—acknowledge that LDS leadership were practicing plural marriage before the death of Joseph Smith.</p>
-<h4 id="theological-coherence">Theological coherence</h4>
+<h4 id="theological-coherence">Theological coherence<a class="zola-anchor" href="#theological-coherence" aria-label="Anchor link for: theological-coherence"><i class="fas fa-link"></i></a> 
+</h4>
 <p>As explained in <a href="/a_careful_examination/assessing-accuracy-brotherton-affidavit/">Assessing the accuracy of Martha Brotherton’s affidavit</a>, Brotherton’s affidavit coheres with the basic theology of Joseph Smith’s polygamy and significantly deviates from the claims made by Bennett about how Joseph Smith was practicing spiritual wifery. Most significantly:</p>
 <ul>
 <li>Restoration of Old Testament polygamy</li>
@@ -226,13 +327,15 @@ since before):
 </ul>
 <p>None of these were elements of Bennett’s claims about Joseph practicing spiritual wifery.  Were Brotherton merely repeating or amplifying claims made by Bennett, then her story would not be expected to cohere so well with Joseph Smith’s polygamy theology but would have been expected to cohere with Bennett’s claims of spiritual wifery.</p>
 <p>In addition, her affidavit resonates with several other historical accounts of Joseph Smith’s polygamy (e.g., use of emissaries and invitation into the red brick store for the proposal of Mary Elizabeth Rollins).</p>
-<h3 id="splitting-hairs">Splitting hairs</h3>
+<h3 id="splitting-hairs">Splitting hairs<a class="zola-anchor" href="#splitting-hairs" aria-label="Anchor link for: splitting-hairs"><i class="fas fa-link"></i></a> 
+</h3>
 <p>After acknowledging that Brigham Young and Heber C. Kimball did begin practicing polygamy around that time and so might have been involved in such a proposal event with Martha, they hedge around implicating Joseph:</p>
 <blockquote>
 <p>Even if Brigham and Heber tried to get Martha to become Brigham’s plural wife, it does not prove that Martha was telling the truth about Joseph. Without a doubt Bennett, out of revenge, would have added the part about Joseph, or would have influenced Martha to have done so.</p>
 </blockquote>
 <p>It is difficult to rule this out completely, but this scenario would mean Brotherton was not making up the event whole-cloth: we have to acknowledge that Brotherton’s story coheres well with historical facts that even the Prices acknowledge (i.e., the participating of BY and HCK in polygamy just following that time).  And, as discussed above, Brotherton’s account of the proposal does not cohere well with Bennett’s claims about how Joseph was practicing spiritual wifery, so this makes the idea that Bennett influenced Brotherton’s affidavit in other details somewhat less likely.</p>
-<h3 id="conclusion">Conclusion</h3>
+<h3 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <p>When examined carefully, the Prices’ attempt to undermine Martha Brotherton’s affidavit falls apart. Most of their claims or insinuations are red-herrings or not supported by the historical record.  Virtually all of the witnesses used to undermine Martha’s character and primary claim that the leadership was making polygamous proposals would shortly or eventually participate in the practice of taking plural wives. Finally, Brotherton’s testimony coheres well with the basic theology of Joseph Smith’s polygamy and not with the claims of Bennett, suggesting she did indeed participate in (or at least have access to) an event which informed her of the principles of polygamy as taught by LDS leadership at the time.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -248,16 +351,15 @@ since before):
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -272,105 +374,9 @@ since before):
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

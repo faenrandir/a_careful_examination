@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The 1832 First Vision account was suppressed between 11 and ~30 years | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The 1832 First Vision account was suppressed between 11 and ~30 years | A Careful Examination</title>
+<meta property="og:title" content="The 1832 First Vision account was suppressed between 11 and ~30 years | A Careful Examination" />
+<meta name="twitter:title" content="The 1832 First Vision account was suppressed between 11 and ~30 years | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/1832-first-vision-account-suppressed/">
-  
+  <meta property="og:url" content="/a_careful_examination/1832-first-vision-account-suppressed/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The 1832 First Vision account was suppressed between 11 and ~30 years</h1>
@@ -102,10 +218,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="the-evidence">The evidence</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="the-evidence">The evidence<a class="zola-anchor" href="#the-evidence" aria-label="Anchor link for: the-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <p>LaMar Petersen, an amateur LDS historian,<sup class="footnote-reference" id="fr-later_excommunicated-1"><a href="/a_careful_examination/1832-first-vision-account-suppressed/#fn-later_excommunicated">[1]</a></sup> met with Levi Young (senior President of the First Council of the Seventy) on February 3, 1953, and took these notes:</p>
 <blockquote>
 <p>His curiosity was excited when reading in Roberts’ Doc. History reference to “documents from which these writings were compiled.” Asked to see them. TOLD TO GET HIGHER PERMISSION. Obtained that permission. Examined documents. Written, he thought, about 1837 or 1838. Was told NOT TO COPY OR TELL WHAT THEY CONTAINED. Said it was a “STRANGE” account of the First Vision. Was put back in vault. REMAINS UNUSED, UNKNOWN.</p>
@@ -116,14 +234,16 @@
 <p>… He told us of a “strange account” (Young’s own term) of the First Vision, which he thought was written in Joseph’s own hand and which had been concealed for 120 years in a locked vault. He declined to tell us details, but stated that it did not agree entirely with the offcial version. Jesus was the center of the vision, but God was not mentioned. I respected Young’s wish that the information be withheld until after his death.</p>
 </blockquote>
 <p>After Levi Young’s death in December, 1963, Petersen mentioned the account to Jerald and Sandra Tanner.  They wrote to Joseph Fielding Smith asking to see the “strange account”, but he refused to let them see it.  About that time, the three excised pieces were returned to the journal, and an LDS graduate student, Paul R. Cheeseman, was granted access to the journal and made a transcript of the account (which transcript was then published by the Tanners in 1964 and <a rel="external" href="http://scholarsarchive.byu.edu/etd/4590/">Cheeseman in 1965</a>).</p>
-<h2 id="what-can-be-surmised-with-virtual-certainty">What can be surmised with virtual certainty</h2>
+<h2 id="what-can-be-surmised-with-virtual-certainty">What can be surmised with virtual certainty<a class="zola-anchor" href="#what-can-be-surmised-with-virtual-certainty" aria-label="Anchor link for: what-can-be-surmised-with-virtual-certainty"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li>The 1832 First vision account was kept in a safe for many years.</li>
 <li>LDS leaders knew what was contained in it, at least as early as 1953 and possibly as early as 1935, about the earliest the account could have been excised from the journal in which it was found.<sup class="footnote-reference" id="fr-excision-1"><a href="/a_careful_examination/1832-first-vision-account-suppressed/#fn-excision">[2]</a></sup></li>
 <li>LDS leaders forbid people from copying the account or talking about it (although they granted access to at least one LDS historian [Petersen] to privately see it).</li>
 <li>LDS leaders suppressed<sup class="footnote-reference" id="fr-suppressed-1"><a href="/a_careful_examination/1832-first-vision-account-suppressed/#fn-suppressed">[3]</a></sup> the account from at least 1953 until 1964.</li>
 </ul>
-<h2 id="why-not-an-earlier-dating">Why not an earlier dating?</h2>
+<h2 id="why-not-an-earlier-dating">Why not an earlier dating?<a class="zola-anchor" href="#why-not-an-earlier-dating" aria-label="Anchor link for: why-not-an-earlier-dating"><i class="fas fa-link"></i></a> 
+</h2>
 <p>We know that Levi Edgar Young was shown the account before LaMar Petersen.  Stan Larson, probably inferring from the Petersen account, surmises:</p>
 <blockquote>
 <p>Some time during the 1940s or early 1950s, Joseph Fielding Smith showed Levi Edgar Young (who was then the senior president of the First Council of the Seventy) this 1832 account of the First Vision.</p>
@@ -134,7 +254,8 @@
 </blockquote>
 <p>So, dating exactly when Joseph Fielding Smith put the document in the vault and dating when he showed the document to Levi Edgar Young are currently unknown because the the LDS Church won’t allow historians to read Joseph Fielding Smith’s diaries from the time period.</p>
 <p>If Joseph Fielding Smith understood the significance of the document when he excised it (which seems highly probable), then the suppression of the document began anywhere from the 1930s until 1964.  If we assume the mid 1930’s for the date of widespread use of cellophane tape (say 1934) then we can bracket the time of suppression: The 1832 First Vision account was suppressed somewhere between 11 and about 30 years.</p>
-<h2 id="additional-reflections">Additional reflections</h2>
+<h2 id="additional-reflections">Additional reflections<a class="zola-anchor" href="#additional-reflections" aria-label="Anchor link for: additional-reflections"><i class="fas fa-link"></i></a> 
+</h2>
 <p>One is left to wonder how much longer the account would have been suppressed if Petersen had not mentioned the account to the Tanners and the Tanners pressured leaders to release it.</p>
 <p>Even with it’s publication by the Tanners in 1964 it would be another <strong>6</strong> years before the Church acknowledged the <em>substance</em> of the 1832 First Vision account in official material.<sup class="footnote-reference" id="fr-nextmention-1"><a href="/a_careful_examination/1832-first-vision-account-suppressed/#fn-nextmention">[4]</a></sup></p>
 <hr />
@@ -160,16 +281,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -184,105 +304,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

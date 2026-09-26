@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon? | A Careful Examination</title>
+<meta property="og:title" content="Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon? | A Careful Examination" />
+<meta name="twitter:title" content="Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/">
-  
+  <meta property="og:url" content="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?</h1>
@@ -103,14 +219,18 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A variety of theories for the creation of the Book of Mormon <a rel="external" href="https://byustudies.byu.edu/article/naturalistic-explanations-of-the-origin-of-the-book-of-mormon-a-longitudinal-study/">have been advanced</a> in the past, but most modern scholars believe Joseph was primarily responsible for the book (e.g., <a rel="external" href="https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/">Dan Vogel</a> and <a rel="external" href="https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407">William Davis</a>).</p>
 <p>Latter-day Saints tend to focus on Joseph Smith’s lack of significant formal education.<sup class="footnote-reference" id="fr-downplayjosephsabilities-1"><a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/#fn-downplayjosephsabilities">[1]</a></sup>  Was Joseph Smith capable of such a feat?  This document advances historical evidence which supports Joseph’s potential ability to compose such a work.</p>
-<h2 id="the-case-for-joseph-s-potential-capability">The case for Joseph’s potential capability</h2>
-<h3 id="religious-and-educational-environment">Religious and educational environment</h3>
+<h2 id="the-case-for-joseph-s-potential-capability">The case for Joseph’s potential capability<a class="zola-anchor" href="#the-case-for-joseph-s-potential-capability" aria-label="Anchor link for: the-case-for-joseph-s-potential-capability"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="religious-and-educational-environment">Religious and educational environment<a class="zola-anchor" href="#religious-and-educational-environment" aria-label="Anchor link for: religious-and-educational-environment"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>
 <p>Joseph Smith’s father had “been a merchant and a teacher.” (<a rel="external" href="https://www.churchofjesuschrist.org/ensign/1971/07/joseph-smiths-home-environment?lang=eng">Ensign 1971</a>).</p>
@@ -143,16 +263,20 @@
 <p>Palmyra was <a href="/a_careful_examination/palmyra-was-rich-in-books/">rich in books</a>, generally.</p>
 </li>
 </ol>
-<h3 id="religious-immersion">Religious immersion</h3>
-<h4 id="self-described-religious-immersion">Self described religious immersion</h4>
+<h3 id="religious-immersion">Religious immersion<a class="zola-anchor" href="#religious-immersion" aria-label="Anchor link for: religious-immersion"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="self-described-religious-immersion">Self described religious immersion<a class="zola-anchor" href="#self-described-religious-immersion" aria-label="Anchor link for: self-described-religious-immersion"><i class="fas fa-link"></i></a> 
+</h4>
 <p>In his earliest history, <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2">Joseph Smith wrote</a> (emphasis added):</p>
 <blockquote>
 <p>I was born in the town of Charon [Sharon] in the State of Vermont North America on the twenty third day of December AD 1805 of goodly Parents <strong>who spared no pains to instructing me in the christian religion</strong>. at the age of about ten years my Father Joseph Smith Seignior moved to Palmyra Ontario County in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren and as it required the exertions of all that were able to render any assistance for the support of the Family **therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading writing and the ground rules of Arithmatic which constituted my whole literary acquirements. <strong>At about the age of twelve years</strong> my mind become seriously imprest with regard to the all importent concerns for the wellfare of my immortal Soul which <strong>led me to searching the scriptures</strong> believeing as I was taught, that they contained the word of God thus applying myself to them and <strong>my intimate acquaintance with those of differant denominations</strong> led me to marvel excedingly for I discovered that they did not adorn their profession by a holy walk and Godly conversation agreeable to what I found contained in that sacred depository this was a grief to my Soul thus <strong>from the age of twelve years to fifteen I pondered many things in my heart concerning the sittuation of the world of mankind the contentions and divisions the wickedness and abominations and the darkness which pervaded the minds of mankind my mind become excedingly distressed for I become convicted of my sins and by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith</strong> and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament and I felt to mourn for my own sins and for the sins of the world …</p>
 </blockquote>
 <p>So, while Joseph clearly emphasizes that he had little formal schooling, he also emphasizes in several places how <a href="/a_careful_examination/religious-interest-and-capability-from-1832-statement/">familiar he was with the scriptures and the religious arguments of the day</a>.  If Joseph continued that trajectory of interest in scripture and religion, then we can put an upper bound on his intense scripture/religion searching at 11 years.</p>
-<h4 id="biblical-allusion-in-the-colesville-letters">Biblical allusion in the Colesville Letters</h4>
+<h4 id="biblical-allusion-in-the-colesville-letters">Biblical allusion in the Colesville Letters<a class="zola-anchor" href="#biblical-allusion-in-the-colesville-letters" aria-label="Anchor link for: biblical-allusion-in-the-colesville-letters"><i class="fas fa-link"></i></a> 
+</h4>
 <p>BYU scholar Nicholas Frederick tenatively attributes the <a rel="external" href="https://faenrandir.github.io/a_careful_examination/the-first-colesville-letter-transcript-and-allusions/">first</a> and <a rel="external" href="https://faenrandir.github.io/a_careful_examination/the-second-colesville-letter-transcript-and-allusions/">second</a> Colesville letters of 1830 to Joseph Smith.  Both letters are rich with Biblical allusion and <a rel="external" href="https://www.jstor.org/stable/10.5406/jmormhist.47.2.0023">with the first</a> “[nearly] every sentence contains at least one biblical quotation, allusion, or echo, with many of them containing more than one.”</p>
-<h3 id="accounts-emphasizing-meditation-or-reading">Accounts emphasizing meditation or reading</h3>
+<h3 id="accounts-emphasizing-meditation-or-reading">Accounts emphasizing meditation or reading<a class="zola-anchor" href="#accounts-emphasizing-meditation-or-reading" aria-label="Anchor link for: accounts-emphasizing-meditation-or-reading"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith Sr., in <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1">a patriarchal blessing given to Joseph</a> stated:</p>
 <blockquote>
 <p>… thou hast sought to know his ways, and from thy childhood thou hast meditated much upon the great things of his law. …</p>
@@ -165,7 +289,8 @@
 <blockquote>
 <p>It may be of interest in this connection to know that one of the early customers of Mr. Alling was a man who became famous as the founder of Mormonism, Joseph Smith. He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and talking theology. It was at this time that he was engaged in writing his “Book of Mormon,” but the present firm disclaims all responsibility for Mr. Smith’s religious conclusions, even if he did buy his books and writing paper from their store.</p>
 </blockquote>
-<h3 id="accounts-including-an-oral-component">Accounts including an oral component</h3>
+<h3 id="accounts-including-an-oral-component">Accounts including an oral component<a class="zola-anchor" href="#accounts-including-an-oral-component" aria-label="Anchor link for: accounts-including-an-oral-component"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In her history, Joseph’s mother Lucy recalled<sup class="footnote-reference" id="fr-amusing_recitals-1"><a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/#fn-amusing_recitals">[5]</a></sup>:</p>
 <blockquote>
 <p>During our evening conversations, Joseph would occasionally give us some of the most amusing recitals that could be imagined. He would describe the ancient inhabitants of this continent, their dress, mode of traveling, and the animals upon which they rode; their cities, their buildings, with every particular; their mode of warfare; and also their religious worship. This he would do with as much ease, seemingly, as if he had spent his whole life among them.</p>
@@ -186,7 +311,8 @@
 <blockquote>
 <p>… He used to come in on Mondays from his home in Palmyra and spend hours reading and selecting books and <strong>talking theology</strong> … (emphasis added)</p>
 </blockquote>
-<h3 id="lifelong-pattern-of-reading-and-meditation">Lifelong pattern of reading and meditation</h3>
+<h3 id="lifelong-pattern-of-reading-and-meditation">Lifelong pattern of reading and meditation<a class="zola-anchor" href="#lifelong-pattern-of-reading-and-meditation" aria-label="Anchor link for: lifelong-pattern-of-reading-and-meditation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph left no records of his life before the dictation of the Book of Mormon, but his journal entries in the years following the dictation Book of Mormon suggest he was a man comfortable spending hours reading and meditating.</p>
 <p>In a <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-13-october-1832/3">letter to Emma in 1832</a><sup class="footnote-reference" id="fr-williamdaviscredit-1"><a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/#fn-williamdaviscredit">[8]</a></sup>:</p>
 <blockquote>
@@ -216,7 +342,8 @@
 <blockquote>
 <p>Saturday Morning 12th. Spent the forenoon in reading.</p>
 </blockquote>
-<h3 id="intellectual-powers">Intellectual powers</h3>
+<h3 id="intellectual-powers">Intellectual powers<a class="zola-anchor" href="#intellectual-powers" aria-label="Anchor link for: intellectual-powers"><i class="fas fa-link"></i></a> 
+</h3>
 <p>John Taylor <a rel="external" href="https://www.churchofjesuschrist.org/manual/teachings-joseph-smith/chapter-47?lang=eng">said of him</a> (emphasis added):</p>
 <blockquote>
 <p>He was ignorant of letters as the world has it, but <strong>the most profoundly learned and intelligent man that I ever met in my life</strong>, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet <strong>I have never met a man so intelligent as he was</strong>.</p>
@@ -225,7 +352,8 @@
 <blockquote>
 <p>He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him.  And I here say that <strong>he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance, among the thousands of my observation</strong>. Although when I took him into my school, he was without scientific knowledge or attainments.</p>
 </blockquote>
-<h3 id="emma-s-last-testimony">Emma’s last testimony</h3>
+<h3 id="emma-s-last-testimony">Emma’s last testimony<a class="zola-anchor" href="#emma-s-last-testimony" aria-label="Anchor link for: emma-s-last-testimony"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The most frequent testimony advanced to suggest that Joseph was not be capable of composing the Book of Mormon was delivered by his wife, Emma.  Her <a href="/a_careful_examination/last-testimony-of-sister-emma/">last testimony</a> reads (emphasis added):</p>
 <blockquote>
 <p>Question. Could not father have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?</p>
@@ -234,7 +362,8 @@
 <p>Answer. Joseph Smith (and for the first time she used his name direct, having usually used the words, “your father” or “my husband”) <strong>could neither write nor dictate a coherent and well-worded letter</strong>, let alone dictate a book like the Book of Mormon. And, though I was an active participant in the scenes that transpired, and was present during the translation of the plates, and had cognizance of things as they transpired, it is marvelous to me, “a marvel and a wonder,” as much so as to anyone else.</p>
 </blockquote>
 <p>However, there are <a href="/a_careful_examination/reasons-to-discount-emmas-bom-testimony/">good reasons to discount aspects of Emma’s testimony</a>.</p>
-<h2 id="the-case-against-joseph-s-potential-capability">The case against Joseph’s potential capability</h2>
+<h2 id="the-case-against-joseph-s-potential-capability">The case against Joseph’s potential capability<a class="zola-anchor" href="#the-case-against-joseph-s-potential-capability" aria-label="Anchor link for: the-case-against-joseph-s-potential-capability"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A great resource compiling a lot of the statements about Joseph Smith’s
 abilities is Brian Hales Interpreter publication <a rel="external" href="https://journal.interpreterfoundation.org/joseph-smiths-education-and-intellect-as-described-in-documentary-sources/">Joseph Smith’s Education and Intellect as Described in Documentary Sources</a>. Brian ultimately argues that the data point away from Joseph’s ability to compose the Book of Mormon, but I think there is room to disagree with his conclusions based on the available data (his and other data I have discussed above).</p>
 <p>Arguments made in response to William Davis’s recent book <a rel="external" href="https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407">Visions in a seer stone</a> are also serve as a repository of data and arguments against Joseph Smith’s capability:</p>
@@ -247,7 +376,8 @@ abilities is Brian Hales Interpreter publication <a rel="external" href="https:/
 <li><a rel="external" href="https://journal.interpreterfoundation.org/curiously-unique-joseph-smith-as-author-of-the-book-of-mormon/">Curiously Unique: Joseph Smith as Author of the Book of Mormon</a></li>
 <li><a rel="external" href="https://journal.interpreterfoundation.org/changing-critics-criticisms-of-book-of-mormon-changes/">Changing Critics’ Criticisms of Book of Mormon Changes</a></li>
 </ul>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Despite lacking extensive formal training, Joseph was raised in a rich educational, religious, and scriptural environment, and he immersed himself in that environment for some time, at least.  Furthermore, some of those who associated with him intimately and in educational settings ascribed to him an extraordinarily powerful intellect.  On the other hand, the argument can be made that many did not attribute great intellectual powers to Joseph, and that he lacked the necessary education or prepartion in order to be able to compose a book like the Book of Mormon, especially under the circumstances witnessed.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -282,16 +412,15 @@ abilities is Brian Hales Interpreter publication <a rel="external" href="https:/
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -306,105 +435,9 @@ abilities is Brian Hales Interpreter publication <a rel="external" href="https:/
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

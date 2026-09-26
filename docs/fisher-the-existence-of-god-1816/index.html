@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Abial Fisher, Jr., 1816 sermon: “The Existence of God.” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Abial Fisher, Jr., 1816 sermon: “The Existence of God.” | A Careful Examination</title>
+<meta property="og:title" content="Abial Fisher, Jr., 1816 sermon: “The Existence of God.” | A Careful Examination" />
+<meta name="twitter:title" content="Abial Fisher, Jr., 1816 sermon: “The Existence of God.” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/fisher-the-existence-of-god-1816/">
-  
+  <meta property="og:url" content="/a_careful_examination/fisher-the-existence-of-god-1816/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Abial Fisher, Jr., 1816 sermon: “The Existence of God.”</h1>
@@ -93,13 +209,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Abial Fisher, Jr. delivered a sermon on Exodus 3:14 in the Bellingham, Massachusetts Baptist Church on October 13, 1816. The sermon was published in 1817 in Worcester, Massachusetts.  Some of the rhetoric and arguments he advanced seem reminiscent of that employed by Alma advanced to defend belief in God against Korihor in <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng">Alma 30</a>.</p>
 <p><a rel="external" href="https://books.google.com/books?id=rh9dAAAAcAAJ&amp;pg=PA6&amp;dq=%22existence+of+god%22&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiZk8ym5ZrkAhVKoZ4KHVKjBM0Q6AEwAHoECAAQAg#v=onepage&amp;q=%22existence%20of%20god%22&amp;f=false">The Existence of God: A Sermon delivered at Bellingham, Lord’s Day Afternoon, October 13, 1816</a></p>
-<h2 id="excerpts">Excerpts</h2>
+<h2 id="excerpts">Excerpts<a class="zola-anchor" href="#excerpts" aria-label="Anchor link for: excerpts"><i class="fas fa-link"></i></a> 
+</h2>
 <blockquote>
 <p>… For, no doubt, the mutual connexion between the sun, and the bodies which compose the system of which that is the centre, gives evidence that they were designed to operate on each other in order to promote some valuable end. The power of attraction, which is a quality of matter causing it to tend to a common centre, and is found to belong to all matter, so far as the research of man has extended, has an astonishing influence on all bodies whatever. By it all motion of matter tending to a common centre is produced. Were this property of matter destroyed, all order in our system would at once cease; for then the planets, instead of revolving round the sun as a common centre, would fly off in every direction into the unknown regions of space. They would then be completely out of the influence of the sun, and consequently far removed from all the advantages resulting from their revolving round him as a common centre. What we call our system, would cease to be a system; for there can be no such thing as system where there is no order, or general laws by which the whole may be governed. …</p>
 </blockquote>
@@ -115,7 +234,8 @@
 <blockquote>
 <p>Let us, on the whole, lay these things seriously to heart, and profit by them. We are soon to die: we are soon to appear before God, whom we have offended. O let us be prepared for that time. …</p>
 </blockquote>
-<h2 id="complete-transcript">Complete transcript</h2>
+<h2 id="complete-transcript">Complete transcript<a class="zola-anchor" href="#complete-transcript" aria-label="Anchor link for: complete-transcript"><i class="fas fa-link"></i></a> 
+</h2>
 <p><strong>Exodus iii. 14.</strong></p>
 <p><em>I AM THAT I AM.</em></p>
 <p>In founding any system of religion, it seems absolutely necessary that the belief of a Supreme Being be pre-supposed.  All religions have some relation to Deity. Of course, no system of theology can be adopted, without having the existence of such a being implied. To undertake to rear a building, without a foundation having been previously laid on which it can stand, is esteemed the height of folly. So just is this estimation, that, in erecting any structure, common sense universally inculcates on us the necessity of preparing something as a foundation on which the whole may rest. Without this, every one must perceive that the thought of proceeding farther is absurd. It is also necessary that the foundation be firm. Every building which rests on a foundation that has not strength and firmness answerable to the dependence placed on it, will, eventually, if not immediately, totter to its centre, and fall to the ground. That this is true, is confirmed by the representation of our Lord, when he declared that the house built on the sand could not withstand the tempest to which it would be exposed, but would of necessity be carried away by the flood. Just so in establishing a religious system; if we attempt it without having something on which, as a foundation, we may rest the whole, instead of effecting any thing to purpose, we shall be as those who beat the air. Throw away the belief of the existence of a being who must have produced, as well all those things which are presented to us by the medium of our senses, as those which are perceived by a reflection on ourselves, and we are at once destitute of a foundation on which we can rest any other truths. If we do not believe there exists some being adequate to the production of every effect discoverable in the universe, we must immediately conclude that events take place without any cause. Hence a period must at once be put to reasoning; and man, instead of being a reasonable creature, permit himself to wander in the wilderness of perpetual doubt.— Among those who admit that God does exist, it is a subject of controversy whether the Scriptures be a revelation from him; but unless there be a God, it would be absurd to talk of there being a revelation of his will. To suppose this, is to suppose an effect to exist before its cause, which can never be. That this proposition—There is one Supreme Being—is important, is capable of demonstration from the consideration, that, among every people, and in every age, as far as research has extended, this belief has prevailed. No spot on the habitable globe can be mentioned, where the belief of a God, or gods of some sort or other, has not been maintained. In our text, Jehovah, or the God of Israel, declares that he is God, and that he exists independently of all other existences. In short, he declares that he is the Being who made and presides over the world. But as the evidence derived from the Scriptures depends on their evidence, we shall, in this Discourse, consider that proof of the divine existence which arises from the light of nature.</p>
@@ -157,22 +277,22 @@ part of the system which consists in a power of preparing food for digestion—t
 <p>It will readily be perceived that there is a great difference between beings who have a cause, and those who have none. ‘That Being who has no cause is eternal; but beings, who have causes, are finite in their existence. We, my hearers, are finite beings; God is an infinite Being. Hence we see that there is an immeasurable difference between the time that God has existed and the time we have existed. This consideration ought to convince us of the necessity and propriety of our being impressed with sentiments of awe and reverence, when we contemplate on God. What a solemn silence pervades the soul, when at the foot of an ancient and venerable precipice, from which rocks have been precipitating themselves ever since the creation? What an awful horror seizes the spirit! All the passions subside, apparently never to rise again! If a stupendous part of the Creator’s works fills the mind with such horror, what dread ought we to feel in the presence of Him by whom they were formed! Let us, my hearers, from these reflections, think for one moment of our insignificance. It is but a few days since you and I began to be; not more than sixty or seventy years, at the longest. But think of God: consider a moment, and inquire if you can learn the time when HE began to be. Can we find it? No. If we undertake to search in the ancient periods of eternity for his beginning, and think we approach towards it, still it recedes, and recedes, and recedes. We ask the question, long since asked by one divinely inspired—“Canst thou by searching find out God?”</p>
 <p>From the subject, we see the folly of those who pretend to be atheists. They are either what they pretend to be, or they are not. If they are atheists, they are guilty of the most astonishing folly, in resisting arguments amounting to demonstration. If they are not what they pretend to be, what advantage can they derive from such attempts at deception? They must be under the influence of some wretched infatuation, similar to the profane swearer, who deals out fire-brands, arrows and death, and saith, Am I not in sport?—What advantage can it be to any to be guilty of either? But why do I talk thus? There are no atheists. Too long has conscience held her iron sway over those men who would, if they could, be atheists. Their own judgments tell them their fears of God are well founded. But notwithstanding I thus speak, yet it is too evident that many live without God in the world. How will such men—how will you, my hearers, if you be such men, (and we have reason to fear some of you are) appear before that God, whose existence and government your daily practice denies? I fear and tremble for you, my hearers. I fear and tremble for myself. Why am I so cold? Why do I feel so little that I am in the presence of a God who has eternally existed?</p>
 <p>Let us, on the whole, lay these things seriously to heart, and profit by them. We are soon to die: we are soon to appear before God, whom we have offended. O let us be prepared for that time. That this may be the case with each one of us, may God grant, for the Redeemer’s sake. AMEN.</p>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/a-second-call-to-unbelievers-1825/">1825 Anti-theist rhetoric: ’A Second Call to Unbelievers</a></li>
 <li><a rel="external" href="https://docs.google.com/document/d/16odCn1NBtBHICtSp05NZXh4VHtiktQpwGqbHHIdLL-8/edit#heading=h.mc3hp8tg1efq">“All Things Show There is a God”</a> (BoM Google Book Cross References)</li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -187,105 +307,9 @@ part of the system which consists in a power of preparing food for digestion—t
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

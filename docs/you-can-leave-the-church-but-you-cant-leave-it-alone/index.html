@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>You can leave the Church but you can&#39;t leave it alone | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>You can leave the Church but you can&#39;t leave it alone | A Careful Examination</title>
+<meta property="og:title" content="You can leave the Church but you can&#39;t leave it alone | A Careful Examination" />
+<meta name="twitter:title" content="You can leave the Church but you can&#39;t leave it alone | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/you-can-leave-the-church-but-you-cant-leave-it-alone/">
-  
+  <meta property="og:url" content="/a_careful_examination/you-can-leave-the-church-but-you-cant-leave-it-alone/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">You can leave the Church but you can&#39;t leave it alone</h1>
@@ -103,39 +219,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#historical-analysis">Historical analysis</a></li>
-        
-          <li><a href="#proportionality">Proportionality</a></li>
-        
-          <li><a href="#inaccurate">Inaccurate?</a></li>
-        
-          <li><a href="#family-entanglement">Family entanglement</a></li>
-        
-          <li><a href="#political-entanglement">Political entanglement</a></li>
-        
-          <li><a href="#life-experience">Life experience</a></li>
-        
-          <li><a href="#positive-motivations">Positive motivations.</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[pre-draft form]</p>
-<h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[pre-draft form]</p>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A common refrain heard when members of the LDS Church discuss those who have
 left and are still vocal about aspects of the Church is, “You can leave the
 Church but you can’t leave it alone.”</p>
@@ -155,7 +245,8 @@ self-published instances by members. It then briefly examines the
 proportionality of behavior of former members in <em>contrast to</em> active members
 of the Church.  Finally, the document concludes by advancing and defending
 valid reasons why some members might focus on the LDS Church for some time.</p>
-<h2 id="historical-analysis">Historical analysis</h2>
+<h2 id="historical-analysis">Historical analysis<a class="zola-anchor" href="#historical-analysis" aria-label="Anchor link for: historical-analysis"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In 2008, LDS scholar Blair Dee Hodges investigated the origin of the phrase in <a rel="external" href="https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html">a detailed blog post</a> and, along with other helpful commenters, was able to piece together a reasonable chronology of its inception and usage.  He also pin-pointed the similarity between Maxwell’s statement and a story, used frequently in official and unofficial LDS literature, where Joseph Smith describes the necessary trajectory of apostates if they leave the Church.</p>
 <p>As detailed more completely <a rel="external" href="https://faenrandir.github.io/a_careful_examination/chronology-cant-leave-it-alone/">in this compilation</a>, the phrase was first <a rel="external" href="https://archive.org/details/allthesethingssh0000maxw/page/108/mode/2up?q=%22The+Prophet+Joseph+spoke%22">published by Neal A. Maxwell in 1979</a> (“Strange, how often defectors leave the Church, but they cannot leave it alone!”) and seems likely to have originated with him.[^who_originated_the_phrase] In its first published usage it was explicitly linked with a statement from Joseph Smith:</p>
 <blockquote>
@@ -170,12 +261,14 @@ the “can’t leave it alone.”</p>
 <blockquote>
 <p>When the gospel was preached, good and evil were set before you. You could choose either or neither. There were two opposite masters inviting you to serve them. When you joined this Church you enlisted to serve God. When you did that you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant.’”</p>
 </blockquote>
-<h3 id="following-the-dictation-of-the-evil-one">Following the dictation of the evil one</h3>
+<h3 id="following-the-dictation-of-the-evil-one">Following the dictation of the evil one<a class="zola-anchor" href="#following-the-dictation-of-the-evil-one" aria-label="Anchor link for: following-the-dictation-of-the-evil-one"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Official LDS literature includes a direct example of a member discussing how <em>they</em> would leave Mormonism alone and not attack it, were they to leave the Church.  The example is found frequently in official LDS literature.<sup class="footnote-reference" id="fr-implication-1"><a href="/a_careful_examination/you-can-leave-the-church-but-you-cant-leave-it-alone/#fn-implication">[2]</a></sup>  In this example, Joseph Smith responds to the individual claiming that they would leave “Mormonism” alone were they to leave by saying:</p>
 <blockquote>
 <p>When you [enlisted to serve God (by joining the Church)] you left the neutral ground, and you never can get back on to it. Should you forsake the Master you enlisted to serve, it will be by the instigation of the evil one, and you will follow his dictation and be his servant.’</p>
 </blockquote>
-<h3 id="guilt">Guilt</h3>
+<h3 id="guilt">Guilt<a class="zola-anchor" href="#guilt" aria-label="Anchor link for: guilt"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The <a rel="external" href="https://en.wikipedia.org/wiki/Encyclopedia_of_Mormonism">semi-official Encyclopedia of Mormonism</a> has an entry for “Apostate” and their explanation of Apostate behavior seems to hinge on “guilt” as the driving motivator for former members’ continued attention:</p>
 <blockquote>
 <p>Apostates sometimes become enemies of the Church. Leaving the Church, which claims to be God’s official church, containing the fulness of the gospel, often results in feelings of guilt. While many return, others develop a need to defend their actions, “disprove” the Church, or become hostile enemies. The fruits of apostasy are generally bitter.</p>
@@ -184,9 +277,11 @@ the “can’t leave it alone.”</p>
 <blockquote>
 <p>Members who leave the church know that their actions are wrong. Deep inside they feel guilty that they are denying their witnesses from the Holy Ghost and forsaking Christ and His gospel. That guilt is demoralizing. They are faced with two options, have the integrity to admit they are wrong and repent, or lie to themselves and rationalize their actions.</p>
 </blockquote>
-<h3 id="the-intended-effect">The intended effect?</h3>
+<h3 id="the-intended-effect">The intended effect?<a class="zola-anchor" href="#the-intended-effect" aria-label="Anchor link for: the-intended-effect"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The intended effect of using the phrase seems to be the marginalization of the former member and their perspective: the <em>content</em> of a former member’s concerns or expressions can be more easily dismissed whole-cloth without because, to the believing member, the former-member is merely on “auto-pilot”—why should a member carefully consider the perspective of a guilt-ridden agent of Satan seeking for others to be miserable like them (see <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=27">2 Nephi 2:27</a> and <a rel="external" href="https://www.churchofjesuschrist.org/study/new-era/2013/03/modern-day-korihors?lang=eng">Modern-Day Korihors</a>)?</p>
-<h2 id="proportionality">Proportionality</h2>
+<h2 id="proportionality">Proportionality<a class="zola-anchor" href="#proportionality" aria-label="Anchor link for: proportionality"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A “big list” response to the phrase <a rel="external" href="https://www.reddit.com/r/exmormon/comments/3koqnz/a_big_list_of_responses_to_you_can_leave_the/">has evolved on Reddit</a>.  The list implies that whatever the interest or time a former member dedicates to research or broadcasting of critical perspectives about the LDS Church, that level of engagement is <em>dwarfed</em> by member efforts to spread the faith (and often in ways that are unwelcome by many). A few examples from the list:</p>
 <blockquote>
 <ul>
@@ -205,12 +300,15 @@ the “can’t leave it alone.”</p>
 <li>Exmormons don’t call a meeting with other Exmormons and say, “Hey, lets make a list of all the Mormons in the ward boundaries, and let’s think about it and pray about it, and we’ll narrow that list down to 5 names, and we’ll focus all of our energy and attention on these five people or families, and we’ll try to get them to leave the Church”.</li>
 </ul>
 </blockquote>
-<h2 id="inaccurate">Inaccurate?</h2>
-<h2 id="family-entanglement">Family entanglement</h2>
+<h2 id="inaccurate">Inaccurate?<a class="zola-anchor" href="#inaccurate" aria-label="Anchor link for: inaccurate"><i class="fas fa-link"></i></a> 
+</h2>
+<h2 id="family-entanglement">Family entanglement<a class="zola-anchor" href="#family-entanglement" aria-label="Anchor link for: family-entanglement"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Family entanglement.  Former member lives are often still impacted by the
 culture and practices of the LDS Church. I have siblings and parents in the
 Church, and may former members have children and spouses who still attend.</p>
-<h2 id="political-entanglement">Political entanglement</h2>
+<h2 id="political-entanglement">Political entanglement<a class="zola-anchor" href="#political-entanglement" aria-label="Anchor link for: political-entanglement"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I live in Provo, Utah, so the LDS Church and its culture and policy impacts
 political decisions and those decisions influence me, or my nation, directly.</p>
 <p>Many LDS politicians are strongly influenced by LDS doctrine in how they
@@ -229,19 +327,22 @@ approach legislation. For example:</p>
 </blockquote>
 </li>
 </ul>
-<h2 id="life-experience">Life experience</h2>
+<h2 id="life-experience">Life experience<a class="zola-anchor" href="#life-experience" aria-label="Anchor link for: life-experience"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I spent 38 years of my life (at this point ~83% of my entire life) as a
 dedicated member. It frames who I am and how I think. Virtually all my
 formative experiences were made from within the LDS framework. How do I even
 interact with the world except from within that framework, at least in some
 significant ways?</p>
-<h2 id="positive-motivations">Positive motivations.</h2>
+<h2 id="positive-motivations">Positive motivations.<a class="zola-anchor" href="#positive-motivations" aria-label="Anchor link for: positive-motivations"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Many former members feel like not knowing about the truth-claim data can cause
 people harm. They felt compelled to leave after understanding the data, so
 they think others deserve to know about it, also.  Few of them wish to compel
 others to leave, they simply want others to have all the information to make
 an informed choice.</p>
-<h3 id="brainstorm">[Brainstorm]</h3>
+<h3 id="brainstorm">[Brainstorm]<a class="zola-anchor" href="#brainstorm" aria-label="Anchor link for: brainstorm"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>informed consent, caring, leaving a burning building (or abuser)
 processing a monumental life transition
@@ -258,9 +359,11 @@ new role very rapidly</li>
 <li>not enough people who understand, so want to process with those who understand their
 life experience</li>
 </ul>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A variety of perspectives have been expressed on the topic (or are closely related).</p>
-<h3 id="scholarly">Scholarly</h3>
+<h3 id="scholarly">Scholarly<a class="zola-anchor" href="#scholarly" aria-label="Anchor link for: scholarly"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.google.com/books/edition/The_Politics_of_Religious_Apostasy/CmFKAYRIwOMC?q=captivity+narrative+apostasy&amp;gbpv=1#f=false">The Politics of Religious Apostasy</a> (general reference discussing narrative arcs)</li>
 <li><a rel="external" href="https://web.archive.org/web/20210609080651/http://lifeongoldplates.blogspot.com/2008/08/they-leave-church-but-cant-leave-it.html">They leave the Church but can’t leave it alone</a> (Blair Hodges)</li>
@@ -268,7 +371,8 @@ life experience</li>
 <li><a rel="external" href="http://www.withoutend.org/ex-mormon-emerging-mormon-identities/">Ex-Mormon and Other Emerging Mormon Identities</a> (post by Seth Payne)</li>
 <li>Encyclopedia of Mormonism entry <a rel="external" href="https://contentdm.lib.byu.edu/digital/collection/EoM/id/5478">“Apostate”</a></li>
 </ul>
-<h3 id="sympathetic">Sympathetic</h3>
+<h3 id="sympathetic">Sympathetic<a class="zola-anchor" href="#sympathetic" aria-label="Anchor link for: sympathetic"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://briesweetly.medium.com/they-can-leave-the-church-but-they-cant-leave-the-church-alone-298cc12d399">They Can Leave the Church, But They Can’t Leave the Church Alone</a> (Brie Sweetly)</li>
 <li><a rel="external" href="https://www.quora.com/Why-is-it-that-former-Latter-day-Saints-leave-the-church-but-they-cant-leave-it-alone">Why is it that former Latter-day Saints leave the church but they can’t leave it alone?</a> (Quora)</li>
@@ -281,7 +385,8 @@ life experience</li>
 <li><a rel="external" href="https://unexaminedfaith.blogspot.com/2019/04/leave-it-alone-no-just-no.html">The Unexamined Faith: Leave it Alone? No. Just No.</a></li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=jU5x0H5Wrg0">Why I Can’t Stop Talking about Jesus</a> (Rhett [from Rhett and Link] relative to Christianity)</li>
 </ul>
-<h3 id="lds-perspective">LDS perspective</h3>
+<h3 id="lds-perspective">LDS perspective<a class="zola-anchor" href="#lds-perspective" aria-label="Anchor link for: lds-perspective"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://web.archive.org/web/20220804203959/https://www.calledtoshare.com/2020/05/25/why-people-who-leave-the-church-cant-leave-it-alone/">Why People Who Leave the Church Can’t Leave It Alone</a> (argues that when a member leaves they have left neutral ground and are under the influence of Satan but they should still be loved and not shunned)</li>
 <li><a rel="external" href="https://web.archive.org/web/20211219084656/https://mylifebygogogoff.com/2019/12/why-ex-mormons-cant-leave-the-church-alone.html">Why Ex-Mormons Can’t Leave The Church Alone.</a> (“It is important to understand that Anti-Mormons are not honest brokers. They are miserable and they seek that all men might be miserable like unto themselves.”)</li>
@@ -299,16 +404,15 @@ life experience</li>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -323,105 +427,9 @@ life experience</li>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Key principles to building bridges of understanding | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Key principles to building bridges of understanding | A Careful Examination</title>
+<meta property="og:title" content="Key principles to building bridges of understanding | A Careful Examination" />
+<meta name="twitter:title" content="Key principles to building bridges of understanding | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/building-bridges-of-understanding/">
-  
+  <meta property="og:url" content="/a_careful_examination/building-bridges-of-understanding/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Key principles to building bridges of understanding</h1>
@@ -93,39 +209,51 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p><em>Note: As it stands right now, this is the draft I wrote before my resignation.  I have received additional feedback from my family on this document (which needs to be incorporated), and I also realize now that part of achieving understanding between affected parties is understanding what generates a rift <strong>for some family members and not others</strong> in the first place.  <a href="/a_careful_examination/three-fold-nature-lds-church-corporate-totalistic-individual-growth/">The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth</a> and <a href="/a_careful_examination/to-peek-behind-the-curtain/">To peek behind the curtain: weighing the decision to investigate LDS truth-claims</a> begin to get at the underlying issues.  In some ways, then, this document is a very superficial (and naive?) treatment of this topic.</em></p>
+  
+  
+
+  <div class="post-content">
+    <p><em>Note: As it stands right now, this is the draft I wrote before my resignation.  I have received additional feedback from my family on this document (which needs to be incorporated), and I also realize now that part of achieving understanding between affected parties is understanding what generates a rift <strong>for some family members and not others</strong> in the first place.  <a href="/a_careful_examination/three-fold-nature-lds-church-corporate-totalistic-individual-growth/">The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth</a> and <a href="/a_careful_examination/to-peek-behind-the-curtain/">To peek behind the curtain: weighing the decision to investigate LDS truth-claims</a> begin to get at the underlying issues.  In some ways, then, this document is a very superficial (and naive?) treatment of this topic.</em></p>
 <p>In order to build strong relationships in a mixed faith family, the following principles are paramount:</p>
-<h2 id="i-agency">I. Agency</h2>
-<h3 id="self-determination">Self determination</h3>
+<h2 id="i-agency">I. Agency<a class="zola-anchor" href="#i-agency" aria-label="Anchor link for: i-agency"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="self-determination">Self determination<a class="zola-anchor" href="#self-determination" aria-label="Anchor link for: self-determination"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Although we have stewardships and relationships that <em>matter</em>, each individual is ultimately responsible for what they believe and how they act.</p>
-<h3 id="accept-people-where-they-are-at">Accept people where they are at</h3>
+<h3 id="accept-people-where-they-are-at">Accept people where they are at<a class="zola-anchor" href="#accept-people-where-they-are-at" aria-label="Anchor link for: accept-people-where-they-are-at"><i class="fas fa-link"></i></a> 
+</h3>
 <p>While we all believe the matter of whether or not to stay in the church is a weighty matter, all of us agree that individual family members are <em>more</em> important than religious affiliation.  This was a central message of Jesus Christ’s ministry, illustrated most profoundly in the story of the Good Samaritan.</p>
-<h2 id="ii-attitude">II. Attitude</h2>
-<h3 id="generosity">Generosity</h3>
+<h2 id="ii-attitude">II. Attitude<a class="zola-anchor" href="#ii-attitude" aria-label="Anchor link for: ii-attitude"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="generosity">Generosity<a class="zola-anchor" href="#generosity" aria-label="Anchor link for: generosity"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Each family member feels strongly that they are acting with the best intentions.  We are all trying to be our best selves.  It’s easy when we disagree to feel like other parties are acting maliciously or with shallowness, or deliberately ignoring ideas or evidence that are in plain site for us.  We should do our best to attribute the best intentions to others.</p>
 <blockquote>
 <p>“Most mistakes with family members are not the result of bad intent.  It’s just that we really don’t understand.  We don’t see clearly into one another’s hearts.” (From the 5th habit of highly effective families <a rel="external" href="http://www.slideshare.net/mohitsingla/seven-habits-of-highly-effective-families/#32">here</a>)</p>
 </blockquote>
-<h3 id="building-on-common-ground">Building on common ground</h3>
+<h3 id="building-on-common-ground">Building on common ground<a class="zola-anchor" href="#building-on-common-ground" aria-label="Anchor link for: building-on-common-ground"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Each of us can try to put ourselves in another’s shoes and to respect their point of view, even if we disagree with it.  There is <em>something</em> good or noteworthy in somebody else’s opinion (else why would they think it?).  Let’s focus on that.</p>
-<h3 id="differences-are-a-strength">Differences are a strength</h3>
+<h3 id="differences-are-a-strength">Differences are a strength<a class="zola-anchor" href="#differences-are-a-strength" aria-label="Anchor link for: differences-are-a-strength"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>“The fact that we see things differently is a strength—not a weakness—in our relationship. (From the 6th habit of highly effective families. <a rel="external" href="http://www.slideshare.net/mohitsingla/seven-habits-of-highly-effective-families/#38">here</a>)</p>
 </blockquote>
-<h3 id="all-on-the-same-side">All on the same side</h3>
+<h3 id="all-on-the-same-side">All on the same side<a class="zola-anchor" href="#all-on-the-same-side" aria-label="Anchor link for: all-on-the-same-side"><i class="fas fa-link"></i></a> 
+</h3>
 <p>We are all on the same side—we should do our best to avoid thinking in terms of <em>us</em> vs. <em>them</em>.  Our circle is an inclusive <em>we</em>.  Religious affiliation is merely one of many ways in which we are somewhat different and somewhat alike.</p>
-<h2 id="iii-communication">III. Communication</h2>
+<h2 id="iii-communication">III. Communication<a class="zola-anchor" href="#iii-communication" aria-label="Anchor link for: iii-communication"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Strong relationships are built on open communication.  If we are following/acknowledging the principles of self-determination, generosity, acceptance, and bulding on common ground, then communication of our deep thoughts and ideas should serve to enrich our relationships rather than alienate us from one another.</p>
 <blockquote>
 <p>“There’s no way to have rich, rewarding family relationships without real understanding.” (From the 5th habit of highly effective families <a rel="external" href="http://www.slideshare.net/mohitsingla/seven-habits-of-highly-effective-families/#31">here</a>)</p>
 </blockquote>
-<h3 id="free-exchange-of-feelings">Free exchange of feelings</h3>
+<h3 id="free-exchange-of-feelings">Free exchange of feelings<a class="zola-anchor" href="#free-exchange-of-feelings" aria-label="Anchor link for: free-exchange-of-feelings"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Healthy family relationships include the sharing of deep and tender feelings with one another.</p>
 <p>In an atmosphere of respect and consideration, we should each be willing to share our feelings and listen to others share their feelings.  This is one of the defining characteristics of good family relationships.</p>
-<h3 id="free-exchange-of-ideas-and-information">Free exchange of ideas and information</h3>
+<h3 id="free-exchange-of-ideas-and-information">Free exchange of ideas and information<a class="zola-anchor" href="#free-exchange-of-ideas-and-information" aria-label="Anchor link for: free-exchange-of-ideas-and-information"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>“The technique of emphatic listening is just the tip of the iceberg.  The great mass of the iceberg is a deep and sincere desire to truly understand.”  (From the 5th habit of highly effective families <a rel="external" href="http://www.slideshare.net/mohitsingla/seven-habits-of-highly-effective-families/#35">here</a>)</p>
 </blockquote>
@@ -137,16 +265,15 @@
 <p>“I admire men and women who have developed the questing spirit, who are unafraid of new ideas as stepping stones to progress. We should, of course, respect the opinions of others, but we should also be unafraid to dissent—if we are informed. Thoughts and expressions compete in the marketplace of thought, and in that competition truth emerges triumphant. Only error fears freedom of expression.” —Elder Hugh B. Brown, “A Final Testimony,” from An Abundant Life, 1999 (taken from <a rel="external" href="http://ldsthoughtfulquotes.blogspot.com/2014/01/i-admire-men-and-women-who-have.html">here</a>)</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -161,105 +288,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

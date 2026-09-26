@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Comparison of the Book of Mormon and 1769 King James Bible | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Comparison of the Book of Mormon and 1769 King James Bible | A Careful Examination</title>
+<meta property="og:title" content="Comparison of the Book of Mormon and 1769 King James Bible | A Careful Examination" />
+<meta name="twitter:title" content="Comparison of the Book of Mormon and 1769 King James Bible | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/comparison-table-book-of-mormon-and-bible-verses-origins-project/">
-  
+  <meta property="og:url" content="/a_careful_examination/comparison-table-book-of-mormon-and-bible-verses-origins-project/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Comparison of the Book of Mormon and 1769 King James Bible</h1>
@@ -98,54 +214,19 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-          <li><a href="#1-nephi-600-570-bc">1 Nephi (600-570 BC)</a></li>
-        
-          <li><a href="#2-nephi-588-545-bc">2 Nephi (588-545 BC)</a></li>
-        
-          <li><a href="#jacob-544-421-bc">Jacob (544-421 BC)</a></li>
-        
-          <li><a href="#enos-544-420-bc">Enos (544-420 BC)</a></li>
-        
-          <li><a href="#omni-361-130-bc">Omni (361-130 BC)</a></li>
-        
-          <li><a href="#mosiah-130-91-bc">Mosiah (130-91 BC)</a></li>
-        
-          <li><a href="#alma-91-53-bc">Alma (91-53 BC)</a></li>
-        
-          <li><a href="#helaman-52-1-bc">Helaman (52-1 BC)</a></li>
-        
-          <li><a href="#3-nephi-1-35-ad">3 Nephi (1-35 AD)</a></li>
-        
-          <li><a href="#4-nephi-36-321-ad">4 Nephi (36-321 AD)</a></li>
-        
-          <li><a href="#mormon-322-421-ad">Mormon (322-421 AD)</a></li>
-        
-          <li><a href="#ether-2200-600-bc">Ether (2200-600 BC)</a></li>
-        
-          <li><a href="#moroni-400-421-ad">Moroni (400-421 AD)</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally extracted from the <a rel="external" href="https://www.bookofmormonorigins.com/">Book of Mormon Origins project</a>.  The table leveraged the formatting work of <a rel="external" href="https://www.missedinsunday.com/">missedinsunday.com</a> in footnote #1 of <a rel="external" href="https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu">this post</a> and the conceptual layout of the Book of Mormon Depot chart, which is linked below.</p>
-<h2 id="see-also">See also</h2>
+  
+  
+
+  <div class="post-content">
+    <p>The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally extracted from the <a rel="external" href="https://www.bookofmormonorigins.com/">Book of Mormon Origins project</a>.  The table leveraged the formatting work of <a rel="external" href="https://www.missedinsunday.com/">missedinsunday.com</a> in footnote #1 of <a rel="external" href="https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu">this post</a> and the conceptual layout of the Book of Mormon Depot chart, which is linked below.</p>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/">Book of Mormon Depot comparison with KJV</a></li>
 <li><a href="/a_careful_examination/bom-parallels-to-1800s-thought/">Book of Mormon parallels to 1800s thought</a></li>
 </ul>
-<h2 id="1-nephi-600-570-bc">1 Nephi (600-570 BC)</h2>
+<h2 id="1-nephi-600-570-bc">1 Nephi (600-570 BC)<a class="zola-anchor" href="#1-nephi-600-570-bc" aria-label="Anchor link for: 1-nephi-600-570-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table id="bible-comparison">
 <tr><td style="width:15%;" valign="top">1 Nephi 1:14</td><td style="width:35%;" valign="top">…Great and marvelous are thy works, O Lord God Almighty!</td><td style="width:35%;" valign="top">Great and marvellous are thy works, Lord God Almighty</td><td style="width:15%;" valign="top">Revelation 15:3</td></tr>
 <tr><td style="width:15%;" valign="top">1 Nephi 2:16</td><td style="width:35%;" valign="top">…the mysteries of God…</td><td style="width:35%;" valign="top">…the mysteries of God…</td><td style="width:15%;" valign="top">1 Cor. 4:1</td></tr>
@@ -186,7 +267,8 @@
 <tr><td style="width:15%;" valign="top">1 Nephi 22:25</td><td style="width:35%;" valign="top">…there shall be one fold and one shepherd…</td><td style="width:35%;" valign="top">…there shall be one fold, and one shepherd.</td><td style="width:15%;" valign="top">John 10:16</td></tr>
 <tr><td style="width:15%;" valign="top">1 Nephi 22:31</td><td style="width:35%;" valign="top">…endure to the end, ye shall be saved…</td><td style="width:35%;" valign="top">…endure unto the end, the same shall be saved.</td><td style="width:15%;" valign="top">Matthew 24:13</td></tr>
 </table>
-<h2 id="2-nephi-588-545-bc">2 Nephi (588-545 BC)</h2>
+<h2 id="2-nephi-588-545-bc">2 Nephi (588-545 BC)<a class="zola-anchor" href="#2-nephi-588-545-bc" aria-label="Anchor link for: 2-nephi-588-545-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">2 Nephi 2:4</td><td style="width:35%;" valign="top">…the same, yesterday, today, and forever.</td><td style="width:35%;" valign="top">…the same yesterday, and to day, and for ever.</td><td style="width:15%;" valign="top">Hebrews 13:8</td></tr>
 <tr><td style="width:15%;" valign="top">2 Nephi 2:6</td><td style="width:35%;" valign="top">…full of grace and truth.</td><td style="width:35%;" valign="top">…full of grace and truth.</td><td style="width:15%;" valign="top">John 1:14</td></tr>
@@ -271,7 +353,8 @@
 <tr><td style="width:15%;" valign="top">2 Nephi 32:9</td><td style="width:35%;" valign="top">…pray always, and not faint…</td><td style="width:35%;" valign="top">…always to pray, and not to faint…</td><td style="width:15%;" valign="top">Luke 18:1</td></tr>
 <tr><td style="width:15%;" valign="top">2 Nephi 33:9</td><td style="width:35%;" valign="top">…enter into the narrow gate, and walk in the strait path which leads to life…</td><td style="width:35%;" valign="top">Enter ye in at the strait gate…Because strait is the gate, and narrow is the way, which leadeth unto life…</td><td style="width:15%;" valign="top">Matthew 7:13, 14</td></tr>
 </table>
-<h2 id="jacob-544-421-bc">Jacob (544-421 BC)</h2>
+<h2 id="jacob-544-421-bc">Jacob (544-421 BC)<a class="zola-anchor" href="#jacob-544-421-bc" aria-label="Anchor link for: jacob-544-421-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Jacob 3:11</td><td style="width:35%;" valign="top">…that lake of fire and brimstone which is the second death.</td><td style="width:35%;" valign="top">…in the lake which burneth with fire and brimstone: which is the second death.</td><td style="width:15%;" valign="top">Revelation 21:8</td></tr>
 <tr><td style="width:15%;" valign="top">Jacob 5:42</td><td style="width:35%;" valign="top">…these which have once brought forth good fruit…are good for nothing save it be to be hewn down and cast into the fire.</td><td style="width:35%;" valign="top">…every tree which bringeth not forth good fruit is hewn down, and cast into the fire.</td><td style="width:15%;" valign="top">Matthew 3:10</td></tr>
@@ -284,7 +367,8 @@
 <tr><td style="width:15%;" valign="top">Jacob 6:10</td><td style="width:35%;" valign="top">…whose smoke ascendeth up forever and ever…endless torment.</td><td style="width:35%;" valign="top">And the smoke of their torment ascendeth up for ever and ever…</td><td style="width:15%;" valign="top">Revelation 14:11</td></tr>
 <tr><td style="width:15%;" valign="top">Jacob 6:11</td><td style="width:35%;" valign="top">…enter in at the strait gate, and continue in the way which is narrow, until ye shall obtain eternal life.</td><td style="width:35%;" valign="top">Enter ye in at the strait gate…narrow is the way, which leadeth unto life…</td><td style="width:15%;" valign="top">Matthew 7:13, 14</td></tr>
 </table>
-<h2 id="enos-544-420-bc">Enos (544-420 BC)</h2>
+<h2 id="enos-544-420-bc">Enos (544-420 BC)<a class="zola-anchor" href="#enos-544-420-bc" aria-label="Anchor link for: enos-544-420-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Enos 1:1</td><td style="width:35%;" valign="top">…in the nurture and admonition of the Lord…</td><td style="width:35%;" valign="top">…in the nurture and admonition of the Lord.</td><td style="width:15%;" valign="top">Ephesians 6:4</td></tr>
 <tr><td style="width:15%;" valign="top">Enos 1:8</td><td style="width:35%;" valign="top">…thy faith hath made thee whole.</td><td style="width:35%;" valign="top">…thy faith hath made thee whole.</td><td style="width:15%;" valign="top">Matthew 9:22</td></tr>
@@ -293,11 +377,13 @@
 <tr><td style="width:15%;" valign="top">Enos 1:27</td><td style="width:35%;" valign="top">…Come unto me, ye blessed…of my Father.</td><td style="width:35%;" valign="top">…Come, ye blessed of my Father…</td><td style="width:15%;" valign="top">Matthew 25:34</td></tr>
 <tr><td style="width:15%;" valign="top">Enos 1:27</td><td style="width:35%;" valign="top">…there is a place prepared for you in the mansions of my Father.</td><td style="width:35%;" valign="top">In my Father’s house are many mansions…I go to prepare a place for you.</td><td style="width:15%;" valign="top">John 14:2</td></tr>
 </table>
-<h2 id="omni-361-130-bc">Omni (361-130 BC)</h2>
+<h2 id="omni-361-130-bc">Omni (361-130 BC)<a class="zola-anchor" href="#omni-361-130-bc" aria-label="Anchor link for: omni-361-130-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Omni 1:26</td><td style="width:35%;" valign="top">…endure to the end…ye will be saved.</td><td style="width:35%;" valign="top">…endure unto the end, the same shall be saved.</td><td style="width:15%;" valign="top">Matthew 24:13</td></tr>
 </table>
-<h2 id="mosiah-130-91-bc">Mosiah (130-91 BC)</h2>
+<h2 id="mosiah-130-91-bc">Mosiah (130-91 BC)<a class="zola-anchor" href="#mosiah-130-91-bc" aria-label="Anchor link for: mosiah-130-91-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Mosiah 1:12</td><td style="width:35%;" valign="top">…name that never shall be blotted out…</td><td style="width:35%;" valign="top">…I will not blot out his name out of the book of life…</td><td style="width:15%;" valign="top">Revelation 3:5</td></tr>
 <tr><td style="width:15%;" valign="top">Mosiah 1:17</td><td style="width:35%;" valign="top">…to stir them up in remembrance…</td><td style="width:35%;" valign="top">…to stir you up by putting you in remembrance;</td><td style="width:15%;" valign="top">2 Peter 1:13</td></tr>
@@ -342,7 +428,8 @@
 <tr><td style="width:15%;" valign="top">Mosiah 27:29</td><td style="width:35%;" valign="top">…the gall of bitterness and bonds of iniquity.</td><td style="width:35%;" valign="top">…in the gall of bitterness, and in the bond of iniquity.</td><td style="width:15%;" valign="top">Acts 8:23</td></tr>
 <tr><td style="width:15%;" valign="top">Mosiah 27:31</td><td style="width:35%;" valign="top">…every knee shall bow, and every tongue confess…</td><td style="width:35%;" valign="top">…at the name of Jesus every knee should bow…And that every tongue should confess…</td><td style="width:15%;" valign="top">Philippians 2:10, 11</td></tr>
 </table>
-<h2 id="alma-91-53-bc">Alma (91-53 BC)</h2>
+<h2 id="alma-91-53-bc">Alma (91-53 BC)<a class="zola-anchor" href="#alma-91-53-bc" aria-label="Anchor link for: alma-91-53-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Alma 1:25</td><td style="width:35%;" valign="top">…stand fast in the faith…</td><td style="width:35%;" valign="top">…stand fast in the faith…</td><td style="width:15%;" valign="top">1 Corinthians 16:13</td></tr>
 <tr><td style="width:15%;" valign="top">Alma 1:25</td><td style="width:35%;" valign="top">…they were steadfast and immovable…</td><td style="width:35%;" valign="top">…be ye stedfast, unmoveable…</td><td style="width:15%;" valign="top">1 Corinthians 15:58</td></tr>
@@ -425,7 +512,8 @@
 <tr><td style="width:15%;" valign="top">Alma 43:10</td><td style="width:35%;" valign="top">…worship God in spirit and in truth…</td><td style="width:35%;" valign="top">…worship him in spirit and in truth.</td><td style="width:15%;" valign="top">John 4:24</td></tr>
 <tr><td style="width:15%;" valign="top">Alma 58:40</td><td style="width:35%;" valign="top">…stand fast in that liberty wherewith God has made them free…</td><td style="width:35%;" valign="top">Stand fast therefore in the liberty wherewith Christ hath made us free…</td><td style="width:15%;" valign="top">Galatians 5:1</td></tr>
 </table>
-<h2 id="helaman-52-1-bc">Helaman (52-1 BC)</h2>
+<h2 id="helaman-52-1-bc">Helaman (52-1 BC)<a class="zola-anchor" href="#helaman-52-1-bc" aria-label="Anchor link for: helaman-52-1-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Helaman 3:29</td><td style="width:35%;" valign="top">…the word of God, which is quick and powerful, which shall divide asunder…</td><td style="width:35%;" valign="top">…the word of God is quick, and powerful…even to the dividing asunder of soul and spirit…</td><td style="width:15%;" valign="top">Hebrews 4:12</td></tr>
 <tr><td style="width:15%;" valign="top">Helaman 3:30</td><td style="width:35%;" valign="top">…at the right hand of God in the kingdom of heaven, to sit down with Abraham, and Isaac, and with Jacob…</td><td style="width:35%;" valign="top">…shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.</td><td style="width:15%;" valign="top">Matthew 8:11</td></tr>
@@ -451,7 +539,8 @@
 <tr><td style="width:15%;" valign="top">Helaman 15:5</td><td style="width:35%;" valign="top">…and they do walk circumspectly…</td><td style="width:35%;" valign="top">See then that ye walk circumspectly…</td><td style="width:15%;" valign="top">Ephesians 5:15</td></tr>
 <tr><td style="width:15%;" valign="top">Helaman 16:14</td><td style="width:35%;" valign="top">And angels did appear unto men, wise men, and did declare unto them glad tidings of great joy…</td><td style="width:35%;" valign="top">And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy…</td><td style="width:15%;" valign="top">Luke 2:10</td></tr>
 </table>
-<h2 id="3-nephi-1-35-ad">3 Nephi (1-35 AD)</h2>
+<h2 id="3-nephi-1-35-ad">3 Nephi (1-35 AD)<a class="zola-anchor" href="#3-nephi-1-35-ad" aria-label="Anchor link for: 3-nephi-1-35-ad"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">3 Nephi 1:13</td><td style="width:35%;" valign="top">…the time is at hand…</td><td style="width:35%;" valign="top">…the time is at hand.</td><td style="width:15%;" valign="top">Revelation 22:10</td></tr>
 <tr><td style="width:15%;" valign="top">3 Nephi 1:25</td><td style="width:35%;" valign="top">…that one jot or tittle should not pass away till it should all be fulfilled…</td><td style="width:35%;" valign="top">…one jot or one tittle shall in no wise pass from the law, till all be fulfilled.</td><td style="width:15%;" valign="top">Matthew 5:18</td></tr>
@@ -526,14 +615,16 @@
 <tr><td style="width:15%;" valign="top">3 Nephi 28:29</td><td style="width:35%;" valign="top">…all nations, kindreds, tongues and people…</td><td style="width:35%;" valign="top">…every nation, and kindred, and tongue, and people,</td><td style="width:15%;" valign="top">Revelation 14:6</td></tr>
 <tr><td style="width:15%;" valign="top">3 Nephi 28:31</td><td style="width:35%;" valign="top">…all people must surely stand before the judgment-seat of Christ;</td><td style="width:35%;" valign="top">…we must all appear before the judgment seat of Christ;</td><td style="width:15%;" valign="top">2 Corinthians 5:10</td></tr>
 </table>
-<h2 id="4-nephi-36-321-ad">4 Nephi (36-321 AD)</h2>
+<h2 id="4-nephi-36-321-ad">4 Nephi (36-321 AD)<a class="zola-anchor" href="#4-nephi-36-321-ad" aria-label="Anchor link for: 4-nephi-36-321-ad"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">4 Nephi 1:3</td><td style="width:35%;" valign="top">…they had all things common…</td><td style="width:35%;" valign="top">…and had all things common;</td><td style="width:15%;" valign="top">Acts 2:44</td></tr>
 <tr><td style="width:15%;" valign="top">4 Nephi 1:3</td><td style="width:35%;" valign="top">…bond and free…</td><td style="width:35%;" valign="top">…neither bond nor free…</td><td style="width:15%;" valign="top">Galatians 3:28</td></tr>
 <tr><td style="width:15%;" valign="top">4 Nephi 1:3</td><td style="width:35%;" valign="top">…partakers of the heavenly gift.</td><td style="width:35%;" valign="top">…tasted of the heavenly gift, and were made partakers…</td><td style="width:15%;" valign="top">Hebrews 6:4</td></tr>
 <tr><td style="width:15%;" valign="top">4 Nephi 1:30</td><td style="width:35%;" valign="top">…were rent in twain…</td><td style="width:35%;" valign="top">…was rent in twain…</td><td style="width:15%;" valign="top">Matthew 27:51</td></tr>
 </table>
-<h2 id="mormon-322-421-ad">Mormon (322-421 AD)</h2>
+<h2 id="mormon-322-421-ad">Mormon (322-421 AD)<a class="zola-anchor" href="#mormon-322-421-ad" aria-label="Anchor link for: mormon-322-421-ad"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Mormon 3:15</td><td style="width:35%;" valign="top">Vengeance is mine, and I will repay…</td><td style="width:35%;" valign="top">…Vengeance is mine; I will repay…</td><td style="width:15%;" valign="top">Romans 12:19</td></tr>
 <tr><td style="width:15%;" valign="top">Mormon 3:20</td><td style="width:35%;" valign="top">…ye must all stand before the judgment-seat of Christ…and ye must stand to be judged of your works, whether they be good or evil;</td><td style="width:35%;" valign="top">For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.</td><td style="width:15%;" valign="top">2 Corinthians 5:10</td></tr>
@@ -554,7 +645,8 @@
 <tr><td style="width:15%;" valign="top">Mormon 9:29</td><td style="width:35%;" valign="top">…endure to the end…</td><td style="width:35%;" valign="top">…endure unto the end…</td><td style="width:15%;" valign="top">Matthew 24:13</td></tr>
 <tr><td style="width:15%;" valign="top">Mormon 9:29</td><td style="width:35%;" valign="top">…will in nowise be cast out.</td><td style="width:35%;" valign="top">…will in no wise cast out.</td><td style="width:15%;" valign="top">John 6:37</td></tr>
 </table>
-<h2 id="ether-2200-600-bc">Ether (2200-600 BC)</h2>
+<h2 id="ether-2200-600-bc">Ether (2200-600 BC)<a class="zola-anchor" href="#ether-2200-600-bc" aria-label="Anchor link for: ether-2200-600-bc"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Ether 4:11</td><td style="width:35%;" valign="top">…the manifestations of my Spirit…</td><td style="width:35%;" valign="top">…the manifestation of the Spirit…</td><td style="width:15%;" valign="top">1 Corinthians 12:7</td></tr>
 <tr><td style="width:15%;" valign="top">Ether 4:18</td><td style="width:35%;" valign="top">…he that believeth and is baptized shall be saved; but he that believeth not shall be damned…</td><td style="width:35%;" valign="top">He that believeth and is baptized shall be saved; but he that believeth not shall be damned.</td><td style="width:15%;" valign="top">Mark 16:16</td></tr>
@@ -566,7 +658,8 @@
 <tr><td style="width:15%;" valign="top">Ether 12:11</td><td style="width:35%;" valign="top">…God prepared a more excellent way…</td><td style="width:35%;" valign="top">…yet show I unto you a more excellent way.</td><td style="width:15%;" valign="top">1 Corinthians 12:31</td></tr>
 <tr><td style="width:15%;" valign="top">Ether 12:35</td><td style="width:35%;" valign="top">…and take away their talent…</td><td style="width:35%;" valign="top">Take therefore the talent from him…</td><td style="width:15%;" valign="top">Matthew 25:28</td></tr>
 </table>
-<h2 id="moroni-400-421-ad">Moroni (400-421 AD)</h2>
+<h2 id="moroni-400-421-ad">Moroni (400-421 AD)<a class="zola-anchor" href="#moroni-400-421-ad" aria-label="Anchor link for: moroni-400-421-ad"><i class="fas fa-link"></i></a> 
+</h2>
 <table>
 <tr><td style="width:15%;" valign="top">Moroni 6:1</td><td style="width:35%;" valign="top">…brought forth fruit meet that they were worthy…</td><td style="width:35%;" valign="top">Bring forth therefore fruits meet for repentance…</td><td style="width:15%;" valign="top">Matthew 3:8</td></tr>
 <tr><td style="width:15%;" valign="top">Moroni 6:2</td><td style="width:35%;" valign="top">…a broken heart and a contrite spirit…</td><td style="width:35%;" valign="top">…a broken spirit: a broken and a contrite heart…</td><td style="width:15%;" valign="top">Psalms 51:17</td></tr>
@@ -618,16 +711,15 @@
 <tr><td style="width:15%;" valign="top">Moroni 10:34</td><td style="width:35%;" valign="top">…the Eternal Judge of both quick and dead…</td><td style="width:35%;" valign="top">…the Judge of quick and dead.</td><td style="width:15%;" valign="top">Acts 10:42</td></tr>
 </table>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -642,105 +734,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

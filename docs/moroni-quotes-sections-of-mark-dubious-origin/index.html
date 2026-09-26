@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Moroni quotes sections of Mark that are of dubious origin | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Moroni quotes sections of Mark that are of dubious origin | A Careful Examination</title>
+<meta property="og:title" content="Moroni quotes sections of Mark that are of dubious origin | A Careful Examination" />
+<meta name="twitter:title" content="Moroni quotes sections of Mark that are of dubious origin | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/moroni-quotes-sections-of-mark-dubious-origin/">
-  
+  <meta property="og:url" content="/a_careful_examination/moroni-quotes-sections-of-mark-dubious-origin/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Moroni quotes sections of Mark that are of dubious origin</h1>
@@ -102,35 +218,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#the-verses-in-question">The verses in question</a></li>
-        
-          <li><a href="#the-problem">The problem</a></li>
-        
-          <li><a href="#arguments-for-authenticity">Arguments for authenticity</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-          <li><a href="#references">References:</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-          <li><a href="#acknowledgements">Acknowledgements</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>Many <a href="/a_careful_examination/bom-parallels-to-1800s-thought/">theological anachronisms exist in the Book of Mormon</a>, but among the most problematic is the quotation of the end of the book of Mark by Moroni.</p>
-<h3 id="the-verses-in-question">The verses in question</h3>
+  
+  
+
+  <div class="post-content">
+    <p>Many <a href="/a_careful_examination/bom-parallels-to-1800s-thought/">theological anachronisms exist in the Book of Mormon</a>, but among the most problematic is the quotation of the end of the book of Mark by Moroni.</p>
+<h3 id="the-verses-in-question">The verses in question<a class="zola-anchor" href="#the-verses-in-question" aria-label="Anchor link for: the-verses-in-question"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Moroni, son of Mormon, finishes the record of his father Mormon by quoting a message of Jesus Christ to “his disciples who should tarry.”  Mormon says, in <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/bofm/morm/9.22-24?lang=eng">Mormon 9:22–24</a>:</p>
 <blockquote>
 <p>22 For behold, thus said Jesus Christ, the Son of God, unto his disciples who should tarry, yea, and also to all his disciples, in the hearing of the multitude: <strong>Go ye into all the world, and preach the gospel to every creature</strong>;</p>
@@ -155,7 +249,8 @@
 <p>18 <strong>They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.</strong></p>
 </blockquote>
 <p><em>Phrases that match <em>exactly</em> between the Book of Mormon and Mark 16 have been emboldened above.</em></p>
-<h3 id="the-problem">The problem</h3>
+<h3 id="the-problem">The problem<a class="zola-anchor" href="#the-problem" aria-label="Anchor link for: the-problem"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The appearance of these verses in the Book of Mormon is problematic because the scholarly consensus is that these versus were part of a later addition to the end of the book of Mark.  This later addition (of which verses 15–18 are a part):</p>
 <ol>
 <li>
@@ -198,7 +293,8 @@
 </li>
 </ol>
 <p>James Tabor color-codes the end of Mark to demonstrate where the author of the forged ending <a rel="external" href="https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/">pulled material</a> (i.e., from Matthew, Luke, and John) and where they likely provided original material.</p>
-<h3 id="arguments-for-authenticity">Arguments for authenticity</h3>
+<h3 id="arguments-for-authenticity">Arguments for authenticity<a class="zola-anchor" href="#arguments-for-authenticity" aria-label="Anchor link for: arguments-for-authenticity"><i class="fas fa-link"></i></a> 
+</h3>
 <p>There are some who defend the longer ending to one degree or another.  Latter-day Saint scholars have pointed these out:</p>
 <ul>
 <li><a rel="external" href="https://knowhy.bookofmormoncentral.org/knowhy/why-does-part-of-the-long-ending-of-mark-show-up-in-the-book-of-mormon">Why Does Part of the Long Ending of Mark Show Up in the Book of Mormon?</a></li>
@@ -211,9 +307,11 @@
 <li>Comments on /r/AcademicBiblical from <a rel="external" href="https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxu9e2t/">pseudorhetorician</a> and quotations of <a rel="external" href="https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxwujr8/">Metzger</a> and <a rel="external" href="https://www.reddit.com/r/AcademicBiblical/comments/hpvbvx/whats_your_opinion_on_mark_16920/fxubhhv/">N.T. Wright</a></li>
 <li><a rel="external" href="http://www.pentecostaltheology.com/bruce-metzger-on-the-shorter-ending-of-mark/">Bruce Metzger on the shorter ending of Mark</a> (followed by an opposing perspective by F.H.A. Scrivener)</li>
 </ul>
-<h3 id="conclusion">Conclusion</h3>
+<h3 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Moroni states that Jesus spoke to the disciples in the New World using the exact verbiage from a section of Mark that most scholars believe is a later addition to the book of Mark.  If the original ending of Mark is indeed spurious, then such an occurrence may be dismissed in a number of ways: perhaps Joseph was merely playing loose with the translation in that instance (<a rel="external" href="https://www.reddit.com/r/exmormon/comments/398r83/how_deuteroisaiah_ended_up_in_the_book_of_mormon/">like with deutero-Isaiah</a>) or perhaps the later addition was <em>somehow</em> reflective of words Jesus actually spoke in the New World.<sup class="footnote-reference" id="fr-mormondialogue-1"><a href="/a_careful_examination/moroni-quotes-sections-of-mark-dubious-origin/#fn-mormondialogue">[2]</a></sup>  Regardless, a dubious ending would add some weight to the modern origin model of the Book of Mormon and somewhat undermine an ancient origin model.  However, given that there is some disagreement among scholars on the authenticity of the ending of Mark though, conclusions based on this scholarship alone should probably be considered tentative.</p>
-<h3 id="references">References:</h3>
+<h3 id="references">References:<a class="zola-anchor" href="#references" aria-label="Anchor link for: references"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li><a rel="external" href="https://web.archive.org/web/20180923143548/https://publications.mi.byu.edu/fullscreen/?pub=1471&amp;index=5">A Text-Critical Comparison of the King James New Testament with Certain Modern Translations</a>. Studies in the Bible and Antiquity: vol 3, Article 5. BYU religion scholar Lincoln Blumell.</li>
 <li><a rel="external" href="https://en.wikipedia.org/wiki/Mark_16">wikipedia: Mark 16</a></li>
@@ -223,12 +321,14 @@
 <li><a rel="external" href="https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/">The “Strange” Ending of the Gospel of Mark and Why It Makes All the Difference</a></li>
 <li>Heard through <a rel="external" href="https://www.reddit.com/r/exmormon/comments/721659/convince_me/dnfvwjy/">this comment</a>.</li>
 </ol>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.ldsdiscussions.com/mark">The Long Ending of Mark and the Book of Mormon</a> (ldsdiscussions)</li>
 <li><a href="/a_careful_examination/bom-parallels-to-1800s-thought/">Book of Mormon parallels to 1800s thought</a></li>
 </ul>
-<h3 id="acknowledgements">Acknowledgements</h3>
+<h3 id="acknowledgements">Acknowledgements<a class="zola-anchor" href="#acknowledgements" aria-label="Anchor link for: acknowledgements"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Larry Hurtado’s defense was brought to my attention by ImTheMarmotKing.  David Miller’s essay was brought to my attention through <a rel="external" href="http://web.archive.org/web/20210526214836/http://www.conflictofjustice.com/book-of-mormon-addition-mark-16/">an article by Conflict of Justice</a>
 on the long ending of Mark and the Book of Mormon.</p>
 <p><em>published on <a rel="external" href="https://www.reddit.com/r/mormonscholar/comments/75hvyj/moroni_quotes_sections_of_mark_that_are_of/">mormonscholar on 2017-10-10</a></em></p>
@@ -253,16 +353,15 @@ on the long ending of Mark and the Book of Mormon.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -277,105 +376,9 @@ on the long ending of Mark and the Book of Mormon.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

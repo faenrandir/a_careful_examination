@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Martha Brotherton and the Five Ironies | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Martha Brotherton and the Five Ironies | A Careful Examination</title>
+<meta property="og:title" content="Martha Brotherton and the Five Ironies | A Careful Examination" />
+<meta name="twitter:title" content="Martha Brotherton and the Five Ironies | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/martha-brotherton-and-the-five-ironies/">
-  
+  <meta property="og:url" content="/a_careful_examination/martha-brotherton-and-the-five-ironies/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Martha Brotherton and the Five Ironies</h1>
@@ -107,13 +223,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>[<strong>VERY ROUGH DRAFT</strong>]</p>
-<h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <p>[<strong>VERY ROUGH DRAFT</strong>]</p>
+<h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Five individuals—Joseph Smith, Heber C. Kimball, Elizabeth Brotherton, Parley P. Pratt, and Brigham Young—each besmirched the character of Martha Brotherton in relation to her claim that she was propositioned for a polygamous marriage by Brigham Young, aided by Heber C. Kimball and Joseph Smith.  However, the actions of these five individuals—who either were practicing polygamy at the time of their denunciations or would go on to participate in polygamy—would ultimately vindicate the substance of Martha’s story and hence her character.  This document presents the denunciations and the events which would later prove those denunciations misinformed, hollow, or even highly ironic.</p>
-<h3 id="background">Background</h3>
+<h3 id="background">Background<a class="zola-anchor" href="#background" aria-label="Anchor link for: background"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Sometime early in 1842 (or possibly <a rel="external" href="https://www.millennialstar.org/who-was-john-mcilwrick/">in late 1841</a>), Martha Brotherton was, according to <a href="/a_careful_examination/martha-brotherton-affidavit/">the affidavit that would be published in mid 1842</a>, propositioned for marriage by Brigham Young.</p>
 <p>The affidavit laid out the series of events leading up to and comprising the
 proposition.  The following key points are made:</p>
@@ -148,28 +267,35 @@ proposition.  The following key points are made:</p>
 <p>Pres’t. J. Smith spoke upon the subject of the stories respecting Elder Kimball and others, showing the folly and inconsistency of spending any time in conversing about such stories or hearkening to them, for <em>there is no person that is acquainted with our principles would believe such lies</em>, except Sharp the editor of the “Warsaw Signal.”</p>
 </blockquote>
 <p>With the help of John C. Bennett (initiated by him?), Martha prepared <a href="/a_careful_examination/martha-brotherton-affidavit/">an affidavit which would be published in a number of newspapers</a>.  Although the affidavit was prepared with the help of John C. Bennett, it seems to have been a truthful telling, <a rel="external" href="https://www.reddit.com/r/mormonscholar/comments/5xv15u/the_joseph_smithpolygamywomen_locked_in_a_room/">at least in contour</a><sup class="footnote-reference" id="fr-hales-1"><a href="/a_careful_examination/martha-brotherton-and-the-five-ironies/#fn-hales">[1]</a></sup></p>
-<h3 id="the-character-assasination">The Character Assasination</h3>
+<h3 id="the-character-assasination">The Character Assasination<a class="zola-anchor" href="#the-character-assasination" aria-label="Anchor link for: the-character-assasination"><i class="fas fa-link"></i></a> 
+</h3>
 <p>[detail the affidavit against Bennett focusing on Brotherton]</p>
-<h4 id="heber-c-kimball">Heber C. Kimball</h4>
+<h4 id="heber-c-kimball">Heber C. Kimball<a class="zola-anchor" href="#heber-c-kimball" aria-label="Anchor link for: heber-c-kimball"><i class="fas fa-link"></i></a> 
+</h4>
 <p>[need to discuss]</p>
-<h4 id="elizabeth-brotherton">Elizabeth Brotherton</h4>
+<h4 id="elizabeth-brotherton">Elizabeth Brotherton<a class="zola-anchor" href="#elizabeth-brotherton" aria-label="Anchor link for: elizabeth-brotherton"><i class="fas fa-link"></i></a> 
+</h4>
 <p>To counteract the material that would be published in Bennet’s Exposé in late 1842, affidavits undermining the credibility of Martha Brotherton and others were gathered <a href="/a_careful_examination/martha-brotherton-affidavit/">and published</a>.</p>
 <p>Among those whose testimony was enlisted to besmirch Martha’s character was Elizabeth Brotherton.  Elizabeth would sign her name to the testimony of John McIlwrick, husband of Martha and Elizabeth’s other sister, Mary (emphasis added):</p>
 <blockquote>
 <p>I do know that the sister of my wife, Martha Brotherton, <strong>is a deliberate liar, and also a wilful inventor of lies</strong>; and that she has also to my certain knowledge at sundry times, <strong>circulated lies of a base kind</strong>, concerning those whom she knew to be innocent of what she alleged against them. She has also stooped to many actions which would be degrading to persons of common decency, such as lying on the top of a young man when he was in bed, and seeking Aristotle’s work from a young seaman’s box. …</p>
 </blockquote>
 <p>Of course, the various LDS leaders had vigorously denied accusations of polygamy and seemed to have completely dismissed the rumors spread about the Brotherton proposition, so it seems reasonable for Elizabeth to side with Church leaders in calling Martha a liar.</p>
-<h4 id="parley-p-pratt">Parley P. Pratt</h4>
+<h4 id="parley-p-pratt">Parley P. Pratt<a class="zola-anchor" href="#parley-p-pratt" aria-label="Anchor link for: parley-p-pratt"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Later in the same year Parley P. Pratt would write a scathing article condemning Brotherton in the Millenial Star (he doesn’t mention her by name, but it’s clearly referring to her) as a liar and talking about how it was such a lie that the Brethren would be practicing polygamy. Within 2 years, Elizabeth would become PPP’s plural wife, and in 1870 Elizabeth would stand in proxy for Martha to be sealed to BY as a plural wife for eternity. So, Martha was the only person who had been telling the truth, but her name had been dragged through the mud by everyone, including her sister who, at least at the time, didn’t know any better. Eventually her sister and PPP had to eat major crow in both entering into a polygamous marriage with one another. And BY comes off looking like a liar and a long-distance sexual predator when he ends up sealing himself to Brotherton in the end anyway. You couldn’t make this stuff up. [I have links to all the first hand sources on all this if needed]</p>
-<h4 id="joseph-smith">Joseph Smith</h4>
+<h4 id="joseph-smith">Joseph Smith<a class="zola-anchor" href="#joseph-smith" aria-label="Anchor link for: joseph-smith"><i class="fas fa-link"></i></a> 
+</h4>
 <p>As mentioned, Smith denounced the rumours and then was responsible for the spreading of the affidavits against Brotherton’s character.  Smith had [X] wives by the time the affidavits against Bennett were published.</p>
-<h4 id="brigham-young">Brigham Young</h4>
+<h4 id="brigham-young">Brigham Young<a class="zola-anchor" href="#brigham-young" aria-label="Anchor link for: brigham-young"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Brigham Young would testify in <a href="/a_careful_examination/affidavits-against-bennets-letters-brotherton-focus/">the affidavits against Bennett</a> (emphasis added):</p>
 <blockquote>
 <p>I do hereby testify that the affidavit of Miss Martha Brotherton that is going the rounds in the political and religious papers, <strong>is a base falsehood, with regard to any private intercourse or unlawful conduct or conversation with me</strong>.</p>
 </blockquote>
 <p>[would eventually seal Brotherton to himself]</p>
-<h3 id="vindication">Vindication</h3>
+<h3 id="vindication">Vindication<a class="zola-anchor" href="#vindication" aria-label="Anchor link for: vindication"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I’m unaware of anyone ever apologizing to Martha Brotherton.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -179,16 +305,15 @@ proposition.  The following key points are made:</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -203,105 +328,9 @@ proposition.  The following key points are made:</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

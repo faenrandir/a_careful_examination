@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Perhaps asking whether the Church is a cult is not the best question? | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Perhaps asking whether the Church is a cult is not the best question? | A Careful Examination</title>
+<meta property="og:title" content="Perhaps asking whether the Church is a cult is not the best question? | A Careful Examination" />
+<meta name="twitter:title" content="Perhaps asking whether the Church is a cult is not the best question? | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/asking-if-its-a-cult-is-wrong-question/">
-  
+  <meta property="og:url" content="/a_careful_examination/asking-if-its-a-cult-is-wrong-question/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Perhaps asking whether the Church is a cult is not the best question?</h1>
@@ -98,45 +214,31 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#historical-background">Historical Background</a></li>
-        
-          <li><a href="#academics-today">Academics today</a></li>
-        
-          <li><a href="#do-academics-still-discuss-cult-ish-aspects">Do academics still discuss “cult-ish” aspects?</a></li>
-        
-          <li><a href="#conclusion">Conclusion</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>It is common for individuals to invoke the BITE model and other cultic research, showing how the LDS Church fits many (but not necessarily all) of those criteria, and then wondering if the LDS Church ought to be categorized as “a cult” (<a rel="external" href="https://www.reddit.com/r/mormon/comments/g1janh/lets_discuss_cults_and_the_bite_model/">for example</a>). While that exercise may be useful in some ways (e.g., better understanding group influence and potential manipulation), the underlying question of whether an organization is a “cult” may not be the best focus from an academic perspective. Arguments about whether an organization is a “cult” are foundationally suspect on some level because the legitimacy of the cult research movement as an academic enterprise itself is somewhat suspect—most researchers of the psychology and sociology of religion today would not consider the exercise of classifying a group as a “cult” particularly valid or helpful.</p>
-<h3 id="historical-background">Historical Background</h3>
+<h3 id="historical-background">Historical Background<a class="zola-anchor" href="#historical-background" aria-label="Anchor link for: historical-background"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Some background on the cultic research movement is helpful.  There was a crescendo of academic and intellectual thought from the 60s and on into the 1980s thinking about what constituted a cult and discussing cultic behavior.  This included the work of Robert J. Lifton, Margaret Singer, John G. Clark, Jr., and Stanley H. Cath (e.g., as discussed in <a rel="external" href="https://www.culteducation.com/brainwashing/3256-the-psychology-of-the-cult-experiences.html">this New York Times article</a> from 1982).</p>
 <p>All of this research and focus culminated in the creation of the DIMPAC report (with the well-respected Margaret Singer at the helm) in 1986.  BUT, in 1987 the APA Board of Social and Ethical Responsibility for Psychology (BSERP) <strong>rejected</strong> the DIMPAC report (See <a rel="external" href="https://en.wikipedia.org/wiki/APA_Task_Force_on_Deceptive_and_Indirect_Methods_of_Persuasion_and_Control">the wikipedia page</a> for a summary).</p>
 <p>At that point, those who still wanted to pursue study in the vein of the DIMPAC report rallied together and created their own journals,  scientific societies, and conferences, and they become the counter-cult movement.  Hassan fits within this movement, as does Michael Langone, who summarizes the history of this split <a rel="external" href="https://www.icsahome.com/articles/the-two-camps-of-cultic-studies-langone">here</a>.</p>
 <p>Everyone else studying psychology and sociology seems to have <em>dropped</em> counter-cult studies, and counter-cult studies have never regained scientific credibility on any large scale. Besides one publication by Hassan,<sup class="footnote-reference" id="fr-exceptions-1"><a href="/a_careful_examination/asking-if-its-a-cult-is-wrong-question/#fn-exceptions">[1]</a></sup> there are only a few peripheral counter-cult studies that have made it into respectable journals, and these do not represent main-stream counter-cult research.</p>
-<h3 id="academics-today">Academics today</h3>
+<h3 id="academics-today">Academics today<a class="zola-anchor" href="#academics-today" aria-label="Anchor link for: academics-today"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Most psychologists of religion refer to “cults” as “new religious movements” and they are not even <em>trying</em> to classify or study cults in the same manner as the counter-cultists.  They just see new religious movements as one manifestation of a common human experience, with some NRMs being more harmful or totalistic than others.</p>
-<h3 id="do-academics-still-discuss-cult-ish-aspects">Do academics still discuss “cult-ish” aspects?</h3>
+<h3 id="do-academics-still-discuss-cult-ish-aspects">Do academics still discuss “cult-ish” aspects?<a class="zola-anchor" href="#do-academics-still-discuss-cult-ish-aspects" aria-label="Anchor link for: do-academics-still-discuss-cult-ish-aspects"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Yes.</p>
 <p>Most professors will use something like “social learning” to discuss behavior in new religious movements (and maybe the LDS Church is no longer even an NRM since it is not so new anymore).  They still discuss things like indoctrination, levels of totalism, and the <em>kinds</em> of socialization that happen in the LDS Church, but those efforts have little to do with classifying the institution as a “cult” or using the BITE model.<sup class="footnote-reference" id="fr-my_experience-1"><a href="/a_careful_examination/asking-if-its-a-cult-is-wrong-question/#fn-my_experience">[2]</a></sup></p>
 <p>Although it is not my primary field of study (my academic work has been primarily in the hard sciences), I endeavored to analyze ways in which the LDS Church culture and programs act to retain members using social learning as the underlying paradigm:<sup class="footnote-reference" id="fr-academic_validation-1"><a href="/a_careful_examination/asking-if-its-a-cult-is-wrong-question/#fn-academic_validation">[3]</a></sup></p>
 <p><a rel="external" href="https://faenrandir.github.io/a_careful_examination/lds-indoctrination-and-retentive-socialization/">LDS Indoctrination and Retentive Socialization</a></p>
 <p>Many Latter-day Saints have read that document and responded with something like “so what,” but that only underscores the validity of this approach: An academic characterization of a religious movement should ring true to the lived experience of its adherents and seek to be as objective as possible regarding various helps and harms that a person might experience.</p>
-<h3 id="conclusion">Conclusion</h3>
+<h3 id="conclusion">Conclusion<a class="zola-anchor" href="#conclusion" aria-label="Anchor link for: conclusion"><i class="fas fa-link"></i></a> 
+</h3>
 <p>There <em>are</em> interesting ways that totalism and retentive socialization happen in the LDS Church, but that is not <em>necessarily</em> a bad thing because <em>everyone</em> is being socialized in so many different ways as parts of so many different groups in their life.  We should be able to objectively discuss these various behaviors and cultural features and acknowledge that some of it is likely to be helpful and some of it may be harmful to some adherents.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -152,16 +254,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -176,105 +277,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

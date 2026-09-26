@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Missouri Garden of Eden Problem | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The Missouri Garden of Eden Problem | A Careful Examination</title>
+<meta property="og:title" content="The Missouri Garden of Eden Problem | A Careful Examination" />
+<meta name="twitter:title" content="The Missouri Garden of Eden Problem | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/missouri-garden-of-eden-problem/">
-  
+  <meta property="og:url" content="/a_careful_examination/missouri-garden-of-eden-problem/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The Missouri Garden of Eden Problem</h1>
@@ -98,12 +214,14 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <p>Introduction</p>
+  
+  
+
+  <div class="post-content">
+    <p>Introduction</p>
 <p>The Church teaches that Adam and Eve left the Garden of Eden and went to Missouri, USA. A couple of early Church leaders taught that the Garden of Eden was in Jackson County (or Independence), Missouri but one stated that its location was unknown.</p>
-<h3 id="current-teachings">Current teachings</h3>
+<h3 id="current-teachings">Current teachings<a class="zola-anchor" href="#current-teachings" aria-label="Anchor link for: current-teachings"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>
 <p>The recently leaked <a rel="external" href="https://mormonleaks.io/wiki/index.php?title=File:Guideline_Responses_to_Common_Questions.pdf">Guideline Responses to Common Questions</a> is given to all General Authorities upon accepting their assignment. It contains the following response to the question “Was the Garden of Eden in Missouri?”</p>
@@ -112,8 +230,10 @@
 </blockquote>
 </li>
 </ol>
-<h2 id="other">Other</h2>
-<h3 id="historic-sites-adam-ondi-ahman">historic sites: Adam-ondi-Ahman</h3>
+<h2 id="other">Other<a class="zola-anchor" href="#other" aria-label="Anchor link for: other"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="historic-sites-adam-ondi-ahman">historic sites: Adam-ondi-Ahman<a class="zola-anchor" href="#historic-sites-adam-ondi-ahman" aria-label="Anchor link for: historic-sites-adam-ondi-ahman"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The page for <a rel="external" href="https://www.churchofjesuschrist.org/learn/historic-sites/missouri/adam-ondi-ahman?lang=eng">Adam-ondi-Ahman</a> states:</p>
 <blockquote>
 <p>An 1835 revelation identified the valley of Adam-ondi-Ahman as the place where Adam blessed his posterity after leaving the Garden of Eden (see <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.53-57?lang=eng#p53">Doctrine and Covenants 107:53–57</a>).</p>
@@ -141,21 +261,25 @@
 <blockquote>
 <p>1835 revelation identified valley of Adam-ondi-Ahman as place where Adam blessed his posterity after leaving Garden of Eden.</p>
 </blockquote>
-<h2 id="differing-statements-on-location-of-the-garden">Differing statements on location of the Garden</h2>
+<h2 id="differing-statements-on-location-of-the-garden">Differing statements on location of the Garden<a class="zola-anchor" href="#differing-statements-on-location-of-the-garden" aria-label="Anchor link for: differing-statements-on-location-of-the-garden"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Two early LDS leaders identified Jackson County (and in one case Independence,
 specifically) as the location of the Garden of Eden, but Orson Pratt was not
 committed to a particular location.</p>
-<h3 id="in-jackson-county-missouri">In Jackson County, Missouri</h3>
+<h3 id="in-jackson-county-missouri">In Jackson County, Missouri<a class="zola-anchor" href="#in-jackson-county-missouri" aria-label="Anchor link for: in-jackson-county-missouri"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Brigham Young’s history records him saying:<sup class="footnote-reference" id="fr-brigham_young_to_orson_hyde-1"><a href="/a_careful_examination/missouri-garden-of-eden-problem/#fn-brigham_young_to_orson_hyde">[1]</a></sup></p>
 <blockquote>
 <p>You have been both to Jerusalem and Zion, and seen both. I have not seen either, for I have never been in Jackson County. Now it is a pleasant thing to think of and to know where the Garden of Eden was. Did you ever think of it? I do not think many do, for in Jackson County was the Garden of Eden. Joseph has declared this, and I am as much bound to believe that as to believe that Joseph was a prophet of God.</p>
 </blockquote>
-<h3 id="in-independence-missouri">In Independence, Missouri</h3>
+<h3 id="in-independence-missouri">In Independence, Missouri<a class="zola-anchor" href="#in-independence-missouri" aria-label="Anchor link for: in-independence-missouri"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In <a rel="external" href="https://jod.mrm.org/10/233">an 1863 discourse</a>, Heber C. Kimball identified Independence, Missouri, in Jackson County, as the location of the Garden of Eden proper:</p>
 <blockquote>
 <p>… And I will say more, the spot chosen for the garden of Eden was Jackson County, in the State of Missouri, where Independence now stands; it was occupied in the morn of creation by Adam and his associates who came with him for the express purpose of peopling this earth. …</p>
 </blockquote>
-<h3 id="exact-location-unknown">Exact location unknown</h3>
+<h3 id="exact-location-unknown">Exact location unknown<a class="zola-anchor" href="#exact-location-unknown" aria-label="Anchor link for: exact-location-unknown"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In <a rel="external" href="https://jod.mrm.org/18/57">an address in 1875</a>, Elder Orson Pratt described the location of the Garden of Eden as “unknown”:</p>
 <blockquote>
 <p>… Says one—“Do you mean to say that America was inhabited before the flood?” Yes, Adam dwelt on this continent. I do not know that the Garden of Eden was here, but we know from what God has revealed to us, that before Adam closed his days he dwelt on a certain portion of this continent with a great number of the righteous. All the righteous that lived on this continent before the flood, those who lived upon this continent who were righteous, who came from the Tower of Babel after the flood, and lived here some sixteen hundred years, before the nation was destroyed. …</p>
@@ -168,16 +292,15 @@ committed to a particular location.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -192,105 +315,9 @@ committed to a particular location.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

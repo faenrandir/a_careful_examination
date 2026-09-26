@@ -1,10 +1,13 @@
 {% extends "base.html" %}
 
+{% block title -%}
+<title>{{page.title}} | {{config.title}}</title>
+<meta property="og:title" content="{{page.title}} | {{config.title}}" />
+<meta name="twitter:title" content="{{page.title}} | {{config.title}}" />
+{%- endblock title %}
+
 {% block content %}
 <article class="post">
-  {% set toc_items = page.toc %}
-  {% set toc_has_items = toc_items | length > 4 %}
-
   <header class="post-header">
     {% if page.taxonomies.categories is defined and "resource" in page.taxonomies.categories %}
       <h1 class="resource-post-title">{{ page.title }}</h1>
@@ -52,23 +55,44 @@
     {% endif %}
   </header>
 
-  <div class="post-content-wrapper">
-    {% if toc_has_items %}
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
+  {# Inline table of contents (pickles-style). Opt-in only: Zola
+     auto-generates `page.toc` from the page's headings; this box is rendered
+     solely when the page sets `extra.toc = true` in its front matter. #}
+  {% if page.toc and page.extra.toc -%}
+  <div class="toc" data-pagefind-ignore>
+    <strong>Contents</strong>
+    <div>
+      <nav id="TableOfContents">
         <ul>
-        {% for item in toc_items %}
-          <li><a href="#{{ item.id }}">{{ item.title }}</a></li>
+        {% for h1 in page.toc %}
+          <li>
+            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+            {% if h1.children %}
+            <ul>
+            {% for h2 in h1.children %}
+              <li>
+                <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                {% if h2.children %}
+                <ul>
+                {% for h3 in h2.children %}
+                  <li><a href="{{ h3.permalink | safe }}">{{ h3.title }}</a></li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
         {% endfor %}
         </ul>
       </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    {% endif %}
-    <div class="post-content">
-      {{ page.content | safe }}
     </div>
+  </div>
+  {%- endif %}
+
+  <div class="post-content">
+    {{ page.content | safe }}
   </div>
 </article>
 {% endblock content %}

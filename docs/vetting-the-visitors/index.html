@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vetting (potentially) divine visitors | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Vetting (potentially) divine visitors | A Careful Examination</title>
+<meta property="og:title" content="Vetting (potentially) divine visitors | A Careful Examination" />
+<meta name="twitter:title" content="Vetting (potentially) divine visitors | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/vetting-the-visitors/">
-  
+  <meta property="og:url" content="/a_careful_examination/vetting-the-visitors/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Vetting (potentially) divine visitors</h1>
@@ -93,41 +209,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#draft-outline">Draft outline</a></li>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#signal-processing">Signal processing</a></li>
-        
-          <li><a href="#subjective-and-objective-experience">Subjective and objective experience</a></li>
-        
-          <li><a href="#potential-for-good">Potential for good</a></li>
-        
-          <li><a href="#potential-for-harm">Potential for harm</a></li>
-        
-          <li><a href="#the-tests">The Tests</a></li>
-        
-          <li><a href="#precedent-and-equivalencies">Precedent and equivalencies</a></li>
-        
-          <li><a href="#conclusions">Conclusions</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[VERY ROUGH DRAFT]</p>
-<h2 id="draft-outline">Draft outline</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[VERY ROUGH DRAFT]</p>
+<h2 id="draft-outline">Draft outline<a class="zola-anchor" href="#draft-outline" aria-label="Anchor link for: draft-outline"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Signal processing and information theory: Distinguishing between 3rd party and auto-generated signals</p>
 <ul>
 <li>People claim to be communicating with 3rd parties</li>
@@ -145,7 +233,8 @@
 <li>Does the entity have any special insight to offer?</li>
 <li>Is the entity interested in our (collective) well-being?</li>
 </ul>
-<h2 id="introduction">Introduction</h2>
+<h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Some people claim to be communicating with (typically receiving messages from) a 3rd party which is thought to have an independent, 3rd party, existence from the observer.  These can be classified as:</p>
 <ul>
 <li><strong>Spiritual-like</strong>: Communication with “God”, the “Holy Spirit” (aka Holy Ghost), or perhaps some other entity which is not observed to have any corporeal form (e.g., the vague <em>presence</em> of a deceased relative).</li>
@@ -153,10 +242,12 @@
 </ul>
 <p>We know that humans are capable of autogenerating experience which seems objectively real to the recipient but is not thought to be objectively real based on observations of 3rd parties.  So, the primary question for those experiencing spiritual or corporeal-like communication is:</p>
 <p><strong>Is this communication objectively real, or is my mind auto-generating it in some fashion?</strong></p>
-<h2 id="signal-processing">Signal processing</h2>
+<h2 id="signal-processing">Signal processing<a class="zola-anchor" href="#signal-processing" aria-label="Anchor link for: signal-processing"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The scientific field of signal processing has been studying the problem of extracting legitimate signal from a noisy background for decades (<a rel="external" href="https://dsp.stackexchange.com/a/2105">for example</a>).  The Receiver operating characteristic plot is designed to show transmission of genuine signal across a broad range of receptor sensitivities. Data is traditionally displayed in a way that acknowledges that all signal is not always received or interpreted correctly—when the receptor is calibrated to be more sensitive, then more false positives will naturally occur, but when the receptor is calibrated to be less sensitive to avoid false positives, then more false negatives (i.e., dropped signal).</p>
 <p>…</p>
-<h2 id="subjective-and-objective-experience">Subjective and objective experience</h2>
+<h2 id="subjective-and-objective-experience">Subjective and objective experience<a class="zola-anchor" href="#subjective-and-objective-experience" aria-label="Anchor link for: subjective-and-objective-experience"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Our personal, subjective experience mediates our interaction with what seems to us an interpersonal, objective reality.  Most humans classify their experiences into two main categories:</p>
 <ol>
 <li>Fully or mostly subjective: experiences which are not likely to be directly shared by or directly impact others (e.g., dreams and drug-induced hallucinations) and tend not to involve a persistent substrate (e.g., dreams on consecutive nights may occupy vastly different landscapes)</li>
@@ -170,10 +261,12 @@
 <p>I discuss the hallmarks of objectivity (information content, orthogonality, transmissability, and reproducibility) in <a rel="external" href="https://www.reddit.com/r/mormon/comments/f8watk/does_god_have_a_spleen_when_we_are_resurrected/fkiw2mn/">this comment</a>.</p>
 <p>Because the line between subjective and objective experience is not always clear, it is possible for humans to believe they are communicating with a being which exists external to them, when in reality they are communicating subjectively<sup class="footnote-reference" id="fr-subjectivecommunication-1"><a href="/a_careful_examination/vetting-the-visitors/#fn-subjectivecommunication">[1]</a></sup>.  Fully XXXXX % of individuals hallucinate and a significant portion of the population experiences hallucinations of such vividness that they are not able to distinguish them from an objective reality (XXXX add source XXXX).</p>
 <p>…</p>
-<h2 id="potential-for-good">Potential for good</h2>
+<h2 id="potential-for-good">Potential for good<a class="zola-anchor" href="#potential-for-good" aria-label="Anchor link for: potential-for-good"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Communication with an omniscient being has the potential to produce much good.  For instance, a purported ‘mysterious voice’ <a rel="external" href="https://www.nydailynews.com/news/national/mysterious-voice-leads-police-baby-car-crash-article-1.2142732">led Utah cops to discover a child in need</a>. [gather more examples of potential for good]</p>
 <p>And even a modest amount of communication from an omniscient being at the right moment might prevent large numbers of <a rel="external" href="https://www.nbcnews.com/health/health-news/medical-mistakes-harm-more-1-10-patients-many-are-preventable-n1030996">avoidable medical tragedies</a>, <a rel="external" href="https://www.nbcnews.com/health/health-news/utah-woman-bled-death-garbage-can-during-botched-heart-surgery-n1031856">for example</a>.</p>
-<h2 id="potential-for-harm">Potential for harm</h2>
+<h2 id="potential-for-harm">Potential for harm<a class="zola-anchor" href="#potential-for-harm" aria-label="Anchor link for: potential-for-harm"><i class="fas fa-link"></i></a> 
+</h2>
 <p>At best, mistaking 1st party communication with 3rd party communication is somewhat equivalent to making decisions after an internal monologue—we would hope that whatever subconcious part of our brain responsible for manifesting an apparent 3rd party experience is wise and benevolent.  However, stories abound of those who claimed they were communicating with a 3rd party and the communication encouraged violent or destructive behavior.  While these individuals reported that they were communicating with God, believers might suggest they were <em>actually</em> communicating with enemies of God or confusing their own voice with God’s [footnote Oak’s discussion on that]:</p>
 <ul>
 <li><a rel="external" href="https://www.upi.com/Top_News/2009/02/12/Dad-God-told-me-to-kill-my-son/71281234475937/?ur3=1">Dad: God told me to kill my son</a></li>
@@ -185,7 +278,8 @@
 </ul>
 <p>Believing that <em>others</em> (such as the leader of a new religious movement) are transmitting messages from a divine being can result in <a rel="external" href="https://www.culteducation.com/group/850-bride-of-christ-a-sa-waldau/1027-gods-text-messages-told-me-to-kill-.html">similar consequences</a>.</p>
 <p>While the above are extreme examples, there are many less extreme.  For instance, some have experienced distress when a patriarchal blessing (which potentially indicates future events) is <a rel="external" href="https://thirdhour.org/blog/faith/priesthood-blessing-doesnt-come-true/">not fulfilled in the manner expected</a>.</p>
-<h3 id="the-agentic-state">The agentic state</h3>
+<h3 id="the-agentic-state">The agentic state<a class="zola-anchor" href="#the-agentic-state" aria-label="Anchor link for: the-agentic-state"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://en.wikipedia.org/wiki/Milgram_experiment">Milgram’s experiments</a> suggest two conditions for a person to allow others to direct their actions and pass off responsibility to the one giving the orders, referred to as the “agentic state”.  These <a rel="external" href="https://www.simplypsychology.org/milgram.html">two conditions</a> are:</p>
 <ol>
 <li>The authority figure giving orders must be viewed as <strong>qualified</strong> to direct others.</li>
@@ -193,34 +287,41 @@
 </ol>
 <p>Divine beings, embodied or not, and/or their leadership proxies are typically viewed as being qualified to direct the communicant and are implicitly viewed as accepting responsibility for the outcome.  Hence, communication or purported communication with divine beings may be prone to generating outcomes of greater magnitude than might otherwise be possible with a person acting on their own direct thought processes.</p>
 <p>Milgram’s agentic state theory helps explain—even if it is a person’s own mind somehow auto-generating the communication—how a 3rd person divine perspective makes a person susceptible to performing actions in an agentic state that they might never commit were they simply acting under the influence of their own direct thoughts, for good or ill.</p>
-<h2 id="the-tests">The Tests</h2>
+<h2 id="the-tests">The Tests<a class="zola-anchor" href="#the-tests" aria-label="Anchor link for: the-tests"><i class="fas fa-link"></i></a> 
+</h2>
 <p>As discussed above, there is potential for great good if 3rd party communication is genuine and with an entity of greater intelligence and benevolence, and conversely, there is potential for great harm to occur from mistaking 1st party communication with 3rd party communication, or worse receiving communication from a malicious being of some intelligence.  Given the stakes, we seem justified in seeking ways to understand the objectivity, intelligence, and benevolence of such a visitor or impression.</p>
 <p>There are some reasonable ways to test for objective existence and omniscience.  I will also propose that a test for benevolence ought to be conducted and passed before submitting to potential 3rd party suggestions, but I am uncertain what that test ought to be.</p>
-<h3 id="test-for-objective-existence">Test for objective existence</h3>
+<h3 id="test-for-objective-existence">Test for objective existence<a class="zola-anchor" href="#test-for-objective-existence" aria-label="Anchor link for: test-for-objective-existence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Does this being have an objective existence?</p>
 <ul>
 <li><strong>Is it disembodied?</strong>  Then validate with a <a href="/a_careful_examination/test-for-disembodied-consciousness/">test for disembodied consciousness</a>.</li>
 <li><strong>Can it communicate?</strong>  Validate with <a href="/a_careful_examination/divine-visitor-identity-problem/#high-entropy-information-transmission">a high-information transmission test</a>.</li>
 <li><strong>Can others see it?</strong>  Validate with a test of independent <a href="/a_careful_examination/divine-visitor-identity-problem/#copious-details">visitor details</a>.</li>
 </ul>
-<h3 id="test-for-potential-omniscience">Test for potential omniscience</h3>
+<h3 id="test-for-potential-omniscience">Test for potential omniscience<a class="zola-anchor" href="#test-for-potential-omniscience" aria-label="Anchor link for: test-for-potential-omniscience"><i class="fas fa-link"></i></a> 
+</h3>
 <p>An omniscient entity can potentially guide us in innumerable ways towards paths of safety and peace (assuming their omnibenevolence), but beings with roughly the same intelligence as ourselves may not be any better at determining optimal paths of safety and peace for us.  Hence, seeking to vet the intelligence of a 3rd party seems reasonable.</p>
 <p>Is the entity omniscient or do they claim to be able to communicate with an omniscient being?  The only being capable of an <em>exhaustive</em> test of omniscience would be an omniscient being (and in that case it would be unnecessary), but we can test a minimum threshold.  In other words, we can propose a test that should eliminate 100% of standard human thought that is not associated with true omniscience.  Hence, the test is most useful for weeding out claimants rather than establishing complete omniscience <em>per se</em>.</p>
 <p>The <a href="/a_careful_examination/simple-test-for-prophetic-ability/">test for prophetic ability</a> is geared towards interaction with a human that claims access one aspect of omniscience (the ability to see the future), but it could be adapted towards interaction with almost any divine visitor, disembodied or not.</p>
-<h3 id="test-for-omnibenevolence">Test for omnibenevolence</h3>
+<h3 id="test-for-omnibenevolence">Test for omnibenevolence<a class="zola-anchor" href="#test-for-omnibenevolence" aria-label="Anchor link for: test-for-omnibenevolence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>If one is dealing with a subjective projection of a divine being (rather than an actual divine being), the first two questions should be sufficient to eliminate such a projection as being objectively real and/or omniscient.  If genuine 3rd party divinities do not exist, the tests will end there.</p>
 <p>In the off chance that a being passes tests of objectivity and omniscience, a communicant should still be interested in establishing the being’s benevolence.  Unfortunately, I am not aware of <em>any</em> tests that one might conduct against a being of superior intelligence that would lend incontrovertible insight into the ultimate benevolence of that being.</p>
 <p>An ultra-intelligent being purporting to be acting in the best interests of a communicant seems capable of fooling the communicant until some future point when they reveal that they were acting maliciously or capriciously all along, say, setting the communicant up for greater degrees of suffering than would have been possible otherwise.</p>
 <p>It does seem like, at a minimum, the question should be broached: what evidence can you provide to convince me that you are a being of true benevolence?</p>
 <p>Ultimately, trust in their benevolence might need to be earned just as it is in human relationships—through multiple interactions over a long period of time.  But until it is earned, it is reasonable to be cautious given the potential for harm that exists due to the intelligence imbalance in the relationship.</p>
-<h2 id="precedent-and-equivalencies">Precedent and equivalencies</h2>
+<h2 id="precedent-and-equivalencies">Precedent and equivalencies<a class="zola-anchor" href="#precedent-and-equivalencies" aria-label="Anchor link for: precedent-and-equivalencies"><i class="fas fa-link"></i></a> 
+</h2>
 <p>See <a href="/a_careful_examination/divine-visitor-identity-problem/#precedent-in-lds-history">Precedent in LDS history</a></p>
 <p>Latter-day Saint leadership circumscribes divine communiction (do not seek revelation contrary, reject revelation that is not in harmony, do not seek and also discard revelation beyond one’s stewardship.)</p>
 <p>…</p>
-<h2 id="conclusions">Conclusions</h2>
+<h2 id="conclusions">Conclusions<a class="zola-anchor" href="#conclusions" aria-label="Anchor link for: conclusions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>…</p>
 <p><a rel="external" href="https://www.youtube.com/watch?v=x9sqkahSziU">What does God need with a starship?</a></p>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Confirmation bias</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -228,16 +329,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -252,105 +352,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

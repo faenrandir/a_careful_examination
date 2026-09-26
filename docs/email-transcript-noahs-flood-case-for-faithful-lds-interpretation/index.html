@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>email transcript: “Noah&#39;s flood: the case for a faithful LDS interpretation as a local flood” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>email transcript: “Noah&#39;s flood: the case for a faithful LDS interpretation as a local flood” | A Careful Examination</title>
+<meta property="og:title" content="email transcript: “Noah&#39;s flood: the case for a faithful LDS interpretation as a local flood” | A Careful Examination" />
+<meta name="twitter:title" content="email transcript: “Noah&#39;s flood: the case for a faithful LDS interpretation as a local flood” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/email-transcript-noahs-flood-case-for-faithful-lds-interpretation/">
-  
+  <meta property="og:url" content="/a_careful_examination/email-transcript-noahs-flood-case-for-faithful-lds-interpretation/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">email transcript: “Noah&#39;s flood: the case for a faithful LDS interpretation as a local flood”</h1>
@@ -98,61 +214,74 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h3 id="foreword">Foreword</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="foreword">Foreword<a class="zola-anchor" href="#foreword" aria-label="Anchor link for: foreword"><i class="fas fa-link"></i></a> 
+</h3>
 <p>On April 17, 2014 at 4:32PM, I sent this email to four of my research students at BYU (3 grad students and one undergrad) who I thought might appreciate it, all of my siblings, and to my parents.</p>
 <p>It is indicative of the kind of research I was doing in reconciling issues with a faithful LDS perspective but also how some of the conclusions I reached during that quest led me to seriously consider the hypothesis that much of LDS doctrine—my faith transition occurred when I finally concluded it was likely all—was simply a product of an earlier cultural milieu.  This was not the first time I had noticed or relied upon <a href="/a_careful_examination/george-mccready-price-inspired-ndbf/">milieu transferance</a> in finding LDS faithful reconciliations between science and LDS doctrine (see discussions <a href="/a_careful_examination/evidence-of-humans-r-gary-exchange/">here</a> and <a href="/a_careful_examination/1910-priesthood-quorums-table-r-gary-exchange/">here</a>).</p>
 <p>My research into the origin in LDS thought of the Flood as the Earth’s baptism
 culminated with this document:  <a href="/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/">The Flood as the Earth’s Baptism: origin in LDS thought</a></p>
 <hr />
 <p>[Transcript]</p>
-<h2 id="subject-noah-s-flood-the-case-for-a-faithful-lds-interpretation-as-a-local-flood">Subject: Noah’s flood: the case for a faithful LDS interpretation as a local flood</h2>
+<h2 id="subject-noah-s-flood-the-case-for-a-faithful-lds-interpretation-as-a-local-flood">Subject: Noah’s flood: the case for a faithful LDS interpretation as a local flood<a class="zola-anchor" href="#subject-noah-s-flood-the-case-for-a-faithful-lds-interpretation-as-a-local-flood" aria-label="Anchor link for: subject-noah-s-flood-the-case-for-a-faithful-lds-interpretation-as-a-local-flood"><i class="fas fa-link"></i></a> 
+</h2>
 <p>If you are getting this email, it means I’ve probably talked to you at some time in the past about this and am thinking you might be interested in seeing the argument with at least some documentation and structure.  Some points are not documented well here but that’s just because there is no quick and easy link (and/or some things are hard to show/prove with a simple link).</p>
 <p>These are ideas still in embryo and this presentation is very rough and in very short form (I have many pages of documentation and quotes)  At some point when this is more refined I’ll probably promulgate it in a serious way.  Until then, please be sensible about how and with whom you share it (at least if you associate it with me or Ron Harris).  I would love to hear your reaction and/or thoughts/comments after you read it if you want to share them.</p>
-<h3 id="short-intro">Short Intro</h3>
+<h3 id="short-intro">Short Intro<a class="zola-anchor" href="#short-intro" aria-label="Anchor link for: short-intro"><i class="fas fa-link"></i></a> 
+</h3>
 <p>[in very condensed, rough form]</p>
 <p>The scientific argument against a global flood is substantial (I just spoke with Ron Harris from the Geology dept today and he was also emphatic about this).  You can find these arguments all over the internet.</p>
 <p>I’m not arguing that Noah’s flood didn’t happen (I believe in Noah and the flood story).  There is strong evidence for a major cataclysm in the Mesopotamian region around 2300BC that decimated most of the cultures there.  And, humans dealt with massive floods during the recession of the last ice age (so flooding up until about 6000 BC).  There are also other good candidates for Noah’s (local) flood (e.g. the Black Sea).</p>
 <p>How well does a local flood story work within a faithful LDS framework?  Quite well.  In fact, I think there is a far better case to be found within our doctrine that the flood was local than that the flood was global.  This is something Joseph Smith got right (or at least God did in inspiring Joseph as he received the Inspired version of the Bible (e.g. Book of Moses)).</p>
 <p>Argument for a local flood from a faithful LDS perspective</p>
-<h3 id="a-the-scope-of-the-flood">A. The Scope of the Flood</h3>
-<h4 id="a1-the-book-of-moses-supports-a-local-scope">A1. The Book of Moses supports a local scope.</h4>
+<h3 id="a-the-scope-of-the-flood">A. The Scope of the Flood<a class="zola-anchor" href="#a-the-scope-of-the-flood" aria-label="Anchor link for: a-the-scope-of-the-flood"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="a1-the-book-of-moses-supports-a-local-scope">A1. The Book of Moses supports a local scope.<a class="zola-anchor" href="#a1-the-book-of-moses-supports-a-local-scope" aria-label="Anchor link for: a1-the-book-of-moses-supports-a-local-scope"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Earth should be translated “land” in the flood account.  This is explicitly supported by <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.29?lang=eng">Moses 1:29</a>, and also in the use of close-word-modifiers in the original Hebrew.  “eretz” is never qualified in the flood story of Genesis (or “earth” in the flood story of the Book of Moses) in a way to indicate that the flood should be interpreted in a global sense.</p>
-<h4 id="a2-promises-of-remnant-preservation-don-t-make-sense-with-a-global-flood">A2. Promises of remnant preservation don’t make sense with a Global flood.</h4>
+<h4 id="a2-promises-of-remnant-preservation-don-t-make-sense-with-a-global-flood">A2. Promises of remnant preservation don’t make sense with a Global flood.<a class="zola-anchor" href="#a2-promises-of-remnant-preservation-don-t-make-sense-with-a-global-flood" aria-label="Anchor link for: a2-promises-of-remnant-preservation-don-t-make-sense-with-a-global-flood"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The promise made to Enoch/Noah in <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/pgp/moses/7.22?lang=eng">Moses 7:22</a> makes no sense if Noah and his families were sole survivors of a global flood.  <a rel="external" href="http://maxwellinstitute.byu.edu/publications/transcripts/I00073-Before_Adam.html">Nibley makes this point eloquently</a></p>
-<h4 id="a3-the-author-of-the-flood-story-clearly-had-limited-perspective">A3. The author of the flood story <a rel="external" href="http://scottwoodward.org/flood_noahspointofview.html">clearly had limited perspective</a>.</h4>
-<h3 id="b-baptism-of-the-earth">B. Baptism of the Earth</h3>
+<h4 id="a3-the-author-of-the-flood-story-clearly-had-limited-perspective">A3. The author of the flood story <a rel="external" href="http://scottwoodward.org/flood_noahspointofview.html">clearly had limited perspective</a>.<a class="zola-anchor" href="#a3-the-author-of-the-flood-story-clearly-had-limited-perspective" aria-label="Anchor link for: a3-the-author-of-the-flood-story-clearly-had-limited-perspective"><i class="fas fa-link"></i></a> 
+</h4>
+<h3 id="b-baptism-of-the-earth">B. Baptism of the Earth<a class="zola-anchor" href="#b-baptism-of-the-earth" aria-label="Anchor link for: b-baptism-of-the-earth"><i class="fas fa-link"></i></a> 
+</h3>
 <p>If you suggest a local flood, the major object from Latter-Day Saints will be that the flood represented the baptism of the earth.  This idea requires closer examination.</p>
-<h4 id="b1-baptism-of-the-earth-not-a-uniquely-lds-idea">B1. Baptism of the Earth not a uniquely “LDS” idea.</h4>
+<h4 id="b1-baptism-of-the-earth-not-a-uniquely-lds-idea">B1. Baptism of the Earth not a uniquely “LDS” idea.<a class="zola-anchor" href="#b1-baptism-of-the-earth-not-a-uniquely-lds-idea" aria-label="Anchor link for: b1-baptism-of-the-earth-not-a-uniquely-lds-idea"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The doctrine is taught or hinted at in some form by the Catholic church (catechism paragraphs <a rel="external" href="http://www.scborromeo.org/ccc/para/845.htm">845</a> and <a rel="external" href="http://www.scborromeo.org/ccc/para/1219.htm">1219</a>) and Martin Luther, and was espoused by many of the early church fathers including Justin Martyr, Chrysostom, Augustine, and John of Damascus.</p>
-<h4 id="b2-orson-pratt-probably-picked-up-the-doctrine-while-in-england">B2. Orson Pratt probably picked up the doctrine while in England.</h4>
+<h4 id="b2-orson-pratt-probably-picked-up-the-doctrine-while-in-england">B2. Orson Pratt probably picked up the doctrine while in England.<a class="zola-anchor" href="#b2-orson-pratt-probably-picked-up-the-doctrine-while-in-england" aria-label="Anchor link for: b2-orson-pratt-probably-picked-up-the-doctrine-while-in-england"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The idea that the flood was a needed baptism for the Earth was initially <a rel="external" href="https://archive.org/details/waterbaptismorso00prat">promulgated within the LDS tradition by Orson Pratt</a> and was likely seeded by Orson Pratt’s potential exposure to those <a rel="external" href="http://anglicanhistory.org/england/misc/evans_dove1848.html">teachings in England</a> (Pratt was a mission president stationed in England when it was being taught there). [note: it turns out that W.W. Phelps was first to teach it <a rel="external" href="https://rsc.byu.edu/let-us-reason-together/was-noahs-flood-baptism-earth">some years before Orson Pratt</a>, but Pratt may have been the one to popularize the idea in the LDS tradition.  Also, Pratt may have been exposed to the idea <a rel="external" href="https://faenrandir.github.io/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/">elsewhere</a>.]</p>
 <p>Elder Pratt, while highly respected by the other Brethren for his broad learning, was also officially censured for much of the doctrine he espoused.</p>
-<h4 id="b3-baptism-of-the-earth-not-official-or-revealed-lds-doctrine">B3. Baptism of the Earth not official or revealed LDS doctrine.</h4>
+<h4 id="b3-baptism-of-the-earth-not-official-or-revealed-lds-doctrine">B3. Baptism of the Earth not official or revealed LDS doctrine.<a class="zola-anchor" href="#b3-baptism-of-the-earth-not-official-or-revealed-lds-doctrine" aria-label="Anchor link for: b3-baptism-of-the-earth-not-official-or-revealed-lds-doctrine"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The doctrine was never claimed to have been received by revelation and has never been taught as official doctrine.</p>
 <p>According to what is documented, Orson Pratt taught Baptism of the Earth before any President of the Church.  Neither Elder Pratt, Brigham Young, or John Taylor claimed the idea to be revelation or official doctrine.  In fact, it is  presented with an air of conjecture in several cases.</p>
-<h4 id="b4-the-earth-has-no-need-for-baptism">B4. The earth has no need for baptism</h4>
+<h4 id="b4-the-earth-has-no-need-for-baptism">B4. The earth has no need for baptism<a class="zola-anchor" href="#b4-the-earth-has-no-need-for-baptism" aria-label="Anchor link for: b4-the-earth-has-no-need-for-baptism"><i class="fas fa-link"></i></a> 
+</h4>
 <p>The earth seems always to obey (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/bofm/hel/12.7-13?lang=eng">Helaman 12:7-13</a>) [credit to Ron Harris for this point]</p>
 <p>Although it can be countered that Christ had no need for baptism and he submitted to baptism anyway, also consider:</p>
 <ul>
 <li>Must the earth be married and/or receive the priesthood for exaltation?</li>
 <li>We believe animals will receive some kind of exaltation: must each animal be baptized to receive its exaltation?</li>
 </ul>
-<h4 id="b5-baptismal-symbolism-still-applicable-without-global-immersion">B5. Baptismal symbolism still applicable without global “immersion”</h4>
+<h4 id="b5-baptismal-symbolism-still-applicable-without-global-immersion">B5. Baptismal symbolism still applicable without global “immersion”<a class="zola-anchor" href="#b5-baptismal-symbolism-still-applicable-without-global-immersion" aria-label="Anchor link for: b5-baptismal-symbolism-still-applicable-without-global-immersion"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Paul spoke of the children of Israel being “baptized” as they walked through the Red Sea,  (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/nt/1-cor/10.2?lang=eng">1 Cor 10:2</a>) even though they walked through on “dry ground” (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/ot/ex/14.29?lang=eng">Exodus 14:29</a>).</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -167,105 +296,9 @@ culminated with this document:  <a href="/a_careful_examination/flood-as-baptism
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

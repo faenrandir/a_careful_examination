@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Flood as the Earth&#39;s Baptism: origin in LDS thought | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>The Flood as the Earth&#39;s Baptism: origin in LDS thought | A Careful Examination</title>
+<meta property="og:title" content="The Flood as the Earth&#39;s Baptism: origin in LDS thought | A Careful Examination" />
+<meta name="twitter:title" content="The Flood as the Earth&#39;s Baptism: origin in LDS thought | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/">
-  
+  <meta property="og:url" content="/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">The Flood as the Earth&#39;s Baptism: origin in LDS thought</h1>
@@ -93,41 +209,24 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#foreword">Foreword</a></li>
-        
-          <li><a href="#abstract">Abstract</a></li>
-        
-          <li><a href="#timeline">Timeline</a></li>
-        
-          <li><a href="#the-case-for-transmission-from-existing-sources">The case for transmission from existing sources</a></li>
-        
-          <li><a href="#sources-and-notes">Sources and Notes</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="foreword">Foreword</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="foreword">Foreword<a class="zola-anchor" href="#foreword" aria-label="Anchor link for: foreword"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Shortly after I posted this analysis to reddit, an article on the topic was published by Paul Hoskisson and Stephen Smoot: <a rel="external" href="https://rsc.byu.edu/es/archived/let-us-reason-together/was-noah-s-flood-baptism-earth">Was Noah’s Flood the Baptism of the Earth?</a>.  They pushed the earliest known usage back to W.W. Phelps. in 1835.  They confirm that the idea of the flood as Earth’s baptism was taught fairly widely in Protestantism and the role that Orson Pratt may have had in promulgating the idea among Latter-day Saints.<sup class="footnote-reference" id="fr-pratt_taught_it_multiple_times-1"><a href="/a_careful_examination/flood-as-baptism-origin-in-LDS-thought/#fn-pratt_taught_it_multiple_times">[1]</a></sup> The research presented below compliments their work since it is not clear where Pratt was first exposed to the idea and this demonstrates penetrance of the idea in sources that Pratt might have been exposed to.</p>
-<h3 id="abstract">Abstract</h3>
+<h3 id="abstract">Abstract<a class="zola-anchor" href="#abstract" aria-label="Anchor link for: abstract"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>The idea that Noah’s flood represented a baptism of the earth was recorded in at least three instances in the early 1800’s <em>before</em> it was ever taught by a Latter-day Saint.</li>
 <li>The first recorded instance of this teaching in LDS thought is from Orson Pratt, no earlier than 1851. [<em>correction: Pratt’s earliest recorded teaching was from 1851.  The principle was first taught, perhaps rhetorically, by W.W. Phelps in 1835.</em>]</li>
 <li>Circumstantial evidence (subject matter, association, date and location) suggests that Orson Pratt may have gleaned the idea from one or more of these existing Protestant sources. [<em>update</em>: it is also possible that he gleaned the idea from W.W. Phelps or Elder Lorenzo Snow who had also taught the ideabefore him.  In any event, Hoskisson and Smoot also point to the Protestant milieu as the likely source for the idea.]</li>
 </ul>
-<h3 id="timeline">Timeline</h3>
-<h4 id="non-lds-teaching-of-the-flood-as-baptism-of-the-earth-between-1800-and-1852-based-on-occurrences-of-the-phrase-baptism-of-the-earth-from-google-books-n-gram-viewer">Non-LDS teaching of the flood as baptism of the earth, between 1800 and 1852.  (based on occurrences of the phrase “baptism of the earth” from <a rel="external" href="https://books.google.com/ngrams/graph?content=baptism+of+the+earth&amp;year_start=1800&amp;year_end=2000&amp;corpus=15&amp;smoothing=0&amp;share=&amp;direct_url=t1%3B%2Cbaptism%20of%20the%20earth%3B%2Cc0">google books n-gram viewer</a>)</h4>
+<h3 id="timeline">Timeline<a class="zola-anchor" href="#timeline" aria-label="Anchor link for: timeline"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="non-lds-teaching-of-the-flood-as-baptism-of-the-earth-between-1800-and-1852-based-on-occurrences-of-the-phrase-baptism-of-the-earth-from-google-books-n-gram-viewer">Non-LDS teaching of the flood as baptism of the earth, between 1800 and 1852.  (based on occurrences of the phrase “baptism of the earth” from <a rel="external" href="https://books.google.com/ngrams/graph?content=baptism+of+the+earth&amp;year_start=1800&amp;year_end=2000&amp;corpus=15&amp;smoothing=0&amp;share=&amp;direct_url=t1%3B%2Cbaptism%20of%20the%20earth%3B%2Cc0">google books n-gram viewer</a>)<a class="zola-anchor" href="#non-lds-teaching-of-the-flood-as-baptism-of-the-earth-between-1800-and-1852-based-on-occurrences-of-the-phrase-baptism-of-the-earth-from-google-books-n-gram-viewer" aria-label="Anchor link for: non-lds-teaching-of-the-flood-as-baptism-of-the-earth-between-1800-and-1852-based-on-occurrences-of-the-phrase-baptism-of-the-earth-from-google-books-n-gram-viewer"><i class="fas fa-link"></i></a> 
+</h4>
 <p><strong>1829</strong> Bethany, West Virginia, Alexander Campbell, leader of the Campbellite movement of which many early Mormons had been a part</p>
 <blockquote>
 <p>there should never be a second baptism of the earth…So after Noah was born of water, he was begotten again unto a lively hope by the promise of God.</p>
@@ -140,7 +239,8 @@
 <blockquote>
 <p>the baptism of the earth… Noah knew that the baptism of the earth had done its work</p>
 </blockquote>
-<h4 id="earliest-lds-teaching-of-the-flood-as-baptism-of-the-earth">Earliest LDS teaching of the flood as baptism of the earth</h4>
+<h4 id="earliest-lds-teaching-of-the-flood-as-baptism-of-the-earth">Earliest LDS teaching of the flood as baptism of the earth<a class="zola-anchor" href="#earliest-lds-teaching-of-the-flood-as-baptism-of-the-earth" aria-label="Anchor link for: earliest-lds-teaching-of-the-flood-as-baptism-of-the-earth"><i class="fas fa-link"></i></a> 
+</h4>
 <p><strong>1852</strong> Elder Orson Pratt <a rel="external" href="https://jod.mrm.org/1/280">stated</a>: “The Lord ordained baptism, or immersion of the earth in water, as a justifying ordinance.”</p>
 <p><strong>1851-1854?</strong> Orson Pratt <a rel="external" href="https://jod.mrm.org/1/328">stated</a> - “As man becomes a new creature by being born again, first of water … in the same manner the earth becomes a new earth by being born again of these cleansing and purifying elements.”</p>
 <p><strong>1853</strong> President Brigham Young <a rel="external" href="https://jod.mrm.org/1/264">stated</a> - “The Lord said, ‘I will deluge (or immerse) the earth in water for the remission of the sins of the people’”</p>
@@ -149,12 +249,14 @@
 <p><strong>1880</strong> Orson Pratt <a rel="external" href="https://jod.mrm.org/21/319">stated</a> - “Another great change happened nearly two thousand years after the earth was made. It was baptized by water. A great flow of water came, the great deep was broken up, the windows of heaven were opened from on high, and the waters prevailed upon the face of the earth, sweeping away all wickedness and transgression—a similitude of baptism for the remission of sins.”</p>
 <p><strong>1884</strong> John Taylor <a rel="external" href="https://jod.mrm.org/26/66">stated</a> - “That is, the earth was immersed. It was a period of baptism.”</p>
 <p><strong>1885</strong> Orson F. Whitney <a rel="external" href="https://jod.mrm.org/26/260">stated</a>- “The earth underwent a baptism by being immersed in water”</p>
-<h3 id="the-case-for-transmission-from-existing-sources">The case for transmission from existing sources</h3>
+<h3 id="the-case-for-transmission-from-existing-sources">The case for transmission from existing sources<a class="zola-anchor" href="#the-case-for-transmission-from-existing-sources" aria-label="Anchor link for: the-case-for-transmission-from-existing-sources"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Orson was the first Latter-day Saint on record to preach the doctrine of the Flood being a baptism of the Earth.  In addition, Orson was looked to as a leading theologian in the church.  Hence, if Orson taught it, then it is likely to have spread from him (i.e., rather than being independently discovered by other leaders).</p>
 <p>All three Protestant sources for the doctrine were likely accessible and of interest to Orson Pratt.</p>
 <p>Orson’s older brother Parley had been strongly influenced by Sidney Rigdon and the Campbellites and a significant number of influential leaders in the church had been Campbellites.  Many LDS doctrines/practices are similar to those of the Campbellite movement.  In the King Follett discourse, Joseph Smith mentions Alexander Campbell by name and seeks to point out his flawed thinking, thus suggesting a continued interchange of ideas between Mormons and Campbellites.  Hence, it seems plausible that Orson could have gleaned this teaching from the 1829 source or another Campbellite source.</p>
 <p>What about the two sources in London?  Orson Pratt served as the mission president of the British mission from 1848 to 1851.  “The Dove”, by Alfred Bowen Evans, was a final sermon taught and published by that influential preacher in 1848.  The book by Simon was concerned with providing evidence for the connection between the American Indians and the 10 tribes of Israel.  It is hard to imagine a source that would have been of more interest to Orson Pratt.  Hence, it seems plausible (likely?) that either the sermon by Evans or the book by Simon would have ended up in his hands while in England.</p>
-<h3 id="sources-and-notes">Sources and Notes</h3>
+<h3 id="sources-and-notes">Sources and Notes<a class="zola-anchor" href="#sources-and-notes" aria-label="Anchor link for: sources-and-notes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>1829, The Christian Baptist, Volume 7, “Ancient Baptisms”, pg 125 “that there should never be a second baptism of the earth…So after Noah was born of water, he was begotten again unto a lively hope by the promise of God.” <a rel="external" href="https://books.google.com/books?id=TugRAAAAIAAJ&amp;pg=PA125&amp;dq=%22baptism+of+the+earth%22&amp;hl=en&amp;sa=X&amp;ved=0CB4Q6AEwAGoVChMIs52ixMTAxwIVzTqSCh0nCwz1#v=onepage&amp;q=%22baptism%20of%20the%20earth%22&amp;f=false">google books</a></p>
 <p>1829, The HOPE of Israel; presumptive Evidence that the aborigines of the western hemisphere are descended from the ten missing tribes of Israel“, Barbara Anne Simon. London. “Noah preached repentance to the ante-diluvian generation, who turned a deaf ear to his prophetic warning: they and their works perished from the face of the earth, which survived its baptism.” <a rel="external" href="https://books.google.com/books?id=SSY7AAAAYAAJ&amp;pg=PA29&amp;dq=%22baptism+of+the+earth%22&amp;hl=en&amp;sa=X&amp;ved=0CC4Q6AEwA2oVChMIs52ixMTAxwIVzTqSCh0nCwz1#v=snippet&amp;q=%22which%20survived%20its%20baptism%22&amp;f=false">google books ref</a> “they are acquainted with the history of the deluge, the building of Babel, the predicted baptism of the earth by fire” <a rel="external" href="https://books.google.com/books?id=SSY7AAAAYAAJ&amp;pg=PA29&amp;dq=%22baptism+of+the+earth%22&amp;hl=en&amp;sa=X&amp;ved=0CC4Q6AEwA2oVChMIs52ixMTAxwIVzTqSCh0nCwz1#v=snippet&amp;q=%22baptism%20of%20the%20earth%22&amp;f=false">google books ref</a> A second printing in 1836 (http://www.ebornbooks.com/cgi-bin/dada/mail.cgi?flavor=archive;list=gen;id=20080820103941 retrieved 2015-08-23)</p>
 <p>1848, June 11th, Alfred Bowen Evans preaches a final sermon entitled, “The Dove, The Christian’s Pattern” in London.
@@ -173,7 +275,8 @@ He was probably an influential preacher given that 10 of his sermons are include
 </blockquote>
 <p>Neither of Orson’s sermons mentions the symbolism of the dove (dove being present at both baptisms).</p>
 <p>The teaching of the flood being a baptism of the earth was taught by some early Christian Fathers and is also embedded in some Catholic writings, but I could not find any routes where those sources would have been of interest and accesible to the early LDS church leaders.  Finally, the link of the flood to the earth’s baptism may be inferred from 1Peter 3:20, but it is not explicit there.</p>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://rsc.byu.edu/es/archived/let-us-reason-together/was-noah-s-flood-baptism-earth">Was Noah’s Flood the Baptism of the Earth?</a> which was published shortly after I wrote and published this document to reddit <a rel="external" href="https://www.reddit.com/r/mormon/comments/3n5386/the_flood_as_the_earths_baptism_origin_in_lds/">here</a>.</p>
 <p><em>edits: I added links to Journal of Discourse sources. An earlier version associated the 1875 Orson Whitney quote with John Taylor, and that has been corrected.  I originally included some discusssion of the amount of conjecture associated with each statement.  Since I have not done that exhaustively, I decided to remove the commentary on the level of conjecture.  It appeared when I was originally doing this research that the earliest statements were more conjectural than later statements, but that probably should be demonstrated with greator rigor.</em></p>
 <section class="footnotes">
@@ -184,16 +287,15 @@ He was probably an influential preacher given that 10 of his sermons are include
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -208,105 +310,9 @@ He was probably an influential preacher given that 10 of his sermons are include
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Adam “the first man of all men” and “father of all living in his day” | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Adam “the first man of all men” and “father of all living in his day” | A Careful Examination</title>
+<meta property="og:title" content="Adam “the first man of all men” and “father of all living in his day” | A Careful Examination" />
+<meta name="twitter:title" content="Adam “the first man of all men” and “father of all living in his day” | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/adam-and-eve-the-first-couple/">
-  
+  <meta property="og:url" content="/a_careful_examination/adam-and-eve-the-first-couple/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Adam “the first man of all men” and “father of all living in his day”</h1>
@@ -98,28 +214,35 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Official Latter-day Saint material states that:</p>
 <ol>
 <li>Adam was “the first man.”</li>
 <li>Adam (and Eve) were parents of “all living in [their] day.”</li>
 </ol>
-<h2 id="adam">Adam</h2>
-<h3 id="adam-father-of-all">Adam … father of all</h3>
-<h4 id="d-c-138-38">D&amp;C 138:38</h4>
+<h2 id="adam">Adam<a class="zola-anchor" href="#adam" aria-label="Anchor link for: adam"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="adam-father-of-all">Adam … father of all<a class="zola-anchor" href="#adam-father-of-all" aria-label="Anchor link for: adam-father-of-all"><i class="fas fa-link"></i></a> 
+</h3>
+<h4 id="d-c-138-38">D&amp;C 138:38<a class="zola-anchor" href="#d-c-138-38" aria-label="Anchor link for: d-c-138-38"><i class="fas fa-link"></i></a> 
+</h4>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng">Doctrine and Covenants 138:38</a> (emphasis added):</p>
 <blockquote>
 <p>Among the great and mighty ones who were assembled in this vast congregation of the righteous were Father Adam, the Ancient of Days and <strong>father of all</strong>,</p>
 </blockquote>
-<h4 id="d-c-27-11">D&amp;C 27:11</h4>
+<h4 id="d-c-27-11">D&amp;C 27:11<a class="zola-anchor" href="#d-c-27-11" aria-label="Anchor link for: d-c-27-11"><i class="fas fa-link"></i></a> 
+</h4>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng">Doctrine and Covenants 27:11</a> (emphasis added):<sup class="footnote-reference" id="fr-dc_father_of_all-1"><a href="/a_careful_examination/adam-and-eve-the-first-couple/#fn-dc_father_of_all">[1]</a></sup></p>
 <blockquote>
 <p>And also with Michael, or Adam, <strong>the father of all</strong>, the prince of all, the ancient of days;</p>
 </blockquote>
-<h3 id="the-father-of-all-living-in-his-day">the father of all living in his day</h3>
+<h3 id="the-father-of-all-living-in-his-day">the father of all living in his day<a class="zola-anchor" href="#the-father-of-all-living-in-his-day" aria-label="Anchor link for: the-father-of-all-living-in-his-day"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In a discourse at Commerce, Illinois in 1839, Joseph Smith stated (<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#full-transcript">as reported by Willard Richards</a>):</p>
 <blockquote>
 <p>The Priesthood was first given To Adam:[<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#13098032071122912127">1</a>] he obtained to the first Presidency &amp; held the Keys of it, from genration to Generation; he obtained it in the creation before the world was formed as in Gen. 1, 26:28,— he had dominion given him over every living Creature. He is Michael, the Archangel,[<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#10606848702767381358">2</a>] spoken of in the Scriptures,— Then to Noah who is Gabriel,[<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#9096373878426056181">3</a>] he stands next in authority to Adam in the Priesthood; he was called of God to this office &amp; was the Father of all living[<a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-between-circa-26-june-and-circa-4-august-1839-a-as-reported-by-willard-richards/1#5986523585739464886">4</a>] in his day, &amp; To him was Given the Dominion. These men held keys. first on earth, &amp; then in Heaven. …</p>
@@ -143,13 +266,15 @@ The Patriarchs</a></li>
 <li>Ensign, February 2014, <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/2014/02/noah?lang=eng">Old Testament Prophets, Noah</a></li>
 <li>Ensign, February 1998, <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/1998/02/noah-the-great-preacher-of-righteousness?lang=eng">Noah, The Great Preacher of Righteousness</a></li>
 </ul>
-<h3 id="first-man-of-all-men-and-primal-parent-of-our-race">First man of all men and primal parent of our race</h3>
+<h3 id="first-man-of-all-men-and-primal-parent-of-our-race">First man of all men and primal parent of our race<a class="zola-anchor" href="#first-man-of-all-men-and-primal-parent-of-our-race" aria-label="Anchor link for: first-man-of-all-men-and-primal-parent-of-our-race"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Ensign. 2002. <a rel="external" href="https://www.churchofjesuschrist.org/ensign/2002/02/the-origin-of-man?lang=eng">The Origin of Man</a>. By the First Presidency of the Church. From Improvement Era, Nov. 1909, 75–81:</p>
 <blockquote>
 <p>It is held by some that Adam was not the first man upon this earth, and that the original human being was a development from lower orders of the animal creation. These, however, are the theories of men. The word of the Lord declares that Adam was ‘the first man of all men’ (Moses 1:34), and we are therefore in duty bound to regard him as the primal parent of our race.</p>
 </blockquote>
 <p>The above is also reproduced in the Pearl of Great Price Teacher Manual, <a rel="external" href="https://www.churchofjesuschrist.org/manual/the-pearl-of-great-price-teacher-manual/the-book-of-moses?lang=eng">Moses 2:26–31: The Physical Creation of Man and Woman</a></p>
-<h3 id="adam-being-the-first-man">Adam being the first man …</h3>
+<h3 id="adam-being-the-first-man">Adam being the first man …<a class="zola-anchor" href="#adam-being-the-first-man" aria-label="Anchor link for: adam-being-the-first-man"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Marion G. Romney. General Conference, April, 1973. <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1973/04/man-a-child-of-god?lang=eng">Man—A Child of God</a>:</p>
 <blockquote>
 <p>Adam, the first man, knew that he was a son of God.</p>
@@ -163,8 +288,10 @@ The Patriarchs</a></li>
 <p>Who hath appointed Michael (Adam) your prince, and established his feet, and set him upon high, and given unto him the keys of salvation under the counsel and direction of the Holy One (Jesus Christ), who is without beginning of days or end of life. (Verse 16.)</p>
 </blockquote>
 </blockquote>
-<h2 id="eve">Eve</h2>
-<h3 id="consider-eve-the-mother-of-all-living">Consider Eve, the mother of all living</h3>
+<h2 id="eve">Eve<a class="zola-anchor" href="#eve" aria-label="Anchor link for: eve"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="consider-eve-the-mother-of-all-living">Consider Eve, the mother of all living<a class="zola-anchor" href="#consider-eve-the-mother-of-all-living" aria-label="Anchor link for: consider-eve-the-mother-of-all-living"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng">Daughters in the Covenant</a>:</p>
 <blockquote>
 <p>Consider Eve, the mother of all living. …</p>
@@ -172,21 +299,25 @@ The Patriarchs</a></li>
 <blockquote>
 <p>Of all the words they could have chosen to define her role and her essence, both God the Father and Adam called Eve “ the mother of all living “ – and they did so before she ever bore a child</p>
 </blockquote>
-<h2 id="adam-eve">Adam &amp; Eve</h2>
+<h2 id="adam-eve">Adam &amp; Eve<a class="zola-anchor" href="#adam-eve" aria-label="Anchor link for: adam-eve"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A number of manuals teach or strongly imply, in one form or another, that “we
 are all are descendants of Adam and Eve”.</p>
-<h3 id="we-are-all-descendants-of-adam-and-eve">We are all descendants of Adam and Eve</h3>
+<h3 id="we-are-all-descendants-of-adam-and-eve">We are all descendants of Adam and Eve<a class="zola-anchor" href="#we-are-all-descendants-of-adam-and-eve" aria-label="Anchor link for: we-are-all-descendants-of-adam-and-eve"><i class="fas fa-link"></i></a> 
+</h3>
 <p>New Era, October 2016, <a rel="external" href="https://www.churchofjesuschrist.org/study/new-era/2016/10/to-the-point/what-does-the-church-believe-about-evolution?lang=eng">What does the Church believe about evolution?</a>:</p>
 <blockquote>
 <p>… We are all descendants of Adam and Eve, our first parents, who were created in God’s image. …</p>
 </blockquote>
 <p>Ugo Perego corresponded directly with the office of the New Era asking about statements there (he was specifically interested in this and other similar statements on evolution) and was told that “nothing ends up published in Church magazines without the approval of a priesthood committee that acts under the direct supervision of the Brethern [sic]” and that “nothing is published that would not be in line with their teachings.”</p>
-<h3 id="as-descendents-we-inherit-a-fallen-condition-implied">As descendents … we inherit a fallen condition (implied)</h3>
+<h3 id="as-descendents-we-inherit-a-fallen-condition-implied">As descendents … we inherit a fallen condition (implied)<a class="zola-anchor" href="#as-descendents-we-inherit-a-fallen-condition-implied" aria-label="Anchor link for: as-descendents-we-inherit-a-fallen-condition-implied"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/manual/gospel-topics/fall-of-adam-and-eve?lang=eng">Fall of Adam and Eve</a>, Gspel Topics:</p>
 <blockquote>
 <p>As descendants of Adam and Eve, we inherit a fallen condition during mortality</p>
 </blockquote>
-<h3 id="as-descendants-all-inherit-the-effects-of-the-fall">As descendants … all inherit the effects of the Fall</h3>
+<h3 id="as-descendants-all-inherit-the-effects-of-the-fall">As descendants … all inherit the effects of the Fall<a class="zola-anchor" href="#as-descendants-all-inherit-the-effects-of-the-fall" aria-label="Anchor link for: as-descendants-all-inherit-the-effects-of-the-fall"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>Old Testament Seminary Teacher Material, <a rel="external" href="https://web.archive.org/web/20190811045054/https://www.churchofjesuschrist.org/manual/old-testament-seminary-teacher-material-2018/abraham/lesson-43?lang=eng">Lesson 43: The Atonement of Jesus Christ, pt 1</a></li>
 <li>True to the Faith Manual, 2004, <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/true-to-the-faith/atonement-of-jesus-christ?lang=eng">Atonement of Jesus Christ</a></li>
@@ -194,42 +325,50 @@ are all are descendants of Adam and Eve”.</p>
 <blockquote>
 <p>As descendants of Adam and Eve, all people inherit the effects of the Fall. …</p>
 </blockquote>
-<h3 id="each-of-us-as-descendants-of-adam-and-eve">… each of us as descendants of Adam and Eve</h3>
+<h3 id="each-of-us-as-descendants-of-adam-and-eve">… each of us as descendants of Adam and Eve<a class="zola-anchor" href="#each-of-us-as-descendants-of-adam-and-eve" aria-label="Anchor link for: each-of-us-as-descendants-of-adam-and-eve"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Missionary Preparation Teacher Manual, <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/missionary-preparation-teacher-manual/lesson-2-our-need-for-the-atonement?lang=eng">lesson 2: Our Need for the Atonement</a>:</p>
 <blockquote>
 <p>… How does the Fall of Adam affect each of us as descendants of Adam and Eve?</p>
 </blockquote>
-<h3 id="as-descendants-we-are-also-separated-from-god">As descendants … we are also separated from God</h3>
+<h3 id="as-descendants-we-are-also-separated-from-god">As descendants … we are also separated from God<a class="zola-anchor" href="#as-descendants-we-are-also-separated-from-god" aria-label="Anchor link for: as-descendants-we-are-also-separated-from-god"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The Plan of Salvation manual, <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/the-plan-of-salvation/list-of-terms?lang=eng">List of Terms, The Fall</a></p>
 <blockquote>
 <p>As descendants of Adam and Eve, we are also separated from God and subject to physical death. The Atonement of Jesus Christ overcomes both physical and spiritual death.</p>
 </blockquote>
-<h3 id="as-descendants-we-inherit-a-fallen-condition">As descendants … we inherit a fallen condition</h3>
+<h3 id="as-descendants-we-inherit-a-fallen-condition">As descendants … we inherit a fallen condition<a class="zola-anchor" href="#as-descendants-we-inherit-a-fallen-condition" aria-label="Anchor link for: as-descendants-we-inherit-a-fallen-condition"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Basic Doctrines Manual, 2012, <a rel="external" href="https://www.churchofjesuschrist.org/manual/basic-doctrines/basic-doctrines?lang=eng">Basic Doctrines</a></p>
 <blockquote>
 <p>As descendants of Adam and Eve, we inherit a fallen condition during mortality. We are separated from the presence of the Lord and subject to physical death.</p>
 </blockquote>
-<h3 id="as-descendants-we-inherit-a-fallen-condition-1">As descendants … we inherit a fallen condition</h3>
+<h3 id="as-descendants-we-inherit-a-fallen-condition-1">As descendants … we inherit a fallen condition<a class="zola-anchor" href="#as-descendants-we-inherit-a-fallen-condition-1" aria-label="Anchor link for: as-descendants-we-inherit-a-fallen-condition-1"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Doctrinal Mastery Core Document, 2018, <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2018/doctrinal-topics/2-the-plan-of-salvation?lang=eng">The Plan of Salvation</a></p>
 <blockquote>
 <p>As descendants of Adam and Eve, we inherit a fallen condition during mortality.  We are separated from God’s presence and are subject to physical death.</p>
 </blockquote>
-<h3 id="mortal-condition-that-we-inherit-as-descendants">Mortal condition … that we inherit as descendants</h3>
+<h3 id="mortal-condition-that-we-inherit-as-descendants">Mortal condition … that we inherit as descendants<a class="zola-anchor" href="#mortal-condition-that-we-inherit-as-descendants" aria-label="Anchor link for: mortal-condition-that-we-inherit-as-descendants"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Book of Mormon Study Guide for Home Study, <a rel="external" href="https://www.churchofjesuschrist.org/study/manual/book-of-mormon-study-guide-for-home-study-seminary-students-2013/2-nephi/unit-5-day-3-2-nephi-2?lang=eng">2 Nephi 2</a></p>
 <blockquote>
 <p>Thus, to be “cut off” according to the “temporal law” refers to the mortal condition on earth that we inherit as descendants of Adam and Eve.</p>
 </blockquote>
-<h3 id="as-descendants-we-are-fallen">as descendants … we are “fallen”</h3>
+<h3 id="as-descendants-we-are-fallen">as descendants … we are “fallen”<a class="zola-anchor" href="#as-descendants-we-are-fallen" aria-label="Anchor link for: as-descendants-we-are-fallen"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Book of Mormon Seminary Teacher Manual, 2013, <a rel="external" href="https://www.churchofjesuschrist.org/manual/book-of-mormon-seminary-teacher-manual-2013-obs/moroni/lesson-156?lang=eng">Moroni 7:20–48</a></p>
 <blockquote>
 <p>… as descendants of Adam and Eve, we are “fallen” and unable to receive any blessings on our own …</p>
 </blockquote>
-<h3 id="because-we-are-descendants-we-are-subject-to-the-conditions-of-the-fall">because we are descendants … we are subject to the conditions [of] the Fall</h3>
+<h3 id="because-we-are-descendants-we-are-subject-to-the-conditions-of-the-fall">because we are descendants … we are subject to the conditions [of] the Fall<a class="zola-anchor" href="#because-we-are-descendants-we-are-subject-to-the-conditions-of-the-fall" aria-label="Anchor link for: because-we-are-descendants-we-are-subject-to-the-conditions-of-the-fall"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Book of Mormon Seminary Teacher Manual, <a rel="external" href="https://www.churchofjesuschrist.org/manual/book-of-mormon-seminary-teacher-manual-2013-obs/2-nephi/lesson-23?lang=eng">2 Nephi 2, pt 1</a></p>
 <blockquote>
 <p>Make sure they understand that because we are descendants of Adam and Eve, we are subject to the conditions that came to them after the Fall</p>
 </blockquote>
-<h3 id="all-descendants-inherit-certain-effects-from-the-fall-implied">All descendants … inherit certain effects from the Fall (implied)</h3>
+<h3 id="all-descendants-inherit-certain-effects-from-the-fall-implied">All descendants … inherit certain effects from the Fall (implied)<a class="zola-anchor" href="#all-descendants-inherit-certain-effects-from-the-fall-implied" aria-label="Anchor link for: all-descendants-inherit-certain-effects-from-the-fall-implied"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Liahona 2006, <a rel="external" href="https://www.churchofjesuschrist.org/study/liahona/2006/06/the-fulness-of-the-gospel-the-fall-of-adam-and-eve?lang=eng">The Fulness of the Gospel: The Fall of Adam and Eve</a></p>
 <blockquote>
 <p>All descendants of Adam and Eve inherit certain effects from the Fall, but because of the Atonement of Jesus Christ we are held accountable only for our own sins.</p>
@@ -242,16 +381,15 @@ are all are descendants of Adam and Eve”.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -266,105 +404,9 @@ are all are descendants of Adam and Eve”.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

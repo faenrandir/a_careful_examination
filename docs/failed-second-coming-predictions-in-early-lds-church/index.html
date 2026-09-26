@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Second coming expectations in the early LDS Church | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Second coming expectations in the early LDS Church | A Careful Examination</title>
+<meta property="og:title" content="Second coming expectations in the early LDS Church | A Careful Examination" />
+<meta name="twitter:title" content="Second coming expectations in the early LDS Church | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/failed-second-coming-predictions-in-early-lds-church/">
-  
+  <meta property="og:url" content="/a_careful_examination/failed-second-coming-predictions-in-early-lds-church/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Second coming expectations in the early LDS Church</h1>
@@ -93,56 +209,22 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#1830-oliver-cowdery-destruction-upon-the-world-within-a-few-years-indirect-non-lds-source">1830 Oliver Cowdery (destruction upon the world within a few years) [indirect, non-LDS source]</a></li>
-        
-          <li><a href="#1831-rigdon-s-flock-world-would-come-to-an-end-in-two-or-three-years-indirect-non-lds-source">1831 Rigdon’s flock (world would come to an end in two or three years) [indirect, non-LDS source]</a></li>
-        
-          <li><a href="#1831-03-15-martin-harris-within-15-years">1831-03-15 Martin Harris (within 15 years)</a></li>
-        
-          <li><a href="#1831-06-03-lyman-wight-some-in-the-congregration-live-until">1831-06-03 Lyman Wight (some in the congregration live until…)</a></li>
-        
-          <li><a href="#1832-09-22-joseph-smith-missouri-temple-built-in-this-generation">1832-09-22 Joseph Smith (Missouri Temple built in this generation)</a></li>
-        
-          <li><a href="#1833-01-23-joseph-smith-sr-continue-in-office-until-christ-comes">1833-01-23 Joseph Smith, Sr. (continue in office until Christ comes)</a></li>
-        
-          <li><a href="#1834-12-09-joseph-smith-sr-see-thy-redeemer-come">1834-12-09 Joseph Smith, Sr. (see thy Redeemer Come)</a></li>
-        
-          <li><a href="#1835-02-14-joseph-smith-even-fifty-six-years-should-wind-up-the-scene">1835-02-14 Joseph Smith (even fifty-six years should wind up the scene)</a></li>
-        
-          <li><a href="#1835-02-15-oliver-cowdery-shall-stand-on-the-earth-till-christ-comes">1835-02-15 Oliver Cowdery (shall stand on the earth … till Christ comes)</a></li>
-        
-          <li><a href="#1835-1837-joseph-smith-sr-not-die-before-second-coming">1835–1837 Joseph Smith, Sr. (not die before second coming)</a></li>
-        
-          <li><a href="#1844-11-15-joseph-smith-sweep-the-wicked-of-this-generation">1844-11-15 Joseph Smith (sweep the wicked of this generation)</a></li>
-        
-          <li><a href="#1857-brigham-young-not-be-120-years-until-saints-separated-from-wicked">1857 Brigham Young (not be 120 years until Saints separated from wicked)</a></li>
-        
-          <li><a href="#acknowledgments-and-notes">Acknowledgments and Notes</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Some predictions (or implied predictions) of Christ’s return seem genuinely open to alternative interpretation, while others less so. Regardless, they seem to collectively point to a shared understanding that Jesus’s return in their lifetime was imminent.</p>
 <p>Emboldened text is my emphasis.</p>
-<h3 id="1830-oliver-cowdery-destruction-upon-the-world-within-a-few-years-indirect-non-lds-source">1830 Oliver Cowdery (destruction upon the world within a few years) [indirect, non-LDS source]</h3>
+<h3 id="1830-oliver-cowdery-destruction-upon-the-world-within-a-few-years-indirect-non-lds-source">1830 Oliver Cowdery (destruction upon the world within a few years) [indirect, non-LDS source]<a class="zola-anchor" href="#1830-oliver-cowdery-destruction-upon-the-world-within-a-few-years-indirect-non-lds-source" aria-label="Anchor link for: 1830-oliver-cowdery-destruction-upon-the-world-within-a-few-years-indirect-non-lds-source"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>About two weeks since some persons came along here with the book, one of whom pretends to have seen Angels, and assisted in translating the plates.  <strong>He [Cowdery] proclaims destruction upon the world within a few years</strong>, – holds forth that the ordinances of the gospel, have not been regularly administered since the days of the Apostles …</p>
 </blockquote>
 <p><a rel="external" href="http://sidneyrigdon.com/dbroadhu/OH/painetel.htm">The Telegraph, November 16, 1830</a></p>
-<h3 id="1831-rigdon-s-flock-world-would-come-to-an-end-in-two-or-three-years-indirect-non-lds-source">1831 Rigdon’s flock (world would come to an end in two or three years) [indirect, non-LDS source]</h3>
+<h3 id="1831-rigdon-s-flock-world-would-come-to-an-end-in-two-or-three-years-indirect-non-lds-source">1831 Rigdon’s flock (world would come to an end in two or three years) [indirect, non-LDS source]<a class="zola-anchor" href="#1831-rigdon-s-flock-world-would-come-to-an-end-in-two-or-three-years-indirect-non-lds-source" aria-label="Anchor link for: 1831-rigdon-s-flock-world-would-come-to-an-end-in-two-or-three-years-indirect-non-lds-source"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>First of November last, Oliver Cowdery…and three others arrived at the village with the “New Bible,” on a mission to the notorious Sidney Rigdon, who resides in the adjoining town.  Rigdon received them graciously - took the book under advisement, and in a few days declared it to be of ‘heavenly origin.’</p>
 </blockquote>
@@ -153,40 +235,48 @@
 <p>…Indians followed Cowdery daily, and finally saw him enter the promised land, where he placed a pole in the ground, with a light on its top, to designate the site of the New Jerusalem.</p>
 </blockquote>
 <p><a rel="external" href="http://sidneyrigdon.com/dbroadhu/NY/wayn1830.htm">Palmyra Reflector, Feb 14, 1831</a></p>
-<h3 id="1831-03-15-martin-harris-within-15-years">1831-03-15 Martin Harris (within 15 years)</h3>
+<h3 id="1831-03-15-martin-harris-within-15-years">1831-03-15 Martin Harris (within 15 years)<a class="zola-anchor" href="#1831-03-15-martin-harris-within-15-years" aria-label="Anchor link for: 1831-03-15-martin-harris-within-15-years"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>The meeting was closed, by a request of the landlord that the prophet should remove his quarters, which he did, and declaring, <strong>that all who believed the new bible would see Christ within fifteen years, and all who did not would absolutely be destroyed and dam’d</strong>.</p>
 </blockquote>
 <p><a rel="external" href="http://www.sidneyrigdon.com/dbroadhu/OH/paintel2.htm">The Telegraph, March 15, 1831</a></p>
-<h3 id="1831-06-03-lyman-wight-some-in-the-congregration-live-until">1831-06-03 Lyman Wight (some in the congregration live until…)</h3>
+<h3 id="1831-06-03-lyman-wight-some-in-the-congregration-live-until">1831-06-03 Lyman Wight (some in the congregration live until…)<a class="zola-anchor" href="#1831-06-03-lyman-wight-some-in-the-congregration-live-until" aria-label="Anchor link for: 1831-06-03-lyman-wight-some-in-the-congregration-live-until"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>The spirit of the Lord fell upon Joseph in an unusual manner. And prophesied that John the Revelator was then among the ten tribes of Israel who had been led away by Salmanasar King of Israel [should be Assyria], to prepare them for their return, from their long dispersion, to again possess the land of their fathers. He prophesied many more things that I have not written. After he had prophesied he laid his hands upon Lyman Wight [and ordained him] to the High Priesthood after the Holy Order of God. And <strong>the spirit fell upon Lyman, and he prophesied, concerning the coming of Christ, he said that there were some in the congregation that should live until the Savior should descend from heaven, with a shout, with all the holy angels with him</strong>. He said the coming of the Savior should be, like; the sun rising in the east, and will cover the whole earth, so with the coming of the Son of man be, yea, he will appear in his brightness and consume all before him. And the hills will be laid low, and the valleys be exalted; and the crooked be made straight; and the rough smooth. And some of my brethren shall suffer martyrdom, for the sake of the religion of Jesus Christ, and seal the testimony of Jesus with their blood.</p>
 </blockquote>
 <p><a rel="external" href="http://www.boap.org/LDS/Early-Saints/JWhitmer-history.html">Book of John Whitmer</a>, Church Historian, pg 69-71.</p>
-<h3 id="1832-09-22-joseph-smith-missouri-temple-built-in-this-generation">1832-09-22 Joseph Smith (Missouri Temple built in this generation)</h3>
+<h3 id="1832-09-22-joseph-smith-missouri-temple-built-in-this-generation">1832-09-22 Joseph Smith (Missouri Temple built in this generation)<a class="zola-anchor" href="#1832-09-22-joseph-smith-missouri-temple-built-in-this-generation" aria-label="Anchor link for: 1832-09-22-joseph-smith-missouri-temple-built-in-this-generation"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>For verily <strong>this generation shall not all pass away until an house</strong> [Missouri Temple] <strong>shall be built</strong> unto the Lord, and a cloud shall rest upon it, which cloud shall be even the glory of the Lord [Second Coming], which shall fill the house. v.31 … which house shall be <strong>built unto the Lord in this generation</strong>, upon the consecrated spot as I have appointed.”</p>
 </blockquote>
 <p><a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/84.1-5,31,32?lang=eng#1">Doctrine and Covenants 84:1-5,31,32</a></p>
 <p><em>Some argue (<a rel="external" href="https://mormonpuzzlepieces.blogspot.com/2014/07/one-of-arguments-sometimes-made-against.html">for example</a>) that “shall” was a command rather than a prediction and that the command was <a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124.51?lang=eng#p51?lang=eng">subsequently revoked</a>.</em></p>
-<h3 id="1833-01-23-joseph-smith-sr-continue-in-office-until-christ-comes">1833-01-23 Joseph Smith, Sr. (continue in office until Christ comes)</h3>
+<h3 id="1833-01-23-joseph-smith-sr-continue-in-office-until-christ-comes">1833-01-23 Joseph Smith, Sr. (continue in office until Christ comes)<a class="zola-anchor" href="#1833-01-23-joseph-smith-sr-continue-in-office-until-christ-comes" aria-label="Anchor link for: 1833-01-23-joseph-smith-sr-continue-in-office-until-christ-comes"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Among the number, my father presented himself, but before I washed his feet, I asked of him a father’s blessing, which he granted by laying his hands upon my head, in the name of Jesus Christ, and declaring that <strong>I should continue in the Priest’s office until Christ comes</strong>.</p>
 </blockquote>
 <p><a rel="external" href="https://byustudies.byu.edu/content/volume-1-chapter-23">History of the Church 1:23 pg 323</a></p>
 <p><em><a rel="external" href="https://www.fairmormon.org/answers/Question:_Is_Joseph_Smith_Sr.%27s_promise_in_a_father%27s_blessing_to_Joseph_Smith_Jr._that_he_would_continue_in_the_Priest%27s_office_until_Christ_comes_a_false_prophecy%3F">FairMormon argues</a> that Joseph would hold the office of Priest when Christ comes and since the blessing was published after his death this is how early Saints viewed it.</em></p>
-<h3 id="1834-12-09-joseph-smith-sr-see-thy-redeemer-come">1834-12-09 Joseph Smith, Sr. (see thy Redeemer Come)</h3>
+<h3 id="1834-12-09-joseph-smith-sr-see-thy-redeemer-come">1834-12-09 Joseph Smith, Sr. (see thy Redeemer Come)<a class="zola-anchor" href="#1834-12-09-joseph-smith-sr-see-thy-redeemer-come" aria-label="Anchor link for: 1834-12-09-joseph-smith-sr-see-thy-redeemer-come"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Many patriarchal blessings were given to <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#historical-intro">couples as a pair</a>.</p>
-<h4 id="to-joseph-smith-jr">To Joseph Smith, Jr.</h4>
+<h4 id="to-joseph-smith-jr">To Joseph Smith, Jr.<a class="zola-anchor" href="#to-joseph-smith-jr" aria-label="Anchor link for: to-joseph-smith-jr"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>…Therefore, my son, I know for a surety that these things will be fulfilled, and I confirm upon thee all these blessings. [unclear if that phrase is meant to refer to preceding promises, following promises, or both] … Thou shalt stand upon the earth when it shall reel to and fro as a drunken man, and be removed out of its place: thou shalt stand when the mighty judgments go forth to the destruction of the wicked: thou shalt stand on mount Zion when the tribes of Jacob come shouting from the north, and with thy brethren, the sons of Ephraim, crown them in the name of Jesus Christ: Thou shalt see thy Redeemer Come in the clouds of heaven, and with the just receive the hallowed throng with shouts of hallalujahs, praise the Lord.</p>
 </blockquote>
-<h4 id="to-emma-smith">To Emma Smith</h4>
+<h4 id="to-emma-smith">To Emma Smith<a class="zola-anchor" href="#to-emma-smith" aria-label="Anchor link for: to-emma-smith"><i class="fas fa-link"></i></a> 
+</h4>
 <blockquote>
 <p>… Thou shall see many days; yea, the Lord will spare thee till thou art satisfied, for thou shalt see thy Redeemer. …</p>
 </blockquote>
 <p><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1#full-transcript">Blessing from Joseph Smith Sr., 9 December 1834</a></p>
-<h3 id="1835-02-14-joseph-smith-even-fifty-six-years-should-wind-up-the-scene">1835-02-14 Joseph Smith (even fifty-six years should wind up the scene)</h3>
+<h3 id="1835-02-14-joseph-smith-even-fifty-six-years-should-wind-up-the-scene">1835-02-14 Joseph Smith (even fifty-six years should wind up the scene)<a class="zola-anchor" href="#1835-02-14-joseph-smith-even-fifty-six-years-should-wind-up-the-scene" aria-label="Anchor link for: 1835-02-14-joseph-smith-even-fifty-six-years-should-wind-up-the-scene"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>President Smith then stated that the meeting had been called, because God had commanded it; and it was made known to him by vision and by the Holy Spirit. He then gave a relation of some of the circumstances attending us while journeying to Zion-our trials, sufferings; and said God had not designed all this for nothing, but He had it in remembrance yet; and it was the will of God that those who went to zion, with a determination to lay down their lives, if necessary, should be ordained to the ministry, and go forth to prune the vineyard for the last time, or the coming of the Lord, which was nigh—<strong>even fifty-six years should wind up the scene</strong>.</p>
 </blockquote>
@@ -210,7 +300,8 @@ timeframe.  According to Blythe:</p>
 <p>Unlike earlier statements that seemed to suggest the apocalypse would occur between 1890 and 1891, in 1843, he did not posit a date for the Second Coming.  He only discounted the possibility that it could occur before 1890.</p>
 </blockquote>
 <p>Regardless, <a rel="external" href="http://web.archive.org/web/20220129041219/https://signaturebookslibrary.org/as-a-thief-in-the-night-08/">numerous statements from indvidiuals and leaders</a> suggest the Saints anticipated the Second Coming would occur around 1890.</p>
-<h3 id="1835-02-15-oliver-cowdery-shall-stand-on-the-earth-till-christ-comes">1835-02-15 Oliver Cowdery (shall stand on the earth … till Christ comes)</h3>
+<h3 id="1835-02-15-oliver-cowdery-shall-stand-on-the-earth-till-christ-comes">1835-02-15 Oliver Cowdery (shall stand on the earth … till Christ comes)<a class="zola-anchor" href="#1835-02-15-oliver-cowdery-shall-stand-on-the-earth-till-christ-comes" aria-label="Anchor link for: 1835-02-15-oliver-cowdery-shall-stand-on-the-earth-till-christ-comes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Several second coming promises were made to individuals receiving blessings that day.  This is the most explicit:</p>
 <blockquote>
 <p>Oliver Cowdery called upon the Lord to smile upon him; that his faith be made perfect, and that the blessings pronounced may be realized; that he be made mighty, and be endued with powers from on high, and go forth to the nations of the earth to proclaim the Gospel, that he may escape all the pollutions of the world; that the angels shall uphold him; and that he shall go forth according to the commandment, both to Jew and Gentile, and to all nations, kingdoms and tongues; that all who hear his voice shall acknowledge him to be a servant of God; that he shall be equal with his brethren in holding the keys of the kingdom; <strong>that he <del>shall</del> may stand on the earth and bring souls till Christ comes</strong>. We know that he loves Thee, O, Lord, and may this Thy servant be able to walk through pestilence and not be harmed; and the powers of darkness have no ascendency over him; may he have power to smite the earth with pestilence; to divide waters, and lead through the Saints; may he go from land to land and from sea to sea, and may he be like one of the three Nephites.</p>
@@ -220,19 +311,22 @@ timeframe.  According to Blythe:</p>
 <li><a rel="external" href="https://archive.org/stream/latterdaysaintsm15live#page/206/mode/1up">Millenial Star March 26, 1853, pg 206</a> (“shall”)</li>
 <li><a rel="external" href="https://byustudies.byu.edu/content/volume-2-chapter-13">History of the Church 2:13</a> (“may”)</li>
 </ul>
-<h3 id="1835-1837-joseph-smith-sr-not-die-before-second-coming">1835–1837 Joseph Smith, Sr. (not die before second coming)</h3>
+<h3 id="1835-1837-joseph-smith-sr-not-die-before-second-coming">1835–1837 Joseph Smith, Sr. (not die before second coming)<a class="zola-anchor" href="#1835-1837-joseph-smith-sr-not-die-before-second-coming" aria-label="Anchor link for: 1835-1837-joseph-smith-sr-not-die-before-second-coming"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith Sr. told <em>many</em> (~40) patriarchal blessing recipients they would not die before the second coming of Christ (sometimes conditioned on their faithfulness).  Here are just a few taken from the compilation <a rel="external" href="http://user.xmission.com/~research/mormonpdf/blessingsbyjssr.pdf">Patriarchal Blessings by Joseph Smith Sr.</a>.</p>
 <p>To Isaac Morley, 1835-04-04 “Thou shalt live to see the heavens open and see thy God in the flesh.”</p>
 <p>To Edward Partridge, 1835-04-04 “The Lord will preserve thy life till a good old age, and thou shalt also live to see the heavens opened, for thou hast desired this thing, and shalt see the Son of man in the flesh”</p>
 <p>To Lorenzo Snow, 1836-12-15 “Thou shalt have power to stand in the flesh and see Jesus come in the clouds”</p>
 <p>To Wilford Woodruff, 1837-04-13 “Thou shalt stand in the flesh and see the winding up scene of this generation.”</p>
 <p>To Henry Harmon, 1837-04-23 “The destroyer shall not have power over thee to take away thy life. Thou shalt behold the Son of God while thou dost stand in the flesh and if thou dost seek it with all thy heart, thou shalt stand on the earth to behold the Savior come in the clouds of heaven, and be caught up to meet him, and thou shalt see the end of the wicked.”</p>
-<h3 id="1844-11-15-joseph-smith-sweep-the-wicked-of-this-generation">1844-11-15 Joseph Smith (sweep the wicked of this generation)</h3>
+<h3 id="1844-11-15-joseph-smith-sweep-the-wicked-of-this-generation">1844-11-15 Joseph Smith (sweep the wicked of this generation)<a class="zola-anchor" href="#1844-11-15-joseph-smith-sweep-the-wicked-of-this-generation" aria-label="Anchor link for: 1844-11-15-joseph-smith-sweep-the-wicked-of-this-generation"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>And now I am prepared to say by the authority of Jesus Christ, that not many years shall pass away before the United States shall present such a scene of bloodshed as has not a parallel in the history of our nation; <strong>pestilence, hail, famine, and earthquake will sweep the wicked of this generation from off the face of the land</strong>, to open and prepare the way for the return of the lost tribes of Israel from the north country. The people of the Lord, those who have complied with the requirements of the new covenant, have already commenced gathering together to Zion, which is in the state of Missouri, therefore I declare unto you the warning which the Lord has commanded to declare unto this generation, remembering that the eyes of my Maker are upon me and that to him I am accountable for every word I say wishing nothing worse to my fellow-men than their eternal salvation; therefore, “Fear God, and give glory to Him, for the hour of His judgment is come.” Repent ye, repent ye, and embrace the everlasting covenant, and flee to Zion, before the overflowing scourge overtake you, <strong>for there are those now living upon the earth whose eyes shall not be closed in death until they see all these things, which I have spoken, fulfilled</strong>. Remember these things; call upon the Lord while He is near, and seek Him while He may be found, is the exhortation of your unworthy servant. [Signed] JOSEPH SMITH, JUN.</p>
 </blockquote>
 <p><a rel="external" href="http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/8375">Times and Seasons Nov 15, 1844</a> (<a rel="external" href="https://github.com/faenrandir/a_careful_examination/blob/3db09e5d92d9d0f9c2fb0ba10047d7546fb4ead7/documents/second_coming/images/original-1844-11-15-TimesAndSeasons-JosephSmith-SecondComingProphecy.png">image</a>)</p>
-<h3 id="1857-brigham-young-not-be-120-years-until-saints-separated-from-wicked">1857 Brigham Young (not be 120 years until Saints separated from wicked)</h3>
+<h3 id="1857-brigham-young-not-be-120-years-until-saints-separated-from-wicked">1857 Brigham Young (not be 120 years until Saints separated from wicked)<a class="zola-anchor" href="#1857-brigham-young-not-be-120-years-until-saints-separated-from-wicked" aria-label="Anchor link for: 1857-brigham-young-not-be-120-years-until-saints-separated-from-wicked"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>…this people are a good people &amp; they are advancing faster than any other <del>people</del> that ever lived it would not be 120 years instead of 365 before <del>this people</del> would with a portion of the Earth which they occupy be separated from the wicked.  The Lord will bless this people if you will do as well…</p>
 </blockquote>
@@ -242,20 +336,20 @@ timeframe.  According to Blythe:</p>
 <p>On 8 March (1857), Woodruff attended a meeting during which Young alluded to the city of Enoch and its inhabitants, which Mormons believe was physically removed from the earth because of righteousness. Young suggested that within 125 years the Saints along with the portion of the earth they occupied would be separated from the wicked.</p>
 </blockquote>
 <p><em>This 1857 statement originally h/t <a rel="external" href="https://www.reddit.com/r/mormon/comments/d71f6n/brigham_youngs_prophecy_about_the_saints_being/">this post</a></em></p>
-<h3 id="acknowledgments-and-notes">Acknowledgments and Notes</h3>
+<h3 id="acknowledgments-and-notes">Acknowledgments and Notes<a class="zola-anchor" href="#acknowledgments-and-notes" aria-label="Anchor link for: acknowledgments-and-notes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Several references were taken from a compilation by George D. Speer Sr. recorded <a rel="external" href="https://github.com/Second-Coming/second-coming/blob/e5b01a26ec71aa5152fe931759222cb4b0b42c2e/second.md">here</a>.  Some were brought to my attention by reddit user japanesepiano.</p>
 <p>I have gone back to find links to original documents and LDS Church hosted content where possible.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -270,105 +364,9 @@ timeframe.  According to Blythe:</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

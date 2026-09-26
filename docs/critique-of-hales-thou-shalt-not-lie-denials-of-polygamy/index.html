@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>A Critique of Joseph Smith&#39;s Polygamy: &#39;Thou Shalt not Lie&#39; and Denials of Polygamy | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>A Critique of Joseph Smith&#39;s Polygamy: &#39;Thou Shalt not Lie&#39; and Denials of Polygamy | A Careful Examination</title>
+<meta property="og:title" content="A Critique of Joseph Smith&#39;s Polygamy: &#39;Thou Shalt not Lie&#39; and Denials of Polygamy | A Careful Examination" />
+<meta name="twitter:title" content="A Critique of Joseph Smith&#39;s Polygamy: &#39;Thou Shalt not Lie&#39; and Denials of Polygamy | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/">
-  
+  <meta property="og:url" content="/a_careful_examination/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">A Critique of Joseph Smith&#39;s Polygamy: &#39;Thou Shalt not Lie&#39; and Denials of Polygamy</h1>
@@ -107,10 +223,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Joseph Smith denied the practice of polygamy on several occasions (I’m aware of 4 instances).  He was also responsible for the publication or distribution of several additional denials (I’m aware of 3 instances).  Snippets of the denials are given below<sup class="footnote-reference" id="fr-snippets-1"><a href="/a_careful_examination/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/#fn-snippets">[1]</a></sup>; see <a href="/a_careful_examination/joseph-smith-polygamy-denials/">Joseph Smith’s Polygamy Denials</a> for additional context.</p>
 <ol>
 <li><a href="/a_careful_examination/prophets-answers-to-sundry-questions-1838/">Prophet’s Answers to Sundry Questions, 1838</a>: “Do the Mormons believe in having more wives than one?  No, not at the same time.” (Joseph had 2 wives)</li>
@@ -123,10 +241,12 @@
 </ol>
 <p>The <a rel="external" href="http://josephsmithspolygamy.org">Joseph Smith’s Polygamy site</a> argues in its section <a rel="external" href="http://josephsmithspolygamy.org/polygamy-denials/">“Thou Shalt not Lie” and Denials of Polygamy</a> that Joseph Smith and others who denied polygamy were not “technically” lying because there was some way to interpret their denials that might make them truthful.</p>
 <p>I argue that, at least for the 7 denials Joseph Smith gave directly or is directly responsible for (documented above), Joseph Smith was clearly <a href="/a_careful_examination/definitions-of-terms-polygamy-denials/">lying and deceiving</a> or endorsing lies and deception.  None of the technicalities offered in that section are valid when examined carefully.</p>
-<h3 id="a-preliminary-note-about-implied-context">A preliminary note about implied context</h3>
+<h3 id="a-preliminary-note-about-implied-context">A preliminary note about implied context<a class="zola-anchor" href="#a-preliminary-note-about-implied-context" aria-label="Anchor link for: a-preliminary-note-about-implied-context"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Most of Hales’ arguments imply a context where Joseph is actively being interrogated (e.g., “could truthfully answer negatively”, “to truthfully answer ‘yes’ to the question”, “could have truthfully answered ‘no’ to the question”).  In other cases, he implies that Joseph is merely withholding information (e.g., “To divulge more details than absolutely required…”).</p>
 <p>Denials were certainly advanced because of rumors being circulated (rumors based in fact), but for these seven denials Joseph Smith had absolute control of the context in which they were delivered.  Joseph Smith’s seven denials were not issued on a witness stand under interrogation.  These denials were not the act of a person <em>withholding</em> information.  Almost all of these were <em>positive, affirmative, explicit</em> statements about the number of wives members of the Church could have, the teachings of the Church on the topic, and/or how many wives he, Joseph, had at the time—if any ambiguity <em>was</em> present in these denials, Joseph must be held responsible for it.</p>
-<h3 id="the-illinois-state-anti-bigamy-law-defense">The Illinois State anti-bigamy law defense</h3>
+<h3 id="the-illinois-state-anti-bigamy-law-defense">The Illinois State anti-bigamy law defense<a class="zola-anchor" href="#the-illinois-state-anti-bigamy-law-defense" aria-label="Anchor link for: the-illinois-state-anti-bigamy-law-defense"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Hales writes:</p>
 <blockquote>
 <p>Despite criticisms charging that Joseph lied when denying polygamy, the fact is that under Illinois statute, he could truthfully answer negatively because state laws prevented any person from entering into more than one marriage. A second (or third or forth) marriage could not be certified with any legal document. Hence practicing legal polygamy was an impossibility.</p>
@@ -145,13 +265,15 @@
 <p>We are constrained by the fact that this denial was uttered in a single sentence, so there can be no question about context for the two claims made within it.</p>
 <p>If he was using the legal context, then he didn’t have 7 wives, but he <em>was</em> “committing adultery”.  If he was using the “celestial marriage” context, he was not “committing adultery”, but then <em>he did have 7 wives</em>.  So, the Illinois law technicality does not exculpate Joseph in his May 26, 1844 denial.</p>
 <p>And in general, this defense fails to cover the necessary ground with these seven polygamy denials.  Most of the denials were not given with any kind of legal context in mind, but in reference to Church practices.</p>
-<h3 id="the-muslim-polygamy-vs-celestial-marriage-defense">The Muslim polygamy vs. celestial marriage defense</h3>
+<h3 id="the-muslim-polygamy-vs-celestial-marriage-defense">The Muslim polygamy vs. celestial marriage defense<a class="zola-anchor" href="#the-muslim-polygamy-vs-celestial-marriage-defense" aria-label="Anchor link for: the-muslim-polygamy-vs-celestial-marriage-defense"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Hales attempts to exculpate Joseph on the grounds that Islamic polygamy would not have been considered equivalent with “celestial marriage”:</p>
 <blockquote>
 <p>The answer depends upon the definition of the word “polygamy.” To him, “celestial marriage” was an “order of the priesthood” that was essentially unrelated to the polygamy practices of the Turks in the Islamic world, with their harems and concubines. Therefore, it is unlikely the Prophet would have equated his teachings of “patriarchal marriage” and “eternal marriage” with their traditions.</p>
 </blockquote>
 <p>Hales offers no evidence that Joseph Smith ever distinguished between his version of polygamy and that practiced by the Turks of the Islamic world.<sup class="footnote-reference" id="fr-harems-1"><a href="/a_careful_examination/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/#fn-harems">[2]</a></sup>  Regardless, none of these seven polygamy denials hinge upon this distinction anyway.  The denials speak explicitly about the nature of the relationships between men and women, so they have nothing to do with the Islamic practice of polygamy.  Joseph Smith used (or approved) this verbiage: “more wives than one? No, not at the same time” (1838), “[induce her to believe in having two wives]…no person acquainted with our principles would believe such lies” (1842), “one man should have one wife” (1842), “No man shall have but one wife” (1843), “having seven wives” (1844), “one man should have one wife” (1842).</p>
-<h3 id="verbal-gymnastics-and-the-statements-of-other-scholars">Verbal gymnastics and the statements of other scholars</h3>
+<h3 id="verbal-gymnastics-and-the-statements-of-other-scholars">Verbal gymnastics and the statements of other scholars<a class="zola-anchor" href="#verbal-gymnastics-and-the-statements-of-other-scholars" aria-label="Anchor link for: verbal-gymnastics-and-the-statements-of-other-scholars"><i class="fas fa-link"></i></a> 
+</h3>
 <p>To the extent that the statements of other polygamy scholars apply (many do not seem to directly apply to Joseph’s seven polygamy denials), they confirm the deceptive nature of them.  Statements of these other scholars, as quoted by Hales, and a response to each follow:</p>
 <blockquote>
 <p>John L. Brooke concluded: “A deceptive code developed, allowing the leadership to condemn ‘polygamy, in the ordinary and Asiatic sense of the term,’ while defending ‘the Holy order of celestial marriage,’ ‘the true and divine order,’ and the ‘new and everlasting covenant.’”</p>
@@ -174,7 +296,8 @@
 </blockquote>
 <p>As shown above, Joseph Smith’s seven denials almost always used clear and unambiguous language.  Either Brodie is being generous, or she was not familiar with all the denials when she wrote her book.  Verbal gymnastics implies that there is some manner in which we can view the statements as truthful.  If “verbal gymnastics” <em>is</em> the appropriate terminology, then I am not aware of <em>how</em> the language might be twisted to that extent in order to do so.  The semantic contortions offered in Hales’ article do not exculpate Joseph in his seven denials, as far as I can tell.</p>
 <p>For the sake of argument, if we accept these as “verbal gymnastics”, then they were still being used with the intent to deceive those who heard or read the communication.  That’s the <a href="/a_careful_examination/definitions-of-terms-polygamy-denials/">definition of deception and is a form of lying</a>.</p>
-<h3 id="avoiding-the-risk-of-provoking-violent-reaction">Avoiding the risk of provoking violent reaction</h3>
+<h3 id="avoiding-the-risk-of-provoking-violent-reaction">Avoiding the risk of provoking violent reaction<a class="zola-anchor" href="#avoiding-the-risk-of-provoking-violent-reaction" aria-label="Anchor link for: avoiding-the-risk-of-provoking-violent-reaction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>For this defense, Hales explains:</p>
 <blockquote>
 <p>… Joseph knew from his experience in Kirtland, Ohio, in 1836 that plural marriage would not be easily accepted by even staunch believers and members of his own family. To divulge more details than absolutely required might risk provoking violent reactions. Apparently, that was not a risk he was willing to take.</p>
@@ -193,10 +316,13 @@
 <p>These excuses and many more are given as reasons for dishonesty. To the Lord, there are no acceptable reasons. …</p>
 </blockquote>
 <hr />
-<h2 id="appendix">Appendix</h2>
-<h3 id="text-of-polygamy-denials-on-april-13-2017">Text of “Polygamy Denials?” on April 13, 2017</h3>
+<h2 id="appendix">Appendix<a class="zola-anchor" href="#appendix" aria-label="Anchor link for: appendix"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="text-of-polygamy-denials-on-april-13-2017">Text of “Polygamy Denials?” on April 13, 2017<a class="zola-anchor" href="#text-of-polygamy-denials-on-april-13-2017" aria-label="Anchor link for: text-of-polygamy-denials-on-april-13-2017"><i class="fas fa-link"></i></a> 
+</h3>
 <p>[This is the first half of the document; The last half deals with obeying the laws of the land and is not addressed here]</p>
-<h4 id="thou-shalt-not-lie-and-denials-of-polygamy">“Thou Shalt not Lie” and Denials of Polygamy</h4>
+<h4 id="thou-shalt-not-lie-and-denials-of-polygamy">“Thou Shalt not Lie” and Denials of Polygamy<a class="zola-anchor" href="#thou-shalt-not-lie-and-denials-of-polygamy" aria-label="Anchor link for: thou-shalt-not-lie-and-denials-of-polygamy"><i class="fas fa-link"></i></a> 
+</h4>
 <p>During Joseph Smith’s lifetime, the Prophet and other Church leaders issued several denials regarding the practice of polygamy.[1]</p>
 <p>“Polygamy” means “poly” or “many” and “gamy” means “marriages.” Combined they mean:  “many marriages.”[2]</p>
 <p>Despite criticisms charging that Joseph lied when denying polygamy, the fact is that under Illinois statute, he could truthfully answer negatively because state laws prevented any person from entering into more than one marriage. A second (or third or forth) marriage could not be certified with any legal document. Hence practicing legal polygamy was an impossibility.</p>
@@ -237,16 +363,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -261,105 +386,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Response to Jim Bennett&#39;s response about the angel with a drawn sword | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Response to Jim Bennett&#39;s response about the angel with a drawn sword | A Careful Examination</title>
+<meta property="og:title" content="Response to Jim Bennett&#39;s response about the angel with a drawn sword | A Careful Examination" />
+<meta name="twitter:title" content="Response to Jim Bennett&#39;s response about the angel with a drawn sword | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-bennett-response-to-angel-with-drawn-sword/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-bennett-response-to-angel-with-drawn-sword/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Response to Jim Bennett&#39;s response about the angel with a drawn sword</h1>
@@ -103,10 +219,12 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h3 id="introduction">Introduction</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In his <a rel="external" href="https://archive.bookofmormoncentral.org/content/polygamypolyandry-concerns-questions">response to the CES Letter version 2.0</a>, Jim Bennett writes:</p>
 <blockquote>
 <blockquote>
@@ -120,19 +238,22 @@
 <p>You are conflating two stories into one in order to make Joseph look as seedy as possible. There was an angel with a drawn sword connected to plural marriage, but it’s a story with quite a different context than the one you’re suggesting. All the accounts of the sword-bearing angel come after Joseph’s lifetime in reminiscences of those close to him.  In every one, the angel appeared due to Joseph’s reluctance to engage in plural marriage as a general principle, not because he had to marry any specific woman. Not one of the accounts of the angel has Joseph telling anyone, “If you don’t marry me, an angel will kill me.” If that happened, even once, it’d be very hard to imagine that a woman wouldn’t have mentioned it. None of them do.</p>
 </blockquote>
 <p>I will demonstrate below that this response is misleading and inadequate.</p>
-<h3 id="all-the-accounts-come-after-joseph-s-lifetime">“All the accounts … come after Joseph’s lifetime”</h3>
+<h3 id="all-the-accounts-come-after-joseph-s-lifetime">“All the accounts … come after Joseph’s lifetime”<a class="zola-anchor" href="#all-the-accounts-come-after-joseph-s-lifetime" aria-label="Anchor link for: all-the-accounts-come-after-joseph-s-lifetime"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>All the accounts of the sword-bearing angel come after Joseph’s lifetime in reminiscences of those close to him.</p>
 </blockquote>
 <p>Virtually <em>every</em> account we have today of how polygamy was experienced by its practitioners was a reminiscence, and the only contemporary accounts of how proposals occurred were from those who rejected Smith (e.g., <a rel="external" href="https://faenrandir.github.io/a_careful_examination/martha-brotherton-affidavit/">Martha Brotherton</a>). The number of <a rel="external" href="https://faenrandir.github.io/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">contemporary documents</a> regarding Joseph Smith’s polygamy are few and they give us few details.  We really can’t talk about polygamy without relying on late accounts, and the historiography of polygamy consists largely of discussing and weighing the merit of later sources.</p>
 <p>Bennett himself frequently relies on the reminiscences of these women on <em>other</em> topics.  For instance, the only way to argue that HMK was sealed for “eternity alone” is to rely on [one possible reading of] her <a rel="external" href="https://faenrandir.github.io/a_careful_examination/helen-mar-kimball-whitney-1881-autobiography/">1881 autobiographical account</a>, so it is a red herring to bring up the lateness of these statements unless there is some good reason to assume they were fabricated or greatly embellished.</p>
 <p>Hales <a rel="external" href="https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf">compiled all the statements</a> regarding the angel story, and Don Bradley suggests there are, in fact, some contemporary clues that support the basic idea.  In any case, we do not have good reasons to doubt these reminiscences, and many of those who reminisced were participants (i.e., many of these are first-hand accounts, even if they were delivered later in their life).</p>
-<h3 id="reluctance-not-because-he-had-to-marry-any-specific-woman">Reluctance, not because he had to marry any specific woman</h3>
+<h3 id="reluctance-not-because-he-had-to-marry-any-specific-woman">Reluctance, not because he had to marry any specific woman<a class="zola-anchor" href="#reluctance-not-because-he-had-to-marry-any-specific-woman" aria-label="Anchor link for: reluctance-not-because-he-had-to-marry-any-specific-woman"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>In every one, the angel appeared due to Joseph’s reluctance to engage in plural marriage as a general principle, not because he had to marry any specific woman.</p>
 </blockquote>
 <p>Bennett seems to be putting words in Runnells mouth because Runnells does not ever claim that “[the angel came] because he had to marry any specific woman.” Runnells said exactly this: “Some of these marriages to these women included … threats that he (Joseph) was going to be slain by an angel with a drawn sword if the girls didn’t marry him.”<sup class="footnote-reference" id="fr-reword_runnells-1"><a href="/a_careful_examination/response-to-bennett-response-to-angel-with-drawn-sword/#fn-reword_runnells">[1]</a></sup>  Runnells does not discuss causality, and his statement does not seem inconsistent with the historical record.</p>
-<h3 id="not-one-account-if-you-don-t-marry-me-an-angel-will-kill-me">Not one account … “If you don’t marry me, an angel will kill me.”</h3>
+<h3 id="not-one-account-if-you-don-t-marry-me-an-angel-will-kill-me">Not one account … “If you don’t marry me, an angel will kill me.”<a class="zola-anchor" href="#not-one-account-if-you-don-t-marry-me-an-angel-will-kill-me" aria-label="Anchor link for: not-one-account-if-you-don-t-marry-me-an-angel-will-kill-me"><i class="fas fa-link"></i></a> 
+</h3>
 <blockquote>
 <p>Not one of the accounts of the angel has Joseph telling anyone, “If you don’t marry me, an angel will kill me.”</p>
 </blockquote>
@@ -150,7 +271,8 @@
 <p>Some of these marriages to these women included … threats that he (Joseph) was going to be slain by an angel with a drawn sword if the girls didn’t marry him.</p>
 </blockquote>
 <p>and well supported by the primary accounts.</p>
-<h4 id="zina-huntington-jacobs-smith-young-1894-reminiscence">Zina Huntington Jacobs Smith Young 1894 reminiscence</h4>
+<h4 id="zina-huntington-jacobs-smith-young-1894-reminiscence">Zina Huntington Jacobs Smith Young 1894 reminiscence<a class="zola-anchor" href="#zina-huntington-jacobs-smith-young-1894-reminiscence" aria-label="Anchor link for: zina-huntington-jacobs-smith-young-1894-reminiscence"><i class="fas fa-link"></i></a> 
+</h4>
 <p>Zina Huntington Jacobs Smith Young recounted in 1894 (published in 1895) the manner in which Joseph relayed the angel story to her.  Active LDS Historians <a rel="external" href="https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1022&amp;context=mormonhistory">Martha Bradley and Mary Woodward explain</a> (pg 95):</p>
 <blockquote>
 <p>In October 1841 [Zina was married and pregnant for about 7 months at this time] Smith sent Dimick with an unwelcome message to force Zina to a decision. “Joseph said, Tell Zina I have put it off and put it off until an angel with a drawn sword has stood before me and told me if I did not establish that principle [plurality of wives] and live it, I would lose my position and my life and the Church could progress no further.”[28]<sup class="footnote-reference" id="fr-footnote_28-1"><a href="/a_careful_examination/response-to-bennett-response-to-angel-with-drawn-sword/#fn-footnote_28">[2]</a></sup> But when Dimick came, Zina’s anguish had been resolved, and she was emotionally prepared to accept the sealing</p>
@@ -159,7 +281,8 @@
 <blockquote>
 <p>[Joseph] sent word to me by my brother, saying, ‘Tell Zina I put it off and put it off till an angel with a drawn sword stood by me and told me if I did not establish that principle upon the earth, I would lose my position and my life.’</p>
 </blockquote>
-<h4 id="mary-elizabeth-rollins-lightner">Mary Elizabeth Rollins Lightner</h4>
+<h4 id="mary-elizabeth-rollins-lightner">Mary Elizabeth Rollins Lightner<a class="zola-anchor" href="#mary-elizabeth-rollins-lightner" aria-label="Anchor link for: mary-elizabeth-rollins-lightner"><i class="fas fa-link"></i></a> 
+</h4>
 <p>In a letter to Emmeline B. Wells in the summer of 1905, Mary Elizabeth Rollins Lightner wrote (pg 36 <a rel="external" href="https://mormonpolygamydocuments.org/wp-content/uploads/2014/11/JSP_Book_24.pdf">here</a>):</p>
 <blockquote>
 <p>As for Sister Whitney Bishop Withneys wife I shall never forget her as it was at her house that the Prophet Joseph first told mea about his great vision <em>Concerning me</em>, he said <em>I</em> was the first woman God commanded him to take as a plural wife in 183 [sic] &amp; he was very much frightened about [it] until the Angel appear[e]d to him three times. [I]t was in the early part of Feb. 1842 <del>before</del> <strong>that he was compelled to reveal it to me personally, by the Angel threatening him</strong>.</p>
@@ -188,16 +311,15 @@ feelings of urgency and compliance in those whom he confided in. <a href="/a_car
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -212,105 +334,9 @@ feelings of urgency and compliance in those whom he confided in. <a href="/a_car
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

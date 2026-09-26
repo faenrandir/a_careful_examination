@@ -1,33 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Recommended | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Recommended | A Careful Examination</title>
+  <meta property="og:title" content="Recommended | A Careful Examination" />
+  <meta name="twitter:title" content="Recommended | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   
   <link rel="canonical" href="/a_careful_examination/recommended/">
-  
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,12 +167,8 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">Recommended</h1>
@@ -64,7 +182,8 @@
   </header>
 
   <div class="post-content">
-    <h3 id="book-of-mormon">book-of-mormon</h3>
+    <h3 id="book-of-mormon">book-of-mormon<a class="zola-anchor" href="#book-of-mormon" aria-label="Anchor link for: book-of-mormon"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/bom-parallels-to-1800s-thought/">Book of Mormon parallels to 1800s thought</a></li>
 <li><a href="/a_careful_examination/how-could-joseph-smith-composed-bom/">How could Joseph Smith have composed the Book of Mormon?</a></li>
@@ -103,18 +222,21 @@
 <li><a href="/a_careful_examination/bom-written-quickly-vs-quran-took-so-long/">The BOM is true because it was written so quickly - VS - The Quran is true because it took so long to write</a></li>
 <li><a href="/a_careful_examination/joseph-smith-capable-of-authoring-the-book-of-mormon/">Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?</a></li>
 </ul>
-<h3 id="book-of-abraham">book-of-abraham</h3>
+<h3 id="book-of-abraham">book-of-abraham<a class="zola-anchor" href="#book-of-abraham" aria-label="Anchor link for: book-of-abraham"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/resources-on-the-book-of-abraham/">Resources on the Book of Abraham</a></li>
 <li><a href="/a_careful_examination/hauglid-against-missing-papyri-theory/">Brian Hauglid argues against missing papyri theory: ‘They were working off of the papryri that we actually have in the Church today’</a></li>
 <li><a href="/a_careful_examination/olishem-as-evidence-for-boa/">Analysis of Olishem as evidence for the antiquity of the Book of Abraham</a></li>
 </ul>
-<h3 id="book-of-enoch">book-of-enoch</h3>
+<h3 id="book-of-enoch">book-of-enoch<a class="zola-anchor" href="#book-of-enoch" aria-label="Anchor link for: book-of-enoch"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/townsend-2019-mahijah-mahujah-excerpt/">Mahijah/Mahujah or Mahujah/Mahujah?</a></li>
 <li><a href="/a_careful_examination/laurence-1821-book-of-enoch-may-have-been-available/">Laurence’s 1821 Book of Enoch may have been available in the US</a></li>
 </ul>
-<h3 id="faith-transitions">faith-transitions</h3>
+<h3 id="faith-transitions">faith-transitions<a class="zola-anchor" href="#faith-transitions" aria-label="Anchor link for: faith-transitions"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/2013-faith-crisis-study/">Report, chronicles, and presentation on LDS faith crises</a></li>
 <li><a href="/a_careful_examination/the-shunning-key/">The Shunning Key: Whom Mormons shun and why</a></li>
@@ -122,11 +244,13 @@
 <li><a href="/a_careful_examination/why-former-members-are-angry/">Why former members are angry</a></li>
 <li><a href="/a_careful_examination/is-leaving-breaking-promises/">Are members breaking promises when they leave the LDS Church?</a></li>
 </ul>
-<h3 id="first-vision">first-vision</h3>
+<h3 id="first-vision">first-vision<a class="zola-anchor" href="#first-vision" aria-label="Anchor link for: first-vision"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/1832-first-vision-account-suppressed/">The 1832 First Vision account was suppressed between 11 and ~30 years</a></li>
 </ul>
-<h3 id="polygamy">polygamy</h3>
+<h3 id="polygamy">polygamy<a class="zola-anchor" href="#polygamy" aria-label="Anchor link for: polygamy"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/joseph-smith-polygamy-denials/">Joseph Smith’s Polygamy Denials</a></li>
 <li><a href="/a_careful_examination/logic-behind-the-sealing-ceremony/">Logic behind the sealing ceremony</a></li>
@@ -148,30 +272,36 @@
 <li><a href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">Contemporary evidence that Joseph Smith practiced polygamy</a></li>
 <li><a href="/a_careful_examination/oct-5-1843-journal-entry/">The October 5, 1843 Journal Entry</a></li>
 </ul>
-<h3 id="questioning">questioning</h3>
+<h3 id="questioning">questioning<a class="zola-anchor" href="#questioning" aria-label="Anchor link for: questioning"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/to-peek-behind-the-curtain/">To peek behind the curtain: the decision to critically investigate LDS truth-claims</a></li>
 </ul>
-<h3 id="race-and-priesthood">race-and-priesthood</h3>
+<h3 id="race-and-priesthood">race-and-priesthood<a class="zola-anchor" href="#race-and-priesthood" aria-label="Anchor link for: race-and-priesthood"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/reeve-poor-justifications-for-black-priesthood-ban/">Paul Reeve: New justifications for the Black Priesthood/Temple ban</a></li>
 <li><a href="/a_careful_examination/jane-manning-james-patriarchal-blessing-indicates-a-mark/">Jane Manning James Patriarchal Blessing indicates she has ‘a mark’</a></li>
 <li><a href="/a_careful_examination/joseph-f-smith-contradicts-himself-on-elijah-ables-priesthood/">Joseph F. Smith reverses position on Elijah Able’s Priesthood ordination</a></li>
 </ul>
-<h3 id="science">science</h3>
+<h3 id="science">science<a class="zola-anchor" href="#science" aria-label="Anchor link for: science"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/resources-related-to-science-claims/">Resources related to science claims</a></li>
 </ul>
-<h3 id="sociology-and-psychology">sociology-and-psychology</h3>
+<h3 id="sociology-and-psychology">sociology-and-psychology<a class="zola-anchor" href="#sociology-and-psychology" aria-label="Anchor link for: sociology-and-psychology"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/three-fold-nature-lds-church-corporate-totalistic-individual-growth/">The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth</a></li>
 <li><a href="/a_careful_examination/lds-indoctrination-and-retentive-socialization/">LDS Indoctrination and Retentive Socialization</a></li>
 </ul>
-<h3 id="temple">temple</h3>
+<h3 id="temple">temple<a class="zola-anchor" href="#temple" aria-label="Anchor link for: temple"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/origins-of-phrase-all-truth-may-be-circumscribed/">Origins of the phrase: ’All truth may be circumscribed into one great whole</a></li>
 </ul>
-<h3 id="truth-claims">truth-claims</h3>
+<h3 id="truth-claims">truth-claims<a class="zola-anchor" href="#truth-claims" aria-label="Anchor link for: truth-claims"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/truth-claim-summaries/">Truth-claim summaries and apologetics</a></li>
 <li><a href="/a_careful_examination/questions-to-ask/">Questions to Ask</a></li>
@@ -180,7 +310,8 @@
 <li><a href="/a_careful_examination/the-dominant-narrative/">The Dominant Narrative and Apologetic Fallback</a></li>
 <li><a href="/a_careful_examination/five-key-facts/">Five Key Facts</a></li>
 </ul>
-<h3 id="unclassified">unclassified</h3>
+<h3 id="unclassified">unclassified<a class="zola-anchor" href="#unclassified" aria-label="Anchor link for: unclassified"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/early-lds-testimony-may-be-unreliable/">Early LDS testimony may be unreliable</a></li>
 <li><a href="/a_careful_examination/six-sources-of-revelation/">The 6 Sources of Revelation</a></li>
@@ -223,7 +354,8 @@
 <li><a href="/a_careful_examination/morality-transcends-religious-belief/">Morality Transcends Religious Belief</a></li>
 <li><a href="/a_careful_examination/lds-church-ban-on-oral-sex/">The LDS Church ban on oral sex</a></li>
 </ul>
-<h3 id="word-of-wisdom">word-of-wisdom</h3>
+<h3 id="word-of-wisdom">word-of-wisdom<a class="zola-anchor" href="#word-of-wisdom" aria-label="Anchor link for: word-of-wisdom"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/letter-thoughts-on-the-word-of-wisdom/">Letter to parents: Thoughts on the Word of Wisdom</a></li>
 <li><a href="/a_careful_examination/excerpt-from-social-history-of-tea/">Excerpt from ‘A Social History of the Nation’s Favourite Drink’</a></li>
@@ -232,7 +364,8 @@
 <li><a href="/a_careful_examination/health-studies-on-coffee/">Health studies on coffee</a></li>
 <li><a href="/a_careful_examination/health-studies-on-tea/">Health studies on tea</a></li>
 </ul>
-<h3 id="responses">responses</h3>
+<h3 id="responses">responses<a class="zola-anchor" href="#responses" aria-label="Anchor link for: responses"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a href="/a_careful_examination/response-to-callister-bom-manmade-or-godgiven/">Response to Tad Callister’s talk ’The Book of Mormon: Man-Made or God-Given?</a></li>
 <li><a href="/a_careful_examination/response-to-lds-living-article-supporting-the-bom/">Response to LDS Living article on Evidence supporting the Book of Mormon</a></li>
@@ -245,13 +378,13 @@
 
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -266,105 +399,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

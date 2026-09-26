@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How transparent was LDS Church with living allowances | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>How transparent was LDS Church with living allowances | A Careful Examination</title>
+<meta property="og:title" content="How transparent was LDS Church with living allowances | A Careful Examination" />
+<meta name="twitter:title" content="How transparent was LDS Church with living allowances | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/">
-  
+  <meta property="og:url" content="/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">How transparent was LDS Church with living allowances</h1>
@@ -93,48 +209,29 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#statements-by-lds-leaders-and-official-sources">Statements by LDS leaders and official sources</a></li>
-        
-          <li><a href="#lds-org-search-results">lds.org search results</a></li>
-        
-          <li><a href="#member-teachings-and-beliefs">Member teachings and beliefs</a></li>
-        
-          <li><a href="#discussion">Discussion</a></li>
-        
-          <li><a href="#conclusions">Conclusions</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In early 2017, the salary/stipend amount of LDS General Authorities (GAs) <a rel="external" href="https://mormonleaks.io/newsroom/2017-01-09-mormonleaks-releases-4-documents/">was leaked</a>.  The Church owned <a rel="external" href="http://www.deseretnews.com/article/865670786/MormonLeaks-dumps-four-new-documents-about-LDS-Church.html">Deseret News stated</a>:</p>
 <blockquote>
 <p>The church long has been transparent about providing living allowances to General Authorities</p>
 </blockquote>
 <p>While technically accurate (the practice of compensating GAs <em>was</em> disclosed in 1985 in the male-only Priesthood session of General Conference), the question remains as to how broadly transparent the LDS Church has been with leadership compensation.  How often are members or journalists led to believe that the Church pays no one, and how often is GA compensation explicitly mentioned?</p>
 <p>This document seeks to establish the extent to which the LDS Church has been transparent in providing living allowances to General Authorities.  First, I present every statement made by the Church or leaders that seems relevant to perceptions about General Authority living allowances.  Second, I conduct several searches on lds.org using relevant phrases to determine the extent to which the search results provide transparency.  Next, I examine a series of linked LDS Newsroom articles discussing the LDS Church’s unpaid clergy to show the extent to which, in practice, the LDS Church is transparent with GA compensation.  Finally, I reference anecdotes demonstrating that members themselves frequently taught that no one (including the General Authorities) were paid.</p>
-<h2 id="statements-by-lds-leaders-and-official-sources">Statements by LDS leaders and official sources</h2>
-<h3 id="explanation-after-the-salary-stipend-leak">Explanation <em>after</em> the salary/stipend leak</h3>
+<h2 id="statements-by-lds-leaders-and-official-sources">Statements by LDS leaders and official sources<a class="zola-anchor" href="#statements-by-lds-leaders-and-official-sources" aria-label="Anchor link for: statements-by-lds-leaders-and-official-sources"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="explanation-after-the-salary-stipend-leak">Explanation <em>after</em> the salary/stipend leak<a class="zola-anchor" href="#explanation-after-the-salary-stipend-leak" aria-label="Anchor link for: explanation-after-the-salary-stipend-leak"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>After the salary/stipend leak occured</em></p>
 <blockquote>
 <p>General authorities leave their careers when they are called into full-time church service. When they do so, they focus all of their time on serving the church and are given a living allowance. The living allowance is uniform for all general authorities [including First Presidency, Quorum of the Twelve Apostles, First and Second Quorums of the Seventy and Presiding Bishopric].</p>
 </blockquote>
 <p>—Eric Hawkins, Senior Manager, Media Relations, LDS Church Public Affairs Department, <a rel="external" href="http://www.deseretnews.com/article/865670786/MormonLeaks-dumps-four-new-documents-about-LDS-Church.html">January 9, 2017 PR Statement</a></p>
-<h3 id="clearly-explain-living-allowance-for-all-general-authorities-pre-leak">Clearly explain living allowance for all General Authorities (pre-leak)</h3>
+<h3 id="clearly-explain-living-allowance-for-all-general-authorities-pre-leak">Clearly explain living allowance for all General Authorities (pre-leak)<a class="zola-anchor" href="#clearly-explain-living-allowance-for-all-general-authorities-pre-leak" aria-label="Anchor link for: clearly-explain-living-allowance-for-all-general-authorities-pre-leak"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>These clearly explain that all General Authorities are given a living allowance.</em></p>
 <p><em>Note that the following statement was given in the Priesthood Session of General Conference which is not attended by women.</em></p>
 <blockquote>
@@ -158,7 +255,8 @@
 <p>Doctrine and Covenants 70:5–18 teaches that the men entrusted to be stewards over the revelations and commandments were to make the printing and distribution of Church publications their employment. In our day, General Authorities of the Church give up their livelihoods to serve full-time, so they receive a modest living allowance—enough for them to support themselves and their families.  Why is it appropriate for Church leaders who are called to full-time service to receive compensation for their needs?</p>
 </blockquote>
 <p>—Doctrine and Covenants and Church History Study Guide for Home-Study Seminary Students. <a rel="external" href="https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-and-church-history-study-guide-for-home-study-seminary-students-2014/section-03/unit-15-day-4-doctrine-and-covenants-69-71?lang=eng">Unit 15: Day 4, Doctrine and Covenants 69–71</a></p>
-<h3 id="give-impression-all-are-unpaid">Give impression <em>all</em> are unpaid</h3>
+<h3 id="give-impression-all-are-unpaid">Give impression <em>all</em> are unpaid<a class="zola-anchor" href="#give-impression-all-are-unpaid" aria-label="Anchor link for: give-impression-all-are-unpaid"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>As noted <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/">by reddit user curious_mormon</a>, many of these statements are particularly problematic since the person making them was receiving a stipend at the time they made the statement.</em></p>
 <blockquote>
 <p>In the Church of Jesus Christ of Latter-day Saints there is no paid ministry, no professional clergy, as is common in other churches.</p>
@@ -269,7 +367,8 @@
 <p>Since we do not have a paid clergy, most of our applicants will meet this requirement by having sufficient practical Church leadership experience, especially if they have served a mission.</p>
 </blockquote>
 <p>—Military Relations and Chaplain Services (undated). <a rel="external" href="https://www.churchofjesuschrist.org/callings/military-relations/military-chaplains?lang=eng">Military Chaplains</a></p>
-<h3 id="modest-allowance-for-mission-presidents">Modest allowance for Mission Presidents</h3>
+<h3 id="modest-allowance-for-mission-presidents">Modest allowance for Mission Presidents<a class="zola-anchor" href="#modest-allowance-for-mission-presidents" aria-label="Anchor link for: modest-allowance-for-mission-presidents"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>These quotes indicate that a Mission President receives a modest living allowance.</em></p>
 <blockquote>
 <p>The interruption to professional employment can in some cases mean financial loss. While the Church provides mission presidents with a minimal living allowance, the couples usually have the financial means to supplement that allowance with their own funds.</p>
@@ -283,13 +382,15 @@
 <p>The calling is not a regular remunerative position,…The family involved gives of its time and energies without salary, though there is a modest allowance for living expenses.</p>
 </blockquote>
 <p>—Encyclopedia of Mormonism, 1992, pg 914. <a rel="external" href="http://eom.byu.edu/index.php/Mission,_Mission_President">“Mission President”</a></p>
-<h3 id="no-local-paid-clergy">No local paid clergy</h3>
+<h3 id="no-local-paid-clergy">No local paid clergy<a class="zola-anchor" href="#no-local-paid-clergy" aria-label="Anchor link for: no-local-paid-clergy"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>These statements clearly indicate local clergy are unpaid.</em></p>
 <blockquote>
 <p>Because we have no paid local clergy in our worldwide congregations, our members perform the work of ministry themselves.</p>
 </blockquote>
 <p>—President Dieter F. Uchtdorf, General Conference October 2013. <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2013/10/come-join-with-us?lang=eng">“Come, Join with Us”</a></p>
-<h3 id="technically-correct-but-might-be-construed-as-all-leaders-unpaid">Technically correct but might be construed as <em>all</em> leaders unpaid</h3>
+<h3 id="technically-correct-but-might-be-construed-as-all-leaders-unpaid">Technically correct but might be construed as <em>all</em> leaders unpaid<a class="zola-anchor" href="#technically-correct-but-might-be-construed-as-all-leaders-unpaid" aria-label="Anchor link for: technically-correct-but-might-be-construed-as-all-leaders-unpaid"><i class="fas fa-link"></i></a> 
+</h3>
 <p><em>These make the appropriate technical distinction, but they might be taken to mean that all clergy are unpaid.</em></p>
 <blockquote>
 <p>Elder Monson’s Church callings have included stake Young Men president, bishop, high councilor, stake president, and stake mission president. “Our lay leadership is one of the great things about the Church,” he says</p>
@@ -336,7 +437,8 @@
 <p>The local congregational leader for Latter-day Saints is the bishop (or branch president, for smaller congregations). A bishop holds the priesthood and is ordained to the office of bishop by a more senior Church leader. He earns his own living and receives no pay of any kind for his service in the Church.</p>
 </blockquote>
 <p>—Mormon Newsroom (undated). <a rel="external" href="http://www.mormonnewsroom.org/topic/lay-priesthood">Lay Priesthood</a></p>
-<h2 id="lds-org-search-results">lds.org search results</h2>
+<h2 id="lds-org-search-results">lds.org search results<a class="zola-anchor" href="#lds-org-search-results" aria-label="Anchor link for: lds-org-search-results"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I performed searches of various terms relevant to General Authority living allowances to see how widely and in what manner the Church disburses information on GA allowances.</p>
 <p><em>Searches were performed in the lds.org search bar on 2017-03-09 and 2017-03-10</em></p>
 <ul>
@@ -345,7 +447,8 @@
 <li><strong>“unpaid clergy”</strong> — 4 distinct and relevant results: 1) “Islands of Light” (technical distinction; might be construed incorrectly), 2) “Whom the Lord Calls He Qualifies” (gives impression all are unpaid), 3) “The Gospel Restored” (gives impression all are unpaid), 4) “Bishop” Mormon Newsroom (“this position is unpaid”)</li>
 <li><strong>“no paid ministry”</strong> — 5 distinct and relevant results: 1) 1977 New Era (gives impression all unpaid) 2) “Follow the Brethren” (gives impression all unpaid), 3) “What’s the Difference?” (gives impression all unpaid), 4) “Our Sacred Priesthood Trust” (gives impression all unpaid) 5) “Why Mormons Make Good Neighbors” (gives impression all unpaid)</li>
 </ul>
-<h3 id="summary">Summary</h3>
+<h3 id="summary">Summary<a class="zola-anchor" href="#summary" aria-label="Anchor link for: summary"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From a search of the 4 phrases shown above, we can sum up the relative disbursement of these ideas.</p>
 <ul>
 <li><strong>Two</strong> sources (if we group the related seminary manual quotes) clearly indicate that all General Authorities receive a “modest living allowance” (note that one was in 1985 in a priesthood session and the quotes in the seminary manuals are from the teacher manual or home-study manual and published in 2014).</li>
@@ -354,7 +457,8 @@
 <li><strong>One</strong> makes the proper technical distinction about local leaders salaries but may also be mis-construed that all leaders are unpaid.</li>
 <li><strong>One</strong> clearly indicates that a Bishop is unpaid.</li>
 </ul>
-<h3 id="lds-newsroom-obfuscation">LDS Newsroom obfuscation</h3>
+<h3 id="lds-newsroom-obfuscation">LDS Newsroom obfuscation<a class="zola-anchor" href="#lds-newsroom-obfuscation" aria-label="Anchor link for: lds-newsroom-obfuscation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Statements on the LDS Newsroom about the lay, unpaid ministry appear to be carefully worded so as to lead readers unfamiliar with the compensation of General Authorities to mistakenly assume that LDS General Authorities are unpaid.<sup class="footnote-reference" id="fr-newsroomretrievaldate-1"><a href="/a_careful_examination/how-transparent-was-lds-church-with-living-allowances/#fn-newsroomretrievaldate">[1]</a></sup></p>
 <p>When visiting the page <a rel="external" href="https://web.archive.org/web/20181008012938/https://www.mormonnewsroom.org/blog/the-church-s-unpaid-clergy">The Church’s Unpaid Clergy</a> we find this nominally accurate—but somewhat misleading—verbiage:</p>
 <blockquote>
@@ -383,15 +487,19 @@
 <li>and states that the Church “functions in large measure because of the unpaid volunteer ministry of its members”</li>
 </ul>
 <p>but it never divulges that global leadership receives a significant “allowance” associated with their service. The qualifier “local” is sometimes used, but never in a manner to exclude the possibility that GAs are paid.  A member or journalist who is unaware of GA allowances would not likely conclude that GAs are paid based on their traversal of these pages—many of which are dedicated exclusively to the topic of (un-)paid clergy.</p>
-<h2 id="member-teachings-and-beliefs">Member teachings and beliefs</h2>
+<h2 id="member-teachings-and-beliefs">Member teachings and beliefs<a class="zola-anchor" href="#member-teachings-and-beliefs" aria-label="Anchor link for: member-teachings-and-beliefs"><i class="fas fa-link"></i></a> 
+</h2>
 <p>[Represented through ~900 mormon.org member profiles containing an answer to the question “Why don’t Mormons have paid clergy?” and a few other off-hand anecdotes, for example online chats with missionaries]</p>
-<h2 id="discussion">Discussion</h2>
+<h2 id="discussion">Discussion<a class="zola-anchor" href="#discussion" aria-label="Anchor link for: discussion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>[need to highlight quotes that are directly contradictory; need to present percentages]</p>
 <p>[initial discussion, needs work] Given a member’s likely access to source material (i.e., most members will either not have been exposed to or will not remember an off-hand statement from their seminary teacher; only males older than 44 years old would have been present in the 1985 Priesthood Session), I conclude that in the past 30 years, a member was more likely to stumble on material suggesting all leaders are unpaid than material suggesting they all are paid.  Still, once a person understands that GAs are given a living allowance then all other statements will likely be interpreted in that light, and this makes the analysis more complex and suggests that even with limited statements indicating a living allowance, many members were likely aware of the living allowance.  Still, it stands to reason that a substantial number of members were not aware that all General Authorities are given a salary/stipend.</p>
-<h2 id="conclusions">Conclusions</h2>
+<h2 id="conclusions">Conclusions<a class="zola-anchor" href="#conclusions" aria-label="Anchor link for: conclusions"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Survey data of individuals in the U.S. and in other countries would be helpful to better undestand the percentage of members who know that GAs receive a living allowance.</p>
 <p>[other conclusions]</p>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="https://proveallthingsholdfasttogood.wordpress.com/paid-clergy-in-church-literature/">Paid Clergy in Church Literature</a> (an independent analysis similar in nature)</p>
 <hr />
 <p><em>Attribution: besides searching lds.org, many quotes were compiled from <a rel="external" href="http://intellectualpreserve.org/ifm_yes_paid_clergy.html">IntellectualPreserve</a>, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5n7i1y/collection_of_quotes_about_no_paid_ministry/">this post by __Shawn</a>, and especially <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5n7buv/several_quotes_to_show_the_depth_of_the_recent/">this post by curious_mormon</a>.</em></p>
@@ -403,16 +511,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -427,105 +534,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

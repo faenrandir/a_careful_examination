@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Light and Truth Response pt 1: Manipulation and Fallacies | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Light and Truth Response pt 1: Manipulation and Fallacies | A Careful Examination</title>
+<meta property="og:title" content="Light and Truth Response pt 1: Manipulation and Fallacies | A Careful Examination" />
+<meta name="twitter:title" content="Light and Truth Response pt 1: Manipulation and Fallacies | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/response-to-light-and-truth-letter-manipulation-and-fallacies/">
-  
+  <meta property="og:url" content="/a_careful_examination/response-to-light-and-truth-letter-manipulation-and-fallacies/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Light and Truth Response pt 1: Manipulation and Fallacies</h1>
@@ -98,31 +214,13 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">(Introduction)</a></li>
-        
-          <li><a href="#building-up-vs-tearing-down">Building Up vs. Tearing Down</a></li>
-        
-          <li><a href="#the-internet">The Internet</a></li>
-        
-          <li><a href="#illusions-and-mirages">Illusions and Mirages</a></li>
-        
-          <li><a href="#the-mormon-stories-formula">The Mormon Stories Formula</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[very rough draft]</p>
-<h1 id="introduction">(Introduction)</h1>
+  
+  
+
+  <div class="post-content">
+    <p>[very rough draft]</p>
+<h1 id="introduction">(Introduction)<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h1>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> I grew up in the Church of Jesus Christ of Latter-day Saints. I was baptized at 8, a missionary at 19, and married at 22. I graduated from Brigham Young University at 23. I am a right-down-the-middle average member of the Church. I served in various callings from several wards and stakes across the US. I never planned to have a faith crisis. Most people who know me are surprised to hear that I seriously considered leaving the Church. In the ten years since I first admitted that I did not believe in God, I’ve seen other members leave the fold. Whenever I saw a social media post from a friend or family member outlining their decision to remove their names from the records of the Church, it felt uncomfortable. The natural question would always surface: “<strong>What do they know that I don’t?</strong>”</p>
 </blockquote>
@@ -144,77 +242,88 @@ Ideally, A person should believe the data and strong arguments. They should foll
 <li>Why it is manipulative</li>
 <li>My Commentary</li>
 </ol>
-<h3 id="distrust-in-authority">Distrust in authority</h3>
+<h3 id="distrust-in-authority">Distrust in authority<a class="zola-anchor" href="#distrust-in-authority" aria-label="Anchor link for: distrust-in-authority"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Assuming that any institutional structure with a hierarchy is up to no good.</li>
 <li>Example: “If the Church donated that money, it must have been for nefarious reasons.” The attitude that anything positive the Church does must have had sinister motives.</li>
 <li>Why manipulative: This is designed to make the target distrust church leaders. The manipulator wins if the target believes they cannot trust the Church.</li>
 <li>Some exmormons assume all LDS leaders are untrustworthy, but many do not [demonstrate].  I think we should trust people (including LDS leadership) in proportion to their demonstrated trustworthiness (no more, no less).</li>
 </ol>
-<h3 id="myth-of-infallibility">Myth of Infallibility</h3>
+<h3 id="myth-of-infallibility">Myth of Infallibility<a class="zola-anchor" href="#myth-of-infallibility" aria-label="Anchor link for: myth-of-infallibility"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: An assumption that church leaders are infallible.</li>
 <li>Example: Any quote or policy from church leaders in the past that does not align with what we practice or believe today.</li>
 <li>Why manipulative: It assumes something the restoration never does. Namely, God’s servants should be near perfect and not succumb to popular false teachings. The formula for critics is easy. 1). Assume church leaders are infallible 2). Show an example of fallibility.</li>
 <li>My commentary: There are only two possible ways to demonstrate that LDS leaders may not be communicating with an omniscient being: 1) showing that they contradict themselves in some substantive way (since we would not expect a truth-telling God to contradict themselves), and 2) they claim something that can be demonstrated to be at odds with demonstrated reality. The proper framing is whether there is sufficient evidence to conclude that LDS leaders are receiving divine communication in a manner that would distinguish their words or actions from those of any other forward-thinking individual (e.g., a well-educated and thoughtful CEO of a company).</li>
 </ol>
-<h3 id="false-compromise">False Compromise</h3>
+<h3 id="false-compromise">False Compromise<a class="zola-anchor" href="#false-compromise" aria-label="Anchor link for: false-compromise"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Presenting opposed narratives and then assuming, “Well, the truth must lie between these two extremes.”</li>
 <li>Example: “Joseph Smith said he translated the golden plates with the gift and power of God. However, he was just a treasure-seeking, peep-stone-looking fraud.”</li>
 <li>Why manipulative: Critics do not need their target to agree with their view. They only need the victim to reject the traditional narrative. The middle ground between truth and lies is not where the truth is.</li>
 <li>My commentary: LDS leaders have repeatedly emphasized the binary nature of LDS truth claims ([cite Hinckley and Holland, etc]). Nuanced argumentation acknowledges all kinds of possible middle ground (e.g., [my BoM ancient influence chart]). The orthodox LDS position depends on a certain set of minimal conditions, though. Also, for convenience, it’s helpful think about comparing the naturalistic position with the orthodox position.</li>
 </ol>
-<h3 id="the-big-list-gish-gallop-or-proof-by-verbosity">The Big List (Gish Gallop or Proof by Verbosity)</h3>
+<h3 id="the-big-list-gish-gallop-or-proof-by-verbosity">The Big List (Gish Gallop or Proof by Verbosity)<a class="zola-anchor" href="#the-big-list-gish-gallop-or-proof-by-verbosity" aria-label="Anchor link for: the-big-list-gish-gallop-or-proof-by-verbosity"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: An illusion of proof by the sheer mass of material provided.</li>
 <li>Example: The CES Letter. It culminates the critiques of the Church of Jesus Christ’s truth claims.</li>
 <li>Why manipulative: Overwhelm the reader or listener. Critics who use the big list tactic want to create the illusion that even if one concern has an answer, there are 100 more. It is the hydra of manipulation strategies.</li>
 <li>My commentary: KnoWhy has hundreds of pages. LDS scholars produce volumes of work attempting to defend the faith. The Light and Truth Letter is relatively long. The proper size of a document is the size it takes to convey the data and argument to the intended audience.</li>
 </ol>
-<h3 id="half-truth">Half Truth</h3>
+<h3 id="half-truth">Half Truth<a class="zola-anchor" href="#half-truth" aria-label="Anchor link for: half-truth"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Mixing truth with deceit to confuse the issue.</li>
 <li>Example: The CES Letter seeks to explain how Joseph Smith came up with so many unique place names in the Book of Mormon. A table lists place names and potential candidates in and around upstate New York. The idea is not a half-truth; it is more like a tenth truth. Most modern cities on the list did not exist until after the publication of the Book of Mormon.</li>
 <li>Why manipulative: A half-truth is still a lie at its core. It is more destructive than a lie because a half-truth requires untangling the lie from the truth.</li>
 <li>My commentary: Ideally, nobody should do this. For the example given, the author updated a lot of the list and gave reasons for the update. The author is free to correct misinformation wherever they find it. For example, a list of placenames that existed during JS’s time was also researched by an LDS historian (amateur?) and I summarized their findings in context.</li>
 </ol>
-<h3 id="presentism">Presentism</h3>
+<h3 id="presentism">Presentism<a class="zola-anchor" href="#presentism" aria-label="Anchor link for: presentism"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Assuming historical figures see the world in the same way that a person would today. Judging the past based on today’s standards.</li>
 <li>Example: Church leaders phased in the word of wisdom from its 1833 introduction to 1921. That was when it became required for a temple recommend. Critics point out that early church leaders did not adhere to the Word of Wisdom as we know it today.</li>
 <li>Why manipulative: Judging people in the past based on today’s standards is popular but misleading. Imagine getting speeding tickets for driving 35 mph in a 25 mph zone in your neighborhood—except that the speed limit was only recently changed from 35 mph to 25 mph.5 If critics lived at the same time as the people they criticize, they would believe and act similarly (or worse). Anything from 200 years ago seems weird without historical and cultural context.</li>
 <li>My commentary: Because LDS historical figures purportedly had access to the mind and will of an omniscient being, then we expect a level of consistency and veridicality that transcends (at least to some extent) those of other past historical figures. The naturalist position expects individuals to act within the context of their time in every way. The orthodox position expects some greater level of consistency or veridicality than we might expect otherwise, so these are important discussions to have.</li>
 </ol>
-<h3 id="quote-mining">Quote Mining</h3>
+<h3 id="quote-mining">Quote Mining<a class="zola-anchor" href="#quote-mining" aria-label="Anchor link for: quote-mining"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Mining for unflattering quotes made in the past.</li>
 <li>Example: A meme on social media by a critic - “My wife has borne to me fifteen children. Anything short of this would have been less than her duty and privilege.” - George F. Richards, Relief Society Magazine, July 1916.</li>
 <li>Why manipulative: It is disingenuous. Scouring a target’s social media feeds to find anything damaging is similar. Often, these quotes lack context or fall into the “presentism” category.</li>
 <li>My commentary: Ideally, the sum of a person’s output would be examined. Most members are aware of the flattering quotes, but many are not aware of the unflattering ones (since many are censored [cite John Lee example]). The orthodox LDS model requires a person to be righteous to communicate with the holy ghost [cite]. So, by their own standards, the character of leaders is fair game, and unflattering quotes form some of that substance. Furthermore, many of the “unflattering” quotes contain contradictions (and these are among the only way to form arguments suggesting LDS leaders are not communicating with an omniscient being). Finally, unflattering quotes may highlight cultural phenomena that people may find ethically problematic (e.g., racism or patriarchal attitudes) and point away from the organization being led by a loving, omniscient being.</li>
 </ol>
-<h3 id="meat-before-milk">Meat before Milk</h3>
+<h3 id="meat-before-milk">Meat before Milk<a class="zola-anchor" href="#meat-before-milk" aria-label="Anchor link for: meat-before-milk"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Presenting complicated issues without first establishing the fundamental building blocks for understanding.</li>
 <li>Example: “Mormons believe they will all have their own planet.” “Mormons believe that only they will get into heaven.”</li>
 <li>Why manipulative: Critics who use this tactic either 1). Do not understand the issue, or more likely, 2). Understand it, but know that jumping to the conclusion first will lead people to avoid engaging the Church’s sincere claims.</li>
 <li>My commentary: Some critics do employ this tactic. Ideally, every issue would be presented in context and without shock value. On accasion, presenting a fact devoid of its complete context can allow an investigator to genuinely consider an <em>alternative</em> model (i.e., one can substitute another context, like naturalism,  and can then ask if that context provides a better explanation for the phenomenon), but in general I think the tactic is problematic.</li>
 </ol>
-<h3 id="naturalist-assumptions">Naturalist Assumptions</h3>
+<h3 id="naturalist-assumptions">Naturalist Assumptions<a class="zola-anchor" href="#naturalist-assumptions" aria-label="Anchor link for: naturalist-assumptions"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Assuming no supernatural or spiritual forces are at play in the universe.</li>
 <li>Example: “Angels don’t appear to men to give them golden plates.”</li>
 <li>Why manipulative: Critics who have naturalist assumptions are close-minded by definition. They are limited in their pursuit of truth. Eliminating supernatural forces from the universe closes off an entire dimension of truth.</li>
 <li>My commentary: To give the LDS worldview a fair shake, we need to be willing to entertain the possibility of supernatural beings operating in the world in various ways that might suspend or contravene known natural law. However, it is valid to ask questions about the consistency or effectiveness of these actions so that we can better judge if these seem like post-hoc rationalization or subconcious manifestation on the one hand, or the genuine actions of beings representing an omniscient being on the other.</li>
 </ol>
-<h3 id="bully-on-the-playground">Bully on the Playground</h3>
+<h3 id="bully-on-the-playground">Bully on the Playground<a class="zola-anchor" href="#bully-on-the-playground" aria-label="Anchor link for: bully-on-the-playground"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>Tactic: Use of mockery and name-calling.</li>
 <li>Example: “Oh, he is just a TBM (‘True Believing Mormon’). “You’re in a cult.”</li>
 <li>Why manipulative: Critics attempt to manipulate people into accepting their worldviews by name-calling or labeling. No one wants to hear that what they are doing is weird. This method is effective, especially if someone is unsure of their convictions.</li>
 <li>My commentary: Critics do this frequently and this should be avoided. Some members/apologists[^note_about_apologist] also do this (“can leave but can’t leave it alone.” “Korihor” etc.). [footnote TBM]</li>
 </ol>
-<h2 id="fallacies">Fallacies</h2>
+<h2 id="fallacies">Fallacies<a class="zola-anchor" href="#fallacies" aria-label="Anchor link for: fallacies"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Critics are freqently guilty of logical fallacies. Members and apologists are also frequently guilty of these. I have no other comment except to say that we should call them out whenever we see them (i.e., on both sides) so that people can focus on the substance of the issues.</p>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> Referencing the CES Letter and other “doubt bombing” critical tactics, Manuel Padro, an anthropologist and former latter-day saint, commented (emphasis added):</p>
@@ -237,7 +346,8 @@ Ideally, A person should believe the data and strong arguments. They should foll
 <p><span style="color:red; margin-left:-10px;"> The more I learned from critics, the more I saw the manipulative techniques being used against me. Once I started seeing it, I couldn’t unsee it.</p>
 </blockquote>
 <p>Again, this implies that critics … [need a control].</p>
-<h1 id="building-up-vs-tearing-down">Building Up vs. Tearing Down</h1>
+<h1 id="building-up-vs-tearing-down">Building Up vs. Tearing Down<a class="zola-anchor" href="#building-up-vs-tearing-down" aria-label="Anchor link for: building-up-vs-tearing-down"><i class="fas fa-link"></i></a> 
+</h1>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> The sheer hatred in the critical community alarmed me. I could not identify with that.</p>
 </blockquote>
@@ -298,7 +408,8 @@ increase my popularity in the work place on any level.</p>
 <p><span style="color:red; margin-left:-10px;"> To be a believer is to move against the cultural current of skepticism. Following Christ is hard to do—it always has been.</p>
 </blockquote>
 <p>The difficulty of following a religious path does not seem necessarily tethered to the validity of its truth claims. It is arguably far more difficult to be a JW or a fundamentatlist LDS.</p>
-<h1 id="the-internet">The Internet</h1>
+<h1 id="the-internet">The Internet<a class="zola-anchor" href="#the-internet" aria-label="Anchor link for: the-internet"><i class="fas fa-link"></i></a> 
+</h1>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> … The internet is a great place to find out when Taco Bell closes. But ask Google which political party to vote for? Should I be pro-choice or pro-life? How about pro-Palestine or pro-Israel? Is the Mormon Church a cult? Yikes. Anything remotely controversial on the internet is a mess of disinformation and propaganda.</p>
 </blockquote>
@@ -341,7 +452,8 @@ to do with their substance.</p>
 <p><span style="color:red; margin-left:-10px;"> Ultimately, the manipulation happens in the presentation of data and history, not the data and history itself.</p>
 </blockquote>
 <p>Certainly some critics will try to spin a story with more vigor than the data warrants (just like many members/apologists do when trying to ). A careful critic will present the available data and provide a reasonable explanation from a critical perspective. The act of presenting an argument in this manner is not <em>intrinsically</em> manipulative.</p>
-<h1 id="illusions-and-mirages">Illusions and Mirages</h1>
+<h1 id="illusions-and-mirages">Illusions and Mirages<a class="zola-anchor" href="#illusions-and-mirages" aria-label="Anchor link for: illusions-and-mirages"><i class="fas fa-link"></i></a> 
+</h1>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> “Family. Isn’t it about… time to recognize how Church ruins them?” – X (Twitter) comment</p>
 </blockquote>
@@ -377,7 +489,8 @@ to do with their substance.</p>
 <p><span style="color:red; margin-left:-10px;"> If a critic has left the Church of Jesus Christ and that tension created a rift in their family, I am sorry that happened. In the same breath, that rift is not the Church’s fault.</p>
 </blockquote>
 <p>[Perhaps it’s proper that the Church share some of that blame because the Church has a poor model for interfaith family relationships. [[lots of examples]]]</p>
-<h1 id="the-mormon-stories-formula">The Mormon Stories Formula</h1>
+<h1 id="the-mormon-stories-formula">The Mormon Stories Formula<a class="zola-anchor" href="#the-mormon-stories-formula" aria-label="Anchor link for: the-mormon-stories-formula"><i class="fas fa-link"></i></a> 
+</h1>
 <blockquote>
 <p><span style="color:red; margin-left:-10px;"> … I eventually stopped listening to Mormon Stories when I caught on to the formula. The show became predictable. Despite the hosts’ every effort to reassure the audience that they were not trying to convince me to leave the Church, I got the impression that I was not hearing “the true story” of early church events or modern problems. I was hearing the critical, least generous narratives of church issues from a handful of disillusioned members of the Church.</p>
 </blockquote>
@@ -396,16 +509,15 @@ to do with their substance.</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -420,105 +532,9 @@ to do with their substance.</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

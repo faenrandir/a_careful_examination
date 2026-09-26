@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Definitions of terms related to LDS Leaders&#39; Polygamy Denials | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Definitions of terms related to LDS Leaders&#39; Polygamy Denials | A Careful Examination</title>
+<meta property="og:title" content="Definitions of terms related to LDS Leaders&#39; Polygamy Denials | A Careful Examination" />
+<meta name="twitter:title" content="Definitions of terms related to LDS Leaders&#39; Polygamy Denials | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/definitions-of-terms-polygamy-denials/">
-  
+  <meta property="og:url" content="/a_careful_examination/definitions-of-terms-polygamy-denials/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Definitions of terms related to LDS Leaders&#39; Polygamy Denials</h1>
@@ -98,40 +214,25 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#merriam-webster">Merriam-Webster</a></li>
-        
-          <li><a href="#disambiguation">Disambiguation</a></li>
-        
-          <li><a href="#gospel-principles">Gospel Principles</a></li>
-        
-          <li><a href="#definition-given-in-general-conference">Definition given in General Conference</a></li>
-        
-          <li><a href="#wikipedia">Wikipedia</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h3 id="merriam-webster">Merriam-Webster</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="merriam-webster">Merriam-Webster<a class="zola-anchor" href="#merriam-webster" aria-label="Anchor link for: merriam-webster"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Merriam-Webster provides a disambiguation of three words: lie, prevaricate, and equivocate.  I will present the definitions and then the disambiguation.</p>
-<h4 id="definitions">Definitions</h4>
-<h5 id="lie-intransitive-verb">lie (intransitive verb):</h5>
+<h4 id="definitions">Definitions<a class="zola-anchor" href="#definitions" aria-label="Anchor link for: definitions"><i class="fas fa-link"></i></a> 
+</h4>
+<h5 id="lie-intransitive-verb">lie (intransitive verb):<a class="zola-anchor" href="#lie-intransitive-verb" aria-label="Anchor link for: lie-intransitive-verb"><i class="fas fa-link"></i></a> 
+</h5>
 <blockquote>
 <p><strong>1</strong> :  to make an untrue statement with intent to deceive &lt;She was lying when she said she didn’t break the vase.&gt; &lt;He lied  about his past experience.&gt;</p>
 </blockquote>
 <blockquote>
 <p><strong>2</strong> :  to create a false or misleading impression &lt;Statistics sometimes lie.&gt; &lt;The mirror never lies.&gt;</p>
 </blockquote>
-<h5 id="equivocate-intransitive-verb">equivocate (intransitive verb):</h5>
+<h5 id="equivocate-intransitive-verb">equivocate (intransitive verb):<a class="zola-anchor" href="#equivocate-intransitive-verb" aria-label="Anchor link for: equivocate-intransitive-verb"><i class="fas fa-link"></i></a> 
+</h5>
 <blockquote>
 <p><strong>1</strong> :  to use equivocal language especially with intent to deceive</p>
 </blockquote>
@@ -142,22 +243,26 @@
 <blockquote>
 <p><strong>1</strong> a :  subject to two or more interpretations and usually used to mislead or confuse &lt;an equivocal statement&gt;</p>
 </blockquote>
-<h5 id="prevaricate-intransitive-verb">prevaricate (intransitive verb):</h5>
+<h5 id="prevaricate-intransitive-verb">prevaricate (intransitive verb):<a class="zola-anchor" href="#prevaricate-intransitive-verb" aria-label="Anchor link for: prevaricate-intransitive-verb"><i class="fas fa-link"></i></a> 
+</h5>
 <blockquote>
 <p>:  to deviate from the truth :  equivocate</p>
 </blockquote>
-<h3 id="disambiguation">Disambiguation</h3>
+<h3 id="disambiguation">Disambiguation<a class="zola-anchor" href="#disambiguation" aria-label="Anchor link for: disambiguation"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Merriam-Webster disambiguates the terms thusly:</p>
 <blockquote>
 <p>A LIE is the blunt term, imputing dishonesty &lt;<em>lied</em> about where he had been &gt;.  PREVARICATE softens the bluntness of LIE by implying quibbling or confusing the issue &lt;during the hearings the witness did his best to prevaricate&gt;.  EQUIVOCATE implies using words having more than one sense so as to seem to say one thing but intend another &lt;equivocated endlessly in an attempt to mislead her inquisitors&gt;.</p>
 </blockquote>
-<h3 id="gospel-principles">Gospel Principles</h3>
+<h3 id="gospel-principles">Gospel Principles<a class="zola-anchor" href="#gospel-principles" aria-label="Anchor link for: gospel-principles"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The current Gospel Principles manual (as of 2017-02-06) defines lying and other forms of deception <a rel="external" href="https://www.churchofjesuschrist.org/manual/gospel-principles/chapter-31-honesty?lang=eng">in this paragraph</a> (emphasis added):</p>
 <blockquote>
 <p><strong>Lying is intentionally deceiving others.</strong> Bearing false witness is one form of lying. The Lord gave this commandment to the children of Israel: “Thou shalt not bear false witness against thy neighbour” (Exodus 20:16). Jesus also taught this when He was on earth (see Matthew 19:18). <strong>There are many other forms of lying.</strong> When we speak untruths, we are guilty of lying. <strong>We can also intentionally deceive others by a gesture or a look, by silence, or by telling only part of the truth.</strong> Whenever we lead people in any way to believe something that is not true, we are not being honest.</p>
 </blockquote>
 <p>So, lying is intentionally deceiving others, and it may be performed in a variety of ways (silence, telling only part of the truth, etc.)</p>
-<h3 id="definition-given-in-general-conference">Definition given in General Conference</h3>
+<h3 id="definition-given-in-general-conference">Definition given in General Conference<a class="zola-anchor" href="#definition-given-in-general-conference" aria-label="Anchor link for: definition-given-in-general-conference"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Marvin J. Ashton defined lying <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/1982/04/this-is-no-harm?lang=eng">in his 1982 General Conference address</a>:</p>
 <blockquote>
 <p>[His wise schoolteacher had them recite] “A lie is any communication given to another with the intent to deceive.”</p>
@@ -165,7 +270,8 @@
 <blockquote>
 <p>When I compare this definition with that found in the dictionary, which states, “A lie is an untrue statement made with the intent of deceiving,” I greatly appreciate her definition. A lie can be effectively communicated without words ever being spoken. Sometimes a nod of the head or silence can deceive. Recommending a questionable business investment, making a false entry in a ledger, devious use of flattery, or failure to divulge all pertinent facts are a few other ways to communicate the lie.</p>
 </blockquote>
-<h3 id="wikipedia">Wikipedia</h3>
+<h3 id="wikipedia">Wikipedia<a class="zola-anchor" href="#wikipedia" aria-label="Anchor link for: wikipedia"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The wikipedia <a rel="external" href="https://en.wikipedia.org/wiki/Lie">entry for lie</a> (as of 2017-02-06) defines “lie” (emphasis added):</p>
 <blockquote>
 <p>A lie is a statement that the stating party believes to be false and that is made with the intention to deceive.</p>
@@ -210,16 +316,15 @@
 <p><strong>Minimisation</strong>: Minimization is the opposite of exaggeration. It is a type of deception[10] involving denial coupled with rationalization in situations where complete denial is implausible.</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -234,105 +339,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

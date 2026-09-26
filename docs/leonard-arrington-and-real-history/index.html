@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Leonard Arrington documents suppressive attitudes towards LDS history | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Leonard Arrington documents suppressive attitudes towards LDS history | A Careful Examination</title>
+<meta property="og:title" content="Leonard Arrington documents suppressive attitudes towards LDS history | A Careful Examination" />
+<meta name="twitter:title" content="Leonard Arrington documents suppressive attitudes towards LDS history | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/leonard-arrington-and-real-history/">
-  
+  <meta property="og:url" content="/a_careful_examination/leonard-arrington-and-real-history/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Leonard Arrington documents suppressive attitudes towards LDS history</h1>
@@ -93,59 +209,72 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Leonard Arrington, the first professional historian ever appointed as LDS Church Historian, documented actions and attitudes of LDS leadership towards how its own history should be portrayed.  Many of these revolved around the reception to his Sesquicentennial History of the Church which was meant to “update and complement” B. H. Roberts’s Comprehensive History which had been published at the centennial of the Church’s founding.  After initial First Presidency approval, Arrington “had sixteen subjects and sixteen authors committed [with contracts signed] to the project. Furthermore, the church’s Deseret Book Company agreed to publish the series” (Prince pg 170, as presented in <a rel="external" href="http://associationmormonletters.org/blog/reviews/older-reviews/prince-leonard-arrington-and-the-writing-of-mormon-history-reviewed-by-dennis-clark/">Clark’s Review</a>).  Opposition led by Ezra Taft Benson and Mark E. Petersen “later amplified by Boyd K. Packer”, eventually cancelled the work (only 9 of the 16 volumes were ever published) and the entire History Divison would be dismantled roughly by the end of the 1970s (again, as discussed by Clark in his review of Prince).</p>
-<h2 id="examples">Examples</h2>
+<h2 id="examples">Examples<a class="zola-anchor" href="#examples" aria-label="Anchor link for: examples"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Several examples demonstrate suppressive attitudes or actions.<sup class="footnote-reference" id="fr-comprehensive-1"><a href="/a_careful_examination/leonard-arrington-and-real-history/#fn-comprehensive">[1]</a></sup></p>
-<h3 id="records-disappear-ing-from-scrutiny">Records “disappear[ing] from scrutiny”</h3>
+<h3 id="records-disappear-ing-from-scrutiny">Records “disappear[ing] from scrutiny”<a class="zola-anchor" href="#records-disappear-ing-from-scrutiny" aria-label="Anchor link for: records-disappear-ing-from-scrutiny"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Arrington described records “disappear[ing] from scrutiny” as <a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V27N01_103.pdf">summarized by Dobay</a>:</p>
 <blockquote>
 <p>Although Arrington gamely accepted [the] explanation for this relocation as an effort to enhance historical study, many omens pointed to other motives for moving scholars away from the archives in Salt Lake City. Valuable journals and letters of such nineteenth-century Mormons as William C. Clayton, John Taylor, George Q. Cannon, and Francis M. Lyman, selectively available in the 1970s, disappeared from scrutiny. (see footnote 17)</p>
 </blockquote>
-<h3 id="will-greatly-diminish-the-work-of-studying-and-writing-about-church-history">“will … greatly diminish … the work of studying and writing about Church history”</h3>
+<h3 id="will-greatly-diminish-the-work-of-studying-and-writing-about-church-history">“will … greatly diminish … the work of studying and writing about Church history”<a class="zola-anchor" href="#will-greatly-diminish-the-work-of-studying-and-writing-about-church-history" aria-label="Anchor link for: will-greatly-diminish-the-work-of-studying-and-writing-about-church-history"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.worldcat.org/title/leonard-arrington-and-the-writing-of-mormon-history/oclc/952109706">Prince’s book</a>:<sup class="footnote-reference" id="fr-conveyedbymiller-1"><a href="/a_careful_examination/leonard-arrington-and-real-history/#fn-conveyedbymiller">[2]</a></sup></p>
 <blockquote>
 <p>I was shaken by the way in which these brethren [Benson and Petersen] had their way; by the failure of anyone to defend the book, to speak up for it, to explain why we felt it was a good book. The entire episode convinced me that there are some Brethren, including the two persons next in line to be president of the Church and president of the Quorum of Twelve, who would not approve of any of our work … We have to reckon with the distinct possibility that, upon President Kimball’s death, these brethren, if they are still alive, will probably replace us and greatly diminish and alter the work of studying and writing about Church history. [pgs 290-291]</p>
 </blockquote>
-<h3 id="nothing-that-reflects-badly-on-the-church">“[nothing] that reflects badly on the Church”</h3>
+<h3 id="nothing-that-reflects-badly-on-the-church">“[nothing] that reflects badly on the Church”<a class="zola-anchor" href="#nothing-that-reflects-badly-on-the-church" aria-label="Anchor link for: nothing-that-reflects-badly-on-the-church"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.worldcat.org/title/leonard-arrington-and-the-writing-of-mormon-history/oclc/952109706">Prince’s book</a>:<sup class="footnote-reference" id="fr-conveyedbymiller-2"><a href="/a_careful_examination/leonard-arrington-and-real-history/#fn-conveyedbymiller">[2]</a></sup></p>
 <blockquote>
 <p>[Delbert] Stapley then relayed the sentiment of some within the Twelve that ‘we should not put anything in any of our histories that reflects badly on the Church … I replied that if our picture is entirely rosy nobody, even members of the Church, will have confidence in what we write because members of the Church know that there are warts and blemishes and unless we acknowledge some of these they will not have confidence that we are writing the whole truth and nothing but the truth.’ His reply was again, we must leave the bad things out of our history. [pg 285]</p>
 </blockquote>
-<h3 id="we-are-not-required-to-tell-the-whole-truth">“we are not required to tell the whole truth”</h3>
+<h3 id="we-are-not-required-to-tell-the-whole-truth">“we are not required to tell the whole truth”<a class="zola-anchor" href="#we-are-not-required-to-tell-the-whole-truth" aria-label="Anchor link for: we-are-not-required-to-tell-the-whole-truth"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Boyd K. Packer’s words to the History Department were recorded in Arrington’s diary and <a rel="external" href="http://associationmormonletters.org/blog/reviews/older-reviews/prince-leonard-arrington-and-the-writing-of-mormon-history-reviewed-by-dennis-clark/">independently confirmed by Dennis Clark</a>:</p>
 <blockquote>
 <p>Boyd Packer, now advisor to the History Department, addressed all department employees at length, among other things telling them ‘We are required to tell the truth but we are not required to tell the whole truth’” (303; the quote is from Arrington’s diary, and is as I remember it)</p>
 </blockquote>
-<h3 id="will-not-stand-for-our-real-history">“will not stand for our ‘real’ history”</h3>
+<h3 id="will-not-stand-for-our-real-history">“will not stand for our ‘real’ history”<a class="zola-anchor" href="#will-not-stand-for-our-real-history" aria-label="Anchor link for: will-not-stand-for-our-real-history"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/">his journal</a>:</p>
 <blockquote>
 <p>It is clear that President Benson will not stand for our ‘real’ history. And since he is next in line, and president of the Twelve, we are in a powerless position, and no one wishes to consider our own rationale,” Arrington wrote Sept. 6, 1976. “ … The question for me is shall I retain the job … and try to write history which will be approved by [the church’s] Correlation [Department] or shall I resign and continue to write ‘real history.’</p>
 </blockquote>
-<h3 id="want-prophets-without-warts">“want prophets without warts”</h3>
+<h3 id="want-prophets-without-warts">“want prophets without warts”<a class="zola-anchor" href="#want-prophets-without-warts" aria-label="Anchor link for: want-prophets-without-warts"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/">his journal</a>:</p>
 <blockquote>
 <p>Elders Benson and [Mark E. Petersen] … want glorious stories of the Restoration [of the gospel], unsullied by discussion of practical problems and controversial evidence. They want prophets without warts, revelation direct from high in pure vessels. The want faith-promoting stories and moral homilies. They feel strongly and will oppose all our books, written as we understand history.</p>
 </blockquote>
-<h3 id="do-not-want-the-church-to-promulgate-historical-truth">“do not want the church to promulgate historical truth”</h3>
+<h3 id="do-not-want-the-church-to-promulgate-historical-truth">“do not want the church to promulgate historical truth”<a class="zola-anchor" href="#do-not-want-the-church-to-promulgate-historical-truth" aria-label="Anchor link for: do-not-want-the-church-to-promulgate-historical-truth"><i class="fas fa-link"></i></a> 
+</h3>
 <p>From <a rel="external" href="https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/">his journal</a>:</p>
 <blockquote>
 <p>… some church officers do not want the church to promulgate historical truth. … If they do not want historical truth, what do these officials want?  They favor the purveying of traditional truth, which is different from historical truth, scientific truth or philosophical truth.</p>
 </blockquote>
-<h3 id="what-a-perversion-of-apostasy">“what a perversion of apostasy”</h3>
+<h3 id="what-a-perversion-of-apostasy">“what a perversion of apostasy”<a class="zola-anchor" href="#what-a-perversion-of-apostasy" aria-label="Anchor link for: what-a-perversion-of-apostasy"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Arrington viewed the September 6 excommunications as “blaming the messenger”.  From <a rel="external" href="https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/">his journal</a>:</p>
 <blockquote>
 <p>These excommunications are the worst examples of blaming the messenger for the message.  What a perversion of apostasy, to regard as apostates individuals who are … loyal and believing.</p>
 </blockquote>
-<h3 id="not-seen-fit-to-publish-these-diaries">“not seen fit to publish these diaries”</h3>
+<h3 id="not-seen-fit-to-publish-these-diaries">“not seen fit to publish these diaries”<a class="zola-anchor" href="#not-seen-fit-to-publish-these-diaries" aria-label="Anchor link for: not-seen-fit-to-publish-these-diaries"><i class="fas fa-link"></i></a> 
+</h3>
 <p>In his <a rel="external" href="https://www.jstor.org/stable/45223725">1966 Dialogue article on scholarly studies of Mormonism</a>, he commented:</p>
 <blockquote>
 <p>… It is unfortunate for the cause of Mormon history that the Church Historian’s Library, which is in the possession of virtually all of the diaries of leading Mormons, has not seen fit to publish these diaries or to permit qualified historians to use them without restriction.  One result has been that “Mormons” have become known essentially through the lives and characters of some of their most notorious adherents — i.e., Porter Rockwell, John D. Lee, and Hosea Stout[38] — rather than through such “mainstream” leaders as Brigham Young, John Taylor, Wilford Woodruff, George Q. Cannon, Joseph F. Smith, and David O. McKay. Even Brigham Young, recognized universally as one of America’s great colonizers, has no satisfactory biography.</p>
 </blockquote>
-<h3 id="more">More</h3>
+<h3 id="more">More<a class="zola-anchor" href="#more" aria-label="Anchor link for: more"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.worldcat.org/title/leonard-arrington-and-the-writing-of-mormon-history/oclc/952109706">Leonard Arrington and the writing of Mormon history</a> by Greg Prince
 <ul>
@@ -169,16 +298,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -193,105 +321,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework | A Careful Examination</title>
+<meta property="og:title" content="Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework | A Careful Examination" />
+<meta name="twitter:title" content="Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/vetting-the-visitors-integration/">
-  
+  <meta property="og:url" content="/a_careful_examination/vetting-the-visitors-integration/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework</h1>
@@ -93,52 +209,19 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#abstract">Abstract</a></li>
-        
-          <li><a href="#1-introduction-the-epistemic-problem-of-divine-communication">1. Introduction: The Epistemic Problem of Divine Communication</a></li>
-        
-          <li><a href="#2-signal-detection-and-calibration">2. Signal Detection and Calibration</a></li>
-        
-          <li><a href="#3-subjective-mediation-and-objective-hallmarks">3. Subjective Mediation and Objective Hallmarks</a></li>
-        
-          <li><a href="#4-surprise-as-a-rubric-for-the-holy-ghost">4. Surprise as a Rubric for the Holy Ghost</a></li>
-        
-          <li><a href="#5-prevalence-of-hallucinatory-experience">5. Prevalence of Hallucinatory Experience</a></li>
-        
-          <li><a href="#6-moral-amplification-and-the-agentic-state">6. Moral Amplification and the Agentic State</a></li>
-        
-          <li><a href="#7-hermetically-sealed-systems">7. Hermetically Sealed Systems</a></li>
-        
-          <li><a href="#8-testing-claims-of-divine-communication">8. Testing Claims of Divine Communication</a></li>
-        
-          <li><a href="#9-potential-for-good-and-harm">9. Potential for Good and Harm</a></li>
-        
-          <li><a href="#10-conclusion">10. Conclusion</a></li>
-        
-          <li><a href="#references-selected">References (Selected)</a></li>
-        
-          <li><a href="#author-contribution-and-use-of-ai-assistance">Author Contribution and Use of AI Assistance</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>[[I haven’t vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]</p>
-<h2 id="abstract">Abstract</h2>
+  
+  
+
+  <div class="post-content">
+    <p>[[I haven’t vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]</p>
+<h2 id="abstract">Abstract<a class="zola-anchor" href="#abstract" aria-label="Anchor link for: abstract"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Claims of communication with divine or disembodied agents are common across religious traditions. Such claims can yield profound moral, psychological, and social consequences. This paper proposes a structured framework for evaluating purported divine communication by integrating signal detection theory, information theory, cognitive psychology, and moral risk analysis.</p>
 <p>First, the problem is framed as one of distinguishing externally generated signals from internally generated cognitive processes. Second, criteria for objectivity are articulated in terms of information content, orthogonality, transmissibility, and reproducibility. Third, the moral amplification effects of perceived divine authority are analyzed through the lens of agentic-state research. Fourth, eliminative tests are proposed for objective existence and superhuman knowledge. Finally, the difficulty of establishing omnibenevolence under intelligence asymmetry is examined.</p>
 <p>The central claim is not that divine communication is impossible, but that authority claims grounded in private revelation require epistemic calibration proportional to their downstream moral impact.</p>
 <hr />
-<h2 id="1-introduction-the-epistemic-problem-of-divine-communication">1. Introduction: The Epistemic Problem of Divine Communication</h2>
+<h2 id="1-introduction-the-epistemic-problem-of-divine-communication">1. Introduction: The Epistemic Problem of Divine Communication<a class="zola-anchor" href="#1-introduction-the-epistemic-problem-of-divine-communication" aria-label="Anchor link for: 1-introduction-the-epistemic-problem-of-divine-communication"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Many individuals report communication with a third-party agent believed to exist independently of themselves. These experiences range from subtle “impressions” attributed to the Holy Spirit to vivid visions of embodied beings. Such communications are often regarded as authoritative and may direct consequential action.</p>
 <p>The core epistemic question is:</p>
 <blockquote>
@@ -146,7 +229,8 @@
 </blockquote>
 <p>This question matters because of consequence magnitude. Decisions attributed to divine authority may override personal hesitation, social norms, or moral intuitions.</p>
 <hr />
-<h2 id="2-signal-detection-and-calibration">2. Signal Detection and Calibration</h2>
+<h2 id="2-signal-detection-and-calibration">2. Signal Detection and Calibration<a class="zola-anchor" href="#2-signal-detection-and-calibration" aria-label="Anchor link for: 2-signal-detection-and-calibration"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Signal detection theory formalizes the problem of distinguishing signal from noise (Green &amp; Swets, 1966). Any detection system faces a tradeoff:</p>
 <ul>
 <li>Increasing sensitivity raises true positives but also false positives.</li>
@@ -160,7 +244,8 @@
 <p>Religious communities differ in calibration norms. Some traditions emphasize openness to impressions; others emphasize caution and hierarchical verification.</p>
 <p>The key insight is that calibration should consider <em>cost asymmetry</em>. If false positives carry high moral or social cost, greater evidentiary thresholds are warranted.</p>
 <hr />
-<h2 id="3-subjective-mediation-and-objective-hallmarks">3. Subjective Mediation and Objective Hallmarks</h2>
+<h2 id="3-subjective-mediation-and-objective-hallmarks">3. Subjective Mediation and Objective Hallmarks<a class="zola-anchor" href="#3-subjective-mediation-and-objective-hallmarks" aria-label="Anchor link for: 3-subjective-mediation-and-objective-hallmarks"><i class="fas fa-link"></i></a> 
+</h2>
 <p>All experience is subjectively mediated. Yet humans reliably distinguish between experiences judged subjective (dreams, hallucinations) and those judged objective (shared physical events).</p>
 <p>Experiences interpreted as objective typically exhibit:</p>
 <ol>
@@ -171,14 +256,16 @@
 </ol>
 <p>Information theory defines information in terms of surprise (−log₂ p). Unexpected observations contain higher informational value. However, surprise alone does not imply external origin.</p>
 <hr />
-<h2 id="4-surprise-as-a-rubric-for-the-holy-ghost">4. Surprise as a Rubric for the Holy Ghost</h2>
+<h2 id="4-surprise-as-a-rubric-for-the-holy-ghost">4. Surprise as a Rubric for the Holy Ghost<a class="zola-anchor" href="#4-surprise-as-a-rubric-for-the-holy-ghost" aria-label="Anchor link for: 4-surprise-as-a-rubric-for-the-holy-ghost"><i class="fas fa-link"></i></a> 
+</h2>
 <p>A common religious heuristic suggests that divine communication can be distinguished from confirmation bias by its contravention of prior belief:</p>
 <blockquote>
 <p>“You know that you’re really beyond confirmation bias when the Spirit starts teaching you things that are different from what you thought was true.”</p>
 </blockquote>
 <p>On the surface, this resembles a valid informational criterion: externally introduced information would increase entropy relative to prior internal states.</p>
 <p>However, cognitive science suggests an alternative source for unexpected insight: unconscious processing.</p>
-<h3 id="4-1-subconscious-processing-and-insight">4.1 Subconscious Processing and Insight</h3>
+<h3 id="4-1-subconscious-processing-and-insight">4.1 Subconscious Processing and Insight<a class="zola-anchor" href="#4-1-subconscious-processing-and-insight" aria-label="Anchor link for: 4-1-subconscious-processing-and-insight"><i class="fas fa-link"></i></a> 
+</h3>
 <p><strong>Automatic Processing</strong><br />
 Hasher and Zacks (1979) demonstrated that frequency and related information are encoded automatically, without conscious intention. Humans often “know” patterns they have never explicitly analyzed.</p>
 <p><strong>Split-Brain Research</strong><br />
@@ -191,7 +278,8 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 </blockquote>
 <p>Therefore, the mere fact that an impression contradicts prior conscious thought does not discriminate between divine communication and subconscious processing.</p>
 <hr />
-<h2 id="5-prevalence-of-hallucinatory-experience">5. Prevalence of Hallucinatory Experience</h2>
+<h2 id="5-prevalence-of-hallucinatory-experience">5. Prevalence of Hallucinatory Experience<a class="zola-anchor" href="#5-prevalence-of-hallucinatory-experience" aria-label="Anchor link for: 5-prevalence-of-hallucinatory-experience"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Population-level research complicates naive confidence in subjective objectivity.</p>
 <p>Meta-analyses indicate that psychotic-like experiences occur in approximately 5–15% of the general population (van Os et al., 2009; Linscott &amp; van Os, 2013). Many such experiences are non-clinical yet phenomenologically vivid.</p>
 <p>Auditory verbal hallucinations in non-clinical populations often lack associated pathology and can be interpreted religiously (Waters et al., 2012).</p>
@@ -200,7 +288,8 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 <p>Subjective vividness is not a reliable indicator of external instantiation.</p>
 </blockquote>
 <hr />
-<h2 id="6-moral-amplification-and-the-agentic-state">6. Moral Amplification and the Agentic State</h2>
+<h2 id="6-moral-amplification-and-the-agentic-state">6. Moral Amplification and the Agentic State<a class="zola-anchor" href="#6-moral-amplification-and-the-agentic-state" aria-label="Anchor link for: 6-moral-amplification-and-the-agentic-state"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Milgram’s obedience experiments demonstrated that individuals obey authority figures when:</p>
 <ol>
 <li>The authority is perceived as legitimate.</li>
@@ -217,7 +306,8 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 <p>Misattributed divine authority can magnify behavioral magnitude beyond what would occur under ordinary internal deliberation.</p>
 </blockquote>
 <hr />
-<h2 id="7-hermetically-sealed-systems">7. Hermetically Sealed Systems</h2>
+<h2 id="7-hermetically-sealed-systems">7. Hermetically Sealed Systems<a class="zola-anchor" href="#7-hermetically-sealed-systems" aria-label="Anchor link for: 7-hermetically-sealed-systems"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Religious epistemic systems sometimes become resistant to falsification. In LDS thought, for example, revelation is often validated by internal spiritual confirmation. Disconfirming evidence may be reinterpreted as insufficient faith, spiritual immaturity, or divine testing.</p>
 <p>Such systems can become “hermetically sealed” when:</p>
 <ul>
@@ -228,8 +318,10 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 <p>Hermetically sealed systems reduce false negatives but increase vulnerability to false positives, particularly when personal revelation is insulated from external cross-checking.</p>
 <p>This structural dynamic mirrors high-sensitivity calibration in signal detection theory.</p>
 <hr />
-<h2 id="8-testing-claims-of-divine-communication">8. Testing Claims of Divine Communication</h2>
-<h3 id="8-1-test-for-objective-existence">8.1 Test for Objective Existence</h3>
+<h2 id="8-testing-claims-of-divine-communication">8. Testing Claims of Divine Communication<a class="zola-anchor" href="#8-testing-claims-of-divine-communication" aria-label="Anchor link for: 8-testing-claims-of-divine-communication"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="8-1-test-for-objective-existence">8.1 Test for Objective Existence<a class="zola-anchor" href="#8-1-test-for-objective-existence" aria-label="Anchor link for: 8-1-test-for-objective-existence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>An objectively instantiated entity should be capable of:</p>
 <ul>
 <li>Producing independently verifiable information unavailable to the subject.</li>
@@ -237,26 +329,32 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 <li>Facilitating cross-observer agreement without prior coordination.</li>
 </ul>
 <p>Pre-registered prediction protocols could test claims of prophetic knowledge. For example, specific, time-bound, low-base-rate events could be specified in advance and evaluated prospectively.</p>
-<h3 id="8-2-test-for-superhuman-knowledge">8.2 Test for Superhuman Knowledge</h3>
+<h3 id="8-2-test-for-superhuman-knowledge">8.2 Test for Superhuman Knowledge<a class="zola-anchor" href="#8-2-test-for-superhuman-knowledge" aria-label="Anchor link for: 8-2-test-for-superhuman-knowledge"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Complete omniscience is untestable. However, threshold testing is possible:</p>
 <ul>
 <li>Accurate prediction of highly improbable future events.</li>
 <li>Access to sealed information demonstrably unavailable to the subject.</li>
 </ul>
 <p>Such tests are eliminative rather than confirmatory.</p>
-<h3 id="8-3-the-problem-of-benevolence">8.3 The Problem of Benevolence</h3>
+<h3 id="8-3-the-problem-of-benevolence">8.3 The Problem of Benevolence<a class="zola-anchor" href="#8-3-the-problem-of-benevolence" aria-label="Anchor link for: 8-3-the-problem-of-benevolence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Even if objective existence and superhuman knowledge were established, benevolence remains difficult to verify.</p>
 <p>Under intelligence asymmetry, a superior agent could strategically simulate benevolence. This mirrors alignment concerns in artificial intelligence research (Bostrom, 2014).</p>
 <p>Trust in benevolence would require longitudinal consistency, transparency, and moral coherence.</p>
 <hr />
-<h2 id="9-potential-for-good-and-harm">9. Potential for Good and Harm</h2>
-<h3 id="potential-good">Potential Good</h3>
+<h2 id="9-potential-for-good-and-harm">9. Potential for Good and Harm<a class="zola-anchor" href="#9-potential-for-good-and-harm" aria-label="Anchor link for: 9-potential-for-good-and-harm"><i class="fas fa-link"></i></a> 
+</h2>
+<h3 id="potential-good">Potential Good<a class="zola-anchor" href="#potential-good" aria-label="Anchor link for: potential-good"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Religious belief is associated with certain prosocial outcomes, including charitable behavior and psychological resilience (Putnam &amp; Campbell, 2010). Individual experiences of guidance may increase well-being (Pargament, 1997).</p>
-<h3 id="potential-harm">Potential Harm</h3>
+<h3 id="potential-harm">Potential Harm<a class="zola-anchor" href="#potential-harm" aria-label="Anchor link for: potential-harm"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Attribution of harmful behavior to divine command has been documented in criminal psychology (O’Grady et al., 2011). Even less extreme cases include disillusionment from unfulfilled prophetic promises or maladaptive medical decisions.</p>
 <p>The magnitude of potential outcomes justifies proportionate epistemic scrutiny.</p>
 <hr />
-<h2 id="10-conclusion">10. Conclusion</h2>
+<h2 id="10-conclusion">10. Conclusion<a class="zola-anchor" href="#10-conclusion" aria-label="Anchor link for: 10-conclusion"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Human cognition is capable of generating vivid, surprising, and authoritative experiences without external input. Cognitive science predicts spontaneous insight, unconscious integration, and agency over-attribution.</p>
 <p>This does not disprove divine communication. It does establish that:</p>
 <ul>
@@ -266,7 +364,8 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 </ul>
 <p>When private revelation carries behavioral weight, epistemic calibration proportional to consequence becomes a moral responsibility.</p>
 <hr />
-<h2 id="references-selected">References (Selected)</h2>
+<h2 id="references-selected">References (Selected)<a class="zola-anchor" href="#references-selected" aria-label="Anchor link for: references-selected"><i class="fas fa-link"></i></a> 
+</h2>
 <p>[[I haven’t vetted most of these references yet. Could be AI hallucinations]]</p>
 <ul>
 <li>Bostrom, N. (2014). <em>Superintelligence: Paths, Dangers, Strategies.</em></li>
@@ -282,7 +381,8 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 <li>Waters, F., et al. (2012). Auditory hallucinations in nonclinical populations.</li>
 </ul>
 <hr />
-<h2 id="author-contribution-and-use-of-ai-assistance">Author Contribution and Use of AI Assistance</h2>
+<h2 id="author-contribution-and-use-of-ai-assistance">Author Contribution and Use of AI Assistance<a class="zola-anchor" href="#author-contribution-and-use-of-ai-assistance" aria-label="Anchor link for: author-contribution-and-use-of-ai-assistance"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The core conceptual framework, central thesis, structural outline, and primary arguments of this manuscript were developed by the author. The author supplied the original draft text, key examples, proposed analogies (including signal detection and information-theoretic framing), and the integration of LDS-specific epistemological analysis.</p>
 <p>ChatGPT (OpenAI GPT-5) was used as an editorial and developmental assistant. Its contributions were limited to:</p>
 <ul>
@@ -294,16 +394,15 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
 </ul>
 <p>ChatGPT did not originate the central thesis, theoretical integration, or argumentative direction of the manuscript. All interpretive decisions, claims, framing choices, and final content determinations were made by the author. The author reviewed, modified, and approved all AI-assisted revisions and bears full responsibility for the content of the final manuscript.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -318,105 +417,9 @@ Dorfman, Shames, and Kihlstrom (1996) review models of intuition and insight sho
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy | A Careful Examination</title>
+<meta property="og:title" content="Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy | A Careful Examination" />
+<meta name="twitter:title" content="Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/">
-  
+  <meta property="og:url" content="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy</h1>
@@ -103,38 +219,11 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#table-of-contents">Table of contents</a></li>
-        
-          <li><a href="#explicit-contemporary-sources-supporting-js-polygamy">Explicit Contemporary Sources supporting JS Polygamy</a></li>
-        
-          <li><a href="#holograph-unavailable-internal-external-evidence-supports-contemporary-nature">Holograph Unavailable, Internal/External Evidence Supports Contemporary Nature</a></li>
-        
-          <li><a href="#implied-sources-supportive-of-other-evidence">Implied Sources/Supportive of Other Evidence</a></li>
-        
-          <li><a href="#select-near-contemporary-evidence-of-js-polygamy-nauvoo-era">Select Near Contemporary Evidence of JS Polygamy (Nauvoo era)</a></li>
-        
-          <li><a href="#supports-eternal-marriage-rather-than-plural-marriage">Supports Eternal Marriage rather than Plural Marriage</a></li>
-        
-          <li><a href="#contemporary-statements-denying-polygamy-joseph-hyrum-emma">Contemporary Statements Denying Polygamy (Joseph, Hyrum, Emma)</a></li>
-        
-          <li><a href="#contemporary-unauthorized-polygamy">Contemporary Unauthorized Polygamy</a></li>
-        
-          <li><a href="#manipulated-evidence">Manipulated Evidence</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <p>Cheryl L. Bruno has shared her ongoing documentary catalog in the Mormon Polygamy
+  
+  
+
+  <div class="post-content">
+    <p>Cheryl L. Bruno has shared her ongoing documentary catalog in the Mormon Polygamy
 Documents Facebook group detailing contemporary sources on Joseph Smith’s practice of polygamy.
 Her work revises and expands upon Mark Tensmeyer’s work published in
 “Secret Covenants: New Insights on Early Mormon Polygamy.”</p>
@@ -156,7 +245,8 @@ table th:nth-child(2), table td:nth-child(2) { width: 22%; }
 table th:nth-child(3), table td:nth-child(3) { width: 27%; }
 table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 </style>
-<h2 id="table-of-contents">Table of contents</h2>
+<h2 id="table-of-contents">Table of contents<a class="zola-anchor" href="#table-of-contents" aria-label="Anchor link for: table-of-contents"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/#explicit-contemporary-sources-supporting-js-polygamy">Explicit Contemporary Sources supporting JS Polygamy</a></li>
 <li><a href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/#holograph-unavailable-internal-external-evidence-supports-contemporary-nature">Holograph Unavailable, Internal/External Evidence Supports Contemporary Nature</a></li>
@@ -167,7 +257,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <li><a href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/#contemporary-unauthorized-polygamy">Contemporary Unauthorized Polygamy</a></li>
 <li><a href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/#manipulated-evidence">Manipulated Evidence</a></li>
 </ul>
-<h2 id="explicit-contemporary-sources-supporting-js-polygamy">Explicit Contemporary Sources supporting JS Polygamy</h2>
+<h2 id="explicit-contemporary-sources-supporting-js-polygamy">Explicit Contemporary Sources supporting JS Polygamy<a class="zola-anchor" href="#explicit-contemporary-sources-supporting-js-polygamy" aria-label="Anchor link for: explicit-contemporary-sources-supporting-js-polygamy"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>Jan. 21, 1838</td><td>Oliver Cowdery letter to Warren A. Cowdery, letterbook</td><td>Huntington LibraryPortion of letter reproduced<a rel="external" href="https://josephsmithspolygamy.org/oliver-cowdery-letter-to-warren-a-cowdery-olivers-brother-january-21-1838/"> here</a></td><td>Cowdery claims Joseph had a “dirty, nasty, filthy scrape affair” with Fanny Alger.</td></tr>
 <tr><td>July—Aug 1842</td><td>Martha Brotherton</td><td>“St. Louis, Mo., July 13th, 1842,” <a rel="external" href="https://www.newspapers.com/image/49674876/?match=1&amp;terms=Brotherton">The Radical</a> 1, no. 38 (July 23, 1842): 2, Bowling Green, MO.Martha Brotherton’s affidavit was published in a number of places. See American Bulletin (Jul 16, 1842)<a rel="external" href="https://idnc.library.illinois.edu/?a=d&amp;d=SJO18420722.2.91&amp;e=-------en-20--1--txt-txIN----------">Sangamo Journal</a> (Jul 22, 1842)Warsaw Signal (Jul 23, 1842)Louisville Journal (Jul 25, 1842)<a rel="external" href="https://www.newspapers.com/image/843817028/?match=1&amp;terms=Brotherton">New York Herald</a> 8 (Jul 25 &amp; 27, 1842)Alton Telegram (Jul 30, 1842)Quincy Whig (Aug 6, 1842)</td><td>Martha’s published affidavit has Brigham Young telling her “brother Joseph has a revelation from God that it is lawful and right for a man to have two wives; for as it was in the days of Abraham, so it shall be in these last days…and if you will accept of me I will take you straight to the celestial kingdom: and if you will have me in this world, I will have you in that which is to come, and brother Joseph will marry us here to-day.”Joseph Smith then told her, “I know that this is lawful and right before God, and if there is any sin in it I will answer for it before God, and I have the keys of the kingdom, and whatever I bind on earth is bound in heaven…I know Brigham will take care of you, and if he don’t do his duty to you, come to me and I will make him; and if you do not like it in a month or two, come to me and I will make you free again; and if he turns you off I will take you on.”</td></tr>
@@ -196,14 +287,16 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>June 1844</td><td>Jane Law</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/record/cbd92dba-5d76-4ae1-99b5-70e96088734f/0">Nauvoo Expositor</a>, CHL</td><td>Affidavit</td></tr>
 <tr><td>June 1844</td><td>Austin Cowles</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/record/cbd92dba-5d76-4ae1-99b5-70e96088734f/0">Nauvoo Expositor</a>, CHL</td><td>Affidavit</td></tr>
 </tbody></table>
-<h2 id="holograph-unavailable-internal-external-evidence-supports-contemporary-nature">Holograph Unavailable, Internal/External Evidence Supports Contemporary Nature</h2>
+<h2 id="holograph-unavailable-internal-external-evidence-supports-contemporary-nature">Holograph Unavailable, Internal/External Evidence Supports Contemporary Nature<a class="zola-anchor" href="#holograph-unavailable-internal-external-evidence-supports-contemporary-nature" aria-label="Anchor link for: holograph-unavailable-internal-external-evidence-supports-contemporary-nature"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>July 27, 1842</td><td>Revelation for Newell K. Whitney</td><td>Copy at CHL dated abt. 1912<a rel="external" href="https://catalog.churchofjesuschrist.org/assets/473d6bd1-1a13-4010-b715-f6a192b7a118/0/13?lang=eng">Transcript by Orson F. Whitney</a></td><td>Instructs Whitney on how to perform sealing ceremony for his daughter Sarah Ann and Joseph Smith.</td></tr>
 <tr><td>January to June 1844</td><td>William Law Journal</td><td>Private held transcript published by Lyndon Cook.</td><td>Discusses polygamy and efforts to reconcile with the Smiths including Hyrum’s assurance that they had stopped doing plural marriages at that time.</td></tr>
 <tr><td>June 16, 1844</td><td>Isaac Scott letter</td><td>Sarah Scott, Letter to John Calvin Hall and Abigail Harback Hall, June 16, 1844, rep. George F. Partridge, “The Death of a Mormon Dictator: Letters of Massachusetts Mormons, 1843–1848,” <a rel="external" href="https://www.jstor.org/stable/360986">New England Quarterly 9, no. 4 (December 1936): 593–596</a></td><td>But because of the things that are and have been taught in the Church of Latter Day Saints for two years past which now assume a portentous aspect, I say because of these things we are in trouble. . . . A plurality of Gods. A plurality of living wives. And unconditional sealing up to eternal life against all sins save the shedding of innocent blood or consenting thereunto. These with many other things are taught by Joseph, which we consider are odious and doctrines of devils. . . Joseph had a revelation last summer purporting to be from the Lord, allowing the saints the privilege of having ten living wives at one time, I mean certain conspicuous characters among them. They do not content themselves with young women, but have seduced married women. I believe hundreds have been deceived. Now should I yield up your daughter to such wretches?Mr. [Jesse] Haven knows these statements are correct, for they have been taught in the quorum to which he belongs by the highest authority in the Church. He has told me that he does not believe in these teachings but he does not come out and oppose them; he thinks that it will all come out right.</td></tr>
 <tr><td>Between May 1 and Sep. 1844</td><td>William Smith’s Pocket Companion –Alludes to Jacob 2 and several passages of D&amp;C 132.</td><td>Excerpts quoted in John K. Sheen, Polygamy: or, the Veil Lifted (York, Nebraska: 1889)Connell O’Donovan reconstruction, <a rel="external" href="http://www.connellodonovan.com/pocket_companion.pdf">LINK</a></td><td>“FOR IF I WILL saith the Lord Hosts raise up seed unto me, I WILL COMMAND MY PEOPLE: otherwise, they shall hearken unto these things.”xxi Thus we see the grounds in my estimation in which the ancient Prophets were Justified, that is, when God wanted “to raise up seed unto himself, he would command his people” otherwise it was an abomination in his sight…in my opinion there must have been a law of Justification [for “plurality wife doctrine”], under the dispensation of the ancient prophets,</td></tr>
 </tbody></table>
-<h2 id="implied-sources-supportive-of-other-evidence">Implied Sources/Supportive of Other Evidence</h2>
+<h2 id="implied-sources-supportive-of-other-evidence">Implied Sources/Supportive of Other Evidence<a class="zola-anchor" href="#implied-sources-supportive-of-other-evidence" aria-label="Anchor link for: implied-sources-supportive-of-other-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>April 12, 1838</td><td>Minutes of Oliver Cowdery’s disciplinary trial</td><td>CHL</td><td>Joseph said he confided in Oliver about the “girl business” but denied admitting to adultery.</td></tr>
 <tr><td>Jan. 6, 1842</td><td>Brigham Young journal entry written in Masonic cipher</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/assets/7caa151f-e878-4cde-9dd2-aa8cb03da3d1/0/36?lang=eng">Brigham Young Journal</a>, CR 1234 1, CHL.</td><td>I. W.A.S.T.A.K.E.N. I.N.T.O. T.G[H].E. L.O.D.G.E.January 6th 1842J. S.M.I.T.H. W.A.S. A.G.N.E.W[S].W[S]…..January 6th 1842Brigham Young Jo[u]rnal(Interpreting WAS as “wedded and sealed” is speculative. Could mean that JS was “taken into the lodge” as well. It is an early date for both BY and JS)</td></tr>
@@ -224,7 +317,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>June 5, 1844</td><td>Zina Huntington Journal</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/assets/14a47778-abe3-4c70-a259-7614a5bb7e92/0/19?lang=eng">CHL</a></td><td>“June 18445 6 7 8 9 Went with \Henres/ uncles family uppon the hill from this day I understand the Kinsmans degree of freemasonry my husband \being A master Mason/ attended meeting. Hiram Smith spoke exceeding well also re[a]d a revelation.”Because Henry did not arrive in town until the next day, she could be referring to Joseph Smith as her “husband.” But since Henry was also a Master Mason, she could just be explaining why she was allowed to participate in the Kinsman’s Degree.</td></tr>
 <tr><td>Jul. 20, 1844</td><td>William Law</td><td>William Law letter to Isaac Hill, Nauvoo Il, July 20, 1844, <a rel="external" href="https://catalog.churchofjesuschrist.org/assets/1c3e04b8-2d72-41b8-94ed-212a8d9a0f6a/0/0?lang=eng">CHL</a></td><td>“although the events which have transpired since, were very shocking to my feelings, yet, as they ^J&amp;H^ brought it upon themselves, and I used my influence to prevent any outrage even from the Commencement of the excitement believing that the Civil law had power to expose iniquity, and punish the wicked I say But quietly, I look on Calmly, and while the wicked slay the wicked, I believe I can see the hand of a blasphemed God stretched out in judgment the cries of in[n]ocence and virtue, have ascended as before the throne of God, and he has taken sudden vengeance.”</td></tr>
 </tbody></table>
-<h2 id="select-near-contemporary-evidence-of-js-polygamy-nauvoo-era">Select Near Contemporary Evidence of JS Polygamy (Nauvoo era)</h2>
+<h2 id="select-near-contemporary-evidence-of-js-polygamy-nauvoo-era">Select Near Contemporary Evidence of JS Polygamy (Nauvoo era)<a class="zola-anchor" href="#select-near-contemporary-evidence-of-js-polygamy-nauvoo-era" aria-label="Anchor link for: select-near-contemporary-evidence-of-js-polygamy-nauvoo-era"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>August 1844</td><td>A Narrative of the Adventures and Experiences of Joseph H. Jackson in Nauvoo, Exposing the Depths of Mormon Villainy</td><td><a rel="external" href="https://archive.org/details/narrativeofadven00jack/page/12/mode/2up?q=sessions">LINK</a>, p. 13</td><td>Sensational and largely spurious accounts of Joseph and polygamy. Makes reference to Elizabeth Davis and Patty Sessions as women that would facilitate plural marriages to Joseph.</td></tr>
 <tr><td>August 1844</td><td>Joseph Jackson</td><td>Warsaw Signal (Aug. 1844)</td><td>“As I have mentioned the subject of spiritual wives, I will in this place, give the reader some idea of the system. The doctrine is called the “spirit of Elijah,” and is kept a profound secret from the people at large, and is only permitted to be known to those, to whom it is given to know the “fullness of the kingdom,” in other words, the choice spirits who surround Joe, and aid in carrying his secret measures. The doctrine is found on the 3d Chapter of Hosea, – several passages from the writings of Solomon and David, and the passage “whatsoever ye bind on Earth shall be bound in Heaven.” From these scripture passages, (with which I am not sufficiently familiar to quote) aided by revelation from Joe, as respects their meaning and construction, the doctrine is derived that there is no harm in a man having more wives than one, provided his extra wives are married to him spiritually. A spiritual wife is a woman, who by revelation is bound up to a man, in body, parts and passions, both for this life and for all eternity; whereas the union of a carnal wife and her husband ceases at death. Whenever the scripture forbids a man from taking to himself more wives than one, Joe made it refer to carnal and not spiritual wives; and would frequently quote the writings of David and Solomon to prove his position.“</td></tr>
@@ -237,7 +331,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>September 20, 1843(should be considered an 1848 source)</td><td>Lott family Bible</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/assets/7226d36f-b3a5-4c0e-9d0c-33d87d46ffb4/0/3">CHL</a></td><td>&gt;Cornelius P. Lott mar[r]ied to Permelia Darrow for time and eternaty September the 20:1843 By Presadent Hyrum Smith with seal of Presadent Joseph Smith.&gt;Sept the 20 C.P. Lott and Permelia Lott gave their Dau[gh]ter Malisa to wife [written later]&gt;Malisa Smith was maried to Ira Willes May 13th 1849[Three entries made at different times]</td></tr>
 <tr><td>Mar. 14, 1847</td><td>Horace K. Whitney</td><td>Horace K. Whitney Journal, MS 1616, <a rel="external" href="https://catalog.churchofjesuschrist.org/assets/d6546b00-e1a7-47c1-8554-bbe481467f5a/0/3?lang=eng">CHL</a></td><td>Records copying D&amp;C 132:“Sunday the 14th—Good weather. By father’s request, went and copied an important document, which took me the greater part of the day &amp; night”</td></tr>
 </tbody></table>
-<h2 id="supports-eternal-marriage-rather-than-plural-marriage">Supports Eternal Marriage rather than Plural Marriage</h2>
+<h2 id="supports-eternal-marriage-rather-than-plural-marriage">Supports Eternal Marriage rather than Plural Marriage<a class="zola-anchor" href="#supports-eternal-marriage-rather-than-plural-marriage" aria-label="Anchor link for: supports-eternal-marriage-rather-than-plural-marriage"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>1835</td><td>W. W. Phelps letter to Sally</td><td>CHL</td><td>Phelps states that Joseph was teaching eternal monogamous marriage and Phelps acknowledged that his wife would be his one wife on earth and in heaven. Contradicts his later 1861 letter to BY about Joseph receiving a polygamy revelation as early as 1831.</td></tr>
 <tr><td>July 16, 1843</td><td>Joseph Smith discourse</td><td><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/discourse-16-july-1843-as-reported-by-william-clayton/1">Discourse, 16 July 1843</a>, as Reported by William Clayton, p. 66, JSP</td><td>He [Joseph Smith] showed that a man must enter into an everlasting covenant with his wife in this world or he will have no claim on her in the next. He said that he could not reveal the fulness of these things untill the Temple is completed &amp;c.</td></tr>
@@ -247,7 +342,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>April 8, 1844</td><td>Hyrum Smith, April 8, 1844 conference minutes kept by Thomas Bullock</td><td><a rel="external" href="https://catalog.churchofjesuschrist.org/assets/daa151c4-7bae-49d0-8cef-d281a70f1d32/0/32">CHL</a></td><td>“The idea of marrying for Eternity w the seal of the cov.[enant] is easily understood &amp; as to speak[in]g of it I c[oul]d make all the world believe it-for it is noble and grand. . . I married me a wife &amp; was the only one who had any write to her. . . the cov[enan]t was made for our lives – she fell in the grave bef[ore] God showed us his will. God has shewed me that the cov[enan]t is dead &amp; had no more force neither could I have her in the res[urrectio]n but we sho[ul]d be as the angels. it troubled me. Bro J s[ai]d you can be sealed to her upon the same prin[ciple] as you can be bap[tized] for the dead[.] what can I do for my 2nd wife – you can make a cov[enant] with her for eter[nity] &amp; [be] sealed to her – &amp; she s[ai]d I will act as proxy for the one that is dead –and I will be sealed to you for eternity</td></tr>
 <tr><td>Between May 1 and Sep. 1844</td><td>William Smith’s Pocket Companion –Alludes to Jacob 2 and several passages of D&amp;C 132.</td><td>Excerpts quoted in John K. Sheen, Polygamy: or, the Veil Lifted (York, Nebraska: 1889)Connell O’Donovan reconstruction, <a rel="external" href="http://www.connellodonovan.com/pocket_companion.pdf">LINK</a></td><td>But the question might be asked can a man be sealed to more than one woman? I answer they can, for if a man has several wives, and they are all dead, but one, he can be sealed up [to] them all, by the one living standing up for the dead, and thus acting by proxy, he can claim them all in the resurrection…This will exalt us to a Kingdom of power and glory, for Christ has promised, to those “who are faithful over a few things shall be made ruler over many things”</td></tr>
 </tbody></table>
-<h2 id="contemporary-statements-denying-polygamy-joseph-hyrum-emma">Contemporary Statements Denying Polygamy (Joseph, Hyrum, Emma)</h2>
+<h2 id="contemporary-statements-denying-polygamy-joseph-hyrum-emma">Contemporary Statements Denying Polygamy (Joseph, Hyrum, Emma)<a class="zola-anchor" href="#contemporary-statements-denying-polygamy-joseph-hyrum-emma" aria-label="Anchor link for: contemporary-statements-denying-polygamy-joseph-hyrum-emma"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td></td><td>Book of Mormon passages</td><td><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng">Jacob 2-3</a><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng">Mosiah 11</a><a rel="external" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=eng">Ether 10</a>D&amp;C 42:22D&amp;C 49:16</td><td>Calls polygamy an abomination</td></tr>
 <tr><td>1835, 1844</td><td>Joseph Smith</td><td>Statement on Marriage, circa August 1835, Latter Day Saints’ Messenger and Advocate, 163, <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/statement-on-marriage-circa-august-1835-as-published-in-latter-day-saints-messenger-and-advocate/2">JSP</a>1835 D&amp;C Section CI (101), <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/259">JSP</a>1844 D&amp;C Section 109, <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1844/440">JSP</a></td><td>“Inasmuch as this church of Christ has been reproached with the crime of fornication, and polygamy; we declare that we believe, that one man should have one wife; and one woman, but one husband, except in case of death, when either is at liberty to marry again”</td></tr>
@@ -278,7 +374,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>June 19, 1844</td><td>Hyrum SmithConfirms that a marriage revelation was read to the High Council, but it had no reference to the present time.</td><td>City Council MinutesNauvoo Neighbor <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/minutes-10-june-1844/9">JSP</a></td><td>Councillor, H. Smith, . . . referred to the revelation, read to the High Council of the Church, which has caused so much talk about a multiplicity of wives; that said revelation was in answer to a question concerning things which transpired in former days, and had no reference to the present time. . .He then read several statements of Austin Cowles in the Expositor concerning a private interview, and said he never had any private conversation with Austin Cowles on these subjects—that he preached on the stand from the Bible, shewing the order in ancient days, having nothing to do with (t)he present times.</td></tr>
 <tr><td>June 19, 1844</td><td>Joseph SmithConfirms a revelation in answer to his enquiry. Men must be married in view of Eternity.</td><td>City Council MinutesNauvoo Neighbor <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/minutes-10-june-1844/9">JSP</a></td><td>Mayor said he had never pre[a]ched the revelatin in private as he had in public— had not taught in it to the highet anointed in the chu[rc]h &lt;in p[r]ivate&gt; which may [many?] confirmd.—On enquiry the passage in the resurrecti[o]n they neithe[r] mar[r]y &amp;c. I receiv[e]d for answer, Men in this life must be married in vi[e]w of Etirnity, was the amount of the revelation. othe[r]wise they must remain as angels only— in heaven. and spoke at considerable length. in explanation of the principl[e]s was willing for one to subscribe his name to declare that paper [Expositor] &amp; the whole establishemt as a nuisance</td></tr>
 </tbody></table>
-<h2 id="contemporary-unauthorized-polygamy">Contemporary Unauthorized Polygamy</h2>
+<h2 id="contemporary-unauthorized-polygamy">Contemporary Unauthorized Polygamy<a class="zola-anchor" href="#contemporary-unauthorized-polygamy" aria-label="Anchor link for: contemporary-unauthorized-polygamy"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td></td><td>John C. Bennett</td><td></td><td></td></tr>
 <tr><td></td><td>Joseph Fielding</td><td>New Companion Revelation</td><td></td></tr>
@@ -286,7 +383,8 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td></td><td>Sarah Crooks</td><td>Letter to Brigham Young</td><td></td></tr>
 <tr><td></td><td>Augusta Cobb</td><td>Letters to Brigham Young</td><td>Asks to see polygamy revelation</td></tr>
 </tbody></table>
-<h2 id="manipulated-evidence">Manipulated Evidence</h2>
+<h2 id="manipulated-evidence">Manipulated Evidence<a class="zola-anchor" href="#manipulated-evidence" aria-label="Anchor link for: manipulated-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <table><thead><tr><th>Date</th><th>Source</th><th>Location</th><th>Notes</th></tr></thead><tbody>
 <tr><td>Oct 5, 1843</td><td>JS Journal entry is revised in Draft version and in final copy in History of the Church</td><td><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/history-draft-1-march-31-december-1843/143">JSP Draft</a> JSP Journal</td><td>walked up and down the Streets with my scribe. Gave instructions to try those persons who were preaching, teaching, or practicing the doctrine of plurality of wives. on this \for according to ^the​^ law I hold the keys of this power in the last days, for there is never but one on Earth at a time on whom the power and its keys are conferred— and I have constantly said​/ on this law Joseph forbids it, and the practice thereof. No man shall have but one wife \​at a time​/ \unless the Lord directs otherwise​/\​to be revised​/</td></tr>
 <tr><td>Mar 31, 1842</td><td>Willard Richards</td><td>Compare <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-and-the-relief-society-31-march-1842/1">Willard Richards</a> Draft, Letter to Emma Smith and the RSand <a rel="external" href="https://www.josephsmithpapers.org/paper-summary/nauvoo-relief-society-minute-book/109">Nauvoo Relief Society Minute Book</a></td><td>The version copied into the Relief Society Minute Book omits the qualifying phrase “unless it be by message del[iv]ered to you by our own mouth, by actual revelation &amp; commandment.” Not in the History</td></tr>
@@ -299,16 +397,15 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
 <tr><td>Apr. 8, 1844</td><td>Hyrum Smith General Conference talk</td><td>Compare Thomas Bullock version with altered version in JSP</td><td>Conference address edited to support polygamy; entire talk was eventually removed from JSP</td></tr>
 </tbody></table>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -323,105 +420,9 @@ table th:nth-child(4), table td:nth-child(4) { width: 35%; }
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

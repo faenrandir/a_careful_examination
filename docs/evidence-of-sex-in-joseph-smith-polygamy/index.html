@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Evidence of sex within Joseph Smith&#39;s polygamy | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Evidence of sex within Joseph Smith&#39;s polygamy | A Careful Examination</title>
+<meta property="og:title" content="Evidence of sex within Joseph Smith&#39;s polygamy | A Careful Examination" />
+<meta name="twitter:title" content="Evidence of sex within Joseph Smith&#39;s polygamy | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/">
-  
+  <meta property="og:url" content="/a_careful_examination/evidence-of-sex-in-joseph-smith-polygamy/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Evidence of sex within Joseph Smith&#39;s polygamy</h1>
@@ -123,39 +239,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#todd-compton-s-assessment">Todd Compton’s assessment</a></li>
-        
-          <li><a href="#brian-hales-assessment">Brian Hales’ assessment</a></li>
-        
-          <li><a href="#short-analysis-of-the-testimony-evidence">Short analysis of the testimony evidence</a></li>
-        
-          <li><a href="#temple-lot-case-evidence">Temple lot Case evidence</a></li>
-        
-          <li><a href="#wives-reported-to-have-been-beautiful">Wives reported to have been beautiful</a></li>
-        
-          <li><a href="#what-is-the-evidence-for-polyandrous-sex">What is the evidence for polyandrous sex?</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="todd-compton-s-assessment">Todd Compton’s assessment</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="todd-compton-s-assessment">Todd Compton’s assessment<a class="zola-anchor" href="#todd-compton-s-assessment" aria-label="Anchor link for: todd-compton-s-assessment"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/compton-sexuality-in-joseph-smiths-plural-marriages/">Assessment of the evidence for sexuality</a></li>
 <li><a rel="external" href="https://web.archive.org/web/20201008222509/http://toddmcompton.com/revhmk5.html">Assessment of evidence for sexuality with Helen Mar Kimball</a></li>
 </ul>
-<h2 id="brian-hales-assessment">Brian Hales’ assessment</h2>
+<h2 id="brian-hales-assessment">Brian Hales’ assessment<a class="zola-anchor" href="#brian-hales-assessment" aria-label="Anchor link for: brian-hales-assessment"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="https://josephsmithspolygamy.org/faq-sexuality-2/">Evidences of Sexual Relations</a></p>
-<h2 id="short-analysis-of-the-testimony-evidence">Short analysis of the testimony evidence</h2>
+<h2 id="short-analysis-of-the-testimony-evidence">Short analysis of the testimony evidence<a class="zola-anchor" href="#short-analysis-of-the-testimony-evidence" aria-label="Anchor link for: short-analysis-of-the-testimony-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <p><em>This is my cursory analysis of some testimony evidence.</em></p>
 <p>Given testimony and evidence, with which women can we reasonably infer that Joseph Smith had sex?</p>
 <p>The list follows with the age at marriage and the evidence indicating a sexual relationship.</p>
@@ -170,15 +268,18 @@
 </ul>
 <p>Mormon Enigma identifies the 4 individuals Emma consented to as Emily and Eliza Partridge and Sarah and Maria Lawrence. (<a rel="external" href="http://www.mrm.org/did-emma-smith-ever-approve-of-polygamy">source</a>)</p>
 <p>The ages of the women we suspect he had sex with from this analysis were: 17 (2), 19 (3), 22 (1).</p>
-<h2 id="temple-lot-case-evidence">Temple lot Case evidence</h2>
+<h2 id="temple-lot-case-evidence">Temple lot Case evidence<a class="zola-anchor" href="#temple-lot-case-evidence" aria-label="Anchor link for: temple-lot-case-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <p><code>curious_mormon</code> compiled <a rel="external" href="https://www.reddit.com/r/exmormon/comments/3obrqk/testimonies_from_the_temple_lot_trial_on_joseph/">data from the Temple Lot case indicating sexual relationships between some of his wives</a>, based on their testimony.</p>
-<h2 id="wives-reported-to-have-been-beautiful">Wives reported to have been beautiful</h2>
+<h2 id="wives-reported-to-have-been-beautiful">Wives reported to have been beautiful<a class="zola-anchor" href="#wives-reported-to-have-been-beautiful" aria-label="Anchor link for: wives-reported-to-have-been-beautiful"><i class="fas fa-link"></i></a> 
+</h2>
 <p>From Emily Dow Partridge Diary, 1880-1893 (typescript) taken from the Emily Dow Partridge Young Collection Marriott Library, MS 113, <a rel="external" href="http://mormonpolygamydocuments.org/wp-content/uploads/2014/12/JS0412.doc">as transcribed by Brian Hales</a></p>
 <blockquote>
 <p>Jan. 8th.  Attended Mary V. Young’s funeral.  [This was a sister wife in the Brigham Young family.]  Remarks were made by Br. Cannon Br. J. F. Smith and Br. Taylor.  He spoke a few words of comfort to Pres Young’s widows.  He said that in the early days of polygamy, when it was first taught to the Bretheren [sic] in Nauvoo, it was a little hard to receive in consequence of their traditionated ideas.  He received a testimony that the principle was true.  <strong>He saw Joseph surrounded with a number of the most beautiful women that he ever saw in his life and he knew they were his wives.</strong></p>
 </blockquote>
 <p>While this is a second-hand account, the fact that the wives were “the most beautiful women that he ever saw in his life” may suggest that sex was part of the appeal.</p>
-<h2 id="what-is-the-evidence-for-polyandrous-sex">What is the evidence for polyandrous sex?</h2>
+<h2 id="what-is-the-evidence-for-polyandrous-sex">What is the evidence for polyandrous sex?<a class="zola-anchor" href="#what-is-the-evidence-for-polyandrous-sex" aria-label="Anchor link for: what-is-the-evidence-for-polyandrous-sex"><i class="fas fa-link"></i></a> 
+</h2>
 <p><em>Below taken from /u/curious_mormon’s post <a rel="external" href="https://old.reddit.com/r/exmormon/comments/3oa7ev/on_josephs_polyandrous_marriages_6_have/">here</a>.  Note: I am aware of the tenuousness of the Eli Johnson source, so all of these sources should be taken with a grain of salt until I can check them for reliability.</em></p>
 <p>Let’s talk about sexual polyandry for a moment.  We’ve all heard the apologetic fantasies of “eternal only” sealings.  We’ve all seen the arguments that are more or less bias driven, but let’s look at some contemporary sources that are basing their evidence on more than good feelings and wishful thinking.</p>
 <p>Even if you accept that the fabricated “eternal only sealing” exists, you still have polyandrous marriages with women sealed for time and eternity to Joseph while simultaneously living with legal husbands.  You have children and a mother’s belief that her child <em>could</em> be Joseph’s (it doesn’t matter who the father is in the case).  All evidence points to Joseph sleeping with other men’s wives, whether a certain apologist wants to admit it or not.</p>
@@ -201,15 +302,18 @@
 <p><a rel="external" href="https://archive.org/stream/AffidavitsOnCelestialMarriage/MS_3423_5-6#page/n86/mode/1up">Elvira Cowles Holmes - Affidavit</a> shows that she was sealed to Joseph for time and all eternity in 1843. Her daughter <a rel="external" href="http://mormonthink.com/essays-plural-marriage-in-kirtland-and-nauvoo.htm">Phebe Welling</a> also reported, “I heard my mother testify that she was indeed the Prophet’s plural wife in life and lived with him as such during his lifetime.”</p>
 </li>
 </ul>
-<h3 id="accusations-of-sex-prior-to-marriage"><strong>Accusations of sex prior to marriage</strong>:</h3>
+<h3 id="accusations-of-sex-prior-to-marriage"><strong>Accusations of sex prior to marriage</strong>:<a class="zola-anchor" href="#accusations-of-sex-prior-to-marriage" aria-label="Anchor link for: accusations-of-sex-prior-to-marriage"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>Marinda Johnson Hyde - <a rel="external" href="http://mormonthink.com/grant6.htm">Eli Johnson, her uncle</a> is quoted as being “furious because he suspected Joseph of being intimate with his sister [actually she was his sixteen year old niece[20]], Nancy Marinda Johnson, and he was screaming for Joseph’s castration”</li>
 </ul>
-<h3 id="ambiguous"><strong>Ambiguous</strong>:</h3>
+<h3 id="ambiguous"><strong>Ambiguous</strong>:<a class="zola-anchor" href="#ambiguous" aria-label="Anchor link for: ambiguous"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>Mary Rollins Lightner - <a rel="external" href="https://books.google.com/books?id=nGgSuTW-dgIC&amp;pg=PA134&amp;lpg=PA134&amp;dq=mary+lightner+sealed+for+time+and+eternity+brigham+young&amp;source=bl&amp;ots=1SfCE8b_lT&amp;sig=h_RFbcEpT1MQG0Vrn9rtNdsiMp8&amp;hl=en&amp;sa=X&amp;ved=0CEIQ6AEwB2oVChMIsaCVnJO5yAIVTTqICh3PiQ2v#v=onepage&amp;q=mary%20lightner%20sealed%20for%20time%20and%20eternity%20brigham%20young&amp;f=false">ambiguous at best</a>.  She claimed that she was sealed to Joseph Smith (while living) for “time and eternity” which even apologists accept included the potential for sex. Likewise, after Joseph’s death, she was sealed to Joseph for Eternity by proxy and to Brigham for time despite continuing to bear her legal husband’s children.   It should be noted that /u/mithryn stated she may have believed <a rel="external" href="https://www.reddit.com/r/exmormon/comments/1far2e/13_wives_swore_court_affidavits/ca8fujy">her child could have belonged to Joseph</a>.  I would love to see a source for this.</li>
 </ul>
-<h3 id="unknowns"><strong>Unknowns</strong>:</h3>
+<h3 id="unknowns"><strong>Unknowns</strong>:<a class="zola-anchor" href="#unknowns" aria-label="Anchor link for: unknowns"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>
 <p>Patty Bartlett Sessions - unknown.  While <a rel="external" href="https://archive.org/stream/AffidavitsOnCelestialMarriage/MS_3423_1-4#page/n189/mode/1up">her affidavit</a> does ask for secrecy,  the reason why is unclear.</p>
@@ -225,16 +329,15 @@
 </li>
 </ul>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -249,105 +352,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

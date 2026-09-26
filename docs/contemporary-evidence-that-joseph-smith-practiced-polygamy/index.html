@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contemporary evidence that Joseph Smith practiced polygamy | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Contemporary evidence that Joseph Smith practiced polygamy | A Careful Examination</title>
+<meta property="og:title" content="Contemporary evidence that Joseph Smith practiced polygamy | A Careful Examination" />
+<meta name="twitter:title" content="Contemporary evidence that Joseph Smith practiced polygamy | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">
-  
+  <meta property="og:url" content="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Contemporary evidence that Joseph Smith practiced polygamy</h1>
@@ -103,50 +219,19 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#introduction">Introduction</a></li>
-        
-          <li><a href="#oliver-cowdery">Oliver Cowdery</a></li>
-        
-          <li><a href="#d-c-132">D&amp;C 132</a></li>
-        
-          <li><a href="#sarah-ann-whitney-documents">Sarah Ann Whitney documents</a></li>
-        
-          <li><a href="#malissa-lott-s-marriage-recorded-in-family-bible">Malissa Lott’s marriage recorded in Family Bible</a></li>
-        
-          <li><a href="#land-deeds">Land deeds</a></li>
-        
-          <li><a href="#nauvoo-high-council-minutes">Nauvoo High Council Minutes</a></li>
-        
-          <li><a href="#letter-from-jedediah-m-grant-to-joseph-smith">Letter from Jedediah M. Grant to Joseph Smith</a></li>
-        
-          <li><a href="#martha-brotherton-s-affidavit-potential-antagonistic-bias">Martha Brotherton’s affidavit (potential antagonistic bias)</a></li>
-        
-          <li><a href="#buckeye-s-laments-antagonistic-bias">Buckeye’s laments (antagonistic bias)</a></li>
-        
-          <li><a href="#see-also">See also</a></li>
-        
-          <li><a href="#acknowledgements">Acknowledgements</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <blockquote>
+  
+  
+
+  <div class="post-content">
+    <blockquote>
 <p><strong>Editor’s note:</strong> For a comprehensive, source-level chart of the contemporary documents that support (and contradict) the claim that Joseph Smith practiced polygamy, see <a href="/a_careful_examination/bruno-contemporary-sources-for-js-polygamy/">Cheryl L. Bruno’s contemporary sources chart</a>.</p>
 </blockquote>
-<h3 id="introduction">Introduction</h3>
+<h3 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith made <em>many</em> public denials that he was practicing polygamy (see <a rel="external" href="http://josephsmithspolygamy.org/common-questions/polygamy-denials/">Hales’s analysis</a> and <a href="/a_careful_examination/joseph-smith-polygamy-denials/">my analysis</a>).  In an effort to exonerate him, some take him at his word and claim that polygamy (with an emphasis on marriage during time) was a later invention of Brigham Young and other LDS leadership.<sup class="footnote-reference" id="fr-examples_of_polygamy_deniers-1"><a href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/#fn-examples_of_polygamy_deniers">[1]</a></sup></p>
 <p>However, some <em>contemporary</em> evidence exists that Joseph Smith practiced polygamy.</p>
-<h3 id="oliver-cowdery">Oliver Cowdery</h3>
+<h3 id="oliver-cowdery">Oliver Cowdery<a class="zola-anchor" href="#oliver-cowdery" aria-label="Anchor link for: oliver-cowdery"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li>
 <p>Oliver Cowdery wrote a letter to his brother discussing Joseph’s “scrape” with Fanny Alger:</p>
@@ -159,7 +244,8 @@
 </blockquote>
 </li>
 </ol>
-<h3 id="d-c-132">D&amp;C 132</h3>
+<h3 id="d-c-132">D&amp;C 132<a class="zola-anchor" href="#d-c-132" aria-label="Anchor link for: d-c-132"><i class="fas fa-link"></i></a> 
+</h3>
 <p><a rel="external" href="http://www.josephsmithpapers.org/paper-summary/revelation-12-july-1843-dc-132/1">D&amp;C 132, received 12 July 1843</a></p>
 <ul>
 <li>Mormon Stories episode 1797 (<a rel="external" href="https://web.archive.org/web/20230812234615/https://www.mormonstories.org/podcast/joseph-smith-polygamy-rfm/">notes</a>, <a rel="external" href="https://www.youtube.com/watch?v=OH0fILAzdno">youtube</a>) : Radio Free Mormon argues that the affidavits in the Nauvoo Expositor recapitulate all material aspects of D&amp;C 132 and hence demonstrate that it existed at the time of the Expositor’s publication.
@@ -169,21 +255,24 @@
 </li>
 <li>Brian Hales discusses <a rel="external" href="https://mormonpolygamydocuments.org/provenance-dc-132-documented/">the provenance of Joseph C. Kingsbury’s copy of D&amp;C 132</a>.</li>
 </ul>
-<h3 id="sarah-ann-whitney-documents">Sarah Ann Whitney documents</h3>
+<h3 id="sarah-ann-whitney-documents">Sarah Ann Whitney documents<a class="zola-anchor" href="#sarah-ann-whitney-documents" aria-label="Anchor link for: sarah-ann-whitney-documents"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A trio of primary documents, all signed or in Joseph Smith’s hand, implicate him in plural marriage with Sarah Ann Whitney.  The three documents together are difficult to explain outside the context of a plural marriage.</p>
 <ol>
 <li><a rel="external" href="http://www.josephsmithpapers.org/paper-summary/blessing-to-sarah-ann-whitney-23-march-1843/1">Blessing to Sarah Ann Whitney</a> [in Joseph Smith’s hand] Sarah turned 18 the day before.</li>
 <li><a rel="external" href="http://www.josephsmithpapers.org/paper-summary/deed-to-sarah-ann-whitney-6-september-1842/1">Deed to Sarah Ann Whitney</a> [signed by Joseph Smith] Sarah was 17 years old at the time of this deed.</li>
 <li><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1">Letter to the Whitneys</a> [in Joseph Smith’s hand] Sarah was 17 years old at the time.</li>
 </ol>
-<h3 id="malissa-lott-s-marriage-recorded-in-family-bible">Malissa Lott’s marriage recorded in Family Bible</h3>
+<h3 id="malissa-lott-s-marriage-recorded-in-family-bible">Malissa Lott’s marriage recorded in Family Bible<a class="zola-anchor" href="#malissa-lott-s-marriage-recorded-in-family-bible" aria-label="Anchor link for: malissa-lott-s-marriage-recorded-in-family-bible"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph Smith’s journal entry for Sept 20, 1843, recorded by Willard Richards, indicated that JS rode out to his farm. On that day, Hyrum Smith sealed Cornelius Lott (who managed Joseph Smith’s farm) to Permelia Darrow “with seal of Presadent Joseph Smith.” The Lott family Bible contains an entry, “Sept the 20 CP Lott and Permelia Lott gave their Dauter [sic] Malisa to wife.” She is listed in an entry further along in the Marriages registry at the time of her second marriage in 1847 in that Bible as “Malisa <em>Smith</em>.” Footnote 200 of JS Papers suggests that JS was “married or sealed” on that date as well “…though primary sources identifying the date of JS and Malissa Lott’s sealing are either incomplete or contradictory.” In any event, separate documents from that time showing no evidence of tampering from what I can tell position JS in the right location for a marriage/sealing with Malisa Lott.</p>
 <ul>
 <li><a rel="external" href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fi8mdvl7sts4b1.png%3Fwidth%3D1596%26format%3Dpng%26auto%3Dwebp%26s%3D6945a4e37880fda8728651010460aabc74db5ae8">Summary by Bill Reel</a></li>
 <li>Lott Family Bible <a rel="external" href="https://catalog.churchofjesuschrist.org/assets/7226d36f-b3a5-4c0e-9d0c-33d87d46ffb4/0/3">Family Record</a></li>
 <li><a rel="external" href="https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-3-15-july-1843-29-february-1844/108?highlight=rode%20out%20to%20his#facts">Joseph Smith Sept 20, 1843 Journal Entry</a></li>
 </ul>
-<h3 id="land-deeds">Land deeds</h3>
+<h3 id="land-deeds">Land deeds<a class="zola-anchor" href="#land-deeds" aria-label="Anchor link for: land-deeds"><i class="fas fa-link"></i></a> 
+</h3>
 <p>As reported by Bill Reel (would like to validate this) ~75% of the land deeds
 to women in Nauvoo between 1842 and 1843 corresponded to alleged plural wives
 of Joseph Smith. Listed below are the deeds and ages of the women at the time
@@ -199,20 +288,25 @@ of the deed grant (as compiled by Bill Reel):</p>
 <li><a rel="external" href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fiu71hjgexs4b1.png%3Fwidth%3D1578%26format%3Dpng%26auto%3Dwebp%26s%3D3aa74f28e952fe149e03c307617cb87a5fb4d8a2">Sarah Scott Mulholland</a> (nothing known beyond an alleged sealing)</li>
 <li><a rel="external" href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F16ue76gexs4b1.png%3Fwidth%3D1565%26format%3Dpng%26auto%3Dwebp%26s%3D5492e5dad1c57a118f1f10f8642d889e4da0961e">Sylvia Sessions Lyon</a> (24 years old)</li>
 </ol>
-<h3 id="nauvoo-high-council-minutes">Nauvoo High Council Minutes</h3>
+<h3 id="nauvoo-high-council-minutes">Nauvoo High Council Minutes<a class="zola-anchor" href="#nauvoo-high-council-minutes" aria-label="Anchor link for: nauvoo-high-council-minutes"><i class="fas fa-link"></i></a> 
+</h3>
 <p>See outline in <strong>part E</strong> of <a rel="external" href="https://www.reddit.com/r/exmormon/comments/144ahjo/the_evidence_laid_out_that_joseph_smith_was_the/">this reddit post</a> by Bill Reel.</p>
 <p>Leonard Soby was at the August 12, 1843 High Council meeting where polygamy was introduced.  Given that his rejection of the revelation led to his excommunication, <a rel="external" href="https://www.reddit.com/r/exmormon/comments/5d9pa1/leonard_soby_18061892_converted_to_mormonism_and/">his testimony</a> seems especially relevant because he cannot be said to be biased by any possible later LDS conspiracy.</p>
-<h3 id="letter-from-jedediah-m-grant-to-joseph-smith">Letter from Jedediah M. Grant to Joseph Smith</h3>
+<h3 id="letter-from-jedediah-m-grant-to-joseph-smith">Letter from Jedediah M. Grant to Joseph Smith<a class="zola-anchor" href="#letter-from-jedediah-m-grant-to-joseph-smith" aria-label="Anchor link for: letter-from-jedediah-m-grant-to-joseph-smith"><i class="fas fa-link"></i></a> 
+</h3>
 <p>A letter from Jedediah M. Grant to Joseph Smith in August of 1843 implies an
 invitation from Joseph Smith to Susan Conrad to accept—and also encodes news
 of Hyrum Smith’s acceptance of—the doctrine of plural marriage.</p>
 <p>See William V. Smith’s article in <a rel="external" href="https://www.dialoguejournal.com/articles/a-documentary-note-on-a-letter-to-joseph-smith-romance-death-and-polygamy-the-life-and-times-of-susan-hough-conrad-and-lorenzo-dow-barnes/">Dialogue Winter 2016</a> which includes a transcript of the letter.</p>
-<h3 id="martha-brotherton-s-affidavit-potential-antagonistic-bias">Martha Brotherton’s affidavit (potential antagonistic bias)</h3>
+<h3 id="martha-brotherton-s-affidavit-potential-antagonistic-bias">Martha Brotherton’s affidavit (potential antagonistic bias)<a class="zola-anchor" href="#martha-brotherton-s-affidavit-potential-antagonistic-bias" aria-label="Anchor link for: martha-brotherton-s-affidavit-potential-antagonistic-bias"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Joseph and Hyrum Smith denied rumors of a proposal to Martha Brotherton <a rel="external" href="https://faenrandir.github.io/a_careful_examination/times-and-seasons-apr-15-1842-conference-minutes/">in the April 6, 1842 general conference</a>.</p>
 <p>After Bennett left Nauvoo, he solicited an affidavit from Brotherton.  <a rel="external" href="https://faenrandir.github.io/a_careful_examination/martha-brotherton-affidavit/">Martha Brotherton’s affidavit</a> runs somewhat counter to many of the claims Bennett was making in his book and is fairly consistent with later testimony evidence of both the rationale advanced and the <em>modus operandi</em> for proposals that came from Latter-day Saint participants.<sup class="footnote-reference" id="fr-hales_uses_brotherton-1"><a href="/a_careful_examination/contemporary-evidence-that-joseph-smith-practiced-polygamy/#fn-hales_uses_brotherton">[3]</a></sup></p>
-<h3 id="buckeye-s-laments-antagonistic-bias">Buckeye’s laments (antagonistic bias)</h3>
+<h3 id="buckeye-s-laments-antagonistic-bias">Buckeye’s laments (antagonistic bias)<a class="zola-anchor" href="#buckeye-s-laments-antagonistic-bias" aria-label="Anchor link for: buckeye-s-laments-antagonistic-bias"><i class="fas fa-link"></i></a> 
+</h3>
 <p>An insider to Nauvoo polygamy wrote two exposés on Joseph Smith’s polygamy in the Warsaw Message and then Warsaw Signal (same paper, just a change of names).  Bergera discusses the articles <a rel="external" href="https://web.archive.org/web/20100707004021/http://dig.lib.niu.edu/ISHS/ishs-2002winter/ishs-2002winter350.pdf">here</a>.</p>
-<h3 id="see-also">See also</h3>
+<h3 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li>
 <p>Mormonism Live (RFM and Bill Reel) analysis</p>
@@ -271,7 +365,8 @@ notes</a>)</p>
 <p><a rel="external" href="https://www.youtube.com/watch?v=KQ115g9HlF8">The Truth will Make Us Free: A Response to Rob Fotheringham, Whitney Horning, and Denver Snuffer</a> (Brian Hales)</p>
 </li>
 </ul>
-<h3 id="acknowledgements">Acknowledgements</h3>
+<h3 id="acknowledgements">Acknowledgements<a class="zola-anchor" href="#acknowledgements" aria-label="Anchor link for: acknowledgements"><i class="fas fa-link"></i></a> 
+</h3>
 <p>Some sources first h/t <a rel="external" href="http://www.mormondialogue.org/topic/61120-contemporary-evidence-of-josephs-polygamy/?page=2">this discussion</a>.  First heard of Soby from 4blockhead <a rel="external" href="https://www.reddit.com/r/exmormon/comments/gdznh9/to_the_naysayers_regarding_joseph_ever_practicing/fpkfdsh/">here</a>.</p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -310,16 +405,15 @@ notes</a>)</p>
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -334,105 +428,9 @@ notes</a>)</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

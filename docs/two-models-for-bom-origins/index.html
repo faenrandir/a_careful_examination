@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Models for the creation of the Book of Mormon | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Models for the creation of the Book of Mormon | A Careful Examination</title>
+<meta property="og:title" content="Models for the creation of the Book of Mormon | A Careful Examination" />
+<meta name="twitter:title" content="Models for the creation of the Book of Mormon | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/two-models-for-bom-origins/">
-  
+  <meta property="og:url" content="/a_careful_examination/two-models-for-bom-origins/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Models for the creation of the Book of Mormon</h1>
@@ -113,21 +229,26 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h3 id="modern-origin-model">Modern Origin Model</h3>
+  
+  
+
+  <div class="post-content">
+    <h3 id="modern-origin-model">Modern Origin Model<a class="zola-anchor" href="#modern-origin-model" aria-label="Anchor link for: modern-origin-model"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The modern origin model suggests that someone or some people composed the Book of Mormon by drawing upon or being influenced by the early 1800s cultural milieu.  Two main theories have been argued for recently:</p>
-<h4 id="oral-composition-by-joseph-smith">Oral composition by Joseph Smith</h4>
+<h4 id="oral-composition-by-joseph-smith">Oral composition by Joseph Smith<a class="zola-anchor" href="#oral-composition-by-joseph-smith" aria-label="Anchor link for: oral-composition-by-joseph-smith"><i class="fas fa-link"></i></a> 
+</h4>
 <p>This model holds that Joseph Smith was primarily responsible for the creation of the text (<a href="/a_careful_examination/how-could-joseph-smith-composed-bom/">explanation and sources</a>). Most modern non-LDS historians seem to have adopted this basic model including Fawn Brodie, <a rel="external" href="https://uncpress.org/book/9781469655666/visions-in-a-seer-stone/">William Davis</a>, <a rel="external" href="https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/">Dan Vogel</a>, Brent Metcalfe, and <a rel="external" href="https://www.mormonstories.org/podcast/john-hamer-book-of-mormon-creation/">John Hamer</a>.</p>
-<h4 id="other-small-groups-authored-it">Other small groups authored it</h4>
+<h4 id="other-small-groups-authored-it">Other small groups authored it<a class="zola-anchor" href="#other-small-groups-authored-it" aria-label="Anchor link for: other-small-groups-authored-it"><i class="fas fa-link"></i></a> 
+</h4>
 <p>These models suggest that some other group of people were responsible:</p>
 <ul>
 <li><a rel="external" href="https://www.youtube.com/watch?v=wf3MluItWQE">D. Pawl Trebas</a> points to Lucy Mack, Joseph Smith Sr., and Hyrum Smith as primary authors.</li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=utDU45lm210&amp;list=PLCC85CE4017A42CE3">Craig Criddle</a> and <a rel="external" href="https://www.youtube.com/watch?v=fC4u6lOQONs&amp;list=PL09606347D9096CB6">Robert Hancock</a> point to Sidney Rigdon and to some lesser extent Oliver Cowdery and Joseph.</li>
 </ul>
 <p>These theories are not advanced by prominent non-LDS historians that I am aware.</p>
-<h3 id="ancient-origin-model">Ancient Origin Model</h3>
+<h3 id="ancient-origin-model">Ancient Origin Model<a class="zola-anchor" href="#ancient-origin-model" aria-label="Anchor link for: ancient-origin-model"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The ancient origin model (AKA divine intervention model) suggests that Joseph Smith was able to convey the meaning of an ancient American source into English.  And, if ancient information were somehow being transmitted through Smith, then this strongly implies supernatural intervention since nobody knew ancient American languages at the time.  Four main theories have been advanced for the translation:</p>
 <ul>
 <li>An <strong>ironclad</strong> translation would mean that Joseph transmitted precisely what was shown to him in the seer stone or Urim and Thummim and this then was a high-fidelity transfer of the meaning of the text on the golden plates into English.  As <a rel="external" href="https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&amp;context=jbms">Royal Skousen has observed</a>, “A number of statements from the witnesses definitely show that virtually all of them believed in the iron-clad theory.”  Still, enough data contradicts this model that few, if any, scholars support it today.</li>
@@ -135,26 +256,27 @@
 <li>A <strong>loose</strong> translation (or “loose-control”) leaves room for Joseph to impose greater variation on the outcome of the translation.  Still, this model suggests that the essence of what was on the ancient plates is being transmitted.</li>
 <li>The <strong>expansionist</strong> (or “cultural”) model allows Joseph broad room to express ideas in whatever language he chooses and to interject or expand <em>significantly</em> on the ancient text being transmitted.  Blake Ostler <a rel="external" href="https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N01_68.pdf">first outlined this model</a> (<a rel="external" href="https://www.timesandseasons.org/harchive/2005/04/updating-the-expansion-theory/">2005 update</a>)</li>
 </ul>
-<h3 id="a-continuum-of-modern-influence">A continuum of modern influence</h3>
+<h3 id="a-continuum-of-modern-influence">A continuum of modern influence<a class="zola-anchor" href="#a-continuum-of-modern-influence" aria-label="Anchor link for: a-continuum-of-modern-influence"><i class="fas fa-link"></i></a> 
+</h3>
 <p>The models may be arranged in order of increasing modern influence:</p>
 <figure>
   <center><img src="/a_careful_examination/communications/images/bom_origin_models.png" alt="Relationship of models for the Book of Mormon"></center>
   <figcaption><strong>Book of Mormon models arranged by modern influence</strong><br/>The modern origin model may be viewed as one additional step beyond the expansionist (aka "cultural") model where all elements are viewed as having a modern origin.</figcaption>
 </figure>
-<h3 id="hybrid-models">Hybrid Models</h3>
+<h3 id="hybrid-models">Hybrid Models<a class="zola-anchor" href="#hybrid-models" aria-label="Anchor link for: hybrid-models"><i class="fas fa-link"></i></a> 
+</h3>
 <p>It is possible that parts of the text were produced in somewhat different ways.</p>
 <p>For instance, Royal Skousen—the leading LDS expert on the textual evidence surrounding the translation of the Book of Mormon—has suggested some <a rel="external" href="https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1186&amp;context=jbms">mixture of tight and loose control</a>, and <a href="/a_careful_examination/skousen-literal-translation-of-the-plates/">more recently for the expansionist/cultural model</a>, at least in part.</p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -169,105 +291,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Truth-claim summaries and apologetics | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Truth-claim summaries and apologetics | A Careful Examination</title>
+<meta property="og:title" content="Truth-claim summaries and apologetics | A Careful Examination" />
+<meta name="twitter:title" content="Truth-claim summaries and apologetics | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/truth-claim-summaries/">
-  
+  <meta property="og:url" content="/a_careful_examination/truth-claim-summaries/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Truth-claim summaries and apologetics</h1>
@@ -102,17 +218,21 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h1 id="summaries">Summaries</h1>
-<h2 id="very-short">Very short</h2>
+  
+  
+
+  <div class="post-content">
+    <h1 id="summaries">Summaries<a class="zola-anchor" href="#summaries" aria-label="Anchor link for: summaries"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="very-short">Very short<a class="zola-anchor" href="#very-short" aria-label="Anchor link for: very-short"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/five-key-facts/">Five Key Facts</a> (~ 1 page)</li>
 <li><a rel="external" href="https://web.archive.org/web/20181119205038/https://gileriodekel.com/wp-content/uploads/sites/798/2018/05/Just-One-Page.pdf">Just One Page</a></li>
 <li><a rel="external" href="https://www.youtube.com/watch?v=qcQthyiTA7c">50 Problems with the Mormon Church</a> (10 minutes) | <a rel="external" href="https://www.youtube.com/watch?v=1Bu7yZsvh1Y">50 more problems</a> (~37 minutes, more moral issues)</li>
 </ul>
-<h2 id="more-significant">More significant</h2>
+<h2 id="more-significant">More significant<a class="zola-anchor" href="#more-significant" aria-label="Anchor link for: more-significant"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://www.ldsdiscussions.com/">LDS Discussions</a> (in-depth discussion of the gospel topics essays, “Saints:The Standard of Truth”, and many key truth-claims; also on <a rel="external" href="https://www.youtube.com/playlist?list=PLxq5opj6GqOB7J1n6pMmdUSezxcLfsced">youtube</a>)</li>
 <li><a rel="external" href="http://www.letterformywife.com/">Letter For My Wife</a> (almost all LDS approved sources) (<a rel="external" href="https://www.fairmormon.org/answers/Criticism_of_Mormonism/Online_documents/For_my_Wife_and_Children_(Letter_to_my_Wife)">Fairmormon response</a>)</li>
@@ -130,7 +250,8 @@
 <li><a rel="external" href="https://drive.google.com/file/d/0B79XcDYRahxnLUdMc3dBUHE0SzQ/view">Literally: Wrestling with historical curiosities in Mormonism</a></li>
 <li><a rel="external" href="http://cesletter.com/">The CES Letter</a> (the most famous compilation, by Jeremy Runnells)</li>
 </ul>
-<h2 id="other">Other</h2>
+<h2 id="other">Other<a class="zola-anchor" href="#other" aria-label="Anchor link for: other"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a rel="external" href="https://www.youtube.com/@mormonismwiththemurph/videos">Mormonism with the Murph</a> (believing member podcast that examines both sides)</li>
 <li><a href="/a_careful_examination/questions-to-ask/">Questions to Ask</a></li>
@@ -138,13 +259,16 @@
 <li><a rel="external" href="https://www.youtube.com/channel/UC0u7ZMWqkr7cKD_rvEXZUuQ">Brother Jake Videos</a> (more light-hearted but summaries)</li>
 </ul>
 <p><em>Additional resources and discussion can be found at the <a rel="external" href="https://www.reddit.com/r/ExmormonBookshelf/">exmormon bookshelf</a>, <a rel="external" href="https://www.reddit.com/r/mormon/">mormon</a>, <a rel="external" href="https://www.reddit.com/r/mormonscholar/">mormonscholar</a>, and <a rel="external" href="https://www.reddit.com/r/exmormon/">exmormon</a> subreddits.</em></p>
-<h1 id="lds-scholarly-and-apologetic-resources">LDS Scholarly and Apologetic Resources</h1>
-<h3 id="official">Official</h3>
+<h1 id="lds-scholarly-and-apologetic-resources">LDS Scholarly and Apologetic Resources<a class="zola-anchor" href="#lds-scholarly-and-apologetic-resources" aria-label="Anchor link for: lds-scholarly-and-apologetic-resources"><i class="fas fa-link"></i></a> 
+</h1>
+<h3 id="official">Official<a class="zola-anchor" href="#official" aria-label="Anchor link for: official"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://www.churchofjesuschrist.org/topics/essays?lang=eng&amp;old=true">Gospel Topics Essays</a> (churchofjesuschrist.org)</li>
 <li><a rel="external" href="https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng">Gospel Topics, Essays, and Other Resources</a> (<a rel="external" href="https://web.archive.org/web/20240607004414/https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng">archive</a>) (churchofjesuschrist.org)</li>
 </ul>
-<h3 id="semi-affiliated">Semi affiliated</h3>
+<h3 id="semi-affiliated">Semi affiliated<a class="zola-anchor" href="#semi-affiliated" aria-label="Anchor link for: semi-affiliated"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://evidencecentral.org/recency">Evidence Central</a>
 <ul>
@@ -154,7 +278,8 @@
 <li><a rel="external" href="http://mi.byu.edu/">Neal A. Maxwell Institute</a> (BYU affiliated institute for religious scholarship)</li>
 <li><a rel="external" href="http://www.fairmormon.org/">FairMormon</a> (The most significant LDS apologetic resource)</li>
 </ul>
-<h3 id="not-affiliated">Not affiliated</h3>
+<h3 id="not-affiliated">Not affiliated<a class="zola-anchor" href="#not-affiliated" aria-label="Anchor link for: not-affiliated"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://mormonr.org/">Mormonr</a> (frank discussion of difficult questions; lots links to primary data)</li>
 <li><a rel="external" href="https://www.youtube.com/@mormonismwiththemurph/videos">Mormonism with the Murph</a> (YT videos w/ both critics and apologists; respectful, fair, balanced)</li>
@@ -162,9 +287,11 @@
 <li><a rel="external" href="https://www.reddit.com/r/lds/">lds subreddit</a></li>
 <li><a rel="external" href="https://www.reddit.com/r/latterdaysaints/">latterdaysaints subreddit</a></li>
 </ul>
-<h2 id="responses-to-the-ces-letter">Responses to the CES Letter</h2>
+<h2 id="responses-to-the-ces-letter">Responses to the CES Letter<a class="zola-anchor" href="#responses-to-the-ces-letter" aria-label="Anchor link for: responses-to-the-ces-letter"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="http://cesletter.com/">The CES Letter</a> is the most well-known compilation of problems with LDS truth-claims.  Below are responses to the CES Letter.  I’ve included links to responses, and Jeremy also keeps <a rel="external" href="https://cesletter.org/debunkings/">a running list of all his responses</a>.</p>
-<h3 id="with-counter-responses">With counter-responses</h3>
+<h3 id="with-counter-responses">With counter-responses<a class="zola-anchor" href="#with-counter-responses" aria-label="Anchor link for: with-counter-responses"><i class="fas fa-link"></i></a> 
+</h3>
 <ol>
 <li><a rel="external" href="https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Online_documents/Letter_to_a_CES_Director">FairMormon Analysis of CES Letter</a>
 <ul>
@@ -228,7 +355,8 @@
 </ul>
 </li>
 </ol>
-<h3 id="without-responses-by-runnells">Without responses by Runnells</h3>
+<h3 id="without-responses-by-runnells">Without responses by Runnells<a class="zola-anchor" href="#without-responses-by-runnells" aria-label="Anchor link for: without-responses-by-runnells"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="http://debunking-cesletter.com/">The CES Letter: A Closer Look</a> (page by page analysis, videos, and written responses)</li>
 <li><a rel="external" href="http://web.archive.org/web/20210423205835/http://www.conflictofjustice.com/ces-letter-fail-contents/">Conflict of Justice #CES Letter Fail</a></li>
@@ -236,19 +364,19 @@
 <li><a rel="external" href="https://www.youtube.com/playlist?list=PLW_W0q2IV3ZGtnDHmUtSQhdKwGfWrTN-U">Evidence and Criticism of LDS Truth Claims, Theology, and Practice</a> (video series by Brett M. McDonald)</li>
 <li><a rel="external" href="https://search.worldcat.org/title/1538478965?oclcNum=1538478965">A Christian’s Response to Jeremy Runnells’ CES Letter</a> (David Liscum; Amazon summary: “affirming the hard questions Runnells raises … [and] reveal[ing] why the LDS narrative collapses under the weight of Scripture, history, and reason.”)</li>
 </ul>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a href="/a_careful_examination/resources-related-to-helps-and-harms/">Resources related to the helps and harms of the LDS Church</a></p>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -263,105 +391,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

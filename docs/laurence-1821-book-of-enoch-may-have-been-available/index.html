@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Laurence&#39;s 1821 Book of Enoch may have been available in the US | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Laurence&#39;s 1821 Book of Enoch may have been available in the US | A Careful Examination</title>
+<meta property="og:title" content="Laurence&#39;s 1821 Book of Enoch may have been available in the US | A Careful Examination" />
+<meta name="twitter:title" content="Laurence&#39;s 1821 Book of Enoch may have been available in the US | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/laurence-1821-book-of-enoch-may-have-been-available/">
-  
+  <meta property="og:url" content="/a_careful_examination/laurence-1821-book-of-enoch-may-have-been-available/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Laurence&#39;s 1821 Book of Enoch may have been available in the US</h1>
@@ -103,35 +219,16 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#forward">Forward</a></li>
-        
-          <li><a href="#circumstantial-evidence">Circumstantial evidence</a></li>
-        
-          <li><a href="#james-bruce-translated-the-first-18-chapters">James Bruce translated the first 18 chapters</a></li>
-        
-          <li><a href="#no-direct-evidence-to-date">No direct evidence to date</a></li>
-        
-          <li><a href="#other-sources-for-ideas-from-book-of-enoch">Other sources for ideas from book of Enoch</a></li>
-        
-          <li><a href="#see-also">See Also</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="forward">Forward</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="forward">Forward<a class="zola-anchor" href="#forward" aria-label="Anchor link for: forward"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I wrote the following analysis before Colby Townsend released his more extensive analysis of Book of Enoch and its availability to Joseph Smith. Anyone interested in the topic should probably consult that document first:</p>
 <p><a rel="external" href="https://www.dialoguejournal.com/articles/revisiting-joseph-smith-and-the-availability-of-the-book-of-enoch/">Revisiting Joseph Smith and the Availability of the Book of Enoch</a> (Fall 2020 Dialogue)</p>
-<h2 id="circumstantial-evidence">Circumstantial evidence</h2>
+<h2 id="circumstantial-evidence">Circumstantial evidence<a class="zola-anchor" href="#circumstantial-evidence" aria-label="Anchor link for: circumstantial-evidence"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In the preface to his 1838 (3rd) edition, dated January 1838, Richard Laurence writes<sup class="footnote-reference" id="fr-commentary_in_1883-1"><a href="/a_careful_examination/laurence-1821-book-of-enoch-may-have-been-available/#fn-commentary_in_1883">[1]</a></sup> (emboldened text for emphasis):</p>
 <blockquote>
 <p>Perhaps the following note in Hoffman’s preface will occasion a smile at the German idea of English Episcopal propriety; “According to a report which is however unauthenticated, <em>the Author</em>, now a Bishop of the English church, has stopt the sale of his work <em>himself</em><sup>a</sup>.” This remark is meant to account for the scarcity of the book in Germany, when the German translation appeared in 1833. But the fact is, <strong>that it was then out of print</strong>. In that very year, however, I published a Second edition, which I understand is also now out of print; and <strong>hearing that a very large order for more copies has been received from <em>America</em>, I have been induced now to print a Third</strong>. But I feel that my time of life and professional avocations prevent me from taking that advantage of Dr. Hoffman’s numerous and learned notes, which I otherwise should have certainly done, as well as from dedicating myself more devotedly to my former literary pursuits.</p>
@@ -141,20 +238,24 @@
 </blockquote>
 <p>So, while the book may have been difficult to come by in Germany, it did sell out its original printing before 1833, requiring another printing in 1833.  That alone indicates that the book was in some significant distribution.  The fact that sales in the U.S. of the 1833 edition were substantial leaves open the possibility that the 1821 edition also sold in the U.S. at more than insignificant levels.</p>
 <p>In general, export of books from Britain to the US was very significant (as discussed by Gilreath, in <a rel="external" href="https://www.americanantiquarian.org/proceedings/44539364.pdf">American Book Distribution</a>), and Botein in 1776 noted that “London booksellers relegated North America as a convenient dumping ground for books whose sales had slowed in London, thus making them too expensive to keep in inventory.” (quoting <a rel="external" href="https://www.americanantiquarian.org/proceedings/44539364.pdf">Gilreath</a>).  Oxford was close to London—perhaps by the late 1820s it was one of those titles being dumped on North America?</p>
-<h2 id="james-bruce-translated-the-first-18-chapters">James Bruce translated the first 18 chapters</h2>
+<h2 id="james-bruce-translated-the-first-18-chapters">James Bruce translated the first 18 chapters<a class="zola-anchor" href="#james-bruce-translated-the-first-18-chapters" aria-label="Anchor link for: james-bruce-translated-the-first-18-chapters"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In the preliminary dissertation to his 1821 translation, on page ix, <a rel="external" href="https://books.google.com/books?id=IFM7AQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q=war&amp;f=false">Laurence noted</a>:</p>
 <blockquote>
 <p>And I heard from them every thing, and I understood what I saw. —After this follows the history of the angels, of their having descended from heaven, and produced giants with the daughters of men; of their having instructed these in the arts of war and peace, and luxury.  The names of the leading spirits are mentioned, which appear to be of Hebrew original, but corrupted by Greek pronunciation.  The resolution of God to destroy them is then revealed to Enoch.  These topics occupy about eighteen chapters, which Mr. Bruce had translated into English, but weary of the subject proceeded no further. …</p>
 </blockquote>
-<h2 id="no-direct-evidence-to-date">No direct evidence to date</h2>
+<h2 id="no-direct-evidence-to-date">No direct evidence to date<a class="zola-anchor" href="#no-direct-evidence-to-date" aria-label="Anchor link for: no-direct-evidence-to-date"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Nibley notes that the book was <a rel="external" href="https://www.churchofjesuschrist.org/study/ensign/1975/12/a-strange-thing-in-the-land-the-return-of-the-book-of-enoch-part-2?lang=eng">not found listed in Thomas Jefferson’s library</a> which was continued until 1826.  Regardless, finding a copy that existed or was listed to have existed before 1830 in the region Joseph lived (or even in the U.S.) would strengthen the case that Joseph had stumbled or found the book.  Even without such a discovery, it is not unreasonable to believe that copies existed in the U.S. before 1830 based on extrapolation of the circumstantial evidence.</p>
-<h2 id="other-sources-for-ideas-from-book-of-enoch">Other sources for ideas from book of Enoch</h2>
+<h2 id="other-sources-for-ideas-from-book-of-enoch">Other sources for ideas from book of Enoch<a class="zola-anchor" href="#other-sources-for-ideas-from-book-of-enoch" aria-label="Anchor link for: other-sources-for-ideas-from-book-of-enoch"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Book of Enoch was being discussed in other sources (books published in London regularly made their way to the US).</p>
 <ul>
 <li>John Marten Butt. 1827. London. <a rel="external" href="https://books.google.com/books?id=oDpVAAAAcAAJ&amp;pg=PA35&amp;dq=%22enoch%22&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiPpMbo1vzkAhVGgp4KHc7BDDgQ6AEwA3oECAUQAg">The Genuineness of the Book of Enoch Investigated</a></li>
 <li>John Overton. 1822. London. <a rel="external" href="https://books.google.com/books?id=fYRhAAAAcAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Inquire into the truth and use of the Book of Enoch as to its prophecies, visions, and account of fallen angels</a></li>
 </ul>
-<h2 id="see-also">See Also</h2>
+<h2 id="see-also">See Also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <p><a rel="external" href="https://faenrandir.github.io/a_careful_examination/resources-on-the-book-of-enoch/">Resources on the Book of Enoch</a></p>
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -170,16 +271,15 @@ The Book of Enoch excited more interest on the Continent than in England. It was
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -194,105 +294,9 @@ The Book of Enoch excited more interest on the Continent than in England. It was
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

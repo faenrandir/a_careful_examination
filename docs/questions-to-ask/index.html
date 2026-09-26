@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Questions to Ask | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>Questions to Ask | A Careful Examination</title>
+<meta property="og:title" content="Questions to Ask | A Careful Examination" />
+<meta name="twitter:title" content="Questions to Ask | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/questions-to-ask/">
-  
+  <meta property="og:url" content="/a_careful_examination/questions-to-ask/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">Questions to Ask</h1>
@@ -112,15 +228,19 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction<a class="zola-anchor" href="#introduction" aria-label="Anchor link for: introduction"><i class="fas fa-link"></i></a> 
+</h2>
 <p>These questions are designed to probe various aspects of the LDS Church’s history and truth-claims.<sup class="footnote-reference" id="fr-other_questions-1"><a href="/a_careful_examination/questions-to-ask/#fn-other_questions">[1]</a></sup>  The list was made for 1) investigators to ask the missionaries, 2) active members to ask themselves, or 3) those experiencing a faith transition to ask their parents or ecclesiastical leaders. Some kind of LDS-faithful response to each question is to be expected (see <a href="/a_careful_examination/questions-to-ask/#appendix">the Appendix</a>), but the ease with which different models fit the data may suggest that one model is superior to another in explaining all the data.</p>
 <p>The majority of links provided are to <a rel="external" href="https://www.churchofjesuschrist.org/si/objective/doctrinal-mastery/gospel-sources?lang=eng">LDS approved sources</a> or to relatively neutral information repositories (such as wikipedia).</p>
 <p><em>If any question contains incorrect information or is misleading in any way, please contact me, and I will fix it.</em></p>
-<h1 id="questions">Questions</h1>
-<h2 id="joseph-smith-s-polygamy">Joseph Smith’s Polygamy</h2>
+<h1 id="questions">Questions<a class="zola-anchor" href="#questions" aria-label="Anchor link for: questions"><i class="fas fa-link"></i></a> 
+</h1>
+<h2 id="joseph-smith-s-polygamy">Joseph Smith’s Polygamy<a class="zola-anchor" href="#joseph-smith-s-polygamy" aria-label="Anchor link for: joseph-smith-s-polygamy"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li>
 <p>If sealing is such an important principle,<sup class="footnote-reference" id="fr-importance_of_sealing-1"><a href="/a_careful_examination/questions-to-ask/#fn-importance_of_sealing">[2]</a></sup> why did Joseph never seal himself to his parents or have his children sealed to him during his lifetime?<sup class="footnote-reference" id="fr-hales_no_sealing-1"><a href="/a_careful_examination/questions-to-ask/#fn-hales_no_sealing">[3]</a></sup></p>
@@ -153,11 +273,13 @@
 <p>If Joseph was pressured into polygamy by <a rel="external" href="https://www.churchofjesuschrist.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng">an angel with a drawn sword</a>, why did the angel not give sufficient instructions to ensure that polygamy and/or sealings were done “correctly” (for instance, consistent with the principles suggested by <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.61">D&amp;C 132:61</a>)?<sup class="footnote-reference" id="fr-detailed_revelation-1"><a href="/a_careful_examination/questions-to-ask/#fn-detailed_revelation">[6]</a></sup></p>
 </li>
 </ol>
-<h2 id="the-book-of-abraham">The Book of Abraham</h2>
+<h2 id="the-book-of-abraham">The Book of Abraham<a class="zola-anchor" href="#the-book-of-abraham" aria-label="Anchor link for: the-book-of-abraham"><i class="fas fa-link"></i></a> 
+</h2>
 <p>In his translation of the facsimiles, Joseph pointed to <a rel="external" href="https://imgur.com/2a5sban">specific characters and gave a specific translation</a>.  However, most of the characters on the facsimiles (<em>not</em> the vignettes, but the characters describing the vignettes) have been translated by both <a rel="external" href="https://archive.org/stream/SnsnTranslation#page/n4/mode/1up">BYU</a> and non-Mormon scholars, and although not all characters are perfectly legible, <a rel="external" href="https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=8598&amp;context=etd">the translation does not match</a>.<sup class="footnote-reference" id="fr-some_argue_for_matches-1"><a href="/a_careful_examination/questions-to-ask/#fn-some_argue_for_matches">[7]</a></sup></p>
 <p>To underscore, <a rel="external" href="https://www.churchofjesuschrist.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng">the Book of Abraham lds.org essay</a> concedes generally: “None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the book of Abraham…”</p>
 <p>Why do the translations of the facsimile characters not match up?<sup class="footnote-reference" id="fr-consider_section_10-1"><a href="/a_careful_examination/questions-to-ask/#fn-consider_section_10">[8]</a></sup></p>
-<h2 id="the-book-of-mormon">The Book of Mormon</h2>
+<h2 id="the-book-of-mormon">The Book of Mormon<a class="zola-anchor" href="#the-book-of-mormon" aria-label="Anchor link for: the-book-of-mormon"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Richard Bushman, a well-known Mormon historian, <a href="/a_careful_examination/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/">recently stated</a>:</p>
 <blockquote>
 <p>… there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings.  The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament …</p>
@@ -180,7 +302,8 @@
 <p>If the book is ancient in origin, why did the author of the Book of Mormon quote or paraphrase New Testament scripture more often than Old Testament scripture (see <a rel="external" href="https://web.archive.org/web/20180816212337/http://bookofmormondepot.com/kjv-verses/">here</a> or <a href="/a_careful_examination/comparison-table-book-of-mormon-and-bible-verses-origins-project/">here</a>), even before the New Testament was written?</p>
 </li>
 </ol>
-<h2 id="spiritual-confirmation-and-priesthood-guidance">Spiritual Confirmation and Priesthood Guidance</h2>
+<h2 id="spiritual-confirmation-and-priesthood-guidance">Spiritual Confirmation and Priesthood Guidance<a class="zola-anchor" href="#spiritual-confirmation-and-priesthood-guidance" aria-label="Anchor link for: spiritual-confirmation-and-priesthood-guidance"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li>
 <p>Why do members of other religions receive strong spiritual experiences confirming to them that their religion is the correct religion?  (See <a rel="external" href="https://www.youtube.com/watch?v=UJMSU8Qj6Go">Spiritual Witnesses</a> and additional discussion in <a href="/a_careful_examination/testimony-spiritual-experiences-truth/">Testimony, Spiritual Experiences, and Truth: A Careful Examination</a>)</p>
@@ -198,7 +321,8 @@
 <p>Beginning in 1949, the First Presidency answered inquiries <a rel="external" href="https://www.fairmormon.org/answers/Mormonism_and_racial_issues/Blacks_and_the_priesthood/Statements#1949">with a statement</a><sup class="footnote-reference" id="fr-fp1949-1"><a href="/a_careful_examination/questions-to-ask/#fn-fp1949">[11]</a></sup>: “The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord…”  The <a rel="external" href="http://www.mormonstories.org/other/Lowry_Nelson_1st_Presidency_Exchange.pdf">Lowry Nelson letters</a> and the <a rel="external" href="https://archive.org/stream/StewartUdallConscienceOfAJackMormon/StuartUdall-OpenLetterOnRaceAndConsequencesOfConscience#page/n0/mode/1up">Stewart Udall letters</a> further underscore the unwavering confidence Church leaders of that time had in the divinity of the Black Priesthood/Temple ban and the doctrines and teachings offering it support.<sup class="footnote-reference" id="fr-blood-1"><a href="/a_careful_examination/questions-to-ask/#fn-blood">[12]</a></sup>  Given the level of confidence leaders at that time had in the Priesthood/Temple ban, why should we have confidence in Church leaders’ position today on homosexuality (i.e., that homosexual same-sex married couples are in “apostasy” and the children of homosexuals may not be baptized without 1st presidency approval)?  Is it possible that leaders today are “speaking as men” influenced by their upbringing and culture?<sup class="footnote-reference" id="fr-bryce_cook-1"><a href="/a_careful_examination/questions-to-ask/#fn-bryce_cook">[13]</a></sup></p>
 </li>
 </ol>
-<h2 id="joseph-smith-and-the-restoration">Joseph Smith and the Restoration</h2>
+<h2 id="joseph-smith-and-the-restoration">Joseph Smith and the Restoration<a class="zola-anchor" href="#joseph-smith-and-the-restoration" aria-label="Anchor link for: joseph-smith-and-the-restoration"><i class="fas fa-link"></i></a> 
+</h2>
 <ol>
 <li>
 <p>The Joseph Smith Papers Project <a rel="external" href="http://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1#historical-intro">historical introduction to the 1832 First Vision</a> states, “In the early 1830s, when this history was written, it appears that Joseph Smith had not broadcast the details of his first vision of Deity. The history of the church, as it was then generally understood, began with the gold plates.”  Why does it appear that Joseph Smith did not tell anyone about the First Vision until well after the founding of the Church?</p>
@@ -210,7 +334,8 @@
 <p>Given their separation by 800 miles, the Saints in Kirtland were unaware of events as they occurred in Jackson County Missouri.  Given <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/tg/god-omniscience-of?lang=eng">his omniscience</a>, however, God should be aware of events as they occur.  Unbeknownst to the Saints in Kirtland, the Saints in Missouri (aka ‘Zion’) had just had their businesses looted, their printing press destroyed, their farms and houses burned, and had just been forced to sign an agreement to leave Jackson County when <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/97?lang=eng">D&amp;C 97</a> was revealed to Joseph Smith in Kirtland.  Why did God appear to be fairly <a rel="external" href="http://www.116pages.com/2017/11/doctrine-and-covenants-section-97.html?m=1">unaware of the events that had just transpired in Jackson County</a> as indicated by the various concerns discussed in section 97?</p>
 </li>
 </ol>
-<h2 id="adam-and-eve">Adam and Eve</h2>
+<h2 id="adam-and-eve">Adam and Eve<a class="zola-anchor" href="#adam-and-eve" aria-label="Anchor link for: adam-and-eve"><i class="fas fa-link"></i></a> 
+</h2>
 <p>The Church teaches <a href="/a_careful_examination/the-6000-year-problem/">in multiple current manuals</a> that Adam lived at approximately 4000 BC; Joseph Smith claimed that <a rel="external" href="http://en.fairmormon.org/Joseph_Smith/Garden_of_Eden_in_Missouri">Adam and Eve walked out of the Garden of Eden into Missouri, USA</a>,<sup class="footnote-reference" id="fr-eden_in_missiour-1"><a href="/a_careful_examination/questions-to-ask/#fn-eden_in_missiour">[14]</a></sup> and modern leaders <a rel="external" href="https://www.churchofjesuschrist.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=eng">affirm the physical, literal reality of Adam and Eve</a>.  In addition, restored LDS scripture describes Adam and Eve tilling the ground immediately upon their explusion from the Garden of Eden (see <a rel="external" href="https://www.churchofjesuschrist.org/scriptures/pgp/moses/4.29">Moses 4:29</a>).  Given that agriculture was not invented <a rel="external" href="https://en.wikipedia.org/wiki/Neolithic_Revolution">until about 10,000 years ago</a>, it appears that all accounts of Adam and Eve from LDS prophetic sources place them somewhere between 4,000 BCE and 10,000 BCE (in Missouri, USA).</p>
 <p>However, many data points <a rel="external" href="https://en.wikipedia.org/wiki/Early_human_migrations">support a migration out of Africa beginning about 70,000 years ago</a>.  Aboriginal Australians likely migrated to Australia about <em>50,000</em> years ago, and extensive evidence shows migrations into the Pacific islands <a rel="external" href="https://en.wikipedia.org/wiki/History_of_the_Pacific_Islands#Philippines">around <em>20,000</em> years ago</a>.<sup class="footnote-reference" id="fr-dating-1"><a href="/a_careful_examination/questions-to-ask/#fn-dating">[15]</a></sup>  In addition, all human genetic sequence data and inferences about viable population size suggest that there was never a time when there were only two humans on earth (<a rel="external" href="https://newrepublic.com/article/115759/adam-eve-theologians-try-reconcile-science-and-fail">example 1</a>, <a rel="external" href="https://whyevolutionistrue.wordpress.com/2011/09/18/how-big-was-the-human-population-bottleneck-not-anything-close-to-2/">example 2</a>).</p>
 <ol>
@@ -224,15 +349,18 @@
 <p>FairMormon acknowledges that there <a rel="external" href="https://www.fairmormon.org/answers/Mormonism_and_science/Global_or_local_Flood#Question:_How_do_Latter-day_Saints_reconcile_scriptural_accounts_of_the_Flood_of_Noah_with_scientific_evidence_of_continuous_human_habitation_on_the_earth.3F">was likely not a global flood 4,400 years ago</a>.  If the Garden of Eden really was in Missouri, how did Adam and Eve migrate to the Middle East?  If Adam never actually lived in Missouri, then what are we to make of <a rel="external" href="http://emp.byui.edu/satterfieldb/quotes/Adam-ondi-Ahman.html">Adam-ondi-Ahman</a>?</p>
 </li>
 </ol>
-<h2 id="appendix">Appendix</h2>
-<h4 id="approaches-to-difficult-questions">approaches to difficult questions</h4>
+<h2 id="appendix">Appendix<a class="zola-anchor" href="#appendix" aria-label="Anchor link for: appendix"><i class="fas fa-link"></i></a> 
+</h2>
+<h4 id="approaches-to-difficult-questions">approaches to difficult questions<a class="zola-anchor" href="#approaches-to-difficult-questions" aria-label="Anchor link for: approaches-to-difficult-questions"><i class="fas fa-link"></i></a> 
+</h4>
 <p>One general way to deal with difficult questions is to suggest that God has been dispensing information “line upon line, precept upon precept, here a little and there a little” (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/bofm/2-ne/28.30">2 Nephi 28:30</a>).  On the other hand, we expect to see consistency in the unfolding of God’s handiwork because God “is the same yesterday and today and forever” (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/bofm/1-ne/10.18">1 Nephi 10:18</a>), “truth is knowledge of things as they are, and as they were, and as they are to come” (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/93.24">D&amp;C 93:24</a>), and his house “…is a house of order, saith the Lord God, and not a house of confusion.” (<a rel="external" href="https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.8">D&amp;C 132:8</a>).</p>
 <p>Inconsistencies and difficulties may also be chalked up to the shortcomings and mistakes of men.  On the one hand, the Lord (apparently) declared, through Joseph Smith:</p>
 <blockquote>
 <p>What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.</p>
 </blockquote>
 <p>Joseph Smith also emphasized “there is no error in the revelations which I have taught.”<sup class="footnote-reference" id="fr-no_error-1"><a href="/a_careful_examination/questions-to-ask/#fn-no_error">[16]</a></sup>  On the other hand, he reminded us “I never told you I was perfect” and “a prophet was a prophet only when he was acting as such.”<sup class="footnote-reference" id="fr-mistakes_of_men-1"><a href="/a_careful_examination/questions-to-ask/#fn-mistakes_of_men">[17]</a></sup>  With caveats in place (i.e., revelation from God is perfect and all mistakes are from men), it is trivial, then, to take any event, doctrine, or teaching that is problematic and attribute it to the failures of men while attributing everything faith-promoting and wonderful to God’s divine influence.  This is a tremendously powerful partitioning algorithm.<sup class="footnote-reference" id="fr-partition_algorithm-1"><a href="/a_careful_examination/questions-to-ask/#fn-partition_algorithm">[18]</a></sup>  Its only weakness may be that it is too powerful—such an algorithm seems capable of divinizing any organization or individual to which it may be applied.</p>
-<h2 id="see-also">See also</h2>
+<h2 id="see-also">See also<a class="zola-anchor" href="#see-also" aria-label="Anchor link for: see-also"><i class="fas fa-link"></i></a> 
+</h2>
 <ul>
 <li><a href="/a_careful_examination/truth-claim-summaries/">Truth-claim summaries and apologetics</a></li>
 <li><a href="/a_careful_examination/five-key-facts/">Five Key Facts</a></li>
@@ -348,16 +476,15 @@
 </ol>
 </section>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -372,105 +499,9 @@
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+

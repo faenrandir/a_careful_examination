@@ -1,33 +1,156 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>bwv549 banned from the lds subreddit | A Careful Examination</title>
-  
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+
+        <title>bwv549 banned from the lds subreddit | A Careful Examination</title>
+<meta property="og:title" content="bwv549 banned from the lds subreddit | A Careful Examination" />
+<meta name="twitter:title" content="bwv549 banned from the lds subreddit | A Careful Examination" />
+
+        
   <meta name="description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
-  
-  
+  <meta property="og:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+  <meta name="twitter:description" content="Resources, research, and thoughts related to the truth-claims, teachings, and culture of The Church of Jesus Christ of Latter-day Saints (aka the Mormon Church).">
+
+        <meta property="og:site_name" content="A Careful Examination" />
   <link rel="canonical" href="/a_careful_examination/bwv549-banned-from-the-lds-subreddit/">
-  
+  <meta property="og:url" content="/a_careful_examination/bwv549-banned-from-the-lds-subreddit/">
+  <meta name="twitter:card" content="summary">
+
+        
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="/a_careful_examination/base.css?h=6cc37866f97f795e3e3f" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/brands.css" rel="stylesheet">
+        <link href="/a_careful_examination/fontawesome/solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="/a_careful_examination/favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="A Careful Examination" href="/a_careful_examination/atom.xml">
+
+        <link rel="stylesheet" href="/a_careful_examination/css/katex.min.css">
+        <script defer src="/a_careful_examination/js/katex.min.js"></script>
+        <script defer src="/a_careful_examination/js/mathtex-script-type.min.js"></script>
+
+        
+
+        
   <link rel="stylesheet" href="/a_careful_examination/main.css">
-  
-  <link type="application/atom+xml" rel="alternate" href="/a_careful_examination/atom.xml" title="A Careful Examination">
-  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125187615-1"></script>
+  <script async src="https://www.googletaganager.com/gtag/js?id=UA-125187615-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-125187615-1');
   </script>
-</head>
+  <script>
+    (function() {
+      'use strict';
 
-<body>
-  <header class="site-header" role="banner">
+      // Render taxonomy tag clouds on the homepage.
+      async function loadTaxonomyIndex() {
+        try {
+          const base = '/a_careful_examination';
+          const response = await fetch(base + '/taxonomy_index.json');
+          if (!response.ok) throw new Error('Failed to load taxonomy index');
+          const data = await response.json();
+          renderTagClouds(data);
+        } catch (err) {
+          console.error('Failed to load taxonomy index:', err);
+        }
+      }
+
+      function renderTagClouds(data) {
+        const base = '/a_careful_examination';
+        const categoriesCloud = document.getElementById('tag-cloud-categories');
+        if (categoriesCloud && data.categories) {
+          categoriesCloud.innerHTML = data.categories.map(term =>
+            '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+        const tagsCloud = document.getElementById('tag-cloud-tags');
+        if (tagsCloud && data.tags) {
+          tagsCloud.innerHTML = data.tags.map(term =>
+            '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
+            escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
+            '</a>'
+          ).join('');
+        }
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Render taxonomy lists on the browse page.
+      function loadBrowseTaxonomy() {
+        const categoriesList = document.getElementById('categories-list');
+        const tagsList = document.getElementById('tags-list');
+        if (!categoriesList && !tagsList) return;
+        const base = '/a_careful_examination';
+        fetch(base + '/taxonomy_index.json')
+          .then(response => response.json())
+          .then(data => {
+            if (data.categories) {
+              document.getElementById('categories-list').innerHTML = data.categories.map(term =>
+                '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+            if (data.tags) {
+              document.getElementById('tags-list').innerHTML = data.tags.map(term =>
+                '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
+              ).join('');
+            }
+          })
+          .catch(err => {
+            console.error('Failed to load taxonomy index:', err);
+            document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
+            document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
+          });
+      }
+
+      // Fix absolute links that don't carry the base_url prefix.
+      function fixAbsoluteLinks() {
+        const base = '/a_careful_examination';
+        document.querySelectorAll('a[href^="/"]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
+            link.setAttribute('href', base + href);
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          loadTaxonomyIndex();
+          loadBrowseTaxonomy();
+          fixAbsoluteLinks();
+        });
+      } else {
+        loadTaxonomyIndex();
+        loadBrowseTaxonomy();
+        fixAbsoluteLinks();
+      }
+    })();
+  </script>
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/a_careful_examination/">A Careful Examination</a>
 
@@ -45,16 +168,9 @@
       </button>
     </form>
   </div>
-</header>
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      <div class="content-container">
-        
+</header><main id="main" class="l-main">
+            
 <article class="post">
-  
-  
-
   <header class="post-header">
     
       <h1 class="post-title">bwv549 banned from the lds subreddit</h1>
@@ -93,37 +209,20 @@
     
   </header>
 
-  <div class="post-content-wrapper">
-    
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        
-          <li><a href="#the-context">The context</a></li>
-        
-          <li><a href="#the-catalytic-comment">The catalytic comment</a></li>
-        
-          <li><a href="#the-ban">The ban</a></li>
-        
-          <li><a href="#my-appeal">My appeal</a></li>
-        
-          <li><a href="#aftermath">Aftermath</a></li>
-        
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    
-    <div class="post-content">
-      <h2 id="the-context">The context</h2>
+  
+  
+
+  <div class="post-content">
+    <h2 id="the-context">The context<a class="zola-anchor" href="#the-context" aria-label="Anchor link for: the-context"><i class="fas fa-link"></i></a> 
+</h2>
 <p>On Tuesday November 30, 2021 <code>dice1899</code> posted another part of her rebuttal to the CES Letter (<a rel="external" href="https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/">part 44, section
 A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmpw1wj/">commented on the post</a>, noting (among many other things) that</p>
 <blockquote>
 <p>D&amp;C 27 didn’t originally include the mention of Peter, James, and John, which is in Jeremy’s next point that you’ll go over next week.</p>
 </blockquote>
 <p>dice1899 <a rel="external" href="https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqjsm0/">responded in some depth</a> to <code>WooperSlim</code>’s long comment, but didn’t mention anything about their point about D&amp;C 27. I had gone to the comments to make this very point, and I felt like it was very salient to her post.  I decided to restate the point along with a helpful resource (which is derived 100% from lds published resources in their complete context).</p>
-<h2 id="the-catalytic-comment">The catalytic comment</h2>
+<h2 id="the-catalytic-comment">The catalytic comment<a class="zola-anchor" href="#the-catalytic-comment" aria-label="Anchor link for: the-catalytic-comment"><i class="fas fa-link"></i></a> 
+</h2>
 <p>On Tuesday, November 30, 2021 at 18:26:51 MST, <a rel="external" href="https://www.reddit.com/r/lds/comments/r5i0sz/part_44_ces_letter_priesthood_restoration/hmqmact/">I commented</a> (moderator removed):</p>
 <blockquote>
 <blockquote>
@@ -138,7 +237,8 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <p>There wasn’t enough room to go into the details, but it’ll be the main focus next week.</p>
 </blockquote>
 <p>I didn’t rebut her point (this isn’t a missed detail, it is a clear inaccuracy), because I am careful to never engage oppositionally on the lds site and a re-emphasis of my point could be taken as oppositional or antagonistic, regardless of its accuracy.</p>
-<h2 id="the-ban">The ban</h2>
+<h2 id="the-ban">The ban<a class="zola-anchor" href="#the-ban" aria-label="Anchor link for: the-ban"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Shortly after, I was messaged that I had been permanently banned from the lds subreddit:</p>
 <blockquote>
 <p>You have been permanently banned from participating in r/lds. You can still view and subscribe to r/lds, but you won’t be able to post or comment.</p>
@@ -149,7 +249,8 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <blockquote>
 <p><strong>Reminder from the Reddit staff</strong>: If you use another account to circumvent this subreddit ban, that will be considered a violation of <a rel="external" href="https://reddit.com/help/contentpolicy#section_prohibited_behavior">the Content Policy</a> and can result in your account being <a rel="external" href="https://www.reddithelp.com/en/categories/reddit-101/rules-reporting/account-and-community-restrictions/suspensions">suspended</a> from the site as a whole.</p>
 </blockquote>
-<h2 id="my-appeal">My appeal</h2>
+<h2 id="my-appeal">My appeal<a class="zola-anchor" href="#my-appeal" aria-label="Anchor link for: my-appeal"><i class="fas fa-link"></i></a> 
+</h2>
 <p>I responded to the ban by messaging the mods of the site:</p>
 <hr />
 <p>[start of message]</p>
@@ -158,9 +259,11 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <blockquote>
 <p>This is the reddit community for faithful discussion concerning The Church of Jesus Christ of Latter-day Saints, also known as Mormons or Latter-day Saints. All are invited to faithfully participate, contribute, and ask questions provided they are respectful of Latter-day Saints and their beliefs, and are not involved in undermining the faith elsewhere.</p>
 </blockquote>
-<h3 id="respectful-of-latter-day-saints-and-their-beliefs">respectful of Latter-day Saints and their beliefs</h3>
+<h3 id="respectful-of-latter-day-saints-and-their-beliefs">respectful of Latter-day Saints and their beliefs<a class="zola-anchor" href="#respectful-of-latter-day-saints-and-their-beliefs" aria-label="Anchor link for: respectful-of-latter-day-saints-and-their-beliefs"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I easily qualify for limited participation in this sub based on the fact that I am generally “respectful of Latter-day Saints and their beliefs”.  As a matter of personal integrity, I obviously will not say that I respect beliefs which are demonstrably false or which cause obvious harm to people, but as a matter of respect to the ground-rules of the sub I would not raise those subset of issues on the sub, so that subset seems beside the point.</p>
-<h3 id="are-not-involved-in-undermining-the-faith-elsewhere">are not involved in undermining the faith elsewhere</h3>
+<h3 id="are-not-involved-in-undermining-the-faith-elsewhere">are not involved in undermining the faith elsewhere<a class="zola-anchor" href="#are-not-involved-in-undermining-the-faith-elsewhere" aria-label="Anchor link for: are-not-involved-in-undermining-the-faith-elsewhere"><i class="fas fa-link"></i></a> 
+</h3>
 <p>I occasionally post and/or comment on the mormon or exmormon subs, but my actions can scarcely be described as “undermining the faith.”  Here is the substance of my last ten comments, for instance:</p>
 <ol>
 <li><a rel="external" href="https://www.reddit.com/r/mormon/comments/r63zlp/what_does_the_book_of_mormon_actually_teach/hmqvawf/">The top teachings in the BoM that have influenced me</a></li>
@@ -179,7 +282,8 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <blockquote>
 <p>While I wouldn’t put myself in the same league as Royal Skousen or Brian Hales (I’m an amateur all the way), I will gladly attest that we’ve had a few good, respectful conversations and I don’t think you’re an anti-Mormon at all. …</p>
 </blockquote>
-<h3 id="other-information-that-may-be-of-use">Other information that may be of use</h3>
+<h3 id="other-information-that-may-be-of-use">Other information that may be of use<a class="zola-anchor" href="#other-information-that-may-be-of-use" aria-label="Anchor link for: other-information-that-may-be-of-use"><i class="fas fa-link"></i></a> 
+</h3>
 <ul>
 <li><a rel="external" href="https://faenrandir.github.io/a_careful_examination/summary-of-my-beliefs/">my beliefs</a></li>
 <li><a rel="external" href="https://faenrandir.github.io/a_careful_examination/">my site</a></li>
@@ -190,7 +294,8 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <p>Anyway, thanks for considering, and if I am re-instated, I would appreciate being white-listed (is that a thing?) so that I’m not banned by mistake in the future.  If you decide that the ban should persist, then all the best to you in your sub and future spiritual and personal endeavors.</p>
 <p>[end of message]</p>
 <hr />
-<h2 id="aftermath">Aftermath</h2>
+<h2 id="aftermath">Aftermath<a class="zola-anchor" href="#aftermath" aria-label="Anchor link for: aftermath"><i class="fas fa-link"></i></a> 
+</h2>
 <p>Roughly 5 months later (as of 2022-03-19):</p>
 <ol>
 <li>
@@ -210,7 +315,8 @@ A</a>). Shortly after, user <code>WooperSlim</code> <a rel="external" href="http
 <p>is still present <em>unedited</em> in her original post and remains misleading (since the original revelation makes no mention of Peter, James, and John as a simple comparison with resources published by the LDS Church will reveal).</p>
 </li>
 </ol>
-<h3 id="2022-08-23-update">2022-08-23 update</h3>
+<h3 id="2022-08-23-update">2022-08-23 update<a class="zola-anchor" href="#2022-08-23-update" aria-label="Anchor link for: 2022-08-23-update"><i class="fas fa-link"></i></a> 
+</h3>
 <p>One of the moderators, dice1899, responded to <a rel="external" href="https://www.reddit.com/r/mormon/comments/wvtihr/rebuttals_to_the_ces_letter_and_like_writings/ilhuw68/">a comment</a> where I mentioned that I had been banned for posting LDS resources in response to her post and she clarified:</p>
 <blockquote>
 <p>For what it’s worth, that’s not why you were banned. You were banned for your post history of criticizing the church, which is off-limits in our sub. It’s fine in latterdaysaints as long as you’re polite there, but it’s not okay in the lds sub.</p>
@@ -226,16 +332,15 @@ sidebar <em>now</em> states (in bold):</p>
 <p>All Reddit activity of participants should reflect a genuine attempt to promote faithfulness in the LDS church. If this is not one of your core values, please have enough integrity to withhold participation in this sub (this includes downvotes).</p>
 </blockquote>
 
-    </div>
   </div>
 </article>
+<div data-pagefind-ignore>
+                
+            </div>
+        </main>
 
-      </div>
-    </div>
-  </main>
-
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/a_careful_examination/"></data>
+      <footer class="l-footer">
+          <footer class="site-footer h-card">
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -250,105 +355,9 @@ sidebar <em>now</em> states (in bold):</p>
       </div>
     </div>
   </footer>
+      </footer>
 
-  <script>
-  (function() {
-    'use strict';
-
-    // Load taxonomy index and render tag clouds on homepage
-    async function loadTaxonomyIndex() {
-      try {
-        const base = '/a_careful_examination';
-        const response = await fetch(base + '/taxonomy_index.json');
-        if (!response.ok) throw new Error('Failed to load taxonomy index');
-        const data = await response.json();
-        renderTagClouds(data);
-      } catch (err) {
-        console.error('Failed to load taxonomy index:', err);
-      }
-    }
-
-    function renderTagClouds(data) {
-      const base = '/a_careful_examination';
       
-      // Render categories tag cloud
-      const categoriesCloud = document.getElementById('tag-cloud-categories');
-      if (categoriesCloud && data.categories) {
-        categoriesCloud.innerHTML = data.categories.map(term => 
-          '<a href="' + base + '/categories/' + term.slug + '/" class="tag-pill tag-category">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-
-      // Render tags tag cloud
-      const tagsCloud = document.getElementById('tag-cloud-tags');
-      if (tagsCloud && data.tags) {
-        tagsCloud.innerHTML = data.tags.map(term => 
-          '<a href="' + base + '/tags/' + term.slug + '/" class="tag-pill tag-tag">' +
-          escapeHtml(term.name) + (term.count ? ' <span class="tag-count">(' + term.count + ')</span>' : '') +
-          '</a>'
-        ).join('');
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Load taxonomy for browse page
-    function loadBrowseTaxonomy() {
-      const categoriesList = document.getElementById('categories-list');
-      const tagsList = document.getElementById('tags-list');
-      if (!categoriesList && !tagsList) return;
-
-      const base = '/a_careful_examination';
-      fetch(base + '/taxonomy_index.json')
-        .then(response => response.json())
-        .then(data => {
-          if (data.categories) {
-            document.getElementById('categories-list').innerHTML = data.categories.map(term => 
-              '<li><a href="' + base + '/categories/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-          if (data.tags) {
-            document.getElementById('tags-list').innerHTML = data.tags.map(term => 
-              '<li><a href="' + base + '/tags/' + term.slug + '/">' + escapeHtml(term.name) + ' (' + term.count + ')</a></li>'
-            ).join('');
-          }
-        })
-        .catch(err => {
-          console.error('Failed to load taxonomy index:', err);
-          document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
-          document.getElementById('tags-list').innerHTML = '<li>Failed to load topics</li>';
-        });
-    }
-
-    // Fix absolute links that don't have the base_url prefix
-    function fixAbsoluteLinks() {
-      const base = '/a_careful_examination';
-      const links = document.querySelectorAll('a[href^="/"]');
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('/') && !href.startsWith('/a_careful_examination/')) {
-          link.setAttribute('href', base + href);
-        }
-      });
-    }
-
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        loadTaxonomyIndex();
-        fixAbsoluteLinks();
-      });
-    } else {
-      loadTaxonomyIndex();
-      fixAbsoluteLinks();
-    }
-  })();
-  </script>
-</body>
+    </body>
 </html>
+
