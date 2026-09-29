@@ -1,8 +1,7 @@
 +++
 title = "Asking experts about Miller et al. 2022"
 path = "/validating-miller-et-al-2022/"
-updated = "2026-09-10"
-
+updated = "2026-09-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",
@@ -16,11 +15,12 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
 # Introduction
 
 In October of 2022 I emailed 4 different professors who had published similar kinds of research
-to weigh in on the legitimacy of the Wade et al. 2022 study, [Post-Pleistocene Horses (Equus) from México](https://meridian.allenpress.com/tjs/article/74/1/Article%205/487323/POST-PLEISTOCENE-HORSES-EQUUS-FROM-MEXICO):
+to weigh in on the legitimacy of the Wade et al. 2022 study, [Post-Pleistocene Horses (Equus) from México](https://tjs.kglmeridian.com/view/journals/tjsc/74/1/article-Article5.xml) (backup: [archival link](https://bhroberts.org/records/RgnyGb-N9aAyc/wade_e_miller_et_al_publishes_evidence_for_horses_in_the_americas_during_the_post_pleistocene_pre_columbian_era)):
 
 * Bruce J. MacFadden, PhD, Distinguished Professor, Florida Museum of Natural and Director at the University of Florida Thompson Earth Systems Institute (TESI) 
 * [Name withheld] - [A highly prestigious and well-known institution]
@@ -57,7 +57,7 @@ Dear \<Title and Name\>:
 
 I am very interested (as an amateur) in competing theories about the existence of horses on the American continent in pre-Columbian times, but I’m not a geologist or archaeologist. Recently, a paper was published suggesting that horses existed in the Americas much later than is the general consensus, as I understand it:
 
-[POST-PLEISTOCENE HORSES (EQUUS) FROM MÉXICO](https://meridian.allenpress.com/tjs/article/74/1/Article%205/487323/POST-PLEISTOCENE-HORSES-EQUUS-FROM-MEXICO)
+[POST-PLEISTOCENE HORSES (EQUUS) FROM MÉXICO](https://tjs.kglmeridian.com/view/journals/tjsc/74/1/article-Article5.xml) (backup: [archival link](https://bhroberts.org/records/RgnyGb-N9aAyc/wade_e_miller_et_al_publishes_evidence_for_horses_in_the_americas_during_the_post_pleistocene_pre_columbian_era))
 
 I am interested in expert assessment of the robustness of the study/paper. I’m not exactly sure what questions I should be asking, but these seem like a reasonable starting point:
 

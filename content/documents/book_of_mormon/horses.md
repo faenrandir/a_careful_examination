@@ -1,8 +1,7 @@
 +++
 title = "A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-horses-bom/"
-updated = "2026-09-10"
-
+updated = "2026-09-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",
@@ -17,18 +16,19 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
 ## Some evidence for recent Pre-Columbian Horses exists
 
-Steven E. Jones has compiled a list of horse bones and data [which suggest the existence of some pre-Columbian horses](https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus) and his work has been amplified by Craig Downer [here](http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf).  A skeptical view of these findings is presented by a person with some significant archeological training and practice at Archaeological Fantasies in [this post](https://archyfantasies.com/a-horse-is-a-horse/).
+Steven E. Jones has compiled a list of horse bones and data [which suggest the existence of some pre-Columbian horses](https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus) and his work has been amplified by Craig Downer [here](https://web.archive.org/web/20220913142048/https://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf).  A skeptical view of these findings is presented by a person with some significant archeological training and practice at Archaeological Fantasies in [this post](https://archyfantasies.com/a-horse-is-a-horse/).
 
-Book of Mormon Central points to a later fossil (~2540 YBP) discovered and dated by Wade Miller.  This find [has been published in BYU Studies](https://www.reddit.com/r/exmormon/comments/8dovks/an_attempt_to_account_for_the_use_of_horse_in_the/dxoyvsk/), but not in a scientific journal, yet.
+Wade Miller has dated horse fossils (via sediment dating) in a cave in Mexico to be from ~2540 YBP: [Post-Pleistocene Horses (Equus) from México](https://tjs.kglmeridian.com/view/journals/tjsc/74/1/article-Article5.xml) ([BH Roberts Foundation archive](https://bhroberts.org/records/RgnyGb-N9aAyc/wade_e_miller_et_al_publishes_evidence_for_horses_in_the_americas_during_the_post_pleistocene_pre_columbian_era); [earlier BYU Studies publication](https://www.reddit.com/r/exmormon/comments/8dovks/an_attempt_to_account_for_the_use_of_horse_in_the/dxoyvsk/)).
 
 In addition, Yvette Running Horse Collin has documented oral traditions among several native American tribes indicating pre-Columbian horse use, as well as highlighting archeological and dating research that might point to recent Pre-Columbian horse use.  She then points out many areas where additional research is needed to decisively resolve the question (see her 2017 dissertation: [The Relationship Between the Indigenous Peoples of the Americas and the Horse: Deconstructing a Eurocentric Myth](https://search.proquest.com/docview/1895090520?pq-origsite=gscholar)).  An informal critique of claims that the Native Americans had horse populations before New World contact may be found [here](https://www.reddit.com/r/mormon/comments/ewf5h4/follow_up_to_a_peterson_among_the_horses_and/).
 
 For additional discussion, see the bibliography associated with this Book of Mormon central article [here](https://bookofmormoncentral.org/qa/why-does-the-book-of-mormon-mention-horses) and the Interpreter article [here](http://interpreterfoundation.org/animals-in-the-book-of-mormon-challenges-and-perspectives/).
 
-Taken collectively, these findings suggest the possibility that horses may have existed on the American continent close to or during Book of Mormon times.  It is safe to say that the overwhelming scientific consensus remains that horses did not exist in the Americas during this time, but consenses tend to track orthogonal, well-validated data.  Only time and additional scrutiny will bring full resolution to this question.
+Taken collectively, these findings suggest the possibility that horses may have existed on the American continent close to or during Book of Mormon times.  It is still safe to say that the overwhelming scientific consensus remains that horses did not exist in the Americas during this time, but consenses tend to track orthogonal, well-validated data.  Time and additional scrutiny may bring more resolution to this question.
 
 ## Absence of cultural integration
 
