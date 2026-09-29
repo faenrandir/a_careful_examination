@@ -1,13 +1,12 @@
 +++
 title = "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
 path = "/to-peek-behind-the-curtain/"
-updated = "2026-09-10"
-
+updated = "2026-09-29"
 [extra]
 featuredimage = "/media/o-WOMAN-WINDOW-facebook.half_.jpg"
 type = "analysis"
 featured = true
-importance = 10
+importance = 11
 
 [taxonomies]
 categories = [
@@ -17,6 +16,7 @@ tags = [
     "analysis",
     "book-of-mormon",
 ]
+
 +++
 # Why *not* investigate?
 
