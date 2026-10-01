@@ -1,12 +1,11 @@
 +++
 title = "Book of Abraham analogy: Thomas Edison biography from a TV manual in Korean"
 path = "/book-of-abraham-thomas-edison-biography-tv-manual/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "joseph-smith",
 ]
 tags = [
@@ -19,6 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

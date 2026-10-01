@@ -1,12 +1,11 @@
 +++
 title = "Resources on the Book of Enoch"
 path = "/resources-on-the-book-of-enoch/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "research-primary-sources",
 ]
 tags = [
@@ -19,6 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

@@ -1,12 +1,11 @@
 +++
 title = "Quotations suggesting The Book of Abraham was a literal translation attempt"
 path = "/quotations-boa-literal-translation-attempt/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "joseph-smith",
 ]
 tags = [
@@ -19,6 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

@@ -1,12 +1,11 @@
 +++
 title = "Laurence's 1821 Book of Enoch may have been available in the US"
 path = "/laurence-1821-book-of-enoch-may-have-been-available/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "research-primary-sources",
 ]
 tags = [
@@ -19,6 +18,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

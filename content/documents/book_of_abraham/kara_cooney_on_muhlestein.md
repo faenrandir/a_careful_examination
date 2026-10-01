@@ -1,12 +1,11 @@
 +++
 title = "Kara Cooney on Muhlestein"
 path = "/cooney-on-muhlestein/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "other",
     "apologetics-responses",
-    "book-of-mormon",
     "joseph-smith",
 ]
 tags = [
@@ -17,6 +16,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

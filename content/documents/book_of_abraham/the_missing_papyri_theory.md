@@ -1,12 +1,11 @@
 +++
 title = "Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today"
 path = "/hauglid-against-missing-papyri-theory/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "joseph-smith",
 ]
 tags = [
@@ -21,6 +20,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 

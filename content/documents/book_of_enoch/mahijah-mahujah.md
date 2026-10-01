@@ -1,12 +1,11 @@
 +++
 title = "Mahijah/Mahujah or Mahujah/Mahujah?"
 path = "/townsend-2019-mahijah-mahujah-excerpt/"
-updated = "2026-09-30"
+updated = "2026-10-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",
     "apologetics-responses",
-    "book-of-mormon",
     "research-primary-sources",
 ]
 tags = [
@@ -18,6 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 
