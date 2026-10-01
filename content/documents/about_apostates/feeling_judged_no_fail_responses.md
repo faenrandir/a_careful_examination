@@ -1,10 +1,13 @@
 +++
 title = "No-fail responses to critical comments"
 path = "/no-fail-responses-to-critical-comments/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "good-ideas",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 *From a post [here](https://www.reddit.com/r/exmormon/comments/9wl0vb/feeling_judged_heres_10_nofail_responses_to/)*
 

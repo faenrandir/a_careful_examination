@@ -1,10 +1,12 @@
 +++
 title = "Beit-Hallahmi on religious biases"
 path = "/beit-hallahmi-on-religious-biases/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "book-excerpt",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Benjamin Beit-Hallahmi, Psychological Perspectives on Religion and Religiosity, [pg 26-27](https://books.google.com/books?id=EfNTBAAAQBAJ&q=%22Human+brains+look+at+the+environment%22#v=snippet&q=%22Human%20brains%20look%20at%20the%20environment%22&f=false):
 

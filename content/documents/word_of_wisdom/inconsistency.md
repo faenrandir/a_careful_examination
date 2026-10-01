@@ -1,11 +1,11 @@
 +++
 title = "Rationale for the Word of Wisdom"
 path = "/rationale-for-word-of-wisdom/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "shower-thought",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Those unfamiliar with the nuances of the Word of Wisdom will sometimes assume that tea and coffee are forbidden because of the caffeine or defend other distinctions to make sense of the prohibition of those drinks and not other similar drinks.  In each case the defense of different attributes of the drinks as the active principle behind the prohibition breaks down:
 
 * **caffeine**: other caffeinated drinks are okay and [now sold on BYU's campus](https://time.com/4951966/byu-brigham-young-soda/).  From this we can conclude that it's not about the caffeine.

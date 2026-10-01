@@ -2,6 +2,11 @@
 
 See [About](https://faenrandir.github.io/a_careful_examination/about/)
 
+## Taxonomy
+
+- **Categories** (10, defined in `config.toml`): `book-of-mormon`, `joseph-smith`, `lds-history-leadership`, `doctrine-teachings`, `faith-transitions`, `apologetics-responses`, `research-primary-sources`, `social-moral-issues`, `personal-reflections`, `other`
+- **Tags** (70+): see `static/data/tags.json` (canonical) and `static/data/categories.json`
+
 ## To Build
 
 The site is built with [Zola](https://www.getzola.org/). Make sure `zola` is

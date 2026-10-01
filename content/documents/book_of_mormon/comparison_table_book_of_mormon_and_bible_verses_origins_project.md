@@ -1,11 +1,12 @@
 +++
 title = "Comparison of the Book of Mormon and 1769 King James Bible"
 path = "/comparison-table-book-of-mormon-and-bible-verses-origins-project/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 The following table represents identical or similar language or chapters between the Book of Mormon and the 1769 King James Bible.  The matches were originally extracted from the [Book of Mormon Origins project](https://www.bookofmormonorigins.com/).  The table leveraged the formatting work of [missedinsunday.com](https://www.missedinsunday.com/) in footnote #1 of [this post](https://www.missedinsunday.com/memes/scripture/paul-vs-moroni/#menu) and the conceptual layout of the Book of Mormon Depot chart, which is linked below.
 
 ## See also

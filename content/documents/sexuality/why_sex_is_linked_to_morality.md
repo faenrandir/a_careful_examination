@@ -1,11 +1,12 @@
 +++
 title = "Why is sex linked to morality?"
 path = "/why-sex-linked-to-morality/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "social-moral-issues",
+    "faith-transitions",
 ]
 tags = [
     "lgbt",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## What is morality?
 
 At its core morality is concern with the well-being of others (specifically, those that may care about their own well-being).[^normative]  Where well-being is clear-cut, easily understood, and universally agreed upon, then morality in those cases is also clear-cut, easily understood and universally agreed upon (e.g., killing a happy person just for fun is clearly an act against their well-being and hence a moral crime if perpetrated by someone who is aware of that.).

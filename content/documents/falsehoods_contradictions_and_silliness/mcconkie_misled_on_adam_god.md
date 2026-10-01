@@ -1,10 +1,13 @@
 +++
 title = "Bruce R. McConkie misled in public about the teaching of the Adam God theory"
 path = "/bruce-r-mcconkie-misled-on-adam-god/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 In a private [letter to Eugene England](http://www.eugeneengland.org/a-professor-and-apostle-correspond-eugene-england-and-bruce-r-mcconkie-on-the-nature-of-god) written February 19, 1981, [McConkie stated](https://imgur.com/gallery/I0EerKb) (emphasis added):
 

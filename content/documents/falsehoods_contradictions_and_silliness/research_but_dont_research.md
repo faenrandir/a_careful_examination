@@ -1,11 +1,12 @@
 +++
 title = "You should have known vs. be wary of critical sources"
 path = "/you-should-have-known-vs-be-wary-of-critical-sources/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "faith-transition",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 From [here](https://www.reddit.com/r/exmormon/comments/b1gll8/its_your_fault_that_you_neglected_to_research/)
 
 > I'm not sure how you didn't already know about the seer stone and Joseph's polygamy.  It was there all the time.  Perhaps you didn't pay attention in Sunday School or do enough research.

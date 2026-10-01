@@ -1,11 +1,12 @@
 +++
 title = "Royal Skousen: Protestant concerns in the Book of Mormon"
 path = "/skousen-protestant-concerns-in-bom/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 Skousen argues that the concerns for the Book of Mormon are more resonant with older Protestant concerns than with debates happening in Joseph Smith's day.[^whynotmodern]  Nonetheless, these are evidence for a modern origin rather than an ancient one since the implied context necessary to have such naunced discussions can be considered anachronistic for any ancient peoples including Native Americans.

@@ -1,11 +1,12 @@
 +++
 title = "Place names near or somewhat near Joseph Smith"
 path = "/place-names-near-joseph-smith/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 The Book of Mormon contains 337 proper names---188 of these are unique to the Book of Mormon and 149 are found in the Bible.[^eom]  Latter-day Saints have suggested that these ~200 new names are evidence that the Book of Mormon was generated via divine intervention, especially because they appear Hebrew in origin or have been [found in other ancient non-biblical sources](https://scholarsarchive.byu.edu/jbms/vol9/iss1/11/).[^colloquialexamples]

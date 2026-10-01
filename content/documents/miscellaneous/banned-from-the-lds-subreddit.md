@@ -1,10 +1,11 @@
 +++
 title = "bwv549 banned from the lds subreddit"
 path = "/bwv549-banned-from-the-lds-subreddit/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## The context
 

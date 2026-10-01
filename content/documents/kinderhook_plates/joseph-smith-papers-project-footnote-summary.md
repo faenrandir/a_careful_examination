@@ -1,11 +1,12 @@
 +++
 title = "JS Papers commentary on Joseph Smith's Translation of the Kinderhook Plates"
 path = "/jspapers-kinderhook-plates-commentary/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "apologetics-responses",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 As part of [Willard Richard's JS journal](http://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-2-10-march-1843-14-july-1843/201#full-transcript), LDS Scholars from the Joseph Smith Papers Project discuss Joseph Smith's translation of the Kinderhook plates.
 
 _Retrieved 2018-05-01_

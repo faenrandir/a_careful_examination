@@ -1,10 +1,13 @@
 +++
 title = "Analogy between the LDS and a magic worldview"
 path = "/the-lds-magic-worldview/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

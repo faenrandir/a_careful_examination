@@ -1,10 +1,13 @@
 +++
 title = "Spencer W. Kimball on the effects of Excommunication"
 path = "/spencer-w-kimball-on-effects-of-excommunication/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "excerpt",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

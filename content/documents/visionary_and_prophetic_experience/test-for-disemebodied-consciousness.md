@@ -1,10 +1,13 @@
 +++
 title = "Test for disembodied consciousness"
 path = "/test-for-disembodied-consciousness/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## The Test
 

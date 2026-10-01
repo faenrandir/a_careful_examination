@@ -1,11 +1,11 @@
 +++
 title = "Links to First Vision accounts, essay, and responses"
 path = "/links-first-vision-accounts/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
 ]
 tags = [
     "first-vision",
@@ -17,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Primary data[^primary_data]
 
 * [Accounts of the First Vision](http://www.josephsmithpapers.org/site/accounts-of-the-first-vision) (Joseph Smith Papers)

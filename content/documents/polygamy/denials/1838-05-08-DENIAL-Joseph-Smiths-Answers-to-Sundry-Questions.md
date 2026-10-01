@@ -1,11 +1,13 @@
 +++
 title = "The Prophet's Answers to Sundry Questions"
 path = "/prophets-answers-to-sundry-questions-1838/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -16,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Context from Joseph Smith's Journal [8th May 1838](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/25) (recorded by George W. Robinson):
 
 > Tuesday 8th This day Presidents, J. Smith Jr. & S[idney] Rigdon spent the day with Elder Cohoon [Reynolds Cahoon] in visiting the place he had selected, to live, also in some private buisness of their own, also in the after part of the day, in answering the questions proposed in the Elders Journal. Vol. 1st No. 2nd Pages 28th, & 29th

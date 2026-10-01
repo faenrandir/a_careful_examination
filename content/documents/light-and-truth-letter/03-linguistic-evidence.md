@@ -1,11 +1,12 @@
 +++
 title = "Light and Truth Response pt 3: Linguistic Evidence"
 path = "/response-to-light-and-truth-letter-linguistic-evidence/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "book-of-mormon",
 ]
 tags = [
     "analysis",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Responding to Linguistic Evidence as [captured on 2024-09-22](https://web.archive.org/web/20240922105606/https://www.lightandtruthletter.org/letter/book-of-mormon/linguistic-evidence).
 
 [very rough draft]

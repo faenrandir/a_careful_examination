@@ -1,11 +1,12 @@
 +++
 title = "Problems with the expansionist model"
 path = "/problems-with-the-expansionist-model/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -20,7 +21,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [very rough draft]
 
 1. It contradicts accounts by scribes that indicate Joseph was reading word for word from the seer stone (aka an "iron-clad" translation).[^ironclad_and_tight]

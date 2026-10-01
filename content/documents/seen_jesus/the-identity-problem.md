@@ -1,10 +1,12 @@
 +++
 title = "The Divine Visitor Problem: Objectivity, intersubjective identity, and identification"
 path = "/divine-visitor-identity-problem/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "doctrine-teachings",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### The divine visitor identity problem
 

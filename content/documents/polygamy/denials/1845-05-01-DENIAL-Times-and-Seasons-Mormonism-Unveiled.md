@@ -1,11 +1,13 @@
 +++
 title = "Time and Seasons May 1, 1845 'Mormonism Unveiled"
 path = "/times-and-seasons-may-1-1845-mormonism-unveiled/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -18,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 * [Times and Seasons Vol 6 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9684) no 8.
 * [pgs 893-895 (standalone PDF)](/documents/polygamy/denials/originals/1845-05-01-Times-and-Seasons-Mormonism-Unveiled.pdf)
 

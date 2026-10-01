@@ -1,8 +1,7 @@
 +++
 title = "The Shunning Key: Whom Latter-day Saints shun and why"
 path = "/the-shunning-key/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/Kernel_Machine.half2_.png"
 type = "resource"
@@ -12,12 +11,16 @@ importance = 5
 [taxonomies]
 categories = [
     "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "gender",
     "resource",
 ]
+
 +++
+
 ## Introduction
 
 The leaders and manuals of The Church of Jesus Christ of Latter-day Saints frequently emphasize [brotherly love](https://www.churchofjesuschrist.org/search?lang=eng&query=%22brotherly+love%22) and [charity to all](https://www.churchofjesuschrist.org/search?lang=eng&query=%22charity+for+all%22).  Consider this statement by Elder M. Russell Ballard:

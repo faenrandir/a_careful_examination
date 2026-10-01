@@ -1,10 +1,12 @@
 +++
 title = "On the efficacy of paying tithing"
 path = "/efficacy-of-paying-tithing/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Members of the Church will often claim that they know they are blessed (financial or otherwise) *because* they pay their tithing.  These claims seem shortsighted, or at least insufficiently demonstrated, for the following reasons:
 

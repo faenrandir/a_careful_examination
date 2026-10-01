@@ -1,11 +1,12 @@
 +++
 title = "The translation of [the plates] ... is correct"
 path = "/the-translation-of-the-plates-is-correct/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Introduction
 
 In composing his history for the Times and Seasons serial "History of Joseph Smith", Joseph [wrote that](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-september-1842/3) "we [Joseph Smith, David Whitmer and Oliver Cowdery] heard a voice from out of the bright light" which said 

@@ -1,10 +1,12 @@
 +++
 title = "A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-horses-bom/"
-updated = "2026-09-29"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "archaeology",
@@ -18,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 ## Some evidence for recent Pre-Columbian Horses exists
 
 Steven E. Jones has compiled a list of horse bones and data [which suggest the existence of some pre-Columbian horses](https://www.researchgate.net/publication/303446285_Were_there_Horses_in_the_Americas_before_Columbus) and his work has been amplified by Craig Downer [here](https://web.archive.org/web/20220913142048/https://article.sciencepublishinggroup.com/pdf/10.11648.j.ajls.20140201.12.pdf).  A skeptical view of these findings is presented by a person with some significant archeological training and practice at Archaeological Fantasies in [this post](https://archyfantasies.com/a-horse-is-a-horse/).

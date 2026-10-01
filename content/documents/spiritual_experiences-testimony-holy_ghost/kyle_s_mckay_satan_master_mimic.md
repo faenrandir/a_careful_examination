@@ -1,10 +1,13 @@
 +++
 title = "Kyle S. McKay letter excerpt on spiritual experiences"
 path = "/kyle-s-mckay-letter-excerpt-on-spiritual-experiences/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "excerpt",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Context
 

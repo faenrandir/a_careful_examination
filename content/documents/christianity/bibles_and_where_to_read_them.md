@@ -1,11 +1,11 @@
 +++
 title = "Academic Bibles and where to read them"
 path = "/academic-bibles-and-where-to-read-them/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "notes",
@@ -17,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Academic standards
 
 * [NRSV](https://www.biblestudytools.com/nrs/) (New Revised Standard Version) - "it is 'as literal as possible' in adhering to the ancient texts and only 'as free as necessary' to make the meaning clear in graceful, understandable English."

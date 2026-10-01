@@ -1,11 +1,12 @@
 +++
 title = "Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths"
 path = "/semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 In the 2008 BBC Documentary "The Mormon Candidate" [John Sweeney interviews Jeffrey Holland about the nature of the oaths Mitt Romney would have performed in the temple](https://www.youtube.com/watch?v=0zE8JKDZazc) (among other topics).  Given the nature of the presidential office and potential conflicts of interest such oaths might entail, a frank discussion of the topic seems relevant for the time.
 
 Members online often assert that Holland did not lie in this interview.[^membersassert] Below is a transcript and semantic analysis of the conversation.  The key phrase (#2) is emboldened below:

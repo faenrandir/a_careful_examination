@@ -1,10 +1,13 @@
 +++
 title = "Simple 14 word test for prophetic ability"
 path = "/simple-test-for-prophetic-ability/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

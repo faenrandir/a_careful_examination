@@ -1,10 +1,13 @@
 +++
 title = "Luna Lindsey on polarization of cultic studies"
 path = "/luna-lindsey-on-polarization-of-cultic-studies/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 > Hi! Luna Lindsey here. Great stuff. I’m glad that my work is reaching people and inspiring people to do their own writing on the topic. ^\_^ I hope you keep at it.
 

@@ -1,10 +1,11 @@
 +++
 title = "Excerpt from 21 Lessons for the 21st Century by Yuval Harari: The Secular Ideal"
 path = "/excerpt-from-21-lessons-the-secular-ideal/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "excerpt",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Excerpt from [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?ac=1&from_search=true) by Yuval Harari:
 

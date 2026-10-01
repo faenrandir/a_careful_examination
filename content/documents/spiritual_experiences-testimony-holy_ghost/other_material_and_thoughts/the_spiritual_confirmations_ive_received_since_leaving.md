@@ -1,11 +1,12 @@
 +++
 title = "Spiritual confirmations received since leaving the LDS Church"
 path = "/spiritual-confirmation-since-resignation/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "faith-transitions",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 On March 22, 2016, I knelt down in the basement with nobody around.  I prayed the following prayer [as nearly as I can remember the wording] and listened to the response in my mind and heart.
 
 Dear God, if you are there, I am praying to ask you the answer to these questions.  You know that I have searched long and hard to understand these things.  Please confirm to me their truthfulness.

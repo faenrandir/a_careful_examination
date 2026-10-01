@@ -1,11 +1,12 @@
 +++
 title = "Resources related to non gender-binary"
 path = "/resources-related-to-non-gender-binary/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "social-moral-issues",
+    "faith-transitions",
 ]
 tags = [
     "gender",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Quick
 
 * [The Spectrum](https://www.thetrevorproject.org/wp-content/uploads/2017/09/Spectrum-B.pdf)[^sex_assignment] (The Trevor Project)

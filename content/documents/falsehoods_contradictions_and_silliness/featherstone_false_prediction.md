@@ -1,10 +1,13 @@
 +++
 title = "Featherstone's vision of the South"
 path = "/featherstones-vision-of-the-south/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [The Vision of the South](https://yourfriendlymormonneighbor.wordpress.com/2013/03/21/the-vision-of-the-south-elder-vaughn-j-featherstone/) by Elder Vaughn J. Featherstone
 

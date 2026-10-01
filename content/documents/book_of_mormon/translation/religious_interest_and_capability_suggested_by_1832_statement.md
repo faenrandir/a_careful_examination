@@ -1,11 +1,12 @@
 +++
 title = "Religious interest and capability suggested by Joseph Smith's 1832 statement and 1830 Colseville letters"
 path = "/religious-interest-and-capability-from-1832-statement/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 Joseph Smith described his own deep familiarity with scripture beginning at a young age.  His familiarity with the Bible near the time of the Book of Mormon translation (1829--1830) is suggested by two letters he dictated to the Colesville Saints in 1830 which are full of Biblical allusion.

@@ -1,11 +1,13 @@
 +++
 title = "Polygamy for raising up seed?"
 path = "/was-polygamy-to-raise-up-seed/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 From /u/pipesBcallin
 
 [Raise Up Seed](https://www.reddit.com/r/MormonDoctrine/comments/7ge6gn/raise_up_seed/)

@@ -1,11 +1,13 @@
 +++
 title = "The October 5, 1843 Journal Entry"
 path = "/oct-5-1843-journal-entry/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Summary
 
 On its face, Joseph Smith's original journal entry for October 5, 1843 records him forbidding polygamy and instructing to try those who were preaching or teaching polygamy. A careful reading of the entry in its historical context (i.e., shortly after D&C 132), however, suggests that it was actually emphasizing the default position of the Church (monogamy) but also that Joseph was the one who could authorize plural marriage. Later notes by Church historians, then, were arguably a mere _elaboration_ of its original meaning rather than a contradiction or reversal of it.

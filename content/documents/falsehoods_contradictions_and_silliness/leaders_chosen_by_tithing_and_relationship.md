@@ -1,10 +1,13 @@
 +++
 title = "Factors in LDS leadership selection"
 path = "/factors-in-lds-leadership-selection/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Leadership selection will likely always be at least somewhat idiosyncratic,
 and there can be little doubt that those doing the selection are trying their

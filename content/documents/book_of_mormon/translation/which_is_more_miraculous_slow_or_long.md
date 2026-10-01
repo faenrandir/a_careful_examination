@@ -1,11 +1,12 @@
 +++
 title = "The BOM is true because it was written so quickly - VS - The Quran is true because it took so long to write"
 path = "/bom-written-quickly-vs-quran-took-so-long/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 From [here](https://www.reddit.com/r/exmormon/comments/7bg14y/the_bom_is_true_because_it_was_written_so_quickly/)
 
 ---

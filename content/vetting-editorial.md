@@ -2,6 +2,7 @@
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors-editorial/"
 updated = "2026-09-10"
+
 [extra]
 doctype = "notes"
 type = "notes"
@@ -13,8 +14,8 @@ categories = [
     "other",
 ]
 tags = []
-
 +++
+
 
 [VERY ROUGH DRAFT]
 

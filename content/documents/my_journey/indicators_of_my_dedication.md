@@ -1,11 +1,12 @@
 +++
 title = "Indicators of my dedication and spiritual development"
 path = "/indicators-of-dedication-and-spiritual-development/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "personal-reflections",
+    "faith-transitions",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 It's difficult to quantify spiritual development and dedication.  Nonetheless, here are some indicators that I took the Gospel and my spiritual development very seriously:
 
 * Read the scriptures virtually every day of my adult life. Read the Book of Mormon over 40 times.

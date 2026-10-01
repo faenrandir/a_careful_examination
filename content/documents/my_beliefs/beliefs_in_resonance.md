@@ -1,10 +1,12 @@
 +++
 title = "Beliefs in Resonance"
 path = "/beliefs-in-resonance/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "personal-reflections",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 I share many basic beliefs with the conscientious, moral citizens of our world.
 

@@ -1,11 +1,11 @@
 +++
 title = "LDS Church discourages make-up"
 path = "/discouraging-makeup/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 I came from a family where my sisters were strongly encouraged to only use a very light amount of makeup.  This advice (i.e., use some makeup but only a light amount) is explicit and implicit throughout the Church.
 
 Here are just a few examples (with emphasis added):

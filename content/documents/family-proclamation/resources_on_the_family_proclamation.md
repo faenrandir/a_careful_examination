@@ -1,10 +1,12 @@
 +++
 title = "Resources on the Family Proclamation"
 path = "/resources-on-the-family-proclamation/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Status of the Proclamation
 

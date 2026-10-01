@@ -1,11 +1,12 @@
 +++
 title = "Dan McClellan on the documentary hypothesis and Book of Mormon historicity"
 path = "/dan-mcclellan-documentary-hypothesis-and-bom-historicity/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -19,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Dan McClellan, the [Scripture Translation Supervisor for the LDS
 Church](https://www.linkedin.com/in/danielomcclellan/), was asked:
 

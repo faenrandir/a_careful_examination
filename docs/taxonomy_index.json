@@ -1,34 +1,54 @@
 {
   "categories": [
     {
+      "name": "apologetics-responses",
+      "count": 218,
+      "slug": "apologetics-responses"
+    },
+    {
+      "name": "book-of-mormon",
+      "count": 118,
+      "slug": "book-of-mormon"
+    },
+    {
       "name": "doctrine-teachings",
-      "count": 266,
+      "count": 385,
       "slug": "doctrine-teachings"
     },
     {
       "name": "faith-transitions",
-      "count": 5,
+      "count": 94,
       "slug": "faith-transitions"
     },
     {
       "name": "joseph-smith",
-      "count": 1,
+      "count": 77,
       "slug": "joseph-smith"
     },
     {
+      "name": "lds-history-leadership",
+      "count": 159,
+      "slug": "lds-history-leadership"
+    },
+    {
       "name": "other",
-      "count": 153,
+      "count": 188,
       "slug": "other"
     },
     {
-      "name": "sociology-and-psychology",
-      "count": 2,
-      "slug": "sociology-and-psychology"
+      "name": "personal-reflections",
+      "count": 34,
+      "slug": "personal-reflections"
     },
     {
-      "name": "truth-claims",
-      "count": 3,
-      "slug": "truth-claims"
+      "name": "research-primary-sources",
+      "count": 6,
+      "slug": "research-primary-sources"
+    },
+    {
+      "name": "social-moral-issues",
+      "count": 86,
+      "slug": "social-moral-issues"
     }
   ],
   "tags": [
@@ -246,6 +266,11 @@
       "name": "shower-thought",
       "count": 9,
       "slug": "shower-thought"
+    },
+    {
+      "name": "start-here",
+      "count": 6,
+      "slug": "start-here"
     },
     {
       "name": "survey",

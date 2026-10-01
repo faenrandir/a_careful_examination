@@ -1,10 +1,12 @@
 +++
 title = "Why be skeptical of reports of LDS Apostles seeing Jesus?"
 path = "/why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "doctrine-teachings",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

@@ -1,11 +1,13 @@
 +++
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "book-of-mormon",
+    "joseph-smith",
 ]
 tags = [
     "apologetics",
@@ -18,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 # Critical
 
 ### Introductory

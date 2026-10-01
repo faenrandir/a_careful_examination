@@ -1,10 +1,11 @@
 +++
 title = "Avoidance: the preferred conflict resolution behavior of Latter-day Saints"
 path = "/avoidance-preferred-conflict-resolution-lds/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "infographic",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ![Infographic: Passive-aggression among the Latter-day Saints](https://i.imgur.com/F1eCW0L.png)
 

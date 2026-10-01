@@ -1,10 +1,13 @@
 +++
 title = "Example of masturbation shame"
 path = "/example-of-masturbation-shame/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "social-moral-issues",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 From [here](https://www.reddit.com/r/exmormon/comments/92xyrj/my_first_confession_to_a_bishop_age_9/)
 

@@ -1,10 +1,13 @@
 +++
 title = "Discussion and Conclusions: How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed-discussion-and-conclusions/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Primary data
 

@@ -1,10 +1,12 @@
 +++
 title = "Exchange on man as animal and the 1910 Priesthood Quorum's table comment as a reflection of Joseph F. Smith's thinking on evolution"
 path = "/1910-priesthood-quorums-table-r-gary-exchange/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "discussion",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 The following is a transcript of the exchange I had, writing as Sicut Erat in Principio ("Sicut" below), with R. Gary Shapiro ("R. Gary" below) on LDS doctrine about Adam and evolution between July 31, 2014 and August 24, 2014.  I've taken the liberty to correct a couple of very minor mistakes in the text.
 

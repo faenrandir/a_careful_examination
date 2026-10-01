@@ -1,10 +1,13 @@
 +++
 title = "Scriptural instructions for practicing polygamy"
 path = "/scriptural-instructions-for-practicing-polygamy/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 *Modified from [here](https://www.reddit.com/r/exmormon/comments/7xfo3i/although_the_lord_commanded_the_adoption_of/)*
 

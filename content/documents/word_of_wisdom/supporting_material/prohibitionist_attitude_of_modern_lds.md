@@ -1,10 +1,12 @@
 +++
 title = "Current prohibitionist attitude of LDS Church"
 path = "/prohibitionist-attitude-of-modern-lds-church/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 The modern Church adopted a prohibitionist perspective on alcohol (i.e., there is never a good reason to consume a single drop recreationally or even for special occasions/sacraments).  The reasoning seems best expressed by Joseph F. Smith:
 

@@ -1,10 +1,13 @@
 +++
 title = "1844 Millenial Star polygamy denial"
 path = "/1844-millenial-star-polygamy-denial/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 * [January 1844 Millenial Star magazine (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4)
 * [The editorial section (standalone PDF)](/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):

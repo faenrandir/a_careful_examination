@@ -1,10 +1,12 @@
 +++
 title = "Sexual violence more prominent in patriarchal cultures"
 path = "/sexual-violence-more-prominent-in-patriarchal-cultures/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -17,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777345/
 

@@ -1,10 +1,13 @@
 +++
 title = "Examples to avoid or discourage consulting unapproved sources"
 path = "/examples-discouraging-unapproved-sources/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "book-of-mormon",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [DRAFT]
 

@@ -1,10 +1,13 @@
 +++
 title = "Consequences of leaving the group tend to be proportional to the level of totalism"
 path = "/consequences-of-leaving-the-group-and-totalism/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 *Mildly Totalistic -> Fully Totalistic*
 

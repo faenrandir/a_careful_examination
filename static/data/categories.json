@@ -1,0 +1,12 @@
+[
+  {"name": "book-of-mormon", "count": 120, "slug": "book-of-mormon"},
+  {"name": "joseph-smith", "count": 77, "slug": "joseph-smith"},
+  {"name": "lds-history-leadership", "count": 161, "slug": "lds-history-leadership"},
+  {"name": "doctrine-teachings", "count": 391, "slug": "doctrine-teachings"},
+  {"name": "faith-transitions", "count": 95, "slug": "faith-transitions"},
+  {"name": "apologetics-responses", "count": 222, "slug": "apologetics-responses"},
+  {"name": "research-primary-sources", "count": 6, "slug": "research-primary-sources"},
+  {"name": "social-moral-issues", "count": 86, "slug": "social-moral-issues"},
+  {"name": "personal-reflections", "count": 34, "slug": "personal-reflections"},
+  {"name": "other", "count": 190, "slug": "other"}
+]

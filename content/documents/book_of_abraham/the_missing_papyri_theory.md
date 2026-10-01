@@ -1,11 +1,13 @@
 +++
 title = "Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today"
 path = "/hauglid-against-missing-papyri-theory/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "book-of-mormon",
+    "joseph-smith",
 ]
 tags = [
     "book-of-mormon-historicity",
@@ -19,7 +21,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Introduction
 
 Brian Hauglid is a leading LDS Scholar (see [his FairMormon bio](https://web.archive.org/web/20181013215341/https://www.fairmormon.org/testimonies/scholars/brian-m-hauglid), his Maxwell Institute [bio](https://web.archive.org/web/20181106214354/https://mi.byu.edu/people/brian-hauglid/) and [publication list](https://web.archive.org/web/20170126055340/https://publications.mi.byu.edu/people/brian-m-hauglid/)).

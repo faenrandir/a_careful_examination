@@ -1,11 +1,12 @@
 +++
 title = "Endorsements"
 path = "/endorsements/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
+    "personal-reflections",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 #### Candidate to moderate /r/mormon
 
 /u/VultureofUruguay [wrote](https://www.reddit.com/r/mormon/comments/8simfu/bridge_building_with_new_moderators/e108lgd/?context=3):

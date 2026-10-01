@@ -1,10 +1,12 @@
 +++
 title = "Why we have confidence in science"
 path = "/why-we-have-confidence-in-science/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [rough draft]
 

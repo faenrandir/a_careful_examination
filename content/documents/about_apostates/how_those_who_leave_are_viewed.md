@@ -1,8 +1,7 @@
 +++
 title = "How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/degas-BelleliFamily1862.jpg"
 type = "resource"
@@ -12,11 +11,15 @@ importance = 5
 [taxonomies]
 categories = [
     "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "resource",
 ]
+
 +++
+
 ## Contents
 
 * [Introduction](#introduction)

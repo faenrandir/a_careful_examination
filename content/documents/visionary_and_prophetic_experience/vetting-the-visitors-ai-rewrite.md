@@ -1,10 +1,13 @@
 +++
 title = "Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework"
 path = "/vetting-the-visitors-integration/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [[I haven't vetted most of the references given, yet. Could be AI hallucinations. Interpret with caution.]]
 

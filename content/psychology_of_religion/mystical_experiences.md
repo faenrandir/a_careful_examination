@@ -1,10 +1,12 @@
 +++
 title = "Beit-Hallahmi on mystical experiences"
 path = "/beit-hallahmi-on-mystical-experiences/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "book-excerpt",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Benjamin Beit-Hallahmi, [noted](https://books.google.com/books?id=EfNTBAAAQBAJ&pg=PA43&lpg=PA43&dq=we+take+it+for+granted+benjamin+beit-hallahmi&source=bl&ots=Tgq6kGK3_5&sig=SdRbPV6WkxQBtF0pPubciSq2B60&hl=en&sa=X&ved=0ahUKEwi8lPqO95HWAhVD82MKHd7XB4cQ6AEIKDAA#v=onepage&q=%22Social%20learning%2C%20despite%20its%20seeming%20simplicity%22&f=false):
 

@@ -1,10 +1,12 @@
 +++
 title = "Morality Transcends Religious Belief"
 path = "/morality-transcends-religious-belief/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 The argument is sometimes made that morals are a by-product of, or otherwise contingent upon religion (or God).  Much data suggests that morality transcends religion or religious belief; here's a small sample:
 

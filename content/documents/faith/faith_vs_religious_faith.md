@@ -1,10 +1,12 @@
 +++
 title = "Confidence faith vs. religious faith: personal reflections on faith, hope, and love"
 path = "/faith-vs-religious-faith/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### What is faith?
 

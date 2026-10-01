@@ -1,11 +1,13 @@
 +++
 title = "Evidence of sex within Joseph Smith's polygamy"
 path = "/evidence-of-sex-in-joseph-smith-polygamy/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -21,7 +23,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Todd Compton's assessment
 
 * [Assessment of the evidence for sexuality](/compton-sexuality-in-joseph-smiths-plural-marriages/)

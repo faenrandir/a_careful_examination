@@ -1,10 +1,13 @@
 +++
 title = "Pressure against expression of beliefs counter to LDS position - Wally's Mom"
 path = "/pressure-against-beliefs-counter-to-lds-position-wallys-mom/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [Playing Valentine](http://www.dovesandserpents.org/wp/2011/02/first-comes-love-then-comes-marriage/) [posted February 14, 2011]
 

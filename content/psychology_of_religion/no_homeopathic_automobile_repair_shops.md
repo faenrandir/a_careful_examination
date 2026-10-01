@@ -1,10 +1,12 @@
 +++
 title = "Lamport on homeophathic automobile repair shops"
 path = "/lamport-on-homeophathic-automobile-repair/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "quotation",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Leslie Lamport, an early Computer Scientist, [said](http://lamport.azurewebsites.net/pubs/future-of-computing.pdf):
 

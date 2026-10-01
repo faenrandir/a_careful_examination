@@ -1,10 +1,11 @@
 +++
 title = "Why does it matter?"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "faith-transitions",
+    "personal-reflections",
 ]
 tags = [
     "faith-transition",
@@ -15,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 "Why does it matter?" asked my SP after not being able to address any of the church problems.
 
 Here was my answer...

@@ -1,10 +1,12 @@
 +++
 title = "Chronology of my views on evolution and LDS doctrine"
 path = "/chronology-of-my-views-on-evolution-and-lds-doctrine/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

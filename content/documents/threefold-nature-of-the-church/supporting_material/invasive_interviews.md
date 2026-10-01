@@ -1,10 +1,13 @@
 +++
 title = "Example of invasive interview: facebook stalking"
 path = "/example-of-invasive-interview-facebook-stalking/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Some interviews in the LDS Church may become highly invasive.
 

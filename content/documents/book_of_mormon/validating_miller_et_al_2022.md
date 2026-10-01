@@ -1,10 +1,12 @@
 +++
 title = "Asking experts about Miller et al. 2022"
 path = "/validating-miller-et-al-2022/"
-updated = "2026-09-29"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "geography",
@@ -17,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 # Introduction
 
 In October of 2022 I emailed 4 different professors who had published similar kinds of research

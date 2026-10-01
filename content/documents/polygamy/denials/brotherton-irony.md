@@ -1,8 +1,7 @@
 +++
 title = "Martha Brotherton and the Five Ironies"
 path = "/martha-brotherton-and-the-five-ironies/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg"
 type = "resource"
@@ -12,13 +11,18 @@ importance = 5
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "joseph-smith",
     "polygamy",
     "resource",
 ]
+
 +++
+
 [**VERY ROUGH DRAFT**]
 
 ### Introduction

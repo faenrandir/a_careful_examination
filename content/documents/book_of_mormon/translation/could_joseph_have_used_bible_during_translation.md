@@ -1,11 +1,12 @@
 +++
 title = "Could Joseph Smith have used the Bible during the dictation process?"
 path = "/could-js-used-bible-during-dictation/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "analysis",
@@ -19,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [Draft]
 
 One of the arguments that seems consistently repeated (e.g., Hales and Callister) is the idea that Joseph could not have been consulting other documents (e.g., the Bible). [cite specific examples]

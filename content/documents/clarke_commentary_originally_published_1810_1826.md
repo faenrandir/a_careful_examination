@@ -1,10 +1,12 @@
 +++
 title = "Adam Clarke's commentary was originally published between 1810 and 1826"
 path = "/clarkes-commentary-published-between-1810-and-1826/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "research-primary-sources",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 From [The New Schaff-Herzog Encyclopedia of Religious Knowledge, Vol. III: Chamier - Draendorf](http://www.ccel.org/ccel/schaff/encyc03) entry on Adam Clarke ([pg 126](http://www.ccel.org/ccel/schaff/encyc03/Page_126.html)) (emphasis added):
 

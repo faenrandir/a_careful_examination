@@ -1,11 +1,11 @@
 +++
 title = "Influences on the Word of Wisdom: Hot Drinks"
 path = "/influences-on-word-of-wisdom-notes-on-hot-drinks/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [just some random notes]
 
 ### Discussion in the Journal of Discourse

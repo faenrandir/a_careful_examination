@@ -1,10 +1,12 @@
 +++
 title = "Resources related to science claims"
 path = "/resources-related-to-science-claims/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "list-of-resources",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Adam, Eve and Creation related
 

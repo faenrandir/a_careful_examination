@@ -1,11 +1,12 @@
 +++
 title = "Chronology: “You can leave but you can't leave it alone”"
 path = "/chronology-cant-leave-it-alone/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "compilation",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [pre-draft form]
 
 ## Introduction

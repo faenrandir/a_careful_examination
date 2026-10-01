@@ -1,11 +1,12 @@
 +++
 title = "The Second Colesville Letter: Transcript and Biblical allusions"
 path = "/the-second-colesville-letter-transcript-and-allusions/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Attribution
 
 Nicholas J. Frederick in footnote #23 of [his 2021 Journal of Mormon History analysis](https://www.jstor.org/stable/10.5406/jmormhist.47.2.0023) explains:

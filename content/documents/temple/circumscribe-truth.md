@@ -1,11 +1,11 @@
 +++
 title = "Origins of the phrase: \"All truth may be circumscribed into one great whole\""
 path = "/origins-of-phrase-all-truth-may-be-circumscribed/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 The LDS temple ceremony includes an explanation of the meaning of the compass symbol on the LDS garment:

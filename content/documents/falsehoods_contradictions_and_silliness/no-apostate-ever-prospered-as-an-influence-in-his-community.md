@@ -1,10 +1,13 @@
 +++
 title = "“No apostate who ever left ... prospered as an influence in his community thereafter”"
 path = "/no-apostate-who-ever-left-prospered/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Original statement
 

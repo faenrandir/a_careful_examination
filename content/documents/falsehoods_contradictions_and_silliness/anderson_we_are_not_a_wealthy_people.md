@@ -1,10 +1,13 @@
 +++
 title = "We are not a wealthy people"
 path = "/we-are-not-a-wealthy-people/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 On the 9th of December, 2018, during his meeting with Zimbabwe's Vice President, Elder Neil L. Andersen stated:
 

@@ -1,8 +1,7 @@
 +++
 title = "Brief Sketch of Events Surrounding My Resignation"
 path = "/sketch-of-my-faith-journey/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/mountain-941501_640.jpg"
 type = "resource"
@@ -12,12 +11,15 @@ importance = 5
 [taxonomies]
 categories = [
     "faith-transitions",
+    "personal-reflections",
 ]
 tags = [
     "apologetics",
     "resource",
 ]
+
 +++
+
 ### My Spiritual and Apologetic Background
 
 I grew up in a highly faithful LDS family,[^highlyfaithful] and I was serious about living the Gospel as a child and youth (for instance, I participated in the conversion of a friend during my Senior year of high school), but my fervor for the Gospel diminished somewhat during my late teen years until I went into the MTC.

@@ -1,10 +1,13 @@
 +++
 title = "Resources related to the helps and harms of the LDS Church"
 path = "/resources-related-to-helps-and-harms/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "social-moral-issues",
+    "faith-transitions",
 ]
 tags = [
     "list-of-resources",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Both helps and harms
 

@@ -1,10 +1,13 @@
 +++
 title = "Elder Bednar: “you don't have to recognize that you are receiving revelation in the moment that you are receiving revelation”"
 path = "/bednar-you-dont-have-to-recognize-receiving-revelation-in-the-moment/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "transcript",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Elder David A. Bednar of the Quorum of the Twelve Apostles and Brother Chad
 Webb teach and facilitate a discussion at the February 2020 Evening with a

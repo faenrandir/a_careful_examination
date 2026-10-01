@@ -1,10 +1,13 @@
 +++
 title = "Elder Bednar and the April 6th Birthday of Jesus"
 path = "/bednar-april6-birthday-of-jesus/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Towards the end of [his April 2014 General Conference address, [Elder Bednar stated](https://www.churchofjesuschrist.org/study/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=eng) (emphasis added):
 

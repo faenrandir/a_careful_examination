@@ -1,11 +1,12 @@
 +++
 title = "How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?"
 path = "/how-likely-trito-isaiah-avoided-in-bom/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -18,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Introduction
 
 It [has been claimed](https://www.reddit.com/r/mormon/comments/8nts0v/a_response_to_the_recently_posted_document_on_the/e02105x/) that the absence of Trito-Isaiah in the Book of Mormon supports a claim for the historicity of the Book of Mormon:

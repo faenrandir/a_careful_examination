@@ -1,10 +1,13 @@
 +++
 title = "Example of totalistic attitude: accomplishments only important if building kingdom"
 path = "/accomplishments-only-important-if-building-kingdom/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 An example of totalistic attitude
 

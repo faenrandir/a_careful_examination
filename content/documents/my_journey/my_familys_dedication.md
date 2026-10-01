@@ -1,10 +1,12 @@
 +++
 title = "My Family's Dedication to the Gospel"
 path = "/my-familys-dedication-to-gospel/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "personal-reflections",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 The family I grew up in was highly faithful to the Church way of life (not perfect, of course, but actively striving).  A few examples:
 

@@ -2126,6 +2126,11 @@
       "snippet": "“Why does it matter?” asked my SP after not being able to address any of the church problems."
     },
     {
+      "title": "research-primary-sources",
+      "url": "/categories/research-primary-sources/",
+      "snippet": "Transcripts, quotations, historical documents, scholarly excerpts, tables/datasets/surveys, and external resources."
+    },
+    {
       "title": "doctrine-teachings",
       "url": "/categories/doctrine-teachings/",
       "snippet": "Revelation/testimony epistemology, God/scripture/salvation, temple/priesthood, family/gender/sexuality, Word of Wisdom, morality, science/evolution."
@@ -2141,9 +2146,9 @@
       "snippet": "Miscellaneous, communications, leaked documents, and unclassifiable items."
     },
     {
-      "title": "truth-claims",
-      "url": "/categories/truth-claims/",
-      "snippet": "Core truth claims of the LDS Church and critical examinations."
+      "title": "personal-reflections",
+      "url": "/categories/personal-reflections/",
+      "snippet": "Personal history, beliefs, chronologies, essays, and reflections."
     },
     {
       "title": "joseph-smith",
@@ -2151,9 +2156,24 @@
       "snippet": "Polygamy, seer stones, First Vision, treasure digging, folk magic, education, and intellectual background of Joseph Smith."
     },
     {
-      "title": "sociology-and-psychology",
-      "url": "/categories/sociology-and-psychology/",
-      "snippet": "Sociological and psychological perspectives on LDS culture and belief."
+      "title": "book-of-mormon",
+      "url": "/categories/book-of-mormon/",
+      "snippet": "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon."
+    },
+    {
+      "title": "lds-history-leadership",
+      "url": "/categories/lds-history-leadership/",
+      "snippet": "Prophets, priesthood/temple ban, historical statements and reversals, predictions, transparency, and institutional behavior."
+    },
+    {
+      "title": "social-moral-issues",
+      "url": "/categories/social-moral-issues/",
+      "snippet": "Race, LGBTQ issues, gender, sexuality, family, and institutional harm/coercion."
+    },
+    {
+      "title": "apologetics-responses",
+      "url": "/categories/apologetics-responses/",
+      "snippet": "General apologetic methods, specific responses to LDS truth claims, FairMormon/Evidence Central arguments, and critical responses."
     }
   ]
 }

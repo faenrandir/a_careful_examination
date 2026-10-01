@@ -1,11 +1,11 @@
 +++
 title = "When did Adam and Eve live?"
 path = "/when-did-adam-and-eve-live/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "joseph-smith",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Introduction
 
 Models suggesting a time when Adam and Eve existed should be informed by scriptural context.  The stories found in the LDS canon strongly suggest that Adam and Eve existed at or after the invention of agriculture (broadly defined, agriculture is the science and art of cultivating plants and livestock) and at or after the invention of writing.  And verses typically interpreted at face value strongly imply that Adam and Eve walked out of the Garden of Eden at about 4,000 BCE.

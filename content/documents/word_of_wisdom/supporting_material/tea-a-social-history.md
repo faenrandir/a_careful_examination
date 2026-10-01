@@ -1,10 +1,12 @@
 +++
 title = "Excerpt from 'A Social History of the Nation's Favourite Drink"
 path = "/excerpt-from-social-history-of-tea/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "excerpt",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Copied from [A Social History of the Nation's Favourite Drink](https://www.tea.co.uk/a-social-history)
 

@@ -1,11 +1,11 @@
 +++
 title = "Responses to Joseph Smith relying on Clarke for JST"
 path = "/responses-to-js-relying-on-clarke-for-jst/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "joseph-smith",
@@ -18,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 # Initial claim
 
 * [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](https://scholarsarchive.byu.edu/jur/vol2017/iss1/310/) (original publication in BYU's Journal of Undergraduate Research)

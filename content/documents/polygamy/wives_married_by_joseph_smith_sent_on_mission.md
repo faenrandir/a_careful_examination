@@ -1,11 +1,13 @@
 +++
 title = "Men whose wives were married by Joseph Smith after being sent on a mission"
 path = "/wives-married-by-joseph-smith-sent-on-mission/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -18,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Henry Jacobs
 
 Some bring up Henry Jacobs.  Jacobs was not sent on a mission before the sealing, but he was sent on a mission within three months of Joseph's sealing to Zina.

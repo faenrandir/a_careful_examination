@@ -1,10 +1,11 @@
 +++
 title = "Finding Truth: Response to '8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints"
 path = "/response-to-8-anti-mormon-tactics-gogogoff/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
 ]
 tags = [
     "response",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 In March of 2017, MyLifeByGogoGoff published a piece entitled [8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints](http://mylifebygogogoff.com/2017/03/8-anti-mormon-tactics-that-satan-uses-to-attack-the-latter-day-saints.html).  The piece was then [reblogged by LDS Living](http://www.ldsdaily.com/personal-lds-blog/8-anti-mormon-tactics-satan-uses-attack-latter-day-saints/).
 

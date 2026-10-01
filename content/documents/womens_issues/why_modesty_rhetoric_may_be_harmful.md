@@ -1,10 +1,12 @@
 +++
 title = "Why modesty rhetoric may be harmful"
 path = "/why-modesty-rhetoric-may-be-harmful/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "social-moral-issues",
 ]
 tags = [
     "gender",
@@ -17,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Links
 

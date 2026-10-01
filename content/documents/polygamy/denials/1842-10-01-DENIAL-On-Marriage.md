@@ -1,10 +1,13 @@
 +++
 title = "On Marriage - 1842 Times and Seasons vol 3, no 23"
 path = "/on-marriage-1842-times-and-seasons/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 * [Times and Seasons Vol 3 (at BYU)](http://contentdm.lib.byu.edu/cdm/ref/collection/NCMP1820-1846/id/9200) no 23, 
 * [pg 939 (standalone PDF)](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/9a47856bd87bba0892e83d388cf8f4e49545a153/documents/polygamy/denials/original-1842-09-01-Times-and-Seasons-On-Marriage.pdf)

@@ -1,10 +1,13 @@
 +++
 title = "Former members treated differently than members at BYU"
 path = "/former-members-treated-differently-than-members-at-byu/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [posted by I_Am_An_ExMormon on /r/exmormon May 9, 2017]
 

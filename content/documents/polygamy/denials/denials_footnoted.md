@@ -1,10 +1,13 @@
 +++
 title = "Links to Hales's footnoted denials"
 path = "/links-to-hales-footnoted-denials/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "list-of-resources",
@@ -18,6 +21,7 @@ featured = false
 importance = 5
 
 +++
+
 
 _note: I've recently stumbled upon [Hales's compilation at mormonpolygamydocuments.org](http://mormonpolygamydocuments.org/chart-twenty-three-polygamy-denials/) which probably supercedes the below one, although my links are still very useful since Hales's doesn't provide many links to resources.  This should be redone with that list in mind._
 

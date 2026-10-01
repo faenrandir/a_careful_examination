@@ -1,11 +1,11 @@
 +++
 title = "Alcohol usage among Latter-day Saint Prophets"
 path = "/alcohol-usage-of-lds-prophets/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "compilation",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 The scripture and history of the Church is full of many examples of people drinking mild drinks (beer and wine).
 
 # Jesus Christ approved of drinking alcohol

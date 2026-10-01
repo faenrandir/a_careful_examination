@@ -1,11 +1,11 @@
 +++
 title = "Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom"
 path = "/excerpts-from-means-of-preserving-health-and-preventing-diseases-and-wow/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "word-of-wisdom",
@@ -15,7 +15,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [pre-draft]
 
 Shadrach Ricketson, a physician in New York, published the book ["Means of Preserving Health and Preventing Diseases"](https://archive.org/details/meansofpreservin00rick/page/n5/mode/2up) in 1806 in New York. In addition to pulling from "instructive" encyclopedias of the day, he also quoted extensively from other sources who he described as "practical writers of established reputation ... who stand foremost on the subjects on which they wrote."

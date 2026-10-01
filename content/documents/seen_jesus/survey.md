@@ -1,10 +1,12 @@
 +++
 title = "2019 Divine Visitation Survey"
 path = "/2019-divine-visitation-survey/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "doctrine-teachings",
 ]
 tags = [
     "survey",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

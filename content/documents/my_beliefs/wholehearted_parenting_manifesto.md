@@ -4,10 +4,12 @@ path = "/the-wholehearted-parenting-manifesto/"
 categories = [
     "My beliefs",
 ]
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "personal-reflections",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -19,6 +21,7 @@ featured = false
 importance = 5
 
 +++
+
 
 From Brené Brown's book, Daring Greatly ([pdf](http://brenebrown.com/wp-content/uploads/2017/10/Wholehearted_ParentingManifesto.pdf)):
 

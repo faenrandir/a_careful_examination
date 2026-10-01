@@ -1,11 +1,12 @@
 +++
 title = "Chart of Book of Mormon Translation Witness Statements"
 path = "/chart-of-bom-translation-witness-statements/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -19,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [WIP]
 
 | source       | date | ° | U&T | SS | words | no man. |

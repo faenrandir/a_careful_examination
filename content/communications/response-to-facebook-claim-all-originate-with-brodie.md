@@ -1,11 +1,12 @@
 +++
 title = "Response to claim that all originate with Brodie, pt 1"
 path = "/response-to-facebook-claim-all-originate-with-brodie/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "other",
 ]
 tags = [
     "book-of-mormon",
@@ -19,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 In response to the document [How could Joseph Smith have composed the Book of Mormon?](https://faenrandir.github.io/a_careful_examination/how-could-joseph-smith-composed-bom/), the following comment was posted to facebook:

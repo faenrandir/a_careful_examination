@@ -1,11 +1,12 @@
 +++
 title = "Books donated by Joseph Smith to the Nauvoo Library and Literary Institute"
 path = "/donated-by-joseph-smith-to-nauvoo-library/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "research-primary-sources",
 ]
 tags = [
     "joseph-smith",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 In [The Complete Record of the Nauvoo Library and Literary Institute](https://ensignpeakfoundation.org/wp-content/uploads/2013/04/The-Complete-Record-of-the-Nauvoo-Library-and-Literary-Institute.pdf?fbclid=IwAR3GzV1T-sx-_luy2HcA8j3iasy0aBlURHeh_66vOEamijfX1qWtLJ0q_uQ)   (Mormon Historical Studies 10:1, 2009: pgs 180–204) Christopher C. Jones transcribes the entire record of the Nauvoo Library and Literary Institute. It includes a ledger of books donated and payment received and includes a donation of 38 works by Joseph Smith. The list of those 38 books is reproduced below, along with links to the work online where available.
 
 ### Acknowledgement

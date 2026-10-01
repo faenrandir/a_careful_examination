@@ -1,10 +1,13 @@
 +++
 title = "Influence and inheritance are difficult to establish with certainty for ideas"
 path = "/influence-inheritance-difficult-to-establish-with-ideas/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "book-of-mormon",
+    "apologetics-responses",
+    "doctrine-teachings",
 ]
 tags = [
     "quotation",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 In his book on tracing the ideas of the pre-mortal existence across time, [Teryl Givens wrote](https://byustudies.byu.edu/file/9842/download?token=9SY3HSms):
 

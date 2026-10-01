@@ -1,10 +1,11 @@
 +++
 title = "Brigham discusses honesty in women during Q12 meeting"
 path = "/brigham-young-q12-minutes-1847-12-09/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "gender",
@@ -17,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

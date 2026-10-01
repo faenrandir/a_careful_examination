@@ -1,11 +1,13 @@
 +++
 title = "Response to Jim Bennett's response about the angel with a drawn sword"
 path = "/response-to-bennett-response-to-angel-with-drawn-sword/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Introduction
 
 In his [response to the CES Letter version 2.0](https://archive.bookofmormoncentral.org/content/polygamypolyandry-concerns-questions), Jim Bennett writes:

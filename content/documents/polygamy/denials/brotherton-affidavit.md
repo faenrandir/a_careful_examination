@@ -1,10 +1,13 @@
 +++
 title = "Martha Brotherton Affidavit"
 path = "/martha-brotherton-affidavit/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Background
 

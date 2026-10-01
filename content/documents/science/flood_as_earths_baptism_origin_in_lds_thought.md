@@ -1,10 +1,12 @@
 +++
 title = "The Flood as the Earth's Baptism: origin in LDS thought"
 path = "/flood-as-baptism-origin-in-LDS-thought/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Foreword
 

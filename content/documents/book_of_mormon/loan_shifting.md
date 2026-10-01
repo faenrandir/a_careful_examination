@@ -1,11 +1,12 @@
 +++
 title = "Who is doing the loan shifting?"
 path = "/excerpt-who-is-doing-the-loan-shifting/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Excerpt from [here](http://shamelesspopery.com/animals-in-the-book-of-mormon/)
 
 ---

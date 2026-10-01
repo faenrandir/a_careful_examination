@@ -1,11 +1,12 @@
 +++
 title = "James E. Talmage's 1916 prediction on records of the Lost Tribes of Israel"
 path = "/talmage-1916-live-to-read-lost-tribes-records/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 James Talmage stated in [April General Conference April of 1916](https://archive.org/details/conferencereport1916sa/page/n77/mode/2up/search/some+here+present+who+shall+live+to+read+the+records+of+the+Lost+Tribes+of+Israel) (emphasis added):
 
 > ...

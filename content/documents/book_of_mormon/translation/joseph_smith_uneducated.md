@@ -1,11 +1,12 @@
 +++
 title = "Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?"
 path = "/joseph-smith-capable-of-authoring-the-book-of-mormon/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 A variety of theories for the creation of the Book of Mormon [have been advanced](https://byustudies.byu.edu/article/naturalistic-explanations-of-the-origin-of-the-book-of-mormon-a-longitudinal-study/) in the past, but most modern scholars believe Joseph was primarily responsible for the book (e.g., [Dan Vogel](https://www.mormonstories.org/podcast/book-of-mormon-dan-vogel/) and [William Davis](https://www.worldcat.org/title/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon/oclc/1149924407)).

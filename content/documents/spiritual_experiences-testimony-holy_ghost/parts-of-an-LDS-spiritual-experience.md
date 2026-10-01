@@ -1,10 +1,13 @@
 +++
 title = "The parts of an LDS spiritual experience"
 path = "/parts-of-an-lds-spiritual-experience/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "short-analysis",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

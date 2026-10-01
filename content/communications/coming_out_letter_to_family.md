@@ -1,11 +1,11 @@
 +++
 title = "Faith transition coming out letter to family"
 path = "/faith-transition-coming-out-letter/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "faith-transition",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Dear family,
 
 As many (all?) of you are likely aware, I have recently adopted a somewhat different set of beliefs regarding the Church.  Given that the family cherishes its beliefs in the Church and Gospel, this has naturally led to some apprehension and discomfort in knowing how to interact with me and my family.

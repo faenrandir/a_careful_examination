@@ -1,11 +1,13 @@
 +++
 title = "Notes on Nancy Marinda Johnson Hyde marriage to Joseph Smith"
 path = "/nancy-marinda-johnson-hyde-marriage-to-js/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "joseph-smith",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Orson Hyde on Mission to Palestine
 
 "From April 1841 to December 1842, [Orson Hyde] proselyted in Palestine." ([wikipedia: Orson Hyde](https://en.wikipedia.org/wiki/Orson_Hyde))

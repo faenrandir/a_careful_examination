@@ -1,11 +1,12 @@
 +++
 title = "Familiarity with LDS scholarship"
 path = "/familiarity-with-lds-scholarship/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "personal-reflections",
+    "faith-transitions",
 ]
 tags = [
     "apologetics",
@@ -21,7 +22,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 For the past 20 years I studied apologetic defenses for the Church.  I've read or am familiar with the essential arguments of virtually every academic (or near academic) work on the topic.  For instance, the books I had been reading/studying prior to my faith transition on the Book of Mormon were:
 
 * [Mormon's Codex](http://www.fairmormon.org/perspectives/fair-conferences/2012-fair-conference/2012-reading-mormons-codex)

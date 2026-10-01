@@ -1,10 +1,12 @@
 +++
 title = "The Proclamation on the Family: Scripture or Revelation?"
 path = "/proclamation-on-the-family-scripture-or-revelation/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "social-moral-issues",
 ]
 tags = [
     "prophecy",
@@ -17,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Members of the LDS Church will sometimes claim that "The Family: A Proclamation to the World" is an example of modern day scripture and/or revelation.  There are some indications that Church leadership wants the general membership to view the document in this way, but Apostolic statements about the document during its first 20 years tend to stop just short of calling it "scripture" or "revelation" _directly_ (though it is sometimes strongly implied).
 

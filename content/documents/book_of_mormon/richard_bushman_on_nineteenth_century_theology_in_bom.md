@@ -1,11 +1,12 @@
 +++
 title = "Richard Bushman on 19th century phrasing and theology in the Book of Mormon"
 path = "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 The well-known Mormon historian Richard Bushman, [in an interview with Bill Reel](http://www.mormondiscussionpodcast.org/2017/05/premium-book-mormon-historicity/) (~8:28), stated:
 
 > I think right now the Book of Mormon is a puzzle for us, even people who believe it hardily in every detail, it's a puzzle.

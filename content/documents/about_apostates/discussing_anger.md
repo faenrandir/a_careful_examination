@@ -1,11 +1,13 @@
 +++
 title = "Former members discuss their anger"
 path = "/former-members-discuss-their-anger/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "faith-transition",
@@ -16,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Introduction
 
 A collection of faith transition stories may be found [here](https://www.reddit.com/r/mormonscholar/comments/9sgdvt/release_of_report_chronicles_and_presentation_on/)).  Many of them discuss their anger. [need to go through and pull out the relevant bits]

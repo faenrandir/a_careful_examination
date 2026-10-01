@@ -1,10 +1,13 @@
 +++
 title = "August 2020 LDS Church Historian communication on 1949 First Presidency Statement"
 path = "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "social-moral-issues",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 The following is a transcript of the email correspondence I had with a Church Historian via the [Ask Us](https://history.churchofjesuschrist.org/blog/ask-us?lang=eng) feature of the Church History Library in the Summer of 2020.
 

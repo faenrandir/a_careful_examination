@@ -1,7 +1,7 @@
 +++
 title = "LDS Retentive Socialization"
 path = "/lds-indoctrination-and-retentive-socialization/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/Childe_Hassam-Boston_Common_at_Twilight.jpg"
 type = "resource"
@@ -10,13 +10,17 @@ importance = 10
 
 [taxonomies]
 categories = [
-    "sociology-and-psychology",
+    "faith-transitions",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "resource",
+    "start-here",
 ]
 
 +++
+
 
 ## Introduction
 

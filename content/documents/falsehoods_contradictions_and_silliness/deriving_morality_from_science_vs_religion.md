@@ -1,10 +1,13 @@
 +++
 title = "Science is as substantive as religion in helping us to derive morality's ought"
 path = "/science-vs-religion-in-deriving-moralitys-ought/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Science seems to be every bit as substantive (or un-substantive) as religion when it comes to deriving the _ought_ in morality.
 

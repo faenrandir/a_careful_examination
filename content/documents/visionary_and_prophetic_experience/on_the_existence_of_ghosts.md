@@ -1,10 +1,13 @@
 +++
 title = "On the existence of ghosts"
 path = "/on-the-existence-of-ghosts/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Ghosts do not seem to be objective phenomena
 

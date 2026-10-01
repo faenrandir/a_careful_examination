@@ -1,10 +1,12 @@
 +++
 title = "The demand for certainty"
 path = "/the-demand-for-certainty-intellectual-vice/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "quotation",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 > The demand for certainty is one which is natural to man, but is nevertheless an intellectual vice. So long as men are not trained to withhold judgment in the absence of evidence, they will be led astray by cocksure prophets, and it is likely that their leaders will be either ignorant fanatics or dishonest charlatans. To endure uncertainty is difficult, but so are most of the other virtues.
 

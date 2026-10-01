@@ -1,8 +1,7 @@
 +++
 title = "Are members breaking promises when they leave the LDS Church?"
 path = "/is-leaving-breaking-promises/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/Winslow_Homer-Boys_in_a_Dory_1880_SAAM.jpg"
 type = "resource"
@@ -12,12 +11,16 @@ importance = 5
 [taxonomies]
 categories = [
     "faith-transitions",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "resource",
     "temple",
 ]
+
 +++
+
 ### Introduction
 
 The vast majority of those who leave the LDS Church still take their personal commitments and covenants seriously.  People ought to be honest---and (under most conditions) people should keep their promises.  [Moral behavior is an inherent duty of all rational beings](https://www.secularhumanism.org/index.php/12).

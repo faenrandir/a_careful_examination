@@ -1,10 +1,13 @@
 +++
 title = "BYU-I dresses cheerleaders modestly"
 path = "/byui-dresses-cheerleaders-modestly/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "shower-thought",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 From [here](https://www.reddit.com/r/exmormon/comments/78wm9t/i_wonder_if_our_young_sisters_realize_the/)
 

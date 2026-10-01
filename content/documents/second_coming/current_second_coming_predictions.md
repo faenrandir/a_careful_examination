@@ -1,10 +1,12 @@
 +++
 title = "Modern LDS second coming expectations and predictions"
 path = "/modern-second-coming-predictions/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 # LDS leadership (general)
 

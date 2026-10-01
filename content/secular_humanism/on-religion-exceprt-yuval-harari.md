@@ -1,11 +1,11 @@
 +++
 title = "Excerpt from 21 Lessons for the 21st Century by Yuval Harari: On Religion"
 path = "/excerpt-from-21-lessons-on-religion/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "excerpt",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Excerpt from [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?ac=1&from_search=true) by Yuval Harari:
 
 ---

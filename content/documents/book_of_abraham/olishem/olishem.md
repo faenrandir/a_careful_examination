@@ -1,10 +1,13 @@
 +++
 title = "Analysis of Olishem as evidence for the antiquity of the Book of Abraham"
 path = "/olishem-as-evidence-for-boa/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "book-of-mormon",
+    "joseph-smith",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [still in draft form]
 

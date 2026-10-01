@@ -1,10 +1,13 @@
 +++
 title = "LDS Church wrong on moral issues of the day"
 path = "/wrong-on-moral-issues-of-the-day/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "social-moral-issues",
+    "faith-transitions",
 ]
 tags = [
     "polygamy",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 > The LDS church has always been behind the times on the social issues.
 

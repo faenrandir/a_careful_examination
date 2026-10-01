@@ -1,10 +1,13 @@
 +++
 title = "Asking: What is the complete list of books held in the the vault?"
 path = "/asking-what-is-the-complete-list-of-books-held-in-the-the-vault/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Submitted the following to the Church History Library:
 

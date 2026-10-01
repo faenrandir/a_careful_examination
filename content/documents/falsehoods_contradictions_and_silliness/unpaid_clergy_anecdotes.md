@@ -1,10 +1,13 @@
 +++
 title = "Unpaid clergy anecdotes"
 path = "/unpaid-clergy-anecdotes/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### LDS Living Article
 

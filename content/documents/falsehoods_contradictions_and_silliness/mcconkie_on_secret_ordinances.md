@@ -1,11 +1,12 @@
 +++
 title = "McConkie: no secret doctrines, no private practices"
 path = "/mcconkie-no-secret-doctrines-no-private-practices/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 /u/frogontrombone recently wrote:
 
 ---

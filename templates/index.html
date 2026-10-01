@@ -17,8 +17,11 @@
     <h2>Start Here</h2>
     <p>New to this collection? Begin with these foundational resources.</p>
     <ul class="resource-list">
-      {% for page in section.pages | sort(attribute="extra.importance") %}
-        {% if page.extra is defined and page.extra.featured and page.extra.featured == true %}
+      {% set start_here_tag = get_taxonomy_term(kind="tags", term="start-here") %}
+      {% if start_here_tag %}
+      {# First, the peek article #}
+      {% for page in start_here_tag.pages %}
+        {% if page.permalink == "/a_careful_examination/to-peek-behind-the-curtain/" %}
         <li class="resource-item">
           <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
           {% if page.description %}
@@ -27,6 +30,18 @@
         </li>
         {% endif %}
       {% endfor %}
+      {# Then the rest, sorted by importance #}
+      {% for page in start_here_tag.pages | sort(attribute="extra.importance") %}
+        {% if page.permalink != "/a_careful_examination/to-peek-behind-the-curtain/" %}
+        <li class="resource-item">
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+          {% if page.description %}
+          <span class="resource-desc">{{ page.description }}</span>
+          {% endif %}
+        </li>
+        {% endif %}
+      {% endfor %}
+      {% endif %}
     </ul>
   </section>
 

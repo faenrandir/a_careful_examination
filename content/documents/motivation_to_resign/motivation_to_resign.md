@@ -1,11 +1,12 @@
 +++
 title = "Motivation to resign from the LDS Church"
 path = "/motivation-to-resign/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "faith-transitions",
+    "personal-reflections",
 ]
 tags = [
     "apologetics",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 After having carefully and near-comprehensively analyzed the source data and both apologetic and antagonistic explanations of the foundational truth claims of the Church, I am convinced that the foundational truth claims of the Church do not stand up to scrutiny.
 
 Ultimately, I believe that the more closely our internal understanding aligns with reality the greater our capacity to help others and to find happiness. Hence, even though the Church does much good in many people’s lives, because I believe it is based on false/unfounded assumptions and conclusions, and because those core assumptions and conclusions are used as the prime justification for the activities and direction of the Church, then I feel that I cannot in good conscience continue as an official member (see the below Appendix--All or Nothing).

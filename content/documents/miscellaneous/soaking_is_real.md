@@ -1,10 +1,11 @@
 +++
 title = "The LDS practice of soaking is real"
 path = "/lds-soaking-is-real/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Exmo lex, first hand account
 

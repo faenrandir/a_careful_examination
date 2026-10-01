@@ -1,11 +1,13 @@
 +++
 title = "Affidavits against Bennett's letters: focus on Martha Brotherton"
 path = "/affidavits-against-bennets-letters-brotherton-focus/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## AFFIDAVITS AND CERTIFICATES, DISPROVING THE STATEMENTS AND AFFIDAVITS CONTAINED IN JOHN C. BENNETT’S LETTERS. NAUVOO AUG. 31, 1842.
 
 * [source](https://ia902505.us.archive.org/1/items/AffidavitsCertificates/Affidavits%20And%20Certificates.pdf)

@@ -1,10 +1,13 @@
 +++
 title = "Individuals in the past 100 years who claim to have seen Jesus Christ"
 path = "/individuals-claim-to-seen-christ/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "compilation",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Draft originally posted [here](https://www.reddit.com/r/mormondebate/comments/4g68ev/when_was_the_last_time_a_mormon_credibly_saw/d2g63n2/).
 

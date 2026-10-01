@@ -1,10 +1,11 @@
 +++
 title = "What would it take for you to believe in God again?"
 path = "/what-would-it-take-to-believe-in-God-again/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
 ]
 tags = [
     "personal",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 > "so, what would it take for you to believe in God again?"
 

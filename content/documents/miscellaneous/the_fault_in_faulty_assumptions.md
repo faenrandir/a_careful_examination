@@ -1,11 +1,11 @@
 +++
 title = "The Fault in Faulty Assumptions"
 path = "/the-fault-in-faulty-assumptions/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "book-of-mormon",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 *With some modification and the addition of some sources from reddit user jamesallred's post [here](https://www.reddit.com/r/exmormon/comments/a3dbc3/crappy_mormon_apologetics_its_your_fault_you_lost/)*
 
 A common argument amongst mormon apologists and some leaders today is that **The reason you (the unfaithful) no longer believe the church is true, is because YOU started with the wrong assumptions.**

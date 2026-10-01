@@ -1,10 +1,13 @@
 +++
 title = "Most members don't seem to care about Church issues"
 path = "/most-members-dont-seem-to-care-about-church-issues/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "shower-thought",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 From [here](https://www.reddit.com/r/exmormon/comments/6ipikx/after_leaving_the_church_was_anyone_else/)
 

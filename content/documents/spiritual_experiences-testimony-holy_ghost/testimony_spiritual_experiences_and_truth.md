@@ -2,7 +2,7 @@
 title = "Testimony, spiritual experiences, and truth: A careful examination"
 path = "/testimony-spiritual-experiences-truth/"
 toc = "true"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/a-crater-lake.jpg"
 type = "resource"
@@ -11,7 +11,9 @@ importance = 5
 
 [taxonomies]
 categories = [
-    "truth-claims",
+    "doctrine-teachings",
+    "apologetics-responses",
+    "faith-transitions",
 ]
 tags = [
     "resource",
@@ -19,6 +21,7 @@ tags = [
 ]
 
 +++
+
 
 # Introduction
 

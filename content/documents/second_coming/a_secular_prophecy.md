@@ -1,10 +1,12 @@
 +++
 title = "A secular prophecy for our time"
 path = "/secular-prophecy-of-the-end-times/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "prophecy",
@@ -17,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

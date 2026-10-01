@@ -1,10 +1,13 @@
 +++
 title = "Prophecy: Not long until calamities overtake human family"
 path = "/prophecy-calamities-overtake-human-family/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 George Albert Smith, in the [1950 Conference Report, pg 169](https://archive.org/stream/conferencereport1950a#page/n169/mode/2up):
 

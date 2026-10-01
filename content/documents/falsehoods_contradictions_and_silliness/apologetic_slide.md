@@ -1,11 +1,12 @@
 +++
 title = "The Apologetic Slide"
 path = "/the-apologetic-slide/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "apologetics",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 * No prophet or apostle ever taught that.
 * If they did, they didn't mean it.
 * If they meant it, then you didn't really understand it.

@@ -1,10 +1,12 @@
 +++
 title = "The 6 Sources of Revelation"
 path = "/six-sources-of-revelation/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

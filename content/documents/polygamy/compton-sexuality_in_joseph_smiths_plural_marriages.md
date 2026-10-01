@@ -1,11 +1,13 @@
 +++
 title = "Excerpt: Sexuality in Joseph Smith's Plural Marriages"
 path = "/compton-sexuality-in-joseph-smiths-plural-marriages/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "book-excerpt",
@@ -18,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [Quoting from Todd Compton's book "In Sacred Loneliness"]
 
 ---

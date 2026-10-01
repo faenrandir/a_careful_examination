@@ -1,11 +1,13 @@
 +++
 title = "Why former members are angry"
 path = "/why-former-members-are-angry/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "faith-transition",
@@ -16,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [rough draft]
 
 ## Introduction

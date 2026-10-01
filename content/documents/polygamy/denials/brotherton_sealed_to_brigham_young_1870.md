@@ -1,10 +1,13 @@
 +++
 title = "Brigham Young sealed Martha Brotherton to himself with proxy"
 path = "/brigham-young-sealed-to-martha-brotherton/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Martha Brotherton, who was maligned by Church leaders throughout the end of
 1842, was sealed by proxy to Brigham Young in 1870.

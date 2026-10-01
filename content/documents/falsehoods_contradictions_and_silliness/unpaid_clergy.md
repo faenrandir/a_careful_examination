@@ -1,10 +1,13 @@
 +++
 title = "How transparent was LDS Church with living allowances"
 path = "/how-transparent-was-lds-church-with-living-allowances/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

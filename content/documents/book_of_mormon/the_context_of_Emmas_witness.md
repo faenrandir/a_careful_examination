@@ -1,11 +1,12 @@
 +++
 title = "The context of Emma Smith's Book of Mormon witness"
 path = "/context-of-emma-smiths-bom-witness/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -20,7 +21,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [Emma Smith's last testimony](/last-testimony-of-sister-emma/) is used to support the narrative that Joseph Smith's translation of the Book of Mormon was miraculous, particularly that he didn't have a book or manuscript to read from, and that he could not have concealed a manuscript from her.[^examples]
 
 > *Question*. What of the truth of Mormonism?

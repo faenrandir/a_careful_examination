@@ -1,6 +1,6 @@
 +++
 title = "The 50/50 Scenario"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/800px-Half_Dome_with_Eastern_Yosemite_Valley.jpg"
 type = "short-analysis"
@@ -9,13 +9,16 @@ importance = 5
 
 [taxonomies]
 categories = [
-    "truth-claims",
+    "doctrine-teachings",
+    "faith-transitions",
+    "personal-reflections",
 ]
 tags = [
     "short-analysis",
 ]
 
 +++
+
 
 Givens embraces the scenario where significant evidence weighs against the LDS Church in [Letter to a doubter](https://www.mormoninterpreter.com/letter-to-a-doubter/) (and also Crucible of Doubt).  This embrace is also implicit in the reasoning of Patrick Mason's "Planted" [need to pick best example, still].  Here's how it is described:
 

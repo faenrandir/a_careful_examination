@@ -1,11 +1,13 @@
 +++
 title = "1835 Doctrine and Covenants 101:4"
 path = "/1835-doctrine-and-covenants-101-4/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -17,7 +19,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 * [Joseph Smith Papers](http://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/259)
 
 This document/statement is frequently referred to in later denials of polygamy.

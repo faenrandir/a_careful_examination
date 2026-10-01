@@ -1,10 +1,13 @@
 +++
 title = "Attitude towards those who do not believe but stay"
 path = "/how-those-who-stay-are-viewed/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "faith-transitions",
+    "lds-history-leadership",
+    "personal-reflections",
 ]
 tags = [
     "compilation",
@@ -18,6 +21,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [Need to add in discussion of Holland about those who do not believe but stay, which is friendly]
 

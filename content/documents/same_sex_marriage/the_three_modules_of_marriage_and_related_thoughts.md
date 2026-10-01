@@ -1,11 +1,11 @@
 +++
 title = "Musings on Same Sex Marriage"
 path = "/musings-on-same-sex-marriage/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "social-moral-issues",
 ]
 tags = [
     "lgbt",
@@ -17,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### The 3 "modules" of marriage
 
 There are three "modules" related to traditional heterosexual marriage:

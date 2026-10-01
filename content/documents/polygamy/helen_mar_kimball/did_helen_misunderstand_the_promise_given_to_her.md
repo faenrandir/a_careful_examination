@@ -1,11 +1,13 @@
 +++
 title = "Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her?"
 path = "/did-helen-mar-kimball-misunderstand/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "historical-source",
@@ -16,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [very rough draft]
 
 ## Introduction

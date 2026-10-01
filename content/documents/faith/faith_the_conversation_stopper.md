@@ -1,10 +1,12 @@
 +++
 title = "Faith, the conversation stopper"
 path = "/faith-the-conversation-stopper/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "faith-transitions",
 ]
 tags = [
     "quotation",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 > The problem with faith, is that it really is a conversation stopper. Faith is a declaration of immunity to the powers of conversation. It is a reason, why you do not have to give reasons, for what you believe.
 

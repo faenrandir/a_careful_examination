@@ -1,10 +1,12 @@
 +++
 title = "Reasons for skepticism of second coming predictions"
 path = "/reasons-for-skepticims-of-second-coming-predictions/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [work in progress]
 

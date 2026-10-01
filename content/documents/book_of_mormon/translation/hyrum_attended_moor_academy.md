@@ -1,10 +1,13 @@
 +++
 title = "Hyrum Smith attended Moor's Indian Charity School"
 path = "/hyrum-attended-moor-school/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "book-of-mormon",
+    "apologetics-responses",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Research by Stephen Clarke
 

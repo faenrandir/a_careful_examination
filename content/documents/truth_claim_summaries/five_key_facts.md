@@ -1,8 +1,7 @@
 +++
 title = "Five Key Facts"
 path = "/five-key-facts/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/old-key-1463663104cis.jpg"
 type = "resource"
@@ -12,14 +11,19 @@ importance = 10
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "book-of-mormon",
 ]
 tags = [
     "book-of-mormon",
     "joseph-smith",
     "resource",
     "translation",
+    "start-here",
 ]
+
 +++
+
 This is a very short summary of what I view as the 5 most important facts in understanding alternative models for LDS truth claims.  To the best of my knowledge, every point made in this document is accepted as factual by both LDS and non-LDS scholars (please correct me if I am mistaken and I will alter the document).[^hales]
 
 ## 1. The 3rd facsimile is incorrectly translated

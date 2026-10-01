@@ -1,10 +1,11 @@
 +++
 title = "A response to Mark S. Palmer's April 2025 General Conference ‘Willow’ talk"
 path = "/response-to-mark-palmer-april-2025-willow-talk/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
 ]
 tags = [
     "response",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

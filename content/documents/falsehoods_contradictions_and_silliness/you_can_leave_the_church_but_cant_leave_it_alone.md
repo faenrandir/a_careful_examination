@@ -1,23 +1,27 @@
 +++
 title = "You can leave the Church but you can't leave it alone"
 path = "/you-can-leave-the-church-but-you-cant-leave-it-alone/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "apologetics-responses",
+    "lds-history-leadership",
 ]
 tags = [
     "joseph-smith",
     "scholarship",
     "short-analysis",
+    "start-here",
 ]
 
 [extra]
 type = "notes"
 featured = true
 importance = 10
+
 +++
+
 [pre-draft form]
 
 ## Introduction

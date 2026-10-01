@@ -1,10 +1,13 @@
 +++
 title = "Jane Manning James Patriarchal Blessing indicates she has 'a mark' and 'lineage of Cainaan the Son of Ham"
 path = "/jane-manning-james-patriarchal-blessing-indicates-a-mark/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "social-moral-issues",
+    "doctrine-teachings",
 ]
 tags = [
     "excerpt",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Hyrum Smith 1844 Blessing
 

@@ -1,10 +1,10 @@
 +++
 title = "Unparallels and the hypergeometric distribution"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "other",
 ]
 tags = [
     "apologetics",
@@ -16,7 +16,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 [pre-draft]
 
 ## Introduction

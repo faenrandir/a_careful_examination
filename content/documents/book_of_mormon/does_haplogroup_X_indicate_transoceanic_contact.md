@@ -1,11 +1,12 @@
 +++
 title = "Excerpt: Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation"
 path = "/bolnick-excerpt-mitochondrial-haplogroup-x-trans-atlantic-migration/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -17,7 +18,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ## Raff and Bolnick
 
 [Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation](https://doi.org/10.1179/2055556315Z.00000000040) by Jennifer A. Raff and Deborah A. Bolnick.

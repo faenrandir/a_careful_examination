@@ -1,10 +1,13 @@
 +++
 title = "Abial Fisher, Jr., 1816 sermon: “The Existence of God.”"
 path = "/fisher-the-existence-of-god-1816/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "book-of-mormon",
+    "apologetics-responses",
+    "doctrine-teachings",
 ]
 tags = [
     "transcript",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ## Introduction
 

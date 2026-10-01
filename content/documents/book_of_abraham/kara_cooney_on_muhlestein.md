@@ -1,10 +1,13 @@
 +++
 title = "Kara Cooney on Muhlestein"
 path = "/cooney-on-muhlestein/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "book-of-mormon",
+    "joseph-smith",
 ]
 tags = [
     "transcript",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 [Screenshot](https://imgur.com/DydhCny) of email response from Dr. Kara Cooney, last accessed 2018-09-03.
 

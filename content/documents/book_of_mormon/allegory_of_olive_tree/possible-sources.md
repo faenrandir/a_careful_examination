@@ -1,8 +1,7 @@
 +++
 title = "Potential sources for the Allegory of the Olive Tree"
 path = "/potential-sources-allegory-olive-tree/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 doctype = "short-analysis"
 maintopic = "book-of-mormon"
@@ -13,12 +12,16 @@ importance = 5
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
     "joseph-smith",
 ]
+
 +++
+
 The allegory of the Olive Tree, Jacob 5, finds potential sources in Joseph Smith's milieu.  Note, the argument is merely that these were possible influences on these ideas, not necessarily that a given source was directly plagiarized from (a common strawman argument).
 
 ### Patchwork between Isaiah and Romans 11 still evident

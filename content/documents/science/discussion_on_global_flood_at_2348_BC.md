@@ -1,10 +1,12 @@
 +++
 title = "Discussion on a global flood at 2348 BCE"
 path = "/discussion-global-flood-at-2348-bc/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "apologetics-responses",
 ]
 tags = [
     "discussion",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 A discussion in the spring of 2015 between me ("bwv549") and "tmgproductions", a pastor(?) and blogger for the Grace with Salt site on the global flood.
 

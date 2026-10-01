@@ -1,10 +1,11 @@
 +++
 title = "Response to representations of former members in the April 2020 General Conference"
 path = "/response-to-april-2020-general-conference/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
 ]
 tags = [
     "response",
@@ -16,6 +17,7 @@ featured = false
 importance = 5
 
 +++
+
 
 #### Introduction
 

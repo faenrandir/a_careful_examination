@@ -1,11 +1,12 @@
 +++
 title = "Other pre-1830 sources reminiscent of the Book of Mormon"
 path = "/other-pre-1830-sources-reminiscent-of-bom/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "book-of-mormon",
+    "apologetics-responses",
 ]
 tags = [
     "book-of-mormon",
@@ -16,7 +17,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 Many theological doctrines and themes advanced in the Book of Mormon appear to have had close precursors, variants, or a deep foundation in, the theology and thought of the early 1800s.  The best sources and examples are here:
 
 [Book of Mormon parallels to 1800s thought](/bom-parallels-to-1800s-thought/)

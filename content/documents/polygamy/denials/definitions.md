@@ -1,10 +1,13 @@
 +++
 title = "Definitions of terms related to LDS Leaders' Polygamy Denials"
 path = "/definitions-of-terms-polygamy-denials/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "definitions",
@@ -17,6 +20,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Merriam-Webster
 

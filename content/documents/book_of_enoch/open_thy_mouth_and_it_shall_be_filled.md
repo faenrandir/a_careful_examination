@@ -1,10 +1,13 @@
 +++
 title = "Open thy mouth, and it shall be filled"
 path = "/book-of-enoch-open-thy-mouth-and-it-shall-be-filled/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "apologetics-responses",
+    "book-of-mormon",
+    "research-primary-sources",
 ]
 tags = [
     "short-analysis",
@@ -16,6 +19,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### "Open thy mouth, and it shall be filled"
 

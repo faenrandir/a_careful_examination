@@ -1,8 +1,7 @@
 +++
 title = "A Critique of Joseph Smith's Polygamy: 'Thou Shalt not Lie' and Denials of Polygamy"
 path = "/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [extra]
 featuredimage = "/media/Daniel_Tivart_001.jpg"
 type = "resource"
@@ -12,13 +11,18 @@ importance = 5
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "joseph-smith",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "joseph-smith",
     "polygamy",
     "resource",
 ]
+
 +++
+
 ## Introduction
 
 Joseph Smith denied the practice of polygamy on several occasions (I'm aware of 4 instances).  He was also responsible for the publication or distribution of several additional denials (I'm aware of 3 instances).  Snippets of the denials are given below[^snippets]; see [Joseph Smith's Polygamy Denials](/joseph-smith-polygamy-denials/) for additional context.

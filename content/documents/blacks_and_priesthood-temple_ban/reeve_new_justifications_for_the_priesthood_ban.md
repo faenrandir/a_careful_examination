@@ -1,11 +1,12 @@
 +++
 title = "Paul Reeve: New justifications for the Black Priesthood/Temple ban"
 path = "/reeve-poor-justifications-for-black-priesthood-ban/"
-updated = "2026-09-10"
-
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",
+    "lds-history-leadership",
+    "social-moral-issues",
 ]
 tags = [
     "notes",
@@ -19,7 +20,9 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 +++
+
 ### Paul Reeve wrote initial Race and Priesthood draft
 
 Paul Reeve was responsible for writing the initial draft that became [the Race and the Priesthood gospel topics essay](https://www.churchofjesuschrist.org/topics/race-and-the-priesthood?lang=eng), as discussed [in a Gospel Tangents interview](https://gospeltangents.com/category/racial-priesthood-temple-ban/): 

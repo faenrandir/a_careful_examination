@@ -1,10 +1,12 @@
 +++
 title = "Bushman on magic and treasure digging from friendly sources"
 path = "/bushman-on-magic-and-treasure-digging-friendly-sources/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "joseph-smith",
+    "doctrine-teachings",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 Richard Bushman in the September 1987 Sunstone article ["Treasure-seeking Then and Now" ](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1462&context=cgu_fac_pub):
 

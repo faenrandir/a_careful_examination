@@ -1,10 +1,12 @@
 +++
 title = "Second coming expectations in the early LDS Church"
 path = "/failed-second-coming-predictions-in-early-lds-church/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "lds-history-leadership",
+    "doctrine-teachings",
 ]
 tags = [
     "compilation",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 ### Introduction
 

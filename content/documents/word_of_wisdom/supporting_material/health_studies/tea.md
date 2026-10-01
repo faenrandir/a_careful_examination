@@ -1,10 +1,12 @@
 +++
 title = "Health studies on tea"
 path = "/health-studies-on-tea/"
-updated = "2026-09-10"
+updated = "2026-09-30"
 [taxonomies]
 categories = [
     "other",
+    "doctrine-teachings",
+    "lds-history-leadership",
 ]
 tags = [
     "notes",
@@ -16,6 +18,7 @@ featured = false
 importance = 5
 
 +++
+
 
 First, a little intro to bring the reader up-to-speed on tea.  Tea comes from steeping parts of _Camellia sinensis_ in hot or boiled water.  Depending on the level of oxidation of the tea leaves, you get different types of tea: white, oolong, green, and black tea.  Herbal teas are made in the same way, but not using the Camellia sinensis plant.  So, a "true" tea is any tea made from _Camellia sinensis_.  A lot of health studies focus on green tea (common healthier tea), and some on black tea (most common tea).  But just to be clear, green tea is *real* tea.
 
