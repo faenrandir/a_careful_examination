@@ -1067,6 +1067,14 @@ $transition-slow: 300ms ease;
   }
 }
 
+/* Disable TOC on mobile */
+@media (max-width: 768px) {
+  .toc,
+  .toc-toggle {
+    display: none !important;
+  }
+}
+
 /* ==========================================================================
    Post Content
    ========================================================================== */
