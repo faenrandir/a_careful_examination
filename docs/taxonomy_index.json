@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "apologetics-responses",
-      "count": 218,
+      "count": 219,
       "slug": "apologetics-responses"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "doctrine-teachings",
-      "count": 385,
+      "count": 386,
       "slug": "doctrine-teachings"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "joseph-smith",
-      "count": 77,
+      "count": 78,
       "slug": "joseph-smith"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "research-primary-sources",
-      "count": 6,
+      "count": 7,
       "slug": "research-primary-sources"
     },
     {
@@ -76,6 +76,11 @@
       "name": "book-excerpt",
       "count": 8,
       "slug": "book-excerpt"
+    },
+    {
+      "name": "book-of-abraham",
+      "count": 1,
+      "slug": "book-of-abraham"
     },
     {
       "name": "book-of-mormon",
@@ -164,8 +169,13 @@
     },
     {
       "name": "joseph-smith",
-      "count": 138,
+      "count": 139,
       "slug": "joseph-smith"
+    },
+    {
+      "name": "joseph-smith-papers",
+      "count": 1,
+      "slug": "joseph-smith-papers"
     },
     {
       "name": "lgbt",
@@ -186,6 +196,11 @@
       "name": "notes",
       "count": 132,
       "slug": "notes"
+    },
+    {
+      "name": "papyri",
+      "count": 1,
+      "slug": "papyri"
     },
     {
       "name": "personal",
@@ -239,7 +254,7 @@
     },
     {
       "name": "scholarship",
-      "count": 24,
+      "count": 25,
       "slug": "scholarship"
     },
     {
@@ -294,7 +309,7 @@
     },
     {
       "name": "translation",
-      "count": 42,
+      "count": 43,
       "slug": "translation"
     },
     {
