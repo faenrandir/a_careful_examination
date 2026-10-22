@@ -1,7 +1,7 @@
 +++
 title = "Resources on the Book of Abraham"
 path = "/resources-on-the-book-of-abraham/"
-updated = "2026-10-01"
+updated = "2026-10-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",
@@ -19,6 +19,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 
 +++
@@ -43,12 +44,13 @@ importance = 5
         * Response [Brave Sir Kerry (Muhlestein)][rfm-brave-sir-kerry] (RFM)
 * [A response to "Translation and Historicity of the Book of Abraham"][ritner-respone-to-book-of-abraham-essay] (Robert Ritner)
 * [The Book of Abraham][mormonthink-the-book-of-abraham] (Mormon Think)
-* Radio Free Mormon and Bill Reel: The Book of Abraham [part 1][rfm-bill-reel-book-of-abraham-part1] \| [part 2][rfm-bill-reel-book-of-abraham-part2] \| [part 3][rfm-bill-reel-book-of-abraham-part3]
+* Radio Free Mormon and Bill Reel: The Book of Abraham [part 1][rfm-bill-reel-book-of-abraham-part1] | [part 2][rfm-bill-reel-book-of-abraham-part2] | [part 3][rfm-bill-reel-book-of-abraham-part3]
 
 ### Hauglid and Jensen
 
-* [Brian Hauglid argues against missing papyri theory](/hauglid-against-missing-papyri-theory/) (see also [Book of Abraham Apologist: Brian Hauglid’s “Transformative Journey”](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/))
-* [Maxwell Institute lecture: Brian Hauglid and Robin Jensen, “A Window into Joseph Smith's Translation”](https://www.youtube.com/watch?v=tznpRR0Fos8)
+* [Brian Hauglid argues against missing papyri theory](/hauglid-against-missing-papyri-theory/) (see also [Book of Abraham Apologist: Brian Hauglid's "Transformative Journey"](https://proveallthingsholdfasttogood.wordpress.com/book-of-abraham-apologist-brian-hauglids-transformative-journey/))
+* [Maxwell Institute lecture: Brian Hauglid and Robin Jensen, "A Window into Joseph Smith's Translation"](https://www.youtube.com/watch?v=tznpRR0Fos8)
+* [JSP R&T Vol. 4: Extant Papyri and Book of Abraham Manuscripts — Documentary Links](/jsp-rt-v4-boa-extant-papyri/) (editorial statements from JSP Revelations and Translations, Volume 4 linking the extant papyri to the Book of Abraham manuscripts)
 
 ### Olishem
 
@@ -77,7 +79,7 @@ importance = 5
 * [Meditations on Vogel][meditations-on-vogel]
 * [The Principles of Book of Abraham and Kirtland Egyptian Papers Symbolism](https://www.reddit.com/r/mormonscholar/comments/b3xrwi/the_principles_of_book_of_abraham_and_kirtland/) (Edwin Goble argues for "disconnected symbolism, where these symbols are both section markers, as well as pointers/references like bookmarks to content in an unavailable, non-extant Egyptian manuscript from antiquity")
 * [The Joseph Smith Papyrus Was Never The Basis For The Book of Abraham](http://web.archive.org/web/20190905162519/http://www.conflictofjustice.com/joseph-smith-papyrus-basis-book-of-abraham/) (Conflict of Justice, archived)
-* [42 Evidences For Joseph Smith’s Book of Abraham In Archaeology](http://web.archive.org/web/20190910004946/http://www.conflictofjustice.com/evidences-joseph-smiths-book-of-abraham-egyptology-archaeology/) (Conflict of Justice, archived)
+* [42 Evidences For Joseph Smith's Book of Abraham In Archaeology](http://web.archive.org/web/20190910004946/http://www.conflictofjustice.com/evidences-joseph-smiths-book-of-abraham-egyptology-archaeology/) (Conflict of Justice, archived)
 * [Lion Couch Scene in the Book of Abraham: Evidence of Authenticity][youtube-fairmormon-lion-couch-scene] (FairMormon)
 
 ### Bibliography
