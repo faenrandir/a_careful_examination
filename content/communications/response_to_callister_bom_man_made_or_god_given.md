@@ -1,7 +1,7 @@
 +++
 title = "Response to Tad Callister’s talk “The Book of Mormon: Man-Made or God-Given?”"
 path = "/response-to-callister-bom-manmade-or-godgiven/"
-updated = "2026-09-30"
+updated = "2026-11-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",
@@ -17,6 +17,7 @@ tags = [
 type = "notes"
 featured = false
 importance = 5
+
 
 +++
 
@@ -639,11 +640,13 @@ Callister insists that divine intervention is the only way to explain the creati
 
 * Believing member [rebuttal to Christian apologist response](https://scripturalmormonism.blogspot.com/2017/10/responding-to-critique-of-tad.html)
 
-### Partial responses to Callister's BYU Speech
+### Responses to Callister's BYU Speech
 
-* Response to [The Book of Mormon: Man-Made or God-Given](https://www.docdroid.net/NT0LCsR/response-to-tad-callister-bom-talk.pdf) ([by /u/animatorcollin](https://www.reddit.com/r/exmormon/comments/7438jq/response_to_tad_callisters_the_book_of_mormon/))
+* [Response to The Book of Mormon: Man-Made or God-Given](https://www.docdroid.net/NT0LCsR/response-to-tad-callister-bom-talk.pdf) [by /u/animatorcollin](https://www.reddit.com/r/exmormon/comments/7438jq/response_to_tad_callisters_the_book_of_mormon/)
 * [churchistrue response](http://www.churchistrue.com/blog/tad-callister-byu-devotional-on-book-of-mormon-historicity/)
 * [Robert John Stevens response](http://www.sonsofliberty.co/a-response-the-byu-devotional-the-book-of-mormon-man-made-or-god-given/)
+* [Book of Mormon SMACKDOWN](https://www.youtube.com/watch?v=hpE-CgkGL2c) (youtube)
+
 
 ### Partial response to Callister's book
 
