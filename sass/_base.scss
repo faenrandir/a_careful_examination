@@ -1,0 +1,96 @@
+// Reset, document defaults, links, and small utilities.
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure, figcaption {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font: $weight-normal #{$base-font-size}/#{$lh-ui} $font-sans;
+  color: $ink;
+  background-color: $paper;
+  font-kerning: normal;
+  overflow-wrap: break-word;
+  -webkit-text-size-adjust: 100%;
+}
+
+main {
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $weight-normal;
+  line-height: $lh-tight;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure {
+  margin-bottom: $space-2;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $accent-hover;
+  text-decoration: underline;
+}
+
+:focus-visible {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
+}
+
+code,
+pre {
+  font-family: $font-mono;
+  font-size: 0.9375em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $rule;
+  margin: $space-6 0;
+}
+
+// Visually hidden but available to screen readers.
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+  }
+}

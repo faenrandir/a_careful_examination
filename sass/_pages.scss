@@ -1,0 +1,335 @@
+// Page-specific layouts: home, browse, category, taxonomy term, search.
+
+.homepage-header h1,
+.browse-page h1,
+.category-header h1,
+.taxonomy-term-header h1,
+.taxonomy-list-header h1,
+.search-header h1 {
+  @extend %page-title;
+}
+
+.homepage-description,
+.browse-page > header p,
+.category-header .category-desc {
+  @extend %page-lede;
+}
+
+.homepage h2,
+.browse-section h2,
+.category-page h2 {
+  @extend %section-heading;
+}
+
+// Home
+
+.homepage-header {
+  padding-bottom: $space-4;
+  border-bottom: 1px solid $rule;
+}
+
+.start-here > p {
+  margin-bottom: $space-3;
+  color: $ink-muted;
+}
+
+.recently-updated .resource-item time {
+  margin-left: $space-3;
+  font-size: $text-xs;
+  color: $ink-muted;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: $space-4;
+}
+
+.category-card {
+  padding: $space-4;
+  background: $paper;
+  border: 1px solid $rule;
+  border-radius: $radius-lg;
+  transition: border-color $transition;
+}
+
+.category-card:hover {
+  border-color: $accent;
+}
+
+.category-card h3 {
+  margin-bottom: $space-2;
+  font-size: $text-md;
+  font-weight: $weight-bold;
+}
+
+.category-card h3 a,
+.category-card h3 a:visited {
+  color: $ink;
+}
+
+.category-card h3 a:hover {
+  color: $accent;
+}
+
+.category-card .category-desc {
+  margin-bottom: $space-3;
+  font-size: $text-sm;
+  line-height: 1.5;
+  color: $ink-muted;
+}
+
+.featured-links {
+  list-style: none;
+  margin-bottom: $space-3;
+}
+
+.featured-links li {
+  margin-bottom: $space-1;
+  font-size: $text-sm;
+}
+
+.featured-links a,
+.featured-links a:visited {
+  color: $ink;
+}
+
+.featured-links a:hover {
+  color: $accent;
+}
+
+.view-all {
+  font-size: $text-sm;
+  font-weight: $weight-medium;
+}
+
+// Browse and taxonomy index
+
+.browse-section {
+  margin-bottom: $space-6;
+}
+
+.taxonomy-grid,
+.taxonomy-terms {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: $space-1 $space-5;
+  list-style: none;
+  margin: 0;
+}
+
+.taxonomy-grid a,
+.taxonomy-grid a:visited,
+.taxonomy-terms a,
+.taxonomy-terms a:visited {
+  color: $ink;
+}
+
+.taxonomy-grid a:hover,
+.taxonomy-terms a:hover {
+  color: $accent;
+}
+
+.loading {
+  color: $ink-muted;
+}
+
+// Category page
+
+.category-header {
+  padding-bottom: $space-4;
+  border-bottom: 1px solid $rule;
+}
+
+.sort-options {
+  display: flex;
+  gap: $space-3;
+  margin-bottom: $space-4;
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.sort-options a,
+.sort-options a:visited {
+  color: $ink-muted;
+}
+
+.sort-options a:hover,
+.sort-options a.active {
+  color: $accent;
+}
+
+.sort-options a.active {
+  font-weight: $weight-bold;
+}
+
+// Taxonomy term pages (tags)
+
+.taxonomy-term-header {
+  margin-bottom: $space-5;
+  padding-bottom: $space-4;
+  border-bottom: 1px solid $rule;
+}
+
+.term-count {
+  font-size: $text-base;
+  color: $ink-muted;
+}
+
+.term-page-item {
+  margin-bottom: $space-4;
+  padding-bottom: $space-4;
+  border-bottom: 1px solid $rule;
+}
+
+.term-page-item:last-child {
+  border-bottom: none;
+}
+
+.term-page-item h2 {
+  margin-bottom: $space-1;
+  font-size: $text-md;
+  font-weight: $weight-medium;
+}
+
+.term-page-item h2 a,
+.term-page-item h2 a:visited {
+  color: $ink;
+}
+
+.term-page-item h2 a:hover {
+  color: $accent;
+}
+
+.item-description {
+  margin-bottom: $space-1;
+  font-size: $text-sm;
+  line-height: 1.5;
+  color: $ink-muted;
+}
+
+.item-meta,
+.item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-1 $space-2;
+  font-size: $text-xs;
+  color: $ink-muted;
+}
+
+// Search
+
+.search-header {
+  margin-bottom: $space-5;
+}
+
+.search-form {
+  max-width: 600px;
+}
+
+.search-input {
+  width: 100%;
+  padding: $space-3 $space-4;
+  font: inherit;
+  font-size: $text-md;
+  color: $ink;
+  background: $paper;
+  border: 1px solid $rule-strong;
+  border-radius: $radius-lg;
+  transition: border-color $transition, box-shadow $transition;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: $accent;
+  box-shadow: 0 0 0 3px $accent-tint;
+}
+
+.search-status {
+  min-height: 1.25em;
+  margin-top: $space-2;
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.search-status.error {
+  color: $error;
+}
+
+.search-result {
+  padding-bottom: $space-4;
+  margin-bottom: $space-4;
+  border-bottom: 1px solid $rule;
+}
+
+.search-result h2 {
+  margin-bottom: $space-1;
+  font-size: $text-md;
+  font-weight: $weight-medium;
+}
+
+.search-result h2 a,
+.search-result h2 a:visited {
+  color: $ink;
+}
+
+.search-result h2 a:hover {
+  color: $accent;
+}
+
+.result-snippet {
+  margin-bottom: 0;
+  font-size: 0.9375rem;
+  line-height: $lh-prose;
+  color: $ink-muted;
+}
+
+.result-snippet mark {
+  padding: 0 2px;
+  color: $ink;
+  background: $highlight;
+  border-radius: 2px;
+}
+
+.result-meta,
+.result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-1 $space-2;
+}
+
+.result-meta {
+  margin-top: $space-2;
+  font-size: $text-xs;
+  color: $ink-muted;
+}
+
+.no-results {
+  padding: $space-7 $space-4;
+  text-align: center;
+  color: $ink-muted;
+}
+
+.no-results p:first-child {
+  margin-bottom: $space-2;
+  font-size: $text-md;
+  font-weight: $weight-medium;
+  color: $ink;
+}
+
+@media (max-width: $bp-mobile) {
+  .homepage-header h1,
+  .browse-page h1,
+  .category-header h1,
+  .taxonomy-term-header h1,
+  .taxonomy-list-header h1,
+  .search-header h1 {
+    font-size: $text-2xl;
+  }
+
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -40,6 +40,19 @@ enabled = true
 [link_checker]
 skip_prefixes = ["#"]
 
+# Display names for the main categories (URLs keep the slugs)
+[extra.category_names]
+book-of-mormon = "Book of Mormon"
+joseph-smith = "Joseph Smith"
+lds-history-leadership = "LDS History & Leadership"
+doctrine-teachings = "Doctrine & Teachings"
+faith-transitions = "Faith Transitions"
+apologetics-responses = "Apologetics & Responses"
+research-primary-sources = "Research & Primary Sources"
+social-moral-issues = "Social & Moral Issues"
+personal-reflections = "Personal Reflections"
+other = "Other"
+
 # Category descriptions for homepage
 [extra.categories]
 book-of-mormon = "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon."

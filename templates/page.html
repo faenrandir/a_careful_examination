@@ -8,39 +8,31 @@
   <header class="post-header">
     {% if page.taxonomies.categories is defined and "resource" in page.taxonomies.categories %}
       <h1 class="resource-post-title">{{ page.title }}</h1>
-      {% if page.updated %}
-      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
-      {% endif %}
     {% else %}
       <h1 class="post-title">{{ page.title }}</h1>
-      {% if page.updated %}
-      <div class="last-update">last update: {{ page.updated | date(format="%Y-%m-%d") }}</div>
-      {% endif %}
     {% endif %}
 
     <div class="article-meta">
-      <span class="resource-type">{{ page.extra.type | upper }}</span>
+      {% if page.extra.type and not (page.taxonomies.tags is defined and page.extra.type in page.taxonomies.tags) %}
+      <span class="resource-type">{{ page.extra.type }}</span>
+      {% endif %}
       {% if page.taxonomies.categories %}
       <span class="resource-categories">
         {% for cat in page.taxonomies.categories %}
-        <a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} · {% endif %}
+        <a href="{{ config.base_url | safe }}/categories/{{ cat | slugify }}/">{{ cat }}</a>
         {% endfor %}
       </span>
       {% endif %}
       {% if page.taxonomies.tags %}
       <span class="resource-tags">
-        {% set count = 0 %}
         {% for tag in page.taxonomies.tags %}
-          {% if count < 5 %}
-          <a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% if not loop.last %} · {% endif %}
-          {% set count = count + 1 %}
-          {% endif %}
+        {% if loop.index <= 5 %}<a href="{{ config.base_url | safe }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endif %}
         {% endfor %}
       </span>
       {% endif %}
       {% if page.updated %}
       <time class="resource-updated" datetime="{{ page.updated | date(format='%Y-%m-%d') }}">
-        Updated: {{ page.updated | date(format='%b %d, %Y') }}
+        Updated {{ page.updated | date(format='%b %-d, %Y') }}
       </time>
       {% endif %}
     </div>
@@ -52,23 +44,27 @@
     {% endif %}
   </header>
 
-  <div class="post-content-wrapper">
-    {% if toc_has_items %}
-    <aside class="toc" aria-label="Table of contents">
-      <nav class="toc-nav" aria-label="In-page navigation">
-        <strong>Contents</strong>
-        <ul>
-        {% for item in toc_items %}
-          <li><a href="#{{ item.id }}">{{ item.title }}</a></li>
-        {% endfor %}
-        </ul>
-      </nav>
-    </aside>
-    <button class="toc-toggle" onclick="document.querySelector('.toc').classList.toggle('open')" aria-label="Toggle table of contents">☰</button>
-    {% endif %}
-    <div class="post-content">
-      {{ page.content | safe }}
-    </div>
+  {% if toc_has_items %}
+  <details class="toc" open>
+    <summary>Contents</summary>
+    <nav aria-label="Table of contents">
+      <ul>
+      {% for item in toc_items %}
+        <li><a href="#{{ item.id }}">{{ item.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </nav>
+  </details>
+  <script>
+    // Open beside the article on wide screens; start collapsed above it otherwise.
+    if (!window.matchMedia('(min-width: 1400px)').matches) {
+      document.currentScript.previousElementSibling.removeAttribute('open');
+    }
+  </script>
+  {% endif %}
+
+  <div class="post-content">
+    {{ page.content | safe }}
   </div>
 </article>
 {% endblock content %}

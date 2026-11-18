@@ -2,8 +2,10 @@
 
 {% block content %}
 <article class="category-page">
+  {% set term_label = term.name %}
+  {% if term.name in config.extra.category_names %}{% set term_label = config.extra.category_names[term.name] %}{% endif %}
   <header class="category-header">
-    <h1>{{ term.name }}</h1>
+    <h1>{{ term_label }}</h1>
     <p class="category-desc">
       {% set descs = {
         "book-of-mormon": "Historicity, translation, geography, witnesses, textual analysis, and apologetic arguments concerning the Book of Mormon.",
@@ -60,7 +62,7 @@
   </section>
 
   <section class="all-resources">
-    <h2>All {{ term.name }} Resources</h2>
+    <h2>All {{ term_label }} Resources</h2>
     <nav class="sort-options" aria-label="Sort options">
       <span>Sort:</span>
       <a href="?sort=featured" class="{% if not sort or sort == 'featured' %}active{% endif %}">Featured</a>

@@ -1,0 +1,175 @@
+// Reusable pieces: labels, chips, cards, link lists, pagination, TOC.
+
+// Small uppercase label: taxonomy labels, document type, TOC and footnote headings.
+%label {
+  font-size: $text-xs;
+  font-weight: $weight-bold;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-muted;
+}
+
+// Page titles share one treatment across every template.
+%page-title {
+  font-size: $text-3xl;
+  font-weight: $weight-light;
+  letter-spacing: -1px;
+  line-height: $lh-tight;
+  margin-bottom: $space-2;
+}
+
+// Section headings on listing pages (home, browse, category).
+%section-heading {
+  margin: $space-6 0 $space-3;
+  padding-bottom: $space-1;
+  border-bottom: 1px solid $rule;
+  font-size: $text-lg;
+  font-weight: $weight-bold;
+}
+
+// Introductory sentence under a page title.
+%page-lede {
+  font-size: $text-md;
+  line-height: 1.5;
+  color: $ink-muted;
+}
+
+// Chips: one quiet style for every category and tag link.
+
+.tag,
+.resource-categories a,
+.resource-tags a {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  font-size: $text-xs;
+  line-height: $lh-ui;
+  color: $ink;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: $radius;
+  white-space: nowrap;
+  transition: color $transition, border-color $transition;
+}
+
+.tag:hover,
+.resource-categories a:hover,
+.resource-tags a:hover {
+  color: $accent;
+  border-color: $accent;
+  text-decoration: none;
+}
+
+.taxonomy-label,
+.resource-type {
+  @extend %label;
+}
+
+// Lists of links to articles (home, category pages).
+
+.resource-list {
+  list-style: none;
+  margin: 0 0 $space-4;
+}
+
+.resource-item {
+  margin-bottom: $space-3;
+  line-height: $lh-ui;
+}
+
+.resource-item > a,
+.resource-item > a:visited {
+  font-size: $text-base;
+  color: $ink;
+}
+
+.resource-item > a:hover {
+  color: $accent;
+}
+
+.resource-desc,
+.resource-meta {
+  display: block;
+  margin-top: 2px;
+  color: $ink-muted;
+}
+
+.resource-desc {
+  font-size: $text-sm;
+}
+
+.resource-meta {
+  font-size: $text-xs;
+}
+
+// Pagination
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: $space-6;
+  padding-top: $space-4;
+  border-top: 1px solid $rule;
+}
+
+.pagination-link {
+  padding: $space-2 $space-4;
+  color: $ink;
+  border: 1px solid $rule;
+  border-radius: $radius;
+  transition: color $transition, border-color $transition;
+}
+
+.pagination-link:hover {
+  color: $accent;
+  border-color: $accent;
+  text-decoration: none;
+}
+
+// Table of contents. Rendered as <details> above the article; on wide
+// screens it moves into the right margin beside the column.
+
+.toc {
+  margin: 0 0 $space-5;
+  padding: $space-2 $space-3;
+  font-size: $text-sm;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: $radius-lg;
+}
+
+.toc summary {
+  @extend %label;
+  cursor: pointer;
+}
+
+.toc ul {
+  list-style: none;
+  margin: $space-2 0 $space-1;
+}
+
+.toc li {
+  margin: $space-1 0;
+  line-height: $lh-ui;
+}
+
+.toc a,
+.toc a:visited {
+  color: $ink;
+}
+
+.toc a:hover {
+  color: $accent;
+}
+
+@media (min-width: $bp-toc) {
+  .toc {
+    position: fixed;
+    top: 96px;
+    left: calc(50% + #{$content-width / 2} + #{$space-5});
+    width: $toc-width;
+    max-height: calc(100vh - 120px);
+    margin: 0;
+    overflow-y: auto;
+  }
+}

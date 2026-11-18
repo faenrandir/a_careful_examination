@@ -1,0 +1,268 @@
+// Article header and article body (.post-content).
+
+.post-header {
+  margin-bottom: $space-5;
+}
+
+.post-title {
+  @extend %page-title;
+}
+
+// Resources get a centered, heavier title.
+.resource-post-title {
+  @extend %page-title;
+  font-weight: $weight-bold;
+  text-align: center;
+}
+
+.post-meta,
+.last-update {
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-2 $space-3;
+  margin-top: $space-3;
+  padding-top: $space-3;
+  border-top: 1px solid $rule;
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.post-taxonomies {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-2;
+  margin-top: $space-2;
+  padding-top: $space-2;
+  border-top: 1px solid $rule;
+}
+
+.resource-categories,
+.resource-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-1;
+}
+
+.featured-image-figure-div {
+  max-height: 280px;
+  margin: $space-5 0 0;
+  overflow: hidden;
+  border-radius: $radius-lg;
+}
+
+.featured-image {
+  display: block;
+  width: 100%;
+}
+
+// Body
+
+.post-content {
+  margin-bottom: $space-4;
+  font-size: $text-base;
+  line-height: $lh-prose;
+}
+
+.post-content > :first-child {
+  margin-top: 0;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5 {
+  margin: $space-5 0 $space-2;
+  font-weight: $weight-bold;
+  line-height: $lh-tight;
+  color: $ink;
+}
+
+.post-content h1 { font-size: $text-2xl; }
+.post-content h2 { font-size: $text-xl; }
+.post-content h3 { font-size: $text-lg; }
+.post-content h4 { font-size: $text-md; }
+.post-content h5 { font-size: $text-base; }
+
+// Paragraphs are indented; headings hang at the column edge.
+.post-content p {
+  margin: 0 0 $space-2 $indent;
+  hyphens: auto;
+}
+
+.post-content a {
+  color: $accent;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.post-content a:visited {
+  color: $accent-visited;
+}
+
+.post-content a:hover {
+  color: $accent-hover;
+}
+
+.post-content .footnote-reference a {
+  text-decoration: none;
+}
+
+// Lists sit 40px inside paragraph text so they are easy to spot.
+.post-content ul,
+.post-content ol {
+  margin: $space-3 0 $space-3 ($indent + 40px);
+}
+
+.post-content li {
+  hyphens: auto;
+}
+
+.post-content li + li {
+  margin-top: $space-1;
+}
+
+.post-content li::marker {
+  color: $accent;
+}
+
+.post-content li > ul,
+.post-content li > ol {
+  margin: $space-1 0 0 $space-5;
+}
+
+.post-content li > p,
+.post-content li > blockquote {
+  margin-left: 0;
+}
+
+// Quotations stay upright and dark for readability; the accent rule marks them.
+.post-content blockquote {
+  margin: $space-4 0 $space-4 $indent;
+  padding-left: $space-4;
+  border-left: 3px solid $accent;
+  font-size: 0.9375rem;
+  line-height: $lh-prose;
+  color: $ink;
+}
+
+.post-content blockquote p {
+  margin-left: 0;
+}
+
+.post-content blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.post-content code {
+  padding: 1px 5px;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: $radius;
+}
+
+.post-content pre {
+  margin: $space-4 0;
+  padding: $space-3;
+  overflow-x: auto;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: $radius-lg;
+}
+
+.post-content pre code {
+  padding: 0;
+  background: none;
+  border: none;
+  font-size: $text-sm;
+}
+
+.post-content img {
+  margin: $space-4 0;
+  border-radius: $radius-lg;
+}
+
+.post-content figcaption {
+  margin-top: $space-1;
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.post-content table {
+  width: 100%;
+  margin: $space-4 0;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  line-height: $lh-ui;
+}
+
+.post-content th,
+.post-content td {
+  padding: $space-2 $space-3;
+  border: 1px solid $rule;
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-content th {
+  font-weight: $weight-bold;
+  background: $surface;
+}
+
+.post-content hr {
+  margin: $space-6 0;
+}
+
+.post-content .footnotes {
+  margin-top: $space-6;
+  padding-top: $space-3;
+  border-top: 1px solid $rule;
+  font-size: $text-sm;
+  color: $ink-muted;
+}
+
+.post-content .footnotes::before {
+  @extend %label;
+  content: "Footnotes";
+  display: block;
+  margin-bottom: $space-2;
+}
+
+.post-content .footnotes-list {
+  margin-left: $indent + 20px;
+}
+
+@media (max-width: $bp-mobile) {
+  .article-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .post-title,
+  .resource-post-title {
+    font-size: $text-2xl;
+  }
+
+  .post-content h1 { font-size: $text-xl; }
+  .post-content h2 { font-size: $text-lg; }
+  .post-content h3 { font-size: $text-md; }
+
+  // Narrow screens need the width more than the indent.
+  .post-content p,
+  .post-content blockquote {
+    margin-left: 0;
+  }
+
+  .post-content ul,
+  .post-content ol {
+    margin-left: 28px;
+  }
+}

@@ -1,0 +1,30 @@
+@media print {
+  .site-header,
+  .site-footer,
+  .toc,
+  .post-taxonomies,
+  .search-form,
+  .search-status,
+  .pagination {
+    display: none !important;
+  }
+
+  .page-content {
+    padding: 0;
+  }
+
+  .wrapper {
+    max-width: none;
+  }
+
+  .post-content a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .post-content a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: $text-sm;
+    color: $ink-muted;
+  }
+}

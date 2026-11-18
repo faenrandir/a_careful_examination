@@ -5,12 +5,6 @@
   <header class="homepage-header">
     <h1>{{ config.title }}</h1>
     <p class="homepage-description">{{ config.description }}</p>
-    <nav class="homepage-nav" aria-label="Quick links">
-      <a href="{{ config.base_url | safe }}/about/">About</a> ·
-      <a href="{{ config.base_url | safe }}/recommended/">Recommended</a> ·
-      <a href="{{ config.base_url | safe }}/browse/">Browse</a> ·
-      <a href="{{ config.base_url | safe }}/search/">Search</a>
-    </nav>
   </header>
 
   <section class="start-here">
@@ -48,25 +42,17 @@
   <section class="browse-collection">
     <h2>Browse the Collection</h2>
     <div class="category-grid">
-      {% set cat_terms = get_taxonomy(kind="categories") %}
       {% for cat_name, cat_desc in config.extra.categories %}
-      {% set cat_term = "" %}
-      {% for term in cat_terms %}
-        {% if term.name == cat_name %}
-          {% set cat_term = term %}
-        {% endif %}
-      {% endfor %}
+      {% set cat_term = get_taxonomy_term(kind="categories", term=cat_name, required=false) %}
+      {% set cat_label = cat_name %}
+      {% if cat_name in config.extra.category_names %}{% set cat_label = config.extra.category_names[cat_name] %}{% endif %}
       <section class="category-card">
-        <h3><a href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">{{ cat_name }}</a></h3>
+        <h3><a href="{{ config.base_url | safe }}/categories/{{ cat_name }}/">{{ cat_label }}</a></h3>
         <p class="category-desc">{{ cat_desc }}</p>
         <ul class="featured-links">
           {% if cat_term %}
-            {% set count = 0 %}
-            {% for page in cat_term.pages %}
-              {% if count < 5 %}
-              <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-              {% set count = count + 1 %}
-              {% endif %}
+            {% for page in cat_term.pages | sort(attribute="extra.importance") | reverse %}
+              {% if loop.index <= 5 %}<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>{% endif %}
             {% endfor %}
           {% endif %}
         </ul>
@@ -92,12 +78,5 @@
     </ul>
     <a href="{{ config.base_url | safe }}/browse/#recently-updated">View all →</a>
   </section>
-
-  <footer class="homepage-footer">
-    <a href="{{ config.base_url | safe }}/about/">About</a> ·
-    <a href="{{ config.base_url | safe }}/recommended/">Recommended</a> ·
-    <a href="{{ config.base_url | safe }}/browse/">Browse all</a> ·
-    <a href="{{ config.base_url | safe }}/search/">Search</a>
-  </footer>
 </article>
 {% endblock content %}
