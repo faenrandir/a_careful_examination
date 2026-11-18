@@ -7,14 +7,14 @@
     <p>Explore all resources by category, topic, recency, or alphabetically.</p>
   </header>
 
-  <section class="browse-section">
+  <section class="browse-section" id="categories">
     <h2>Categories</h2>
     <ul class="taxonomy-grid" id="categories-list">
       <li class="loading">Loading categories...</li>
     </ul>
   </section>
 
-  <section class="browse-section">
+  <section class="browse-section" id="topics">
     <h2>Topics</h2>
     <ul class="taxonomy-grid" id="tags-list">
       <li class="loading">Loading topics...</li>
@@ -33,9 +33,10 @@
 </article>
 
 <script>
+  const base = '{{ config.base_url | safe }}';
+
   async function loadTaxonomy() {
     try {
-      const base = '{{ config.base_url | safe }}';
       const [catsRes, tagsRes] = await Promise.all([
         fetch(base + '/data/categories.json'),
         fetch(base + '/data/tags.json')
@@ -43,8 +44,8 @@
       const categoriesData = await catsRes.json();
       const tagsData = await tagsRes.json();
       
-      renderTaxonomy(categoriesData, 'categories-list');
-      renderTaxonomy(tagsData, 'tags-list');
+      renderTaxonomy(categoriesData, 'categories-list', 'categories');
+      renderTaxonomy(tagsData, 'tags-list', 'tags');
     } catch (err) {
       console.error('Failed to load taxonomy:', err);
       document.getElementById('categories-list').innerHTML = '<li>Failed to load categories</li>';
@@ -52,13 +53,22 @@
     }
   }
   
-  function renderTaxonomy(data, listId) {
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  // section is the URL path of the taxonomy: 'categories' or 'tags'.
+  function renderTaxonomy(data, listId, section) {
     const list = document.getElementById(listId);
     if (!list || !data) return;
-    
-    list.innerHTML = data.map(term => 
-      '<li><a href="/a_careful_examination/categories/' + (term.slug || term.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")) + '/">' + term.name + ' (' + (term.count || 0) + ')</a></li>'
-    ).join('');
+
+    list.innerHTML = data.map(term => {
+      const slug = term.slug || term.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      return '<li><a href="' + base + '/' + section + '/' + encodeURIComponent(slug) + '/">' +
+        escapeHtml(term.name) + ' (' + (term.count || 0) + ')</a></li>';
+    }).join('');
   }
 
   // Load taxonomy data on DOM ready
