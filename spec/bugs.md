@@ -50,14 +50,14 @@ template, use the `terms` that Zola provides.
 
 ### B7 — Five content pages link to missing internal targets
 
-**Date:** 2026-11-18 · **Status:** open · **Caught by:** V5
+**Date:** 2026-11-18 · **Status:** fixed · **Caught by:** V5
 
 The built site links to `/influences-on-word-of-wisdom/` (from recommended),
 `/health-studies-on-coffee/pubmed`, a Markdown URL wrapped in an internal path on
 `critique-of-price-analysis-on-brotherton`, a missing Millennial Star PDF under
 `/documents/polygamy/denials/`, and an image under
 `/contemporary-evidence-that-joseph-smith-practiced-polygamy/media/`. Rule: link checks must run
-on the built HTML, not only on Markdown. Fix with §T.2.
+on the built HTML, not only on Markdown.
 
 ### B8 — The preview lost its styles after the first rebuild
 

@@ -60,7 +60,7 @@ Here are some examples:
 
 > Overall, the experimental and epidemiologic evidences presented here elucidate the protective effects of coffee consumption on T2DM, involving multiple preventive mechanisms. Despite the firm evidences available through a growing literature base, it is still uncertain whether the use of coffee should be recommended to patients with diabetes and/or any patient who might be at the risk of T2DM as a supplementary therapy to prevent further progression of T2DM.
 
-"Long-Term Coffee Consumption and Risk of Cardiovascular Disease: A Systematic Review and a Dose-Response Meta-Analysis of Prospective Cohort Studies. 2014." [http://www.ncbi.nlm.nih.gov/pubmed/24201300](pubmed)
+"Long-Term Coffee Consumption and Risk of Cardiovascular Disease: A Systematic Review and a Dose-Response Meta-Analysis of Prospective Cohort Studies. 2014." [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24201300)
 
 > Moderate coffee consumption was inversely significantly associated with CVD risk, with the lowest CVD risk at 3 to 5 cups/d, and heavy coffee consumption was not associated with elevated CVD risk.
 

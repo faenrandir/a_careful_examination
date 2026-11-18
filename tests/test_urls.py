@@ -9,13 +9,7 @@ BASE = "/a_careful_examination"
 
 #: Internal targets known to be broken, each with the open bug that tracks it. Remove an entry
 #: when its target is fixed; the test fails until you do, so this list only shrinks.
-KNOWN_BROKEN = {
-    f"{BASE}/influences-on-word-of-wisdom/": "§B.7",
-    f"{BASE}/health-studies-on-coffee/pubmed": "§B.7",
-    f"{BASE}/critique-of-price-analysis-on-brotherton/(https://www.millennialstar.org/who-was-john-mcilwrick/)": "§B.7",
-    f"{BASE}/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf": "§B.7",
-    f"{BASE}/contemporary-evidence-that-joseph-smith-practiced-polygamy/media/dc132-color-coded-by-expositor-affidavits.png": "§B.7",
-}
+KNOWN_BROKEN: dict[str, str] = {}
 
 
 def _resolves(site: Path, url: str) -> bool:

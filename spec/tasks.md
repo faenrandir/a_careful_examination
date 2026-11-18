@@ -2,15 +2,6 @@
 
 ## Open
 
-### T2 — Fix the five broken content links
-
-**Status:** to do
-**Refs:** B7,V5
-
-Repair or remove each target listed in §B.7, then remove the entries from `KNOWN_BROKEN`. Where a
-target page was renamed, link to its current `path`; where a file is missing, restore it from git
-history if it exists there.
-
 ### T3 — Give the untitled 1829-letter page a title
 
 **Status:** to do
@@ -78,3 +69,12 @@ Remove the top-level `categories`, `[extra] doctype`, and `[extra] maintopic` fi
 
 `/categories/` (12 terms) and `/tags/` (53 terms) list every term with its page count, using
 display names for the main categories. See the commit citing §T.1.
+
+### T2 — Fix the five broken content links
+
+**Status:** done
+**Refs:** B7,V5,C2
+
+Fixed the 5 links in §B.7: two paths corrected, two malformed Markdown links, and one relative
+image path. The renamed Word of Wisdom page keeps its old URL as an alias (§C.2).
+`KNOWN_BROKEN` is empty. See the commit citing §T.2.

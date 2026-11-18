@@ -23,7 +23,7 @@ importance = 5
 
 
 * [January 1844 Millenial Star magazine (at BYU)](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/MStar/id/277/rec/4)
-* [The editorial section (standalone PDF)](/documents/polygamy/denials/Millenial-Star-04-n9-Editorials-pg143-144.pdf):
+* [The editorial section (standalone PDF)](/documents/polygamy/denials/originals/1844-01-Millenial-Star-04-n9-Editorials-pg143-144.pdf):
 
 (emphasis added)
 

@@ -172,7 +172,7 @@ importance = 5
 
 * [Letter to parents: Thoughts on the Word of Wisdom](/letter-thoughts-on-the-word-of-wisdom/)
 * [Excerpt from 'A Social History of the Nation's Favourite Drink'](/excerpt-from-social-history-of-tea/)
-* [Influences on the Word of Wisdom](/influences-on-word-of-wisdom/)
+* [Influences on the Word of Wisdom](/influences-on-word-of-wisdom-notes-on-hot-drinks/)
 * [Alcohol usage among Latter-day Saint Prophets](/alcohol-usage-of-lds-prophets/)
 * [Health studies on coffee](/health-studies-on-coffee/)
 * [Health studies on tea](/health-studies-on-tea/)
