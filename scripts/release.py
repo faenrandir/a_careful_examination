@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Release script for Zola-based site.
+Release script for Zola-based site (§I.3).
 
 Switches to faenrandir user, builds the site with Zola,
 commits changes, pushes, then switches back to jtprince.
@@ -9,6 +9,10 @@ commits changes, pushes, then switches back to jtprince.
 import subprocess
 import sys
 from datetime import datetime
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from build import build  # noqa: E402
 
 
 RELEASE_USER = "faenrandir"
@@ -52,28 +56,11 @@ def main():
         # Update last-modified dates from git history
         run("python3 scripts/update_dates.py")
 
-        # Clean build
-        run("rm -rf docs")
-        run("zola build")
+        # Clean build through the shared pipeline (§V.2)
+        build()
 
-        # Copy static assets to docs (fix broken images)
-        run("cp -r static/documents docs/")
-        run("cp -r static/images docs/ 2>/dev/null || true")
-
-        # Fix absolute links in generated HTML
-        run("python3 scripts/fix_links.py")
-
-        # Generate search and taxonomy indices
-        run("python3 scripts/generate_search_index.py")
-        run("python3 scripts/generate_taxonomy_index.py")
-
-        # Stage generated index files explicitly (they were deleted by rm -rf)
+        # Stage generated index files explicitly (they were deleted by the clean build)
         run("git add docs/search_index.json docs/taxonomy_index.json")
-
-        # Verify build succeeded
-        import os
-        if not os.path.isfile("docs/index.html"):
-            raise RuntimeError("Build failed: docs/index.html not found")
 
         # Stage changes
         run("git add -u")
