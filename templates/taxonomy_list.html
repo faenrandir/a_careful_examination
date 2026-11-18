@@ -1,22 +1,18 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% set terms = get_taxonomy(kind=taxonomy.name) %}
+{# `terms` is provided by Zola: every term of this taxonomy, sorted by name. #}
 <article class="taxonomy-list-page">
   <header class="taxonomy-list-header">
-    <h1>{{ taxonomy.name }} Index</h1>
+    <h1>{% if taxonomy.name == "tags" %}All topics{% else %}All {{ taxonomy.name }}{% endif %}</h1>
   </header>
 
   <div class="taxonomy-list-content">
     <ul class="taxonomy-terms">
       {% for term in terms %}
-      {% if term.name %}
-      <li>
-        <a href="{{ config.base_url | safe }}/{{ taxonomy.name }}/{{ term.name | slugify }}/">
-          {{ term.name }}
-        </a>
-      </li>
-      {% endif %}
+      {% set term_label = term.name %}
+      {% if taxonomy.name == "categories" and term.name in config.extra.category_names %}{% set term_label = config.extra.category_names[term.name] %}{% endif %}
+      <li><a href="{{ term.permalink | safe }}">{{ term_label }}</a> ({{ term.page_count }})</li>
       {% endfor %}
     </ul>
   </div>

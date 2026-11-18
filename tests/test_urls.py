@@ -10,8 +10,6 @@ BASE = "/a_careful_examination"
 #: Internal targets known to be broken, each with the open bug that tracks it. Remove an entry
 #: when its target is fixed; the test fails until you do, so this list only shrinks.
 KNOWN_BROKEN = {
-    f"{BASE}/categories/categories/": "§B.6",
-    f"{BASE}/tags/tags/": "§B.6",
     f"{BASE}/influences-on-word-of-wisdom/": "§B.7",
     f"{BASE}/health-studies-on-coffee/pubmed": "§B.7",
     f"{BASE}/critique-of-price-analysis-on-brotherton/(https://www.millennialstar.org/who-was-john-mcilwrick/)": "§B.7",

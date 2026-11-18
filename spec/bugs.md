@@ -42,11 +42,11 @@ run in the browser.
 
 ### B6 — Taxonomy index pages link to /categories/categories/ and /tags/tags/
 
-**Date:** 2026-11-18 · **Status:** open · **Caught by:** V5
+**Date:** 2026-11-18 · **Status:** fixed · **Caught by:** V5
 
-`templates/taxonomy_list.html` iterates over the object that `get_taxonomy` returns as if it were
-a list of terms, so it renders one link built from the taxonomy's own name. Rule: iterate
-`get_taxonomy(...).items`. Fix with §T.1.
+`templates/taxonomy_list.html` replaced Zola's `terms` list with the object that `get_taxonomy`
+returns, so it rendered one link built from the taxonomy's own name. Rule: in a taxonomy list
+template, use the `terms` that Zola provides.
 
 ### B7 — Five content pages link to missing internal targets
 

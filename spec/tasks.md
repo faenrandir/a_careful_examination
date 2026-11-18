@@ -2,15 +2,6 @@
 
 ## Open
 
-### T1 — Fix the taxonomy index pages
-
-**Status:** to do
-**Refs:** B6,V5
-
-`/categories/` and `/tags/` each render a single broken link. Iterate `get_taxonomy(...).items` in
-`templates/taxonomy_list.html`, show each term with its page count, and remove the two entries
-from `KNOWN_BROKEN`.
-
 ### T2 — Fix the five broken content links
 
 **Status:** to do
@@ -79,3 +70,11 @@ Remove the top-level `categories`, `[extra] doctype`, and `[extra] maintopic` fi
 §D.1 after checking that no template reads them.
 
 ## Done
+
+### T1 — Fix the taxonomy index pages
+
+**Status:** done
+**Refs:** B6,V5
+
+`/categories/` (12 terms) and `/tags/` (53 terms) list every term with its page count, using
+display names for the main categories. See the commit citing §T.1.
