@@ -65,27 +65,22 @@
     <h2>All {{ term_label }} Resources</h2>
     <nav class="sort-options" aria-label="Sort options">
       <span>Sort:</span>
-      <a href="?sort=featured" class="{% if not sort or sort == 'featured' %}active{% endif %}">Featured</a>
-      <a href="?sort=recent" class="{% if sort == 'recent' %}active{% endif %}">Recently Updated</a>
-      <a href="?sort=az" class="{% if sort == 'az' %}active{% endif %}">A–Z</a>
+      <a href="?sort=featured" data-sort="featured" class="active" aria-current="true">Featured</a>
+      <a href="?sort=recent" data-sort="recent">Recently Updated</a>
+      <a href="?sort=az" data-sort="az">A–Z</a>
     </nav>
-    <ul class="resource-list">
-      {% set pages = term.pages %}
-      {% if sort == 'recent' %}{% set pages = pages | sort(attribute="updated", reverse=true) %}
-      {% elif sort == 'az' %}{% set pages = pages | sort(attribute="title") %}
-      {% else %}{% set pages = pages | sort(attribute="extra.importance", reverse=true) %}{% endif %}
-      {% for page in pages %}
-        <li class="resource-item">
+    {# Rendered once at build time; the script below reorders it in the browser. #}
+    <ul class="resource-list" id="all-resources-list">
+      {% for page in term.pages %}
+        <li class="resource-item"
+            data-importance="{{ page.extra.importance | default(value=0) }}"
+            data-featured="{{ page.extra.featured | default(value=false) }}"
+            data-updated="{% if page.updated %}{{ page.updated | date(format='%Y-%m-%d') }}{% elif page.date %}{{ page.date | date(format='%Y-%m-%d') }}{% endif %}">
           <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
           <span class="resource-meta">
-            {{ page.extra.type | upper }} · 
-            {% set count = 0 %}
-            {% for tag in page.taxonomies.tags %}
-              {% if count > 0 %} · {% endif %}
-              {{ tag }}
-              {% set count = count + 1 %}
-            {% endfor %}
-            {% if page.updated %}<time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %d, %Y') }}</time>{% endif %}
+            {% if page.extra.type %}<span class="resource-type">{{ page.extra.type }}</span> · {% endif %}
+            {% if page.taxonomies.tags %}{{ page.taxonomies.tags | join(sep=", ") }}{% endif %}
+            {% if page.updated %} · <time datetime="{{ page.updated | date(format='%Y-%m-%d') }}">{{ page.updated | date(format='%b %-d, %Y') }}</time>{% endif %}
           </span>
           {% if page.description %}<span class="resource-desc">{{ page.description }}</span>{% endif %}
         </li>
@@ -93,4 +88,62 @@
     </ul>
   </section>
 </article>
+
+<script>
+(function () {
+  'use strict';
+  var list = document.getElementById('all-resources-list');
+  var links = document.querySelectorAll('.sort-options a[data-sort]');
+  if (!list || !links.length) return;
+
+  var items = Array.prototype.slice.call(list.children);
+  items.forEach(function (li, i) { li.dataset.index = i; });
+
+  function title(li) { return li.querySelector('a').textContent.trim(); }
+  function byTitle(a, b) {
+    return title(a).localeCompare(title(b), 'en', { sensitivity: 'base', ignorePunctuation: true });
+  }
+
+  var comparators = {
+    featured: function (a, b) {
+      var f = (b.dataset.featured === 'true') - (a.dataset.featured === 'true');
+      if (f) return f;
+      var imp = Number(b.dataset.importance) - Number(a.dataset.importance);
+      return imp || a.dataset.index - b.dataset.index;
+    },
+    recent: function (a, b) {
+      var da = a.dataset.updated, db = b.dataset.updated;
+      if (da !== db) {
+        if (!da) return 1;
+        if (!db) return -1;
+        return da < db ? 1 : -1;
+      }
+      return byTitle(a, b);
+    },
+    az: byTitle
+  };
+
+  function apply(mode) {
+    if (!comparators[mode]) mode = 'featured';
+    items.slice().sort(comparators[mode]).forEach(function (li) { list.appendChild(li); });
+    links.forEach(function (a) {
+      var on = a.dataset.sort === mode;
+      a.classList.toggle('active', on);
+      if (on) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current');
+    });
+  }
+
+  links.forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var url = new URL(window.location.href);
+      url.searchParams.set('sort', a.dataset.sort);
+      history.replaceState(null, '', url);
+      apply(a.dataset.sort);
+    });
+  });
+
+  apply(new URLSearchParams(window.location.search).get('sort') || 'featured');
+})();
+</script>
 {% endblock content %}
