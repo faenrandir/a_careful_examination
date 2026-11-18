@@ -1,7 +1,7 @@
 +++
 title = "1844 Millenial Star polygamy denial"
 path = "/1844-millenial-star-polygamy-denial/"
-updated = "2018-09-04"
+updated = "2026-11-18"
 [taxonomies]
 categories = [
     "other",

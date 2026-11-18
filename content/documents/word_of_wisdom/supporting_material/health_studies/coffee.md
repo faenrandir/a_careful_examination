@@ -1,7 +1,7 @@
 +++
 title = "Health studies on coffee"
 path = "/health-studies-on-coffee/"
-updated = "2016-12-24"
+updated = "2026-11-18"
 [taxonomies]
 categories = [
     "other",
