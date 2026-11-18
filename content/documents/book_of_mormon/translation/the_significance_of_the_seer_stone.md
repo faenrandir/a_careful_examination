@@ -1,7 +1,7 @@
 +++
 title = "The significance of the seer stone for LDS truth-claims"
 path = "/the-significance-of-the-seer-stone/"
-updated = "2026-09-30"
+updated = "2024-10-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "NHM (Nahom) as evidence for the ancientness of the Book of Mormon"
 path = "/nhm-nahom-resources/"
-updated = "2026-09-30"
+updated = "2024-12-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

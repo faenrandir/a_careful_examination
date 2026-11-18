@@ -1,7 +1,7 @@
 +++
 title = "Scholar Survey: King James Version translation errors in Book of Mormon Isaiah passages"
 path = "/scholar-survey-kjv-translation-errors-in-bom-isaiah/"
-updated = "2026-09-30"
+updated = "2024-04-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

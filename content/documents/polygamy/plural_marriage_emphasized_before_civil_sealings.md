@@ -1,7 +1,7 @@
 +++
 title = "The primary focus of the sealing ceremony in its first 2 years was to enable polygamy"
 path = "/primary-focus-of-sealing-for-polygamy/"
-updated = "2026-09-30"
+updated = "2020-07-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

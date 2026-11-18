@@ -1,7 +1,7 @@
 +++
 title = "Morality is an emergent principle"
 path = "/morality-is-an-emergent-principle/"
-updated = "2026-09-30"
+updated = "2023-03-22"
 [taxonomies]
 categories = [
     "other",

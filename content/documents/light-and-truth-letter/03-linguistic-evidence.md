@@ -1,7 +1,7 @@
 +++
 title = "Light and Truth Response pt 3: Linguistic Evidence"
 path = "/response-to-light-and-truth-letter-linguistic-evidence/"
-updated = "2026-09-30"
+updated = "2025-05-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

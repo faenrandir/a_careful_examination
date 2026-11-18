@@ -1,7 +1,7 @@
 +++
 title = "Musings on Same Sex Marriage"
 path = "/musings-on-same-sex-marriage/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

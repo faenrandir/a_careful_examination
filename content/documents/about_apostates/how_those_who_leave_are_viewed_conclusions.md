@@ -1,7 +1,7 @@
 +++
 title = "Discussion and Conclusions: How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed-discussion-and-conclusions/"
-updated = "2026-09-30"
+updated = "2021-04-15"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "The context of Emma Smith's Book of Mormon witness"
 path = "/context-of-emma-smiths-bom-witness/"
-updated = "2026-09-30"
+updated = "2023-01-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",

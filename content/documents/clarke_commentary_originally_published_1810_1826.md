@@ -1,7 +1,7 @@
 +++
 title = "Adam Clarke's commentary was originally published between 1810 and 1826"
 path = "/clarkes-commentary-published-between-1810-and-1826/"
-updated = "2026-09-30"
+updated = "2019-03-08"
 [taxonomies]
 categories = [
     "other",

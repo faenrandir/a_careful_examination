@@ -1,7 +1,7 @@
 +++
 title = "Jane Manning James Patriarchal Blessing indicates she has 'a mark' and 'lineage of Cainaan the Son of Ham"
 path = "/jane-manning-james-patriarchal-blessing-indicates-a-mark/"
-updated = "2026-09-30"
+updated = "2022-09-22"
 [taxonomies]
 categories = [
     "other",

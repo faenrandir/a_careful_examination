@@ -1,7 +1,7 @@
 +++
 title = "Explain how it was made: Shroud of Turin and BoM apologetics"
 path = "/explain-how-it-was-made/"
-updated = "2026-09-30"
+updated = "2026-08-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "How transparent was LDS Church with living allowances"
 path = "/how-transparent-was-lds-church-with-living-allowances/"
-updated = "2026-09-30"
+updated = "2022-10-28"
 [taxonomies]
 categories = [
     "other",

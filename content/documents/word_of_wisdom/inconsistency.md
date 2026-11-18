@@ -1,7 +1,7 @@
 +++
 title = "Rationale for the Word of Wisdom"
 path = "/rationale-for-word-of-wisdom/"
-updated = "2026-09-30"
+updated = "2021-03-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Evidence suggesting Emma approved of some marriages"
 path = "/evidence-suggesting-emmas-approval/"
-updated = "2026-09-30"
+updated = "2018-09-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

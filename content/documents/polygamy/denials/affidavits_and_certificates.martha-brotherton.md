@@ -1,7 +1,7 @@
 +++
 title = "Affidavits against Bennett's letters: focus on Martha Brotherton"
 path = "/affidavits-against-bennets-letters-brotherton-focus/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

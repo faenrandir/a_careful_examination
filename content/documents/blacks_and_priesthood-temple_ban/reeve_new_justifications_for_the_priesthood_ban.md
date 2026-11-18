@@ -1,7 +1,7 @@
 +++
 title = "Paul Reeve: New justifications for the Black Priesthood/Temple ban"
 path = "/reeve-poor-justifications-for-black-priesthood-ban/"
-updated = "2026-09-30"
+updated = "2018-11-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

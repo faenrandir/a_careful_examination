@@ -1,7 +1,7 @@
 +++
 title = "Similarities between King Benjamin's speech and the early 1800s milieu"
 path = "/similarities-between-benjamins-speech-and-1800s-milieu/"
-updated = "2026-09-30"
+updated = "2022-04-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

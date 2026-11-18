@@ -1,7 +1,7 @@
 +++
 title = "Laurel Thatcher Ulrich on Joseph Smith's polygamy: “Obviously he lied.”"
 path = "/laurel-thatcher-ulrich-obviously-he-lied/"
-updated = "2026-09-30"
+updated = "2025-11-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

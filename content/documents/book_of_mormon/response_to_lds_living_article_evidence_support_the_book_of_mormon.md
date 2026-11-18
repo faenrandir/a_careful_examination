@@ -1,7 +1,7 @@
 +++
 title = "Response to LDS Living article on Evidence supporting the Book of Mormon"
 path = "/response-to-lds-living-article-supporting-the-bom/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

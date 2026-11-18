@@ -1,7 +1,7 @@
 +++
 title = "Joseph F. Smith reverses position on Elijah Able's Priesthood ordination"
 path = "/joseph-f-smith-contradicts-himself-on-elijah-ables-priesthood/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Resources related to science claims"
 path = "/resources-related-to-science-claims/"
-updated = "2026-09-30"
+updated = "2024-12-16"
 [taxonomies]
 categories = [
     "other",

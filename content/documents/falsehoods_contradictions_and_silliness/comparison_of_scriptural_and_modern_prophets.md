@@ -1,7 +1,7 @@
 +++
 title = "Comparing scriptural and modern prophets"
 path = "/comparing-scriptural-and-modern-prophets/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

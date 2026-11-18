@@ -1,7 +1,7 @@
 +++
 title = "JS Papers commentary on Joseph Smith's Translation of the Kinderhook Plates"
 path = "/jspapers-kinderhook-plates-commentary/"
-updated = "2026-09-30"
+updated = "2019-11-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

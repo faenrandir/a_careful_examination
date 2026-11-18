@@ -1,7 +1,7 @@
 +++
 title = "Modern LDS second coming expectations and predictions"
 path = "/modern-second-coming-predictions/"
-updated = "2026-09-30"
+updated = "2023-03-22"
 [taxonomies]
 categories = [
     "other",

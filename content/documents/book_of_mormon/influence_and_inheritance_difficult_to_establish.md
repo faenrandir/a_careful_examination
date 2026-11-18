@@ -1,7 +1,7 @@
 +++
 title = "Influence and inheritance are difficult to establish with certainty for ideas"
 path = "/influence-inheritance-difficult-to-establish-with-ideas/"
-updated = "2026-09-30"
+updated = "2018-09-16"
 [taxonomies]
 categories = [
     "other",

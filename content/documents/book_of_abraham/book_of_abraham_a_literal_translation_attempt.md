@@ -1,7 +1,7 @@
 +++
 title = "Quotations suggesting The Book of Abraham was a literal translation attempt"
 path = "/quotations-boa-literal-translation-attempt/"
-updated = "2026-10-01"
+updated = "2020-02-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

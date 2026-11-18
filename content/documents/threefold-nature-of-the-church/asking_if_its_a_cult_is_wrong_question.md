@@ -1,7 +1,7 @@
 +++
 title = "Perhaps asking whether the Church is a cult is not the best question?"
 path = "/asking-if-its-a-cult-is-wrong-question/"
-updated = "2026-09-30"
+updated = "2022-05-23"
 [taxonomies]
 categories = [
     "doctrine-teachings",

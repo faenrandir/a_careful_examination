@@ -1,7 +1,7 @@
 +++
 title = "William Davis on Early Modern English in the Book of Mormon"
 path = "/william-davis-on-early-modern-english-in-the-bom/"
-updated = "2026-09-30"
+updated = "2021-07-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

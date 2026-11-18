@@ -1,7 +1,7 @@
 +++
 title = "Abial Fisher, Jr., 1816 sermon: “The Existence of God.”"
 path = "/fisher-the-existence-of-god-1816/"
-updated = "2026-09-30"
+updated = "2023-01-02"
 [taxonomies]
 categories = [
     "other",

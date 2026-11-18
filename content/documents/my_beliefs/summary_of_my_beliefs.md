@@ -1,7 +1,7 @@
 +++
 title = "Outline of my beliefs"
 path = "/summary-of-my-beliefs/"
-updated = "2026-09-30"
+updated = "2023-01-01"
 [taxonomies]
 categories = [
     "other",

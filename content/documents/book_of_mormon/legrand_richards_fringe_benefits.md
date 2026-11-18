@@ -1,7 +1,7 @@
 +++
 title = "Legrand Richards in 'Your Fringe Benefits' compares secular research on the Americas to the history learned from the Book of Mormon"
 path = "/legrand-richards-your-fringe-benefits-secular-bom-comparison/"
-updated = "2026-09-30"
+updated = "2018-12-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

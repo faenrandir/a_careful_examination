@@ -1,7 +1,7 @@
 +++
 title = "Books donated by Joseph Smith to the Nauvoo Library and Literary Institute"
 path = "/donated-by-joseph-smith-to-nauvoo-library/"
-updated = "2026-09-30"
+updated = "2024-10-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

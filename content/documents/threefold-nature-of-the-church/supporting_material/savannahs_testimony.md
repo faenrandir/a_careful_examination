@@ -1,7 +1,7 @@
 +++
 title = "Savannah's testimony"
 path = "/savannahs-testimony/"
-updated = "2026-09-30"
+updated = "2017-06-19"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Carbon-14 dating is generally reliable"
 path = "/carbon-14-dating-generally-reliable/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

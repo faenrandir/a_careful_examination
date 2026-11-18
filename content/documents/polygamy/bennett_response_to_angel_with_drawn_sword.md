@@ -1,7 +1,7 @@
 +++
 title = "Response to Jim Bennett's response about the angel with a drawn sword"
 path = "/response-to-bennett-response-to-angel-with-drawn-sword/"
-updated = "2026-09-30"
+updated = "2021-06-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

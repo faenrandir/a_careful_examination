@@ -1,7 +1,7 @@
 +++
 title = "Spiritual confirmations received since leaving the LDS Church"
 path = "/spiritual-confirmation-since-resignation/"
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "FairMormon Response: Has the Church tried to hide Joseph's use of a seer stone?"
 path = "/fairmormon-transcript-has-the-church-tried-to-hide-use-of-seer-stone/"
-updated = "2026-09-30"
+updated = "2021-03-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

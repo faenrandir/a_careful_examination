@@ -2,7 +2,7 @@
 title = "Testimony, spiritual experiences, and truth: A careful examination"
 path = "/testimony-spiritual-experiences-truth/"
 toc = "true"
-updated = "2026-09-30"
+updated = "2026-01-11"
 [extra]
 featuredimage = "/media/a-crater-lake.jpg"
 type = "resource"

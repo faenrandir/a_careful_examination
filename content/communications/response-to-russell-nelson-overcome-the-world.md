@@ -1,7 +1,7 @@
 +++
 title = "Response to Russell M. Nelson's October 2022 General Conference Talk “Overcome the World and Find Rest”"
 path = "/response-to-nelson-oct-2022-gc/"
-updated = "2026-09-30"
+updated = "2022-10-20"
 [taxonomies]
 categories = [
     "doctrine-teachings",

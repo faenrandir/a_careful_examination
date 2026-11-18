@@ -1,7 +1,7 @@
 +++
 title = "Was Joseph Smith intellectually and educationally capable of authoring the Book of Mormon?"
 path = "/joseph-smith-capable-of-authoring-the-book-of-mormon/"
-updated = "2026-09-30"
+updated = "2024-09-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

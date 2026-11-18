@@ -1,7 +1,7 @@
 +++
 title = "Most LDS service inwardly focused"
 path = "/most-lds-service-inwardly-focused/"
-updated = "2026-09-30"
+updated = "2017-12-08"
 [taxonomies]
 categories = [
     "other",

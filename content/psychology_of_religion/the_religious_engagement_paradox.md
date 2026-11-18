@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on the religious engagement paradox"
 path = "/beit-hallahmi-on-the-religious-engagement-paradox/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

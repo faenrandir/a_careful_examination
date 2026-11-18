@@ -1,7 +1,7 @@
 +++
 title = "Matt Harris on LDS transparency"
 path = "/matt-harris-transcript-on-lds-transparency/"
-updated = "2026-09-30"
+updated = "2020-11-03"
 [taxonomies]
 categories = [
     "other",

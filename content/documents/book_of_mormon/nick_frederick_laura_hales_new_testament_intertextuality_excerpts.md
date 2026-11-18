@@ -1,7 +1,7 @@
 +++
 title = "The New Testament in the Book of Mormon: Excerpts from Laura Hales's interview of BYU Religion Professor Nick Frederick"
 path = "/nt-in-bom-lhales-interview-frederick/"
-updated = "2026-09-30"
+updated = "2022-10-23"
 [taxonomies]
 categories = [
     "doctrine-teachings",

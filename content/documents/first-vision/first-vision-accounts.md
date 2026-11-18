@@ -1,7 +1,7 @@
 +++
 title = "Links to First Vision accounts, essay, and responses"
 path = "/links-first-vision-accounts/"
-updated = "2026-09-30"
+updated = "2021-06-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

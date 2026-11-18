@@ -1,7 +1,7 @@
 +++
 title = "Ether 13:2 implies a worldwide flood"
 path = "/ether-13-2-implies-a-worldwide-flood/"
-updated = "2026-09-30"
+updated = "2018-05-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

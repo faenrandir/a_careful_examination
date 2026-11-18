@@ -1,7 +1,7 @@
 +++
 title = "Other pre-1830 sources reminiscent of the Book of Mormon"
 path = "/other-pre-1830-sources-reminiscent-of-bom/"
-updated = "2026-09-30"
+updated = "2024-08-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

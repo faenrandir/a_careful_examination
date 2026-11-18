@@ -1,7 +1,7 @@
 +++
 title = "Angola as a placename in the Book of Mormon"
 path = "/angola-as-placename-in-bom/"
-updated = "2026-09-30"
+updated = "2021-10-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

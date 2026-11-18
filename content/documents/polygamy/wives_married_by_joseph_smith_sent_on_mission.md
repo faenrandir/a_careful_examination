@@ -1,7 +1,7 @@
 +++
 title = "Men whose wives were married by Joseph Smith after being sent on a mission"
 path = "/wives-married-by-joseph-smith-sent-on-mission/"
-updated = "2026-09-30"
+updated = "2018-12-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

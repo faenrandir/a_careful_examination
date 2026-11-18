@@ -1,7 +1,7 @@
 +++
 title = "Stories of Traumatic Faith Transitions"
 path = "/stories-of-traumatic-faith-transitions/"
-updated = "2026-09-30"
+updated = "2018-11-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

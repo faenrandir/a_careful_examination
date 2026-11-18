@@ -1,7 +1,7 @@
 +++
 title = "My Family's Dedication to the Gospel"
 path = "/my-familys-dedication-to-gospel/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Behavior or teachings of David Bednar that some former members find objectionable"
 path = "/bednar-objectionable-to-former-mormons/"
-updated = "2026-09-30"
+updated = "2026-01-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

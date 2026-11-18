@@ -1,7 +1,7 @@
 +++
 title = "The Book of Mormon, the twelve points of Pelagianism, and Protestant thought in the early 1800s"
 path = "/bom-and-twelve-points-of-pelagianism-in-early-1800s/"
-updated = "2026-09-30"
+updated = "2023-01-23"
 [extra]
 featuredimage = "/media/Nuremberg_chronicles_f_135r_2.jpg"
 type = "analysis"

@@ -1,7 +1,7 @@
 +++
 title = "Proposed survey on divine manifestations"
 path = "/proposed-survey-divine-manifestations/"
-updated = "2026-09-30"
+updated = "2021-07-13"
 [taxonomies]
 categories = [
     "other",

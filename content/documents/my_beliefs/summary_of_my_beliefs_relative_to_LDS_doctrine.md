@@ -1,7 +1,7 @@
 +++
 title = "Summary of my beliefs relative to core LDS doctrine"
 path = "/summary-of-beliefs-relative-to-LDS-doctrine/"
-updated = "2026-09-30"
+updated = "2022-08-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

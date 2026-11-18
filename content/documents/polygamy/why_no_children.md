@@ -1,7 +1,7 @@
 +++
 title = "Why did Joseph not sire children with his plural wives?"
 path = "/why-joseph-not-sire-children-plural-wives/"
-updated = "2026-09-30"
+updated = "2026-05-05"
 [taxonomies]
 categories = [
     "doctrine-teachings",

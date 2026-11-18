@@ -1,7 +1,7 @@
 +++
 title = "Mennonite apology for treatment of LGBTQ people"
 path = "/mennonite-apology-for-treatment-of-lgbtq-people/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

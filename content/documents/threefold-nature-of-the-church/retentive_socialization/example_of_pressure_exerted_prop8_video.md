@@ -1,7 +1,7 @@
 +++
 title = "Pressure against expression of beliefs counter to LDS position - Wally's Mom"
 path = "/pressure-against-beliefs-counter-to-lds-position-wallys-mom/"
-updated = "2026-09-30"
+updated = "2017-12-10"
 [taxonomies]
 categories = [
     "other",

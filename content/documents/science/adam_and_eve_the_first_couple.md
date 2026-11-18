@@ -1,7 +1,7 @@
 +++
 title = "Adam “the first man of all men” and “father of all living in his day”"
 path = "/adam-and-eve-the-first-couple/"
-updated = "2026-09-30"
+updated = "2022-08-20"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "bwv549 banned from the lds subreddit"
 path = "/bwv549-banned-from-the-lds-subreddit/"
-updated = "2026-09-30"
+updated = "2022-08-23"
 [taxonomies]
 categories = [
     "other",

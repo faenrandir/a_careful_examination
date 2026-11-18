@@ -1,7 +1,7 @@
 +++
 title = "1846 Millenial Star Excerpt: Sketches of Notorious Characters, Martin Harris"
 path = "/1846-millenial-star-notorious-characters-harris/"
-updated = "2026-09-30"
+updated = "2020-03-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

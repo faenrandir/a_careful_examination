@@ -1,7 +1,7 @@
 +++
 title = "Evaluating Zemnarihah's execution--is chopping down of the tree evidence favoring an ancient Book of Mormon?"
 path = "/zemnarihah-execution-cut-down-the-tree/"
-updated = "2026-09-30"
+updated = "2018-10-25"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Notes on mild drinks always being okay for early Word of Wisdom"
 path = "/notes-on-mild-drinks-always-okay-early/"
-updated = "2026-09-30"
+updated = "2026-02-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

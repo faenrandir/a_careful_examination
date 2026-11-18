@@ -1,7 +1,7 @@
 +++
 title = "The world's view of happiness"
 path = "/the-worlds-view-of-happiness/"
-updated = "2026-09-30"
+updated = "2022-10-20"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Spencer W. Kimball on the effects of Excommunication"
 path = "/spencer-w-kimball-on-effects-of-excommunication/"
-updated = "2026-09-30"
+updated = "2020-08-30"
 [taxonomies]
 categories = [
     "other",

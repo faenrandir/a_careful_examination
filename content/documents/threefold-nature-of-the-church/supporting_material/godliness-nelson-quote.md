@@ -1,7 +1,7 @@
 +++
 title = "Example of totalistic attitude: accomplishments only important if building kingdom"
 path = "/accomplishments-only-important-if-building-kingdom/"
-updated = "2026-09-30"
+updated = "2018-05-18"
 [taxonomies]
 categories = [
     "other",

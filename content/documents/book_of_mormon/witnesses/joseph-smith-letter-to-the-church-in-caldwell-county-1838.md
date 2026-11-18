@@ -1,7 +1,7 @@
 +++
 title = "Excerpt from Letter to the Church in Caldwell County regarding the Three Witnesses"
 path = "/excerpt-from-letter-to-caldwell-county-re-three-witnesses/"
-updated = "2026-09-30"
+updated = "2020-03-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

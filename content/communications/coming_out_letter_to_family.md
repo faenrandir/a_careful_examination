@@ -1,7 +1,7 @@
 +++
 title = "Faith transition coming out letter to family"
 path = "/faith-transition-coming-out-letter/"
-updated = "2026-09-30"
+updated = "2017-11-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Apparent contradiction in Joseph Smith's account of considering all sects wrong"
 path = "/apparent-contradiction-all-sects-wrong/"
-updated = "2026-09-30"
+updated = "2021-02-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

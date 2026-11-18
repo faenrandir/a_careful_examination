@@ -1,7 +1,7 @@
 +++
 title = "Primary resources on the Priesthood/Temple Ban"
 path = "/primary-resources-on-the-priesthood-ban/"
-updated = "2026-09-30"
+updated = "2021-06-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

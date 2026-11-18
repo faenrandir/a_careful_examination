@@ -1,7 +1,7 @@
 +++
 title = "When was 'repair' removed from Alma 39:13?"
 path = "/when-was-repair-removed-from-alma-39-13/"
-updated = "2026-09-30"
+updated = "2018-09-15"
 [taxonomies]
 categories = [
     "other",

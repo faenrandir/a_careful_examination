@@ -1,7 +1,7 @@
 +++
 title = "The premortal existence in pre-1830's thought"
 path = "/premortal-existence-pre-1830s/"
-updated = "2026-09-30"
+updated = "2020-06-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",

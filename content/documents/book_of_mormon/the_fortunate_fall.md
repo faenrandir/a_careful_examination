@@ -1,7 +1,7 @@
 +++
 title = "Pre-1830 teachings of felix culpa (fortunate fall)"
 path = "/pre-1830-felix-cupa-fortunate-fall/"
-updated = "2026-09-30"
+updated = "2022-08-31"
 [taxonomies]
 categories = [
     "doctrine-teachings",

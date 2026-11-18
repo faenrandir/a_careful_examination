@@ -1,7 +1,7 @@
 +++
 title = "1825 Anti-theist rhetoric: “A Second Call to Unbelievers”"
 path = "/a-second-call-to-unbelievers-1825/"
-updated = "2026-09-30"
+updated = "2023-01-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

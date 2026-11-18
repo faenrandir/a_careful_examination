@@ -1,7 +1,7 @@
 +++
 title = "Simple 14 word test for prophetic ability"
 path = "/simple-test-for-prophetic-ability/"
-updated = "2026-09-30"
+updated = "2020-12-19"
 [taxonomies]
 categories = [
     "other",

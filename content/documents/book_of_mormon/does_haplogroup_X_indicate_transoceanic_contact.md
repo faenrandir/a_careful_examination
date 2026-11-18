@@ -1,7 +1,7 @@
 +++
 title = "Excerpt: Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation"
 path = "/bolnick-excerpt-mitochondrial-haplogroup-x-trans-atlantic-migration/"
-updated = "2026-09-30"
+updated = "2019-01-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

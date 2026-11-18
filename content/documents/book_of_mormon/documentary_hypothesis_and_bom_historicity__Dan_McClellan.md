@@ -1,7 +1,7 @@
 +++
 title = "Dan McClellan on the documentary hypothesis and Book of Mormon historicity"
 path = "/dan-mcclellan-documentary-hypothesis-and-bom-historicity/"
-updated = "2026-09-30"
+updated = "2021-09-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

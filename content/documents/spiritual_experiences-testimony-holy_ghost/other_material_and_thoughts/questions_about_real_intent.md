@@ -1,7 +1,7 @@
 +++
 title = "5 Questions about spiritual experiences and real intent"
 path = "/5-questions-about-spiritual-experiences-and-real-intent/"
-updated = "2026-09-30"
+updated = "2018-09-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

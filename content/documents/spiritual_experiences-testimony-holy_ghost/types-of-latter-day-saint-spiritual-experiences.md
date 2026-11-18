@@ -1,7 +1,7 @@
 +++
 title = "Types of Latter-day Saint Spiritual Experiences"
 path = "/types-of-lds-spiritual-experiences-uplift/"
-updated = "2026-09-30"
+updated = "2020-06-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Caricature or Critic? Rethinking Korihor as a Proxy for Modern Naturalism"
 path = "/korihor-and-modern-naturalism/"
-updated = "2026-09-30"
+updated = "2026-02-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

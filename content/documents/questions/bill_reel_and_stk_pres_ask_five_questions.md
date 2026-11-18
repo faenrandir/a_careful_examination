@@ -1,7 +1,7 @@
 +++
 title = "Bill Reel and Stake President ask five questions to LDS leadership"
 path = "/bill-reel-stk-pes-ask-five-questions/"
-updated = "2026-09-30"
+updated = "2019-03-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

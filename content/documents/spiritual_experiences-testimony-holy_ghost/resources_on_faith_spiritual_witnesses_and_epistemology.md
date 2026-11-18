@@ -1,7 +1,7 @@
 +++
 title = "Resources on faith, spiritual witnesses, and epistemology"
 path = "/resources-on-faith-spiritual-witnesses-and-epistemology/"
-updated = "2026-09-30"
+updated = "2024-12-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Conference Minutes from April 6, 1842"
 path = "/times-and-seasons-apr-15-1842-conference-minutes/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

@@ -4,7 +4,7 @@ path = "/the-wholehearted-parenting-manifesto/"
 categories = [
     "My beliefs",
 ]
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "other",

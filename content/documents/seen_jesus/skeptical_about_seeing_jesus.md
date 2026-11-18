@@ -1,7 +1,7 @@
 +++
 title = "Why be skeptical of reports of LDS Apostles seeing Jesus?"
 path = "/why-be-skeptical-of-reports-of-lds-apostles-seeing-jesus/"
-updated = "2026-09-30"
+updated = "2020-06-02"
 [taxonomies]
 categories = [
     "other",

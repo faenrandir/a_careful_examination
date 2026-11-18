@@ -1,7 +1,7 @@
 +++
 title = "Lucy Walker 1888 autobiography in Reminiscences of Latter-day Saints"
 path = "/lucy-walker-1888-autobiography-in-reminiscences/"
-updated = "2026-09-30"
+updated = "2018-09-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

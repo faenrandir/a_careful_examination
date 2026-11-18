@@ -1,7 +1,7 @@
 +++
 title = "Example of invasive interview: facebook stalking"
 path = "/example-of-invasive-interview-facebook-stalking/"
-updated = "2026-09-30"
+updated = "2017-05-29"
 [taxonomies]
 categories = [
     "other",

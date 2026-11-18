@@ -1,7 +1,7 @@
 +++
 title = "Chronology of my views on evolution and LDS doctrine"
 path = "/chronology-of-my-views-on-evolution-and-lds-doctrine/"
-updated = "2026-09-30"
+updated = "2024-02-12"
 [taxonomies]
 categories = [
     "other",

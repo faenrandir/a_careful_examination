@@ -1,7 +1,7 @@
 +++
 title = "The Church does not apologize"
 path = "/the-church-does-not-apologize/"
-updated = "2026-09-30"
+updated = "2024-03-07"
 [taxonomies]
 categories = [
     "other",

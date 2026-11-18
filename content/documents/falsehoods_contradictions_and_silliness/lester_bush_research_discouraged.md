@@ -1,7 +1,7 @@
 +++
 title = "Lester Bush's research on the priesthood/temple ban was discouraged"
 path = "/lester-bush-research-on-priesthood-ban-discouraged/"
-updated = "2026-09-30"
+updated = "2021-12-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

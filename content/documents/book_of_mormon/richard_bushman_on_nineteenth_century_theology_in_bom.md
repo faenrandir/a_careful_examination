@@ -1,7 +1,7 @@
 +++
 title = "Richard Bushman on 19th century phrasing and theology in the Book of Mormon"
 path = "/bushman-on-19th-century-phrasing-and-theology-in-the-book-of-mormon/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

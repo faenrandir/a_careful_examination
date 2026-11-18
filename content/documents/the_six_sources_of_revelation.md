@@ -1,7 +1,7 @@
 +++
 title = "The 6 Sources of Revelation"
 path = "/six-sources-of-revelation/"
-updated = "2026-09-30"
+updated = "2022-05-20"
 [taxonomies]
 categories = [
     "other",

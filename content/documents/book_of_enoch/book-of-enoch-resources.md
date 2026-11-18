@@ -1,7 +1,7 @@
 +++
 title = "Resources on the Book of Enoch"
 path = "/resources-on-the-book-of-enoch/"
-updated = "2026-10-01"
+updated = "2025-03-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

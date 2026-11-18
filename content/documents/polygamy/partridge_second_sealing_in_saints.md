@@ -1,7 +1,7 @@
 +++
 title = "Saints Volume 1: The Partridge Sisters' second sealing to Joseph Smith"
 path = "/saints-v1-partridge-sisters-second-sealing/"
-updated = "2026-09-30"
+updated = "2026-03-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

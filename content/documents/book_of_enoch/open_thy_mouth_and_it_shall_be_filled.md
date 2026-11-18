@@ -1,7 +1,7 @@
 +++
 title = "Open thy mouth, and it shall be filled"
 path = "/book-of-enoch-open-thy-mouth-and-it-shall-be-filled/"
-updated = "2026-10-01"
+updated = "2019-03-08"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Response to claim that all originate with Brodie, pt 2, assumptions"
 path = "/response-to-facebook-claim-all-originate-with-brodie-pt2-assumptions/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

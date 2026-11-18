@@ -1,7 +1,7 @@
 +++
 title = "Brian Hauglid argues against missing papyri theory: 'They were working off of the papryri that we actually have in the Church today"
 path = "/hauglid-against-missing-papyri-theory/"
-updated = "2026-10-01"
+updated = "2021-11-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

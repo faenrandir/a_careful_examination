@@ -1,7 +1,7 @@
 +++
 title = "Hyrum Smith attended Moor's Indian Charity School"
 path = "/hyrum-attended-moor-school/"
-updated = "2026-09-30"
+updated = "2024-10-23"
 [taxonomies]
 categories = [
     "other",

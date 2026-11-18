@@ -1,7 +1,7 @@
 +++
 title = "What would it take for you to believe in God again?"
 path = "/what-would-it-take-to-believe-in-God-again/"
-updated = "2026-09-30"
+updated = "2019-03-08"
 [taxonomies]
 categories = [
     "other",

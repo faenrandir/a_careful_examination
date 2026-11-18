@@ -1,7 +1,7 @@
 +++
 title = "Resources on the Family Proclamation"
 path = "/resources-on-the-family-proclamation/"
-updated = "2026-09-30"
+updated = "2020-09-24"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Early LDS testimony may be unreliable"
 path = "/early-lds-testimony-may-be-unreliable/"
-updated = "2026-09-30"
+updated = "2018-08-28"
 [taxonomies]
 categories = [
     "other",

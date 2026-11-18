@@ -1,7 +1,7 @@
 +++
 title = "Any Opposed took the minimal action necessary"
 path = "/any-opposed-minimal-action-necessary/"
-updated = "2026-09-30"
+updated = "2017-01-05"
 [taxonomies]
 categories = [
     "other",

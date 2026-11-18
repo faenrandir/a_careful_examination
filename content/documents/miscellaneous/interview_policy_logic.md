@@ -1,7 +1,7 @@
 +++
 title = "The logic of our family interview policy"
 path = "/logic-family-interview-policy/"
-updated = "2026-09-30"
+updated = "2018-11-04"
 [taxonomies]
 categories = [
     "other",

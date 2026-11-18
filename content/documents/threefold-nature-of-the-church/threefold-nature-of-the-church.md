@@ -1,7 +1,7 @@
 +++
 title = "The three-fold nature of the LDS Church: corporate, totalistic, and individual-growth"
 path = "/three-fold-nature-lds-church-corporate-totalistic-individual-growth/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [extra]
 featuredimage = "/media/australia-1040062_960_720.jpg"
 type = "resource"

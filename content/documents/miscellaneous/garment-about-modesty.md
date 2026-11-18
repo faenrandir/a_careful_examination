@@ -1,7 +1,7 @@
 +++
 title = "The LDS garment and modesty"
 path = "/garments-and-modesty/"
-updated = "2026-09-30"
+updated = "2025-04-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

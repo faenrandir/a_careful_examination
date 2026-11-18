@@ -1,7 +1,7 @@
 +++
 title = "The Flood as the Earth's Baptism: origin in LDS thought"
 path = "/flood-as-baptism-origin-in-LDS-thought/"
-updated = "2026-09-30"
+updated = "2022-01-25"
 [taxonomies]
 categories = [
     "other",

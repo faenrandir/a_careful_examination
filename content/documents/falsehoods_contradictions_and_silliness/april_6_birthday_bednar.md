@@ -1,7 +1,7 @@
 +++
 title = "Elder Bednar and the April 6th Birthday of Jesus"
 path = "/bednar-april6-birthday-of-jesus/"
-updated = "2026-09-30"
+updated = "2021-12-30"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Infallibility"
 path = "/infallability/"
-updated = "2026-09-30"
+updated = "2024-09-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

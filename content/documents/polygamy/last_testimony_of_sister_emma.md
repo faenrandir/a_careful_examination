@@ -1,7 +1,7 @@
 +++
 title = "Last Testimony of Sister Emma"
 path = "/last-testimony-of-sister-emma/"
-updated = "2026-09-30"
+updated = "2018-10-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

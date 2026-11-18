@@ -1,7 +1,7 @@
 +++
 title = "Brigham discusses honesty in women during Q12 meeting"
 path = "/brigham-young-q12-minutes-1847-12-09/"
-updated = "2026-09-30"
+updated = "2020-08-25"
 [taxonomies]
 categories = [
     "other",

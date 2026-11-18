@@ -1,7 +1,7 @@
 +++
 title = "Example Letter from Grandma: 'so much you could accomplish for good"
 path = "/example-letter-from-grandma-so-much-could-accomplish-for-good/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

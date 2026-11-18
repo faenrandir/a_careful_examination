@@ -1,7 +1,7 @@
 +++
 title = "Kyle S. McKay letter excerpt on spiritual experiences"
 path = "/kyle-s-mckay-letter-excerpt-on-spiritual-experiences/"
-updated = "2026-09-30"
+updated = "2023-06-11"
 [taxonomies]
 categories = [
     "other",

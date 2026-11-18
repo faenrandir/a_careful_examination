@@ -4,7 +4,7 @@ path = "/light-bulb-and-difference-between-faith-and-knowledge/"
 categories = [
     "Beliefs",
 ]
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "other",

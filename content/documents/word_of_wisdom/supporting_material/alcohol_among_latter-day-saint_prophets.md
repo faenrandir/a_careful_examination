@@ -1,7 +1,7 @@
 +++
 title = "Alcohol usage among Latter-day Saint Prophets"
 path = "/alcohol-usage-of-lds-prophets/"
-updated = "2026-09-30"
+updated = "2016-12-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

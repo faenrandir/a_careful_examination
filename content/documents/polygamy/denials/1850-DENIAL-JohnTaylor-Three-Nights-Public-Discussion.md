@@ -1,7 +1,7 @@
 +++
 title = "Three Nights' Public Discussion: John Taylor "
 path = "/three-nights-public-discussion-john-taylor-polygamy-denial/"
-updated = "2026-09-30"
+updated = "2019-01-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

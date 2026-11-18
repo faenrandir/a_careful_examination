@@ -1,7 +1,7 @@
 +++
 title = "On Marriage - 1842 Times and Seasons vol 3, no 23"
 path = "/on-marriage-1842-times-and-seasons/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

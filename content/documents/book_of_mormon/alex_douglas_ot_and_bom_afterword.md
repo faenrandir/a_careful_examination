@@ -1,7 +1,7 @@
 +++
 title = "Alex Douglas “Afterword: The Old Testament and the Book of Mormon”"
 path = "/alex-douglas-afterword-ot-and-bom/"
-updated = "2026-09-30"
+updated = "2024-10-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

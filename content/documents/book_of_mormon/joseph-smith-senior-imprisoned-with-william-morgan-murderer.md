@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith Sr. jailed with Eli Bruce, apparent murderer of William Morgan"
 path = "/joseph-smith-sr-jailed-with-eli-bruce-murderer-william-morgan/"
-updated = "2026-09-30"
+updated = "2020-10-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

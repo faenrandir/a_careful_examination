@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith's polygamy and current LDS principles of marriage and honesty"
 path = "/joseph-smith-polygamy-lds-marriage-and-honesty/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

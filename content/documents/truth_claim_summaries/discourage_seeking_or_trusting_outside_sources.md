@@ -1,7 +1,7 @@
 +++
 title = "Examples to avoid or discourage consulting unapproved sources"
 path = "/examples-discouraging-unapproved-sources/"
-updated = "2026-09-30"
+updated = "2023-08-01"
 [taxonomies]
 categories = [
     "other",

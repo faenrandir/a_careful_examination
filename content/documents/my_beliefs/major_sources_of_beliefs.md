@@ -1,7 +1,7 @@
 +++
 title = "Major sources of beliefs, light and knowledge"
 path = "/sources-of-beliefs-light-knowledge/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Irene Bates patriarchal blessing theme table"
 path = "/irene-bates-patriarchal-blessing-theme-table/"
-updated = "2026-09-30"
+updated = "2017-08-03"
 [taxonomies]
 categories = [
     "other",

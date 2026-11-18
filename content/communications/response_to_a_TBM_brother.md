@@ -1,7 +1,7 @@
 +++
 title = "Response to a brother's list of why church is true"
 path = "/response-to-a-brothers-list-of-why-church-true/"
-updated = "2026-09-30"
+updated = "2022-11-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

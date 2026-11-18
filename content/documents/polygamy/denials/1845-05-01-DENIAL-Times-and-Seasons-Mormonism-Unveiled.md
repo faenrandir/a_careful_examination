@@ -1,7 +1,7 @@
 +++
 title = "Time and Seasons May 1, 1845 'Mormonism Unveiled"
 path = "/times-and-seasons-may-1-1845-mormonism-unveiled/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

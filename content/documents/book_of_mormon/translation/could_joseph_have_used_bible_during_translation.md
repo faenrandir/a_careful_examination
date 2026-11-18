@@ -1,7 +1,7 @@
 +++
 title = "Could Joseph Smith have used the Bible during the dictation process?"
 path = "/could-js-used-bible-during-dictation/"
-updated = "2026-09-30"
+updated = "2023-09-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

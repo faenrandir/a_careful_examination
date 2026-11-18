@@ -1,7 +1,7 @@
 +++
 title = "Lucy Harris's Testimony"
 path = "/lucy-harris-testimony-mormonism-unvailed/"
-updated = "2026-09-30"
+updated = "2020-03-18"
 [taxonomies]
 categories = [
     "other",

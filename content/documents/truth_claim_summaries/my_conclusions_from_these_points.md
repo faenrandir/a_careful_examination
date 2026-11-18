@@ -1,7 +1,7 @@
 +++
 title = "Five Key Facts: my conclusions"
 path = "/five-key-facts-my-conclusions/"
-updated = "2026-09-30"
+updated = "2023-06-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

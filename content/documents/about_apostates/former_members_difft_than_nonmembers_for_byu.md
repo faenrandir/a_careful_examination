@@ -1,7 +1,7 @@
 +++
 title = "Former members treated differently than members at BYU"
 path = "/former-members-treated-differently-than-members-at-byu/"
-updated = "2026-09-30"
+updated = "2017-05-14"
 [taxonomies]
 categories = [
     "other",

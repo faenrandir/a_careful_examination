@@ -1,7 +1,7 @@
 +++
 title = "Lamport on homeophathic automobile repair shops"
 path = "/lamport-on-homeophathic-automobile-repair/"
-updated = "2026-09-30"
+updated = "2017-10-17"
 [taxonomies]
 categories = [
     "other",

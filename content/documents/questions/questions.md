@@ -1,7 +1,7 @@
 +++
 title = "Questions to Ask"
 path = "/questions-to-ask/"
-updated = "2026-09-30"
+updated = "2026-08-10"
 [extra]
 featuredimage = "/media/Dunnottar_castle.jpg"
 type = "resource"

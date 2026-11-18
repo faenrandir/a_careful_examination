@@ -1,7 +1,7 @@
 +++
 title = "Solomon Spaulding 'Manuscript Found' box excerpt"
 path = "/solomon-spaulding-manuscript-found-box-excerpt/"
-updated = "2026-09-30"
+updated = "2018-12-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",

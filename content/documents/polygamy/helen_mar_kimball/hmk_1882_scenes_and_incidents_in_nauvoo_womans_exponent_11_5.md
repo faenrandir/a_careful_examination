@@ -1,7 +1,7 @@
 +++
 title = "Helen Mar Kimball Whitney 1882 Woman's Exponent"
 path = "/helen-mar-kimball-whitney-1882-womans-exponent-11-5/"
-updated = "2026-09-30"
+updated = "2021-10-21"
 [taxonomies]
 categories = [
     "other",

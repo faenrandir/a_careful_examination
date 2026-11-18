@@ -1,7 +1,7 @@
 +++
 title = "Recent LDS Scholar observations favoring a modern origin for the Book of Mormon"
 path = "/lds-scholars-modern-origin-evidence/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

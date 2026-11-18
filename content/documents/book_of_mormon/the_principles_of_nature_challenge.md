@@ -1,7 +1,7 @@
 +++
 title = "“The Principles of Nature” Challenge"
 path = "/the-principles-of-nature-challenge/"
-updated = "2026-09-30"
+updated = "2020-12-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

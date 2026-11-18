@@ -1,7 +1,7 @@
 +++
 title = "\"A Different Way of Knowing\": The uses of irrationality ... and its limitations"
 path = "/different-way-of-knowing-uses-limitations-irrationality/"
-updated = "2026-09-30"
+updated = "2019-02-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

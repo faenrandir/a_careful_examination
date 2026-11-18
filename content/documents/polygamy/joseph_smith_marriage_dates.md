@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith's Marriage/Sealing Dates"
 path = "/joseph-smith-marriage-sealing-dates/"
-updated = "2026-09-30"
+updated = "2021-11-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

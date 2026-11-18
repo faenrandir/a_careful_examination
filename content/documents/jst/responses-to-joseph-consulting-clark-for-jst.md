@@ -1,7 +1,7 @@
 +++
 title = "Responses to Joseph Smith relying on Clarke for JST"
 path = "/responses-to-js-relying-on-clarke-for-jst/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

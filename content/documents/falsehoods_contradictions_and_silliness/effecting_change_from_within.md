@@ -1,7 +1,7 @@
 +++
 title = "Effecting change from within the LDS Church -- is it really possible?"
 path = "/effecting-change-from-within-short-analysis-2017/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

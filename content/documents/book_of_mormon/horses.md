@@ -1,7 +1,7 @@
 +++
 title = "A short critique of pre-Columbian horses as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-horses-bom/"
-updated = "2026-09-30"
+updated = "2026-09-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

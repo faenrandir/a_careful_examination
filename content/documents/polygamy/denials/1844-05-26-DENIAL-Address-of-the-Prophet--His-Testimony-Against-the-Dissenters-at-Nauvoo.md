@@ -1,7 +1,7 @@
 +++
 title = "Address of the Prophet: His Testimony Against the Dissenters at Nauvoo."
 path = "/joseph-smith-testimony-against-dissenters-at-nauvoo/"
-updated = "2026-09-30"
+updated = "2025-11-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Indicators of my dedication and spiritual development"
 path = "/indicators-of-dedication-and-spiritual-development/"
-updated = "2026-09-30"
+updated = "2023-04-26"
 [taxonomies]
 categories = [
     "doctrine-teachings",

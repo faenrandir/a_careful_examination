@@ -1,7 +1,7 @@
 +++
 title = "No-fail responses to critical comments"
 path = "/no-fail-responses-to-critical-comments/"
-updated = "2026-09-30"
+updated = "2018-11-12"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "The BOM is true because it was written so quickly - VS - The Quran is true because it took so long to write"
 path = "/bom-written-quickly-vs-quran-took-so-long/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

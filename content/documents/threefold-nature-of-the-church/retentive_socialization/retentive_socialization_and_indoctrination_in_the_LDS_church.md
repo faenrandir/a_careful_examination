@@ -1,7 +1,7 @@
 +++
 title = "LDS Retentive Socialization"
 path = "/lds-indoctrination-and-retentive-socialization/"
-updated = "2026-09-30"
+updated = "2025-03-26"
 [extra]
 featuredimage = "/media/Childe_Hassam-Boston_Common_at_Twilight.jpg"
 type = "resource"

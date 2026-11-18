@@ -1,7 +1,7 @@
 +++
 title = "Test for disembodied consciousness"
 path = "/test-for-disembodied-consciousness/"
-updated = "2026-09-30"
+updated = "2020-07-19"
 [taxonomies]
 categories = [
     "other",

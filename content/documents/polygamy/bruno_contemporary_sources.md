@@ -1,7 +1,7 @@
 +++
 title = "Cheryl L. Bruno: Contemporary Sources for Joseph Smith Polygamy"
 path = "/bruno-contemporary-sources-for-js-polygamy/"
-updated = "2026-09-30"
+updated = "2026-08-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

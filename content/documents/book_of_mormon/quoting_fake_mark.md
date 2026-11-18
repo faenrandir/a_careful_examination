@@ -1,7 +1,7 @@
 +++
 title = "Moroni quotes sections of Mark that are of dubious origin"
 path = "/moroni-quotes-sections-of-mark-dubious-origin/"
-updated = "2026-09-30"
+updated = "2024-03-23"
 [extra]
 featuredimage = "/media/800px-Sanapolinclasse05.jpg"
 type = "resource"

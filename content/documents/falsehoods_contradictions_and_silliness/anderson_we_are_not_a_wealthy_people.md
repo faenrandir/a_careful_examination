@@ -1,7 +1,7 @@
 +++
 title = "We are not a wealthy people"
 path = "/we-are-not-a-wealthy-people/"
-updated = "2026-09-30"
+updated = "2020-08-25"
 [taxonomies]
 categories = [
     "other",

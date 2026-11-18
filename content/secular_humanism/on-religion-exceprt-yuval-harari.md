@@ -1,7 +1,7 @@
 +++
 title = "Excerpt from 21 Lessons for the 21st Century by Yuval Harari: On Religion"
 path = "/excerpt-from-21-lessons-on-religion/"
-updated = "2026-09-30"
+updated = "2019-05-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

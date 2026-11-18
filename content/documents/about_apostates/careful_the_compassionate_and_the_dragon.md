@@ -1,7 +1,7 @@
 +++
 title = "Careful the Compassionate and the Dragon over the Mountain"
 path = "/careful-the-compassionate-and-the-dragon-over-the-mountain/"
-updated = "2026-09-30"
+updated = "2018-10-15"
 [extra]
 featuredimage = "/media/driftwood-dragon-sculptures-james-doran-webb-4.jpg"
 type = "resource"

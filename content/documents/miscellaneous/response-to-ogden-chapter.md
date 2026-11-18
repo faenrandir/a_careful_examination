@@ -1,7 +1,7 @@
 +++
 title = "A Critical Review of T. Heath Ogden’s Chapter ‘Accepting Evolution with Joy Is Possible’"
 path = "/review-of-ogdens-chapter-accepting-evolution-with-joy/"
-updated = "2026-09-30"
+updated = "2025-04-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

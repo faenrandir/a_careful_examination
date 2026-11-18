@@ -1,7 +1,7 @@
 +++
 title = "Response to representations of former members in the April 2020 General Conference"
 path = "/response-to-april-2020-general-conference/"
-updated = "2026-09-30"
+updated = "2020-05-06"
 [taxonomies]
 categories = [
     "other",

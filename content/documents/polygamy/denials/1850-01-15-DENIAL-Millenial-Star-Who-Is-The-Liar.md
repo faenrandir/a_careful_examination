@@ -1,7 +1,7 @@
 +++
 title = "Millenial Star - Who is the Liar?"
 path = "/millenial-star-1850-who-is-the-liar/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

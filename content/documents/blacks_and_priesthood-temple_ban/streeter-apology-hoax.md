@@ -1,7 +1,7 @@
 +++
 title = "Jonathon Streeter's racism apology Mormon Newsroom hoax"
 path = "/streeters-racism-apology-mormon-newsroom-hoax/"
-updated = "2026-09-30"
+updated = "2022-01-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

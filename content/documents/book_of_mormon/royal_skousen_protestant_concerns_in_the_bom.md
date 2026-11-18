@@ -1,7 +1,7 @@
 +++
 title = "Royal Skousen: Protestant concerns in the Book of Mormon"
 path = "/skousen-protestant-concerns-in-bom/"
-updated = "2026-09-30"
+updated = "2020-11-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

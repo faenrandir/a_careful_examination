@@ -1,7 +1,7 @@
 +++
 title = "Royal Skousen: Is the Book of Mormon English translation a literal translation of what was on the plates?"
 path = "/skousen-literal-translation-of-the-plates/"
-updated = "2026-09-30"
+updated = "2020-11-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

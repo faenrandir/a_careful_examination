@@ -1,7 +1,7 @@
 +++
 title = "1838 Danite Manifesto"
 path = "/1838-danite-manifesto/"
-updated = "2026-09-30"
+updated = "2020-03-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

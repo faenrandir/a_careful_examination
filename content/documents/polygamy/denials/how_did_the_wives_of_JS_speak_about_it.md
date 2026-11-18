@@ -1,7 +1,7 @@
 +++
 title = "How did Joseph Smith's wives refer to their unions?"
 path = "/how-did-js-wives-refer-to-unions/"
-updated = "2026-09-30"
+updated = "2024-01-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

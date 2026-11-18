@@ -1,7 +1,7 @@
 +++
 title = "Models for the creation of the Book of Mormon"
 path = "/two-models-for-bom-origins/"
-updated = "2026-09-30"
+updated = "2021-06-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

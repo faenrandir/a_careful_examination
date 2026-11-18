@@ -1,7 +1,7 @@
 +++
 title = "Response to Stephen Smoot's believing women article"
 path = "/response-to-smoot-believing-women/"
-updated = "2026-09-30"
+updated = "2020-08-25"
 [taxonomies]
 categories = [
     "doctrine-teachings",

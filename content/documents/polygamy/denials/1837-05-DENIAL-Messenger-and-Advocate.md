@@ -1,7 +1,7 @@
 +++
 title = "1837. Messenger and Advocate, vol. 3, no. 8"
 path = "/messenger-and-advocate-1837-vol3no8/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

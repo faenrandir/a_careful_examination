@@ -1,7 +1,7 @@
 +++
 title = "Charles Anthon's Proper Names and the Book of Mormon"
 path = "/charles-anthon-proper-names-and-the-bom/"
-updated = "2026-09-30"
+updated = "2020-02-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

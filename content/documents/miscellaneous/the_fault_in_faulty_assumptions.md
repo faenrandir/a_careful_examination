@@ -1,7 +1,7 @@
 +++
 title = "The Fault in Faulty Assumptions"
 path = "/the-fault-in-faulty-assumptions/"
-updated = "2026-09-30"
+updated = "2018-12-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

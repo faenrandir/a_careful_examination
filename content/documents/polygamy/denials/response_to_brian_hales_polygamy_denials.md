@@ -1,7 +1,7 @@
 +++
 title = "A Critique of Joseph Smith's Polygamy: 'Thou Shalt not Lie' and Denials of Polygamy"
 path = "/critique-of-hales-thou-shalt-not-lie-denials-of-polygamy/"
-updated = "2026-09-30"
+updated = "2018-09-16"
 [extra]
 featuredimage = "/media/Daniel_Tivart_001.jpg"
 type = "resource"

@@ -1,7 +1,7 @@
 +++
 title = "Elder Bednar: “you don't have to recognize that you are receiving revelation in the moment that you are receiving revelation”"
 path = "/bednar-you-dont-have-to-recognize-receiving-revelation-in-the-moment/"
-updated = "2026-09-30"
+updated = "2022-03-12"
 [taxonomies]
 categories = [
     "other",

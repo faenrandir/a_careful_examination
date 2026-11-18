@@ -1,7 +1,7 @@
 +++
 title = "Summarizing the best arguments against chiasmus as evidence of ancientness"
 path = "/best-arguments-against-chiasmus-as-evidence-of-ancientness/"
-updated = "2026-09-30"
+updated = "2024-01-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

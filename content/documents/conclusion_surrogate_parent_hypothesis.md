@@ -1,7 +1,7 @@
 +++
 title = "Conclusion: God and the LDS Church as surrogate parent"
 path = "/conclusion-surrogate-parent-hypothesis/"
-updated = "2026-09-30"
+updated = "2022-11-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

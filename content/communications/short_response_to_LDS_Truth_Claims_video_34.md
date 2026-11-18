@@ -1,7 +1,7 @@
 +++
 title = "Short response to LDS Truth Claims video #34"
 path = "/response-to-lds-truth-claims-video-34/"
-updated = "2026-09-30"
+updated = "2025-12-12"
 [taxonomies]
 categories = [
     "other",

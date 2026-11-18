@@ -1,7 +1,7 @@
 +++
 title = "Analysis of Olishem as evidence for the antiquity of the Book of Abraham"
 path = "/olishem-as-evidence-for-boa/"
-updated = "2026-10-01"
+updated = "2021-06-16"
 [taxonomies]
 categories = [
     "other",

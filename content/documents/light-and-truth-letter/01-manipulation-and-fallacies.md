@@ -1,7 +1,7 @@
 +++
 title = "Light and Truth Response pt 1: Manipulation and Fallacies"
 path = "/response-to-light-and-truth-letter-manipulation-and-fallacies/"
-updated = "2026-09-30"
+updated = "2025-03-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

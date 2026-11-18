@@ -1,7 +1,7 @@
 +++
 title = "The first part of the Book of Mormon was likely produced in an upstairs room of Peter Whitmer’s home"
 path = "/first-part-bom-upstairs-peter-whitmer-home/"
-updated = "2026-09-30"
+updated = "2023-09-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

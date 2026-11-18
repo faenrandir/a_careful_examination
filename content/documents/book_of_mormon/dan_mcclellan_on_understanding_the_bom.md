@@ -1,7 +1,7 @@
 +++
 title = "Dan McClellan on better understanding the Book of Mormon by studying the 19th century literature"
 path = "/dan-mcclellan-better-understand-bom-study-19th-century/"
-updated = "2026-09-30"
+updated = "2022-01-05"
 [taxonomies]
 categories = [
     "doctrine-teachings",

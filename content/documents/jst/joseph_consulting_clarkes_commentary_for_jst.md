@@ -1,7 +1,7 @@
 +++
 title = "Joseph was consulting Adam Clarke's Commentary in creation of the JST"
 path = "/joseph-consulting-clarkes-commentary/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

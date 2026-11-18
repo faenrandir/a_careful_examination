@@ -1,7 +1,7 @@
 +++
 title = "What I've taught my older children about LDS truth claims"
 path = "/what-i-taught-older-children-lds-truth-claims/"
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

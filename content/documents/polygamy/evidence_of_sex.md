@@ -1,7 +1,7 @@
 +++
 title = "Evidence of sex within Joseph Smith's polygamy"
 path = "/evidence-of-sex-in-joseph-smith-polygamy/"
-updated = "2026-09-30"
+updated = "2021-06-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

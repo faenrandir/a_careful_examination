@@ -1,7 +1,7 @@
 +++
 title = "Transcript: Narrative of Zosimus"
 path = "/narrative-of-zosimus-transcript/"
-updated = "2026-09-30"
+updated = "2024-09-14"
 [taxonomies]
 categories = [
     "doctrine-teachings",

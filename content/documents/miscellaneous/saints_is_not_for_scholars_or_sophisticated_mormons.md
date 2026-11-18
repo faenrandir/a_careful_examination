@@ -1,7 +1,7 @@
 +++
 title = "Saints is not for scholars or sophisticated Mormons"
 path = "/mason-saints-is-not-for-scholars/"
-updated = "2026-09-30"
+updated = "2018-10-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

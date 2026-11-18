@@ -1,7 +1,7 @@
 +++
 title = "Who is doing the loan shifting?"
 path = "/excerpt-who-is-doing-the-loan-shifting/"
-updated = "2026-09-30"
+updated = "2018-09-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

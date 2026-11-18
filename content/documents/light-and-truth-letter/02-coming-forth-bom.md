@@ -1,7 +1,7 @@
 +++
 title = "Light and Truth Response pt 2: The Coming Forth of the Book of Mormon"
 path = "/response-to-light-and-truth-letter-coming-forth-bom/"
-updated = "2026-09-30"
+updated = "2025-05-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

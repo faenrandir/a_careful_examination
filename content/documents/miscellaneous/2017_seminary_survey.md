@@ -1,7 +1,7 @@
 +++
 title = "2017 Seminary end-of-year survey"
 path = "/seminary-2017-end-of-year-survey/"
-updated = "2026-09-30"
+updated = "2017-05-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

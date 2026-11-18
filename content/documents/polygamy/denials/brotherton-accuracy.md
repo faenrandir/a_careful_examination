@@ -1,7 +1,7 @@
 +++
 title = "Assessing the accuracy of Martha Brotherton's affidavit"
 path = "/assessing-accuracy-brotherton-affidavit/"
-updated = "2026-09-30"
+updated = "2024-10-05"
 [extra]
 featuredimage = "/media/800px-Saints_Innocents_1550_Hoffbauer.jpg"
 type = "resource"

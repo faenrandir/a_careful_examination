@@ -1,7 +1,7 @@
 +++
 title = "A response to Mark S. Palmer's April 2025 General Conference ‘Willow’ talk"
 path = "/response-to-mark-palmer-april-2025-willow-talk/"
-updated = "2026-09-30"
+updated = "2025-04-09"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "President Nelson on “the principle of revelation”: “write the thoughts that come to your mind... record your feelings”"
 path = "/president-nelson-write-the-thoughts-record-your-feelings/"
-updated = "2026-09-30"
+updated = "2022-03-12"
 [taxonomies]
 categories = [
     "other",

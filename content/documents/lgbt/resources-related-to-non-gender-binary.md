@@ -1,7 +1,7 @@
 +++
 title = "Resources related to non gender-binary"
 path = "/resources-related-to-non-gender-binary/"
-updated = "2026-09-30"
+updated = "2026-08-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

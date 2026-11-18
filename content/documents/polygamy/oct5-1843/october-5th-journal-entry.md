@@ -1,7 +1,7 @@
 +++
 title = "The October 5, 1843 Journal Entry"
 path = "/oct-5-1843-journal-entry/"
-updated = "2026-09-30"
+updated = "2025-03-05"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "The translation of [the plates] ... is correct"
 path = "/the-translation-of-the-plates-is-correct/"
-updated = "2026-09-30"
+updated = "2022-07-26"
 [taxonomies]
 categories = [
     "doctrine-teachings",

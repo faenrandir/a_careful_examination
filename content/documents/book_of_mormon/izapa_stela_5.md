@@ -1,7 +1,7 @@
 +++
 title = "Izapa Stela 5 does not support the Book of Mormon"
 path = "/izapa-stela-5-and-bom/"
-updated = "2026-09-30"
+updated = "2018-02-20"
 [taxonomies]
 categories = [
     "doctrine-teachings",

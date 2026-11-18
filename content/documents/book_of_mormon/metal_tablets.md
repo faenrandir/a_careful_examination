@@ -1,7 +1,7 @@
 +++
 title = "A short critique of discovered metal tablets as evidence for the authenticity of the Book of Mormon"
 path = "/short-critique-metal-tablets-as-evidence-for-bom/"
-updated = "2026-09-30"
+updated = "2022-08-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

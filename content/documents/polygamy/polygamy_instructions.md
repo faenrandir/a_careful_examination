@@ -1,7 +1,7 @@
 +++
 title = "Scriptural instructions for practicing polygamy"
 path = "/scriptural-instructions-for-practicing-polygamy/"
-updated = "2026-09-30"
+updated = "2018-02-16"
 [taxonomies]
 categories = [
     "other",

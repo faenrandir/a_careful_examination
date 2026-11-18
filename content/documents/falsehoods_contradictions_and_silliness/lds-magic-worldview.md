@@ -1,7 +1,7 @@
 +++
 title = "Analogy between the LDS and a magic worldview"
 path = "/the-lds-magic-worldview/"
-updated = "2026-09-30"
+updated = "2026-02-05"
 [taxonomies]
 categories = [
     "other",

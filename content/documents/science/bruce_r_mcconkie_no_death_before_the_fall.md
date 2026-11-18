@@ -1,7 +1,7 @@
 +++
 title = "Bruce R. McConkie taught 'No Death Before the Fall"
 path = "/brm-taught-ndbf/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

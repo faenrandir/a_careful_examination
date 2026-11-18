@@ -1,7 +1,7 @@
 +++
 title = "The 1832 First Vision account was suppressed between 11 and ~30 years"
 path = "/1832-first-vision-account-suppressed/"
-updated = "2026-09-30"
+updated = "2022-11-11"
 [extra]
 featuredimage = "/media/1832-first-vision-text.png"
 type = "resource"

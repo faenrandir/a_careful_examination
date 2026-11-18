@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on religious biases"
 path = "/beit-hallahmi-on-religious-biases/"
-updated = "2026-09-30"
+updated = "2021-04-08"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Faith, the conversation stopper"
 path = "/faith-the-conversation-stopper/"
-updated = "2026-09-30"
+updated = "2017-09-24"
 [taxonomies]
 categories = [
     "other",

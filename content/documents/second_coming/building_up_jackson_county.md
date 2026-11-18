@@ -1,7 +1,7 @@
 +++
 title = "Statements on building up Jackson county"
 path = "/statements-on-building-up-jackson-county/"
-updated = "2026-09-30"
+updated = "2022-11-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",

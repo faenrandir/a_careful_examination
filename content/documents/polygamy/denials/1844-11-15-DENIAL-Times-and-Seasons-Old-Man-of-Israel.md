@@ -1,7 +1,7 @@
 +++
 title = "Time and Seasons November 15, 1844 - An Old Man of Israel"
 path = "/times-and-seasons-nov-15-1844-an-old-man-of-israel/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

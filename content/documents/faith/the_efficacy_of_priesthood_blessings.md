@@ -1,7 +1,7 @@
 +++
 title = "The efficacy of LDS Priesthood Blessings"
 path = "/the-efficacy-of-priesthood-blessings/"
-updated = "2026-09-30"
+updated = "2022-11-03"
 [taxonomies]
 categories = [
     "other",

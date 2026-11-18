@@ -1,7 +1,7 @@
 +++
 title = "James E. Talmage's 1916 prediction on records of the Lost Tribes of Israel"
 path = "/talmage-1916-live-to-read-lost-tribes-records/"
-updated = "2026-09-30"
+updated = "2020-05-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

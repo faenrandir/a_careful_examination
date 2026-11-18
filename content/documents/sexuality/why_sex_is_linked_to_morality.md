@@ -1,7 +1,7 @@
 +++
 title = "Why is sex linked to morality?"
 path = "/why-sex-linked-to-morality/"
-updated = "2026-09-30"
+updated = "2024-01-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",

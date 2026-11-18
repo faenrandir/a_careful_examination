@@ -1,7 +1,7 @@
 +++
 title = "Mahijah/Mahujah or Mahujah/Mahujah?"
 path = "/townsend-2019-mahijah-mahujah-excerpt/"
-updated = "2026-10-01"
+updated = "2025-02-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

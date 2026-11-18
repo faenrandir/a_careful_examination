@@ -1,7 +1,7 @@
 +++
 title = "Bushman on magic and treasure digging from friendly sources"
 path = "/bushman-on-magic-and-treasure-digging-friendly-sources/"
-updated = "2026-09-30"
+updated = "2022-12-21"
 [taxonomies]
 categories = [
     "other",

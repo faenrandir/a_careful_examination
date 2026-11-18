@@ -1,7 +1,7 @@
 +++
 title = "Excerpt on Isaiah from Hardy's Reader's Guide"
 path = "/excerpt-on-isaiah-from-hardys-readers-guide/"
-updated = "2026-09-30"
+updated = "2023-06-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

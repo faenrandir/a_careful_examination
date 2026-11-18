@@ -1,7 +1,7 @@
 +++
 title = "Vetting (Potentially) Divine Visitors: An Information-Theoretic and Cognitive Framework"
 path = "/vetting-the-visitors-integration/"
-updated = "2026-09-30"
+updated = "2026-02-23"
 [taxonomies]
 categories = [
     "other",

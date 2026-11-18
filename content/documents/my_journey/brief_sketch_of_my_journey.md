@@ -1,7 +1,7 @@
 +++
 title = "Brief Sketch of Events Surrounding My Resignation"
 path = "/sketch-of-my-faith-journey/"
-updated = "2026-09-30"
+updated = "2022-11-03"
 [extra]
 featuredimage = "/media/mountain-941501_640.jpg"
 type = "resource"

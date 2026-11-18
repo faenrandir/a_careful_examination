@@ -1,7 +1,7 @@
 +++
 title = "Palmyra was rich in books"
 path = "/palmyra-was-rich-in-books/"
-updated = "2026-09-30"
+updated = "2018-06-25"
 [taxonomies]
 categories = [
     "doctrine-teachings",

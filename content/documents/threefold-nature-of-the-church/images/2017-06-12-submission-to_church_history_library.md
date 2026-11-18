@@ -1,7 +1,7 @@
 +++
 title = "Asking: What is the complete list of books held in the the vault?"
 path = "/asking-what-is-the-complete-list-of-books-held-in-the-the-vault/"
-updated = "2026-09-30"
+updated = "2019-12-03"
 [taxonomies]
 categories = [
     "other",

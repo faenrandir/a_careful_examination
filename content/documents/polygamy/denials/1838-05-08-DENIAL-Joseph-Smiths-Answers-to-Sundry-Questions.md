@@ -1,7 +1,7 @@
 +++
 title = "The Prophet's Answers to Sundry Questions"
 path = "/prophets-answers-to-sundry-questions-1838/"
-updated = "2026-09-30"
+updated = "2025-11-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

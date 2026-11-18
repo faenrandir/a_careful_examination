@@ -1,7 +1,7 @@
 +++
 title = "Nelson attributes goodness in Paradise to those believing in God, but most are not religious"
 path = "/nelson-attributes-goodness-in-paradise-to-believers/"
-updated = "2026-09-30"
+updated = "2019-02-19"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Royal Skousen: cultural milieu dates to late 1600s"
 path = "/royal-skousen-cultural-milieu-dates-to-late-1600s/"
-updated = "2026-09-30"
+updated = "2018-09-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

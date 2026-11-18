@@ -1,7 +1,7 @@
 +++
 title = "Human Nature in its Fourfold State compared with Moroni 10:32--33"
 path = "/human-nature-in-its-fourfold-state-compared-with-moroni-10-32-33/"
-updated = "2026-09-30"
+updated = "2019-02-09"
 [taxonomies]
 categories = [
     "other",

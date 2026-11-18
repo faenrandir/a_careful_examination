@@ -1,7 +1,7 @@
 +++
 title = "Comparison of the Book of Mormon and 1769 King James Bible"
 path = "/comparison-table-book-of-mormon-and-bible-verses-origins-project/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

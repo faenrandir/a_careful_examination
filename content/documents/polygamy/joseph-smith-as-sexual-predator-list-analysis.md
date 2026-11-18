@@ -1,7 +1,7 @@
 +++
 title = "The case for Joseph Smith as sexual predator analysis"
 path = "/case-for-joseph-smith-as-sexual-predator-analysis"
-updated = "2026-09-30"
+updated = "2023-08-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

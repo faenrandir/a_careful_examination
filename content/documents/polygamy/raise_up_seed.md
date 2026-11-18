@@ -1,7 +1,7 @@
 +++
 title = "Polygamy for raising up seed?"
 path = "/was-polygamy-to-raise-up-seed/"
-updated = "2026-09-30"
+updated = "2017-12-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

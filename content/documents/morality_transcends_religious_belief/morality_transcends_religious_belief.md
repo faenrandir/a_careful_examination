@@ -1,7 +1,7 @@
 +++
 title = "Morality Transcends Religious Belief"
 path = "/morality-transcends-religious-belief/"
-updated = "2026-09-30"
+updated = "2021-05-03"
 [taxonomies]
 categories = [
     "other",

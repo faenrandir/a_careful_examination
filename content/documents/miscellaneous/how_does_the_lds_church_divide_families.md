@@ -1,7 +1,7 @@
 +++
 title = "How does the LDS Church divide families?"
 path = "/how-does-the-lds-church-divide-families/"
-updated = "2026-09-30"
+updated = "2022-01-17"
 [taxonomies]
 categories = [
     "other",

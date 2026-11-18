@@ -1,7 +1,7 @@
 +++
 title = "Five Key Facts"
 path = "/five-key-facts/"
-updated = "2026-09-30"
+updated = "2025-03-04"
 [extra]
 featuredimage = "/media/old-key-1463663104cis.jpg"
 type = "resource"

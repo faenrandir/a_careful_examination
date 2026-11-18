@@ -1,7 +1,7 @@
 +++
 title = "Response to Brian Hales about Bays and the 1835 statement on marriage"
 path = "/response-to-hales-on-bays-1835/"
-updated = "2026-09-30"
+updated = "2018-09-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

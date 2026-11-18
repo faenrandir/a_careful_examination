@@ -1,7 +1,7 @@
 +++
 title = "Could Joseph have hidden material in his hat to draw upon during the dictation process?"
 path = "/hidden-material-in-hat-hypothesis/"
-updated = "2026-09-30"
+updated = "2022-10-30"
 [extra]
 featuredimage = "/media/anthony-sweat-hat-1024x694.jpg"
 type = "analysis"

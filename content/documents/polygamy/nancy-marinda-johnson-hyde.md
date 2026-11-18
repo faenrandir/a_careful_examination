@@ -1,7 +1,7 @@
 +++
 title = "Notes on Nancy Marinda Johnson Hyde marriage to Joseph Smith"
 path = "/nancy-marinda-johnson-hyde-marriage-to-js/"
-updated = "2026-09-30"
+updated = "2019-08-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

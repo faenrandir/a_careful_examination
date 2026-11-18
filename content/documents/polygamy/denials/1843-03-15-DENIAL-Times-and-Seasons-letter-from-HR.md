@@ -1,7 +1,7 @@
 +++
 title = "Letter to editor from 'H. R.' - Times and Seasons, 15 March 1843"
 path = "/letter-to-ed-from-hr-times-and-seasons-1843/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

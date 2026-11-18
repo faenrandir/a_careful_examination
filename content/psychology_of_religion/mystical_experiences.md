@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on mystical experiences"
 path = "/beit-hallahmi-on-mystical-experiences/"
-updated = "2026-09-30"
+updated = "2017-12-06"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "LDS Church wrong on moral issues of the day"
 path = "/wrong-on-moral-issues-of-the-day/"
-updated = "2026-09-30"
+updated = "2017-12-11"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Chronology: “You can leave but you can't leave it alone”"
 path = "/chronology-cant-leave-it-alone/"
-updated = "2026-09-30"
+updated = "2022-08-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

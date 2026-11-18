@@ -1,7 +1,7 @@
 +++
 title = "Exchange regarding evidence for evolution of humans"
 path = "/evidence-of-humans-r-gary-exchange/"
-updated = "2026-09-30"
+updated = "2022-07-14"
 [taxonomies]
 categories = [
     "doctrine-teachings",

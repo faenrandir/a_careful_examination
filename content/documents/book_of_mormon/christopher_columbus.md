@@ -1,7 +1,7 @@
 +++
 title = "Columbus was mythologized in a popular 1828 biography"
 path = "/columbus-mythologized-in-1828-biography/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

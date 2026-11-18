@@ -1,7 +1,7 @@
 +++
 title = "To peek behind the curtain: the decision to critically investigate LDS truth-claims"
 path = "/to-peek-behind-the-curtain/"
-updated = "2026-09-30"
+updated = "2023-01-30"
 [extra]
 featuredimage = "/media/o-WOMAN-WINDOW-facebook.half_.jpg"
 type = "analysis"

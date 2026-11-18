@@ -1,6 +1,6 @@
 +++
 title = "The LDS Endowment and Freemasonry "
-updated = "2026-09-30"
+updated = "2018-05-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

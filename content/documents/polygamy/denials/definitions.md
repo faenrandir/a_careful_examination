@@ -1,7 +1,7 @@
 +++
 title = "Definitions of terms related to LDS Leaders' Polygamy Denials"
 path = "/definitions-of-terms-polygamy-denials/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

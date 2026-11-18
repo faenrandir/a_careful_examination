@@ -1,7 +1,7 @@
 +++
 title = "Excerpt from 'A Social History of the Nation's Favourite Drink"
 path = "/excerpt-from-social-history-of-tea/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

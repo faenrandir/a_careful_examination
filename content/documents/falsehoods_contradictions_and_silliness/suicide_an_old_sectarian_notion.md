@@ -1,7 +1,7 @@
 +++
 title = "Suicide and hell: an old sectarian notion?"
 path = "/suicide-an-old-sectarian-notion/"
-updated = "2026-09-30"
+updated = "2024-10-07"
 [taxonomies]
 categories = [
     "other",

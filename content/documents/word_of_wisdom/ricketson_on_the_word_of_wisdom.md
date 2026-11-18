@@ -1,7 +1,7 @@
 +++
 title = "Excerpts from “Means of Preserving Health and Preventing Diseases” and the Word of Wisdom"
 path = "/excerpts-from-means-of-preserving-health-and-preventing-diseases-and-wow/"
-updated = "2026-09-30"
+updated = "2022-08-23"
 [taxonomies]
 categories = [
     "doctrine-teachings",

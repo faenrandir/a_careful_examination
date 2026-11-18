@@ -1,7 +1,7 @@
 +++
 title = "Zina Huntington Jacobs Smith Young interview in the Saints' Herald"
 path = "/zina-huntington-interview-saints-herald/"
-updated = "2026-09-30"
+updated = "2021-06-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

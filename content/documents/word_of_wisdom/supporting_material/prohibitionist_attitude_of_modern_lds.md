@@ -1,7 +1,7 @@
 +++
 title = "Current prohibitionist attitude of LDS Church"
 path = "/prohibitionist-attitude-of-modern-lds-church/"
-updated = "2026-09-30"
+updated = "2016-12-24"
 [taxonomies]
 categories = [
     "other",

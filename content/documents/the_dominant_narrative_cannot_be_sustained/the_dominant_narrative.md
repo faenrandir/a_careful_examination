@@ -1,7 +1,7 @@
 +++
 title = "The Dominant Narrative and Apologetic Fallback"
 path = "/the-dominant-narrative/"
-updated = "2026-09-30"
+updated = "2020-12-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

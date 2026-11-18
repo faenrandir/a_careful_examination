@@ -1,7 +1,7 @@
 +++
 title = "Finding Truth: Response to '8 Anti-Mormon Tactics That Satan Uses To Attack The Latter-day Saints"
 path = "/response-to-8-anti-mormon-tactics-gogogoff/"
-updated = "2026-09-30"
+updated = "2023-08-01"
 [taxonomies]
 categories = [
     "other",

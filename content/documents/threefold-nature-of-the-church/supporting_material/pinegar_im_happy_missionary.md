@@ -1,7 +1,7 @@
 +++
 title = "Pinegar deals with unhappy missionary"
 path = "/pinegar-deals-with-unhappy-missionary/"
-updated = "2026-09-30"
+updated = "2017-06-19"
 [taxonomies]
 categories = [
     "other",

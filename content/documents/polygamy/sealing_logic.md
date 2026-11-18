@@ -1,7 +1,7 @@
 +++
 title = "Logic behind the sealing ceremony"
 path = "/logic-behind-the-sealing-ceremony/"
-updated = "2026-09-30"
+updated = "2018-09-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

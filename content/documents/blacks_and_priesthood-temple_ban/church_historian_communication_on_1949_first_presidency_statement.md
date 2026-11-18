@@ -1,7 +1,7 @@
 +++
 title = "August 2020 LDS Church Historian communication on 1949 First Presidency Statement"
 path = "/aug-2020-church-historian-communication-on-1949-first-presidency-statement/"
-updated = "2026-09-30"
+updated = "2020-11-18"
 [taxonomies]
 categories = [
     "other",

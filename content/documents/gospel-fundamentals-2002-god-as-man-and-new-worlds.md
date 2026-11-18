@@ -1,7 +1,7 @@
 +++
 title = "Gospel Fundamentals (2002): Creating New Worlds and God as Once a Man"
 path = "/gospel-fundamentals-2002-god-as-man-and-new-worlds/"
-updated = "2026-09-10"
+updated = "2026-08-05"
 
 [taxonomies]
 categories = [

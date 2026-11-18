@@ -1,7 +1,7 @@
 +++
 title = "Prophecy: Not long until calamities overtake human family"
 path = "/prophecy-calamities-overtake-human-family/"
-updated = "2026-09-30"
+updated = "2019-02-19"
 [taxonomies]
 categories = [
     "other",

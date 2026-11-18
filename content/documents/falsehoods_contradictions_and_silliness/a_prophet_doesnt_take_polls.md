@@ -1,7 +1,7 @@
 +++
 title = "A Prophet doesn't poll to see wind of public opinion"
 path = "/a-prophet-does-not-poll-to-see-wind-of-public-opinion/"
-updated = "2026-09-30"
+updated = "2021-06-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

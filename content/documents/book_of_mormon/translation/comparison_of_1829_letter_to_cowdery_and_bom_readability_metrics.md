@@ -1,5 +1,5 @@
 +++
-updated = "2026-09-30"
+updated = "2020-01-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

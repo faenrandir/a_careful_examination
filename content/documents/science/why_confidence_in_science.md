@@ -1,7 +1,7 @@
 +++
 title = "Why we have confidence in science"
 path = "/why-we-have-confidence-in-science/"
-updated = "2026-09-30"
+updated = "2021-01-28"
 [taxonomies]
 categories = [
     "other",

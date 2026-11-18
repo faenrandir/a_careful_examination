@@ -1,7 +1,7 @@
 +++
 title = "email transcript: “Noah's flood: the case for a faithful LDS interpretation as a local flood”"
 path = "/email-transcript-noahs-flood-case-for-faithful-lds-interpretation/"
-updated = "2026-09-30"
+updated = "2021-03-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",

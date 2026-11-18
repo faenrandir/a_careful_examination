@@ -1,7 +1,7 @@
 +++
 title = "Vetting (potentially) divine visitors"
 path = "/vetting-the-visitors/"
-updated = "2026-09-30"
+updated = "2022-03-29"
 [taxonomies]
 categories = [
     "other",

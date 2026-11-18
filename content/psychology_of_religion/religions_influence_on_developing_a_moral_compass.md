@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on developing a moral compass"
 path = "/beit-hallahmi-on-developing-a-moral-compass/"
-updated = "2026-09-30"
+updated = "2017-10-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

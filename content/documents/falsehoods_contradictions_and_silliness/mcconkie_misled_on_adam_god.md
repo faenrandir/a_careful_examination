@@ -1,7 +1,7 @@
 +++
 title = "Bruce R. McConkie misled in public about the teaching of the Adam God theory"
 path = "/bruce-r-mcconkie-misled-on-adam-god/"
-updated = "2026-09-30"
+updated = "2018-12-04"
 [taxonomies]
 categories = [
     "other",

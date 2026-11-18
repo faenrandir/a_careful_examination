@@ -1,7 +1,7 @@
 +++
 title = "Avoidance: the preferred conflict resolution behavior of Latter-day Saints"
 path = "/avoidance-preferred-conflict-resolution-lds/"
-updated = "2026-09-30"
+updated = "2021-04-06"
 [taxonomies]
 categories = [
     "other",

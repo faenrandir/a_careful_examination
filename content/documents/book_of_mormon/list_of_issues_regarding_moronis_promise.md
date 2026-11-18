@@ -1,7 +1,7 @@
 +++
 title = "Laundry List of Issues Regarding Moroni's Promise"
 path = "/list-of-issues-regarding-moronis-promise/"
-updated = "2026-09-30"
+updated = "2019-07-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

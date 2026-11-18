@@ -1,7 +1,7 @@
 +++
 title = "Why won't God stop Mike Norton?"
 path = "/why-wont-god-stop-mike-norton/"
-updated = "2026-09-30"
+updated = "2018-05-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

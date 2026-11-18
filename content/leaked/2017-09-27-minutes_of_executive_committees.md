@@ -1,7 +1,7 @@
 +++
 title = "Highlights from recently leaked documents (2017)"
 path = "/highlights-from-recently-leaked-documents-2017/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

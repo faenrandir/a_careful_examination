@@ -1,7 +1,7 @@
 +++
 title = "Familiarity with LDS scholarship"
 path = "/familiarity-with-lds-scholarship/"
-updated = "2026-09-30"
+updated = "2020-12-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

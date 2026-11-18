@@ -1,7 +1,7 @@
 +++
 title = "Academic Bibles and where to read them"
 path = "/academic-bibles-and-where-to-read-them/"
-updated = "2026-09-30"
+updated = "2022-07-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

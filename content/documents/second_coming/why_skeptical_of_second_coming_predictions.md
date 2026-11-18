@@ -1,7 +1,7 @@
 +++
 title = "Reasons for skepticism of second coming predictions"
 path = "/reasons-for-skepticims-of-second-coming-predictions/"
-updated = "2026-09-30"
+updated = "2020-10-12"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Early Mormonism and the Magic Worldview, D. Michael Quinn, footnote 108 on chiasmus"
 path = "/early-mormonism-quinn-footnote-108-chiasmus/"
-updated = "2026-09-30"
+updated = "2019-08-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

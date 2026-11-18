@@ -1,7 +1,7 @@
 +++
 title = "Truth-claim summaries and apologetics"
 path = "/truth-claim-summaries/"
-updated = "2026-09-30"
+updated = "2026-04-29"
 [extra]
 featuredimage = "/media/thomas_cole_hb_03.27.jpg"
 type = "resource"

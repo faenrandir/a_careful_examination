@@ -1,7 +1,7 @@
 +++
 title = "Transparency in the modern LDS Church"
 path = "/transparency-in-the-modern-lds-church/"
-updated = "2026-09-30"
+updated = "2023-02-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

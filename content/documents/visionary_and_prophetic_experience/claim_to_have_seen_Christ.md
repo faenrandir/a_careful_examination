@@ -1,7 +1,7 @@
 +++
 title = "Individuals in the past 100 years who claim to have seen Jesus Christ"
 path = "/individuals-claim-to-seen-christ/"
-updated = "2026-09-30"
+updated = "2021-07-13"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "The demand for certainty"
 path = "/the-demand-for-certainty-intellectual-vice/"
-updated = "2026-09-30"
+updated = "2017-09-25"
 [taxonomies]
 categories = [
     "other",

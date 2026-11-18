@@ -1,7 +1,7 @@
 +++
 title = "Report, chronicles, and presentation on LDS faith crises"
 path = "/2013-faith-crisis-study/"
-updated = "2026-09-30"
+updated = "2020-10-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

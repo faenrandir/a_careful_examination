@@ -1,7 +1,7 @@
 +++
 title = "Resources on 1800s marriage practices"
 path = "/resources-on-1800s-marriage-practices/"
-updated = "2026-09-30"
+updated = "2023-01-01"
 [taxonomies]
 categories = [
     "other",

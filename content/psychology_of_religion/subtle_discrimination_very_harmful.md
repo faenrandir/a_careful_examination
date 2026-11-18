@@ -1,7 +1,7 @@
 +++
 title = "Subtle discrimination as harmful as overt"
 path = "/subtle-discrimination-as-harmful-as-overt/"
-updated = "2026-09-30"
+updated = "2017-12-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

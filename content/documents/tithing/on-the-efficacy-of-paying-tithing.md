@@ -1,7 +1,7 @@
 +++
 title = "On the efficacy of paying tithing"
 path = "/efficacy-of-paying-tithing/"
-updated = "2026-09-30"
+updated = "2023-11-20"
 [taxonomies]
 categories = [
     "other",

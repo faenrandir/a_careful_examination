@@ -1,7 +1,7 @@
 +++
 title = "Never love your wives one hair's breadth further than they adorn the Gospel"
 path = "/never-love-wives-more-than-they-adorn-gospel/"
-updated = "2026-09-30"
+updated = "2017-05-16"
 [taxonomies]
 categories = [
     "other",

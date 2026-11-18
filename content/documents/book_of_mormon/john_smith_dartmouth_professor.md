@@ -1,7 +1,7 @@
 +++
 title = "Similarities between Dartmouth professor John Smith's writings and the Book of Mormon (astronatusaurus posts 1-10)"
 path = "/similarities-between-john-smiths-writings-and-bom/"
-updated = "2026-09-30"
+updated = "2023-02-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Colby Townsend on Joseph Smith’s Use of Adam Clarke in the Book of Mormon"
 path = "/townsend-js-using-clarke-in-bom-2025/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

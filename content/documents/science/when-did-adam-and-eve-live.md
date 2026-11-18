@@ -1,7 +1,7 @@
 +++
 title = "When did Adam and Eve live?"
 path = "/when-did-adam-and-eve-live/"
-updated = "2026-09-30"
+updated = "2022-08-20"
 [taxonomies]
 categories = [
     "doctrine-teachings",

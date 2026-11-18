@@ -1,7 +1,7 @@
 +++
 title = "Brigham Young sealed Martha Brotherton to himself with proxy"
 path = "/brigham-young-sealed-to-martha-brotherton/"
-updated = "2026-09-30"
+updated = "2022-10-20"
 [taxonomies]
 categories = [
     "other",

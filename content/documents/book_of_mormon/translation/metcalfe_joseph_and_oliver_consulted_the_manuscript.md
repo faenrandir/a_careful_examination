@@ -1,7 +1,7 @@
 +++
 title = "Brent Metcalfe: Joseph and Oliver were consulting the Book of Mormon manuscript"
 path = "/metcalfe-joseph-and-oliver-consulted-manuscript/"
-updated = "2026-09-30"
+updated = "2020-01-02"
 [taxonomies]
 categories = [
     "doctrine-teachings",

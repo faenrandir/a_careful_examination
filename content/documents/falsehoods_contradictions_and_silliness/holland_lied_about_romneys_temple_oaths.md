@@ -1,7 +1,7 @@
 +++
 title = "Did Holland Lie? Semantic analysis of Jeffrey R. Holland's discussion with John Sweeney about Mitt Romney's Temple Oaths"
 path = "/semantic-analysis-of-holland-john-sweeney-on-romney-temple-oaths/"
-updated = "2026-09-30"
+updated = "2019-01-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

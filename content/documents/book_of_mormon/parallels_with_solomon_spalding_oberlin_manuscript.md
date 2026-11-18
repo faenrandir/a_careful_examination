@@ -1,7 +1,7 @@
 +++
 title = "Book of Mormon parallels with Solomon Spalding's Oberlin Manuscript "
 path = "/bom-parallels-with-spalding-oberlin-manuscript/"
-updated = "2026-09-30"
+updated = "2022-04-25"
 [taxonomies]
 categories = [
     "doctrine-teachings",

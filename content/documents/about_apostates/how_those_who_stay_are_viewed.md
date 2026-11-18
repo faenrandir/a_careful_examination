@@ -1,7 +1,7 @@
 +++
 title = "Attitude towards those who do not believe but stay"
 path = "/how-those-who-stay-are-viewed/"
-updated = "2026-09-30"
+updated = "2018-08-31"
 [taxonomies]
 categories = [
     "other",

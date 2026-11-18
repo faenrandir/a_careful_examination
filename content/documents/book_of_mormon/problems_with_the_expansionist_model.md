@@ -1,7 +1,7 @@
 +++
 title = "Problems with the expansionist model"
 path = "/problems-with-the-expansionist-model/"
-updated = "2026-09-30"
+updated = "2018-10-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

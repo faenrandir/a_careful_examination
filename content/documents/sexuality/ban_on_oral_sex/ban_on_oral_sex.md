@@ -1,7 +1,7 @@
 +++
 title = "The LDS Church ban on oral sex"
 path = "/lds-church-ban-on-oral-sex/"
-updated = "2026-09-30"
+updated = "2022-05-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

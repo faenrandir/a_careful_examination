@@ -1,7 +1,7 @@
 +++
 title = "Martha Brotherton and the Five Ironies"
 path = "/martha-brotherton-and-the-five-ironies/"
-updated = "2026-09-30"
+updated = "2020-05-13"
 [extra]
 featuredimage = "/media/Simon_de_Vos_An_Allegory_of_the_Five_Senses_A_merry_company_in_an_interior.jpeg"
 type = "resource"

@@ -1,7 +1,7 @@
 +++
 title = "Letter from Stephen Blanchard to Ethan Smith"
 path = "/letter-from-stephen-blanchard-to-ethan-smith/"
-updated = "2026-09-30"
+updated = "2019-02-09"
 [taxonomies]
 categories = [
     "other",

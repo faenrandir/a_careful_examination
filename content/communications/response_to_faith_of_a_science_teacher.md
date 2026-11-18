@@ -1,7 +1,7 @@
 +++
 title = "Faith of a naturalist: response to “Faith of a Science Teacher” questions"
 path = "/faith-naturalist-response-faith-science-teacher-questions/"
-updated = "2026-09-30"
+updated = "2022-11-17"
 [extra]
 featuredimage = "/media/sun_over_earth.5091372229_ebca868ffd_o.jpg"
 type = "response"

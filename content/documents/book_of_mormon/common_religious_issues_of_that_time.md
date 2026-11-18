@@ -1,7 +1,7 @@
 +++
 title = "Common religious issues being discussed in an 1824 publication also found in the Book of Mormon"
 path = "/common-religious-issues-1824-the-christian-quaker-and-bom/"
-updated = "2026-09-30"
+updated = "2022-01-11"
 [taxonomies]
 categories = [
     "doctrine-teachings",

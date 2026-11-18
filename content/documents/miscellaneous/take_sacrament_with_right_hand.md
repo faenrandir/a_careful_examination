@@ -1,7 +1,7 @@
 +++
 title = "“Important to take the sacrament with the right hand”"
 path = "/important-to-take-sacrament-with-right-hand/"
-updated = "2026-09-30"
+updated = "2018-11-26"
 [taxonomies]
 categories = [
     "other",

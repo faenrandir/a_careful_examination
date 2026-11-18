@@ -1,7 +1,7 @@
 +++
 title = "Origins of the phrase: \"All truth may be circumscribed into one great whole\""
 path = "/origins-of-phrase-all-truth-may-be-circumscribed/"
-updated = "2026-09-30"
+updated = "2019-08-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

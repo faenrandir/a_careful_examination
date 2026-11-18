@@ -1,7 +1,7 @@
 +++
 title = "McConkie and Ostler argue against the seer stone"
 path = "/mcconkie-and-ostler-argue-against-the-seer-stone/"
-updated = "2026-09-30"
+updated = "2020-08-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

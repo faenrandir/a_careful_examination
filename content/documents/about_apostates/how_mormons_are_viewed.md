@@ -1,7 +1,7 @@
 +++
 title = "How Latter-day Saints are viewed by former Mormons"
 path = "/how-latter-day-saints-are-viewed-by-former-mormons/"
-updated = "2026-09-30"
+updated = "2019-03-15"
 [taxonomies]
 categories = [
     "other",

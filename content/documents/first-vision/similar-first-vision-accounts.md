@@ -1,7 +1,7 @@
 +++
 title = "Similar First Vision accounts"
 path = "/similar-first-vision-accounts/"
-updated = "2026-09-30"
+updated = "2024-02-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

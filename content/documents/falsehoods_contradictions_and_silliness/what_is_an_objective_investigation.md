@@ -1,7 +1,7 @@
 +++
 title = "An objective investigation"
 path = "/an-objective-investigation/"
-updated = "2026-09-30"
+updated = "2021-09-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

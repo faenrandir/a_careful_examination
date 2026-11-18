@@ -1,7 +1,7 @@
 +++
 title = "William Holmes Walker not sealed by JS to Olive Hovey Farr"
 path = "/william-holmes-walker-and-olive-hovey-farr/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

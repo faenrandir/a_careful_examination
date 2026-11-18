@@ -1,7 +1,7 @@
 +++
 title = "Asking experts about Miller et al. 2022"
 path = "/validating-miller-et-al-2022/"
-updated = "2026-09-30"
+updated = "2026-09-29"
 [taxonomies]
 categories = [
     "doctrine-teachings",

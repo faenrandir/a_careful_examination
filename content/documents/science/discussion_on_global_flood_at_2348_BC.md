@@ -1,7 +1,7 @@
 +++
 title = "Discussion on a global flood at 2348 BCE"
 path = "/discussion-global-flood-at-2348-bc/"
-updated = "2026-09-30"
+updated = "2016-12-28"
 [taxonomies]
 categories = [
     "other",

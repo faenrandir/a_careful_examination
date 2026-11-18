@@ -1,7 +1,7 @@
 +++
 title = "What to call the polygamy denials?"
 path = "/what-to-call-polygamy-denials/"
-updated = "2026-09-30"
+updated = "2026-04-04"
 [extra]
 doctype = "short-analysis"
 maintopic = "polygamy"

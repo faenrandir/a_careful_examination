@@ -1,7 +1,7 @@
 +++
 title = "On the existence of ghosts"
 path = "/on-the-existence-of-ghosts/"
-updated = "2026-09-30"
+updated = "2020-09-13"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Science is as substantive as religion in helping us to derive morality's ought"
 path = "/science-vs-religion-in-deriving-moralitys-ought/"
-updated = "2026-09-30"
+updated = "2023-05-22"
 [taxonomies]
 categories = [
     "other",

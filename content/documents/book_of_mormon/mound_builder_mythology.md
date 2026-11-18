@@ -1,7 +1,7 @@
 +++
 title = "The Book of Mormon as Mound Builder Mythology"
 path = "/bom-as-mound-builder-mythology/"
-updated = "2026-09-30"
+updated = "2018-11-13"
 [taxonomies]
 categories = [
     "doctrine-teachings",

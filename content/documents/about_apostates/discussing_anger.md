@@ -1,7 +1,7 @@
 +++
 title = "Former members discuss their anger"
 path = "/former-members-discuss-their-anger/"
-updated = "2026-09-30"
+updated = "2018-11-14"
 [taxonomies]
 categories = [
     "doctrine-teachings",

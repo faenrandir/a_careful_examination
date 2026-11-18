@@ -1,7 +1,7 @@
 +++
 title = "View of the Hebrews and Book of Mormon: Textual Comparison (ChatGPT Analysis)"
 path = "/voh-vs-bom-chatgpt-analysis/"
-updated = "2026-09-30"
+updated = "2026-09-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

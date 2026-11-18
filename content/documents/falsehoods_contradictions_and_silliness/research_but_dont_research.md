@@ -1,7 +1,7 @@
 +++
 title = "You should have known vs. be wary of critical sources"
 path = "/you-should-have-known-vs-be-wary-of-critical-sources/"
-updated = "2026-09-30"
+updated = "2019-03-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

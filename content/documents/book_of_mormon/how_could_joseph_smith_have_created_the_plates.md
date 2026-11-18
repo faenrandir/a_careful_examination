@@ -1,7 +1,7 @@
 +++
 title = "How could Joseph Smith have created the Golden Plates?"
 path = "/how-could-joseph-smith-created-plates/"
-updated = "2026-09-30"
+updated = "2021-07-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

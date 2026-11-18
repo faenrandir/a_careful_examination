@@ -1,7 +1,7 @@
 +++
 title = "Healings: Comparing James and Albert Talmage's stories"
 path = "/healings-comparing-james-and-albert-talmage-stories/"
-updated = "2026-09-30"
+updated = "2020-11-27"
 [taxonomies]
 categories = [
     "other",

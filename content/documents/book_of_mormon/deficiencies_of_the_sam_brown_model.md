@@ -1,7 +1,7 @@
 +++
 title = "Deficiencies in the Sam Brown model"
 path = "/deficiencies-in-the-sam-brown-model/"
-updated = "2026-09-30"
+updated = "2018-02-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

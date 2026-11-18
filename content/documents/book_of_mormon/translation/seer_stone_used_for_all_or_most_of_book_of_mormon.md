@@ -1,7 +1,7 @@
 +++
 title = "Eyewitnesses claiming the seer stone was used to translate the Book of Mormon"
 path = "/eyewitnesses-claiming-the-seer-stone-was-used/"
-updated = "2026-09-30"
+updated = "2021-03-31"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Critique of Richard and Pamela Price analysis of Martha Brotherton"
 path = "/critique-of-price-analysis-on-brotherton/"
-updated = "2026-09-30"
+updated = "2022-10-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",

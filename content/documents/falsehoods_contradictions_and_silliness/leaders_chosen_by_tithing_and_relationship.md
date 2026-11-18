@@ -1,7 +1,7 @@
 +++
 title = "Factors in LDS leadership selection"
 path = "/factors-in-lds-leadership-selection/"
-updated = "2026-09-30"
+updated = "2019-01-09"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith instructed others to destroy communication"
 path = "/joseph-smith-instructed-others-to-burn-communication/"
-updated = "2026-09-30"
+updated = "2023-09-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

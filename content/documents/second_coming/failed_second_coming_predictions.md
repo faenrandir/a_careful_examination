@@ -1,7 +1,7 @@
 +++
 title = "Second coming expectations in the early LDS Church"
 path = "/failed-second-coming-predictions-in-early-lds-church/"
-updated = "2026-09-30"
+updated = "2022-11-01"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "Zenos and the Allegory of the Olive Tree"
 path = "/examination-of-zenos/"
-updated = "2026-09-30"
+updated = "2018-09-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

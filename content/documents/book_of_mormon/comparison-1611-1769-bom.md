@@ -1,7 +1,7 @@
 +++
 title = "Errors represented across both 1611 and 1769 KJV"
 path = "/errors-represented-across-both-1611-and-1769-kjv/"
-updated = "2026-09-30"
+updated = "2018-10-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

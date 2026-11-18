@@ -1,7 +1,7 @@
 +++
 title = "Ellipsis in tithing statement of the 2013 Lorenzo Snow manual"
 path = "/ellipsis-in-lorenzo-snow-tithing-statement/"
-updated = "2026-09-30"
+updated = "2020-09-28"
 [taxonomies]
 categories = [
     "other",

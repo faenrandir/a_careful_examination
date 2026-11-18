@@ -1,7 +1,7 @@
 +++
 title = "Laurence's 1821 Book of Enoch may have been available in the US"
 path = "/laurence-1821-book-of-enoch-may-have-been-available/"
-updated = "2026-10-01"
+updated = "2025-02-17"
 [taxonomies]
 categories = [
     "doctrine-teachings",

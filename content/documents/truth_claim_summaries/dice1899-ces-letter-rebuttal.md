@@ -1,7 +1,7 @@
 +++
 title = "Sarah Allen's (dice1899) response to the CES Letter"
 path = "/dice1899-sarah-allen-response-to-ces-letter/"
-updated = "2026-09-30"
+updated = "2023-06-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

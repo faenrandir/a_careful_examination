@@ -1,7 +1,7 @@
 +++
 title = "The Proclamation on the Family: Scripture or Revelation?"
 path = "/proclamation-on-the-family-scripture-or-revelation/"
-updated = "2026-09-30"
+updated = "2022-07-29"
 [taxonomies]
 categories = [
     "other",

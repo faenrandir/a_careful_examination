@@ -1,7 +1,7 @@
 +++
 title = "What NOT to say to your LDS believing family members"
 path = "/julie-hanks-facebook-what-not-to-say-to-believers/"
-updated = "2026-09-30"
+updated = "2024-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

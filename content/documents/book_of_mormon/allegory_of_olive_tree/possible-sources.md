@@ -1,7 +1,7 @@
 +++
 title = "Potential sources for the Allegory of the Olive Tree"
 path = "/potential-sources-allegory-olive-tree/"
-updated = "2026-09-30"
+updated = "2026-04-04"
 [extra]
 doctype = "short-analysis"
 maintopic = "book-of-mormon"

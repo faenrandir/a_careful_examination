@@ -1,7 +1,7 @@
 +++
 title = "Excerpt: Sexuality in Joseph Smith's Plural Marriages"
 path = "/compton-sexuality-in-joseph-smiths-plural-marriages/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

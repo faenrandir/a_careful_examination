@@ -1,7 +1,7 @@
 +++
 title = "Stories of Acceptance"
 path = "/faith-transition-stories-of-acceptance/"
-updated = "2026-09-30"
+updated = "2020-11-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

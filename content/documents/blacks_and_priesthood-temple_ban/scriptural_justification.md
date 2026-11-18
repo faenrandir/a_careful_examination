@@ -1,7 +1,7 @@
 +++
 title = "The Pearl of Great Price provided justification for the priesthood ban"
 path = "/pogp-justification-for-priesthood-ban/"
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "doctrine-teachings",

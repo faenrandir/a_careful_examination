@@ -1,7 +1,7 @@
 +++
 title = "LDS scholar Greg Prince on the Book of Mormon"
 path = "/greg-prince-on-the-bom-sunstone-2018/"
-updated = "2026-09-30"
+updated = "2022-09-25"
 [taxonomies]
 categories = [
     "doctrine-teachings",

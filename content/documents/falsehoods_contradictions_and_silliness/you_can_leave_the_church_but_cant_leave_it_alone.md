@@ -1,7 +1,7 @@
 +++
 title = "You can leave the Church but you can't leave it alone"
 path = "/you-can-leave-the-church-but-you-cant-leave-it-alone/"
-updated = "2026-09-30"
+updated = "2026-05-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Archaeology of Cumorah"
 path = "/archaeology-of-cumorah/"
-updated = "2026-09-30"
+updated = "2026-04-04"
 [extra]
 doctype = "short-compilation"
 maintopic = "book-of-mormon"

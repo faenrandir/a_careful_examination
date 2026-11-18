@@ -1,7 +1,7 @@
 +++
 title = "How could Joseph Smith have composed the Book of Mormon?"
 path = "/how-could-joseph-smith-composed-bom/"
-updated = "2026-09-30"
+updated = "2024-02-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

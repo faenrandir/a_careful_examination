@@ -1,7 +1,7 @@
 +++
 title = "The Spirit of Discernment"
 path = "/the-spirit-of-discernment/"
-updated = "2026-09-30"
+updated = "2020-09-18"
 [taxonomies]
 categories = [
     "other",

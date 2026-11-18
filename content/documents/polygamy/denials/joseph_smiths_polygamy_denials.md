@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith's Polygamy Denials"
 path = "/joseph-smith-polygamy-denials/"
-updated = "2026-09-30"
+updated = "2025-11-16"
 [extra]
 featuredimage = "/media/1835-marriage-doc.png"
 type = "resource"

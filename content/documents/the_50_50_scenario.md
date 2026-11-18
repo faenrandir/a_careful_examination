@@ -1,6 +1,6 @@
 +++
 title = "The 50/50 Scenario"
-updated = "2026-09-30"
+updated = "2020-09-13"
 [extra]
 featuredimage = "/media/800px-Half_Dome_with_Eastern_Yosemite_Valley.jpg"
 type = "short-analysis"

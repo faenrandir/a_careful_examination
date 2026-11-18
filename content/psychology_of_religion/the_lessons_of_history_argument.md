@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on the lessons of history argument"
 path = "/beit-hallahmi-on-the-lessons-of-history-argument/"
-updated = "2026-09-30"
+updated = "2018-02-22"
 [taxonomies]
 categories = [
     "other",

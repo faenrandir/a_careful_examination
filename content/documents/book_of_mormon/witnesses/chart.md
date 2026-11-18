@@ -1,7 +1,7 @@
 +++
 title = "Chart of Book of Mormon Translation Witness Statements"
 path = "/chart-of-bom-translation-witness-statements/"
-updated = "2026-09-30"
+updated = "2021-02-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

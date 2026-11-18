@@ -1,7 +1,7 @@
 +++
 title = "Religious interest and capability suggested by Joseph Smith's 1832 statement and 1830 Colseville letters"
 path = "/religious-interest-and-capability-from-1832-statement/"
-updated = "2026-09-30"
+updated = "2022-11-28"
 [taxonomies]
 categories = [
     "doctrine-teachings",

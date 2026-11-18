@@ -2,7 +2,7 @@
 title = "Hermetically Sealed Systems in LDS Thought"
 path = "/hermetically-sealed-systems-in-lds-thought/"
 toc = "true"
-updated = "2026-09-30"
+updated = "2025-09-24"
 [taxonomies]
 categories = [
     "other",

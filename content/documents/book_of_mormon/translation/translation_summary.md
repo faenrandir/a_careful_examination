@@ -1,7 +1,7 @@
 +++
 title = "The Book of Mormon translation process in summary"
 path = "/bom-translation-process-summary/"
-updated = "2026-09-30"
+updated = "2019-10-16"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Kara Cooney on Muhlestein"
 path = "/cooney-on-muhlestein/"
-updated = "2026-10-01"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

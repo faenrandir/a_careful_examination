@@ -1,7 +1,7 @@
 +++
 title = "Examples of bad science spread by Mormons"
 path = "/bad-science-spread-by-mormons/"
-updated = "2026-09-30"
+updated = "2017-05-25"
 [taxonomies]
 categories = [
     "other",

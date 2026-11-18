@@ -1,7 +1,7 @@
 +++
 title = "Time and Seasons February 1, 1844 Notice"
 path = "/times-and-seasons-feb1-1844-notice/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

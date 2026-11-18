@@ -1,7 +1,7 @@
 +++
 title = "Surprise as a rubric for deciding communication from the Holy Ghost"
 path = "/surprise-as-rubric-for-deciding-holy-ghost/"
-updated = "2026-09-30"
+updated = "2021-12-09"
 [taxonomies]
 categories = [
     "other",

@@ -1,7 +1,7 @@
 +++
 title = "How likely was trito-Isaiah to have been avoided at random in the Book of Mormon translation?"
 path = "/how-likely-trito-isaiah-avoided-in-bom/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Hugh Nibley discovers his daughter left the Church"
 path = "/martha-beck-hugh-nibley-cant-leave-it-alone/"
-updated = "2026-09-30"
+updated = "2022-09-05"
 [taxonomies]
 categories = [
     "other",

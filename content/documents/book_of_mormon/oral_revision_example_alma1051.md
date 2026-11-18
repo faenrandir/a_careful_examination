@@ -1,7 +1,7 @@
 +++
 title = "Bill Davis: Evidence of Oral Revision during the Dictation of the Book of Mormon"
 path = "/bill-davis-collection-of-evidences-of-oral-revision/"
-updated = "2026-09-30"
+updated = "2021-12-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

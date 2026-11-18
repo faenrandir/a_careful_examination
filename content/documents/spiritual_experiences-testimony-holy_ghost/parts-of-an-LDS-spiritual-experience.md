@@ -1,7 +1,7 @@
 +++
 title = "The parts of an LDS spiritual experience"
 path = "/parts-of-an-lds-spiritual-experience/"
-updated = "2026-09-30"
+updated = "2022-07-12"
 [taxonomies]
 categories = [
     "other",

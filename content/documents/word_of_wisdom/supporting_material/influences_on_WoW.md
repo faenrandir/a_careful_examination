@@ -1,7 +1,7 @@
 +++
 title = "Influences on the Word of Wisdom: Hot Drinks"
 path = "/influences-on-word-of-wisdom-notes-on-hot-drinks/"
-updated = "2026-09-30"
+updated = "2026-02-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

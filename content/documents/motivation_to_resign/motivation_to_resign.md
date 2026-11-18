@@ -1,7 +1,7 @@
 +++
 title = "Motivation to resign from the LDS Church"
 path = "/motivation-to-resign/"
-updated = "2026-09-30"
+updated = "2022-11-10"
 [taxonomies]
 categories = [
     "doctrine-teachings",

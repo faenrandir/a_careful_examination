@@ -1,7 +1,7 @@
 +++
 title = "Subordination of women to men in the LDS Church"
 path = "/subordination-of-women-to-men-in-the-lds-church/"
-updated = "2026-09-30"
+updated = "2024-03-23"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Stephen Smoot acknowledges King James Version errors in the Book of Mormon"
 path = "/smoot-king-james-errors/"
-updated = "2026-09-30"
+updated = "2023-03-06"
 [taxonomies]
 categories = [
     "doctrine-teachings",

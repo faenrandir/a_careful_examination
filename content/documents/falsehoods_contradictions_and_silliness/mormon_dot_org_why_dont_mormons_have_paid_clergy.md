@@ -1,7 +1,7 @@
 +++
 title = "Why don't Mormons have paid clergy page removed"
 path = "/why-dont-mormons-have-paid-clergy-page-removed/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

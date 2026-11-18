@@ -1,7 +1,7 @@
 +++
 title = "Book of Abraham analogy: Thomas Edison biography from a TV manual in Korean"
 path = "/book-of-abraham-thomas-edison-biography-tv-manual/"
-updated = "2026-10-01"
+updated = "2023-08-01"
 [taxonomies]
 categories = [
     "doctrine-teachings",

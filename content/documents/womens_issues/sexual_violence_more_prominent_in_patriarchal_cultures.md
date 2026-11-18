@@ -1,7 +1,7 @@
 +++
 title = "Sexual violence more prominent in patriarchal cultures"
 path = "/sexual-violence-more-prominent-in-patriarchal-cultures/"
-updated = "2026-09-30"
+updated = "2017-10-28"
 [taxonomies]
 categories = [
     "other",

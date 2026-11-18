@@ -1,7 +1,7 @@
 +++
 title = "Problems with Christianity from a former LDS perspective"
 path = "/problems-with-christianity-from-former-lds-perspective/"
-updated = "2026-09-30"
+updated = "2024-10-08"
 [taxonomies]
 categories = [
     "other",

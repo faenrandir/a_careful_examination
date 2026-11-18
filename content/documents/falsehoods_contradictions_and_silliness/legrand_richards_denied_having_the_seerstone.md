@@ -1,7 +1,7 @@
 +++
 title = "Legrand Richards denied the existence of the seerstone"
 path = "/legrand-richards-denied-existence-of-seerstone/"
-updated = "2026-09-30"
+updated = "2023-09-19"
 [taxonomies]
 categories = [
     "doctrine-teachings",

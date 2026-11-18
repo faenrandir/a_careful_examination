@@ -1,7 +1,7 @@
 +++
 title = "The Missouri Garden of Eden Problem"
 path = "/missouri-garden-of-eden-problem/"
-updated = "2026-09-30"
+updated = "2023-01-24"
 [taxonomies]
 categories = [
     "doctrine-teachings",

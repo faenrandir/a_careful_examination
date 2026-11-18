@@ -1,7 +1,7 @@
 +++
 title = "Endorsements"
 path = "/endorsements/"
-updated = "2026-09-30"
+updated = "2020-11-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

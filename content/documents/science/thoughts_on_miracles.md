@@ -1,7 +1,7 @@
 +++
 title = "Believing in God based on miracles"
 path = "/believing-in-god-based-on-miracles/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

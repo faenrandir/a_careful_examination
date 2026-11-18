@@ -1,7 +1,7 @@
 +++
 title = "Did Helen Mar Kimball misunderstand the promises Joseph Smith made to her?"
 path = "/did-helen-mar-kimball-misunderstand/"
-updated = "2026-09-30"
+updated = "2021-10-21"
 [taxonomies]
 categories = [
     "doctrine-teachings",

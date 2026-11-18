@@ -1,7 +1,7 @@
 +++
 title = "Arguing that Joseph Smith did practice polygamy"
 path = "/arguing-that-joseph-smith-did-practice-polygamy/"
-updated = "2026-09-30"
+updated = "2020-09-07"
 [taxonomies]
 categories = [
     "doctrine-teachings",

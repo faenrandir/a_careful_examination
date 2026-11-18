@@ -1,7 +1,7 @@
 +++
 title = "Comparison of the Narrative of Zosimus with the Bible"
 path = "/narrative-of-zosimus-bible-comparison/"
-updated = "2026-09-30"
+updated = "2024-09-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

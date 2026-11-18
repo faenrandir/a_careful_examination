@@ -1,7 +1,7 @@
 +++
 title = "Statements related to Book of Mormon geography"
 path = "/statements-related-to-bom-geography/"
-updated = "2026-09-30"
+updated = "2019-01-30"
 [taxonomies]
 categories = [
     "doctrine-teachings",

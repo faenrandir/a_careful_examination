@@ -1,7 +1,7 @@
 +++
 title = "George McCready Price inspired the 'No death before the Fall' teachings of Joseph Fielding Smith"
 path = "/george-mccready-price-inspired-ndbf/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "Reasons to discount aspects of Emma's testimony of the creation of the Book of Mormon"
 path = "/reasons-to-discount-emmas-bom-testimony/"
-updated = "2026-09-30"
+updated = "2025-10-09"
 [taxonomies]
 categories = [
     "doctrine-teachings",

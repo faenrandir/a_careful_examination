@@ -1,7 +1,7 @@
 +++
 title = "Millenial Star denial, August 1842"
 path = "/millenial-star-denial-aug-1842/"
-updated = "2026-09-30"
+updated = "2022-10-23"
 [taxonomies]
 categories = [
     "doctrine-teachings",

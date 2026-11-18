@@ -1,7 +1,7 @@
 +++
 title = "Jaredite barges and submarines in the early 1800s"
 path = "/jaredite-barges-and-submarines-in-the-early-1800s/"
-updated = "2026-09-30"
+updated = "2017-10-03"
 [taxonomies]
 categories = [
     "doctrine-teachings",

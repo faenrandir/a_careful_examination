@@ -1,7 +1,7 @@
 +++
 title = "Place names near or somewhat near Joseph Smith"
 path = "/place-names-near-joseph-smith/"
-updated = "2026-09-30"
+updated = "2020-10-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

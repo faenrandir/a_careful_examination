@@ -1,7 +1,7 @@
 +++
 title = "Links to Hales's footnoted denials"
 path = "/links-to-hales-footnoted-denials/"
-updated = "2026-09-30"
+updated = "2018-09-12"
 [taxonomies]
 categories = [
     "other",

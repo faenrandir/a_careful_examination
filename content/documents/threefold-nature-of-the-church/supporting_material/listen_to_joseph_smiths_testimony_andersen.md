@@ -1,7 +1,7 @@
 +++
 title = "Listen to a recording of your testimony"
 path = "/listen-to-a-recording-of-your-testimony/"
-updated = "2026-09-30"
+updated = "2017-06-22"
 [taxonomies]
 categories = [
     "doctrine-teachings",

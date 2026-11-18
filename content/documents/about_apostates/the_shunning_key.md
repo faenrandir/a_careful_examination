@@ -1,7 +1,7 @@
 +++
 title = "The Shunning Key: Whom Latter-day Saints shun and why"
 path = "/the-shunning-key/"
-updated = "2026-09-30"
+updated = "2023-08-01"
 [extra]
 featuredimage = "/media/Kernel_Machine.half2_.png"
 type = "resource"

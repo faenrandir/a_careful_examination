@@ -1,7 +1,7 @@
 +++
 title = "Those who knew about plural marriage but not sealed"
 path = "/knew-about-plural-marriage-but-not-sealed/"
-updated = "2026-09-30"
+updated = "2018-09-15"
 [taxonomies]
 categories = [
     "doctrine-teachings",

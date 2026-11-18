@@ -1,7 +1,7 @@
 +++
 title = "Luna Lindsey on polarization of cultic studies"
 path = "/luna-lindsey-on-polarization-of-cultic-studies/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

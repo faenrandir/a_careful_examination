@@ -1,7 +1,7 @@
 +++
 title = "A secular prophecy for our time"
 path = "/secular-prophecy-of-the-end-times/"
-updated = "2026-09-30"
+updated = "2020-10-12"
 [taxonomies]
 categories = [
     "other",

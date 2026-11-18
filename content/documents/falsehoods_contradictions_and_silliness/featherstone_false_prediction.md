@@ -1,7 +1,7 @@
 +++
 title = "Featherstone's vision of the South"
 path = "/featherstones-vision-of-the-south/"
-updated = "2026-09-30"
+updated = "2018-04-02"
 [taxonomies]
 categories = [
     "other",

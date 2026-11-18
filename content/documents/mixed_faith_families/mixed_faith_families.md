@@ -1,7 +1,7 @@
 +++
 title = "Key principles to building bridges of understanding"
 path = "/building-bridges-of-understanding/"
-updated = "2026-09-30"
+updated = "2018-11-06"
 [taxonomies]
 categories = [
     "other",

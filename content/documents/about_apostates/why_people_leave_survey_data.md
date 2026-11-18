@@ -1,7 +1,7 @@
 +++
 title = "Why do people leave the LDS Church?"
 path = "/why-do-people-leave-the-lds-church/"
-updated = "2026-09-30"
+updated = "2023-08-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

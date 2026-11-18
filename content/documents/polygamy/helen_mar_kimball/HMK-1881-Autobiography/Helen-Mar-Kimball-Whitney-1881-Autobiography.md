@@ -1,7 +1,7 @@
 +++
 title = "Helen Mar Kimball Whitney 1881 Autobiography"
 path = "/helen-mar-kimball-whitney-1881-autobiography/"
-updated = "2026-09-30"
+updated = "2026-04-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

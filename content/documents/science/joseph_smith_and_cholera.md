@@ -1,7 +1,7 @@
 +++
 title = "Joseph Smith's cure for cholera"
 path = "/joseph-smith-cure-for-cholera/"
-updated = "2026-09-30"
+updated = "2018-07-27"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "The Divine Visitor Problem: Objectivity, intersubjective identity, and identification"
 path = "/divine-visitor-identity-problem/"
-updated = "2026-09-30"
+updated = "2026-08-11"
 [taxonomies]
 categories = [
     "other",

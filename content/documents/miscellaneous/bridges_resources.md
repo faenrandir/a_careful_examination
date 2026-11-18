@@ -1,7 +1,7 @@
 +++
 title = "Resources related to David Ostler's book “Bridges: Ministering to Those Who Question”"
 path = "/bridges-resources/"
-updated = "2026-09-30"
+updated = "2024-05-05"
 [taxonomies]
 categories = [
     "doctrine-teachings",

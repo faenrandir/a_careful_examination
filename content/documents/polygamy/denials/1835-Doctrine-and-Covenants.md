@@ -1,7 +1,7 @@
 +++
 title = "1835 Doctrine and Covenants 101:4"
 path = "/1835-doctrine-and-covenants-101-4/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "doctrine-teachings",

@@ -1,7 +1,7 @@
 +++
 title = "The All Powerful Partition Algorithm"
 path = "/the-all-powerful-partition-algorithm/"
-updated = "2026-09-30"
+updated = "2019-10-15"
 [taxonomies]
 categories = [
     "other",

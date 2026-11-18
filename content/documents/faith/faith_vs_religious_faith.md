@@ -1,7 +1,7 @@
 +++
 title = "Confidence faith vs. religious faith: personal reflections on faith, hope, and love"
 path = "/faith-vs-religious-faith/"
-updated = "2026-09-30"
+updated = "2023-01-10"
 [taxonomies]
 categories = [
     "other",

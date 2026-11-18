@@ -1,7 +1,7 @@
 +++
 title = "Beit-Hallahmi on religiously inspired altruism"
 path = "/beit-hallahmi-on-religiously-inspired-altruism/"
-updated = "2026-09-30"
+updated = "2017-12-08"
 [taxonomies]
 categories = [
     "doctrine-teachings",

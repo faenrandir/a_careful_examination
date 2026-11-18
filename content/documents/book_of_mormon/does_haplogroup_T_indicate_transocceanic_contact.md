@@ -1,7 +1,7 @@
 +++
 title = "Does Haplogroup T indicate transoceanic contact?"
 path = "/does-haplogroup-t-indicate-transoceanic-contact/"
-updated = "2026-09-30"
+updated = "2018-07-14"
 [taxonomies]
 categories = [
     "doctrine-teachings",

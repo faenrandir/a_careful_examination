@@ -1,7 +1,7 @@
 +++
 title = "Most members don't seem to care about Church issues"
 path = "/most-members-dont-seem-to-care-about-church-issues/"
-updated = "2026-09-30"
+updated = "2018-09-04"
 [taxonomies]
 categories = [
     "other",

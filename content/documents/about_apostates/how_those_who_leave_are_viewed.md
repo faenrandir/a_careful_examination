@@ -1,7 +1,7 @@
 +++
 title = "How those who leave the LDS Church are viewed"
 path = "/how-those-who-leave-are-viewed/"
-updated = "2026-09-30"
+updated = "2025-05-15"
 [extra]
 featuredimage = "/media/degas-BelleliFamily1862.jpg"
 type = "resource"

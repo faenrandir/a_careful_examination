@@ -1,7 +1,7 @@
 +++
 title = "The First Colesville Letter: Transcript and Biblical allusions"
 path = "/the-first-colesville-letter-transcript-and-allusions/"
-updated = "2026-09-30"
+updated = "2021-07-18"
 [taxonomies]
 categories = [
     "doctrine-teachings",

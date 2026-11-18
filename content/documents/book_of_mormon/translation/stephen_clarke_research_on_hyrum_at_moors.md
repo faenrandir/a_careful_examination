@@ -1,7 +1,7 @@
 +++
 title = "Stephen Clarke's notes on Hyrum Smith at Moor's Charity School"
 path = "/stephen-clarke-notes-on-hryum-smith-at-moors/"
-updated = "2026-09-30"
+updated = "2024-10-24"
 [taxonomies]
 categories = [
     "other",

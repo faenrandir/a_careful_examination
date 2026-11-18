@@ -1,7 +1,7 @@
 +++
 title = "The LDS practice of soaking is real"
 path = "/lds-soaking-is-real/"
-updated = "2026-09-30"
+updated = "2023-03-09"
 [taxonomies]
 categories = [
     "other",
