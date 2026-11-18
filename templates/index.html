@@ -66,7 +66,7 @@
     <h2>Recently Updated</h2>
     <ul class="resource-list">
       {% set count = 0 %}
-      {% for page in section.pages | sort(attribute="updated", reverse=true) %}
+      {% for page in section.pages | sort(attribute="updated") | reverse %}
         {% if count < 8 %}
         <li class="resource-item">
           <a href="{{ page.permalink | safe }}">{{ page.title }}</a>

@@ -24,8 +24,27 @@ PATH_MAP = {
     "content/secular_humanism/": "secular_humanism/",
 }
 
-# The migration commit date — we find the last content change BEFORE this date.
+# The Jekyll-to-Zola migration commit (file moves, not content changes).
 MIGRATION_COMMIT = "fb4e0b1c"
+
+# Bulk commits that rewrote paths mechanically in many files without changing
+# what the articles say. They never count as an update.
+MECHANICAL_COMMITS = (
+    MIGRATION_COMMIT,
+    "4fd5ab99",  # 2026-04-04 fix quoting in link shortcodes after the migration
+    "1654c904",  # 2026-08-25 add /a_careful_examination prefix to media paths
+    "edab4be3",  # 2019-01-10 make many internal links relative
+    "e5e3f65a",  # 2026-08-23 convert {{ link() }} and {{ img() }} shortcodes for new Zola
+)
+
+# Leading front matter: TOML (+++) now, YAML (---) before the Zola migration.
+_FRONT_MATTER = re.compile(r"^\s*(\+\+\+|---)\n.*?\n\1[ \t]*(\n|$)", re.DOTALL)
+
+# Zola link shortcode, replaced by plain Markdown links in e5e3f65a (2026-08-23).
+# Normalized as well in case a later commit finished converting a file.
+_LINK_SHORTCODE = re.compile(
+    r'\{\{\s*link\(\s*text\s*=\s*"((?:[^"\\]|\\.)*)"\s*,\s*path\s*=\s*"([^"]*)"\s*\)\s*\}\}'
+)
 
 
 def get_original_path(content_path: str) -> str:
@@ -47,46 +66,65 @@ def get_original_path(content_path: str) -> str:
     return content_path
 
 
-def get_last_commit_date(orig_path: str, content_path: str) -> str | None:
-    """Get the last commit date for a file in YYYY-MM-DD format.
+def _body(text: str) -> str:
+    """Return the article text in a form that changes only when the article
+    itself changes.
 
-    Walks the full history of the file across both the original (pre-migration)
-    path and the current content path, newest first, and returns the date of the
-    most recent commit that actually changed the file's content. Commits that
-    only touched the `updated` front-matter line (self-stamping from a previous
-    release) and the migration commit itself are skipped.
+    Front matter is dropped, so re-tagging or re-categorizing a page is not an
+    update. Two bulk mechanical rewrites are undone so they do not count either:
+    the `{{ link() }}` shortcode conversion and the lds.org ->
+    churchofjesuschrist.org domain swap. Blank lines and trailing whitespace are
+    ignored.
+    """
+    text = _FRONT_MATTER.sub("", text, count=1)
+    text = _LINK_SHORTCODE.sub(r"[\1](\2)", text)
+    text = text.replace("churchofjesuschrist.org", "lds.org")
+    return "\n".join(line.rstrip() for line in text.splitlines() if line.strip())
+
+
+def _file_at(commit_hash: str, *paths: str) -> str | None:
+    """File contents at a commit, trying each path in turn; None if absent."""
+    for path in paths:
+        result = subprocess.run(
+            ["git", "show", f"{commit_hash}:{path}"],
+            capture_output=True, text=True
+        )
+        if result.returncode == 0:
+            return result.stdout
+    return None
+
+
+def get_last_commit_date(orig_path: str, content_path: str) -> str | None:
+    """Date (YYYY-MM-DD) of the most recent commit that changed the article text.
+
+    Walks the file's history across both the original (pre-migration) path and
+    the current content path, newest first, and compares each version's body
+    with the version before it. Commits that changed only front matter, and the
+    commits in MECHANICAL_COMMITS, are skipped.
     """
     try:
         result = subprocess.run(
-            ["git", "log", "--format=%H %ci", "--", orig_path, content_path],
-            capture_output=True, text=True, check=True
-        )
-        for line in result.stdout.strip().splitlines():
-            commit_hash, commit_date = line.split()[:2]
-            # Skip the migration commit itself (file move, not a content change).
-            if commit_hash.startswith(MIGRATION_COMMIT):
-                continue
-            # Skip commits that only re-stamped the `updated` front-matter line.
-            if _only_updated_line_changed(commit_hash, orig_path, content_path):
-                continue
-            # Parse: "2026-04-04 15:00:00 -0600"
-            return commit_date.split()[0]
-        return None
-    except subprocess.CalledProcessError:
-        return None
-
-
-def _only_updated_line_changed(commit_hash: str, orig_path: str, content_path: str) -> bool:
-    """True if the commit's diff for this file only touches the `updated`
-    front-matter line (plus surrounding blank lines)."""
-    try:
-        result = subprocess.run(
-            ["git", "show", "--format=", commit_hash, "--", orig_path, content_path],
+            ["git", "log", "--format=%H %cs", "--", orig_path, content_path],
             capture_output=True, text=True, check=True
         )
     except subprocess.CalledProcessError:
-        return False
-    return not _contains_substantive_change(result.stdout)
+        return None
+
+    versions = []  # (hash, date, body or None), newest first
+    for line in result.stdout.split("\n"):
+        if not line.strip():
+            continue
+        commit_hash, commit_date = line.split()[:2]
+        text = _file_at(commit_hash, content_path, orig_path)
+        versions.append((commit_hash, commit_date, None if text is None else _body(text)))
+
+    for i, (commit_hash, commit_date, body) in enumerate(versions):
+        if body is None or commit_hash.startswith(MECHANICAL_COMMITS):
+            continue
+        previous = next((v[2] for v in versions[i + 1:] if v[2] is not None), None)
+        if previous is None or previous != body:
+            return commit_date
+    return None
 
 
 def update_front_matter(filepath: str, date: str) -> bool:
@@ -132,52 +170,37 @@ def update_front_matter(filepath: str, date: str) -> bool:
             # Empty front matter
             new_top = f'updated = "{date}"\n'
 
-    new_fm = new_top.rstrip("\n") + ("\n" + table_part if table_part else "") + "\n"
+    # Reassemble without adding or removing surrounding blank lines, so
+    # repeated runs leave the rest of the front matter byte-for-byte unchanged.
+    new_fm = new_top + ("\n" + table_part if table_part else "")
     new_content = content.replace(fm_content, new_fm, 1)
     open(filepath, "w").write(new_content)
     return True
 
 
 def has_uncommitted_changes(filepath: str) -> bool:
-    """True if the file has real (non-`updated`-line) differences from HEAD.
+    """True if the working copy's article text differs from HEAD.
 
-    A difference that consists only of the `updated` front-matter line is the
-    script's own prior output, not a user edit, so it does not count.
+    Front-matter-only edits (including this script's own `updated` line) do not
+    count. Untracked files count as changed.
     """
     try:
         result = subprocess.run(
             ["git", "status", "--porcelain", "--", filepath],
             capture_output=True, text=True, check=True
         )
-        status_line = result.stdout.strip()
-        if not status_line:
-            return False
-        # Untracked/new file: nothing in HEAD to compare against.
-        if status_line.startswith("??"):
-            return True
-        # Any substantive change in the working-tree diff counts.
-        diff_result = subprocess.run(
-            ["git", "diff", "HEAD", "--", filepath],
-            capture_output=True, text=True, check=True
-        )
-        return _contains_substantive_change(diff_result.stdout)
     except subprocess.CalledProcessError:
         return False
-
-
-def _contains_substantive_change(diff_text: str) -> bool:
-    """True if a unified diff has any +/- line beyond the `updated` front-matter
-    line (and surrounding blank lines)."""
-    for line in diff_text.splitlines():
-        if line.startswith("+++") or line.startswith("---") or line.startswith("@@") \
-                or line.startswith("diff ") or line.startswith("index ") \
-                or line.startswith("new file") or line.startswith("deleted file"):
-            continue
-        if line.startswith("+") or line.startswith("-"):
-            body = line[1:].strip()
-            if body and not body.startswith("updated"):
-                return True
-    return False
+    status_line = result.stdout.strip()
+    if not status_line:
+        return False
+    if status_line.startswith("??"):
+        return True
+    head_text = _file_at("HEAD", filepath)
+    if head_text is None:
+        return True
+    with open(filepath) as f:
+        return _body(f.read()) != _body(head_text)
 
 
 def main():
